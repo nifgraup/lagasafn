@@ -12,10 +12,11 @@ h2. Lög um gjaldmiðil Íslands
 ■ *2. gr.* Seðlabanki Íslands hefur einkarétt til að láta gera og gefa út peningaseðla og láta slá og gefa út peninga úr málmi.
 ■ *3. gr.* Peningaseðlar þeir, sem Seðlabanki Íslands lætur gera og gefur út, og peningar þeir, sem hann lætur slá og gefur út, skulu vera lögeyrir í allar greiðslur hér á landi með fullu ákvæðisverði.
 ■ *4. gr.* Ráðherra ákveður, að tillögu Seðlabanka Íslands, gerð, lögun, útlit og ákvæðisverð peningaseðla þeirra, sem bankinn lætur gera og gefur út, og skal birta auglýsingu um það efni.
-■ *5. gr.* Seðlabanki Íslands skal slá peninga úr málmi (mynt), er fullnægi eðlilegri þörf á skiptimynt á hverjum tíma.
- □ Ráðherra skal, að tillögu bankans, ákveða ákvæðisverð peninga þeirra, sem slá skal, svo og gerð, þunga, stærð og málmblöndu, og skal birt auglýsing um það efni.
+■ *5. gr.* Seðlabanki Íslands skal slá peninga úr málmi (mynt), er fullnægi eðlilegri þörf á skiptimynt á hverjum tíma. [Jafnframt er bankanum heimilt, með leyfi ráðherra, að slá sérstaka tilefnismynt samkvæmt lögum um Seðlabanka Íslands.][^1)^]
+ □ Ráðherra skal, að tillögu bankans, ákveða ákvæðisverð peninga þeirra, sem slá skal, svo og gerð, þunga, stærð og málmblöndu, og skal birt auglýsing[^2)^] um það efni.
  □ Peningar þessir skulu það rétt slegnir, að mismunur á þunga einstakra peninga, sem eiga að hafa sömu þyngd, skal eigi nema meira en einum af hundraði.
-■ *6. gr.* Eigi eru aðrir en bankar og sparisjóðir skyldugir að taka við greiðslu í einu á meira fé en 500 krónum í slegnum peningum.
+    _[^1)^]_"L. 81/2000, 1. gr.":/altext/stjt/2000.081.html [^2)^]Augl. 45/2000.
+ ■ *6. gr.* Eigi eru aðrir en bankar og sparisjóðir skyldugir að taka við greiðslu í einu á meira fé en 500 krónum í slegnum peningum.
 ■ *7. gr.* Peningaseðlar, sem eru svo skemmdir, að númer þeirra og ákvæðisverð verður eigi örugglega greint, eru eigi lögmætur gjaldmiðill.
  □ Slegnir peningar, sem svo eru slitnir eða skemmdir, að áletranir á þeim eru eigi vel læsilegar, teljast ekki lögmætur gjaldmiðill.
  □ Ákveða má með reglugerð, sem sett skal af ráðherra, að Seðlabanki Íslands megi þó leysa slíka seðla og slegna peninga til sín með fullu verði eða hluta af verði.

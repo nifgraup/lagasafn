@@ -48,11 +48,11 @@ h2. Lög um áhafnir íslenskra kaupskipa
  *SKIP UNDIR 200 BRL. Í STRANDSIGLINGUM*
 
 
-*STÆRÐ*
+STÆRÐ
 
-*SKIPSTJÓRI*
+SKIPSTJÓRI
 
-*STÝRIMAÐUR*
+STÝRIMAÐUR
 
 0 - 30 brl.
 
@@ -77,74 +77,108 @@ STCW regla II/3
 *SKIP AF ÓTAKMARKAÐRI STÆRÐ. FARSVIÐ ÓTAKMARKAÐ.*
 
 
-<table>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<tbody>
-<tr class="odd">
-<td align="left">*STÆRÐ*</td>
-<td align="left">*SKIPSTJÓRI*</td>
-<td align="left">*YFIRSTÝRIMAÐUR*</td>
-<td align="left">*UNDIRSTÝRIMENN*</td>
-</tr>
-<tr class="even">
-<td align="left">ótakmörkuð</td>
-<td align="left">3. stig + siglingatími</td>
-<td align="left">3. stig + siglingatími</td>
-<td align="left">2. stig + siglingatími</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left">STCW regla II/2</td>
-<td align="left">STCW regla II/2</td>
-<td align="left">STCW regla II/4</td>
-</tr>
-</tbody>
-</table>
+STÆRÐ
+
+SKIPSTJÓRI
+
+YFIRSTÝRI-
+
+UNDIRSTÝRI-
+
+MAÐUR
+
+MENN
+
+3. stig +
+
+3. stig +
+
+2. stig +
+
+ótak-
+
+siglingatími
+
+siglingatími
+
+siglingatími
+
+mörkuð
+
+STCW regla II/2
+
+STCW regla II/2
+
+STCW regla II/4
 
 *VÉLFRÆÐINGAR OG VÉLSTJÓRAR*
 
 
-<table>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<tbody>
-<tr class="odd">
-<td align="left">*STÆRÐ AÐALVÉLAR*</td>
-<td align="left">*YFIRVÉLSTJÓRI*</td>
-<td align="left">*1. VÉLSTJÓRI*</td>
-<td align="left">*AÐRIR UNDIRVÉLSTJÓRAR*</td>
-</tr>
-<tr class="even">
-<td align="left">750 - 2999 KW</td>
-<td align="left">vélfræðingur + siglingatími</td>
-<td align="left">vélfræðingur+ siglingatími</td>
-<td align="left"></td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left">STCW regla III/3</td>
-<td align="left">STCW regla III/3</td>
-<td align="left">3. stig + siglingatími</td>
-</tr>
-<tr class="even">
-<td align="left">&gt;3000 KW</td>
-<td align="left">vélfræðingur + siglingatími</td>
-<td align="left">vélfræðingur + siglingatími</td>
-<td align="left">STCW regla III/4</td>
-</tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left">STCW regla III/2</td>
-<td align="left">STCW regla III/2</td>
-<td align="left">vaktstjóri í vél</td>
-</tr>
-</tbody>
-</table>
+STÆRÐ
+
+YFIRVÉL-
+
+1. VÉL-
+
+AÐRIR UNDIR-
+
+AÐALVÉLAR
+
+STJÓRI
+
+STJÓRI
+
+VÉLSTJÓRAR
+
+750 - 
+
+vélfræðingur
+
+vélfræðingur
+
+2999 KW
+
++ siglingatími
+
++ siglingatími
+
+3. stig +
+
+STCW regla
+
+STCW regla
+
+siglingatími
+
+III/3
+
+III/3
+
+STCW regla
+
+&gt;3000 KW
+
+vélfræðingur
+
+vélfræðingur
+
+III/4
+
++ siglingatími
+
++ siglingatími
+
+vaktstjóri
+
+STCW regla
+
+STCW regla
+
+í vél
+
+III/2
+
+III/2
 
 ■ *7. gr.* Kaupskip, önnur en farþegaskip, þar sem krafist er loftskeytamanna samkvæmt alþjóðareglum, mega sigla án loftskeytamanns enda séu þau búin samkvæmt GMDSS-fjarskiptakerfinu og tveir skipstjórnarmenn séu handhafar gilds talstöðvarskírteinis.
 ■ *8. gr.* Öll kaupskip skulu hljóta skírteini til staðfestingar lágmarksfjölda skipverja, samsetningu áhafnarinnar og atvinnuskírteinakröfur fyrir hinar ýmsu stöður. Slík mönnunarskírteini skulu gefin út af [Siglingastofnun Íslands][^1)^] í samræmi við ákvarðanir mönnunarnefndar kaupskipa.

@@ -25,28 +25,27 @@ h2. Lög um búnaðargjald
     _[^1)^]"L. 139/1997, 2. gr.":/altext/stjt/1997.139.html_
  ■ *6. gr.* [Tekjum af búnaðargjaldi skal skipt þannig, sbr. þó 4. mgr.:
 
-<table>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-<tbody>
-<tr class="odd">
-<td align="left"></td>
-<td align="left">_Velta í nautgripa- og sauðfjárrækt_</td>
-<td align="left">_Önnur afurðavelta_</td>
-</tr>
-<tr class="even">
-<td align="left">Til Búnaðarsjóðs</td>
-<td align="left">1,4% af stofni</td>
-<td align="left">1,75% af stofni</td>
-</tr>
-<tr class="odd">
-<td align="left">Til Lánasjóðs landbúnaðarins</td>
-<td align="left">1,150% af stofni</td>
-<td align="left">0,800% af stofni][^1)^]</td>
-</tr>
-</tbody>
-</table>
+_Velta í nautgripa-_
+
+_Önnur_
+
+_og sauðfjárrækt_
+
+_afurðavelta_
+
+Til Búnaðarsjóðs
+
+1,4% af stofni
+
+1,75% af stofni
+
+Til Lánasjóðs
+
+landbúnaðarins
+
+1,150% af stofni
+
+0,800% af stofni][^1)^]
 
 □ Hluti Búnaðarsjóðs skiptist síðan á milli Bændasamtaka Íslands, búnaðarsambanda, búgreinasamtaka og Bjargráðasjóðs í samræmi við viðauka við lög þessi.
  □ Fjármálaráðherra stendur skil á gjaldinu mánaðarlega, þó aldrei lægri fjárhæð en nemur 6,67% af álagningu næstliðins árs.

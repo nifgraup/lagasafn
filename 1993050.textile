@@ -18,8 +18,8 @@ h2. Skaðabótalög
     _[^1)^]_"L. 37/1999, 1. gr.":/altext/stjt/1999.037.html
  _Þjáningar._
  ■ *3. gr.* [Greiða skal þjáningabætur fyrir tímabilið frá því að tjón varð þar til heilsufar tjónþola er orðið stöðugt, 1.300 kr. fyrir hvern dag sem hann er rúmfastur og 700 kr. fyrir hvern dag sem hann er veikur án þess að vera rúmfastur. Þegar sérstaklega stendur á er heimilt að greiða þjáningabætur þótt tjónþoli sé vinnufær.][^1)^] Nemi bætur meira en 200.000 kr. er heimilt að víkja frá fjárhæðum þeim sem greinir í 1. málsl.
- □ Um greiðslur frá þriðja manni fer eftir ákvæðum 1., 3. og 4. málsl. 4. mgr. 5. gr.
-    _[^1)^]_"L. 37/1999, 2. gr.":/altext/stjt/1999.037.html
+ □ [Um greiðslur frá þriðja manni fer eftir ákvæðum 1., 3., 4. og 5. málsl. 4. mgr. 5. gr.][^2)^]
+    _[^1)^]_"L. 37/1999, 2. gr.":/altext/stjt/1999.037.html [^2)^]"L. 111/2000, 24. gr.":2000111.html#g24 Breytingin tekur gildi 1. janúar 2001.
  _Varanlegur miski._
  ■ *4. gr.* [Þegar fjárhæð bóta fyrir varanlegan miska er ákveðin skal litið til þess hvers eðlis og hversu miklar afleiðingar tjóns eru frá læknisfræðilegu sjónarmiði, svo og til erfiðleika sem það veldur í lífi tjónþola. Varanlegur miski skal metinn til stiga og skal miða við heilsufar tjónþola eins og það er þegar það er orðið stöðugt.
  □ Bætur fara eftir aldri tjónþola á tjónsdegi og skulu vera þessar fyrir algeran, 100 stiga, miska:
@@ -46,11 +46,12 @@ h2. Skaðabótalög
  ■ *5. gr.* [Valdi líkamstjón, þegar heilsufar tjónþola er orðið stöðugt, varanlegri skerðingu á getu til að afla vinnutekna á tjónþoli rétt á bótum fyrir varanlega örorku.][^1)^]
  □ Þegar tjón vegna örorku er metið skal líta til þeirra kosta sem tjónþoli á til að afla sér tekna með vinnu sem sanngjarnt er að ætlast til að hann starfi við.
  □ Örorka tjónþola reiknast í hundraðshlutum (örorkustigum).
- □ [Frá skaðabótakröfu vegna líkamstjóns dragast greiðslur sem tjónþoli fær frá almannatryggingum, bætur frá slysatryggingu ökumanns eftir umferðarlögum og bætur frá sams konar slysatryggingu manns er slasast sem farþegi í eigin ökutæki. Greiðslur frá samnings- eða lögbundinni atvinnuslysatryggingu launþega dragast frá skaðabótakröfu hans á hendur vinnuveitanda þeim sem slysatrygginguna keypti. Jafnframt skal draga frá skaðabótakröfu 40% af reiknuðu eingreiðsluverðmæti örorkulífeyris frá lífeyrissjóði og skal við útreikninginn miðað við 4,5% ársafvöxtun. Aðrar greiðslur sem tjónþoli fær frá þriðja manni vegna líkamstjóns, svo sem lífeyrissjóði eða vátryggingafélagi, dragast ekki frá skaðabótakröfu.][^1)^]
-    _[^1)^]_"L. 37/1999, 4. gr.":/altext/stjt/1999.037.html
+ □ [Frá skaðabótakröfu vegna líkamstjóns dragast greiðslur sem tjónþoli fær frá almannatryggingum, bætur frá slysatryggingu ökumanns eftir umferðarlögum og bætur frá sams konar slysatryggingu manns er slasast sem farþegi í eigin ökutæki. Greiðslur frá samnings- eða lögbundinni atvinnuslysatryggingu launþega dragast frá skaðabótakröfu hans á hendur vinnuveitanda þeim sem slysatrygginguna keypti. [Bætur samkvæmt lögum um sjúklingatryggingu skal einnig draga frá skaðabótakröfu.][^2)^] Jafnframt skal draga frá skaðabótakröfu 40% af reiknuðu eingreiðsluverðmæti örorkulífeyris frá lífeyrissjóði og skal við útreikninginn miðað við 4,5% ársafvöxtun. Aðrar greiðslur sem tjónþoli fær frá þriðja manni vegna líkamstjóns, svo sem lífeyrissjóði eða vátryggingafélagi, dragast ekki frá skaðabótakröfu.][^1)^]
+    _[^1)^]_"L. 37/1999, 4. gr.":/altext/stjt/1999.037.html [^2)^]"L. 111/2000, 24. gr.":2000111.html#g24 Breytingin tekur gildi 1. janúar 2001.
  ■ *6. gr.* [Bætur fyrir varanlega örorku skal meta til fjárhæðar á grundvelli örorkustigs tjónþola skv. 5. gr., árslauna hans skv. 7. gr. og eftirfarandi töflu, þannig að margfölduð séu saman örorkustig, árslaun og stuðull töflunnar í samræmi við aldur tjónþola á þeim tíma sem upphaf varanlegrar örorku miðast við:
 
 |*Aldur*|*Stuðull*|*Aldur*|*Stuðull*|*Aldur*|*Stuðull*|
+
 |0|11,438|25|15,101|50|7,834|
 |1|11,746|26|14,567|51|7,626|
 |2|12,064|27|14,161|52|7,370|

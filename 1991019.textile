@@ -143,7 +143,9 @@ h2. Lög um meðferð opinberra mála
     a. ef þess hefur verið krafist að hann verði settur í gæsluvarðhald,
     b. ef opinbert mál hefur verið höfðað gegn honum.
  □ 2. Enn fremur er skylt að skipa ákærða verjanda ef í málinu fer fram aðalmeðferð samkvæmt ákvæðum XV. kafla laga þessara, nema ákærði hafi sjálfur valið sér talsmann skv. 37. gr. eða óski eftir að flytja mál sitt sjálfur, enda sé hann hæfur til þess að mati dómara.
-■ *35. gr.* [1. Heimilt er dómara endranær eftir ósk sakbornings að skipa honum verjanda við rannsókn máls áður en til málshöfðunar kemur ef ástæða er til þess að mati dómara með tilliti til eðlis brots og allra aðstæðna.][^1)^]
+ □ [3. Skylt er dómara að verða við ósk manns um að skipa honum verjanda ef þess er krafist að hann sæti nálgunarbanni.][^1)^]
+    _[^1)^]_"L. 94/2000, 1. gr.":/altext/stjt/2000.094.html
+ ■ *35. gr.* [1. Heimilt er dómara endranær eftir ósk sakbornings að skipa honum verjanda við rannsókn máls áður en til málshöfðunar kemur ef ástæða er til þess að mati dómara með tilliti til eðlis brots og allra aðstæðna.][^1)^]
  □ 2. Dómari getur skipað sakborningi verjanda þótt hann hafi ekki óskað þess, svo sem ef hann er sérstaklega sljór eða skilningslítill, haldinn annmörkum sem torvelda skynjun hans eða ef vafi leikur á um sakhæfi hans.
     _[^1)^]_"L. 36/1999, 4. gr.":/altext/stjt/1999.036.html
  ■ *36. gr.* [Skylt er lögreglu að verða við ósk sakbornings um að tilnefna honum verjanda ef hann hefur verið handtekinn í þágu rannsóknar opinbers máls. Tilnefning fellur sjálfkrafa úr gildi þegar sakborningur er látinn laus eða er leiddur fyrir dóm skv. 102. gr.][^1)^]
@@ -381,9 +383,9 @@ h2. Lög um meðferð opinberra mála
     a. ef hann á að afplána refsingu,
     b. ef hann hefur leyfislaust vikið úr [fangelsi][^2)^] eða gæslu eða rofið bann við för af ákveðnu svæði,
     c. ef rökstuddur grunur leikur á að hann hafi rofið í verulegum atriðum skilyrði sem honum hafa verið sett í skilorðsbundnum dómi, reynslulausn eða náðun,
-    d. ef hann hefur ekki að forfallalausu sinnt fyrirkalli skv. 120. gr. eða gegnt kvaðningu til að gefa skýrslu í opinberu máli,
+    d. ef hann hefur ekki að forfallalausu sinnt [kvaðningu skv. 110. gr. b eða][^3)^] fyrirkalli skv. 120. gr. eða gegnt kvaðningu til að gefa skýrslu í opinberu máli,
     e. - f. ...[^1)^]
-    _[^1)^]_"L. 84/1996, 8. gr.":/altext/stjt/1996.084.html [^2)^]"L. 82/1998, 199. gr.":/altext/stjt/1998.082.html
+    _[^1)^]_"L. 84/1996, 8. gr.":/altext/stjt/1996.084.html [^2)^]"L. 82/1998, 199. gr.":/altext/stjt/1998.082.html [^3)^]"L. 94/2000, 2. gr.":/altext/stjt/2000.094.html
  ■ *99. gr.* 1. Eftir ósk ríkissaksóknara eða lögreglu getur dómari ákveðið handtöku. Slík handtökuskipun skal vera skrifleg og tilgreina deili á þeim sem handtaka skal og ástæður handtöku.
  □ 2. Handtökuskipun dómara má birta opinberlega og skora á hvern sem er að framkvæma hana, ef svo stendur á sem í a-lið 98. gr. segir, eða ef ókunnugt er um dvalarstað þess, sem handtaka skal, og brot getur varðað [fangelsi].[^1)^]
     _[^1)^]_"L. 82/1998, 199. gr.":/altext/stjt/1998.082.html
@@ -425,8 +427,24 @@ h2. Lög um meðferð opinberra mála
  □ 3. Trygging eða ábyrgð fellur niður ef sakborningur heldur þá skilmála sem trygging er sett fyrir. Sama á við ef sakborningur verður allt að einu settur í gæsluvarðhald, hann andast, rannsókn lýkur án málshöfðunar og þegar málinu er endanlega lokið.
 ■ *110. gr.* Í stað gæsluvarðhalds, svo og endranær ef nauðsyn ber til, getur dómari, hvort sem trygging er sett eða ekki, lagt fyrir sakborning að halda sig á ákveðnu svæði (sveitarfélagi, umdæmi o.s.frv.), bannað honum brottför af landinu eða mælt fyrir um vistun hans á sjúkrahúsi eða viðeigandi stofnun.
 
+ *[XIII. kafli A.* *Nálgunarbann.][^1)^]*
+    _[^1)^]_"L. 94/2000, 3. gr.":/altext/stjt/2000.094.html
+ ■ *[110. gr. a.* Heimilt er leggja bann við því að maður komi á tiltekinn stað eða svæði, veiti eftirför, heimsæki eða setji sig með öðru móti í samband við annan mann ef rökstudd ástæða er til að ætla að hann muni fremja afbrot eða raska á annan hátt friði þess manns sem í hlut á.][^1)^]
+    _[^1)^]_"L. 94/2000, 3. gr.":/altext/stjt/2000.094.html
+ ■ *[110. gr. b.* 1. Lögregla gerir kröfu um nálgunarbann.
+ □ 2. Eftir að dómara hefur borist krafa um nálgunarbann ákveður hann stað og stund þinghalds til að taka kröfuna fyrir og gefur út kvaðningu á hendur þeim sem krafan beinist að. Í kvaðningu skal greina stað og stund þinghalds ásamt áskorun til viðtakanda um að sækja þing. Þá skal þess getið í kvaðningu að verði henni ekki sinnt megi lögregla færa viðtakanda fyrir dóm með valdi ef með þarf.][^1)^]
+    _[^1)^]_"L. 94/2000, 3. gr.":/altext/stjt/2000.094.html
+ ■ *[110. gr. c.* 1. Þegar krafa um nálgunarbann er tekin fyrir kynnir dómari hana þeim sem hún beinist að. Skal honum gefinn kostur á að tjá sig um kröfuna. Heimilt er í því skyni að veita frest sem ekki skal vera lengri en tveir sólarhringar. Að svo búnu leggur dómari úrskurð á kröfuna.
+ □ 2. Nálgunarbanni skal markaður ákveðinn tími, þó ekki lengur en eitt ár. Nálgunarbann verður ekki framlengt nema til komi nýr dómsúrskurður.
+ □ 3. Dómari ákveður sakarkostnað í úrskurði sínum.][^1)^]
+    _[^1)^]_"L. 94/2000, 3. gr.":/altext/stjt/2000.094.html
+ ■ *[110. gr. d.* 1. Nú er sá sem sætir nálgunarbanni ekki viðstaddur þegar úrskurður er kveðinn upp og skal þá úrskurður birtur honum með venjulegum hætti, sbr. 20. gr.
+ □ 2. Þegar ástæður þær sem lágu til grundvallar nálgunarbanni eru ekki lengur fyrir hendi getur lögregla fellt bannið úr gildi. Ákvörðun lögreglu um að fella úr gildi bann verður ekki borin undir dómara.
+ □ 3. Lögregla skal tilkynna þeim sem njóta á verndar með nálgunarbanni um að krafa verði lögð fyrir dóm, um lyktir máls og lok nálgunarbanns.][^1)^]
+    _[^1)^]_"L. 94/2000, 3. gr.":/altext/stjt/2000.094.html
+
  *XIV. kafli.* *Saksókn og undirbúningur málsmeðferðar.*
-■ *111. gr.* Sérhver refsiverður verknaður skal sæta ákæru, nema annað sé sérstaklega ákveðið í lögum.
+ ■ *111. gr.* Sérhver refsiverður verknaður skal sæta ákæru, nema annað sé sérstaklega ákveðið í lögum.
 ■ *112. gr.* Þegar ákærandi hefur fengið gögn máls í hendur og gengið úr skugga um að rannsókn sé lokið athugar hann hvort sækja skuli mann til sakar eða ekki. Ef hann telur það sem fram er komið ekki nægilegt eða líklegt til sakfellis lætur hann við svo búið standa, en ella leggur hann málið fyrir dóm skv. 116. gr.
 ■ *113. gr.* 1. Falla má frá saksókn þegar beita má ákvæðum almennra hegningarlaga um frestun ákæru. Enn fremur fellur málsókn niður ef sakborningur gengst undir viðurlög skv. 115. gr., nema svo standi á sem þar segir í 6. mgr.
  □ 2. Einnig má falla frá saksókn þegar svo stendur á sem hér segir:

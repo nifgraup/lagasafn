@@ -53,7 +53,16 @@ h2. Lög um loftferðir
 ■ *10. gr.* Heimilt skal að skrásetja hér á landi loftfar sem er í eigu íslenskra ríkisborgara er eiga lögheimili hérlendis eða íslenskra lögaðila sem eiga heimili hér á landi. Réttur til skrásetningar loftfars er þó háður því að fullnægt sé skilyrðum laga um fjárfestingu erlendra aðila í atvinnurekstri.
  □ Þó er heimilt að skrá á Íslandi loftfar sem íslenskum flugrekanda er heimilt að nota í rekstri sínum ef það er í eigu einstaklinga eða lögaðila með ríkisfang og heimilisfesti í öðru aðildarríki á Evrópska efnahagssvæðinu.
  □ Flugmálastjórn getur heimilað skráningu loftfars hér á landi þótt eigi sé fullnægt skilyrðum 1. og 2. mgr., enda sé loftfarið í umráðum íslensks aðila og sérstakar ástæður mæli með slíku leyfi.
-■ *11. gr.* Loftfar, sem skrásett er erlendis, verður eigi skráð hér á landi fyrr en það hefur verið strikað af erlendri skrá.
+ □ [Sérhver skráður umráðandi loftfars samkvæmt loftfaraskrá skal árlega greiða til Flugmálastjórnar eftirlitsgjald sem miðast skal við skráðan hámarksflugtaksmassa loftfarsins. Skulu árleg eftirlitsgjöld vera:
+    a. 11.400 kr. fyrir vélknúin loftför með skráðan hámarksflugtaksmassa allt að 2.700 kg og auk þess 7,80 kr. fyrir hvert kg,
+    b. 17.000 kr. fyrir vélknúin loftför með skráðan hámarksflugtaksmassa 2.701 - 6.700 kg og auk þess 6,50 kr. fyrir hvert kg,
+    c. 80.000 kr. fyrir vélknúin loftför með skráðan hámarksflugtaksmassa 6.701 - 50.000 kg og auk þess 7,00 kr. fyrir hvert kg,
+    d. 400.000 kr. fyrir vélknúin loftför með skráðan hámarksflugtaksmassa yfir 50.000 kg og auk þess 4,00 kr. fyrir hvert kg og
+    e. fyrir loftför sem ekki eru vélknúin 25% af gjaldi fyrir vélknúin loftför.
+ □ Gjalddagar eftirlitsgjalda skulu vera tveir á ári. Hinn 15. mars skal greitt fyrir tímabilið frá 1. janúar til 30. júní og 15. september skal greitt fyrir tímabilið frá 1. júlí til 31. desember.
+ □ Gjöld samkvæmt þessari grein má heimta með fjárnámi.][^1)^]
+    _[^1)^]_"L. 74/2000, 1. gr.":/altext/stjt/2000.074.html
+ ■ *11. gr.* Loftfar, sem skrásett er erlendis, verður eigi skráð hér á landi fyrr en það hefur verið strikað af erlendri skrá.
  □ Ef á loftfari hvíla skráð réttindi sem meta skal gild hér á landi samkvæmt samningi við erlent ríki verður loftfarið eigi tekið á íslenska skrá, nema rétthöfum hafi verið gerð full skil, þeir samþykki flutninginn eða réttindin séu niður fallin við nauðungarsölu.
 ■ *12. gr.* Loftfar skal eigi skrásetja, nema það hafi tegundarskírteini sem Flugmálastjórn hefur gefið út eða metið gilt eða annars konar vottorð sem Flugmálastjórn metur fullnægjandi.
  □ Heimilt er ráðherra að setja sérreglur um loftför án tegundarskírteina, svo sem heimasmíðuð loftför, og um skráningu slíkra loftfara með reglugerð.
@@ -231,7 +240,22 @@ h2. Lög um loftferðir
  □ Enn fremur er heimilt að heimta gjöld til greiðslu á kostnaði við rekstur flugumferðarstjórnar í þágu loftferða eftir reglum sem settar eru af samgönguráðherra. Gjöld þessi eru kræf vegna loftferða yfir íslensk yfirráðasvæði, svo og yfir úthafið og erlend yfirráðasvæði, þegar um það hefur verið samið milli Íslands og viðkomandi ríkis. Taka má gjöld þessi með fjárnámi.
  □ Heimilt er samgönguráðherra að semja við stjórnvöld annarra ríkja um að þau taki að sér innheimtu á þessum gjöldum.
  □ Gjaldskyldan hvílir á skráðum umráðendum í loftfaraskrá að íslenskum loftförum og á eigendum erlendra loftfara vegna ferða um svæðið þar sem þjónusta er veitt eða flugvellir eru. Taka má gjöldin fjárnámi.
-■ *72. gr.* Flugvelli og önnur mannvirki í þágu loftferða sem eru til almennra nota mega erlend loftför einnig nota með sömu skilyrðum og íslensk loftför í sams konar milliríkjaferðum, enda sé fyrir hendi samningur um þetta við það erlenda ríki sem í hlut á. Við komu til eða brottför frá landinu er þó skylt að nota tollhafnir.
+■ *[71. gr. a.* Í innanlandsflugi og millilandaflugi skulu lendingargjöld greidd af umráðendum loftfara til Flugmálastjórnar fyrir afnot loftfara af þeim flugvöllum þar sem flugupplýsingaþjónusta er veitt.
+ □ Fyrir lendingu loftfars í innanlandsflugi með 2.000 kg hámarksflugtaksmassa eða meiri skal greiða 238 kr. fyrir hver byrjuð 1.000 kg af massa þess fyrir hverja lendingu á flugvöllum sem veita flugupplýsingaþjónustu.
+ □ Fyrir hverja lendingu loftfars í millilandaflugi á flugvöllum utan Reykjavíkur skal greiða gjald samsvarandi 7,05 Bandaríkjadölum fyrir hver byrjuð 1.000 kg af hámarksflugtaksmassa þess, en samsvarandi 10 Bandaríkjadölum fyrir hver byrjuð 1.000 kg af hámarksflugtaksmassa loftfars fyrir hverja lendingu í Reykjavík. Stæðisgjöld skulu innheimt samkvæmt ákvæðum í gjaldskrá sem ráðherra setur.
+ □ Umráðendur loftfara skulu greiða leiðarflugsgjöld til Flugmálastjórnar fyrir flugumferðar- og flugleiðsöguþjónustu, þ.m.t. fjarskiptaþjónustu, veðurþjónustu, leitar- og björgunarþjónustu og flugupplýsingaþjónustu á flugleiðum í innanlandsflugi, sem skulu reiknast þannig í heilum krónum fyrir hvert flug með blindflugsheimild eða á blindflugsleiðum:
+    Leiðarflugsgjald = 16,5 kr./km × vegalengd í km × (hámarksflugtaksþyngd flugvélar í tonnum/50).
+ □ Leitar- og björgunarflug, prófflug eftir viðgerð, flug með þjóðhöfðingja og flug loftfara íslenska ríkisins skulu undanþegin gjaldskyldu samkvæmt grein þessari.
+ □ Gjalddagar skulu vera 15. hvers mánaðar vegna gjaldskyldra lendinga og veittrar leiðarflugsþjónustu í þar næsta mánuði á undan.
+ □ Flugmálastjórn er heimilt að krefjast greiðslu gjalda samkvæmt grein þessari fyrir brottför loftfars eða krefjast tryggingar fyrir greiðslu gjalda.][^1)^]
+    _[^1)^]_"L. 74/2000, 2. gr.":/altext/stjt/2000.074.html
+ ■ *[71. gr. b.* Umráðandi loftfars skal greiða sérstakt gjald, vopnaleitargjald, þar sem slík leit fer fram, til Flugmálastjórnar Íslands. Gjaldið greiðist fyrir hvern mann sem ferðast með loftfari frá Íslandi til annarra landa. Fjárhæð gjaldsins skal vera 125 kr. fyrir hvern farþega. Fyrir farþega á aldrinum tveggja til tólf ára skal þó greiða 65 kr.
+ □ Undanþegin gjaldskyldu eru börn yngri en tveggja ára, skráðar áhafnir loftfara, þeir sem viðkomu hafa á Íslandi samkvæmt farseðli milli annarra landa og Norður-Ameríku og þeir sem ferðast með loftförum varnarliðs Bandaríkja Norður-Ameríku hér á landi.
+ □ Vopnaleitargjald fyrir farþega sem ferðast með loftförum sem skráð eru erlendis og öllum loftförum sem ekki er flogið á áætlunarleiðum skal greiða fyrir brottför loftfars. Heimilt er að veita gjaldfrest til 15. dags næsta almanaksmánaðar eftir brottför.
+ □ Vopnaleitargjald fyrir farþega sem ferðast í áætlunarflugi á viðurkenndum áætlunarleiðum skal greiða eigi síðar en 15. dag næsta almanaksmánaðar eftir brottför.
+ □ Ráðherra er heimilt að setja með gjaldskrá nánari reglur um innheimtu gjaldsins.][^1)^]
+    _[^1)^]_"L. 74/2000, 2. gr.":/altext/stjt/2000.074.html
+ ■ *72. gr.* Flugvelli og önnur mannvirki í þágu loftferða sem eru til almennra nota mega erlend loftför einnig nota með sömu skilyrðum og íslensk loftför í sams konar milliríkjaferðum, enda sé fyrir hendi samningur um þetta við það erlenda ríki sem í hlut á. Við komu til eða brottför frá landinu er þó skylt að nota tollhafnir.
 ■ *73. gr.* Samgönguráðherra er heimilt að kveða á um hvaða skilyrðum þeir þurfa að fullnægja sem starfa við flugumferðarstjórn, á flugvelli eða við flugleiðsögubúnað eða hafa á hendi annað það starf utan loftfars sem mikilsvert er fyrir öryggi loftferða. Ráðherra getur jafnframt sett reglur um starfsskírteini fyrir slíkum starfa.
 ■ *74. gr.* Ákvæði 34. og 37. gr. taka með viðeigandi hætti til flugumferðarstjóra og einnig þeirra sem hafa eftirlit með loftförum og loftferðum eða hafa á hendi tæknistörf við loftfar eða önnur mikilsverð störf fyrir öryggi loftferða eftir því sem samgönguráðherra kveður á um í reglugerð.
 
@@ -251,7 +275,15 @@ h2. Lög um loftferðir
  *IX. kafli.* *Flugrekstrarleyfi.*
 ■ *80. gr.* Leyfi Flugmálastjórnar þarf til loftferða í atvinnuskyni yfir íslensku yfirráðasvæði.
 ■ *81. gr.* Flugrekstrarleyfi skal veita sé fullnægt skilyrðum laga þessara og reglna sem settar eru samkvæmt þeim.
-■ *82. gr.* Skilyrði flugrekstrarleyfis eru:
+ □ [Flugrekendur skulu árlega greiða til Flugmálastjórnar eftirlitsgjald sem miðast skal við fjölda þeirra loftfara sem hlutaðeigandi rekur í starfsemi sinni og skráðan hámarksflugtaksmassa þeirra. Skulu árleg eftirlitsgjöld flugrekenda vera sem hér segir:
+    a. 25.000 kr. fyrir hvert loftfar undir 2.700 kg,
+    b. 45.000 kr. fyrir hvert loftfar 2.701 - 6.700 kg,
+    c. 120.000 kr. fyrir hvert loftfar 6.701 - 50.000 kg og
+    d. 180.000 kr. fyrir hvert loftfar yfir 50.000 kg.
+ □ Gjald við fyrstu útgáfu flugrekandaskírteinis (AOC) er það sama og árlegt eftirlitsgjald og miðast þá við fyrirhugaðan rekstur sem sótt er um hvað varðar fjölda og hámarksflugtaksmassa loftfara.
+ □ Gjalddagar eftirlitsgjaldsins skulu vera tveir á ári, 1. maí og 1. nóvember, og skal þá greitt fyrir næstliðið hálft ár eða hluta úr ári sem flugrekandi hafði gilt flugrekstrarleyfi og reiknast þá hlutfallslega fyrir hvern byrjaðan mánuð sem hvert loftfar var í rekstri hjá flugrekanda á tímabilinu.][^1)^]
+    _[^1)^]_"L. 74/2000, 3. gr.":/altext/stjt/2000.074.html
+ ■ *82. gr.* Skilyrði flugrekstrarleyfis eru:
     a. að umsækjandi uppfylli skilyrði 10. gr. laga þessara um skrásetningu á loftfari,
     b. að umsækjandi uppfylli skilyrði sem samgönguráðherra setur um fjármögnun flugrekstrarins,
     c. að umsækjandi hafi hlotið flugrekandaskírteini frá Flugmálastjórn í samræmi við gildandi reglugerðir.
@@ -312,8 +344,9 @@ h2. Lög um loftferðir
  □ Nú tekur flutningssamningur einnig til flutninga á láði eða legi utan flugvallar við fermingu, afhendingu eða endurfermingu, og skal hvers konar tjón, sem verður á farangri eða varningi, teljast hafa orðið á þeim tíma er getur í 1. mgr. uns annað sannast.
 ■ *104. gr.* Flytjandi ber ábyrgð á tjóni sem verður af völdum dráttar við loftflutning farþega, innritaðs farangurs eða varnings.
 ■ *105. gr.* Flytjandi skal laus úr ábyrgð ef hann leiðir sönnur að því að hann sjálfur og starfsmenn hans hafi gert allar nauðsynlegar varúðarráðstafanir til þess að afstýra tjóni eða það hafi eigi verið á þeirra valdi.
- □ Málsvörn samkvæmt ákvæðum 1. mgr. er flugrekanda þó því aðeins heimilt að bera fyrir sig að höfuðstóll bótaskyldrar tjónsfjárhæðar þeirra tjóna sem um getur í 102. gr. fari fram úr jafnvirði 100.000 SDR í íslenskum krónum, nema ákvæði 106. gr. eigi við. Slík málsvörn er þó því aðeins heimil hvað varðar þann hluta sem fram úr þessum fjárhæðarmörkum fer að ákvæði 106. gr. eigi við.
-■ *106. gr.* Nú sannar flytjandi að sá sem fyrir tjóninu varð hafi sjálfur verið valdur eða samvaldur að því, og má færa skaðabætur niður eða fella þær niður.
+ □ Málsvörn samkvæmt ákvæðum 1. mgr. er flugrekanda þó því aðeins heimilt að bera fyrir sig að höfuðstóll bótaskyldrar tjónsfjárhæðar þeirra tjóna sem um getur í 102. gr. fari fram úr jafnvirði 100.000 SDR í íslenskum krónum, nema ákvæði 106. gr. eigi við. Slík málsvörn er þó því aðeins heimil hvað varðar þann hluta sem fram úr þessum fjárhæðarmörkum fer [eða][^1)^] að ákvæði 106. gr. eigi við.
+    _[^1)^]_"L. 74/2000, 4. gr.":/altext/stjt/2000.074.html
+ ■ *106. gr.* Nú sannar flytjandi að sá sem fyrir tjóninu varð hafi sjálfur verið valdur eða samvaldur að því, og má færa skaðabætur niður eða fella þær niður.
 ■ *107. gr.* Þegar farþegar eru fluttir skulu bótafjárhæðir í tjónstilvikum sem valda örorku eða dauða ákvarðaðar samkvæmt ákvæðum skaðabótalaga.
  □ Flugrekandi skal þó án tafar og ekki síðar en 15 dögum eftir að ljóst er hver hinn slasaði eða látni er inna af hendi fyrirframgreiðslu til að mæta bráðum fjárhagsþörfum og skal greiðslan taka mið af aðstæðum. Greiðsla þessi skal ekki vera lægri en sem nemur jafnvirði 15.000 SDR í íslenskum krónum vegna hvers farþega sé um dauðaslys að ræða. Það að inna fyrirframgreiðslu þessa af hendi jafngildir þó ekki viðurkenningu á ábyrgð og kemur til frádráttar við endanlegt uppgjör bóta vegna slyssins. Hún er þó ekki afturkræf, nema í þeim tilvikum sem greinir í 106. gr., þ.e. að flugrekandi sannar að farþegi hafi verið valdur eða samvaldur að slysinu eða að sá sem greiðsluna fékk hafi ekki átt lögvarið tilkall til hennar.
  □ Nú er innritaður farangur eða varningur fluttur, og skal hámarksábyrgð flytjanda vera jafnvirði 17 SDR í íslenskum krónum á kg. Nú hefur farþegi eða sendandi, þá er farangur eða varningur er afhentur flytjanda, tilgreint sérstaklega þá hagsmuni sem tengdir eru við afhendingu farangurs eða varnings á ákvörðunarstað og greitt það aukafarmgjald sem kveðið kann að vera á um, og gildir þá hin tiltekna fjárhæð sem hámark á ábyrgð flytjanda, nema hann sanni að raunverulegir hagsmunir farþega eða sendanda hafi verið minni. Nú er um að tefla glötun, spjöll eða seinkun á hluta hins innritaða farangurs eða varnings eða einhvers sem í farangri eða varningi kann að felast, og skal einungis leggja heildarþunga þess varnings sem þannig stendur á um til grundvallar við ákvörðun á hámarksábyrgð flytjanda. Ef glötun, spjöll eða seinkun lækkar verðmæti annarra hluta varnings sem sami farangursmiði eða sama flugfarmbréf tekur til skal einnig taka með heildarþunga þessara varningshluta við ákvörðun á hámarksábyrgð.
@@ -351,8 +384,9 @@ h2. Lög um loftferðir
 ■ *123. gr.* Ógildir skulu vera fyrirvarar í flutningssamningi og samningar gerðir áður en tjón verður þar sem aðilar víkja frá ákvæðunum um þau lög sem fara skal eftir eða ákvæðum um varnarþing.
 ■ *124. gr.* Nú er loftflutningaskjal gert utan Íslands eða það varðar loftflutninga milli ríkja, og er viðvörun skv. c-lið 1. mgr. 88. gr., c-lið 1. mgr. 89. gr. og c-lið 93. gr. nægilega framkvæmd ef skjalið ber það greinilega með sér að flutningurinn geti hlítt Varsjársáttmálanum og að hann takmarki að jafnaði ábyrgð flytjanda í þeim tilvikum sem viðkomandi ákvæði tekur til.
  □ Nú er um að tefla loftflutning milli ríkja sem Varsjársáttmálinn tekur eigi yfir, og getur flytjandi borið fyrir sig takmörkun ábyrgðar skv. 107. gr., jafnvel þótt flutningsskjalið geymi eigi viðvörun þá sem í 1. mgr. getur.
-■ *125. gr.* Samgönguráðherra er heimilt að gera undantekningu frá ákvæðum 1. mgr. 88. gr., 1. mgr. 89. gr. og 91. gr. um farseðla, farangursmiða og flugfarmbréf með reglugerð þar sem meðal annars yrði tekið tillit til möguleika á rafrænni skráningu.
-■ *126. gr.* Þá er rætt er um Varsjársáttmálann í lögum þessum er átt við sáttmála þann um alþjóðaloftflutninga sem gerður var í Varsjá 12. október 1929 með þeim breytingum sem á honum urðu samkvæmt sáttmálaauka, undirrituðum í Haag 28. september 1955.
+■ *125. gr.* Samgönguráðherra er heimilt að gera undantekningu frá ákvæðum 1. mgr. 88. gr., 1. mgr. 89. gr. og 91. gr. um farseðla, farangursmiða og flugfarmbréf með reglugerð[^1)^] þar sem meðal annars yrði tekið tillit til möguleika á rafrænni skráningu.
+    _[^1)^]Rg. 317/2000_.
+ ■ *126. gr.* Þá er rætt er um Varsjársáttmálann í lögum þessum er átt við sáttmála þann um alþjóðaloftflutninga sem gerður var í Varsjá 12. október 1929 með þeim breytingum sem á honum urðu samkvæmt sáttmálaauka, undirrituðum í Haag 28. september 1955.
  □ Ákvæðum kafla þessa skal eigi beita um milliríkjaloftflutninga sem framkvæmdir eru samkvæmt áskilnaði, gerðum með heimild í viðbótarbókun við 2. gr. Varsjársáttmálans frá 12. október 1929 eða XXVI. gr. Haag-sáttmálaaukans frá 28. september 1955.
  □ Ákvæði laga þessara hrófla eigi við Varsjársáttmálanum frá 12. október 1929 að svo miklu leyti sem hann heldur gildi sínu í milliríkjaskiptum Íslands og annarra ríkja sem eigi hafa fullgilt sáttmálaaukann sem gerður var í Haag 28. september 1955.
  □ Guadalajara-sáttmálinn merkir í lögum þessum sáttmála þann um alþjóðaloftflutninga framkvæmda af öðrum flytjanda en þeim er undirritar flutningssamning sem gerður var í Guadalajara 18. september 1961.
@@ -398,8 +432,12 @@ h2. Lög um loftferðir
 ■ *139. gr.* Samgönguráðherra kveður á um gjöld sem inna ber af hendi fyrir starfsemi sem Flugmálastjórn annast samkvæmt lögum þessum og reglum settum samkvæmt þeim með setningu sérstakrar gjaldskrár.
  □ Samgönguráðherra er heimilt að ákveða að við gjaldtöku sé mætt þeim kostnaði sem rekstur þessarar starfsemi hefur í för með sér.
  □ Gjöld samkvæmt þessari grein má heimta með fjárnámi.
-■ *140. gr.* Flugmálastjórn skal gefa út upplýsingabréf um flugmál og flugmálahandbók. Skulu allir handhafar flugrekstrarleyfa og flugkennsluleyfa, útgefinna af Flugmálastjórn, vera áskrifendur að útgáfum þessum. Í flugmálahandbók skulu birtar þær ákvarðanir Flugmálastjórnar sem teknar eru á grundvelli laga þessara og reglna settra samkvæmt þeim og hafa almennt gildi en birtast ekki í Stjórnartíðindum. Skulu þær vera á íslensku eða ensku eftir því sem við á. Samgönguráðherra er heimilt að höfðu samráði við Íslenska málnefnd að kveða nánar á um útgáfu þeirra með reglugerð.
-■ *141. gr.* Brot gegn lögum þessum eða reglum sem settar eru samkvæmt þeim varða sektum eða fangelsi allt að fimm árum. Beita skal ákvæðum almennra hegningarlaga um tilraun og hlutdeild.
+ □ [Tekjur Flugmálastjórnar skv. 10., 71. og 71. gr. a, 71. gr. b, 81. gr. og 1. og 2. mgr. greinar þessarar skulu færast sem sértekjur, sbr. "12. gr. laga nr. 88/1997":1997088.html#g12, um fjárreiður ríkisins.
+ □ Ráðherra skal heimilt að útfæra nánar gjaldtökuheimildir skv. 4. mgr. í gjaldskrám sem hann setur.][^1)^]
+    _[^1)^]_"L. 74/2000, 5. gr.":/altext/stjt/2000.074.html
+ ■ *140. gr.* Flugmálastjórn skal gefa út upplýsingabréf um flugmál og flugmálahandbók. Skulu allir handhafar flugrekstrarleyfa og flugkennsluleyfa, útgefinna af Flugmálastjórn, vera áskrifendur að útgáfum þessum. Í flugmálahandbók skulu birtar þær ákvarðanir Flugmálastjórnar sem teknar eru á grundvelli laga þessara og reglna settra samkvæmt þeim og hafa almennt gildi en birtast ekki í Stjórnartíðindum. Skulu þær vera á íslensku eða ensku eftir því sem við á. Samgönguráðherra er heimilt að höfðu samráði við Íslenska málnefnd að kveða nánar á um útgáfu þeirra með reglugerð.[^1)^]
+    _[^1)^]Rg. 326/2000_.
+ ■ *141. gr.* Brot gegn lögum þessum eða reglum sem settar eru samkvæmt þeim varða sektum eða fangelsi allt að fimm árum. Beita skal ákvæðum almennra hegningarlaga um tilraun og hlutdeild.
 ■ *142. gr.* Svipta skal skírteinishafa rétti til starfa þess sem skírteinið veitir ef hann hefur gerst sekur um vítavert brot gegn lögum þessum eða reglum settum samkvæmt þeim, eða ef telja verður með hliðsjón af eðli brotsins eða annars framferðis hans sem skírteinishafa varhugavert að hann neyti réttinda samkvæmt skírteininu.
  □ Svipting starfsréttinda skal vera um ákveðinn tíma, eigi skemur en þrjá mánuði, eða ævilangt ef sakir eru miklar eða brot ítrekað.
 ■ *143. gr.* Nú telur Flugmálastjórn skilyrði til sviptingar starfsréttinda vera fyrir hendi og skal hún þá svipta hlutaðeigandi starfsskírteini til bráðbirgða svo skjótt sem unnt er. Bera má ákvörðun Flugmálastjórnar undir dómstóla samkvæmt reglum um meðferð opinberra mála og skal Flugmálastjórn leiðbeina hlutaðeigandi um þann rétt. Úrlausn héraðsdóms sætir kæru til Hæstaréttar.

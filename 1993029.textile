@@ -15,43 +15,27 @@ h2. Lög um vörugjald af ökutækjum, eldsneyti o.fl.
 
  *II. kafli.* *Vörugjald af ökutækjum o.fl.*
  _Gjaldflokkar ökutækja._
- ■ *3. gr.* [Á fólksbifreiðar og önnur vélknúin ökutæki, sem ekki eru sérstaklega tilgreind í 4. gr., skal lagt vörugjald í eftirfarandi þremur gjaldflokkum miðað við sprengirými aflvélar, mælt í rúmsentimetrum:
-
-*Sprengirými aflvélar*
+ ■ *3. gr.* [Á fólksbifreiðar og önnur vélknúin ökutæki, sem ekki eru sérstaklega tilgreind í 4. gr., skal lagt vörugjald í eftirfarandi gjaldflokkum miðað við sprengirými aflvélar, mælt í rúmsentímetrum:*Gjald í %*
 
 *Flokkur*
 
-*Bensínvélar*
+*Sprengirými aflvélar*
 
-*Dísilvélar*
+*I*
 
-*Gjald í %*
-
-I
-
-0 - 1.600
-
-0 - 2.100
+0 - 2.000
 
 30
 
-II
+*II*
 
-1.601 - 2.500
+Yfir 2.000
 
-2.101 - 3.000
+45
 
-40
+][^1)^]
 
-III
-
-yfir 2.500
-
-yfir 3.000
-
-65][^1)^]
-
-   _[^1)^]"L. 48/1996, 1. gr.":/altext/stjt/1996.048.html_
+   _[^1)^]"L. 8/2000, 1. gr.":/altext/stjt/2000.008.html_
  ■ *4. gr.* [Vörugjald af eftirtöldum vörum skal vera sem hér segir:
     1. Eftirtalin ökutæki skulu undanþegin vörugjaldi:
     a. Hópferðabifreiðar, þ.e. ökutæki sem aðallega eru ætluð til fólksflutninga, sem skráðar eru fyrir 18 manns eða fleiri að meðtöldum ökumanni.
@@ -70,13 +54,13 @@ yfir 3.000
     b. Ökutæki, sem aðallega eru ætluð til vöruflutninga, að heildarþyngd 5 tonn eða minna.
     c. Vélknúin ökutæki til sérstakra nota, gálgabifreiðar o.fl., sem ekki eru aðallega hönnuð til flutnings á mönnum eða vörum og ekki eru tilgreind annars staðar í þessari grein, að heildarþyngd 5 tonn eða minna.
     5. 30% vörugjald: Hópferðabifreiðar sem skráðar eru fyrir 10 - 17 manns að meðtöldum ökumanni.
-    6. 70% vörugjald:
+    6. [30%][^1)^] vörugjald:
     a. Bifhjól (þar með talin stigin bifhjól) og reiðhjól með hjálparvél.
     b. Beltabifhjól (vélsleðar).
     c. Fjórhjól.
-    d. Önnur vélknúin ökutæki sem ekki eru sérstaklega talin upp í þessum kafla.][^1)^]
- □ Ráðherra er heimilt að samræma vörugjöld af vörum samkvæmt þessum kafla til lækkunar eða hækkunar ef sams konar eða svipaðar vörur kaflans bera ekki sama vörugjald.
-    _[^1)^]_"L. 83/1998, 6. gr.":/altext/stjt/1998.083.html
+    d. Önnur vélknúin ökutæki sem ekki eru sérstaklega talin upp í þessum kafla.][^2)^]
+ □ ...[^3)^]
+    _[^1)^]_"L. 8/2000, 2. gr.":/altext/stjt/2000.008.html [^2)^]"L. 83/1998, 6. gr.":/altext/stjt/1998.083.html [^3)^]"L. 104/2000, 18. gr.":/altext/stjt/2000.104.html
  ■ *5. gr.* Ökutæki í eigu erlendra sendiráða, sendiræðisskrifstofa og sendiræðismanna eru undanþegin gjaldskyldu samkvæmt kafla þessum sé slíkt skylt samkvæmt milliríkjasamningum sem Ísland er aðili að. Sama gildir um alþjóðasamtök og -stofnanir sem hér eru. [Þá eru ökutæki sem hafa í för með sér hverfandi mengun og eru knúin óhefðbundnum orkugjafa, svo sem rafhreyfli eða vetni, undanþegin gjaldskyldu.][^1)^]
  □ [Þrátt fyrir ákvæði 3. gr. skal vörugjald af eftirfarandi ökutækjum vera sem hér greinir:
     1. Eftirtalin ökutæki skulu undanþegin vörugjaldi:
@@ -91,56 +75,31 @@ yfir 3.000
     i. Haffær ökutæki á hjólum fyrir láð og lög.
     j. Ökutæki sem knúin eru rafhreyfli og flutt eru inn eða smíðuð í tilraunaskyni.
     k. Sérsmíðaðar keppnisbifreiðar sem eru skráðar sem slíkar og einungis notaðar í skipulögðum keppnum og æfingum á vegum samtaka akstursíþróttamanna, svo og til aksturs til og frá slíkum atburðum. Skráningarmerki bifreiðanna skulu auðkennd sérstaklega. Ráðherra setur nánari reglur um gerð og útbúnað þeirra, svo og til hvaða atburða akstursheimildin taki. Sé brotið í bága við þær reglur skal vörugjald innheimt að fullu.
-    2. Greiða skal 10% vörugjald af hópferðabifreiðum sem eru skráðar fyrir 10 - 17 manns að meðtöldum ökumanni og eru í eigu hópferða- eða sérleyfishafa eða í fjármögnunarleigu vegna fjármögnunarleigusamnings við hópferða- eða sérleyfishafa.[^2)^] Gjaldið skal lækka í 5% frá 1. janúar 2000.
-    3. Af eftirtöldum ökutækjum skal greiða 30% vörugjald:
-    a. Ökutæki á beltum undir 700 kg sem eru sérstaklega ætluð til flutninga í snjó, á svæðum þar sem aðrar samgöngur eru erfiðleikum bundnar verulegan hluta árs.
-    b. Bifreiðar fatlaðra sem eru sérstaklega búnar til flutnings á þeim, þ.m.t. búnar hjólastólalyftu og samþykktar af Tryggingastofnun ríkisins.
-    c. Bifreiðar sem sérstaklega eru útbúnar og notaðar til líkflutninga.
-    d. Fólksbifreiðar sem falla í gjaldflokk II skv. 3. gr. og ætlaðar eru til útleigu hjá aðilum sem hafa tilskilin leyfi til reksturs bifreiðaleigu.[^2)^]
-    e. Vélsleðar í eigu fyrirtækja í ferðaþjónustu sem eingöngu eru ætlaðir til útleigu til ferðamanna eða flutnings á þeim.
-    4. Vörugjald af leigubifreiðum til fólksflutninga skal lagt á samkvæmt eftirfarandi töflu miðað við sprengirými aflvélar mælt í rúmsentímetrum:
+    [l. Bifreiðar fatlaðra sem eru sérstaklega búnar til flutnings á þeim, þ.m.t. búnar hjólastólalyftu, og samþykktar af Tryggingastofnun ríkisins.][^2)^]
+    [m. Ökutæki sem ætluð eru fyrir starfsemi björgunarsveita enda liggi fyrir staðfesting landssamtaka björgunarsveita á að viðkomandi ökutæki verði einungis notuð í þágu björgunarsveita.][^3)^]
+    2. Greiða skal 10% vörugjald af hópferðabifreiðum sem eru skráðar fyrir 10 - 17 manns að meðtöldum ökumanni og eru í eigu hópferða- eða sérleyfishafa eða í fjármögnunarleigu vegna fjármögnunarleigusamnings við hópferða- eða sérleyfishafa.[^4)^] Gjaldið skal lækka í 5% frá 1. janúar 2000.
+    3. ...[^2)^]
+    4. [Vörugjald af leigubifreiðum til fólksflutninga skal lagt á samkvæmt eftirfarandi töflu miðað við sprengirými aflvélar, mælt í rúmsentímetrum:
 
-*Sprengirými aflvélar*
+|*Flokkur*|*Sprengirými aflvélar*|*Gjald í %*|
+|*I*|0 - 2.000|10|
+|*II*|Yfir 2.000|13|
 
-*Flokkur*
+Skilyrði lækkunar vörugjalds af leigubifreið eru að kaupandi hennar hafi atvinnuleyfi til leiguaksturs fólksbifreiða og hafi akstur hennar að aðalatvinnu.][^2)^]
+    [5. Vörugjald af bifreiðum sem ætlaðar eru til útleigu hjá bílaleigum skal vera:
 
-*Bensínvélar*
+|*Flokkur*|*Sprengirými aflvélar*|*Gjald í %*|
+|*I*|0 - 2.000|10|
+|*II*|Yfir 2.000|13|
 
-*Dísilvélar*
-
-*Gjald í %*
-
-I
-
-0 - 1.600
-
-0 - 2.100
-
-10
-
-II
-
-1.601 - 2.500
-
-2.101 - 3.000
-
-12
-
-III
-
-yfir 2.500
-
-yfir 3.000
-
-17
-
-Skilyrði lækkunar vörugjalds af leigubifreið eru að kaupandi hennar hafi atvinnuleyfi til leiguaksturs fólksbifreiða og hafi akstur hennar að aðalatvinnu.
- □ Ráðherra er heimilt að setja í reglugerð nánari skilyrði um þau ökutæki sem falla undir 2. mgr., svo sem um notkun ökutækis, búnað þess, reglur um hvað teljist vera fyrirtæki í ferðaþjónustu, sbr. e-lið 3. tölul. 2. mgr., og hvað teljist vera aðalatvinna skv. 4. tölul. 2. mgr. og ákvæði um endurgreiðslu á mismuni vörugjalds skv. 3. gr. annars vegar og 2. mgr. hins vegar ef skilyrðunum er ekki fylgt.][^3)^]
-    _[^1)^]_"L. 140/1997, 2. gr.":/altext/stjt/1997.140.html [^2)^]Rg. 254/1993, sbr. 360/1998 og 705/1999. [^3)^]"L. 151/1998, 11. gr.":/altext/stjt/1998.151.html
+Bifreið sem ber lægra vörugjald samkvæmt þessum tölulið skal skráð á bílaleigu sem hefur leyfi samgönguráðuneytisins til að leigja bifreiðar eða á fjármögnunarleigu vegna fjármögnunarleigusamnings við bílaleigu. Einungis er heimilt að nýta bifreið samkvæmt þessum tölulið til útleigu hjá þeirri bílaleigu sem skráð er fyrir bifreiðinni. Bílaleiga skal haga bókhaldi sínu þannig að hún geti á hverjum tíma gert grein fyrir akstri þeirra bifreiða sem bera lægra vörugjald samkvæmt þessum tölulið. Tollstjóri getur án fyrirvara óskað eftir gögnum þar um. Sé bifreið notuð til annars er tollstjóra heimilt að innheimta fullt vörugjald skv. 3. gr. laganna, með 50% álagi. Við mat á því hvort bifreið hafi einungis verið notuð til útleigu skal miðað við að unnt sé að gera grein fyrir a.m.k. 90% af akstri hennar með framlagningu leigusamninga eða öðrum hætti sem tollstjóri metur fullnægjandi. Ráðherra getur í reglugerð sett nánari reglur um þær bifreiðar sem njóta undanþágu samkvæmt þessum tölulið. Brot á ákvæðum hans varðar því að hin brotlega bílaleiga missir rétt til lækkunar í þrjú ár frá síðasta broti.][^2)^]
+ □ [Ráðherra er heimilt að setja í reglugerð nánari skilyrði um þau ökutæki sem falla undir 2. mgr., svo sem um notkun ökutækis, búnað þess og hvað teljist vera aðalatvinna skv. 4. tölul. 2. mgr., svo og ákvæði um endurgreiðslu á mismun vörugjalds skv. 3. gr. annars vegar og 2. mgr. hins vegar ef skilyrðunum er ekki fylgt.][^2)^]][^5)^]
+    _[^1)^]_"L. 140/1997, 2. gr.":/altext/stjt/1997.140.html [^2)^]"L. 8/2000, 3. gr.":/altext/stjt/2000.008.html [^3)^]"L. 104/2000, 19. gr.":/altext/stjt/2000.104.html [^4)^]Rg. 254/1993, sbr. 360/1998 og 705/1999. [^5)^]"L. 151/1998, 11. gr.":/altext/stjt/1998.151.html
  _Innflutt ökutæki._
  ■ *6. gr.* Þegar ökutæki er innflutt skal innflytjandi þess afhenda viðkomandi tollyfirvaldi með aðflutningsskýrslu staðfestingu um forskráningu ökutækis þar sem m.a. skal gerð grein fyrir stærð aflvélar þess.
  □ Þegar ekki er unnt að leggja fram gögn um forskráningu við tollafgreiðslu er heimilt að leggja fram önnur þau gögn um vélarstærð ökutækis er tollyfirvöld meta fullnægjandi.
-■ *7. gr.* Ákvæði "6. gr. tollalaga, nr. 55/1987":1987055.html#g6, skulu gilda eftir því sem við getur átt um gjald af vörum samkvæmt þessum kafla laganna.
+■ *7. gr.* [Ákvæði 3. gr., 6. tölul. 1. mgr. 5. gr. og 1. - 6. og 11. tölul. 1. mgr. "6. gr. tollalaga, nr. 55/1987":1987055.html#g6, skulu ná til vörugjalds af ökutækjum samkvæmt lögum þessum eftir því sem við getur átt.][^1)^]
+    _[^1)^]"L. 104/2000, 20. gr.":/altext/stjt/2000.104.html_
  _Innlend framleiðsla og aðvinnsla._
  ■ *8. gr.* Sá aðili, er framleiðir eða vinnur að breytingum á ökutæki áður en það er skráð samkvæmt "umferðarlögum, nr. 50/1987":1987050.html, skal skila gjaldi af ökutækinu í samræmi við verðmæti þess við skráningu og samkvæmt þeim gjaldflokki sem það þá fellur undir samkvæmt lögum þessum.
  □ Heimilt er að draga frá greiðslu skv. 1. mgr. það vörugjald sem þegar hefur verið greitt af ökutækinu eða efnivörum til þess.
@@ -192,7 +151,7 @@ Skilyrði lækkunar vörugjalds af leigubifreið eru að kaupandi hennar hafi at
 ■ *27. gr.* Að því leyti sem eigi er kveðið á um gjaldskyldu, álagningu, úrskurð um flokkun til gjaldskyldu, samræmingu gjalda, eftirlit, innheimtu, vörslusviptingu, veð, uppboð, sektir, viðurlög, refsingar og aðrar framkvæmdir varðandi gjald skv. "1. gr. skulu gilda ákvæði tollalaga, nr. 55/1987":1987055.html#g1, og "laga nr. 97/1987":1987097.html, um vörugjald, eftir því sem við getur átt, svo og reglugerða og annarra fyrirmæla settra samkvæmt þeim.
  □ Breyting á skráningarskyldu frá því sem nú er ákveðið samkvæmt "umferðarlögum, nr. 50/1987":1987050.html, hefur ekki áhrif á gjaldskyldu samkvæmt lögum þessum.
  ■ *28. gr.* Ráðherra getur með reglugerð[^1)^] sett nánari fyrirmæli varðandi framkvæmd laga þessara.
-    _[^1)^]Rg. 254/1993_, sbr. 375/1993, 169/1995, 289/1996, 405/1999, 705/1999 og 920/1999. Rg. 255/1993, sbr. 511/1993, 55/1996, 257/1996, 355/1996, 474/1997, 725/1997, 339/1998, 360/1998, 43/1999 og 356/1999.
+    _[^1)^]Rg. 255/1993_, sbr. 511/1993, 55/1996, 257/1996, 355/1996, 474/1997, 725/1997, 339/1998, 360/1998, 43/1999 og 356/1999. Rg. 331/2000.
 
  *VI. kafli.* *Gildistaka, brottfallin lagaákvæði o.fl.*
  ■ *29. gr.* Lög þessi öðlast gildi 1. júlí 1993.
@@ -209,5 +168,9 @@ Skilyrði lækkunar vörugjalds af leigubifreið eru að kaupandi hennar hafi at
     _[^1)^]_"L. 83/1998, 8. gr.":/altext/stjt/1998.083.html
  ■ *[VI.* ...][^1)^]
     _[^1)^]_"L. 151/1998, 12. gr.":/altext/stjt/1998.151.html
+ ■ *[VII.* Vörugjald af bifreiðum sem eru gjaldskyldar skv. 3. gr. laganna og búnar eru vélum sem nýta metangas eða rafmagn að verulegu leyti í stað bensíns eða dísilolíu skal vera 120.000 kr. lægra en ella væri samkvæmt greininni.
+ □ Heimild til lækkunar skv. 1. mgr. gildir til 31. desember 2003.
+ □ Ráðherra getur sett nánari reglur um lækkun vörugjalds samkvæmt þessu ákvæði, svo sem um tæknilegan búnað bifreiðar, hvað teljist vera „að verulegu leyti“ skv. 1. mgr. og þau gögn sem leggja þarf fram með umsókn um lækkun vörugjalds á grundvelli þessa ákvæðis.][^1)^]
+    _[^1)^]_"L. 38/2000, 1. gr.":/altext/stjt/2000.038.html
 
 

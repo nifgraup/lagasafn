@@ -40,17 +40,16 @@ h2. Lög um dýralækna og heilbrigðisþjónustu við dýr
 ■ *9. gr.* Dýralækni ber að sinna störfum sínum af árvekni og trúmennsku og halda við þekkingu sinni. Dýralæknir ber ábyrgð á greiningu sjúkdóms og meðferð sjúklinga sinna.
  □ Dýralækni ber sem kostur er að upplýsa eiganda eða umráðamann dýrs sem hann fær til meðferðar um ástand, meðferð, horfur og væntanlegan kostnað af meðhöndlun og lyfjameðferð sé þess óskað. Einnig skal hann upplýsa eiganda eða umráðamann um þær hættur sem geta fylgt viðkomandi aðgerð, algengar aukaverkanir lyfja sem notuð eru og lyfjamengun afurða.
  □ Dýralækni ber, sé til hans leitað eða hann nærstaddur og náist ekki í vakthafandi dýralækni, að veita fyrstu nauðsynlega læknishjálp í skyndilegum sjúkdóms- eða slysatilfellum, nema þeim mun alvarlegri forföll hamli.
- □ Dýralæknar, sem stunda almennar dýralækningar, eiga rétt á og þeim ber skylda til að taka þátt í vaktafyrirkomulagi sem skipulagt er á viðkomandi vaktsvæði, sbr. 12. gr., nema þeir séu sjálfir sjúkir eða hindraðir af öðrum meira aðkallandi embættisstörfum. Dýralækni er heimilt að semja við annan dýralækni um að taka við vaktskyldunni.[^1)^]
+ □ Dýralæknar, sem stunda almennar dýralækningar, eiga rétt á og þeim ber skylda til að taka þátt í vaktafyrirkomulagi sem skipulagt er á viðkomandi vaktsvæði, sbr. 12. gr., nema þeir séu sjálfir sjúkir eða hindraðir af öðrum meira aðkallandi embættisstörfum. Dýralækni er heimilt að semja við annan dýralækni um að taka við vaktskyldunni.
  □ Verði dýralæknir var við eða hafi hann grun um að upp sé kominn alvarlegur smitsjúkdómur í dýrum á starfssvæði hans skal hann gera nauðsynlegar bráðabirgðaráðstafanir til að staðfesta gruninn, hefta útbreiðslu sjúkdómsins og koma í veg fyrir tjón sem af honum getur leitt. Hann skal tafarlaust tilkynna yfirdýralækni um sjúkdóminn og gera þeir í samráði þær ráðstafanir sem þurfa þykir.
  □ Dýralækni ber að gera árlega skýrslu um læknisstörf sín og senda yfirdýralækni. Yfirdýralæknir setur reglur um hvaða upplýsingar skýrslurnar skuli geyma.
  □ Dýralækni ber að sýna nákvæmni í útgáfu vottorða og læknisyfirlýsinga. Hann er bundinn þagnarskyldu um þá vitneskju sem hann öðlast í starfi sínu og honum er trúað fyrir og varðar ekki almannaheill.
  □ Dýralækni er einungis heimilt að auglýsa læknisstarfsemi sína með efnislegum og látlausum auglýsingum.
-    _[^1)^]4. mgr. tekur gildi 1. desember 1999, sbr._ "l. 158/1998, 2. gr.":/altext/stjt/1998.158.html
- ■ *10. gr.* Dýralæknir hefur leyfi til að kalla sig sérfræðing og starfa sem slíkur hér á landi hafi hann fengið til þess leyfi landbúnaðarráðherra eða fengið viðurkenningu á að starfa sem sérfræðingur í landi sem er aðili að samningi um Evrópskt efnahagssvæði.
+■ *10. gr.* Dýralæknir hefur leyfi til að kalla sig sérfræðing og starfa sem slíkur hér á landi hafi hann fengið til þess leyfi landbúnaðarráðherra eða fengið viðurkenningu á að starfa sem sérfræðingur í landi sem er aðili að samningi um Evrópskt efnahagssvæði.
  □ Umsóknir um sérfræðileyfi skulu lagðar fyrir dýralæknaráð til umsagnar þegar menntunar er aflað utan Evrópska efnahagssvæðisins. Við afgreiðslu einstakra umsókna er heimilt að kveðja til sérfróðan dýralækni úr þeirri sérgrein sem sótt er um viðurkenningu á.
 
  *IV. kafli.* *Skipan héraðsdýralæknisumdæma.*
-■ *11. gr.[^1)^]* Umdæmi héraðsdýralækna eru sem hér greinir:
+■ *11. gr.* Umdæmi héraðsdýralækna eru sem hér greinir:
     1. _Gullbringu- og Kjósarumdæmi:_ Reykjavík, Seltjarnarnes, Kópavogur, Garðabær, Hafnarfjörður, Mosfellsbær, Gullbringu- og Kjósarsýsla.
     2. _Borgarfjarðar- og Mýraumdæmi:_ Borgarfjarðarsýsla, Mýrasýsla, Akranes, Borgarbyggð.
     3. _Snæfellsnesumdæmi:_ Stykkishólmur, Snæfellsbær, Eyrarsveit, Helgafellssveit, Hnappadalssýsla, Flatey og býli í gamla Flateyjarhreppi, Skógarstrandarhreppur.
@@ -70,10 +69,10 @@ h2. Lög um dýralækna og heilbrigðisþjónustu við dýr
  □ Héraðsdýralæknar í Gullbringu- og Kjósar-, Skagafjarðar- og Eyjafjarðar- og Suðurlandsumdæmum sinna eingöngu eftirlitsstörfum, en héraðsdýralæknar í öðrum dýralæknisumdæmum annast jafnframt eftirlitsstörfum almenna dýralæknisþjónustu í umdæminu, þar með er talin vaktþjónusta.
  □ Heimilt er að ráða dýralækna til aðstoðar ef þess er þörf vegna eftirlits og sjúkdómavarna í einstökum umdæmum.
  □ Yfirdýralæknir setur héraðsdýralæknum erindisbréf sem landbúnaðarráðherra staðfestir. Þar skal kveðið á um embættisfærslu, skyldur, eftirlitsstörf og heimild til annarra dýralæknisstarfa.
- □ Gjald, sem nemur kostnaði, skal innheimta fyrir eftirlit og skoðanir samkvæmt reglum sem ráðherra setur að fengum tillögum yfirdýralæknis.
+ □ Gjald, sem nemur kostnaði, skal innheimta fyrir eftirlit og skoðanir samkvæmt reglum[^1)^] sem ráðherra setur að fengum tillögum yfirdýralæknis.
  □ Landbúnaðarráðuneytið skal sjá héraðsdýralæknum fyrir skrifstofuaðstöðu í samræmi við umfang starfseminnar.
-    _[^1)^]11. gr. tekur gildi 1. desember 1999, sbr._ "l. 158/1998, 2. gr.":/altext/stjt/1998.158.html
- ■ *12. gr.[^1)^]* Vaktsvæði dýralækna eru sem hér greinir:
+    _[^1)^]Gjaldskrá 140/2000_.
+ ■ *12. gr.* Vaktsvæði dýralækna eru sem hér greinir:
     1. Gullbringu- og Kjósarumdæmi.
     2. Borgarfjarðar- og Mýraumdæmi.
     3. Snæfellsnesumdæmi.
@@ -93,8 +92,7 @@ h2. Lög um dýralækna og heilbrigðisþjónustu við dýr
  □ Við skipulagningu vakta er ætlast til að tekið sé mið af vegalengdum og umfangi þjónustu innan viðkomandi vaktsvæða.
  □ Komi upp ágreiningur um skiptingu vakta innan vaktsvæða skal leita úrskurðar yfirdýralæknis.
  □ Fyrir vaktþjónustu greiðist samkvæmt samningi Dýralæknafélags Íslands við landbúnaðar- og fjármálaráðuneyti.
-    _[^1)^]12. mgr. tekur gildi 1. desember 1999, sbr._ "l. 158/1998, 2. gr.":/altext/stjt/1998.158.html
- ■ *13. gr.* Í því skyni að tryggja byggðum fjarri aðsetri dýralæknis reglubundna þjónustu og bráðaþjónustu skal landbúnaðarráðherra setja reglur um greiðslu hluta ferðakostnaðar dýralæknis í samráði við yfirdýralækni, Dýralæknafélag Íslands og Bændasamtök Íslands.
+■ *13. gr.* Í því skyni að tryggja byggðum fjarri aðsetri dýralæknis reglubundna þjónustu og bráðaþjónustu skal landbúnaðarráðherra setja reglur um greiðslu hluta ferðakostnaðar dýralæknis í samráði við yfirdýralækni, Dýralæknafélag Íslands og Bændasamtök Íslands.
 
  *V. kafli.* *Sérgreinadýralæknar.*
 ■ *14. gr.* Ráða skal sérmenntaða dýralækna, einn á hverju eftirtalinna sérsviða: Sviði alifuglasjúkdóma, fisksjúkdóma, hrossasjúkdóma, nautgripa- og sauðfjársjúkdóma, júgursjúkdóma, loðdýrasjúkdóma og svínasjúkdóma. Auk þess skal ráða dýralækni með sérþekkingu í heilbrigðiseftirliti sláturdýra og sláturafurða og dýralækni sem hafi eftirlit með inn- og útflutningi búfjárafurða. Sérgreinadýralæknar starfa undir stjórn yfirdýralæknis sem setur þeim erindisbréf.
@@ -105,7 +103,7 @@ h2. Lög um dýralækna og heilbrigðisþjónustu við dýr
 
  *VI. kafli.* *Viðurlög, gildistaka o.fl.*
  ■ *17. gr.* Landbúnaðarráðherra setur með reglugerð[^1)^] nánari ákvæði um framkvæmd laga þessara.
-    _[^1)^]Augl. 10/1964_ (notkun matarleifa til skepnufóðurs). Rg. 209/1966 (hundapest). Rg. 35/1967 (hringskyrfi). Rg. 226/1969 (búfjársæðing). Rg. 290/1980 (um varnir gegn hundaæði). Rg. 444/1982 (um loðdýrarækt og innflutning loðdýra), sbr. 340/1986. Rg. 21/1983. Rg. 403/1986, sbr. 597/1989 og 148/1992 (um varnir gegn fisksjúkdómum o.fl.). Rg. 156/1987 (sæðingar loðdýra). Augl. 117/1990 (varúðarráðstafanir vegna innflutnings á rotmassa til svepparæktar). Rg. 251/1995 (smitsjúkdómar alifugla). Rg. 252/1995, sbr. 76/1999 (um hámark dýralyfjaleifa í sláturafurðum, eggjum og mjólk). Rg. 479/1995 (um varnir gegn því að dýrasjúkdómar berist til landsins o.fl.). Rg. 671/1997 (um aðbúnað nautgripa og eftirlit með framleiðslu mjólkur o.fl.), sbr. 616/1999 og 13/2000. Rg. 557/1998 (kanínurækt). Rg. 782/1999 (um embætti yfirdýralæknis).
+    _[^1)^]Augl. 10/1964_ (notkun matarleifa til skepnufóðurs). Rg. 209/1966 (hundapest). Rg. 35/1967 (hringskyrfi). Rg. 226/1969 (búfjársæðing). Rg. 290/1980 (um varnir gegn hundaæði). Rg. 444/1982 (um loðdýrarækt og innflutning loðdýra), sbr. 340/1986. Rg. 21/1983. Rg. 403/1986, sbr. 597/1989 og 148/1992 (um varnir gegn fisksjúkdómum o.fl.). Rg. 156/1987 (sæðingar loðdýra). Augl. 117/1990 (varúðarráðstafanir vegna innflutnings á rotmassa til svepparæktar). Rg. 251/1995, sbr. 88/2000 og 433/2000 (smitsjúkdómar alifugla). Rg. 252/1995, sbr. 76/1999 (um hámark dýralyfjaleifa í sláturafurðum, eggjum og mjólk). Rg. 479/1995 (um varnir gegn því að dýrasjúkdómar berist til landsins o.fl.). Rg. 671/1997 (um aðbúnað nautgripa og eftirlit með framleiðslu mjólkur o.fl.), sbr. 616/1999 og 13/2000. Rg. 557/1998 (kanínurækt). Rg. 782/1999 (um embætti yfirdýralæknis). Rg. 60/2000 (um eftirlit með aðbúnaði og heilbrigði sauðfjár og geitfjár o.fl.)
  ■ *18. gr.* Verði yfirdýralæknir þess var að dýralæknir, sem hefur læknisleyfi, vanræki skyldur sínar og störf, fari út fyrir verksvið sitt eða brjóti alvarlega í bága við fyrirmæli sem dýralæknum er skylt að starfa eftir ber yfirdýralækni að áminna hann um að bæta ráð sitt.
  □ Nú kemur ítrekuð áminning ekki að haldi eða sé um óhæfu í læknisstörfum að ræða og ber þá yfirdýralækni að kæra málið til ráðherra. Getur þá ráðherra úrskurðað að viðkomandi skuli sviptur lækningaleyfi að fullu eða um tiltekinn tíma.
  □ Uppfylli dýralæknir, sem hefur læknisleyfi, ekki lengur þær kröfur sem gerðar voru er læknisleyfi var veitt, svo sem vegna bilunar á andlegri eða líkamlegri heilsu eða misnotkunar vímuefna, ber yfirdýralækni að greina ráðherra frá málavöxtum. Ráðherra skal leita álits dýralæknaráðs um slík mál. Svipta má viðkomandi dýralækni lækningaleyfi ef dýralæknaráð leggur það til.

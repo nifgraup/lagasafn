@@ -204,7 +204,8 @@ h2. Lög um viðskiptabanka og sparisjóði
  □ Viðskiptabönkum, sparisjóðum og öðrum stofnunum, sem til þess hafa sérstaka lagaheimild, er einum heimilt að taka við innlánum frá almenningi til geymslu og ávöxtunar.
  □ Viðskiptabönkum og sparisjóðum er heimilt að stunda vátryggingarstarfsemi með stofnun dótturfyrirtækis.
  □ Viðskiptabönkum og sparisjóðum er einnig heimilt að stunda aðra starfsemi en um ræðir í 1. mgr., enda sé slík hliðarstarfsemi í eðlilegu framhaldi af viðskiptabanka- eða sparisjóðsstarfsemi. Til framangreindrar starfsemi þarf samþykki [Fjármálaeftirlitsins][^1)^] sem jafnframt getur ákveðið að hún skuli stunduð í sérstöku félagi.
-    _[^1)^]_"L. 84/1998, 2. gr.":/altext/stjt/1998.084.html
+ □ [Viðskiptabönkum og sparisjóðum er heimilt samkvæmt sérstökum samningi að taka að sér að veita póstþjónustu fyrir hönd aðila sem leyfi hefur til að veita slíka þjónustu. Til framangreindrar starfsemi þarf samþykki Fjármálaeftirlitsins.][^2)^]
+    _[^1)^]_"L. 84/1998, 2. gr.":/altext/stjt/1998.084.html [^2)^]"L. 48/2000, 1. gr.":/altext/stjt/2000.048.html
  ■ *45. gr.* Viðskiptabönkum og sparisjóðum er heimilt án takmarkana að yfirtaka eignir til að tryggja fullnustu kröfu. Eignirnar skulu seldar jafnskjótt og það er talið hagkvæmt að mati bankastjórnar eða sparisjóðsstjóra.
  □ Viðskiptabönkum og sparisjóðum er heimilt að stunda tímabundið aðra starfsemi en þá sem um getur í 44. gr. ef það er einungis í þeim tilgangi að ljúka viðskiptum fyrirtækja við viðskiptabanka eða sparisjóð eða liður í endurskipulagningu á starfsemi viðskiptaaðila þessara stofnana. Skýrsla hér að lútandi skal send [Fjármálaeftirlitinu].[^1)^]
     _[^1)^]_"L. 84/1998, 2. gr.":/altext/stjt/1998.084.html
@@ -417,9 +418,12 @@ h2. Lög um viðskiptabanka og sparisjóði
  □ Komi til afturköllunar á starfsleyfi viðskiptabanka eða sparisjóðs skal hlutaðeigandi stofnun slitið.
 
  *XIV. kafli.* *Eftirlit.*
-■ *93. gr.* [Fjármálaeftirlitið][^1)^] hefur eftirlit með að starfsemi þeirra fyrirtækja og stofnana, sem lög þessi taka til, sé í samræmi við ákvæði þeirra, reglur settar samkvæmt þeim og samþykktir hlutaðeigandi stofnana. Um eftirlitið fer samkvæmt ákvæðum laga þessara og laga um [opinbert eftirlit með fjármálastarfsemi].[^1)^]
- □ [Fjármálaeftirlitið][^1)^] skal rannsaka fjárhag viðskiptabanka og sparisjóða sem skulu veita allar þær upplýsingar sem [stofnunin][^1)^] telur nauðsynlegar. Í þeim mæli, sem [Fjármálaeftirlitið][^1)^] telur nauðsynlegt til að meta fjárhagsstöðu viðskiptabanka eða sparisjóðs, hefur það rétt til að afla upplýsinga og framkvæma vettvangsathugun hjá tengdum fyrirtækjum eða hlutdeildarfyrirtækjum.
-    _[^1)^]_"L. 84/1998, 2. gr.":/altext/stjt/1998.084.html
+■ *93. gr.* [Fjármálaeftirlitið hefur eftirlit með starfsemi viðskiptabanka og sparisjóða, svo og starfsemi innlendra viðskiptabanka og sparisjóða erlendis, nema annað leiði af lögum eða alþjóðasamningum sem Ísland er aðili að. Jafnframt fer Fjármálaeftirlitið með eftirlit með dótturfyrirtækjum, hlutdeildarfyrirtækjum og sjóðum sem stunda starfsemi þá sem talin er upp í 44. gr. að því marki sem nauðsynlegt er vegna eftirlitsskyldrar starfsemi. Um eftirlitið fer samkvæmt ákvæðum laga þessara og laga um opinbert eftirlit með fjármálastarfsemi.
+ □ Fjármálaeftirlitið getur krafist hvers konar gagna og upplýsinga frá einstaklingum eða lögaðilum sem eiga eða hyggjast eignast eða fara með eignarhlut í viðskiptabanka eða sparisjóði í því skyni að meta hvort þeir falli undir tilkynningarskyldu skv. 10. gr. og hvort þeir teljist hæfir til að fara með virkan eignarhlut.
+ □ Fjármálaeftirlitið getur krafist hvers konar gagna og upplýsinga frá dótturfyrirtækjum eða hlutdeildarfyrirtækjum eða öðrum aðilum sem teljast í nánum tengslum við viðskiptabanka eða sparisjóð, enda telji Fjármálaeftirlitið upplýsingarnar nauðsynlegar í eftirliti sínu með viðkomandi viðskiptabanka eða sparisjóði.
+ □ Telji Fjármálaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa getur það krafist gagna og upplýsinga hjá viðkomandi aðilum sem nauðsynleg eru til að ganga úr skugga um hvort svo sé. Getur það krafist þess að slíkri starfsemi sé hætt þegar í stað. Jafnframt er því heimilt að birta opinberlega nöfn aðila sem taldir eru bjóða þjónustu án tilskilinna leyfa.
+ □ Heimilt er að beita ákvæðum laga um opinbert eftirlit með fjármálastarfsemi um dagsektir og leit og hald á gögnum við upplýsingaöflun og eftirlit samkvæmt þessari grein.][^1)^]
+    _[^1)^]_"L. 11/2000, 10. gr.":/altext/stjt/2000.011.html
  ■ *94. gr.* Eftirlitsaðilum í ríki innan Evrópska efnahagssvæðisins er heimilt að framkvæma athugun í útibúum þarlendra stofnana hér á landi að undangenginni tilkynningu þess efnis til [Fjármálaeftirlitsins].[^1)^]
     _[^1)^]_"L. 84/1998, 2. gr.":/altext/stjt/1998.084.html
  ■ *95. gr.* [Fjármálaeftirlitinu][^1)^] er heimilt að banna erlendum viðskiptabanka eða sparisjóði með aðalstöðvar í ríki innan Evrópska efnahagssvæðisins að stunda starfsemi hér á landi hafi hlutaðeigandi stofnun brotið gróflega eða ítrekað gegn ákvæðum laga þessara eða samþykktum og reglum settum samkvæmt þeim eða gegn ákvæðum annarra laga um fjármála- og lánastofnanir, enda hafi ekki tekist að binda enda á framangreind brot samkvæmt tilmælum eða viðurlögum þessara laga.
@@ -430,9 +434,8 @@ h2. Lög um viðskiptabanka og sparisjóði
     _[^1)^]_"L. 84/1998, 2. gr.":/altext/stjt/1998.084.html
 
  *XV. kafli.* *Ýmis ákvæði.*
- ■ *97. gr.* Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt að kveða nánar á um framkvæmd þeirra með reglugerð.[^1)^]
-    _[^1)^]Rg. 21/1997_.
- ■ *98. gr.* Ákvæði 1. mgr. 15. gr. um fjölda stofnfjáreigenda í sparisjóði og 2. mgr. 35. gr. um tilhögun atkvæðisréttar í sparisjóði taka hvorki til þeirra sparisjóða þar sem sveitarfélög og héraðsnefndir eru ein stofnfjáreigenda við gildistöku laga þessara né til samruna þeirra, sbr. 72. gr. Sé héraðsnefnd ein stofnfjáreigandi takmarkast atkvæðisréttur hvers aðila við [^1^]/5 hluta af atkvæðamagni í sparisjóði.
+ ■ *97. gr.* Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt að kveða nánar á um framkvæmd þeirra með reglugerð.
+■ *98. gr.* Ákvæði 1. mgr. 15. gr. um fjölda stofnfjáreigenda í sparisjóði og 2. mgr. 35. gr. um tilhögun atkvæðisréttar í sparisjóði taka hvorki til þeirra sparisjóða þar sem sveitarfélög og héraðsnefndir eru ein stofnfjáreigenda við gildistöku laga þessara né til samruna þeirra, sbr. 72. gr. Sé héraðsnefnd ein stofnfjáreigandi takmarkast atkvæðisréttur hvers aðila við [^1^]/5 hluta af atkvæðamagni í sparisjóði.
 ■ *99. gr.* Kostnaður við birtingar tilkynninga samkvæmt lögum þessum greiðist af hlutaðeigandi viðskiptabanka eða sparisjóði.
 ■ *100. gr.* Þrátt fyrir ákvæði 1. mgr. 10. gr. er heimilt að leggja hömlur á viðskipti með hlutabréf í Sparisjóðabanka Íslands hf. sem stofnaður er af sparisjóðunum.
 

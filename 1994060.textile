@@ -43,6 +43,7 @@ h2. Lög um vátryggingastarfsemi
     eigi eignarhluti í öðru félagi og hafi ráðandi stöðu í því, eða
     hliðstæð tengsl einstaklinga eða lögaðila við félag,
      --  félagasamstæða, móður- og dótturfélag eða dótturfélög í sameiningu,
+    [ --  hlutdeildarfélag, félag, þó ekki dótturfélag, sem annað félag og dótturfélög þess eiga eignarhlut í og hafa veruleg áhrif á, en félag er talið hafa veruleg áhrif ef það og dótturfélög þess fara með 20% eða meira af atkvæðum í hlutdeildarfélaginu],[^1)^]
      --  virkur eignarhlutur, beina eða óbeina hlutdeild í félagi sem nemur 10% eða meira af eigin fé eða atkvæðisrétti eða aðra hlutdeild sem gerir kleift að hafa veruleg áhrif á stjórnun viðkomandi félags,
      --  aðildarríki, ríki sem er aðili að Evrópsku efnahagssvæði,
      --  heimaríki, aðildarríki þar sem aðalstöðvar vátryggingafélags eru og starfsleyfi er gefið út,
@@ -50,7 +51,7 @@ h2. Lög um vátryggingastarfsemi
      --  aðildarríki þar sem þjónusta er veitt, aðildarríki þar sem vátryggingafélag eða útibú í öðru aðildarríki vátryggir áhættu sem þar er, sbr. 8. gr., án þess að hafa þar starfsstöð,
      --  þriðja ríki, ríki utan hins Evrópska efnahagssvæðis,
      --  reglulegur markaður, fjármálamarkað í aðildarríki eða þriðja ríki sem heimaríki telur reglulegan markað og einkennist af reglulegri starfsemi og reglum sem samþykktar eru og gefnar út af hlutaðeigandi yfirvöldum sem skilgreina skilyrði fyrir starfsemi og aðgang að markaðnum,
-     --  eftirlitsstjórnvöld, þann aðila sem samkvæmt lögum hlutaðeigandi ríkis fer með eftirlit með vátryggingafélögum og vátryggingastarfsemi, hér á landi [Fjármálaeftirlitið].[^1)^]
+     --  eftirlitsstjórnvöld, þann aðila sem samkvæmt lögum hlutaðeigandi ríkis fer með eftirlit með vátryggingafélögum og vátryggingastarfsemi, hér á landi [Fjármálaeftirlitið],[^2)^]
     [ --  náin tengsl, tengsl vátryggingafélags við
     a. önnur félög í félagasamstæðu sem vátryggingafélagið tilheyrir,
     b. þá sem eiga virkan eignarhlut í vátryggingafélaginu, þó þannig að hlutdeildin nemi minnst 20%,
@@ -60,8 +61,8 @@ h2. Lög um vátryggingastarfsemi
      --  vátryggingamiðlun, faglega starfsemi lögaðila eða einstaklings sem starfar sjálfstætt og veitir upplýsingar, faglega ráðgjöf og aðstoð við að koma á vátryggingasamningi í frumtryggingum eða við framkvæmd ákvæða slíks samnings gagnvart vátryggingafélagi og starfar óháður einstökum vátryggingafélögum,
      --  vátryggingamiðlari, einstakling eða lögaðila sem stundar vátryggingamiðlun og hefur að öllu leyti frjálst val um það til hvaða félags miðlað er,
      --  vátryggingaumboðsmaður, þann sem starfar í nafni og fyrir hönd ákveðinna vátryggingafélaga, eins eða fleiri, við að kynna, gera tillögu um og undirbúa vátryggingasamninga eða aðstoða við framkvæmd slíkra samninga, svo sem þegar tjón hefur orðið,
-     --  vátryggingasölumaður, starfsmann sem starfar á vegum vátryggingamiðlara eða vátryggingaumboðsmanns eða vátryggingafélags og annast m.a. undirbúningsvinnu, kynningu vátrygginga, allt án heimildar til að skuldbinda um vátryggingu á nokkurn hátt þá sem unnið er fyrir, og innheimtu iðgjalda hafi samningur verið gerður.][^2)^]
-    _[^1)^]_"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html [^2)^]"L. 63/1997, 2. gr.":/altext/stjt/1997.063.html
+     --  vátryggingasölumaður, starfsmann sem starfar á vegum vátryggingamiðlara eða vátryggingaumboðsmanns eða vátryggingafélags og annast m.a. undirbúningsvinnu, kynningu vátrygginga, allt án heimildar til að skuldbinda um vátryggingu á nokkurn hátt þá sem unnið er fyrir, og innheimtu iðgjalda hafi samningur verið gerður.][^3)^]
+    _[^1)^]_"L. 97/2000, 1. gr.":/altext/stjt/2000.097.html [^2)^]"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html [^3)^]"L. 63/1997, 2. gr.":/altext/stjt/1997.063.html
  ■ *8. gr.* Í lögum þessum er ríkið þar sem vátryggingaáhætta er:
      --  í eignatryggingum: ríkið þar sem hin vátryggða eign er þegar mannvirki eru vátryggð eða mannvirki ásamt lausafé vátryggt í sama vátryggingasamningi,
      --  í ökutækjatryggingum: ríkið þar sem ökutæki er skráð,
@@ -260,7 +261,11 @@ h2. Lög um vátryggingastarfsemi
     7. Forgangshlutafé og víkjandi lán samkvæmt nánar skilgreindum reglum.
     8. Skuldabréf án tiltekins lánstíma og önnur bréf samkvæmt nánar skilgreindum reglum.
  □ Nánari ákvæði um þær eignir sem telja má til gjaldþols vátryggingafélags skulu sett með reglugerð.
-■ *30. gr.* Gjaldþol vátryggingafélags, sem rekur aðra starfsemi en líftryggingastarfsemi, skal á hverjum tíma nema minnst þeirri fjárhæð sem hærri er samkvæmt eftirfarandi útreikningi er nefnist lágmarksgjaldþol félagsins, sbr. þó 33. gr.:
+ □ [Aðlagað gjaldþol vátryggingafélags sem á annað vátryggingafélag að dótturfélagi eða hlutdeildarfélagi er gjaldþol þess skv. 1. mgr. að frádregnum fjárhæðum sem verða til við að sömu eignir séu taldar beint eða óbeint hjá fleiri en einum aðila, svo og öllum eignum sem verða til við gagnkvæma fjármögnun. Tekið skal tillit til allra dóttur- og hlutdeildarfélaga vátryggingafélagsins, félaga sem hafa yfirráð yfir eða eiga hlutdeild í vátryggingafélaginu og annarra dóttur- og hlutdeildarfélaga þeirra félaga. Fjármálaeftirlitið getur í sérstökum tilvikum krafist eða heimilað að önnur aðferð sé notuð við útreikning aðlagaðs gjaldþols.
+ □ Sé vátryggingafélag dótturfélag annars vátryggingafélags eða félags þar sem meginstarfsemin er eignarhald á vátryggingafélagi skal reikna aðlagað gjaldþol móðurfélagsins samkvæmt ákvæðum þessarar greinar auk útreiknings á gjaldþoli vátryggingafélagsins. Við útreikninginn skal taka tillit til allra hlutdeildarfélaga móðurfélagsins.
+ □ Nánar skal kveða á um útreikning á aðlöguðu gjaldþoli í reglugerð. Þar má einnig tilgreina undanþágur frá skyldu til að reikna aðlagað gjaldþol. Taki útreikningurinn til fyrirtækja í öðrum ríkjum fer um samstarf eftirlitsstjórnvalda eftir alþjóðasamningum sem Ísland er aðili að og samstarfssamningum sem Fjármálaeftirlitið gerir á grundvelli þeirra.][^1)^]
+    _[^1)^]_"L. 97/2000, 2. gr.":/altext/stjt/2000.097.html Þessi ákvæði koma til framkvæmda við eftirlit sem byggist á ársreikningum vegna reikningsársins 2001.
+ ■ *30. gr.* Gjaldþol vátryggingafélags, sem rekur aðra starfsemi en líftryggingastarfsemi, skal á hverjum tíma nema minnst þeirri fjárhæð sem hærri er samkvæmt eftirfarandi útreikningi er nefnist lágmarksgjaldþol félagsins, sbr. þó 33. gr.:
     1. 18% eða 16% bókfærðra iðgjalda félagsins samkvæmt rekstrarreikningi að frádregnum endurgreiðslum og niðurfellingum, en án frádráttar á hlut endurtryggjenda í iðgjöldum, er margfaldað með hlutfallinu milli bókfærðra eigin tjóna og bókfærðra tjóna í heild samkvæmt rekstrarreikningi. Sé síðastnefnda hlutfallið lægra en 0,50 skal margfalda með 0,50. Margfaldað er með 18% af iðgjöldum allt að 10 milljónum ecu en 16% af því sem umfram er. Með iðgjöldum skulu talin framlög eigenda í gagnkvæmum félögum samkvæmt nánari ákvæðum sem sett skulu með reglugerð.
     2. 26% eða 23% meðaltjónsfjárhæðar félagsins á síðustu þremur reikningsárum samkvæmt rekstrarreikningi, án frádráttar á hlut endurtryggjenda í tjónum, er margfaldað með hlutfallinu milli bókfærðra eigin tjóna og bókfærðra tjóna í heild samkvæmt rekstrarreikningi. Sé síðastnefnda hlutfallið lægra en 0,50 skal margfalda með 0,50. Meðaltjónsfjárhæð fæst sem þriðjungur þess þegar lagt er saman, án frádráttar á hlut endurtryggjenda, [tjónaskuld][^1)^] í lok síðasta reikningsárs og bókfærð tjón þriggja síðustu reikningsára en [tjónaskuld][^1)^] í upphafi þriggja ára tímabilsins [dregin][^1)^] frá. Margfaldað er með 26% af meðaltjónsfjárhæð allt að 7 milljónum ecu en 23% af því sem umfram er.
  □ Miða skal við meðaltal sjö síðustu reikningsára í stað þriggja þegar fundið er meðaltal skv. 2. tölul. reki félagið aðallega starfsemi í óveðurs-, hagl- eða frostskaðatryggingum eða í greiðsluvátryggingum.
@@ -275,15 +280,71 @@ h2. Lög um vátryggingastarfsemi
  □ Setja skal nánari reglur um lágmark gjaldþols með reglugerð þegar líftryggingar eru tengdar fjárfestingaráhættu.
 ■ *32. gr.* Uppfylli vátryggingafélag, sem fengið hefur starfsleyfi hér á landi, ekki lágmarkskröfur um gjaldþol samkvæmt ársuppgjöri eða á öðrum tíma skal félagið þegar í stað gera áætlun um hvenær og á hvern hátt markinu verði náð og skal áætlunin lögð fyrir [Fjármálaeftirlitið][^1)^] sem ákveður hvort þær ráðstafanir sem gera á teljist fullnægjandi.
  □ Sé gjaldþol vátryggingafélags minna en þriðjungur lágmarksgjaldþols eða minna en sú lágmarksfjárhæð sem tilgreind er í 33. gr. fyrir þá starfsemi sem félagið rekur, hvort sem hærra er, skal áætlun skv. 1. mgr. miða að því að rétta við fjárhag félagsins á skömmum tíma og skal [Fjármálaeftirlitið][^1)^] setja félaginu frest í því efni, sbr. XI. kafla.
-    _[^1)^]_"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html
+ □ [Sé aðlagað gjaldþol vátryggingafélags eða móðurfélags þess minna en lágmarksgjaldþol skv. 30., 31. og 33. gr. að viðbættri hlutdeild í lágmarksgjaldþoli allra hlutdeildar- og dótturfélaga sem eru vátryggingafélög skal vátryggingafélagið þegar í stað gera áætlun um hvenær og hvernig markinu verði náð og skal áætlunin lögð fyrir Fjármálaeftirlitið sem ákveður hvort hún telst fullnægjandi. Lágmarksgjaldþol hlutdeildar- og dótturfélaga skal reiknað samkvæmt nefndum ákvæðum, jafnvel þótt aðrar reglur gildi í heimaríki þeirra.][^2)^]
+    _[^1)^]_"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html [^2)^]"L. 97/2000, 3. gr.":/altext/stjt/2000.097.html Þessi ákvæði koma til framkvæmda við eftirlit sem byggist á ársreikningum vegna reikningsársins 2001.
  ■ *33. gr.* [Lágmarksgjaldþol mælt í ecu skal þrátt fyrir ákvæði 30. og 31. gr. aldrei vera lægra en hér segir:
 
-|1.|Í líftryggingafélagi, sbr. 23. gr.|800.000|
-|2.|Í félagi sem rekur ábyrgðartryggingar, sbr. 10. - 13. tölul. 1. mgr. 22. gr., eða greiðslu- og efndavátryggingar, sbr. 14. og 15. tölul. 1. mgr. 22. gr., sjá þó 6. tölul. þessarar greinar|400.000|
-|3.|Í félagi sem rekur skaðatryggingar, sbr. 3. - 8., 16. eða 18. tölul. 1. mgr. 22. gr.|300.000|
-|4.|Í félagi sem rekur slysa- og sjúkratryggingar, sbr. 1. og 2. tölul. 1. mgr. 22. gr.|300.000|
-|5.|Í félagi sem rekur réttaraðstoðarvátryggingar, sbr. 17. tölul. 1. mgr. 22. gr. eða aðrar eignatryggingar, sbr. 9. tölul. 1. mgr. 22. gr.|200.000|
-|6.|Í félagi sem rekur greiðsluvátryggingar, sbr. 14. tölul. 22. gr., og ársiðgjöld nema að lágmarki 2.500.000 ecu eða 4% heildariðgjalda|1.400.000][^1)^]|
+1.
+
+Í líftryggingafélagi, sbr. 23. gr.
+
+800.000
+
+2.
+
+Í félagi sem rekur ábyrgðartryggingar,
+
+sbr. 10. - 13. tölul. 1. mgr. 22. gr., eða
+
+greiðslu- og efndavátryggingar, sbr. 14.
+
+og 15. tölul. 1. mgr. 22. gr., sjá þó 6.
+
+tölul. þessarar greinar
+
+400.000
+
+3.
+
+Í félagi sem rekur skaðatryggingar, sbr.
+
+3. - 8., 16. eða 18. tölul. 1. mgr. 22. gr.
+
+300.000
+
+4.
+
+Í félagi sem rekur slysa- og sjúkratrygg-
+
+ingar, sbr. 1. og 2. tölul. 1. mgr. 22. gr.
+
+300.000
+
+5.
+
+Í félagi sem rekur réttaraðstoðarvátrygg-
+
+ingar, sbr. 17. tölul. 1. mgr. 22. gr. eða
+
+aðrar eignatryggingar, sbr. 9. tölul. 1.
+
+mgr. 22. gr.
+
+200.000
+
+6.
+
+Í félagi sem rekur greiðsluvátryggingar,
+
+sbr. 14. tölul. 22. gr., og ársiðgjöld nema
+
+að lágmarki 2.500.000 ecu eða 4%
+
+heildariðgjalda
+
+1.400.000
+
+][^1)^]
 
 □ Reki vátryggingafélag fleiri en eina grein vátrygginga skal miða við þá fjárhæð sem hæst er.
  □ [Fjármálaeftirlitið][^2)^] getur heimilað að lágmarksfjárhæðir skv. 1. mgr. séu lægri í gagnkvæmu vátryggingafélagi en í vátryggingahlutafélagi að teknu tilliti til ábyrgðar vátryggingataka samkvæmt samþykktum félagsins, sbr. 42. gr. Lágmarksfjárhæðir mega þó aldrei vera lægri en þrír fjórðu hlutar þess sem krafist er í vátryggingahlutafélagi.
@@ -336,13 +397,14 @@ h2. Lög um vátryggingastarfsemi
 
  *IV. kafli.* *Stjórn. Endurskoðun og reikningsskil.*
  _Stjórn._
- ■ *43. gr.* Stjórn vátryggingafélags, sem fengið hefur starfsleyfi hér á landi, skal kjörin á aðalfundi samkvæmt ákvæðum samþykkta félagsins og skal skipuð þremur mönnum hið fæsta. Stjórnin hefur almennt eftirlit með því að starfsemi félagsins fari að lögum og samþykktum, þar á meðal eftirlit með bókhaldi og ráðstöfun fjármuna félagsins.
- □ [Stjórnarmenn og framkvæmdastjórar skulu vera búsettir hér á landi, vera lögráða, hafa óflekkað mannorð og mega ekki á síðustu fimm árum hafa verið úrskurðaðir gjaldþrota eða í tengslum við atvinnurekstur hlotið dóm fyrir refsiverðan verknað samkvæmt almennum hegningarlögum eða lögum um hlutafélög, einkahlutafélög, bókhald, ársreikninga, gjaldþrot eða opinber gjöld, svo og löggjöf um vátryggingastarfsemi. Ríkisborgarar þeirra ríkja sem eru aðilar að samningnum um Evrópska efnahagssvæðið eru undanþegnir búsetuskilyrðum enda séu viðkomandi ríkisborgarar búsettir í aðildarríki. Ráðherra er heimilt að veita undanþágu frá búsetuskilyrðum. Menntun, starfsreynsla og starfsferill framkvæmdastjóra skal vera með þeim hætti að tryggt sé talið að hann geti gegnt stöðu sinni á viðhlítandi hátt.][^1)^]
- □ Stjórnin boðar til aðalfunda. Sé ekki boðað til aðalfundar sem halda skal í samræmi við lög, samþykktir eða ákvörðun aðalfundar boðar [Fjármálaeftirlitið][^2)^] til hans að kröfu stjórnarmanns, framkvæmdastjóra, endurskoðanda eða aðila sem atkvæðisbær er á aðalfundi. [Fjármálaeftirlitið][^2)^] tilnefnir fundarstjóra og skal stjórnin afhenda honum skrá yfir þá sem atkvæðisbærir eru, gerðabók aðalfunda og endurskoðunarbók. Félagið greiðir kostnað við aðalfundinn.
- □ Fái stjórnarmenn eða framkvæmdastjórar þóknun eða aðrar tekjur af vátryggingum, sem félagið yfirtekur eða lætur af hendi, vegna þátttöku í umboðs- eða miðlunarstarfsemi eða vegna fjárhagslegra hagsmuna í slíkri starfsemi skal [Fjármálaeftirlitinu][^2)^] send tilkynning þar að lútandi.
- □ Stjórn móðurfélags ber að tilkynna [Fjármálaeftirlitinu][^2)^] þegar mynduð er félagasamstæða og vátryggingafélag öðlast yfirráð í öðru félagi. [Einnig skal tilkynna verulegar breytingar á skipulagi samstæðu þegar þær ganga í gildi.][^1)^]
- □ Stjórn og framkvæmdastjóri skulu án tafar gera [Fjármálaeftirlitinu][^2)^] viðvart hafi þeir vitneskju um málefni sem hafa úrslitaþýðingu fyrir áframhaldandi starfsemi félagsins.
-    _[^1)^]_"L. 63/1997, 12. gr.":/altext/stjt/1997.063.html [^2)^]"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html
+ ■ *43. gr.* Stjórn vátryggingafélags, sem fengið hefur starfsleyfi hér á landi, skal kjörin á aðalfundi samkvæmt ákvæðum samþykkta félagsins og skal skipuð þremur mönnum hið fæsta. Stjórnin hefur almennt eftirlit með því að starfsemi félagsins fari að lögum og samþykktum, þar á meðal eftirlit með bókhaldi og ráðstöfun fjármuna félagsins. [Stjórnin ber ásamt framkvæmdastjóra ábyrgð á því að skipulag félagsins og innra eftirlit sé fullnægjandi og á því að félagið geti lagt fram upplýsingar sem þörf er á til eftirlits með því. Fjármálaeftirlitið getur sett almennar reglur um fyrirkomulag innra eftirlits í vátryggingafélögum.][^1)^]
+ □ [Stjórnarmenn og framkvæmdastjórar skulu vera búsettir hér á landi, vera lögráða, hafa óflekkað mannorð og mega ekki á síðustu fimm árum hafa verið úrskurðaðir gjaldþrota eða í tengslum við atvinnurekstur hlotið dóm fyrir refsiverðan verknað samkvæmt almennum hegningarlögum eða lögum um hlutafélög, einkahlutafélög, bókhald, ársreikninga, gjaldþrot eða opinber gjöld, svo og löggjöf um vátryggingastarfsemi. Ríkisborgarar þeirra ríkja sem eru aðilar að samningnum um Evrópska efnahagssvæðið eru undanþegnir búsetuskilyrðum enda séu viðkomandi ríkisborgarar búsettir í aðildarríki. Ráðherra er heimilt að veita undanþágu frá búsetuskilyrðum. Menntun, starfsreynsla og starfsferill framkvæmdastjóra skal vera með þeim hætti að tryggt sé talið að hann geti gegnt stöðu sinni á viðhlítandi hátt.][^2)^]
+ □ Stjórnin boðar til aðalfunda. Sé ekki boðað til aðalfundar sem halda skal í samræmi við lög, samþykktir eða ákvörðun aðalfundar boðar [Fjármálaeftirlitið][^3)^] til hans að kröfu stjórnarmanns, framkvæmdastjóra, endurskoðanda eða aðila sem atkvæðisbær er á aðalfundi. [Fjármálaeftirlitið][^3)^] tilnefnir fundarstjóra og skal stjórnin afhenda honum skrá yfir þá sem atkvæðisbærir eru, gerðabók aðalfunda og endurskoðunarbók. Félagið greiðir kostnað við aðalfundinn.
+ □ Fái stjórnarmenn eða framkvæmdastjórar þóknun eða aðrar tekjur af vátryggingum, sem félagið yfirtekur eða lætur af hendi, vegna þátttöku í umboðs- eða miðlunarstarfsemi eða vegna fjárhagslegra hagsmuna í slíkri starfsemi skal [Fjármálaeftirlitinu][^3)^] send tilkynning þar að lútandi.
+ □ Stjórn móðurfélags ber að tilkynna [Fjármálaeftirlitinu][^3)^] þegar mynduð er félagasamstæða og vátryggingafélag öðlast yfirráð í öðru félagi. [Einnig skal tilkynna verulegar breytingar á skipulagi samstæðu þegar þær ganga í gildi.][^2)^]
+ □ [Stjórn vátryggingafélags skal setja verklagsreglur um verðbréfaviðskipti félagsins, stjórnar þess og starfsmanna. Verklagsreglurnar skulu staðfestar af Fjármálaeftirlitinu.][^4)^]
+ □ Stjórn og framkvæmdastjóri skulu án tafar gera [Fjármálaeftirlitinu][^3)^] viðvart hafi þeir vitneskju um málefni sem hafa úrslitaþýðingu fyrir áframhaldandi starfsemi félagsins.
+    _[^1)^]_"L. 97/2000, 4. gr.":/altext/stjt/2000.097.html [^2)^]"L. 63/1997, 12. gr.":/altext/stjt/1997.063.html [^3)^]"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html [^4)^]"L. 11/2000, 16. gr.":/altext/stjt/2000.011.html
  ■ *44. gr.* Ársreikning skal semja fyrir hvert reikningsár. Ársreikningur skal hafa að geyma rekstrarreikning, efnahagsreikning, skýringar og upplýsingar um liði utan efnahagsreiknings. Einnig skal semja skýrslu stjórnar sem ásamt ársreikningi myndar eina heild. Reikningsár vátryggingafélags er almanaksárið. Ársreikningur skal gefa glögga mynd af fjárhagsstöðu og rekstrarafkomu vátryggingafélags og skal gerður í samræmi við lög, reglur og góða reikningsskilavenju.
  □ Ársreikningur og skýrsla stjórnar skulu undirrituð af stjórn og framkvæmdastjóra. Hafi stjórnarmaður eða framkvæmdastjóri mótbárur fram að færa skal viðkomandi undirrita með fyrirvara og gera grein fyrir því í skýrslu stjórnar hvað felst í fyrirvaranum.
  □ Ársreikningur ásamt skýrslu stjórnar skal liggja frammi til afhendingar á afgreiðslustað vátryggingafélags eftir samþykkt hans á aðalfundi.
@@ -379,15 +441,21 @@ h2. Lög um vátryggingastarfsemi
  _Eftirlit._
  ■ *53. gr.* [Fjármálaeftirlitið hefur eftirlit með þeim er reka starfsemi sem háð er ákvæðum laga þessara og útibúum erlendra vátryggingafélaga sem fengið hafa starfsleyfi hér á landi. Um eftirlitið fer samkvæmt lögum þessum og lögum um opinbert eftirlit með fjármálastarfsemi.][^1)^]
     _[^1)^]_"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html
- ■ *54. gr.* [Fjármálaeftirlitið][^1)^] skal a.m.k. árlega kanna gjaldþol og greiðsluþol vátryggingafélaga á grundvelli ársreiknings fyrir næstliðið reikningsár og annarra gagna og upplýsinga um starfsemina sem nauðsynleg eru til að slík könnun geti farið fram. [Fjármálaeftirlitið][^1)^] leggur mat á það að lokinni könnun hvort skilyrði 29. - 33. gr., eftir því sem við á, séu uppfyllt. Hafi [Fjármálaeftirlitið][^1)^] athugasemdir fram að færa skal það tilkynnt félaginu að lokinni könnun. Sé nauðsynlegt að grípa til sérstakra ráðstafana vegna þessa eiga ákvæði XI. kafla við.
- □ [Fjármálaeftirlitið][^1)^] leggur árlega mat á vátryggingaskuld vátryggingafélaga, þar á meðal hvort tekið sé á fullnægjandi hátt tillit til óvissu í mati með nauðsynlegu álagi og að skilyrðum um það sem lagt er fram til jöfnunar vátryggingaskuldinni sé fullnægt, sbr. 34. og 35. gr. Vátryggingafélög skulu í gögnum til [Fjármálaeftirlitsins][^1)^] með ársreikningi gera grein fyrir því hvernig vátryggingaskuldin er ákveðin og hvaða eignir eru tilgreindar til að mæta henni. [Fjármálaeftirlitið][^1)^] getur sett almennar reglur um mat á vátryggingaskuldinni og hvaða gögn skuli fylgja í því sambandi auk ársreiknings.
-    _[^1)^]_"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html
+ ■ *54. gr.* [Fjármálaeftirlitið skal a.m.k. árlega kanna gjaldþol og greiðsluþol vátryggingafélaga á grundvelli ársreiknings fyrir næstliðið reikningsár og annarra nauðsynlegra gagna og upplýsinga um starfsemina. Einnig skal kanna aðlagað gjaldþol vátryggingafélaga og móðurfélaga þeirra ef við á. Fjármálaeftirlitið getur snúið sér til dóttur- og hlutdeildarfélaga vátryggingafélags, félaga sem hafa yfirráð yfir eða eiga hlutdeild í vátryggingafélaginu, svo og til dóttur- og hlutdeildarfélaga þeirra félaga, til að afla nauðsynlegra gagna hafi vátryggingafélagið sjálft ekki staðið Fjármálaeftirlitinu skil á þeim. Viðkomandi fyrirtæki skal þegar verða við beiðni um slík gögn. Einu gildir hvort eignaraðild er bein eða óbein. Gögnin má sannreyna með athugun á staðnum, hjá vátryggingafélaginu sjálfu eða öðrum félögum í sömu félagasamstæðu. Fjármálaeftirlitið metur síðan hvort skilyrði 29. - 33. gr., eftir því sem við á, séu uppfyllt. Hafi Fjármálaeftirlitið athugasemdir fram að færa skal það tilkynnt félaginu. Sé nauðsynlegt að grípa til sérstakra ráðstafana vegna þessa eiga ákvæði XI. kafla við.][^1)^]
+ □ [Fjármálaeftirlitið][^2)^] leggur árlega mat á vátryggingaskuld vátryggingafélaga, þar á meðal hvort tekið sé á fullnægjandi hátt tillit til óvissu í mati með nauðsynlegu álagi og að skilyrðum um það sem lagt er fram til jöfnunar vátryggingaskuldinni sé fullnægt, sbr. 34. og 35. gr. Vátryggingafélög skulu í gögnum til [Fjármálaeftirlitsins][^2)^] með ársreikningi gera grein fyrir því hvernig vátryggingaskuldin er ákveðin og hvaða eignir eru tilgreindar til að mæta henni. [Fjármálaeftirlitið][^2)^] getur sett almennar reglur um mat á vátryggingaskuldinni og hvaða gögn skuli fylgja í því sambandi auk ársreiknings.
+ □ [Fjármálaeftirlitið fylgist með viðskiptum vátryggingafélags við dóttur- og hlutdeildarfélög þess, félög sem hafa yfirráð yfir eða eiga hlutdeild í vátryggingafélaginu og við önnur dóttur- og hlutdeildarfélög þeirra félaga. Jafnframt skal Fjármálaeftirlitið fylgjast með viðskiptum vátryggingafélags við einstaklinga sem eiga 20% hlut eða stærri í framangreindum félögum. Sérstaklega skal fylgjast með lánum, ábyrgðum og liðum utan efnahagsreiknings, efnahagsliðum sem myndað geta hluta af gjaldþoli, fjárfestingum, endurtryggingaviðskiptum og samningum um kostnaðarskiptingu.
+ □ Árlega skulu vátryggingafélög skila Fjármálaeftirlitinu skýrslu um slík viðskipti eftir nánari ákvörðun þess. Séu viðskiptin við fyrirtæki eða einstaklinga í öðrum ríkjum fer um samstarf eftirlitsstjórnvalda eftir alþjóðasamningum sem Ísland er aðili að og samstarfssamningum sem Fjármálaeftirlitið gerir á grundvelli þeirra.][^1)^]
+    _[^1)^]_"L. 97/2000, 5. gr.":/altext/stjt/2000.097.html Reglur þessara ákvæða sem varða aðlagað gjaldþol koma til framkvæmda við eftirlit sem byggist á ársreikningum vegna reikningsársins 2001. [^2)^]"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html
  ■ *55. gr.* [Fjármálaeftirlitið][^1)^] skal, eftir því sem kostur er, fylgjast með vátryggingaskilmálum sem í boði eru hér á landi og gæta þess að þeir séu í samræmi við lög sem hér gilda og góða viðskiptaháttu. Telji [Fjármálaeftirlitið][^1)^] að svo sé ekki skal það gera kröfu um að slíkum ákvæðum verði breytt eða þau verði afnumin. Skylt er að senda [Fjármálaeftirlitinu][^1)^] skilmála lögboðinna vátrygginga fyrir fram, svo og breytingar á þeim, og áður en þeir eru boðnir á vátryggingamarkaði.
  □ [Fjármálaeftirlitið][^1)^] skal einnig fylgjast með iðgjaldagrundvelli vátrygginga með það fyrir augum að iðgjöld, sem í boði eru hér á landi, séu sanngjörn í garð vátryggingataka og í samræmi við þá áhættu sem í vátryggingum felst og eðlilegan rekstrarkostnað. Telji [Fjármálaeftirlitið][^1)^] að svo sé ekki skal með rökstuddum hætti gerð athugasemd. Fullnægjandi gögn um reiknigrundvöll líftrygginga og heilsutrygginga, svo og breytingar á þeim, skulu lögð fyrir [Fjármálaeftirlitið][^1)^] fyrir fram og áður en þessir greinaflokkar eru boðnir á vátryggingamarkaði.
  □ [Fjármálaeftirlitið][^1)^] hefur eftirlit með viðskiptaháttum vátryggingafélaga sem fengið hafa starfsleyfi hér á landi, sölustarfsemi þeirra og tjónsuppgjöri. Einnig skal [Fjármálaeftirlitið][^1)^] hafa eftirlit með rekstrarfyrirkomulagi, bókhaldi og innra eftirliti vátryggingafélaga. [Fjármálaeftirlitið][^1)^] skal gera þær kannanir sem það telur nauðsynlegar í þessu efni hjá vátryggingafélögum. Það skal einnig að þessu leyti fylgjast með starfsemi vátryggingafélaga aðildarríkja sem á grundvelli starfsleyfis heimaríkis fá heimild til að bjóða vátryggingar hér á landi og koma á framfæri athugasemdum við hlutaðeigandi félag eða eftirlitsstjórnvöld heimaríkis ef með þarf til úrbóta vegna þess sem [Fjármálaeftirlitið][^1)^] telur að úrskeiðis hafi farið.
  □ ...[^1)^]
  □ [Fjármálaeftirlitið][^1)^] skal ávallt hafa heimild til könnunar á því hjá vátryggingafélögum sem hér reka vátryggingastarfsemi hvort vátryggingaskilmálar, iðgjaldagrundvöllur eða önnur atriði, er snerta starfsemi þeirra eða rekstur, samrýmist lögum og reglum er hér gilda og á rétt á hvers konar gögnum frá vátryggingafélögum þar að lútandi.
-    _[^1)^]_"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html
+ □ [Fjármálaeftirlitið getur krafist hvers konar gagna og upplýsinga frá einstaklingum eða lögaðilum sem eiga eða hyggjast eignast eða fara með eignarhlut í vátryggingafélagi í því skyni að meta hvort þeir falli undir tilkynningarskyldu skv. 39. gr. og hvort þeir teljist hæfir til að fara með virkan eignarhlut skv. 39. og 40. gr.
+ □ Fjármálaeftirlitið getur krafist hvers konar gagna og upplýsinga frá dótturfyrirtækjum eða hlutdeildarfyrirtækjum eða öðrum aðilum sem teljast í nánum tengslum við vátryggingafélag, enda telji Fjármálaeftirlitið upplýsingarnar nauðsynlegar í eftirliti sínu með vátryggingafélaginu.
+ □ Telji Fjármálaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa getur það krafist gagna og upplýsinga hjá viðkomandi aðilum sem nauðsynleg eru til að ganga úr skugga um hvort svo sé. Getur það krafist þess að slíkri starfsemi sé hætt þegar í stað. Jafnframt er því heimilt að birta opinberlega nöfn aðila sem taldir eru bjóða þjónustu án tilskilinna leyfa.
+ □ Heimilt er að beita ákvæðum laga um opinbert eftirlit með fjármálastarfsemi um dagsektir, stjórnvaldssektir og leit og hald á gögnum við upplýsingaöflun og eftirlit samkvæmt þessari grein.][^2)^]
+    _[^1)^]_"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html [^2)^]"L. 11/2000, 17. gr.":/altext/stjt/2000.011.html
 
  *VI. kafli.* *Upplýsingaskylda. Val á löggjöf um vátryggingasamninga.*
  _Upplýsingaskylda._

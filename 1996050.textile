@@ -13,11 +13,12 @@ h2. Upplýsingalög
  □ Lögin taka enn fremur til starfsemi einkaaðila að því leyti sem þeim hefur verið falið opinbert vald til að taka ákvarðanir um rétt eða skyldu manna.
 ■ *2. gr.* _Gildissvið gagnvart öðrum lögum og þjóðréttarsamningum._
  □ Lög þessi gilda ekki um þinglýsingu, aðfarargerðir, kyrrsetningu, löggeymslu, lögbann, nauðungarsölu, greiðslustöðvun, nauðasamninga, gjaldþrotaskipti, skipti á dánarbúum eða önnur opinber skipti, né heldur um rannsókn eða saksókn í opinberu máli.
- □ Lögin gilda ekki um aðgang að upplýsingum samkvæmt stjórnsýslulögum og lögum um skráningu og meðferð persónuupplýsinga. Lögin gilda heldur ekki ef á annan veg er mælt í þjóðréttarsamningum sem Ísland á aðild að.
+ □ [Lögin gilda ekki um aðgang að upplýsingum samkvæmt stjórnsýslulögum. Lögin gilda heldur ekki um aðgang að upplýsingum samkvæmt lögum um persónuvernd og meðferð persónuupplýsinga, nema óskað sé eftir aðgangi að skjölum eða öðrum gögnum sem 2. mgr. 3. gr. laga þessara tekur til. Þá gilda lögin heldur ekki ef á annan veg er mælt í þjóðréttarsamningum sem Ísland á aðild að.][^1)^]
  □ Ákvæði annarra laga, sem heimila víðtækari aðgang að upplýsingum, halda gildi sínu. Almenn ákvæði laga um þagnarskyldu takmarka ekki rétt til aðgangs að gögnum samkvæmt lögum þessum.
+    _[^1)^]_"L. 83/2000, 1. gr.":/altext/stjt/2000.083.html Breytingin öðlast gildi 1. janúar 2001.
 
  *II. kafli.* *Almennur aðgangur að upplýsingum.*
-■ *3. gr.* _Upplýsingaréttur._
+ ■ *3. gr.* _Upplýsingaréttur._
  □ Stjórnvöldum er skylt, sé þess óskað, að veita almenningi aðgang að gögnum sem varða tiltekið mál með þeim takmörkunum sem greinir í 4. - 6. gr.
  □ Réttur til aðgangs að gögnum nær til:
     1. allra skjala sem mál varða, þar með talinna endurrita af bréfum sem stjórnvald hefur sent, enda megi ætla að það hafi borist viðtakanda;
@@ -82,17 +83,24 @@ h2. Upplýsingalög
 ■ *15. gr.* _Úrskurðarnefnd um upplýsingamál._
  □ Forsætisráðherra skipar þrjá menn í úrskurðarnefnd um upplýsingamál til fjögurra ára og jafnmarga til vara. Skulu tveir nefndarmenn og varamenn þeirra uppfylla starfsgengisskilyrði héraðsdómara. Skal annar þeirra vera formaður nefndarinnar en hinn varaformaður. Nefndarmenn mega ekki vera fastráðnir starfsmenn í Stjórnarráði Íslands.
  □ Nefndinni er heimilt að kalla sér til ráðgjafar og aðstoðar sérfróða aðila ef hún telur þörf á.
-■ *16. gr.* _Málsmeðferð._
+ □ [Nefndarmenn eru bundnir þagnarskyldu um allt það sem fram kemur í gögnum er nefndinni eru látin í té. Sama gildir um þá sem hún kann að kveðja sér til aðstoðar.][^1)^]
+    _[^1)^]_"L. 83/2000, 2. gr.":/altext/stjt/2000.083.html
+ ■ *16. gr.* _Málsmeðferð._
  □ Mál skv. 1. mgr. 14. gr. skal borið skriflega undir úrskurðarnefnd um upplýsingamál innan 30 daga frá því að þeim sem fór fram á aðgang að gögnum var tilkynnt um ákvörðun.
- □ Nefndin getur veitt hlutaðeigandi stjórnvaldi stuttan frest til þess að láta í té rökstutt álit á málinu áður en því er ráðið til lykta.
+ □ Nefndin getur veitt hlutaðeigandi stjórnvaldi stuttan frest til þess að láta í té rökstutt álit á málinu áður en því er ráðið til lykta. [Stjórnvaldi er skylt að láta nefndinni í té afrit af þeim gögnum er kæra lýtur að.][^1)^]
  □ Þegar nefndarmenn eru ekki sammála ræður meiri hluti niðurstöðu máls. Ef atkvæði eru jöfn ræður atkvæði formanns.
  □ Um meðferð mála hjá úrskurðarnefndinni fer að öðru leyti eftir VII. kafla stjórnsýslulaga.
-■ *17. gr.* _Birting úrskurðar._
+    _[^1)^]_"L. 83/2000, 3. gr.":/altext/stjt/2000.083.html
+ ■ *17. gr.* _[Birting og aðfararhæfi úrskurðar.][^1)^]_
  □ Úrskurðarnefnd um upplýsingamál skal birta úrskurð þeim sem fór fram á aðgang að gögnum og því stjórnvaldi sem í hlut á svo fljótt sem verða má.
  □ Ef nefndin hefur tekið til greina beiðni um aðgang að gögnum ber stjórnvaldi að veita aðgang að þeim jafnskjótt og úrskurður hefur verið birtur, nema þess sé krafist að réttaráhrifum hans verði frestað skv. 18. gr.
-■ *18. gr.* _Frestun á réttaráhrifum úrskurðar._
- □ Að kröfu stjórnvalds getur úrskurðarnefnd um upplýsingamál ákveðið að fresta réttaráhrifum úrskurðar telji hún sérstaka ástæðu til þess. Krafa þess efnis skal gerð ekki síðar en þremur dögum frá birtingu úrskurðar. Skal frestun á réttaráhrifum úrskurðar vera bundin því skilyrði að stjórnvald beri málið undir dómstóla innan sjö daga frá birtingu úrskurðar og óski eftir að það hljóti flýtimeðferð.
-■ *19. gr.* _Útgáfa úrskurða._
+ □ [Úrskurður samkvæmt lögum þessum um aðgang að gögnum eða afrit af þeim er aðfararhæfur, nema réttaráhrifum hans hafi verið frestað.][^1)^]
+    _[^1)^]_"L. 83/2000, 4. gr.":/altext/stjt/2000.083.html
+ ■ *18. gr.* _Frestun á réttaráhrifum úrskurðar._
+ □ Að kröfu stjórnvalds getur úrskurðarnefnd um upplýsingamál ákveðið að fresta réttaráhrifum úrskurðar telji hún sérstaka ástæðu til þess. Krafa þess efnis skal gerð ekki síðar en þremur dögum frá birtingu úrskurðar. ...[^1)^]
+ □ [Skal frestun á réttaráhrifum bundin því skilyrði að stjórnvald beri málið undir dómstóla innan sjö daga frá birtingu ákvörðunar um frestun réttaráhrifa úrskurðar og óski eftir að það hljóti flýtimeðferð. Nú er beiðni um flýtimeðferð synjað og skal þá mál höfðað innan sjö daga frá því að beiðni um það er synjað.][^1)^]
+    _[^1)^]_"L. 83/2000, 5. gr.":/altext/stjt/2000.083.html
+ ■ *19. gr.* _Útgáfa úrskurða._
  □ Úrskurðarnefnd um upplýsingamál skal árlega gefa út úrskurði sína eða útdrætti úr þeim.
 
  *VI. kafli.* *Aðgangur að gögnum hjá Þjóðskjalasafni Íslands og öðrum opinberum skjalasöfnum.*

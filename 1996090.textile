@@ -36,18 +36,19 @@ h2. Lögreglulög
     e. að annast alþjóðasamskipti á sviði löggæslu,
     f. að veita lögreglustjórum aðstoð og stuðning í lögreglustörfum,
     g. að annast viðfangsefni sem eðli máls samkvæmt eða aðstæðna vegna kalla á miðstýringu eða samhæfingu á landsvísu eða samstarf við lögreglu í öðru landi,
-    h. að hafa með höndum yfirstjórn eða gefa fyrirmæli um framkvæmd einstakra löggæsluverkefna sem krefjast viðamikils undirbúnings eða þátttöku lögreglumanna úr fleiri en einu umdæmi. Ríkislögreglustjóri skal að fengnu samþykki dómsmálaráðherra tilkynna hlutaðeigandi lögreglustjóra eða lögreglustjórum ákvörðun sína varðandi stjórn löggæsluverkefnis með hæfilegum fyrirvara.
+    h. að hafa með höndum yfirstjórn eða gefa fyrirmæli um framkvæmd einstakra löggæsluverkefna sem krefjast viðamikils undirbúnings eða þátttöku lögreglumanna úr fleiri en einu umdæmi. Ríkislögreglustjóri skal að fengnu samþykki dómsmálaráðherra tilkynna hlutaðeigandi lögreglustjóra eða lögreglustjórum ákvörðun sína varðandi stjórn löggæsluverkefnis með hæfilegum fyrirvara,
+    [i. að halda málaskrá um kærur sem berast lögreglu um afbrot með öllum nauðsynlegum upplýsingum sem mál varða, dagbók lögreglu með upplýsingum um erindi til lögreglu og úrlausn þeirra, skrá yfir handtekna menn og aðrar skrár sem nauðsynlegar eru í þágu löggæsluhagsmuna til að afstýra yfirvofandi hættu eða sporna við afbrotum. Dómsmálaráðherra setur nánari reglur um þessar skrár.][^1)^]
  □ 2. Sérstök verkefni sem ríkislögreglustjóra ber að hafa með höndum eru:
     a. að starfrækja lögreglurannsóknardeild sem rannsakar skatta- og efnahagsbrot,
-    b. að starfrækja lögreglurannsóknardeild sem rannsakar landráð og brot gegn stjórnskipan ríkisins og æðstu stjórnvöldum þess og aðstoðar lögreglustjóra við rannsókn alvarlegra brota, ...[^1)^]
+    b. að starfrækja lögreglurannsóknardeild sem rannsakar landráð og brot gegn stjórnskipan ríkisins og æðstu stjórnvöldum þess og aðstoðar lögreglustjóra við rannsókn alvarlegra brota, ...[^2)^]
     c. að starfrækja almenna deild er annist kerfisbundna skráningu upplýsinga um lögreglumálefni, hafi umsjón með kaupum á ökutækjum, búnaði og fatnaði lögreglu og hafi reglulegt eftirlit með lögreglustöðvum, tækjum þeirra og búnaði,
     d. að starfrækja alþjóðadeild er annist alþjóðleg boðskipti,
     e. að starfrækja rannsóknarstofu sem annist skjalarannsóknir, fingrafararannsóknir og aðrar slíkar tæknilegar lögreglurannsóknir,
-    [f. að starfrækja áfengiseftirlitsdeild sem annist eftirlit með meðferð áfengis.][^2)^]
- □ 3. Dómsmálaráðherra mælir nánar fyrir[^3)^] um starfsemi ríkislögreglustjóra.
+    [f. að starfrækja áfengiseftirlitsdeild sem annist eftirlit með meðferð áfengis.][^3)^]
+ □ 3. Dómsmálaráðherra mælir nánar fyrir[^4)^] um starfsemi ríkislögreglustjóra.
  □ 4. Ríkislögreglustjóra til aðstoðar er vararíkislögreglustjóri. Hann er staðgengill ríkislögreglustjóra.
  □ 5. Þegar ríkislögreglustjóri er svo við málsefni eða aðila riðinn að hann mætti eigi gegna dómarastörfum í því skal hann víkja sæti og setur dómsmálaráðherra þá löghæfan mann til meðferðar þess máls.
-    _[^1)^]_"L. 29/1998, 1. gr.":/altext/stjt/1998.029.html [^1)^]"L. 78/1998, 1. gr.":/altext/stjt/1998.078.html [^3)^]Rg. 396/1997. Rg. 406/1997.
+    _[^1)^]_"L. 15/2000, 10. gr.":/altext/stjt/2000.015.html [^2)^]"L. 29/1998, 1. gr.":/altext/stjt/1998.029.html [^3)^]"L. 78/1998, 1. gr.":/altext/stjt/1998.078.html [^4)^]Rg. 396/1997. Rg. 406/1997.
  ■ *6. gr.* _Lögregluumdæmi og stjórn þeirra._
  □ 1. Landið skiptist í lögregluumdæmi sem fara saman við skiptingu þess í stjórnsýsluumdæmi. Sýslumenn eru lögreglustjórar, hver í sínu umdæmi nema í Reykjavík þar sem lögreglustjórn er í höndum sérstaks lögreglustjóra. Við embætti lögreglustjórans í Reykjavík skal starfa varalögreglustjóri.
  □ 2. Lögreglustjórar fara með stjórn lögregluliðs, hver í sínu umdæmi. Þeir annast daglega stjórn og rekstur lögreglunnar í umdæmi sínu og bera ábyrgð á framkvæmd lögreglustarfa innan þess.
@@ -189,13 +190,14 @@ h2. Lögreglulög
  ■ *38. gr.* _Inntaka nýnema og námstilhögun._
  □ 1. Ríkislögreglustjóri auglýsir eftir nemum í skólann um land allt. Hann ákveður fjölda nemenda sem hefja skulu nám ár hvert á grundvelli áætlunar um endurnýjun í lögreglu ríkisins.
  □ 2. Lögreglumannsefni skulu fullnægja eftirtöldum almennum skilyrðum:
-    a. vera íslenskir ríkisborgarar, 20 til 35 ára og ekki hafa hlotið dóm fyrir refsiverðan verknað samkvæmt almennum hegningarlögum,
+    a. vera íslenskir ríkisborgarar, 20 til 35 ára [en þó má víkja frá aldurshámarkinu við sérstakar aðstæður],[^1)^] og ekki hafa hlotið dóm fyrir refsiverðan verknað samkvæmt almennum hegningarlögum,
     b. vera andlega og líkamlega heilbrigð og standast læknisskoðun trúnaðarlæknis,
-    c. hafa lokið a.m.k. tveggja ára almennu framhaldsnámi eða öðru sambærilegu námi með fullnægjandi árangri, þau skulu hafa gott vald á íslensku, einu Norðurlandamáli auk ensku eða þýsku, þau skulu hafa almenn ökuréttindi til bifreiðaaksturs, lögreglumannsefni skulu synd,
+    c. hafa lokið a.m.k. tveggja ára almennu framhaldsnámi eða öðru sambærilegu námi með fullnægjandi árangri [eða starfsþjálfun sem jafna má til slíks náms],[^1)^] þau skulu hafa gott vald á íslensku, einu Norðurlandamáli auk ensku eða þýsku, þau skulu hafa almenn ökuréttindi til bifreiðaaksturs, lögreglumannsefni skulu synd,
     d. standast inntökupróf samkvæmt kröfum skólanefndar með áherslu á íslensku og þrek.
  □ 3. Valnefnd velur nema í lögregluskólann úr hópi umsækjenda. Nefndina skipa fimm menn, einn tilnefndur af dómsmálaráðherra, einn af ríkislögreglustjóra, einn af Sýslumannafélagi Íslands, einn af Landssambandi lögreglumanna og einn af skólastjóra Lögregluskóla ríkisins er skal vera formaður nefndarinnar.
- □ 4. Nám í lögregluskólanum skiptist í tvær annir og skal nám á fyrri önn ólaunað. Áður en nám á síðari önn hefst skal ríkislögreglustjóri sjá nemum fyrir starfsþjálfun í lögreglu ríkisins í a.m.k. átta mánuði. Nám á síðari önn skólans skal vera launað.
-■ *39. gr.* _Reglugerð um Lögregluskóla ríkisins._
+ □ 4. [Nám í lögregluskólanum stendur í a.m.k. tólf mánuði og skiptist í þrjár annir. Fyrsta önn er ólaunuð. Þeim nemum sem standast próf á önninni skal ríkislögreglustjóri sjá fyrir launaðri starfsþjálfun í lögreglu ríkisins í a.m.k. fjóra mánuði. Að lokinni starfsþjálfunarönn tekur við launuð þriðja önn í lögregluskólanum sem lýkur með prófum.][^1)^]
+    _[^1)^]_"L. 49/2000, 1. gr.":/altext/stjt/2000.049.html
+ ■ *39. gr.* _Reglugerð um Lögregluskóla ríkisins._
  □ Dómsmálaráðherra setur í reglugerð[^1)^] nánari fyrirmæli um stjórn skólans og starfslið, inntökuskilyrði, námstilhögun og prófkröfur.
     _[^1)^]Rg. 490/1997_.
 
