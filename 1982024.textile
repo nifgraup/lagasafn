@@ -2,270 +2,297 @@
 
 h2. Lög um flutningssamninga og ábyrgð við vöruflutninga á landi
 
-*1982 nr. 24 31. mars*
+*1982, nr. 24, 31. mars*
 
 <hr />
 
+h3. I. kafli.
+
+h3. Gildissvið.
+
+*1. gr.*
+
+        Lög þessi gilda um vöruflutninga á landi með bifreiðum, enda annist vöruflytjandi að jafnaði flutning fyrir fleiri en einn aðila í sömu ferð og gegn gjaldi.
 
 
 
-*I. kafli.*
 
-*Gildissvið.*
+*2. gr.*
 
-1. gr.
-
-     Lög þessi gilda um vöruflutninga á landi með bifreiðum, enda annist vöruflytjandi að jafnaði flutning fyrir fleiri en einn aðila í sömu ferð og gegn gjaldi.
+        Lög þessi gilda einnig um vöruflutninga með vögnum, sem tengdir eru eða festir við bifreið, en ganga ekki fyrir eigin vélarafli.
 
 
 
-2. gr.
 
-     Lög þessi gilda einnig um vöruflutninga með vögnum, sem tengdir eru eða festir við bifreið, en ganga ekki fyrir eigin vélarafli.
+*3. gr.*
 
-
-
-3. gr.
-
-     Sé ökutæki samkvæmt 1. og 2. gr. flutt hluta leiðar á skipi án þess það sé jafnframt losað, gilda þessi lög engu að síður.
-      Þurfi að skipta um ökutæki á leiðinni, eða áður en varan er komin á endanlegan ákvörðunarstað, telst samt vera um einn flutning að ræða.
+        Sé ökutæki samkvæmt 1. og 2. gr. flutt hluta leiðar á skipi án þess það sé jafnframt losað, gilda þessi lög engu að síður.
+         Þurfi að skipta um ökutæki á leiðinni, eða áður en varan er komin á endanlegan ákvörðunarstað, telst samt vera um einn flutning að ræða.
 
 
 
-4. gr.
 
-     Flutningur samkvæmt lögum þessum er talinn hefjast, er flytjandi tekur við vöru til flutnings, og lýkur við afhendingu hennar til móttakanda.
+*4. gr.*
 
-
-
-5. gr.
-
-     Ákvæði laga þessara um réttaráhrif aðgerða eða aðgerðaleysis sendanda, flytjanda eða móttakanda taka einnig til þess háttar athæfis umboðsmanna þeirra eða starfsmanna, sem viðkomandi aðilar ábyrgjast.
+        Flutningur samkvæmt lögum þessum er talinn hefjast, er flytjandi tekur við vöru til flutnings, og lýkur við afhendingu hennar til móttakanda.
 
 
 
-*II. kafli.*
 
-*Flutningssamningar.*
+*5. gr.*
 
-6. gr.
+        Ákvæði laga þessara um réttaráhrif aðgerða eða aðgerðaleysis sendanda, flytjanda eða móttakanda taka einnig til þess háttar athæfis umboðsmanna þeirra eða starfsmanna, sem viðkomandi aðilar ábyrgjast.
 
-     Fyrir sérhverja vörusendingu skal sendandi, sé ei um annað samið, útfylla fylgibréf á þar til gerð eyðublöð, sem flytjandi útvegar. Í því skulu vera eftirfarandi upplýsingar:
+
+
+
+h3. II. kafli.
+
+h3. Flutningssamningar.
+
+*6. gr.*
+
+        Fyrir sérhverja vörusendingu skal sendandi, sé ei um annað samið, útfylla fylgibréf á þar til gerð eyðublöð, sem flytjandi útvegar. Í því skulu vera eftirfarandi upplýsingar:
 
 <dl>
-<dt>1.</dt>
-<dd>Nafn og heimilisfang sendanda.</dd>
-<dt>2.</dt>
-<dd>Nafn og heimilisfang móttakanda.</dd>
-<dt>3.</dt>
-<dd>Dagsetning á móttöku flytjanda á vörunni.</dd>
-<dt>4.</dt>
-<dd>Fjöldi pakka, tilgreining vöru, pökkun, mál og vigt.</dd>
-<dt>5.</dt>
-<dd>Merking vöru.</dd>
-<dt>6.</dt>
-<dd>Greiðsluskilmálar.</dd>
-<dt>7.</dt>
-<dd>Kröfuupphæðir, sem innheimta á hjá móttakanda sé um slíkt að ræða.</dd>
-<dt>8.</dt>
-<dd>Tilgreining á verðmæti vörunnar, ef sérstakar ástæður eru til.</dd>
-<dt>9.</dt>
-<dd>Sérstök tilgreining, ef geyma á vöruna við ákveðið hitastig.</dd>
+<dt></dt>
+<dd>1. Nafn og heimilisfang sendanda.</dd>
+<dt></dt>
+<dd>2. Nafn og heimilisfang móttakanda.</dd>
+<dt></dt>
+<dd>3. Dagsetning á móttöku flytjanda á vörunni.</dd>
+<dt></dt>
+<dd>4. Fjöldi pakka, tilgreining vöru, pökkun, mál og vigt.</dd>
+<dt></dt>
+<dd>5. Merking vöru.</dd>
+<dt></dt>
+<dd>6. Greiðsluskilmálar.</dd>
+<dt></dt>
+<dd>7. Kröfuupphæðir, sem innheimta á hjá móttakanda sé um slíkt að ræða.</dd>
+<dt></dt>
+<dd>8. Tilgreining á verðmæti vörunnar, ef sérstakar ástæður eru til.</dd>
+<dt></dt>
+<dd>9. Sérstök tilgreining, ef geyma á vöruna við ákveðið hitastig.</dd>
 </dl>
 
 
-      Í fylgibréfi skal flytjandi tilgreina:
+         Í fylgibréfi skal flytjandi tilgreina:
 
 <dl>
-<dt>1.</dt>
-<dd>Flutningsgjald.</dd>
-<dt>2.</dt>
-<dd>Tryggingariðgjald, ef við á.</dd>
+<dt></dt>
+<dd>1. Flutningsgjald.</dd>
+<dt></dt>
+<dd>2. Tryggingariðgjald, ef við á.</dd>
 </dl>
 
 
-      Hlutaðeigendur geta bætt í fylgibréfið öðrum upplýsingum, sem þeir telja nauðsynlegar.
-      Flytjandi staðfestir móttöku vörunnar með undirskrift sinni á fylgibréfið.
-      Sendanda ber að merkja vöruna greinilega með nafni, heimilisfangi og síma móttakanda, svo og með öðrum nauðsynlegum upplýsingum.
+         Hlutaðeigendur geta bætt í fylgibréfið öðrum upplýsingum, sem þeir telja nauðsynlegar.
+         Flytjandi staðfestir móttöku vörunnar með undirskrift sinni á fylgibréfið.
+         Sendanda ber að merkja vöruna greinilega með nafni, heimilisfangi og síma móttakanda, svo og með öðrum nauðsynlegum upplýsingum.
 
 
 
-7. gr.
 
-     Nú er fylgibréf eigi gefið út eða er ekki þess efnis, sem áskilið er, eða það hefur glatast og gilda þá ákvæði laga þessara engu að síður.
+*7. gr.*
 
-
-
-8. gr.
-
-     Ef ákveðin bifreið er tilgreind í fylgibréfi, er flytjanda óheimilt að flytja vöruna með annarri bifreið, nema um það sé samið sérstaklega.
+        Nú er fylgibréf eigi gefið út eða er ekki þess efnis, sem áskilið er, eða það hefur glatast og gilda þá ákvæði laga þessara engu að síður.
 
 
 
-9. gr.
 
-     Við móttöku vöru skal flytjandi kanna, hvort upplýsingar í fylgibréfi séu réttar.
-      Flytjandi getur gert fyrirvara um tilgreiningu sendanda í fylgibréfi, enda sé slíkur fyrirvari rökstuddur.
+*8. gr.*
 
-
-
-10. gr.
-
-     Sé hættuleg vara afhent til flutnings, skal sendandi gefa nákvæmar upplýsingar um, í hverju hættan sé fólgin, og ef nauðsynlegt er, hvaða varúðarráðstafanir verði að viðhafa.
+        Ef ákveðin bifreið er tilgreind í fylgibréfi, er flytjanda óheimilt að flytja vöruna með annarri bifreið, nema um það sé samið sérstaklega.
 
 
 
-11. gr.
 
-     Sendandi hefur umráðarétt yfir vörunni meðan á flutningi stendur. Hann getur því óskað eftir stöðvun flutnings, breytingu á ákvörðunarstað eða móttakanda, enda ber honum að greiða kostnað sem slíkar breytingar hafa í för með sér.
+*9. gr.*
 
-
-
-12. gr.
-
-     Þegar vara er komin á ákvörðunarstað, getur móttakandi krafist afhendingar vörunnar gegn kvittun.
-      Móttakandi, sem vill nýta þennan rétt sinn, er skyldur að greiða þá upphæð, sem í skuld stendur samkvæmt fylgibréfi, og framvísa frumriti sé þess krafist af sendanda.
-      Verði ágreiningur um upphæðina, er flytjanda ekki skylt að afhenda vöruna nema gegn tryggingu.
+        Við móttöku vöru skal flytjandi kanna, hvort upplýsingar í fylgibréfi séu réttar.
+         Flytjandi getur gert fyrirvara um tilgreiningu sendanda í fylgibréfi, enda sé slíkur fyrirvari rökstuddur.
 
 
 
-13. gr.
 
-     Komi í ljós áður en varan er komin til ákvörðunarstaðar, að flytjandi geti ekki fullnægt skilmálum fylgibréfs, skal hann leita fyrirmæla sendanda. Sé unnt að framkvæma flutninginn á annan hátt en ákveðinn er í flutningssamningi og hafi flytjandi ekki innan eðlilegs tíma fengið fyrirmæli frá sendanda, skal hann gera þær ráðstafanir, sem ætla verður, að séu sendanda hagstæðastar, þar á meðal selja vöruna, ef eigi er annars kostur.
+*10. gr.*
 
-
-
-14. gr.
-
-     Séu vandkvæði á afhendingu vöru eftir að hún er komin á ákvörðunarstað, skal flytjandi leita fyrirmæla sendanda á sama hátt og mælt er fyrir um í 13. gr.
+        Sé hættuleg vara afhent til flutnings, skal sendandi gefa nákvæmar upplýsingar um, í hverju hættan sé fólgin, og ef nauðsynlegt er, hvaða varúðarráðstafanir verði að viðhafa.
 
 
 
-15. gr.
 
-     Hafi ekki verið samið um fjárhæð flutningsgjalds, skal greiða það gjald, sem almennt var notað, þegar flytjandi tók við vörunni.
-      Hafi verið flutt meira vörumagn en fylgibréf getur um, skal greiða flutningsgjald fyrir það, sem umfram er.
+*11. gr.*
 
-
-
-*III. kafli.*
-
-*Ábyrgð flytjanda.*
-
-16. gr.
-
-     Flytjandi er ábyrgur fyrir tjóni, sem verður á vörunni meðan á flutningi stendur, svo og hvarfi hennar á sama tímabili, og er skaðabótaskyldur samkvæmt almennum reglum. Á sama hátt ber flytjandi ábyrgð á tjóni af völdum óeðlilegs dráttar á að flytja móttekna vöru til ákvörðunarstaðar.
+        Sendandi hefur umráðarétt yfir vörunni meðan á flutningi stendur. Hann getur því óskað eftir stöðvun flutnings, breytingu á ákvörðunarstað eða móttakanda, enda ber honum að greiða kostnað sem slíkar breytingar hafa í för með sér.
 
 
 
-17. gr.
 
-     Flytjandi er undanþeginn ábyrgð á tjóni, sem orsakast af eftirgreindum ástæðum:
+*12. gr.*
+
+        Þegar vara er komin á ákvörðunarstað, getur móttakandi krafist afhendingar vörunnar gegn kvittun.
+         Móttakandi, sem vill nýta þennan rétt sinn, er skyldur að greiða þá upphæð, sem í skuld stendur samkvæmt fylgibréfi, og framvísa frumriti sé þess krafist af sendanda.
+         Verði ágreiningur um upphæðina, er flytjanda ekki skylt að afhenda vöruna nema gegn tryggingu.
+
+
+
+
+*13. gr.*
+
+        Komi í ljós áður en varan er komin til ákvörðunarstaðar, að flytjandi geti ekki fullnægt skilmálum fylgibréfs, skal hann leita fyrirmæla sendanda. Sé unnt að framkvæma flutninginn á annan hátt en ákveðinn er í flutningssamningi og hafi flytjandi ekki innan eðlilegs tíma fengið fyrirmæli frá sendanda, skal hann gera þær ráðstafanir, sem ætla verður, að séu sendanda hagstæðastar, þar á meðal selja vöruna, ef eigi er annars kostur.
+
+
+
+
+*14. gr.*
+
+        Séu vandkvæði á afhendingu vöru eftir að hún er komin á ákvörðunarstað, skal flytjandi leita fyrirmæla sendanda á sama hátt og mælt er fyrir um í 13. gr.
+
+
+
+
+*15. gr.*
+
+        Hafi ekki verið samið um fjárhæð flutningsgjalds, skal greiða það gjald, sem almennt var notað, þegar flytjandi tók við vörunni.
+         Hafi verið flutt meira vörumagn en fylgibréf getur um, skal greiða flutningsgjald fyrir það, sem umfram er.
+
+
+
+
+h3. III. kafli.
+
+h3. Ábyrgð flytjanda.
+
+*16. gr.*
+
+        Flytjandi er ábyrgur fyrir tjóni, sem verður á vörunni meðan á flutningi stendur, svo og hvarfi hennar á sama tímabili, og er skaðabótaskyldur samkvæmt almennum reglum. Á sama hátt ber flytjandi ábyrgð á tjóni af völdum óeðlilegs dráttar á að flytja móttekna vöru til ákvörðunarstaðar.
+
+
+
+
+*17. gr.*
+
+        Flytjandi er undanþeginn ábyrgð á tjóni, sem orsakast af eftirgreindum ástæðum:
 
 <dl>
-<dt>a.</dt>
-<dd>Vanrækslu eða mistökum sendanda eða móttakanda eða umboðsmanna þeirra.</dd>
-<dt>b.</dt>
-<dd>Skemmdum vegna ófullnægjandi ytri eða innri umbúða, eða vegna sérstakra eiginleika vörunnar, sem flytjanda var ekki kunnugt um eða gat ekki varast.</dd>
-<dt>c.</dt>
-<dd>Hvarfi, rýrnun eða skemmdum á vörunni sem rekja má til lestunar, röðunar eða losunar, sem sendandi eða móttakandi hafa annast að öllu leyti eða að hluta.</dd>
-<dt>d.</dt>
-<dd>Röngum eða ófullnægjandi upplýsingum um vöruna í fylgibréfi.</dd>
-<dt>e.</dt>
-<dd>Alvarlegum, ófyrirsjáanlegum atburðum (force majeure), svo sem ófriði, geislavirkni, uppþotum, verkföllum, verkbönnum, náttúruhamförum o.þ.h.</dd>
+<dt></dt>
+<dd>a. Vanrækslu eða mistökum sendanda eða móttakanda eða umboðsmanna þeirra.</dd>
+<dt></dt>
+<dd>b. Skemmdum vegna ófullnægjandi ytri eða innri umbúða, eða vegna sérstakra eiginleika vörunnar, sem flytjanda var ekki kunnugt um eða gat ekki varast.</dd>
+<dt></dt>
+<dd>c. Hvarfi, rýrnun eða skemmdum á vörunni sem rekja má til lestunar, röðunar eða losunar, sem sendandi eða móttakandi hafa annast að öllu leyti eða að hluta.</dd>
+<dt></dt>
+<dd>d. Röngum eða ófullnægjandi upplýsingum um vöruna í fylgibréfi.</dd>
+<dt></dt>
+<dd>e. Alvarlegum, ófyrirsjáanlegum atburðum (force majeure), svo sem ófriði, geislavirkni, uppþotum, verkföllum, verkbönnum, náttúruhamförum o.þ.h.</dd>
 </dl>
 
 
 
 
 
-18. gr.
 
-     Skaðabætur fyrir skemmda eða glataða vöru skulu ákvarðast af því verðgildi, sem varan hefði haft ósködduð við afhendingu til flytjanda. Að auki skal flutningskostnaður bættur, svo og annar kostnaður vegna flutnings á vörunni, sem tapast hefur.
+*18. gr.*
 
-
-
-19. gr.
-
-     Þrátt fyrir ákvæði 18. gr. verður flytjanda aldrei gert að greiða hærri skaðabætur en sem nemur kr. 150,00 fyrir hvert brúttókílógramm í vörusendingu, nema tjónið megi rekja til ásetnings eða stórfellds gáleysis flytjanda eða manna, sem hann ábyrgist. Hámarksupphæð þessi skal breytast í samræmi við breytingar á vísitölu vöru og þjónustu frá því sem hún er, þegar lög þessi taka gildi.
+        Skaðabætur fyrir skemmda eða glataða vöru skulu ákvarðast af því verðgildi, sem varan hefði haft ósködduð við afhendingu til flytjanda. Að auki skal flutningskostnaður bættur, svo og annar kostnaður vegna flutnings á vörunni, sem tapast hefur.
 
 
 
-20. gr.
 
-     Hafi sendandi gefið upp í fylgibréfi hærra verðmæti vöru en kveðið er á um í 19. gr., og greitt flutningsgjald í samræmi við það, gildir það verðmæti við ákvörðun skaðabóta.
+*19. gr.*
 
-
-
-*IV. kafli.*
-
-*Ábyrgð sendanda.*
-
-21. gr.
-
-     Sendandi ber ábyrgð á, að þær upplýsingar, sem tilgreindar eru í fylgibréfi og merkingu vöru, séu réttar. Hann er ábyrgur fyrir kostnaði eða tjóni sem hlýst af því, að upplýsingarnar eru rangar, ónákvæmar, ógreinilegar eða að öðru leyti ófullkomnar.
+        Þrátt fyrir ákvæði 18. gr. verður flytjanda aldrei gert að greiða hærri skaðabætur en sem nemur kr. 150,00 fyrir hvert brúttókílógramm í vörusendingu, nema tjónið megi rekja til ásetnings eða stórfellds gáleysis flytjanda eða manna, sem hann ábyrgist. Hámarksupphæð þessi skal breytast í samræmi við breytingar á vísitölu vöru og þjónustu frá því sem hún er, þegar lög þessi taka gildi.
 
 
 
-22. gr.
 
-     Sendandi er ábyrgur gagnvart flytjanda vegna tjóns sem vörusending hans veldur á mönnum, efni eða annarri vöru vegna þess að umbúðir eru lélegar eða ófullnægjandi. Þetta gildir þó ekki, ef framangreint ástand umbúðanna er sýnilegt eða flytjanda kunnugt um það, og hann tekur við vörunni án fyrirvara um ástand umbúða.
+*20. gr.*
 
-
-
-23. gr.
-
-     Sendandi skal sjá um, að vara, sem hefur í för með sér bruna- eða sprengihættu, svo og sýrur eða önnur fljótandi efni, sem skemmt geta út frá sér, skuli vera í fullnægjandi umbúðum. Jafnframt skal varan merkt þannig, að varast megi hættuna.
+        Hafi sendandi gefið upp í fylgibréfi hærra verðmæti vöru en kveðið er á um í 19. gr., og greitt flutningsgjald í samræmi við það, gildir það verðmæti við ákvörðun skaðabóta.
 
 
 
-24. gr.
 
-     Nú hefur vara, sem um getur í 23. gr., verið afhent til flutnings án þess að flytjanda væri kunnugt um þessa eiginleika hennar, og er honum þá heimilt að skilja vöruna eftir, þar sem hann er staddur, og gera hana óskaðlega eða eyðileggja hana með þeim hætti að ekki valdi öðrum tjóni, enda er hann þá ekki skaðabótaskyldur. Þess skal ávallt gætt í slíkum tilvikum, að sendandi verði fyrir sem minnstum skaða.
+h3. IV. kafli.
 
+h3. Ábyrgð sendanda.
 
+*21. gr.*
 
-*V. kafli.*
-
-*Ábyrgð móttakanda.*
-
-25. gr.
-
-     Móttakandi skal sækja vöru, eins fljótt og verða má, eftir að honum er kunnugt um, að varan sé tilbúin til afhendingar á ákvörðunarstað. Með móttöku vöru skuldbindur móttakandi sig til að greiða flutningsgjald og aðrar kröfur, sem flytjandi getur krafist greiðslu á samkvæmt fylgibréfi.
+        Sendandi ber ábyrgð á, að þær upplýsingar, sem tilgreindar eru í fylgibréfi og merkingu vöru, séu réttar. Hann er ábyrgur fyrir kostnaði eða tjóni sem hlýst af því, að upplýsingarnar eru rangar, ónákvæmar, ógreinilegar eða að öðru leyti ófullkomnar.
 
 
 
-26. gr.
 
-     Flytjandi hefur handveð í vörunni, þar til flutningsgjald, kröfur og annar kostnaður, sem af flutningi stafar, hefur verið greiddur.
+*22. gr.*
 
-
-
-27. gr.
-
-     Taki móttakandi við vöru, sem hætt er við skemmdum, án þess að gera fyrirvara, skal talið, að varan hafi verið óskemmd og í samræmi við flutningssamninginn, þar til annað sannast.
+        Sendandi er ábyrgur gagnvart flytjanda vegna tjóns sem vörusending hans veldur á mönnum, efni eða annarri vöru vegna þess að umbúðir eru lélegar eða ófullnægjandi. Þetta gildir þó ekki, ef framangreint ástand umbúðanna er sýnilegt eða flytjanda kunnugt um það, og hann tekur við vörunni án fyrirvara um ástand umbúða.
 
 
 
-28. gr.
 
-     Vilji móttakandi krefjast bóta fyrir hvarf eða skemmdir á vöru ber honum að tilkynna flytjanda það án tafar. Tilkynningin skal skráð í fylgibréfi eða send bréflega.
+*23. gr.*
 
-
-
-*VI. kafli.*
-
-*Ýmis ákvæði.*
-
-29. gr.
-
-     Kröfur, sem rísa kunna á grundvelli þessara laga, fyrnast á einu ári frá því móttakandi kvittar fyrir móttöku vörunnar, eða á einu ári og tveimur mánuðum frá því að vara var afhent til flutnings, sé ekki um kvittun móttakanda að ræða.
+        Sendandi skal sjá um, að vara, sem hefur í för með sér bruna- eða sprengihættu, svo og sýrur eða önnur fljótandi efni, sem skemmt geta út frá sér, skuli vera í fullnægjandi umbúðum. Jafnframt skal varan merkt þannig, að varast megi hættuna.
 
 
 
-30. gr.
 
-     Lög þessi öðlast gildi 1. júní 1982.
+*24. gr.*
+
+        Nú hefur vara, sem um getur í 23. gr., verið afhent til flutnings án þess að flytjanda væri kunnugt um þessa eiginleika hennar, og er honum þá heimilt að skilja vöruna eftir, þar sem hann er staddur, og gera hana óskaðlega eða eyðileggja hana með þeim hætti að ekki valdi öðrum tjóni, enda er hann þá ekki skaðabótaskyldur. Þess skal ávallt gætt í slíkum tilvikum, að sendandi verði fyrir sem minnstum skaða.
+
+
+
+
+h3. V. kafli.
+
+h3. Ábyrgð móttakanda.
+
+*25. gr.*
+
+        Móttakandi skal sækja vöru, eins fljótt og verða má, eftir að honum er kunnugt um, að varan sé tilbúin til afhendingar á ákvörðunarstað. Með móttöku vöru skuldbindur móttakandi sig til að greiða flutningsgjald og aðrar kröfur, sem flytjandi getur krafist greiðslu á samkvæmt fylgibréfi.
+
+
+
+
+*26. gr.*
+
+        Flytjandi hefur handveð í vörunni, þar til flutningsgjald, kröfur og annar kostnaður, sem af flutningi stafar, hefur verið greiddur.
+
+
+
+
+*27. gr.*
+
+        Taki móttakandi við vöru, sem hætt er við skemmdum, án þess að gera fyrirvara, skal talið, að varan hafi verið óskemmd og í samræmi við flutningssamninginn, þar til annað sannast.
+
+
+
+
+*28. gr.*
+
+        Vilji móttakandi krefjast bóta fyrir hvarf eða skemmdir á vöru ber honum að tilkynna flytjanda það án tafar. Tilkynningin skal skráð í fylgibréfi eða send bréflega.
+
+
+
+
+h3. VI. kafli.
+
+h3. Ýmis ákvæði.
+
+*29. gr.*
+
+        Kröfur, sem rísa kunna á grundvelli þessara laga, fyrnast á einu ári frá því móttakandi kvittar fyrir móttöku vörunnar, eða á einu ári og tveimur mánuðum frá því að vara var afhent til flutnings, sé ekki um kvittun móttakanda að ræða.
+
+
+
+
+*30. gr.*
+
+        Lög þessi öðlast gildi 1. júní 1982.
+
 
 
 

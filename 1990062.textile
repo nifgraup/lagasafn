@@ -2,386 +2,383 @@
 
 h2. Lög um skipan prestakalla og prófastsdæma og um starfsmenn þjóðkirkju Íslands[^1)^]
 
-*1990 nr. 62 17. maí*
+*1990, nr. 62, 17. maí*
 
 <hr />
 
 _[^1)^]Falla úr gildi 31. desember 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
+h3. I. kafli.
 
+h3. Um skipan prestakalla og prófastsdæma.
 
+*1. gr.*
 
-*I. kafli.*
-
-*Um skipan prestakalla og prófastsdæma.*
-
-1. gr.
-
-     Prestaköllum og prófastsdæmum skal skipa þannig:
+        Prestaköllum og prófastsdæmum skal skipa þannig:
 
 
 _I. Múlaprófastsdæmi._
 
 <dl>
-<dt>1.</dt>
-<dd><p>_Skeggjastaðaprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Skeggjastaðaprestakall:_</p>
 <p>Skeggjastaðasókn.</p>
 <p>Prestssetur: Skeggjastaðir.</p></dd>
-<dt>2.</dt>
-<dd><p>_Hofsprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Hofsprestakall:_</p>
 <p>Vopnafjarðar- og Hofssóknir.</p>
 <p>Prestssetur: Hof.</p></dd>
-<dt>3.</dt>
-<dd><p>_Valþjófsstaðarprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Valþjófsstaðarprestakall:_</p>
 <p>Valþjófsstaðar-, Áss-, Hofteigs-, Eiríksstaða- og Möðrudalssóknir.</p>
 <p>Prestssetur: Valþjófsstaður.</p></dd>
-<dt>4.</dt>
-<dd><p>_Eiðaprestakall:_</p>
+<dt></dt>
+<dd><p>4. _Eiðaprestakall:_</p>
 <p>Eiða-, Hjaltastaðar-, Kirkjubæjar- og Sleðbrjótssóknir.</p>
 <p>Prestssetur: Eiðar.</p></dd>
-<dt>5.</dt>
-<dd><p>_Vallanessprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Vallanessprestakall:_</p>
 <p>Egilsstaða-, Vallaness- og Þingmúlasóknir.</p>
 <p>Prestssetur: Egilsstaðir.</p></dd>
-<dt>6.</dt>
-<dd><p>_Desjarmýrarprestakall:_</p>
+<dt></dt>
+<dd><p>6. _Desjarmýrarprestakall:_</p>
 <p>Bakkagerðissókn.</p>
 <p>Prestssetur: Desjarmýri.</p></dd>
-<dt>7.</dt>
-<dd><p>_Seyðisfjarðarprestakall:_</p>
+<dt></dt>
+<dd><p>7. _Seyðisfjarðarprestakall:_</p>
 <p>Seyðisfjarðarsókn.</p>
 <p>Prestssetur: Seyðisfjörður.
 </p>
 <p>_II. Austfjarðaprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Norðfjarðarprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Norðfjarðarprestakall:_</p>
 <p>Norðfjarðar- og Brekkusóknir.</p>
 <p>Prestssetur: Neskaupstaður.</p></dd>
-<dt>2.</dt>
-<dd><p>_Eskifjarðarprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Eskifjarðarprestakall:_</p>
 <p>Eskifjarðar- og Reyðarfjarðarsóknir.</p>
 <p>Prestssetur: Eskifjörður.</p></dd>
-<dt>3.</dt>
-<dd><p>_Kolfreyjustaðarprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Kolfreyjustaðarprestakall:_</p>
 <p>Kolfreyjustaðar- og Fáskrúðsfjarðarsóknir.</p>
 <p>Prestssetur: Kolfreyjustaður.</p></dd>
-<dt>4.</dt>
-<dd><p>_Heydalaprestakall:_</p>
+<dt></dt>
+<dd><p>4. _Heydalaprestakall:_</p>
 <p>Heydala- og Stöðvarfjarðarsóknir.</p>
 <p>Prestssetur: Heydalir.</p></dd>
-<dt>5.</dt>
-<dd><p>_Djúpavogsprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Djúpavogsprestakall:_</p>
 <p>Beruness-, Berufjarðar-, Djúpavogs- og Hofssóknir.</p>
 <p>Prestssetur: Djúpivogur.
 </p>
 <p>_III. Skaftafellsprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Bjarnarnessprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Bjarnarnessprestakall:_</p>
 <p>Stafafells-, Bjarnaness- og Hafnarsóknir.</p>
 <p>Prestssetur: Höfn.</p></dd>
-<dt>2.</dt>
-<dd><p>_Kálfafellsstaðarprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Kálfafellsstaðarprestakall:_</p>
 <p>Brunnhóls-, Kálfafellsstaðar- og Hofssóknir.</p>
 <p>Prestssetur: Kálfafellsstaður.</p></dd>
-<dt>3.</dt>
-<dd><p>_Kirkjubæjarklaustursprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Kirkjubæjarklaustursprestakall:_</p>
 <p>Kálfafells- og Prestsbakkasóknir.</p>
 <p>Prestssetur: Kirkjubæjarklaustur.</p></dd>
-<dt>4.</dt>
-<dd><p>_Ásaprestakall:_</p>
+<dt></dt>
+<dd><p>4. _Ásaprestakall:_</p>
 <p>Langholts-, Grafar- og Þykkvabæjarsóknir.</p>
 <p>Prestssetur: Ásar.</p></dd>
-<dt>5.</dt>
-<dd><p>_Víkurprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Víkurprestakall:_</p>
 <p>Víkur-, Reynis- og Skeiðflatarsóknir.</p>
 <p>Prestssetur: Vík.
 </p>
 <p>_IV. Rangárvallaprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Holtsprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Holtsprestakall:_</p>
 <p>Eyvindarhóla-, Ásólfsskála- og Stóradalssóknir.</p>
 <p>Prestssetur: Holt.</p></dd>
-<dt>2.</dt>
-<dd><p>_Bergþórshvolsprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Bergþórshvolsprestakall:_</p>
 <p>Akureyjar- og Krosssóknir.</p>
 <p>Prestssetur: Bergþórshvoll.</p></dd>
-<dt>3.</dt>
-<dd><p>_Breiðabólsstaðarprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Breiðabólsstaðarprestakall:_</p>
 <p>Hlíðarenda-, Breiðabólsstaðar- og Stórólfshvolssóknir.</p>
 <p>Prestssetur: Breiðabólsstaður.</p></dd>
-<dt>4.</dt>
-<dd><p>_Oddaprestakall:_</p>
+<dt></dt>
+<dd><p>4. _Oddaprestakall:_</p>
 <p>Odda-, Keldna- og Hábæjarsóknir.</p>
 <p>Prestssetur: Oddi.</p></dd>
-<dt>5.</dt>
-<dd><p>_Fellsmúlaprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Fellsmúlaprestakall:_</p>
 <p>Árbæjar-, Kálfholts-, Haga-, Marteinstungu- og Skarðssóknir.</p>
 <p>Prestssetur: Fellsmúli.
 </p>
 <p>_V. Árnessprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Hrunaprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Hrunaprestakall:_</p>
 <p>Hruna- og Hrepphólasóknir.</p>
 <p>Prestssetur: Hruni.</p></dd>
-<dt>2.</dt>
-<dd><p>_Stóranúpsprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Stóranúpsprestakall:_</p>
 <p>Stóranúps- og Ólafsvallasóknir.</p>
 <p>Prestssetur: Tröð.</p></dd>
-<dt>3.</dt>
-<dd><p>_Hraungerðisprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Hraungerðisprestakall:_</p>
 <p>Hraungerðis-, Villingaholts- og Laugardælasóknir.</p>
 <p>Prestssetur: Hraungerði.</p></dd>
-<dt>[4.</dt>
-<dd><p>_Skálholtsprestakall:_</p>
+<dt></dt>
+<dd><p>[4. _Skálholtsprestakall:_</p>
 <p>Skálholts-, Bræðratungu-, Haukadals- og Torfastaðasóknir.</p>
 <p>Prestssetur: Skálholt.][^1)^]</p></dd>
-<dt>5.</dt>
-<dd><p>_Mosfellsprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Mosfellsprestakall:_</p>
 <p>Mosfells-, Stóruborgar-, Búrfells-, Miðdals- og Úlfljótsvatnssóknir.</p>
 <p>Prestssetur: Mosfell.</p></dd>
-<dt>6.</dt>
-<dd><p>_Selfossprestakall:_</p>
+<dt></dt>
+<dd><p>6. _Selfossprestakall:_</p>
 <p>Selfosssókn.</p></dd>
-<dt>7.</dt>
-<dd><p>_Eyrarbakkaprestakall:_</p>
+<dt></dt>
+<dd><p>7. _Eyrarbakkaprestakall:_</p>
 <p>Eyrarbakka-, Stokkseyrar- og Gaulverjabæjarsóknir.</p>
 <p>Prestssetur: Eyrarbakki.</p></dd>
-<dt>8.</dt>
-<dd><p>_Hveragerðisprestakall:_</p>
+<dt></dt>
+<dd><p>8. _Hveragerðisprestakall:_</p>
 <p>Hveragerðis- og Kotstrandarsóknir.</p>
 <p>Prestssetur: Hveragerði.</p></dd>
-<dt>9.</dt>
-<dd><p>_Þorlákshafnarprestakall:_</p>
+<dt></dt>
+<dd><p>9. _Þorlákshafnarprestakall:_</p>
 <p>Hjalla- og Strandarsóknir.</p>
 <p>Prestssetur: Þorlákshöfn.</p></dd>
-<dt>10.</dt>
-<dd><p>_Þingvallaprestakall:_</p>
+<dt></dt>
+<dd><p>10. _Þingvallaprestakall:_</p>
 <p>Þingvallasókn.</p>
 <p>Prestssetur: Þingvellir.
 </p>
 <p>_VI. Borgarfjarðarprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Saurbæjarprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Saurbæjarprestakall:_</p>
 <p>Saurbæjar-, Innrahólms- og Leirársóknir.</p>
 <p>Prestssetur: Saurbær.</p></dd>
-<dt>2.</dt>
-<dd><p>_Garðaprestakall á Akranesi:_</p>
+<dt></dt>
+<dd><p>2. _Garðaprestakall á Akranesi:_</p>
 <p>Akranesssókn.</p>
 <p>Prestssetur: Akranes.</p></dd>
-<dt>3.</dt>
-<dd><p>_Hvanneyrarprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Hvanneyrarprestakall:_</p>
 <p>Hvanneyrar-, Bæjar-, Lundar- og Fitjasóknir.</p>
 <p>Prestssetur: Staðarhóll.</p></dd>
-<dt>4.</dt>
-<dd><p>_Reykholtsprestakall:_</p>
+<dt></dt>
+<dd><p>4. _Reykholtsprestakall:_</p>
 <p>Reykholts-, Stóraáss-, Gilsbakka- og Síðumúlasóknir.</p>
 <p>Prestssetur: Reykholt.</p></dd>
-<dt>5.</dt>
-<dd><p>_Stafholtsprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Stafholtsprestakall:_</p>
 <p>Stafholts-, Hjarðarholts-, Norðtungu- og Hvammssóknir.</p>
 <p>Prestssetur: Stafholt.</p></dd>
-<dt>6.</dt>
-<dd><p>_Borgarprestakall:_</p>
+<dt></dt>
+<dd><p>6. _Borgarprestakall:_</p>
 <p>Borgar-, Borgarness-, Akra-, Álftártungu- og Álftanessóknir.</p>
 <p>Prestssetur: Borg.
 </p>
 <p>_VII. Snæfellsness- og Dalaprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Staðastaðarprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Staðastaðarprestakall:_</p>
 <p>Staðastaðar-, Staðarhrauns-, Fáskrúðarbakka-, Rauðamels- og Kolbeinsstaðasóknir.</p>
 <p>Prestssetur: Staðastaður.</p></dd>
-<dt>2.</dt>
-<dd><p>_Ingjaldshólsprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Ingjaldshólsprestakall:_</p>
 <p>Hellna-, Búða- og Ingjaldshólssóknir.</p>
 <p>Prestssetur: Hellissandur.</p></dd>
-<dt>3.</dt>
-<dd><p>_Ólafsvíkurprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Ólafsvíkurprestakall:_</p>
 <p>Ólafsvíkur- og Brimilsvallasóknir.</p>
 <p>Prestssetur: Ólafsvík.</p></dd>
-<dt>4.</dt>
-<dd><p>_[Setbergsprestakall:]_[^2)^]</p>
+<dt></dt>
+<dd><p>4. _[Setbergsprestakall:]_[^2)^]</p>
 <p>Setbergssókn.</p>
 <p>Prestssetur: Grundarfjörður.</p></dd>
-<dt>5.</dt>
-<dd><p>_Stykkishólmsprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Stykkishólmsprestakall:_</p>
 <p>Bjarnarhafnar-, Helgafells-, Stykkishólms-, Narfeyrar- og Breiðabólsstaðarsóknir.</p>
 <p>Prestssetur: Stykkishólmur.</p></dd>
-<dt>6.</dt>
-<dd><p>_Hjarðarholtsprestakall:_</p>
+<dt></dt>
+<dd><p>6. _Hjarðarholtsprestakall:_</p>
 <p>Snóksdals-, Kvennabrekku-, Stóra-Vatnshorns- og Hjarðarholtssóknir.</p>
 <p>Prestssetur: Búðardalur.</p></dd>
-<dt>7.</dt>
-<dd><p>_Hvammsprestakall:_</p>
+<dt></dt>
+<dd><p>7. _Hvammsprestakall:_</p>
 <p>Hvamms-, Staðarfells-, Dagverðarness-, Skarðs- og Staðarhólssóknir.</p>
 <p>Prestssetur: Hvoll í Saurbæ.
 </p>
 <p>_VIII. Barðastrandarprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Reykhólaprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Reykhólaprestakall:_</p>
 <p>Reykhóla-, Garpsdals-, Gufudals- og Flateyjarsóknir.</p>
 <p>Prestssetur: Reykhólar.</p></dd>
-<dt>2.</dt>
-<dd><p>_Patreksfjarðarprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Patreksfjarðarprestakall:_</p>
 <p>Patreksfjarðar-, Sauðlauksdals-, Breiðuvíkur- og Saurbæjarsóknir.</p>
 <p>Prestssetur: Patreksfjörður.</p></dd>
-<dt>3.</dt>
-<dd><p>_Tálknafjarðarprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Tálknafjarðarprestakall:_</p>
 <p>Stóra-Laugardals-, Haga- og Brjánslækjarsóknir.</p>
 <p>Prestssetur: Tálknafjörður.</p></dd>
-<dt>4.</dt>
-<dd><p>_Bíldudalsprestakall:_</p>
+<dt></dt>
+<dd><p>4. _Bíldudalsprestakall:_</p>
 <p>Bíldudals- og Selárdalssóknir.</p>
 <p>Prestssetur: Bíldudalur.
 </p>
 <p>_IX. Ísafjarðarprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Þingeyrarprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Þingeyrarprestakall:_</p>
 <p>Hrafnseyrar-, Þingeyrar-, Mýra-, Núps- og Sæbólssóknir.</p>
 <p>Prestssetur: Þingeyri.</p></dd>
-<dt>2.</dt>
-<dd><p>_Holtsprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Holtsprestakall:_</p>
 <p>Kirkjubóls-, Holts- og Flateyrarsóknir.</p>
 <p>Prestssetur: Holt í Önundarfirði.</p></dd>
-<dt>3.</dt>
-<dd><p>_Staðarprestakall í Súgandafirði:_</p>
+<dt></dt>
+<dd><p>3. _Staðarprestakall í Súgandafirði:_</p>
 <p>Staðarsókn.</p>
 <p>Prestssetur: Suðureyri.</p></dd>
-<dt>4.</dt>
-<dd><p>_Bolungarvíkurprestakall:_</p>
+<dt></dt>
+<dd><p>4. _Bolungarvíkurprestakall:_</p>
 <p>Hólssókn.</p>
 <p>Prestssetur: Bolungarvík.</p></dd>
-<dt>5.</dt>
-<dd><p>_Ísafjarðarprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Ísafjarðarprestakall:_</p>
 <p>Hnífsdals-, Ísafjarðar- og Súðavíkursóknir.</p>
 <p>Prestssetur: Ísafjörður.</p></dd>
-<dt>6.</dt>
-<dd><p>_Vatnsfjarðarprestakall:_</p>
+<dt></dt>
+<dd><p>6. _Vatnsfjarðarprestakall:_</p>
 <p>Vatnsfjarðar-, Nauteyrar-, Melgraseyrar-, Unaðsdals- og Ögursóknir.</p>
 <p>Prestssetur: Vatnsfjörður.
 </p>
 <p>_X. Húnavatnsprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Árnessprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Árnessprestakall:_</p>
 <p>Árnessókn.</p>
 <p>Prestssetur: Árnes.</p></dd>
-<dt>2.</dt>
-<dd><p>_Hólmavíkurprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Hólmavíkurprestakall:_</p>
 <p>Kaldrananess-, Drangsness-, Staðar-, Hólmavíkur- og Kollafjarðarnesssóknir.</p>
 <p>Prestssetur: Hólmavík.</p></dd>
-<dt>3.</dt>
-<dd><p>_Prestsbakkaprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Prestsbakkaprestakall:_</p>
 <p>Prestsbakka-, Staðar- og Óspakseyrarsóknir.</p>
 <p>Prestssetur: Prestsbakki.</p></dd>
-<dt>4.</dt>
-<dd><p>_Melstaðarprestakall:_</p>
+<dt></dt>
+<dd><p>4. _Melstaðarprestakall:_</p>
 <p>Efranúps-, Staðarbakka-, Melstaðar- og Víðidalstungusóknir.</p>
 <p>Prestssetur: Melstaður.</p></dd>
-<dt>5.</dt>
-<dd><p>_Breiðabólsstaðarprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Breiðabólsstaðarprestakall:_</p>
 <p>Hvammstanga-, Tjarnar-, Vesturhópshóla- og Breiðabólsstaðarsóknir.</p>
 <p>Prestssetur: Hvammstangi.</p></dd>
-<dt>6.</dt>
-<dd><p>_Þingeyraklaustursprestakall:_</p>
+<dt></dt>
+<dd><p>6. _Þingeyraklaustursprestakall:_</p>
 <p>Blönduóss-, Þingeyra- og Undirfellssóknir.</p>
 <p>Prestssetur: Blönduós.</p></dd>
-<dt>7.</dt>
-<dd><p>_Bólstaðarhlíðarprestakall:_</p>
+<dt></dt>
+<dd><p>7. _Bólstaðarhlíðarprestakall:_</p>
 <p>Bólstaðarhlíðar-, Bergsstaða-, Holtastaða-, Svínavatns- og Auðkúlusóknir.</p>
 <p>Prestssetur: Bólstaður.</p></dd>
-<dt>8.</dt>
-<dd><p>_Skagastrandarprestakall:_</p>
+<dt></dt>
+<dd><p>8. _Skagastrandarprestakall:_</p>
 <p>Höskuldsstaða-, Höfða- og Hofssóknir.</p>
 <p>Prestssetur: Skagaströnd.
 </p>
 <p>_XI. Skagafjarðarprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Sauðárkróksprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Sauðárkróksprestakall:_</p>
 <p>Sauðárkróks-, Hvamms- og Ketusóknir.</p>
 <p>Prestssetur: Sauðárkrókur.</p></dd>
-<dt>2.</dt>
-<dd><p>_Glaumbæjarprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Glaumbæjarprestakall:_</p>
 <p>Reynistaðar-, Glaumbæjar- og Víðimýrarsóknir.</p>
 <p>Prestssetur: Glaumbær.</p></dd>
-<dt>3.</dt>
-<dd><p>_Mælifellsprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Mælifellsprestakall:_</p>
 <p>Mælifells-, Goðdala-, Ábæjar- og Reykjasóknir.</p>
 <p>Prestssetur: Mælifell.</p></dd>
-<dt>4.</dt>
-<dd><p>_Miklabæjarprestakall:_</p>
+<dt></dt>
+<dd><p>4. _Miklabæjarprestakall:_</p>
 <p>Silfrastaða-, Miklabæjar-, Flugumýrar- og Hofstaðasóknir.</p>
 <p>Prestssetur: Miklibær.</p></dd>
-<dt>5.</dt>
-<dd><p>_Hólaprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Hólaprestakall:_</p>
 <p>Hóla-, Viðvíkur- og Rípursóknir.</p>
 <p>Um þjónustu prestakallsins fer eftir ákvæði 42. gr. laga þessara.</p></dd>
-<dt>6.</dt>
-<dd><p>_Hofsóssprestakall:_</p>
+<dt></dt>
+<dd><p>6. _Hofsóssprestakall:_</p>
 <p>Hofsóss-, Hofs-, Fells- og Barðssóknir.</p>
 <p>Prestssetur: Hofsós.</p></dd>
-<dt>7.</dt>
-<dd><p>_Siglufjarðarprestakall:_</p>
+<dt></dt>
+<dd><p>7. _Siglufjarðarprestakall:_</p>
 <p>Siglufjarðarsókn.</p>
 <p>Prestssetur: Siglufjörður.
 </p>
 <p>_XII. Eyjafjarðarprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Ólafsfjarðarprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Ólafsfjarðarprestakall:_</p>
 <p>Ólafsfjarðarsókn.</p>
 <p>Prestssetur: Ólafsfjörður.</p></dd>
-<dt>2.</dt>
-<dd><p>_Dalvíkurprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Dalvíkurprestakall:_</p>
 <p>Upsa-, Tjarnar-, Urða- og Vallasóknir.</p>
 <p>Prestssetur: Dalvík.</p></dd>
-<dt>3.</dt>
-<dd><p>_Hríseyjarprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Hríseyjarprestakall:_</p>
 <p>Hríseyjar- og Stærra-Árskógssóknir.</p>
 <p>Prestssetur: Hrísey.</p></dd>
-<dt>4.</dt>
-<dd><p>_Möðruvallaprestakall:_</p>
+<dt></dt>
+<dd><p>4. _Möðruvallaprestakall:_</p>
 <p>Möðruvalla-, Bakka-, Bægisár- og Glæsibæjarsóknir.</p>
 <p>Prestssetur: Möðruvellir.</p></dd>
-<dt>5.</dt>
-<dd><p>_Glerárprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Glerárprestakall:_</p>
 <p>Lögmannshlíðarsókn.</p></dd>
-<dt>6.</dt>
-<dd><p>_Akureyrarprestakall:_</p>
+<dt></dt>
+<dd><p>6. _Akureyrarprestakall:_</p>
 <p>Akureyrar- og Miðgarðasóknir.</p></dd>
-<dt>7.</dt>
-<dd><p>_Laugalandsprestakall:_</p>
+<dt></dt>
+<dd><p>7. _Laugalandsprestakall:_</p>
 <p>Grundar-, Saurbæjar-, Hóla-, Möðruvalla-, Munkaþverár- og Kaupangssóknir.</p>
 <p>Prestssetur: Syðra-Laugaland.
 </p>
 <p>_XIII. Þingeyjarprófastsdæmi._</p></dd>
-<dt>1.</dt>
-<dd><p>_Laufássprestakall:_</p>
+<dt></dt>
+<dd><p>1. _Laufássprestakall:_</p>
 <p>Svalbarðs-, Laufáss- og Grenivíkursóknir.</p>
 <p>Prestssetur: Laufás.</p></dd>
-<dt>2.</dt>
-<dd><p>_Ljósavatnsprestakall:_</p>
+<dt></dt>
+<dd><p>2. _Ljósavatnsprestakall:_</p>
 <p>Draflastaða-, Háls-, Illugastaða-, Ljósavatns-, Lundarbrekku- og Þóroddsstaðasóknir.</p>
 <p>Prestssetur: Háls.</p></dd>
-<dt>3.</dt>
-<dd><p>_Skútustaðaprestakall:_</p>
+<dt></dt>
+<dd><p>3. _Skútustaðaprestakall:_</p>
 <p>Skútustaða-, Reykjahlíðar- og Víðirhólssóknir.</p>
 <p>Prestssetur: Skútustaðir.</p></dd>
-<dt>4.</dt>
-<dd><p>_Grenjaðarstaðarprestakall:_</p>
+<dt></dt>
+<dd><p>4. _Grenjaðarstaðarprestakall:_</p>
 <p>Grenjaðarstaðar-, Þverár-, Einarsstaða- og Nessóknir.</p>
 <p>Prestssetur: Grenjaðarstaður.</p></dd>
-<dt>5.</dt>
-<dd><p>_Húsavíkurprestakall:_</p>
+<dt></dt>
+<dd><p>5. _Húsavíkurprestakall:_</p>
 <p>Húsavíkursókn.</p>
 <p>Prestssetur: Húsavík.</p></dd>
-<dt>6.</dt>
-<dd><p>_Skinnastaðarprestakall:_</p>
+<dt></dt>
+<dd><p>6. _Skinnastaðarprestakall:_</p>
 <p>Skinnastaðar-, Garðs- og Snartarstaðasóknir.</p>
 <p>Prestssetur: Skinnastaður.</p></dd>
-<dt>7.</dt>
-<dd><p>_Raufarhafnarprestakall:_</p>
+<dt></dt>
+<dd><p>7. _Raufarhafnarprestakall:_</p>
 <p>Raufarhafnarsókn.</p>
 <p>Prestssetur: Raufarhöfn.</p></dd>
-<dt>8.</dt>
-<dd><p>_Þórshafnarprestakall:_</p>
+<dt></dt>
+<dd><p>8. _Þórshafnarprestakall:_</p>
 <p>Sauðaness- og Svalbarðssóknir.</p>
 <p>Prestssetur: Þórshöfn.
 </p>
@@ -398,530 +395,311 @@ _I. Múlaprófastsdæmi._
 
 
 
-_[^1)^]"L. 69/1997, 1. gr.":/altext/stjt/1997.069.html[^2)^]"L. 18/1991, 1. gr.":/altext/stjt/1991.018.html_
+_[^1)^]"L. 69/1997, 1. gr.":ekkitil/ekkitil.html?1997069#g1[^2)^]"L. 18/1991, 1. gr.":ekkitil/ekkitil.html?1991018#g1_
 
+*2. gr.*
 
-
-
-2. gr.
-
-     Ráðherra ákveður takmörk sókna og prestakalla og fjölda presta í Kjalarness- og Reykjavíkurprófastsdæmum, að fengnum tillögum biskups og hlutaðeigandi safnaðarráðs. Prestssetur skulu haldast í Vestmannaeyjum, á Reynivöllum í Kjósarhreppi, í Mosfellsbæ, í Grindavík og Útskálum í Gerðahreppi.
-      Í Kjalarness- og Reykjavíkurprófastsdæmum skulu vera safnaðarráð. Skulu þau skipuð formönnum sóknarnefnda, safnaðarfulltrúum og prestum prófastsdæmisins. Prófastar eru formenn ráðanna og kalla þau saman. Skylt skal að kalla safnaðarráð saman til fundar þegar fullur þriðjungur safnaðarráðsmanna óskar þess.
-      Verkefni safnaðarráðs eru:
+        Ráðherra ákveður takmörk sókna og prestakalla og fjölda presta í Kjalarness- og Reykjavíkurprófastsdæmum, að fengnum tillögum biskups og hlutaðeigandi safnaðarráðs. Prestssetur skulu haldast í Vestmannaeyjum, á Reynivöllum í Kjósarhreppi, í Mosfellsbæ, í Grindavík og Útskálum í Gerðahreppi.
+         Í Kjalarness- og Reykjavíkurprófastsdæmum skulu vera safnaðarráð. Skulu þau skipuð formönnum sóknarnefnda, safnaðarfulltrúum og prestum prófastsdæmisins. Prófastar eru formenn ráðanna og kalla þau saman. Skylt skal að kalla safnaðarráð saman til fundar þegar fullur þriðjungur safnaðarráðsmanna óskar þess.
+         Verkefni safnaðarráðs eru:
 
 <dl>
-<dt>1.</dt>
-<dd>Að gera tillögur um skiptingu prófastsdæmisins í sóknir og prestaköll og um breytingar á þeim.</dd>
-<dt>2.</dt>
-<dd>Að vinna að eflingu kirkjulegs starfs innan prófastsdæmisins.</dd>
+<dt></dt>
+<dd>1. Að gera tillögur um skiptingu prófastsdæmisins í sóknir og prestaköll og um breytingar á þeim.</dd>
+<dt></dt>
+<dd>2. Að vinna að eflingu kirkjulegs starfs innan prófastsdæmisins.</dd>
 </dl>
 
 
-      Aðalfundur safnaðarráðs er héraðsfundur prófastsdæmisins og fer eftir lögum um héraðsfundi.
-
-
-
-3. gr.
-
-     Í hverju prestakalli skal vera einn sóknarprestur.[^1)^]
-      Ráðherra er heimilt að ráða prest sóknarpresti til aðstoðar í prestaköllum þar sem íbúafjöldi er yfir 4.000. Í mannfærri prestaköllum hefur ráðherra sömu heimild ef sérstaklega stendur á. Nú fer íbúafjöldi yfir 8.000 og skal prestakallinu þá að jafnaði skipt.
-      Aðstoðarprestur er ráðinn samkvæmt tillögu biskups í samráði við sóknarprest og með samþykki sóknarnefndar. Ráðningartími aðstoðarprests skal vera allt að fjórum árum í senn.
-      Aðstoðarprestur starfar undir stjórn sóknarprests samkvæmt erindisbréfi er biskup setur.
-
-
-_[^1)^]Ákv. 1. mgr. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
+         Aðalfundur safnaðarráðs er héraðsfundur prófastsdæmisins og fer eftir lögum um héraðsfundi.
 
 
 
 
-4. gr.
+*3. gr.*
 
-     Ráðherra er heimilt að stofna nýtt prestakall eða breyta mörkum prestakalla eftir tillögu biskups og að fengnum umsögnum héraðsfundar (safnaðarráðs) og aðalsafnaðarfundar viðkomandi sókna.
-
-
-
-5. gr.
-
-     Verði prestakalli skipt í tvö eða fleiri prestaköll, sbr. 4. gr., hefur skipaður sóknarprestur rétt til þess að velja hvaða hluta þess hann hyggst þjóna.
+        ...[^1)^]
+         Ráðherra er heimilt að ráða prest sóknarpresti til aðstoðar í prestaköllum þar sem íbúafjöldi er yfir 4.000. Í mannfærri prestaköllum hefur ráðherra sömu heimild ef sérstaklega stendur á. Nú fer íbúafjöldi yfir 8.000 og skal prestakallinu þá að jafnaði skipt.
+         Aðstoðarprestur er ráðinn samkvæmt tillögu biskups í samráði við sóknarprest og með samþykki sóknarnefndar. Ráðningartími aðstoðarprests skal vera allt að fjórum árum í senn.
+         Aðstoðarprestur starfar undir stjórn sóknarprests samkvæmt erindisbréfi er biskup setur.
 
 
+_[^1)^]"L. 78/1997, 64. gr.":1997078.html#g64_
 
-6. gr.
+*4. gr.*
 
-     Ráðherra er heimilt, að fenginni tillögu biskups og umsögn viðkomandi héraðsfundar, að sameina prestakall öðru prestakalli fari íbúafjöldi þess niður fyrir 250 enda hafi það verið prestlaust í a.m.k. tvö ár.
-      Prestsembættum innan þjóðkirkjunnar utan Reykjavíkur- og Kjalarnessprófastsdæma skal þó ekki fækka við framkvæmd þessa ákvæðis.
-
-
-
-7. gr.[^1)^]
-
-     [Þingvallaprestakalli skv. 1. gr. gegnir prestur er ráðherra skipar til fimm ára í senn að fengnum tillögum biskups og Þingvallanefndar.][^2)^]
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64[^2)^]"L. 150/1996, 2. gr.":/altext/stjt/1996.150.html_
+        Ráðherra er heimilt að stofna nýtt prestakall eða breyta mörkum prestakalla eftir tillögu biskups og að fengnum umsögnum héraðsfundar (safnaðarráðs) og aðalsafnaðarfundar viðkomandi sókna.
 
 
 
 
-8. gr.
+*5. gr.*
 
-     Þar sem prestssetur er samkvæmt lögum þessum er presti skylt að hafa aðsetur og lögheimili, nema biskup heimili annað um stundarsakir, að fenginni umsögn prófasts og viðkomandi sóknarnefnda.[^1)^]
-      Um réttindi og skyldur presta gagnvart prestssetursjörðum gilda ákvæði ábúðarlaga og annarra laga eftir því sem við getur átt. ...[^2)^]
-      Farprestar (skv. 9. gr.) njóti sambærilegra húsnæðiskjara og sóknarprestar.
-      Eigi má ráðstafa prestssetri til langframa nema til þess komi samþykki biskups, að fenginni umsögn viðkomandi prófasts, héraðsfundar og sóknarnefnda í viðkomandi prestakalli, svo og samþykki þess prests er veitingu hefur fyrir viðkomandi brauði.
-      Ráðherra er heimilt, að fenginni umsögn biskups og hlutaðeigandi prófasts, sóknarnefndar og sóknarprests, að flytja prestssetur til innan prestakalls. Ákvörðun um þetta efni skal birt í B-deild Stjórnartíðinda.
-
-
-_[^1)^]Ákv. 1. mgr. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64[^2)^]"L. 137/1993, 10. gr.":1993137.html#g10_
+        Verði prestakalli skipt í tvö eða fleiri prestaköll, sbr. 4. gr., hefur skipaður sóknarprestur rétt til þess að velja hvaða hluta þess hann hyggst þjóna.
 
 
 
 
-*II. kafli.*
+*6. gr.*
 
-*Um sérþjónustuembætti.*
+        Ráðherra er heimilt, að fenginni tillögu biskups og umsögn viðkomandi héraðsfundar, að sameina prestakall öðru prestakalli fari íbúafjöldi þess niður fyrir 250 enda hafi það verið prestlaust í a.m.k. tvö ár.
+         Prestsembættum innan þjóðkirkjunnar utan Reykjavíkur- og Kjalarnessprófastsdæma skal þó ekki fækka við framkvæmd þessa ákvæðis.
 
-9. gr.[^1)^]
 
-     Ráðherra er heimilt samkvæmt tillögu biskups að ákveða að í prófastsdæmum starfi farprestar er hafi með höndum eftirtalin verkefni:
+
+
+*7. gr.*
+
+        ...[^1)^]
+
+
+_[^1)^]"L. 78/1997, 64. gr.":1997078.html#g64_
+
+*8. gr.*
+
+        ...[^1)^]
+         Um réttindi og skyldur presta gagnvart prestssetursjörðum gilda ákvæði ábúðarlaga og annarra laga eftir því sem við getur átt. ...[^2)^]
+         Farprestar (skv. 9. gr.) njóti sambærilegra húsnæðiskjara og sóknarprestar.
+         Eigi má ráðstafa prestssetri til langframa nema til þess komi samþykki biskups, að fenginni umsögn viðkomandi prófasts, héraðsfundar og sóknarnefnda í viðkomandi prestakalli, svo og samþykki þess prests er veitingu hefur fyrir viðkomandi brauði.
+         Ráðherra er heimilt, að fenginni umsögn biskups og hlutaðeigandi prófasts, sóknarnefndar og sóknarprests, að flytja prestssetur til innan prestakalls. Ákvörðun um þetta efni skal birt í B-deild Stjórnartíðinda.
+
+
+_[^1)^]"L. 78/1997, 64. gr.":1997078.html#g64[^2)^]"L. 137/1993, 10. gr.":1993137.html#g10_
+
+h3. II. kafli.
+
+h3. Um sérþjónustuembætti.
+
+*9. - 14. gr.*
+
+        ...[^1)^]
+
+
+_[^1)^]"L. 78/1997, 64. gr.":1997078.html#g64_
+
+h3. III. kafli.
+
+h3. Um embættisgengi presta.
+
+*15. - 17. gr.*
+
+        ...[^1)^]
+
+
+_[^1)^]"L. 78/1997, 64. gr.":1997078.html#g64_
+
+h3. IV. kafli.
+
+h3. Ýmis ákvæði um presta og starfsskyldur þeirra.
+
+*18. - 19. gr.*
+
+        ...[^1)^]
+
+
+_[^1)^]"L. 78/1997, 64. gr.":1997078.html#g64_
+
+*20. gr.*
+
+        Hver sóknarprestur skal hafa með höndum kirkjulega þjónustu samkvæmt vígslubréfi í sínu prestakalli nema lög eða stjórnvaldsreglur mæli fyrir um annað.
+
+
+
+
+*21. gr.*
+
+        Prestum ber að hafa samstarf um kirkjulega þjónustu innan hvers prófastsdæmis undir stjórn prófasts. Samstarf presta skal m.a. lúta að:
 
 <dl>
-<dt>1.</dt>
-<dd>Að vera til aðstoðar í fjölmennum eða víðlendum prestaköllum.</dd>
-<dt>2.</dt>
-<dd>Að þjóna í forföllum.</dd>
-<dt>3.</dt>
-<dd>Að annast tiltekin sérverkefni.</dd>
-</dl>
-
-
-      Heimilt er að ákveða að sami farprestur starfi í fleiri en einu prófastsdæmi.
-      Ráðningartími farprests skal vera allt að þremur árum í senn.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-10. gr.[^1)^]
-
-     Ráðherra er heimilt samkvæmt tillögu biskups að ákveða að prestar starfi meðal Íslendinga erlendis. Ráðningartími þeirra skal vera allt að þremur árum í senn.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-11. gr.[^1)^]
-
-     Á sjúkrastofnunum skal halda uppi prestsþjónustu.
-      Þar sem þess er þörf skal ráða presta að sjúkrastofnunum og hafi þeir sérmenntun til starfans. Við ráðningu sjúkraprests ber að leita álits stjórnar hlutaðeigandi stofnunar og ber honum að starfa í samráði við stofnunina.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-12. gr.[^1)^]
-
-     Við fangelsi skal starfa prestur (prestar) er hafi sérmenntun til starfans.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-13. gr.[^1)^]
-
-     Meðal heyrnarskertra skal starfa prestur er hafi sérmenntun til starfans.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-14. gr.[^1)^]
-
-     Heimilt er ráðherra að ráða presta til sérþjónustu í fleiri tilvikum en greinir hér að framan.
-      Ráðherra ákveður í reglugerð, að fenginni tillögu biskups, starfssvið presta er gegna sérþjónustu, kveður á um skipulag prestsþjónustu þeirra og stöðu þeirra gagnvart sóknarprestum.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-*III. kafli.*
-
-*Um embættisgengi presta.*
-
-15. gr.[^1)^]
-
-     Kirkjumálaráðherra skipar sóknarpresta í embætti, sbr. "lög um veitingu prestakalla, nr. 44/1987":1987044.html. Ráðherra ræður aðra presta til þjónustu, að fengnum tillögum biskups.
-      Biskup setur prestum erindisbréf.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-16. gr.[^1)^]
-
-     Almenn skilyrði til skipunar eða setningar í prestsembætti eru þessi:
-
-<dl>
-<dt>1.</dt>
-<dd>25 ára aldur. Kirkjumálaráðherra getur þó, að tillögu biskups, veitt undanþágu frá því ákvæði.</dd>
-<dt>2.</dt>
-<dd>Embættispróf frá guðfræðideild Háskóla Íslands eða frá viðurkenndri guðfræðideild eða guðfræðiskóla og skal biskup um hið síðarnefnda atriði leita umsagnar guðfræðideildar Háskóla Íslands.</dd>
-<dt>3.</dt>
-<dd>[Áður en kandídat hlýtur vígslu skal hann hafa starfað með sóknarpresti eigi skemur en tvo mánuði undir eftirliti prófasts.][^2)^] Um framkvæmd og eftirlit þessa skal nánar kveðið á í reglugerð.[^3)^] Að öðru leyti fer um nám í kennimannlegri guðfræði svo sem segir í reglugerð um nám í guðfræðideild Háskóla Íslands.</dd>
-<dt>4.</dt>
-<dd>Aðili hafi ekki gerst sekur um athæfi sem ætla má að rýri álit hans og sé ósamboðið manni í prestsstarfi. Nú telur biskup að hæfni kandídats orki tvímælis og getur hann þá kvatt þriggja manna nefnd sér til ráðuneytis.</dd>
-<dt>5.</dt>
-<dd>Að öðru leyti verður maður að fullnægja almennum skilyrðum "3. gr. laga nr. 38/1954":1954038.html, um réttindi og skyldur starfsmanna ríkisins.</dd>
-</dl>
-
-
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64[^2)^]"L. 59/1997, 1. gr.":/altext/stjt/1997.059.html[^3)^]Rg. 89/1991, sbr. 10/1994._
-
-
-
-
-17. gr.[^1)^]
-
-     Biskup skal vandlega gæta þess að eigi veljist aðrir til prestsþjónustu í þjóðkirkjunni en þeir sem til þess eru hæfir að framkvæma prestlegt embætti og annast sálgæslu sóknarbarna sinna. Er engum óvígðum guðfræðingi heimilt að sækja um prestsstarf í þjónustu kirkjunnar nema fyrir liggi umsögn biskups um að hann fullnægi þeim kröfum sem gerðar eru til prestsvígslu.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-*IV. kafli.*
-
-*Ýmis ákvæði um presta og starfsskyldur þeirra.*
-
-18. gr.[^1)^]
-
-     Sóknarprestar og aðrir starfsmenn þjóðkirkjunnar, sem lög þessi ná til og taka laun úr ríkissjóði, eru opinberir starfsmenn og njóta lögkjara og bera skyldur samkvæmt því, sbr. m.a. "lög nr. 38/1954":1954038.html.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-19. gr.[^1)^]
-
-     Skylt er sóknarpresti að taka við embætti sínu jafnskjótt og föng eru á eftir að hann hefur hlotið skipun. Ráðherra getur þó samkvæmt tillögu biskups veitt presti, er situr jörð, frest til næstu fardaga til að taka við embættinu.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-20. gr.
-
-     Hver sóknarprestur skal hafa með höndum kirkjulega þjónustu samkvæmt vígslubréfi í sínu prestakalli nema lög eða stjórnvaldsreglur mæli fyrir um annað.
-
-
-
-21. gr.
-
-     Prestum ber að hafa samstarf um kirkjulega þjónustu innan hvers prófastsdæmis undir stjórn prófasts. Samstarf presta skal m.a. lúta að:
-
-<dl>
-<dt>1.</dt>
-<dd>Afleysingaþjónustu í sumarleyfum og á frídögum presta.</dd>
-<dt>2.</dt>
-<dd>Samvinnu um ýmsa kirkjulega þjónustu sem er með einhverjum hætti sameiginleg fyrir prófastsdæmið í heild eða hluta þess.</dd>
+<dt></dt>
+<dd>1. Afleysingaþjónustu í sumarleyfum og á frídögum presta.</dd>
+<dt></dt>
+<dd>2. Samvinnu um ýmsa kirkjulega þjónustu sem er með einhverjum hætti sameiginleg fyrir prófastsdæmið í heild eða hluta þess.</dd>
 </dl>
 
 
 
 
 
-22. gr.
 
-     Biskupi er heimilt að fela sóknarpresti, er þjónar í prestakalli þar sem íbúafjöldi er innan við 700 íbúa og aðstæður að öðru leyti leyfa, að annast bæði tiltekin verkefni og þjónustu í einstökum sóknum utan prestakalls síns að tillögu prófasts gegn greiðslu kostnaðar.
+*22. gr.*
 
+        Biskupi er heimilt að fela sóknarpresti, er þjónar í prestakalli þar sem íbúafjöldi er innan við 700 íbúa og aðstæður að öðru leyti leyfa, að annast bæði tiltekin verkefni og þjónustu í einstökum sóknum utan prestakalls síns að tillögu prófasts gegn greiðslu kostnaðar.
 
 
-23. gr.
 
-     Sóknarpresti er skylt að taka að sér aukaþjónustu sókna innan prófastsdæmis, ef þörf krefur, samkvæmt boði biskups gegn launum skv. "26. gr. laga nr. 38/1954":1954038.html.
 
+*23. gr.*
 
+        Sóknarpresti er skylt að taka að sér aukaþjónustu sókna innan prófastsdæmis, ef þörf krefur, samkvæmt boði biskups gegn launum skv. "26. gr. laga nr. 38/1954":1954038.html.
 
-24. gr.
 
-     Nú er kirkja á prestssetursjörð og skal prestur þá hafa umsjón með henni í samvinnu við sóknarnefnd. Ef prestur situr ekki prestssetursjörð skal ábúanda skylt, að ósk sóknarnefndarmanna, að hafa eftirlit með slíkri kirkju.
+*24. gr.*
 
+        Nú er kirkja á prestssetursjörð og skal prestur þá hafa umsjón með henni í samvinnu við sóknarnefnd. Ef prestur situr ekki prestssetursjörð skal ábúanda skylt, að ósk sóknarnefndarmanna, að hafa eftirlit með slíkri kirkju.
 
 
-25. gr.
 
-     Sóknarprestur skal að jafnaði sitja sóknarnefndarfundi, sbr. 17. gr. laga um kirkjusóknir o."fl., nr. 25/1985":1985025.html. Hann á sæti á héraðsfundum og er skylt að sækja þá. Þá er honum að forfallalausu skylt að sitja fundi er biskup og prófastur boða hann til.
 
+*25. gr.*
 
+        Sóknarprestur skal að jafnaði sitja sóknarnefndarfundi, sbr. 17. gr. laga um kirkjusóknir o."fl., nr. 25/1985":1985025.html. Hann á sæti á héraðsfundum og er skylt að sækja þá. Þá er honum að forfallalausu skylt að sitja fundi er biskup og prófastur boða hann til.
 
-26. gr.
 
-     Nú rís ágreiningur milli presta um rétt eða skyldu þeirra til tiltekinnar þjónustu. Ber þá viðkomandi prófasti að leita sátta í málinu. Ef niðurstaða næst ekki leggur hann málið fyrir biskup til úrskurðar.
+*26. gr.*
 
+        Nú rís ágreiningur milli presta um rétt eða skyldu þeirra til tiltekinnar þjónustu. Ber þá viðkomandi prófasti að leita sátta í málinu. Ef niðurstaða næst ekki leggur hann málið fyrir biskup til úrskurðar.
 
 
-*V. kafli.*
 
-*Um prófasta.*
 
-27. gr.
+h3. V. kafli.
 
-     Kirkjumálaráðherra skipar prófasta úr hópi þjónandi presta í prófastsdæminu með ráði biskups er leitað hefur áður álits þjónandi presta í prófastsdæminu og þriggja fulltrúa leikmanna sem kosnir eru á héraðsfundi til fjögurra ára í senn, þó ekki fleiri en þjónandi prestar eru í prófastsdæminu.[^1)^] Sóknarpresti er skylt að takast á hendur prófastsembætti. Biskup getur falið presti eða nágrannaprófasti að gegna prófastsembætti um stundarsakir ef sérstaklega stendur á svo sem vegna fjarveru prófasts eða veikinda hans eða vegna þess að prófasts missir við.
-      Nú lætur prófastur af prestsembætti í prestakalli og verður prófastsembætti þá laust. Nú telur prófastur sér óhægt að gegna embættinu vegna veikinda eða af öðrum sérstökum persónulegum ástæðum og er þá heimilt að leysa hann undan því embætti þótt hann gegni prestsembætti sínu eftirleiðis.
-      Biskup setur próföstum erindisbréf.
+h3. Um prófasta.
 
+*27. gr.*
 
-_[^1)^]Ákv. 1. málsl. 1. mgr. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
+        ...[^1)^] Sóknarpresti er skylt að takast á hendur prófastsembætti. Biskup getur falið presti eða nágrannaprófasti að gegna prófastsembætti um stundarsakir ef sérstaklega stendur á svo sem vegna fjarveru prófasts eða veikinda hans eða vegna þess að prófasts missir við.
+         Nú lætur prófastur af prestsembætti í prestakalli og verður prófastsembætti þá laust. Nú telur prófastur sér óhægt að gegna embættinu vegna veikinda eða af öðrum sérstökum persónulegum ástæðum og er þá heimilt að leysa hann undan því embætti þótt hann gegni prestsembætti sínu eftirleiðis.
+         Biskup setur próföstum erindisbréf.
 
 
+_[^1)^]"L. 78/1997, 64. gr.":1997078.html#g64_
 
+*28. gr.*
 
-28. gr.
+        Prófastur er fulltrúi biskups í prófastsdæminu og trúnaðarmaður hans og hefur í umboði hans almenna umsjón með kirkjulegu starfi þar. Hann er í fyrirsvari fyrir prófastsdæmið að því er varðar sameiginleg málefni þess, gagnvart stjórnvöldum, stofnunum og einstaklingum.
+         Nú er kirkjuleg starfsstöð stofnuð í prófastsdæminu og veitir prófastur henni jafnaðarlega forstöðu og skipuleggur starfsemi á hennar vegum. Hann er formaður stjórnar héraðssjóðs prófastsdæmis, svo og héraðsnefndar. Hann boðar héraðsfund í samvinnu við héraðsnefnd og stjórnar fundum hennar, undirbýr mál sem sá fundur fær til meðferðar og kemur ályktunum fundarins til biskups og annarra aðila og fylgir þeim eftir, sbr. og "VII. kafla laga nr. 25/1985":1985025.html.
 
-     Prófastur er fulltrúi biskups í prófastsdæminu og trúnaðarmaður hans og hefur í umboði hans almenna umsjón með kirkjulegu starfi þar. Hann er í fyrirsvari fyrir prófastsdæmið að því er varðar sameiginleg málefni þess, gagnvart stjórnvöldum, stofnunum og einstaklingum.
-      Nú er kirkjuleg starfsstöð stofnuð í prófastsdæminu og veitir prófastur henni jafnaðarlega forstöðu og skipuleggur starfsemi á hennar vegum. Hann er formaður stjórnar héraðssjóðs prófastsdæmis, svo og héraðsnefndar. Hann boðar héraðsfund í samvinnu við héraðsnefnd og stjórnar fundum hennar, undirbýr mál sem sá fundur fær til meðferðar og kemur ályktunum fundarins til biskups og annarra aðila og fylgir þeim eftir, sbr. og "VII. kafla laga nr. 25/1985":1985025.html.
 
+*29. gr.*
 
+        Prófastur hefur eftirlit með prestssetrum, kirkjum og kirknaeignum í prófastsdæmi. Hann skýrir biskupi frá því sem honum þykir athugavert um þessar eignir, þar á meðal skort á viðhaldi, og getur biskup lagt fyrir rétta aðila að bæta úr.
+         Prófastur framkvæmir úttekt á prestssetrum og embættisbústöðum presta við prestaskipti og þegar prestur flytur í annað húsnæði innan prestakallsins. Hann tekur út nýjar kirkjur, kapellur og safnaðarheimili.
+         Prófastur setur nýjan prest í embætti, heimsækir presta og vísiterar kirkjur og söfnuði samkvæmt nánari ákvæðum í erindisbréfi. Hann fylgir biskupi á vísitasíum hans til presta og safnaða í prófastsdæminu.
+         Prófastur hefur eftirlit með að prestar skili embættisskýrslum til Hagstofu Íslands. Hann gengur eftir því að starfsskýrslum og endurskoðuðum reikningum sé skilað á réttum tíma og leggur fyrir héraðsfund með athugasemdum sínum og sóknarnefnda og gerir tillögur um úrlausn. Þá fjallar hann um ágreining sem kann að rísa milli sóknarprests, sóknarnefndar og safnaðar.
+         Prófastur löggildir gerðabækur og aðrar bækur sóknarnefndar, eftir því sem við á.
+         Prófastur veitir presti leyfi til fjarvista úr prestakalli um stundarsakir, en leyfi til lengri fjarvista veitir biskup, að höfðu samráði við kirkjumálaráðherra.
+         Prófastur skipuleggur samstarf presta innan prófastsdæmis, sbr. 21. gr., og afleysingarþjónustu presta í sumarleyfum og öðrum samningsbundnum leyfum þeirra.
+         Nú getur sóknarprestur ekki gegnt embætti vegna veikinda, fjarvista eða af öðrum ástæðum og ákveður prófastur þá í samráði við sóknarprest hvernig þjónusta hans skuli leyst af hendi.
 
-29. gr.
 
-     Prófastur hefur eftirlit með prestssetrum, kirkjum og kirknaeignum í prófastsdæmi. Hann skýrir biskupi frá því sem honum þykir athugavert um þessar eignir, þar á meðal skort á viðhaldi, og getur biskup lagt fyrir rétta aðila að bæta úr.
-      Prófastur framkvæmir úttekt á prestssetrum og embættisbústöðum presta við prestaskipti og þegar prestur flytur í annað húsnæði innan prestakallsins. Hann tekur út nýjar kirkjur, kapellur og safnaðarheimili.
-      Prófastur setur nýjan prest í embætti, heimsækir presta og vísiterar kirkjur og söfnuði samkvæmt nánari ákvæðum í erindisbréfi. Hann fylgir biskupi á vísitasíum hans til presta og safnaða í prófastsdæminu.
-      Prófastur hefur eftirlit með að prestar skili embættisskýrslum til Hagstofu Íslands. Hann gengur eftir því að starfsskýrslum og endurskoðuðum reikningum sé skilað á réttum tíma og leggur fyrir héraðsfund með athugasemdum sínum og sóknarnefnda og gerir tillögur um úrlausn. Þá fjallar hann um ágreining sem kann að rísa milli sóknarprests, sóknarnefndar og safnaðar.
-      Prófastur löggildir gerðabækur og aðrar bækur sóknarnefndar, eftir því sem við á.
-      Prófastur veitir presti leyfi til fjarvista úr prestakalli um stundarsakir, en leyfi til lengri fjarvista veitir biskup, að höfðu samráði við kirkjumálaráðherra.
-      Prófastur skipuleggur samstarf presta innan prófastsdæmis, sbr. 21. gr., og afleysingarþjónustu presta í sumarleyfum og öðrum samningsbundnum leyfum þeirra.
-      Nú getur sóknarprestur ekki gegnt embætti vegna veikinda, fjarvista eða af öðrum ástæðum og ákveður prófastur þá í samráði við sóknarprest hvernig þjónusta hans skuli leyst af hendi.
 
 
+*30. gr.*
 
-30. gr.
+        Prófastur hefur þau afskipti af veitingu prestakalla sem lög kveða á um.
+         Prófastur skipuleggur endurmenntun presta, sem prófastsdæmið beitir sér fyrir, í samráði við biskup og prestafélög.
+         Prófastur sér um bókasafn prófastsdæmis, en guðfræðilegu bókasafni prófastsdæmis skal komið á fót samkvæmt ákvörðun héraðsfundar og héraðsnefndar fyrir fé sem veitt kann að vera á fjárlögum í þessu skyni og úr héraðssjóði, svo og fyrir framlög einstakra manna.
 
-     Prófastur hefur þau afskipti af veitingu prestakalla sem lög kveða á um.
-      Prófastur skipuleggur endurmenntun presta, sem prófastsdæmið beitir sér fyrir, í samráði við biskup og prestafélög.
-      Prófastur sér um bókasafn prófastsdæmis, en guðfræðilegu bókasafni prófastsdæmis skal komið á fót samkvæmt ákvörðun héraðsfundar og héraðsnefndar fyrir fé sem veitt kann að vera á fjárlögum í þessu skyni og úr héraðssjóði, svo og fyrir framlög einstakra manna.
 
 
 
-31. gr.
+*31. gr.*
 
-     Prófastur hefur þau afskipti af kirkjugörðum og heimagrafreitum sem lög kveða á um.
+        Prófastur hefur þau afskipti af kirkjugörðum og heimagrafreitum sem lög kveða á um.
 
 
 
-32. gr.
 
-     Í hverju prófastsdæmi skal með samþykki ráðherra og að fenginni tillögu biskups leggja prófasti til sérstaka aðstöðu eða árlegt fjárframlag vegna skrifstofuhalds, eftir því sem ráðuneytið samþykkir.
+*32. gr.*
 
+        Í hverju prófastsdæmi skal með samþykki ráðherra og að fenginni tillögu biskups leggja prófasti til sérstaka aðstöðu eða árlegt fjárframlag vegna skrifstofuhalds, eftir því sem ráðuneytið samþykkir.
 
 
-33. gr.
 
-     Prófastur fær greiðslur úr ríkissjóði vegna ferðalaga í þágu prófastsdæmisins samkvæmt reikningi er dóms- og kirkjumálaráðuneytið úrskurðar.
 
+*33. gr.*
 
+        Prófastur fær greiðslur úr ríkissjóði vegna ferðalaga í þágu prófastsdæmisins samkvæmt reikningi er dóms- og kirkjumálaráðuneytið úrskurðar.
 
-34. gr.
 
-     Biskup boðar prófasta til fundar a.m.k. einu sinni á ári til umræðna um málefni þjóðkirkjunnar og þau mál er sérstaklega varða störf prófasta og tengsl þeirra við biskup og dóms- og kirkjumálaráðuneyti.
-      Ferðakostnaður prófasta og önnur útgjöld vegna fundarsetu greiðist úr ríkissjóði samkvæmt reikningi er dóms- og kirkjumálaráðuneytið úrskurðar.
 
 
+*34. gr.*
 
-*VI. kafli.*
+        Biskup boðar prófasta til fundar a.m.k. einu sinni á ári til umræðna um málefni þjóðkirkjunnar og þau mál er sérstaklega varða störf prófasta og tengsl þeirra við biskup og dóms- og kirkjumálaráðuneyti.
+         Ferðakostnaður prófasta og önnur útgjöld vegna fundarsetu greiðist úr ríkissjóði samkvæmt reikningi er dóms- og kirkjumálaráðuneytið úrskurðar.
 
-*Um biskup Íslands og embætti hans.[^1)^]*
 
-_[^1)^]Öll ákv. VI. kafla falla úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
-35. gr.
 
-     Ísland skal vera eitt biskupsdæmi.
-      Forseti Íslands skipar biskup Íslands. Um kosningu hans og kjörgengi fer samkvæmt "lögum um biskupskosningu, nr. 96/1980":1980096.html. Biskup hefur aðsetur í Reykjavík.
+h3. VI. kafli.
 
+h3. Um biskup Íslands og embætti hans.
 
+*35. - 41. gr.*
 
-36. gr.
+        ...[^1)^]
 
-     Biskup fer með yfirstjórn málefna þjóðkirkjunnar, nema mál heyri undir kirkjumálaráðherra samkvæmt lögum eða venju.
-      Biskup er forseti kirkjuþings og kirkjuráðs. Hann fylgir eftir markaðri stefnu kirkjuþings og prestastefnu og hefur ákvörðunarvald um einstök mál, nema þau lúti forsjá kirkjuráðs.
-      Biskup vígir presta og kirkjur að svo miklu leyti sem hann felur ekki vígslubiskupum það verkefni. Hann hefur yfirumsjón með kristnihaldi og kirkjulegu starfi í landinu. Hann vísiterar kirkjur, presta og söfnuði.
-      Biskup hefur samráð við vígslubiskup eða vígslubiskupa um ákvörðun meiri háttar málefna er kirkjuna varðar og getur falið vígslubiskupi að koma fram fyrir hönd kirkjunnar.
 
+_[^1)^]"L. 78/1997, 64. gr.":1997078.html#g64_
 
+h3. VII. kafli.
 
-37. gr.
+h3. Um vígslubiskupa og embætti þeirra.
 
-     Embættisskrifstofa biskups, biskupsstofa, skal vera í Reykjavík. Þar hafa kirkjuþing og kirkjuráð einnig aðsetur. Biskupsstofa annast afgreiðslu mála þjóðkirkjunnar, þar á meðal mála kirkjuþings og kirkjuráðs.
-      Biskupsstofa annast vörslu og reikningshald sjóða og annarra eigna þjóðkirkjunnar.
+*42. - 45. gr.*
 
+        ...[^1)^]
 
 
-38. gr.
+_[^1)^]"L. 78/1997, 64. gr.":1997078.html#g64_
 
-     Biskup ræður starfsmenn á biskupsstofu, að fenginni heimild ráðherra, þar á meðal biskupsritara, skrifstofustjóra, forstöðumenn deilda, fulltrúa og aðra starfsmenn. Enn fremur ræður biskup aðra starfsmenn þjóðkirkjunnar, nema lög mæli fyrir um annað.
-      Ráðherra getur, eftir tillögum biskups, ákveðið hæfnisskilyrði og ráðningartíma starfsmanna er gegna tilteknum verkefnum á biskupsstofu.
+*46. gr.*
 
+        Vígslubiskupar eiga sæti á árlegum prófastafundi. Þeir skulu sitja fundi kirkjuráðs þegar þeir eru tilkvaddir af ráðinu og sérstaklega er fjallað um málefni embætta þeirra og umdæma. Þeir eiga enn fremur sæti á kirkjuþingi og hafa þar málfrelsi og tillögurétt, sbr. lög um kirkjuþing og kirkjuráð, nr. 48 frá 1982.
 
 
-39. gr.
 
-     Biskup boðar prestastefnu Íslands og er forseti hennar.
-      Á prestastefnu hinnar íslensku þjóðkirkju eiga setu og atkvæðisrétt vígslubiskupar, allir starfandi þjóðkirkjuprestar, svo og fastir kennarar guðfræðideildar Háskóla Íslands með guðfræðimenntun. Aðrir prestar og guðfræðingar eiga rétt til fundarsetu með málfrelsi og tillögurétti.
 
+h3. VIII. kafli.
 
+h3. Stjórnvaldsreglur o.fl.
 
-40. gr.
+*47. gr.*
 
-     Biskup boðar til leikmannastefnu. Á henni eiga sæti fulltrúar frá prófastsdæmum landsins, kjörnir á héraðsfundum. Þá eiga þar sæti fulltrúar frá landssamtökum kristilegra félaga sem starfa á kenningargundvelli þjóðkirkjunnar, svo og fastir kennarar guðfræðideildar Háskóla Íslands sem ekki eru guðfræðingar.
-      Biskup setur nánari reglur um leikmannastefnu (m.a. um kjör fulltrúa), að fengnum tillögum hennar.
+        Ráðherra setur með reglugerð nánari ákvæði um framkvæmd laganna, að fengnum tillögum biskups.
 
 
 
-41. gr.
 
-     Í forföllum biskups setur ráðherra þann vígslubiskup, er biskup tilkveður, til þess að gegna embætti biskups.
-      Nú fellur biskup frá eða lætur af embætti og skal þá setja þann vígslubiskup, sem eldri er að biskupsvígslu, til þess að gegna embætti biskups.
+*48. gr.*
 
+        Við gildistöku laga þessara ber starfandi sóknarprestum og próföstum að hlíta, án sérstakra viðbótarlauna, þeim breytingum er verða á stærð prestakalla og prófastsdæma.
 
 
-*VII. kafli.*
 
-*Um vígslubiskupa og embætti þeirra.*
 
-42. gr.[^1)^]
+*49. gr.*
 
-     Tveir vígslubiskupar skulu vera hér á landi. Hafa þeir aðsetur í Skálholti í Biskupstungum og á Hólum í Hjaltadal.
-      ...[^2)^]
-      Vígslubiskup á Hólum hefur með höndum prestsþjónustu í Hólaprestakalli. Skal hann njóta aðstoðarþjónustu nágrannapresta eða farprests.
+        Lög þessi öðlast gildi 1. júlí 1990.
+         ...
 
 
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64[^2)^]"L. 69/1997, 2. gr.":/altext/stjt/1997.069.html_
 
 
+h6. Ákvæði til bráðabirgða.
 
-
-43. gr.[^1)^]
-
-     Forseti Íslands skipar vígslubiskupa.
-      Um kosningu vígslubiskupa og kjörgengi gilda ákvæði laga um biskupskjör, nr. 96 frá 1980, eftir því sem við getur átt, en ráðherra setur í reglugerð[^2)^] nánari reglur um kosningu og kjörgengi þeirra.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64[^2)^]Rg. 118/1991, sbr. 89/1994._
-
-
-
-
-44. gr.[^1)^]
-
-     Umdæmi vígslubiskups í Skálholti nær yfir Múla-, Austfjarða-, Skaftafells-, Rangárvalla-, Árness-, Kjalarness-, Reykjavíkur-, Borgarfjarðar-, Snæfellsness- og Dala-, Barðastrandar- og Ísafjarðarprófastsdæmi.
-      Umdæmi vígslubiskups á Hólum nær yfir Húnavatns-, Skagafjarðar-, Eyjafjarðar- og Þingeyjarprófastsdæmi.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-45. gr.[^1)^]
-
-     Verkefni vígslubiskupa í hvoru umdæmi fyrir sig skulu vera eftirfarandi:
+        1. Þrátt fyrir ákvæði 3. gr. skal óbreytt skipan haldast um tvo sóknarpresta í tvímenningsprestaköllum meðan þeir prestar gegna stöðum þessum sem ráðnir voru til starfa fyrir gildistöku laganna. Verði prestakalli, sem tveir sóknarprestar þjóna, skipt, sbr. 5. gr., hefur sá prestur, sem lengri hefur þjónustualdur í kallinu, rétt til þess að velja hvaða hluta þess hann hyggst þjóna.
 
 <dl>
-<dt>1.</dt>
-<dd>Að hafa tilsjón með kristnihaldi og vera biskupi til aðstoðar um kirkjuleg málefni.</dd>
-<dt>2.</dt>
-<dd>Að vígja kirkjur í umboði biskups.</dd>
-<dt>3.</dt>
-<dd>Að vígja presta að boði biskups.</dd>
-<dt>4.</dt>
-<dd>Að vísitera kirkjur, presta og söfnuði umdæma sinna í samráði við biskup.</dd>
-</dl>
-
-
-      Einnig skulu vígslubiskupar vera biskupi til ráðuneytis um sameiginleg málefni þjóðkirkjunnar og gegna að öðru leyti þeim störfum sem biskup felur þeim.
-
-
-_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
-
-
-
-
-46. gr.
-
-     Vígslubiskupar eiga sæti á árlegum prófastafundi. Þeir skulu sitja fundi kirkjuráðs þegar þeir eru tilkvaddir af ráðinu og sérstaklega er fjallað um málefni embætta þeirra og umdæma. Þeir eiga enn fremur sæti á kirkjuþingi og hafa þar málfrelsi og tillögurétt, sbr. lög um kirkjuþing og kirkjuráð, nr. 48 frá 1982.
-
-
-
-*VIII. kafli.*
-
-*Stjórnvaldsreglur o.fl.*
-
-47. gr.
-
-     Ráðherra setur með reglugerð nánari ákvæði um framkvæmd laganna, að fengnum tillögum biskups.
-
-
-
-48. gr.
-
-     Við gildistöku laga þessara ber starfandi sóknarprestum og próföstum að hlíta, án sérstakra viðbótarlauna, þeim breytingum er verða á stærð prestakalla og prófastsdæma.
-
-
-
-49. gr.
-
-     Lög þessi öðlast gildi 1. júlí 1990.
-      ...
-
-
-
-*Ákvæði til bráðabirgða.*
-
-     1. Þrátt fyrir ákvæði 3. gr. skal óbreytt skipan haldast um tvo sóknarpresta í tvímenningsprestaköllum meðan þeir prestar gegna stöðum þessum sem ráðnir voru til starfa fyrir gildistöku laganna. Verði prestakalli, sem tveir sóknarprestar þjóna, skipt, sbr. 5. gr., hefur sá prestur, sem lengri hefur þjónustualdur í kallinu, rétt til þess að velja hvaða hluta þess hann hyggst þjóna.
-
-<dl>
-<dt>2.</dt>
-<dd>Ráðherra getur ákveðið, ef sérstaklega stendur á, að fresta ákvörðun um breytingar á prestakalla- og prófastsdæmaskipaninni skv. 1. gr. Ákvörðun um þetta skal birta í B-deild Stjórnartíðinda.[^1)^]</dd>
-<dt>3.</dt>
-<dd>Í staðinn fyrir þau prestsembætti, sem lögð eru niður skv. 1. gr., skulu upp tekin í prófastsdæmunum samkvæmt liðum I - XIII í sömu grein eigi færri embætti farpresta og/eða aðstoðarpresta, sbr. 3. og 9. gr.</dd>
-<dt>4.</dt>
-<dd>Ákvæði laga þessara um vígslubiskupa taka til þeirra vígslubiskupa sem nú eru í starfi. Þó skulu ákvæði 42. gr. um fasta búsetu vígslubiskupa ekki eiga við um vígslubiskupa sem eru í starfi við gildistöku laganna.</dd>
-<dt>5.</dt>
-<dd>[Nú losnar embætti sóknarprests í Bergþórshvolsprestakalli og er þá heimilt að setja prest til að gegna því embætti allt til 1. janúar 1999.][^2)^]</dd>
-<dt>6.</dt>
-<dd>Lög þessi skulu koma til endurskoðunar eigi síðar en 1995. Þó skal ráðherra láta nú þegar athuga hvort hagkvæmara sé að Árness-, Hólmavíkur- og Prestsbakkaprestaköll í Húnavatnsprófastsdæmi færist til prófastsdæmis í Vestfjarðakjördæmi. Verði sú niðurstaða skal hann leggja fram frumvarp til laga um þá breytingu á næsta Alþingi.</dd>
-<dt>[7.</dt>
-<dd>Heimilt er í Grafarvogsprestakalli í Reykjavíkurprófastsdæmi eystra að ráða sóknarpresti annan prest til aðstoðar fram til 1. janúar 1999.][^2)^]</dd>
+<dt></dt>
+<dd>2. Ráðherra getur ákveðið, ef sérstaklega stendur á, að fresta ákvörðun um breytingar á prestakalla- og prófastsdæmaskipaninni skv. 1. gr. Ákvörðun um þetta skal birta í B-deild Stjórnartíðinda.[^1)^]</dd>
+<dt></dt>
+<dd>3. Í staðinn fyrir þau prestsembætti, sem lögð eru niður skv. 1. gr., skulu upp tekin í prófastsdæmunum samkvæmt liðum I--XIII í sömu grein eigi færri embætti farpresta og/eða aðstoðarpresta, sbr. 3. og 9. gr.</dd>
+<dt></dt>
+<dd>4. Ákvæði laga þessara um vígslubiskupa taka til þeirra vígslubiskupa sem nú eru í starfi. Þó skulu ákvæði 42. gr. um fasta búsetu vígslubiskupa ekki eiga við um vígslubiskupa sem eru í starfi við gildistöku laganna.</dd>
+<dt></dt>
+<dd>5. [Nú losnar embætti sóknarprests í Bergþórshvolsprestakalli og er þá heimilt að setja prest til að gegna því embætti allt til 1. janúar 1999.][^2)^]</dd>
+<dt></dt>
+<dd>6. Lög þessi skulu koma til endurskoðunar eigi síðar en 1995. Þó skal ráðherra láta nú þegar athuga hvort hagkvæmara sé að Árness-, Hólmavíkur- og Prestsbakkaprestaköll í Húnavatnsprófastsdæmi færist til prófastsdæmis í Vestfjarðakjördæmi. Verði sú niðurstaða skal hann leggja fram frumvarp til laga um þá breytingu á næsta Alþingi.</dd>
+<dt></dt>
+<dd>[7. Heimilt er í Grafarvogsprestakalli í Reykjavíkurprófastsdæmi eystra að ráða sóknarpresti annan prest til aðstoðar fram til 1. janúar 1999.][^2)^]</dd>
 </dl>
 
 
 
 
-_[^1)^]Augl. 277/1990, 538/1990, sbr. 444/1991, 414/1992, 525/1993, 669/1994 og 651/1995.[^2)^]"L. 69/1997, 3. gr.":/altext/stjt/1997.069.html_
-
-
-
+_[^1)^]"Augl. 277/1990":ekkitil/ekkitil.html?AUGL/1990277, "538/1990":ekkitil/ekkitil.html?AUGL/1990538, sbr. "444/1991":ekkitil/ekkitil.html?AUGL/1991444, "414/1992":ekkitil/ekkitil.html?AUGL/1992414, "525/1993":ekkitil/ekkitil.html?AUGL/1993525, "669/1994":ekkitil/ekkitil.html?AUGL/1994669 og "651/1995":ekkitil/ekkitil.html?AUGL/1995651.[^2)^]"L. 69/1997, 3. gr.":ekkitil/ekkitil.html?1997069#g3_
 

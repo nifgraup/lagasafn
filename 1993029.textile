@@ -2,41 +2,36 @@
 
 h2. Lög um vörugjald af ökutækjum, eldsneyti o.fl.
 
-*1993 nr. 29 13. apríl*
+*1993, nr. 29, 13. apríl*
 
 <hr />
 
+h3. I. kafli.
 
+h3. Almenn ákvæði og gjaldskylda.
 
+*1. gr.*
 
-*I. kafli.*
-
-*Almenn ákvæði og gjaldskylda.*
-
-1. gr.
-
-     Greiða skal í ríkissjóð vörugjald af ökutækjum sem skráningarskyld eru samkvæmt "umferðarlögum, nr. 50/1987":1987050.html, o.fl., svo sem nánar greinir í lögum þessum, sbr. 87. kafla viðauka I við "tollalög, nr. 55/1987":1987055.html, og eldsneyti, sbr. 27. kafla viðauka I við "tollalög, nr. 55/1987":1987055.html, eftir því sem segir í lögum þessum.
-
+        Greiða skal í ríkissjóð vörugjald af ökutækjum sem skráningarskyld eru samkvæmt "umferðarlögum, nr. 50/1987":1987050.html, o.fl., svo sem nánar greinir í lögum þessum, sbr. 87. kafla viðauka I við "tollalög, nr. 55/1987":1987055.html, og eldsneyti, sbr. 27. kafla viðauka I við "tollalög, nr. 55/1987":1987055.html, eftir því sem segir í lögum þessum.
 
 
 _Gjaldskylda._
 
-2. gr.
+*2. gr.*
 
-     Gjaldskyldan nær til allra vara, sbr. 1. gr., nýrra sem notaðra, sem fluttar eru til landsins eða eru framleiddar, unnið er að eða settar eru saman hér á landi. Vara, sem seld er úr landi, er þó ekki gjaldskyld.
-      Við flokkun til gjaldskyldu samkvæmt lögum þessum skal fylgt flokkunarreglum "tollalaga, nr. 55/1987":1987055.html, og gilda ákvæði þeirra um úrskurðarvald í ágreiningsmálum um flokkun vara jafnframt um vörugjald.
+        Gjaldskyldan nær til allra vara, sbr. 1. gr., nýrra sem notaðra, sem fluttar eru til landsins eða eru framleiddar, unnið er að eða settar eru saman hér á landi. Vara, sem seld er úr landi, er þó ekki gjaldskyld.
+         Við flokkun til gjaldskyldu samkvæmt lögum þessum skal fylgt flokkunarreglum "tollalaga, nr. 55/1987":1987055.html, og gilda ákvæði þeirra um úrskurðarvald í ágreiningsmálum um flokkun vara jafnframt um vörugjald.
 
 
+h3. II. kafli.
 
-*II. kafli.*
-
-*Vörugjald af ökutækjum o.fl.*
+h3. Vörugjald af ökutækjum o.fl.
 
 _Gjaldflokkar ökutækja._
 
-3. gr.
+*3. gr.*
 
-     [Á fólksbifreiðar og önnur vélknúin ökutæki, sem ekki eru sérstaklega tilgreind í 4. gr., skal lagt vörugjald í eftirfarandi þremur gjaldflokkum miðað við sprengirými aflvélar, mælt í rúmsentimetrum:*Sprengirými aflvélar*
+        [Á fólksbifreiðar og önnur vélknúin ökutæki, sem ekki eru sérstaklega tilgreind í 4. gr., skal lagt vörugjald í eftirfarandi þremur gjaldflokkum miðað við sprengirými aflvélar, mælt í rúmsentimetrum:*Sprengirými aflvélar*
 
 Flokkur
 
@@ -53,152 +48,149 @@ Gjald í %
 
 
 
-_[^1)^]"L. 48/1996, 1. gr.":/altext/stjt/1996.048.html_
+_[^1)^]"L. 48/1996, 1. gr.":ekkitil/ekkitil.html?1996048#g1_
 
+*4. gr.*
 
-
-
-4. gr.
-
-     Vörugjald af eftirtöldum vörum skal vera sem hér segir:
+        Vörugjald af eftirtöldum vörum skal vera sem hér segir:
 
 <dl>
-<dt>[1.</dt>
-<dd>5% vörugjald: Hópferðabifreiðar, þ.e. ökutæki sem aðallega eru ætluð til fólksflutninga, sem skráðar eru fyrir 18 farþega eða fleiri að meðtöldum ökumanni.][^1)^]</dd>
-<dt>[2.]</dt>
-<dd>[^1)^] 10% vörugjald: Dráttarvélar.</dd>
-<dt>[3.]</dt>
-<dd>[^1)^] 15% vörugjald:
+<dt></dt>
+<dd>[1. [Hópferðabifreiðar, þ.e. ökutæki sem aðallega eru ætluð til fólksflutninga, sem skráðar eru fyrir 18 farþega eða fleiri að meðtöldum ökumanni, skulu undanþegnar vörugjaldi.][^1)^]][^2)^]</dd>
+<dt></dt>
+<dd>[2.] [^2)^] 10% vörugjald: Dráttarvélar.</dd>
+<dt></dt>
+<dd>[3.] [^2)^] 15% vörugjald:
 <dl>
-<dt>a.</dt>
-<dd>Tengivagnar og festivagnar til vöruflutninga, íbúðar eða ferðalaga, sem ekki eru vélknúnir, og yfirbyggingar á þá.</dd>
-<dt>b.</dt>
-<dd>Kranabifreiðar og borkranabifreiðar.</dd>
-<dt>c.</dt>
-<dd>Grindur með hreyfli fyrir vélknúin ökutæki.</dd>
-<dt>d.</dt>
-<dd>Yfirbyggingar, þar með talin ökumannshús fyrir vélknúin ökutæki.</dd>
-<dt>e.</dt>
-<dd>[Ökutæki sem aðallega eru ætluð til vöruflutninga og eru yfir 5 tonn að heildarþyngd.][^2)^]</dd>
+<dt></dt>
+<dd>a. Tengivagnar og festivagnar til vöruflutninga, íbúðar eða ferðalaga, sem ekki eru vélknúnir, og yfirbyggingar á þá.</dd>
+<dt></dt>
+<dd>b. Kranabifreiðar og borkranabifreiðar.</dd>
+<dt></dt>
+<dd>c. Grindur með hreyfli fyrir vélknúin ökutæki.</dd>
+<dt></dt>
+<dd>d. Yfirbyggingar, þar með talin ökumannshús fyrir vélknúin ökutæki.</dd>
+<dt></dt>
+<dd>e. [Ökutæki sem aðallega eru ætluð til vöruflutninga og eru yfir 5 tonn að heildarþyngd.][^3)^]</dd>
+<dt></dt>
+<dd>[f. Dráttarbifreiðar, þ.e. bifreiðar sem aðallega eru gerðar til að draga annað ökutæki, sem eru yfir 5 tonn að heildarþyngd.</dd>
+<dt></dt>
+<dd>g. Vélknúin ökutæki til sérstakra nota, gálgabifreiðar o.fl., sem ekki eru aðallega hönnuð til flutnings á mönnum eða vörum og ekki eru tilgreind annars staðar í þessari grein, að heildarþyngd yfir 5 tonn.][^1)^]</dd>
 </dl>
 </dd>
-<dt>[4.]</dt>
-<dd>[^1)^] 30% vörugjald:
+<dt></dt>
+<dd>[4.] [^2)^] 30% vörugjald:
 <dl>
-<dt>a.</dt>
-<dd>Dráttarbifreiðar, þ.e. bifreiðar sem aðallega eru gerðar til að draga annað ökutæki.</dd>
-<dt>b.</dt>
-<dd>Hópferðabifreiðar, þ.e. ökutæki sem aðallega eru ætluð til fólksflutninga og skráð eru fyrir 10 - 17 farþega að meðtöldum ökumanni.</dd>
-<dt>c.</dt>
-<dd>[Ökutæki sem aðallega eru ætluð til vöruflutninga og eru 5 tonn eða minna að heildarþyngd.][^2)^]</dd>
-<dt>d.</dt>
-<dd>Vélknúin ökutæki til sérstakra nota, gálgabifreiðar o.fl. sem ekki eru aðallega hönnuð til flutnings á mönnum eða vörum og ekki eru tilgreind annars staðar í þessari grein.</dd>
-<dt>e.</dt>
-<dd>Ökutæki sem knúin eru rafhreyfli.</dd>
+<dt></dt>
+<dd>a. Dráttarbifreiðar, þ.e. bifreiðar sem aðallega eru gerðar til að draga annað ökutæki [að heildarþyngd 5 tonn eða minna].[^1)^]</dd>
+<dt></dt>
+<dd>b. Hópferðabifreiðar, þ.e. ökutæki sem aðallega eru ætluð til fólksflutninga og skráð eru fyrir 10 - 17 farþega að meðtöldum ökumanni.</dd>
+<dt></dt>
+<dd>c. [Ökutæki sem aðallega eru ætluð til vöruflutninga og eru 5 tonn eða minna að heildarþyngd.][^3)^]</dd>
+<dt></dt>
+<dd>d. Vélknúin ökutæki til sérstakra nota, gálgabifreiðar o.fl. sem ekki eru aðallega hönnuð til flutnings á mönnum eða vörum og ekki eru tilgreind annars staðar í þessari grein [að heildarþyngd 5 tonn eða minna].[^1)^]</dd>
+<dt></dt>
+<dd>e. Ökutæki sem knúin eru rafhreyfli.</dd>
 </dl>
 </dd>
-<dt>[5.]</dt>
-<dd>[^1)^] 70% vörugjald:
+<dt></dt>
+<dd>[5.] [^2)^] 70% vörugjald:
 <dl>
-<dt>a.</dt>
-<dd>Bifhjól (þar með talin stigin bifhjól) og reiðhjól með hjálparvél.</dd>
-<dt>b.</dt>
-<dd>Beltabifhjól (vélsleðar).</dd>
-<dt>c.</dt>
-<dd>Fjórhjól.</dd>
-<dt>d.</dt>
-<dd>Önnur vélknúin ökutæki sem ekki eru sérstaklega talin upp í þessum kafla.</dd>
+<dt></dt>
+<dd>a. Bifhjól (þar með talin stigin bifhjól) og reiðhjól með hjálparvél.</dd>
+<dt></dt>
+<dd>b. Beltabifhjól (vélsleðar).</dd>
+<dt></dt>
+<dd>c. Fjórhjól.</dd>
+<dt></dt>
+<dd>d. Önnur vélknúin ökutæki sem ekki eru sérstaklega talin upp í þessum kafla.</dd>
 </dl>
 </dd>
 </dl>
 
 
-      Ráðherra er heimilt að samræma vörugjöld af vörum samkvæmt þessum kafla til lækkunar eða hækkunar ef sams konar eða svipaðar vörur kaflans bera ekki sama vörugjald.
+         Ráðherra er heimilt að samræma vörugjöld af vörum samkvæmt þessum kafla til lækkunar eða hækkunar ef sams konar eða svipaðar vörur kaflans bera ekki sama vörugjald.
 
 
-_[^1)^]"L. 41/1995, 2. gr.":/altext/stjt/1995.041.html[^2)^]"L. 47/1997, 1. gr":/altext/stjt/1997.047.html. Sjá einnig brbákv. s.l._
+_[^1)^]"L. 140/1997, 1. gr.":ekkitil/ekkitil.html?1997140#g1[^2)^]"L. 41/1995, 2. gr.":ekkitil/ekkitil.html?1995041#g2[^3)^]"L. 47/1997, 1. gr":ekkitil/ekkitil.html?1997047#g1. Sjá einnig brbákv. s.l._
 
+*5. gr.*
 
-
-
-5. gr.
-
-     Ökutæki í eigu erlendra sendiráða, sendiræðisskrifstofa og sendiræðismanna eru undanþegin gjaldskyldu samkvæmt kafla þessum sé slíkt skylt samkvæmt milliríkjasamningum sem Ísland er aðili að. Sama gildir um alþjóðasamtök og -stofnanir sem hér eru.
-      Ráðherra er heimilt með reglugerð að lækka eða fella niður gjald samkvæmt þessum kafla og setja um það skilyrði. Heimildin nær til þeirra ökutækja sem hér greinir.
+        Ökutæki í eigu erlendra sendiráða, sendiræðisskrifstofa og sendiræðismanna eru undanþegin gjaldskyldu samkvæmt kafla þessum sé slíkt skylt samkvæmt milliríkjasamningum sem Ísland er aðili að. Sama gildir um alþjóðasamtök og -stofnanir sem hér eru. [Þá eru ökutæki sem hafa í för með sér hverfandi mengun og eru knúin óhefðbundnum orkugjafa, svo sem rafhreyfli eða vetni, undanþegin gjaldskyldu.][^1)^]
+         Ráðherra er heimilt með reglugerð að lækka eða fella niður gjald samkvæmt þessum kafla og setja um það skilyrði. Heimildin nær til þeirra ökutækja sem hér greinir.
 
 <dl>
-<dt>1.</dt>
-<dd>Dráttarbifreiðar að heildarþyngd 4 tonn eða meira sem gerðar eru til nota utan þjóðvega.</dd>
-<dt>2.</dt>
-<dd>Ökutæki á beltum, sérstaklega ætluð til flutninga í snjó, eftir nánari skilgreiningu fjármálaráðuneytisins.</dd>
-<dt>3.</dt>
-<dd>Slökkvibifreiðar, snjóplógar.</dd>
-<dt>4.</dt>
-<dd>Sjúkrabifreiðar.</dd>
-<dt>5.</dt>
-<dd>Ökutæki sem knúin eru rafhreyfli og flutt eru inn eða smíðuð í tilraunaskyni.</dd>
-<dt>6.</dt>
-<dd>Sjálfhlaðandi eða sjálflosandi tengivagnar og festivagnar til landbúnaðarnota.</dd>
-<dt>7.</dt>
-<dd>Bifreiðar, sérstaklega búnar til flutnings á fötluðum, sem búnar eru hjólastólalyftu og samþykktar af Tryggingastofnun ríkisins.</dd>
-<dt>8.</dt>
-<dd>Bifreiðar sem sérstaklega eru útbúnar og notaðar til líkflutninga.</dd>
-<dt>9.</dt>
-<dd>Dráttarvélar til nota á lögbýlum.</dd>
-<dt>10.</dt>
-<dd>Leigubifreiðar. Ekki er þó heimilt að lækka gjald af bifreiðum þessum niður fyrir 30%.</dd>
-<dt>[11.</dt>
-<dd>Hópferðabifreiðar, þ.e. ökutæki sem aðallega eru ætluð til fólksflutninga, sem skráðar eru fyrir 10 - 17 farþega að meðtöldum ökumanni. Ekki er þó heimilt að lækka gjald af bifreiðum þessum niður fyrir 20%.</dd>
-<dt>12.</dt>
-<dd>Fólksbifreiðar sem falla í gjaldflokk II skv. 3. gr. og ætlaðar eru til útleigu hjá bílaleigum. Ekki er þó heimilt að lækka gjald af bifreiðum þessum niður fyrir 30%.][^1)^]</dd>
+<dt></dt>
+<dd>1. Dráttarbifreiðar að heildarþyngd 4 tonn eða meira sem gerðar eru til nota utan þjóðvega.</dd>
+<dt></dt>
+<dd>2. Ökutæki á beltum, sérstaklega ætluð til flutninga í snjó, eftir nánari skilgreiningu fjármálaráðuneytisins.</dd>
+<dt></dt>
+<dd>3. Slökkvibifreiðar, snjóplógar.</dd>
+<dt></dt>
+<dd>4. Sjúkrabifreiðar.</dd>
+<dt></dt>
+<dd>5. ...[^1)^]</dd>
+<dt></dt>
+<dd>6. Sjálfhlaðandi eða sjálflosandi tengivagnar og festivagnar til landbúnaðarnota.</dd>
+<dt></dt>
+<dd>7. Bifreiðar, sérstaklega búnar til flutnings á fötluðum, sem búnar eru hjólastólalyftu og samþykktar af Tryggingastofnun ríkisins.</dd>
+<dt></dt>
+<dd>8. Bifreiðar sem sérstaklega eru útbúnar og notaðar til líkflutninga.</dd>
+<dt></dt>
+<dd>9. Dráttarvélar til nota á lögbýlum.</dd>
+<dt></dt>
+<dd>10. Leigubifreiðar. Ekki er þó heimilt að lækka gjald af bifreiðum þessum niður fyrir 30%.</dd>
+<dt></dt>
+<dd>[11. Hópferðabifreiðar, þ.e. ökutæki sem aðallega eru ætluð til fólksflutninga, sem skráðar eru fyrir 10 - 17 farþega að meðtöldum ökumanni. Ekki er þó heimilt að lækka gjald af bifreiðum þessum niður fyrir 20%.</dd>
+<dt></dt>
+<dd>12. Fólksbifreiðar sem falla í gjaldflokk II skv. 3. gr. og ætlaðar eru til útleigu hjá bílaleigum. Ekki er þó heimilt að lækka gjald af bifreiðum þessum niður fyrir 30%.][^2)^]</dd>
 </dl>
 
 
-      Ráðherra er heimilt að setja skilyrði fyrir lækkun eða niðurfellingu gjalda skv. 2. mgr.
+         Ráðherra er heimilt að setja skilyrði fyrir lækkun eða niðurfellingu gjalda skv. 2. mgr.
 
 
-_[^1)^]"L. 41/1995, 3. gr.":/altext/stjt/1995.041.html_
-
-
-
+_[^1)^]"L. 140/1997, 2. gr.":ekkitil/ekkitil.html?1997140#g2[^2)^]"L. 41/1995, 3. gr.":ekkitil/ekkitil.html?1995041#g3_
 
 _Innflutt ökutæki._
 
-6. gr.
+*6. gr.*
 
-     Þegar ökutæki er innflutt skal innflytjandi þess afhenda viðkomandi tollyfirvaldi með aðflutningsskýrslu staðfestingu um forskráningu ökutækis þar sem m.a. skal gerð grein fyrir stærð aflvélar þess.
-      Þegar ekki er unnt að leggja fram gögn um forskráningu við tollafgreiðslu er heimilt að leggja fram önnur þau gögn um vélarstærð ökutækis er tollyfirvöld meta fullnægjandi.
+        Þegar ökutæki er innflutt skal innflytjandi þess afhenda viðkomandi tollyfirvaldi með aðflutningsskýrslu staðfestingu um forskráningu ökutækis þar sem m.a. skal gerð grein fyrir stærð aflvélar þess.
+         Þegar ekki er unnt að leggja fram gögn um forskráningu við tollafgreiðslu er heimilt að leggja fram önnur þau gögn um vélarstærð ökutækis er tollyfirvöld meta fullnægjandi.
 
 
 
-7. gr.
 
-     Ákvæði "6. gr. tollalaga, nr. 55/1987":1987055.html#g6, skulu gilda eftir því sem við getur átt um gjald af vörum samkvæmt þessum kafla laganna.
+*7. gr.*
 
+        Ákvæði "6. gr. tollalaga, nr. 55/1987":1987055.html#g6, skulu gilda eftir því sem við getur átt um gjald af vörum samkvæmt þessum kafla laganna.
 
 
 _Innlend framleiðsla og aðvinnsla._
 
-8. gr.
+*8. gr.*
 
-     Sá aðili, er framleiðir eða vinnur að breytingum á ökutæki áður en það er skráð samkvæmt "umferðarlögum, nr. 50/1987":1987050.html, skal skila gjaldi af ökutækinu í samræmi við verðmæti þess við skráningu og samkvæmt þeim gjaldflokki sem það þá fellur undir samkvæmt lögum þessum.
-      Heimilt er að draga frá greiðslu skv. 1. mgr. það vörugjald sem þegar hefur verið greitt af ökutækinu eða efnivörum til þess.
+        Sá aðili, er framleiðir eða vinnur að breytingum á ökutæki áður en það er skráð samkvæmt "umferðarlögum, nr. 50/1987":1987050.html, skal skila gjaldi af ökutækinu í samræmi við verðmæti þess við skráningu og samkvæmt þeim gjaldflokki sem það þá fellur undir samkvæmt lögum þessum.
+         Heimilt er að draga frá greiðslu skv. 1. mgr. það vörugjald sem þegar hefur verið greitt af ökutækinu eða efnivörum til þess.
 
 
 
-9. gr.
 
-     Sé ökutæki, sem skráð hefur verið samkvæmt "umferðarlögum, nr. 50/1987":1987050.html, breytt þannig að það flokkist í hærri gjaldflokk en við upphaflega skráningu skal skráður eigandi þess greiða viðbótarvörugjald eigi breytingin sér stað innan fimm ára frá upphaflegum skráningardegi.
-      Viðbótargjald skv. 1. mgr. skal ákveðið með eftirfarandi hætti:
+*9. gr.*
+
+        Sé ökutæki, sem skráð hefur verið samkvæmt "umferðarlögum, nr. 50/1987":1987050.html, breytt þannig að það flokkist í hærri gjaldflokk en við upphaflega skráningu skal skráður eigandi þess greiða viðbótarvörugjald eigi breytingin sér stað innan fimm ára frá upphaflegum skráningardegi.
+         Viðbótargjald skv. 1. mgr. skal ákveðið með eftirfarandi hætti:
 
 <dl>
-<dt>a.</dt>
-<dd>Á framreiknaðan og afskrifaðan upphaflegan gjaldstofn skal reikna viðbótarvörugjald sem nemur mismun á nýjum gjaldflokki skv. 1. mgr. og þeim gjaldflokki er upphaflega var greitt samkvæmt.</dd>
-<dt>b.</dt>
-<dd>Af verðmætaaukningu vegna aðvinnslu eða breytinga á ökutækinu skal greiða vörugjald samkvæmt nýjum gjaldflokki, sbr. 1. mgr.</dd>
-<dt>c.</dt>
-<dd>Frá álögðu vörugjaldi skv. a- og b-liðum er heimilt að draga vörugjald sem greitt hefur verið vegna aðfanga til aðvinnslunnar eða breytingarinnar.</dd>
+<dt></dt>
+<dd>a. Á framreiknaðan og afskrifaðan upphaflegan gjaldstofn skal reikna viðbótarvörugjald sem nemur mismun á nýjum gjaldflokki skv. 1. mgr. og þeim gjaldflokki er upphaflega var greitt samkvæmt.</dd>
+<dt></dt>
+<dd>b. Af verðmætaaukningu vegna aðvinnslu eða breytinga á ökutækinu skal greiða vörugjald samkvæmt nýjum gjaldflokki, sbr. 1. mgr.</dd>
+<dt></dt>
+<dd>c. Frá álögðu vörugjaldi skv. a- og b-liðum er heimilt að draga vörugjald sem greitt hefur verið vegna aðfanga til aðvinnslunnar eða breytingarinnar.</dd>
 </dl>
+
 
 
 
@@ -206,204 +198,213 @@ _Innlend framleiðsla og aðvinnsla._
 
 _Ýmis ákvæði._
 
-10. gr.
+*10. gr.*
 
-     Tollstjóri getur krafist þess að gjaldskyldir aðilar leggi fram upplýsingar frá framleiðanda ökutækis um sprengirými aflvélar þess eða samsvarandi upplýsingar innlends aðila sem annast hefur aðvinnslu eða breytingar á ökutækinu.
-
-
-
-11. gr.
-
-     Óheimilt er að skrásetja gjaldskylt ökutæki fyrr en gjald samkvæmt lögum þessum hefur verið greitt.
-      Þeir aðilar, sem skrá og skoða ökutæki, skulu ganga úr skugga um það við skráningu ökutækis að gjald skv. II. kafla hafi verið greitt af viðkomandi ökutæki. Komi í ljós að gjald sé vangreitt skal synjað um skráningu og/eða skoðun og viðkomandi tollstjóra þegar tilkynnt um það.
+        Tollstjóri getur krafist þess að gjaldskyldir aðilar leggi fram upplýsingar frá framleiðanda ökutækis um sprengirými aflvélar þess eða samsvarandi upplýsingar innlends aðila sem annast hefur aðvinnslu eða breytingar á ökutækinu.
 
 
 
-12. gr.
 
-     Ákveða má í reglugerð að ökutæki, sem falla undir lög þessi og ekki eru ætluð til einkanota eða undanþegin eru gjaldi samkvæmt lögum þessum, verði auðkennd sérstaklega.
+*11. gr.*
 
-
-
-13. gr.
-
-     Ráðherra getur með reglugerð heimilað endurgreiðslu vörugjalds af ökutækjum sem seld eða leigð eru úr landi. Fjárhæð endurgreiðslu skal miða við fyrningargrunn og fyrningarhlutföll samkvæmt nánari ákvæðum í reglugerð.
+        Óheimilt er að skrásetja gjaldskylt ökutæki fyrr en gjald samkvæmt lögum þessum hefur verið greitt.
+         Þeir aðilar, sem skrá og skoða ökutæki, skulu ganga úr skugga um það við skráningu ökutækis að gjald skv. II. kafla hafi verið greitt af viðkomandi ökutæki. Komi í ljós að gjald sé vangreitt skal synjað um skráningu og/eða skoðun og viðkomandi tollstjóra þegar tilkynnt um það.
 
 
 
-*III. kafli.*
 
-*Vörugjöld af eldsneyti.*
+*12. gr.*
+
+        Ákveða má í reglugerð að ökutæki, sem falla undir lög þessi og ekki eru ætluð til einkanota eða undanþegin eru gjaldi samkvæmt lögum þessum, verði auðkennd sérstaklega.
+
+
+
+
+*13. gr.*
+
+        Ráðherra getur með reglugerð heimilað endurgreiðslu vörugjalds af ökutækjum sem seld eða leigð eru úr landi. Fjárhæð endurgreiðslu skal miða við fyrningargrunn og fyrningarhlutföll samkvæmt nánari ákvæðum í reglugerð.
+
+
+
+
+h3. III. kafli.
+
+h3. Vörugjöld af eldsneyti.
 
 _Almennt vörugjald af eldsneyti._
 
-14. gr.
+*14. gr.*
 
-     Af bensíni skal greiða [97%][^1)^] vörugjald.
-
-
-_[^1)^]"L. 122/1993, 43. gr.":/altext/stjt/1993.122.html_
+        Af bensíni skal greiða [97%][^1)^] vörugjald.
 
 
-
+_[^1)^]"L. 122/1993, 43. gr.":ekkitil/ekkitil.html?1993122#g43_
 
 _Sérstakt vörugjald af eldsneyti._
 
-15. gr.
+*15. gr.*
 
-     Auk vörugjalds skv. 14. gr. skal greiða sérstakt vörugjald  --  bensíngjald  --  af bensíni. Af blýlausu bensíni skal greiða gjald sem nemur 21,78 kr. af hverjum lítra. Af öðru bensíni skal greiða gjald sem nemur 23,82 kr. af hverjum lítra.
-      Tekjum af bensíngjaldi skal einungis varið til vegagerðar samkvæmt vegáætlun.
-
-
-
-16. gr.
-
-     Bensíngjald skv. 15. gr. er grunngjald. Ráðherra er heimilt að hækka bensíngjald allt að því að það hækki í réttu hlutfalli við þá hækkun sem kann að verða á vísitölu byggingarkostnaðar, sbr. "lög nr. 42/1987":1987042.html. Grunntaxti bensíngjalds er miðaður við vísitölu 1. febrúar 1990, þ.e. 164,9 stig.
-      Heimilt er ráðherra að láta hækkun, er hann kann að ákveða á bensíngjaldi skv. 1. mgr. þessarar greinar, ná til bensínbirgða sem til eru í landinu þegar hækkunin tekur gildi. Getur ráðherra ákveðið að þeir sem hafa bensín til umráða, er hækkun tekur gildi, séu skyldir til að tilkynna það innheimtumanni ríkissjóðs og aðstoða hann við könnun birgða sé þess óskað.
+        Auk vörugjalds skv. 14. gr. skal greiða sérstakt vörugjald  --  bensíngjald  --  af bensíni. Af blýlausu bensíni skal greiða gjald sem nemur 21,78 kr. af hverjum lítra. Af öðru bensíni skal greiða gjald sem nemur 23,82 kr. af hverjum lítra.
+         Tekjum af bensíngjaldi skal einungis varið til vegagerðar samkvæmt vegáætlun.
 
 
 
-17. gr.
 
-     Ráðherra er heimilt með reglugerð að fella niður eða að ákveða endurgreiðslu á gjöldum skv. 14. gr. og 15. gr. af bensíni ef sönnur eru færðar á að það hafi verið notað eða verði notað á flugvélar.
+*16. gr.*
+
+        Bensíngjald skv. 15. gr. er grunngjald. Ráðherra er heimilt að hækka bensíngjald allt að því að það hækki í réttu hlutfalli við þá hækkun sem kann að verða á vísitölu byggingarkostnaðar, sbr. "lög nr. 42/1987":1987042.html. Grunntaxti bensíngjalds er miðaður við vísitölu 1. febrúar 1990, þ.e. 164,9 stig.
+         Heimilt er ráðherra að láta hækkun, er hann kann að ákveða á bensíngjaldi skv. 1. mgr. þessarar greinar, ná til bensínbirgða sem til eru í landinu þegar hækkunin tekur gildi. Getur ráðherra ákveðið að þeir sem hafa bensín til umráða, er hækkun tekur gildi, séu skyldir til að tilkynna það innheimtumanni ríkissjóðs og aðstoða hann við könnun birgða sé þess óskað.
 
 
 
-*IV. kafli.*
 
-*Gjaldskyldir aðilar, gjaldstofn og gjalddagar.*
+*17. gr.*
 
-18. gr.
+        Ráðherra er heimilt með reglugerð að fella niður eða að ákveða endurgreiðslu á gjöldum skv. 14. gr. og 15. gr. af bensíni ef sönnur eru færðar á að það hafi verið notað eða verði notað á flugvélar.
 
-     Gjaldskyldir samkvæmt lögum þessum eru:
+
+
+
+h3. IV. kafli.
+
+h3. Gjaldskyldir aðilar, gjaldstofn og gjalddagar.
+
+*18. gr.*
+
+        Gjaldskyldir samkvæmt lögum þessum eru:
 
 <dl>
-<dt>1.</dt>
-<dd>Allir þeir sem flytja til landsins vörur sem eru gjaldskyldar samkvæmt lögum þessum hvort sem er til endursölu eða eigin nota.</dd>
-<dt>2.</dt>
-<dd>Allir þeir sem framleiða hér á landi vörur sem eru gjaldskyldar samkvæmt lögum þessum, vinna að þeim eða setja þær saman hvort sem er til endursölu eða eigin nota.</dd>
+<dt></dt>
+<dd>1. Allir þeir sem flytja til landsins vörur sem eru gjaldskyldar samkvæmt lögum þessum hvort sem er til endursölu eða eigin nota.</dd>
+<dt></dt>
+<dd>2. Allir þeir sem framleiða hér á landi vörur sem eru gjaldskyldar samkvæmt lögum þessum, vinna að þeim eða setja þær saman hvort sem er til endursölu eða eigin nota.</dd>
 </dl>
 
 
-      Þeir sem gjaldskyldir eru skv. 2. tölul. 1. mgr. skulu ótilkvaddir skila vörugjaldsskýrslu vegna ökutækis o.fl. til innheimtumanns ríkissjóðs í því umdæmi þar sem þeir eru heimilisfastir og greiða gjald það sem þeim ber að standa skil á.
+         Þeir sem gjaldskyldir eru skv. 2. tölul. 1. mgr. skulu ótilkvaddir skila vörugjaldsskýrslu vegna ökutækis o.fl. til innheimtumanns ríkissjóðs í því umdæmi þar sem þeir eru heimilisfastir og greiða gjald það sem þeim ber að standa skil á.
+
 
 
 
 _Gjaldstofn._
 
-19. gr.
+*19. gr.*
 
-     Gjaldstofn vörugjalds samkvæmt lögum þessum af innfluttum vörum er tollverð þeirra eins og það er ákveðið skv. "8":1987055.html#g8. - "12. gr. tollalaga, nr. 55/1987":1987055.html#g12, að viðbættum gjöldum eins og þau eru ákveðin samkvæmt þeim lögum.
-
-
-
-20. gr.
-
-     Gjaldstofn vörugjalds samkvæmt lögum þessum af gjaldskyldum vörum, sem framleiddar eru, unnið er að eða settar eru saman hér á landi, er verksmiðjuverð þeirra, þ.e. söluverð framleiðanda þeirra án vörugjalds til óháðs aðila, sbr. 8. gr. tollalaga. Sé erfiðleikum bundið að ákvarða framleiðsluverð skal tollstjóri meta það. Skal við matið höfð hliðsjón af tollverði hliðstæðrar innfluttrar vöru eða framleiðsluverði hliðstæðrar vöru sem framleidd er hérlendis.
+        Gjaldstofn vörugjalds samkvæmt lögum þessum af innfluttum vörum er tollverð þeirra eins og það er ákveðið skv. 8. - "12. gr. tollalaga, nr. 55/1987":1987055.html#g12, að viðbættum gjöldum eins og þau eru ákveðin samkvæmt þeim lögum.
 
 
+*20. gr.*
 
-21. gr.
+        Gjaldstofn vörugjalds samkvæmt lögum þessum af gjaldskyldum vörum, sem framleiddar eru, unnið er að eða settar eru saman hér á landi, er verksmiðjuverð þeirra, þ.e. söluverð framleiðanda þeirra án vörugjalds til óháðs aðila, sbr. 8. gr. tollalaga. Sé erfiðleikum bundið að ákvarða framleiðsluverð skal tollstjóri meta það. Skal við matið höfð hliðsjón af tollverði hliðstæðrar innfluttrar vöru eða framleiðsluverði hliðstæðrar vöru sem framleidd er hérlendis.
 
-     Gjaldstofn ökutækis, sem breytt hefur verið eða unnið hefur verið að, sbr. 8. og 9. gr., skal vera verðmæti ökutækis eftir breytingu eða aðvinnslu.
-      Sé erfiðleikum bundið að finna verðmæti ökutækis skv. 1. mgr. skal tollstjóri áætla það, sbr. 20. gr.
+
+
+
+*21. gr.*
+
+        Gjaldstofn ökutækis, sem breytt hefur verið eða unnið hefur verið að, sbr. 8. og 9. gr., skal vera verðmæti ökutækis eftir breytingu eða aðvinnslu.
+         Sé erfiðleikum bundið að finna verðmæti ökutækis skv. 1. mgr. skal tollstjóri áætla það, sbr. 20. gr.
+
 
 
 
 _Gjalddagar._
 
-22. gr.
+*22. gr.*
 
-     Vörugjald af innfluttum gjaldskyldum vörum skal innheimt við tollafgreiðslu. Vörugjald af innlendum framleiðsluvörum eða vörum, sem hlotið hafa aðvinnslu hér á landi, reiknast við sölu eða afhendingu gjaldskyldrar vöru frá framleiðanda eða heildsala og skiptir ekki máli hvenær eða með hvaða hætti greiðsla kaupanda fer fram.
-
-
-
-23. gr.
-
-     Þrátt fyrir ákvæði 22. gr. skal vörugjald af ...[^1)^] skráningarskyldum ökutækjum greitt áður en skráning þeirra fer fram, en þó ekki síðar en [tólf][^1)^] mánuðum eftir tollafgreiðslu.
-
-
-_[^1)^]"L. 41/1995, 4. gr.":/altext/stjt/1995.041.html_
+        Vörugjald af innfluttum gjaldskyldum vörum skal innheimt við tollafgreiðslu. Vörugjald af innlendum framleiðsluvörum eða vörum, sem hlotið hafa aðvinnslu hér á landi, reiknast við sölu eða afhendingu gjaldskyldrar vöru frá framleiðanda eða heildsala og skiptir ekki máli hvenær eða með hvaða hætti greiðsla kaupanda fer fram.
 
 
 
 
-24. gr.
+*23. gr.*
 
-     Heimilt er að ákveða með reglugerð að innflytjendur fái gjaldfrest á greiðslu vörugjalds af eldsneyti er miðast við sölu birgða.
-
-
-
-*V. kafli.*
-
-*Álagning, innheimta, eftirlit o.fl.*
-
-25. gr.
-
-     Gjöld, sem lögð eru á samkvæmt lögum þessum, mynda gjaldstofn til virðisaukaskatts.
-      Tollstjórar annast álagningu og innheimtu vörugjalds samkvæmt lögum þessum og hafa með höndum eftirlit.
+        Þrátt fyrir ákvæði 22. gr. skal vörugjald af ...[^1)^] skráningarskyldum ökutækjum greitt áður en skráning þeirra fer fram, en þó ekki síðar en [tólf][^1)^] mánuðum eftir tollafgreiðslu.
 
 
+_[^1)^]"L. 41/1995, 4. gr.":ekkitil/ekkitil.html?1995041#g4_
 
-26. gr.
+*24. gr.*
 
-     Heimilt er að stöðva ökutæki og færa það til skoðunar ef ástæða er til að ætla að brot hafi verið framið samkvæmt lögum þessum. Reynist vera um brot að ræða er heimilt að taka skráningarmerki af ökutækinu til varðveislu.
-
-
-
-27. gr.
-
-     Að því leyti sem eigi er kveðið á um gjaldskyldu, álagningu, úrskurð um flokkun til gjaldskyldu, samræmingu gjalda, eftirlit, innheimtu, vörslusviptingu, veð, uppboð, sektir, viðurlög, refsingar og aðrar framkvæmdir varðandi gjald skv. "1. gr. skulu gilda ákvæði tollalaga, nr. 55/1987":1987055.html#g1, og "laga nr. 97/1987":1987097.html, um vörugjald, eftir því sem við getur átt, svo og reglugerða og annarra fyrirmæla settra samkvæmt þeim.
-      Breyting á skráningarskyldu frá því sem nú er ákveðið samkvæmt "umferðarlögum, nr. 50/1987":1987050.html, hefur ekki áhrif á gjaldskyldu samkvæmt lögum þessum.
-
-
-
-28. gr.
-
-     Ráðherra getur með reglugerð[^1)^] sett nánari fyrirmæli varðandi framkvæmd laga þessara.
-
-
-_[^1)^]Rg. 254/1993, sbr. 375/1993, 169/1995 og 289/1996. Rg. 255/1993, sbr. 511/1993, 55/1996, 257/1996 og 355/1996._
+        Heimilt er að ákveða með reglugerð að innflytjendur fái gjaldfrest á greiðslu vörugjalds af eldsneyti er miðast við sölu birgða.
 
 
 
 
-*VI. kafli.*
+h3. V. kafli.
 
-*Gildistaka, brottfallin lagaákvæði o.fl.*
+h3. Álagning, innheimta, eftirlit o.fl.
 
-29. gr.
+*25. gr.*
 
-     Lög þessi öðlast gildi 1. júlí 1993.
-
-
-
-30. gr.
-
-     ...
+        Gjöld, sem lögð eru á samkvæmt lögum þessum, mynda gjaldstofn til virðisaukaskatts.
+         Tollstjórar annast álagningu og innheimtu vörugjalds samkvæmt lögum þessum og hafa með höndum eftirlit.
 
 
 
-*Ákvæði til bráðabirgða.*
 
-*I.*
+*26. gr.*
 
-     Ákvæði laga þessara skulu gilda um allar vörur er ekki hafa verið teknar til tollafgreiðslu við gildistöku þeirra.
-
-
-*II.*
-
-     ...
-
-
-*[III.*
-
-     Fjármálaráðherra er heimilt að endurgreiða hópferða- og sérleyfishöfum og fjármögnunarleigum allt að tveimur þriðju hlutum vörugjalds á hópferðabifreiðar fyrir 18 farþega eða fleiri að meðtöldum ökumanni og allt að einum þriðja hluta vörugjalds á hópferðabifreiðar fyrir 10 - 17 farþega að meðtöldum ökumanni sem lagt var á samkvæmt lögum þessum á tímabilinu frá 1. júlí 1993 til 1. mars 1995. Endurgreiðslan skal þó takmörkuð við þann hluta vörugjaldsins sem ekki hefur verið afskrifaður.
-      Ráðherra setur í reglugerð nánari reglur[^1)^] um framkvæmd þessa ákvæðis, m.a. um skilyrði og fyrirkomulag endurgreiðslu.][^2)^]
-
-
-_[^1)^]Rg. 170/1995.[^2)^]"L. 41/1995, brbákv.":/altext/stjt/1995.041.html_
+        Heimilt er að stöðva ökutæki og færa það til skoðunar ef ástæða er til að ætla að brot hafi verið framið samkvæmt lögum þessum. Reynist vera um brot að ræða er heimilt að taka skráningarmerki af ökutækinu til varðveislu.
 
 
 
+
+*27. gr.*
+
+        Að því leyti sem eigi er kveðið á um gjaldskyldu, álagningu, úrskurð um flokkun til gjaldskyldu, samræmingu gjalda, eftirlit, innheimtu, vörslusviptingu, veð, uppboð, sektir, viðurlög, refsingar og aðrar framkvæmdir varðandi gjald skv. "1. gr. skulu gilda ákvæði tollalaga, nr. 55/1987":1987055.html#g1, og "laga nr. 97/1987":1987097.html, um vörugjald, eftir því sem við getur átt, svo og reglugerða og annarra fyrirmæla settra samkvæmt þeim.
+         Breyting á skráningarskyldu frá því sem nú er ákveðið samkvæmt "umferðarlögum, nr. 50/1987":1987050.html, hefur ekki áhrif á gjaldskyldu samkvæmt lögum þessum.
+
+
+*28. gr.*
+
+        Ráðherra getur með reglugerð[^1)^] sett nánari fyrirmæli varðandi framkvæmd laga þessara.
+
+
+_[^1)^]"Rg. 254/1993":ekkitil/ekkitil.html?REGL/1993254, sbr. "375/1993":ekkitil/ekkitil.html?REGL/1993375, "169/1995":ekkitil/ekkitil.html?REGL/1995169 og "289/1996":ekkitil/ekkitil.html?REGL/1996289. "Rg. 255/1993":ekkitil/ekkitil.html?REGL/1993255, sbr. "511/1993":ekkitil/ekkitil.html?REGL/1993511, "55/1996":ekkitil/ekkitil.html?REGL/1996055, "257/1996":ekkitil/ekkitil.html?REGL/1996257, "355/1996":ekkitil/ekkitil.html?REGL/1996355, "474/1997":ekkitil/ekkitil.html?REGL/1997474 og "725/1997":ekkitil/ekkitil.html?REGL/1997725._
+
+h3. VI. kafli.
+
+h3. Gildistaka, brottfallin lagaákvæði o.fl.
+
+*29. gr.*
+
+        Lög þessi öðlast gildi 1. júlí 1993.
+
+
+
+
+*30. gr.*
+
+        ...
+
+
+
+
+h2. Ákvæði til bráðabirgða.
+
+h6. I.
+
+        Ákvæði laga þessara skulu gilda um allar vörur er ekki hafa verið teknar til tollafgreiðslu við gildistöku þeirra.
+
+
+h6. II.
+
+        ...
+
+
+h6. [III.
+
+        Fjármálaráðherra er heimilt að endurgreiða hópferða- og sérleyfishöfum og fjármögnunarleigum allt að tveimur þriðju hlutum vörugjalds á hópferðabifreiðar fyrir 18 farþega eða fleiri að meðtöldum ökumanni og allt að einum þriðja hluta vörugjalds á hópferðabifreiðar fyrir 10 - 17 farþega að meðtöldum ökumanni sem lagt var á samkvæmt lögum þessum á tímabilinu frá 1. júlí 1993 til 1. mars 1995. Endurgreiðslan skal þó takmörkuð við þann hluta vörugjaldsins sem ekki hefur verið afskrifaður.
+         Ráðherra setur í reglugerð nánari reglur[^1)^] um framkvæmd þessa ákvæðis, m.a. um skilyrði og fyrirkomulag endurgreiðslu.][^2)^]
+
+
+_[^1)^]"Rg. 170/1995":ekkitil/ekkitil.html?REGL/1995170.[^2)^]"L. 41/1995, brbákv.":ekkitil/ekkitil.html?1995041#b0_
+
+h6. [IV.
+
+        Greiða skal skráðum eigendum dráttarbifreiða og vélknúinna ökutækja til sérstakra nota, sem eru yfir 5 tonn að heildarþyngd, sbr. 1. gr. laga þessara, og tollafgreidd voru eða gjaldskyld aðvinnsla var framkvæmd á, á tímabilinu frá 22. maí 1997 og fram til gildistöku laga þessara, helming af því vörugjaldi sem greitt var af ökutækinu, enda hafi verið greitt 30% vörugjald af því. Ef skráður eigandi er eignarleigufyrirtæki skal greiðsla þó bundin því skilyrði að henni verði ráðstafað til leigutaka bifreiðar. Ráðherra getur sett nánari reglur um framkvæmd ákvæðisins, m.a. um skilyrði og fyrirkomulag endurgreiðslu.][^1)^]
+
+
+_[^1)^]"L. 140/1997, brbákv.":ekkitil/ekkitil.html?1997140#b0_
 

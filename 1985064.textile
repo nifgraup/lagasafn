@@ -2,321 +2,260 @@
 
 h2. Lög um Byggðastofnun
 
-*1985 nr. 64 1. júlí*
+*1985, nr. 64, 1. júlí*
 
 <hr />
 
+h3. I. kafli.
+
+h3. Hlutverk og skipulag.
+
+*1. gr.*
+
+        Byggðastofnun er sjálfstæð stofnun í eigu íslenska ríkisins og heyrir undir forsætisráðherra.
 
 
 
-*I. kafli.*
 
-*Hlutverk og skipulag.*
+*2. gr.*
 
-1. gr.
-
-     Byggðastofnun er sjálfstæð stofnun í eigu íslenska ríkisins og heyrir undir forsætisráðherra.
+        Hlutverk Byggðastofnunar er að stuðla að þjóðfélagslega hagkvæmri þróun byggðar í landinu.
 
 
 
-2. gr.
 
-     Hlutverk Byggðastofnunar er að stuðla að þjóðfélagslega hagkvæmri þróun byggðar í landinu.
+*3. gr.*
 
-
-
-3. gr.
-
-     Byggðastofnun fylgist með þróun byggðar í landinu. Stofnunin getur gert eða látið gera áætlanir um þróun byggða og atvinnulífs í þeim tilgangi að treysta búsetu og atvinnu í byggðum landsins.
-      Í samræmi við hlutverk stofnunarinnar veitir hún lán eða annan fjárhagslegan stuðning í því skyni meðal annars að bæta aðstöðu til búsetu í einstökum byggðarlögum og koma í veg fyrir að óæskileg byggðaröskun eigi sér stað eða lífvænlegar byggðir fari í eyði.
+        Byggðastofnun fylgist með þróun byggðar í landinu. Stofnunin getur gert eða látið gera áætlanir um þróun byggða og atvinnulífs í þeim tilgangi að treysta búsetu og atvinnu í byggðum landsins.
+         Í samræmi við hlutverk stofnunarinnar veitir hún lán eða annan fjárhagslegan stuðning í því skyni meðal annars að bæta aðstöðu til búsetu í einstökum byggðarlögum og koma í veg fyrir að óæskileg byggðaröskun eigi sér stað eða lífvænlegar byggðir fari í eyði.
 
 
 
-4. gr.
 
-     Stjórn Byggðastofnunar skal skipuð 7 mönnum, kosnum hlutfallskosningu í sameinuðu Alþingi að afstöðnum almennum þingkosningum. Kosnir skulu jafnmargir varamenn. Forsætisráðherra skipar formann og varaformann úr hópi hinna þingkjörnu stjórnarmanna. Formaður stjórnarinnar boðar hana til funda. Á stjórnarfundum ræður afl atkvæða. Forsætisráðherra ákveður þóknun stjórnarinnar.
+*4. gr.*
+
+        Stjórn Byggðastofnunar skal skipuð 7 mönnum, kosnum hlutfallskosningu í sameinuðu Alþingi að afstöðnum almennum þingkosningum. Kosnir skulu jafnmargir varamenn. Forsætisráðherra skipar formann og varaformann úr hópi hinna þingkjörnu stjórnarmanna. Formaður stjórnarinnar boðar hana til funda. Á stjórnarfundum ræður afl atkvæða. Forsætisráðherra ákveður þóknun stjórnarinnar.
 
 
 
-5. gr.
 
-     Verkefni stjórnar Byggðastofnunar eru meðal annars þessi:
+*5. gr.*
+
+        Verkefni stjórnar Byggðastofnunar eru meðal annars þessi:
 
 <dl>
-<dt>[1.]</dt>
-<dd>[^1)^] Að ákveða starfsskipulag stofnunarinnar að því leyti sem það hefur ekki verið gert í reglugerð.</dd>
-<dt>[2.]</dt>
-<dd>[^1)^] Að ákveða starfsáætlun fyrir stofnunina til eins árs í senn, þar á meðal hverjar byggðaáætlanir skuli gerðar á vegum hennar. Starfsáætlun skal endurskoða á árinu eftir því sem þurfa þykir.</dd>
-<dt>[3.]</dt>
-<dd>[^1)^] Að ákveða rekstraráætlun fyrir stofnunina til eins árs í senn.</dd>
-<dt>[4.]</dt>
-<dd>[^1)^] Að fjalla um allar byggðaáætlanir sem gerðar eru á vegum stofnunarinnar eða lagðar eru fyrir stjórnina til samþykktar, sbr. 9. gr. laga þessara.</dd>
-<dt>[5.]</dt>
-<dd>[^1)^] Að fjalla um skýrslur stofnunarinnar um starfsemi hennar.</dd>
-<dt>[6.]</dt>
-<dd>[^1)^] Að taka ákvarðanir um lántöku, sbr. 16. gr. laga þessara.</dd>
-<dt>[7.]</dt>
-<dd>[^1)^] Að setja reglur um lánakjör stofnunarinnar.</dd>
-<dt>[8.]</dt>
-<dd>[^1)^] Að taka ákvarðanir um veitingu lána og ábyrgða, svo og óafturkræf framlög samkvæmt lögum þessum.</dd>
+<dt></dt>
+<dd>[1.] [^1)^] Að ákveða starfsskipulag stofnunarinnar að því leyti sem það hefur ekki verið gert í reglugerð.</dd>
+<dt></dt>
+<dd>[2.] [^1)^] Að ákveða starfsáætlun fyrir stofnunina til eins árs í senn, þar á meðal hverjar byggðaáætlanir skuli gerðar á vegum hennar. Starfsáætlun skal endurskoða á árinu eftir því sem þurfa þykir.</dd>
+<dt></dt>
+<dd>[3.] [^1)^] Að ákveða rekstraráætlun fyrir stofnunina til eins árs í senn.</dd>
+<dt></dt>
+<dd>[4.] [^1)^] Að fjalla um allar byggðaáætlanir sem gerðar eru á vegum stofnunarinnar eða lagðar eru fyrir stjórnina til samþykktar, sbr. 9. gr. laga þessara.</dd>
+<dt></dt>
+<dd>[5.] [^1)^] Að fjalla um skýrslur stofnunarinnar um starfsemi hennar.</dd>
+<dt></dt>
+<dd>[6.] [^1)^] Að taka ákvarðanir um lántöku, sbr. 16. gr. laga þessara.</dd>
+<dt></dt>
+<dd>[7.] [^1)^] Að setja reglur um lánakjör stofnunarinnar.</dd>
+<dt></dt>
+<dd>[8.] [^1)^] Að taka ákvarðanir um veitingu lána og ábyrgða, svo og óafturkræf framlög samkvæmt lögum þessum.</dd>
 </dl>
 
 
 
 
-_[^1)^]"L. 83/1997, 8. gr.":/altext/stjt/1997.083.html_
+_[^1)^]"L. 83/1997, 8. gr.":ekkitil/ekkitil.html?1997083#g8_
+
+*6. gr.*
+
+        [Forsætisráðherra skipar forstjóra til fimm ára í senn til að annast daglega stjórn stofnunarinnar.][^1)^]
 
 
+_[^1)^]"L. 83/1997, 9. gr.":ekkitil/ekkitil.html?1997083#g9_
 
+*7. gr.*
 
-6. gr.
-
-     [Forsætisráðherra skipar forstjóra til fimm ára í senn til að annast daglega stjórn stofnunarinnar.][^1)^]
-
-
-_[^1)^]"L. 83/1997, 9. gr.":/altext/stjt/1997.083.html_
-
-
-
-
-7. gr.
-
-     Verkefni forstjóra Byggðastofnunar eru meðal annars þessi:
+        Verkefni forstjóra Byggðastofnunar eru meðal annars þessi:
 
 <dl>
-<dt>1.</dt>
-<dd>Að stjórna daglegum rekstri stofnunarinnar.</dd>
-<dt>2.</dt>
-<dd>Að gera tillögur til stjórnar um starfsskipulag stofnunarinnar.</dd>
-<dt>3.</dt>
-<dd>Að gera tillögur til stjórnar um áætlanagerð á vegum stofnunarinnar.</dd>
-<dt>4.</dt>
-<dd>Að gera tillögur um afgreiðslu á byggðaáætlunum sem lagðar eru fyrir stjórn stofnunarinnar, sbr. 9. gr. laga þessara.</dd>
-<dt>5.</dt>
-<dd>Að gera tillögur um árlega heildarútlánaáætlun, svo og tillögur um veitingu einstakra lána, ábyrgða og óafturkræfra framlaga stofnunarinnar.</dd>
-<dt>6.</dt>
-<dd>Að ráða stofnuninni starfsfólk innan ramma fjárhagsáætlunar. ...[^1)^]</dd>
+<dt></dt>
+<dd>1. Að stjórna daglegum rekstri stofnunarinnar.</dd>
+<dt></dt>
+<dd>2. Að gera tillögur til stjórnar um starfsskipulag stofnunarinnar.</dd>
+<dt></dt>
+<dd>3. Að gera tillögur til stjórnar um áætlanagerð á vegum stofnunarinnar.</dd>
+<dt></dt>
+<dd>4. Að gera tillögur um afgreiðslu á byggðaáætlunum sem lagðar eru fyrir stjórn stofnunarinnar, sbr. 9. gr. laga þessara.</dd>
+<dt></dt>
+<dd>5. Að gera tillögur um árlega heildarútlánaáætlun, svo og tillögur um veitingu einstakra lána, ábyrgða og óafturkræfra framlaga stofnunarinnar.</dd>
+<dt></dt>
+<dd>6. Að ráða stofnuninni starfsfólk innan ramma fjárhagsáætlunar. ...[^1)^]</dd>
 </dl>
 
 
 
 
-_[^1)^]"L. 83/1997, 10. gr.":/altext/stjt/1997.083.html_
+_[^1)^]"L. 83/1997, 10. gr.":ekkitil/ekkitil.html?1997083#g10_
 
+h3. II. kafli.
 
+h3. Starfsemi.
 
+*8. gr.*
 
-*II. kafli.*
+        [Byggðastofnun gerir tillögu að stefnumótandi áætlun í byggðamálum til fjögurra ára í senn. Ráðherra leggur tillöguna fyrir Alþingi til afgreiðslu.
+         Í tillögunni komi fram stefna ríkisstjórnar í byggðamálum og tengsl hennar við almenna stefnu í efnahags- og atvinnumálum, svo og við áætlanir á sviði opinberrar þjónustu í landinu.
+         Í forsendum áætlunarinnar gerir Byggðastofnun grein fyrir ástandi og horfum í þróun byggðar í einstökum landshlutum og markmiðum sem æskileg eru talin og þjóðhagslega hagkvæmt að stefna að í þróun byggðar landsins í heild.
+         Við gerð áætlunarinnar hafi Byggðastofnun samráð við ráðuneyti, Þjóðhagsstofnun, sveitarfélög og samtök þeirra og aðra aðila sem þurfa þykir.
+         Byggðaáætlun skal endurskoða á tveggja ára fresti.
+         Byggðastofnun gerir einnig svæðisbundnar byggðaáætlanir í samráði við sveitarfélög, atvinnuþróunarfélög og aðra aðila sem málið varðar.
+         Hagstofu Íslands, Þjóðhagsstofnun og öðrum ríkisstofnunum eða sveitarfélögum er rétt að veita Byggðastofnun þær upplýsingar sem hún telur nauðsynlegar til slíkrar áætlunargerðar.][^1)^]
 
-*Starfsemi.*
 
-8. gr.
+_[^1)^]"L. 39/1991, 1. gr.":ekkitil/ekkitil.html?1991039#g1_
 
-     [Byggðastofnun gerir tillögu að stefnumótandi áætlun í byggðamálum til fjögurra ára í senn. Ráðherra leggur tillöguna fyrir Alþingi til afgreiðslu.
-      Í tillögunni komi fram stefna ríkisstjórnar í byggðamálum og tengsl hennar við almenna stefnu í efnahags- og atvinnumálum, svo og við áætlanir á sviði opinberrar þjónustu í landinu.
-      Í forsendum áætlunarinnar gerir Byggðastofnun grein fyrir ástandi og horfum í þróun byggðar í einstökum landshlutum og markmiðum sem æskileg eru talin og þjóðhagslega hagkvæmt að stefna að í þróun byggðar landsins í heild.
-      Við gerð áætlunarinnar hafi Byggðastofnun samráð við ráðuneyti, Þjóðhagsstofnun, sveitarfélög og samtök þeirra og aðra aðila sem þurfa þykir.
-      Byggðaáætlun skal endurskoða á tveggja ára fresti.
-      Byggðastofnun gerir einnig svæðisbundnar byggðaáætlanir í samráði við sveitarfélög, atvinnuþróunarfélög og aðra aðila sem málið varðar.
-      Hagstofu Íslands, Þjóðhagsstofnun og öðrum ríkisstofnunum eða sveitarfélögum er rétt að veita Byggðastofnun þær upplýsingar sem hún telur nauðsynlegar til slíkrar áætlunargerðar.][^1)^]
+*9. gr.*
 
+        [Stjórn Byggðastofnunar fjallar um stefnumótandi hluta byggðaáætlunar við undirbúning hennar. Hún fylgist með framkvæmd þeirra þátta hennar sem henni er falið af Alþingi. Stjórn stofnunarinnar fylgist einnig með þeim svæðisbundnu byggðaáætlunum sem unnar hafa verið af Byggðastofnun í samstarfi við heimaaðila og stjórnin hefur samþykkt.][^1)^]
 
-_[^1)^]"L. 39/1991, 1. gr.":/altext/stjt/1991.039.html_
 
+_[^1)^]"L. 39/1991, 2. gr.":ekkitil/ekkitil.html?1991039#g2_
 
+*[10. gr.*
 
+        Byggðastofnun getur átt aðild að atvinnuþróunarfélögum á landsbyggðinni. Í slíkum félögum starfa sveitarfélög, samtök sveitarfélaga og launþega, atvinnufyrirtæki og aðrir aðilar sem vilja taka þátt í og láta sig varða alhliða þróun og nýsköpun í atvinnulífi á viðkomandi svæði.
+         Um stærð félagssvæðis atvinnuþróunarfélaga fer eftir aðstæðum í hverju héraði. Stjórn Byggðastofnunar veitir stuðning við stofnun og rekstur atvinnuþróunarfélaga á landsbyggðinni á grundvelli umsókna frá þeim.
+         Byggðastofnun er heimilt að taka þátt í atvinnuþróunarfélögum og á fulltrúi hennar að jafnaði sæti í stjórn þeirra.][^1)^]
 
-9. gr.
 
-     [Stjórn Byggðastofnunar fjallar um stefnumótandi hluta byggðaáætlunar við undirbúning hennar. Hún fylgist með framkvæmd þeirra þátta hennar sem henni er falið af Alþingi. Stjórn stofnunarinnar fylgist einnig með þeim svæðisbundnu byggðaáætlunum sem unnar hafa verið af Byggðastofnun í samstarfi við heimaaðila og stjórnin hefur samþykkt.][^1)^]
+_[^1)^]"L. 39/1991, 3. gr.":ekkitil/ekkitil.html?1991039#g3_
 
+*[11. gr.*
 
-_[^1)^]"L. 39/1991, 2. gr.":/altext/stjt/1991.039.html_
+        Byggðastofnun veitir að fenginni umsókn atvinnuþróunarfélaga styrki til verkefna á vegum þeirra á sviði þróunar og nýsköpunar í atvinnulífi á félagssvæðinu.
+         Byggðastofnun hefur samráð við tæknistofnanir atvinnuvega, stofnlánasjóði, háskóla og aðra aðila sem vinna að hliðstæðum verkefnum og beitir sér fyrir samstarfi um stuðning við framkvæmd þeirra verkefna sem hún metur styrkhæf. Stjórn stofnunarinnar setur nánari reglur um þessar styrkveitingar.
+         Í hverju kjördæmi skal starfa a.m.k. einn atvinnuráðgjafi. Hlutverk hans er að stunda almenna atvinnuráðgjöf á starfssvæði sínu. Komið skal á nánu samstarfi við aðra aðila sem vinna að ráðgjafar- og leiðbeiningarstarfi í kjördæminu. Byggðastofnun tekur þátt í kostnaði við starfsemi atvinnuráðgjafa.
+         Atvinnuráðgjafar kjördæmanna skulu einnig vinna að samstarfi atvinnuþróunarfélaga innan viðkomandi kjördæmis og er heimilt að fela þeim framkvæmdastjórn þeirra ef um semst.][^1)^]
 
 
+_[^1)^]"L. 39/1991, 4. gr.":ekkitil/ekkitil.html?1991039#g4_
 
+*[12. gr.][^1)^]*
 
-[10. gr.
+        Byggðastofnun veitir lán eða ábyrgðir í samræmi við hlutverk sitt, sbr. 2. gr. laga þessara. Veiting lána, ábyrgða og óafturkræfra framlaga skal byggjast á umsóknum, nema verið sé að afstýra neyðarástandi í atvinnu- og byggðamálum.
+         Stjórn Byggðastofnunar ákveður lánakjör stofnunarinnar. Skal í því efni bæði höfð hliðsjón af fjárhagsstöðu stofnunarinnar á hverjum tíma og tilganginum með lánveitingum hennar.
 
-     Byggðastofnun getur átt aðild að atvinnuþróunarfélögum á landsbyggðinni. Í slíkum félögum starfa sveitarfélög, samtök sveitarfélaga og launþega, atvinnufyrirtæki og aðrir aðilar sem vilja taka þátt í og láta sig varða alhliða þróun og nýsköpun í atvinnulífi á viðkomandi svæði.
-      Um stærð félagssvæðis atvinnuþróunarfélaga fer eftir aðstæðum í hverju héraði. Stjórn Byggðastofnunar veitir stuðning við stofnun og rekstur atvinnuþróunarfélaga á landsbyggðinni á grundvelli umsókna frá þeim.
-      Byggðastofnun er heimilt að taka þátt í atvinnuþróunarfélögum og á fulltrúi hennar að jafnaði sæti í stjórn þeirra.][^1)^]
 
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3_
 
-_[^1)^]"L. 39/1991, 3. gr.":/altext/stjt/1991.039.html_
+*[13. gr.][^1)^]*
 
+        Byggðastofnun getur, í samræmi við hlutverk sitt, stuðlað að stofnun nýrra fyrirtækja samkvæmt ákvörðun stjórnar stofnunarinnar.
 
 
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3_
 
-[11. gr.
+*[14. gr.][^1)^]*
 
-     Byggðastofnun veitir að fenginni umsókn atvinnuþróunarfélaga styrki til verkefna á vegum þeirra á sviði þróunar og nýsköpunar í atvinnulífi á félagssvæðinu.
-      Byggðastofnun hefur samráð við tæknistofnanir atvinnuvega, stofnlánasjóði, háskóla og aðra aðila sem vinna að hliðstæðum verkefnum og beitir sér fyrir samstarfi um stuðning við framkvæmd þeirra verkefna sem hún metur styrkhæf. Stjórn stofnunarinnar setur nánari reglur um þessar styrkveitingar.
-      Í hverju kjördæmi skal starfa a.m.k. einn atvinnuráðgjafi. Hlutverk hans er að stunda almenna atvinnuráðgjöf á starfssvæði sínu. Komið skal á nánu samstarfi við aðra aðila sem vinna að ráðgjafar- og leiðbeiningarstarfi í kjördæminu. Byggðastofnun tekur þátt í kostnaði við starfsemi atvinnuráðgjafa.
-      Atvinnuráðgjafar kjördæmanna skulu einnig vinna að samstarfi atvinnuþróunarfélaga innan viðkomandi kjördæmis og er heimilt að fela þeim framkvæmdastjórn þeirra ef um semst.][^1)^]
+        Með tilliti til hlutverks Byggðastofnunar, sbr. 2. gr. þessara laga, er stjórn stofnunarinnar heimilt að ákveða að stofnunin taki þátt í fjárfestingar- eða þróunarfélögum. Þá skal stofnunin hafa samstarf við fjárfestingarsjóði og lánastofnanir, eftir því sem við á, um fyrirgreiðslu til verkefna sem samrýmast hlutverki hennar.
 
 
-_[^1)^]"L. 39/1991, 4. gr.":/altext/stjt/1991.039.html_
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3_
 
+h3. III. kafli.
 
+h3. Önnur ákvæði.
 
+*[15. gr.][^1)^]*
 
-[12. gr.][^1)^]
+        Forsætisráðherra skal gefa Alþingi árlega skýrslu um starfsemi stofnunarinnar.
+         Ársreikningum skal fylgja skrá yfir lánveitingar og óafturkræf framlög Byggðastofnunar.
 
-     Byggðastofnun veitir lán eða ábyrgðir í samræmi við hlutverk sitt, sbr. 2. gr. laga þessara. Veiting lána, ábyrgða og óafturkræfra framlaga skal byggjast á umsóknum, nema verið sé að afstýra neyðarástandi í atvinnu- og byggðamálum.
-      Stjórn Byggðastofnunar ákveður lánakjör stofnunarinnar. Skal í því efni bæði höfð hliðsjón af fjárhagsstöðu stofnunarinnar á hverjum tíma og tilganginum með lánveitingum hennar.
 
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3_
 
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
+*[16. gr.][^1)^]*
 
+        Byggðastofnun tekur við öllum eignum Byggðasjóðs samkvæmt "lögum nr. 97/1976":ekkitil/ekkitil.html?1976097, svo og skuldbindingum sjóðsins, við gildistöku laga þessara.
 
 
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3_
 
-[13. gr.][^1)^]
+*[17. gr.][^1)^]*
 
-     Byggðastofnun getur, í samræmi við hlutverk sitt, stuðlað að stofnun nýrra fyrirtækja samkvæmt ákvörðun stjórnar stofnunarinnar.
-
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
-
-
-
-
-[14. gr.][^1)^]
-
-     Með tilliti til hlutverks Byggðastofnunar, sbr. 2. gr. þessara laga, er stjórn stofnunarinnar heimilt að ákveða að stofnunin taki þátt í fjárfestingar- eða þróunarfélögum. Þá skal stofnunin hafa samstarf við fjárfestingarsjóði og lánastofnanir, eftir því sem við á, um fyrirgreiðslu til verkefna sem samrýmast hlutverki hennar.
-
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
-
-
-
-
-*III. kafli.*
-
-*Önnur ákvæði.*
-
-[15. gr.][^1)^]
-
-     Forsætisráðherra skal gefa Alþingi árlega skýrslu um starfsemi stofnunarinnar.
-      Ársreikningum skal fylgja skrá yfir lánveitingar og óafturkræf framlög Byggðastofnunar.
-
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
-
-
-
-
-[16. gr.][^1)^]
-
-     Byggðastofnun tekur við öllum eignum Byggðasjóðs samkvæmt "lögum nr. 97/1976":/altext/stjtnr.html#1976097, svo og skuldbindingum sjóðsins, við gildistöku laga þessara.
-
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
-
-
-
-
-[17. gr.][^1)^]
-
-     Tekjur Byggðastofnunar eru:
+        Tekjur Byggðastofnunar eru:
 
 <dl>
-<dt>1.</dt>
-<dd>Eignir Byggðasjóðs samkvæmt "lögum nr. 97/1976":/altext/stjtnr.html#1976097.</dd>
-<dt>2.</dt>
-<dd>Framlag úr ríkissjóði eins og ákveðið er í fjárlögum hverju sinni.</dd>
-<dt>3.</dt>
-<dd>Fjármagnstekjur.</dd>
+<dt></dt>
+<dd>1. Eignir Byggðasjóðs samkvæmt "lögum nr. 97/1976":ekkitil/ekkitil.html?1976097.</dd>
+<dt></dt>
+<dd>2. Framlag úr ríkissjóði eins og ákveðið er í fjárlögum hverju sinni.</dd>
+<dt></dt>
+<dd>3. Fjármagnstekjur.</dd>
 </dl>
 
 
 
 
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3_
+
+*[18. gr.][^1)^]*
+
+        Byggðastofnun er heimilt innan ramma lánsfjárlaga að taka lán til starfsemi sinnar innanlands eða erlendis, annaðhvort í eigin nafni eða fyrir milligöngu annarra aðila, þannig að ráðstöfunarfé stofnunarinnar verði a.m.k. 0,5 af hundraði þjóðarframleiðslu.
 
 
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3_
+
+*[19. gr.][^1)^]*
+
+        ...[^2)^]
 
 
-[18. gr.][^1)^]
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3[^2)^]"L. 90/1991, 90. gr.":1991090.html#g90_
 
-     Byggðastofnun er heimilt innan ramma lánsfjárlaga að taka lán til starfsemi sinnar innanlands eða erlendis, annaðhvort í eigin nafni eða fyrir milligöngu annarra aðila, þannig að ráðstöfunarfé stofnunarinnar verði a.m.k. 0,5 af hundraði þjóðarframleiðslu.
+*[20. gr.][^1)^]*
 
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
-
+        Handbært fé Byggðastofnunar skal geyma á reikningum í bönkum eða sparisjóðum samkvæmt ákvörðun stjórnar Byggðastofnunar.
 
 
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3_
 
-[19. gr.][^1)^]
+*[21. gr.][^1)^]*
 
-     ...[^2)^]
-
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html[^2)^]"L. 90/1991, 90. gr.":1991090.html#g90_
+        Byggðastofnun er undanþegin öllum opinberum gjöldum og sköttum til ríkissjóðs eða sveitarsjóða eða annarra stofnana.
 
 
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3_
+
+*[22. gr.][^1)^]*
+
+        Stjórnarmenn og allir starfsmenn Byggðastofnunar eru bundnir þagnarskyldu um atriði sem þeir fá vitneskju um í starfi sínu og leynt skulu fara samkvæmt lögum, fyrirmælum yfirboðara eða eðli málsins. Þagnarskylda helst þótt látið sé af starfi.
 
 
-[20. gr.][^1)^]
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3_
 
-     Handbært fé Byggðastofnunar skal geyma á reikningum í bönkum eða sparisjóðum samkvæmt ákvörðun stjórnar Byggðastofnunar.
+*[23. gr.][^1)^]*
 
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
-
+        ...[^2)^]
 
 
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3[^2)^]"L. 12/1986, 13. gr.":1986012.html_
 
-[21. gr.][^1)^]
+*[24. gr.][^1)^]*
 
-     Byggðastofnun er undanþegin öllum opinberum gjöldum og sköttum til ríkissjóðs eða sveitarsjóða eða annarra stofnana.
-
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
+        Nánari ákvæði um skipulag Byggðastofnunar og framkvæmd laga þessara má setja með reglugerð.[^2)^]
 
 
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3[^2)^]"Rg. 51/1992":ekkitil/ekkitil.html?REGL/1992051, sbr. "290/1994":ekkitil/ekkitil.html?REGL/1994290._
+
+*[25. gr.][^1)^]*
+
+        Lög þessi öðlast gildi 1. október 1985.
+         ...
 
 
-[22. gr.][^1)^]
+_[^1)^]"L. 39/1991, 3.--4. gr.":ekkitil/ekkitil.html?1991039#g3_
 
-     Stjórnarmenn og allir starfsmenn Byggðastofnunar eru bundnir þagnarskyldu um atriði sem þeir fá vitneskju um í starfi sínu og leynt skulu fara samkvæmt lögum, fyrirmælum yfirboðara eða eðli málsins. Þagnarskylda helst þótt látið sé af starfi.
-
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
-
-
-
-
-[23. gr.][^1)^]
-
-     ...[^2)^]
-
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html[^2)^]"L. 12/1986, 13. gr.":1986012.html_
-
-
-
-
-[24. gr.][^1)^]
-
-     Nánari ákvæði um skipulag Byggðastofnunar og framkvæmd laga þessara má setja með reglugerð.[^2)^]
-
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html[^2)^]Rg. 51/1992, sbr. 290/1994._
-
-
-
-
-[25. gr.][^1)^]
-
-     Lög þessi öðlast gildi 1. október 1985.
-      ...
-
-
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
-
-
- *Ákvæði til bráðabirgða.* ...
-
+*Ákvæði til bráðabirgða.* ...
 

@@ -2,28 +2,26 @@
 
 h2. Lög um búfjárrækt[^1)^]
 
-*1989 nr. 84 30. maí*
+*1989, nr. 84, 30. maí*
 
 <hr />
 
-
-
-
 _[^1)^]Sjá einnig "l. 31/1973, búfjárræktarlög.":1973031.html_
 
-*I. kafli.*
+h3. I. kafli.
 
-*Um tilgang laganna og yfirstjórn.*
+h3. Um tilgang laganna og yfirstjórn.
 
-1. gr.
+*1. gr.*
 
-     Tilgangur laga þessara er að tryggja framfarir við ræktun búfjár í landinu til hagsbóta fyrir bændur og neytendur búfjárafurða. Ríkissjóður tekur þátt í kostnaði við ræktunarstarfið svo sem lögin tilgreina.
+        Tilgangur laga þessara er að tryggja framfarir við ræktun búfjár í landinu til hagsbóta fyrir bændur og neytendur búfjárafurða. Ríkissjóður tekur þátt í kostnaði við ræktunarstarfið svo sem lögin tilgreina.
 
 
 
-2. gr.
 
-     Merking orða í lögum þessum er sem hér segir:
+*2. gr.*
+
+        Merking orða í lögum þessum er sem hér segir:
 
 <dl>
 <dt></dt>
@@ -46,241 +44,211 @@ _[^1)^]Sjá einnig "l. 31/1973, búfjárræktarlög.":1973031.html_
 
 
 
-3. gr.
 
-     Landbúnaðarráðherra hefur á hendi yfirstjórn þeirra mála sem lög þessi taka til.
+*3. gr.*
 
-
-
-*II. kafli.*
-
-*Um skipan búfjárræktar.*
-
-4. gr.
-
-     [Bændasamtök Íslands][^1)^] fara með framkvæmd búfjárræktarmála svo sem segir í lögum þessum. Það hefur yfirumsjón með leiðbeiningarþjónustu í búfjárrækt sem styrkt er af opinberu fé, samræmir hana og mótar heildarstefnu í ræktun hverrar búfjártegundar samkvæmt ákvæðum laganna.
-      Ráðherra getur, með samþykki [Bændasamtaka Íslands],[^1)^] viðurkennt einstök búgreinasamtök til að fara, að einhverju eða öllu leyti, með þau verkefni sem ákveðin eru í lögum þessum og snerta viðkomandi búgrein.
-
-
-_[^1)^]"L. 73/1996, 22. gr.":/altext/stjt/1996.073.html_
+        Landbúnaðarráðherra hefur á hendi yfirstjórn þeirra mála sem lög þessi taka til.
 
 
 
 
-5. gr.
+h3. II. kafli.
 
-     Búfjárræktarnefndir skipuleggja ræktunarstarf vegna einstakra búfjártegunda fyrir hönd [Bændasamtaka Íslands].[^1)^] Í búfjárræktarnefnd sitja fimm menn og jafnmargir til vara, kosnir til tveggja ára í senn. Búnaðarþing kýs tvo nefndarmenn úr hópi héraðsráðunauta og aðra tvo úr hópi starfandi bænda í búgreininni. Starfi búgreinasamtök, sem ná til landsins alls, hafa innan vébanda sinna að minnsta kosti [^2^]/[~3~] starfandi bænda í búgreininni og hafa sett sér búfjárræktarsamþykkt, kjósa þau í stað búnaðarþings tvo bændur í búfjárræktarnefnd búgreinarinnar. Fimmti fulltrúinn er landsráðunautur [Bændasamtaka Íslands][^1)^] í búgreininni (héraðsráðunautur ef landsráðunautur er ekki starfandi), tilnefndur af stjórn þess og er hann formaður nefndarinnar.
-      Heimilt er að ákveða að í búfjárræktarnefnd sé tveimur fulltrúum færra en áskilið er í 1. mgr. eða tveimur fulltrúum fleira ef sérstakar ástæður mæla með. Þó skulu hlutföll haldast óbreytt milli héraðsráðunauta og bænda.
-      Sé starfandi fagráð í búgrein sem bæði viðkomandi búgreinasamtök og [Bændasamtök Íslands][^1)^] eru aðilar að geta [Bændasamtök Íslands][^1)^] með samþykki ráðherra falið því verkefni búfjárræktarnefndar í þeirri grein.
+h3. Um skipan búfjárræktar.
 
+*4. gr.*
 
-_[^1)^]"L. 73/1996, 22. gr.":/altext/stjt/1996.073.html_
-
-
+        [Bændasamtök Íslands][^1)^] fara með framkvæmd búfjárræktarmála svo sem segir í lögum þessum. Það hefur yfirumsjón með leiðbeiningarþjónustu í búfjárrækt sem styrkt er af opinberu fé, samræmir hana og mótar heildarstefnu í ræktun hverrar búfjártegundar samkvæmt ákvæðum laganna.
+         Ráðherra getur, með samþykki [Bændasamtaka Íslands],[^1)^] viðurkennt einstök búgreinasamtök til að fara, að einhverju eða öllu leyti, með þau verkefni sem ákveðin eru í lögum þessum og snerta viðkomandi búgrein.
 
 
-6. gr.
+_[^1)^]"L. 73/1996, 22. gr.":ekkitil/ekkitil.html?1996073#g22_
 
-     Hlutverk búfjárræktarnefnda eru m.a. eftirfarandi:
+*5. gr.*
+
+        Búfjárræktarnefndir skipuleggja ræktunarstarf vegna einstakra búfjártegunda fyrir hönd [Bændasamtaka Íslands].[^1)^] Í búfjárræktarnefnd sitja fimm menn og jafnmargir til vara, kosnir til tveggja ára í senn. Búnaðarþing kýs tvo nefndarmenn úr hópi héraðsráðunauta og aðra tvo úr hópi starfandi bænda í búgreininni. Starfi búgreinasamtök, sem ná til landsins alls, hafa innan vébanda sinna að minnsta kosti [^2^]/[~3~] starfandi bænda í búgreininni og hafa sett sér búfjárræktarsamþykkt, kjósa þau í stað búnaðarþings tvo bændur í búfjárræktarnefnd búgreinarinnar. Fimmti fulltrúinn er landsráðunautur [Bændasamtaka Íslands][^1)^] í búgreininni (héraðsráðunautur ef landsráðunautur er ekki starfandi), tilnefndur af stjórn þess og er hann formaður nefndarinnar.
+         Heimilt er að ákveða að í búfjárræktarnefnd sé tveimur fulltrúum færra en áskilið er í 1. mgr. eða tveimur fulltrúum fleira ef sérstakar ástæður mæla með. Þó skulu hlutföll haldast óbreytt milli héraðsráðunauta og bænda.
+         Sé starfandi fagráð í búgrein sem bæði viðkomandi búgreinasamtök og [Bændasamtök Íslands][^1)^] eru aðilar að geta [Bændasamtök Íslands][^1)^] með samþykki ráðherra falið því verkefni búfjárræktarnefndar í þeirri grein.
+
+
+_[^1)^]"L. 73/1996, 22. gr.":ekkitil/ekkitil.html?1996073#g22_
+
+*6. gr.*
+
+        Hlutverk búfjárræktarnefnda eru m.a. eftirfarandi:
 
 
 <dl>
-<dt>a.</dt>
-<dd>að móta ræktunarstarfið, þar með talið rekstur ræktunarstöðva, skýrsluhald, búfjár- og afurðadómar, val kynbótagripa og önnur viðfangsefni er stuðlað geta að framförum í viðkomandi grein,</dd>
-<dt>b.</dt>
-<dd>að gera tillögur um innflutning erlendra búfjárkynja,</dd>
-<dt>c.</dt>
-<dd>að vera þeim, sem annast leiðbeiningar, rannsóknir, kennslu og búfjárvernd, til ráðuneytis um það sem lýtur að viðkomandi búfjártegund,</dd>
-<dt>d.</dt>
-<dd>að undirbúa verk- og kostnaðaráætlanir um búfjárræktarstarfið í viðkomandi grein.</dd>
+<dt></dt>
+<dd>a. að móta ræktunarstarfið, þar með talið rekstur ræktunarstöðva, skýrsluhald, búfjár- og afurðadómar, val kynbótagripa og önnur viðfangsefni er stuðlað geta að framförum í viðkomandi grein,</dd>
+<dt></dt>
+<dd>b. að gera tillögur um innflutning erlendra búfjárkynja,</dd>
+<dt></dt>
+<dd>c. að vera þeim, sem annast leiðbeiningar, rannsóknir, kennslu og búfjárvernd, til ráðuneytis um það sem lýtur að viðkomandi búfjártegund,</dd>
+<dt></dt>
+<dd>d. að undirbúa verk- og kostnaðaráætlanir um búfjárræktarstarfið í viðkomandi grein.</dd>
+</dl>
+
+*7. gr.*
+
+        Búnaðarsambönd skulu setja sér samþykkt, búfjárræktarsamþykkt, um tilhögun búfjárræktar á sambandssvæðinu. Þar skal, eftir því sem vænlegast þykir til árangurs, taka fram:
+
+<dl>
+<dt></dt>
+<dd>a. að búfjárrækt á sambandssvæðinu lúti stjórn búnaðarsambandsins,</dd>
+<dt></dt>
+<dd>b. að verkefni búnaðarsambands á sviði ræktunar einstakra búfjártegunda séu falin búfjárræktarsamböndum eða búfjárræktarfélögum,</dd>
+<dt></dt>
+<dd>c. að framkvæmd búfjárræktarmála sé falin búgreinafélögum eða búgreinasamböndum enda hafi þau ræktun búfjár á stefnuskrá sinni.</dd>
 </dl>
 
 
+         Nánar skal kveðið á um búfjárræktarsamþykktir í reglugerð.
 
 
-7. gr.
 
-     Búnaðarsambönd skulu setja sér samþykkt, búfjárræktarsamþykkt, um tilhögun búfjárræktar á sambandssvæðinu. Þar skal, eftir því sem vænlegast þykir til árangurs, taka fram:
+
+*8. gr.*
+
+        [Bændasamtök Íslands][^1)^] og búnaðarsambönd annast leiðbeiningarþjónustu í búfjárrækt.
+         Leiðbeiningarþjónusta í búfjárrækt, sem styrks nýtur af opinberu fé, skal vera svo sem hér segir:
 
 <dl>
-<dt>a.</dt>
-<dd>að búfjárrækt á sambandssvæðinu lúti stjórn búnaðarsambandsins,</dd>
-<dt>b.</dt>
-<dd>að verkefni búnaðarsambands á sviði ræktunar einstakra búfjártegunda séu falin búfjárræktarsamböndum eða búfjárræktarfélögum,</dd>
-<dt>c.</dt>
-<dd>að framkvæmd búfjárræktarmála sé falin búgreinafélögum eða búgreinasamböndum enda hafi þau ræktun búfjár á stefnuskrá sinni.</dd>
+<dt></dt>
+<dd>a. Landsráðunautar í búfjárrækt skulu vera í öllum búgreinum sem stundaðar eru af bændum í landinu. Enn fremur skulu [Bændasamtök Íslands][^1)^] veita leiðbeiningar í æðarrækt. Heimilt er að störf landsráðunauta séu hlutastörf ef umfang viðkomandi búgreinar krefst ekki heillar stöðu. Landbúnaðarráðherra ákvarðar fjölda landsráðunauta að fengnum tillögum [Bændasamtaka Íslands].[^1)^]</dd>
+<dt></dt>
+<dd>b. Ráðunautar búnaðarsambanda (héraðsráðunautar). Stjórn [Bændasamtaka Íslands][^1)^] gerir tillögur til landbúnaðarráðherra um skiptingu þeirra á milli búnaðarsambanda eða samtaka þeirra á grundvelli tillagna hinna einstöku búfjárræktarnefnda.</dd>
 </dl>
 
 
-      Nánar skal kveðið á um búfjárræktarsamþykktir í reglugerð.
+         Hlutverk ráðunauta er að veita faglegar leiðbeiningar um ræktun og hirðingu búfjár og hvetja til framfara í framleiðslu búfjárafurða, m.a. með kynningu á niðurstöðum rannsókna og annarra nýjunga sem að gagni geta orðið í ræktunarstarfinu.
+         Ráðunautar skulu hafa kandidatspróf í búfræði eða sambærilega menntun.
+         Óheimilt er að fela landsráðunaut framkvæmdastjórn búfjárræktarsambands eða búgreinasamtaka eða önnur störf sem ekki teljast til faglegra leiðbeininga eða ráðgjafar fyrir viðkomandi bændur.
+         Ríkissjóður greiðir kostnað við störf landsráðunauta en [allt að][^2)^] 65% af launum og ferðakostnaði héraðsráðunauta.
+         Landbúnaðarráðherra setur í reglugerð nánari ákvæði um menntun og starfssvið ráðunauta, svo og um launakjör og ferðakostnað héraðsráðunauta, sem þátttaka ríkissjóðs skal miðuð við, að fengnum tillögum [Bændasamtaka Íslands].[^1)^]
 
 
+_[^1)^]"L. 73/1996, 22. gr.":ekkitil/ekkitil.html?1996073#g22[^2)^]"L. 140/1996, 3. gr.":ekkitil/ekkitil.html?1996140#g3_
 
-8. gr.
+*9. gr.*
 
-     [Bændasamtök Íslands][^1)^] og búnaðarsambönd annast leiðbeiningarþjónustu í búfjárrækt.
-      Leiðbeiningarþjónusta í búfjárrækt, sem styrks nýtur af opinberu fé, skal vera svo sem hér segir:
-
-<dl>
-<dt>a.</dt>
-<dd>Landsráðunautar í búfjárrækt skulu vera í öllum búgreinum sem stundaðar eru af bændum í landinu. Enn fremur skulu [Bændasamtök Íslands][^1)^] veita leiðbeiningar í æðarrækt. Heimilt er að störf landsráðunauta séu hlutastörf ef umfang viðkomandi búgreinar krefst ekki heillar stöðu. Landbúnaðarráðherra ákvarðar fjölda landsráðunauta að fengnum tillögum [Bændasamtaka Íslands].[^1)^]</dd>
-<dt>b.</dt>
-<dd>Ráðunautar búnaðarsambanda (héraðsráðunautar). Stjórn [Bændasamtaka Íslands][^1)^] gerir tillögur til landbúnaðarráðherra um skiptingu þeirra á milli búnaðarsambanda eða samtaka þeirra á grundvelli tillagna hinna einstöku búfjárræktarnefnda.</dd>
-</dl>
-
-
-      Hlutverk ráðunauta er að veita faglegar leiðbeiningar um ræktun og hirðingu búfjár og hvetja til framfara í framleiðslu búfjárafurða, m.a. með kynningu á niðurstöðum rannsókna og annarra nýjunga sem að gagni geta orðið í ræktunarstarfinu.
-      Ráðunautar skulu hafa kandidatspróf í búfræði eða sambærilega menntun.
-      Óheimilt er að fela landsráðunaut framkvæmdastjórn búfjárræktarsambands eða búgreinasamtaka eða önnur störf sem ekki teljast til faglegra leiðbeininga eða ráðgjafar fyrir viðkomandi bændur.
-      Ríkissjóður greiðir kostnað við störf landsráðunauta en [allt að][^2)^] 65% af launum og ferðakostnaði héraðsráðunauta.
-      Landbúnaðarráðherra setur í reglugerð nánari ákvæði um menntun og starfssvið ráðunauta, svo og um launakjör og ferðakostnað héraðsráðunauta, sem þátttaka ríkissjóðs skal miðuð við, að fengnum tillögum [Bændasamtaka Íslands].[^1)^]
-
-
-_[^1)^]"L. 73/1996, 22. gr.":/altext/stjt/1996.073.html[^2)^]"L. 140/1996, 3. gr.":/altext/stjt/1996.140.html_
-
-
-
-
-9. gr.
-
-     Ríkissjóður tekur þátt í stofnun og rekstri ræktunarstöðva fyrir búfé svo sem hér segir:
+        Ríkissjóður tekur þátt í stofnun og rekstri ræktunarstöðva fyrir búfé svo sem hér segir:
 
 <dl>
-<dt>a.</dt>
-<dd><p>Með greiðslu allt að helmingi stofnkostnaðar einnar ræktunarstöðvar fyrir hverja búfjártegund enda þjóni hún öllum bændum í viðkomandi grein.</p>
+<dt></dt>
+<dd><p>a. Með greiðslu allt að helmingi stofnkostnaðar einnar ræktunarstöðvar fyrir hverja búfjártegund enda þjóni hún öllum bændum í viðkomandi grein.</p>
 <p>Með ræktunarstöð er átt við: sæðingarstöð, uppeldisstöð fyrir kynbótagripi eða stofnræktarbú til ræktunar verðmætra búfjárstofna vegna sameiginlegs ræktunarstarfs búgreinar.</p>
 <p>Heimilt er að hafa ræktunarstöðvar fleiri en eina fyrir hverja grein, enda liggi fyrir sérstakar ástæður sem landbúnaðarráðherra metur gildar, að fengnum tillögum [Bændasamtaka Íslands].[^1)^] Nýta skal aðstöðu á búum ríkisins í þessum tilgangi eftir því sem hún leyfir.</p></dd>
-<dt>b.</dt>
-<dd>Með greiðslu [allt að][^2)^] 65% af launum forstöðumanna ræktunarstöðva, jafnháum launum héraðsráðunauta, og [allt að][^2)^] 65% af launum fastráðins aðstoðarfólks, jafnháum launum frjótækna.</dd>
-<dt>c.</dt>
-<dd>Með greiðslu [allt að][^2)^] 65% af launum frjótækna. Landbúnaðarráðherra ákveður fjölda þeirra og viðmiðun um launakjör með sama hætti og segir í 8. gr., að fengnum tillögum [Bændasamtaka Íslands].[^1)^] Sama gildir varðandi greiðslur til afleysingarmanna frjótækna vegna orlofa og veikinda.</dd>
+<dt></dt>
+<dd>b. Með greiðslu [allt að][^2)^] 65% af launum forstöðumanna ræktunarstöðva, jafnháum launum héraðsráðunauta, og [allt að][^2)^] 65% af launum fastráðins aðstoðarfólks, jafnháum launum frjótækna.</dd>
+<dt></dt>
+<dd>c. Með greiðslu [allt að][^2)^] 65% af launum frjótækna. Landbúnaðarráðherra ákveður fjölda þeirra og viðmiðun um launakjör með sama hætti og segir í 8. gr., að fengnum tillögum [Bændasamtaka Íslands].[^1)^] Sama gildir varðandi greiðslur til afleysingarmanna frjótækna vegna orlofa og veikinda.</dd>
 </dl>
 
 
-      Til stofnunar ræktunarstöðvar þarf samþykki landbúnaðarráðherra og meðmæli [Bændasamtaka Íslands].[^1)^] Ráðherra setur reglugerð um hverja slíka stöð, að fengnum tillögum viðkomandi búfjárræktarnefndar.[^3)^]
-      [Framlag ríkissjóðs skv. a-, b- og c-liðum 1. mgr. skal ákveðið í fjárlögum ár hvert.][^2)^]
+         Til stofnunar ræktunarstöðvar þarf samþykki landbúnaðarráðherra og meðmæli [Bændasamtaka Íslands].[^1)^] Ráðherra setur reglugerð um hverja slíka stöð, að fengnum tillögum viðkomandi búfjárræktarnefndar.[^3)^]
+         [Framlag ríkissjóðs skv. a-, b- og c-liðum 1. mgr. skal ákveðið í fjárlögum ár hvert.][^2)^]
 
 
-_[^1)^]"L. 73/1996, 22. gr.":/altext/stjt/1996.073.html[^2)^]"L. 140/1996, 4. gr.":/altext/stjt/1996.140.html[^3)^]Rg. 447/1985 (um rekstur Stóðhestastöðvar ríkisins í Gunnarsholti). Rg. 336/1989 (hrossaræktarbú að Hólum í Hjaltadal)._
+_[^1)^]"L. 73/1996, 22. gr.":ekkitil/ekkitil.html?1996073#g22[^2)^]"L. 140/1996, 4. gr.":ekkitil/ekkitil.html?1996140#g4[^3)^]"Rg. 447/1985":ekkitil/ekkitil.html?REGL/1985447 (um rekstur Stóðhestastöðvar ríkisins í Gunnarsholti). "Rg. 336/1989":ekkitil/ekkitil.html?REGL/1989336 (hrossaræktarbú að Hólum í Hjaltadal)._
 
+*10. gr.*
 
-
-
-10. gr.
-
-     Ríkissjóður greiðir kostnað við stofnun og rekstur sóttvarnarstöðva vegna innflutnings búfjár og erfðaefnis.
-      Landbúnaðarráðherra ákveður fjölda slíkra stöðva, umfang í starfsemi þeirra og gerir áætlun um rekstur stöðvanna í samráði við búfjárræktarnefnd viðkomandi búgreinar.
-
-
-
-11. gr.
-
-     Vegna sæðinga mjólkurkúa er búnaðarsamböndum eða öðrum, er reka sæðingarstöðvar, heimilt að innheimta hjá mjólkurframleiðendum gjald af allri innveginni mjólk í mjólkurbú. Gjaldið má að hámarki nema 1% af grundvallarverði mjólkur eins og það er á hverjum tíma og ákvarðar aðalfundur búnaðarsambands upphæð gjaldsins hverju sinni. Mjólkurbúum er skylt að halda gjaldi þessu eftir af mjólkurverðinu og standa samböndum skil á því mánaðarlega, enda hafi stjórnir þeirra tilkynnt búunum fyrir 1. desember að hve miklu leyti þær óski að nota þessa heimild á næsta ári.
-      Greiða skal úr ríkissjóði styrk vegna sæðinga mjólkurkúa er nemur 95,00 kr. á sædda kú á verðlagi ársins 1988. Skal styrk þessum varið til að jafna flutningskostnað sæðis og ferðakostnað frjótækna á milli sambandssvæða. Landbúnaðarráðherra ákveður nánar með reglugerð, að fengnum tillögum [Bændasamtaka Íslands],[^1)^] hvernig styrk þessum skuli ráðstafað, svo og hvernig árleg verðlagsuppbót á hann skuli ákveðin.
-
-
-_[^1)^]"L. 73/1996, 22. gr.":/altext/stjt/1996.073.html_
+        Ríkissjóður greiðir kostnað við stofnun og rekstur sóttvarnarstöðva vegna innflutnings búfjár og erfðaefnis.
+         Landbúnaðarráðherra ákveður fjölda slíkra stöðva, umfang í starfsemi þeirra og gerir áætlun um rekstur stöðvanna í samráði við búfjárræktarnefnd viðkomandi búgreinar.
 
 
 
 
-12. gr.
+*11. gr.*
 
-     Ríkissjóður greiðir laun aðstoðarfólks við uppgjör og úrvinnslu ræktunarskýrslna búfjár að hámarki fimm ársverk. [Bændasamtök Íslands][^1)^] ákveða skiptingu þessara ársverka milli búgreina ef þörf krefur.
-      Ríkissjóður greiði árlega framlag er að lágmarki jafngildir 22,5 milljónum króna á verðlagi 1988 til búfjárræktarstarfa á grundvelli búfjárræktarsamþykkta, sbr. 7. gr. [Bændasamtök Íslands][^1)^] skila verk- og kostnaðaráætlun komandi árs til landbúnaðarráðherra fyrir gerð fjárlaga hverju sinni ásamt greinargerð um starfsemi liðins árs. Landbúnaðarráðuneyti skal, að fengnum tillögum [Bændasamtaka Íslands],[^1)^] tilkynna skiptingu framlaga milli búnaðarsambanda og búgreina í síðasta lagi sex vikum eftir samþykkt fjárlaga.
-      Á framlög þau, er ákveðin eru í þessari grein, skal greiða verðlagsuppbót samkvæmt vísitölu er sýni breytingar á tilkostnaði framkvæmda frá meðalkostnaði þeirra á árinu 1988. Hagstofa Íslands ákveður grundvöll vísitölu þessarar í samráði við [Bændasamtök Íslands][^1)^] og reiknar hana síðan árlega miðað við meðalkostnað hvers árs.
-
-
-_[^1)^]"L. 73/1996, 22. gr.":/altext/stjt/1996.073.html_
+        Vegna sæðinga mjólkurkúa er búnaðarsamböndum eða öðrum, er reka sæðingarstöðvar, heimilt að innheimta hjá mjólkurframleiðendum gjald af allri innveginni mjólk í mjólkurbú. Gjaldið má að hámarki nema 1% af grundvallarverði mjólkur eins og það er á hverjum tíma og ákvarðar aðalfundur búnaðarsambands upphæð gjaldsins hverju sinni. Mjólkurbúum er skylt að halda gjaldi þessu eftir af mjólkurverðinu og standa samböndum skil á því mánaðarlega, enda hafi stjórnir þeirra tilkynnt búunum fyrir 1. desember að hve miklu leyti þær óski að nota þessa heimild á næsta ári.
+         Greiða skal úr ríkissjóði styrk vegna sæðinga mjólkurkúa er nemur 95,00 kr. á sædda kú á verðlagi ársins 1988. Skal styrk þessum varið til að jafna flutningskostnað sæðis og ferðakostnað frjótækna á milli sambandssvæða. Landbúnaðarráðherra ákveður nánar með reglugerð, að fengnum tillögum [Bændasamtaka Íslands],[^1)^] hvernig styrk þessum skuli ráðstafað, svo og hvernig árleg verðlagsuppbót á hann skuli ákveðin.
 
 
+_[^1)^]"L. 73/1996, 22. gr.":ekkitil/ekkitil.html?1996073#g22_
+
+*12. gr.*
+
+        Ríkissjóður greiðir laun aðstoðarfólks við uppgjör og úrvinnslu ræktunarskýrslna búfjár að hámarki fimm ársverk. [Bændasamtök Íslands][^1)^] ákveða skiptingu þessara ársverka milli búgreina ef þörf krefur.
+         Ríkissjóður greiði árlega framlag er að lágmarki jafngildir 22,5 milljónum króna á verðlagi 1988 til búfjárræktarstarfa á grundvelli búfjárræktarsamþykkta, sbr. 7. gr. [Bændasamtök Íslands][^1)^] skila verk- og kostnaðaráætlun komandi árs til landbúnaðarráðherra fyrir gerð fjárlaga hverju sinni ásamt greinargerð um starfsemi liðins árs. Landbúnaðarráðuneyti skal, að fengnum tillögum [Bændasamtaka Íslands],[^1)^] tilkynna skiptingu framlaga milli búnaðarsambanda og búgreina í síðasta lagi sex vikum eftir samþykkt fjárlaga.
+         Á framlög þau, er ákveðin eru í þessari grein, skal greiða verðlagsuppbót samkvæmt vísitölu er sýni breytingar á tilkostnaði framkvæmda frá meðalkostnaði þeirra á árinu 1988. Hagstofa Íslands ákveður grundvöll vísitölu þessarar í samráði við [Bændasamtök Íslands][^1)^] og reiknar hana síðan árlega miðað við meðalkostnað hvers árs.
 
 
-13. gr.
+_[^1)^]"L. 73/1996, 22. gr.":ekkitil/ekkitil.html?1996073#g22_
 
-     [Bændasamtökum Íslands][^1)^] er skylt að gefa búfjáreigendum kost á dómum á búfé og/eða sérstöku mati á búfjárafurðum eða úrvalsgripum með reglulegu millibili, þó eigi sjaldnar en fjórða hvert ár. Hlutaðeigandi búfjárræktarnefndir setja reglur um fyrirkomulag dóma og mats.
-      Ráðunautar skulu gegna dóms- og matsstörfum. Kostnaður að frátöldum launa- og ferðakostnaði ráðunauta skal greiddur af þeim samböndum eða félögum sem í hlut eiga, sbr. 6. gr. Heimilt er þeim aðilum, sem standa fyrir sýningum, að innheimta gjald samkvæmt gjaldskrá samþykktri af ráðherra af eigendum þeirra gripa sem dæmdir eru.
-      Sláturleyfishöfum er skylt að láta í té aðstöðu til þess að framkvæma nauðsynlegar athuganir á föllum gripa, enda sé þeim gert viðvart um þær við gerð áætlana um slátrun í viðkomandi húsi.
+*13. gr.*
 
-
-_[^1)^]"L. 73/1996, 22. gr.":/altext/stjt/1996.073.html_
-
+        [Bændasamtökum Íslands][^1)^] er skylt að gefa búfjáreigendum kost á dómum á búfé og/eða sérstöku mati á búfjárafurðum eða úrvalsgripum með reglulegu millibili, þó eigi sjaldnar en fjórða hvert ár. Hlutaðeigandi búfjárræktarnefndir setja reglur um fyrirkomulag dóma og mats.
+         Ráðunautar skulu gegna dóms- og matsstörfum. Kostnaður að frátöldum launa- og ferðakostnaði ráðunauta skal greiddur af þeim samböndum eða félögum sem í hlut eiga, sbr. 6. gr. Heimilt er þeim aðilum, sem standa fyrir sýningum, að innheimta gjald samkvæmt gjaldskrá samþykktri af ráðherra af eigendum þeirra gripa sem dæmdir eru.
+         Sláturleyfishöfum er skylt að láta í té aðstöðu til þess að framkvæma nauðsynlegar athuganir á föllum gripa, enda sé þeim gert viðvart um þær við gerð áætlana um slátrun í viðkomandi húsi.
 
 
+_[^1)^]"L. 73/1996, 22. gr.":ekkitil/ekkitil.html?1996073#g22_
 
-*III. kafli.*
+h3. III. kafli.
 
-*Um verndun erfðaeiginleika í íslensku búfé og um útflutning búfjár.*
+h3. Um verndun erfðaeiginleika í íslensku búfé og um útflutning búfjár.
 
-14. gr.
+*14. gr.*
 
-     Óheimilt er að flytja úr landi tímgunarhæft búfé, sæði eða fósturvísa án leyfis landbúnaðarráðuneytis. Áður en heimilaður er útflutningur samkvæmt þessari grein skal ráðuneytið leita álits [Bændasamtaka Íslands][^1)^] og yfirdýralæknis á fyrirhuguðum útflutningi.
-      Sambönd og félög skv. 7. gr. skulu eiga forkaupsrétt á því verði, sem tilgreint er í umsókn um útflutningsleyfi, að þeim kynbótadýrum sem [Bændasamtök Íslands][^1)^] telja óæskilegt að flutt verði úr landi.
-
-
-_[^1)^]"L. 73/1996, 22. gr.":/altext/stjt/1996.073.html_
+        Óheimilt er að flytja úr landi tímgunarhæft búfé, sæði eða fósturvísa án leyfis landbúnaðarráðuneytis. Áður en heimilaður er útflutningur samkvæmt þessari grein skal ráðuneytið leita álits [Bændasamtaka Íslands][^1)^] og yfirdýralæknis á fyrirhuguðum útflutningi.
+         Sambönd og félög skv. 7. gr. skulu eiga forkaupsrétt á því verði, sem tilgreint er í umsókn um útflutningsleyfi, að þeim kynbótadýrum sem [Bændasamtök Íslands][^1)^] telja óæskilegt að flutt verði úr landi.
 
 
+_[^1)^]"L. 73/1996, 22. gr.":ekkitil/ekkitil.html?1996073#g22_
+
+*15. gr.*
+
+        Mynda skal sérstakan sjóð, stofnverndarsjóð, er veiti styrki og lán til þess að kaupa kynbótagripi sem ella kynnu að verða seldir úr landi. Kaupendur tímgunarhæfs búfjár, sæðis eða fósturvísa til útflutnings skulu greiða í sjóðinn allt að 20% af kaupverði þessa samkvæmt nánari ákvörðun landbúnaðarráðherra.
+         Sjóðnum skal skipt í deildir eftir búfjártegundum og fer búfjárræktarnefnd með stjórn hlutaðeigandi deildar.
+         Landbúnaðarráðherra setur reglugerð[^1)^] um upphæð stofnverndargjalda, innheimtu, vörslu og ráðstöfun fjár stofnverndarsjóðs að fengnum tillögum [Bændasamtaka Íslands].[^2)^]
 
 
-15. gr.
+_[^1)^]"Rg. 137/1992":ekkitil/ekkitil.html?REGL/1992137, sbr. "162/1993":ekkitil/ekkitil.html?REGL/1993162 (um Stofnverndarsjóð íslenska hestakynsins).[^2)^]"L. 73/1996, 22. gr.":ekkitil/ekkitil.html?1996073#g22_
 
-     Mynda skal sérstakan sjóð, stofnverndarsjóð, er veiti styrki og lán til þess að kaupa kynbótagripi sem ella kynnu að verða seldir úr landi. Kaupendur tímgunarhæfs búfjár, sæðis eða fósturvísa til útflutnings skulu greiða í sjóðinn allt að 20% af kaupverði þessa samkvæmt nánari ákvörðun landbúnaðarráðherra.
-      Sjóðnum skal skipt í deildir eftir búfjártegundum og fer búfjárræktarnefnd með stjórn hlutaðeigandi deildar.
-      Landbúnaðarráðherra setur reglugerð[^1)^] um upphæð stofnverndargjalda, innheimtu, vörslu og ráðstöfun fjár stofnverndarsjóðs að fengnum tillögum [Bændasamtaka Íslands].[^2)^]
+*16. gr.*
 
-
-_[^1)^]Rg. 137/1992, sbr. 162/1993 (um Stofnverndarsjóð íslenska hestakynsins).[^2)^]"L. 73/1996, 22. gr.":/altext/stjt/1996.073.html_
-
-
-
-
-16. gr.
-
-     Landbúnaðarráðherra skipar erfðanefnd búfjár að fengnum tilnefningum frá [Bændasamtökum Íslands],[^1)^] búvísindadeild Bændaskólans á Hvanneyri, Rannsóknastofnun landbúnaðarins, Náttúrufræðistofnun og Veiðimálastofnun. Nefndin skal skipuð til þriggja ára í senn.
-      Helstu verkefni nefndarinnar skulu vera:
+        Landbúnaðarráðherra skipar erfðanefnd búfjár að fengnum tilnefningum frá [Bændasamtökum Íslands],[^1)^] búvísindadeild Bændaskólans á Hvanneyri, Rannsóknastofnun landbúnaðarins, Náttúrufræðistofnun og Veiðimálastofnun. Nefndin skal skipuð til þriggja ára í senn.
+         Helstu verkefni nefndarinnar skulu vera:
 
 <dl>
-<dt>a.</dt>
-<dd>að fylgjast með og halda skrá um erfðabreytileika og þróun hans í helstu búfjárstofnum, villtum landdýrum og ferskvatnsfiskum,</dd>
-<dt>b.</dt>
-<dd>að gera tillögur til landbúnaðarráðherra um sérstakar ráðstafanir til verndunar þeirra tegunda, stofna og eiginleika sem eru í útrýmingarhættu að mati nefndarinnar.</dd>
+<dt></dt>
+<dd>a. að fylgjast með og halda skrá um erfðabreytileika og þróun hans í helstu búfjárstofnum, villtum landdýrum og ferskvatnsfiskum,</dd>
+<dt></dt>
+<dd>b. að gera tillögur til landbúnaðarráðherra um sérstakar ráðstafanir til verndunar þeirra tegunda, stofna og eiginleika sem eru í útrýmingarhættu að mati nefndarinnar.</dd>
 </dl>
 
 
-      Kostnaður vegna verndunaraðgerða greiðist úr ríkissjóði.
-      Nánar skal kveðið á um starfsemi erfðanefndar búfjár í reglugerð, að fengnum tillögum þeirra stofnana sem aðild eiga að henni.
+         Kostnaður vegna verndunaraðgerða greiðist úr ríkissjóði.
+         Nánar skal kveðið á um starfsemi erfðanefndar búfjár í reglugerð, að fengnum tillögum þeirra stofnana sem aðild eiga að henni.
 
 
-_[^1)^]"L. 73/1996, 22. gr.":/altext/stjt/1996.073.html_
+_[^1)^]"L. 73/1996, 22. gr.":ekkitil/ekkitil.html?1996073#g22_
+
+h3. IV. kafli.
+
+h3. Almenn ákvæði.
+
+*17. gr.*
+
+        Landbúnaðarráðherra setur, að fengnum tillögum [Bændasamtaka Íslands],[^1)^] reglugerð er kveður nánar á um framkvæmd þessara laga.[^2)^]
 
 
+_[^1)^]"L. 73/1996, 22. gr.":ekkitil/ekkitil.html?1996073#g22[^2)^]"Rg. 156/1987":ekkitil/ekkitil.html?REGL/1987156 (sæðingar loðdýra), "263/1991":ekkitil/ekkitil.html?REGL/1991263, "418/1991":ekkitil/ekkitil.html?REGL/1991418 (um búfjárrækt), "561/1994":ekkitil/ekkitil.html?REGL/1994561 (um búfjársæðingar og flutning fósturvísa)._
 
+*18. gr.*
 
-*IV. kafli.*
-
-*Almenn ákvæði.*
-
-17. gr.
-
-     Landbúnaðarráðherra setur, að fengnum tillögum [Bændasamtaka Íslands],[^1)^] reglugerð er kveður nánar á um framkvæmd þessara laga.[^2)^]
-
-
-_[^1)^]"L. 73/1996, 22. gr.":/altext/stjt/1996.073.html[^2)^]Rg. 156/1987 (sæðingar loðdýra), 263/1991, 418/1991 (um búfjárrækt), 561/1994 (um búfjársæðingar og flutning fósturvísa)._
-
-
-
-
-18. gr.
-
-     Brot gegn lögum þessum eða reglugerðum, sem settar kunna að verða samkvæmt þeim, varða sektum nema þyngri refsing liggi við samkvæmt öðrum lögum.
-      Með mál út af brotum gegn lögum þessum skal farið að hætti opinberra mála.
+        Brot gegn lögum þessum eða reglugerðum, sem settar kunna að verða samkvæmt þeim, varða sektum nema þyngri refsing liggi við samkvæmt öðrum lögum.
+         Með mál út af brotum gegn lögum þessum skal farið að hætti opinberra mála.
 
 
 
-19. gr.
 
-     Lög þessi öðlast þegar gildi. ...
+*19. gr.*
+
+        Lög þessi öðlast þegar gildi. ...
+
 
 
 
