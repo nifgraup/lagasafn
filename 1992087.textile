@@ -2,22 +2,25 @@
 
 h2. Lög um gjaldeyrismál
 
-*1992, nr. 87, 17. nóvember*
+*1992 nr. 87 17. nóvember*
 
 <hr />
 
-*1. gr.*
 
-        Í lögum þessum hafa eftirfarandi orð merkingu sem hér segir:
+
+
+1. gr.
+
+     Í lögum þessum hafa eftirfarandi orð merkingu sem hér segir:
 
 <dl>
 <dt></dt>
 <dd>Innlendur aðili merkir:
 <dl>
-<dt></dt>
-<dd>1. sérhvern mann sem hefur fasta búsetu hér á landi samkvæmt lögum um lögheimili án tillits til ríkisfangs; sama á við um íslenskan ríkisborgara og skyldulið hans sem hefur búsetu erlendis en gegnir störfum þar á vegum íslenska ríkisins við sendiráð, fastanefnd eða ræðismannsskrifstofu og tekur laun úr ríkissjóði eða er starfsmaður alþjóðastofnunar sem Ísland er aðili að;</dd>
-<dt></dt>
-<dd>2. sérhvern lögaðila sem skráður er til heimilis hér á landi á lögmæltan hátt, telur heimili sitt hér á landi samkvæmt samþykktum sínum eða ef raunveruleg framkvæmdastjórn hans er hér á landi; hérlend útibú lögaðila, sem heimili eiga erlendis, teljast til innlendra aðila.</dd>
+<dt>1.</dt>
+<dd>sérhvern mann sem hefur fasta búsetu hér á landi samkvæmt lögum um lögheimili án tillits til ríkisfangs; sama á við um íslenskan ríkisborgara og skyldulið hans sem hefur búsetu erlendis en gegnir störfum þar á vegum íslenska ríkisins við sendiráð, fastanefnd eða ræðismannsskrifstofu og tekur laun úr ríkissjóði eða er starfsmaður alþjóðastofnunar sem Ísland er aðili að;</dd>
+<dt>2.</dt>
+<dd>sérhvern lögaðila sem skráður er til heimilis hér á landi á lögmæltan hátt, telur heimili sitt hér á landi samkvæmt samþykktum sínum eða ef raunveruleg framkvæmdastjórn hans er hér á landi; hérlend útibú lögaðila, sem heimili eiga erlendis, teljast til innlendra aðila.</dd>
 </dl>
 </dd>
 <dt></dt>
@@ -31,33 +34,33 @@ h2. Lög um gjaldeyrismál
 <dt></dt>
 <dd>Fjármagnshreyfingar merkja yfirfærslu eða flutning á fjármunum milli landa sem tengjast:
 <dl>
-<dt></dt>
-<dd>1. beinum fjárfestingum,</dd>
-<dt></dt>
-<dd>2. útgáfu á og viðskiptum með hlutabréf, skuldabréf, víxla, hlutdeildarskírteini verðbréfasjóða og önnur langtíma- eða skammtímaverðbréf,</dd>
-<dt></dt>
-<dd>3. lánveitingum, lántökum og greiðslu eða móttöku afborgana af lánum,</dd>
-<dt></dt>
-<dd>4. veitingu ábyrgða og hvers konar greiðslutrygginga,</dd>
-<dt></dt>
-<dd>5. opnun bankareikninga og notkun þeirra,</dd>
-<dt></dt>
-<dd>6. framvirkum viðskiptum, viðskiptum með valrétt (valkvæðum viðskiptum) og gjaldmiðla- og vaxtaskiptum,</dd>
-<dt></dt>
-<dd>7. yfirfærslu á fjármunum einstaklinga og fjölskyldna.</dd>
+<dt>1.</dt>
+<dd>beinum fjárfestingum,</dd>
+<dt>2.</dt>
+<dd>útgáfu á og viðskiptum með hlutabréf, skuldabréf, víxla, hlutdeildarskírteini verðbréfasjóða og önnur langtíma- eða skammtímaverðbréf,</dd>
+<dt>3.</dt>
+<dd>lánveitingum, lántökum og greiðslu eða móttöku afborgana af lánum,</dd>
+<dt>4.</dt>
+<dd>veitingu ábyrgða og hvers konar greiðslutrygginga,</dd>
+<dt>5.</dt>
+<dd>opnun bankareikninga og notkun þeirra,</dd>
+<dt>6.</dt>
+<dd>framvirkum viðskiptum, viðskiptum með valrétt (valkvæðum viðskiptum) og gjaldmiðla- og vaxtaskiptum,</dd>
+<dt>7.</dt>
+<dd>yfirfærslu á fjármunum einstaklinga og fjölskyldna.</dd>
 </dl>
 </dd>
 <dt></dt>
 <dd>Skammtímahreyfingar fjármagns merkja fjármagnshreyfingar milli landa sem tengjast:
 <dl>
-<dt></dt>
-<dd>1. útgáfu á og viðskiptum með skuldabréf og víxla með lokagjalddaga allt að einu ári frá útgáfudegi og önnur slík skammtímaverðbréf,</dd>
-<dt></dt>
-<dd>2. útgáfu á og viðskiptum með hlutdeildarskírteini verðbréfasjóða sem fjárfesta í skammtímaverðbréfum,</dd>
-<dt></dt>
-<dd>3. lánveitingum og lántökum til skemmri tíma en eins árs,</dd>
-<dt></dt>
-<dd>4. innleggi á og úttekt af reikningum í innlánsstofnunum.</dd>
+<dt>1.</dt>
+<dd>útgáfu á og viðskiptum með skuldabréf og víxla með lokagjalddaga allt að einu ári frá útgáfudegi og önnur slík skammtímaverðbréf,</dd>
+<dt>2.</dt>
+<dd>útgáfu á og viðskiptum með hlutdeildarskírteini verðbréfasjóða sem fjárfesta í skammtímaverðbréfum,</dd>
+<dt>3.</dt>
+<dd>lánveitingum og lántökum til skemmri tíma en eins árs,</dd>
+<dt>4.</dt>
+<dd>innleggi á og úttekt af reikningum í innlánsstofnunum.</dd>
 </dl>
 </dd>
 <dt></dt>
@@ -78,162 +81,156 @@ h2. Lög um gjaldeyrismál
 
 
 
+2. gr.
 
-*2. gr.*
-
-        Gjaldeyrisviðskipti vegna inn- og útflutnings vöru og þjónustu skulu vera óheft, svo og fjármagnshreyfingar og gjaldeyrisviðskipti vegna þeirra, nema annað sé ákveðið í lögum.
-
+     Gjaldeyrisviðskipti vegna inn- og útflutnings vöru og þjónustu skulu vera óheft, svo og fjármagnshreyfingar og gjaldeyrisviðskipti vegna þeirra, nema annað sé ákveðið í lögum.
 
 
 
-*3. gr.*
+3. gr.
 
-        Seðlabanka Íslands er heimilt, þrátt fyrir ákvæði 2. gr., að ákveða að höfðu samráði við viðskiptaráðuneytið að takmarka eða stöðva í allt að sex mánuði einhverja eða alla eftirtalda flokka fjármagnshreyfinga ef skammtímahreyfingar fjármagns til og frá landinu valda að mati bankans óstöðugleika í gengis- og peningamálum:
+     Seðlabanka Íslands er heimilt, þrátt fyrir ákvæði 2. gr., að ákveða að höfðu samráði við viðskiptaráðuneytið að takmarka eða stöðva í allt að sex mánuði einhverja eða alla eftirtalda flokka fjármagnshreyfinga ef skammtímahreyfingar fjármagns til og frá landinu valda að mati bankans óstöðugleika í gengis- og peningamálum:
 
 <dl>
-<dt></dt>
-<dd>1. Viðskipti með skammtímaverðbréf.</dd>
-<dt></dt>
-<dd>2. Innlegg á og úttektir af reikningum í innlánsstofnunum.</dd>
-<dt></dt>
-<dd>3. Viðskipti með hlutdeildarskírteini verðbréfasjóða sem fjárfesta í skammtímaverðbréfum.</dd>
-<dt></dt>
-<dd>4. Lánveitingar og lántökur til skemmri tíma en eins árs sem ekki tengjast milliríkjaviðskiptum með vöru og þjónustu.</dd>
-<dt></dt>
-<dd>5. Inn- og útflutningur skammtímaverðbréfa og innlends og erlends gjaldeyris.</dd>
-<dt></dt>
-<dd>6. Aðrar skammtímahreyfingar fjármagns hliðstæðar þeim sem taldar eru upp í 1.--5. tölul.</dd>
+<dt>1.</dt>
+<dd>Viðskipti með skammtímaverðbréf.</dd>
+<dt>2.</dt>
+<dd>Innlegg á og úttektir af reikningum í innlánsstofnunum.</dd>
+<dt>3.</dt>
+<dd>Viðskipti með hlutdeildarskírteini verðbréfasjóða sem fjárfesta í skammtímaverðbréfum.</dd>
+<dt>4.</dt>
+<dd>Lánveitingar og lántökur til skemmri tíma en eins árs sem ekki tengjast milliríkjaviðskiptum með vöru og þjónustu.</dd>
+<dt>5.</dt>
+<dd>Inn- og útflutningur skammtímaverðbréfa og innlends og erlends gjaldeyris.</dd>
+<dt>6.</dt>
+<dd>Aðrar skammtímahreyfingar fjármagns hliðstæðar þeim sem taldar eru upp í 1. - 5. tölul.</dd>
 </dl>
 
 
 
 
 
+4. gr.
 
-*4. gr.*
-
-        Viðskiptaráðherra er heimilt, þrátt fyrir ákvæði 2. gr., að ákveða í reglugerð að takmarkanir gildi um gjaldeyrisviðskipti vegna einhverra eða allra eftirtalinna flokka fjármagnshreyfinga, enda sé gætt ákvæða laga um fjárfestingu erlendra aðila í atvinnurekstri, laga um eignarrétt og afnotarétt fasteigna og alþjóðlegra samninga sem Ísland er aðili að:
+     Viðskiptaráðherra er heimilt, þrátt fyrir ákvæði 2. gr., að ákveða í reglugerð að takmarkanir gildi um gjaldeyrisviðskipti vegna einhverra eða allra eftirtalinna flokka fjármagnshreyfinga, enda sé gætt ákvæða laga um fjárfestingu erlendra aðila í atvinnurekstri, laga um eignarrétt og afnotarétt fasteigna og alþjóðlegra samninga sem Ísland er aðili að:
 
 <dl>
-<dt></dt>
-<dd>1. Beinar fjárfestingar erlendra aðila í atvinnurekstri hér á landi.</dd>
-<dt></dt>
-<dd>2. Viðskipti erlendra aðila með hlutabréf í innlendum fyrirtækjum.</dd>
-<dt></dt>
-<dd>3. Fasteignakaup erlendra aðila hér á landi.</dd>
+<dt>1.</dt>
+<dd>Beinar fjárfestingar erlendra aðila í atvinnurekstri hér á landi.</dd>
+<dt>2.</dt>
+<dd>Viðskipti erlendra aðila með hlutabréf í innlendum fyrirtækjum.</dd>
+<dt>3.</dt>
+<dd>Fasteignakaup erlendra aðila hér á landi.</dd>
 </dl>
 
 
-         Slíkar takmarkanir mega þó ekki ná til flutnings fjár í eigu erlends aðila frá landinu við sölu á eignarhlut eða slit atvinnufyrirtækis eða sölu fasteignar hér á landi.
+      Slíkar takmarkanir mega þó ekki ná til flutnings fjár í eigu erlends aðila frá landinu við sölu á eignarhlut eða slit atvinnufyrirtækis eða sölu fasteignar hér á landi.
 
 
 
+5. gr.
 
-*5. gr.*
-
-        Ráðherra er heimilt, þrátt fyrir ákvæði 2. gr., að ákveða í reglugerð að til og með 31. desember 1994 gildi takmarkanir um einhverja eða alla af eftirtöldum flokkum fjármagnshreyfinga:
+     Ráðherra er heimilt, þrátt fyrir ákvæði 2. gr., að ákveða í reglugerð að til og með 31. desember 1994 gildi takmarkanir um einhverja eða alla af eftirtöldum flokkum fjármagnshreyfinga:
 
 <dl>
-<dt></dt>
-<dd>1. Viðskipti innlendra aðila með skuldabréf og víxla í erlendri mynt með gjalddaga allt að einu ári frá útgáfudegi og útgáfu þessara aðila á slíkum verðbréfum erlendis.</dd>
-<dt></dt>
-<dd>2. Viðskipti erlendra aðila með innlend skuldabréf og víxla í íslenskum krónum með gjalddaga allt að einu ári frá útgáfudegi og útgáfu þessara aðila á slíkum verðbréfum hér á landi.</dd>
-<dt></dt>
-<dd>3. Útgáfu á skuldabréfum og víxlum í íslenskum krónum erlendis með gjalddaga allt að einu ári frá útgáfudegi.</dd>
-<dt></dt>
-<dd>4. Viðskipti með hlutdeildarskírteini verðbréfasjóða sem fjárfesta í skammtímaverðbréfum.</dd>
-<dt></dt>
-<dd>5. Lánveitingar og lántökur til skemmri tíma en eins árs sem ekki tengjast milliríkjaviðskiptum með vöru eða þjónustu.</dd>
-<dt></dt>
-<dd>6. Innlegg á og úttektir af reikningum í innlánsstofnunum.</dd>
-<dt></dt>
-<dd>7. Inn- og útflutning skammtímaverðbréfa, peningaseðla og sleginna peninga.</dd>
-<dt></dt>
-<dd>8. Aðrar skammtímahreyfingar fjármagns hliðstæðar þeim sem taldar eru upp í 1.--7. tölul.</dd>
-<dt></dt>
-<dd>9. Framvirk viðskipti, viðskipti með valrétt, gjaldmiðla- og vaxtaskipti og önnur skyld gjaldeyrisviðskipti þar sem krónan er annar eða einn gjaldmiðlanna.</dd>
+<dt>1.</dt>
+<dd>Viðskipti innlendra aðila með skuldabréf og víxla í erlendri mynt með gjalddaga allt að einu ári frá útgáfudegi og útgáfu þessara aðila á slíkum verðbréfum erlendis.</dd>
+<dt>2.</dt>
+<dd>Viðskipti erlendra aðila með innlend skuldabréf og víxla í íslenskum krónum með gjalddaga allt að einu ári frá útgáfudegi og útgáfu þessara aðila á slíkum verðbréfum hér á landi.</dd>
+<dt>3.</dt>
+<dd>Útgáfu á skuldabréfum og víxlum í íslenskum krónum erlendis með gjalddaga allt að einu ári frá útgáfudegi.</dd>
+<dt>4.</dt>
+<dd>Viðskipti með hlutdeildarskírteini verðbréfasjóða sem fjárfesta í skammtímaverðbréfum.</dd>
+<dt>5.</dt>
+<dd>Lánveitingar og lántökur til skemmri tíma en eins árs sem ekki tengjast milliríkjaviðskiptum með vöru eða þjónustu.</dd>
+<dt>6.</dt>
+<dd>Innlegg á og úttektir af reikningum í innlánsstofnunum.</dd>
+<dt>7.</dt>
+<dd>Inn- og útflutning skammtímaverðbréfa, peningaseðla og sleginna peninga.</dd>
+<dt>8.</dt>
+<dd>Aðrar skammtímahreyfingar fjármagns hliðstæðar þeim sem taldar eru upp í 1. - 7. tölul.</dd>
+<dt>9.</dt>
+<dd>Framvirk viðskipti, viðskipti með valrétt, gjaldmiðla- og vaxtaskipti og önnur skyld gjaldeyrisviðskipti þar sem krónan er annar eða einn gjaldmiðlanna.</dd>
 </dl>
 
 
-         Ráðherra er jafnframt heimilt að ákveða í reglugerð reglur um sölu- og skilaskyldu erlends gjaldeyris sem innlendir aðilar eignast fyrir seldar vörur og þjónustu eða á annan hátt. Þessi heimild fellur niður frá og með 1. janúar 1995.
+      Ráðherra er jafnframt heimilt að ákveða í reglugerð reglur um sölu- og skilaskyldu erlends gjaldeyris sem innlendir aðilar eignast fyrir seldar vörur og þjónustu eða á annan hátt. Þessi heimild fellur niður frá og með 1. janúar 1995.
+
+
+
+6. gr.
+
+     Erlendu ríki, sveitarfélagi eða öðru erlendu stjórnvaldi er óheimilt að gefa út skuldabréf á markaði hérlendis nema með leyfi Seðlabankans.
+
+
+
+7. gr.
+
+     Nú gilda ákveðnar takmarkanir á fjármagnshreyfingum skv. 4. gr., 5. gr. eða ákvæðum til bráðabirgða og er þá Seðlabankanum heimilt að veita undanþágur frá þeim samkvæmt umsókn þar að lútandi. Innheimt skal sérstakt 1% leyfisgjald af þeirri fjárhæð sem um ræðir hverju sinni þegar undanþága er veitt. Fjármagnshreyfingar á vegum ríkissjóðs og fjármagnshreyfingar vegna gjaldeyrisviðskipta þeirra aðila, sem leyfi hafa til gjaldeyrisviðskipta, eru ávallt undanþegnar gjaldinu. Gjaldið skal greitt til þess innlends aðila sem milligöngu hefur um gjaldeyrisviðskiptin eða Seðlabankans. Tekjur af gjaldinu renna í ríkissjóð.
+
+
+
+8. gr.
+
+     Seðlabankinn hefur heimild til að hafa milligöngu um gjaldeyrisviðskipti og versla með erlendan gjaldeyri. Öðrum aðilum er óheimilt að hafa milligöngu um gjaldeyrisviðskipti hér á landi nema hafa til þess heimild í lögum eða samkvæmt ákvæðum í alþjóðlegum samningum sem Ísland er aðili að eða fengið til þess leyfi frá Seðlabankanum.
+      Seðlabankinn setur nánari reglur um skilyrði til gjaldeyrisviðskipta sem gilda fyrir þá aðila sem nefndir eru í 2. málsl. 1. mgr. Í þeim skal m.a. kveðið á um umfang og mörk gjaldeyrisviðskipta hverrar stofnunar, reglulega upplýsingagjöf til Seðlabankans, fullnægjandi innra eftirlits- og upplýsingakerfi og hæfisskilyrði starfsfólks. Í þeim skal enn fremur kveðið á um afturköllun heimilda til gjaldeyrisviðskipta að því er varðar þá aðila sem ekki hafa heimild til slíkra viðskipta í lögum eða samkvæmt ákvæðum í alþjóðlegum samningum sem Ísland er aðili að.
+
+
+
+9. gr.
+
+     Ákveða má í reglugerð að viðskipti innlendra aðila við erlenda aðila með verðbréf skuli fara fram fyrir milligöngu þeirra aðila sem hafa heimild til verðbréfamiðlunar hér á landi samkvæmt lögum eða ákvæðum í alþjóðlegum samningum sem Ísland er aðili að. Þar má jafnframt kveða á um að einstakir flokkar lögaðila séu undanþegnir kröfu þessari og að Seðlabankinn geti veitt einstökum aðilum leyfi til að eiga milliliðalaus verðbréfaviðskipti við erlenda aðila.
+
+
+
+10. gr.
+
+     Allir þeir aðilar, sem annast gjaldeyrisviðskipti og fjármagnshreyfingar fyrir viðskiptamenn sína, skulu hafa til reiðu skýrar og handhægar upplýsingar um slíka þjónustu ásamt upplýsingum um umboðslaun og gjöld sem áskilin eru í slíkum viðskiptum.
+      Ráðherra getur með reglugerð sett nánari reglur um framkvæmd 1. mgr.
+
+
+
+11. gr.
+
+     Skylt er að veita Seðlabankanum allar þær upplýsingar um gjaldeyrisviðskipti sem hann kann að óska eftir til að hann geti sinnt nauðsynlegu eftirliti og hagskýrslugerð, sbr. ákvæði laga um Seðlabanka Íslands. Bankanum er heimilt að setja nánari reglur um framkvæmd gjaldeyrisviðskipta, svo sem um skráningar- og tilkynningarskyldu vegna reikninga innlendra aðila í erlendum innlánsstofnunum, framlagningu gagna, almenna upplýsingagjöf og gerð eyðublaða.
+
+
+
+12. gr.
+
+     Þeir sem annast framkvæmd þessara laga eru bundnir þagnarskyldu um hagi einstakra viðskiptamanna og önnur atriði sem þeir fá vitneskju um í starfi sínu og leynt skulu fara samkvæmt lögum eða eðli málsins, nema dómari úrskurði að upplýsingar sé skylt að veita fyrir dómi eða lögreglu eða skylda sé til að veita upplýsingar lögum samkvæmt. Þagnarskyldan helst þótt látið sé af starfi.
+
+
+
+13. gr.
+
+     Fyrir brot á lögum þessum skal refsa með sektum eða [fangelsi allt að 2 árum][^1)^] liggi ekki þyngri refsing við broti samkvæmt öðrum lögum. Sé brot framið í þágu lögaðila er heimilt að beita stjórnendur lögaðilans framangreindum viðurlögum og einnig er heimilt að gera lögaðilanum sekt eða sviptingu starfsréttinda. Tilraun og hlutdeild í brotum á lögum þessum eru refsiverðar eftir því sem segir í III. kafla almennra hegningarlaga.
+
+
+_[^1)^]"L. 82/1998, 203. gr.":/altext/stjt/1998.082.html_
 
 
 
 
-*6. gr.*
+14. gr.
 
-        Erlendu ríki, sveitarfélagi eða öðru erlendu stjórnvaldi er óheimilt að gefa út skuldabréf á markaði hérlendis nema með leyfi Seðlabankans.
-
-
+     Viðskiptaráðherra fer með framkvæmd laga þessara. Hann getur með reglugerð[^1)^] sett nánari ákvæði um framkvæmd þeirra.
 
 
-*7. gr.*
-
-        Nú gilda ákveðnar takmarkanir á fjármagnshreyfingum skv. 4. gr., 5. gr. eða ákvæðum til bráðabirgða og er þá Seðlabankanum heimilt að veita undanþágur frá þeim samkvæmt umsókn þar að lútandi. Innheimt skal sérstakt 1% leyfisgjald af þeirri fjárhæð sem um ræðir hverju sinni þegar undanþága er veitt. Fjármagnshreyfingar á vegum ríkissjóðs og fjármagnshreyfingar vegna gjaldeyrisviðskipta þeirra aðila, sem leyfi hafa til gjaldeyrisviðskipta, eru ávallt undanþegnar gjaldinu. Gjaldið skal greitt til þess innlends aðila sem milligöngu hefur um gjaldeyrisviðskiptin eða Seðlabankans. Tekjur af gjaldinu renna í ríkissjóð.
+_[^1)^]Rg. 679/1994 (um gjaldeyrismál) og rg. 13/1995._
 
 
 
 
-*8. gr.*
+15. gr.
 
-        Seðlabankinn hefur heimild til að hafa milligöngu um gjaldeyrisviðskipti og versla með erlendan gjaldeyri. Öðrum aðilum er óheimilt að hafa milligöngu um gjaldeyrisviðskipti hér á landi nema hafa til þess heimild í lögum eða samkvæmt ákvæðum í alþjóðlegum samningum sem Ísland er aðili að eða fengið til þess leyfi frá Seðlabankanum.
-         Seðlabankinn setur nánari reglur um skilyrði til gjaldeyrisviðskipta sem gilda fyrir þá aðila sem nefndir eru í 2. málsl. 1. mgr. Í þeim skal m.a. kveðið á um umfang og mörk gjaldeyrisviðskipta hverrar stofnunar, reglulega upplýsingagjöf til Seðlabankans, fullnægjandi innra eftirlits- og upplýsingakerfi og hæfisskilyrði starfsfólks. Í þeim skal enn fremur kveðið á um afturköllun heimilda til gjaldeyrisviðskipta að því er varðar þá aðila sem ekki hafa heimild til slíkra viðskipta í lögum eða samkvæmt ákvæðum í alþjóðlegum samningum sem Ísland er aðili að.
-
+     Lög þessi öðlast þegar gildi. ...
 
 
 
-*9. gr.*
+*Ákvæði til bráðabirgða.*
 
-        Ákveða má í reglugerð að viðskipti innlendra aðila við erlenda aðila með verðbréf skuli fara fram fyrir milligöngu þeirra aðila sem hafa heimild til verðbréfamiðlunar hér á landi samkvæmt lögum eða ákvæðum í alþjóðlegum samningum sem Ísland er aðili að. Þar má jafnframt kveða á um að einstakir flokkar lögaðila séu undanþegnir kröfu þessari og að Seðlabankinn geti veitt einstökum aðilum leyfi til að eiga milliliðalaus verðbréfaviðskipti við erlenda aðila.
+     ...
 
-
-
-
-*10. gr.*
-
-        Allir þeir aðilar, sem annast gjaldeyrisviðskipti og fjármagnshreyfingar fyrir viðskiptamenn sína, skulu hafa til reiðu skýrar og handhægar upplýsingar um slíka þjónustu ásamt upplýsingum um umboðslaun og gjöld sem áskilin eru í slíkum viðskiptum.
-         Ráðherra getur með reglugerð sett nánari reglur um framkvæmd 1. mgr.
-
-
-
-
-*11. gr.*
-
-        Skylt er að veita Seðlabankanum allar þær upplýsingar um gjaldeyrisviðskipti sem hann kann að óska eftir til að hann geti sinnt nauðsynlegu eftirliti og hagskýrslugerð, sbr. ákvæði laga um Seðlabanka Íslands. Bankanum er heimilt að setja nánari reglur um framkvæmd gjaldeyrisviðskipta, svo sem um skráningar- og tilkynningarskyldu vegna reikninga innlendra aðila í erlendum innlánsstofnunum, framlagningu gagna, almenna upplýsingagjöf og gerð eyðublaða.
-
-
-
-
-*12. gr.*
-
-        Þeir sem annast framkvæmd þessara laga eru bundnir þagnarskyldu um hagi einstakra viðskiptamanna og önnur atriði sem þeir fá vitneskju um í starfi sínu og leynt skulu fara samkvæmt lögum eða eðli málsins, nema dómari úrskurði að upplýsingar sé skylt að veita fyrir dómi eða lögreglu eða skylda sé til að veita upplýsingar lögum samkvæmt. Þagnarskyldan helst þótt látið sé af starfi.
-
-
-
-
-*13. gr.*
-
-        Fyrir brot á lögum þessum skal refsa með sektum eða varðhaldi liggi ekki þyngri refsing við broti samkvæmt öðrum lögum. Sé brot framið í þágu lögaðila er heimilt að beita stjórnendur lögaðilans framangreindum viðurlögum og einnig er heimilt að gera lögaðilanum sekt eða sviptingu starfsréttinda. Tilraun og hlutdeild í brotum á lögum þessum eru refsiverðar eftir því sem segir í III. kafla almennra hegningarlaga.
-
-
-
-
-*14. gr.*
-
-        Viðskiptaráðherra fer með framkvæmd laga þessara. Hann getur með reglugerð[^1)^] sett nánari ákvæði um framkvæmd þeirra.
-
-
-_[^1)^]"Rg. 679/1994":ekkitil/ekkitil.html?REGL/1994679 (um gjaldeyrismál) og "rg. 13/1995":ekkitil/ekkitil.html?REGL/1995013._
-
-*15. gr.*
-
-        Lög þessi öðlast þegar gildi. ...
-
-
-
-
-h6. Ákvæði til bráðabirgða.
-
-        ...
 
 

@@ -2,152 +2,144 @@
 
 h2. Lög um landmælingar og kortagerð
 
-*1997, nr. 95, 26. maí*
+*1997 nr. 95 26. maí*
 
 <hr />
 
-h3. I. kafli.
-
-h3. Tilgangur og skipulag.
-
-*1. gr.*
-
-        Lögum þessum er ætlað að tryggja að ávallt séu til nauðsynlegar staðfræðilegar og landfræðilegar upplýsingar um landið og að unnið sé að söfnun og úrvinnslu upplýsinga er hafa gildi fyrir landmælingar og kortagerð á Íslandi.
 
 
 
+*I. kafli.*
 
-*2. gr.*
+*Tilgangur og skipulag.*
 
-        Landmælingar Íslands eru ríkisstofnun sem heyrir undir umhverfisráðuneytið. Hlutverk stofnunarinnar er að vinna að verkefnum á sviði landmælinga og kortagerðar samkvæmt lögum þessum.
+1. gr.
 
-
-
-
-*3. gr.*
-
-        Ráðherra skipar stofnuninni þriggja manna stjórn eftir hverjar alþingiskosningar. Jafnmargir varamenn skulu skipaðir með sama hætti.
-         Stjórn Landmælinga Íslands mótar stefnu stofnunarinnar og hefur eftirlit með því að hún gegni hlutverki sínu í samræmi við markmið laga þessara.
+     Lögum þessum er ætlað að tryggja að ávallt séu til nauðsynlegar staðfræðilegar og landfræðilegar upplýsingar um landið og að unnið sé að söfnun og úrvinnslu upplýsinga er hafa gildi fyrir landmælingar og kortagerð á Íslandi.
 
 
 
+2. gr.
 
-*4. gr.*
-
-        Ráðherra skipar forstjóra Landmælinga Íslands til fimm ára í senn að fengnum tillögum stjórnar. Hann skal hafa sérmenntun á starfssviði stofnunarinnar og reynslu af stjórnun.
-         Forstjóri fer með daglega stjórn og rekstur stofnunarinnar og ræður annað starfsfólk. Hann ber ábyrgð gagnvart ráðherra.
+     Landmælingar Íslands eru ríkisstofnun sem heyrir undir umhverfisráðuneytið. Hlutverk stofnunarinnar er að vinna að verkefnum á sviði landmælinga og kortagerðar samkvæmt lögum þessum.
 
 
 
+3. gr.
 
-h3. II. kafli.
+     Ráðherra skipar stofnuninni þriggja manna stjórn eftir hverjar alþingiskosningar. Jafnmargir varamenn skulu skipaðir með sama hætti.
+      Stjórn Landmælinga Íslands mótar stefnu stofnunarinnar og hefur eftirlit með því að hún gegni hlutverki sínu í samræmi við markmið laga þessara.
 
-h3. Verkefni.
 
-*5. gr.*
 
-        Verkefni Landmælinga Íslands samkvæmt lögum þessum eru:
+4. gr.
+
+     Ráðherra skipar forstjóra Landmælinga Íslands til fimm ára í senn að fengnum tillögum stjórnar. Hann skal hafa sérmenntun á starfssviði stofnunarinnar og reynslu af stjórnun.
+      Forstjóri fer með daglega stjórn og rekstur stofnunarinnar og ræður annað starfsfólk. Hann ber ábyrgð gagnvart ráðherra.
+
+
+
+*II. kafli.*
+
+*Verkefni.*
+
+5. gr.
+
+     Verkefni Landmælinga Íslands samkvæmt lögum þessum eru:
 
 <dl>
-<dt></dt>
-<dd>1. Gerð leiðbeininga um landmælingar og kortagerð og notkun staðla á því sviði.</dd>
-<dt></dt>
-<dd>2. Landfræðilegar og staðfræðilegar mælingar. Í því felst m.a. að leggja út hnitakerfi fyrir landið allt og tryggja viðhald og nákvæmni mælipunkta.</dd>
-<dt></dt>
-<dd>3. Viðhald nauðsynlegra grunnupplýsinga um hnitakerfið, svo sem hvaða mælingar séu til, hver hafi framkvæmt þær, áreiðanleiki þeirra og aðgengi.</dd>
-<dt></dt>
-<dd>4. Öflun gagna og úrvinnsla á sviði loft- og gervitunglamynda af landinu.</dd>
-<dt></dt>
-<dd>5. Útgáfa og endurnýjun korta af landinu í prentuðu og stafrænu formi.</dd>
-<dt></dt>
-<dd>6. Kortlagning örnefna.</dd>
-<dt></dt>
-<dd>7. Að gæta hagsmuna stjórnvalda í erlendu samstarfi á sviði landmælinga og kortagerðar að því marki sem umhverfisráðherra ákveður.</dd>
-<dt></dt>
-<dd>8. Annað það er ráðherra kann að ákveða.</dd>
+<dt>1.</dt>
+<dd>Gerð leiðbeininga um landmælingar og kortagerð og notkun staðla á því sviði.</dd>
+<dt>2.</dt>
+<dd>Landfræðilegar og staðfræðilegar mælingar. Í því felst m.a. að leggja út hnitakerfi fyrir landið allt og tryggja viðhald og nákvæmni mælipunkta.</dd>
+<dt>3.</dt>
+<dd>Viðhald nauðsynlegra grunnupplýsinga um hnitakerfið, svo sem hvaða mælingar séu til, hver hafi framkvæmt þær, áreiðanleiki þeirra og aðgengi.</dd>
+<dt>4.</dt>
+<dd>Öflun gagna og úrvinnsla á sviði loft- og gervitunglamynda af landinu.</dd>
+<dt>5.</dt>
+<dd>Útgáfa og endurnýjun korta af landinu í prentuðu og stafrænu formi.</dd>
+<dt>6.</dt>
+<dd>Kortlagning örnefna.</dd>
+<dt>7.</dt>
+<dd>Að gæta hagsmuna stjórnvalda í erlendu samstarfi á sviði landmælinga og kortagerðar að því marki sem umhverfisráðherra ákveður.</dd>
+<dt>8.</dt>
+<dd>Annað það er ráðherra kann að ákveða.</dd>
 </dl>
 
 
 
 
 
+6. gr.
 
-*6. gr.*
-
-        Forstjóri getur falið aðilum utan stofnunarinnar að annast framkvæmd ákveðinna verkþátta skv. 5. gr.
-
+     Forstjóri getur falið aðilum utan stofnunarinnar að annast framkvæmd ákveðinna verkþátta skv. 5. gr.
 
 
 
-*7. gr.*
+7. gr.
 
-        Aðilar, sem stunda landmælingar og kortagerð, skulu gæta samræmis í vinnslu og vistun gagna og tilkynna Landmælingum Íslands um fyrirhuguð verkefni við mælingar og grunnkortagerð.
-
-
-
-
-h3. III. kafli.
-
-h3. Höfunda- og afnotaréttur.
-
-*8. gr.*
-
-        Ríkið er eigandi að öllum réttindum sem Landmælingar Íslands hafa öðlast.
-         Stofnunin gætir hagsmuna ríkisins á sviði höfunda- og afnotaréttar á öllu því efni sem hún hefur eignast, unnið eða gefið út í sambandi við mælingar, kort eða myndir af Íslandi. Um höfundarétt gilda að öðru leyti "höfundalög, nr. 73/1972":1972073.html, með síðari breytingum.
-
-
-*9. gr.*
-
-        Landmælingar Íslands miðla upplýsingum og veita aðgang að gögnum í vörslu stofnunarinnar. Ef um er að ræða frumgögn sem eiga uppruna utan stofnunar skal samið um frekari dreifingu við upprunaaðila.
-         Heimilt er að veita afnotarétt af öllum upplýsingum á sviði landmælinga og kortagerðar sem eru í vörslu Landmælinga Íslands að því tilskildu að uppruna sé getið og áreiðanleika upplýsinga sé ekki stefnt í tvísýnu.
+     Aðilar, sem stunda landmælingar og kortagerð, skulu gæta samræmis í vinnslu og vistun gagna og tilkynna Landmælingum Íslands um fyrirhuguð verkefni við mælingar og grunnkortagerð.
 
 
 
+*III. kafli.*
 
-h3. IV. kafli.
+*Höfunda- og afnotaréttur.*
 
-h3. Fjármögnun.
+8. gr.
 
-*10. gr.*
+     Ríkið er eigandi að öllum réttindum sem Landmælingar Íslands hafa öðlast.
+      Stofnunin gætir hagsmuna ríkisins á sviði höfunda- og afnotaréttar á öllu því efni sem hún hefur eignast, unnið eða gefið út í sambandi við mælingar, kort eða myndir af Íslandi. Um höfundarétt gilda að öðru leyti "höfundalög, nr. 73/1972":1972073.html, með síðari breytingum.
 
-        Landmælingar Íslands afla sér tekna á eftirfarandi hátt:
+
+
+9. gr.
+
+     Landmælingar Íslands miðla upplýsingum og veita aðgang að gögnum í vörslu stofnunarinnar. Ef um er að ræða frumgögn sem eiga uppruna utan stofnunar skal samið um frekari dreifingu við upprunaaðila.
+      Heimilt er að veita afnotarétt af öllum upplýsingum á sviði landmælinga og kortagerðar sem eru í vörslu Landmælinga Íslands að því tilskildu að uppruna sé getið og áreiðanleika upplýsinga sé ekki stefnt í tvísýnu.
+
+
+
+*IV. kafli.*
+
+*Fjármögnun.*
+
+10. gr.
+
+     Landmælingar Íslands afla sér tekna á eftirfarandi hátt:
 
 <dl>
-<dt></dt>
-<dd>1. Með sölu á sérhæfðri þjónustu og upplýsingum.</dd>
-<dt></dt>
-<dd>2. Með þjónustugjöldum vegna afgreiðslu gagna.</dd>
+<dt>1.</dt>
+<dd>Með sölu á sérhæfðri þjónustu og upplýsingum.</dd>
+<dt>2.</dt>
+<dd>Með þjónustugjöldum vegna afgreiðslu gagna.</dd>
 </dl>
 
 
-         Gjaldtaka skal ákvörðuð í gjaldskrá sem ráðherra staðfestir.
-         Kostnaður við starfrækslu Landmælinga Íslands skal að öðru leyti greiðast af framlögum sem ákvörðuð eru í fjárlögum.
+      Gjaldtaka skal ákvörðuð í gjaldskrá sem ráðherra staðfestir.
+      Kostnaður við starfrækslu Landmælinga Íslands skal að öðru leyti greiðast af framlögum sem ákvörðuð eru í fjárlögum.
 
 
 
+*V. kafli.*
 
-h3. V. kafli.
+*Ýmis ákvæði.*
 
-h3. Ýmis ákvæði.
+11. gr.
 
-*11. gr.*
-
-        Skylt er að heimila þá för um landareign og uppsetningu mælingapunkta sem nauðsynleg getur talist við framkvæmd laga þessara. Ber að sýna landeiganda tillitssemi og valda ekki ónæði að þarflausu.
-
+     Skylt er að heimila þá för um landareign og uppsetningu mælingapunkta sem nauðsynleg getur talist við framkvæmd laga þessara. Ber að sýna landeiganda tillitssemi og valda ekki ónæði að þarflausu.
 
 
 
-*12. gr.*
+12. gr.
 
-        Ráðherra setur nánari reglur um framkvæmd laga þessara.
-
-
+     Ráðherra setur nánari reglur um framkvæmd laga þessara.
 
 
-*13. gr.*
 
-        Lög þessi öðlast gildi 1. júlí 1997. ...
+13. gr.
 
+     Lög þessi öðlast gildi 1. júlí 1997. ...
 
 
 

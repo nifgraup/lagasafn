@@ -2,82 +2,92 @@
 
 h2. Lög um Veðurstofu Íslands
 
-*1985, nr. 30, 7. júní*
+*1985 nr. 30 7. júní*
 
 <hr />
 
-*1. gr.*
-
-        Veðurstofa Íslands starfar undir yfirstjórn [umhverfisráðherra].[^1)^]
-         Hlutverk Veðurstofu Íslands er að annast veðurþjónustu fyrir Ísland og umhverfi þess, svo og vinna að rannsóknum á sviði veðurfræði og annarra þeirra fræðigreina er falla undir starfssvið hennar.
 
 
-_[^1)^]"L. 47/1990, 16. gr.":ekkitil/ekkitil.html?1990047#g16_
 
-*2. gr.*
+1. gr.
 
-        Veðurstofustjóri, sem ráðherra skipar til fimm ára í senn, hefur á hendi stjórn stofnunarinnar.
-         [Veðurstofustjóri ræður annað starfsfólk stofnunarinnar.][^1)^]
-         Ákvæði um menntun starfsmanna skulu sett í reglugerð.[^2)^]
+     Veðurstofa Íslands starfar undir yfirstjórn [umhverfisráðherra].[^1)^]
+      Hlutverk Veðurstofu Íslands er að annast veðurþjónustu fyrir Ísland og umhverfi þess, svo og vinna að rannsóknum á sviði veðurfræði og annarra þeirra fræðigreina er falla undir starfssvið hennar.
 
 
-_[^1)^]"L. 83/1997, 145. gr.":ekkitil/ekkitil.html?1997083#g145[^2)^]"Rg. 367/1996":ekkitil/ekkitil.html?REGL/1996367._
+_[^1)^]"L. 47/1990, 16. gr.":/altext/stjt/1990.047.html_
 
-*3. gr.*
 
-        Verkefni Veðurstofunnar skulu vera sem hér segir:
+
+
+2. gr.
+
+     Veðurstofustjóri, sem ráðherra skipar til fimm ára í senn, hefur á hendi stjórn stofnunarinnar.
+      [Veðurstofustjóri ræður annað starfsfólk stofnunarinnar.][^1)^]
+      Ákvæði um menntun starfsmanna skulu sett í reglugerð.[^2)^]
+
+
+_[^1)^]"L. 83/1997, 145. gr.":/altext/stjt/1997.083.html[^2)^]Rg. 367/1996._
+
+
+
+
+3. gr.
+
+     Verkefni Veðurstofunnar skulu vera sem hér segir:
 
 <dl>
-<dt></dt>
-<dd>1. að koma á fót veðurstöðvum og starfrækja þær, sjálfvirkar eða mannaðar, leiðbeina veðurathugunarmönnum og hafa eftirlit með störfum þeirra;</dd>
-<dt></dt>
-<dd>2. að safna daglega veðurskeytum, innlendum og erlendum, tiltækum veðurupplýsingum frá gervihnöttum og sjálfvirkum stöðvum, sjá um að úrvali innlendra veðurskeyta sé dreift til alþjóðanota, semja veðurspár og dreifa þeim og leiðbeina um veðurskilyrði á flugleiðum og flugvöllum fyrir innanlandsflug og millilandaflug;</dd>
-<dt></dt>
-<dd>3. að afla upplýsinga um hafís og senda út ísfregnir til skipa þegar ástæða þykir til;</dd>
-<dt></dt>
-<dd>4. að annast jarðskjálftamælingar og úrvinnslu þeirra og safna upplýsingum um jarðskjálfta og hægar jarðskorpuhreyfingar tengdar jarðskjálftum; enn fremur að safna upplýsingum um eldgos og öskufall þegar ástæða þykir til;</dd>
-<dt></dt>
-<dd>5. að safna gögnum til rannsókna á veðurfari Íslands, vinna úr veðurskýrslum og gefa út veðurfarsskýrslur;</dd>
-<dt></dt>
-<dd>6. að gera athuganir og mælingar á mengun í lofti og úrkomu;</dd>
-<dt></dt>
-<dd>7. að annast mælingar á snjóalögum og rannsóknir á þeim með sérstakri hliðsjón af snjóflóðahættu, gefa út viðvaranir um hættu á snjóflóðum eftir því sem við verður komið og vera stjórnvöldum til ráðuneytis um hvernig standa beri að tilhögun mannvirkjagerðar á hættusvæðum; jafnframt að rannsaka veðurfarsþætti og jarðfræðiþætti er valda skriðuföllum;</dd>
-<dt></dt>
-<dd>8. að fylgjast með framförum og þróun í veðurfræði og öðrum fræðigreinum á starfssviði sínu og vinna að rannsóknum á þeim er hafi það að höfuðmarkmiði að auka þekkingu á veðurfari landsins, bæta veðurþjónustuna og auka hæfni stofnunarinnar til að láta í té upplýsingar í þágu atvinnulífs, öryggismála og annarra þarfa landsmanna;</dd>
-<dt></dt>
-<dd>9. að annast samskipti við Alþjóðaveðurfræðistofnunina, svo og önnur milliríkjasamskipti innan verkahrings Veðurstofunnar;</dd>
-<dt></dt>
-<dd>10. annað það er ráðherra kann að ákveða að falli undir verksvið Veðurstofunnar.</dd>
+<dt>1.</dt>
+<dd>að koma á fót veðurstöðvum og starfrækja þær, sjálfvirkar eða mannaðar, leiðbeina veðurathugunarmönnum og hafa eftirlit með störfum þeirra;</dd>
+<dt>2.</dt>
+<dd>að safna daglega veðurskeytum, innlendum og erlendum, tiltækum veðurupplýsingum frá gervihnöttum og sjálfvirkum stöðvum, sjá um að úrvali innlendra veðurskeyta sé dreift til alþjóðanota, semja veðurspár og dreifa þeim og leiðbeina um veðurskilyrði á flugleiðum og flugvöllum fyrir innanlandsflug og millilandaflug;</dd>
+<dt>3.</dt>
+<dd>að afla upplýsinga um hafís og senda út ísfregnir til skipa þegar ástæða þykir til;</dd>
+<dt>4.</dt>
+<dd>að annast jarðskjálftamælingar og úrvinnslu þeirra og safna upplýsingum um jarðskjálfta og hægar jarðskorpuhreyfingar tengdar jarðskjálftum; enn fremur að safna upplýsingum um eldgos og öskufall þegar ástæða þykir til;</dd>
+<dt>5.</dt>
+<dd>að safna gögnum til rannsókna á veðurfari Íslands, vinna úr veðurskýrslum og gefa út veðurfarsskýrslur;</dd>
+<dt>6.</dt>
+<dd>að gera athuganir og mælingar á mengun í lofti og úrkomu;</dd>
+<dt>7.</dt>
+<dd>að annast mælingar á snjóalögum og rannsóknir á þeim með sérstakri hliðsjón af snjóflóðahættu, gefa út viðvaranir um hættu á snjóflóðum eftir því sem við verður komið og vera stjórnvöldum til ráðuneytis um hvernig standa beri að tilhögun mannvirkjagerðar á hættusvæðum; jafnframt að rannsaka veðurfarsþætti og jarðfræðiþætti er valda skriðuföllum;</dd>
+<dt>8.</dt>
+<dd>að fylgjast með framförum og þróun í veðurfræði og öðrum fræðigreinum á starfssviði sínu og vinna að rannsóknum á þeim er hafi það að höfuðmarkmiði að auka þekkingu á veðurfari landsins, bæta veðurþjónustuna og auka hæfni stofnunarinnar til að láta í té upplýsingar í þágu atvinnulífs, öryggismála og annarra þarfa landsmanna;</dd>
+<dt>9.</dt>
+<dd>að annast samskipti við Alþjóðaveðurfræðistofnunina, svo og önnur milliríkjasamskipti innan verkahrings Veðurstofunnar;</dd>
+<dt>10.</dt>
+<dd>annað það er ráðherra kann að ákveða að falli undir verksvið Veðurstofunnar.</dd>
 </dl>
 
 
 
 
 
+4. gr.
 
-*4. gr.*
-
-        Ráðherra ákveður í gjaldskrá greiðslur þær sem inna ber af hendi til Veðurstofu Íslands fyrir þá þjónustu sem hún veitir.
-
+     Ráðherra ákveður í gjaldskrá greiðslur þær sem inna ber af hendi til Veðurstofu Íslands fyrir þá þjónustu sem hún veitir.
 
 
 
-*5. gr.*
+5. gr.
 
-        Ráðherra setur í reglugerð nánari fyrirmæli um málefni og starfsemi Veðurstofunnar.[^1)^]
+     Ráðherra setur í reglugerð nánari fyrirmæli um málefni og starfsemi Veðurstofunnar.[^1)^]
 
 
-_[^1)^]"Rg. 57/1929":ekkitil/ekkitil.html?REGL/1929057. "Rg. 367/1996":ekkitil/ekkitil.html?REGL/1996367._
-
-*6. gr.*
-
-        Lög þessi öðlast þegar gildi. ...
+_[^1)^]Rg. 57/1929. Rg. 367/1996._
 
 
 
 
-h6. Ákvæði til bráðabirgða.
+6. gr.
 
-        ...
+     Lög þessi öðlast þegar gildi. ...
+
+
+
+*Ákvæði til bráðabirgða.*
+
+     ...
+
 
 

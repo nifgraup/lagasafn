@@ -2,25 +2,27 @@
 
 h2. Lög um gerð samninga um hlutdeild í afnotarétti orlofshúsnæðis
 
-*1997, nr. 23, 29. apríl*
+*1997 nr. 23 29. apríl*
 
 <hr />
 
-h3. I. kafli.
-
-h3. Gildissvið og skilgreiningar.
-
-*1. gr.*
-
-        Lög þessi gilda um samninga um hlutdeild í afnotarétti af fasteignum og hafa það markmið að tryggja neytendavernd við gerð slíkra samninga. Afnotaréttur sem varir skemur en þrjú ár fellur utan gildissviðs laganna.
-         Kaupandi að hlutdeild í afnotarétti af fasteign sem staðsett er á Evrópska efnahagssvæðinu nýtur verndar í samræmi við ákvæði þessara laga þótt um samninginn fari eftir löggjöf lands utan svæðisins.
 
 
 
+*I. kafli.*
 
-*2. gr.*
+*Gildissvið og skilgreiningar.*
 
-        Í lögum þessum hafa eftirfarandi orð merkingu sem hér segir:
+1. gr.
+
+     Lög þessi gilda um samninga um hlutdeild í afnotarétti af fasteignum og hafa það markmið að tryggja neytendavernd við gerð slíkra samninga. Afnotaréttur sem varir skemur en þrjú ár fellur utan gildissviðs laganna.
+      Kaupandi að hlutdeild í afnotarétti af fasteign sem staðsett er á Evrópska efnahagssvæðinu nýtur verndar í samræmi við ákvæði þessara laga þótt um samninginn fari eftir löggjöf lands utan svæðisins.
+
+
+
+2. gr.
+
+     Í lögum þessum hafa eftirfarandi orð merkingu sem hér segir:
 
 
 _Samningur:_ Samkomulag um hlutdeild í afnotarétti af fasteign eða hluta hennar, í eina viku eða meira, á hverju almanaksári gegn greiðslu ákveðins heildarverðs.
@@ -31,119 +33,117 @@ _Kaupandi:_ Einstaklingur sem keypt hefur hlutdeild í afnotarétti af fasteign 
 
 _Seljandi:_ Einstaklingur eða lögaðili sem í atvinnuskyni selur og ábyrgist viðskipti með hlutdeild í afnotarétti af fasteignum sem lög þessi taka til.
 
-h3. II. kafli.
 
-h3. Samningsskilmálar.
 
-*3. gr.*
 
-        Eigi má með samningi víkja frá ákvæðum laga þessara kaupanda í óhag.
+*II. kafli.*
 
+*Samningsskilmálar.*
+
+3. gr.
+
+     Eigi má með samningi víkja frá ákvæðum laga þessara kaupanda í óhag.
 
 
 
 _Form og efni samnings._
 
-*4. gr.*
+4. gr.
 
-        Samningur skal vera skriflegur og undirritaður af kaupanda og seljanda í votta viðurvist. Í samningi skal, auk almennra upplýsinga um þá fasteign sem samið er um, taka fram eftirfarandi:
+     Samningur skal vera skriflegur og undirritaður af kaupanda og seljanda í votta viðurvist. Í samningi skal, auk almennra upplýsinga um þá fasteign sem samið er um, taka fram eftirfarandi:
 
 <dl>
-<dt></dt>
-<dd>1. Nafn og heimilisfang kaupanda og seljanda, dagsetningu samningsins og samningsstað. Sé seljandi ekki jafnframt eigandi skal tilgreina nafn og heimilisfang eiganda og þær heimildir sem seljandi hefur til að ráðstafa hinu selda.</dd>
-<dt></dt>
-<dd>2. Hvaða skilyrði kaupandi þarf að uppfylla svo hann megi nýta fasteignina, ef einhver eru. Hið sama gildir um mögulegar hindranir fyrir því.</dd>
-<dt></dt>
-<dd>3. Taki samningur til ákveðinnar fasteignar ber að tilgreina nafn og staðsetningu eignarinnar.</dd>
-<dt></dt>
-<dd>4. Taki samningur til fasteignar sem enn er á byggingarstigi ber að veita kaupanda upplýsingar um:
-<dl>
-<dt></dt>
-<dd>a. hversu langt byggingin er komin og hvenær henni verði lokið,</dd>
-<dt></dt>
-<dd>b. númer byggingarleyfis og heimilisfang lögbærra yfirvalda í því ríki þar sem eignin er,</dd>
-<dt></dt>
-<dd>c. hvenær öll þjónusta verði tiltæk sem telja má nauðsynlega til þess að unnt verði að nýta fasteignina,</dd>
-<dt></dt>
-<dd>d. tryggingar seljanda fyrir því að lokið verði að fullu við framkvæmdir, svo og tryggingar fyrir endurgreiðslu til kaupanda ef framkvæmdum lýkur ekki eins og samningur gerir ráð fyrir.</dd>
+<dt>1.</dt>
+<dd>Nafn og heimilisfang kaupanda og seljanda, dagsetningu samningsins og samningsstað. Sé seljandi ekki jafnframt eigandi skal tilgreina nafn og heimilisfang eiganda og þær heimildir sem seljandi hefur til að ráðstafa hinu selda.</dd>
+<dt>2.</dt>
+<dd>Hvaða skilyrði kaupandi þarf að uppfylla svo hann megi nýta fasteignina, ef einhver eru. Hið sama gildir um mögulegar hindranir fyrir því.</dd>
+<dt>3.</dt>
+<dd>Taki samningur til ákveðinnar fasteignar ber að tilgreina nafn og staðsetningu eignarinnar.</dd>
+<dt>4.</dt>
+<dd>Taki samningur til fasteignar sem enn er á byggingarstigi ber að veita kaupanda upplýsingar um:</dd>
+<dd><dl>
+<dt>a.</dt>
+<dd>hversu langt byggingin er komin og hvenær henni verði lokið,</dd>
+<dt>b.</dt>
+<dd>númer byggingarleyfis og heimilisfang lögbærra yfirvalda í því ríki þar sem eignin er,</dd>
+<dt>c.</dt>
+<dd>hvenær öll þjónusta verði tiltæk sem telja má nauðsynlega til þess að unnt verði að nýta fasteignina,</dd>
+<dt>d.</dt>
+<dd>tryggingar seljanda fyrir því að lokið verði að fullu við framkvæmdir, svo og tryggingar fyrir endurgreiðslu til kaupanda ef framkvæmdum lýkur ekki eins og samningur gerir ráð fyrir.</dd>
 </dl>
 </dd>
-<dt></dt>
-<dd>5. Hvaða þjónustu kaupandi hefur aðgang að og helstu skilyrði sem hún er háð.</dd>
-<dt></dt>
-<dd>6. Innan hvaða tímamarka kaupanda er heimilt að nýta sér þau réttindi sem samningur kveður á um og frá og með hvaða degi sá réttur kaupanda er virkur.</dd>
-<dt></dt>
-<dd>7. Greiðslur sem kaupandi verður að inna af hendi til þess að mega nýta sér réttindin, greiðslur sem fylgja notkun á sameiginlegri aðstöðu ef það á við, stjórnunarkostnað og önnur gjöld sem kaupandi kann að þurfa að greiða. Önnur gjöld en þau sem tilgreind eru í samningi þarf kaupandi ekki að greiða.</dd>
-<dt></dt>
-<dd>8. Hvort samningi fylgir réttur til þátttöku í fyrirkomulagi á skiptum eða endursölu á réttindunum (eftirmarkaði), hvaða kostnaður fylgir slíkri þátttöku og hvernig umsjón er háttað.</dd>
-<dt></dt>
-<dd>9. Hvaða rétt kaupandi hefur til riftunar, þar á meðal skv. 6. gr., hvert og hvernig riftun skuli send, hvaða kostnað kaupanda beri að greiða ef hann nýtir sér rétt til riftunar.</dd>
-<dt></dt>
-<dd>10. Hvar mál skulu rekin rísi ágreiningur milli kaupanda og seljanda, svo og hvort kaupanda er heimilt að velja varnarþing í ágreiningsmálum.</dd>
+<dt>5.</dt>
+<dd>Hvaða þjónustu kaupandi hefur aðgang að og helstu skilyrði sem hún er háð.</dd>
+<dt>6.</dt>
+<dd>Innan hvaða tímamarka kaupanda er heimilt að nýta sér þau réttindi sem samningur kveður á um og frá og með hvaða degi sá réttur kaupanda er virkur.</dd>
+<dt>7.</dt>
+<dd>Greiðslur sem kaupandi verður að inna af hendi til þess að mega nýta sér réttindin, greiðslur sem fylgja notkun á sameiginlegri aðstöðu ef það á við, stjórnunarkostnað og önnur gjöld sem kaupandi kann að þurfa að greiða. Önnur gjöld en þau sem tilgreind eru í samningi þarf kaupandi ekki að greiða.</dd>
+<dt>8.</dt>
+<dd>Hvort samningi fylgir réttur til þátttöku í fyrirkomulagi á skiptum eða endursölu á réttindunum (eftirmarkaði), hvaða kostnaður fylgir slíkri þátttöku og hvernig umsjón er háttað.</dd>
+<dt>9.</dt>
+<dd>Hvaða rétt kaupandi hefur til riftunar, þar á meðal skv. 6. gr., hvert og hvernig riftun skuli send, hvaða kostnað kaupanda beri að greiða ef hann nýtir sér rétt til riftunar.</dd>
+<dt>10.</dt>
+<dd>Hvar mál skulu rekin rísi ágreiningur milli kaupanda og seljanda, svo og hvort kaupanda er heimilt að velja varnarþing í ágreiningsmálum.</dd>
 </dl>
 
 
-         Heimilt er að veita framangreindar upplýsingar á sérstöku skjali sem seljanda er skylt að afhenda en allar slíkar upplýsingar eru hluti af samningi. Í öllum auglýsingum ber að geta þess hvar nálgast megi upplýsingar sem eru hluti af samningi aðila samkvæmt þessum lögum.
+      Heimilt er að veita framangreindar upplýsingar á sérstöku skjali sem seljanda er skylt að afhenda en allar slíkar upplýsingar eru hluti af samningi. Í öllum auglýsingum ber að geta þess hvar nálgast megi upplýsingar sem eru hluti af samningi aðila samkvæmt þessum lögum.
 
 
 
+5. gr.
 
-*5. gr.*
-
-        Samningur skal vera á því tungumáli sem talað er þar sem kaupandi er búsettur. Sé fasteignin staðsett á Evrópska efnahagssvæðinu og ekki í búsetulandi kaupanda ber seljanda jafnframt að afhenda löggilta þýðingu samningsins á tungumáli þess ríkis þar sem eignin er staðsett.
-
+     Samningur skal vera á því tungumáli sem talað er þar sem kaupandi er búsettur. Sé fasteignin staðsett á Evrópska efnahagssvæðinu og ekki í búsetulandi kaupanda ber seljanda jafnframt að afhenda löggilta þýðingu samningsins á tungumáli þess ríkis þar sem eignin er staðsett.
 
 
 
 _Reglur um riftun samninga._
 
-*6. gr.*
+6. gr.
 
-        Samningur skuldbindur kaupanda eigi fyrr en eftir tíu daga frá undirritun hans, enda eiga ákvæði 2. og 3. mgr. ekki við.
-         Leggi seljandi ekki fram upplýsingar sem nefndar eru í 1.--3. tölul., a- og b-lið 4. tölul., svo og 6.--9. tölul. 4. gr. við undirritun samnings er kaupandi óbundinn af tilboði sínu í þrjá mánuði þar á eftir. Veiti seljandi fullnægjandi upplýsingar innan þeirra tímamarka byrjar frestur skv. 1. mgr. að líða frá þeim degi er seljandi fullnægði upplýsingaskyldu sinni.
-         Hafi seljandi ekki veitt upplýsingar skv. 2. mgr. innan þriggja mánaða frá undirritun samnings og kaupandi ekki notfært sér rétt sinn til þess að ganga frá samningnum vegna skorts á upplýsingum byrjar frestur skv. 1. mgr. að líða frá fyrsta degi eftir að þriggja mánaða frestinum skv. 2. mgr. er lokið.
-         Seljanda er óheimilt að krefja kaupanda um greiðslu fyrr en að liðnum fresti skv. 1. mgr.
-
-
-
-
-*7. gr.*
-
-        Kaupanda, sem vill nýta sér rétt samkvæmt ákvæði 6. gr., ber að tilkynna seljanda það áður en frestur er útrunninn. Skrifleg tilkynning um riftun telst vera gild hafi hún verið send áður en frestur er liðinn.
-         Kaupanda, sem riftir samningi í samræmi við 1. mgr. 6. gr., er einungis skylt að greiða lögboðin gjöld sem seljanda var skylt að greiða áður en frestur var liðinn, enda séu slík gjöld sérstaklega tekin fram í samningi.
+     Samningur skuldbindur kaupanda eigi fyrr en eftir tíu daga frá undirritun hans, enda eiga ákvæði 2. og 3. mgr. ekki við.
+      Leggi seljandi ekki fram upplýsingar sem nefndar eru í 1. - 3. tölul., a- og b-lið 4. tölul., svo og 6. - 9. tölul. 4. gr. við undirritun samnings er kaupandi óbundinn af tilboði sínu í þrjá mánuði þar á eftir. Veiti seljandi fullnægjandi upplýsingar innan þeirra tímamarka byrjar frestur skv. 1. mgr. að líða frá þeim degi er seljandi fullnægði upplýsingaskyldu sinni.
+      Hafi seljandi ekki veitt upplýsingar skv. 2. mgr. innan þriggja mánaða frá undirritun samnings og kaupandi ekki notfært sér rétt sinn til þess að ganga frá samningnum vegna skorts á upplýsingum byrjar frestur skv. 1. mgr. að líða frá fyrsta degi eftir að þriggja mánaða frestinum skv. 2. mgr. er lokið.
+      Seljanda er óheimilt að krefja kaupanda um greiðslu fyrr en að liðnum fresti skv. 1. mgr.
 
 
 
+7. gr.
 
-*8. gr.*
-
-        Hafi kaupandi notfært sér rétt til riftunar skv. 6. gr. falla úr gildi allir lánssamningar sem kaupandi hefur gert við seljanda eða þriðja aðila sem hefur milligöngu um að veita lán í tengslum við kaupin.
-
-
-
-
-h3. III. kafli.
-
-h3. Ýmis ákvæði.
-
-*9. gr.*
-
-        Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt að kveða nánar á um framkvæmd þeirra með reglugerð.
+     Kaupanda, sem vill nýta sér rétt samkvæmt ákvæði 6. gr., ber að tilkynna seljanda það áður en frestur er útrunninn. Skrifleg tilkynning um riftun telst vera gild hafi hún verið send áður en frestur er liðinn.
+      Kaupanda, sem riftir samningi í samræmi við 1. mgr. 6. gr., er einungis skylt að greiða lögboðin gjöld sem seljanda var skylt að greiða áður en frestur var liðinn, enda séu slík gjöld sérstaklega tekin fram í samningi.
 
 
 
+8. gr.
 
-*10. gr.*
-
-        Brot gegn lögum þessum og reglum settum samkvæmt þeim varða fésektum eða varðhaldi nema þyngri refsing liggi við samkvæmt öðrum lögum.
-
+     Hafi kaupandi notfært sér rétt til riftunar skv. 6. gr. falla úr gildi allir lánssamningar sem kaupandi hefur gert við seljanda eða þriðja aðila sem hefur milligöngu um að veita lán í tengslum við kaupin.
 
 
 
-*11. gr.*
+*III. kafli.*
 
-        Lög þessi öðlast gildi 29. apríl 1997.
+*Ýmis ákvæði.*
 
+9. gr.
+
+     Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt að kveða nánar á um framkvæmd þeirra með reglugerð.
+
+
+
+10. gr.
+
+     Brot gegn lögum þessum og reglum settum samkvæmt þeim varða fésektum eða [fangelsi allt að 2 árum][^1)^] nema þyngri refsing liggi við samkvæmt öðrum lögum.
+
+
+_[^1)^]"L. 82/1998, 233. gr.":/altext/stjt/1998.082.html_
+
+
+
+
+11. gr.
+
+     Lög þessi öðlast gildi 29. apríl 1997.
 
 
 

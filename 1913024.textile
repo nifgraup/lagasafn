@@ -2,147 +2,152 @@
 
 h2. Lög um hagstofu Íslands
 
-*1913, nr. 24, 20. október*
+*1913 nr. 24 20. október*
 
 <hr />
 
-*1. gr.*
-
-        Það skal falið sérstakri stofnun, að safna skýrslum um landshagi Íslands, vinna úr þeim og koma þeim fyrir almennings sjónir. Stofnunin nefnist hagstofa Íslands, og stendur beinlínis undir ráðherranum.
 
 
 
+1. gr.
 
-*2. gr.*
+     Það skal falið sérstakri stofnun, að safna skýrslum um landshagi Íslands, vinna úr þeim og koma þeim fyrir almennings sjónir. Stofnunin nefnist hagstofa Íslands, og stendur beinlínis undir ráðherranum.
 
-        Þessi eru meginatriði landshagsins, sem hagstofunni ber einkanlega að rannsaka:
+
+
+2. gr.
+
+     Þessi eru meginatriði landshagsins, sem hagstofunni ber einkanlega að rannsaka:
 
 <dl>
-<dt></dt>
-<dd>1. Fólksmagn:
+<dt>1.</dt>
+<dd>Fólksmagn:
 <dl>
-<dt></dt>
-<dd>a. manntöl;</dd>
-<dt></dt>
-<dd>b. fæðingar;</dd>
-<dt></dt>
-<dd>c. hjónabönd;</dd>
-<dt></dt>
-<dd>d. heilsufar;</dd>
-<dt></dt>
-<dd>e. manndauði;</dd>
-<dt></dt>
-<dd>f. fólksflutningar.</dd>
+<dt>a.</dt>
+<dd>manntöl;</dd>
+<dt>b.</dt>
+<dd>fæðingar;</dd>
+<dt>c.</dt>
+<dd>hjónabönd;</dd>
+<dt>d.</dt>
+<dd>heilsufar;</dd>
+<dt>e.</dt>
+<dd>manndauði;</dd>
+<dt>f.</dt>
+<dd>fólksflutningar.</dd>
 </dl>
 </dd>
-<dt></dt>
-<dd>2. Dómsmál, þar með talin einkamál, ...[^1)^] sakamál og lögreglumál.</dd>
-<dt></dt>
-<dd>3. Atvinnuvegir:
+<dt>2.</dt>
+<dd>Dómsmál, þar með talin einkamál, ...[^1)^] sakamál og lögreglumál.</dd>
+<dt>3.</dt>
+<dd>Atvinnuvegir:
 <dl>
-<dt></dt>
-<dd>a. landbúnaður;</dd>
-<dt></dt>
-<dd>b. iðnaður;</dd>
-<dt></dt>
-<dd>c. fiskveiðar;</dd>
-<dt></dt>
-<dd>d. siglingar og verslun;</dd>
-<dt></dt>
-<dd>e. bankar, sparisjóðir og aðrar allsherjar lánsstofnanir.</dd>
+<dt>a.</dt>
+<dd>landbúnaður;</dd>
+<dt>b.</dt>
+<dd>iðnaður;</dd>
+<dt>c.</dt>
+<dd>fiskveiðar;</dd>
+<dt>d.</dt>
+<dd>siglingar og verslun;</dd>
+<dt>e.</dt>
+<dd>bankar, sparisjóðir og aðrar allsherjar lánsstofnanir.</dd>
 </dl>
 </dd>
-<dt></dt>
-<dd>4. Efnahagur landsmanna:
+<dt>4.</dt>
+<dd>Efnahagur landsmanna:
 <dl>
-<dt></dt>
-<dd>a. tekjur af eign og atvinnu;</dd>
-<dt></dt>
-<dd>b. virðingarverð jarðeigna og þinglesnar veðskuldir á þeim;</dd>
-<dt></dt>
-<dd>c. virðingarverð húseigna með lóðum og veðskuldir á þeim eignum;</dd>
-<dt></dt>
-<dd>d. verðmæti skipa og báta og veðskuldir, er á hvíla.</dd>
+<dt>a.</dt>
+<dd>tekjur af eign og atvinnu;</dd>
+<dt>b.</dt>
+<dd>virðingarverð jarðeigna og þinglesnar veðskuldir á þeim;</dd>
+<dt>c.</dt>
+<dd>virðingarverð húseigna með lóðum og veðskuldir á þeim eignum;</dd>
+<dt>d.</dt>
+<dd>verðmæti skipa og báta og veðskuldir, er á hvíla.</dd>
 </dl>
 </dd>
-<dt></dt>
-<dd>5. Stjórnmál:
+<dt>5.</dt>
+<dd>Stjórnmál:
 <dl>
-<dt></dt>
-<dd>a. notkun kosningarréttar;</dd>
-<dt></dt>
-<dd>b. starfsmenn þjóðfélagsins.</dd>
+<dt>a.</dt>
+<dd>notkun kosningarréttar;</dd>
+<dt>b.</dt>
+<dd>starfsmenn þjóðfélagsins.</dd>
 </dl>
 </dd>
-<dt></dt>
-<dd>6. Fjárhagur landsins, sýslufélaga og sveitarfélaga, gjafasjóðir og styrktarsjóðir.</dd>
-<dt></dt>
-<dd>7. Þjóðareignir til almenningsnytja:
+<dt>6.</dt>
+<dd>Fjárhagur landsins, sýslufélaga og sveitarfélaga, gjafasjóðir og styrktarsjóðir.</dd>
+<dt>7.</dt>
+<dd>Þjóðareignir til almenningsnytja:
 <dl>
-<dt></dt>
-<dd>a. vegir og brýr;</dd>
-<dt></dt>
-<dd>b. ritsímar og talsímar;</dd>
-<dt></dt>
-<dd>c. póstflutningar.</dd>
+<dt>a.</dt>
+<dd>vegir og brýr;</dd>
+<dt>b.</dt>
+<dd>ritsímar og talsímar;</dd>
+<dt>c.</dt>
+<dd>póstflutningar.</dd>
 </dl>
 </dd>
-<dt></dt>
-<dd>8. Fræðslumál:
+<dt>8.</dt>
+<dd>Fræðslumál:
 <dl>
-<dt></dt>
-<dd>a. barnafræðsla;</dd>
-<dt></dt>
-<dd>b. unglingaskólar og aðrir alþýðuskólar.</dd>
+<dt>a.</dt>
+<dd>barnafræðsla;</dd>
+<dt>b.</dt>
+<dd>unglingaskólar og aðrir alþýðuskólar.</dd>
 </dl>
 </dd>
-<dt></dt>
-<dd>9. Tryggingarstarfsemi:
+<dt>9.</dt>
+<dd>Tryggingarstarfsemi:
 <dl>
-<dt></dt>
-<dd>a. líftrygging;</dd>
-<dt></dt>
-<dd>b. heilsutrygging;</dd>
-<dt></dt>
-<dd>c. eignatrygging.</dd>
+<dt>a.</dt>
+<dd>líftrygging;</dd>
+<dt>b.</dt>
+<dd>heilsutrygging;</dd>
+<dt>c.</dt>
+<dd>eignatrygging.</dd>
 </dl>
 </dd>
 </dl>
 
 
-         Auk skýrslna um framangreind atriði vinnur hagstofan að skýrslum, er hér eftir kunna að verða lögboðnar eða fyrirskipaðar af landsstjórninni, eða hagstofan sjálf óskar eftir í samráði við hlutaðeigandi stjórnarvöld.
+      Auk skýrslna um framangreind atriði vinnur hagstofan að skýrslum, er hér eftir kunna að verða lögboðnar eða fyrirskipaðar af landsstjórninni, eða hagstofan sjálf óskar eftir í samráði við hlutaðeigandi stjórnarvöld.
 
 
 _[^1)^]"L. 91/1991, 160. gr.":1991091.html#g160_
 
-*3. gr.*
-
-        Hagstofan á að aðstoða landsstjórnina með hagfræðis útreikningum og skýringum, er hún óskar eftir, og gefa henni álit og yfirlýsingar, þegar þess er leitað.
-         Landshagsskýrslur skulu koma út svo fljótt sem unnt er, jafnóðum og þær eru tilbúnar frá hendi hagstofunnar.
-         Árlega skal gefa út stuttan útdrátt úr helstu landshagsskýrslum síðasta árs, með þýðingum á eitthvert hinna þriggja aðalmenntamála.
 
 
 
+3. gr.
 
-*4. gr.*
-
-        Öll þau störf viðvíkjandi söfnun og móttöku landshagsskýrslna, sem samkvæmt gildandi lögum, reglugerðum o.fl. nú hvíla á stjórnarráði Íslands, hefur hagstofan á hendi eftirleiðis.
-         Heimilt er hagstofunni að fyrirskipa, að skýrslur, sem hingað til hafa verið sendar frá hreppstjórnarvöldum eða einstökum mönnum til sýslumanns, séu sendar beint til hagstofunnar, og getur hún endursent til leiðréttingar skýrslur, er henni þykja ófullnægjandi, heimtað frekari upplýsingar, með þeim viðurlögum, sem lög greina um vanrækslu í því, að inna af hendi lögmæt skýrsluskil.
-
-
+     Hagstofan á að aðstoða landsstjórnina með hagfræðis útreikningum og skýringum, er hún óskar eftir, og gefa henni álit og yfirlýsingar, þegar þess er leitað.
+      Landshagsskýrslur skulu koma út svo fljótt sem unnt er, jafnóðum og þær eru tilbúnar frá hendi hagstofunnar.
+      Árlega skal gefa út stuttan útdrátt úr helstu landshagsskýrslum síðasta árs, með þýðingum á eitthvert hinna þriggja aðalmenntamála.
 
 
-*5. gr.*
 
-        [Hagstofunni stýrir hagstofustjóri skipaður af ráðherra til fimm ára í senn.][^1)^]
+4. gr.
+
+     Öll þau störf viðvíkjandi söfnun og móttöku landshagsskýrslna, sem samkvæmt gildandi lögum, reglugerðum o.fl. nú hvíla á stjórnarráði Íslands, hefur hagstofan á hendi eftirleiðis.
+      Heimilt er hagstofunni að fyrirskipa, að skýrslur, sem hingað til hafa verið sendar frá hreppstjórnarvöldum eða einstökum mönnum til sýslumanns, séu sendar beint til hagstofunnar, og getur hún endursent til leiðréttingar skýrslur, er henni þykja ófullnægjandi, heimtað frekari upplýsingar, með þeim viðurlögum, sem lög greina um vanrækslu í því, að inna af hendi lögmæt skýrsluskil.
 
 
-_[^1)^]"L. 83/1997, 52. gr.":ekkitil/ekkitil.html?1997083#g52_
 
-*6. gr.*
+5. gr.
 
-        Laun starfsmanna og árskostnaður til húsaleigu, ljóss og ræstingar, svo og til aukavinnu, prentunarkostnaðar og venjulegs skrifstofukostnaðar veitist á fjárlögunum fyrir hvert ár.
+     [Hagstofunni stýrir hagstofustjóri skipaður af ráðherra til fimm ára í senn.][^1)^]
 
+
+_[^1)^]"L. 83/1997, 52. gr.":/altext/stjt/1997.083.html_
+
+
+
+
+6. gr.
+
+     Laun starfsmanna og árskostnaður til húsaleigu, ljóss og ræstingar, svo og til aukavinnu, prentunarkostnaðar og venjulegs skrifstofukostnaðar veitist á fjárlögunum fyrir hvert ár.
 
 
 
