@@ -6,7 +6,7 @@ h2. Sóttvarnalög
 
 <hr />
 
-*Tóku gildi 1. janúar 1998.* Breytt með "l. 90/2000":/altext/stjt/2000.090.html (tóku gildi 1. sept. 2000), l. 74//2002 (tóku gildi 17. maí 2002) og "l. 93/2002":/altext/stjt/2002.093.html (tóku gildi 31. maí 2002).
+*Tóku gildi 1. janúar 1998.* Breytt með "l. 90/2000":/altext/stjt/2000.090.html (tóku gildi 1. sept. 2000), l. 74//2002 (tóku gildi 17. maí 2002), "l. 93/2002":/altext/stjt/2002.093.html (tóku gildi 31. maí 2002) og "l. 164/2002":/altext/stjt/2002.164.html (tóku gildi 1. jan. 2003).
 
 
  *I. kafli.* *Skilgreiningar.*
@@ -25,9 +25,9 @@ h2. Sóttvarnalög
  ■ *4. gr.* Embætti landlæknis ber ábyrgð á framkvæmd sóttvarna undir yfirstjórn heilbrigðisráðherra.
  □ [Við embætti landlæknis skal starfa sóttvarnalæknir sem ber ábyrgð á sóttvörnum. Sóttvarnalæknir skal hafa þekkingu á smitsjúkdómum og faraldsfræði þeirra.][^1)^]
  □ Sóttvarnalæknir skal í starfi sínu hafa samvinnu við [yfirlækna heilsugæslu],[^2)^] aðra starfsmenn og stofnanir heilbrigðisþjónustunnar, heilbrigðisnefndir og yfirdýralækni eftir því sem við á.
- □ [Ráðherra ákveður með reglugerð hvaða yfirlæknar heilsugæslu skulu vera ábyrgir fyrir sóttvörnum undir stjórn sóttvarnalæknis.][^2)^]
+ □ [Ráðherra ákveður með reglugerð[^3)^] hvaða yfirlæknar heilsugæslu skulu vera ábyrgir fyrir sóttvörnum undir stjórn sóttvarnalæknis.][^2)^]
  □ [Yfirlæknar heilsugæslu, sbr. 4. mgr.],[^2)^] og sóttvarnalæknir skulu hafa samstarf um framkvæmd nauðsynlegra sóttvarna og njóta aðstoðar lögregluyfirvalda ef með þarf.
-    _[^1)^]_"L. 90/2000, 1. gr.":/altext/stjt/2000.090.html [^2)^]"L. 93/2002, 15. gr.":/altext/stjt/2002.093.html
+    _[^1)^]_"L. 90/2000, 1. gr.":/altext/stjt/2000.090.html [^2)^]"L. 93/2002, 15. gr.":/altext/stjt/2002.093.html [^3)^]"Rg. 451/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/451-2002.
  ■ *5. gr.* Verksvið sóttvarnalæknis er aðallega eftirfarandi:
     1. Að skipuleggja og samræma sóttvarnir og ónæmisaðgerðir um land allt, m.a. með útgáfu leiðbeininga um viðbrögð við farsóttum.
     2. Að halda smitsjúkdómaskrá til að fylgjast með útbreiðslu smitsjúkdóma með öflun nákvæmra upplýsinga um greiningu þeirra frá rannsóknastofum, sjúkrahúsum og læknum.
@@ -35,13 +35,14 @@ h2. Sóttvarnalög
     4. Að vera læknum og öðrum, sem við sóttvarnir fást, til ráðgjafar.
     5. Að hafa umsjón með forvörnum gegn smitsjúkdómum, m.a. upplýsingum og fræðslu til almennings um þessi efni.
 ■ *6. gr.* Ráðherra skal skipa sjö manna ráð, sóttvarnaráð, til fjögurra ára í senn. Þar skulu eiga sæti sérfræðingar á sviði smitsjúkdómalækninga, bakteríufræði, veirufræði, kynsjúkdóma og faraldsfræði/heilbrigðisfræði, heilsugæslulæknir og hjúkrunarfræðingur með sérþekkingu á sviði sóttvarna. Ráðherra skipar formann úr hópi ráðsmanna. Varamenn skulu skipaðir með sama hætti.
- □ Þegar fjallað er um mál í sóttvarnaráði, sem tengjast starfssviði Hollustuverndar ríkisins eða embættis yfirdýralæknis, skulu fulltrúar þeirra stofnana sitja fundi ráðsins, eftir því sem við á, með málfrelsi og tillögurétti.
+ □ Þegar fjallað er um mál í sóttvarnaráði, sem tengjast starfssviði [Umhverfisstofnunar][^1)^] eða embættis yfirdýralæknis, skulu fulltrúar þeirra stofnana sitja fundi ráðsins, eftir því sem við á, með málfrelsi og tillögurétti.
  □ Sóttvarnaráð mótar stefnu í sóttvörnum og skal vera heilbrigðisyfirvöldum til ráðgjafar um aðgerðir til varnar útbreiðslu smitsjúkdóma.
  □ Ráðið skal hafa aðsetur hjá embætti landlæknis og skal sóttvarnalæknir vera ritari þess.
+    _[^1)^]_"L. 164/2002, 26. gr.":/altext/stjt/2002.164.html
 
  *III. kafli.* *Almennar sóttvarnaráðstafanir.*
  _1. Skyldur einstaklinga._
-■ *7. gr.* Það er almenn skylda að gjalda sem mesta varúð við smitsjúkdómum og gera sér allt far um að sýkja hvorki sjálfan sig né aðra, að svo miklu leyti sem framkvæmanlegt er.
+ ■ *7. gr.* Það er almenn skylda að gjalda sem mesta varúð við smitsjúkdómum og gera sér allt far um að sýkja hvorki sjálfan sig né aðra, að svo miklu leyti sem framkvæmanlegt er.
  □ Hver sá sem hefur ástæðu til að halda að hann hafi smitast af smitsjúkdómi sem ógnað geti öðrum mönnum er skyldur að leita læknis án tafar. Leiði læknisrannsókn í ljós að um slíkan sjúkdóm sé að ræða er viðkomandi skyldur að fylgja fyrirmælum læknis um meðferð og ráðstafanir til að fyrirbyggja smitun.
  □ Ef læknir telur mikilvægt að rekja smit til að hefta frekari útbreiðslu þess ber sjúklingi skylda til að veita nauðsynlegar upplýsingar um það af hverjum hann gæti hafa smitast, svo og hverja hann kann að hafa smitað. Komi læknirinn því ekki við ber honum að vísa sjúklingi til stofnunar sem aðstöðu hefur til að rekja smit. Skylt er hlutaðeigendum að hlýða fyrirmælum læknis um nauðsynlegar rannsóknir til varnar útbreiðslu smits frá sjúklingi.
  _2. Skyldur lækna og annarra heilbrigðisstarfsmanna._
@@ -54,8 +55,8 @@ h2. Sóttvarnalög
     _[^1)^]_"L. 93/2002, 17. gr.":/altext/stjt/2002.093.html
  _3. Skyldur heilbrigðisfulltrúa og heilbrigðisnefnda og dýralækna._
  ■ *11. gr.* Heilbrigðisfulltrúar og formenn heilbrigðisnefnda, samkvæmt lögum um hollustuhætti og heilbrigðiseftirlit, og dýralæknar skulu tilkynna viðkomandi [yfirlækni heilsugæslu, sbr. 4. mgr. 4. gr.],[^1)^] eða sóttvarnalækni jafnskjótt og þeir hafa orðið varir við hugsanlega smithættu. [Yfirlæknir heilsugæslu, sbr. 4. mgr. 4. gr.],[^1)^] eða sóttvarnalæknir skal á sama hátt tilkynna viðkomandi heilbrigðisnefnd eða dýralækni, eftir því sem við á, strax og þeim verður kunnugt um smithættu. Sóttvarnalæknir skal gefa heilbrigðisnefndum nauðsynlegar upplýsingar og ráð og hafa eftirlit með því að til viðeigandi ráðstafana sé gripið.
- □ [Telji sóttvarnalæknir hættu á að dýr, matvæli, starfsemi, vatn, skolplagnir, loftræsting eða annað í umhverfinu dreifi eða geti dreift smitnæmum sjúkdómsvöldum sem ógna heilsu manna skal ráðherra skipa sérstaka samstarfsnefnd til að afla nauðsynlegra gagna og hafa yfirumsjón með nauðsynlegum aðgerðum til að meta og uppræta smithættu. Samstarfsnefndin skal skipuð þremur mönnum, sóttvarnalækni, sem jafnframt er formaður, einum tilnefndum af Hollustuvernd ríkisins og öðrum tilnefndum af yfirdýralækni. Varamenn skulu skipaðir á sama hátt. Nefndinni er heimill aðgangur að nauðsynlegum gögnum og öllum stöðum sem hún telur nauðsynlegt að skoða og getur fengið til þess aðstoð lögreglu ef með þarf. Nefndin skal gefa öllum þeim sem hafa eftirlit með dýrum, matvælum og umhverfi fyrirmæli um að grípa án tafar til allra nauðsynlegra aðgerða til að uppræta smithættu. Að öðru leyti skal framkvæmd vera í samræmi við lög þessi og, eftir því sem við á, sérlög um einstaka eftirlitsaðila.][^2)^]
-    _[^1)^]_"L. 93/2002, 18. gr.":/altext/stjt/2002.093.html [^2)^]"L. 90/2000, 2. gr.":/altext/stjt/2000.090.html
+ □ [Telji sóttvarnalæknir hættu á að dýr, matvæli, starfsemi, vatn, skolplagnir, loftræsting eða annað í umhverfinu dreifi eða geti dreift smitnæmum sjúkdómsvöldum sem ógna heilsu manna skal ráðherra skipa sérstaka samstarfsnefnd til að afla nauðsynlegra gagna og hafa yfirumsjón með nauðsynlegum aðgerðum til að meta og uppræta smithættu. Samstarfsnefndin skal skipuð þremur mönnum, sóttvarnalækni, sem jafnframt er formaður, einum tilnefndum af [Umhverfisstofnun][^2)^] og öðrum tilnefndum af yfirdýralækni. Varamenn skulu skipaðir á sama hátt. Nefndinni er heimill aðgangur að nauðsynlegum gögnum og öllum stöðum sem hún telur nauðsynlegt að skoða og getur fengið til þess aðstoð lögreglu ef með þarf. Nefndin skal gefa öllum þeim sem hafa eftirlit með dýrum, matvælum og umhverfi fyrirmæli um að grípa án tafar til allra nauðsynlegra aðgerða til að uppræta smithættu. Að öðru leyti skal framkvæmd vera í samræmi við lög þessi og, eftir því sem við á, sérlög um einstaka eftirlitsaðila.][^3)^]
+    _[^1)^]_"L. 93/2002, 18. gr.":/altext/stjt/2002.093.html [^2)^]"L. 164/2002, 26. gr.":/altext/stjt/2002.164.html [^3)^]"L. 90/2000, 2. gr.":/altext/stjt/2000.090.html
 
  *IV. kafli.* *Opinberar sóttvarnaráðstafanir.*
  _1. Sóttvarnaráðstafanir vegna hættu á farsóttum innan lands._

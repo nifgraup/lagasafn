@@ -6,7 +6,7 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
 
 <hr />
 
-*Tóku gildi 1. janúar 2000.* Breytt með "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002).
+*Tóku gildi 1. janúar 2000.* Breytt með "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002) og "l. 139/2002":/altext/stjt/2002.139.html (tóku gildi 30. des. 2002).
 
 
  *I. kafli.* *Markmið og skipulag.*
@@ -48,10 +48,10 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
 ■ *8. gr.* _Afturköllun leyfis._
  □ Nú uppfyllir aðildarfyrirtæki ekki skyldur sínar gagnvart sjóðnum samkvæmt lögum þessum og reglugerð og skal þá stjórn hans tilkynna það ráðherra og Fjármálaeftirlitinu án tafar. Ráðherra veitir hlutaðeigandi aðildarfyrirtæki þá allt að þriggja mánaða frest til úrbóta að fengnu áliti Fjármálaeftirlitsins. Hafi aðildarfyrirtækið ekki uppfyllt skyldur sínar að þeim fresti liðnum getur stjórn sjóðsins, að fengnu áliti Fjármálaeftirlitsins, lagt dagsektir á fyrirtækið. Greiðast þær þangað til aðildarfyrirtækið hefur uppfyllt skyldur sínar gagnvart sjóðnum. Sektirnar geta numið 50 - 500 þús. kr. á dag.
  □ Hafi aðildarfyrirtæki ekki uppfyllt skyldur sínar gagnvart sjóðnum innan eins mánaðar frá álagningu dagsekta getur ráðherra tilkynnt því að hann hyggist afturkalla starfsleyfi þess hafi fyrirtækið ekki uppfyllt skyldur sínar að tólf mánuðum liðnum.
- □ Nú rennur frestur skv. 2. mgr. út án þess að hlutaðeigandi aðildarfyrirtæki hafi uppfyllt skyldur sínar gagnvart sjóðnum og getur þá ráðherra afturkallað starfsleyfi þess að fengnu áliti Fjármálaeftirlitsins. Skuldbindingar sem stofnað er til áður en frestur skv. 1. og 2. mgr. rennur út skulu njóta tryggingaverndar í samræmi við ákvæði III. kafla.
- □ Nú rennur frestur skv. 1. og 2. mgr. út þegar um er að ræða útibú aðildarfyrirtækis með staðfestu í öðru ríki innan Evrópska efnahagssvæðisins [eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] og getur stjórn sjóðsins þá tilkynnt útibúinu að hún hyggist útiloka það frá sjóðnum hafi það ekki uppfyllt skyldur sínar að tólf mánuðum liðnum. Ef frestur skv. 1. málsl. rennur út án þess að útibúið hafi uppfyllt skyldur sínar getur sjóðurinn útilokað það frá aðild að sjóðnum að fengnu áliti Fjármálaeftirlitsins. Skuldbindingar sem stofnað er til áður en frestur samkvæmt þessari málsgrein rennur út skulu njóta tryggingaverndar í samræmi við ákvæði III. kafla.
+ □ Nú rennur frestur skv. 2. mgr. út án þess að hlutaðeigandi aðildarfyrirtæki hafi uppfyllt skyldur sínar gagnvart sjóðnum og getur þá ráðherra afturkallað starfsleyfi þess að fengnu áliti Fjármálaeftirlitsins. [Skuldbindingar sem stofnað er til áður en leyfi er afturkallað skulu njóta tryggingaverndar í samræmi við ákvæði III. kafla.][^1)^]
+ □ Nú rennur frestur skv. 1. og 2. mgr. út þegar um er að ræða útibú aðildarfyrirtækis með staðfestu í öðru ríki innan Evrópska efnahagssvæðisins [eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^2)^] og getur stjórn sjóðsins þá tilkynnt útibúinu að hún hyggist útiloka það frá sjóðnum hafi það ekki uppfyllt skyldur sínar að tólf mánuðum liðnum. Ef frestur skv. 1. málsl. rennur út án þess að útibúið hafi uppfyllt skyldur sínar getur sjóðurinn útilokað það frá aðild að sjóðnum að fengnu áliti Fjármálaeftirlitsins. [Skuldbindingar sem stofnað er til áður en útibú er útilokað frá aðild að sjóðnum skulu njóta tryggingaverndar í samræmi við ákvæði III. kafla.][^1)^]
  □ Ákvæði 1. - 3. mgr. eiga einnig við um útibú aðildarfyrirtækja með staðfestu í ríki utan Evrópska efnahagssvæðisins.
-    _[^1)^]_"L. 76/2002, 90. gr.":/altext/stjt/2002.076.html
+    _[^1)^]_"L. 139/2002, 1. gr.":/altext/stjt/2002.139.html [^2)^]"L. 76/2002, 90. gr.":/altext/stjt/2002.076.html
 
  *III. kafli.* *Greiðslur úr sjóðnum.*
  ■ *9. gr.* _Greiðslur úr sjóðnum._
@@ -91,7 +91,7 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
  □ Sjóðurinn verður hvorki tekinn til gjaldþrotaskipta né er heimilt að gera aðför í eignum hans.
 ■ *18. gr.* _Reglugerð._
  □ Ráðherra setur í reglugerð[^1)^] nánari ákvæði um starfsemi sjóðsins, m.a. um tilhögun á greiðslum úr sjóðnum, tryggingu á innstæðu, verðbréfum eða reiðufé þegar um sameiginlegan reikning er að ræða eða þegar viðskiptavinur aðildarfyrirtækis á ekki ótvíræðan rétt til innstæðu, verðbréfa og reiðufjár og um ávöxtun á eignum sjóðsins.
-    _[^1)^]_"Rg. 120/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/120-2000.
+    _[^1)^]_"Rg. 120/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/120-2000, sbr. "864/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/864-2002.
 
  *VI. kafli.* *Öryggissjóðir.*
  ■ *19. gr.* Viðskiptabönkum annars vegar og sparisjóðum hins vegar, með staðfestu hér á landi, er heimilt að stofna sjálfseignarstofnanir, öryggissjóði, sem allir viðskiptabankar eða allir sparisjóðir skulu vera aðilar að í því skyni að tryggja hagsmuni viðskiptamanna og fjárhagslegt öryggi viðskiptabanka eða sparisjóða.

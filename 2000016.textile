@@ -34,10 +34,9 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
     f. peningaseðla með skráðum númerum.
 ■ *6. gr.* Heimilt er að skrá upplýsingar um einstaklinga í upplýsingakerfið í eftirfarandi tilvikum:
     a. vegna beiðni um að eftirlýstur maður verði handtekinn og framseldur,
-    b.[^1)^] þegar meina á útlendingi landgöngu vegna þess að:
-    1. hann hefur verið dæmdur hér á landi eða erlendis í fangelsi í a.m.k. eitt ár eða ætla má af öðrum ástæðum að hann muni fremja refsiverðan verknað á Schengen-svæðinu eða
-    2. ætla má af fyrri hegðun hans eða öðrum ástæðum að tilgangur hans með komu hingað til lands eða á Schengen-svæðið sé að fremja skemmdarverk, stunda njósnir eða ólöglega upplýsingastarfsemi eða
-    3. honum hefur verið vísað héðan úr landi og í gildi er bann gegn endurkomu hans til landsins,
+    b. [þegar synja á útlendingi um komu til landsins vegna endurkomubanns sem enn er í gildi á grundvelli brottvísunar:
+    1. skv. a-lið 1. mgr. 20. gr. laga um útlendinga,
+    2. skv. b-, c- eða d-lið 1. mgr. 20. gr. laga um útlendinga og ákvörðunin er reist á því að dvöl hlutaðeigandi í landinu geti stofnað allsherjarreglu, almannaöryggi eða öryggi ríkisins í hættu],[^1)^]
     c. vegna leitar að horfnum manni eða þegar taka á mann í gæslu tímabundið vegna eigin öryggis eða annarra,
     d. vegna eftirgrennslanar um búsetu eða dvalarstað vitnis, sakbornings sem hefur verið ákærður og koma þarf fyrir dóm eða manns sem birta á dóm í opinberu máli eða boða til afplánunar fangelsisrefsingar.
  □ Þegar upplýsingar skv. a-lið 1. mgr. hafa verið skráðar skulu eftirfarandi upplýsingar sendar því ríki sem beiðni er beint til svo fljótt sem verða má:
@@ -46,7 +45,7 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
     c. hvers konar brot um er að ræða og vísun til viðeigandi refsiákvæða,
     d. málsatvik, þar með talið hvar og hvenær brot var framið og þáttur hins eftirlýsta í því,
     e. eftir því sem mögulegt er, hverjar eru afleiðingar brots.
-    _[^1)^]B-lið 1. mgr. hefur verið breytt með_ "59. gr. l. 96/2002":2002096.html#g59 og tekur sú breyting gildi 1. jan. 2003, skv. sömu grein.
+    _[^1)^]_"L. 96/2002, 59. gr.":2002096.html#g59
  ■ *7. gr.* Heimilt er að skrá upplýsingar um einstaklinga og ökutæki í upplýsingakerfið til að fram fari eftirlit með leynd, leit, líkamsleit eða líkamsrannsókn í eftirfarandi tilvikum:
     a. vegna rannsóknar og meðferðar opinbers máls og til að tryggja almannaöryggi þegar:
     1. rökstuddur grunur leikur á að maður fremji eða muni fremja fjölda mjög alvarlegra brota,
@@ -60,9 +59,9 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
     c. til að koma í veg fyrir alvarleg afbrot.
 ■ *10. gr.* Eftirtalin stjórnvöld skulu vera beinlínutengd við upplýsingakerfið til að sinna þessum verkefnum:
     a. lögreglan við landamæraeftirlit og aðra löggæslu,
-    b. Útlendingaeftirlitið[^1)^] við afgreiðslu umsókna um vegabréfsáritun, landgöngu- eða dvalarleyfi og til að sinna öðrum skyldum samkvæmt lögum um eftirlit með útlendingum að því marki sem nauðsynlegt er til að bregðast við upplýsingum sem skráðar eru á grundvelli b-liðar 1. mgr. 6. gr.
+    b. [Útlendingastofnun][^1)^] við afgreiðslu umsókna um vegabréfsáritun, landgöngu- eða dvalarleyfi og til að sinna öðrum skyldum samkvæmt lögum um eftirlit með útlendingum að því marki sem nauðsynlegt er til að bregðast við upplýsingum sem skráðar eru á grundvelli b-liðar 1. mgr. 6. gr.
  □ Til að starfa við upplýsingakerfið verður viðkomandi starfsmaður að fá sérstaka heimild ríkislögreglustjóra, enda fullnægi hann settum hæfis- og öryggiskröfum. Viðkomandi starfsmaður skal einungis hafa þann aðgang að kerfinu sem honum er nauðsynlegur til að gegna starfi sínu.
-    _[^1)^]Frá 1. jan. 2003, Útlendingastofnun, sbr._ "59. gr. l. 96/2002":2002096.html#g59.
+    _[^1)^]_"L. 96/2002, 59. gr.":2002096.html#g59
  ■ *11. gr.* Eftirtalin stjórnvöld skulu eftir beiðni hafa aðgang að upplýsingum úr upplýsingakerfinu að því marki sem þeim er nauðsynlegt til að sinna þessum verkefnum:
     a. tollgæslan við eftirlit á landamærum og þegar hún annast eða aðstoðar við löggæslu,
     b. Landhelgisgæslan þegar hún annast eða aðstoðar við löggæslu,
@@ -92,9 +91,9 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
     _[^1)^]_"L. 77/2000, 46. gr.":2000077.html#g46
  ■ *19. gr.* Ráðherra setur nánari ákvæði í reglugerð[^1)^] um framkvæmd laganna, þar með talið um:
     a. öryggisþætti upplýsingakerfisins og innra eftirlit með því, sbr. 3. gr.,
-    b. hæfis- og öryggiskröfur sem starfsmenn lögreglu eða Útlendingaeftirlits[^2)^] verða að fullnægja til að starfa við upplýsingakerfið, sbr. 2. mgr. 10. gr.,
+    b. hæfis- og öryggiskröfur sem starfsmenn lögreglu eða [Útlendingastofnunar][^2)^] verða að fullnægja til að starfa við upplýsingakerfið, sbr. 2. mgr. 10. gr.,
     c. eftirlit [Persónuverndar][^3)^] með upplýsingakerfinu, sbr. 18. gr.
-    _[^1)^]_"Rg. 112/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-2001. [^2)^]Frá 1. jan. 2003, Útlendingastofnun, sbr. "59. gr. l. 96/2002":2002096.html#g59. [^3)^]"L. 77/2000, 46. gr.":2000077.html#g46
+    _[^1)^]_"Rg. 112/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-2001. [^2)^]"L. 96/2002, 59. gr.":2002096.html#g59 [^3)^]"L. 77/2000, 46. gr.":2000077.html#g46
  ■ *20. gr.* Lög þessi öðlast þegar gildi.
 
 

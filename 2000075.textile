@@ -6,6 +6,8 @@ h2. Lög um brunavarnir
 
 <hr />
 
+Breytt með "l. 164/2002":/altext/stjt/2002.164.html (tóku gildi 1. jan. 2003).
+
 
  *I. kafli.* *Markmið, gildissvið og skilgreiningar.*
  ■ *1. gr.* _Markmið._
@@ -59,8 +61,9 @@ h2. Lög um brunavarnir
 ■ *11. gr.* _Starfsemi slökkviliðs._
  □ Sveitarfélagi er skylt að sjá um að starfsemi slökkviliðs fullnægi kröfum samkvæmt lögum þessum og reglugerðum settum á grundvelli þeirra.
  □ Sveitarfélögum ber að sjá um að nægilegt vatn og vatnsþrýstingur sé fyrir hendi til slökkvistarfs og fyrir sérstakan slökkvibúnað þar sem hans er krafist, t.d. úðakerfi í meiri háttar byggingum. Í sveitarfélagi þar sem vatnsöflun er erfið skal leita annarra lausna til að tryggja nauðsynlegar brunavarnir.
- □ Í reglugerð skal kveða á um lágmarkskröfur varðandi tækjakost, húsnæði og mannafla slökkviliða, svo og vatnsöflun til slökkvistarfa. Jafnframt skal í reglugerð kveða á um búnað og þjálfun slökkviliðsmanna vegna mengunaróhappa á landi að fengnum tillögum Brunamálastofnunar í samráði við Hollustuvernd ríkisins.
-■ *12. gr.* _Eldvarnaeftirlit sveitarfélaga._
+ □ Í reglugerð skal kveða á um lágmarkskröfur varðandi tækjakost, húsnæði og mannafla slökkviliða, svo og vatnsöflun til slökkvistarfa. Jafnframt skal í reglugerð kveða á um búnað og þjálfun slökkviliðsmanna vegna mengunaróhappa á landi að fengnum tillögum Brunamálastofnunar í samráði við [Umhverfisstofnun].[^1)^]
+    _[^1)^]_"L. 164/2002, 1. gr.":/altext/stjt/2002.164.html
+ ■ *12. gr.* _Eldvarnaeftirlit sveitarfélaga._
  □ Eldvarnaeftirlit sveitarfélaga er sú starfsemi slökkviliðs sem hefur eftirlit með því að framfylgt sé ákvæðum laga og reglna um brunavarnir. Hlutverk eldvarnaeftirlits sveitarfélaga er að:
     a. hafa í samvinnu við byggingarfulltrúa eftirlit með því að nýbyggingar fullnægi kröfum samkvæmt lögum og reglugerðum um brunavarnir áður en notkun þeirra er heimiluð,
     b. gera úttekt á mannvirkjum í notkun og gera kröfur um nauðsynlegar úrbætur á brunavörnum til að vernda líf, heilsu fólks, umhverfi og eignir,

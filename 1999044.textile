@@ -6,7 +6,7 @@ h2. Lög um náttúruvernd
 
 <hr />
 
-*Tóku gildi 1. júlí 1999.* Breytt með "l. 140/2001":/altext/stjt/2001.140.html (tóku gildi 31. des. 2001) og "l. 90/2002":2002090.html (taka gildi 1. jan. 2003).
+*Tóku gildi 1. júlí 1999.* Breytt með "l. 140/2001":/altext/stjt/2001.140.html (tóku gildi 31. des. 2001), "l. 90/2002":2002090.html (tóku gildi 1. jan. 2003) og "l. 164/2002":/altext/stjt/2002.164.html (tóku gildi 1. jan. 2003).
 
 
  *I. kafli.* *Markmið, gildissvið og skilgreiningar.*
@@ -41,9 +41,10 @@ h2. Lög um náttúruvernd
  □ Umhverfisráðherra fer með yfirstjórn náttúruverndarmála.
  □ Við mótun stefnu í náttúruvernd og framkvæmdir og fræðslu á því sviði skal ráðherra hafa samráð við hlutaðeigandi aðila, stofnanir og félagasamtök eftir því sem við á hverju sinni.
 ■ *5. gr.* ...[^1)^]
-    _[^1)^]_"L. 90/2002, 4. gr.":2002090.html#g4 Breytingin tekur gildi 1. jan. 2003, sbr. "3. gr. s.l.":2002090.html
- ■ *6. gr.* _Hlutverk Náttúruverndar ríkisins._
- □ Hlutverk Náttúruverndar ríkisins er:
+    _[^1)^]_"L. 90/2002, 4. gr.":2002090.html#g4
+ ■ *6. gr.* _Hlutverk [Umhverfisstofnunar].[^1)^]_
+ □ [Umhverfisstofnun hefur eftirlit með framkvæmd laga þessara og er ráðherra til ráðgjafar.][^2)^]
+ □ Hlutverk [Umhverfisstofnunar][^1)^] er:
     a. umsjón, rekstur og eftirlit með náttúruverndarsvæðum í samræmi við lög,
     b. eftirlit með því að náttúru landsins sé ekki spillt með athöfnum, framkvæmdum eða rekstri, að svo miklu leyti sem slíkt eftirlit er ekki falið öðrum með sérstökum lögum; umhverfisráðherra skal, að höfðu samráði við aðrar stofnanir og aðila sem fara með eftirlit samkvæmt sérstökum lögum, setja í reglugerð nánari ákvæði um eftirlit stofnunarinnar,
     c. eftirlit með umferð og umgengni á svæðum í óbyggðum í samvinnu við önnur stjórnvöld,
@@ -57,11 +58,13 @@ h2. Lög um náttúruvernd
     k. undirbúningur og öflun gagna vegna náttúruverndaráætlunar, sbr. 65. gr., og skráningar náttúruminja og útgáfu náttúruminjaskrár, sbr. 67. gr.,
     l. veiting leyfa samkvæmt lögum þessum,
     m. önnur störf að náttúruvernd samkvæmt lögum eða ákvörðun ráðherra.
-■ *7. gr.* _Framkvæmd eftirlits._
- □ Náttúruvernd ríkisins er heimilt að fela náttúrustofum, náttúruverndarnefndum, sbr. 11. gr., einstaklingum og lögaðilum að annast almennt eftirlit með náttúru landsins. Um slíkt skal gera samning sem umhverfisráðherra staðfestir. Í samningnum skal m.a. kveðið á um greiðslur fyrir eftirlitið, menntun eftirlitsmanna, skýrslugerð og annað sem máli skiptir.
- □ Telji Náttúruvernd ríkisins nauðsynlegt að haldið verði uppi sérstöku eftirliti með framkvæmdum skal gera um það samkomulag við framkvæmdaraðila. Í samkomulaginu skal taka mið af innra eftirliti hans og eftirliti annarra opinberra aðila. Þar skulu kostnaðarliðir áætlaðir eins og mögulegt er hverju sinni og ber framkvæmdaraðila að endurgreiða Náttúruvernd ríkisins útlagðan kostnað við eftirlitið. Rísi ágreiningur milli aðila um efni samkomulagsins eða greiðslur fyrir eftirlitið sker ráðherra úr.
- □ Að fengnum tillögum Náttúruverndar ríkisins setur ráðherra gjaldskrá um kostnað við eftirlit með framkvæmdum. Þar skal m.a. kveðið á um umfang opinbers eftirlits og ákvörðun eftirlitsgjalda sem taka mið af innra eftirliti þeirra fyrirtækja sem eftirlitið beinist að.
-■ *8. gr.* ...[^1)^]
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html [^2)^]"L. 164/2002, 23. gr.":/altext/stjt/2002.164.html
+ ■ *7. gr.* _Framkvæmd eftirlits._
+ □ [Umhverfisstofnun][^1)^] er heimilt að fela náttúrustofum, náttúruverndarnefndum, sbr. 11. gr., einstaklingum og lögaðilum að annast almennt eftirlit með náttúru landsins. Um slíkt skal gera samning sem umhverfisráðherra staðfestir. Í samningnum skal m.a. kveðið á um greiðslur fyrir eftirlitið, menntun eftirlitsmanna, skýrslugerð og annað sem máli skiptir.
+ □ Telji [Umhverfisstofnun][^1)^] nauðsynlegt að haldið verði uppi sérstöku eftirliti með framkvæmdum skal gera um það samkomulag við framkvæmdaraðila. Í samkomulaginu skal taka mið af innra eftirliti hans og eftirliti annarra opinberra aðila. Þar skulu kostnaðarliðir áætlaðir eins og mögulegt er hverju sinni og ber framkvæmdaraðila að endurgreiða [Umhverfisstofnun][^1)^] útlagðan kostnað við eftirlitið. Rísi ágreiningur milli aðila um efni samkomulagsins eða greiðslur fyrir eftirlitið sker ráðherra úr.
+ □ Að fengnum tillögum [Umhverfisstofnunar][^1)^] setur ráðherra gjaldskrá um kostnað við eftirlit með framkvæmdum. Þar skal m.a. kveðið á um umfang opinbers eftirlits og ákvörðun eftirlitsgjalda sem taka mið af innra eftirliti þeirra fyrirtækja sem eftirlitið beinist að.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *8. gr.* ...[^1)^]
     _[^1)^]_"L. 140/2001, 2. gr.":/altext/stjt/2001.140.html
  ■ *9. gr.* ...[^1)^]
     _[^1)^]_"L. 140/2001, 3. gr.":/altext/stjt/2001.140.html
@@ -71,10 +74,11 @@ h2. Lög um náttúruvernd
  □ Seta á þinginu er ólaunuð, en hlutaðeigandi aðilar greiða kostnað fulltrúa. Annar nauðsynlegur kostnaður af þinghaldinu greiðist úr ríkissjóði samkvæmt ákvörðun umhverfisráðherra.][^1)^]
     _[^1)^]_"L. 140/2001, 4. gr.":/altext/stjt/2001.140.html
  ■ *11. gr.* _Náttúruverndarnefndir._
- □ Á vegum hvers sveitarfélags eða héraðsnefndar starfar þriggja til sjö manna náttúruverndarnefnd. Sveitarstjórnir og héraðsnefndir ákveða fjölda nefndarmanna, kjósa þá til fjögurra ára, velja formann og setja nefndinni erindisbréf. Varamenn skulu kosnir með sama hætti. Sveitarstjórnir greiða kostnað sem hlýst af störfum náttúruverndarnefnda nema öðruvísi sé ákveðið. Tilkynnt skal eftir hverjar sveitarstjórnarkosningar til Náttúruverndar ríkisins um kjör í náttúruverndarnefndir.
- □ Náttúruverndarnefndir skulu vera sveitarstjórnum til ráðgjafar um náttúruverndarmál. Skulu þær stuðla að náttúruvernd hver á sínu svæði, m.a. með fræðslu og umfjöllun um framkvæmdir og starfsemi sem líkleg er til þess að hafa áhrif á náttúruna, og gera tillögur um úrbætur til sveitarstjórna og Náttúruverndar ríkisins.
- □ Náttúruverndarnefndir skulu leita aðstoðar og ráðgjafar Náttúruverndar ríkisins þegar ástæða er til. Náttúruvernd ríkisins og fulltrúar náttúruverndarnefnda skulu halda a.m.k. einn sameiginlegan fund á ári. Náttúruverndarnefndir skulu veita Náttúruvernd ríkisins yfirlit yfir störf sín með skýrslu í lok hvers árs.
+ □ Á vegum hvers sveitarfélags eða héraðsnefndar starfar þriggja til sjö manna náttúruverndarnefnd. Sveitarstjórnir og héraðsnefndir ákveða fjölda nefndarmanna, kjósa þá til fjögurra ára, velja formann og setja nefndinni erindisbréf. Varamenn skulu kosnir með sama hætti. Sveitarstjórnir greiða kostnað sem hlýst af störfum náttúruverndarnefnda nema öðruvísi sé ákveðið. Tilkynnt skal eftir hverjar sveitarstjórnarkosningar til [Umhverfisstofnunar][^1)^] um kjör í náttúruverndarnefndir.
+ □ Náttúruverndarnefndir skulu vera sveitarstjórnum til ráðgjafar um náttúruverndarmál. Skulu þær stuðla að náttúruvernd hver á sínu svæði, m.a. með fræðslu og umfjöllun um framkvæmdir og starfsemi sem líkleg er til þess að hafa áhrif á náttúruna, og gera tillögur um úrbætur til sveitarstjórna og [Umhverfisstofnunar].[^1)^]
+ □ Náttúruverndarnefndir skulu leita aðstoðar og ráðgjafar [Umhverfisstofnunar][^1)^] þegar ástæða er til. [Umhverfisstofnun][^1)^] og fulltrúar náttúruverndarnefnda skulu halda a.m.k. einn sameiginlegan fund á ári. Náttúruverndarnefndir skulu veita [Umhverfisstofnun][^1)^] yfirlit yfir störf sín með skýrslu í lok hvers árs.
  □ Umhverfisráðherra setur í reglugerð nánari ákvæði um hlutverk náttúruverndarnefnda og tengsl þeirra við náttúrustofur samkvæmt "lögum um Náttúrufræðistofnun Íslands og náttúrustofur, nr. 60/1992":1992060.html.
+    _[^1)^]"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html_
 
  *III. kafli.* *Almannaréttur, umgengni og útivist.*
  ■ *12. gr.* _Réttindi og skyldur almennings._
@@ -99,15 +103,16 @@ h2. Lög um náttúruvernd
     _[^1)^]Augl. 433/1993_. "Rg. 619/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/619-1998.
  ■ *17. gr.* _Akstur utan vega._
  □ Bannað er að aka vélknúnum ökutækjum utan vega. Þó er heimilt að aka slíkum tækjum á jöklum, svo og á snjó utan vega utan þéttbýlis svo fremi sem jörð er snævi þakin og frosin.
- □ Umhverfisráðherra kveður, að fengnum tillögum Náttúruverndar ríkisins, í reglugerð[^1)^] á um aðrar undanþágur frá banni skv. 1. málsl. 1. mgr., m.a. vegna starfa manna við landbúnað, landmælingar, línu- og vegalagnir og rannsóknir. Ráðherra getur í reglugerð, að fengnum tillögum Náttúruverndar ríkisins, takmarkað eða bannað akstur á jöklum og á snjó þar sem hætta er á náttúruspjöllum eða óþægindum fyrir aðra sem þar eru á ferð.
+ □ Umhverfisráðherra kveður, að fengnum tillögum [Umhverfisstofnunar],[^1)^] í reglugerð[^2)^] á um aðrar undanþágur frá banni skv. 1. málsl. 1. mgr., m.a. vegna starfa manna við landbúnað, landmælingar, línu- og vegalagnir og rannsóknir. Ráðherra getur í reglugerð, að fengnum tillögum [Umhverfisstofnunar],[^1)^] takmarkað eða bannað akstur á jöklum og á snjó þar sem hætta er á náttúruspjöllum eða óþægindum fyrir aðra sem þar eru á ferð.
  □ Ólögmætur akstur utan vega varðar refsingu, sbr. 76. gr.
-    _[^1)^]_"Rg. 619/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/619-1998.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html [^2)^]"Rg. 619/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/619-1998.
  ■ *18. gr.* _Umferð um vötn._
  □ Um umferð um vötn fer samkvæmt ákvæðum "vatnalaga, nr. 15/1923":1923015.html.
  ■ *19. gr.* _Takmörkun umferðar í óbyggðum._
- □ Náttúruvernd ríkisins getur í verndarskyni tímabundið takmarkað umferð eða lokað svæðum í óbyggðum, enda hafi stofnunin að jafnaði gert grein fyrir fyrirhugaðri lokun í skýrslu skv. 2. mgr. Slíkar ákvarðanir skal umhverfisráðherra staðfesta og birta í Stjórnartíðindum.
+ □ [Umhverfisstofnun][^1)^] getur í verndarskyni tímabundið takmarkað umferð eða lokað svæðum í óbyggðum, enda hafi stofnunin að jafnaði gert grein fyrir fyrirhugaðri lokun í skýrslu skv. 2. mgr. Slíkar ákvarðanir skal umhverfisráðherra staðfesta og birta í Stjórnartíðindum.
  □ Skal stofnunin á hverju hausti gera úttekt á ástandi svæða í óbyggðum og gefa ráðherra skýrslu um niðurstöður úttektarinnar. Í skýrslunni skal koma fram hvaða svæði eru í hættu og hvar geti komið til lokana. Stofnunin skal birta niðurstöður skýrslunnar með auglýsingu í dagblöðum og Lögbirtingablaði.
-■ *20. gr.* _Heimild til að tjalda._
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *20. gr.* _Heimild til að tjalda._
  □ Við alfaraleið í byggð er heimilt, sbr. þó 2. málsl. 1. mgr. 14. gr., að tjalda hefðbundnum viðlegutjöldum til einnar nætur á óræktuðu landi, en leita skal leyfis landeiganda eða annars rétthafa áður en tjaldað er nærri bústöðum manna eða bæ og ætíð ef um fleiri en þrjú tjöld er að ræða eða ef tjaldað er til fleiri en einnar nætur.
  □ Við alfaraleið í óbyggðum, hvort heldur er á eignarlandi eða þjóðlendu, er heimilt að setja niður hefðbundin viðlegutjöld.
  □ Utan alfaraleiðar, hvort heldur er á eignarlandi eða þjóðlendu, er heimilt að setja niður göngutjöld nema annað sé tekið fram í sérreglum sem kunna að gilda um viðkomandi landsvæði.
@@ -130,33 +135,39 @@ h2. Lög um náttúruvernd
  □ Í fjörum þjóðlendna er öllum heimil tínsla sölva, þangs, þara og annars fjörugróðurs.
  □ Tínsla í fjörum eignarlanda er háð leyfi eiganda eða rétthafa lands. Þó er mönnum heimil tínsla til neyslu á vettvangi.
 ■ *26. gr.* _Tínsla í atvinnuskyni._
- □ Umhverfisráðherra er heimilt að setja í reglugerð ákvæði um tínslu berja, sveppa, fjallagrasa, jurta og fjörugróðurs í atvinnuskyni, m.a. um að tilkynna skuli Náttúrufræðistofnun Íslands um magn og tegund þess sem tínt er og tínslustað og þegar sérstaklega stendur á að leyfi Náttúruverndar ríkisins þurfi til tínslu einstakra tegunda eða á einstökum svæðum.
-■ *27. gr.* _Tæki og verkfæri til tínslu._
+ □ Umhverfisráðherra er heimilt að setja í reglugerð ákvæði um tínslu berja, sveppa, fjallagrasa, jurta og fjörugróðurs í atvinnuskyni, m.a. um að tilkynna skuli Náttúrufræðistofnun Íslands um magn og tegund þess sem tínt er og tínslustað og þegar sérstaklega stendur á að leyfi [Umhverfisstofnunar][^1)^] þurfi til tínslu einstakra tegunda eða á einstökum svæðum.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *27. gr.* _Tæki og verkfæri til tínslu._
  □ Umhverfisráðherra er heimilt að setja í reglugerð ákvæði um notkun tækja og verkfæra til tínslu berja, sveppa, fjallagrasa, jurta og fjörugróðurs. Er honum heimilt að leggja bann við notkun þeirra ef hætta er á að hún valdi spjöllum á náttúru landsins.
 
  *IV. kafli.* *Rekstur náttúruverndarsvæða.*
 ■ *28. gr.* _Umsjón með náttúruverndarsvæðum._
- □ Náttúruvernd ríkisins hefur umsjón með náttúruverndarsvæðum nema annað sé tekið fram í lögum. Umhverfisráðherra getur falið stofnuninni umsjón með öðrum svæðum sem sérstök þykja sakir landslags, gróðurfars eða dýralífs.
-■ *29. gr.* _Landverðir._
+ □ [Umhverfisstofnun][^1)^] hefur umsjón með náttúruverndarsvæðum nema annað sé tekið fram í lögum. Umhverfisráðherra getur falið stofnuninni umsjón með öðrum svæðum sem sérstök þykja sakir landslags, gróðurfars eða dýralífs.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *29. gr.* _Landverðir._
  □ Á náttúruverndarsvæðum starfa landverðir og aðrir starfsmenn. Hlutverk landvarða er m.a. að sjá um eftirlit og fræðslu.
- □ Umhverfisráðherra setur í reglugerð,[^1)^] að fengnum tillögum Náttúruverndar ríkisins, nánari ákvæði um menntun og starfsskyldur þeirra sem starfa á náttúruverndarsvæðum.
-    _[^1)^]_"Rg. 61/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/061-1990.
+ □ Umhverfisráðherra setur í reglugerð,[^1)^] að fengnum tillögum [Umhverfisstofnunar],[^2)^] nánari ákvæði um menntun og starfsskyldur þeirra sem starfa á náttúruverndarsvæðum.
+    _[^1)^]_"Rg. 61/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/061-1990. [^2)^]"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
  ■ *30. gr.* _Umsjón falin öðrum._
- □ Náttúruvernd ríkisins getur falið einstaklingum eða lögaðilum umsjón og rekstur náttúruverndarsvæða að þjóðgörðum undanskildum. Gera skal sérstakan samning um umsjón og rekstur svæðanna sem umhverfisráðherra staðfestir. Í samningnum skal kveða á um réttindi og skyldur samningsaðila, mannvirkjagerð á svæðunum og aðrar framkvæmdir, landvörslu, menntun starfsmanna, móttöku ferðamanna og fræðslu, svo og gjaldtöku, sbr. 32. gr. Náttúruvernd ríkisins hefur eftirlit með því að umsjónar- og rekstraraðili uppfylli samningsskuldbindingar.
-■ *31. gr.* _Gestastofur._
- □ Náttúruvernd ríkisins er heimilt að stofna og reka gestastofur á náttúruverndarsvæðum eftir því sem ákveðið er í fjárlögum hverju sinni. Hafa skal samstarf við náttúrustofur, sbr. "lög um Náttúrufræðistofnun Íslands og náttúrustofur, nr. 60/1992":1992060.html, um rekstur gestastofa þegar við á. Gera skal sérstakan samning um samstarfið sem umhverfisráðherra staðfestir.
- □ Náttúruvernd ríkisins getur falið einstaklingum eða lögaðilum umsjón og rekstur gestastofa. Um slíkt skal gera sérstakan samning sem ráðherra staðfestir.
-■ *32. gr.* _Gjaldtaka o.fl._
- □ Náttúruvernd ríkisins eða sá aðili sem falinn hefur verið rekstur náttúruverndarsvæðis getur ákveðið gjald fyrir veitta þjónustu. Rekstraraðili náttúruverndarsvæðis getur enn fremur ákveðið gjald fyrir aðgang að svæðinu ef spjöll hafa orðið af völdum ferðamanna eða hætta er á slíkum spjöllum.
+ □ [Umhverfisstofnun][^1)^] getur falið einstaklingum eða lögaðilum umsjón og rekstur náttúruverndarsvæða að þjóðgörðum undanskildum. Gera skal sérstakan samning um umsjón og rekstur svæðanna sem umhverfisráðherra staðfestir. Í samningnum skal kveða á um réttindi og skyldur samningsaðila, mannvirkjagerð á svæðunum og aðrar framkvæmdir, landvörslu, menntun starfsmanna, móttöku ferðamanna og fræðslu, svo og gjaldtöku, sbr. 32. gr. [Umhverfisstofnun][^1)^] hefur eftirlit með því að umsjónar- og rekstraraðili uppfylli samningsskuldbindingar.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *31. gr.* _Gestastofur._
+ □ [Umhverfisstofnun][^1)^] er heimilt að stofna og reka gestastofur á náttúruverndarsvæðum eftir því sem ákveðið er í fjárlögum hverju sinni. Hafa skal samstarf við náttúrustofur, sbr. "lög um Náttúrufræðistofnun Íslands og náttúrustofur, nr. 60/1992":1992060.html, um rekstur gestastofa þegar við á. Gera skal sérstakan samning um samstarfið sem umhverfisráðherra staðfestir.
+ □ [Umhverfisstofnun][^1)^] getur falið einstaklingum eða lögaðilum umsjón og rekstur gestastofa. Um slíkt skal gera sérstakan samning sem ráðherra staðfestir.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *32. gr.* _Gjaldtaka o.fl._
+ □ [Umhverfisstofnun][^1)^] eða sá aðili sem falinn hefur verið rekstur náttúruverndarsvæðis getur ákveðið gjald fyrir veitta þjónustu. Rekstraraðili náttúruverndarsvæðis getur enn fremur ákveðið gjald fyrir aðgang að svæðinu ef spjöll hafa orðið af völdum ferðamanna eða hætta er á slíkum spjöllum.
  □ Tekjum samkvæmt síðari málslið 1. mgr. skal varið til eftirlits, lagfæringar eða uppbyggingar svæðisins eða aðkomu að því.
- □ Eigi síðar en í september ár hvert skal Náttúruvernd ríkisins leggja fyrir umhverfisráðherra til staðfestingar skrá yfir gjöld sem stofnunin hyggst innheimta næsta ár á eftir. Staðfesti ráðherra gjaldskrána skal hún birt í B-deild Stjórnartíðinda.
- □ Náttúruvernd ríkisins eða öðrum umsjónaraðila náttúruverndarsvæðis er heimilt að setja sérstakar reglur um umferð manna og dvöl á náttúruverndarsvæðum og um önnur atriði er greinir í III. kafla, sbr. og 60. gr.
+ □ Eigi síðar en í september ár hvert skal [Umhverfisstofnun][^1)^] leggja fyrir umhverfisráðherra til staðfestingar skrá yfir gjöld sem stofnunin hyggst innheimta næsta ár á eftir. Staðfesti ráðherra gjaldskrána skal hún birt í B-deild Stjórnartíðinda.
+ □ [Umhverfisstofnun][^1)^] eða öðrum umsjónaraðila náttúruverndarsvæðis er heimilt að setja sérstakar reglur um umferð manna og dvöl á náttúruverndarsvæðum og um önnur atriði er greinir í III. kafla, sbr. og 60. gr.
  □ Ráðherra er heimilt að setja nánari ákvæði um framkvæmd greinarinnar í reglugerð.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
 
  *V. kafli.* *Landslagsvernd.*
-■ *33. gr.* _Gerð skipulagsáætlana._
- □ Leita skal umsagnar Náttúruverndar ríkisins og náttúruverndarnefnda, sbr. 11. gr., við gerð svæðis- og aðalskipulagsáætlana og verulegar breytingar á þeim og við úrskurði um mat á umhverfisáhrifum.
-■ *34. gr.* _Meiri háttar framkvæmdir._
+ ■ *33. gr.* _Gerð skipulagsáætlana._
+ □ Leita skal umsagnar [Umhverfisstofnunar][^1)^] og náttúruverndarnefnda, sbr. 11. gr., við gerð svæðis- og aðalskipulagsáætlana og verulegar breytingar á þeim og við úrskurði um mat á umhverfisáhrifum.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *34. gr.* _Meiri háttar framkvæmdir._
  □ Meiri háttar framkvæmdir sem áhrif hafa á umhverfið og breyta ásýnd þess, svo sem breyting lands með jarðvegi eða efnistöku, skulu vera í samræmi við skipulagsáætlanir og úrskurð um mat á umhverfisáhrifum þar sem það á við.
 ■ *35. gr.* _Hönnun mannvirkja._
  □ Við hönnun vega, virkjana, verksmiðja og annarra mannvirkja skal þess gætt að þau falli sem best að svipmóti lands.
@@ -169,24 +180,27 @@ h2. Lög um náttúruvernd
     c. mýrar og flóar, 3 hektarar að stærð eða stærri,
     d. fossar, hverir og aðrar heitar uppsprettur, svo og hrúður og hrúðurbreiður, 100 m[^2^] að stærð eða stærri,
     e. sjávarfitjar og leirur.
- □ Leita skal umsagnar Náttúruverndar ríkisins og náttúruverndarnefnda áður en veitt er framkvæmda- eða byggingarleyfi, sbr. 27. og 43. gr. skipulags- og "byggingarlaga, nr. 73/1997":1997073.html, til framkvæmda sem hafa í för með sér röskun [jarðmyndana og vistkerfa][^1)^] skv. 1. mgr. nema fyrir liggi aðalskipulag samþykkt eftir gildistöku laga þessara þar sem umsögn skv. 33. gr. liggur fyrir.
-    _[^1)^]"L. 140/2001, 7. gr.":/altext/stjt/2001.140.html_
+ □ Leita skal umsagnar [Umhverfisstofnunar][^2)^] og náttúruverndarnefnda áður en veitt er framkvæmda- eða byggingarleyfi, sbr. 27. og 43. gr. skipulags- og "byggingarlaga, nr. 73/1997":1997073.html, til framkvæmda sem hafa í för með sér röskun [jarðmyndana og vistkerfa][^1)^] skv. 1. mgr. nema fyrir liggi aðalskipulag samþykkt eftir gildistöku laga þessara þar sem umsögn skv. 33. gr. liggur fyrir.
+    _[^1)^]"L. 140/2001, 7. gr.":/altext/stjt/2001.140.html [^2)^]"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html_
  ■ *38. gr.* _Hætta á röskun náttúruminja._
- □ Leyfi Náttúruverndar ríkisins þarf til framkvæmda þar sem hætta er á að spillt verði friðlýstum náttúruminjum. Leita skal umsagnar og tilkynna Náttúruvernd ríkisins um framkvæmdir þar sem hætta er á að spillt verði öðrum náttúruminjum á náttúruminjaskrá, sbr. 67. og 68. gr.
- □ Leiti framkvæmandi ekki leyfis skv. 1. mgr. er Náttúruvernd ríkisins heimilt að krefjast þess með skriflegri áskorun að framkvæmdir verði ekki hafnar eða þær stöðvaðar. Verði ekki orðið við áskorun stofnunarinnar er henni heimilt að beita dagsektum í þessu skyni, sbr. 73. gr., og leita atbeina lögreglu ef með þarf.
-■ *39. gr.* _Vernd skóga og annarra gróðursamfélaga._
+ □ Leyfi [Umhverfisstofnunar][^1)^] þarf til framkvæmda þar sem hætta er á að spillt verði friðlýstum náttúruminjum. Leita skal umsagnar og tilkynna [Umhverfisstofnun][^1)^] um framkvæmdir þar sem hætta er á að spillt verði öðrum náttúruminjum á náttúruminjaskrá, sbr. 67. og 68. gr.
+ □ Leiti framkvæmandi ekki leyfis skv. 1. mgr. er [Umhverfisstofnun][^1)^] heimilt að krefjast þess með skriflegri áskorun að framkvæmdir verði ekki hafnar eða þær stöðvaðar. Verði ekki orðið við áskorun stofnunarinnar er henni heimilt að beita dagsektum í þessu skyni, sbr. 73. gr., og leita atbeina lögreglu ef með þarf.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *39. gr.* _Vernd skóga og annarra gróðursamfélaga._
  □ Umhverfisráðherra getur í samráði við landbúnaðarráðherra ákveðið friðunar- og uppgræðsluaðgerðir til að vernda skóga og önnur gróðursamfélög.
- □ Náttúruvernd ríkisins skal ásamt Landgræðslu ríkisins vinna að gróðurvernd og hafa eftirlit með ástandi gróðurs. Slíkt eftirlit má þó fela gróðurverndarnefndum að fengnu samþykki umhverfisráðherra og landbúnaðarráðherra.
- □ Náttúruvernd ríkisins skal ásamt Skógrækt ríkisins vinna að verndun og eftirliti með náttúrulegum birkiskógum og skógum til útivistar.
+ □ [Umhverfisstofnun][^1)^] skal ásamt Landgræðslu ríkisins vinna að gróðurvernd og hafa eftirlit með ástandi gróðurs. Slíkt eftirlit má þó fela gróðurverndarnefndum að fengnu samþykki umhverfisráðherra og landbúnaðarráðherra.
+ □ [Umhverfisstofnun][^1)^] skal ásamt Skógrækt ríkisins vinna að verndun og eftirliti með náttúrulegum birkiskógum og skógum til útivistar.
  □ Ekki skal að óþörfu eyða eða spilla gróðri með mosa-, lyng- eða hrísrifi eða á annan hátt.
-■ *40. gr.* _Steindir._
- □ Umhverfisráðherra getur, að fenginni tillögu Náttúruverndar ríkisins og Náttúrufræðistofnunar Íslands og umsögn iðnaðarráðuneytis, mælt fyrir í reglugerð um vernd steinda, m.a. um að leyfi Náttúruverndar ríkisins þurfi til töku ákveðinna tegunda þeirra úr föstum jarðlögum.
-■ *41. gr.* _Innflutningur, ræktun og dreifing lifandi lífvera._
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *40. gr.* _Steindir._
+ □ Umhverfisráðherra getur, að fenginni tillögu [Umhverfisstofnunar][^1)^] og Náttúrufræðistofnunar Íslands og umsögn iðnaðarráðuneytis, mælt fyrir í reglugerð um vernd steinda, m.a. um að leyfi [Umhverfisstofnunar][^1)^] þurfi til töku ákveðinna tegunda þeirra úr föstum jarðlögum.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *41. gr.* _Innflutningur, ræktun og dreifing lifandi lífvera._
  □ Að því leyti sem ekki er kveðið á um í öðrum lögum, svo sem "lögum nr. 54/1990":1990054.html, um innflutning dýra, getur ráðherra veitt leyfi fyrir innflutningi, ræktun og dreifingu lifandi framandi lífvera.
  □ Ráðherra skal í reglugerð[^1)^] kveða á um skráningu, innflutning, ræktun og dreifingu lifandi framandi lífvera hér á landi, sbr. þó 1. mgr. Þar má m.a. birta skrá yfir tegundir sem óheimilt er að flytja til landsins, svo og yfir tegundir sem heimilt er að rækta hérlendis og sleppa í villtri náttúru, þar með talið á skógræktarsvæðum.
- □ Ráðherra skipar til fjögurra ára nefnd sérfræðinga stjórnvöldum til ráðgjafar um innflutning, ræktun og dreifingu framandi lífvera. Skulu stjórnvöld leita umsagnar nefndarinnar og Náttúruverndar ríkisins áður en tekin er ákvörðun um innflutning, ræktun eða dreifingu nýrra tegunda lifandi lífvera. Í nefndinni skulu eiga sæti einn fulltrúi tilnefndur af Náttúrufræðistofnun Íslands, einn samkvæmt tilnefningu Rannsóknastofnunar landbúnaðarins, einn samkvæmt tilnefningu Líffræðistofnunar Háskóla Íslands og einn fulltrúi tilnefndur sameiginlega af Landgræðslu ríkisins og Skógrækt ríkisins. Ráðherra skipar formann nefndarinnar án tilnefningar.
+ □ Ráðherra skipar til fjögurra ára nefnd sérfræðinga stjórnvöldum til ráðgjafar um innflutning, ræktun og dreifingu framandi lífvera. Skulu stjórnvöld leita umsagnar nefndarinnar og [Umhverfisstofnunar][^2)^] áður en tekin er ákvörðun um innflutning, ræktun eða dreifingu nýrra tegunda lifandi lífvera. Í nefndinni skulu eiga sæti einn fulltrúi tilnefndur af Náttúrufræðistofnun Íslands, einn samkvæmt tilnefningu Rannsóknastofnunar landbúnaðarins, einn samkvæmt tilnefningu Líffræðistofnunar Háskóla Íslands og einn fulltrúi tilnefndur sameiginlega af Landgræðslu ríkisins og Skógrækt ríkisins. Ráðherra skipar formann nefndarinnar án tilnefningar.
  □ Ákvæði greinar þessarar taka ekki til lifandi smitefna, sbr. "lög um ónæmisaðgerðir, nr. 38/1978":1978038.html, erfðabreyttra lífvera, sbr. "lög um erfðabreyttar lífverur, nr. 18/1996":1996018.html, sjávarafla, sbr. lög um meðferð, vinnslu og dreifingu sjávarafurða, nr. 55/1998, og þeirra tegunda sjávarspendýra sem lifa hér við land.
-    _[^1)^]"Rg. 583/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/583-2000._
+    _[^1)^]"Rg. 583/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/583-2000. [^2)^]"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html_
  ■ *42. gr.* _Áletranir á náttúrumyndanir._
  □ Hvers konar áletranir á náttúrumyndanir eru óheimilar og varða refsingu skv. 76. gr., sbr. og 75. gr.
 ■ *43. gr.* _Auglýsingar utan þéttbýlis._
@@ -203,22 +217,24 @@ h2. Lög um náttúruvernd
 ■ *46. gr.* _Skipulag efnistökusvæða._
  □ Um skipulag efnistökusvæða fer eftir ákvæðum skipulags- og "byggingarlaga, nr. 73/1997":1997073.html, og reglum settum samkvæmt þeim.
  ■ *47. gr.* _Heimild til efnistöku._
- □ Um leyfi til efnistöku af eða úr hafsbotni utan netlaga fer eftir ákvæðum "laga um eignarrétt íslenska ríkisins að auðlindum hafsbotnsins, nr. 73/1990":1990073.html. Iðnaðarráðherra skal þó leita umsagnar Náttúruverndar ríkisins áður en leyfi er veitt.
- □ Öll efnistaka á landi og af eða úr hafsbotni innan netlaga er háð framkvæmdaleyfi hlutaðeigandi sveitarstjórnar, sbr. 27. gr. skipulags- og "byggingarlaga, nr. 73/1997":1997073.html. [Þar sem ekki liggur fyrir samþykkt aðalskipulag sem Náttúruvernd ríkisins og viðkomandi náttúruverndarnefnd hefur gefið umsögn sína um, sbr. 33. gr., er óheimilt að gefa út framkvæmdaleyfi fyrr en að fenginni umsögn framangreindra aðila.][^1)^] Enn fremur gilda um efnistöku á landi og af eða úr hafsbotni innan netlaga ákvæði "laga um rannsóknir og nýtingu á auðlindum í jörðu, nr. 57/1998":1998057.html.
- □ Þrátt fyrir ákvæði 2. mgr. er eiganda eða umráðamanni eignarlands heimil án leyfis minni háttar efnistaka til eigin nota nema um sé að ræða [jarðmyndanir og vistkerfi][^2)^] sem njóta verndar skv. 37. gr.
-    _[^1)^]_"L. 140/2001, 8. gr.":/altext/stjt/2001.140.html [^2)^]"L. 140/2001, 7. gr.":/altext/stjt/2001.140.html
+ □ Um leyfi til efnistöku af eða úr hafsbotni utan netlaga fer eftir ákvæðum "laga um eignarrétt íslenska ríkisins að auðlindum hafsbotnsins, nr. 73/1990":1990073.html. Iðnaðarráðherra skal þó leita umsagnar [Umhverfisstofnunar][^1)^] áður en leyfi er veitt.
+ □ Öll efnistaka á landi og af eða úr hafsbotni innan netlaga er háð framkvæmdaleyfi hlutaðeigandi sveitarstjórnar, sbr. 27. gr. skipulags- og "byggingarlaga, nr. 73/1997":1997073.html. [Þar sem ekki liggur fyrir samþykkt aðalskipulag sem [Umhverfisstofnun][^1)^] og viðkomandi náttúruverndarnefnd hefur gefið umsögn sína um, sbr. 33. gr., er óheimilt að gefa út framkvæmdaleyfi fyrr en að fenginni umsögn framangreindra aðila.][^2)^] Enn fremur gilda um efnistöku á landi og af eða úr hafsbotni innan netlaga ákvæði "laga um rannsóknir og nýtingu á auðlindum í jörðu, nr. 57/1998":1998057.html.
+ □ Þrátt fyrir ákvæði 2. mgr. er eiganda eða umráðamanni eignarlands heimil án leyfis minni háttar efnistaka til eigin nota nema um sé að ræða [jarðmyndanir og vistkerfi][^3)^] sem njóta verndar skv. 37. gr.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html [^2)^]"L. 140/2001, 8. gr.":/altext/stjt/2001.140.html [^3)^]"L. 140/2001, 7. gr.":/altext/stjt/2001.140.html
  ■ *48. gr.* _Áætlun um efnistöku._
  □ Áður en leyfi er veitt til náms jarðefna skv. 47. gr. skal liggja fyrir áætlun námuréttarhafa um væntanlega efnistöku þar sem m.a. skal gerð grein fyrir magni og gerð efnis, vinnslutíma og frágangi á efnistökusvæði.
- □ Náttúruvernd ríkisins skal hafa eftirlit með efnistöku á landi, sbr. og b-lið 6. gr. og 2. og 3. mgr. 7. gr. Er stofnuninni heimilt að krefjast þess að námuréttarhafi leggi fram tryggingu sem stofnunin telur fullnægjandi fyrir áætluðum kostnaði við eftirlit og frágang efnistökusvæða.
-■ *49. gr.* _Frágangur efnistökusvæða._
+ □ [Umhverfisstofnun][^1)^] skal hafa eftirlit með efnistöku á landi, sbr. og b-lið 6. gr. og 2. og 3. mgr. 7. gr. Er stofnuninni heimilt að krefjast þess að námuréttarhafi leggi fram tryggingu sem stofnunin telur fullnægjandi fyrir áætluðum kostnaði við eftirlit og frágang efnistökusvæða.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *49. gr.* _Frágangur efnistökusvæða._
  □ Við upphaf efnistöku skal ganga frá gróðri og efsta hluta jarðvegs námasvæðis á þann hátt að auðvelt verði að jafna honum aftur yfir efnistökusvæði. Að loknum vinnslutíma skal ganga snyrtilega frá efnistökusvæði þannig að sem best falli að umhverfi.
- □ Sé frágangur ekki í samræmi við áætlun um efnistöku, sbr. 48. gr., getur Náttúruvernd ríkisins gefið námuréttarhafa fyrirmæli um að ljúka frágangi innan tiltekins frests sem þó skal aldrei vera lengri en eitt ár. Er stofnuninni heimilt að beita dagsektum í þessu skyni, sbr. 73. gr.
- □ Beri aðgerðir Náttúruverndar ríkisins skv. 2. mgr. ekki árangur skal sveitarstjórn ganga frá efnistökusvæði á kostnað námuréttarhafa í samræmi við gerða áætlun, sbr. 48. gr. Skal trygging skv. 48. gr. ganga til greiðslu kostnaðar.
- □ Efnistökusvæði skal ekki standa ónotað og ófrágengið lengur en þrjú ár. Náttúruvernd ríkisins getur þó veitt undanþágu frá þessu ákvæði, enda séu sérstakar ástæður fyrir tímabundinni stöðvun.
+ □ Sé frágangur ekki í samræmi við áætlun um efnistöku, sbr. 48. gr., getur [Umhverfisstofnun][^1)^] gefið námuréttarhafa fyrirmæli um að ljúka frágangi innan tiltekins frests sem þó skal aldrei vera lengri en eitt ár. Er stofnuninni heimilt að beita dagsektum í þessu skyni, sbr. 73. gr.
+ □ Beri aðgerðir [Umhverfisstofnunar][^1)^] skv. 2. mgr. ekki árangur skal sveitarstjórn ganga frá efnistökusvæði á kostnað námuréttarhafa í samræmi við gerða áætlun, sbr. 48. gr. Skal trygging skv. 48. gr. ganga til greiðslu kostnaðar.
+ □ Efnistökusvæði skal ekki standa ónotað og ófrágengið lengur en þrjú ár. [Umhverfisstofnun][^1)^] getur þó veitt undanþágu frá þessu ákvæði, enda séu sérstakar ástæður fyrir tímabundinni stöðvun.
  □ Förgun úrgangs á efnistökusvæðum skal vera í samræmi við gerða áætlun, sbr. 48. gr., og lög og reglur um hollustuhætti og mengunarvarnir.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
 
  *VII. kafli.* *Friðlýstar náttúruminjar.*
-■ *50. gr.* _Flokkar friðlýstra náttúruminja._
+ ■ *50. gr.* _Flokkar friðlýstra náttúruminja._
  □ Friðlýstar náttúruminjar skiptast í eftirfarandi flokka:
     a. þjóðgarða, sbr. 51. gr.,
     b. friðlönd, sbr. 1. tölul. 1. mgr. 53. gr.,
@@ -227,38 +243,41 @@ h2. Lög um náttúruvernd
     e. fólkvanga, sbr. 55. gr.
     _[^1)^]_"L. 140/2001, 9. gr.":/altext/stjt/2001.140.html
  ■ *51. gr.* _Stofnun þjóðgarða._
- □ Umhverfisráðherra getur, að fengnum tillögum eða áliti [Náttúruverndar ríkisins og Náttúrufræðistofnunar Íslands],[^1)^] lýst landsvæði þjóðgarð, enda sé það sérstætt um landslag eða lífríki eða á því hvíli söguleg helgi þannig að ástæða sé til að varðveita það með náttúrufari sínu og leyfa almenningi aðgang að því eftir tilteknum reglum.
+ □ Umhverfisráðherra getur, að fengnum tillögum eða áliti [[Umhverfisstofnunar][^1)^] og Náttúrufræðistofnunar Íslands],[^2)^] lýst landsvæði þjóðgarð, enda sé það sérstætt um landslag eða lífríki eða á því hvíli söguleg helgi þannig að ástæða sé til að varðveita það með náttúrufari sínu og leyfa almenningi aðgang að því eftir tilteknum reglum.
  □ Landsvæði þjóðgarða skulu vera í ríkiseign nema sérstakar ástæður mæli með öðru og um það náist samkomulag milli ráðherra og landeigenda.
  □ Ráðherra er heimilt að stofna ráðgjafarnefnd með þátttöku hlutaðeigandi sveitarstjórna til að fjalla um rekstur og skipulag þjóðgarða.
-    _[^1)^]_"L. 140/2001, 10. gr.":/altext/stjt/2001.140.html
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html [^2)^]"L. 140/2001, 10. gr.":/altext/stjt/2001.140.html
  ■ *52. gr.* _Rekstur þjóðgarða._
- □ Í hverjum þjóðgarði starfar þjóðgarðsvörður sem forstjóri Náttúruverndar ríkisins ræður. Þjóðgarðsverðir skulu hafa sérþekkingu og reynslu sem nýtist þeim í starfi.
- □ Þjóðgarðsverðir annast daglegan rekstur þjóðgarða og gera tillögur til Náttúruverndar ríkisins um rekstur þeirra. Náttúruvernd ríkisins getur falið þjóðgarðsvörðum eftirlit og umsjón á öðrum svæðum sem stofnunin ber ábyrgð á.
- □ Náttúruvernd ríkisins gerir tillögur um verndaráætlun og landnotkun innan þjóðgarða og skulu þær staðfestar af ráðherra.
- □ Umhverfisráðherra setur, að fenginni tillögu Náttúruverndar ríkisins, reglugerð[^1)^] um meðferð og rekstur þjóðgarða og umgengni almennings.
-    _[^1)^]_"Rg. 319/1984":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/319-1984, sbr. "292/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/292-2001; "rg. 359/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/359-1993, sbr. "285/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/285-2001; "rg. 513/1995":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/513-1995, "rg. 568/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/568-2001.
+ □ Í hverjum þjóðgarði starfar þjóðgarðsvörður sem forstjóri [Umhverfisstofnunar][^1)^] ræður. Þjóðgarðsverðir skulu hafa sérþekkingu og reynslu sem nýtist þeim í starfi.
+ □ Þjóðgarðsverðir annast daglegan rekstur þjóðgarða og gera tillögur til [Umhverfisstofnunar][^1)^] um rekstur þeirra. [Umhverfisstofnun][^1)^] getur falið þjóðgarðsvörðum eftirlit og umsjón á öðrum svæðum sem stofnunin ber ábyrgð á.
+ □ [Umhverfisstofnun][^1)^] gerir tillögur um verndaráætlun og landnotkun innan þjóðgarða og skulu þær staðfestar af ráðherra.
+ □ Umhverfisráðherra setur, að fenginni tillögu [Umhverfisstofnunar],[^1)^] reglugerð[^2)^] um meðferð og rekstur þjóðgarða og umgengni almennings.
+    _[^2)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html [^2)^]"Rg. 319/1984":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/319-1984, sbr. "292/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/292-2001; "rg. 359/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/359-1993, sbr. "285/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/285-2001; "rg. 513/1995":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/513-1995, "rg. 568/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/568-2001.
  ■ *53. gr.* _Friðlýsing annarra náttúruminja á landi._
- □ Umhverfisráðherra getur, að fengnum tillögum eða áliti [Náttúruverndar ríkisins og Náttúrufræðistofnunar Íslands],[^1)^] friðlýst:
-    1. Landsvæði sem mikilvægt er að varðveita sakir sérstaks landslags eða lífríkis. Friðlýst landsvæði nefnast friðlönd.[^2)^]
-    2. Náttúrumyndanir, svo sem fossa, eldstöðvar, hella og dranga, svo og fundarstaði steingervinga, sjaldgæfra steintegunda og steinda, sem mikilvægt er að varðveita sakir fræðilegs gildis þeirra, fegurðar eða sérkenna. Friðlýsa skal svæði í kringum náttúrumyndanir svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu. Friðlýstar náttúrumyndanir nefnast náttúruvætti.[^3)^]
-    3. [Lífverur, búsvæði þeirra, vistgerðir og vistkerfi][^4)^] sem miklu skiptir frá vísindalegu, náttúrufræðilegu eða öðru menningarlegu sjónarmiði að ekki sé raskað, fækkað eða útrýmt.[^5)^]
+ □ Umhverfisráðherra getur, að fengnum tillögum eða áliti [[Umhverfisstofnunar][^1)^] og Náttúrufræðistofnunar Íslands],[^2)^] friðlýst:
+    1. Landsvæði sem mikilvægt er að varðveita sakir sérstaks landslags eða lífríkis. Friðlýst landsvæði nefnast friðlönd.[^3)^]
+    2. Náttúrumyndanir, svo sem fossa, eldstöðvar, hella og dranga, svo og fundarstaði steingervinga, sjaldgæfra steintegunda og steinda, sem mikilvægt er að varðveita sakir fræðilegs gildis þeirra, fegurðar eða sérkenna. Friðlýsa skal svæði í kringum náttúrumyndanir svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu. Friðlýstar náttúrumyndanir nefnast náttúruvætti.[^4)^]
+    3. [Lífverur, búsvæði þeirra, vistgerðir og vistkerfi][^5)^] sem miklu skiptir frá vísindalegu, náttúrufræðilegu eða öðru menningarlegu sjónarmiði að ekki sé raskað, fækkað eða útrýmt.[^6)^]
  □ Friðlýsing skv. 2. og 3. tölul. 1. mgr. getur ýmist verið staðbundin eða tekið til landsins alls.
-    _[^1)^]_"L. 140/2001, 10. gr.":/altext/stjt/2001.140.html [^2)^]Augl. 457/1996, augl. 606/2001. [^3)^]Augl. 120/1994, augl. 326/1999, augl. 249/2001. [^4)^]"L. 140/2001, 11. gr.":/altext/stjt/2001.140.html [^5)^]Augl. 364/2002.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html [^2)^]"L. 140/2001, 10. gr.":/altext/stjt/2001.140.html [^3)^]Augl. 457/1996, augl. 606/2001, augl. 663/2002. [^4)^]Augl. 120/1994, augl. 326/1999, augl. 249/2001, augl. 591/2002. [^5)^]"L. 140/2001, 11. gr.":/altext/stjt/2001.140.html [^6)^]Augl. 364/2002.
  ■ *54. gr.* _Friðlýsing náttúruminja í hafi._
- □ Umhverfisráðherra getur, að fengnu samþykki sjávarútvegsráðherra og eftir atvikum að fengnum tillögum eða áliti Hafrannsóknastofnunarinnar, [Náttúruverndar ríkisins eða Náttúrufræðistofnunar Íslands],[^1)^] friðlýst innan landhelgi og efnahagslögsögu náttúruminjar í hafi, þ.m.t. eyjar og sker, og á hafsbotni sem mikilvægt þykir að varðveita sakir fegurðar eða sérkenna eða miklu skiptir frá vísindalegu, náttúrufræðilegu eða menningarlegu sjónarmiði að ekki sé raskað. Friðlýsa skal svæði í kringum náttúruminjar svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu.
+ □ Umhverfisráðherra getur, að fengnu samþykki sjávarútvegsráðherra og eftir atvikum að fengnum tillögum eða áliti Hafrannsóknastofnunarinnar, [[Umhverfisstofnunar][^1)^] eða Náttúrufræðistofnunar Íslands],[^1)^] friðlýst innan landhelgi og efnahagslögsögu náttúruminjar í hafi, þ.m.t. eyjar og sker, og á hafsbotni sem mikilvægt þykir að varðveita sakir fegurðar eða sérkenna eða miklu skiptir frá vísindalegu, náttúrufræðilegu eða menningarlegu sjónarmiði að ekki sé raskað. Friðlýsa skal svæði í kringum náttúruminjar svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu.
  □ Ákvæði annarra greina þessa kafla gilda eftir því sem við á um friðlýstar náttúruminjar í hafi.
-    _[^1)^]_"L. 140/2001, 12. gr.":/altext/stjt/2001.140.html
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html [^2)^]"L. 140/2001, 12. gr.":/altext/stjt/2001.140.html
  ■ *55. gr.* _Stofnun fólkvangs._
- □ Umhverfisráðherra getur, að fengnum tillögum hlutaðeigandi sveitarfélags eða sveitarfélaga og áliti Náttúruverndar ríkisins, lýst tiltekið landsvæði, sem ætlað er til útvistar og almenningsnota, fólkvang.
- □ Vilji eitt sveitarfélag eða fleiri að tiltekið svæði verði lýst fólkvangur skal það eða þau gera tillögu um slíkt til Náttúruverndar ríkisins þar sem m.a. skal gerð grein fyrir mörkum fólkvangsins og hvaða takmarkanir ákvörðun um fólkvang kunni að setja umráðarétti eigenda eða rétthafa viðkomandi landsvæðis.
-■ *56. gr.* _Kostnaður við stofnun og rekstur fólkvangs._
+ □ Umhverfisráðherra getur, að fengnum tillögum hlutaðeigandi sveitarfélags eða sveitarfélaga og áliti [Umhverfisstofnunar],[^1)^] lýst tiltekið landsvæði, sem ætlað er til útvistar og almenningsnota, fólkvang.
+ □ Vilji eitt sveitarfélag eða fleiri að tiltekið svæði verði lýst fólkvangur skal það eða þau gera tillögu um slíkt til [Umhverfisstofnunar][^1)^] þar sem m.a. skal gerð grein fyrir mörkum fólkvangsins og hvaða takmarkanir ákvörðun um fólkvang kunni að setja umráðarétti eigenda eða rétthafa viðkomandi landsvæðis.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *56. gr.* _Kostnaður við stofnun og rekstur fólkvangs._
  □ Hlutaðeigandi sveitarfélög bera allan kostnað af stofnun og rekstri fólkvangs að því leyti sem ekki koma til framlög úr ríkissjóði og skal honum skipt í hlutfalli við íbúatölu sveitarfélaganna næsta ár á undan. Hætti sveitarfélag þátttöku í undirbúningi að stofnun fólkvangs er því skylt að greiða áfallinn kostnað hlutfallslega.
 ■ *57. gr.* _Samvinnunefnd um rekstur fólkvangs._
- □ Sveitarfélög sem standa að rekstri fólkvangs skulu gera með sér samvinnusamning og stofna samvinnunefnd sem starfar í samráði við Náttúruvernd ríkisins. Í samvinnusamningi skal kveðið á um fjölda nefndarmanna og starfshætti nefndarinnar. Ef ekki er öðruvísi ákveðið ræður afl atkvæða. Þegar um er að ræða atriði sem hafa sérstakan kostnað í för með sér fer þó um atkvæðisrétt eftir greiðsluhlutföllum aðila, sbr. 56. gr.
-■ *58. gr.* _Undirbúningur friðlýsingar._
- □ Náttúruvernd ríkisins annast undirbúning friðlýsingar, sbr. þó 2. mgr. 55. gr. Leita skal samráðs við Hafrannsóknastofnunina við undirbúning friðlýsingar skv. 54. gr. Náttúruvernd ríkisins skal gera drög að friðlýsingarskilmálum og leggja fyrir landeigendur, viðkomandi sveitarfélög og aðra sem hagsmuna eiga að gæta.
+ □ Sveitarfélög sem standa að rekstri fólkvangs skulu gera með sér samvinnusamning og stofna samvinnunefnd sem starfar í samráði við [Umhverfisstofnun].[^1)^] Í samvinnusamningi skal kveðið á um fjölda nefndarmanna og starfshætti nefndarinnar. Ef ekki er öðruvísi ákveðið ræður afl atkvæða. Þegar um er að ræða atriði sem hafa sérstakan kostnað í för með sér fer þó um atkvæðisrétt eftir greiðsluhlutföllum aðila, sbr. 56. gr.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *58. gr.* _Undirbúningur friðlýsingar._
+ □ [Umhverfisstofnun][^1)^] annast undirbúning friðlýsingar, sbr. þó 2. mgr. 55. gr. Leita skal samráðs við Hafrannsóknastofnunina við undirbúning friðlýsingar skv. 54. gr. [Umhverfisstofnun][^1)^] skal gera drög að friðlýsingarskilmálum og leggja fyrir landeigendur, viðkomandi sveitarfélög og aðra sem hagsmuna eiga að gæta.
  □ Náist samkomulag um friðlýsingu skal málinu vísað til umhverfisráðherra til frekari ákvörðunar.
-■ *59. gr.* _Samkomulag næst ekki um friðlýsingu._
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *59. gr.* _Samkomulag næst ekki um friðlýsingu._
  □ Náist ekki samkomulag um friðlýsingu skal málinu vísað til meðferðar umhverfisráðherra. Ráðherra sendir landeigendum og öðrum rétthöfum lands er friðlýsing snertir, svo og sveitarfélögum, tillögu að friðlýsingu, jafnframt því að birta hana með auglýsingu í Lögbirtingablaði og eftir atvikum á þann hátt sem venja er að birta auglýsingar stjórnvalda á viðkomandi stað.
  □ Skal þeim sem hagsmuna eiga að gæta gefinn kostur á að gera athugasemdir við fyrirhugaða friðlýsingu, koma að mótmælum og gera bótakröfur til ráðherra innan þriggja mánaða.
  □ Að loknum þeim fresti skal ráðherra taka ákvörðun um friðlýsingu og um eignarnám ef þörf krefur, sbr. 64. gr.
@@ -270,13 +289,15 @@ h2. Lög um náttúruvernd
     d. umferð og umferðarrétt almennings,
     e. notkun veiðiréttar.
  □ Í friðlýsingu má enn fremur setja fyrirmæli um nauðsynlegar aðgerðir til þess að almenningur fái notið þess svæðis sem friðlýst er, svo sem um lagningu göngustíga, girðingar og þess háttar.
- □ Ef ætla má að fyrirhugaðar framkvæmdir á friðlýstu svæði raski svo náttúrulegu umhverfi að hætta sé á að ákveðnar lífverur, búsvæði þeirra og vistkerfi eyðist eða verði fyrir verulegum skaða getur umhverfisráðherra látið friðlýsingu taka til banns við slíkum framkvæmdum, enda sé áður fengin umsögn Náttúruverndar ríkisins og Náttúrufræðistofnunar Íslands.
-■ *61. gr.* _Meðferð máls._
+ □ Ef ætla má að fyrirhugaðar framkvæmdir á friðlýstu svæði raski svo náttúrulegu umhverfi að hætta sé á að ákveðnar lífverur, búsvæði þeirra og vistkerfi eyðist eða verði fyrir verulegum skaða getur umhverfisráðherra látið friðlýsingu taka til banns við slíkum framkvæmdum, enda sé áður fengin umsögn [Umhverfisstofnunar][^1)^] og Náttúrufræðistofnunar Íslands.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *61. gr.* _Meðferð máls._
  □ Um undirbúning og ákvörðun um friðlýsingu fer að öðru leyti eftir ákvæðum "stjórnsýslulaga, nr. 37/1993":1993037.html.
  ■ *62. gr.* _Auglýsingar og merkingar._
  □ Umhverfisráðherra skal birta ákvörðun um friðlýsingu og ákvæði hennar í Stjórnartíðindum.
- □ Náttúruvernd ríkisins skal merkja og veita upplýsingar um friðlýst svæði eftir því sem við verður komið og nauðsynlegt þykir að mati stofnunarinnar.
-■ *63. gr.* _Röskun friðlýstra náttúruminja._
+ □ [Umhverfisstofnun][^1)^] skal merkja og veita upplýsingar um friðlýst svæði eftir því sem við verður komið og nauðsynlegt þykir að mati stofnunarinnar.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *63. gr.* _Röskun friðlýstra náttúruminja._
  □ Friðlýstum náttúruminjum má enginn granda, spilla né breyta. Varðar röskun þeirra refsingu skv. 76. gr., sbr. og 75. gr.
 ■ *64. gr.* _Heimild til eignarnáms._
  □ Umhverfisráðherra er heimilt að taka eignarnámi lönd, mannvirki og réttindi til að framkvæma friðlýsingu samkvæmt lögum þessum. Um framkvæmd eignarnáms og ákvörðun bóta fer eftir ákvæðum "laga um framkvæmd eignarnáms, nr. 11/1973":1973011.html.
@@ -284,8 +305,9 @@ h2. Lög um náttúruvernd
  *VIII. kafli.* *Náttúruverndaráætlun og náttúruminjaskrá.*
  ■ *65. gr.* _Náttúruverndaráætlun._
  □ Umhverfisráðherra skal eigi sjaldnar en á fimm ára fresti láta vinna náttúruverndaráætlun fyrir landið allt og leggja fyrir Alþingi.
- □ Náttúruvernd ríkisins skal í samráði við Náttúrufræðistofnun Íslands, náttúrustofur og hlutaðeigandi náttúruverndarnefndir sjá um undirbúning og öflun gagna vegna áætlunarinnar.
-■ *66. gr.* _Efni náttúruverndaráætlunar._
+ □ [Umhverfisstofnun][^1)^] skal í samráði við Náttúrufræðistofnun Íslands, náttúrustofur og hlutaðeigandi náttúruverndarnefndir sjá um undirbúning og öflun gagna vegna áætlunarinnar.
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *66. gr.* _Efni náttúruverndaráætlunar._
  □ Í náttúruverndaráætlun skv. 65. gr. skulu vera sem gleggstar upplýsingar um náttúruminjar, þ.e. náttúruverndarsvæði og lífverur, [búsvæði þeirra, vistgerðir][^1)^] og vistkerfi, sem ástæða þykir til að friðlýsa. Skal í áætluninni lýst sérkennum minjanna og þýðingu þeirra í náttúru landsins.
  □ [Áætlun skal m.a. taka til helstu tegunda vistgerða og vistkerfa hér á landi, svo og jarðmyndana.][^1)^] Við gerð hennar skal m.a. taka tillit til:
     a. menningarlegrar og sögulegrar arfleifðar,
@@ -303,8 +325,8 @@ h2. Lög um náttúruvernd
     _[^1)^]_"L. 140/2001, 13. gr.":/altext/stjt/2001.140.html
  ■ *67. gr.* _Náttúruminjaskrá._
  □ Umhverfisráðherra skal gefa út heildstæða náttúruminjaskrá[^1)^] eigi sjaldnar en fimmta hvert ár og birta í Stjórnartíðindum. Birta má hvenær sem er ákvarðanir um ný svæði sem tekin eru á náttúruminjaskrá.
- □ Náttúruvernd ríkisins skal í samráði við Náttúrufræðistofnun Íslands og hlutaðeigandi náttúrustofur og náttúruverndarnefndir sjá um undirbúning og öflun gagna vegna viðbóta við náttúruminjaskrá og heildarútgáfu hennar.
-    _[^1)^]Augl. 631/1995_, sbr. 78/2002.
+ □ [Umhverfisstofnun][^2)^] skal í samráði við Náttúrufræðistofnun Íslands og hlutaðeigandi náttúrustofur og náttúruverndarnefndir sjá um undirbúning og öflun gagna vegna viðbóta við náttúruminjaskrá og heildarútgáfu hennar.
+    _[^1)^]Augl. 631/1995_, sbr. 78/2002. [^2)^]"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
  ■ *68. gr.* _Efni náttúruminjaskrár._
  □ Í náttúruminjaskrá skulu vera sem gleggstar upplýsingar um:
     a. friðlýstar náttúruminjar,
@@ -318,9 +340,10 @@ h2. Lög um náttúruvernd
 
  *IX. kafli.* *Ýmis ákvæði.*
  ■ *70. gr.* _Útivistarsvæði._
- □ Til stuðnings við útivist geta sveitarfélög, Náttúruvernd ríkisins eða náttúruverndarnefndir gengist fyrir að halda opnum göngustígum, strandsvæðum til sjóbaða, vatnsbökkum og öðrum stígum og svæðum sem ástæða er til að halda opnum til að greiða fyrir því að almenningur fái notið náttúrunnar; enn fremur sett upp göngubrýr, hlið og göngustiga og afmarkað tjaldsvæði og gert annað það er þurfa þykir í þessu skyni.
+ □ Til stuðnings við útivist geta sveitarfélög, [Umhverfisstofnun][^1)^] eða náttúruverndarnefndir gengist fyrir að halda opnum göngustígum, strandsvæðum til sjóbaða, vatnsbökkum og öðrum stígum og svæðum sem ástæða er til að halda opnum til að greiða fyrir því að almenningur fái notið náttúrunnar; enn fremur sett upp göngubrýr, hlið og göngustiga og afmarkað tjaldsvæði og gert annað það er þurfa þykir í þessu skyni.
  □ Framkvæmdir samkvæmt þessari grein skulu einungis gerðar með samþykki eigenda eða rétthafa lands.
-■ *71. gr.* ...[^1)^]
+    _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html
+ ■ *71. gr.* ...[^1)^]
     _[^1)^]_"L. 140/2001, 15. gr.":/altext/stjt/2001.140.html
  ■ *72. gr.* _Kostnaður við framkvæmd laganna._
  □ Kostnaður við framkvæmd laga þessara skal greiddur úr ríkissjóði eftir því sem ákveðið er í fjárlögum.
@@ -343,7 +366,8 @@ h2. Lög um náttúruvernd
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Umhverfisráðherra skal eigi síðar en árið 2002 leggja fyrir Alþingi í fyrsta sinn náttúruverndaráætlun skv. 65. gr.
- ■ *II.* Umhverfisráðherra skal fela Náttúruvernd ríkisins, í samráði við hlutaðeigandi ráðuneyti, stofnanir, sveitarfélög og framkvæmdaraðila, að gera tillögur um frágang efnistökusvæða sem hætt er að nota og eftir atvikum þeirra sem nú eru í notkun og ekki liggur fyrir áætlun um frágang á. Skal stofnunin gera áætlun um frágang svæðanna og kostnað við hann, svo og tillögur um greiðslu kostnaðar. Þá skal stofnunin enn fremur hafa umsjón með frágangi svæðanna. Skal honum lokið eigi síðar en árið 2003.
+ ■ *II.* Umhverfisráðherra skal fela Náttúruvernd ríkisins,[^1)^] í samráði við hlutaðeigandi ráðuneyti, stofnanir, sveitarfélög og framkvæmdaraðila, að gera tillögur um frágang efnistökusvæða sem hætt er að nota og eftir atvikum þeirra sem nú eru í notkun og ekki liggur fyrir áætlun um frágang á. Skal stofnunin gera áætlun um frágang svæðanna og kostnað við hann, svo og tillögur um greiðslu kostnaðar. Þá skal stofnunin enn fremur hafa umsjón með frágangi svæðanna. Skal honum lokið eigi síðar en árið 2003.
+    _[^1)^]Nú Umhverfisstofnun, sbr._ "l. 164/2002, 22. gr.":/altext/stjt/2002.164.html
  ■ *III.* Sveitarstjórnir skulu eigi síðar en árið 2002 hafa lokið úttekt á ástandi skv. 44. gr. og skilað Náttúruvernd ríkisins skriflegri greinargerð þar að lútandi.
 
 

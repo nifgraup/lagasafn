@@ -6,6 +6,8 @@ h2. Lög um Lífeyrissjóð sjómanna
 
 <hr />
 
+Breytt með "l. 151/2002":/altext/stjt/2002.151.html (tóku gildi 1. jan. 2003).
+
 
  *I. kafli.* *Heiti sjóðsins, hlutverk, aðild og iðgjald.*
  ■ *1. gr.* Sjóðurinn heitir Lífeyrissjóður sjómanna og starfar með því skipulagi og markmiði sem kveðið er á um í lögum þessum og samþykktum sjóðsins.
@@ -32,13 +34,119 @@ h2. Lög um Lífeyrissjóð sjómanna
  □ Stig ársins reiknast þannig að deilt skal í tíföld iðgjöld sem greidd hafa verið vegna hlutaðeigandi sjóðfélaga með grundvallarlaunum ársins skv. 2. mgr. Við útreikning lífeyris reiknast áunnin stig að fullu. Ef um maka- og örorkulífeyri er að ræða skal reikna að fullu stig þeirra 30 ára sem hagstæðust eru fyrir sjóðfélagann en að hálfu stig annarra ára. Þó skal aldrei miða við færri stig en áunnin eru.
  □ Ekki skal reikna stig fyrir tíma eftir lok þess mánaðar er sjóðfélagi nær 70 ára aldri.
  □ Stig skulu reiknuð með þremur aukastöfum.
-■ *9. gr.* Sjóðfélagi, sem orðinn er fullra 65 ára að aldri, á rétt á ellilífeyri úr sjóðnum.
+■ *9. gr.* [Sjóðfélagi, sem orðinn er fullra 65 ára að aldri, á rétt á ellilífeyri úr sjóðnum.
  □ Upphæð ellilífeyris er hundraðshluti af grundvallarlaunum sjóðsins og nemur hundraðshluti þessi samanlögðum stigafjölda sem sjóðfélaginn hefur áunnið sér, margfölduðum með 1,496.
- □ Heimilt er sjóðfélaga sem stundað hefur sjómennsku í 25 ár eða lengur og verið lögskráður á íslensk skip eða erlend í útgerð íslenskra aðila í 180 daga að meðaltali á ári, þó ekki skemur en 120 daga ár hvert, að hefja töku ellilífeyris þegar hann er fullra 60 ára. Skal þá upphæð ellilífeyris lækka um 0,4% fyrir hvern mánuð eða brot úr mánuði sem vantar á 65 ára aldur er taka lífeyris hefst.
- □ Taki sjóðfélagi ellilífeyri á aldrinum 60 - 65 ára og greiði á sama tíma iðgjöld til sjóðsins ávinnur hann sér réttindi að hálfu vegna þeirra iðgjalda. Skulu réttindi reiknuð á ný við 65 ára aldur.
- □ Heimilt er sjóðfélaga að fresta töku ellilífeyris allt til 70 ára aldurs og hækkar þá upphæð ellilífeyris vegna réttinda sem áunnin voru fram til 65 ára aldurs um 0,5% fyrir hvern mánuð sem töku hans er frestað.
- □ Haldi sjóðfélagi áfram að ávinna sér réttindi eftir 65 ára aldur og hann hefur hafið töku ellilífeyris skulu stig hans reiknuð á ný er hann hefur náð 70 ára aldri.
-■ *10. gr.* Sjóðfélagi sem verður fyrir orkutapi, sem telja verður að nemi 40% eða meira, á rétt á örorkulífeyri úr sjóðnum, enda hafi hann:
+ □ Heimilt er sjóðfélaga að hefja töku ellilífeyris áður en hann nær 65 ára aldri, en þó ekki fyrr en frá 60 ára aldri. Skal þá útreiknaður ellilífeyrir hans miðað við 65 ára aldur lækkaður fyrir hvern mánuð sem nemur samanlagðri prósentutölu samkvæmt eftirfarandi töflu:
+
+
+<table>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<tbody>
+<tr class="odd">
+<td align="left">Taka ellilífeyris</td>
+<td align="left">Lækkun fyrir</td>
+<td align="left"></td>
+<td align="left">Samtals</td>
+</tr>
+<tr class="even">
+<td align="left">hefst</td>
+<td align="left">hvern mánuð</td>
+<td align="left">Aldur</td>
+<td align="left">lækkun</td>
+</tr>
+<tr class="odd">
+<td align="left">64 - 65 ára</td>
+<td align="left">0,65%</td>
+<td align="left">64 ára</td>
+<td align="left">7,8%</td>
+</tr>
+<tr class="even">
+<td align="left">63 - 64 ára</td>
+<td align="left">0,60%</td>
+<td align="left">63 ára</td>
+<td align="left">15,0%</td>
+</tr>
+<tr class="odd">
+<td align="left">62 - 63 ára</td>
+<td align="left">0,55%</td>
+<td align="left">62 ára</td>
+<td align="left">21,6%</td>
+</tr>
+<tr class="even">
+<td align="left">61 - 62 ára</td>
+<td align="left">0,50%</td>
+<td align="left">61 ára</td>
+<td align="left">27,6%</td>
+</tr>
+<tr class="odd">
+<td align="left">60 - 61 ára</td>
+<td align="left">0,45%</td>
+<td align="left">60 ára</td>
+<td align="left">33,0%</td>
+</tr>
+</tbody>
+</table>
+
+□ Á sama hátt er sjóðfélaga heimilt að fresta töku ellilífeyris um allt að fimm ár og skal þá útreiknaður ellilífeyrir hans miðað við 65 ára aldur hækkaður fyrir hvern mánuð sem nemur samanlagðri prósentutölu samkvæmt eftirfarandi töflu:
+
+
+<table>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<tbody>
+<tr class="odd">
+<td align="left">Taka ellilífeyris</td>
+<td align="left">Hækkun fyrir</td>
+<td align="left"></td>
+<td align="left">Samtals</td>
+</tr>
+<tr class="even">
+<td align="left">hefst</td>
+<td align="left">hvern mánuð</td>
+<td align="left">Aldur</td>
+<td align="left">hækkun</td>
+</tr>
+<tr class="odd">
+<td align="left">65 - 66 ára</td>
+<td align="left">0,70%</td>
+<td align="left">66 ára</td>
+<td align="left">8,4%</td>
+</tr>
+<tr class="even">
+<td align="left">66 - 67 ára</td>
+<td align="left">0,75%</td>
+<td align="left">67 ára</td>
+<td align="left">17,4%</td>
+</tr>
+<tr class="odd">
+<td align="left">67 - 68 ára</td>
+<td align="left">0,80%</td>
+<td align="left">68 ára</td>
+<td align="left">27,0%</td>
+</tr>
+<tr class="even">
+<td align="left">68 - 69 ára</td>
+<td align="left">0,85%</td>
+<td align="left">69 ára</td>
+<td align="left">37,2%</td>
+</tr>
+<tr class="odd">
+<td align="left">69 - 70 ára</td>
+<td align="left">0,90%</td>
+<td align="left">70 ára</td>
+<td align="left">48,0%</td>
+</tr>
+</tbody>
+</table>
+
+□ Haldi sjóðfélagi áfram að ávinna sér réttindi eftir að hann hefur hafið töku ellilífeyris skulu stig hans reiknuð á ný við 65 og 70 ára aldur.][^1)^]
+    _[^1)^]_"L. 151/2002, 1. gr.":/altext/stjt/2002.151.html Þrátt fyrir breytinguna skerðist ekki réttur til greiðslu lífeyris úr sjóðnum sem stofnast hefur fyrir gildistöku "laga nr. 151/2002":/altext/stjt/2002.151.html, sbr. brbákv. þeirra laga.
+ ■ *10. gr.* Sjóðfélagi sem verður fyrir orkutapi, sem telja verður að nemi 40% eða meira, á rétt á örorkulífeyri úr sjóðnum, enda hafi hann:
     a. greitt iðgjöld til sjóðsins a.m.k. þrjú af undanfarandi fjórum almanaksárum og áunnið sér eigi minna en eitt stig hvert þessara þriggja ára,
     b. greitt iðgjöld til sjóðsins í a.m.k. sex mánuði á undanfarandi tólf mánuðum,
     c. orðið fyrir tekjuskerðingu af völdum orkutapsins. Aldrei skal samanlagður örorkulífeyrir og barnalífeyrir vera hærri en sem nemur þeim tekjumissi sem sjóðfélaginn hefur sannanlega orðið fyrir sökum örorkunnar.
@@ -54,12 +162,15 @@ h2. Lög um Lífeyrissjóð sjómanna
  □ Skylt er öryrkja sem sækir um örorkulífeyri úr sjóðnum eða nýtur slíks lífeyris að láta stjórn sjóðsins í té allar þær upplýsingar um heilsufar sitt og atvinnutekjur sem nauðsynlegar eru til að dæma um rétt hans til lífeyris.
  □ Stjórn sjóðsins skal lækka eða fella niður örorkulífeyri þeirra öryrkja sem fá starfsorku sína aftur að nokkru eða öllu leyti. Sömuleiðis ber henni að hækka örorkulífeyrinn ef örorkan eykst til muna og án sjálfskaparvíta frá því sem hún var metin við fyrri ákvarðanir, enda hafi sjóðfélaginn á þeim tíma er örorkan jókst ekki verið í starfi er veitti honum lífeyrisréttindi í öðrum lífeyrissjóði.
  □ Örorkulífeyrir fellur niður við 65 ára aldur. Ellilífeyrir skal þá ákveðinn þannig að auk áunninna stiga skal reikna að þeim hluta er hundraðshluti örorku segir til um stig sem við úrskurðun örorkulífeyris voru reiknuð sjóðfélaganum til 60 ára aldurs. Aldrei skal þó slík viðbót við áunnin stig vera meiri en svo að heildarstigafjöldi hvert almanaksár verði hærri en almennt tíðkast í stétt eða starfsgrein hlutaðeigandi sjóðfélaga.
-■ *11. gr.* Nú andast sjóðfélagi sem naut elli- eða örorkulífeyris úr sjóðnum eða greitt hafði iðgjald til hans í a.m.k. 24 mánuði á undanfarandi 36 mánuðum og lætur eftir sig maka, og á hinn eftirlifandi maki þá rétt á lífeyri úr sjóðnum, enda hafi hann verið orðinn 35 ára að aldri við fráfall sjóðfélagans og hjónabandið staðið í a.m.k. fimm ár og verið stofnað áður en sjóðfélaginn náði 60 ára aldri.
- □ Láti sjóðfélagi eftir sig eitt barn eða fleiri innan 19 ára aldurs sem hann hefur átt með eftirlifandi maka sínum skal makalífeyrir veittur án tillits til hjúskapartíma og aldurs sjóðfélaga og eftirlifandi maka. Kjörbarn þeirra veitir sama rétt, enda hafi ættleiðingin átt sér stað fyrir 60 ára aldur sjóðfélagans, áður en hann missti starfsorku sína og a.m.k. einu ári áður en hann lést.
- □ Nú andast sjóðfélagi sem uppfyllir skilyrði 1. mgr. 10. gr. um iðgjaldagreiðslutíma, en maki hans fær ekki úrskurðaðan makalífeyri skv. 1. eða 2. mgr. þessarar greinar, eða greiðsla skv. 2. mgr. stendur skemur en 24 mánuði, og skal makalífeyrir þá engu að síður greiddur í 24 mánuði eftir fráfall sjóðfélagans. Ef eftirlifandi maki er a.m.k. 50% öryrki og yngri en 67 ára skal makalífeyrir greiddur á meðan það ástand varir.
+■ *11. gr.* [Nú andast sjóðfélagi, sem naut elli- eða örorkulífeyris úr sjóðnum eða greitt hafði iðgjald til hans í a.m.k. 24 mánuði á undanfarandi 36 mánuðum fyrir andlátið og lætur eftir sig maka, og á þá hinn eftirlifandi maki rétt á lífeyri úr sjóðnum.
+ □ Óskertur makalífeyrir skv. 7. mgr. er ætíð greiddur eftirlifandi maka í minnst 36 mánuði, enda hafi fjárfélagi ekki verið slitið fyrir andlátið.
+ □ Eftirlifandi maki fær þó ávallt greiddan makalífeyri þar til yngsta barn sem var á framfæri sjóðfélagans nær 19 ára aldri, enda sé það á framfæri makans.
+ □ Sé maki a.m.k. 50% öryrki skal greiddur makalífeyrir meðan sú örorka varir, enda sé eftirlifandi maki yngri en 65 ára.
+ □ Ef maki sjóðfélaga er fæddur fyrir 1965 á hann rétt á ævilöngum makalífeyri. Makalífeyrir reiknast skv. 7. mgr., en lækkar um 2% fyrir hvert ár sem makinn er fæddur eftir 1. janúar 1945, 2% að auki fyrir hvert ár sem makinn er fæddur eftir 1. janúar 1950, 2% að auki fyrir hvert ár sem makinn er fæddur eftir 1. janúar 1955 og 2% að auki fyrir hvert ár sem makinn er fæddur eftir 1. janúar 1960. Skerðing innan fæðingarárs reiknast hlutfallslega út frá dagafjölda fram að fæðingardegi miðað við dagafjölda ársins. Önnur ákvæði um makalífeyri gilda þó meðan þau eru hagstæðari fyrir makann.
  □ Maki samkvæmt þessari grein telst sá eða sú sem við andlátið var í hjúskap með sjóðfélaga, staðfestri samvist eða óvígðri sambúð, enda hafi fjárfélagi ekki verið slitið fyrir andlát sjóðfélagans. Með óvígðri sambúð er átt við sambúð karls og konu sem eiga sameiginlegt lögheimili, eru samvistum, eiga barn saman eða konan er þunguð eða sambúðin hefur varað samfleytt í a.m.k. tvö ár. Heimilt er að greiða makalífeyri til aðila sem hefur sannanlega annast heimili sjóðfélaga um árabil fyrir andlát hans. Réttur til makalífeyris fellur niður ef makinn gengur í hjónaband á ný, stofnar til sambúðar sem jafna má til hjúskapar eða stofnar til staðfestrar samvistar, enda sé ekki kveðið á um annað í samþykktum sjóðsins.
- □ Upphæð makalífeyris er hundraðshluti af grundvallarlaunum sjóðsins og nemur hundraðshluti þessi samanlögðum stigafjölda sem sjóðfélaganum er reiknaður, margfölduðum með 0,792. Auk áunninna stiga skal telja með þau stig sem ætla má að sjóðfélaginn hefði áunnið sér fram til 60 ára aldurs, reiknuð í samræmi við ákvæði 5. og 6. mgr. 10. gr., en þó skal aldrei miða meðaltal stiga við fleiri almanaksár en þau sem sjóðfélaginn hefur greitt iðgjöld. Hafi sjóðfélaginn notið örorkulífeyris úr sjóðnum skal reikna stig frá þeim tíma er honum var veittur örorkulífeyrir til 60 ára aldurs í samræmi við stig þau sem lögð voru til grundvallar örorkulífeyri. Veiti dauðsfallið hinum eftirlifandi maka jafnframt rétt til lífeyris úr öðrum sjóði skal hann því aðeins fá lífeyri úr þessum sjóði vegna ókomins tíma að hann hafi síðast greitt iðgjöld til hans.
-■ *12. gr.* Nú andast sjóðfélagi sem greitt hefur iðgjöld til sjóðsins eða notið úr honum örorkulífeyris a.m.k. 24 mánuði á undanfarandi 36 mánuðum, og eiga þá börn hans og kjörbörn er hann lætur eftir sig og yngri eru en 18 ára rétt á lífeyri úr sjóðnum til 18 ára aldurs. Sama rétt til lífeyris öðlast börn fædd eða ættleidd fyrir orkutap sjóðfélaga sem nýtur fulls örorkulífeyris. Ef örorka er metin lægri en 100% skal barnalífeyrir vera hlutfallslega lægri. Veiti fráfall sjóðfélagans börnunum jafnframt rétt til lífeyris úr öðrum lífeyrissjóði skal lífeyrir úr þessum sjóði þó bundinn því skilyrði að sjóðfélaginn hafi síðast greitt iðgjöld til þessa sjóðs.
+ □ Upphæð makalífeyris er hundraðshluti af grundvallarlaunum sjóðsins og nemur hundraðshluti þessi samanlögðum stigafjölda sem sjóðfélaganum er reiknaður, margfölduðum með 0,792. Auk áunninna stiga skal telja með þau stig sem ætla má að sjóðfélaginn hefði áunnið sér fram til 60 ára aldurs, reiknuð í samræmi við ákvæði 5. og 6. mgr. 10. gr., en þó skal aldrei miða meðaltal stiga við fleiri almanaksár en þau sem sjóðfélaginn hefur greitt iðgjöld. Hafi sjóðfélaginn notið örorkulífeyris úr sjóðnum skal reikna stig frá þeim tíma er honum var veittur örorkulífeyrir til 60 ára aldurs í samræmi við stig þau sem lögð voru til grundvallar örorkulífeyri. Veiti dauðsfallið hinum eftirlifandi maka jafnframt rétt til lífeyris úr öðrum sjóði skal hann því aðeins fá lífeyri úr þessum sjóði vegna ókomins tíma að hann hafi síðast greitt iðgjöld til hans.][^1)^]
+    _[^1)^]_"L. 151/2002, 2. gr.":/altext/stjt/2002.151.html Þrátt fyrir breytinguna skerðist ekki réttur til greiðslu lífeyris úr sjóðnum sem stofnast hefur fyrir gildistöku "laga nr. 151/2002":/altext/stjt/2002.151.html, sbr. brbákv. þeirra laga.
+ ■ *12. gr.* Nú andast sjóðfélagi sem greitt hefur iðgjöld til sjóðsins eða notið úr honum örorkulífeyris a.m.k. 24 mánuði á undanfarandi 36 mánuðum, og eiga þá börn hans og kjörbörn er hann lætur eftir sig og yngri eru en 18 ára rétt á lífeyri úr sjóðnum til 18 ára aldurs. Sama rétt til lífeyris öðlast börn fædd eða ættleidd fyrir orkutap sjóðfélaga sem nýtur fulls örorkulífeyris. Ef örorka er metin lægri en 100% skal barnalífeyrir vera hlutfallslega lægri. Veiti fráfall sjóðfélagans börnunum jafnframt rétt til lífeyris úr öðrum lífeyrissjóði skal lífeyrir úr þessum sjóði þó bundinn því skilyrði að sjóðfélaginn hafi síðast greitt iðgjöld til þessa sjóðs.
  □ Fullur barnalífeyrir skal vera að lágmarki 5.500 kr. á mánuði með hverju barni örorkulífeyrisþega. Við andlát sjóðfélaga skal barnalífeyrir að lágmarki vera 7.500 kr. með hverju barni. Fjárhæðir þessar skulu breytast árlega í hlutfalli við breytingu á vísitölu neysluverðs miðað við grunnvísitölu 173,5 stig.
  □ Fósturbörn og stjúpbörn, sem sjóðfélagi hefur framfært að mestu eða öllu leyti, skulu eiga rétt á barnalífeyri. Skulu lífeyrisgreiðslur sjóðsins vegna slíkra barna vera hinar sömu og vera mundu ef um börn eða kjörbörn væri að ræða.
  □ Barnalífeyrir greiðist framfæranda barnsins.

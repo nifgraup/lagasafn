@@ -2,9 +2,7 @@ h2. !/myndir/althlit.gif!Kaflar lagasafns
 
 <hr />
 
-Uppfært til október 2002 (útgáfa 127b).
-
-"Allir kaflar lagasafnsins":allir.kaflar.html
+Uppfært til janúar 2003 (útgáfa 128a).
 
 # "Stjórnskipunarlög o.fl.":1.html
 # "Mannréttindi":2.html
@@ -34,7 +32,7 @@ Uppfært til október 2002 (útgáfa 127b).
 # "Vinnuréttur":26.html
 # "Atvinnurekstur":27.html
 # "Verslun og viðskipti":28.html
-# "Bankar, lánastofnanir og verðbréfaviðskipti":29.html
+# "Bankar og fjármálafyrirtæki":29.html
 # "Vátryggingar":30.html
 # "Iðnaður":31.html
 # "Náttúruauðlindir og orkumál":32.html

@@ -6,7 +6,7 @@ h2. Lög um verðbréfasjóði
 
 <hr />
 
-*Tóku gildi 1. júlí 1993.* Breytt með "l. 21/1996":/altext/stjt/1996.021.html (tóku gildi 15. apríl 1996), "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 17/1999":/altext/stjt/1999.017.html (tóku gildi 24. mars 1999), "l. 99/2000":/altext/stjt/2000.099.html (tóku gildi 6. júní 2000) og "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002).
+*Tóku gildi 1. júlí 1993.* Breytt með "l. 21/1996":/altext/stjt/1996.021.html (tóku gildi 15. apríl 1996), "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 17/1999":/altext/stjt/1999.017.html (tóku gildi 24. mars 1999), "l. 99/2000":/altext/stjt/2000.099.html (tóku gildi 6. júní 2000), "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002) og "l. 161/2002":2002161.html (tóku gildi 1. jan. 2003).
 
 
  *I. kafli.* *Gildissvið.*
@@ -74,11 +74,10 @@ h2. Lög um verðbréfasjóði
     _[^1)^]_"L. 76/2002, 44. gr.":/altext/stjt/2002.076.html [^2)^]"L. 21/1996, 2. gr.":/altext/stjt/1996.021.html
 
  *V. kafli.* *Rekstrarfélög og vörslufyrirtæki.*
- ■ *12. gr.* Rekstur verðbréfasjóðs skal falinn sérstöku rekstrarfélagi sem hlotið hefur viðurkenningu [Fjármálaeftirlitsins].[^1)^] [Rekstrarfélag verður eingöngu stofnað sem hlutafélag eða einkahlutafélag og skal hafa aðsetur hér á landi.][^2)^] Það skal vera óháð í störfum sínum og einungis hafa með höndum daglegan rekstur verðbréfasjóða eða annarra fyrirtækja um sameiginlega fjárfestingu í framseljanlegum verðbréfum sem ekki falla undir ákvæði laga þessara. Rekstrarfélag má ekki jafnframt vera vörslufyrirtæki skv. 14. gr.
- □ Rekstrarfélagi er óheimilt að eignast hluti með atkvæðisrétti í þeim mæli að það geri félaginu kleift að hafa veruleg áhrif á stjórnun útgefanda verðbréfa.
-    _[^1)^]_"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html [^2)^]"L. 21/1996, 3. gr.":/altext/stjt/1996.021.html
- ■ *13. gr.* [Daglegur stjórnandi rekstrarfélags skal uppfylla sömu skilyrði og framkvæmdastjóri fyrirtækis í verðbréfaþjónustu samkvæmt lögum um verðbréfaviðskipti og hafa staðist próf í verðbréfamiðlun samkvæmt prófkröfum sem settar eru í reglugerð. Honum er óheimilt að sitja í stjórn atvinnufyrirtækja án samþykkis Fjármálaeftirlitsins.][^1)^]
-    _[^1)^]_"L. 99/2000, 12. gr.":/altext/stjt/2000.099.html
+ ■ *12. gr.* [Rekstur verðbréfasjóðs skal falinn sérstöku rekstrarfélagi sem hlotið hefur starfsleyfi Fjármálaeftirlitsins samkvæmt lögum um fjármálafyrirtæki.][^1)^]
+    _[^1)^]_"L. 161/2002, 114. gr.":2002161.html#g114
+ ■ *13. gr.* ...[^1)^]
+    _[^1)^]_"L. 161/2002, 114. gr.":2002161.html#g114
  ■ *14. gr.* Umsjá og varðveisla verðbréfa verðbréfasjóðs skal falin vörslufyrirtæki sem hlotið hefur viðurkenningu [Fjármálaeftirlitsins][^1)^] eða lögbærra yfirvalda í hlutaðeigandi ríki. Fjármunum verðbréfasjóðs skal haldið aðgreindum frá fjármunum vörslufyrirtækis. Vörslufyrirtæki skal
     1. sjá um að sala, útgáfa, endurkaup, innlausn og ógilding hlutdeildarskírteina verðbréfasjóðs fari samkvæmt lögum og samþykktum sjóðsins,
     2. sjá um að innlausnarvirði hlutdeildarskírteina sé reiknað í samræmi við lög og samþykktir sjóðsins,
