@@ -96,8 +96,8 @@ h2. Lög um meðhöndlun úrgangs
  □ Umhverfisráðherra setur, að fengnum tillögum Umhverfisstofnunar og að höfðu samráði við Samband íslenskra sveitarfélaga, reglugerð um eftirtalin atriði varðandi framkvæmd laga þessara:
     a. nánari skilgreiningar á spilliefnum og öðrum úrgangi, svo og lista yfir úrgang,
     b. að hvaða leyti blöndun, móttaka og förgun einstakra tegunda úrgangs eða úrgangsflokka er takmörkuð eða bönnuð,
-    c. aðferðir við móttöku og meðhöndlun úrgangs, þ.m.t. förgunarleiðir,
-    d. hvaða úrgang heimilt er að meðhöndla í hverjum flokki móttökustöðva,
+    c. aðferðir við móttöku og meðhöndlun úrgangs, þ.m.t. förgunarleiðir,[^1)^]
+    d. hvaða úrgang heimilt er að meðhöndla í hverjum flokki móttökustöðva,[^1)^]
     e. nánari atriði varðandi innihald áætlana sveitarstjórna skv. 4. gr.,
     f. starfsleyfistryggingu skv. 15. gr.,
     g. nánari atriði sem varða skilyrði starfsleyfis, þ.m.t. meðhöndlun á hauggasi og sigvatni frá urðunarstöðum,
@@ -106,9 +106,10 @@ h2. Lög um meðhöndlun úrgangs
     j. hvernig staðið skal að lokun móttökustöðvar,
     k. eftirlit með útflutningi, umflutningi og innflutningi úrgangs, þ.m.t. tryggingu skv. 12. gr.,
     l. önnur atriði sem samræmast lögum þessum.
+    _[^1)^]_"Rg. 737/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/737-2003 (um meðhöndlun úrgangs). "Rg. 738/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/738-2003 (um urðun úrgangs). "Rg. 739/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/739-2003 (um brennslu úrgangs).
 
  *III. kafli.* *Sérákvæði um urðunarstaði.*
-■ *14. gr.* _Umsókn um starfsleyfi fyrir urðunarstað._
+ ■ *14. gr.* _Umsókn um starfsleyfi fyrir urðunarstað._
  □ Í umsókn um starfsleyfi fyrir urðunarstað skal auk þess sem fram kemur í 6. gr. lýsa fyrirhuguðum urðunarstað sérstaklega með tilliti til vatnafars og jarðfræði. Í slíkri umsókn skal einnig gera grein fyrir sérstakri fjárhagslegri tryggingu eða ábyrgð umsækjanda fyrir því að fylgt verði ákvæðum starfsleyfisins, þar á meðal ákvæðum um vöktun og umsjón eftir að urðunarstað hefur verið lokað. Ekki þarf þó að leggja fram slíka tryggingu ef eingöngu er urðaður óvirkur úrgangur á viðkomandi urðunarstað.
 ■ *15. gr.* _Starfsleyfistrygging._
  □ Auk almennra skilyrða sem tilgreind eru í 8. gr. er það skilyrði starfsleyfis fyrir urðunarstað að rekstraraðili hafi lagt fram fullnægjandi fjárhagslega tryggingu eða ábyrgð fyrir því að uppfylltar verði þær skyldur sem starfsleyfinu fylgja, þar á meðal um lokunar- og eftirlitsaðgerðir í kjölfar lokunar urðunarstaðarins. Ákvæði þetta gildir þó ekki um urðunarstaði fyrir óvirkan úrgang.

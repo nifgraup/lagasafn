@@ -46,10 +46,11 @@ h2. Lög um Ábyrgðasjóð launa
 ■ *9. gr.* _Kostnaður og skiptatrygging._
  □ Njóti krafa ábyrgðar skv. 5. gr. á kröfuhafi rétt á greiðslu eðlilegs kostnaðar vegna innheimtu hennar, þ.m.t. dæmds málskostnaðar.
  □ Auk kostnaðar skv. 1. mgr. ber sjóðurinn ábyrgð á greiðslu skiptatryggingar sem launamaður eða lífeyrissjóður hefur greitt.
- □ Stjórn Ábyrgðasjóðs launa skal setja reglur sem ráðherra staðfestir um hámark á greiðslu kostnaðar og önnur skilyrði fyrir ábyrgð sjóðsins á kröfum skv. 1. og 2. mgr.
+ □ Stjórn Ábyrgðasjóðs launa skal setja reglur[^1)^] sem ráðherra staðfestir um hámark á greiðslu kostnaðar og önnur skilyrði fyrir ábyrgð sjóðsins á kröfum skv. 1. og 2. mgr.
+    _[^1)^]_"Rgl. 644/2003":http://stjornartidindi.is/servlet/stjrtid/B/2003/644.pdf.
 
  *IV. kafli.* *Undanþágur frá ábyrgð.*
-■ *10. gr.* _Undanþágur._
+ ■ *10. gr.* _Undanþágur._
  □ Kröfur framkvæmdastjóra og stjórnarmanna hins gjaldþrota fyrirtækis njóta ekki ábyrgðar samkvæmt lögum þessum. Sama gildir um kröfur launamanns sem var eigandi, einn eða ásamt maka sínum eða öðrum nákomnum, að verulegum hlut í hinu gjaldþrota fyrirtæki og hafði umtalsverð áhrif á rekstur þess.
  □ Ábyrgðasjóði launa er heimilt að hafna kröfum maka þeirra einstaklinga sem taldir eru upp í 1. mgr., annarra skyldmenna eða þeirra sem nákomnir eru þeim að öðru leyti ef sýnt er fram á að kröfur þeirra séu óréttmætar með tilliti til framangreindra tengsla.
  □ Heimilt er að lækka greiðslu úr sjóðnum miðað við gerða kröfu ef krafan telst óeðlilega há miðað við það starf sem kröfuhafi gegndi, starfstíma hans og þau launakjör sem tíðkast í viðkomandi starfsgrein eða eftir atvikum í hinu gjaldþrota fyrirtæki.
@@ -123,7 +124,7 @@ h2. Lög um Ábyrgðasjóð launa
  *X. kafli.* *Reglugerðarheimild og gildistaka.*
 ■ *27. gr.* _Reglugerðarheimild._
  □ Félagsmálaráðherra skal að fengnum tillögum stjórnar Ábyrgðasjóðs launa setja í reglugerð[^1)^] nánari fyrirmæli um framkvæmd laga þessara.
-    _[^1)^]_"Rg. 339/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/339-1990, "rg. 33/1995":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/033-1995.
+    _[^1)^]_"Rg. 339/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/339-1990, "rg. 462/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/462-2003.
  ■ *28. gr.* _Gildistaka og lagaskil._
  □ Lög þessi, sem sett eru með hliðsjón af tilskipun ráðsins frá 20. október 1980 nr. 80/987/EBE um samræmingu á lögum aðildarríkjanna um vernd til handa launþegum verði vinnuveitandi gjaldþrota, öðlast þegar gildi. ...
  □ Kröfur í bú vinnuveitanda sem úrskurðuð eru gjaldþrota fyrir gildistöku þessara laga njóta ábyrgðar samkvæmt "lögum um ábyrgðasjóð launa vegna gjaldþrota, nr. 53/1993":1993053.html. Ákvæði 10. gr. laga þessara taka þó strax gildi vegna krafna í bú vinnuveitanda sem úrskurðuð eru gjaldþrota fyrir gildistöku þessara laga leiði þau til hagstæðari niðurstöðu fyrir kröfuhafa.

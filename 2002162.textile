@@ -6,7 +6,7 @@ h2. Lög um úrvinnslugjald
 
 <hr />
 
-*Tóku gildi 1. janúar 2003.* _Breytt með_ "l. 8/2003":/altext/stjt/2003.008.html (tóku gildi 12. mars 2003).
+*Tóku gildi 1. janúar 2003.* _EES-samningurinn:_ II. viðauki tilskipun 94/62/EB, XX. viðauki tilskipun 1999/31/EBE og 2000/53/EB. _Breytt með_ "l. 8/2003":/altext/stjt/2003.008.html (tóku gildi 12. mars 2003) og "l. 144/2003":/altext/stjt/2003.144.html (tóku gildi 1. jan. 2004).
 
 
  *I. kafli.* *Markmið og skilgreiningar.*
@@ -32,8 +32,10 @@ h2. Lög um úrvinnslugjald
  □ Umhverfisráðherra leggur að fenginni tillögu stjórnar Úrvinnslusjóðs fram tillögu til fjármálaráðherra um breytingar á fjárhæðum úrvinnslugjalds, álagningu skilagjalds og nýjar gjaldskyldar vörur eftir því sem við á. Fjármálaráðherra flytur frumvarp á Alþingi um fjárhæðir úrvinnslugjalds og skilagjalds.
 ■ *5. gr.* _Úrvinnslugjald á ökutæki._
  □ Skráður eigandi gjaldskylds ökutækis skal á hverju gjaldtímabili greiða úrvinnslugjald að fjárhæð 520 kr. fyrir hvert gjaldskylt ökutæki sitt skv. 2. mgr. "1. gr. laga nr. 39/1988":1988039.html#g1, um bifreiðagjald. Gjalddagar úrvinnslugjalds á ökutæki eru 1. janúar ár hvert vegna gjaldtímabilsins 1. janúar  -  30. júní og 1. júlí ár hvert vegna gjaldtímabilsins 1. júlí  -  31. desember. Gjaldið skal innheimt með bifreiðagjaldi og fer um greiðsluskyldu, gjalddaga, eindaga, álagningu, innheimtu gjaldsins og kæruheimild samkvæmt lögum um bifreiðagjald.
- □ Bifreiðar sem eru undanþegnar bifreiðagjaldi skv. 4. gr. laga um bifreiðagjald eru gjaldskyldar samkvæmt lögum þessum. Gjaldskylda fellur niður frá og með upphafi fyrsta gjaldtímabils eftir að full 15 ár eru liðin frá skráningu ökutækis hér á landi.
-■ *6. gr.* _Skilagjald á ökutæki._
+ □ Bifreiðar sem eru undanþegnar bifreiðagjaldi skv. 4. gr. laga um bifreiðagjald eru gjaldskyldar samkvæmt lögum þessum. [Gjaldtímabil vegna bifreiða samkvæmt málsgrein þessari er 1. janúar  -  31. desember og skal skráður eigandi gjaldskylds ökutækis á gjaldtímabilinu greiða úrvinnslugjald að fjárhæð 1.040 kr. fyrir hvert gjaldskylt ökutæki sitt. Gjalddagi úrvinnslugjalds á bifreiðar samkvæmt málsgrein þessari er 1. júlí ár hvert. Um innheimtu gjaldsins að öðru leyti gildir 1. mgr.][^1)^]
+ □ [Gjaldskylda fellur niður frá og með upphafi fyrsta gjaldtímabils eftir að full 15 ár eru liðin frá skráningu ökutækis hér á landi.][^1)^]
+    _[^1)^]_"L. 144/2003, 1. gr.":/altext/stjt/2003.144.html
+ ■ *6. gr.* _Skilagjald á ökutæki._
  □ Greiða skal skilagjald, 10.000 kr., hverjum þeim sem afhendir gjaldskylt ökutæki til móttökustöðvar til endurnýtingar eða endanlegrar förgunar, enda hafi ökutækið verið afskráð og úrvinnslugjald greitt a.m.k. einu sinni af viðkomandi ökutæki.
  □ Umhverfisráðherra setur í reglugerð ákvæði um fyrirkomulag greiðslu til móttökustöðvar.
 ■ *7. gr.* _Skilagjald á drykkjarvöruumbúðir._
@@ -50,11 +52,13 @@ h2. Lög um úrvinnslugjald
     8. _Varnarefni:_ sbr. viðauka XIV.
     9. _Kælimiðlar:_ sbr. viðauka XV.
     10. _Hjólbarðar:_ sbr. viðauka XVI.
+    [11. _Veiðarfæri úr gerviefnum:_ sbr. viðauka XVII.][^1)^]
  □ Við flokkun til gjaldskyldu samkvæmt lögum þessum skal fylgt flokkunarreglum tollalaga.
  □ Fyrirtækjum og atvinnugreinum er heimilt að semja sín á milli um ráðstafanir til að tryggja úrvinnslu úrgangs vegna svartolíu, enda þjóni það markmiðum laganna. Svartolía er þá undanþegin gjaldtöku samkvæmt lögum þessum, enda hafi stjórn Úrvinnslusjóðs staðfest samninginn, sbr. 3. mgr. 17. gr., og tilkynnt það tollstjóra.
+    _[^1)^]_"L. 144/2003, 2. gr.":/altext/stjt/2003.144.html
 
  *III. kafli.* *Gjaldskyldir aðilar, álagning gjalds, uppgjörstímabil, gjalddagar, skýrslur, álag, dráttarvextir, kæruheimild og kærufrestur.*
-■ *9. gr.* _Gjaldskyldir aðilar._
+ ■ *9. gr.* _Gjaldskyldir aðilar._
  □ Skylda til að greiða úrvinnslugjald samkvæmt lögum þessum, sbr. þó 5. gr., hvílir á eftirtöldum aðilum:
     1. Öllum sem flytja til landsins gjaldskyldar vörur samkvæmt lögum þessum til endursölu.
     2. Öllum sem flytja til landsins gjaldskyldar vörur samkvæmt lögum þessum til eigin nota.
@@ -110,7 +114,7 @@ h2. Lög um úrvinnslugjald
  ■ *21. gr.* _Reglugerðarheimildir._
  □ Umhverfisráðherra setur reglugerð[^1)^] um framkvæmd laga þessara.
  □ Ráðherra skal að fengnum tillögum Úrvinnslusjóðs setja reglugerð um nauðsynlegan frágang úrgangs í hverjum uppgjörsflokki við móttöku í móttökustöð.
-    _[^1)^]_"Rg. 227/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/227-2003.
+    _[^1)^]_"Rg. 501/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-2003.
  ■ *22. gr.* _Gildistaka._
  □ Lög þessi skulu öðlast gildi 1. janúar 2003. ...
  □ Þrátt fyrir ákvæði 1. mgr. skal móttaka á flokkuðum úrgangi, sem til er kominn vegna vara sem bera úrvinnslugjald, hefjast 1. apríl 2003 vegna vöru sem fellur undir viðauka II, X og XVI, 1. júlí 2003 vegna ökutækja, sbr. 5. gr., og eigi síðar en 1. júlí 2004 vegna vöru sem fellur undir viðauka I. Greiðsla skilagjalds á ökutæki, sbr. 6. gr., skal hefjast 1. júlí 2003.
@@ -119,11 +123,12 @@ h2. Lög um úrvinnslugjald
  ■ *I.* Úrvinnslusjóður skal taka við öllum sjóðum og skuldbindingum spilliefnanefndar sem stofnast hafa fyrir gildistöku laga þessara.
  ■ *II.* Ákvæði 7. gr. og 1. tölul. 8. gr., sbr. viðauka III, skulu koma til framkvæmda 1. janúar 2008. Frá sama tíma falla úr gildi "lög nr. 52/1989":1989052.html, um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur, með síðari breytingum.
  □ Úrvinnslusjóði er þó heimilt að undirbúa samning við Endurvinnsluna hf. um að ákvæði 1. mgr. komi til framkvæmda fyrir 1. janúar 2008.
- ■ *III.* Leggja skal úrvinnslugjald á pappírs-, pappa- og plastumbúðir, veiðarfæri úr gerviefnum og heyrúlluplast frá 1. janúar 2004.
+ ■ *III.* [Leggja skal úrvinnslugjald á veiðarfæri úr gerviefnum og pappírs-, pappa- og plastumbúðir frá 1. janúar 2005.][^1)^]
+    _[^1)^]_"L. 144/2003, 3. gr.":/altext/stjt/2003.144.html
  ■ *[IV.* Ákvæði 1. málsl. 2. mgr. 5. gr. laganna koma til framkvæmda 1. júlí 2003.][^1)^]
     _[^1)^]_"L. 8/2003, 1. gr.":/altext/stjt/2003.008.html
 
- *Viðaukar I - XVI.[^1)^]*
-    _[^1)^]Um texta viðauka þessara vísast til Stjtíð. A 2002, bls. 514 - 535, sbr. Stjtíð. A 2003, bls. 15._
+ *Viðaukar I - XVII.[^1)^]*
+    _[^1)^]Um texta viðauka þessara vísast til Stjtíð. A 2002, bls. 514 - 535, sbr. Stjtíð. A 2003, bls. 15 og bls. 584 - 587._
 
 

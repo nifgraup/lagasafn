@@ -97,8 +97,9 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
 ■ *18. gr.* _Útvistun verkefna rekstrarfélags._
  □ Rekstrarfélagi er heimilt að fela öðrum aðilum verkefni þau sem kveðið er á um í 17. gr. að fengnu samþykki Fjármálaeftirlitsins. Rekstrarfélagi er þó aldrei heimilt að útvista öll verkefni skv. 17. gr. Verkefni skv. 1. tölul. 17. gr. er ekki heimilt að fela vörslufyrirtæki eða öðru félagi fari hagsmunir þess ekki saman við hagsmuni rekstrarfélags og eigenda hlutdeildarskírteina.
  □ Nú felur rekstrarfélag öðru fyrirtæki hluta af verkefnum sínum skv. 17. gr. og hefur það engin áhrif á ábyrgð rekstrarfélags gagnvart eigendum hlutdeildarskírteina.
- □ Í reglugerð skal setja nánari reglur um útvistun verkefna rekstrarfélaga.
-■ *19. gr.* _Góðir viðskiptahættir og venjur._
+ □ Í reglugerð[^1)^] skal setja nánari reglur um útvistun verkefna rekstrarfélaga.
+    _[^1)^]_"Rg. 792/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2003.
+ ■ *19. gr.* _Góðir viðskiptahættir og venjur._
  □ Rekstrarfélag skal starfrækja verðbréfasjóð í samræmi við góða viðskiptahætti og venjur með trúverðugleika markaðarins og hagsmuni eigenda hlutdeildarskírteina að leiðarljósi.
  _C. Vörslufyrirtæki._
 ■ *20. gr.* _Starfsemi vörslufyrirtækis._
@@ -147,7 +148,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
 ■ *28. gr.* _Útreikningur innlausnarvirðis._
  □ Innlausnarvirði hlutdeildarskírteina verðbréfasjóða er markaðsvirði samanlagðra eigna að frádregnum skuldum sjóðsins við innlausn, svo sem skuldum hans við innlánsstofnanir, ógreiddum umsýslu- og stjórnunarkostnaði, innheimtukostnaði og áföllnum eða reiknuðum opinberum gjöldum, deilt niður á heildarfjölda útgefinna og óinnleystra hlutdeildarskírteina.
  □ Ráðherra getur í reglugerð[^1)^] sett nánari reglur um útreikning á innlausnarvirði hlutdeildarskírteina verðbréfasjóða og mat á markaðsvirði eigna.
-    _[^1)^]_"Rg. 362/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/362-1993, sbr. "294/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/294-1994.
+    _[^1)^]_"Rg. 792/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2003.
  ■ *29. gr.* _Auglýsing innlausnarvirðis._
  □ Innlausnarvirði hlutdeildarskírteina verðbréfasjóða skal reiknað daglega og auglýst opinberlega eigi sjaldnar en tvisvar í mánuði. Fjármálaeftirlitið getur ákveðið að opinber auglýsing innlausnarvirðis skuli fara fram oftar ef ástæða þykir til.
  _F. Fjárfestingarheimildir._
@@ -181,9 +182,8 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  □ Takmarkanir samkvæmt þessari grein má ekki leggja saman. Því er verðbréfasjóði óheimilt að binda meira en 35% af eignum sínum í verðbréfum, peningamarkaðsskjölum, innlánum eða afleiðum sama útgefanda. Aðilar sem teljast til sömu samstæðu skulu teljast einn aðili við útreikning samkvæmt þessari grein.
 ■ *36. gr.* _Vísitölusjóðir._
  □ Verðbréfasjóði er heimilt að fjárfesta allt að 20% í hlutabréfum eða skuldabréfum sama útgefanda ef markmið fjárfestingarstefnu samkvæmt reglum sjóðsins er að líkja eftir tiltekinni hlutabréfa- eða skuldabréfavísitölu. Vísitalan skal hafa fullnægjandi áhættudreifingu, birt opinberlega og endurspegla viðkomandi markað með fullnægjandi hætti.
- □ Fjármálaeftirlitið getur hækkað heimild skv. 1. mgr. í 35% ef vægi eins útgefanda í vísitölunni er meira en 20%. Fjárfesting yfir 20% er aðeins leyfð í einum útgefanda.[^1)^]
-    _[^1)^]_"Rgl. 331/2003":http://stjornartidindi.is/servlet/stjrtid/B/2003/331.pdf.
- ■ *37. gr.* _Traust verðbréf._
+ □ Fjármálaeftirlitið getur hækkað heimild skv. 1. mgr. í 35% ef vægi eins útgefanda í vísitölunni er meira en 20%. Fjárfesting yfir 20% er aðeins leyfð í einum útgefanda.
+■ *37. gr.* _Traust verðbréf._
  □ Fjármálaeftirlitið getur heimilað verðbréfasjóði að binda allt að 100% af eignum sínum í verðbréfum og peningamarkaðsskjölum skv. 5. mgr. 35. gr. telji Fjármálaeftirlitið það samrýmanlegt hagsmunum eigenda hlutdeildarskírteina.
  □ Fjárfestingar verðbréfasjóðs skv. 1. mgr. skulu dreifast á að minnsta kosti sex mismunandi verðbréfaútgáfur og má fjárfesting í einni og sömu verðbréfaútgáfu ekki nema hærri fjárhæð en sem svarar til 30% af eignum verðbréfasjóðs.
 ■ *38. gr.* _Fjárfestingar í verðbréfasjóðum og öðrum sjóðum um sameiginlega fjárfestingu._
@@ -220,13 +220,14 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  □ Hyggist verðbréfasjóður markaðssetja hlutdeildarskírteini sín utan Íslands skal það tilkynnt Fjármálaeftirlitinu og eftirlitsaðila í því landi þar sem markaðssetning er fyrirhuguð.
  _H. Upplýsingagjöf._
 ■ *46. gr.* _Ársreikningur og árshlutauppgjör._
- □ Í ársreikningi og árshlutauppgjörum rekstrarfélags skulu sérgreindar upplýsingar um verðbréfasjóð eða sérhverja deild hans. Í reglugerð skal setja nánari reglur um sérgreindar upplýsingar um verðbréfasjóði í ársreikningum og árshlutauppgjörum. Þá skulu rekstrarfélög senda Fjármálaeftirlitinu ársfjórðungslegt efnahagsyfirlit verðbréfasjóða í því formi sem Fjármálaeftirlitið ákveður.
-■ *47. gr.* _Útboðslýsing og útdráttur úr útboðslýsingu._
+ □ Í ársreikningi og árshlutauppgjörum rekstrarfélags skulu sérgreindar upplýsingar um verðbréfasjóð eða sérhverja deild hans. Í reglugerð[^1)^] skal setja nánari reglur um sérgreindar upplýsingar um verðbréfasjóði í ársreikningum og árshlutauppgjörum. Þá skulu rekstrarfélög senda Fjármálaeftirlitinu ársfjórðungslegt efnahagsyfirlit verðbréfasjóða í því formi sem Fjármálaeftirlitið ákveður.
+    _[^1)^]Rg. 792/2003,_ "rgl. 97/2004":http://stjornartidindi.is/servlet/stjrtid/B/2004/97.pdf.
+ ■ *47. gr.* _Útboðslýsing og útdráttur úr útboðslýsingu._
  □ Rekstrarfélag skal gefa út útboðslýsingu og útdrátt úr útboðslýsingu fyrir verðbréfasjóð.
  □ Í útboðslýsingu skulu koma fram nauðsynlegar upplýsingar til að fjárfestum sé kleift að meta kosti fjárfestinga í viðkomandi verðbréfasjóði. Í útdrætti úr útboðslýsingu skal draga fram meginatriði útboðslýsingar.
  □ Rekstrarfélag skal senda Fjármálaeftirlitinu útboðslýsingu og útdrátt úr útboðslýsingu í kjölfar breytinga á þeim.
  □ Nánar skal kveðið á um útboðslýsingar og útdrætti úr útboðslýsingum vegna verðbréfasjóða í reglugerð,[^1)^] meðal annars um hvaða upplýsingar skuli birta í útboðslýsingum og útdráttum úr þeim.
-    _[^1)^]_"Rgl. 686/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/686.pdf.
+    _[^1)^]_"Rgl. 792/2003":http://stjornartidindi.is/servlet/stjrtid/B/2003/792.pdf.
  ■ *48. gr.* _Nánari upplýsingar í útboðslýsingu._
  □ Í útboðslýsingu verðbréfasjóðs skal á ítarlegan hátt lýsa fjárfestingarstefnu sjóðsins og, ef við á, einstakra deilda hans og tilgreina þær tegundir fjárfestinga sem honum eru heimilar samkvæmt reglum sjóðsins.
  □ Í útboðslýsingu skal tilgreina hvort sjóði, eða einstakri deild hans, er heimilt að fjárfesta í afleiðum, og sé slíkt heimilt, hvort notkun þeirra takmarkist við tækni til að lágmarka áhættu og fastsetja hagnað vegna verðsveiflna.
@@ -327,7 +328,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  □ Telji Fjármálaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa getur það krafist gagna og upplýsinga hjá viðkomandi aðilum eða hjá eftirlitsskyldum aðilum sem nauðsynleg eru til að ganga úr skugga um hvort svo sé. Getur það krafist þess að slíkri starfsemi sé hætt þegar í stað. Jafnframt er því heimilt að birta opinberlega nöfn aðila sem taldir eru bjóða þjónustu án tilskilinna leyfa.
 ■ *67. gr.* _Reglugerð._
  □ Lög þessi heyra undir viðskiptaráðherra og skal hann kveða nánar á um framkvæmd þeirra með reglugerð.[^1)^] Í reglugerð er meðal annars heimilt að kveða á um fjárfestingarheimildir verðbréfasjóða og fjárfestingarsjóða, góða viðskiptahætti, útvistun verkefna rekstrarfélaga, innlausnarvirði, markaðssetningu utan heimalands, heimildir til markaðssetningar annarra sjóða en verðbréfasjóða utan heimalands og upplýsingagjöf verðbréfasjóða og fjárfestingarsjóða. Í reglugerðinni er einnig heimilt að kveða á um notkun afleiðusamninga verðbréfasjóða og fjárfestingarsjóða og aðferðir til að meta áhrif þeirra á áhættu eignasafns sjóðanna.
-    _[^1)^]_"Rg. 369/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/369-1993.
+    _[^1)^]_"Rg. 792/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2003.
 
  *V. kafli.* *Viðurlög.*
  ■ *68. gr.* _Sektir._
