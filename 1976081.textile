@@ -30,393 +30,308 @@ _[^1)^]Nú "l. 13/1992":1992013.html.[^2)^]"L. 38/1990, 22. gr.":1990038.html#g2
 
      Íslenskum skipum er heimilt að veiða með botnvörpu og flotvörpu innan fiskveiðilandhelginnar á þeim veiðisvæðum og veiðitímum, sem nú verða greind, enda undanþiggi ráðherra ekki tiltekin svæði slíkum veiðum. Þegar rætt er um viðmiðunarlínu er átt við línu, sem dregin er umhverfis landið á milli eftirtalinna staða:
 
-N.br.:
-
-V.lgd.:
-
-1.
-
-Horn (grp. 1)
-
-66°27'4
-
-22°24'3
-
-2.
-
-Selsker (viti)
-
-66°07'5
-
-21°30'0
-
-3.
-
-Ásbúðarrif (grp. 2)
-
-66°08'1
-
-20°11'0
-
-4.
-
-Siglunes (grp. 3)
-
-66°11'9
-
-18°49'9
-
-5.
-
-Flatey (Skjálfanda) (grp. 4)
-
-66°10'3
-
-17°50'3
-
-6.
-
-Mánáreyjar (Lágey) (grp. 5)
-
-66°17'8
-
-17°06'8
-
-7.
-
-Rauðinúpur (grp. 6)
-
-66°30'7
-
-16°32'4
-
-8.
-
-Rifstangi (grp. 7)
-
-66°32'3
-
-16°11'8
-
-9.
-
-Hraunhafnartangi (grp. 8)
-
-66°32'2
-
-16°01'5
-
-10.
-
-Langanes (grp. 9)
-
-66°22'7
-
-14°31'9
-
-11.
-
-Skálatáarsker
-
-65°59'7
-
-14°36'4
-
-12.
-
-Almenningsfles
-
-65°33'1
-
-13°40'5
-
-13.
-
-Glettinganes (grp. 10)
-
-65°30'5
-
-13°36'3
-
-14.
-
-Norðfjarðarhorn (grp. 11)
-
-65°10'0
-
-13°30'8
-
-15.
-
-Gerpir (grp. 12)
-
-65°04'7
-
-13°29'6
-
-16.
-
-Hólmur (Seley) (grp. 13)
-
-64°58'9
-
-13°30'6
-
-17.
-
-Skrúður (Þursi) (grp. 15)
-
-64°54'1
-
-13°36'8
-
-18.
-
-Papey (viti)
-
-64°35'5
-
-14°10'5
-
-19.
-
-Hvítingar (grp. 18)
-
-64°23'9
-
-14°28'0
-
-20.
-
-Stokksnes (grp. 19)
-
-64°14'1
-
-14°58'4
-
-21.
-
-Hrollaugseyjar (grp. 20)
-
-64°01'7
-
-15°58'7
-
-22.
-
-Ingólfshöfði (grp. 22)
-
-63°47'8
-
-16°38'5
-
-23.
-
-Hvalsíki (grp. 23)
-
-63°44'1
-
-17°33'5
-
-24.
-
-Meðalandssandur I (grp. 24)
-
-63°32'4
-
-17°55'6
-
-25.
-
-Meðallandssandur II (grp. 25)
-
-63°30'6
-
-17°59'9
-
-26.
-
-Mýrnatangi (grp. 26)
-
-63°27'4
-
-18°11'8
-
-27.
-
-Kötlutangi (grp. 27)
-
-63°23'4
-
-18°42'8
-
-28.
-
-Lundadrangur (grp. 28)
-
-63°23'5
-
-19°07'5
-
-29.
-
-Bakkafjara (skúr við sæstreng)
-
-63°32'3
-
-20°10'9
-
-30.
-
-Knarrarós (viti)
-
-63°49'4
-
-20°58'6
-
-31.
-
-Hafnarnes
-
-63°50'6
-
-21°23'5
-
-32.
-
-Selvogur (viti)
-
-63°49'3
-
-21°39'1
-
-33.
-
-Krýsuvíkurberg (viti)
-
-63°49'8
-
-22°04'2
-
-34.
-
-Reykjanes (aukaviti)
-
-63°48'0
-
-22°41'9
-
-35.
-
-Önglabrjótsnef
-
-63°49'0
-
-22°44'3
-
-36.
-
-Stafnes (viti)
-
-63°58'3
-
-22°45'5
-
-37.
-
-1 sjm. r/v V af Garðskagavita
-
-64°04'9
-
-22°43'6
-
-38.
-
-Malarrif (viti)
-
-64°43'7
-
-23°48'2
-
-39.
-
-Dritvíkurtangi
-
-64°45'0
-
-23°55'3
-
-40.
-
-Skálasnagi
-
-64°51'3
-
-24°02'5
-
-41.
-
-Öndverðarnes (viti)
-
-64°53'1
-
-24°02'7
-
-42.
-
-Skor (viti)
-
-65°24'9
-
-23°57'2
-
-43.
-
-Bjargtangar (grp. 33)
-
-65°30'2
-
-24°32'1
-
-44.
-
-Kópanes (grp. 34)
-
-65°48'4
-
-24°06'0
-
-45.
-
-Barði (grp. 35)
-
-66°03'7
-
-23°47'4
-
-46.
-
-Straumnes (grp. 36)
-
-66°25'7
-
-23°08'4
-
-47.
-
-Kögur (grp. 37)
-
-66°28'3
-
-22°55'5
-
-48.
-
-Horn (grp. 38)
-
-66°27'9
-
-22°28'2
+<table>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<tbody>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">N.br.:</td>
+<td align="left">V.lgd.:</td>
+</tr>
+<tr class="even">
+<td align="left">1.</td>
+<td align="left">Horn (grp. 1)</td>
+<td align="left">66°27'4</td>
+<td align="left">22°24'3</td>
+</tr>
+<tr class="odd">
+<td align="left">2.</td>
+<td align="left">Selsker (viti)</td>
+<td align="left">66°07'5</td>
+<td align="left">21°30'0</td>
+</tr>
+<tr class="even">
+<td align="left">3.</td>
+<td align="left">Ásbúðarrif (grp. 2)</td>
+<td align="left">66°08'1</td>
+<td align="left">20°11'0</td>
+</tr>
+<tr class="odd">
+<td align="left">4.</td>
+<td align="left">Siglunes (grp. 3)</td>
+<td align="left">66°11'9</td>
+<td align="left">18°49'9</td>
+</tr>
+<tr class="even">
+<td align="left">5.</td>
+<td align="left">Flatey (Skjálfanda) (grp. 4)</td>
+<td align="left">66°10'3</td>
+<td align="left">17°50'3</td>
+</tr>
+<tr class="odd">
+<td align="left">6.</td>
+<td align="left">Mánáreyjar (Lágey) (grp. 5)</td>
+<td align="left">66°17'8</td>
+<td align="left">17°06'8</td>
+</tr>
+<tr class="even">
+<td align="left">7.</td>
+<td align="left">Rauðinúpur (grp. 6)</td>
+<td align="left">66°30'7</td>
+<td align="left">16°32'4</td>
+</tr>
+<tr class="odd">
+<td align="left">8.</td>
+<td align="left">Rifstangi (grp. 7)</td>
+<td align="left">66°32'3</td>
+<td align="left">16°11'8</td>
+</tr>
+<tr class="even">
+<td align="left">9.</td>
+<td align="left">Hraunhafnartangi (grp. 8)</td>
+<td align="left">66°32'2</td>
+<td align="left">16°01'5</td>
+</tr>
+<tr class="odd">
+<td align="left">10.</td>
+<td align="left">Langanes (grp. 9)</td>
+<td align="left">66°22'7</td>
+<td align="left">14°31'9</td>
+</tr>
+<tr class="even">
+<td align="left">11.</td>
+<td align="left">Skálatáarsker</td>
+<td align="left">65°59'7</td>
+<td align="left">14°36'4</td>
+</tr>
+<tr class="odd">
+<td align="left">12.</td>
+<td align="left">Almenningsfles</td>
+<td align="left">65°33'1</td>
+<td align="left">13°40'5</td>
+</tr>
+<tr class="even">
+<td align="left">13.</td>
+<td align="left">Glettinganes (grp. 10)</td>
+<td align="left">65°30'5</td>
+<td align="left">13°36'3</td>
+</tr>
+<tr class="odd">
+<td align="left">14.</td>
+<td align="left">Norðfjarðarhorn (grp. 11)</td>
+<td align="left">65°10'0</td>
+<td align="left">13°30'8</td>
+</tr>
+<tr class="even">
+<td align="left">15.</td>
+<td align="left">Gerpir (grp. 12)</td>
+<td align="left">65°04'7</td>
+<td align="left">13°29'6</td>
+</tr>
+<tr class="odd">
+<td align="left">16.</td>
+<td align="left">Hólmur (Seley) (grp. 13)</td>
+<td align="left">64°58'9</td>
+<td align="left">13°30'6</td>
+</tr>
+<tr class="even">
+<td align="left">17.</td>
+<td align="left">Skrúður (Þursi) (grp. 15)</td>
+<td align="left">64°54'1</td>
+<td align="left">13°36'8</td>
+</tr>
+<tr class="odd">
+<td align="left">18.</td>
+<td align="left">Papey (viti)</td>
+<td align="left">64°35'5</td>
+<td align="left">14°10'5</td>
+</tr>
+<tr class="even">
+<td align="left">19.</td>
+<td align="left">Hvítingar (grp. 18)</td>
+<td align="left">64°23'9</td>
+<td align="left">14°28'0</td>
+</tr>
+<tr class="odd">
+<td align="left">20.</td>
+<td align="left">Stokksnes (grp. 19)</td>
+<td align="left">64°14'1</td>
+<td align="left">14°58'4</td>
+</tr>
+<tr class="even">
+<td align="left">21.</td>
+<td align="left">Hrollaugseyjar (grp. 20)</td>
+<td align="left">64°01'7</td>
+<td align="left">15°58'7</td>
+</tr>
+<tr class="odd">
+<td align="left">22.</td>
+<td align="left">Ingólfshöfði (grp. 22)</td>
+<td align="left">63°47'8</td>
+<td align="left">16°38'5</td>
+</tr>
+<tr class="even">
+<td align="left">23.</td>
+<td align="left">Hvalsíki (grp. 23)</td>
+<td align="left">63°44'1</td>
+<td align="left">17°33'5</td>
+</tr>
+<tr class="odd">
+<td align="left">24.</td>
+<td align="left">Meðalandssandur I (grp. 24)</td>
+<td align="left">63°32'4</td>
+<td align="left">17°55'6</td>
+</tr>
+<tr class="even">
+<td align="left">25.</td>
+<td align="left">Meðallandssandur II (grp. 25)</td>
+<td align="left">63°30'6</td>
+<td align="left">17°59'9</td>
+</tr>
+<tr class="odd">
+<td align="left">26.</td>
+<td align="left">Mýrnatangi (grp. 26)</td>
+<td align="left">63°27'4</td>
+<td align="left">18°11'8</td>
+</tr>
+<tr class="even">
+<td align="left">27.</td>
+<td align="left">Kötlutangi (grp. 27)</td>
+<td align="left">63°23'4</td>
+<td align="left">18°42'8</td>
+</tr>
+<tr class="odd">
+<td align="left">28.</td>
+<td align="left">Lundadrangur (grp. 28)</td>
+<td align="left">63°23'5</td>
+<td align="left">19°07'5</td>
+</tr>
+<tr class="even">
+<td align="left">29.</td>
+<td align="left">Bakkafjara (skúr við sæstreng)</td>
+<td align="left">63°32'3</td>
+<td align="left">20°10'9</td>
+</tr>
+<tr class="odd">
+<td align="left">30.</td>
+<td align="left">Knarrarós (viti)</td>
+<td align="left">63°49'4</td>
+<td align="left">20°58'6</td>
+</tr>
+<tr class="even">
+<td align="left">31.</td>
+<td align="left">Hafnarnes</td>
+<td align="left">63°50'6</td>
+<td align="left">21°23'5</td>
+</tr>
+<tr class="odd">
+<td align="left">32.</td>
+<td align="left">Selvogur (viti)</td>
+<td align="left">63°49'3</td>
+<td align="left">21°39'1</td>
+</tr>
+<tr class="even">
+<td align="left">33.</td>
+<td align="left">Krýsuvíkurberg (viti)</td>
+<td align="left">63°49'8</td>
+<td align="left">22°04'2</td>
+</tr>
+<tr class="odd">
+<td align="left">34.</td>
+<td align="left">Reykjanes (aukaviti)</td>
+<td align="left">63°48'0</td>
+<td align="left">22°41'9</td>
+</tr>
+<tr class="even">
+<td align="left">35.</td>
+<td align="left">Önglabrjótsnef</td>
+<td align="left">63°49'0</td>
+<td align="left">22°44'3</td>
+</tr>
+<tr class="odd">
+<td align="left">36.</td>
+<td align="left">Stafnes (viti)</td>
+<td align="left">63°58'3</td>
+<td align="left">22°45'5</td>
+</tr>
+<tr class="even">
+<td align="left">37.</td>
+<td align="left">1 sjm. r/v V af Garðskagavita</td>
+<td align="left">64°04'9</td>
+<td align="left">22°43'6</td>
+</tr>
+<tr class="odd">
+<td align="left">38.</td>
+<td align="left">Malarrif (viti)</td>
+<td align="left">64°43'7</td>
+<td align="left">23°48'2</td>
+</tr>
+<tr class="even">
+<td align="left">39.</td>
+<td align="left">Dritvíkurtangi</td>
+<td align="left">64°45'0</td>
+<td align="left">23°55'3</td>
+</tr>
+<tr class="odd">
+<td align="left">40.</td>
+<td align="left">Skálasnagi</td>
+<td align="left">64°51'3</td>
+<td align="left">24°02'5</td>
+</tr>
+<tr class="even">
+<td align="left">41.</td>
+<td align="left">Öndverðarnes (viti)</td>
+<td align="left">64°53'1</td>
+<td align="left">24°02'7</td>
+</tr>
+<tr class="odd">
+<td align="left">42.</td>
+<td align="left">Skor (viti)</td>
+<td align="left">65°24'9</td>
+<td align="left">23°57'2</td>
+</tr>
+<tr class="even">
+<td align="left">43.</td>
+<td align="left">Bjargtangar (grp. 33)</td>
+<td align="left">65°30'2</td>
+<td align="left">24°32'1</td>
+</tr>
+<tr class="odd">
+<td align="left">44.</td>
+<td align="left">Kópanes (grp. 34)</td>
+<td align="left">65°48'4</td>
+<td align="left">24°06'0</td>
+</tr>
+<tr class="even">
+<td align="left">45.</td>
+<td align="left">Barði (grp. 35)</td>
+<td align="left">66°03'7</td>
+<td align="left">23°47'4</td>
+</tr>
+<tr class="odd">
+<td align="left">46.</td>
+<td align="left">Straumnes (grp. 36)</td>
+<td align="left">66°25'7</td>
+<td align="left">23°08'4</td>
+</tr>
+<tr class="even">
+<td align="left">47.</td>
+<td align="left">Kögur (grp. 37)</td>
+<td align="left">66°28'3</td>
+<td align="left">22°55'5</td>
+</tr>
+<tr class="odd">
+<td align="left">48.</td>
+<td align="left">Horn (grp. 38)</td>
+<td align="left">66°27'9</td>
+<td align="left">22°28'2</td>
+</tr>
+</tbody>
+</table>
 
 
       Þar sem í lögum þessum er rætt um lengd skipa, er miðað við mestu lengd samkvæmt mælingum [Siglingastofnunar Íslands].[^1)^]
@@ -559,7 +474,7 @@ _[^1)^]"L. 7/1996, 5. gr.":/altext/stjt/1996.007.html[^2)^]"L. 42/1977, 1. gr.":
      Þrátt fyrir ákvæði laga þessara getur sjávarútvegsráðuneytið auglýst ný friðunarsvæði og breytingar á eldri friðunarsvæðum, þar sem veiðar með botnvörpu og flotvörpu eða fleiri gerðum veiðarfæra eru bannaðar á tilteknum svæðum í íslenskri fiskveiðilandhelgi, enda hafi áður verið leitað álits Hafrannsóknastofnunarinnar um slíkar ákvarðanir.[^1)^]
 
 
-_[^1)^]Rg. 394/1989, sbr. 419/1989 (um friðunarsvæði við Ísland)._
+_[^1)^]Rg. 504/1995, sbr. 641/1995, 3/1996, 562/1996 og 578/1996. Rg. 609/1995. Rg. 75/1996 (um friðunarsvæði við Ísland)._
 
 
 
@@ -606,7 +521,7 @@ _[^1)^]"L. 38/1990, 22. gr.":1990038.html#g22_
      Ráðherra setur reglur[^1)^] um hvað eina, sem snertir framkvæmd laga þessara, svo sem um gerð, útbúnað og frágang veiðarfæra, um lágmarksmöskvastærðir netja og um lágmarksstærðir þeirra fisktegunda, sem landa má. Skulu reglur um þessi atriði aldrei ganga skemmra en alþjóðasamþykktir um sama efni, sem Ísland hefur eða mun staðfesta fyrir sitt leyti.
 
 
-_[^1)^]Rg. 262/1977, sbr. 311/1977 (um lágmarksstærðir fisktegunda), rg. 346/1992, sbr. 42/1993, 120/1993, 287/1993 og 501/1993 (um þorskfisknet), rg. 291/1994, sbr. 470/1994, 505/1994, 531/1994 og 348/1995 (um botn- og flotvörpur), rg. 6/1984 (um eftirlit með afla og úthaldi á fiskveiðum), rg. 313/1994 (um lágmarksmöskvastærðir loðnunóta), 285/1985 (um loðnuveiðar), 373/1985 (um leyfisbindingu veiða), 113/1988, sbr. 539/1989 (um veitingu veiðileyfa), 128/1988, sbr. 4/1990 (um grásleppuveiðar), rg. 376/1992 (um síldveiðar), rg. 143/1979 (um veiðar á sandsíli), rg. 438/1984 (um dragnótaveiðar), rg. 492/1993, sbr. 482/1994 (ígulkeraveiðar), rg. 508/1994, sbr. 629/1994 og 103/1995 (um friðunarsvæði við Ísland), rg. 198/1995 (um bann við rækjuveiðum á Skötufirði og innanverðu Ísafjarðardjúpi) og rg. 303/1995 (um úthafsrækjuveiðisvæði og notkun seiðaskilju við rækjuveiðar)._
+_[^1)^]Rg. 262/1977, sbr. 311/1977 (um lágmarksstærðir fisktegunda), rg. 548/1995, sbr. 435/1996 (um þorskfisknet), rg. 291/1994, sbr. 470/1994, 505/1994, 531/1994, 348/1995 og 630/1995 (um botn- og flotvörpur), rg. 6/1984 (um eftirlit með afla og úthaldi á fiskveiðum), rg. 313/1994 (um lágmarksmöskvastærðir loðnunóta), 285/1985 (um loðnuveiðar), 373/1985 (um leyfisbindingu veiða), 113/1988, sbr. 539/1989 (um veitingu veiðileyfa), 128/1988, sbr. 4/1990 (um grásleppuveiðar), rg. 376/1992 (um síldveiðar), rg. 143/1979 (um veiðar á sandsíli), rg. 74/1996 (um dragnótaveiðar), rg. 492/1993, sbr. 482/1994 (ígulkeraveiðar), rg. 504/1995 (um friðunarsvæði við Ísland), rg. 198/1995 (um bann við rækjuveiðum á Skötufirði og innanverðu Ísafjarðardjúpi) og rg. 303/1995, sbr. 627/1995 og 247/1996 (um úthafsrækjuveiðisvæði og notkun seiðaskilju við rækjuveiðar)._
 
 
 

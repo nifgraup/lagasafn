@@ -333,8 +333,12 @@ h2. Lög um verðbréfaviðskipti
 20. gr.
 
      Almennt útboð verðbréfa, annarra en ríkisskuldabréfa, skuldabréfa með ríkisábyrgð og ríkisvíxla, skal fara fram fyrir milligöngu verðbréfafyrirtækja skv. 8. gr. eða annarra aðila sem til þess hafa heimild í lögum. Almennt útboð verðbréfa skal tilkynna til Verðbréfaþings Íslands eigi síðar en viku fyrir upphaf sölu ásamt upplýsingum um öll helstu einkenni útboðsins í samræmi við reglur sem stjórn Verðbréfaþingsins setur um gerð útboðsgagna og aðdraganda útboðs.
-      Seðlabanki Íslands getur sett nánari reglur um fyrsta söludag einstakra almennra útboða í því skyni að draga úr sveiflum í framboði nýrra verðbréfa á verðbréfamarkaðinum.
+      Seðlabanki Íslands getur sett nánari reglur[^1)^] um fyrsta söludag einstakra almennra útboða í því skyni að draga úr sveiflum í framboði nýrra verðbréfa á verðbréfamarkaðinum.
       Við lok sölu eða í lok hvers ársfjórðungs, sé hann fyrr, skal verðbréfafyrirtæki eða annar aðili, sem hefur milligöngu um almennt útboð, tilkynna Verðbréfaþinginu um heildarsölu verðbréfa í almennu útboði á nafnverði og markaðsverði samkvæmt bestu fáanlegum upplýsingum og í lok hvers árs skal enn fremur tilkynna um útistandandi eftirstöðvar almenns útboðs. Verðbréfaþingið skal birta reglulega upplýsingar um verðbréf samkvæmt þessari grein.
+
+
+_[^1)^]Rg. 253/1996._
+
 
 
 
@@ -361,7 +365,11 @@ h2. Lög um verðbréfaviðskipti
 22. gr.
 
      Fyrirtæki í verðbréfaþjónustu geta veitt viðskiptaaðila lán og gengið í ábyrgðir vegna verðbréfaviðskipta sem þeim er heimilt að annast samkvæmt lögum þessum.
-      Heildarskuldbindingar fyrirtækja í verðbréfaþjónustu skv. 1. mgr. skulu vera innan þeirra marka sem um getur í reglum er ráðherra setur að fengnum tillögum bankaeftirlitsins um hámark lána og ábyrgða til einstakra viðskiptamanna eða fjárhagslega tengdra aðila.
+      Heildarskuldbindingar fyrirtækja í verðbréfaþjónustu skv. 1. mgr. skulu vera innan þeirra marka sem um getur í reglum[^1)^] er ráðherra setur að fengnum tillögum bankaeftirlitsins um hámark lána og ábyrgða til einstakra viðskiptamanna eða fjárhagslega tengdra aðila.
+
+
+_[^1)^]Rg. 571/1996._
+
 
 
 
@@ -444,7 +452,7 @@ h2. Lög um verðbréfaviðskipti
 
 32. gr.
 
-     Eigið fé fyrirtækis í verðbréfaþjónustu, eins og það er skilgreint skv. 2. mgr., skal á hverjum tíma eigi nema lægri fjárhæð en sem svarar til 8% af áhættugrunni. Áhættugrunnur skal metinn með tilliti til heildareigna, liða utan efnahagsreiknings, gengisáhættu og áhættu annarra liða með markaðsáhættu samkvæmt nánari reglum um mat á áhættugrunni til útreiknings á eiginfjárhlutfalli fyrirtækja í verðbréfaþjónustu sem Seðlabanki Íslands setur. Eiginfjárkrafan skv. 1. málsl. skal einnig gilda um samstæðureikning, nema bankaeftirlitið heimili undanþágu frá því.
+     Eigið fé fyrirtækis í verðbréfaþjónustu, eins og það er skilgreint skv. 2. mgr., skal á hverjum tíma eigi nema lægri fjárhæð en sem svarar til 8% af áhættugrunni. Áhættugrunnur skal metinn með tilliti til heildareigna, liða utan efnahagsreiknings, gengisáhættu og áhættu annarra liða með markaðsáhættu samkvæmt nánari reglum[^1)^] um mat á áhættugrunni til útreiknings á eiginfjárhlutfalli fyrirtækja í verðbréfaþjónustu sem Seðlabanki Íslands setur. Eiginfjárkrafan skv. 1. málsl. skal einnig gilda um samstæðureikning, nema bankaeftirlitið heimili undanþágu frá því.
       Við útreikning á eiginfjárhlutfalli skv. 1. mgr. skal eigið fé samsett af þremur þáttum, eiginfjárþætti A, eiginfjárþætti B og eiginfjárþætti C, og frádráttarliðum skv. 33. gr. Eftirfarandi takmarkanir gilda um einstaka eiginfjárþætti:
 
 
@@ -486,6 +494,10 @@ h2. Lög um verðbréfaviðskipti
       Þrátt fyrir ákvæði 1. - 5. mgr. skal eigið fé fyrirtækis í verðbréfaþjónustu aldrei nema lægri fjárhæð en sem svarar til 25% af föstum rekstrarkostnaði síðasta reikningsárs. Bankaeftirlitið getur heimilað undanþágu frá þessari kröfu ef grundvallarbreyting hefur orðið á starfsemi félagsins milli ára. Á fyrsta starfsári fyrirtækis í verðbréfaþjónustu skal eigið fé þess ekki nema lægri fjárhæð en sem svarar til 25% af föstum rekstrarkostnaði samkvæmt rekstraráætlun starfsársins. Bankaeftirlitið getur krafist þess að gerð sé breyting á rekstraráætluninni ef það telur að hún gefi ekki rétta mynd af þeirri starfsemi sem fyrirhuguð er.
       Fyrirtæki í verðbréfaþjónustu skal á hverjum tíma hafa yfir að ráða tryggu eftirlitskerfi með áhættum, þar með talinni vaxtaáhættu, í tengslum við öll viðskipti sín. Bankaeftirlitið getur sett leiðbeinandi reglur um eftirlitskerfi vegna áhættuþátta í starfsemi slíkra fyrirtækja.
       Ráðherra er heimilt að fengnum tillögum bankaeftirlitsins að ákveða í reglugerð að aðrir liðir en greindir eru í 3. - 5. mgr. teljist með eigin fé fyrirtækis í verðbréfaþjónustu.
+
+
+_[^1)^]Rg. 348/1996._
+
 
 
 

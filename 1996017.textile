@@ -45,7 +45,11 @@ h2. Lög um gatnagerðargjald
 6. gr.
 
      Félagsmálaráðherra skal setja reglugerð um nánari framkvæmd laga þessara og skal í reglugerðinni m.a. kveðið nánar á um álagningu gatnagerðargjalds og endurgreiðslu þess skv. 1. gr.
-      Sveitarstjórn skal setja sér sérstaka gjaldskrá fyrir gatnagerðargjald þar sem kveðið er nánar á um álagningu gjaldsins, innheimtu þess og hvað er innifalið í gjaldinu samkvæmt lögum þessum og reglugerð um gatnagerðargjald. Sveitarstjórn skal auglýsa gjaldskrána og efnislegar breytingar á henni á þann hátt sem venja er að birta opinberar auglýsingar í sveitarfélaginu.
+      Sveitarstjórn skal setja sér sérstaka gjaldskrá fyrir gatnagerðargjald þar sem kveðið er nánar á um álagningu gjaldsins, innheimtu þess og hvað er innifalið í gjaldinu samkvæmt lögum þessum og reglugerð[^1)^] um gatnagerðargjald. Sveitarstjórn skal auglýsa gjaldskrána og efnislegar breytingar á henni á þann hátt sem venja er að birta opinberar auglýsingar í sveitarfélaginu.
+
+
+_[^1)^]Rg. 543/1996._
+
 
 
 
@@ -59,7 +63,7 @@ h2. Lög um gatnagerðargjald
 
 <dl>
 <dt>1.</dt>
-<dd>"Lög um gatnagerðargjöld, nr. 51/1974":1974051.html, sbr. "lög nr. 31/1975":/altext/stjtnr.html#1975031, gilda um innheimtu og álagningu gatnagerðargjalda vegna framkvæmda á grundvelli "3":1974051.html#g3. og "4. gr. laga nr. 51/1974":1974051.html#g4 sem lokið er við innan tíu ára frá gildistöku laga þessara. Ákvæði eldri laga um álagningu gjalda vegna slíkra framkvæmda gilda einungis um lóðir sem úthlutað hefur verið eða veitt hefur verið byggingarleyfi á fyrir gildistöku laga þessara.</dd>
+<dd>"Lög um gatnagerðargjöld, nr. 51/1974":1974051.html, sbr. "lög nr. 31/1975":/altext/stjtnr.html#1975031, gilda um innheimtu og álagningu gatnagerðargjalda vegna framkvæmda á grundvelli "3":/altext/stjtnr.html#1974051?g3. og "4. gr. laga nr. 51/1974":1974051.html sem lokið er við innan tíu ára frá gildistöku laga þessara. Ákvæði eldri laga um álagningu gjalda vegna slíkra framkvæmda gilda einungis um lóðir sem úthlutað hefur verið eða veitt hefur verið byggingarleyfi á fyrir gildistöku laga þessara.</dd>
 <dt>2.</dt>
 <dd>Samningar um gatnagerðargjöld af tilteknum lóðum, sem lóðarhafar eða lóðareigendur hafa gert við sveitarstjórnir, svo og skilmálar varðandi gatnagerðargjöld sem sveitarstjórn hefur sett og lóðarhafi eða lóðareigandi hefur undirgengist, halda gildi sínu þrátt fyrir ákvæði laga þessara, nema aðilar séu um annað sáttir.</dd>
 </dl>

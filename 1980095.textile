@@ -62,12 +62,14 @@ h2. Lög um Söfnunarsjóð lífeyrisréttinda
 <dd>Í hlutabréfum í fyrirtækjum sem hafa skráð kaup- og sölugengi á markaði hjá viðurkenndu verðbréfaþingi eða a.m.k. tveimur verðbréfafyrirtækjum. Þó skal eigi verja meira en 10% af árlegu ráðstöfunarfé sjóðsins til hlutabréfakaupa. Árleg hlutabréfakaup samkvæmt ákvæðum þessa töluliðar teljast einvörðungu kaup umfram sölu á hlutabréfum. Eigi er sjóðnum heimilt að eiga meira en 10% af hlutafé í hverju fyrirtæki. Heildarhlutabréfaeign sjóðsins skal á hverjum tíma ekki vera meiri en nemur 15% af hreinni eign til greiðslu lífeyris.][^3)^]</dd>
 <dt>[7.</dt>
 <dd>Í traustum erlendum verðbréfum sem skráð eru á opinberum verðbréfamörkuðum í aðildarríkjum Efnahags- og framfarastofnunarinnar (OECD). Hlutfall erlendra eigna fari þó eigi umfram 10% af hreinni eign til greiðslu lífeyris og skal stjórn sjóðsins gæta eðlilegrar áhættudreifingar í því sambandi.][^4)^]</dd>
+<dt>[8.</dt>
+<dd>Í skuldabréfum og víxlum fyrirtækja með trausta eiginfjárstöðu og góða rekstrarafkomu, enda séu viðkomandi skuldabréf skráð á Verðbréfaþingi Íslands.][^5)^]</dd>
 </dl>
 
 
 
 
-_[^1)^]Nú "l. 43/1993":1993043.html.[^2)^]"L. 86/1987, 1. gr.":/altext/stjtnr.html#1987086?g1[^3)^]"L. 33/1992, 1. gr.":/altext/stjt/1992.033.html[^4)^]"L. 21/1995, 1. gr.":/altext/stjt/1995.021.html_
+_[^1)^]Nú "l. 43/1993":1993043.html.[^2)^]"L. 86/1987, 1. gr.":/altext/stjtnr.html#1987086?g1[^3)^]"L. 33/1992, 1. gr.":/altext/stjt/1992.033.html[^4)^]"L. 21/1995, 1. gr.":/altext/stjt/1995.021.html[^5)^]"L. 128/1996, 1. gr.":/altext/stjt/1996.128.html_
 
 
 
@@ -92,24 +94,25 @@ _[^1)^]Nú "l. 75/1981":1981075.html._
       [Dragist lengur en 20 daga fram yfir gjalddaga að iðgjöldum sé skilað er stjórn sjóðsins heimilt að innheimta vangoldin iðgjöld með vanskilavöxtum, sem Seðlabanki Íslands heimilar innlánsstofnunum hæsta að taka, frá gjalddaga.][^2)^]
       Þeir sem eiga stig í sjóðnum, sbr. 9. gr., teljast sjóðfélagar.
       Sjóðfélagar bera ekki ábyrgð á skuldbindingum sjóðsins með öðru en iðgjöldum sínum.
+      [Ráðherra er heimilt að ákveða með reglugerð, að fengnum tillögum stjórnar sjóðsins, að lífeyrissjóðurinn taki við viðbótariðgjaldi sem greitt verði umfram iðgjald skv. 1. mgr.][^3)^]
 
 
-_[^1)^]"L. 86/1987, 2. gr.":/altext/stjtnr.html#1987086?g2[^2)^]"L. 33/1992, 2. gr.":/altext/stjt/1992.033.html_
+_[^1)^]"L. 86/1987, 2. gr.":/altext/stjtnr.html#1987086?g2[^2)^]"L. 33/1992, 2. gr.":/altext/stjt/1992.033.html[^3)^]"L. 128/1996, 2. gr.":/altext/stjt/1996.128.html_
 
 
 
 
 9. gr.
 
-     Samanlögð iðgjöld sjóðfélaga hvert almanaksár skulu umreiknuð í stig er mynda grundvöll lífeyrisréttinda hans.
-      Til grundvallar stigaútreikningi skal reikna fyrir hvern almanaksmánuð fast vikukaup miðað við næstlægsta taxta Dagsbrúnar og fulla starfsaldurshækkun í 4[^1^]/[~3~] viku. Verði grundvöllur þessi að dómi sjóðstjórnar ónothæfur mælikvarði á breytingar á dagvinnutekjum sjóðfélaga almennt skal hún ákveða annan stigagrundvöll svo og tengingu hans við fyrri grundvöll. Sama gildir ef stigagrundvöllur, sem ákveðinn hefur verið af sjóðstjórn, reynist síðar ónothæfur.
-      Stig ársins reiknast þannig að deilt skal í 10-föld iðgjöld, sem greidd hafa verið vegna hlutaðeigandi sjóðfélaga, með grundvallarlaunum ársins skv. 2. mgr. Séu iðgjaldagreiðsluár fleiri en 30 skal þó aðeins reikna að fullu stig þeirra 30 ára sem hagstæðust eru fyrir sjóðfélagann, en að hálfu stig þeirra ára sem afgangs verða. [Frá 1. janúar 1992 skal í stað grundvallarlauna miða við grundvallarfjárhæð sem tengist lánskjaravísitölu þeirri sem Seðlabanki Íslands auglýsir með heimild í "39. gr. laga nr. 13/1979":/altext/stjtnr.html#1979013?g39, með síðari breytingum.[^1)^] Grundvallarfjárhæð í janúar 1992 er 45.602 kr. miðað við lánskjaravísitölu sem gildir í þeim mánuði og tekur fjárhæðin sömu hlutfallsbreytingum í mánuði hverjum og lánskjaravísitalan. Verði gerð breyting á grundvelli eða útreikningi lánskjaravísitölu skal ráðherra, að fengnum tillögum stjórnar sjóðsins, ákveða hvernig stigagrundvelli og breytingum hans skuli háttað þaðan í frá.][^2)^]
-      Ekki skal reikna stig fyrir tíma eftir lok þess mánaðar er sjóðfélagi nær 75 ára aldri.
+     [Samanlögð iðgjöld sjóðfélaga hvert almanaksár skulu umreiknuð í stig er mynda grundvöll lífeyrisréttinda hans.
+      Til grundvallar stigaútreikningi skal grundvallarfjárhæð í janúar 1996 vera 49.084 kr. og breytist hún mánaðarlega í hlutfalli við breytingu á vísitölu neysluverðs til verðtryggingar frá 174,2 stigum. Verði grundvöllur þessi að dómi sjóðstjórnar ónothæfur mælikvarði skal hún ákveða annan stigagrundvöll, svo og tengingu hans við fyrri grundvöll. Sama gildir ef stigagrundvöllur, sem ákveðinn hefur verið af sjóðstjórn, reynist síðar ónothæfur.
+      Stig ársins reiknast þannig að deilt skal í tíföld iðgjöld, sem greidd hafa verið vegna hlutaðeigandi sjóðfélaga, með grundvallarlaunum ársins skv. 2. mgr. Við útreikning lífeyris reiknast áunnin stig að fullu. Ef um maka- eða örorkulífeyri er að ræða skal reikna að fullu stig þeirra 30 ára sem hagstæðust eru fyrir sjóðfélagann, en að hálfu stig þeirra ára sem afgangs verða. Þó skal aldrei miða við færri stig en áunnin eru.
+      Ekki skal reikna stig fyrir tíma eftir lok þess mánaðar er sjóðfélagi nær 70 ára aldri.
       Stig skulu reiknuð með þremur aukastöfum.
-      Verði iðgjöld ekki umreiknuð í stig, sbr. 4. mgr., fer um endurgreiðslu þeirra eftir ákvæðum 16. gr.
+      Verði iðgjöld ekki reiknuð í stig, sbr. 4. mgr., fer um endurgreiðslu þeirra eftir ákvæðum 16. gr.][^1)^]
 
 
-_[^1)^]Nú "l. 25/1987, V. kafli.":1987025.html[^2)^]"L. 33/1992, 3. gr.":/altext/stjt/1992.033.html_
+_[^1)^]"L. 128/1996, 3. gr.":/altext/stjt/1996.128.html_
 
 
 
@@ -163,10 +166,11 @@ _[^1)^]"L. 129/1995, 7. gr.":/altext/stjt/1995.129.html_
 
 14. gr.
 
-     [Lífeyrir, sem úrskurðaður hefur verið skv. 10., 11. og 12. gr., skal taka sömu hlutfallsbreytingum í mánuði hverjum og lánskjaravísitala sú sem Seðlabanki Íslands auglýsir með heimild í "39. gr. laga nr. 13/1979":/altext/stjtnr.html#1979013?g39, með síðari breytingum.[^1)^] Verði gerð breyting á grundvelli eða útreikningi lánskjaravísitölu skal ráðherra, að fengnum tillögum stjórnar sjóðsins, ákveða með hvaða hætti lífeyrir samkvæmt fyrrnefndum greinum skuli verðtryggður þaðan í frá.][^2)^]
+     [Lífeyrir, sem úrskurðaður hefur verið skv. 10., 11., 12. og 13. gr., skal taka sömu hlutfallsbreytingum í mánuði hverjum og vísitala neysluverðs til verðtryggingar sú sem Hagstofa Íslands birtir samkvæmt "lögum nr. 12/1995":1995012.html, með síðari breytingum.
+      Verði gerð breyting á grundvelli eða á útreikningi neysluverðsvísitölunnar skal ráðherra, að fengnum tillögum stjórnar sjóðsins, ákveða með hvaða hætti lífeyrir samkvæmt fyrrnefndum greinum skuli verðtryggður þaðan í frá.][^1)^]
 
 
-_[^1)^]Nú "l. 25/1987, V. kafli.":1987025.html[^2)^]"L. 33/1992, 4. gr.":/altext/stjt/1992.033.html_
+_[^1)^]"L. 128/1996, 4. gr.":/altext/stjt/1996.128.html_
 
 
 
@@ -181,10 +185,10 @@ _[^1)^]Nú "l. 25/1987, V. kafli.":1987025.html[^2)^]"L. 33/1992, 4. gr.":/altex
 
 16. gr.
 
-     [Stjórn sjóðsins er heimilt að endurgreiða erlendum ríkisborgara, sem flyst úr landi, iðgjaldahluta launþega sem hann hefur greitt sjóðnum, enda sé slíkt ekki óheimilt samkvæmt milliríkjasamningum sem Ísland er aðili að. Sjóðurinn skal endurgreiða iðgjöld sem honum eru greidd vegna starfsmanna sem ekki hafa náð 16 ára aldri eða þeirra sem náð hafa 75 ára aldri.][^1)^]
+     [Stjórn sjóðsins er heimilt að endurgreiða erlendum ríkisborgara, sem flyst úr landi, iðgjaldahluta launþega sem hann hefur greitt sjóðnum, enda sé slíkt ekki óheimilt samkvæmt milliríkjasamningum sem Ísland er aðili að. [Sjóðurinn skal endurgreiða iðgjöld sem honum eru greidd vegna starfsmanna sem ekki hafa náð 16 ára aldri eða þeirra sem náð hafa 70 ára aldri.][^1)^]][^2)^]
 
 
-_[^1)^]"L. 33/1992, 5. gr.":/altext/stjt/1992.033.html_
+_[^1)^]"L. 128/1996, 5. gr.":/altext/stjt/1996.128.html[^2)^]"L. 33/1992, 5. gr.":/altext/stjt/1992.033.html_
 
 
 
@@ -246,10 +250,10 @@ _[^1)^]Sjá einnig "l. 86/1987, brbákv.":/altext/stjtnr.html#1987086?b0_
 
 *[II.*
 
-     Stjórn sjóðsins er heimilt að gera samning við Spöl hf. um kaup víkjandi skuldabréfa, útgefnum af Speli hf., í samræmi við viljayfirlýsingu lífeyrissjóðsins, dags. 13. desember 1993.][^1)^]
+     [Stjórn sjóðsins er heimilt að kaupa víkjandi skuldabréf fyrir allt að 100 millj. kr.][^1)^]][^2)^]
 
 
-_[^1)^]"L. 21/1995, 3. gr.":/altext/stjt/1995.021.html_
+_[^1)^]"L. 128/1996, 6. gr.":/altext/stjt/1996.128.html[^2)^]"L. 21/1995, 3. gr.":/altext/stjt/1995.021.html_
 
 
 

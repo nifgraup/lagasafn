@@ -45,7 +45,7 @@ h2. Lög um tekjustofna sveitarfélaga
 3. gr.
 
      Á allar fasteignir, sem metnar eru af Fasteignamati ríkisins, sbr. þó 5. gr., skal árlega leggja skatt til sveitarfélags þar sem fasteign er.
-      Stofn til álagningar skattsins á hús og mannvirki, að undanteknum útihúsum í sveitum, skal vera afskrifað endurstofnverð þeirra margfaldað með markaðsstuðli fasteigna í Reykjavík samkvæmt matsreglum Fasteignamats ríkisins. Stofn til álagningar fasteignaskatts á aðrar fasteignir skal vera fasteignamat þeirra.
+      Stofn til álagningar skattsins á hús og mannvirki, að undanteknum [sumarhúsum og][^1)^] útihúsum í sveitum, skal vera afskrifað endurstofnverð þeirra margfaldað með markaðsstuðli fasteigna í Reykjavík samkvæmt matsreglum Fasteignamats ríkisins. Stofn til álagningar fasteignaskatts á aðrar fasteignir skal vera fasteignamat þeirra.
       Skatturinn skal vera sem hér segir:
 
 
@@ -54,16 +54,16 @@ h2. Lög um tekjustofna sveitarfélaga
 <dd>Allt að [^1^]/[~2~]% af álagningarstofni:</dd>
 <dd><p>Íbúðir og íbúðarhús ásamt lóðarréttindum, erfðafestulönd og jarðeignir, sem ekki eru nytjaðar til annars en landbúnaðar, útihús og mannvirki á bújörðum, sem tengd eru landbúnaði, og sumarbústaðir ásamt lóðarréttindum.</p></dd>
 <dt>b.</dt>
-<dd>Allt að [1,32%][^1)^] af álagningarstofni:</dd>
+<dd>Allt að [1,32%][^2)^] af álagningarstofni:</dd>
 <dd><p>Allar aðrar fasteignir.</p></dd>
 </dl>
 
      Heimilt er sveitarstjórn að hækka um allt að 25% hundraðshluta þá, sem tilgreindir eru í 3. mgr. þessarar greinar, samkvæmt öðrum hvorum eða báðum stafliðum.
-      Í sveitarfélagi, þar sem bæði er þéttbýli og dreifbýli, er sveitarstjórn heimilt að undanþiggja fasteignir í dreifbýli álagi á fasteignaskatt skv. 4. mgr.
+      Í sveitarfélagi, þar sem bæði er þéttbýli og dreifbýli, er sveitarstjórn heimilt að undanþiggja fasteignir í dreifbýli [og sumarhús][^1)^] álagi á fasteignaskatt skv. 4. mgr.
       Fyrir 1. desember ár hvert skal Fasteignamat ríkisins láta sveitarfélögunum í té skrár yfir álagningarstofn fasteignaskatts í hverju sveitarfélagi, sbr. 2. mgr.
 
 
-_[^1)^]"L. 148/1995, 1. gr.":/altext/stjt/1995.148.html_
+_[^1)^]"L. 122/1996, 1. gr.":/altext/stjt/1996.122.html[^2)^]"L. 148/1995, 1. gr.":/altext/stjt/1995.148.html_
 
 
 
@@ -115,7 +115,7 @@ _[^1)^]"L. 148/1995, 1. gr.":/altext/stjt/1995.148.html_
 <dt>b.</dt>
 <dd>Árlegt framlag úr ríkissjóði sem verði [0,264%][^1)^] af álagningarstofni útsvars næstliðins tekjuárs og skal greiðast Jöfnunarsjóði með jöfnum mánaðarlegum greiðslum.</dd>
 <dt>[c.</dt>
-<dd>Hlutdeild í útsvarstekjum sveitarfélaga er nemi 0,74% af álagningarstofni útsvars ár hvert. Við skil á staðgreiðslu útsvars til sveitarfélaga samkvæmt "lögum nr. 45/1987":1987045.html, um staðgreiðslu opinberra gjalda, skal jafnframt gera Jöfnunarsjóði sveitarfélaga skil á hlutdeild sjóðsins í staðgreiðslu útsvars.][^1)^]</dd>
+<dd>Hlutdeild í útsvarstekjum sveitarfélaga er nemi [0,77%][^2)^] af álagningarstofni útsvars ár hvert. Við skil á staðgreiðslu útsvars til sveitarfélaga samkvæmt "lögum nr. 45/1987":1987045.html, um staðgreiðslu opinberra gjalda, skal jafnframt gera Jöfnunarsjóði sveitarfélaga skil á hlutdeild sjóðsins í staðgreiðslu útsvars.][^1)^]</dd>
 <dt>[d.]</dt>
 <dd>[^1)^] Vaxtatekjur.</dd>
 </dl>
@@ -123,7 +123,7 @@ _[^1)^]"L. 148/1995, 1. gr.":/altext/stjt/1995.148.html_
 
 
 
-_[^1)^]"L. 79/1996, 1. gr.":/altext/stjt/1996.079.html Ákvæðið öðlast gildi 1. janúar 1997 og kemur til framkvæmda við skiptingu staðgreiðslu 1997._
+_[^1)^]"L. 79/1996, 1. gr.":/altext/stjt/1996.079.html[^2)^]"L. 122/1996, 2. gr.":/altext/stjt/1996.122.html_
 
 
 
@@ -179,17 +179,17 @@ _[^1)^]"L. 79/1996, 2. gr.":/altext/stjt/1996.079.html Ákvæðið öðlast gild
 <dt>b.</dt>
 <dd>Til að greiða úr sérstökum fjárhagserfiðleikum sveitarfélaga, sbr. 90. gr. sveitarstjórnarlaga.</dd>
 <dt>c.</dt>
-<dd>[Til kostnaðarsamra stofnframkvæmda hjá sveitarfélögum með innan við 2.000 íbúa, allt að 10,5% af tekjum sjóðsins skv. a- og b-lið 8. gr., sbr. 13. gr.][^1)^]</dd>
+<dd>[Til kostnaðarsamra stofnframkvæmda hjá sveitarfélögum með innan við 2.000 íbúa,[^1)^] allt að 10,5% af tekjum sjóðsins skv. a- og b-lið 8. gr., sbr. 13. gr.][^2)^]</dd>
 <dt>d.</dt>
-<dd>[Til að aðstoða dreifbýlissveitarfélög við að standa undir rekstri grunnskóla, þ.e. vegna aksturs og launakostnaðar af rekstri mötuneyta og heimavista og gæslu nemenda, allt að 18,5% af tekjum sjóðsins skv. a- og b-lið 8. gr., sbr. 14. gr.][^1)^]</dd>
+<dd>[Til að aðstoða dreifbýlissveitarfélög við að standa undir rekstri grunnskóla,[^3)^] þ.e. vegna aksturs og launakostnaðar af rekstri mötuneyta og heimavista og gæslu nemenda, allt að 18,5% af tekjum sjóðsins skv. a- og b-lið 8. gr., sbr. 14. gr.][^2)^]</dd>
 <dt>e.</dt>
-<dd>...[^2)^]</dd>
+<dd>...[^4)^]</dd>
 </dl>
 
-     [Heimilt er að færa fjármagn milli c- og d-liða.][^2)^]
+     [Heimilt er að færa fjármagn milli c- og d-liða.][^4)^]
 
 
-_[^1)^]"L. 79/1996, 3. gr.":/altext/stjt/1996.079.html Ákvæðið öðlast gildi 1. janúar 1997.[^2)^]"L. 148/1995, 2. gr.":/altext/stjt/1995.148.html_
+_[^1)^]Rg. 105/1996.[^2)^]"L. 79/1996, 3. gr.":/altext/stjt/1996.079.html[^3)^]Rg. 420/1996.[^4)^]"L. 148/1995, 2. gr.":/altext/stjt/1995.148.html_
 
 
 
@@ -211,7 +211,7 @@ _[^1)^]"L. 79/1996, 3. gr.":/altext/stjt/1996.079.html Ákvæðið öðlast gild
       Í reglugerð skal meðal annars setja nánari ákvæði um útreikning jöfnunarframlaga, viðmiðanir við útgjaldaþörf sveitarfélaga, sbr. b-lið 1. mgr., með tilliti til íbúafjölda og verkefna, svo og launakostnaðar og annarra útgjalda vegna flutnings grunnskólans frá ríki til sveitarfélaga, og hvaða skilyrðum sveitarfélög þurfi að fullnægja til að hljóta þau.][^1)^]
 
 
-_[^1)^]"L. 79/1996, 4. gr.":/altext/stjt/1996.079.html Ákvæðið öðlast gildi 1. janúar 1997._
+_[^1)^]"L. 79/1996, 4. gr.":/altext/stjt/1996.079.html_
 
 
 
@@ -263,7 +263,7 @@ _[^1)^]"L. 148/1995, 5. gr.":/altext/stjt/1995.148.html_
      Félagsmálaráðherra setur í samráði við Samband íslenskra sveitarfélaga reglugerð[^1)^] með nánari ákvæðum um starfsemi sjóðsins.
 
 
-_[^1)^]Rg. 390/1991, sbr. 456/1992, 403/1993, 590/1993 og 643/1994._
+_[^1)^]Rg. 105/1996._
 
 
 
@@ -303,11 +303,11 @@ _[^1)^]Rg. 390/1991, sbr. 456/1992, 403/1993, 590/1993 og 643/1994._
 
 23. gr.
 
-     Útsvar skal vera ákveðinn hundraðshluti af tekjum hvers almanaksárs, en má þó eigi vera hærra en [11,95%][^1)^] og eigi lægra en [11,15%][^1)^] af útsvarsstofni og skal sami hundraðshluti lagður á tekjur allra manna í hverju sveitarfélagi.
-      Útsvar af þeim tekjum barna, sem um ræðir í 2. og 3. mgr. 65. gr. laga um tekjuskatt og eignarskatt, skal vera 2% af tekjum umfram það lágmark sem tilgreint er í 2. mgr. 67. gr. sömu laga.[^2)^]
+     Útsvar skal vera ákveðinn hundraðshluti af tekjum hvers almanaksárs, en má þó eigi vera hærra en [12,04%][^1)^] og eigi lægra en [11,24%][^1)^] af útsvarsstofni og skal sami hundraðshluti lagður á tekjur allra manna í hverju sveitarfélagi.
+      Útsvar af þeim tekjum barna, sem um ræðir í 2. og 3. mgr. 65. gr. laga um tekjuskatt og eignarskatt, skal vera 2% af tekjum umfram það lágmark sem tilgreint er í 2. mgr. 67. gr. sömu laga.
 
 
-_[^1)^]"L. 79/1996, 6. gr.":/altext/stjt/1996.079.html Ákvæðið öðlast gildi 1998 og kemur til framkvæmda við skiptingu staðgreiðslu 1998 og álagningu 1999 vegna tekna á árinu 1998.[^2)^]Ákvæði 2. mgr. komi til framkvæmda við álagningu 1996 vegna tekna á árinu 1995, sbr. "2. gr. l. 152/1994":/altext/stjt/1994.152.html._
+_[^1)^]"L. 122/1996, 3. gr.":/altext/stjt/1996.122.html_
 
 
 
@@ -326,9 +326,13 @@ _[^1)^]"L. 79/1996, 6. gr.":/altext/stjt/1996.079.html Ákvæðið öðlast gild
 
 25. gr.
 
-     Sveitarstjórn er heimilt að taka til greina umsókn manna um lækkun eða niðurfellingu álagðs útsvars þegar svo stendur á sem segir í 1. mgr. 66. gr. laga um tekjuskatt og eignarskatt telji hún ástæðu til að veita frekari lækkun en skattstjóri veitti við afgreiðslu á umsókn um lækkun útsvarsstofns. Á sama hátt getur sveitarstjórn lækkað eða fellt niður álagt útsvar þeirra sem nutu bóta samkvæmt II. og IV. kafla laga um almannatryggingar.
+     Sveitarstjórn er heimilt að taka til greina umsókn manna um lækkun eða niðurfellingu álagðs útsvars þegar svo stendur á sem segir í 1. mgr. 66. gr. laga um tekjuskatt og eignarskatt telji hún ástæðu til að veita frekari lækkun en skattstjóri veitti við afgreiðslu á umsókn um lækkun útsvarsstofns. Á sama hátt getur sveitarstjórn lækkað eða fellt niður álagt útsvar þeirra sem nutu bóta samkvæmt II. og [III. kafla][^1)^] laga um almannatryggingar.
       Skattstjóri skal veita sveitarstjórn aðgang að skattframtölum hlutaðeigandi einstaklinga, svo og veita henni þær upplýsingar sem nauðsynlegar teljast. Sveitarstjórn skal tilkynna lækkun útsvars til skattstjóra, innheimtuaðila og hlutaðeigandi einstaklings.
       Þeim sem sveitarstjórn felur að annast störf þessi er bannað, að viðlagðri ábyrgð eftir ákvæðum almennra hegningarlaga um brot í opinberu starfi, að skýra óviðkomandi mönnum frá því er þeir komast að í störfum sínum og varðar hagi skattaðila.
+
+
+_[^1)^]"L. 122/1996, 4. gr.":/altext/stjt/1996.122.html_
+
 
 
 
@@ -482,11 +486,11 @@ _[^1)^]"L. 79/1996, 7. gr.":/altext/stjt/1996.079.html_
 
       Af framlagi hvers mánaðar skv. 1. mgr. skulu 27% greidd sem framlag til Jöfnunarsjóðs sveitarfélaga.
       Um greiðslufyrirkomulag, skiptingu og ráðstöfun framlags skv. 1. og 2. mgr. skal setja nánari ákvæði í reglugerð að fengnum tillögum og í samráði við Samband íslenskra sveitarfélaga.
-      Þrátt fyrir ákvæði 1. mgr. 23. gr. laganna skal hámarksútsvar árið 1997 nema 11,9% og lágmarksútsvar 11,1%.
-      Þrátt fyrir ákvæði c-liðar 8. gr. laganna skal hlutdeild Jöfnunarsjóðs sveitarfélaga nema 0,73% af álagningarstofni útsvars árið 1997.][^1)^]
+      Þrátt fyrir ákvæði 1. mgr. 23. gr. laganna skal hámarksútsvar árið 1997 nema [11,99%][^1)^] og lágmarksútsvar [11,19%].[^1)^]
+      Þrátt fyrir ákvæði c-liðar 8. gr. laganna skal hlutdeild Jöfnunarsjóðs sveitarfélaga nema [0,75%][^1)^] af álagningarstofni útsvars árið 1997.][^2)^]
 
 
-_[^1)^]"L. 79/1996, 7. gr.":/altext/stjt/1996.079.html_
+_[^1)^]"L. 122/1996, 5. gr.":/altext/stjt/1996.122.html[^2)^]"L. 79/1996, 7. gr.":/altext/stjt/1996.079.html_
 
 *[IV.*
 

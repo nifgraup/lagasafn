@@ -25,7 +25,11 @@ _Skattskyldir aðilar._
 
      Skyldir til að greiða skatt skv. 1. gr. og sæta innheimtu í staðgreiðslu hans eru allir þeir sem fá vaxtatekjur og arðstekjur, sbr. þó 3. mgr.
       Greiðsluskylda samkvæmt þessari grein tekur til þeirra lögaðila sem undanþegnir eru skattskyldu skv. 2., 3., 5., 6. og 7. tölul. "4. gr. laga nr. 75/1981":1981075.html#g4, um tekjuskatt og eignarskatt. Réttilega ákvörðuð og innborguð staðgreiðsla þessara aðila er fullnaðargreiðsla án þess að fram þurfi að fara frekari ákvörðun eða álagning tekjuskatts á vexti eða arð hjá þeim. Þó skulu þeir aðilar, sem þessi málsgrein tekur til og sjálfir annast um innheimtu vaxta í eigin lánaumsýslu eða fá vaxtatekjur sem ekki er dregin af staðgreiðsla, t.d. afföll eða gengishagnaður, skila greinargerð um þær vaxtatekjur til skattyfirvalda og standa skil á 10% tekjuskatti af slíkum vöxtum að tekjuári loknu. Þeir aðilar, sem þessi málsgrein tekur til og hafa aðrar fjármagnstekjur en vexti og arð, skulu sömuleiðis standa skil á 10% tekjuskatti af slíkum tekjum að tekjuári loknu. Skal ríkisskattstjóri setja nánari reglur um skilagreinar og skil í þessu sambandi.
-      Undanþegnir skyldu skv. 1. mgr. eru: Forseti Íslands og maki hans, erlend ríki og alþjóðastofnanir, Lánasjóður íslenskra námsmanna, Byggðastofnun, Byggingarsjóður ríkisins, Byggingarsjóður verkamanna, Framkvæmdasjóður fatlaðra, Framkvæmdasjóður aldraðra, Framleiðnisjóður landbúnaðarins, Lánasjóður sveitarfélaga og Lánasjóður Vestur-Norðurlanda, Seðlabanki Íslands, lánastofnanir sem skattskyldar eru samkvæmt "lögum nr. 65/1982":1982065.html, með síðari breytingum, og lífeyrissjóðir, sbr. "lög nr. 55/1980":1980055.html.
+      Undanþegnir skyldu skv. 1. mgr. eru: Forseti Íslands og maki hans, erlend ríki og alþjóðastofnanir, Lánasjóður íslenskra námsmanna, Byggðastofnun, Byggingarsjóður ríkisins, Byggingarsjóður verkamanna, Framkvæmdasjóður fatlaðra, Framkvæmdasjóður aldraðra, Framleiðnisjóður landbúnaðarins, Lánasjóður sveitarfélaga og Lánasjóður Vestur-Norðurlanda, Seðlabanki Íslands, [verðbréfasjóðir, sbr. "lög um verðbréfasjóði, nr. 10/1993":1993010.html],[^1)^] lánastofnanir sem skattskyldar eru samkvæmt "lögum nr. 65/1982":1982065.html, með síðari breytingum, og lífeyrissjóðir, sbr. "lög nr. 55/1980":1980055.html.
+
+
+_[^1)^]"L. 133/1996, 1. gr.":/altext/stjt/1996.133.html_
+
 
 
 
@@ -73,23 +77,28 @@ _Afdráttur staðgreiðslu._
 
 <dl>
 <dt>1.</dt>
-<dd>Staðgreiðsla af vöxtum skv. 1. - 3. tölul. 1. mgr. 4. gr. skal fara fram þegar vextir eru greiddir út eða færðir rétthafa til tekna og þar með lausir til ráðstöfunar. Með greiðslu er átt við greiðslu í hvaða formi sem er, hvort heldur greiðslu í peningum, kröfum eða öðru því sem hefur peningalegt verðgildi og látið er af hendi í stað peninga.</dd>
+<dd>[Staðgreiðsla af vöxtum skv. 1. - 3. tölul. 1. mgr. 4. gr. skal fara fram þegar vextir eru greiddir út eða færðir eiganda til eignar á reikningi, sbr. 1. og 2. tölul. 1. mgr. 4. gr.][^1)^] Með greiðslu er átt við greiðslu í hvaða formi sem er, hvort heldur greiðslu í peningum, kröfum eða öðru því sem hefur peningalegt verðgildi og látið er af hendi í stað peninga.</dd>
 <dt>2.</dt>
-<dd>Rekstraraðilar hlutdeildarsjóða skulu gera skil á greiðslu skatts af tekjum sjóðsins. Sjóðurinn telst þá hafa fullnægt skattskyldu, sbr. 4. tölul. 1. mgr. 4. gr., hjá eigendum hlutdeildarskírteina sjóðsins vegna þess tímabils sem gert er upp fyrir, enda sundurgreini sjóðurinn skattgreiðslur á yfirlitum til eigenda.</dd>
+<dd>[Við innlausn eða sölu skal gera skil á greiðslu skatts af gengishækkun hlutdeildarskírteina.][^1)^]</dd>
 <dt>3.</dt>
-<dd>Aðili, sem tekur að sér lífeyristryggingar, söfnunartryggingar, skal gera skil á greiðslu skatts af tekjum af þeim. Telst þá skattskyldu lífeyristryggingahafa, söfnunartryggingahafa, sbr. 5. tölul. 1. mgr. 4. gr., fullnægt.</dd>
+<dd>Aðili, sem tekur að sér lífeyristryggingar, söfnunartryggingar, skal gera skil á greiðslu skatts af tekjum af þeim [þegar þær koma til greiðslu].[^1)^] ...[^1)^]</dd>
 <dt>4.</dt>
 <dd>Staðgreiðsla af tekjum skv. 6. tölul. 1. mgr. 4. gr. skal fara fram þegar þær eru færðar rétthafa til tekna og lausar honum til ráðstöfunar eða þegar þær eru greiddar út.</dd>
 <dt>5.</dt>
-<dd>Við vexti af verðbréfum, sem ekki eru með árlegri greiðslu, skal, áður en skattur er reiknaður, bætast viðbótarfjárhæð sem miðast við að ársávöxtun eftir skatt yfir reikningstímabilið sé sem næst því sem verið hefði við árlega staðgreiðslu. Seðlabanki Íslands skal reikna út álagið fyrir hvert ár í upphafi næsta árs á eftir tekjuárinu.</dd>
+<dd>Við vexti af verðbréfum, [þar með talda gengishækkun hlutdeildarskírteina],[^1)^] sem ekki eru með árlegri greiðslu, skal, áður en skattur er reiknaður, bætast viðbótarfjárhæð sem miðast við að ársávöxtun eftir skatt yfir reikningstímabilið sé sem næst því sem verið hefði við árlega staðgreiðslu. Seðlabanki Íslands skal reikna út álagið fyrir hvert ár í upphafi næsta árs á eftir tekjuárinu.</dd>
 <dt>6.</dt>
 <dd>Sé kröfu skuldbreytt þannig að áföllnum vöxtum sé bætt við höfuðstól skal staðgreiðsla dregin af þeim vöxtum sem voru áfallnir þegar skuldbreytingin er gerð.</dd>
 </dl>
 
 
-      Ef einungis er borgaður hluti af áskilinni afborgun kröfu skal við það miðað að vextir séu fyrst greiddir. Þegar verðbréf er selt, eða afhent sem greiðsla, skal skrá á verðbréfið nafn seljanda, kennitölu hans og dagsetningu sölu ásamt söluverði (kaupverði) eða markaðsvirði þegar um kröfu til lengri tíma en 12 mánaða er að ræða.
+      Ef einungis er borgaður hluti af áskilinni afborgun kröfu skal við það miðað að vextir séu fyrst greiddir. ...[^1)^]
       Afdráttur staðgreiðslu af afföllum skal fara fram við hverja afborgun af kröfu þeirri sem afföllin reiknast af. Ákvæði þessarar málsgreinar taka þó ekki til affalla þegar krafa er innheimt hjá öðrum en skilaskyldum aðilum, sbr. 3. gr.
       Afdráttur staðgreiðslu af arði skal fara fram þegar hlutafélag greiðir eða úthlutar arði til hluthafa. Með greiðslu er átt við greiðslu í hvaða formi sem er, hvort heldur í peningum, kröfu eða öðru því sem hefur peningalegt verðgildi og látið er af hendi í stað peninga.
+      [Þegar verðbréf er selt, eða afhent sem greiðsla, skal skrá á það nafn seljanda, kennitölu hans og dagsetningu sölu ásamt söluverði (kaupverði). Þegar skilaskyldur aðili skv. 3. gr. selur eða hefur milligöngu í viðskiptum með verðbréf og annast innheimtu þeirra er skráningarskyldu fullnægt með því að dagsetning og söluverð (kaupverð) er skráð með tryggilegum hætti í tölvu. Þegar slík verðbréf fara úr vörslu skilaskylds aðila, áður en þau eru að fullu greidd, skal hann skrá söluverð (kaupverð) ásamt upphaflegri dagsetningu viðskiptanna á bréfin.][^1)^]
+
+
+_[^1)^]"L. 133/1996, 2. gr.":/altext/stjt/1996.133.html_
+
 
 
 
@@ -144,9 +153,13 @@ _Skrá um skilaskylda aðila._
 11. gr.
 
      Ríkisskattstjóri skal halda sérstaka skrá um skilaskylda aðila samkvæmt lögum þessum.
-      Aðili skv. 3. gr. skal innan átta daga frá því að hann tekur til starfa tilkynna ríkisskattstjóra um starfsemi sína sem þá færir viðkomandi í skrána. Ef aðili hættir starfsemi skal hann innan átta daga senda tilkynningu þar að lútandi til ríkisskattstjóra sem tekur viðkomandi út af skránni. Aðili, sem fellur undir 1. mgr. 3. gr., getur sótt til ríkisskattstjóra um að verða ekki færður á skrá um skilaskylda aðila, enda hafi hann ekki með höndum innheimtu á eða milligöngu með peningalegar eignir annarra.
+      Aðili skv. 3. gr. skal innan átta daga frá því að hann tekur til starfa tilkynna ríkisskattstjóra um starfsemi sína sem þá færir viðkomandi í skrána. Ef aðili hættir starfsemi skal hann innan átta daga senda tilkynningu þar að lútandi til ríkisskattstjóra sem tekur viðkomandi út af skránni. [Aðili, sem fellur undir 1. mgr. 3. gr., getur sótt til ríkisskattstjóra um að verða ekki færður á skrá um skilaskylda aðila, enda hafi hann að óverulegu leyti með höndum innheimtu á eða milligöngu með peningalegar eignir einstaklinga. Aðilar, sem fá slíka undanþágu, skulu árlega gefa skattyfirvöldum upplýsingar um þær fjármagnstekjur einstaklinga sem þeir hafa innheimt, á því formi sem ríkisskattstjóri ákveður.][^1)^]
       Vanræki aðili tilkynningarskyldu sína skv. 2. mgr. skal ríkisskattstjóri úrskurða hann sem skilaskyldan aðila og tilkynna honum um það.
       Tilkynningar samkvæmt þessari grein skulu vera á þar til gerðu eyðublaði sem ríkisskattstjóri lætur gera. Ríkisskattstjóri ákveður hvaða upplýsingar skuli gefa á þessu eyðublaði.
+
+
+_[^1)^]"L. 133/1996, 3. gr.":/altext/stjt/1996.133.html_
+
 
 
 
@@ -289,9 +302,23 @@ _Gildistaka._
 
 *Ákvæði til bráðabirgða.*
 
+*I.*
+
      Aðilar, sem skilaskyldir eru skv. 3. gr., skulu strax við gildistöku laga þessara og eigi síðar en 31. desember 1996 senda ríkisskattstjóra tilkynningu um starfsemi sína sem þá skráir viðkomandi á skrá um skilaskylda aðila. Aðili, sem fellur undir 3. gr., getur farið fram á undanþágu frá færslu í skrá um skilaskylda aðila, enda hafi viðkomandi ekki milligöngu um innheimtu, fjárvörslu eða aðra sýslan með peningalegar eignir annarra.
       Vanræki aðili tilkynningarskyldu sína skv. 1. mgr. skal ríkisskattstjóri úrskurða hann sem skilaskyldan aðila og tilkynna honum það.
       Tilkynningar samkvæmt þessu ákvæði skulu vera á þar til gerðu eyðublaði sem ríkisskattstjóri lætur gera. Ríkisskattstjóri ákveður hvaða upplýsingar skuli gefa á þessu eyðublaði.
+
+
+*[II.*
+
+     Við ákvörðun á fjárhæð áfallinna vaxta á kröfu og verðbréf skal þess gætt að færa uppreiknað verð, þ.e. eftirstöðvaverð, með áföllnum verðbótum og vöxtum á viðkomandi skjal við greiðslu eða fyrstu afborgun eftir 1. janúar 1997.
+      Uppreiknað verð á verðbréfum sem uppfylla skilyrði um skráningu á Verðbréfaþingi Íslands, sbr. "V. kafla laga nr. 11/1993":1993011.html, skal miðast við vegið meðaltal viðskipta í einstökum flokkum verðbréfa sem fram fara á tímabilinu 15. nóvember til 15. desember 1996 á Verðbréfaþingi Íslands, þar með talin tilkynnt viðskipti fyrir sama tímabil.
+      Uppreiknað verð á kröfu eða verðbréfi sem ekki er skráð á Verðbréfaþingi Íslands, sbr. "V. kafla laga nr. 11/1993":1993011.html, og ber lægri nafnvexti en 5% skal ákvarðað sem nafnverð kröfunnar eða eftirstöðvar verðbréfsins 31. desember 1996, að teknu tilliti til 5% ávöxtunar á ári til loka lánstíma. Ef rétthafi vaxta getur sýnt fram á að ávöxtun kröfu eða verðbréfs sé lægri en greinir í 1. málsl. þessarar málsgreinar getur hann farið fram á leiðréttingu til samræmis við raunverulega ávöxtun. Slík leiðrétting skal gerð við álagningu að tekjuári liðnu. Þannig ákvarðað og uppreiknað verðmæti kröfu eða verðbréfs telst upphafsverð 1. janúar 1997 við staðgreiðslu fjármagnstekna. Krafa eða verðbréf sem bera nafnvexti 5% eða hærri skulu skattlögð samkvæmt því.
+      Skuldaviðurkenningar, sem teknar eru sem greiðsla söluandvirðis samkvæmt kaupsamningi og eru í eigu seljanda, skulu metnar á uppreiknuðu verði í árslok 1996, sbr. þó 2. málsl. lokamálsgreinar 5. gr.][^1)^]
+
+
+_[^1)^]"L. 133/1996, 4. gr.":/altext/stjt/1996.133.html_
+
 
 
 

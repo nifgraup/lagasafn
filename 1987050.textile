@@ -68,7 +68,7 @@ _Skilgreiningar._
  _Lagning ökutækis:_
  Staða ökutækis, með eða án ökumanns, lengur en þarf til að hleypa farþegum inn eða út, lesta það eða losa.
  _Létt bifhjól:_
- Bifhjól með aflvél eigi stærri en 2,5 hestöfl (DIN) og ekki yfir 50 rúmsentimetrar að slagrúmmáli, sem eigi er hannað til hraðari aksturs en 50 km á klst. og verður einungis ekið hraðar með verulegri breytingu.
+ [Bifhjól sem búið er brunahreyfli sem ekki er yfir 50 rúmsentimetrar að slagrúmmáli eða búið rafhreyfli og er eigi hannað til hraðari aksturs en 45 km á klst.][^2)^]
  _Reiðhjól:_
  Ökutæki, sem knúið er áfram með stig- eða sveifarbúnaði og eigi er eingöngu ætlað til leiks. Sem reiðhjól telst einnig vélknúinn hjólastóll, sem eigi er hannaður til hraðari aksturs en 15 km á klst. og verður einungis ekið hraðar með verulegri breytingu.
  _Tengitæki:_
@@ -105,7 +105,7 @@ a.</dt>
 
 
 
-_[^1)^]"L. 44/1993, 1. gr.":/altext/stjt/1993.044.html_
+_[^1)^]"L. 44/1993, 1. gr.":/altext/stjt/1993.044.html[^2)^]"L. 138/1996, 1. gr.":/altext/stjt/1996.138.html_
 
 
 
@@ -563,11 +563,11 @@ _[^1)^]"L. 44/1993, 9. gr.":/altext/stjt/1993.044.html_
 34. gr.
 
      [Dómsmálaráðherra getur sett reglur[^1)^] um akstursíþróttir á sérstökum afmörkuðum svæðum utan vega. Í þeim reglum er heimilt að víkja frá ákvæðum laganna um ökuskírteini og um lágmarksaldur ökumanns.][^2)^]
-      Eigi má efna til aksturskeppni, nema með leyfi lögreglustjóra. Eigi má án samþykkis vegamálastjóra heimila keppni á þjóðvegi eða sýsluvegi og án samþykkis sveitarstjórnar utan vega.
+      Eigi má efna til aksturskeppni, nema með leyfi lögreglustjóra. Eigi má án samþykkis vegamálastjóra heimila keppni á þjóðvegi ...[^3)^] og án samþykkis sveitarstjórnar utan vega.
       Dómsmálaráðherra setur nánari reglur um aksturskeppni, þar á meðal um eftirlit, greiðslu kostnaðar o.fl. Í þeim reglum er heimilt að víkja frá ákvæðum laganna um fébótaábyrgð og vátryggingu, svo og ákvæðum um hámarkshraða, enda sé vegur þá lokaður annarri umferð eða keppni fari fram á afmörkuðu svæði utan vega.
 
 
-_[^1)^]Rg. 286/1990, sbr. 83/1995 og 345/1995.[^2)^]"L. 44/1993, 9. gr.":/altext/stjt/1993.044.html_
+_[^1)^]Rg. 286/1990, sbr. 83/1995 og 345/1995.[^2)^]"L. 44/1993, 9. gr.":/altext/stjt/1993.044.html[^3)^]"L. 138/1996, 2. gr.":/altext/stjt/1996.138.html_
 
 
 
@@ -653,12 +653,12 @@ _Ökuhraði sérstakra gerða ökutækja._
 
      Ökuhraði [hópbifreiðar],[^1)^] sem er meira en 3500 kg að leyfðri heildarþyngd, má aldrei vera meiri en 90 km á klst.
       Ökuhraði annarra bifreiða, sem eru meira en 3500 kg að leyfðri heildarþyngd, má aldrei vera meiri en 80 km á klst.
-      Ökuhraði bifreiðar með eftirvagn eða skráð tengitæki má aldrei vera meiri en 70 km á klst.
-      Ökuhraði bifreiðar með annað tengitæki má aldrei vera meiri en [50][^1)^] km á klst.
+      [Ökuhraði bifreiðar með eftirvagn eða skráð tengitæki má aldrei vera meiri en 80 km á klst.
+      Ökuhraði bifreiðar með eftirvagn, sem er án hemla og meira en 750 kg að heildarþyngd, eða óskráð tengitæki má aldrei vera meiri en 60 km á klst.][^2)^]
       [Dómsmálaráðherra getur sett reglur um að ákveða megi sérstakan lægri hámarkshraða vélknúins ökutækis en segir í 37. gr. og 1. - 4. mgr. þessarar greinar ef þess er þörf vegna hönnunar ökutækisins.][^1)^]
 
 
-_[^1)^]"L. 44/1993, 10. gr.":/altext/stjt/1993.044.html_
+_[^1)^]"L. 44/1993, 10. gr.":/altext/stjt/1993.044.html[^2)^]"L. 138/1996, 3. gr.":/altext/stjt/1996.138.html_
 
 
 
@@ -827,17 +827,17 @@ _Ökupróf og ökuskírteini._
 
 <dl>
 <dt>a.</dt>
-<dd>vörubifreið sem er meira en 3.500 kg að leyfðri heildarþyngd,</dd>
+<dd>[bifreið, þó ekki hópbifreið],[^1)^] sem er meira en 3.500 kg að leyfðri heildarþyngd,</dd>
 <dt>b.</dt>
 <dd>hópbifreið,</dd>
 <dt>c.</dt>
-<dd>bifreið sem dregur eftirvagn eða tengitæki sem gert er fyrir a.m.k. 750 kg heildarþyngd, þó ekki ef ökutækið, sem dregið er, er gert fyrir þá heildarþyngd og samanlögð leyfð heildarþyngd beggja ökutækjanna er innan við 3.500 kg og</dd>
+<dd>bifreið sem dregur eftirvagn eða tengitæki sem gert er fyrir [meira en 750 kg][^1)^] heildarþyngd, þó ekki ef ökutækið, sem dregið er, er gert fyrir þá heildarþyngd og samanlögð leyfð heildarþyngd beggja ökutækjanna [fer ekki yfir 3.500 kg][^1)^] og</dd>
 <dt>d.</dt>
 <dd>tilteknum bifhjólum.</dd>
 </dl>
 
 
-      Með sama hætti getur dómsmálaráðherra sett reglur[^1)^] um frekari skilyrði til að mega stjórna:
+      Með sama hætti getur dómsmálaráðherra sett reglur[^2)^] um frekari skilyrði til að mega stjórna:
 
 <dl>
 <dt>a.</dt>
@@ -850,10 +850,10 @@ _Ökupróf og ökuskírteini._
 
 
       Í reglum þessum má ákveða að við tilteknar aðstæður þurfi eigi aukin réttindi til að stjórna ökutæki sem fellur undir a - c-liði 1. mgr.
-      Heimilt er að synja manni um réttindi til að mega stjórna bifreið til farþegaflutninga í atvinnuskyni ef ákvæði 2. mgr. 68. gr. almennra hegningarlaga eiga við um hagi hans.][^2)^]
+      Heimilt er að synja manni um réttindi til að mega stjórna bifreið til farþegaflutninga í atvinnuskyni ef ákvæði 2. mgr. 68. gr. almennra hegningarlaga eiga við um hagi hans.][^3)^]
 
 
-_[^1)^]Rg. 139/1995.[^2)^]"L. 44/1993, 12. gr.":/altext/stjt/1993.044.html_
+_[^1)^]"L. 138/1996, 4. gr.":/altext/stjt/1996.138.html[^2)^]Rg. 139/1995, sbr. 532/1995.[^3)^]"L. 44/1993, 12. gr.":/altext/stjt/1993.044.html_
 
 
 
@@ -874,20 +874,20 @@ _[^1)^]Rg. 139/1995.[^2)^]"L. 44/1993, 12. gr.":/altext/stjt/1993.044.html_
 
 <dl>
 <dt>a.</dt>
-<dd>ökukennslu,</dd>
+<dd>[ökunám og ökukennslu],[^2)^]</dd>
 <dt>b.</dt>
 <dd>skilyrði fyrir útgáfu ökuskírteinis og endurnýjun, þar á meðal um ökupróf,</dd>
 <dt>c.</dt>
 <dd>efni og form ökuskírteinis, og</dd>
 <dt>d.</dt>
-<dd>gjald fyri próf og ökuskírteini.</dd>
+<dd>gjald fyrir próf og ökuskírteini.</dd>
 </dl>
 
 
       Lögreglustjórar halda skrár um ökuskírteini og ökuferil samkvæmt reglum, sem dómsmálaráðherra setur.
 
 
-_[^1)^]Rg. 787/1983, sbr. 116/1988, 361/1992, 202/1993 og 431/1993._
+_[^1)^]Rg. 787/1983, sbr. 116/1988, 361/1992, 202/1993, 431/1993 og 681/1996.[^2)^]"L. 138/1996, 5. gr.":/altext/stjt/1996.138.html_
 
 
 
@@ -907,7 +907,11 @@ _Erlend ökuskírteini._
 54. gr.
 
      Dómsmálaráðherra setur reglur um með hvaða skilyrðum þeir, sem dveljast hér á landi og hafa eigi íslenskt ökuskírteini, mega stjórna vélknúnum ökutækjum hér. Hann getur og sett reglur um með hvaða skilyrðum þeir, sem hafa erlend ökuskírteini, geta fengið íslenskt ökuskírteini.
-      Dómsmálaráðherra getur ákveðið, að ökuskírteini útgefin í Danmörku, Finnlandi, Noregi og Svíþjóð gildi hér á landi, einnig eftir að skírteinishafi hefur sest hér að.
+      [Dómsmálaráðherra getur ákveðið að ökuskírteini útgefin í Danmörku, Finnlandi, Noregi eða Svíþjóð, eða í öðru ríki sem er aðili að Evrópska efnahagssvæðinu, gildi hér á landi, samkvæmt nánari reglum, einnig eftir að skírteinishafi hefur sest hér að.][^1)^]
+
+
+_[^1)^]"L. 138/1996, 6. gr.":/altext/stjt/1996.138.html_
+
 
 
 
@@ -917,13 +921,19 @@ _Stjórnendur dráttarvéla, vinnuvéla, léttra bifhjóla og torfærutækja._
 
      Enginn má stjórna dráttarvél, nema hann hafi gilt ökuskírteini til þess eða til að mega stjórna bifreið. Ökuskírteini til að mega stjórna dráttarvél má ekki veita þeim, sem er yngri en 16 ára. Eigi þarf ökuskírteini til að stjórna dráttarvél við landbúnaðarstörf utan alfaravegar, enda sé ökumaður fullra 13 ára.
       Enginn má stjórna vinnuvél, nema hann hafi gilt ökuskírteini til að mega stjórna bifreið. Eigi þarf ökuskírteini til að stjórna vinnuvél utan vegar, enda sé ökumaður fullra 17 ára.
-      Enginn má stjórna léttu bifhjóli, nema hann hafi gilt ökuskírteini til þess eða til að mega stjórna bifhjóli. Ökuskírteini til að mega stjórna léttu bifhjóli má eigi veita þeim, sem er yngri en 15 ára, enda hafi hann áður fengið tilskilda ökukennslu.
-      Enginn má stjórna torfærutæki nema hann hafi gilt ökuskírteini til þess eða ökuskírteini til að mega stjórna öðru vélknúnu ökutæki. Ökuskírteini til að mega stjórna torfærutæki má eigi veita þeim sem er yngri en 15 ára enda hafi hann áður fengið tilskilda ökukennslu.
+      Enginn má stjórna léttu bifhjóli, nema hann hafi gilt ökuskírteini til þess [eða til að mega stjórna bifreið eða bifhjóli].[^1)^] Ökuskírteini til að mega stjórna léttu bifhjóli má eigi veita þeim, sem er yngri en 15 ára, enda hafi hann áður fengið tilskilda ökukennslu.
+      [Enginn má stjórna torfærutæki nema hann hafi gilt ökuskírteini til að mega stjórna bifreið eða bifhjóli.][^1)^]
       Ákvæði 48. gr., 3. - 5. mgr. 51. gr., 52. og 53. gr. gilda að öðru leyti, eftir því sem við á, um ökuskírteini samkvæmt grein þessari. Dómsmálaráðherra getur sett reglur um æfingaakstur sem skilyrði fyrir útgáfu þeirra.
 
 
+_[^1)^]"L. 138/1996, 7. gr.":/altext/stjt/1996.138.html_
 
-_Ökukennarar._
+
+
+
+_[Ökukennarar og ökuskólar.][^1)^]_
+
+_[^1)^]"L. 138/1996, 8. gr.":/altext/stjt/1996.138.html_
 
 56. gr.
 
@@ -944,9 +954,10 @@ _Ökukennarar._
       Löggilding gildir í fimm ár, þó eigi lengur en hlutaðeigandi hefur ökuréttindi. Endurnýja má löggildingu, enda fullnægi ökukennari enn þá framangreindum skilyrðum og hafi að jafnaði stundað ökukennslu á liðnu löggildingartímabili. Í reglugerð má kveða á um endurmenntun ökukennara sem skilyrði fyrir endurnýjun löggildingar.
       Dómsmálaráðherra setur nánari reglur[^1)^] um tilhögun ökukennaranáms og prófs, um löggildingu, endurnýjun hennar, starfsemi ökukennara og gjald fyrir ökukennaranám og próf og löggildingu.
       Dómsmálaráðherra getur hvenær sem er svipt mann ökukennararéttindum, ef ástæða þykir til.
+      [Dómsmálaráðherra getur sett reglur um stofnun og starfsemi ökuskóla.][^2)^]
 
 
-_[^1)^]Rg. 787/1983, sbr. 116/1988 og 361/1992._
+_[^1)^]Rg. 787/1983, sbr. 116/1988, 361/1992 og 681/1996.[^2)^]"L. 138/1996, 8. gr.":/altext/stjt/1996.138.html_
 
 
 
@@ -958,12 +969,12 @@ _Æfingaakstur._
      Æfingaakstur á bifreið má því aðeins fara fram, að við hlið nemanda sitji löggiltur ökukennari, sem þá telst stjórnandi bifreiðarinnar. Nemandi telst þó stjórnandi við prófakstur. Nú óskar maður, sem hefur ökuskírteini, að æfa sig í akstri á ný í viðurkenndri kennslubifreið hjá löggiltum ökukennara, og telst þá ökukennari stjórnandi bifreiðarinnar. Ákvæði 44. - 47. gr. eiga þó ávallt einnig við um nemandann.
       Æfingaakstur á bifhjóli má aðeins fara fram undir leiðsögn og eftirliti löggilts ökukennara.
       Ökukennari ber ábyrgð á að æfingaakstur fari fram á þeim stöðum og þannig að eigi stafi hætta af. Hann skal og gæta þess, að eigi stafi óþörf eða veruleg truflun af æfingaakstrinum.
-      Æfingaakstur má eigi fara fram fyrr en [sex][^1)^] mánuðum áður en nemandi hefur aldur til að fá ökuskírteini útgefið. Sá, sem sviptur hefur verið [ökurétti],[^1)^] má eigi æfa sig í akstri fyrr en einum mánuði áður en sviptingartímabil rennur út.
-      Dómsmálaráðherra getur sett reglur um æfingaakstur á sérstökum lokuðum æfingasvæðum. [Má þar ákveða að sá æfingaakstur fari fram án þess að löggiltur ökukennari sitji við hlið nemanda.][^1)^]
-      [Dómsmálaráðherra getur sett reglur[^2)^] um æfingaakstur án löggilts ökukennara, þar á meðal um lágmarksþjálfun nemanda, enda hafi leiðbeinandinn náð 24 ára aldri, hafi gild réttindi til að stjórna þeim flokki ökutækja og hafi a.m.k. fimm ára reynslu af að aka þannig ökutæki. Ákvæði 1. - 5. mgr. eiga við um akstur þennan eftir því sem við á.][^1)^]
+      Æfingaakstur má eigi fara fram fyrr en [tólf][^1)^] mánuðum áður en nemandi hefur aldur til að fá ökuskírteini útgefið. Sá, sem sviptur hefur verið [ökurétti],[^2)^] má eigi æfa sig í akstri fyrr en einum mánuði áður en sviptingartímabil rennur út.
+      Dómsmálaráðherra getur sett reglur um æfingaakstur á sérstökum lokuðum æfingasvæðum. [Má þar ákveða að sá æfingaakstur fari fram án þess að löggiltur ökukennari sitji við hlið nemanda.][^2)^]
+      [Dómsmálaráðherra getur sett reglur[^3)^] um æfingaakstur án löggilts ökukennara, þar á meðal um lágmarksþjálfun nemanda, enda hafi leiðbeinandinn náð 24 ára aldri, hafi gild réttindi til að stjórna þeim flokki ökutækja og hafi a.m.k. fimm ára reynslu af að aka þannig ökutæki. Ákvæði 1. - 5. mgr. eiga við um akstur þennan eftir því sem við á.][^2)^]
 
 
-_[^1)^]"L. 44/1993, 13. gr.":/altext/stjt/1993.044.html[^2)^]Rg. 787/1983, sbr. 219/1994._
+_[^1)^]"L. 138/1996, 9. gr.":/altext/stjt/1996.138.html[^2)^]"L. 44/1993, 13. gr.":/altext/stjt/1993.044.html[^3)^]Rg. 787/1983, 219/1994 og 681/1996._
 
 
 
@@ -1005,7 +1016,7 @@ _[^1)^]"L. 44/1993, 14. gr.":/altext/stjt/1993.044.html_
 
 
 
-_[^1)^]Rg. 51/1964, sbr. 163/1969, sbr. 393/1992, 394/1992 og 107/1988; sbr. 447/1990 og 386/1992; rg. 108/1988; rg. 279/1989, sbr. 550/1991. Rg. 655/1989 (um gerð og búnað ökutækja), sbr. 282/1990, 305/1991, 495/1991 og 517/1991. Rg. 386/1992. Rg. 411/1993, sbr. 242/1994, 401/1994, 130/1995 og 138/1995. Rg. 57/1994._
+_[^1)^]Rg. 51/1964, sbr. 163/1969, sbr. 393/1992, 394/1992 og 107/1988; sbr. 447/1990 og 386/1992; rg. 108/1988; rg. 279/1989, sbr. 550/1991. Rg. 411/1993 (um gerð og búnað ökutækja), sbr. 509/1995, 283/1996 og 313/1996. Rg. 386/1992. Rg. 411/1993, sbr. 242/1994, 401/1994, 130/1995 og 138/1995. Rg. 57/1994. Rg. 572/1995._
 
 61. gr.
 
@@ -1033,11 +1044,11 @@ _Skráning._
 
 63. gr.
 
-     Áður en bifreið, bifhjól, torfærutæki eða dráttarvél er tekin í notkun skal ökutækið skráð og skráningarmerki sett á það. Sama á við um eftirvagn [bifreiðar eða dráttarvélar sem gerður er fyrir a.m.k. 750 kg heildarþyngd],[^1)^] svo og hjólhýsi og tjaldvagn. [Eigi þarf þó að skrá eftirvagn bifreiðar á beltum eða dráttarvélar sem nær eingöngu er notaður utan opinberra vega.][^1)^] Dómsmálaráðherra getur fyrirskipað skráningu annarra tengitækja og vinnuvéla.
-      [Dómsmálaráðherra getur og ákveðið að eigi þurfi að skrá önnur skráningarskyld ökutæki sem nær eingöngu eru notuð utan opinberra vega.][^1)^] Skal þá kveða á um það svæði þar sem nota má ökutækið. Einnig má kveða nánar á um gerð, búnað og notkun ökutækisins.
+     Áður en bifreið, bifhjól, torfærutæki eða dráttarvél er tekin í notkun skal ökutækið skráð og skráningarmerki sett á það. Sama á við um eftirvagn [bifreiðar eða dráttarvélar sem gerður er fyrir [meira en 750 kg][^1)^] heildarþyngd],[^2)^] svo og hjólhýsi og tjaldvagn. [Eigi þarf þó að skrá eftirvagn bifreiðar á beltum eða dráttarvélar sem nær eingöngu er notaður utan opinberra vega.][^2)^] Dómsmálaráðherra getur fyrirskipað skráningu annarra tengitækja og vinnuvéla.
+      [Dómsmálaráðherra getur og ákveðið að eigi þurfi að skrá önnur skráningarskyld ökutæki sem nær eingöngu eru notuð utan opinberra vega.][^2)^] Skal þá kveða á um það svæði þar sem nota má ökutækið. Einnig má kveða nánar á um gerð, búnað og notkun ökutækisins.
 
 
-_[^1)^]"L. 44/1993, 15. gr.":/altext/stjt/1993.044.html_
+_[^1)^]"L. 138/1996, 10. gr.":/altext/stjt/1996.138.html[^2)^]"L. 44/1993, 15. gr.":/altext/stjt/1993.044.html_
 
 
 
@@ -1065,7 +1076,7 @@ _[^1)^]"L. 44/1993, 15. gr.":/altext/stjt/1993.044.html_
       ...[^2)^]
 
 
-_[^1)^]Rg. 523/1988, sbr. 493/1989, 476/1992 og 206/1993. Rg. 269/1993.[^2)^]"L. 62/1988, 2. gr.":/altext/stjtnr.html#1988062?g2_
+_[^1)^]Rg. 523/1988, sbr. 493/1989, 476/1992, 206/1993 og 312/1996. Rg. 269/1993.[^2)^]"L. 62/1988, 2. gr.":/altext/stjtnr.html#1988062?g2_
 
 
 
@@ -1098,7 +1109,7 @@ _Erlend ökutæki._
      Dómsmálaráðherra setur reglur[^1)^] um notkun erlendra ökutækja hér á landi, þar á meðal hvenær beri að skrá þau hér.
 
 
-_[^1)^]Rg. 246/1975, sbr. 453/1976 og rg. 271/1988. Rg. 267/1993, sbr. 555/1993._
+_[^1)^]Rg. 246/1975, sbr. 453/1976 og rg. 271/1988. Rg. 267/1993, sbr. 555/1993 og 96/1996._
 
 
 
@@ -1111,7 +1122,7 @@ _Skoðun ökutækja og eftirlit._
       Dómsmálaráðherra ákveður gjald fyrir skoðun ökutækja.][^2)^]
 
 
-_[^1)^]Rg. 340/1989. Rg. 558/1993, sbr. 252/1994, 296/1994, 411/1994 og 5/1995. Rg. 559/1993, sbr. 14/1994 og 8/1995. Rg. 560/1993, sbr. 7/1995. Rg. 136/1995.[^2)^]"L. 44/1993, 18. gr.":/altext/stjt/1993.044.html_
+_[^1)^]Rg. 340/1989. Rg. 558/1993, sbr. 252/1994, 296/1994, 411/1994 og 5/1995. Rg. 559/1993, sbr. 14/1994 og 8/1995. Rg. 560/1993, sbr. 7/1995. Rg. 136/1995.[^2)^]"L. 44/1993, 18. gr.":/altext/stjt/1993.044.html Rg. 572/1995._
 
 
 
@@ -1214,7 +1225,7 @@ _Hleðsla ökutækja._
       Dómsmálaráðherra getur sett reglur[^2)^] um flutning hættulegra efna eða tækja, þar á meðal um skyldu til að kaupa vátryggingu, er bæti tjón vegna flutnings þeirra.
 
 
-_[^1)^]Rg. 393/1992.[^2)^]Rg. 139/1995._
+_[^1)^]Rg. 393/1992.[^2)^]Rg. 139/1995, sbr. 532/1995._
 
 
 
@@ -1236,7 +1247,7 @@ _Breidd, lengd og hæð ökutækja._
       Dómsmálaráðherra getur sett reglur um greiðslu fyrir lögregluaðstoð við flutning, sem eftir reglum, sem settar eru skv. 1. mgr., má aðeins fara fram að fengnu leyfi lögreglustjóra. Lögreglustjóri metur hverju sinni þörf á aðstoð.
 
 
-_[^1)^]Rg. 107/1988, sbr. 447/1990 og 202/1991._
+_[^1)^]Rg. 107/1988, sbr. 447/1990 og 202/1991. Rg. 425/1995, sbr. 523/1996._
 
 _[Ásþungi][^1)^] og þyngd._
 
@@ -1252,7 +1263,7 @@ _[^1)^]"L. 44/1993, 23. gr.":/altext/stjt/1993.044.html_
       Veghaldari getur veitt undanþágu frá reglum, sem settar eru samkvæmt grein þessari, þegar brýn nauðsyn þykir vegna sérstakra flutninga. Leyfi veghaldara skal fylgja ökutækinu við flutninginn. Dómsmálaráðherra getur sett reglur um greiðslu fyrir lögregluaðstoð, sem þörf er á að mati lögreglustjóra við flutning, sem veghaldari heimilar.
 
 
-_[^1)^]Rg. 107/1988, sbr. 447/1990.[^2)^]"L. 44/1993, 23. gr.":/altext/stjt/1993.044.html_
+_[^1)^]Rg. 107/1988, sbr. 447/1990.[^2)^]"L. 44/1993, 23. gr.":/altext/stjt/1993.044.html Rg. 425/1995, sbr. 523/1996._
 
 
 
@@ -1314,8 +1325,8 @@ _[^1)^]Rg. 289/1995._
 
 81. gr.
 
-     Dómsmálaráðherra ákveður að fengnum tillögum vegamálastjóra hvaða þjóðvegir utan kaupstaða og kauptúna skv. V. kafla vegalaga skuli teljast aðalbrautir þar sem umferð hefur forgang, sbr. 2. mgr. 25. gr.
-      Lögreglustjóri getur, að fengnum tillögum sveitarstjórnar, svo og vegamálastjóra, ef um þjóðveg eða sýsluveg er að ræða, kveðið á um önnur varanleg sérákvæði um notkun vegar til umferðar, svo sem:
+     Dómsmálaráðherra ákveður að fengnum tillögum vegamálastjóra hvaða þjóðvegir utan [þéttbýlis][^1)^] skuli teljast aðalbrautir þar sem umferð hefur forgang, sbr. 2. mgr. 25. gr.
+      Lögreglustjóri getur, að fengnum tillögum sveitarstjórnar, svo og vegamálastjóra, ef um þjóðveg ...[^1)^] er að ræða, kveðið á um önnur varanleg sérákvæði um notkun vegar til umferðar, svo sem:
 
 <dl>
 <dt>a.</dt>
@@ -1333,8 +1344,12 @@ _[^1)^]Rg. 289/1995._
 </dl>
 
 
-      Dómsmálaráðherra ákveður hraðamörk skv. 3. og 4. mgr. 37. gr., að fengnum tillögum vegamálastjóra, ef um þjóðveg utan kaupstaða og kauptúna, sbr. V. kafla vegalaga, er að ræða. Á öðrum vegum ákveður lögreglustjóri hraðamörkin, að fengnum tillögum sveitarstjórnar.
+      Dómsmálaráðherra ákveður hraðamörk skv. 3. og 4. mgr. 37. gr., að fengnum tillögum vegamálastjóra, ef um þjóðveg utan [þéttbýlis][^1)^] er að ræða. Á öðrum vegum ákveður lögreglustjóri hraðamörkin, að fengnum tillögum sveitarstjórnar.
       Ákvarðanir samkvæmt grein þessari skal gefa til kynna með umferðarmerkjum, nema lögreglan stjórni umferðinni. Ákvörðun varðandi stöðvun eða lagningu ökutækja, sem ekki er bundin við ákveðinn vegarkafla, má þó í stað þess birta með opinberri auglýsingu.
+
+
+_[^1)^]"L. 138/1996, 11. gr.":/altext/stjt/1996.138.html_
+
 
 
 
@@ -1368,9 +1383,13 @@ _[^1)^]Rg. 289/1995._
 
 85. gr.
 
-     Lögreglustjóri skal sjá um, að merki skv. 1. mgr. 84. gr. verði sett á eða við veg, þar sem sérreglur gilda um umferð eða þörf er á til stjórnunar eða leiðbeiningar. Vegamálastjóri skal þó sjá um, að slík merki verði sett á eða við þjóðveg utan kaupstaða og kauptúna og sýsluveg.
+     Lögreglustjóri skal sjá um, að merki skv. 1. mgr. 84. gr. verði sett á eða við veg, þar sem sérreglur gilda um umferð eða þörf er á til stjórnunar eða leiðbeiningar. Vegamálastjóri skal þó sjá um, að slík merki verði sett á eða við þjóðveg utan [þéttbýlis].[^1)^]
       Eigi má án leyfis lögreglustjóra (vegamálastjóra) setja merki skv. 1. mgr. 84. gr. á eða við veg.
       Kostnað vegna merkja skv. 1. mgr. 84. gr. skal veghaldari greiða.
+
+
+_[^1)^]"L. 138/1996, 12. gr.":/altext/stjt/1996.138.html_
+
 
 
 
@@ -1458,7 +1477,7 @@ _[^1)^]"L. 116/1993, 29. gr.":/altext/stjt/1993.116.html[^2)^]Rg. 556/1993._
       Vátryggingariðgjald nýtur lögtaksréttar, einnig þótt vátryggt sé fyrir hærri fjárhæð en lögboðið er.
 
 
-_[^1)^]Rg. 556/1993._
+_[^1)^]Rg. 556/1993. Rg. 267/1993, sbr. 555/1993 og 96/1996._
 
 
 
@@ -1734,10 +1753,10 @@ _[^1)^]"L. 44/1993, 31. gr.":/altext/stjt/1993.044.html[^2)^]"L. 12/1992, 1. gr.
 113. gr.
 
      Dómsmálaráðherra skipar tvo fulltrúa í Umferðarráð án tilnefningar. Skal annar þeirra vera formaður ráðsins en hinn varaformaður.
-      Aðra fulltrúa í Umferðarráð skipar ráðherra eftir tilnefningu og eiga eftirtaldir aðilar rétt á að tilnefna einn fulltrúa hver og annan til vara: [Áhugahópur um bætta umferðarmenningu],[^1)^] Bandalag íslenskra leigubifreiðarstjóra, [Bifreiðaskoðun Íslands hf.],[^1)^] Bílgreinasambandið, Bindindisfélag ökumanna, dóms- og kirkjumálaráðuneyti, Félag íslenskra bifreiðaeigenda, heilbrigðis- og tryggingamálaráðuneyti, [Landssamband íslenskra akstursíþróttafélaga],[^1)^] Landssamband vörubifreiðastjóra, Landssamtök klúbbanna „Öruggur akstur“, [ríkislögreglustjóri],[^2)^] menntamálaráðuneyti, Reykjavíkurborg, Samband íslenskra sveitarfélaga, Samband íslenskra tryggingafélaga, Slysavarnafélag Íslands, Vegagerð ríkisins, Ökukennarafélag Íslands og Öryrkjabandalag Íslands.
+      [Aðra fulltrúa í Umferðarráð skipar ráðherra samkvæmt nánari ákvörðun í reglugerð.][^1)^]
 
 
-_[^1)^]"L. 12/1992, 2. gr.":/altext/stjt/1992.012.html[^2)^]"L. 90/1996":1996090.html, 43., sem tekur gildi 1. júlí 1997._
+_[^1)^]"L. 138/1996, 13. gr.":/altext/stjt/1996.138.html_
 
 
 
@@ -1747,11 +1766,10 @@ _[^1)^]"L. 12/1992, 2. gr.":/altext/stjt/1992.012.html[^2)^]"L. 90/1996":1996090
      [Dómsmálaráðherra skipar stjórn Umferðarráðs. Skal stjórnin skipuð formanni ráðsins og varaformanni og auk þess þremur ráðsmönnum sem ráðherra skipar til eins árs í senn, tvo þeirra samkvæmt tilnefningu Umferðarráðs. Þess skal gætt að einhver stjórnarmanna hafi þekkingu á sviði ökukennslu.
       Stjórnin hefur með höndum yfirstjórn á starfsemi Umferðarráðs, boðar fundi í ráðinu, undirbýr dagskrá funda þess og leggur fyrir það skýrslu um starfsemi ráðsins.
       Dómsmálaráðherra skipar framkvæmdastjóra Umferðarráðs að fengnum tillögum stjórnar þess. Skipunin má vera tímabundin.][^1)^]
-      ...[^1)^]
-      Dómsmálaráðherra getur skipað sérstaka rannsóknarnefnd umferðarslysa skipaða fimm mönnum með sérfræði- og tækniþekkingu sem varðar slysalækningar, umferðarskipulag, bifreiðaeftirlit, löggæslu og tryggingamál. Umferðarráð skal hafa eftirlit með störfum nefndarinnar.
+      [Dómsmálaráðherra getur skipað sérstaka rannsóknarnefnd umferðarslysa. Nefndarmenn skulu hafa sérfræðiþekkingu, svo sem að því er varðar umferðarlöggjöf, löggæslu, slysalækningar, umferðarskipulag, bifreiðatækni eða vátryggingar. Dómsmálaráðherra ákveður fjölda nefndarmanna og setur nánari reglur um starfsemi nefndarinnar.][^2)^]
 
 
-_[^1)^]"L. 12/1992, 3. gr.":/altext/stjt/1992.012.html_
+_[^1)^]"L. 12/1992, 3. gr.":/altext/stjt/1992.012.html[^2)^]"L. 138/1996, 14. gr.":/altext/stjt/1996.138.html_
 
 
 
@@ -1763,7 +1781,7 @@ _[^1)^]"L. 12/1992, 3. gr.":/altext/stjt/1992.012.html_
       [Leggja skal á sérstakt umferðaröryggisgjald er renni til Umferðarráðs, að fjárhæð 200 kr., og greiðist það við almenna skoðun ökutækis, skráningu ökutækis og skráningu eigendaskipta að ökutæki. Ráðherra setur reglur[^2)^] um innheimtu gjaldsins og um skil þess í ríkissjóð.][^3)^]
 
 
-_[^1)^]"L. 12/1992, 4. gr.":/altext/stjt/1992.012.html[^2)^]Rg. 6/1995.[^3)^]"L. 147/1995, 1. gr.":/altext/stjt/1995.147.html_
+_[^1)^]"L. 12/1992, 4. gr.":/altext/stjt/1992.012.html[^2)^]Rg. 681/1995.[^3)^]"L. 147/1995, 1. gr.":/altext/stjt/1995.147.html_
 
 
 

@@ -1,6 +1,6 @@
 <hr />
 
-h2. Lög um framhaldsskóla.
+h2. Lög um framhaldsskóla
 
 *1996 nr. 80 11. júní*
 
@@ -68,9 +68,14 @@ h2. Lög um framhaldsskóla.
 7. gr.
 
      Skólanefnd markar áherslur í starfi skólans. Hún gerir árlega starfs- og fjárhagsáætlun fyrir skólann til þriggja ára sem háð er samþykki menntamálaráðherra. Skólanefnd gerir í upphafi hvers árs fjárhagsáætlun í samræmi við niðurstöður fjárlaga og fylgist með að henni sé framfylgt. Skólanefnd skal gera menntamálaráðuneytinu grein fyrir rekstrarstöðu skólans a.m.k. tvisvar á ári, þ.e. í febrúar og ágúst.
-      Skólanefnd ákveður upphæð innritunargjalds og efnisgjalds sem nemendum er gert að greiða við upphaf námsannar eða skólaárs. Upphæð innritunargjalds skal taka mið af kostnaði vegna ýmiss konar kennsluefnis og pappírsvara sem skóli lætur nemendum í té án sérstaks endurgjalds og nauðsynlegt er fyrir starfsemi skólans. Innritunargjald skal þó aldrei vera hærra en 6.000 kr. á skólaári. Heimilt er að taka 15% hærra gjald af þeim sem fá leyfi til innritunar utan auglýsts innritunartíma. Efnisgjald er innheimt af nemendum sem njóta verklegrar kennslu og skal upphæð þess miðast við þriðjung af raunverulegum kostnaði vegna efnis sem skóli lætur nemendum í té og þeir þurfa að nota í námi sínu. Efnisgjald skal aldrei vera hærra en 25.000 kr. á skólaári eða 12.500 kr. á önn. Halda skal bókhald um fjárreiður þessar. Um endurskoðun gilda sömu reglur og um annan rekstur. Menntamálaráðherra setur nánari reglur um innritunar- og efnisgjöld.
+      [Skólanefnd ákveður upphæð innritunargjalds og efnisgjalds sem nemendum er gert að greiða við upphaf námsannar eða skólaárs. Upphæð innritunargjalds skal taka mið af kostnaði vegna ýmiss konar kennsluefnis og pappírsvara sem skóli lætur nemendum í té án sérstaks endurgjalds og nauðsynlegt er fyrir starfsemi skólans. Innritunargjald skal þó aldrei vera hærra en 6.000 kr. á skólaári. Heimilt er að taka 25% hærra gjald af þeim sem fá leyfi til innritunar utan auglýsts innritunartíma og er skólanefnd heimilt að láta gjaldið renna í skólasjóð, enda sé tekjum hans samkvæmt skipulagsskrá ráðstafað í þágu nemenda. Efnisgjald er innheimt af nemendum sem njóta verklegrar kennslu vegna efnis sem skóli lætur nemendum í té og þeir þurfa að nota í námi sínu. Skal það taka mið af raunverulegum efniskostnaði. Efnisgjald skal þó aldrei vera hærra en 25.000 kr. á skólaári eða 12.500 kr. á önn. Halda skal bókhald um fjárreiður þessar. Um endurskoðun gilda sömu reglur og um annan rekstur. Menntamálaráðherra setur nánari reglur um innritunar- og efnisgjöld.
+      Heimilt er framhaldsskólum að innheimta sérstakt endurinnritunargjald af nemendum sem endurinnritast í bekkjardeild eða áfanga og skal upphæð gjaldsins miðast við 500 kr. fyrir hverja ólokna einingu frá síðustu önn. Menntamálaráðherra setur með reglugerð nánari ákvæði um gjaldtökuna, m.a. um viðmiðun gjaldtökunnar, um mat á bekkjardeildum til eininga, tilhögun innheimtu og undanþágur frá greiðslu gjaldsins.][^1)^]
       Heimilt er skólanefnd að stofna sérstaka sjóði við framhaldsskóla. Skal um þá sett skipulagsskrá, leitað staðfestingar á henni og hún birt í Stjórnartíðindum.
       Menntamálaráðherra setur reglugerð um skipan og störf skólanefnda.
+
+
+_[^1)^]"L. 140/1996, 2. gr.":/altext/stjt/1996.140.html_
+
 
 
 
@@ -150,7 +155,7 @@ h2. Lög um framhaldsskóla.
 16. gr.
 
      Námsbrautir framhaldsskóla skiptast í starfsnámsbrautir, bóknámsbrautir, listnámsbrautir og almenna námsbraut. Af öllum námsbrautum skulu vera leiðir til frekara náms, annaðhvort beinar eða með skilgreindri viðbót náms.
-      Á starfsnámsbrautum er nám í löggiltum iðngreinum og annað starfsnám. Nemendur á starfsnámsbrautum skulu einnig eiga kost á viðbótarnámi til undirbúnings námi á háskólastigi. Í reglugerð skal kveðið á um hverjar skuli vera löggiltar starfsgreinar.
+      Á starfsnámsbrautum er nám í löggiltum iðngreinum og annað starfsnám. Nemendur á starfsnámsbrautum skulu einnig eiga kost á viðbótarnámi til undirbúnings námi á háskólastigi. Í reglugerð[^1)^] skal kveðið á um hverjar skuli vera löggiltar starfsgreinar.
       Bóknámsbrautir veita undirbúning að námi á háskólastigi. Bóknámsbrautir eru þrjár: tungumálabraut, félagsfræðabraut og náttúrufræðabraut.
       Listnámsbrautir veita undirbúning að frekara námi í listgreinum í sérskólum eða í skólum á háskólastigi.
       Almenn námsbraut veitir undirbúning fyrir nám á bók-, list- og starfsnámsbrautum og getur jafnframt verið hluti af því námi.
@@ -158,12 +163,16 @@ h2. Lög um framhaldsskóla.
       Menntamálaráðherra setur reglugerð um framkvæmd ákvæða þessarar greinar.
 
 
+_[^1)^]Rg. 560/1995, sbr. 111/1996. "Rg. 364/1996":http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-3641996, "368/1996":http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-3681996._
+
+
+
 
 17. gr.
 
      Námsbrautir framhaldsskóla skulu skipulagðar í samræmi við lokamarkmið námsins. Þær skiptast í brautarkjarna, kjörsvið og frjálst val. Hlutfall milli þessara þátta er ákveðið í aðalnámskrá og getur verið mismunandi eftir brautum.
       Brautarkjarni er skyldunám brautar. Þar eru sérgreinar brautarinnar og námsgreinar sem stuðla að almennri menntun og búa nemendur undir þátttöku í samfélaginu.
-      Kjörsvið er frekari sérhæfing á brautinni. Það er skipulagt sem heild, ýmist með samröðun námsáfanga eða í stórum heildstæðum áföngum með áherslu á fræðileg viðfangsefni.Starfsnám og viðurkennt listnám á framhaldsskólastigi má meta til kjörsviðs í námi á bóknámsbrautum að uppfylltum skilyrðum sem tilgreind eru í aðalnámskrá.
+      Kjörsvið er frekari sérhæfing á brautinni. Það er skipulagt sem heild, ýmist með samröðun námsáfanga eða í stórum heildstæðum áföngum með áherslu á fræðileg viðfangsefni. Starfsnám og viðurkennt listnám á framhaldsskólastigi má meta til kjörsviðs í námi á bóknámsbrautum að uppfylltum skilyrðum sem tilgreind eru í aðalnámskrá.
       Frjálst val námsgreina, sem skilgreindar eru í aðalnámskrá framhaldsskóla og kenndar eru í viðkomandi skóla, gefur nemendum kost á að kynnast list-, verk- og fræðasviðum að eigin vali.
 
 

@@ -1,0 +1,13 @@
+h2. Orðaleit í lagasafni með orðmyndum
+
+Aðal "leitarorð":/~wwwadm/text.ff-hlp.html allar myndir
+
+ og eða ekki 2. leitarorð allar myndir
+
+ ekki og eða 3. leitarorð allar myndir
+
+
+<hr />
+
+Grunnur þessarar textaleitar er "Freetext search For Web (FFW)":http://www.nta.no/produkter/ffw/ffw.html frá "TeleNor Research Norway":http://www.nta.no/produkter/ffw/ffw.html
+
