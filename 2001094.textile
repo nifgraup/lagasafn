@@ -6,6 +6,8 @@ h2. Lög um opinber innkaup
 
 <hr />
 
+*Tóku gildi 15. júní 2001.* Breytt með "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003).
+
 
  *1. þáttur.* *Almenn ákvæði.*
  *I. kafli.* *Tilgangur og orðskýringar.*
@@ -16,21 +18,22 @@ h2. Lög um opinber innkaup
     _Almennt útboð:_ Útboð þar sem ótilteknum fjölda er með auglýsingu gefinn kostur á að gera tilboð.
     _Bjóðandi:_ Einstaklingur eða lögaðili sem býður fram þá vöru, verk eða þjónustu sem aflað er samkvæmt lögum þessum.
     _Evrópskur staðall:_ Staðall sem samþykktur er af Staðlastofnun Evrópu (CEN) eða Rafstaðlastofnun Evrópu (CENELEC) sem evrópskur staðall (EN) eða samræmingarskjal (HD) samkvæmt sameiginlegum reglum þessara stofnana eða af Fjarskiptastaðlastofnun Evrópu (ETSI) sem evrópskur fjarskiptastaðall (ETS).
-    _Evrópskt tæknisamþykki:_ Jákvæður dómur um nothæfi vöru með hliðsjón af grunnkröfum til byggingarframkvæmda sem byggist á eðliseiginleikum vöru og skilgreindri notkun og notkunarsviði hennar. Evrópskt tæknisamþykki skal gefið út af stofnun sem ríki Evrópska efnahagssvæðisins samþykkja í þessu skyni.
+    _Evrópskt tæknisamþykki:_ Jákvæður dómur um nothæfi vöru með hliðsjón af grunnkröfum til byggingarframkvæmda sem byggist á eðliseiginleikum vöru og skilgreindri notkun og notkunarsviði hennar. Evrópskt tæknisamþykki skal gefið út af stofnun sem ríki Evrópska efnahagssvæðisins [eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] samþykkja í þessu skyni.
     _Forval:_ Aðferð við val á þátttakendum í lokuðu útboði eða samningskaupum.
     _Frávikstilboð:_ Tilboð sem leysir þarfir kaupandans á annan hátt en gert er ráð fyrir í tæknilegri lýsingu útboðsgagna og uppfyllir jafnframt lágmarkskröfur þeirra.
     _Kaupandi:_ Ríki, sveitarfélög, stofnanir þeirra og samtök og aðrir opinberir aðilar skv. 2. mgr. 3. gr.
     _Lokað útboð:_ Útboð þar sem tilteknum aðilum er einum gefinn kostur á að gera tilboð.
     _Rammasamningur:_ Samningar við einn eða fleiri bjóðendur þar sem magn og umfang samnings er að meira eða minna leyti ótilgreint, en kaupendur, einn eða fleiri, skuldbinda sig til að kaupa af þeim þá vöru, þjónustu eða verk sem samningurinn kveður á um, m.a. hvað varðar gæði, tækni, þjónustu, afhendingartíma og verð á samningstímanum.
-    _Sameiginleg tækniforskrift:_ Tækniforskrift sem samin er samkvæmt sameiginlegum reglum ríkja Evrópska efnahagssvæðisins í því skyni að tryggja einsleita beitingu í öllum ríkjunum og birt hefur verið í EES-viðbæti Stjórnartíðinda Evrópubandalagsins.
+    _Sameiginleg tækniforskrift:_ Tækniforskrift sem samin er samkvæmt sameiginlegum reglum ríkja Evrópska efnahagssvæðisins [eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] í því skyni að tryggja einsleita beitingu í öllum ríkjunum og birt hefur verið í EES-viðbæti Stjórnartíðinda Evrópubandalagsins.
     _Samningskaup:_ Þegar kaupandi ræðir við seljendur samkvæmt fyrir fram ákveðnu ferli, sem þeim hefur áður verið kynnt, og semur við einn eða fleiri þeirra.
     _Sérleyfissamningur um verk:_ Verksamningur þar sem greiðsla fyrir verk felst að hluta eða í heild í rétti til að nýta sér afrakstur verksins.
     _Staðall:_ Forskrift sem samþykkt er af viðurkenndri staðlastofnun og beita má endurtekið og að staðaldri án þess að skylt sé að fara eftir henni. Staðall er opinbert skjal og ætlaður til frjálsra afnota.
     _Tækniforskrift:_ Allar tæknilegar kröfur sem gerðar eru í útboði og skilgreina einkenni verks, efnis, vöru eða aðfanga og gefa hlutlæga lýsingu á verki, efni, vöru eða aðföngum á þann hátt að þau komi að þeim notum sem kaupandi ætlast til. Þessar kröfur geta varðað gæðastig, notkunareiginleika, öryggi og stærð, þar á meðal kröfur um ábyrgðir fyrir gæðum, merkingar, prófanir og pökkun. Tækniforskrift getur einnig varðað reglur um hönnun, ákvörðun kostnaðar, skilmála um prófun, skoðun og samþykki verka og aðferða eða tækni við byggingar ásamt öllum öðrum tæknilegum skilyrðum sem kaupandi getur áskilið samkvæmt almennum eða sérstökum reglum um fullbúin verk og um efni og hluta sem til þeirra teljast.
     _Útboð:_ Þegar kaupandi leitar skriflegra, bindandi tilboða í vöru, þjónustu eða verk frá fleiri en einum aðila á grundvelli sömu upplýsinga og innan sama frests.
+    _[^1)^]_"L. 72/2003, 19. gr.":/altext/stjt/2003.072.html
 
  *II. kafli.* *Gildissvið.*
-■ *3. gr.* _Til hverra lögin taka._
+ ■ *3. gr.* _Til hverra lögin taka._
  □ Lög þessi taka til ríkis, sveitarfélaga, stofnana þeirra og annarra opinberra aðila, sbr. 2. mgr. Lögin taka einnig til samtaka sem þessir aðilar, einn eða fleiri, kunna að hafa með sér.
  □ Aðili telst opinber ef hann getur borið réttindi og skyldur að lögum og sérstaklega hefur verið stofnað til hans í því skyni að þjóna almannahagsmunum, enda reki hann ekki starfsemi sem jafnað verður til starfsemi einkaaðila, svo sem á sviði viðskipta eða iðnaðar. Auk þess skal eitthvert eftirfarandi atriða eiga við um hann:
     a. Starfsemi hans er að mestu leyti rekin á kostnað ríkis eða sveitarfélaga, stofnana þeirra eða annarra opinberra aðila. Miðað skal við að aðili sé að mestu leyti rekinn á kostnað ríkis eða sveitarfélaga, stofnana þeirra eða annarra opinberra aðila, ef opinber fjármögnun nemur meira en 50% af rekstrarkostnaði. Tekjur aðila á grundvelli gagnkvæms viðskiptasamnings við opinberan aðila teljast ekki opinber fjármögnun.
@@ -56,18 +59,19 @@ h2. Lög um opinber innkaup
 ■ *6. gr.* _Samningar stofnana sem annast vatnsveitu, orkuveitu, flutninga og fjarskipti._
  □ Ákvæði XIII. og XIV. kafla laga þessara gilda um innkaup þeirra aðila sem falla undir tilskipun nr. 93/38/EBE frá 14. júní 1993 um samræmingu reglna um innkaup stofnana sem annast vatnsveitu, orkuveitu, flutninga og fjarskipti, eins og hún hefur verið tekin upp í samninginn um Evrópska efnahagssvæðið. Að öðru leyti taka lögin ekki til innkaupa þessara aðila.
  □ Ráðherra getur með reglugerð[^1)^] mælt nánar fyrir um innkaup þeirra aðila, sem greinir í 1. mgr., til samræmis við skuldbindingar íslenska ríkisins á sviði opinberra innkaupa samkvæmt samningnum um Evrópska efnahagssvæðið eða öðrum milliríkjasamningum.
-    _[^1)^]_"Rg. 705/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/705-2001.
+    _[^1)^]_"Rg. 705/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/705-2001, sbr. "255/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/255-2003.
  ■ *7. gr.* _Samningar undanskildir lögunum._
  □ Lög þessi taka ekki til:
     a. Þjónustusamninga sem gerðir eru við aðila, sem sjálfir teljast kaupendur skv. 3. gr., á grundvelli einkaréttar sem þeir njóta samkvæmt lögum eða stjórnvaldsfyrirmælum.
     b. Vöru-, þjónustu- eða verksamninga sem lýstir eru leynilegir eða ef sérstökum öryggisráðstöfunum verður að beita við framkvæmd þeirra í samræmi við gildandi lög og stjórnvaldsfyrirmæli eða ef grundvallarhagsmunir ríkisins krefjast þess.
-    c. Samninga sem lúta öðrum reglum um opinber innkaup og gerðir eru á grundvelli milliríkjasamnings íslenska ríkisins við ríki utan Evrópska efnahagssvæðisins um kaup á þjónustu til sameiginlegra framkvæmda eða hagnýtingar verkefna, enda sé slíkur samningur tilkynntur Eftirlitsstofnun EFTA (ESA).
+    c. Samninga sem lúta öðrum reglum um opinber innkaup og gerðir eru á grundvelli milliríkjasamnings íslenska ríkisins við ríki utan Evrópska efnahagssvæðisins [eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] um kaup á þjónustu til sameiginlegra framkvæmda eða hagnýtingar verkefna, enda sé slíkur samningur tilkynntur Eftirlitsstofnun EFTA (ESA).
     d. Samninga á grundvelli milliríkjasamnings um setu herliðs.
     e. Samninga samkvæmt sérstökum reglum alþjóðlegra stofnana.
-■ *8. gr.* _Þeir sem njóta réttar samkvæmt lögunum._
- □ Réttar samkvæmt lögum þessum njóta einstaklingar og lögaðilar með staðfestu í einhverju ríkja Evrópska efnahagssvæðisins. Sama gildir um aðra einstaklinga og lögaðila sem eiga að njóta slíkra réttinda á grundvelli milliríkjasamninga sem íslenska ríkið er aðili að.
- □ Í reglugerð[^1)^] er heimilt að setja nánari fyrirmæli um opinber innkaup samkvæmt samningi Alþjóðaviðskiptastofnunarinnar (WTO) um opinber innkaup og öðrum samningum um opinber innkaup sem íslenska ríkið kann að gerast aðili að.
-    _[^1)^]_"Rg. 513/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/513-2001.
+    _[^1)^]_"L. 72/2003, 20. gr.":/altext/stjt/2003.072.html
+ ■ *8. gr.* _Þeir sem njóta réttar samkvæmt lögunum._
+ □ Réttar samkvæmt lögum þessum njóta einstaklingar og lögaðilar með staðfestu í einhverju ríkja Evrópska efnahagssvæðisins [eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu].[^1)^] Sama gildir um aðra einstaklinga og lögaðila sem eiga að njóta slíkra réttinda á grundvelli milliríkjasamninga sem íslenska ríkið er aðili að.
+ □ Í reglugerð[^2)^] er heimilt að setja nánari fyrirmæli um opinber innkaup samkvæmt samningi Alþjóðaviðskiptastofnunarinnar (WTO) um opinber innkaup og öðrum samningum um opinber innkaup sem íslenska ríkið kann að gerast aðili að.
+    _[^1)^]_"L. 72/2003, 21. gr.":/altext/stjt/2003.072.html [^2)^]"Rg. 513/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/513-2001.
 
  *2. þáttur.* *Opinber innkaup undir viðmiðunarfjárhæðum Evrópska efnahagssvæðisins.*
  *III. kafli.* *Gildissvið þessa þáttar*
@@ -314,8 +318,9 @@ h2. Lög um opinber innkaup
  □ Tilkynning, sem um getur í 61. gr., skal send í síðasta lagi 48 dögum eftir að samningur hefur verið gerður eða frá lokum hönnunarsamkeppni.
  □ Óheimilt er að birta aðrar tilkynningar um útboð áður en samsvarandi tilkynning hefur verið send útgáfustjórn Evrópubandalagsins. Sömuleiðis skulu í öðrum tilkynningum ekki koma fram ítarlegri upplýsingar en þar greinir.
 ■ *63. gr.* _Form og efni tilkynninga._
- □ Ráðherra getur í reglugerð mælt fyrir um form og efni tilkynninga skv. 59. - 62. gr.
-■ *64. gr.* _Frestir í almennum útboðum._
+ □ Ráðherra getur í reglugerð[^1)^] mælt fyrir um form og efni tilkynninga skv. 59. - 62. gr.
+    _[^1)^]_"Rg. 239/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/239-2003.
+ ■ *64. gr.* _Frestir í almennum útboðum._
  □ Við almenn útboð skal frestur til að leggja fram tilboð ekki vera skemmri en 52 dagar frá sendingardegi tilkynningar að telja.
  □ Nú hefur kaupandi tilkynnt heildarinnkaup skv. 59. gr. með fullnægjandi hætti eigi síðar en 52 dögum fyrir sendingu tilkynningar um einstök innkaup og ekki fyrr en 12 mánuðum fyrir sama dag og er þá heimilt að stytta frest til að skila tilboðum ef tilkynning um heildarinnkaup hafði að geyma sambærilegar upplýsingar um innkaupin og fram skulu koma í tilkynningu um einstök innkaup. Fresturinn skal jafnan eigi vera skemmri en 36 dagar og aldrei skemmri en 22 dagar.
  □ Skylt er að senda útboðsgögn innan sex daga frá því að beiðni berst, enda hafi beiðni borist með hæfilegum fyrirvara.
@@ -408,8 +413,9 @@ h2. Lög um opinber innkaup
  □ Um skaðabætur vegna brota á lögum þessum og reglum settum samkvæmt þeim fer að öðru leyti eftir almennum reglum.
 
  *XV. kafli.* *Gildistaka, brottfall laga o.fl.*
-■ *85. gr.* Fjármálaráðherra er heimilt að setja reglugerð um nánari framkvæmd laga þessara.
-■ *86. gr.* Lög þessi öðlast þegar gildi.
+■ *85. gr.* Fjármálaráðherra er heimilt að setja reglugerð[^1)^] um nánari framkvæmd laga þessara.
+    _[^1)^]_"Rg. 206/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/206-2003.
+ ■ *86. gr.* Lög þessi öðlast þegar gildi.
 ■ *87. gr.* ...
 
  *I. Viðauki A og B. ...[^1)^]*

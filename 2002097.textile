@@ -6,7 +6,8 @@ h2. Lög um atvinnuréttindi útlendinga
 
 <hr />
 
-*Tóku gildi 1. janúar 2003.*
+*Tóku gildi 1. janúar 2003.* Breytt með "l. 84/2003":/altext/stjt/2003.084.html (tóku gildi 10. apríl 2003).
+
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Gildissvið._
@@ -23,10 +24,11 @@ h2. Lög um atvinnuréttindi útlendinga
     4. _Óbundið atvinnuleyfi:_ Ótímabundið leyfi veitt útlendingi til að vinna á Íslandi.
     5. _Atvinnuleyfi vegna námsdvalar og vistráðningar:_ Atvinnuleyfi erlendra námsmanna í íslenskum skólum eða vegna samninga um vistráðningu á heimili.
     6. _Atvinnurekandi:_ Einstaklingur eða fyrirtæki sem er með atvinnurekstur hér á landi án tillits til þess hvernig rekstrarformi og eignarhaldi er háttað.
-    7. _Búsetuleyfi:_ Leyfi sem gefið er út með varanlega dvöl í huga samkvæmt lögum um útlendinga.
+    7. _[Búsetuleyfi:_ Leyfi sem felur í sér rétt til ótímabundinnar dvalar skv. 15. gr. laga um útlendinga.][^1)^]
     8. _Útlendingur:_ Einstaklingur sem ekki hefur íslenskan ríkisborgararétt.
     9. _Nánustu aðstandendur:_ Maki, sambúðarmaki, samvistarmaki, niðjar yngri en 18 ára og ættmenni útlendings eða maka að feðgatali.
-■ *4. gr.* _Framkvæmd laganna._
+    _[^1)^]_"L. 84/2003, 1. gr.":/altext/stjt/2003.084.html
+ ■ *4. gr.* _Framkvæmd laganna._
  □ Félagsmálaráðherra fer með yfirstjórn mála samkvæmt lögunum og setur með reglugerð nánari ákvæði um framkvæmd þeirra.
  □ Vinnumálastofnun fer í umboði ráðherra með framkvæmd laganna.
 
@@ -85,12 +87,12 @@ h2. Lög um atvinnuréttindi útlendinga
 
  *III. kafli.* *Undanþáguákvæði.*
 ■ *14. gr.* Eftirtaldir eru undanþegnir kröfu um atvinnuleyfi:
-    a. Útlendingar sem falla undir reglur um Evrópska efnahagssvæðið.
-    b. Útlendingar sem falla undir reglur stofnsamnings Fríverslunarsamtaka Evrópu.
-    c. Útlendingar sem hafa verið íslenskir ríkisborgarar frá fæðingu en hafa misst íslenskan ríkisborgararétt.
-    d. Erlendir makar íslenskra ríkisborgara og börn þeirra að 18 ára aldri.
-    e. Útlendingar í einkaþjónustu sendimanna erlendra ríkja.
-■ *15. gr.* Eftirtaldir útlendingar eru undanþegnir kröfu um atvinnuleyfi vegna vinnu í allt að fjórar vikur á ári hér á landi:
+    [a. Ríkisborgarar í aðildarríkjum samningsins um Evrópska efnahagssvæðið og stofnsamnings Fríverslunarsamtaka Evrópu og aðrir útlendingar sem falla undir reglur samningsins um Evrópska efnahagssvæðið og stofnsamnings Fríverslunarsamtaka Evrópu, með þeim takmörkunum sem þar greinir og nánar skal kveðið á um í reglugerð.][^1)^]
+    [b.] [^1)^] Útlendingar sem hafa verið íslenskir ríkisborgarar frá fæðingu en hafa misst íslenskan ríkisborgararétt.
+    [c.] [^1)^] Erlendir makar íslenskra ríkisborgara og börn þeirra að 18 ára aldri.
+    [d.] [^1)^] Útlendingar í einkaþjónustu sendimanna erlendra ríkja.
+    _[^1)^]_"L. 84/2003, 2. gr.":/altext/stjt/2003.084.html
+ ■ *15. gr.* Eftirtaldir útlendingar eru undanþegnir kröfu um atvinnuleyfi vegna vinnu í allt að fjórar vikur á ári hér á landi:
     a. Vísindamenn og fyrirlesarar að því leyti sem varðar kennslu eða hliðstæða starfsemi.
     b. Listamenn, að undanskildum hljóðfæraleikurum sem ráða sig til starfa á veitingahúsum. Undanþága samkvæmt þessum lið tekur ekki til dansara sem koma fram á næturklúbbum, sbr. i-lið 9. gr. laga um veitinga- og gististaði, nr. 67/1985, sbr. "lög nr. 66/2000":/altext/stjt/2000.066.html.
     c. Íþróttaþjálfarar.

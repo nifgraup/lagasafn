@@ -6,6 +6,8 @@ h2. Lög um almannavarnir
 
 <hr />
 
+*Tóku gildi 2. janúar 1963.* Breytt með "l. 30/1967":/altext/stjtnr.html#1967030 (tóku gildi 9. maí 1967), "l. 55/1979":/altext/stjtnr.html#1979055 (tóku gildi 14. júní 1979), "l. 85/1985":/altext/stjtnr.html#1985085 (tóku gildi 11. júlí 1985), "l. 90/1996":1996090.html (tóku gildi 1. júlí 1997), "l. 83/1997":/altext/stjt/1997.083.html (tóku gildi 6. júní 1997), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 93/2002":/altext/stjt/2002.093.html (tóku gildi 31. maí 2002) og "l. 44/2003":/altext/stjt/2003.044.html (tóku gildi 3. apríl 2003).
+
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* [Hlutverk almannavarna er að skipuleggja og framkvæma ráðstafanir, sem miða að því að koma í veg fyrir, eftir því sem unnt er, að almenningur verði fyrir líkamstjóni eða eigna af völdum hernaðaraðgerða, náttúruhamfara eða af annarri vá, og veita líkn og aðstoð vegna tjóns, sem orðið hefur, enda falli þau störf ekki undir aðra aðila samkvæmt lögum.][^1)^]
@@ -17,47 +19,48 @@ h2. Lög um almannavarnir
 
  *II. kafli.* *Skipulag almannavarna.*
 ■ *4. gr.* [Almannavarnir heyra undir dómsmálaráðherra, sbr. þó 5. gr. og VI. kafla.
- □ Almannavarnaráð, sem dómsmálaráðherra skipar, stýrir starfsemi almannavarna og er til ráðuneytis um framkvæmd laga þessara. Í ráðinu eiga sæti forstjóri landhelgisgæslunnar, landlæknir, [ríkislögreglustjóri],[^1)^] póst- og símamálastjóri og vegamálastjóri. Ráðherra skipar einn þeirra formann ráðsins til þriggja ára í senn. Ráðherra getur sett almannavarnaráði starfsreglur með reglugerð.[^2)^]][^3)^]
-    _[^1)^]_"L. 90/1996, 43. gr.":1996090.html#g43 [^2)^]"Rg. 740/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/740-2000. [^3)^]"L. 85/1985, 1. gr.":/altext/stjtnr.html#1985085?g1
- ■ *5. gr.* Landlæknir fer, samkvæmt nánari fyrirmælum heilbrigðismálaráðherra, með stjórn þeirra þátta almannavarna, er varða sjúkrahúsmál, læknismeðferð og hjúkrun á sjúkum og særðum.
- □ Forráðamönnum [heilbrigðisstofnana][^1)^] ber, samkvæmt fyrirmælum landlæknis, að undirbúa og framkvæma ráðstafanir, sem nauðsynlegar eru til að geta veitt sjúkum og særðum móttöku og meðferð á hættutímum. Þeim ber og að taka þátt í undirbúningi að stofnun og rekstri varasjúkrahúsa.
-    _[^1)^]_"L. 85/1985, 2. gr.":/altext/stjtnr.html#1985085?g2
- ■ *6. gr.* [Almannavarnaráð hefur með höndum heildarskipulagningu almannavarna í landinu. Það stýrir framkvæmdum á þeim þáttum sem undir ríkisvaldið falla, en þar á meðal er:
-    a. Fjarskipti milli umdæma.
-    b. Gagna- og upplýsingasöfnun um hættu.
-    c. Mælingar á geislavirkni.
-    d. Viðvörun og viðvörunarkerfi.
-    e. Leiðbeiningar og almenningsfræðsla.
-    f. Kennsla yfirmanna og leiðbeinenda.
-    g. Eftirlit og umsjón með ráðstöfunum á sviði almannavarna vegna æðstu stjórnar landsins og mikilvægra stofnana ríkisins samkvæmt nánari reglum sem ráðherra setur.
-    h. Söfnun birgða og varsla þeirra.
-    i. Skipulagning og yfirstjórn á flutningi fólks af hættusvæðum.
-    j. Yfirstjórn á aðstoð milli umdæma og aðstoð ríkisstofnana.
-    k. Umsjón með almannavörnum í héraði.
-    l. Aðrar ráðstafanir sem ráðherra ákveður.
- □ Almannavarnaráð skal fylgjast með og stuðla að athugunum vegna hættu af ísalögum, eldgosum, jarðskjálftum, flóðum, snjóflóðum, skriðuföllum eða annarri vá.
- □ Almannavarnaráð skal jafnframt stuðla að, fylgjast með og samræma ráðstafanir sem miða að því að draga úr líkum á líkams- eða eignatjóni af völdum náttúruhamfara eða af annarri vá, svo sem með gerð varnarvirkja eða með öðrum verndarráðstöfunum.
- □ [Ráðherra skipar framkvæmdastjóra almannavarnaráðs til fimm ára í senn að fengnum tillögum ráðsins. Framkvæmdastjóri ræður annað starfslið.][^1)^] Almannavarnaráð getur sett framkvæmdastjóra erindisbréf með samþykki dómsmálaráðherra. Í hverju kjördæmi skal vera minnst einn fulltrúi almannavarnaráðs [ráðinn][^1)^] af því. Fer hann með umsjón þeirra verkþátta sem undir ríkisvaldið falla og er lögreglustjórum og almannavarnanefndum til ráðuneytis. Hann skal vera búsettur í kjördæminu.][^2)^]
-    _[^1)^]_"L. 83/1997, 12. gr.":/altext/stjt/1997.083.html [^2)^]"L. 85/1985, 3. gr.":/altext/stjtnr.html#1985085?g3
- ■ *7. gr.* [Lögreglustjórar fara með stjórn almannavarna, hver í sínu umdæmi.
- □ Ráðherra er heimilt að ákveða að sveitarfélög, tvö eða fleiri, eða landshlutar hafi samstarf um almannavarnir og veiti gagnkvæma aðstoð.][^1)2)^]
-    _[^1)^]_"L. 85/1985, 4. gr.":/altext/stjtnr.html#1985085?g4 [^2)^]Augl. 237/1986, 507/1994, 95/1996, 502/1996, 106/1998, 321/1998, 659/2001 og 159/2002.
- ■ *8. gr.* [Í hverju lögsagnarumdæmi skal vera almannavarnanefnd. Nefndin kýs sér sjálf formann og varaformann.
- □ Í kaupstöðum skipar bæjarstjórn almannavarnanefnd. Í Reykjavík eiga sæti í nefndinni [yfirlæknir heilsugæslunnar í Reykjavík],[^1)^] borgarstjóri, borgarverkfræðingur, lögreglustjóri, slökkviliðsstjóri og tveir menn sem borgarstjórn velur. Í öðrum kaupstöðum skal almannavarnanefnd skipuð bæjarstjóra, bæjarverkfræðingi eða bæjartæknifræðingi, ...[^1)^] heilsugæslulækni, lögreglustjóra, slökkviliðsstjóra og tveimur mönnum sem bæjarstjórn velur.
- □ Í sýslum skal almannavarnanefnd skipuð lögreglustjóra, svo og byggingarfulltrúa, ...[^1)^] heilsugæslulækni og slökkviliðsstjóra, sem sýslumaður tilnefnir og þremur mönnum tilnefndum af hreppsnefndum í þremur fjölmennustu hreppum sýslunnar. Skipa má fleiri en eina almannavarnanefnd í sýslu í samræmi við samstarf um almannavarnir skv. 2. mgr. 7. gr.
- □ Í Reykjavík [ræður][^2)^] borgarstjóri framkvæmdastjóra almannavarnanefndar. Á öðrum stöðum, þar sem eru yfir 5000 íbúar, skal ráðinn framkvæmdastjóri, eftir atvikum í hlutastarf, að fengnu samþykki viðkomandi sveitarstjórna.][^3)^]
-    _[^1)^]_"L. 93/2002, 27. gr.":/altext/stjt/2002.093.html [^2)^]"L. 83/1997, 13. gr.":/altext/stjt/1997.083.html [^3)^]"L. 85/1985, 5. gr.":/altext/stjtnr.html#1985085?g5
- ■ *9. gr.* [Hlutverk almannavarnanefnda er að skipuleggja og annast björgunar- og hjálparstörf vegna hættu eða tjóns sem skapast hefur vegna hernaðarátaka, náttúruhamfara eða af annarri vá. Er almannavarnanefndum þannig falin skipulagning og framkvæmd eftirtalinna ráðstafana innan umdæma þeirra samkvæmt nánari reglum[^1)^] er ráðherra setur:
-    a. Skipulagning og samræming hjálparstarfs og hjálparliða, þjálfun þeirra og búnaður.
+ □ [Ríkislögreglustjóri stýrir starfsemi almannavarna í umboði dómsmálaráðherra að höfðu samráði við almannavarnaráð, sbr. 6. gr.][^1)^]][^2)^]
+    _[^1)^]_"L. 44/2003, 1. gr.":/altext/stjt/2003.044.html [^2)^]"L. 85/1985, 1. gr.":/altext/stjtnr.html#1985085?g1
+ ■ *5. gr.* [Landlæknir fer í umboði heilbrigðisráðherra með stjórn þeirra þátta almannavarna er varða málefni heilbrigðisstofnana, læknismeðferð og hjúkrun á sjúkum og særðum. Stjórn sóttvarna er í höndum sóttvarnalæknis.
+ □ Landlæknisembættið hefur með höndum forvarnir, leiðbeiningar og almannafræðslu er varða málefni sem ógna heilsu manna.
+ □ Forráðamönnum heilbrigðisstofnana ber samkvæmt tilmælum landlæknis að undirbúa og framkvæma ráðstafanir sem nauðsynlegar eru til að geta veitt sjúkum og særðum móttöku og meðferð á hættutímum. Þeim ber og að taka þátt í undirbúningi að stofnun og rekstri varasjúkrahúsa.][^1)^]
+    _[^1)^]_"L. 44/2003 2. gr.":/altext/stjt/2003.044.html
+ ■ *6. gr.* [Ríkislögreglustjóri annast heildarskipulagningu almannavarna og sér um framkvæmdir á þeim þáttum sem undir ríkisvaldið falla að höfðu samráði við almannavarnaráð, sbr. 4. mgr. Í því felst meðal annars að samhæfa gerð almannavarnaáætlana sveitarfélaga og stofnana og hafa eftirlit með endurskoðun og viðhaldi þeirra.
+ □ Meðal verkefna ríkislögreglustjóra vegna almannavarna eru:
+    a. Að tryggja fjarskipti milli lögregluumdæma.
+    b. Vöktun og mat á hættu ásamt öflun upplýsinga í samvinnu við hlutaðeigandi stofnanir.
+    c. Viðbúnaður vegna geisla- og kjarnorkuvár í samvinnu við Geislavarnir ríkisins.
+    d. Viðbúnaður vegna mengunaróhappa í samvinnu við Umhverfisstofnun og landlæknisembættið.
+    e. Að hafa samvinnu við yfirdýralækni og landlæknisembættið um viðbrögð og varnaraðgerðir gegn dýrasjúkdómum sem ógnað geta almannaheill.
+    f. Að annast viðvaranir vegna yfirvofandi eða viðvarandi hættuástands í samvinnu við hlutaðeigandi stofnanir.
+    g. Forvarnir, leiðbeiningar og almenningsfræðsla í samvinnu við hlutaðeigandi stofnanir.
+    h. Samhæfing á þjálfun og fræðslu yfirmanna og leiðbeinenda.
+    i. Eftirlit og umsjón með ráðstöfunum á sviði almannavarna vegna æðstu stjórnar landsins og mikilvægra stofnana ríkisins samkvæmt nánari reglum sem ráðherra setur.
+    j. Að halda yfirlit yfir björgunarbúnað og staðsetningu hans.
+    k. Skipulagning og yfirstjórn á flutningi fólks af hættusvæðum.
+    l. Yfirstjórn á aðstoð milli umdæma og aðstoð ríkisstofnana.
+    m. Umsjón með almannavörnum í héraði.
+    n. Aðrar ráðstafanir sem ráðherra ákveður í samráði við ríkislögreglustjóra.
+ □ Ríkislögreglustjóri skal jafnframt stuðla að, fylgjast með og samræma ráðstafanir sem miða að því að draga úr líkum á líkams- og eignatjóni af völdum náttúruhamfara eða af annarri vá, svo sem með gerð varnarvirkja eða með öðrum verndarráðstöfunum.
+ □ Sérstakt ráð, almannavarnaráð, skal vera ríkisstjórninni til ráðgjafar um almannavarnir. Ráðið skal starfa með ríkislögreglustjóra þegar almannavarnaástand skapast. Í ráðinu eiga sæti forstjóri Landhelgisgæslunnar, landlæknir, ríkislögreglustjóri, forstjóri Póst- og fjarskiptastofnunar, forstjóri Landssíma Íslands, vegamálastjóri, veðurstofustjóri, flugmálastjóri, framkvæmdastjóri Rauða kross Íslands, formaður Slysavarnafélagsins Landsbjörg og formaður Sambands íslenskra sveitarfélaga. Ráðherra skipar óháðan formann ráðsins án tilnefningar. Ráðherra getur sett nánari reglur um aðild að ráðinu og starf þess.][^1)^]
+    _[^1)^]_"L. 44/2003, 3. gr.":/altext/stjt/2003.044.html
+ ■ *7. gr.* [[Lögreglustjórar fara með stjórn almannavarna, hver í sínu umdæmi, og skulu þeir starfa með almannavarnanefndum sem sveitarstjórnir skipa, sbr. 8. gr.][^1)^]
+ □ Ráðherra er heimilt að ákveða að sveitarfélög, tvö eða fleiri, eða landshlutar hafi samstarf um almannavarnir og veiti gagnkvæma aðstoð.][^2)3)^]
+    _[^1)^]_"L. 44/2003, 4. gr.":/altext/stjt/2003.044.html [^2)^]"L. 85/1985, 4. gr.":/altext/stjtnr.html#1985085?g4 [^3)^]Augl. 237/1986, 507/1994, 95/1996, 502/1996, 106/1998, 321/1998, 659/2001 og 159/2002.
+ ■ *8. gr.* [Í hverju sveitarfélagi skal vera starfandi almannavarnanefnd sem sveitarstjórn skipar. Heimilt er sveitarstjórnum að semja um að koma á fót sameiginlegri almannavarnanefnd, en nái slík sameining yfir tvö eða fleiri lögsagnarumdæmi er slík sameining háð staðfestingu ráðherra. Skal þá ráðherra ákveða hvaða lögreglustjóri starfi með nefndinni.
+ □ Almannavarnanefnd skal auk lögreglustjóra skipuð lykilmönnum sem stýra í starfi sínu viðbrögðum sem tryggja öryggi hins almenna borgara gagnvart aðsteðjandi vá. Þær sveitarstjórnir sem að nefndinni standa ákveða fjölda nefndarmanna, en nefndin kýs sér sjálf formann og varaformann. Sveitarstjórnir ákveða um ráðningu starfsmanna almannavarnanefnda og standa undir kostnaði af starfi þeirra.][^1)^]
+    _[^1)^]_"L. 44/2003, 5. gr.":/altext/stjt/2003.044.html
+ ■ *9. gr.* [Hlutverk almannavarnanefnda er að skipuleggja og annast björgunar- og hjálparstörf vegna hættu eða tjóns sem skapast hefur vegna hernaðarátaka, náttúruhamfara eða af annarri vá. Þær skulu gera áætlanir um skipulag almannavarna í samvinnu við ríkislögreglustjóra og almannavarnaráð. Þeim er þannig falin framkvæmd eftirtalinna ráðstafana innan umdæma sinna samkvæmt nánari reglum[^1)^] er ráðherra setur:
+    a. Skipulag og samræming hjálparstarfs og hjálparliða, þjálfun þeirra og búnaður.
     b. Eftirlit með einkavörnum í íbúðarhúsum, atvinnufyrirtækjum og stofnunum og leiðbeiningar á því sviði.
     c. Bygging, búnaður og rekstur opinberra öryggisbyrgja samkvæmt áætlun sem ráðherra samþykkir.
-    d. Stjórnstöðvar.
-    e. Fjarskiptakerfi.
+    d. Uppbygging og rekstur stjórnstöðvar.
+    e. Skipulag og uppbygging fjarskipta innan umdæmis.
     f. Birgðasöfnun og rekstur birgðastöðva.
     g. Undirbúningur og aðstoð vegna brottflutnings fólks og móttöku fólks af hættusvæði.
-    h. Aðrar ráðstafanir sem ráðherra ákveður, að fengnum tillögum almannavarnaráðs.
- □ Ráðherra setur með reglugerð nánari ákvæði um lágmarksviðbúnað að almannavörnum í héraði. Ráðherra er heimilt að ákveða að almannavarnaráð annist lágmarksviðbúnað almannavarna í héraði, á kostnað sveitarfélagsins, hafi ákvæðum um lágmarksviðbúnað ekki verið hlítt.][^2)^]
-    _[^1)^]_"Rg. 107/1969":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/107-1969. [^2)^]"L. 85/1985, 6. gr.":/altext/stjtnr.html#1985085?g6
+    h. Aðrar ráðstafanir sem ráðherra ákveður, að fengnum tillögum ríkislögreglustjóra.
+ □ Ráðherra setur með reglugerð nánari ákvæði um lágmarksviðbúnað að almannavörnum í héraði. Ráðherra er heimilt að ákveða að ríkislögreglustjóri láti undirbúa og koma á lágmarksviðbúnaði í héraði á kostnað sveitarsjóðs eða sveitarsjóða hafi ákvæðum um lágmarksviðbúnað ekki verið hlítt.][^2)^]
+    _[^1)^]_"Rg. 107/1969":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/107-1969. [^2)^]"L. 44/2003, 6. gr.":/altext/stjt/2003.044.html
 
  *III. kafli.* *Hjálparlið.*
  ■ *10. gr.* Það er borgaraleg skylda þeirra, sem eru á aldrinum 18 - 65 ára, að gegna, án endurgjalds, starfi í þágu almannavarna í umdæmi, þar sem þeir dveljast, samkvæmt fyrirmælum, er lögreglustjóri gefur, að fengnum tillögum almannavarnanefndar. Ákvörðun lögreglustjóra má skjóta til dómsmálaráðherra.
@@ -65,8 +68,8 @@ h2. Lög um almannavarnir
  □ Enginn má á neinn hátt tálma því, að maður gegni starfi í þágu almannavarna.
  □ Þeim, sem kvaddir hafa verið til starfs, ber að koma til læknisskoðunar, ef nauðsynlegt þykir.
 ■ *11. gr.* Ef hætta vofir yfir eða tjón hefur orðið, má kveðja hvern fulltíða mann, sem tiltækur er, til tafarlausrar aðstoðar við störf í þágu almannavarna.
- □ [Á hættutímum er almannavarnaráði heimilt að ákveða að hjálparlið skuli flutt á milli umdæma til aðstoðar á hættusvæði, enda samþykki viðkomandi lögreglustjóri þá tilhögun. Á hættutímum getur almannavarnaráð lagt bann við því að hjálparlið sé flutt á milli umdæma.][^1)^]
-    _[^1)^]_"L. 85/1985, 7. gr.":/altext/stjtnr.html#1985085?g7
+ □ [Á hættutíma hefur ríkislögreglustjóri ákvörðunarvald um flutning hjálparliðs á milli umdæma til aðstoðar á hættusvæði, að höfðu samráði við viðkomandi lögreglustjóra og almannavarnaráð.][^1)^]
+    _[^1)^]_"L. 44/2003, 7. gr.":/altext/stjt/2003.044.html
  ■ *12. gr.* Þeir, sem starfa eiga í hjálparliðum, skulu taka þátt í námskeiðum og æfingum, sem þeir hafa verið kvaddir til. Þeim ber að hlýða fyrirmælum og fara eftir starfsreglum. Óheimilt er að hverfa úr starfi án leyfis.
  □ Ef hætta vofir yfir, má starfsmaður ekki fara úr lögsagnarumdæminu án samþykkis lögreglustjóra eða þess, er hann tilnefnir.
 ■ *13. gr.* Ef maður verður fyrir meiðslum eða tjóni á námskeiði eða æfingu, á hann rétt á bótum.
@@ -102,15 +105,15 @@ h2. Lög um almannavarnir
     _[^1)^]_"L. 85/1985, 9. gr.":/altext/stjtnr.html#1985085?g9
  ■ *[25. gr.* Hagvarnaráð getur hvenær sem er gert tillögur til ríkisstjórnarinnar um aðgerðir eða ákvarðanir sem það telur nauðsynlegar til að tryggja þau markmið sem lýst er í 23. og 24. gr. Ríkisstjórninni er heimilt, ef almannaheill krefur vegna hættu á hernaðaraðgerðum eða af annarri sambærilegri vá, að gefa út fyrirmæli um sölu og dreifingu nauðsynja sem til eru í landinu eða taka eignarnámi matvæli, eldsneyti, varahluti, lyf og aðrar nauðsynjar sem hætta er á að gangi fljótt til þurrðar.][^1)^]
     _[^1)^]_"L. 85/1985, 9. gr.":/altext/stjtnr.html#1985085?g9
- ■ *[26. gr.* Heimilt er að ákveða að starfsmaður almannavarnaráðs skuli starfa sérstaklega að þeim málefnum er undir hagvarnaráð falla, eftir því sem við verður komið að mati almannavarnaráðs.][^1)^]
-    _[^1)^]_"L. 85/1985, 9. gr.":/altext/stjtnr.html#1985085?g9
+ ■ *[26. gr.* Heimilt er að ákveða að starfsmaður [ríkislögreglustjóra][^1)^] skuli starfa sérstaklega að þeim málefnum er undir hagvarnaráð falla, eftir því sem við verður komið að mati [ríkislögreglustjóra].[^1)^]][^2)^]
+    _[^1)^]_"L. 44/2003, 8. gr.":/altext/stjt/2003.044.html [^2)^]"L. 85/1985, 9. gr.":/altext/stjtnr.html#1985085?g9
 
  *[VII. kafli.][^1)^]* *Ýmis ákvæði.*
     _[^1)^]"L. 85/1985, 9. gr.":/altext/stjtnr.html#1985085?g9_
  ■ *[27. gr.* Stofnunum ríkis og sveitarfélaga er skylt að ljá til almannavarna hús sín og tæki, eftir því sem við verður komið og án sérstaks endurgjalds.
  □ Ráðherra getur krafist að ríki eða sveitarfélagi verði fengið til afnota eða umráða lausafjármunir og fasteignir eða hluti af þeim sem brýn þörf er á til almannavarna, enda komi sanngjarnt verð fyrir eftir samkomulagi eða að mati samkvæmt lögum um framkvæmd eignarnáms. Heimilt er að gera þær breytingar á eignum sem þörf er á til þess að þær komi að tilætluðum notum.
- □ Stofnunum ríkis og sveitarfélaga, svo og fyrirtækjum og félagasamtökum, sem hlutverki hafa að gegna í skipulagi almannavarna samkvæmt samningi við almannavarnaráð, er skylt án endurgjalds að taka þátt í æfingum á sviði almannavarna í samræmi við slíkt skipulag. Ágreiningi um þátttöku í æfingu má skjóta til dómsmálaráðherra.][^1)^]
-    _[^1)^]_"L. 85/1985, 10. gr.":/altext/stjtnr.html#1985085?g10
+ □ Stofnunum ríkis og sveitarfélaga, svo og fyrirtækjum og félagasamtökum, sem hlutverki hafa að gegna í skipulagi almannavarna samkvæmt samningi við [ríkislögreglustjóra],[^1)^] er skylt án endurgjalds að taka þátt í æfingum á sviði almannavarna í samræmi við slíkt skipulag. Ágreiningi um þátttöku í æfingu má skjóta til dómsmálaráðherra.][^2)^]
+    _[^1)^]_"L. 44/2003, 9. gr.":/altext/stjt/2003.044.html [^2)^]"L. 85/1985, 10. gr.":/altext/stjtnr.html#1985085?g10
  ■ *[28. gr.][^1)^]* Ákveða má með reglugerð, að í húsi af tiltekinni stærð, sem byggt er eftir gildistöku laga þessara, skuli vera gert öryggisbyrgi fyrir þá, sem í húsinu búa eða starfa. Húseigandi greiðir kostnað vegna byrgisins, og skal það fullnægja þeim lágmarkskröfum um öryggi, sem reglugerðin kveður á um.
     _[^1)^]_"L. 85/1985, 9. gr.":/altext/stjtnr.html#1985085?g9
  ■ *[29. gr.* Kostnaður skv. 5. og 6. gr. og VI. kafla greiðist úr ríkissjóði.

@@ -6,6 +6,8 @@ h2. Sveitarstjórnarlög
 
 <hr />
 
+*Tóku gildi 1. júní 1998.* Breytt með "l. 100/1998":/altext/stjtnr.html#1998100 (tóku gildi 10. júlí 1998), "l. 123/1998":/altext/stjt/1998.123.html (tóku gildi 3. des. 1998) og "l. 74/2003":/altext/stjt/2003.074.html (tóku gildi 10. apríl 2003).
+
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Almennt._
@@ -182,11 +184,14 @@ h2. Sveitarstjórnarlög
 ■ *43. gr.* _Varamenn._
  □ Þegar aðalmaður í nefnd forfallast um stundarsakir skal varamaður hans taka sæti í nefndinni. Þegar aðalmaður í nefnd fellur frá, flyst burt eða forfallast varanlega á annan hátt tekur varamaður sæti hans, sbr. fyrri málslið, nema sveitarstjórn ákveði að kjósa aðalmann að nýju.
  □ Ef tveir eða fleiri flokkar eða framboðsaðilar hafa haft samstarf um nefndarkosningar skal þó sá aðili, sem tilnefndi viðkomandi mann til setu í nefnd, einnig tilnefna varamann hans sé eigi öðruvísi ákveðið í yfirlýsingu, sbr. 24. gr.
-■ *44. gr.* _Hlutverk og valdsvið nefnda._
+■ *44. gr.* _[Hlutverk og valdsvið nefnda._
  □ Sveitarstjórn ákveður valdsvið nefnda, ráða og stjórna sem hún kýs nema slíkt sé ákveðið í lögum.
- □ Sveitarstjórn getur falið nefnd, ráði eða stjórn fullnaðarafgreiðslu mála nema lög mæli á annan veg.
- □ Í því skyni að stuðla að hagræðingu, skilvirkni og hraðari málsmeðferð er sveitarstjórn heimilt í samþykkt sveitarfélagsins að ákveða að fela öðrum aðilum en nefndum afgreiðslu mála sem ekki varða verulega fjárhag sveitarfélagsins. Slíkri afgreiðslu má þó ætíð skjóta til viðkomandi nefndar, byggðarráðs eða sveitarstjórnar.
-■ *45. gr.* _Boðun fyrsta fundar._
+ □ Í því skyni að stuðla að hagræðingu, skilvirkni og hraðari málsmeðferð getur sveitarstjórn ákveðið í samþykkt sveitarfélagsins, sbr. 10. gr. þessara laga, að fela nefnd, ráði eða stjórn sveitarfélagsins fullnaðarafgreiðslu mála sem ekki varða verulega fjárhag sveitarfélagsins nema lög eða eðli máls mæli sérstaklega gegn því.
+ □ Á sama hátt og með sömu skilyrðum og getur í 2. mgr. er sveitarstjórn heimilt að fela öðrum aðilum innan stjórnsýslu sveitarfélagsins fullnaðarafgreiðslu mála. Sveitarstjórn, byggðarráð eða hlutaðeigandi nefnd skal hafa eftirlit með afgreiðslu mála samkvæmt þessari málsgrein og kalla eftir reglulegum skýrslum um ákvarðanir sem teknar eru á grundvelli hennar.
+ □ Sá aðili sem fengið hefur framselt vald til fullnaðarafgreiðslu skv. 3. mgr., eða þriðjungur fulltrúa ef um nefnd, ráð eða stjórn er að ræða, sbr. 2. mgr., getur ávallt óskað eftir því að sveitarstjórn, byggðarráð eða viðkomandi nefnd samkvæmt samþykktum sveitarfélagsins taki ákvörðun í máli.
+ □ Þegar sveitarstjórn neytir heimildar skv. 2. eða 3. mgr. skal jafnframt kveðið á um það í samþykkt sveitarfélagsins hvernig fara skuli með endurupptöku mála sem hljóta afgreiðslu samkvæmt þessum ákvæðum.][^1)^]
+    _[^1)^]_"L. 74/2003, 1. gr.":/altext/stjt/2003.074.html
+ ■ *45. gr.* _Boðun fyrsta fundar._
  □ Framkvæmdastjóri sveitarfélags boðar nefndir, ráð og stjórnir saman til fyrsta fundar eftir að þær hafa verið kjörnar eða ákveður hver annist fundarboðun nema sveitarstjórn hafi kjörið formann sérstaklega. Ákveður þá formaðurinn um boðun til fyrsta fundar.
  □ Framkvæmdastjóri getur kallað saman tvær eða fleiri nefndir til að ræða mál er varða starfssvið fleiri nefnda en einnar.
 ■ *46. gr.* _Kjör formanns, varaformanns og ritara og hlutverk þeirra._
@@ -232,9 +237,11 @@ h2. Sveitarstjórnarlög
  □ Um ráðningu annarra starfsmanna fer eftir ákvæðum í samþykkt um stjórn sveitarfélags. Séu þar eigi sérstök ákvæði þessa efnis gefur sveitarstjórn almenn fyrirmæli um hvernig staðið skuli að ráðningu starfsmanna.
 ■ *57. gr.* _Starfskjör, réttindi og skyldur._
  □ Um starfskjör, réttindi og skyldur starfsmanna sveitarfélaga fer eftir ákvæðum kjarasamninga hverju sinni og/eða ákvæðum ráðningarsamninga.
+ □ [Starfsmenn sveitarfélaga eru bundnir þagnarskyldu um atriði sem þeir fá vitneskju um í starfi sínu og leynt eiga að fara samkvæmt lögum, fyrirmælum yfirboðara eða eðli máls. Þagnarskylda helst þótt látið sé af starfi.][^1)^]
+    _[^1)^]_"L. 74/2003, 2. gr.":/altext/stjt/2003.074.html
 
  *VI. kafli.* *Fjármál sveitarfélaga.*
-■ *58. gr.* _Almennt um bókhald og reikningsskil sveitarfélaga._
+ ■ *58. gr.* _Almennt um bókhald og reikningsskil sveitarfélaga._
  □ Sveitarfélög, þ.e. sveitarsjóðir, stofnanir sveitarfélaga og fyrirtæki þeirra, eru bókhaldsskyld.
  □ Bókhaldi skal hagað á skýran og aðgengilegan hátt og skulu reikningsskil gefa glögga mynd af rekstri og efnahag sveitarfélagsins í heild. Að svo miklu leyti sem við á gilda ákvæði laga um bókhald og laga um ársreikninga, svo og aðrar góðar bókhalds- og reikningsskilavenjur.
 ■ *59. gr.* _Reikningsárið._
@@ -244,21 +251,32 @@ h2. Sveitarstjórnarlög
     a. sveitarsjóður, sem í lögum þessum merkir aðalsjóð sveitarfélags auk annarra sjóða og stofnana er sinna starfsemi sem að hluta eða öllu leyti er fjármögnuð af skatttekjum,
     b. stofnanir sveitarfélaga, fyrirtæki og aðrar rekstrareiningar sem að hálfu eða meiri hluta eru í eigu sveitarfélaga og eru reknar sem fjárhagslega sjálfstæðar einingar.
 ■ *61. gr.* _Fjárhagsáætlun._
- □ Fyrir lok janúarmánaðar skal sveitarstjórn gera fjárhagsáætlun fyrir sveitarsjóð og stofnanir sveitarfélagsins fyrir yfirstandandi ár. Ráðuneytið getur veitt sveitarstjórnum lengri frest þegar brýnar ástæður eru fyrir hendi.
+ □ [Fyrir lok desembermánaðar skal sveitarstjórn afgreiða fjárhagsáætlun næsta árs fyrir sveitarsjóð og stofnanir sveitarfélagsins.][^1)^] Ráðuneytið getur veitt sveitarstjórnum lengri frest þegar brýnar ástæður eru fyrir hendi.
  □ Fjárhagsáætlun samkvæmt þessari grein skal vera meginregla um tekjuöflun, ráðstöfun fjármuna og fjármálastjórn sveitarsjóðs og stofnana sveitarfélagsins á viðkomandi reikningsári. Við gerð fjárhagsáætlunar skal hafa hliðsjón af fjárhagslegri stöðu sveitarsjóðs og stofnana sveitarfélagsins.
  □ Sveitarstjórn skal árlega gæta þess svo sem kostur er að heildarútgjöld sveitarfélags, þar með talin rekstrarútgjöld, fari ekki fram úr heildartekjum þess.
  □ Fjárhagsáætlun skal rædd á tveimur fundum í sveitarstjórn með a.m.k. einnar viku millibili.
- □ Í fjárhagsáætlun skal koma fram rekstrar- og framkvæmdaáætlun, áætlun um efnahag í upphafi og lok árs, auk áætlaðra fjármagnshreyfinga. Form fjárhagsáætlunar skal vera í samræmi við form ársreiknings.
-■ *62. gr.* _Breytingar á fjárhagsáætlun._
+ □ Í fjárhagsáætlun skal koma fram rekstrar- og framkvæmdaáætlun, áætlun um efnahag í upphafi og lok árs, auk áætlaðra fjármagnshreyfinga. Form fjárhagsáætlunar skal vera í samræmi við form ársreiknings [og stjórnvaldsfyrirmæli sem sett eru skv. 4. mgr. 67. gr. um fjárhagsáætlanir].[^1)^]
+    _[^1)^]_"L. 74/2003, 3. gr.":/altext/stjt/2003.074.html
+ ■ *62. gr.* _Breytingar á fjárhagsáætlun._
  □ Heimilt er að endurskoða fjárhagsáætlun sveitarsjóðs og stofnana sveitarfélags og gera á henni nauðsynlegar breytingar ef í ljós koma breytingar á forsendum fjárhagsáætlunar. Sveitarstjórn afgreiðir slíkar breytingar á fjárhagsáætlun við eina umræðu. Breytingartillögur skulu sendar öllum fulltrúum í sveitarstjórn með dagskrá viðkomandi sveitarstjórnarfundar.
  □ Samþykki sveitarstjórn fjárveitingu sem ekki er gert ráð fyrir í fjárhagsáætlun skal hún jafnframt kveða á um hvernig útgjöldum skuli mætt. Samþykkt slíkrar fjárveitingar telst breyting á fjárhagsáætlun.
-■ *63. gr.* _Þriggja ára áætlun._
- □ Til viðbótar fjárhagsáætlun skv. 61. gr. skal sveitarstjórn árlega semja og fjalla um þriggja ára áætlun um rekstur, framkvæmdir og fjármál sveitarfélagsins. Áætlunin skal vera rammi um árlegar fjárhagsáætlanir sveitarfélagsins og skal hún unnin og afgreidd af sveitarstjórn innan eins mánaðar frá afgreiðslu árlegrar fjárhagsáætlunar skv. 61. gr.
-■ *64. gr.* _Útgjöld úr sveitarsjóði._
+ □ [Ef sveitarstjórn tekur ákvörðun um verulegar skuldbindingar sem ekki koma fram í fjárhagsáætlun, þ.m.t. langtímaskuldbindingar samkvæmt leigusamningum, samningum um rekstur fasteigna eða þjónustu við íbúa eða sambærilegum samningum, skal hún tilkynna þá ákvörðun til eftirlitsnefndar, sbr. 74. gr.][^1)^]
+    _[^1)^]_"L. 74/2003, 4. gr.":/altext/stjt/2003.074.html
+ ■ *63. gr.* _Þriggja ára áætlun._
+ □ Til viðbótar fjárhagsáætlun skv. 61. gr. skal sveitarstjórn árlega semja og fjalla um þriggja ára áætlun um rekstur, framkvæmdir og fjármál sveitarfélagsins. Áætlunin skal vera rammi um árlegar fjárhagsáætlanir sveitarfélagsins og skal hún unnin og afgreidd af sveitarstjórn innan [tveggja mánaða][^1)^] frá afgreiðslu árlegrar fjárhagsáætlunar skv. 61. gr.
+ □ [Form þriggja ára áætlunar skal vera í samræmi við form ársreiknings og stjórnvaldsfyrirmæli sem sett eru skv. 4. mgr. 67. gr. um þriggja ára áætlanir.][^1)^]
+    _[^1)^]_"L. 74/2003, 5. gr.":/altext/stjt/2003.074.html
+ ■ *64. gr.* _[Útgjöld úr sveitarsjóði og meðferð fjármuna og fasteigna.][^1)^]_
+ □ [Sveitarstjórn skal gæta ábyrgðar í meðferð fjármuna sveitarfélagsins og tryggja örugga ávöxtun þeirra.
+ □ Sveitarstjórn skal á hverjum tíma tryggja umráðarétt yfir fasteignum sem eru nauðsynlegar til að lögboðin verkefni sveitarfélagsins verði rækt.][^1)^]
  □ Til útgjalda sem ekki eru lögbundin, samningsbundin eða leiðir af fyrri samþykkt sveitarstjórnar má ekki stofna nema til komi samþykki sveitarstjórnar.
-■ *65. gr.* _Miklar fjárfestingar._
+    _[^1)^]_"L. 74/2003, 6. gr.":/altext/stjt/2003.074.html
+ ■ *65. gr.* _[Miklar fjárfestingar og sala fasteigna.][^1)^]_
  □ Hyggist sveitarstjórn ráðast í fjárfestingu og áætlaður heildarkostnaður eða hlutur sveitarfélagsins í henni nemur hærri fjárhæð en fjórðungi skatttekna yfirstandandi reikningsárs er skylt að leggja fyrir sveitarstjórn umsögn sérfróðs aðila um kostnaðaráætlunina, væntanleg áhrif hennar á fjárhagsafkomu sveitarsjóðs á fyrirhuguðum verktíma og áætlun um árlegan rekstrarkostnað fyrir sveitarsjóð, sé um hann að ræða. Jafnframt skal gerð grein fyrir því hvernig framkvæmdin samræmist þriggja ára áætlun sveitarfélagsins.
-■ *66. gr.* _Skil á fjárhagsáætlun o.fl. til ráðuneytisins._
+ □ [Á sama hátt skal afla álits sérfróðs aðila áður en sveitarstjórn staðfestir samninga um framkvæmdir eða þjónustu við íbúa sveitarfélagsins sem gilda eiga til langs tíma og hafa í för með sér verulegar skuldbindingar fyrir sveitarsjóð. Þetta gildir einnig um samninga um sölu og endurleigu fasteigna sem falla undir 2. mgr. 73. gr.
+ □ Ákveði sveitarstjórn að selja fasteignir sveitarfélags sem falla undir 2. mgr. 73. gr. skal hún tilkynna þá ákvörðun til eftirlitsnefndar. Eftirlitsnefnd skal kanna hvaða fjárhagslegu áhrif salan hefur á rekstur sveitarfélagsins. Eftirlitsnefnd getur sett fram tillögur sínar til viðkomandi sveitarstjórnar um ráðstöfun söluandvirðis eða ávöxtun þess. Ráðherra getur, að höfðu samráði við Samband íslenskra sveitarfélaga, sett í reglugerð nánari fyrirmæli um form tilkynninga, viðmiðanir við athugun eftirlitsnefndar og önnur atriði er varða framkvæmd ákvæðisins.][^1)^]
+    _[^1)^]_"L. 74/2003, 7. gr.":/altext/stjt/2003.074.html
+ ■ *66. gr.* _Skil á fjárhagsáætlun o.fl. til ráðuneytisins._
  □ Strax að lokinni afgreiðslu sveitarstjórnar skal senda ráðuneytinu fjárhagsáætlun skv. 61. gr. og þriggja ára áætlun skv. 63. gr. Sama á við um endurskoðaða áætlun eða breytta skv. 62. gr.
 ■ *67. gr.* _Ársreikningur._
  □ Semja skal ársreikning fyrir sveitarsjóð, stofnanir sveitarfélagsins og fyrirtæki þess. Jafnframt skal semja samstæðureikning fyrir sveitarfélagið, þ.e. sveitarsjóð, stofnanir þess og fyrirtæki með sjálfstætt reikningshald, sbr. 60. gr.
@@ -299,12 +317,15 @@ h2. Sveitarstjórnarlög
  □ Eigi má framkvæma aðför í þeim eignum sveitarfélaga sem nauðsynlegar eru til framkvæmda á lögskyldum verkefnum þeirra og sveitarfélög verða eigi tekin til gjaldþrotaskipta.
  □ Kröfur á hendur sveitarsjóði má eigi nota til skuldajafnaðar við kröfu sveitarfélags um lögboðin gjöld til sveitarsjóðs eða stofnana sveitarfélagsins.
  □ Eigi má binda sveitarsjóð í ábyrgðir vegna skuldbindinga annarra aðila en stofnana sveitarfélagsins. Prókúruhafa sveitarsjóðs er þó heimilt fyrir hönd sveitarfélags að ábyrgjast með framsalsáritun greiðslu viðskiptaskjala sem sveitarfélagið hefur eignast á eðlilegan hátt í tengslum við daglegan rekstur þess.
-■ *74. gr.* _Eftirlitsnefnd._
+
+ *[VII. kafli.* *Eftirlit með fjármálum sveitarfélaga.][^1)^]*
+    _[^1)^]_"L. 74/2003, 8. gr.":/altext/stjt/2003.074.html
+ ■ *74. gr.* _Eftirlitsnefnd._
  □ Ráðherra skipar þriggja manna eftirlitsnefnd sem hefur það hlutverk að fylgjast með fjármálum sveitarfélaga. Einn fulltrúi í nefndina skal skipaður samkvæmt tilnefningu Sambands íslenskra sveitarfélaga og tveir án tilnefningar og skal annar þeirra vera löggiltur endurskoðandi. Þrír varamenn skulu skipaðir með sama hætti. Ráðherra skipar formann nefndarinnar.
- □ Nefndin skal árlega athuga reikningsskil sveitarfélaga og bera þau saman við viðmiðanir skv. 4. mgr. þessarar greinar og ákvæði 3. mgr. 61. gr. Leiði athugun í ljós að fjármál sveitarfélags stefni í óefni skal nefndin aðvara viðkomandi sveitarfélag og samhliða upplýsa ráðuneytið um álit sitt. Sveitarstjórn er skylt í slíkum tilvikum að gera eftirlitsnefndinni innan tveggja mánaða grein fyrir hvernig sveitarstjórnin hyggst bregðast við aðvörun nefndarinnar.
+ □ [Nefndin skal fylgjast með reikningsskilum og fjárhagsáætlunum sveitarfélaga, bera saman við viðmiðanir skv. 4. mgr. þessarar greinar og hafa eftirlit með að fjárstjórn sveitarfélaga sé í samræmi við 3. mgr. 61. gr. Leiði athugun eftirlitsnefndar í ljós að afkoma sveitarsjóðs er ekki í samræmi við 3. mgr. 61. gr. eða fjármál sveitarfélags stefni að öðru leyti í óefni skal nefndin aðvara viðkomandi sveitarstjórn og kalla eftir skýringum. Samhliða skal nefndin upplýsa ráðuneytið um álit sitt. Sveitarstjórn er skylt í slíkum tilvikum að gera eftirlitsnefndinni innan tveggja mánaða grein fyrir hvernig hún hyggst bregðast við aðvörun nefndarinnar.][^1)^]
  □ Þóknun til eftirlitsnefndarmanna skal ákveðin af ráðherra. Þóknunin og annar kostnaður af starfi nefndarinnar greiðist úr ríkissjóði.
- □ Ráðherra setur í samráði við Samband íslenskra sveitarfélaga reglugerð[^1)^] um störf og málsmeðferð eftirlitsnefndar og viðmiðanir varðandi fjárhagsleg málefni sveitarfélaga. Fjárhagsviðmiðanir skulu taka til þeirra atriða sem meginmáli skipta við mat á rekstri og efnahag sveitarfélaga.
-    _[^1)^]_"Rg. 374/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/374-2001.
+ □ Ráðherra setur í samráði við Samband íslenskra sveitarfélaga reglugerð[^2)^] um störf og málsmeðferð eftirlitsnefndar og viðmiðanir varðandi fjárhagsleg málefni sveitarfélaga. Fjárhagsviðmiðanir skulu taka til þeirra atriða sem meginmáli skipta við mat á rekstri og efnahag sveitarfélaga.
+    _[^1)^]_"L. 74/2003, 9. gr.":/altext/stjt/2003.074.html [^2)^]"Rg. 374/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/374-2001.
  ■ *75. gr.* _Fjárþröng._
  □ Komist sveitarfélag í fjárþröng þannig að sveitarstjórn telur sér eigi unnt að standa í skilum skal hún tilkynna það til eftirlitsnefndar skv. 74. gr. Ákvörðun um slíka tilkynningu skal tekin eftir tvær umræður í sveitarstjórn.
  □ Eftirlitsnefnd skal þá tafarlaust láta fara fram rannsókn á fjárreiðum og rekstri sveitarfélagsins og leggja síðan fyrir sveitarstjórn að bæta það sem áfátt kann að reynast innan hæfilegs frests.
@@ -329,8 +350,9 @@ h2. Sveitarstjórnarlög
 ■ *80. gr.* _Brottfall sviptingar fjárforráða._
  □ Svipting fjárforræðis og skipun fjárhaldsstjórnar fellur niður eftir ákvörðun ráðherra þegar telja má að fjárhagur sveitarfélagsins sé kominn í viðunandi horf. Auglýsing þar að lútandi skal birt á sama hátt og auglýsing um sviptingu fjárforræðis.
 
- *VII. kafli.* *Samvinna sveitarfélaga.*
-■ *81. gr.* _Almennt._
+ *[VIII. kafli.][^1)^]* *Samvinna sveitarfélaga.*
+    _[^1)^]_"L. 74/2003, 8. gr.":/altext/stjt/2003.074.html
+ ■ *81. gr.* _Almennt._
  □ Sveitarfélög geta haft samvinnu sín á milli um framkvæmd einstakra verkefna. Getur slík samvinna meðal annars farið fram á vettvangi héraðsnefnda, byggðasamlaga, landshlutasamtaka og Sambands íslenskra sveitarfélaga.
 ■ *82. gr.* _Stofnun byggðasamlags._
  □ Sé um að ræða varanlegt samvinnuverkefni sveitarfélaga, svo sem rekstur skóla og heilbrigðisstofnana eða brunavarnir, geta sveitarfélög myndað byggðasamlag sem tekur að sér framkvæmd verkefnisins.
@@ -354,8 +376,9 @@ h2. Sveitarstjórnarlög
 ■ *87. gr.* _Samband íslenskra sveitarfélaga._
  □ Samband íslenskra sveitarfélaga er sameiginlegur málsvari sveitarfélaga í landinu.
 
- *VIII. kafli.* *Stækkun sveitarfélaga.*
-■ *88. gr.* _Almennt._
+ *[IX. kafli.][^1)^]* *Stækkun sveitarfélaga.*
+    _[^1)^]_"L. 74/2003, 8. gr.":/altext/stjt/2003.074.html
+ ■ *88. gr.* _Almennt._
  □ Ráðuneytið skal vinna að stækkun sveitarfélaga með samruna fámennra sveitarfélaga í stærri og öflugri heildir. Skal ráðuneytið vinna að þessu í samráði við einstök sveitarfélög, Samband íslenskra sveitarfélaga og landshlutasamtök sveitarfélaga.
 ■ *89. gr.* _Skyldubundin sameining sveitarfélaga._
  □ Þegar skylt er að sameina sveitarfélag öðru sveitarfélagi, sbr. 2. mgr. 6. gr., skal ráðuneytið skipa nefnd er í sitji tveir menn samkvæmt tilnefningu sveitarstjórnar í því sveitarfélagi sem um ræðir og tveir menn samkvæmt tilnefningu viðkomandi landshlutasamtaka. Þá skipar ráðuneytið formann nefndarinnar án tilnefningar. Kostnaður við störf nefndarinnar greiðist úr ríkissjóði.
@@ -391,12 +414,13 @@ h2. Sveitarstjórnarlög
  □ Sveitarstjórn hins sameinaða sveitarfélags skal hlutast til um að samþykktir og reglugerðir, sem giltu í þeim sveitarfélögum sem sameinuð hafa verið, verði endurskoðaðar og samræmdar.
 ■ *98. gr.* _Fjárhagsleg aðstoð Jöfnunarsjóðs sveitarfélaga._
  □ Ráðuneytið getur, að fenginni umsögn Sambands íslenskra sveitarfélaga, sett almennar reglur[^1)^] þess efnis að Jöfnunarsjóður sveitarfélaga veiti fjárhagslega aðstoð til þess að greiða fyrir sameiningu sveitarfélaga. Slíka aðstoð má veita í allt að fimm ár eftir sameiningu.
-    _[^1)^]_"Rg. 619/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/619-1994, sbr. "818/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/818-2001.
+    _[^1)^]_"Rgl. 295/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/295-2003.
  ■ *99. gr.* _Afsláttur af fasteignaskatti._
  □ Þegar sveitarfélag í dreifbýli og sveitarfélag í þéttbýli sameinast er sveitarstjórn hins sameinaða sveitarfélags heimilt að ákveða að um tiltekinn tíma, þó ekki lengur en 10 ár frá sameiningu, megi veita tiltekinn afslátt af fasteignaskatti af eignum í dreifbýli vegna mismunandi þjónustu við fasteignaeigendur í dreifbýli og þéttbýli.
 
- *IX. kafli.* *Samskipti ríkis og sveitarfélaga.*
-■ *100. gr.* _Samstarfssáttmáli._
+ *[X. kafli.][^1)^]* *Samskipti ríkis og sveitarfélaga.*
+    _[^1)^]_"L. 74/2003, 8. gr.":/altext/stjt/2003.074.html
+ ■ *100. gr.* _Samstarfssáttmáli._
  □ Ríkisstjórninni er rétt að koma á formlegu samstarfi við samtök sveitarfélaga með gerð samstarfssáttmála ríkis og sveitarfélaga og með öðrum hætti. Ríkisstjórnin skal hafa náið samráð við Samband íslenskra sveitarfélaga um þau mál er varða verkaskiptingu ríkis og sveitarfélaga og önnur samskipti þessara aðila.
 ■ *101. gr.* _Breyting á verkaskiptingu eða fjármálalegum samskiptum._
  □ Komi fram tillögur um meiri háttar breytingar á verkaskiptingu eða fjármálalegum samskiptum ríkis og sveitarfélaga og tekjustofnum sveitarfélaga, sem kveðið er á um í lögum eða gert hefur verið sérstakt samkomulag um, skulu þær teknar til umfjöllunar í sérstakri samráðsnefnd skipaðri fulltrúum ríkisstjórnarinnar og Sambands íslenskra sveitarfélaga áður en þær eru formlega afgreiddar.
@@ -409,8 +433,9 @@ h2. Sveitarstjórnarlög
  □ Ráðuneytið skal leitast við að kveða upp úrskurð innan tveggja mánaða frá því að því berst mál til úrskurðar.
  □ Ráðuneytið skal árlega gefa út úrskurði sína í sveitarstjórnarmálefnum.
 
- *X. kafli.* *Önnur ákvæði.*
-■ *104. gr.* _Almennar atkvæðagreiðslur og borgarafundir._
+ *[XI. kafli.][^1)^]* *Önnur ákvæði.*
+    _[^1)^]_"L. 74/2003, 8. gr.":/altext/stjt/2003.074.html
+ ■ *104. gr.* _Almennar atkvæðagreiðslur og borgarafundir._
  □ Heimilt er sveitarstjórn að efna til almennrar atkvæðagreiðslu um einstök mál og að boða til almennra borgarafunda um málefni sveitarfélagsins.
  □ Skylt er að halda almennan borgarafund ef [^1^]/4 hluti atkvæðisbærra manna í sveitarfélaginu óskar þess.
  □ Til almenns borgarafundar skal boðað með opinberri auglýsingu og skal þar taka fram hverjir hafi atkvæðisrétt á fundinum ef ætlunin er að atkvæðagreiðsla fari þar fram.

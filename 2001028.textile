@@ -6,6 +6,8 @@ h2. Lög um rafrænar undirskriftir
 
 <hr />
 
+*Tóku gildi 16. maí 2001.* Breytt með "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003).
+
 
  *I. kafli.* *Markmið og gildissvið.*
  ■ *1. gr.* _Markmið._
@@ -67,11 +69,12 @@ h2. Lög um rafrænar undirskriftir
 ■ *9. gr.* _Viðurkenning._
  □ Kröfum til undirskriftarbúnaðar skv. 8. gr. skal teljast fullnægt þegar:
     a. þar til bær aðili hefur staðfest að hann uppfylli kröfur 8. gr.; viðskiptaráðherra getur í reglugerð kveðið á um þá aðila sem veitt geta slíka staðfestingu, eða
-    b. þar til bær aðili á Evrópska efnahagssvæðinu hefur viðurkennt hann.
+    b. þar til bær aðili á Evrópska efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] hefur viðurkennt hann.
  □ Líta skal svo á að undirskriftarbúnaður teljist öruggur skv. 8. gr. ef hann er í samræmi við staðla sem framkvæmdastjórn Evrópusambandsins hefur sett um slíkan búnað og birtir hafa verið í Stjórnartíðindum Evrópubandalagsins.
+    _[^1)^]_"L. 72/2003, 54. gr.":/altext/stjt/2003.072.html
 
  *V. kafli.* *Kröfur til vottunaraðila sem gefa út fullgild vottorð.*
-■ *10. gr.* _Kröfur til starfseminnar._
+ ■ *10. gr.* _Kröfur til starfseminnar._
  □ Vottunaraðili sem gefur út fullgild vottorð skal í starfsemi sinni fullnægja þeim kröfum sem nauðsynlegar eru til að tryggja örugga og áreiðanlega útgáfu vottorða.
  □ Vottunaraðili skal í þessu skyni:
     a. viðhafa vandaðar stjórnunar- og starfsaðferðir,
@@ -139,11 +142,12 @@ h2. Lög um rafrænar undirskriftir
  *VIII. kafli.* *Ýmis ákvæði.*
 ■ *22. gr.* _Vottunaraðilar sem hafa staðfestu utan Íslands._
  □ Vottorð, gefin út af vottunaraðilum sem hafa staðfestu utan Íslands, skulu teljast fullgild vottorð í skilningi laga þessara ef:
-    a. vottunaraðilinn fullnægir ákvæðum laga þessara og hefur verið viðurkenndur af valfrjálsu faggildingarkerfi á Evrópska efnahagssvæðinu,
-    b. vottunaraðili, sem hefur staðfestu á Evrópska efnahagssvæðinu og uppfyllir ákvæði laga þessara, ábyrgist vottorðið,
-    c. vottorðið stafar frá vottunaraðila sem hefur staðfestu í landi á Evrópska efnahagssvæðinu og uppfyllir kröfur þess lands til fullgildra vottorða eða
+    a. vottunaraðilinn fullnægir ákvæðum laga þessara og hefur verið viðurkenndur af valfrjálsu faggildingarkerfi á Evrópska efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu],[^1)^]
+    b. vottunaraðili, sem hefur staðfestu á Evrópska efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] og uppfyllir ákvæði laga þessara, ábyrgist vottorðið,
+    c. vottorðið stafar frá vottunaraðila sem hefur staðfestu í landi á Evrópska efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] og uppfyllir kröfur þess lands til fullgildra vottorða eða
     d. vottorðið eða vottunaraðilinn er viðurkenndur af Íslandi, Evrópubandalaginu, ríkjum utan Evrópubandalagsins eða alþjóðlegum stofnunum, í tvíhliða eða marghliða samningum.
-■ *23. gr.* _Viðurlög._
+    _[^1)^]_"L. 72/2003, 55. gr.":/altext/stjt/2003.072.html
+ ■ *23. gr.* _Viðurlög._
  □ Fyrir brot gegn lögum þessum skal refsað með sektum nema þyngri refsing liggi við samkvæmt öðrum lögum.
  □ Dæma má lögaðila jafnt sem einstaklinga til greiðslu sekta vegna brota á lögum þessum. Um refsiábyrgð lögaðila fer skv. II. kafla A almennra hegningarlaga.
 ■ *24. gr.* _Gildistaka._

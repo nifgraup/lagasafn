@@ -6,22 +6,25 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
 
 <hr />
 
-*Tóku gildi 29. apríl 1998.* Breytt með "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 16/1999":/altext/stjt/1999.016.html (tóku gildi 24. mars 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000) og "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002).
+*Tóku gildi 29. apríl 1998.* Breytt með "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 16/1999":/altext/stjt/1999.016.html (tóku gildi 24. mars 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000), "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002) og "l. 33/2003":2003033.html (tóku gildi 1. júlí 2003).
 
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* Lög þessi gilda um starfsemi kauphalla og skipulegra tilboðsmarkaða sem starfa hér á landi.
  □ Starfsemi, sem kveðið er á um í lögum þessum, er einungis heimil kauphöll og skipulegum tilboðsmarkaði sem hlotið hefur starfsleyfi samkvæmt lögum þessum.
 ■ *2. gr.* Í lögum þessum merkir:
-    _skipulegur verðbréfamarkaður:_ markað með verðbréf samkvæmt skilgreiningu laga um verðbréfaviðskipti,
-    _kauphöll:_ markað sem telst vera skipulegur verðbréfamarkaður þar sem opinber skráning verðbréfa og viðskipti með þau fara fram og hlotið hefur starfsleyfi, sbr. 3. og 10. gr. laga þessara,
-    _skipulegur tilboðsmarkaður:_ markað sem telst vera skipulegur verðbréfamarkaður með verðbréf sem ekki eru opinberlega skráð í kauphöll og hlotið hefur starfsleyfi, sbr. 3. og 31. gr. laga þessara,
+    [_skipulegur verðbréfamarkaður:_
+    1. kauphöll: markað þar sem opinber skráning fjármálagerninga og viðskipti með þá fara fram og sem hlotið hefur starfsleyfi, sbr. 3. og 10. gr. laga þessara,
+    2. skipulegan tilboðsmarkað: markað með fjármálagerninga sem ekki eru opinberlega skráðir í kauphöll og sem hlotið hefur starfsleyfi, sbr. 3. og 10. gr. laga þessara,
+    3. kauphallir innan Evrópska efnahagssvæðisins og aðra verðbréfamarkaði innan Evrópska efnahagssvæðisins þar sem fjármálagerningar ganga kaupum og sölum og sem eru opnir almenningi, starfa reglulega og eru viðurkenndir með þeim hætti sem Fjármálaeftirlitið metur gildan,
+    4. markaði skv. 3. tölul. sem eru í ríkjum utan Evrópska efnahagssvæðisins og eru viðurkenndir með þeim hætti sem Fjármálaeftirlitið metur gildan],[^1)^]
     _verðbréf:_ verðbréf samkvæmt skilgreiningu laga um verðbréfaviðskipti,
     _fyrirtæki í verðbréfaþjónustu:_ fyrirtæki í verðbréfaþjónustu samkvæmt skilgreiningu laga um verðbréfaviðskipti,
     _opinber skráning:_ skráningu til opinberra viðskipta og verðskráningar í kauphöll á grundvelli samræmdra skilmála um verðbréf og útgefendur þeirra sem staðfestir hafa verið af stjórnvöldum,
     _markaðsaðili:_ þann sem rétt hefur til að setja fram tilboð og eiga viðskipti á hlutaðeigandi markaði.
+    _[^1)^]_"L. 33/2003, 61. gr.":2003033.html#g61
  _Starfsleyfi._
-■ *3. gr.* Viðskiptaráðherra veitir starfsleyfi samkvæmt lögum þessum að fenginni umsögn [Fjármálaeftirlitsins].[^1)^] Umsókn um starfsleyfi skal vera skrifleg.
+ ■ *3. gr.* Viðskiptaráðherra veitir starfsleyfi samkvæmt lögum þessum að fenginni umsögn [Fjármálaeftirlitsins].[^1)^] Umsókn um starfsleyfi skal vera skrifleg.
  □ Ákvörðun ráðherra um starfsleyfi skal tilkynna umsækjanda skriflega svo fljótt sem unnt er og eigi síðar en sex mánuðum eftir að fullbúin umsókn barst ráðherra. Synjun ráðherra á umsókn skal rökstudd.
  □ Starfsleyfi verða aðeins veitt hlutafélögum er fullnægja skilyrðum laga um útgáfu leyfisins. Óheimilt er að hefja starfsemi fyrr en hlutafé skv. 4. gr. hefur verið að fullu greitt.
     _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html
@@ -106,22 +109,13 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
     _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html
 
  *V. kafli.* *Yfirtökutilboð.*
- ■ *19. gr.* Hafi eignarhlutur beint eða óbeint verið yfirtekinn í félagi sem hefur fengið opinbera skráningu fyrir einn eða fleiri flokka hlutabréfa í kauphöll skal öllum hluthöfum félagsins gefinn kostur á því að afhenda eignarhlut sinn með sambærilegum kjörum þeim aðila sem:
-    1. hefur eignast 50% atkvæðisréttar í félaginu eða samsvarandi hluta hlutafjár,
-    2. hefur öðlast rétt til þess að tilnefna eða setja af meiri hluta stjórnar í félaginu,
-    3. hefur fengið rétt til þess að stjórna félaginu á grundvelli samþykkta þess eða á annan hátt með samningi við félagið,
-    4. hefur á grundvelli samnings við aðra hluthafa rétt til að ráða yfir sem nemur [50%][^1)^] atkvæða í félaginu.
- □ Ákvæði 1. mgr. á ekki við um eignarhlut í félagi sem þegar hefur verið opinberlega skráð í kauphöll við gildistöku laga þessara þrátt fyrir að atvik sem nefnd eru í 1. - 4. tölul. 1. mgr. eigi við um þann eignarhlut. Hafi eignarhlutur í félagi, sem ákvæði þessarar málsgreinar tekur til, farið niður fyrir þau mörk sem tilgreind eru í 1. mgr. eftir gildistöku laganna skulu þó reglur 1. mgr. eiga að öllu leyti við.
- □ Kauphöll hefur eftirlit með því að ákvæðum 1. mgr. sé framfylgt.
-    _[^1)^]_"L. 16/1999, 3. gr.":/altext/stjt/1999.016.html
- _Opinbert tilboðsyfirlit._
- ■ *20. gr.* Þegar tilboð um yfirtöku á hlutum er sett fram er skylt að semja og gera opinbert tilboðsyfirlit þar sem fram koma allar upplýsingar um tilboðsgjafa. Þar skal koma fram til hvaða hlutabréfaflokka tilboðið tekur, fjárhagsatriði þess, svo sem upplýsingar um grundvöll fyrir því verði sem boðið er, greiðsluskilmála og hvort greiða eigi með öðrum verðbréfum, svo og lágmark og hámark þess hlutafjár sem tilboðið tekur til. Auk þess skulu koma fram önnur skilyrði sem það er háð, þar með talinn sá frestur sem veittur er til þess að samþykkja tilboðið og áhrif yfirtökunnar á framtíðarstarfsemi félagsins, auk annarra upplýsinga sem telja má að séu nauðsynlegar svo að hluthafar geti fengið nægilega yfirsýn yfir tilboðið. Frestur til að taka tilboði má ekki vera styttri en fjórar vikur og ekki lengri en tíu vikur.
- □ Taki tilboð sem skylt er að gera skv. 19. gr. ekki til allra hlutabréfa í félagi eða hluthafar bjóðast til að selja tilboðsgjafa meira af hlutafjáreign sinni en tilboð hans nær til skal gæta jafnræðis pro rata gagnvart hluthöfum.
- □ Þegar að öðru leyti er sett fram opinbert yfirtökutilboð sem ekki telst falla undir skyldu til þess að gera tilboð skv. 19. gr. um yfirtöku á hlutabréfum í félagi sem hefur einn eða fleiri flokka hlutabréfa skráða í kauphöll er heimilt að semja tilboðsyfirlit eins og kveðið er á um í 1. mgr.
- □ Í reglugerð sem ráðherra setur er heimilt að setja nánari reglur um skyldu til þess að gera tilboð skv. 1. - 4. tölul. 1. mgr. 19. gr., svo og nánari reglur um innihald tilboðsyfirlitsins, birtingu þess, hvernig því hafi lokið, með hvaða hætti unnt er að afturkalla tilboðið og hvernig skuli fara með tilboð sem ætlað er að keppa við yfirtökutilboðið.
+ ■ *19. gr.* ...[^1)^]
+    _[^1)^]_"L. 33/2003, 61. gr.":2003033.html#g61
+ ■ *20. gr.* ...[^1)^]
+    _[^1)^]_"L. 33/2003, 61. gr.":2003033.html#g61
 
  *VI. kafli.* *Viðskipta- og upplýsingakerfið.*
-■ *21. gr.* Stjórn kauphallarinnar setur reglur um skipulegt viðskipta- og upplýsingakerfi og uppgjör viðskipta sem þar eiga sér stað. Í þeim skal kveðið á um með hvaða hætti tilboð eru sett fram, svo og um söfnun og miðlun upplýsinga um viðskipti með verðbréf sem þar eru skráð, hvort sem viðskiptin eiga sér stað í viðskiptakerfinu eða utan þess.
+ ■ *21. gr.* Stjórn kauphallarinnar setur reglur um skipulegt viðskipta- og upplýsingakerfi og uppgjör viðskipta sem þar eiga sér stað. Í þeim skal kveðið á um með hvaða hætti tilboð eru sett fram, svo og um söfnun og miðlun upplýsinga um viðskipti með verðbréf sem þar eru skráð, hvort sem viðskiptin eiga sér stað í viðskiptakerfinu eða utan þess.
 ■ *22. gr.* Kauphallaraðilar gera upp viðskipti sín á milli samkvæmt reglum sem stjórnin setur og bera ábyrgð á viðskiptum sínum með skráð verðbréf.
  □ Kauphallaraðilar skulu gera stjórn kauphallar grein fyrir þóknun sem þeir taka fyrir að annast kaup eða sölu bréfa sem þar eru skráð.
 ■ *23. gr.* Kauphallaraðila er heimilt að eiga viðskipti með verðbréf sem skráð eru í kauphöll án þess að hann bjóði þau fram í viðskiptakerfi hennar svo fremi að hann geri bæði kaupendum og seljendum grein fyrir að svo sé. Senda skal upplýsingar um slík viðskipti til kauphallarinnar með þeim hætti sem reglur settar skv. 21. gr. segja til um.
@@ -132,9 +126,9 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
 ■ *25. gr.* Hlutafélagi, sem fengið hefur hlutabréf sín opinberlega skráð í kauphöll, ber þegar í stað að tilkynna henni um heildareign félagsins á eigin hlutabréfum, þar með talið í dótturfélögum þess, þegar hún nær, hækkar upp fyrir eða lækkar niður fyrir 5% og 10% af heildarhlutafé í félaginu.
  □ Í tilkynningum til kauphallar, sem getið er um í 1. mgr., skal taka fram raunverulega hlutafjáreign, hvernig hún skiptist á hlutabréfaflokka og hvernig hún var samkvæmt síðustu tilkynningu um hlutafjáreign.
  _Flöggunarreglur._
-■ *26. gr.* Eiganda hlutabréfa í hlutafélagi, sem hefur skráð hlutabréf sín í kauphöll, ber, þegar svo háttar sem segir í 2. mgr., að tilkynna þegar í stað til hennar og félagsins um atkvæðisrétt eða eignarhlut í félaginu.
- □ Skylt er að tilkynna skv. 1. mgr. þegar atkvæðisréttur eða nafnverð hlutafjár nær, hækkar upp fyrir eða lækkar niður fyrir eftirfarandi mörk: 5%, 10%, 20%, 33[^1^]/3%, 50% og 66[^2^]/3%.
-■ *27. gr.* Í reglugerð sem ráðherra setur er heimilt að kveða nánar á um skyldu útgefenda og eigenda hlutabréfa til að veita kauphöll upplýsingar, svo og hvenær veita megi undanþágur frá upplýsingaskyldunni.
+■ *26. gr.* ...[^1)^]
+    _[^1)^]_"L. 33/2003, 61. gr.":2003033.html#g61
+ ■ *27. gr.* Í reglugerð sem ráðherra setur er heimilt að kveða nánar á um skyldu útgefenda og eigenda hlutabréfa til að veita kauphöll upplýsingar, svo og hvenær veita megi undanþágur frá upplýsingaskyldunni.
  □ Í reglugerð er einnig heimilt að setja nánari reglur um upplýsingaskyldu þegar útgefandi hefur fengið verðbréf sín skráð í fleiri en einni kauphöll.
  _Hagtölugerð og veiting upplýsinga._
 ■ *28. gr.* Stjórn kauphallar er heimilt, að eigin frumkvæði eða samkvæmt beiðni utanaðkomandi aðila og í samræmi við heimildir annarra laga, að vinna og birta hagtölur og aðrar upplýsingar í þágu markaðarins á grundvelli gagna sem hún hefur yfir að ráða eða aflar með öðrum hætti um viðskipti sem skráð eru í kauphöllinni.
@@ -180,10 +174,10 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
  *XI. kafli.* *Eftirlit.*
  ■ *35. gr.* [Fjármálaeftirlitið][^1)^] hefur eftirlit með því að starfsemi kauphalla og skipulegra tilboðsmarkaða sé í samræmi við lög þessi, reglur eða reglugerðir settar samkvæmt þeim, svo og önnur fyrirmæli eða samþykktir sem um starfsemina gilda. Skal [Fjármálaeftirlitinu][^1)^] þess vegna heimill aðgangur að öllum gögnum og upplýsingum um starfsemi sem fram fer samkvæmt lögum þessum sem það telur nauðsyn á. Telji [Fjármálaeftirlitið][^1)^] að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa skal það eiga sambærilegan aðgang að upplýsingum og gögnum hjá viðkomandi aðila. ...[^2)^]
  □ [Fjármálaeftirlitið getur krafist hvers konar gagna og upplýsinga frá einstaklingum eða lögaðilum sem eiga eða hyggjast eignast eða fara með eignarhlut í hlutafélagi sem starfar samkvæmt lögum þessum í því skyni að meta hvort þeir falli undir tilkynningarskyldu skv. 6. gr. og hvort þeir teljist hæfir til að fara með virkan eignarhlut.
- □ Hafi Fjármálaeftirlitið rökstudda ástæðu til að ætla að brotið hafi verið gegn ákvæðum 19. eða 26. gr. laga þessara skal því heimilt að krefja einstaklinga og lögaðila, þar á meðal opinberar stofnanir, um allar upplýsingar og gögn sem það telur nauðsynleg til athugunar á málinu.
+ □ ...[^3)^]
  □ Telji Fjármálaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa getur það krafist gagna og upplýsinga hjá viðkomandi aðilum sem nauðsynleg eru til að ganga úr skugga um hvort svo sé. Getur það krafist þess að slíkri starfsemi sé hætt þegar í stað. Jafnframt er því heimilt að birta opinberlega nöfn aðila sem taldir eru bjóða þjónustu án tilskilinna leyfa.
  □ Um eftirlit samkvæmt þessum lögum gilda að öðru leyti ákvæði laga um opinbert eftirlit með fjármálastarfsemi. Heimilt er að beita ákvæðum þeirra laga um dagsektir, stjórnvaldssektir og leit og hald á gögnum við upplýsingaöflun og eftirlit samkvæmt þessum lögum.][^2)^]
-    _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html [^2)^]"L. 11/2000, 15. gr.":/altext/stjt/2000.011.html
+    _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html [^2)^]"L. 11/2000, 15. gr.":/altext/stjt/2000.011.html [^3)^]"L. 33/2003, 61. gr.":2003033.html#g61
  ■ *36. gr.* Telji [Fjármálaeftirlitið][^1)^] að kauphöll eða skipulegur tilboðsmarkaður, sem starfar samkvæmt lögum þessum, hafi brotið gegn ákvæðum laga þessara, laga um verðbréfaviðskipti eða reglum og reglugerðum settum samkvæmt þeim eða að háttsemi félaga eða stofnana sé að öðru leyti óeðlileg, óheilbrigð eða ótraust skal það veita hlutaðeigandi hæfilegan frest til úrbóta nema brot séu alvarleg.
  □ Í tilefni af brotum samkvæmt lögum þessum er [Fjármálaeftirlitinu][^1)^] jafnframt heimilt að krefjast úrbóta án tafar, svo og að leggja tímabundið bann við frekari starfsemi ef sérstakar aðstæður krefjast þess.
  □ Hafi kauphöll eða skipulegur tilboðsmarkaður ekki sinnt ítrekuðum tilmælum [Fjármálaeftirlitsins][^1)^] um úrbætur samkvæmt þessari grein er því heimilt að gera tillögu um afturköllun starfsleyfis, sbr. 37. gr. þessara laga.

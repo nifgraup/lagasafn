@@ -6,6 +6,8 @@ h2. Lög um dýralækna og heilbrigðisþjónustu við dýr
 
 <hr />
 
+*Tóku gildi 1. janúar 1999.* Breytt með "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003).
+
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* Lög þessi taka til hvers þess dýralæknis sem er skipaður, settur eða ráðinn til starfa í þágu ríkisins og þeirra dýralækna sem starfa samkvæmt leyfi þar að lútandi sem veitt er eftir lögum þessum.
@@ -45,11 +47,12 @@ h2. Lög um dýralækna og heilbrigðisþjónustu við dýr
  □ Dýralækni ber að gera árlega skýrslu um læknisstörf sín og senda yfirdýralækni. Yfirdýralæknir setur reglur um hvaða upplýsingar skýrslurnar skuli geyma.
  □ Dýralækni ber að sýna nákvæmni í útgáfu vottorða og læknisyfirlýsinga. Hann er bundinn þagnarskyldu um þá vitneskju sem hann öðlast í starfi sínu og honum er trúað fyrir og varðar ekki almannaheill.
  □ Dýralækni er einungis heimilt að auglýsa læknisstarfsemi sína með efnislegum og látlausum auglýsingum.
-■ *10. gr.* Dýralæknir hefur leyfi til að kalla sig sérfræðing og starfa sem slíkur hér á landi hafi hann fengið til þess leyfi landbúnaðarráðherra eða fengið viðurkenningu á að starfa sem sérfræðingur í landi sem er aðili að samningi um Evrópskt efnahagssvæði.
- □ Umsóknir um sérfræðileyfi skulu lagðar fyrir dýralæknaráð til umsagnar þegar menntunar er aflað utan Evrópska efnahagssvæðisins. Við afgreiðslu einstakra umsókna er heimilt að kveðja til sérfróðan dýralækni úr þeirri sérgrein sem sótt er um viðurkenningu á.
+■ *10. gr.* [Dýralæknir hefur leyfi til að kalla sig sérfræðing og starfa sem slíkur hér á landi hafi hann fengið til þess leyfi landbúnaðarráðherra, fengið viðurkenningu til að starfa sem sérfræðingur í ríki sem er aðili að samningnum um Evrópska efnahagssvæðið eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu.
+ □ Umsóknir um sérfræðingsleyfi skulu lagðar fyrir dýralæknaráð til umsagnar þegar menntunar er aflað utan Evrópska efnahagssvæðisins eða utan aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu. Við afgreiðslu einstakra umsókna er heimilt að kveðja til sérfróðan dýralækni úr þeirri sérgrein sem sótt er um viðurkenningu á.][^1)^]
+    _[^1)^]_"L. 72/2003, 33. gr.":/altext/stjt/2003.072.html
 
  *IV. kafli.* *Skipan héraðsdýralæknisumdæma.*
-■ *11. gr.* Umdæmi héraðsdýralækna eru sem hér greinir:
+ ■ *11. gr.* Umdæmi héraðsdýralækna eru sem hér greinir:
     1. _Gullbringu- og Kjósarumdæmi:_ Reykjavík, Seltjarnarnes, Kópavogur, Garðabær, Hafnarfjörður, Mosfellsbær, Gullbringu- og Kjósarsýsla.
     2. _Borgarfjarðar- og Mýraumdæmi:_ Borgarfjarðarsýsla, Mýrasýsla, Akranes, Borgarbyggð.
     3. _Snæfellsnesumdæmi:_ Stykkishólmur, Snæfellsbær, Eyrarsveit, Helgafellssveit, Hnappadalssýsla, Flatey og býli í gamla Flateyjarhreppi, Skógarstrandarhreppur.

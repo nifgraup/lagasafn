@@ -6,15 +6,17 @@ h2. Lög um útlendinga
 
 <hr />
 
-*Tóku gildi 1. janúar 2003.*
+*Tóku gildi 1. janúar 2003.* Breytt með "l. 27/2003":/altext/stjt/2003.027.html (tóku gildi 3. apríl 2003).
+
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Gildissvið._
  □ Ákvæði laga þessara gilda um heimild útlendinga til að koma til landsins og dvöl þeirra hér á landi.
- □ Um útlendinga sem falla undir samninginn um Evrópska efnahagssvæðið gilda sérreglur, sbr. ákvæði VI. kafla.
+ □ [Um útlendinga sem falla undir EES-samninginn eða stofnsamning EFTA gilda sérreglur, sbr. ákvæði VI. kafla.][^1)^]
  □ Íslenskir ríkisborgarar geta einnig borið skyldur samkvæmt lögunum.
  □ Íslensk skip í siglingum erlendis falla ekki undir gildissvið laganna.
-■ *2. gr.* _Tilgangur._
+    _[^1)^]_"L. 27/2003, 1. gr.":/altext/stjt/2003.027.html
+ ■ *2. gr.* _Tilgangur._
  □ Lögin veita heimild til að hafa eftirlit með komu til landsins og för úr landi og með dvöl útlendinga hér á landi í samræmi við stefnu stjórnvalda hverju sinni.
  □ Með lögunum er kveðið á um réttarstöðu útlendinga sem koma til landsins eða fara frá því, dveljast hér eða sækja um leyfi samkvæmt lögunum.
 ■ *3. gr.* _Framkvæmd laganna._
@@ -180,21 +182,25 @@ h2. Lög um útlendinga
  □ Þegar kærð er ákvörðun sem varðar frávísun, brottvísun eða afturköllun leyfis og í máli vegna umsóknar um hæli skal útlendingur eiga rétt á að stjórnvald skipi honum talsmann. Þetta gildir þó ekki í málum vegna brottvísunar skv. b- og c-lið 1. mgr. 20. gr., b-lið 2. mgr. 21. gr. og 2. mgr. 43. gr. þegar um er að ræða háttsemi sem greinir í 2. málsl., eða þegar útlendingur sem sótt hefur um hæli kærir að hann hafi einungis fengið dvalarleyfi skv. 2. mgr. 11. gr. Ef dómari tekur til greina beiðni um að afla upplýsinga fyrir dómi skv. 28. gr. skal kostnaður útlendingsins við lögfræðiaðstoð meðan öflun upplýsinganna fer fram greiðast úr ríkissjóði.
  □ Ákvæði VI. kafla laga um meðferð opinberra mála gilda, eftir því sem við á, um réttaraðstoð skv. 1. og 2. mgr. Krefja skal útlending um endurgreiðslu kostnaðar af réttaraðstoð að hluta til eða að öllu leyti ef hann hefur ráð á því.
 
- *VI. kafli.* *Útlendingar sem falla undir samninginn um Evrópska efnahagssvæðið (EES-samninginn).*
-■ *35. gr.* _Dvalarleyfi._
- □ Útlendingur, sem fellur undir reglur EES-samningsins um frjálsa fólksflutninga (EES-útlendingur), má koma til landsins án sérstaks leyfis og dveljast hér á landi í allt að þrjá mánuði frá komu hans til landsins, eða allt að sex mánuði ef hann er í atvinnuleit. Dvöl í öðru norrænu landi skal ekki draga frá dvalartímanum.
- □ EES-útlendingur, sem dvelst eða starfar hér á landi lengur en greinir í 1. mgr., skal hafa dvalarleyfi. Dómsmálaráðherra getur sett reglur um undanþágur frá reglum um dvalarleyfi og reglur um tilkynningarskyldu.
+ *VI. kafli.* *[Sérreglur um útlendinga sem falla undir samninginn um Evrópska efnahagssvæðið (EES) og stofnsamning Fríverslunarsamtaka Evrópu (EFTA).][^1)^]*
+    _[^1)^]_"L. 27/2003, 5. gr.":/altext/stjt/2003.027.html
+ ■ *35. gr.* _Dvalarleyfi._
+ □ [Útlendingur, sem fellur undir reglur EES-samningsins (EES-útlendingur) eða stofnsamnings EFTA (EFTA-útlendingur), má koma til landsins án sérstaks leyfis og dveljast eða starfa hér á landi í allt að þrjá mánuði frá komu hans til landsins, eða allt að sex mánuðum ef hann er í atvinnuleit. Dvöl í öðru norrænu landi skal ekki draga frá dvalartímanum.][^1)^]
+ □ [Útlendingur, sem hvorki er ríkisborgari EES- eða EFTA-ríkis né aðstandandi slíks borgara, má koma til landsins án sérstaks leyfis til að veita þjónustu í allt að 90 starfsdaga á almanaksári hafi hann leyfi sem jafngildir óbundnu atvinnuleyfi í EES- eða EFTA-ríki og er ráðinn hjá aðila sem veitir þjónustu og hefur staðfestu eða starfsemi þar.][^1)^]
+ □ [EES- eða EFTA-útlendingur],[^1)^] sem dvelst eða starfar hér á landi lengur en greinir í 1. mgr., skal hafa dvalarleyfi. Dómsmálaráðherra getur sett reglur um undanþágur frá reglum um dvalarleyfi og reglur um tilkynningarskyldu.
  □ Dvalarleyfi, sem sótt er um í fyrsta sinn, má sækja um eftir komu til landsins.
  □ Útlendingastofnun tekur ákvörðun um dvalarleyfi.
-■ *36. gr.* _Skilyrði dvalarleyfis._
- □ EES-útlendingur á rétt á dvalarleyfi samkvæmt umsókn þess efnis ef hann framvísar þeim ferðaskilríkjum sem hann komst inn í landið með og gögnum sem sýna að hann:
+    _[^1)^]_"L. 27/2003, 2. gr.":/altext/stjt/2003.027.html
+ ■ *36. gr.* _Skilyrði dvalarleyfis._
+ □ [EES- eða EFTA-útlendingur, þó ekki útlendingur sem greinir í 2. mgr. 35. gr.],[^1)^] á rétt á dvalarleyfi samkvæmt umsókn þess efnis ef hann framvísar þeim ferðaskilríkjum sem hann komst inn í landið með og gögnum sem sýna að hann:
     a. er launþegi sem fellur undir lög um frjálsan atvinnu- og búseturétt launafólks innan Evrópska efnahagssvæðisins, sbr. 2. tölul. V. viðauka við EES-samninginn,
     b. ætlar að stunda sjálfstæða atvinnustarfsemi hér á landi eða veita eða njóta hér þjónustu,
     c. þiggur nægilegar fastar reglubundnar greiðslur eða á nægilegt eigið fé og fellur undir sjúkratryggingu sem ábyrgist alla áhættu meðan dvöl hans hér á landi varir eða
     d. er innritaður hjá viðurkenndri námsstofnun með það að meginmarkmiði að öðlast þar menntun eða starfsþjálfun.
  □ Dómsmálaráðherra setur nánari reglur um framkvæmd þessa.
  □ Heimilt er að synja um dvalarleyfi skv. 1. mgr. ef þær aðstæður eru fyrir hendi sem geta veitt tilefni til að meina útlendingnum komu til landsins, dvöl eða vinnu samkvæmt öðrum lagaákvæðum.
-■ *37. gr.* _Dvalarleyfi fyrir aðstandendur._
+    _[^1)^]_"L. 27/2003, 3. gr.":/altext/stjt/2003.027.html
+ ■ *37. gr.* _Dvalarleyfi fyrir aðstandendur._
  □ Aðstandandi útlendings sem hefur eða öðlast dvalarleyfi skv. 1. mgr. 36. gr. á rétt á dvalarleyfi samkvæmt umsókn þess efnis að uppfylltum skilyrðum í reglum sem dómsmálaráðherra setur.
 ■ *38. gr.* _Áframhaldandi dvöl að loknu starfi._
  □ Dómsmálaráðherra getur sett reglur um rétt útlendings sem fellur undir a- og b-lið 1. mgr. 36. gr. til áframhaldandi dvalar að loknu starfi, svo og aðstandenda hans skv. 37. gr.
@@ -212,23 +218,25 @@ h2. Lög um útlendinga
  □ Heimilt er að afturkalla dvalarleyfi ef svo stendur á sem greinir í 16. gr. Afturköllun er þó ekki heimil eingöngu af því að útlendingurinn er ekki lengur í starfi, hvort heldur er vegna veikinda eða slyss eða vegna þess að hann er atvinnulaus gegn vilja sínum.
  □ Enn fremur er heimilt að afturkalla dvalarleyfi sem gefið var út í fyrsta sinn til útlendings sem fellur undir a - c-lið 1. mgr. 36. gr. ef um er að ræða búseturof sem varað hefur lengur en sex samfellda mánuði og er ekki tilkomið vegna herþjónustu.
 ■ *42. gr.* _Frávísun._
- □ Heimilt er að vísa EES-útlendingi frá landi við komu til landsins eða allt að sjö sólarhringum eftir komu ef:
+ □ Heimilt er að vísa [EES- eða EFTA-útlendingi][^1)^] frá landi við komu til landsins eða allt að sjö sólarhringum eftir komu ef:
     a. hann fullnægir ekki reglum sem settar eru um vegabréf, vegabréfsáritun eða komu til landsins,
     b. honum hefur verið vísað úr landi hér á landi eða í öðru norrænu landi og endurkomubann er enn í gildi og honum hefur ekki verið veitt heimild til að koma til landsins,
     c. um er að ræða háttsemi sem greinir í 1. mgr. 43. gr. eða
     d. það er nauðsynlegt vegna öryggis ríkisins eða krefjandi þjóðarhagsmuna.
  □ Lögreglustjóri tekur ákvörðun um frávísun skv. a- og b-lið 1. mgr., en Útlendingastofnun skv. c- og d-lið. Nægilegt er að meðferð máls hefjist innan sjö sólarhringa frestsins.
- □ Ef meðferð máls skv. 1. mgr. hefur ekki hafist innan sjö sólarhringa má vísa EES-útlendingi, sem ekki hefur dvalarleyfi, frá landi með ákvörðun Útlendingastofnunar samkvæmt ákvæðum b-, c- og d-liðar.
-■ *43. gr.* _Brottvísun._
- □ Heimilt er að vísa EES-útlendingi úr landi ef það er nauðsynlegt með skírskotun til allsherjarreglu og almannaöryggis.
+ □ Ef meðferð máls skv. 1. mgr. hefur ekki hafist innan sjö sólarhringa má vísa [EES- eða EFTA-útlendingi],[^1)^] sem ekki hefur dvalarleyfi, frá landi með ákvörðun Útlendingastofnunar samkvæmt ákvæðum b-, c- og d-liðar.
+    _[^1)^]_"L. 27/2003, 4. gr.":/altext/stjt/2003.027.html
+ ■ *43. gr.* _Brottvísun._
+ □ Heimilt er að vísa [EES- eða EFTA-útlendingi][^1)^] úr landi ef það er nauðsynlegt með skírskotun til allsherjarreglu og almannaöryggis.
  □ Brottvísun skv. 1. mgr. má framkvæma ef útlendingurinn sýnir af sér eða ætla má að um sé að ræða persónubundna háttsemi sem felur í sér raunverulega og nægilega alvarlega ógn gagnvart grundvallarþjóðfélagssjónarmiðum. Ef útlendingurinn hefur verið dæmdur til refsingar eða sérstakar ráðstafanir ákvarðaðar má brottvísun af þessari ástæðu að jafnaði því aðeins fara fram að um sé að ræða háttsemi sem getur gefið til kynna að útlendingurinn muni fremja refsivert brot á ný.
- □ Einnig er heimilt að vísa EES-útlendingi úr landi ef hann fullnægir ekki skilyrðum um dvöl skv. 36. - 38. gr.
+ □ Einnig er heimilt að vísa [EES- eða EFTA-útlendingi][^1)^] úr landi ef hann fullnægir ekki skilyrðum um dvöl skv. 36. - 38. gr.
  □ Brottvísun skal ekki ákveða ef það með hliðsjón af málsatvikum og tengslum útlendingsins við landið mundi fela í sér ósanngjarna ráðstöfun gagnvart honum eða nánustu ættingjum hans.
  □ Brottvísun felur í sér bann við komu til landsins síðar. Endurkomubannið getur gilt fyrir fullt og allt eða um tiltekinn tíma en að jafnaði ekki skemur en tvö ár. Samkvæmt umsókn má fella endurkomubannið úr gildi ef nýjar aðstæður mæla með því.
  □ Útlendingastofnun tekur ákvörðun um brottvísun, svo og um heimild útlendings sem vísað hefur verið úr landi til endurkomu.
+    _[^1)^]_"L. 27/2003, 4. gr.":/altext/stjt/2003.027.html
 
  *VII. kafli.* *Vernd gegn ofsóknum og flóttamenn.*
-■ *44. gr.* _Flóttamannahugtakið._
+ ■ *44. gr.* _Flóttamannahugtakið._
  □ Flóttamaður samkvæmt lögunum telst vera útlendingur sem fellur undir ákvæði A-liðar 1. gr. alþjóðasamnings um stöðu flóttamanna frá 28. júlí 1951 (flóttamannasamningsins), sbr. viðauka við samninginn frá 31. janúar 1967.
  □ Ákveða má að flóttamaður sem fellur undir C - F-lið 1. gr. flóttamannasamningsins skuli ekki, að öllu leyti eða að hluta til, njóta réttinda og verndar samkvæmt ákvæðum þessa kafla, annarra en málsmeðferðarreglna. Flóttamaður sem fellur undir C - E-lið 1. gr. flóttamannasamningsins skal þó njóta verndar skv. 45. gr.
 ■ *45. gr.* _Vernd gegn ofsóknum._

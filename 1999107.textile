@@ -1,12 +1,13 @@
 <hr />
 
-h2. Lög um fjarskipti
+h2. Lög um fjarskipti[^1)^]
 
 *1999 nr. 107 28. desember*
 
 <hr />
 
-*Tóku gildi 1. janúar 2000.* Breytt með "l. 29/2001":/altext/stjt/2001.029.html (tóku gildi 16. maí 2001), "l. 72/2001":/altext/stjt/2001.072.html (tóku gildi 13. júní 2001) og "l. 145/2001":/altext/stjt/2001.145.html (tóku gildi 31. des. 2001).
+   _[^1)^]Falla úr gildi 25. júlí 2003 skv. "l. 81/2003, 76. gr.":2003081.html#g76, þó heldur ákvæði 15. gr. gildi til 1. janúar 2004, sbr. "76. gr. s.l.":2003081.html_
+ *Tóku gildi 1. janúar 2000.* Breytt með "l. 29/2001":/altext/stjt/2001.029.html (tóku gildi 16. maí 2001), "l. 72/2001":/altext/stjt/2001.072.html (tóku gildi 13. júní 2001), "l. 145/2001":/altext/stjt/2001.145.html (tóku gildi 31. des. 2001) og "l. 44/2003":/altext/stjt/2003.044.html (tóku gildi 3. apríl 2003).
 
 
  *I. kafli.* *Skipulag fjarskipta.*
@@ -239,7 +240,7 @@ h2. Lög um fjarskipti
  □ Fjarskiptafyrirtækjum skulu heimiluð afnot af hæfilega löngum númeraröðum í þágu notenda sinna. Póst- og fjarskiptastofnun heimilar fjarskiptafyrirtækjum og notendum afnot af stuttnúmerum, þ.e. númerum sem eru styttri en venjuleg símanúmer. Stofnunin úthlutar einnig öðrum númerum, svo sem talstöðvarnúmerum fyrir skip.
  □ Póst- og fjarskiptastofnun skal setja reglur[^1)^] um númer, númeraraðir og vistföng. Samgönguráðherra er heimilt með reglugerð að setja reglur um hlutverk stofnunarinnar í sambandi við útgáfu vistfanga.
  □ Stuttnúmerið 112 skal vera frátekið fyrir neyðar- og öryggisþjónustu og er óheimilt að nota það í öðrum tilgangi. Símtöl í 112 skulu vera endurgjaldslaus og eiga rekstrarleyfishafar ekki kröfu á yfirvöld um greiðslu kostnaðar vegna slíkra símtala.
-    _[^1)^]_"Rgl. 832/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/832-2000.
+    _[^1)^]_"Rgl. 318/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/318-2003.
  ■ *33. gr.* _Númeraflutningur og forskeyti._
  □ Enda þótt fjarskiptafyrirtæki hafi heimilað notendum afnot af númerum í númeraröðum sínum er notendum frjálst að halda símanúmeri sínu þegar þeir flytja viðskipti sín til annars fjarskiptafyrirtækis. Fjarskiptafyrirtæki er heimilt að innheimta hjá notanda, sem var skráður hjá því, eingreiðslu er nemi kostnaði af umskráningu. Notendum skal vera unnt að halda símanúmeri sínu þó að þeir flytji milli númerasvæða. Fjarskiptafyrirtæki er heimilt að innheimta hjá notandanum kostnað við umskráningu. Póst- og fjarskiptastofnun setur nánari reglur[^1)^] um númeraflutning, þ.m.t. hvenær númeraflutningur milli númerasvæða og númeraflutningur utan almenna fasta fjarskiptanetsins skuli innleiddur og sker úr ágreiningi um framkvæmd hans.
  □ Fjarskiptafyrirtæki er skylt að gera notendum sínum mögulegt að hringja í forskeyti eða númer allra aðila sem veita fjarskiptaþjónustu. Óski símnotandi eftir því að öllum símtölum hans, t.d. til útlanda, verði beint til ákveðins þjónustuveitanda skal hann tilkynna fjarskiptafyrirtækinu sem hann tengist um það. Skal fjarskiptafyrirtæki gera ráðstafanir til að símtölin fari hina fyrir fram völdu leið án þess að nota þurfi forskeytið hverju sinni. Símnotandi skal þó ávallt geta breytt þessu í einstökum símtölum. Póst- og fjarskiptastofnun skal ákveða hvenær forval skal að fullu innleitt.[^2)^]
@@ -346,10 +347,11 @@ h2. Lög um fjarskipti
  *XIV. kafli.* *Fjarskipti á hættutímum.*
 ■ *54. gr.* _Stöðvun fjarskipta._
  □ Á ófriðartímum getur samgönguráðherra samkvæmt ákvörðun ríkisstjórnar mælt fyrir um stöðvun fjarskipta sem teljast hættuleg öryggi ríkisins.
- □ Í neyðartilvikum, svo sem þegar um er að ræða eldgos, jarðskjálfta, snjóflóð o.s.frv., getur samgönguráðherra að beiðni almannavarnaráðs mælt fyrir um takmörkun fjarskipta sem truflað geta neyðar- og öryggisfjarskipti. Á sama hátt skal heimilt að mæla fyrir um að tiltekin fjarskiptavirki skuli notuð í þágu björgunaraðgerða og að sett skuli upp ný fjarskiptavirki. Komi endurgjald til greina greiðist það úr ríkissjóði samkvæmt mati.
+ □ [Í neyðartilvikum, svo sem þegar um er að ræða eldgos, jarðskjálfta, snjóflóð o.s.frv., getur samgönguráðherra að beiðni ríkislögreglustjóra, að höfðu samráði við almannavarnaráð, mælt fyrir um takmörkun fjarskipta sem truflað geta neyðar- og öryggisfjarskipti.][^1)^] Á sama hátt skal heimilt að mæla fyrir um að tiltekin fjarskiptavirki skuli notuð í þágu björgunaraðgerða og að sett skuli upp ný fjarskiptavirki. Komi endurgjald til greina greiðist það úr ríkissjóði samkvæmt mati.
+    _[^1)^]_"L. 44/2003, 14. gr.":/altext/stjt/2003.044.html
 
  *XV. kafli.* *Ábyrgðartakmarkanir.*
-■ *55. gr.* Þeim sem hefur leyfi til reksturs almenns fjarskiptanets samkvæmt lögum þessum er heimilt í viðskiptaskilmálum sínum að undanþiggja sig bótaábyrgð á tjóni sem rekja má til sambandsleysis, rofa á fjarskiptum eða annarra truflana sem kunna að verða á rekstri fjarskiptanetsins eða mistaka við afgreiðslu símskeyta, hvort sem slíkt má rekja til línubilana, bilana í sambandastöðvum eða annarra ástæðna. Slík ábyrgðartakmörkun er þó bundin við að tjónið verði ekki rakið til stórfelldra mistaka starfsmanna rekstrarleyfishafa.
+ ■ *55. gr.* Þeim sem hefur leyfi til reksturs almenns fjarskiptanets samkvæmt lögum þessum er heimilt í viðskiptaskilmálum sínum að undanþiggja sig bótaábyrgð á tjóni sem rekja má til sambandsleysis, rofa á fjarskiptum eða annarra truflana sem kunna að verða á rekstri fjarskiptanetsins eða mistaka við afgreiðslu símskeyta, hvort sem slíkt má rekja til línubilana, bilana í sambandastöðvum eða annarra ástæðna. Slík ábyrgðartakmörkun er þó bundin við að tjónið verði ekki rakið til stórfelldra mistaka starfsmanna rekstrarleyfishafa.
 
  *XVI. kafli.* *Viðurlög o.fl.*
 ■ *56. gr.* _Heimild til rekstrarstöðvunar._

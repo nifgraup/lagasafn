@@ -6,6 +6,8 @@ h2. Lög um meðferð einkamála
 
 <hr />
 
+*Tóku gildi 1. júlí 1992.* Breytt með "l. 133/1993":/altext/stjt/1993.133.html (tóku gildi 1. jan. 1994), "l. 38/1994":/altext/stjt/1994.038.html (tóku gildi 1. júlí 1994), "l. 15/1998":1998015.html (tóku gildi 1. júlí 1998 nema 38. gr. sem tók gildi 3. apríl 1998), "l. 36/1999":/altext/stjt/1999.036.html (tóku gildi 1. maí 1999), "l. 97/1999":/altext/stjt/1999.097.html (tóku gildi 27. des. 1999) og "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003).
+
 
  *1. þáttur.* *Almennar reglur um meðferð einkamála.*
  *I. kafli.* *Gildissvið laganna og dómendur í héraði.*
@@ -566,11 +568,11 @@ h2. Lög um meðferð einkamála
 ■ *132. gr.* 1. Ef dæma á samaðilum skv. 18. gr. málskostnað skal það að jafnaði gert í einu lagi. Eins skal farið að ef dæma á samaðila til greiðslu málskostnaðar, en þá ábyrgjast þeir greiðslu einn fyrir alla og allir fyrir einn.
  □ 2. Nú eru annars fleiri aðilar en einn til sóknar eða varnar í máli og þeim verður dæmdur málskostnaður, og skal hann þá ákveðinn handa hverjum þeirra fyrir sig. Ef dæma á slíka aðila til greiðslu málskostnaðar skal það að jafnaði gert í einu lagi þannig að þeir ábyrgist greiðslu einn fyrir alla og allir fyrir einn.
 ■ *133. gr.* 1. Stefndi getur krafist þess við þingfestingu máls að stefnandi setji tryggingu fyrir greiðslu málskostnaðar ef:
-    a. stefnandi er búsettur [utan Evrópska efnahagssvæðisins][^1)^] og menn, sem eru búsettir hér á landi, eru ekki undanþegnir því að setja slíka tryggingu í heimalandi hans,
+    a. stefnandi er búsettur [utan Evrópska efnahagssvæðisins][^1)^] [eða aðildarríkis stofnsamnings Fríverslunarsamtaka Evrópu][^2)^] og menn, sem eru búsettir hér á landi, eru ekki undanþegnir því að setja slíka tryggingu í heimalandi hans,
     b. leiða má líkur að því að stefnandi sé ófær um greiðslu málskostnaðar.
  □ 2. Dómari ákveður hvort stefnanda verði gert að setja tryggingu, hverrar fjárhæðar og í hverju formi hún verði og innan hvers frests það skuli gert. Leyst verður úr ágreiningi um þetta í úrskurði.
  □ 3. Ef stefnandi setur ekki tryggingu eftir ákvörðun dómara skal máli vísað frá dómi.
-    _[^1)^]_"L. 97/1999, 1. gr.":/altext/stjt/1999.097.html
+    _[^1)^]_"L. 97/1999, 1. gr.":/altext/stjt/1999.097.html [^2)^]"L. 72/2003, 3. gr.":/altext/stjt/2003.072.html
 
  *XXII. kafli.* *Réttarfarssektir.*
  ■ *134. gr.* 1. Dómari ákveður sektir samkvæmt reglum þessa kafla af sjálfsdáðum og renna þær í ríkissjóð.
@@ -600,7 +602,7 @@ h2. Lög um meðferð einkamála
  □ 3. Beiðni um endurupptöku verður ekki sinnt nema stefndi setji áður tryggingu, sem dómari tekur gilda, fyrir greiðslu þess málskostnaðar sem var lagður á hann í dómi eða áritaðri stefnu eða hann sanni að hann hafi greitt málskostnaðinn. Frá þessu má þó víkja með samþykki stefnanda.
  □ 4. Stefndi getur ekki beiðst endurupptöku ef stefnandi hefur áfrýjað máli til æðra dóms.
  □ 5. Þegar frestur skv. 2. mgr. er liðinn verður mál ekki tekið upp í héraði nema eftir ákvörðun Hæstaréttar, sbr. 1. mgr. 157. gr.[^1)^]
-    _[^1)^]Nú_ "167. gr.":/altext/stjt/1999.097.html
+    _[^1)^]Nú_ "167. gr.":/altext/stjt/2003.072.html
  ■ *138. gr.* 1. Beiðni um endurupptöku skal beint til þess dóms þar sem dómur gekk eða stefna var árituð. Í beiðni skal greint skýrlega frá því hverra breytinga stefndi krefjist á fyrri málsúrslitum og á hverjum málsástæðum, réttarheimildum og sönnunargögnum það sé byggt, svo og hvenær og hvernig stefnda varð kunnugt um málsúrslit. Ef endurupptöku er beiðst skv. 2. mgr. 137. gr. skal að auki rökstutt að einhverju þargreindu skilyrði sé fullnægt. Gögn skulu fylgja beiðni.
  □ 2. Ef beiðni er ófullnægjandi eða berst röngum dómi eða dómari telur sýnt að skilyrðum 137. gr. sé ekki fullnægt synjar hann þegar í stað um endurupptöku, en úrskurður skal kveðinn upp um synjunina ef krafist er. Að öðrum kosti boðar dómari báða aðila fyrir dóm til að taka beiðni fyrir.
  □ 3. Sæki stefndi ekki þing þegar beiðni hans er tekin fyrir telst hún fallin niður. Sæki stefnandi þing getur dómari úrskurðað honum ómaksþóknun úr hendi stefnda að kröfu hans. Ekki verður þá beiðst endurupptöku öðru sinni.
