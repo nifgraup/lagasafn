@@ -15,49 +15,49 @@ h2. Lög um félagsþjónustu sveitarfélaga
 
 1. gr.
 
-     Markmið félagsþjónustu á vegum sveitarfélaga er að tryggja fjárhagslegt og félagslegt öryggi og stuðla að velferð íbúa á grundvelli samhjálpar. Skal það gert með því
+        Markmið félagsþjónustu á vegum sveitarfélaga er að tryggja fjárhagslegt og félagslegt öryggi og stuðla að velferð íbúa á grundvelli samhjálpar. Skal það gert með því
 
 <dl>
-<dt>a.</dt>
-<dd>að bæta lífskjör þeirra sem standa höllum fæti,</dd>
-<dt>b.</dt>
-<dd>að tryggja þroskavænleg uppeldisskilyrði barna og ungmenna,</dd>
-<dt>c.</dt>
-<dd>að veita aðstoð til þess að íbúar geti búið sem lengst í heimahúsum, stundað atvinnu og lifað sem eðlilegustu lífi,</dd>
-<dt>d.</dt>
-<dd>að grípa til aðgerða til að koma í veg fyrir félagsleg vandamál.</dd>
+<dt></dt>
+<dd>a. að bæta lífskjör þeirra sem standa höllum fæti,</dd>
+<dt></dt>
+<dd>b. að tryggja þroskavænleg uppeldisskilyrði barna og ungmenna,</dd>
+<dt></dt>
+<dd>c. að veita aðstoð til þess að íbúar geti búið sem lengst í heimahúsum, stundað atvinnu og lifað sem eðlilegustu lífi,</dd>
+<dt></dt>
+<dd>d. að grípa til aðgerða til að koma í veg fyrir félagsleg vandamál.</dd>
 </dl>
 
 
-      Við framkvæmd félagsþjónustunnar skal þess gætt að hvetja einstaklinginn til ábyrgðar á sjálfum sér og öðrum, virða sjálfsákvörðunarrétt hans og styrkja hann til sjálfshjálpar.
+         Við framkvæmd félagsþjónustunnar skal þess gætt að hvetja einstaklinginn til ábyrgðar á sjálfum sér og öðrum, virða sjálfsákvörðunarrétt hans og styrkja hann til sjálfshjálpar.
 
 
 
 2. gr.
 
-     Með félagsþjónustu er í lögum þessum átt við þjónustu, aðstoð og ráðgjöf í tengslum við eftirtalda málaflokka:
+        Með félagsþjónustu er í lögum þessum átt við þjónustu, aðstoð og ráðgjöf í tengslum við eftirtalda málaflokka:
 
 <dl>
-<dt>1.</dt>
-<dd>Félagslega ráðgjöf.</dd>
-<dt>2.</dt>
-<dd>Fjárhagsaðstoð.</dd>
-<dt>3.</dt>
-<dd>Félagslega heimaþjónustu.</dd>
-<dt>4.</dt>
-<dd>Málefni barna og ungmenna.</dd>
-<dt>5.</dt>
-<dd>Þjónustu við unglinga.</dd>
-<dt>6.</dt>
-<dd>Þjónustu við aldraða.</dd>
-<dt>7.</dt>
-<dd>Þjónustu við fatlaða.</dd>
-<dt>8.</dt>
-<dd>Húsnæðismál.</dd>
-<dt>9.</dt>
-<dd>Aðstoð við áfengissjúka og vímugjafavarnir.</dd>
-<dt>10.</dt>
-<dd>Atvinnuleysisskráningu og vinnumiðlun.</dd>
+<dt></dt>
+<dd>1. Félagslega ráðgjöf.</dd>
+<dt></dt>
+<dd>2. Fjárhagsaðstoð.</dd>
+<dt></dt>
+<dd>3. Félagslega heimaþjónustu.</dd>
+<dt></dt>
+<dd>4. Málefni barna og ungmenna.</dd>
+<dt></dt>
+<dd>5. Þjónustu við unglinga.</dd>
+<dt></dt>
+<dd>6. Þjónustu við aldraða.</dd>
+<dt></dt>
+<dd>7. Þjónustu við fatlaða.</dd>
+<dt></dt>
+<dd>8. Húsnæðismál.</dd>
+<dt></dt>
+<dd>9. Aðstoð við áfengissjúka og vímugjafavarnir.</dd>
+<dt></dt>
+<dd>10. Atvinnuleysisskráningu og vinnumiðlun.</dd>
 </dl>
 
 
@@ -72,7 +72,7 @@ _Yfirstjórn._
 
 3. gr.
 
-     Félagsþjónusta sveitarfélaga heyrir undir félagsmálaráðuneyti sem hefur eftirlit með því að sveitarfélögin veiti lögboðna þjónustu.
+        Félagsþjónusta sveitarfélaga heyrir undir félagsmálaráðuneyti sem hefur eftirlit með því að sveitarfélögin veiti lögboðna þjónustu.
 
 
 
@@ -80,14 +80,14 @@ _Sveitarstjórnir og félagsmálanefndir._
 
 4. gr.
 
-     Sveitarfélag ber ábyrgð á félagsþjónustu innan sinna marka og skal með skipulagðri félagsþjónustu tryggja framgang markmiða skv. 1. gr. þessara laga.
+        Sveitarfélag ber ábyrgð á félagsþjónustu innan sinna marka og skal með skipulagðri félagsþjónustu tryggja framgang markmiða skv. 1. gr. þessara laga.
 
 
 
 5. gr.
 
-     Sveitarstjórn skal kjósa félagsmálanefnd eða félagsmálaráð, hér eftir í lögum þessum nefnd félagsmálanefnd, sem fer með stjórn og framkvæmd félagsþjónustu í sveitarfélaginu í umboði sveitarstjórnar.
-      Félagsmálanefnd skal skipuð þremur fulltrúum hið fæsta [en þó a.m.k. fimm fulltrúum ef félagsmálanefnd eru falin verkefni barnaverndarnefndar].[^1)^] Að öðru leyti ákveður sveitarstjórn fjölda nefndarmanna og setur um starfsemi nefndarinnar reglur sem sendar skulu félagsmálaráðuneyti.
+        Sveitarstjórn skal kjósa félagsmálanefnd eða félagsmálaráð, hér eftir í lögum þessum nefnd félagsmálanefnd, sem fer með stjórn og framkvæmd félagsþjónustu í sveitarfélaginu í umboði sveitarstjórnar.
+         Félagsmálanefnd skal skipuð þremur fulltrúum hið fæsta [en þó a.m.k. fimm fulltrúum ef félagsmálanefnd eru falin verkefni barnaverndarnefndar].[^1)^] Að öðru leyti ákveður sveitarstjórn fjölda nefndarmanna og setur um starfsemi nefndarinnar reglur sem sendar skulu félagsmálaráðuneyti.
 
 
 _[^1)^]"L. 34/1997, 1. gr.":/altext/stjt/1997.034.html_
@@ -99,8 +99,8 @@ _Undirnefndir félagsmálanefnda._
 
 6. gr.
 
-     Sveitarstjórn getur í sérstökum tilvikum skipað undirnefndir félagsmálanefndar að tilskildu samþykki hennar. Hver undirnefnd skal skipuð a.m.k. þremur fulltrúum ...[^1)^] Sveitarstjórn skal setja reglur um verksvið og starfshætti slíkra undirnefnda að fengnum tillögum félagsmálanefndar.
-      Undirnefnd fer með sérstök verkefni sem afmarkast við málaflokk eða ákveðinn hluta sveitarfélags. Heimilt er að fela undirnefnd ákvörðunarvald og ábyrgð sem félagsmálanefnd fer með samkvæmt lögum þessum og öðrum lagaákvæðum. Þó skal undirbúningur fjárhagsáætlunar og tillögugerð í sambandi við hana ætíð vera á ábyrgð félagsmálanefndar, svo og eftirlit með framkvæmd fjárhagsáætlunar.
+        Sveitarstjórn getur í sérstökum tilvikum skipað undirnefndir félagsmálanefndar að tilskildu samþykki hennar. Hver undirnefnd skal skipuð a.m.k. þremur fulltrúum ...[^1)^] Sveitarstjórn skal setja reglur um verksvið og starfshætti slíkra undirnefnda að fengnum tillögum félagsmálanefndar.
+         Undirnefnd fer með sérstök verkefni sem afmarkast við málaflokk eða ákveðinn hluta sveitarfélags. Heimilt er að fela undirnefnd ákvörðunarvald og ábyrgð sem félagsmálanefnd fer með samkvæmt lögum þessum og öðrum lagaákvæðum. Þó skal undirbúningur fjárhagsáætlunar og tillögugerð í sambandi við hana ætíð vera á ábyrgð félagsmálanefndar, svo og eftirlit með framkvæmd fjárhagsáætlunar.
 
 
 _[^1)^]"L. 34/1997, 2. gr.":/altext/stjt/1997.034.html_
@@ -112,9 +112,9 @@ _Samvinna sveitarfélaga._
 
 7. gr.
 
-     Sveitarstjórnir geta falið héraðsnefndum verkefni skv. 2. gr.
-      Sveitarstjórnir geta ákveðið að vinna saman að einstökum verkefnum á sviði félagsþjónustu ...[^1)^] eftir því sem henta þykir á hverjum stað. Enn fremur geta einstök sveitarfélög gert með sér sérstakt samkomulag um sameiginlega félagsþjónustu eða einstaka þætti hennar.
-      Hafi sveitarfélög falið héraðsnefnd öll verkefni félagsmálanefndar, sbr. 1. mgr., eða ákveðið að vinna saman að öllum verkefnum nefndarinnar samkvæmt sérstöku samkomulagi, sbr. 2. mgr., er viðkomandi sveitarfélögum heimilt að skipa sameiginlega félagsmálanefnd. Tekur sú nefnd þá við hlutverki félagsmálanefnda einstakra sveitarfélaga.
+        Sveitarstjórnir geta falið héraðsnefndum verkefni skv. 2. gr.
+         Sveitarstjórnir geta ákveðið að vinna saman að einstökum verkefnum á sviði félagsþjónustu ...[^1)^] eftir því sem henta þykir á hverjum stað. Enn fremur geta einstök sveitarfélög gert með sér sérstakt samkomulag um sameiginlega félagsþjónustu eða einstaka þætti hennar.
+         Hafi sveitarfélög falið héraðsnefnd öll verkefni félagsmálanefndar, sbr. 1. mgr., eða ákveðið að vinna saman að öllum verkefnum nefndarinnar samkvæmt sérstöku samkomulagi, sbr. 2. mgr., er viðkomandi sveitarfélögum heimilt að skipa sameiginlega félagsmálanefnd. Tekur sú nefnd þá við hlutverki félagsmálanefnda einstakra sveitarfélaga.
 
 
 _[^1)^]"L. 34/1997, 3. gr.":/altext/stjt/1997.034.html_
@@ -126,19 +126,19 @@ _Félagsmálastofnanir og starfsmenn félagsmálanefnda._
 
 8. gr.
 
-     Heimilt er að fela sérstakri félagsmálastofnun að sjá um framkvæmd félagsþjónustu undir stjórn félagsmálanefndar.
+        Heimilt er að fela sérstakri félagsmálastofnun að sjá um framkvæmd félagsþjónustu undir stjórn félagsmálanefndar.
 
 
 
 9. gr.
 
-     Í þeim sveitarfélögum, þar sem ekki er sérstök félagsmálastofnun, er heimilt að fela starfsmönnum að sjá um framkvæmd félagsþjónustu undir stjórn félagsmálanefndar.
+        Í þeim sveitarfélögum, þar sem ekki er sérstök félagsmálastofnun, er heimilt að fela starfsmönnum að sjá um framkvæmd félagsþjónustu undir stjórn félagsmálanefndar.
 
 
 
 10. gr.
 
-     Félagsmálanefnd er heimilt að fela starfsmönnum afgreiðslu ákveðinna mála og skulu um það settar reglur sem sveitarstjórn staðfestir. Ákvörðunum starfsmanna skal þó ætíð unnt að skjóta til félagsmálanefndar.
+        Félagsmálanefnd er heimilt að fela starfsmönnum afgreiðslu ákveðinna mála og skulu um það settar reglur sem sveitarstjórn staðfestir. Ákvörðunum starfsmanna skal þó ætíð unnt að skjóta til félagsmálanefndar.
 
 
 
@@ -148,29 +148,29 @@ _Félagsmálastofnanir og starfsmenn félagsmálanefnda._
 
 11. gr.
 
-     Hlutverk félagsmálanefnda er
+        Hlutverk félagsmálanefnda er
 
 <dl>
-<dt>1.</dt>
-<dd>að fara með stjórn og framkvæmd félagsþjónustu í sveitarfélaginu í samræmi við reglur sem sveitarstjórn setur,</dd>
-<dt>2.</dt>
-<dd>að leitast við að tryggja að félagsleg þjónusta verði sem mest í samræmi við þarfir íbúa,</dd>
-<dt>3.</dt>
-<dd>að gera tillögur til sveitarstjórnar um stefnumörkun á sviði félagsþjónustu í sveitarfélaginu,</dd>
-<dt>4.</dt>
-<dd>að gera tillögur að fjárhagsáætlun til sveitarstjórnar um útgjaldaliði félagsmála,</dd>
-<dt>5.</dt>
-<dd>að vinna með öðrum opinberum aðilum, svo og félögum, félagasamtökum og einstaklingum, að því að bæta félagslegar aðstæður og umhverfi í sveitarfélaginu,</dd>
-<dt>6.</dt>
-<dd>að veita upplýsingar um félagsþjónustu í sveitarfélaginu,</dd>
-<dt>7.</dt>
-<dd>að veita einstaklingum og fjölskyldum aðstoð með ráðgjöf, fjárhagslegri fyrirgreiðslu og annarri þjónustu,</dd>
-<dt>8.</dt>
-<dd>að hafa yfirumsjón með starfsemi og rekstri stofnana á sviði félagsþjónustu í umboði sveitarstjórnar,</dd>
-<dt>9.</dt>
-<dd>að beita sér fyrir forvörnum sem eru til þess fallnar að tryggja stöðu einstaklinga og fjölskyldna,</dd>
-<dt>10.</dt>
-<dd>að stuðla að þjálfun og menntun starfsliðs, m.a. með námskeiðum.</dd>
+<dt></dt>
+<dd>1. að fara með stjórn og framkvæmd félagsþjónustu í sveitarfélaginu í samræmi við reglur sem sveitarstjórn setur,</dd>
+<dt></dt>
+<dd>2. að leitast við að tryggja að félagsleg þjónusta verði sem mest í samræmi við þarfir íbúa,</dd>
+<dt></dt>
+<dd>3. að gera tillögur til sveitarstjórnar um stefnumörkun á sviði félagsþjónustu í sveitarfélaginu,</dd>
+<dt></dt>
+<dd>4. að gera tillögur að fjárhagsáætlun til sveitarstjórnar um útgjaldaliði félagsmála,</dd>
+<dt></dt>
+<dd>5. að vinna með öðrum opinberum aðilum, svo og félögum, félagasamtökum og einstaklingum, að því að bæta félagslegar aðstæður og umhverfi í sveitarfélaginu,</dd>
+<dt></dt>
+<dd>6. að veita upplýsingar um félagsþjónustu í sveitarfélaginu,</dd>
+<dt></dt>
+<dd>7. að veita einstaklingum og fjölskyldum aðstoð með ráðgjöf, fjárhagslegri fyrirgreiðslu og annarri þjónustu,</dd>
+<dt></dt>
+<dd>8. að hafa yfirumsjón með starfsemi og rekstri stofnana á sviði félagsþjónustu í umboði sveitarstjórnar,</dd>
+<dt></dt>
+<dd>9. að beita sér fyrir forvörnum sem eru til þess fallnar að tryggja stöðu einstaklinga og fjölskyldna,</dd>
+<dt></dt>
+<dd>10. að stuðla að þjálfun og menntun starfsliðs, m.a. með námskeiðum.</dd>
 </dl>
 
 
@@ -183,35 +183,35 @@ _Félagsmálastofnanir og starfsmenn félagsmálanefnda._
 
 12. gr.
 
-     Sveitarfélag skal sjá um að veita íbúum þjónustu og aðstoð samkvæmt lögum þessum og jafnframt tryggja að þeir geti séð fyrir sér og sínum.
-      Aðstoð og þjónusta skal jöfnum höndum vera til þess fallin að bæta úr vanda og koma í veg fyrir að einstaklingar og fjölskyldur komist í þá aðstöðu að geta ekki ráðið fram úr málum sínum sjálf.
+        Sveitarfélag skal sjá um að veita íbúum þjónustu og aðstoð samkvæmt lögum þessum og jafnframt tryggja að þeir geti séð fyrir sér og sínum.
+         Aðstoð og þjónusta skal jöfnum höndum vera til þess fallin að bæta úr vanda og koma í veg fyrir að einstaklingar og fjölskyldur komist í þá aðstöðu að geta ekki ráðið fram úr málum sínum sjálf.
 
 
 
 13. gr.
 
-     Með íbúa sveitarfélags er í lögum þessum átt við hvern þann sem lögheimili á í viðkomandi sveitarfélagi.
-      Verði eigi upplýst um lögheimili manns er leitar aðstoðar skal honum veitt aðstoð þar sem hann dvelur.
-      Flytjist maður milli sveitarfélaga skal hann eiga rétt til þjónustu í því sveitarfélagi er hann flyst til þegar hann hefur tekið sér þar lögheimili. Enginn öðlast þó rétt til þjónustu eða aðstoðar í öðru sveitarfélagi með dvöl sem ekki er ígildi fastrar búsetu, sbr. lög um lögheimili.
+        Með íbúa sveitarfélags er í lögum þessum átt við hvern þann sem lögheimili á í viðkomandi sveitarfélagi.
+         Verði eigi upplýst um lögheimili manns er leitar aðstoðar skal honum veitt aðstoð þar sem hann dvelur.
+         Flytjist maður milli sveitarfélaga skal hann eiga rétt til þjónustu í því sveitarfélagi er hann flyst til þegar hann hefur tekið sér þar lögheimili. Enginn öðlast þó rétt til þjónustu eða aðstoðar í öðru sveitarfélagi með dvöl sem ekki er ígildi fastrar búsetu, sbr. lög um lögheimili.
 
 
 
 14. gr.
 
-     Þurfi fólk á aðstoð að halda utan heimilissveitar sinnar sökum slysa, veikinda eða af öðrum brýnum orsökum er dvalarsveit skylt að veita tímabundna aðstoð. Skal um það haft samráð við heimilissveit sem endurgreiðir kostnað að fullu.
+        Þurfi fólk á aðstoð að halda utan heimilissveitar sinnar sökum slysa, veikinda eða af öðrum brýnum orsökum er dvalarsveit skylt að veita tímabundna aðstoð. Skal um það haft samráð við heimilissveit sem endurgreiðir kostnað að fullu.
 
 
 
 15. gr.
 
-     [Erlendum ríkisborgurum sem ekki eiga lögheimili í landinu skal í sérstökum tilvikum veitt fjárhagsaðstoð hér á landi. Aðstoð skal veitt af dvalarsveitarfélagi að höfðu samráði við félagsmálaráðuneytið, enda hafi áður verið leitað eftir aðstoð frá heimalandi. Félagsmálaráðherra er heimilt að setja nánari reglur um aðstoð samkvæmt ákvæði þessu.
-      Ríkissjóður skal endurgreiða sveitarfélagi veitta aðstoð vegna erlendra ríkisborgara í eftirfarandi tilvikum:
+        [Erlendum ríkisborgurum sem ekki eiga lögheimili í landinu skal í sérstökum tilvikum veitt fjárhagsaðstoð hér á landi. Aðstoð skal veitt af dvalarsveitarfélagi að höfðu samráði við félagsmálaráðuneytið, enda hafi áður verið leitað eftir aðstoð frá heimalandi. Félagsmálaráðherra er heimilt að setja nánari reglur um aðstoð samkvæmt ákvæði þessu.
+         Ríkissjóður skal endurgreiða sveitarfélagi veitta aðstoð vegna erlendra ríkisborgara í eftirfarandi tilvikum:
 
 <dl>
-<dt>a.</dt>
-<dd>Aðstoð við erlenda ríkisborgara sem ekki eiga lögheimili í landinu, sbr. 1. mgr.</dd>
-<dt>b.</dt>
-<dd>Aðstoð við erlenda ríkisborgara skv. 12. - 13. gr. laganna sem átt hafa lögheimili í landinu skemur en tvö ár.][^1)^]</dd>
+<dt></dt>
+<dd>a. Aðstoð við erlenda ríkisborgara sem ekki eiga lögheimili í landinu, sbr. 1. mgr.</dd>
+<dt></dt>
+<dd>b. Aðstoð við erlenda ríkisborgara skv. 12. - 13. gr. laganna sem átt hafa lögheimili í landinu skemur en tvö ár.][^1)^]</dd>
 </dl>
 
 
@@ -228,7 +228,7 @@ _[^1)^]"L. 34/1997, 4. gr.":/altext/stjt/1997.034.html_
 
 16. gr.
 
-     Félagsmálanefndir skulu ...[^1)^] bjóða upp á félagslega ráðgjöf. Markmið hennar er að veita upplýsingar og leiðbeiningar um félagsleg réttindamál annars vegar og stuðning vegna félagslegs og persónulegs vanda hins vegar.
+        Félagsmálanefndir skulu ...[^1)^] bjóða upp á félagslega ráðgjöf. Markmið hennar er að veita upplýsingar og leiðbeiningar um félagsleg réttindamál annars vegar og stuðning vegna félagslegs og persónulegs vanda hins vegar.
 
 
 _[^1)^]"L. 34/1997, 5. gr.":/altext/stjt/1997.034.html_
@@ -238,13 +238,13 @@ _[^1)^]"L. 34/1997, 5. gr.":/altext/stjt/1997.034.html_
 
 17. gr.
 
-     Félagsleg ráðgjöf tekur m.a. til ráðgjafar á sviði fjármála, húsnæðismála, uppeldismála, skilnaðarmála, þar með talinna forsjár- og umgengnismála, ættleiðingarmála o.fl. Henni skal ætíð beitt í eðlilegu samhengi við aðra aðstoð samkvæmt lögum þessum og í samvinnu við aðra þá aðila sem bjóða upp á slíka þjónustu, svo sem skóla og heilsugæslustöðvar eftir því sem við á.
+        Félagsleg ráðgjöf tekur m.a. til ráðgjafar á sviði fjármála, húsnæðismála, uppeldismála, skilnaðarmála, þar með talinna forsjár- og umgengnismála, ættleiðingarmála o.fl. Henni skal ætíð beitt í eðlilegu samhengi við aðra aðstoð samkvæmt lögum þessum og í samvinnu við aðra þá aðila sem bjóða upp á slíka þjónustu, svo sem skóla og heilsugæslustöðvar eftir því sem við á.
 
 
 
 18. gr.
 
-     Félagsmálanefndir skulu leitast við að hafa á að skipa menntuðu starfsfólki í félagsráðgjöf eða á hliðstæðu sviði til þess að annast félagslega ráðgjöf. [Ef sveitarfélag ræður starfsmann skal hann hafa viðhlítandi menntun.][^1)^]
+        Félagsmálanefndir skulu leitast við að hafa á að skipa menntuðu starfsfólki í félagsráðgjöf eða á hliðstæðu sviði til þess að annast félagslega ráðgjöf. [Ef sveitarfélag ræður starfsmann skal hann hafa viðhlítandi menntun.][^1)^]
 
 
 _[^1)^]"L. 34/1997, 6. gr.":/altext/stjt/1997.034.html_
@@ -258,8 +258,8 @@ _[^1)^]"L. 34/1997, 6. gr.":/altext/stjt/1997.034.html_
 
 19. gr.
 
-     Skylt er hverjum manni að framfæra sjálfan sig, maka sinn og börn yngri en 18 ára.
-      [Sama rétt til fjárhagsaðstoðar og hjón hafa samkvæmt lögum þessum einnig karl og kona sem búa saman og eru bæði ógift, enda hafi sambúðin verið skráð í þjóðskrá í a.m.k. eitt ár áður en umsókn er lögð fram.][^1)^]
+        Skylt er hverjum manni að framfæra sjálfan sig, maka sinn og börn yngri en 18 ára.
+         [Sama rétt til fjárhagsaðstoðar og hjón hafa samkvæmt lögum þessum einnig karl og kona sem búa saman og eru bæði ógift, enda hafi sambúðin verið skráð í þjóðskrá í a.m.k. eitt ár áður en umsókn er lögð fram.][^1)^]
 
 
 _[^1)^]"L. 130/1995, 1. gr.":/altext/stjt/1995.130.html_
@@ -269,15 +269,15 @@ _[^1)^]"L. 130/1995, 1. gr.":/altext/stjt/1995.130.html_
 
 20. gr.
 
-     Um skyldur sveitarfélags til að veita fjárhagsaðstoð gilda almenn ákvæði um félagsþjónustu skv. IV. kafla.
+        Um skyldur sveitarfélags til að veita fjárhagsaðstoð gilda almenn ákvæði um félagsþjónustu skv. IV. kafla.
 
 
 
 21. gr.
 
-     [Sveitarstjórn skal setja reglur um framkvæmd fjárhagsaðstoðar, sbr. 2. mgr., að fengnum tillögum félagsmálanefndar.
-      Félagsmálanefnd metur þörf og ákveður fjárhagsaðstoð til einstaklinga í samræmi við reglur sveitarstjórnar, sbr. 1. mgr.
-      Fjárhagsaðstoð er aldrei skylt að veita lengra aftur í tímann en fjóra mánuði frá því að umsókn er lögð fram.][^1)^]
+        [Sveitarstjórn skal setja reglur um framkvæmd fjárhagsaðstoðar, sbr. 2. mgr., að fengnum tillögum félagsmálanefndar.
+         Félagsmálanefnd metur þörf og ákveður fjárhagsaðstoð til einstaklinga í samræmi við reglur sveitarstjórnar, sbr. 1. mgr.
+         Fjárhagsaðstoð er aldrei skylt að veita lengra aftur í tímann en fjóra mánuði frá því að umsókn er lögð fram.][^1)^]
 
 
 _[^1)^]"L. 34/1997, 7. gr.":/altext/stjt/1997.034.html_
@@ -287,8 +287,8 @@ _[^1)^]"L. 34/1997, 7. gr.":/altext/stjt/1997.034.html_
 
 22. gr.
 
-     Fjárhagsaðstoð sveitarfélags getur hvort heldur sem er verið lán eða styrkur. Fjárhagsaðstoð skal veitt sem lán ef umsækjandi óskar þess eða könnun á aðstæðum leiðir í ljós að eðlilegt er að gera kröfur um endurgreiðslu með tilliti til eigna og framtíðartekna.
-      [Félagsmálanefnd er óheimilt að breyta styrk í lán nema viðkomandi óski þess.][^1)^]
+        Fjárhagsaðstoð sveitarfélags getur hvort heldur sem er verið lán eða styrkur. Fjárhagsaðstoð skal veitt sem lán ef umsækjandi óskar þess eða könnun á aðstæðum leiðir í ljós að eðlilegt er að gera kröfur um endurgreiðslu með tilliti til eigna og framtíðartekna.
+         [Félagsmálanefnd er óheimilt að breyta styrk í lán nema viðkomandi óski þess.][^1)^]
 
 
 _[^1)^]"L. 34/1997, 8. gr.":/altext/stjt/1997.034.html_
@@ -298,14 +298,14 @@ _[^1)^]"L. 34/1997, 8. gr.":/altext/stjt/1997.034.html_
 
 23. gr.
 
-     Fjárhagsaðstoð, veitt á grundvelli rangra eða villandi upplýsinga af hendi þess sem aðstoðina fær, er ætíð endurkræf.
+        Fjárhagsaðstoð, veitt á grundvelli rangra eða villandi upplýsinga af hendi þess sem aðstoðina fær, er ætíð endurkræf.
 
 
 
 24. gr.
 
-     Skylt er að veita félagsmálanefndum hverjar þær upplýsingar úr skattskýrslum þeirra sem leita fjárhagsaðstoðar eða hafa fengið hana. Sama gildir um upplýsingar úr skattskýrslum lögskylds framfæranda.
-      Atvinnurekendum er skylt að láta félagsmálanefndum í té upplýsingar um laun þess sem fjárhagsaðstoðar leitar og framfærenda hans.
+        Skylt er að veita félagsmálanefndum hverjar þær upplýsingar úr skattskýrslum þeirra sem leita fjárhagsaðstoðar eða hafa fengið hana. Sama gildir um upplýsingar úr skattskýrslum lögskylds framfæranda.
+         Atvinnurekendum er skylt að láta félagsmálanefndum í té upplýsingar um laun þess sem fjárhagsaðstoðar leitar og framfærenda hans.
 
 
 
@@ -315,7 +315,7 @@ _[^1)^]"L. 34/1997, 8. gr.":/altext/stjt/1997.034.html_
 
 [25. gr.][^1)^]
 
-     Sveitarfélag skal sjá um félagslega heimaþjónustu til handa þeim sem búa í heimahúsum og geta ekki séð hjálparlaust um heimilishald og persónulega umhirðu vegna skertrar getu, fjölskylduaðstæðna, álags, veikinda, barnsburðar eða fötlunar.
+        Sveitarfélag skal sjá um félagslega heimaþjónustu til handa þeim sem búa í heimahúsum og geta ekki séð hjálparlaust um heimilishald og persónulega umhirðu vegna skertrar getu, fjölskylduaðstæðna, álags, veikinda, barnsburðar eða fötlunar.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -325,7 +325,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [26. gr.][^1)^]
 
-     Með félagslegri heimaþjónustu skal stefnt að því að efla viðkomandi til sjálfsbjargar og gera honum kleift að búa sem lengst í heimahúsum við sem eðlilegastar aðstæður.
+        Með félagslegri heimaþjónustu skal stefnt að því að efla viðkomandi til sjálfsbjargar og gera honum kleift að búa sem lengst í heimahúsum við sem eðlilegastar aðstæður.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -335,7 +335,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [27. gr.][^1)^]
 
-     Með félagslegri heimaþjónustu er átt við hvers konar aðstoð við heimilishald, persónulega umhirðu, félagslegan stuðning, gæslu og umönnun barna og unglinga.
+        Með félagslegri heimaþjónustu er átt við hvers konar aðstoð við heimilishald, persónulega umhirðu, félagslegan stuðning, gæslu og umönnun barna og unglinga.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -345,7 +345,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [28. gr.][^1)^]
 
-     Áður en aðstoð er veitt skal sá aðili, sem fer með heimaþjónustu, meta þörf í hverju einstöku tilviki. Læknisvottorð skal liggja fyrir þegar um heilsufarsástæður er að ræða.
+        Áður en aðstoð er veitt skal sá aðili, sem fer með heimaþjónustu, meta þörf í hverju einstöku tilviki. Læknisvottorð skal liggja fyrir þegar um heilsufarsástæður er að ræða.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -355,8 +355,8 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [29. gr.][^1)^]
 
-     Sveitarstjórn setur nánari reglur um framkvæmd félagslegrar heimaþjónustu.
-      [Heimilt er sveitarstjórn að taka gjald fyrir heimaþjónustu samkvæmt gjaldskrá.][^2)^]
+        Sveitarstjórn setur nánari reglur um framkvæmd félagslegrar heimaþjónustu.
+         [Heimilt er sveitarstjórn að taka gjald fyrir heimaþjónustu samkvæmt gjaldskrá.][^2)^]
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html[^2)^]"L. 34/1997, 10. gr.":/altext/stjt/1997.034.html_
@@ -370,8 +370,8 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html[^2)^]"L. 34/1997, 10. gr.
 
 [30. gr.][^1)^]
 
-     Félagsmálanefnd er skylt, í samvinnu við foreldra, forráðamenn og aðra þá aðila sem hafa með höndum uppeldi, fræðslu og heilsugæslu barna og ungmenna, að gæta velferðar og hagsmuna þeirra í hvívetna.
-      Félagsmálanefnd skal sjá til þess að börn fái notið hollra og þroskavænlegra uppvaxtarskilyrða, t.d. leikskóla og tómstundaiðju. Einnig skal félagsmálanefnd gæta þess að aðbúnaði barna sé ekki áfátt og ekki séu þær aðstæður í umhverfi barna sem þeim stafar hætta af.
+        Félagsmálanefnd er skylt, í samvinnu við foreldra, forráðamenn og aðra þá aðila sem hafa með höndum uppeldi, fræðslu og heilsugæslu barna og ungmenna, að gæta velferðar og hagsmuna þeirra í hvívetna.
+         Félagsmálanefnd skal sjá til þess að börn fái notið hollra og þroskavænlegra uppvaxtarskilyrða, t.d. leikskóla og tómstundaiðju. Einnig skal félagsmálanefnd gæta þess að aðbúnaði barna sé ekki áfátt og ekki séu þær aðstæður í umhverfi barna sem þeim stafar hætta af.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -381,7 +381,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [31. gr.][^1)^]
 
-     Sveitarstjórn getur falið félagsmálanefnd verkefni barnaverndarnefndar og fer þá um framkvæmd og meðferð þeirra mála eftir lögum um vernd barna og ungmenna.
+        Sveitarstjórn getur falið félagsmálanefnd verkefni barnaverndarnefndar og fer þá um framkvæmd og meðferð þeirra mála eftir lögum um vernd barna og ungmenna.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -391,8 +391,8 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [32. gr.][^1)^]
 
-     Sveitarfélög annast uppbyggingu og rekstur leikskóla og tekur sveitarstjórn ákvörðun um stjórn þeirra.
-      Leikskólar eru reknir samkvæmt sérstökum lögum.
+        Sveitarfélög annast uppbyggingu og rekstur leikskóla og tekur sveitarstjórn ákvörðun um stjórn þeirra.
+         Leikskólar eru reknir samkvæmt sérstökum lögum.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -402,8 +402,8 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [33. gr.][^1)^]
 
-     Sveitarstjórnir skulu eftir föngum tryggja framboð á leikskólarými. Til þess að sú þjónusta verði í sem bestu samræmi við þarfir barna í sveitarfélaginu skal það láta fara fram mat á þörfinni eigi sjaldnar en á tveggja ára fresti.
-      ...[^2)^]
+        Sveitarstjórnir skulu eftir föngum tryggja framboð á leikskólarými. Til þess að sú þjónusta verði í sem bestu samræmi við þarfir barna í sveitarfélaginu skal það láta fara fram mat á þörfinni eigi sjaldnar en á tveggja ára fresti.
+         ...[^2)^]
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html[^2)^]"L. 34/1997, 11. gr.":/altext/stjt/1997.034.html_
@@ -413,7 +413,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html[^2)^]"L. 34/1997, 11. gr.
 
 [34. gr.][^1)^]
 
-     Félagsmálanefnd, eða önnur nefnd samkvæmt ákvörðun sveitarstjórnar, skal veita leyfi til daggæslu barna í heimahúsum og annast rekstur gæsluvalla fyrir börn. Félagsmálaráðherra setur reglugerð[^2)^] um starfsemi og rekstur gæsluvalla og daggæslu í heimahúsum.
+        Félagsmálanefnd, eða önnur nefnd samkvæmt ákvörðun sveitarstjórnar, skal veita leyfi til daggæslu barna í heimahúsum og annast rekstur gæsluvalla fyrir börn. Félagsmálaráðherra setur reglugerð[^2)^] um starfsemi og rekstur gæsluvalla og daggæslu í heimahúsum.
 
 
 
@@ -425,7 +425,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html[^2)^]Rg. 198/1992._
 
 [35. gr.][^1)^]
 
-     Að tilhlutan sveitarfélaga skal vera skipulagt forvarnastarf í unglingamálum sem miðar að því að beina athafnaþörf æskufólks á heillavænlegar brautir.
+        Að tilhlutan sveitarfélaga skal vera skipulagt forvarnastarf í unglingamálum sem miðar að því að beina athafnaþörf æskufólks á heillavænlegar brautir.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -435,8 +435,8 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [36. gr.][^1)^]
 
-     Félagsmálanefnd skal sjá um þá þætti unglingaþjónustunnar sem varða málefni einstaklinga, t.d. ráðgjöf, útideildarstarfsemi (leitarstarf) og rekstur unglingaathvarfa eftir því sem þörf er á.
-      Heimilt er að fela félagsmálanefndum umsjón með æskulýðs- og íþróttamálum í umboði sveitarstjórna, þar á meðal rekstur félagsmiðstöðva, tómstundastarf í skólum og rekstur mannvirkja og aðstöðu fyrir íþróttastarfsemi.
+        Félagsmálanefnd skal sjá um þá þætti unglingaþjónustunnar sem varða málefni einstaklinga, t.d. ráðgjöf, útideildarstarfsemi (leitarstarf) og rekstur unglingaathvarfa eftir því sem þörf er á.
+         Heimilt er að fela félagsmálanefndum umsjón með æskulýðs- og íþróttamálum í umboði sveitarstjórna, þar á meðal rekstur félagsmiðstöðva, tómstundastarf í skólum og rekstur mannvirkja og aðstöðu fyrir íþróttastarfsemi.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -446,7 +446,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [37. gr.][^1)^]
 
-     Um önnur atriði, er lúta að þjónustu við unglinga, fer eftir lögum um æskulýðsmál, íþróttalögum, lögum um grunnskóla og lögum um vernd barna og ungmenna.
+        Um önnur atriði, er lúta að þjónustu við unglinga, fer eftir lögum um æskulýðsmál, íþróttalögum, lögum um grunnskóla og lögum um vernd barna og ungmenna.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -460,8 +460,8 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [38. gr.][^1)^]
 
-     Sveitarstjórn skal stuðla að því að aldraðir geti búið við eðlilegt heimilislíf í umgengni við aðra svo lengi sem verða má. Jafnframt verði tryggð nauðsynleg stofnanaþjónusta þegar hennar er þörf.
-      [Ákveði sveitarstjórn að fela sérstöku öldrunarmálaráði stjórn öldrunarmála, á grundvelli heimildar í lögum um málefni aldraðra, breytir það engu um þann rétt sem aldraðir eiga samkvæmt lögum þessum, þar á meðal hvað varðar málsmeðferð og málskot.][^2)^]
+        Sveitarstjórn skal stuðla að því að aldraðir geti búið við eðlilegt heimilislíf í umgengni við aðra svo lengi sem verða má. Jafnframt verði tryggð nauðsynleg stofnanaþjónusta þegar hennar er þörf.
+         [Ákveði sveitarstjórn að fela sérstöku öldrunarmálaráði stjórn öldrunarmála, á grundvelli heimildar í lögum um málefni aldraðra, breytir það engu um þann rétt sem aldraðir eiga samkvæmt lögum þessum, þar á meðal hvað varðar málsmeðferð og málskot.][^2)^]
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html[^2)^]"L. 31/1994, 2. gr.":/altext/stjt/1994.031.html_
@@ -471,7 +471,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html[^2)^]"L. 31/1994, 2. gr."
 
 [39. gr.][^1)^]
 
-     [Félagsmálanefnd, eða öldrunarmálaráð, skal leitast við að tryggja framboð á hentugu húsnæði fyrir aldraða og jafnframt skipuleggja félagslega heimaþjónustu.][^2)^]
+        [Félagsmálanefnd, eða öldrunarmálaráð, skal leitast við að tryggja framboð á hentugu húsnæði fyrir aldraða og jafnframt skipuleggja félagslega heimaþjónustu.][^2)^]
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html[^2)^]"L. 31/1994, 2. gr.":/altext/stjt/1994.031.html_
@@ -481,7 +481,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html[^2)^]"L. 31/1994, 2. gr."
 
 [40. gr.][^1)^]
 
-     Sveitarstjórn skal sjá um að félagsþjónusta aldraðra sé fyrir hendi í sveitarfélaginu eftir þörfum. Hér er m.a. átt við heimaþjónustu, félagsráðgjöf og heimsendingu matar. Jafnframt skal tryggja öldruðum aðgang að félags- og tómstundastarfi við þeirra hæfi. Í því sambandi skal lögð sérstök áhersla á fræðslu og námskeiðahald um réttindi aldraðra og aðlögun að breyttum aðstæðum sem fylgja því að hætta þátttöku á vinnumarkaði.
+        Sveitarstjórn skal sjá um að félagsþjónusta aldraðra sé fyrir hendi í sveitarfélaginu eftir þörfum. Hér er m.a. átt við heimaþjónustu, félagsráðgjöf og heimsendingu matar. Jafnframt skal tryggja öldruðum aðgang að félags- og tómstundastarfi við þeirra hæfi. Í því sambandi skal lögð sérstök áhersla á fræðslu og námskeiðahald um réttindi aldraðra og aðlögun að breyttum aðstæðum sem fylgja því að hætta þátttöku á vinnumarkaði.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -491,7 +491,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [41. gr.][^1)^]
 
-     Aldraðir eiga rétt á almennri þjónustu og aðstoð samkvæmt lögum þessum en að öðru leyti fer um málefni þeirra eftir sérlögum um málefni aldraðra.
+        Aldraðir eiga rétt á almennri þjónustu og aðstoð samkvæmt lögum þessum en að öðru leyti fer um málefni þeirra eftir sérlögum um málefni aldraðra.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -505,7 +505,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [42. gr.][^1)^]
 
-     Félagsmálanefnd skal vinna að því að fötluðum, hvort sem heldur er af líkamlegum eða andlegum ástæðum, séu tryggð sambærileg lífskjör og jafnrétti á við aðra þjóðfélagsþegna. Jafnframt skulu fötluðum sköpuð skilyrði til að lifa sem eðlilegustu lífi miðað við getu hvers og eins.
+        Félagsmálanefnd skal vinna að því að fötluðum, hvort sem heldur er af líkamlegum eða andlegum ástæðum, séu tryggð sambærileg lífskjör og jafnrétti á við aðra þjóðfélagsþegna. Jafnframt skulu fötluðum sköpuð skilyrði til að lifa sem eðlilegustu lífi miðað við getu hvers og eins.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -515,7 +515,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [43. gr.][^1)^]
 
-     Félagsmálanefnd skal skipuleggja félagslega heimaþjónustu fyrir fatlaða og leitast við að tryggja þeim hentugt íbúðarhúsnæði.
+        Félagsmálanefnd skal skipuleggja félagslega heimaþjónustu fyrir fatlaða og leitast við að tryggja þeim hentugt íbúðarhúsnæði.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -525,9 +525,9 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [44. gr.][^1)^]
 
-     Fatlaðir eiga rétt á almennri þjónustu og aðstoð samkvæmt lögum þessum og skal þeim veitt þjónusta á almennum stofnunum eftir því sem unnt er og við á.
-      Að öðru leyti fer um málefni þeirra eftir sérlögum um málefni fatlaðra.
-      Samstarf skal vera sem víðtækast milli [svæðisskrifstofa málefna fatlaðra][^2)^] og einstakra sveitarfélaga um þjónustu við fatlaða.
+        Fatlaðir eiga rétt á almennri þjónustu og aðstoð samkvæmt lögum þessum og skal þeim veitt þjónusta á almennum stofnunum eftir því sem unnt er og við á.
+         Að öðru leyti fer um málefni þeirra eftir sérlögum um málefni fatlaðra.
+         Samstarf skal vera sem víðtækast milli [svæðisskrifstofa málefna fatlaðra][^2)^] og einstakra sveitarfélaga um þjónustu við fatlaða.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html[^2)^]"L. 34/1997, 12. gr.":/altext/stjt/1997.034.html_
@@ -541,7 +541,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html[^2)^]"L. 34/1997, 12. gr.
 
 [45. gr.][^1)^]
 
-     Sveitarstjórnir skulu, eftir því sem kostur er og þörf er á, tryggja framboð af leiguhúsnæði, félagslegu kaupleiguhúsnæði og/eða félagslegum eignaríbúðum handa þeim fjölskyldum og einstaklingum sem ekki eru á annan hátt færir um að sjá sér fyrir húsnæði sökum lágra launa, þungrar framfærslubyrðar eða annarra félagslegra aðstæðna.
+        Sveitarstjórnir skulu, eftir því sem kostur er og þörf er á, tryggja framboð af leiguhúsnæði, félagslegu kaupleiguhúsnæði og/eða félagslegum eignaríbúðum handa þeim fjölskyldum og einstaklingum sem ekki eru á annan hátt færir um að sjá sér fyrir húsnæði sökum lágra launa, þungrar framfærslubyrðar eða annarra félagslegra aðstæðna.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -551,7 +551,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [46. gr.][^1)^]
 
-     Félagsmálanefndir skulu sjá til þess að veita þeim fjölskyldum og einstaklingum, sem ekki eru færir um það sjálfir, úrlausn í húsnæðismálum til að leysa úr bráðum vanda á meðan unnið er að varanlegri lausn.
+        Félagsmálanefndir skulu sjá til þess að veita þeim fjölskyldum og einstaklingum, sem ekki eru færir um það sjálfir, úrlausn í húsnæðismálum til að leysa úr bráðum vanda á meðan unnið er að varanlegri lausn.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -561,8 +561,8 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [47. gr.][^1)^]
 
-     Sveitarstjórn er heimilt að fela félagsmálanefnd umsjón með leiguíbúðum í eigu sveitarfélagsins og útleigu þeirra.
-      Þegar aðrar félagslegar íbúðir en leiguíbúðir eiga í hlut getur félagsmálanefnd gert tillögur til húsnæðisnefndar um úthlutun á íbúðum.
+        Sveitarstjórn er heimilt að fela félagsmálanefnd umsjón með leiguíbúðum í eigu sveitarfélagsins og útleigu þeirra.
+         Þegar aðrar félagslegar íbúðir en leiguíbúðir eiga í hlut getur félagsmálanefnd gert tillögur til húsnæðisnefndar um úthlutun á íbúðum.
 
 
 _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
@@ -576,7 +576,7 @@ _[^1)^]"L. 34/1997, 9. gr.":/altext/stjt/1997.034.html_
 
 [48. gr.][^1)^]
 
-     Heimilt er sveitarstjórnum að fela félagsmálanefndum lögbundin verkefni áfengisvarnarnefndar, sbr. á"fengislög, nr. 82/1969":1969082.html, að hluta til eða að öllu leyti.
+        Heimilt er sveitarstjórnum að fela félagsmálanefndum lögbundin verkefni áfengisvarnarnefndar, sbr. á"fengislög, nr. 82/1969":1969082.html, að hluta til eða að öllu leyti.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -586,7 +586,7 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [49. gr.][^1)^]
 
-     Félagsmálanefndir skulu stuðla að forvörnum í áfengis- og vímugjafamálum í samstarfi við viðeigandi aðila, svo sem lögreglu, heilbrigðisþjónustu og skóla.
+        Félagsmálanefndir skulu stuðla að forvörnum í áfengis- og vímugjafamálum í samstarfi við viðeigandi aðila, svo sem lögreglu, heilbrigðisþjónustu og skóla.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -596,7 +596,7 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [50. gr.][^1)^]
 
-     Félagsmálanefndir skulu hlutast til um að áfengissjúkir og þeir sem misnota áfengi eða aðra vímugjafa fái viðeigandi meðferð og aðstoð. Þá skal veita aðstandendum og fjölskyldum áfengissjúkra ráðgjöf og aðstoð eftir því sem við á.
+        Félagsmálanefndir skulu hlutast til um að áfengissjúkir og þeir sem misnota áfengi eða aðra vímugjafa fái viðeigandi meðferð og aðstoð. Þá skal veita aðstandendum og fjölskyldum áfengissjúkra ráðgjöf og aðstoð eftir því sem við á.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -606,7 +606,7 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [51. gr.][^1)^]
 
-     Félagsmálanefndir skulu stuðla að því að áfengissjúkir og misnotendur vímugjafa, sem fengið hafa meðferð og læknishjálp, fái nauðsynlegan stuðning og aðstoð til að lifa eðlilegu lífi að meðferð lokinni.
+        Félagsmálanefndir skulu stuðla að því að áfengissjúkir og misnotendur vímugjafa, sem fengið hafa meðferð og læknishjálp, fái nauðsynlegan stuðning og aðstoð til að lifa eðlilegu lífi að meðferð lokinni.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -620,8 +620,8 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [52. gr.][^1)^]
 
-     Sveitarstjórnum er skylt að annast atvinnuleysisskráningu og vinnumiðlun, sbr. "lög um vinnumiðlun, nr. 18/1985":1985018.html.
-      Stjórn vinnumiðlunar og félagsmálanefnd skulu hafa náið samstarf um atvinnuleysisskráningu og vinnumiðlun.
+        Sveitarstjórnum er skylt að annast atvinnuleysisskráningu og vinnumiðlun, sbr. "lög um vinnumiðlun, nr. 18/1985":1985018.html.
+         Stjórn vinnumiðlunar og félagsmálanefnd skulu hafa náið samstarf um atvinnuleysisskráningu og vinnumiðlun.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -631,7 +631,7 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [53. gr.][^1)^]
 
-     Heimilt er sveitarstjórn að fela félagsmálanefnd skráningu atvinnulausra og framkvæmd vinnumiðlunar að hluta til, einkum þjónustu við atvinnuleitendur, þar á meðal unglinga og aldraða.
+        Heimilt er sveitarstjórn að fela félagsmálanefnd skráningu atvinnulausra og framkvæmd vinnumiðlunar að hluta til, einkum þjónustu við atvinnuleitendur, þar á meðal unglinga og aldraða.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -641,7 +641,7 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [54. gr.][^1)^]
 
-     Að fengnu samþykki sveitarstjórnar er [svæðisskrifstofu málefna fatlaðra][^2)^] heimilt að fela félagsmálanefndum starfrækslu atvinnuleitar fyrir fatlaða þar sem það á við, sbr. ["lög um málefni fatlaðra, nr. 59/1992":1992059.html].[^2)^]
+        Að fengnu samþykki sveitarstjórnar er [svæðisskrifstofu málefna fatlaðra][^2)^] heimilt að fela félagsmálanefndum starfrækslu atvinnuleitar fyrir fatlaða þar sem það á við, sbr. ["lög um málefni fatlaðra, nr. 59/1992":1992059.html].[^2)^]
 
 
 
@@ -653,8 +653,8 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html[^2)^]"L. 34/1997, 14. gr
 
 [55. gr.][^1)^]
 
-     Um félagsmálanefndir og starfslið sveitarfélaga gilda ákvæði VI. og VII. kafla "sveitarstjórnarlaga, nr. 8/1986":1986008.html, og ákvæði IV. og V. kafla sömu laga eftir því sem við á.
-      Að öðru leyti gilda ákvæði laga þessara og reglna sem sveitarstjórnir setja um félagsmálanefndir, starfssvið þeirra og meðferð mála.
+        Um félagsmálanefndir og starfslið sveitarfélaga gilda ákvæði VI. og VII. kafla "sveitarstjórnarlaga, nr. 8/1986":1986008.html, og ákvæði IV. og V. kafla sömu laga eftir því sem við á.
+         Að öðru leyti gilda ákvæði laga þessara og reglna sem sveitarstjórnir setja um félagsmálanefndir, starfssvið þeirra og meðferð mála.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -668,8 +668,8 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [56. gr.][^1)^]
 
-     Berist félagsmálanefnd umsókn um aðstoð samkvæmt lögum þessum skal nefndin kanna aðstæður umsækjanda eins fljótt og unnt er.
-      Fái félagsmálanefnd með öðrum hætti upplýsingar um nauðsyn á aðstoð eða aðgerðum skal mál kannað með sama hætti.
+        Berist félagsmálanefnd umsókn um aðstoð samkvæmt lögum þessum skal nefndin kanna aðstæður umsækjanda eins fljótt og unnt er.
+         Fái félagsmálanefnd með öðrum hætti upplýsingar um nauðsyn á aðstoð eða aðgerðum skal mál kannað með sama hætti.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -679,7 +679,7 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [57. gr.][^1)^]
 
-     Öflun gagna og upplýsinga skal unnin í samvinnu við skjólstæðing og leitað eftir samþykki hans þar sem því verður við komið.
+        Öflun gagna og upplýsinga skal unnin í samvinnu við skjólstæðing og leitað eftir samþykki hans þar sem því verður við komið.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -689,9 +689,9 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [58. gr.][^1)^]
 
-     Við meðferð mála og ákvörðunartöku skal leitast við að hafa samvinnu og samráð við skjólstæðing eftir því sem unnt er, að öðrum kosti við talsmann ef hann er fyrir hendi.
-      Sé talið nauðsynlegt vegna almannahagsmuna eða velferðar viðkomandi einstaklings að hafa uppi þvingunaraðgerðir skal með þau mál farið eftir ákvæðum laga um lögræði, laga um vernd barna og ungmenna og annarra þeirra laga er slíkar heimildir veita.
-      Kynna skal niðurstöðu mála eins fljótt og unnt er. Ef niðurstaða er umsækjanda óhagstæð skal hún skýrð og rökstudd og tilkynnt honum tryggilega. Í slíku tilfelli getur umsækjandi eða talsmaður hans krafist skriflegs rökstuðnings. Sé um skerðingu á réttindum skjólstæðings að ræða skal niðurstaða ávallt rökstudd skriflega og tilkynnt með sérstökum tryggilegum hætti.
+        Við meðferð mála og ákvörðunartöku skal leitast við að hafa samvinnu og samráð við skjólstæðing eftir því sem unnt er, að öðrum kosti við talsmann ef hann er fyrir hendi.
+         Sé talið nauðsynlegt vegna almannahagsmuna eða velferðar viðkomandi einstaklings að hafa uppi þvingunaraðgerðir skal með þau mál farið eftir ákvæðum laga um lögræði, laga um vernd barna og ungmenna og annarra þeirra laga er slíkar heimildir veita.
+         Kynna skal niðurstöðu mála eins fljótt og unnt er. Ef niðurstaða er umsækjanda óhagstæð skal hún skýrð og rökstudd og tilkynnt honum tryggilega. Í slíku tilfelli getur umsækjandi eða talsmaður hans krafist skriflegs rökstuðnings. Sé um skerðingu á réttindum skjólstæðings að ræða skal niðurstaða ávallt rökstudd skriflega og tilkynnt með sérstökum tryggilegum hætti.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -701,7 +701,7 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [59. gr.][^1)^]
 
-     Skjólstæðingur á rétt á að kynna sér upplýsingar úr skráðum gögnum sem varða mál hans að svo miklu leyti sem það stangast ekki á við trúnað gagnvart öðrum.
+        Skjólstæðingur á rétt á að kynna sér upplýsingar úr skráðum gögnum sem varða mál hans að svo miklu leyti sem það stangast ekki á við trúnað gagnvart öðrum.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -711,7 +711,7 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [60. gr.][^1)^]
 
-     Fulltrúar í félagsmálanefndum og starfsmenn skulu varðveita málsgögn, er varða persónulega hagi einstaklinga, með tryggilegum hætti þannig að óviðkomandi fái þar ekki aðgang. Hafi þeir kynnst einkamálum skjólstæðinga í starfi er þeim óheimilt að ræða þau mál við óviðkomandi aðila nema að fengnu samþykki skjólstæðings eða forráðamanna hans.
+        Fulltrúar í félagsmálanefndum og starfsmenn skulu varðveita málsgögn, er varða persónulega hagi einstaklinga, með tryggilegum hætti þannig að óviðkomandi fái þar ekki aðgang. Hafi þeir kynnst einkamálum skjólstæðinga í starfi er þeim óheimilt að ræða þau mál við óviðkomandi aðila nema að fengnu samþykki skjólstæðings eða forráðamanna hans.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -721,7 +721,7 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [61. gr.][^1)^]
 
-     Kynna skal aðila sérstaklega rétt hans til málskots.
+        Kynna skal aðila sérstaklega rétt hans til málskots.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -731,8 +731,8 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [62. gr.][^1)^]
 
-     Opinberir aðilar, sem fást við verkefni eða reka stofnanir á sviði félagsþjónustu sveitarfélaga eða fara með verkefni sem tengjast henni, skulu hafa sem nánasta samvinnu bæði hvað varðar skipulag þjónustu og málefni einstakra skjólstæðinga.
-      Þegar málefni skjólstæðings er til meðferðar hjá fleiri en einni stofnun skal um það höfð samvinna milli þeirra og veittar gagnkvæmar upplýsingar eftir því sem nauðsynlegt er, þó þannig að gætt sé trúnaðar gagnvart skjólstæðingi.
+        Opinberir aðilar, sem fást við verkefni eða reka stofnanir á sviði félagsþjónustu sveitarfélaga eða fara með verkefni sem tengjast henni, skulu hafa sem nánasta samvinnu bæði hvað varðar skipulag þjónustu og málefni einstakra skjólstæðinga.
+         Þegar málefni skjólstæðings er til meðferðar hjá fleiri en einni stofnun skal um það höfð samvinna milli þeirra og veittar gagnkvæmar upplýsingar eftir því sem nauðsynlegt er, þó þannig að gætt sé trúnaðar gagnvart skjólstæðingi.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -746,8 +746,8 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
 
 [63. gr.][^1)^]
 
-     Málsaðili getur skotið ákvörðun félagsmálanefndar til úrskurðarnefndar félagsþjónustu, sbr. [64. gr.][^2)^] Skal það gert innan fjögurra vikna frá því viðkomanda barst vitneskja um ákvörðun.
-      Málskot til nefndarinnar frestar ekki framkvæmd hinnar kærðu ákvörðunar nema nefndin ákveði annað.
+        Málsaðili getur skotið ákvörðun félagsmálanefndar til úrskurðarnefndar félagsþjónustu, sbr. [64. gr.][^2)^] Skal það gert innan fjögurra vikna frá því viðkomanda barst vitneskja um ákvörðun.
+         Málskot til nefndarinnar frestar ekki framkvæmd hinnar kærðu ákvörðunar nema nefndin ákveði annað.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html[^2)^]"L. 34/1997, 15. gr.":/altext/stjt/1997.034.html_
@@ -757,17 +757,17 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html[^2)^]"L. 34/1997, 15. gr
 
 [64. gr.][^1)^]
 
-     Úrskurðarnefnd félagsþjónustu fjallar um eftirtalin atriði:
+        Úrskurðarnefnd félagsþjónustu fjallar um eftirtalin atriði:
 
 <dl>
-<dt>1.</dt>
-<dd>Málsmeðferð, sbr. XVI. kafla.</dd>
-<dt>2.</dt>
-<dd>Rétt til aðstoðar, sbr. IV. kafla.</dd>
-<dt>3.</dt>
-<dd>Hvort samþykkt þjónusta og upphæð fjárhagsaðstoðar er í samræmi við reglur viðkomandi sveitarstjórnar.</dd>
-<dt>[4.</dt>
-<dd>Greiðslu fjárhagsaðstoðar aftur í tímann, sbr. 3. mgr. 21. gr.][^2)^]</dd>
+<dt></dt>
+<dd>1. Málsmeðferð, sbr. XVI. kafla.</dd>
+<dt></dt>
+<dd>2. Rétt til aðstoðar, sbr. IV. kafla.</dd>
+<dt></dt>
+<dd>3. Hvort samþykkt þjónusta og upphæð fjárhagsaðstoðar er í samræmi við reglur viðkomandi sveitarstjórnar.</dd>
+<dt></dt>
+<dd>[4. Greiðslu fjárhagsaðstoðar aftur í tímann, sbr. 3. mgr. 21. gr.][^2)^]</dd>
 </dl>
 
 
@@ -780,10 +780,10 @@ _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html[^2)^]"L. 34/1997, 16. gr
 
 [65. gr.][^1)^]
 
-     Þrír menn eiga sæti í úrskurðarnefnd félagsþjónustu, tilnefndir til fjögurra ára í senn. Hæstiréttur skipar oddamann nefndarinnar og varamann hans og skulu þeir hafa lokið embættisprófi í lögfræði. Félagsmálaráðherra skipar einn mann í nefndina og einn til vara. Sama gildir um Samband íslenskra sveitarfélaga.
-      Nefndin skal taka mál til meðferðar án tafar og kveða upp úrskurð sinn innan þriggja mánaða frá því nefndinni barst mál til úrskurðar. Ef ástæða þykir til getur nefndin mælt fyrir um munnlegan eða skriflegan málflutning.
-      Úrskurðir nefndarinnar eru fullnaðarúrskurðir á sviði stjórnsýslunnar.
-      Kostnaður af störfum úrskurðarnefndar félagsþjónustu greiðist úr ríkissjóði.
+        Þrír menn eiga sæti í úrskurðarnefnd félagsþjónustu, tilnefndir til fjögurra ára í senn. Hæstiréttur skipar oddamann nefndarinnar og varamann hans og skulu þeir hafa lokið embættisprófi í lögfræði. Félagsmálaráðherra skipar einn mann í nefndina og einn til vara. Sama gildir um Samband íslenskra sveitarfélaga.
+         Nefndin skal taka mál til meðferðar án tafar og kveða upp úrskurð sinn innan þriggja mánaða frá því nefndinni barst mál til úrskurðar. Ef ástæða þykir til getur nefndin mælt fyrir um munnlegan eða skriflegan málflutning.
+         Úrskurðir nefndarinnar eru fullnaðarúrskurðir á sviði stjórnsýslunnar.
+         Kostnaður af störfum úrskurðarnefndar félagsþjónustu greiðist úr ríkissjóði.
 
 
 _[^1)^]"L. 34/1997, 13. gr.":/altext/stjt/1997.034.html_
@@ -799,7 +799,7 @@ _[^1)^]"L. 34/1997, 17. gr.":/altext/stjt/1997.034.html_
 
 [66. gr.
 
-     Veitt aðstoð til íslenskra ríkisborgara hjá umboðsmönnum ríkisins erlendis og kostnaður við heimferð greiðist úr ríkissjóði. Félagsmálaráðherra er heimilt að setja reglur um aðstoð samkvæmt ákvæði þessu.][^1)^]
+        Veitt aðstoð til íslenskra ríkisborgara hjá umboðsmönnum ríkisins erlendis og kostnaður við heimferð greiðist úr ríkissjóði. Félagsmálaráðherra er heimilt að setja reglur um aðstoð samkvæmt ákvæði þessu.][^1)^]
 
 
 _[^1)^]"L. 34/1997, 17. gr.":/altext/stjt/1997.034.html_
@@ -809,7 +809,7 @@ _[^1)^]"L. 34/1997, 17. gr.":/altext/stjt/1997.034.html_
 
 [67. gr.][^1)^]
 
-     Lög þessi öðlast þegar gildi. ...
+        Lög þessi öðlast þegar gildi. ...
 
 
 _[^1)^]"L. 34/1997, 17. gr.":/altext/stjt/1997.034.html_
@@ -819,7 +819,7 @@ _[^1)^]"L. 34/1997, 17. gr.":/altext/stjt/1997.034.html_
 
 *Ákvæði til bráðabirgða.*
 
-     Lög þessi skal endurskoða innan fimm ára frá gildistöku þeirra.
+        Lög þessi skal endurskoða innan fimm ára frá gildistöku þeirra.
 
 
 

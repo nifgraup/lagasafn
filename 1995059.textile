@@ -15,57 +15,57 @@ h2. Lög um áhafnir íslenskra kaupskipa
 
 1. gr.
 
-     Hvert íslenskt kaupskip sem notað er til siglinga í atvinnuskyni skal uppfylla ákvæði laga þessara um lágmarkskröfur um atvinnuskírteini einstakra skipverja og fjölda manna í áhöfn.
-      Ákvæði laga þessara um atvinnuskírteini einstakra skipverja og fjölda manna í áhöfn skipa eru lágmarkskröfur og skulu ekki túlkuð til að hindra að fleiri séu í áhöfn skips en getið er um í lögum þessum, né að skipverjar ráði yfir atvinnuskírteinum sem séu umfram lágmarkskröfur laga þessara.
-      Lög þessi skulu á engan hátt skerða ákvæði kjarasamninga eða önnur samningsbundin réttindi þeirra er lög þessi taka til.
+        Hvert íslenskt kaupskip sem notað er til siglinga í atvinnuskyni skal uppfylla ákvæði laga þessara um lágmarkskröfur um atvinnuskírteini einstakra skipverja og fjölda manna í áhöfn.
+         Ákvæði laga þessara um atvinnuskírteini einstakra skipverja og fjölda manna í áhöfn skipa eru lágmarkskröfur og skulu ekki túlkuð til að hindra að fleiri séu í áhöfn skips en getið er um í lögum þessum, né að skipverjar ráði yfir atvinnuskírteinum sem séu umfram lágmarkskröfur laga þessara.
+         Lög þessi skulu á engan hátt skerða ákvæði kjarasamninga eða önnur samningsbundin réttindi þeirra er lög þessi taka til.
 
 
 
 2. gr.
 
-     a. Skip merkir í lögum þessum, sé annað eigi tekið fram, kaupskip.
+        a. Skip merkir í lögum þessum, sé annað eigi tekið fram, kaupskip.
 
 <dl>
-<dt>b.</dt>
-<dd>Skipstjóri er sá sem fer með æðsta vald á skipi.</dd>
-<dt>c.</dt>
-<dd>Yfirvélstjóri er æðsti yfirmaður í vélarrúmi skips.</dd>
-<dt>d.</dt>
-<dd>1. vélstjóri táknar þann vélstjóra sem gengur yfirvélstjóra næst að völdum og mun bera ábyrgð á vélum þeim sem knýja skipið ef yfirvélstjóri verður ófær um það.</dd>
-<dt>e.</dt>
-<dd>Yfirstýrimaður/1. stýrimaður er sá skipstjórnarmaður er gengur næst skipstjóra í starfi.</dd>
-<dt>f.</dt>
-<dd>Undirvélstjóri er hver sá vélstjóri sem er lægra settur en yfirvélstjóri.</dd>
-<dt>g.</dt>
-<dd>Undirstýrimaður er hver sá stýrimaður sem er lægra settur en yfirstýrimaður/1. stýrimaður.</dd>
-<dt>h.</dt>
-<dd>Loftskeytamaður er hver sá sem hefur öðlast réttindi til að vera loftskeytamaður á skipi.</dd>
-<dt>i.</dt>
-<dd>Talstöðvarvörður er hver sá sem hefur öðlast réttindi til að vera talstöðvarvörður á skipi.</dd>
-<dt>j.</dt>
-<dd>Vélavörður er hver sá sem hefur öðlast rétt til að vera vélavörður á skipi.</dd>
-<dt>k.</dt>
-<dd>Matsveinn eða bryti er hver sá sem hefur öðlast réttindi til að vera matsveinn eða bryti á skipi.</dd>
-<dt>l.</dt>
-<dd>Fullgildur undirmaður er sá sem uppfyllt hefur þær kröfur sem gerðar eru til stöðunnar. Til þess að mega gegna vaktstöðu á siglingavakt í brú, í vélarrúmi og hafa á hendi stjórnun björgunarfara þarf viðkomandi að hafa tilskilin réttindi frá [Siglingastofnun Íslands][^1)^] eða sambærileg réttindi frá öðru viðurkenndu yfirvaldi, eða frá öðru ríki sem er aðili að STCW-samþykktinni.</dd>
-<dt>m.</dt>
-<dd>Undirmenn eru allir undirmenn skips aðrir en fullgildir undirmenn.</dd>
-<dt>n.</dt>
-<dd>Rúmlest merkir í lögum þessum brúttórúmlest. Er þá miðað við Óslóarsamþykkt um skipamælingar frá 10. júní 1947, með áorðnum breytingum, fyrir skip 24 m að lengd eða lengri, en við íslenskar reglur um mælingu skipa fyrir skip styttri en 24 m að lengd.</dd>
-<dt>o.</dt>
-<dd>Kaupskip merkir hvert það skip, skrásett sem vöruflutninga- eða farþegaskip, er siglir með varning og/eða farþega til og frá landinu milli hafna innan lands og utan. Til þessa flokks teljast m.a. olíu- og efnaflutningaskip.</dd>
-<dt>p.</dt>
-<dd>Strandsigling er sigling innan 50 sjómílna frá ströndum Íslands og á öðrum hafsvæðum eftir nánari ákvörðun [Siglingastofnunar Íslands].[^1)^]</dd>
-<dt>q.</dt>
-<dd>Innanlandssigling er sigling innan íslenskrar fiskveiðilögsögu.</dd>
-<dt>r.</dt>
-<dd>Utanlandssigling er hver sú ferð sem farin er milli landa eða til fiskimiða utan íslenskrar fiskveiðilögsögu þótt hafna sé ekki leitað.</dd>
-<dt>s.</dt>
-<dd>STCW er alþjóðasamþykkt um þjálfun, skírteini og vaktstöður sjómanna frá 1978.</dd>
-<dt>t.</dt>
-<dd>GMDSS-kerfi er alþjóðlegt neyðarfjarskiptakerfi (Global Maritime Distress Safety System).</dd>
-<dt>u.</dt>
-<dd>Mánuður telst 30 dagar.</dd>
+<dt></dt>
+<dd>b. Skipstjóri er sá sem fer með æðsta vald á skipi.</dd>
+<dt></dt>
+<dd>c. Yfirvélstjóri er æðsti yfirmaður í vélarrúmi skips.</dd>
+<dt></dt>
+<dd>d. 1. vélstjóri táknar þann vélstjóra sem gengur yfirvélstjóra næst að völdum og mun bera ábyrgð á vélum þeim sem knýja skipið ef yfirvélstjóri verður ófær um það.</dd>
+<dt></dt>
+<dd>e. Yfirstýrimaður/1. stýrimaður er sá skipstjórnarmaður er gengur næst skipstjóra í starfi.</dd>
+<dt></dt>
+<dd>f. Undirvélstjóri er hver sá vélstjóri sem er lægra settur en yfirvélstjóri.</dd>
+<dt></dt>
+<dd>g. Undirstýrimaður er hver sá stýrimaður sem er lægra settur en yfirstýrimaður/1. stýrimaður.</dd>
+<dt></dt>
+<dd>h. Loftskeytamaður er hver sá sem hefur öðlast réttindi til að vera loftskeytamaður á skipi.</dd>
+<dt></dt>
+<dd>i. Talstöðvarvörður er hver sá sem hefur öðlast réttindi til að vera talstöðvarvörður á skipi.</dd>
+<dt></dt>
+<dd>j. Vélavörður er hver sá sem hefur öðlast rétt til að vera vélavörður á skipi.</dd>
+<dt></dt>
+<dd>k. Matsveinn eða bryti er hver sá sem hefur öðlast réttindi til að vera matsveinn eða bryti á skipi.</dd>
+<dt></dt>
+<dd>l. Fullgildur undirmaður er sá sem uppfyllt hefur þær kröfur sem gerðar eru til stöðunnar. Til þess að mega gegna vaktstöðu á siglingavakt í brú, í vélarrúmi og hafa á hendi stjórnun björgunarfara þarf viðkomandi að hafa tilskilin réttindi frá [Siglingastofnun Íslands][^1)^] eða sambærileg réttindi frá öðru viðurkenndu yfirvaldi, eða frá öðru ríki sem er aðili að STCW-samþykktinni.</dd>
+<dt></dt>
+<dd>m. Undirmenn eru allir undirmenn skips aðrir en fullgildir undirmenn.</dd>
+<dt></dt>
+<dd>n. Rúmlest merkir í lögum þessum brúttórúmlest. Er þá miðað við Óslóarsamþykkt um skipamælingar frá 10. júní 1947, með áorðnum breytingum, fyrir skip 24 m að lengd eða lengri, en við íslenskar reglur um mælingu skipa fyrir skip styttri en 24 m að lengd.</dd>
+<dt></dt>
+<dd>o. Kaupskip merkir hvert það skip, skrásett sem vöruflutninga- eða farþegaskip, er siglir með varning og/eða farþega til og frá landinu milli hafna innan lands og utan. Til þessa flokks teljast m.a. olíu- og efnaflutningaskip.</dd>
+<dt></dt>
+<dd>p. Strandsigling er sigling innan 50 sjómílna frá ströndum Íslands og á öðrum hafsvæðum eftir nánari ákvörðun [Siglingastofnunar Íslands].[^1)^]</dd>
+<dt></dt>
+<dd>q. Innanlandssigling er sigling innan íslenskrar fiskveiðilögsögu.</dd>
+<dt></dt>
+<dd>r. Utanlandssigling er hver sú ferð sem farin er milli landa eða til fiskimiða utan íslenskrar fiskveiðilögsögu þótt hafna sé ekki leitað.</dd>
+<dt></dt>
+<dd>s. STCW er alþjóðasamþykkt um þjálfun, skírteini og vaktstöður sjómanna frá 1978.</dd>
+<dt></dt>
+<dd>t. GMDSS-kerfi er alþjóðlegt neyðarfjarskiptakerfi (Global Maritime Distress Safety System).</dd>
+<dt></dt>
+<dd>u. Mánuður telst 30 dagar.</dd>
 </dl>
 
 
@@ -84,20 +84,20 @@ _[^1)^]Rg. 269/1996._
 
 3. gr.
 
-     Fyrir íslensk kaupskip skal fjöldi í hverri áhöfn ákveðinn af mönnunarnefnd kaupskipa, sbr. 10. gr. laga þessara. Fjöldi skipverja skal ákveðinn með hliðsjón af gerð skips, fyrirkomulagi þess og búnaði, þannig að fjöldi í áhöfn og skipting starfa fullnægi skilyrðum um að unnt sé að sinna öllum þáttum sem tryggja öryggi skipverja og skips. Slík skilyrði skulu m.a. ná til eftirfarandi þátta:
+        Fyrir íslensk kaupskip skal fjöldi í hverri áhöfn ákveðinn af mönnunarnefnd kaupskipa, sbr. 10. gr. laga þessara. Fjöldi skipverja skal ákveðinn með hliðsjón af gerð skips, fyrirkomulagi þess og búnaði, þannig að fjöldi í áhöfn og skipting starfa fullnægi skilyrðum um að unnt sé að sinna öllum þáttum sem tryggja öryggi skipverja og skips. Slík skilyrði skulu m.a. ná til eftirfarandi þátta:
 
 
 <dl>
-<dt>1.</dt>
-<dd>að ávallt verði hægt að sinna öruggri siglingavakt í brú og í vélarrúmi, en þó með fullu tilliti til sjálfvirkni, svo sem viðurkennds viðvörunarbúnaðar vaktfrírra vélarrúma, og fyrirkomulags stjórn- og siglingatækja,</dd>
-<dt>2.</dt>
-<dd>að ávallt verði hægt að sinna viðhaldi björgunar-, öryggis-, eldvarna- og fjarskiptabúnaðar,</dd>
-<dt>3.</dt>
-<dd>að ávallt verði hægt að sinna viðhaldi annars öryggisbúnaðar,</dd>
-<dt>4.</dt>
-<dd>að ávallt verði unnt að festa og leysa landfestar tryggilega,</dd>
-<dt>5.</dt>
-<dd>að ávallt verði unnt að sinna heilbrigðis- og hollustuþörfum skipverja.</dd>
+<dt></dt>
+<dd>1. að ávallt verði hægt að sinna öruggri siglingavakt í brú og í vélarrúmi, en þó með fullu tilliti til sjálfvirkni, svo sem viðurkennds viðvörunarbúnaðar vaktfrírra vélarrúma, og fyrirkomulags stjórn- og siglingatækja,</dd>
+<dt></dt>
+<dd>2. að ávallt verði hægt að sinna viðhaldi björgunar-, öryggis-, eldvarna- og fjarskiptabúnaðar,</dd>
+<dt></dt>
+<dd>3. að ávallt verði hægt að sinna viðhaldi annars öryggisbúnaðar,</dd>
+<dt></dt>
+<dd>4. að ávallt verði unnt að festa og leysa landfestar tryggilega,</dd>
+<dt></dt>
+<dd>5. að ávallt verði unnt að sinna heilbrigðis- og hollustuþörfum skipverja.</dd>
 </dl>
 
 
@@ -105,22 +105,22 @@ _[^1)^]Rg. 269/1996._
 
 4. gr.
 
-     Við ákvörðun um fjölda skipverja og samsetningu áhafnar skal tekið tillit til skipulags vakta um borð, nauðsynlegs hvíldartíma og vinnusviðs skipverja.
+        Við ákvörðun um fjölda skipverja og samsetningu áhafnar skal tekið tillit til skipulags vakta um borð, nauðsynlegs hvíldartíma og vinnusviðs skipverja.
 
 
 
 5. gr.
 
-     Þeir skipverjar sem falla undir ákvæði STCW-alþjóðasamþykktarinnar skulu uppfylla lágmarkskröfur hennar og laga um atvinnuréttindi skipstjórnar- og vélstjórnarmanna um menntun, reynslu, aldur og heilbrigði.
+        Þeir skipverjar sem falla undir ákvæði STCW-alþjóðasamþykktarinnar skulu uppfylla lágmarkskröfur hennar og laga um atvinnuréttindi skipstjórnar- og vélstjórnarmanna um menntun, reynslu, aldur og heilbrigði.
 
 
 
 6. gr.
 
-     Á hverju skipi skal vera skipstjóri. Skipstjórnarmenn og vélstjórar skulu hafa yfir að ráða eftirfarandi atvinnuskírteinum:
+        Á hverju skipi skal vera skipstjóri. Skipstjórnarmenn og vélstjórar skulu hafa yfir að ráða eftirfarandi atvinnuskírteinum:
 
 
-_SKIP UNDIR 200 BRL. Í STRANDSIGLINGUM_
+h3. SKIP UNDIR 200 BRL. Í STRANDSIGLINGUM
 
 STÆRÐ
 
@@ -151,7 +151,7 @@ STCW regla II/3
 
 
 
-_SKIP AF ÓTAKMARKAÐRI STÆRÐ. FARSVIÐ ÓTAKMARKAÐ._
+h3. SKIP AF ÓTAKMARKAÐRI STÆRÐ. FARSVIÐ ÓTAKMARKAÐ.
 
 STÆRÐ
 
@@ -190,7 +190,7 @@ STCW regla II/4
 
 
 
-_VÉLFRÆÐINGAR OG VÉLSTJÓRAR_
+h3. VÉLFRÆÐINGAR OG VÉLSTJÓRAR
 
 STÆRÐ
 
@@ -263,13 +263,13 @@ III/2
 
 7. gr.
 
-     Kaupskip, önnur en farþegaskip, þar sem krafist er loftskeytamanna samkvæmt alþjóðareglum, mega sigla án loftskeytamanns enda séu þau búin samkvæmt GMDSS-fjarskiptakerfinu og tveir skipstjórnarmenn séu handhafar gilds talstöðvarskírteinis.
+        Kaupskip, önnur en farþegaskip, þar sem krafist er loftskeytamanna samkvæmt alþjóðareglum, mega sigla án loftskeytamanns enda séu þau búin samkvæmt GMDSS-fjarskiptakerfinu og tveir skipstjórnarmenn séu handhafar gilds talstöðvarskírteinis.
 
 
 
 8. gr.
 
-     Öll kaupskip skulu hljóta skírteini til staðfestingar lágmarksfjölda skipverja, samsetningu áhafnarinnar og atvinnuskírteinakröfur fyrir hinar ýmsu stöður. Slík mönnunarskírteini skulu gefin út af [Siglingastofnun Íslands][^1)^] í samræmi við ákvarðanir mönnunarnefndar kaupskipa.
+        Öll kaupskip skulu hljóta skírteini til staðfestingar lágmarksfjölda skipverja, samsetningu áhafnarinnar og atvinnuskírteinakröfur fyrir hinar ýmsu stöður. Slík mönnunarskírteini skulu gefin út af [Siglingastofnun Íslands][^1)^] í samræmi við ákvarðanir mönnunarnefndar kaupskipa.
 
 
 _[^1)^]"L. 7/1996, 29. gr.":/altext/stjt/1996.007.html_
@@ -283,46 +283,46 @@ _[^1)^]"L. 7/1996, 29. gr.":/altext/stjt/1996.007.html_
 
 9. gr.
 
-     Samgönguráðherra setur í samræmi við ákvæði "2. gr. laga nr. 47/1987":1987047.html#g2 reglur um heildarmönnun íslenskra kaupskipa og felur mönnunarnefnd kaupskipa að sjá um framkvæmd þeirra, þar á meðal að ákveða mönnun kaupskipa skv. II. kafla laga þessara.
+        Samgönguráðherra setur í samræmi við ákvæði "2. gr. laga nr. 47/1987":1987047.html#g2 reglur um heildarmönnun íslenskra kaupskipa og felur mönnunarnefnd kaupskipa að sjá um framkvæmd þeirra, þar á meðal að ákveða mönnun kaupskipa skv. II. kafla laga þessara.
 
 
 
 10. gr.
 
-     Samgönguráðherra skipar mönnunarnefnd kaupskipa. Í mönnunarnefnd skulu eiga sæti sjö menn og jafnmargir varamenn. Skal einn aðalfulltrúi og varafulltrúi hans skipaður eftir tilnefningu hvers eftirtalinna hagsmunasamtaka: Farmanna og fiskimannasambands Íslands, Vélstjórafélags Íslands, Sjómannasambands Íslands, Sambands íslenskra kaupskipaútgerða, Vinnuveitendasambands Íslands og Vinnumálasambands samvinnufélaga. Samgönguráðherra skipar, að höfðu samráði við framgreind hagsmunasamtök, formann og varaformann nefndarinnar og skulu þeir uppfylla almenn dómaraskilyrði.
-      Nánari reglur um skipan og starfshætti mönnunarnefndar setur samgönguráðherra með reglugerð.
+        Samgönguráðherra skipar mönnunarnefnd kaupskipa. Í mönnunarnefnd skulu eiga sæti sjö menn og jafnmargir varamenn. Skal einn aðalfulltrúi og varafulltrúi hans skipaður eftir tilnefningu hvers eftirtalinna hagsmunasamtaka: Farmanna og fiskimannasambands Íslands, Vélstjórafélags Íslands, Sjómannasambands Íslands, Sambands íslenskra kaupskipaútgerða, Vinnuveitendasambands Íslands og Vinnumálasambands samvinnufélaga. Samgönguráðherra skipar, að höfðu samráði við framgreind hagsmunasamtök, formann og varaformann nefndarinnar og skulu þeir uppfylla almenn dómaraskilyrði.
+         Nánari reglur um skipan og starfshætti mönnunarnefndar setur samgönguráðherra með reglugerð.
 
 
 
 11. gr.
 
-     Við ákvarðanir sínar um áhafnir skipa getur mönnunarnefnd mælt svo fyrir að skipverji, sem ráðinn er til annarra starfa en þeirra er atvinnuréttindalög taka til, skuli hafa lokið námskeiði Slysavarnafélags Íslands eða jafngildu námskeiði um öryggis- og björgunarmál áður en hann er skráður í skiprúm.
+        Við ákvarðanir sínar um áhafnir skipa getur mönnunarnefnd mælt svo fyrir að skipverji, sem ráðinn er til annarra starfa en þeirra er atvinnuréttindalög taka til, skuli hafa lokið námskeiði Slysavarnafélags Íslands eða jafngildu námskeiði um öryggis- og björgunarmál áður en hann er skráður í skiprúm.
 
 
 
 12. gr.
 
-     Nú veldur sjúkdómur, dauði, strok eða önnur atvik sem skipstjóri eða útgerð máttu eigi sjá fyrir og eiga ekki sök á fækkun í áhöfn þannig að í bága fari við það sem fyrir er mælt í lögum þessum og skal skipstjóra þá heimilt að halda áfram ferð, enda telji hann ekki hættu á að sjóhæfni skips hafi svo raskast vegna þess að öryggisástæður banni. Skal hann þá skrá um það athugasemdir sína í leiðarbók, en gera jafnframt ráðstafanir til að kveðja til starfans nýjan mann svo fljótt sem verða má.
+        Nú veldur sjúkdómur, dauði, strok eða önnur atvik sem skipstjóri eða útgerð máttu eigi sjá fyrir og eiga ekki sök á fækkun í áhöfn þannig að í bága fari við það sem fyrir er mælt í lögum þessum og skal skipstjóra þá heimilt að halda áfram ferð, enda telji hann ekki hættu á að sjóhæfni skips hafi svo raskast vegna þess að öryggisástæður banni. Skal hann þá skrá um það athugasemdir sína í leiðarbók, en gera jafnframt ráðstafanir til að kveðja til starfans nýjan mann svo fljótt sem verða má.
 
 
 
 13. gr.
 
-     Mönnunarnefnd er heimilt, með hliðsjón af ákvæðum 3. gr., að herða á eða draga úr skilyrðum og kröfum um fjölda í áhöfn svo og að kveða á um sérstakar menntunar- eða þjálfunarkröfur varðandi skip, þar sem sérstakar aðstæður gera þess þörf fyrir einstök skip, sérstaklega hönnuð skip og skip sem annast staðbundin verkefni á takmörkuðu farsviði.
-      Einnig getur mönnunarnefnd þegar sérstaklega stendur á og að teknu tilliti til viðurkenndra alþjóðlegra samþykkta heimilað að maður, sem ekki er handhafi skírteinis sem krafist er, þó ekki skv. 6. og 7. gr. laga þessara, megi gegna slíkri stöðu, en þó aðeins til að ljúka einni ferð skips eða um takmarkaðan tíma sem eigi má lengri vera en 6 mánuðir.
+        Mönnunarnefnd er heimilt, með hliðsjón af ákvæðum 3. gr., að herða á eða draga úr skilyrðum og kröfum um fjölda í áhöfn svo og að kveða á um sérstakar menntunar- eða þjálfunarkröfur varðandi skip, þar sem sérstakar aðstæður gera þess þörf fyrir einstök skip, sérstaklega hönnuð skip og skip sem annast staðbundin verkefni á takmörkuðu farsviði.
+         Einnig getur mönnunarnefnd þegar sérstaklega stendur á og að teknu tilliti til viðurkenndra alþjóðlegra samþykkta heimilað að maður, sem ekki er handhafi skírteinis sem krafist er, þó ekki skv. 6. og 7. gr. laga þessara, megi gegna slíkri stöðu, en þó aðeins til að ljúka einni ferð skips eða um takmarkaðan tíma sem eigi má lengri vera en 6 mánuðir.
 
 
 
 14. gr.
 
-     Mönnunarnefnd tekur í samræmi við umsókn ákvörðun til bráðabirgða um fjölda í áhöfn skips sem er í smíðum svo og erlends skips sem fyrirhugað er að færa undir íslenskan fána.
-      Bráðabirgðaákvörðun er bindandi og verður þeirri ákvörðun ekki breytt nema þær forsendur hafi breyst sem úrslitum réðu um ákvörðunina.
+        Mönnunarnefnd tekur í samræmi við umsókn ákvörðun til bráðabirgða um fjölda í áhöfn skips sem er í smíðum svo og erlends skips sem fyrirhugað er að færa undir íslenskan fána.
+         Bráðabirgðaákvörðun er bindandi og verður þeirri ákvörðun ekki breytt nema þær forsendur hafi breyst sem úrslitum réðu um ákvörðunina.
 
 
 
 15. gr.
 
-     Ákvarðanir sem mönnunarnefnd hefur tekið samkvæmt heimildum í lögum þessum eru endanlegar á sviði stjórnsýslunnar.
+        Ákvarðanir sem mönnunarnefnd hefur tekið samkvæmt heimildum í lögum þessum eru endanlegar á sviði stjórnsýslunnar.
 
 
 
@@ -332,13 +332,13 @@ _[^1)^]"L. 7/1996, 29. gr.":/altext/stjt/1996.007.html_
 
 16. gr.
 
-     Brot á lögum þessum varða sektum nema þyngri refsing liggi við samkvæmt öðrum lögum. Með brot á lögum þessum skal fara að hætti opinberra mála.
+        Brot á lögum þessum varða sektum nema þyngri refsing liggi við samkvæmt öðrum lögum. Með brot á lögum þessum skal fara að hætti opinberra mála.
 
 
 
 17. gr.
 
-     Lög þessi öðlast þegar gildi.
+        Lög þessi öðlast þegar gildi.
 
 
 

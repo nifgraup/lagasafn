@@ -11,10 +11,10 @@ h2. Lög um eftirlaun alþingismanna
 
 1. gr.
 
-     Alþingismenn skulu greiða í lífeyrissjóð starfsmanna ríkisins 4%  --  fjóra af hundraði  --  af þingfararkaupi sínu, eins og það er á hverjum tíma. Skal upphæðin dragast frá kaupinu mánaðarlega og greiðast sjóðnum ásamt mótframlagi, er greiðist af alþingiskostnaði, að upphæð 6%  --  sex af hundraði  --  af mánaðarlega greiddu þingfararkaupi. [Á sama hátt greiðir forseti Alþingis í sjóðinn 4% af forsetalaunum eins og þau eru ákveðin á hverjum tíma og miðast mótframlag úr ríkissjóði við þau laun.][^1)^] Alþingismenn skulu vera í sérstakri deild innan lífeyrissjóðs starfsmanna ríkisins með sérstöku reikningshaldi. Þátttaka í alþingismannadeild sjóðsins hefur ekki áhrif á rétt né skyldur alþingismanna til að vera í öðrum deildum sjóðsins. Alþingismenn njóta að öðru leyti sömu réttinda og bera sömu skyldur og aðrir sjóðfélagar, meðan þeir eiga sæti á Alþingi, nema annars sé getið í lögum þessum.
-      [Með „alþingismanni“ er í lögum þessum átt við þann sem tekið hefur fast sæti á Alþingi. Sömu reglur skulu einnig gilda um ráðherra sem ekki er jafnframt alþingismaður.
-      Varaþingmaður skal einnig greiða í sjóðinn af þingfararkaupi sínu og eiga rétt til eftirlauna skv. 2. - 3. gr.
-      Þegar réttindi alþingismanna samkvæmt lögunum eru reiknuð út skal telja með þann tíma sem þeir greiddu í sjóðinn sem varaþingmenn.][^1)^]
+        Alþingismenn skulu greiða í lífeyrissjóð starfsmanna ríkisins 4%  --  fjóra af hundraði  --  af þingfararkaupi sínu, eins og það er á hverjum tíma. Skal upphæðin dragast frá kaupinu mánaðarlega og greiðast sjóðnum ásamt mótframlagi, er greiðist af alþingiskostnaði, að upphæð 6%  --  sex af hundraði  --  af mánaðarlega greiddu þingfararkaupi. [Á sama hátt greiðir forseti Alþingis í sjóðinn 4% af forsetalaunum eins og þau eru ákveðin á hverjum tíma og miðast mótframlag úr ríkissjóði við þau laun.][^1)^] Alþingismenn skulu vera í sérstakri deild innan lífeyrissjóðs starfsmanna ríkisins með sérstöku reikningshaldi. Þátttaka í alþingismannadeild sjóðsins hefur ekki áhrif á rétt né skyldur alþingismanna til að vera í öðrum deildum sjóðsins. Alþingismenn njóta að öðru leyti sömu réttinda og bera sömu skyldur og aðrir sjóðfélagar, meðan þeir eiga sæti á Alþingi, nema annars sé getið í lögum þessum.
+         [Með „alþingismanni“ er í lögum þessum átt við þann sem tekið hefur fast sæti á Alþingi. Sömu reglur skulu einnig gilda um ráðherra sem ekki er jafnframt alþingismaður.
+         Varaþingmaður skal einnig greiða í sjóðinn af þingfararkaupi sínu og eiga rétt til eftirlauna skv. 2. - 3. gr.
+         Þegar réttindi alþingismanna samkvæmt lögunum eru reiknuð út skal telja með þann tíma sem þeir greiddu í sjóðinn sem varaþingmenn.][^1)^]
 
 
 _[^1)^]"L. 108/1996, 1. gr.":/altext/stjt/1996.108.html_
@@ -24,17 +24,17 @@ _[^1)^]"L. 108/1996, 1. gr.":/altext/stjt/1996.108.html_
 
 2. gr.
 
-     [Fyrrverandi alþingismaður á rétt á eftirlaunum úr sjóðnum þegar svo stendur á að:
+        [Fyrrverandi alþingismaður á rétt á eftirlaunum úr sjóðnum þegar svo stendur á að:
 
 <dl>
-<dt>1.</dt>
-<dd>Hann verður 65 ára.</dd>
-<dt>2.</dt>
-<dd>Hann lætur af þingmennsku, enda verði hann 65 ára innan 4 ára frá því þingmennsku hans lýkur.</dd>
-<dt>3.</dt>
-<dd>Samanlagður aldur hans og tvöfaldur sá tími, sem hann hefur setið samtals á þingi, nær 95 árum, enda hafi hann náð 60 ára aldri.</dd>
-<dt>4.</dt>
-<dd>Hann verður öryrki. Þegar talað er um öryrkja í lögum þessum er átt við 75% örorku eða meira. Heimilt er þó stjórn sjóðsins að ákveða, ef sérstaklega stendur á, að greiða skuli fyrrverandi alþingismanni, sem aflað hefur sér eftirlaunaréttar samkvæmt lögum þessum, hluta af eftirlaunum hans, en aldrei meira en 50% eftirlaunanna, þótt örorka hans nái ekki 75%. Í slíkum tilvikum skal farið eftir meginreglum "13. gr. laga nr. 29/1963":1963029.html, um Lífeyrissjóð starfsmanna ríkisins.][^1)^]</dd>
+<dt></dt>
+<dd>1. Hann verður 65 ára.</dd>
+<dt></dt>
+<dd>2. Hann lætur af þingmennsku, enda verði hann 65 ára innan 4 ára frá því þingmennsku hans lýkur.</dd>
+<dt></dt>
+<dd>3. Samanlagður aldur hans og tvöfaldur sá tími, sem hann hefur setið samtals á þingi, nær 95 árum, enda hafi hann náð 60 ára aldri.</dd>
+<dt></dt>
+<dd>4. Hann verður öryrki. Þegar talað er um öryrkja í lögum þessum er átt við 75% örorku eða meira. Heimilt er þó stjórn sjóðsins að ákveða, ef sérstaklega stendur á, að greiða skuli fyrrverandi alþingismanni, sem aflað hefur sér eftirlaunaréttar samkvæmt lögum þessum, hluta af eftirlaunum hans, en aldrei meira en 50% eftirlaunanna, þótt örorka hans nái ekki 75%. Í slíkum tilvikum skal farið eftir meginreglum "13. gr. laga nr. 29/1963":1963029.html, um Lífeyrissjóð starfsmanna ríkisins.][^1)^]</dd>
 </dl>
 
 
@@ -47,30 +47,30 @@ _[^1)^]"L. 73/1982, 1. gr.":/altext/stjtnr.html#1982073?g1_
 
 3. gr.
 
-     [Fyrrverandi alþingismaður, sem uppfyllir ákvæði 2. gr. laga þessara, á eftirlaunarétt sem hér segir:
+        [Fyrrverandi alþingismaður, sem uppfyllir ákvæði 2. gr. laga þessara, á eftirlaunarétt sem hér segir:
 
 <dl>
-<dt>1.</dt>
-<dd>Fyrir þingsetu í samtals 5 ár eða skemur: 2% fyrir hvert heilt ár og samsvarandi fyrir hluta úr ári.</dd>
-<dt>2.</dt>
-<dd>Fyrir þingsetu í samtals allt að 9 ár: 30%.</dd>
-<dt>3.</dt>
-<dd>Fyrir þingsetu í samtals allt að 12 ár: 40%.</dd>
-<dt>4.</dt>
-<dd>Fyrir þingsetu í samtals allt að 15 ár: 50%.</dd>
-<dt>5.</dt>
-<dd>Fyrir þingsetu í samtals allt að 18 ár: 55%.</dd>
-<dt>6.</dt>
-<dd>Fyrir þingsetu í samtals allt að 21 ár: 60%.</dd>
-<dt>7.</dt>
-<dd>Fyrir þingsetu í samtals 21 ár eða lengur: 62% að viðbættum 2% fyrir hvert heilt ár, og samsvarandi fyrir hluta úr ári, sem þingseta er samtals lengri en 21 ár. Eftirlaunarétturinn verður þó aldrei meiri en 70%.</dd>
+<dt></dt>
+<dd>1. Fyrir þingsetu í samtals 5 ár eða skemur: 2% fyrir hvert heilt ár og samsvarandi fyrir hluta úr ári.</dd>
+<dt></dt>
+<dd>2. Fyrir þingsetu í samtals allt að 9 ár: 30%.</dd>
+<dt></dt>
+<dd>3. Fyrir þingsetu í samtals allt að 12 ár: 40%.</dd>
+<dt></dt>
+<dd>4. Fyrir þingsetu í samtals allt að 15 ár: 50%.</dd>
+<dt></dt>
+<dd>5. Fyrir þingsetu í samtals allt að 18 ár: 55%.</dd>
+<dt></dt>
+<dd>6. Fyrir þingsetu í samtals allt að 21 ár: 60%.</dd>
+<dt></dt>
+<dd>7. Fyrir þingsetu í samtals 21 ár eða lengur: 62% að viðbættum 2% fyrir hvert heilt ár, og samsvarandi fyrir hluta úr ári, sem þingseta er samtals lengri en 21 ár. Eftirlaunarétturinn verður þó aldrei meiri en 70%.</dd>
 </dl>
 
 
-      Fyrir þingsetu umfram 5 ár samkvæmt töluliðum 2 til 6 skal lífeyrisréttur breytast hlutfallslega fyrir hvert ár innan hinna tilgreindu tímabila.
-      Eftirlaunin skulu fylgja þingfararkaupi alþingismanns eins og það er á hverjum tíma og vera sá hundraðshluti þess, sem eftirlaunarétturinn samkvæmt 1. mgr. segir til um.
-      Eftirlaun greiðast ekki meðan hinn fyrrverandi alþingismaður fær greidd biðlaun samkvæmt "8. gr. laga nr. 75/1980":1980075.html, um þingfararkaup alþingismanna.[^1)^]][^2)^]
-      [Þeir sem gegnt hafa embætti forseta Alþingis eftir gildistöku "laga nr. 88/1995":1995088.html skulu, auk réttar skv. 1. og 2. mgr. þessarar greinar, eiga rétt til viðbótargreiðslna úr sjóðnum eftir sömu reglum og gilda um eftirlaun ráðherra, sbr. "lög nr. 47/1965":1965047.html, með síðari breytingum, fyrir þann tíma er þeir voru í embætti. Greiðslur samkvæmt þessari málsgrein og greiðslur úr eftirlaunadeild ráðherra, sem fyrrverandi forseti kann að eiga rétt á, mega þó aldrei nema samtals hærri fjárhæð en 50% af ráðherralaunum og skerðast greiðslur samkvæmt þessari málsgrein sem því nemur.][^3)^]
+         Fyrir þingsetu umfram 5 ár samkvæmt töluliðum 2 til 6 skal lífeyrisréttur breytast hlutfallslega fyrir hvert ár innan hinna tilgreindu tímabila.
+         Eftirlaunin skulu fylgja þingfararkaupi alþingismanns eins og það er á hverjum tíma og vera sá hundraðshluti þess, sem eftirlaunarétturinn samkvæmt 1. mgr. segir til um.
+         Eftirlaun greiðast ekki meðan hinn fyrrverandi alþingismaður fær greidd biðlaun samkvæmt "8. gr. laga nr. 75/1980":1980075.html, um þingfararkaup alþingismanna.[^1)^]][^2)^]
+         [Þeir sem gegnt hafa embætti forseta Alþingis eftir gildistöku "laga nr. 88/1995":1995088.html skulu, auk réttar skv. 1. og 2. mgr. þessarar greinar, eiga rétt til viðbótargreiðslna úr sjóðnum eftir sömu reglum og gilda um eftirlaun ráðherra, sbr. "lög nr. 47/1965":1965047.html, með síðari breytingum, fyrir þann tíma er þeir voru í embætti. Greiðslur samkvæmt þessari málsgrein og greiðslur úr eftirlaunadeild ráðherra, sem fyrrverandi forseti kann að eiga rétt á, mega þó aldrei nema samtals hærri fjárhæð en 50% af ráðherralaunum og skerðast greiðslur samkvæmt þessari málsgrein sem því nemur.][^3)^]
 
 
 _[^1)^]Nú "l. 88/1995, 13. gr.":1995088.html#g13[^2)^]"L. 73/1982, 2. gr.":/altext/stjtnr.html#1982073?g2[^3)^]"L. 108/1996, 2. gr.":/altext/stjt/1996.108.html_
@@ -80,12 +80,12 @@ _[^1)^]Nú "l. 88/1995, 13. gr.":1995088.html#g13[^2)^]"L. 73/1982, 2. gr.":/alt
 
 [4. gr.][^1)^]
 
-     [Eftirlifandi maki alþingismanns, fyrrverandi alþingismanns eða varaþingmanns á rétt á eftirlaunum að honum látnum samkvæmt ákvæðum þessarar greinar.
-      Eftirlaunaréttur maka alþingismanns eða fyrrverandi alþingismanns skal vera 20% af þingfararkaupi að viðbættum helmingnum af þeim hundraðshluta sem hinn látni alþingismaður hafði áunnið sér skv. 1. - 2. mgr. 3. gr. Sé makalífeyrir samkvæmt þessari málsgrein hærri hundraðshluti en sá sem hinn látni alþingismaður hafði áunnið sér skal það sem umfram er falla niður eftir þrjú ár eða þegar yngsta barn hans verður 18 ára ef síðar er.
-      Eftirlifandi maki varaþingmanns skal eiga rétt á eftirlaunum er nema helmingnum af þeim hundraðshluta sem hinn látni varaþingmaður hafði áunnið sér skv. 1. - 2. mgr. 3. gr. Hafi samanlögð þingseta varamanns numið tveimur árum á eftirlifandi maki þó sama rétt og eftirlifandi makar alþingismanna og fyrrverandi alþingismanna skv. 2. mgr. þessarar greinar.
-      Eftirlifandi maki fyrrverandi forseta Alþingis á rétt á viðbótargreiðslu sem nemur helmingi þess réttindahlutfalls af ráðherralaunum sem forsetinn hafði aflað sér skv. 5. mgr. 3. gr. laganna, auk 20% nema makinn eigi jafnframt rétt í ráðherradeild sjóðsins.
-      Eftirlaun maka fylgja þingfararkaupi alþingismanna eins og það er á hverjum tíma og eru sá hundraðshluti þess sem eftirlaunaréttur skv. 2. - 4. mgr. þessarar greinar segir til um.
-      Reglur 4. - 7. mgr. 14. gr. laga um Lífeyrissjóð starfsmanna ríkisins skulu gilda um makalífeyri alþingismanna eftir því sem við á.][^2)^]
+        [Eftirlifandi maki alþingismanns, fyrrverandi alþingismanns eða varaþingmanns á rétt á eftirlaunum að honum látnum samkvæmt ákvæðum þessarar greinar.
+         Eftirlaunaréttur maka alþingismanns eða fyrrverandi alþingismanns skal vera 20% af þingfararkaupi að viðbættum helmingnum af þeim hundraðshluta sem hinn látni alþingismaður hafði áunnið sér skv. 1. - 2. mgr. 3. gr. Sé makalífeyrir samkvæmt þessari málsgrein hærri hundraðshluti en sá sem hinn látni alþingismaður hafði áunnið sér skal það sem umfram er falla niður eftir þrjú ár eða þegar yngsta barn hans verður 18 ára ef síðar er.
+         Eftirlifandi maki varaþingmanns skal eiga rétt á eftirlaunum er nema helmingnum af þeim hundraðshluta sem hinn látni varaþingmaður hafði áunnið sér skv. 1. - 2. mgr. 3. gr. Hafi samanlögð þingseta varamanns numið tveimur árum á eftirlifandi maki þó sama rétt og eftirlifandi makar alþingismanna og fyrrverandi alþingismanna skv. 2. mgr. þessarar greinar.
+         Eftirlifandi maki fyrrverandi forseta Alþingis á rétt á viðbótargreiðslu sem nemur helmingi þess réttindahlutfalls af ráðherralaunum sem forsetinn hafði aflað sér skv. 5. mgr. 3. gr. laganna, auk 20% nema makinn eigi jafnframt rétt í ráðherradeild sjóðsins.
+         Eftirlaun maka fylgja þingfararkaupi alþingismanna eins og það er á hverjum tíma og eru sá hundraðshluti þess sem eftirlaunaréttur skv. 2. - 4. mgr. þessarar greinar segir til um.
+         Reglur 4. - 7. mgr. 14. gr. laga um Lífeyrissjóð starfsmanna ríkisins skulu gilda um makalífeyri alþingismanna eftir því sem við á.][^2)^]
 
 
 _[^1)^]"L. 73/1982, 3. gr.":/altext/stjtnr.html#1982073?g3[^2)^]"L. 108/1996, 3. gr.":/altext/stjt/1996.108.html_
@@ -95,8 +95,8 @@ _[^1)^]"L. 73/1982, 3. gr.":/altext/stjtnr.html#1982073?g3[^2)^]"L. 108/1996, 3.
 
 [5. gr.
 
-     Börn eða kjörbörn, sem sjóðfélagi lætur eftir sig, er hann andast, og yngri eru en 18 ára, skulu fá árlegan lífeyri úr sjóðnum, þar til þau eru fullra 18 ára að aldri, enda hafi hinn látni séð um framfærslu þeirra að nokkru eða öllu leyti. Sama gildir um börn eða kjörbörn, er sá maður lætur eftir sig, er naut elli- eða örorkulífeyris úr sjóðnum, er hann andaðist. Ef barnið á foreldri eða kjörforeldri á lífi, er sér um framfærslu þess, er samanlagður lífeyrir þess frá almannatryggingum og úr þessum sjóði 50% hærri en barnalífeyrir almannatrygginga. Að öðrum kosti er lífeyririnn tvöfaldur barnalífeyrir almannatrygginga. Sama rétt öðlast börn og kjörbörn þeirra sjóðfélaga, er njóta elli- eða örorkulífeyris úr sjóðnum, þó svo, að barnalífeyrir úr þessum sjóði til barna eða kjörbarna örorkulífeyrisþega skal vera jafnmargir hundraðshlutar af fullum barnalífeyri eins og örorkulífeyrir hans er margir hundraðshlutar af hámarksörorkulífeyri. Fósturbörn, er sjóðfélagi hefur framfært að mestu eða öllu leyti, njóti sama réttar og börnum og kjörbörnum er veittur hér að framan.][^1)^]
-      [Ákvæði þessarar greinar gilda ekki um börn eða kjörbörn varaþingmanna nema þingseta varaþingmanns hafi varað a.m.k. tvö ár samanlagt.][^2)^]
+        Börn eða kjörbörn, sem sjóðfélagi lætur eftir sig, er hann andast, og yngri eru en 18 ára, skulu fá árlegan lífeyri úr sjóðnum, þar til þau eru fullra 18 ára að aldri, enda hafi hinn látni séð um framfærslu þeirra að nokkru eða öllu leyti. Sama gildir um börn eða kjörbörn, er sá maður lætur eftir sig, er naut elli- eða örorkulífeyris úr sjóðnum, er hann andaðist. Ef barnið á foreldri eða kjörforeldri á lífi, er sér um framfærslu þess, er samanlagður lífeyrir þess frá almannatryggingum og úr þessum sjóði 50% hærri en barnalífeyrir almannatrygginga. Að öðrum kosti er lífeyririnn tvöfaldur barnalífeyrir almannatrygginga. Sama rétt öðlast börn og kjörbörn þeirra sjóðfélaga, er njóta elli- eða örorkulífeyris úr sjóðnum, þó svo, að barnalífeyrir úr þessum sjóði til barna eða kjörbarna örorkulífeyrisþega skal vera jafnmargir hundraðshlutar af fullum barnalífeyri eins og örorkulífeyrir hans er margir hundraðshlutar af hámarksörorkulífeyri. Fósturbörn, er sjóðfélagi hefur framfært að mestu eða öllu leyti, njóti sama réttar og börnum og kjörbörnum er veittur hér að framan.][^1)^]
+         [Ákvæði þessarar greinar gilda ekki um börn eða kjörbörn varaþingmanna nema þingseta varaþingmanns hafi varað a.m.k. tvö ár samanlagt.][^2)^]
 
 
 _[^1)^]"L. 73/1982, 5. gr.":/altext/stjtnr.html#1982073?g5[^2)^]"L. 108/1996, 4. gr.":/altext/stjt/1996.108.html "Ákvæðið gildir þó ekki um þau tilvik er greinir í 6. gr. l. 108/1996":/altext/stjt/1996.108.html._
@@ -106,7 +106,7 @@ _[^1)^]"L. 73/1982, 5. gr.":/altext/stjtnr.html#1982073?g5[^2)^]"L. 108/1996, 4.
 
 6. gr.
 
-     ...[^1)^]
+        ...[^1)^]
 
 
 _[^1)^]"L. 108/1996, 5. gr.":/altext/stjt/1996.108.html Ákvæði 6. gr. gilda þó áfram um þau tilvik er greinir í "6. gr. l. 108/1996":/altext/stjt/1996.108.html._
@@ -116,8 +116,8 @@ _[^1)^]"L. 108/1996, 5. gr.":/altext/stjt/1996.108.html Ákvæði 6. gr. gilda �
 
 7. gr.
 
-     [Lífeyrir samkvæmt lögum þessum greiðist án tillits til lífeyris, er sjóðfélagi á rétt á úr öðrum deildum Lífeyrissjóðs starfsmanna ríkisins og öðrum lögboðnum lífeyrissjóðum og hefur ekki áhrif á slík réttindi að öðru leyti en um getur í 2. mgr.
-      Nú hefur fyrrverandi alþingismaður áunnið sér eftirlaunarétt í hinni almennu deild Lífeyrissjóðs starfsmanna ríkisins samtímis því að hann ávann sér rétt í alþingismannadeild sjóðsins, án þess þó að launaskerðing samkvæmt "11. gr. laga nr. 75/1980":1980075.html, um þingfararkaup alþingismanna,[^1)^] eða ákvæði eldri þingfararkaupslaga hafi skert eftirlaunaréttinn í almennu deildinni og skulu þá eftirlaunin úr alþingismannadeildinni lækka um sömu upphæð og því nemur sem eftirlaunin úr almennu deildinni hefðu lækkað ef eftirlaunarétturinn þar hefði skerst í samræmi við launaskerðingu þingfararkaupslaga eins og þau voru á hverjum tíma.][^2)^]
+        [Lífeyrir samkvæmt lögum þessum greiðist án tillits til lífeyris, er sjóðfélagi á rétt á úr öðrum deildum Lífeyrissjóðs starfsmanna ríkisins og öðrum lögboðnum lífeyrissjóðum og hefur ekki áhrif á slík réttindi að öðru leyti en um getur í 2. mgr.
+         Nú hefur fyrrverandi alþingismaður áunnið sér eftirlaunarétt í hinni almennu deild Lífeyrissjóðs starfsmanna ríkisins samtímis því að hann ávann sér rétt í alþingismannadeild sjóðsins, án þess þó að launaskerðing samkvæmt "11. gr. laga nr. 75/1980":1980075.html, um þingfararkaup alþingismanna,[^1)^] eða ákvæði eldri þingfararkaupslaga hafi skert eftirlaunaréttinn í almennu deildinni og skulu þá eftirlaunin úr alþingismannadeildinni lækka um sömu upphæð og því nemur sem eftirlaunin úr almennu deildinni hefðu lækkað ef eftirlaunarétturinn þar hefði skerst í samræmi við launaskerðingu þingfararkaupslaga eins og þau voru á hverjum tíma.][^2)^]
 
 
 _[^1)^]Nú "l. 88/1995, 4. gr.":1995088.html#g4[^2)^]"L. 73/1982, 6. gr.":/altext/stjtnr.html#1982073?g6_
@@ -127,13 +127,13 @@ _[^1)^]Nú "l. 88/1995, 4. gr.":1995088.html#g4[^2)^]"L. 73/1982, 6. gr.":/altex
 
 8. gr.
 
-     Halli, sem verða kann á lífeyrissjóði alþingismanna, ef iðgjöld í sjóðinn endast ekki til greiðslu eftirlauna til fyrrverandi alþingismanna, eða lífeyris til maka þeirra, greiðist af alþingiskostnaði.
+        Halli, sem verða kann á lífeyrissjóði alþingismanna, ef iðgjöld í sjóðinn endast ekki til greiðslu eftirlauna til fyrrverandi alþingismanna, eða lífeyris til maka þeirra, greiðist af alþingiskostnaði.
 
 
 
 *[Ákvæði til bráðabirgða.*
 
-     Nú hefur maður þegar eða við lok yfirstandandi kjörtímabils öðlast betri rétt samkvæmt þeim reglum, sem settar voru með "lögum nr. 46 14. maí 1965":1965046.html, og heldur hann þá rétti til eftirlauna samkvæmt þeim reglum.][^1)^]
+        Nú hefur maður þegar eða við lok yfirstandandi kjörtímabils öðlast betri rétt samkvæmt þeim reglum, sem settar voru með "lögum nr. 46 14. maí 1965":1965046.html, og heldur hann þá rétti til eftirlauna samkvæmt þeim reglum.][^1)^]
 
 
 _[^1)^]"L. 73/1982, brbákv.":/altext/stjtnr.html#1982073?b0_

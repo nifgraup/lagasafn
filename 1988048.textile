@@ -15,29 +15,29 @@ h2. Lög um fangelsi og fangavist
 
 1. gr.
 
-     Ríkið skal eiga og reka öll fangelsi hér á landi. Dómsmálaráðherra fer með yfirstjórn fangelsismála.
+        Ríkið skal eiga og reka öll fangelsi hér á landi. Dómsmálaráðherra fer með yfirstjórn fangelsismála.
 
 
 
 2. gr.
 
-     Starfrækja skal sérstaka stofnun, fangelsismálastofnun, til þess:
+        Starfrækja skal sérstaka stofnun, fangelsismálastofnun, til þess:
 
 <dl>
-<dt>1.</dt>
-<dd>Að annast daglega yfirstjórn á rekstri fangelsa.</dd>
-<dt>2.</dt>
-<dd>Að sjá um fullnustu refsidóma.</dd>
-<dt>3.</dt>
-<dd>Að annast eftirlit með þeim sem frestað er ákæru gegn, dæmdir eru skilorðsbundið, fá skilorðsbundna reynslulausn, náðun eða frestun afplánunar.</dd>
-<dt>4.</dt>
-<dd>Að annast félagslega þjónustu við fanga og þá sem taldir eru upp í 3. lið.</dd>
-<dt>5.</dt>
-<dd>[Að sjá um að í fangelsum sé veitt sérhæfð þjónusta.][^1)^]</dd>
+<dt></dt>
+<dd>1. Að annast daglega yfirstjórn á rekstri fangelsa.</dd>
+<dt></dt>
+<dd>2. Að sjá um fullnustu refsidóma.</dd>
+<dt></dt>
+<dd>3. Að annast eftirlit með þeim sem frestað er ákæru gegn, dæmdir eru skilorðsbundið, fá skilorðsbundna reynslulausn, náðun eða frestun afplánunar.</dd>
+<dt></dt>
+<dd>4. Að annast félagslega þjónustu við fanga og þá sem taldir eru upp í 3. lið.</dd>
+<dt></dt>
+<dd>5. [Að sjá um að í fangelsum sé veitt sérhæfð þjónusta.][^1)^]</dd>
 </dl>
 
 
-      [Í fangelsum skulu fangar njóta sambærilegrar heilbrigðisþjónustu og almennt gildir, auk þeirrar sérstöku heilbrigðisþjónustu sem lög og reglur um fanga segja til um. Að höfðu samráði við fangelsismálastofnun sér heilbrigðis- og tryggingamálaráðuneytið um og ber ábyrgð á heilbrigðisþjónustu við fanga í fangelsum.][^1)^]
+         [Í fangelsum skulu fangar njóta sambærilegrar heilbrigðisþjónustu og almennt gildir, auk þeirrar sérstöku heilbrigðisþjónustu sem lög og reglur um fanga segja til um. Að höfðu samráði við fangelsismálastofnun sér heilbrigðis- og tryggingamálaráðuneytið um og ber ábyrgð á heilbrigðisþjónustu við fanga í fangelsum.][^1)^]
 
 
 _[^1)^]"L. 123/1997, 1. gr.":/altext/stjt/1997.123.html_
@@ -47,21 +47,21 @@ _[^1)^]"L. 123/1997, 1. gr.":/altext/stjt/1997.123.html_
 
 3. gr.
 
-     Dómsmálaráðherra ákveður staðsetningu, gerð og rekstrarfyrirkomulag fangelsa.[^1)^]
-      Fangelsi skiptast í eftirtalda flokka:
+        Dómsmálaráðherra ákveður staðsetningu, gerð og rekstrarfyrirkomulag fangelsa.[^1)^]
+         Fangelsi skiptast í eftirtalda flokka:
 
 <dl>
-<dt>1.</dt>
-<dd>Afplánunarfangelsi.</dd>
-<dt>2.</dt>
-<dd>Gæsluvarðhaldsfangelsi.</dd>
+<dt></dt>
+<dd>1. Afplánunarfangelsi.</dd>
+<dt></dt>
+<dd>2. Gæsluvarðhaldsfangelsi.</dd>
 </dl>
 
 
-      Í afplánunarfangelsum skal vista þá sem dæmdir eru í fangelsi ...[^2)^] og þá sem afplána vararefsingu fésekta.
-      [Í afplánunarfangelsum má starfrækja gæsluvarðhaldsdeildir. Gæsluvarðhaldsfanga má vista meðal afplánunarfanga ef einangrun telst ekki nauðsynleg.][^3)^]
-      Í sérstökum tilfellum má um skemmri tíma vista afplánunarfanga í fangageymslum lögreglu eða gæsluvarðhaldsfangelsi.
-      Heimilt er að vista gæsluvarðhaldsfanga í fangageymslum lögreglu.
+         Í afplánunarfangelsum skal vista þá sem dæmdir eru í fangelsi ...[^2)^] og þá sem afplána vararefsingu fésekta.
+         [Í afplánunarfangelsum má starfrækja gæsluvarðhaldsdeildir. Gæsluvarðhaldsfanga má vista meðal afplánunarfanga ef einangrun telst ekki nauðsynleg.][^3)^]
+         Í sérstökum tilfellum má um skemmri tíma vista afplánunarfanga í fangageymslum lögreglu eða gæsluvarðhaldsfangelsi.
+         Heimilt er að vista gæsluvarðhaldsfanga í fangageymslum lögreglu.
 
 
 _[^1)^]Sjá t.d. rg. 316/1977 (um nýtingu fangelsa í Reykjavík); rg. 112/1978 (um ríkisfangelsisdeild í lögreglustöðinni á Akureyri); rg. 584/1981 (um vistun fanga að Bitru í Hraungerðishreppi) og rg. 629/1981, sbr. 24/1982 (um einkennisfatnað fangavarða).[^2)^]"L. 82/1998, 190. gr.":/altext/stjt/1998.082.html[^3)^]"L. 123/1997, 2. gr.":/altext/stjt/1997.123.html_
@@ -75,7 +75,7 @@ _[^1)^]Sjá t.d. rg. 316/1977 (um nýtingu fangelsa í Reykjavík); rg. 112/1978
 
 4. gr.
 
-     [Ráðherra skipar forstjóra fangelsismálastofnunar til fimm ára í senn.][^1)^] Forstjóri skal vera lögfræðingur. Forstjóri ræður aðra starfsmenn.
+        [Ráðherra skipar forstjóra fangelsismálastofnunar til fimm ára í senn.][^1)^] Forstjóri skal vera lögfræðingur. Forstjóri ræður aðra starfsmenn.
 
 
 _[^1)^]"L. 83/1997, 22. gr.":/altext/stjt/1997.083.html_
@@ -85,8 +85,8 @@ _[^1)^]"L. 83/1997, 22. gr.":/altext/stjt/1997.083.html_
 
 5. gr.
 
-     [Ráðherra skipar forstöðumann fangelsis til fimm ára í senn.][^1)^] Ráða skal öðrum fremur mann er hefur lokið viðurkenndu lokaprófi frá háskóla. Heimilt er að fleiri en ein stofnun heyri undir sama forstöðumann.
-      Forstöðumaður sér um daglegan rekstur stofnunar.
+        [Ráðherra skipar forstöðumann fangelsis til fimm ára í senn.][^1)^] Ráða skal öðrum fremur mann er hefur lokið viðurkenndu lokaprófi frá háskóla. Heimilt er að fleiri en ein stofnun heyri undir sama forstöðumann.
+         Forstöðumaður sér um daglegan rekstur stofnunar.
 
 
 _[^1)^]"L. 83/1997, 23. gr.":/altext/stjt/1997.083.html_
@@ -96,9 +96,9 @@ _[^1)^]"L. 83/1997, 23. gr.":/altext/stjt/1997.083.html_
 
 6. gr.
 
-     Í fangelsum skal starfa hæfilegur fjöldi fangavarða og annars starfsliðs. [Ráðherra skipar fangaverði til fimm ára í senn, en forstöðumaður stofnunar ræður aðra starfsmenn.][^1)^]
-      Fangaverðir mega hvorki gera verkfall né taka þátt í verkfallsboðun.
-      Fangaverðir eiga rétt á bótum fyrir meiðsli og tjón sem þeir verða fyrir vegna starfs síns.
+        Í fangelsum skal starfa hæfilegur fjöldi fangavarða og annars starfsliðs. [Ráðherra skipar fangaverði til fimm ára í senn, en forstöðumaður stofnunar ræður aðra starfsmenn.][^1)^]
+         Fangaverðir mega hvorki gera verkfall né taka þátt í verkfallsboðun.
+         Fangaverðir eiga rétt á bótum fyrir meiðsli og tjón sem þeir verða fyrir vegna starfs síns.
 
 
 _[^1)^]"L. 83/1997, 24. gr.":/altext/stjt/1997.083.html_
@@ -112,7 +112,7 @@ _[^1)^]"L. 83/1997, 24. gr.":/altext/stjt/1997.083.html_
 
 7. gr.
 
-     [Ákvæði í þessum kafla eiga við um afplánunarfanga.][^1)^]
+        [Ákvæði í þessum kafla eiga við um afplánunarfanga.][^1)^]
 
 
 _[^1)^]"L. 123/1997, 3. gr.":/altext/stjt/1997.123.html_
@@ -122,105 +122,105 @@ _[^1)^]"L. 123/1997, 3. gr.":/altext/stjt/1997.123.html_
 
 8. gr.
 
-     Fangelsismálastofnun ákveður í hvaða fangelsi afplánun fer fram. Við þá ákvörðun skal tillit tekið til aldurs, kynferðis, búsetu og brotaferils fangans. Fangi, sem á við andlega eða líkamlega fötlun að stríða eða þarfnast af öðrum ástæðum sérstaks aðbúnaðar, skal afplána í því fangelsi sem uppfyllir skilyrði um slíkan aðbúnað.
-      Eigi kona ungbarn við upphaf afplánunar eða fæði barn í afplánun má heimila henni að hafa það hjá sér í fangelsinu.
+        Fangelsismálastofnun ákveður í hvaða fangelsi afplánun fer fram. Við þá ákvörðun skal tillit tekið til aldurs, kynferðis, búsetu og brotaferils fangans. Fangi, sem á við andlega eða líkamlega fötlun að stríða eða þarfnast af öðrum ástæðum sérstaks aðbúnaðar, skal afplána í því fangelsi sem uppfyllir skilyrði um slíkan aðbúnað.
+         Eigi kona ungbarn við upphaf afplánunar eða fæði barn í afplánun má heimila henni að hafa það hjá sér í fangelsinu.
 
 
 
 9. gr.
 
-     Afplánun skal vera samfelld. Ef sérstakar ástæður eru til staðar er heimilt að skipta afplánun. Slíkt hlé má skilorðsbinda.
+        Afplánun skal vera samfelld. Ef sérstakar ástæður eru til staðar er heimilt að skipta afplánun. Slíkt hlé má skilorðsbinda.
 
 
 
 10. gr.
 
-     Heimilt er að fangelsum verði skipt upp í deildir.
+        Heimilt er að fangelsum verði skipt upp í deildir.
 
 
 
 11. gr.
 
-     Fangelsismálastofnun getur leyft að dómfelldur maður sé um stundarsakir eða allan refsitímann vistaður í sjúkrahúsi eða annarri stofnun þar sem hann nýtur sérstakrar meðferðar eða forsjár, enda sé slíkt talið henta vegna heilsu hans, aldurs eða annarra sérstakra ástæðna.
+        Fangelsismálastofnun getur leyft að dómfelldur maður sé um stundarsakir eða allan refsitímann vistaður í sjúkrahúsi eða annarri stofnun þar sem hann nýtur sérstakrar meðferðar eða forsjár, enda sé slíkt talið henta vegna heilsu hans, aldurs eða annarra sérstakra ástæðna.
 
 
 
 12. gr.
 
-     Fangi, sem lagður er í sjúkrahús, telst taka út refsingu meðan hann dvelst þar nema hann hafi sjálfur bakað sér veikindin á ótilhlýðilegan hátt eftir að hann hóf afplánun.
+        Fangi, sem lagður er í sjúkrahús, telst taka út refsingu meðan hann dvelst þar nema hann hafi sjálfur bakað sér veikindin á ótilhlýðilegan hátt eftir að hann hóf afplánun.
 
 
 
 13. gr.
 
-     Í fangelsum skal vera aðstaða og tæki til fjölbreyttrar vinnu.
-      Fanga ber að vinna þau störf sem honum eru falin.
-      Fanga skal greiða laun fyrir vinnuna og skal tekið tillit til arðsemi vinnunnar og launa á almennum vinnumarkaði við ákvörðun launa.
-      Vinnulaun má taka til greiðslu á skaðabótum eða öðrum útgjöldum sem fanginn verður ábyrgur fyrir meðan hann er að afplána refsingu.
-      Samkvæmt beiðni fanga má heimila honum að uppfylla vinnuskyldu í klefa sínum ef aðstæður leyfa og aðrar ástæður mæla ekki gegn því. Með samþykki forstöðumanns fangelsis er fanga heimilt að útvega sér vinnu.
-      Heimila má fanga að stunda vinnu utan fangelsis og ákveður forstöðumaður í samráði við fangelsismálastofnun hvernig gæslu skuli hagað.
-      Ekki má setja fanga til vinnu sem er hættuleg heilsu hans. Fangi skal tryggður gegn slysum við vinnu eftir því sem lög um slysatryggingar mæla.
-      Ef fangi er ekki settur til vinnu skulu honum ákvarðaðir dagpeningar.
+        Í fangelsum skal vera aðstaða og tæki til fjölbreyttrar vinnu.
+         Fanga ber að vinna þau störf sem honum eru falin.
+         Fanga skal greiða laun fyrir vinnuna og skal tekið tillit til arðsemi vinnunnar og launa á almennum vinnumarkaði við ákvörðun launa.
+         Vinnulaun má taka til greiðslu á skaðabótum eða öðrum útgjöldum sem fanginn verður ábyrgur fyrir meðan hann er að afplána refsingu.
+         Samkvæmt beiðni fanga má heimila honum að uppfylla vinnuskyldu í klefa sínum ef aðstæður leyfa og aðrar ástæður mæla ekki gegn því. Með samþykki forstöðumanns fangelsis er fanga heimilt að útvega sér vinnu.
+         Heimila má fanga að stunda vinnu utan fangelsis og ákveður forstöðumaður í samráði við fangelsismálastofnun hvernig gæslu skuli hagað.
+         Ekki má setja fanga til vinnu sem er hættuleg heilsu hans. Fangi skal tryggður gegn slysum við vinnu eftir því sem lög um slysatryggingar mæla.
+         Ef fangi er ekki settur til vinnu skulu honum ákvarðaðir dagpeningar.
 
 
 
 14. gr.
 
-     Fangi skal eiga kost á því að stunda nám. Heimila má fanga að stunda nám eða starfsþjálfun utan fangelsis og ákveður forstöðumaður fangelsis í samráði við fangelsismálastofnun hvernig gæslu skuli hagað.
-      Reglubundið nám fanga kemur í stað vinnuskyldu.
+        Fangi skal eiga kost á því að stunda nám. Heimila má fanga að stunda nám eða starfsþjálfun utan fangelsis og ákveður forstöðumaður fangelsis í samráði við fangelsismálastofnun hvernig gæslu skuli hagað.
+         Reglubundið nám fanga kemur í stað vinnuskyldu.
 
 
 
 15. gr.
 
-     Fanga skal séð fyrir aðstöðu til tómstundaiðkana og líkamsþjálfunar.
-      Fangi skal eiga kost á útivist í a.m.k. eina klukkustund á dag nema aðstæður hamli.
+        Fanga skal séð fyrir aðstöðu til tómstundaiðkana og líkamsþjálfunar.
+         Fangi skal eiga kost á útivist í a.m.k. eina klukkustund á dag nema aðstæður hamli.
 
 
 
 16. gr.
 
-     Fangi skal vera einn í klefa nema sérstakar aðstæður eða húsrými komi í veg fyrir það og skal klefinn vera lokaður að næturlagi.
-      Fangi má samkvæmt nánari reglum umgangast aðra fanga að degi til.
+        Fangi skal vera einn í klefa nema sérstakar aðstæður eða húsrými komi í veg fyrir það og skal klefinn vera lokaður að næturlagi.
+         Fangi má samkvæmt nánari reglum umgangast aðra fanga að degi til.
 
 
 
 17. gr.
 
-     Fangi hefur rétt til að þiggja heimsókn af nánustu vandamönnum sínum á tilteknum viðtalstímum.
-      Forstöðumaður getur leyft frekari heimsóknir. Ef sérstakar ástæður eru fyrir hendi getur forstöðumaður bannað tilteknum mönnum að heimsækja fanga, einnig vandamönnum hans.
-      Fangi getur neitað að þiggja heimsóknir manna nema þeirra sem eiga við hann opinber erindi eða heimsækja hann að tilmælum forstöðumanns.
-      Heimilt er að leita á þeim sem heimsækja fanga.
+        Fangi hefur rétt til að þiggja heimsókn af nánustu vandamönnum sínum á tilteknum viðtalstímum.
+         Forstöðumaður getur leyft frekari heimsóknir. Ef sérstakar ástæður eru fyrir hendi getur forstöðumaður bannað tilteknum mönnum að heimsækja fanga, einnig vandamönnum hans.
+         Fangi getur neitað að þiggja heimsóknir manna nema þeirra sem eiga við hann opinber erindi eða heimsækja hann að tilmælum forstöðumanns.
+         Heimilt er að leita á þeim sem heimsækja fanga.
 
 
 
 18. gr.
 
-     Fanga er heimilt að senda og taka við bréfum.
-      Heimilt er að rannsaka bréf ef ástæða þykir til.
-      Bréf til og frá fanga má stöðva ef innihald þess gefur tilefni til og skal tilkynna sendanda um stöðvun bréfs.
-      Bréf til og frá yfirvöldum og lögmönnum fanga skulu ekki rannsökuð.
-      Fanga er heimilt að taka við öðrum sendingum samkvæmt nánari reglum. Heimilt er að rannsaka allar sendingar til og frá fanga.
+        Fanga er heimilt að senda og taka við bréfum.
+         Heimilt er að rannsaka bréf ef ástæða þykir til.
+         Bréf til og frá fanga má stöðva ef innihald þess gefur tilefni til og skal tilkynna sendanda um stöðvun bréfs.
+         Bréf til og frá yfirvöldum og lögmönnum fanga skulu ekki rannsökuð.
+         Fanga er heimilt að taka við öðrum sendingum samkvæmt nánari reglum. Heimilt er að rannsaka allar sendingar til og frá fanga.
 
 
 
 19. gr.
 
-     Fangi hefur rétt á símtölum við aðila utan fangelsis að því marki sem aðstæður leyfa í fangelsinu.
-      Heimilt er að hlusta á símtöl við fanga. Ef hlustað er á símtal við fanga skal það gert með vitneskju hans.
+        Fangi hefur rétt á símtölum við aðila utan fangelsis að því marki sem aðstæður leyfa í fangelsinu.
+         Heimilt er að hlusta á símtöl við fanga. Ef hlustað er á símtal við fanga skal það gert með vitneskju hans.
 
 
 
 20. gr.
 
-     Dómsmálaráðherra getur takmarkað rétt fanga skv. 17. - 19. gr. vegna öryggis ríkisins.
+        Dómsmálaráðherra getur takmarkað rétt fanga skv. 17. - 19. gr. vegna öryggis ríkisins.
 
 
 
 21. gr.
 
-     Veita má fanga leyfi til skammrar dvalar utan fangelsis ef slíkt telst heppilegt sem þáttur í refsifullnustu eða til að búa hann undir að afplánun ljúki.
-      Leyfi skal ekki veitt ef hætta er á að fangi misnoti það.
+        Veita má fanga leyfi til skammrar dvalar utan fangelsis ef slíkt telst heppilegt sem þáttur í refsifullnustu eða til að búa hann undir að afplánun ljúki.
+         Leyfi skal ekki veitt ef hætta er á að fangi misnoti það.
 
 
 
@@ -232,9 +232,9 @@ _[^1)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
 
 [22. gr.
 
-     Hafi maður verið dæmdur í allt að sex mánaða [óskilorðsbundið fangelsi][^1)^] er heimilt, ef almannahagsmunir mæla ekki gegn því, að fullnusta refsinguna með ólaunaðri samfélagsþjónustu, minnst 40 klukkustundir og mest 240 klukkustundir.
-      Þegar um [fangelsisrefsingu][^1)^] er að ræða samkvæmt fleiri en einum dómi má samanlögð refsing eigi vera lengri en sex mánuðir.
-      Þegar hluti [fangelsisrefsingar][^1)^] er skilorðsbundinn má [heildarrefsing][^1)^] samkvæmt dóminum eigi vera lengri en sex mánuðir.][^2)^]
+        Hafi maður verið dæmdur í allt að sex mánaða [óskilorðsbundið fangelsi][^1)^] er heimilt, ef almannahagsmunir mæla ekki gegn því, að fullnusta refsinguna með ólaunaðri samfélagsþjónustu, minnst 40 klukkustundir og mest 240 klukkustundir.
+         Þegar um [fangelsisrefsingu][^1)^] er að ræða samkvæmt fleiri en einum dómi má samanlögð refsing eigi vera lengri en sex mánuðir.
+         Þegar hluti [fangelsisrefsingar][^1)^] er skilorðsbundinn má [heildarrefsing][^1)^] samkvæmt dóminum eigi vera lengri en sex mánuðir.][^2)^]
 
 
 _[^1)^]"L. 82/1998, 190. gr.":/altext/stjt/1998.082.html[^2)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
@@ -244,20 +244,20 @@ _[^1)^]"L. 82/1998, 190. gr.":/altext/stjt/1998.082.html[^2)^]"L. 123/1997, 4. g
 
 [23. gr.
 
-     Skilyrði þess að samfélagsþjónusta komi til álita eru:
+        Skilyrði þess að samfélagsþjónusta komi til álita eru:
 
 <dl>
-<dt>1.</dt>
-<dd>Að dómþoli hafi óskað eftir því skriflega við fangelsismálastofnun eigi síðar en hálfum mánuði áður en hann átti upphaflega að hefja afplánun [fangelsisrefsingar].[^1)^]</dd>
-<dt>2.</dt>
-<dd>Að dómþoli eigi ekki mál til meðferðar hjá lögreglu, ákæruvaldi eða dómstólum, þar sem hann er kærður fyrir refsiverðan verknað.</dd>
-<dt>3.</dt>
-<dd>Að dómþoli teljist hæfur til samfélagsþjónustu.</dd>
+<dt></dt>
+<dd>1. Að dómþoli hafi óskað eftir því skriflega við fangelsismálastofnun eigi síðar en hálfum mánuði áður en hann átti upphaflega að hefja afplánun [fangelsisrefsingar].[^1)^]</dd>
+<dt></dt>
+<dd>2. Að dómþoli eigi ekki mál til meðferðar hjá lögreglu, ákæruvaldi eða dómstólum, þar sem hann er kærður fyrir refsiverðan verknað.</dd>
+<dt></dt>
+<dd>3. Að dómþoli teljist hæfur til samfélagsþjónustu.</dd>
 </dl>
 
 
-      Áður en metið er hvort dómþoli teljist hæfur til samfélagsþjónustu og þar með talið hvort líklegt er að hann geti innt hana af hendi skal fara fram athugun á persónulegum högum hans.
-      Þegar [fangelsisrefsing][^1)^] er fullnustuð með samfélagsþjónustu jafngildir 40 klukkustunda samfélagsþjónusta eins mánaðar [fangelsisrefsingu].[^1)^] Hafi gæsluvarðhald komið til frádráttar [fangelsisrefsingu][^1)^] skal taka tillit til þess við útreikning á fjölda klukkustunda.][^2)^]
+         Áður en metið er hvort dómþoli teljist hæfur til samfélagsþjónustu og þar með talið hvort líklegt er að hann geti innt hana af hendi skal fara fram athugun á persónulegum högum hans.
+         Þegar [fangelsisrefsing][^1)^] er fullnustuð með samfélagsþjónustu jafngildir 40 klukkustunda samfélagsþjónusta eins mánaðar [fangelsisrefsingu].[^1)^] Hafi gæsluvarðhald komið til frádráttar [fangelsisrefsingu][^1)^] skal taka tillit til þess við útreikning á fjölda klukkustunda.][^2)^]
 
 
 _[^1)^]"L. 82/1998, 190. gr.":/altext/stjt/1998.082.html[^2)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
@@ -267,9 +267,9 @@ _[^1)^]"L. 82/1998, 190. gr.":/altext/stjt/1998.082.html[^2)^]"L. 123/1997, 4. g
 
 [24. gr.
 
-     Fangelsismálastofnun ákveður hvort [fangelsisdómur][^1)^] verði fullnustaður með samfélagsþjónustu og hvaða samfélagsþjónustu dómþoli sinni í hverju tilviki. Sama gildir um á hve löngum tíma samfélagsþjónusta skuli innt af hendi, en sá tími skal þó aldrei vera skemmri en tveir mánuðir.
-      Þegar skal hafna umsókn um samfélagsþjónustu ef umsækjandi uppfyllir ekki skilyrði skv. 1. eða 2. tölul. 1. mgr. 23. gr. Ef sérstakar ástæður mæla með er þó heimilt að víkja frá tímafresti í 1. tölul. 1. mgr. 23. gr.
-      Þegar umsókn er tekin til efnislegrar meðferðar skal fresta fullnustu [fangelsisrefsingar][^1)^] þar til ákvörðun um afgreiðslu hennar liggur fyrir, enda fremji dómþoli ekki refsiverðan verknað á þeim tíma.][^2)^]
+        Fangelsismálastofnun ákveður hvort [fangelsisdómur][^1)^] verði fullnustaður með samfélagsþjónustu og hvaða samfélagsþjónustu dómþoli sinni í hverju tilviki. Sama gildir um á hve löngum tíma samfélagsþjónusta skuli innt af hendi, en sá tími skal þó aldrei vera skemmri en tveir mánuðir.
+         Þegar skal hafna umsókn um samfélagsþjónustu ef umsækjandi uppfyllir ekki skilyrði skv. 1. eða 2. tölul. 1. mgr. 23. gr. Ef sérstakar ástæður mæla með er þó heimilt að víkja frá tímafresti í 1. tölul. 1. mgr. 23. gr.
+         Þegar umsókn er tekin til efnislegrar meðferðar skal fresta fullnustu [fangelsisrefsingar][^1)^] þar til ákvörðun um afgreiðslu hennar liggur fyrir, enda fremji dómþoli ekki refsiverðan verknað á þeim tíma.][^2)^]
 
 
 _[^1)^]"L. 82/1998, 190. gr.":/altext/stjt/1998.082.html[^2)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
@@ -279,18 +279,18 @@ _[^1)^]"L. 82/1998, 190. gr.":/altext/stjt/1998.082.html[^2)^]"L. 123/1997, 4. g
 
 [25. gr.
 
-     Samfélagsþjónusta skal bundin eftirfarandi skilyrðum:
+        Samfélagsþjónusta skal bundin eftirfarandi skilyrðum:
 
 <dl>
-<dt>1.</dt>
-<dd>Að dómþoli gerist ekki sekur um refsiverðan verknað á þeim tíma sem samfélagsþjónusta er innt af hendi.</dd>
-<dt>2.</dt>
-<dd>Að dómþoli sæti á þeim tíma, sem samfélagsþjónusta er innt af hendi, umsjón og eftirliti einstakra manna, félags eða stofnunar.</dd>
+<dt></dt>
+<dd>1. Að dómþoli gerist ekki sekur um refsiverðan verknað á þeim tíma sem samfélagsþjónusta er innt af hendi.</dd>
+<dt></dt>
+<dd>2. Að dómþoli sæti á þeim tíma, sem samfélagsþjónusta er innt af hendi, umsjón og eftirliti einstakra manna, félags eða stofnunar.</dd>
 </dl>
 
 
-      Enn fremur má binda samfélagsþjónustu þeim skilyrðum, nokkrum eða öllum, sem greinir í 2. - 6. tölul. 3. mgr. 57. gr. almennra hegningarlaga.
-      Áður en fullnusta á [fangelsisrefsingu][^1)^] með samfélagsþjónustu hefst skal kynna dómþola ítarlega þær reglur sem gilda um samfélagsþjónustu og staðfesting hans fengin á því að hann vilji hlíta þeim. Sama gildir um viðbrögð við brotum á þessum reglum.][^2)^]
+         Enn fremur má binda samfélagsþjónustu þeim skilyrðum, nokkrum eða öllum, sem greinir í 2. - 6. tölul. 3. mgr. 57. gr. almennra hegningarlaga.
+         Áður en fullnusta á [fangelsisrefsingu][^1)^] með samfélagsþjónustu hefst skal kynna dómþola ítarlega þær reglur sem gilda um samfélagsþjónustu og staðfesting hans fengin á því að hann vilji hlíta þeim. Sama gildir um viðbrögð við brotum á þessum reglum.][^2)^]
 
 
 _[^1)^]"L. 82/1998, 190. gr.":/altext/stjt/1998.082.html[^2)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
@@ -300,11 +300,11 @@ _[^1)^]"L. 82/1998, 190. gr.":/altext/stjt/1998.082.html[^2)^]"L. 123/1997, 4. g
 
 [26. gr.
 
-     Nú rýfur dómþoli skilyrði samfélagsþjónustu eða sinnir henni ekki með fullnægjandi hætti og ákveður þá fangelsismálastofnun hvort skilyrðum hennar skuli breytt, tími sem samfélagsþjónusta er innt af hendi skuli lengdur eða hvort [fangelsisrefsing][^1)^] skuli afplánuð.
-      Nú er dómþoli kærður fyrir að hafa framið refsiverðan verknað eftir að ákveðið er að fullnusta [fangelsisrefsingu][^1)^] með samfélagsþjónustu og getur fangelsismálastofnun þá ákveðið að ákvörðun um fullnustu ...[^1)^] með samfélagsþjónustu verði afturkölluð og að dómþoli afpláni [fangelsisrefsingu].[^1)^]
-      Þegar rof á skilyrðum samfélagsþjónustu eða meint afbrot er ekki alvarlegt eða ítrekað skal veita áminningu áður en ákveðið er að [fangelsisrefsing][^1)^] skuli afplánuð.
-      Þegar ákveðið er, skv. 1. eða 2. mgr., að [fangelsisrefsing][^1)^] skuli afplánuð skal reikna tímalengd eftirstöðva út með hliðsjón af þeirri samfélagsþjónustu sem þegar hefur verið innt af hendi.
-      Þegar eftirstöðvar [fangelsisrefsingar],[^1)^] sem að hluta hefur verið fullnustuð með samfélagsþjónustu, eru afplánaðar er heimilt að veita reynslulausn af eftirstöðvunum þannig að tími í samfélagsþjónustu teljist ekki með við útreikning á hlutfalli afplánunar.][^2)^]
+        Nú rýfur dómþoli skilyrði samfélagsþjónustu eða sinnir henni ekki með fullnægjandi hætti og ákveður þá fangelsismálastofnun hvort skilyrðum hennar skuli breytt, tími sem samfélagsþjónusta er innt af hendi skuli lengdur eða hvort [fangelsisrefsing][^1)^] skuli afplánuð.
+         Nú er dómþoli kærður fyrir að hafa framið refsiverðan verknað eftir að ákveðið er að fullnusta [fangelsisrefsingu][^1)^] með samfélagsþjónustu og getur fangelsismálastofnun þá ákveðið að ákvörðun um fullnustu ...[^1)^] með samfélagsþjónustu verði afturkölluð og að dómþoli afpláni [fangelsisrefsingu].[^1)^]
+         Þegar rof á skilyrðum samfélagsþjónustu eða meint afbrot er ekki alvarlegt eða ítrekað skal veita áminningu áður en ákveðið er að [fangelsisrefsing][^1)^] skuli afplánuð.
+         Þegar ákveðið er, skv. 1. eða 2. mgr., að [fangelsisrefsing][^1)^] skuli afplánuð skal reikna tímalengd eftirstöðva út með hliðsjón af þeirri samfélagsþjónustu sem þegar hefur verið innt af hendi.
+         Þegar eftirstöðvar [fangelsisrefsingar],[^1)^] sem að hluta hefur verið fullnustuð með samfélagsþjónustu, eru afplánaðar er heimilt að veita reynslulausn af eftirstöðvunum þannig að tími í samfélagsþjónustu teljist ekki með við útreikning á hlutfalli afplánunar.][^2)^]
 
 
 _[^1)^]"L. 82/1998, 190. gr.":/altext/stjt/1998.082.html[^2)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
@@ -320,12 +320,12 @@ _[^1)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
 
 [27. gr.][^1)^]
 
-     Áfengi, önnur vímuefni og lyf, sem fangi hefur í fórum sínum við komu í fangelsið eða kemst yfir í því, má gera upptækt.
-      Muni, sem tekist hefur eða reynt er að smygla inn í fangelsið, má gera upptæka. Það sama gildir um muni sem fangi hefur búið til eða komist yfir án leyfis réttra yfirvalda.
-      Handrit eða annað skrifað efni, sem fangi hefur skráð í fangelsinu, er heimilt að gera upptækt. Þetta á við ef handritið eða hið skráða efni inniheldur upplýsingar um aðra fanga sem ekki eiga að vera á allra vitorði, eru ósæmilegar eða aðrar ástæður mæla gegn því að það fari út úr fangelsinu.
-      Muni eða handrit, sem lagt hefur verið hald á og ekki þykja rök til að gera upptæk, má afhenda fanga þegar afplánun lýkur.
-      Hið upptæka skal vera eign ríkisins.
-      Forstöðumaður tekur ákvarðanir samkvæmt þessari grein og skulu þær bókaðar.
+        Áfengi, önnur vímuefni og lyf, sem fangi hefur í fórum sínum við komu í fangelsið eða kemst yfir í því, má gera upptækt.
+         Muni, sem tekist hefur eða reynt er að smygla inn í fangelsið, má gera upptæka. Það sama gildir um muni sem fangi hefur búið til eða komist yfir án leyfis réttra yfirvalda.
+         Handrit eða annað skrifað efni, sem fangi hefur skráð í fangelsinu, er heimilt að gera upptækt. Þetta á við ef handritið eða hið skráða efni inniheldur upplýsingar um aðra fanga sem ekki eiga að vera á allra vitorði, eru ósæmilegar eða aðrar ástæður mæla gegn því að það fari út úr fangelsinu.
+         Muni eða handrit, sem lagt hefur verið hald á og ekki þykja rök til að gera upptæk, má afhenda fanga þegar afplánun lýkur.
+         Hið upptæka skal vera eign ríkisins.
+         Forstöðumaður tekur ákvarðanir samkvæmt þessari grein og skulu þær bókaðar.
 
 
 _[^1)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
@@ -335,21 +335,21 @@ _[^1)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
 
 [28. gr.][^1)^]
 
-     Ef grunur leikur á að fangi feli á sér innan klæða efni eða hluti sem honum er bannað að hafa í fangelsinu er heimilt að framkvæma líkamsleit á fanga. Slíka leit má gera þegar eftirfarandi ástæður gefa tilefni til:
+        Ef grunur leikur á að fangi feli á sér innan klæða efni eða hluti sem honum er bannað að hafa í fangelsinu er heimilt að framkvæma líkamsleit á fanga. Slíka leit má gera þegar eftirfarandi ástæður gefa tilefni til:
 
 <dl>
-<dt>1.</dt>
-<dd>Þegar fangi kemur í fangelsi í upphafi afplánunar eða kemur aftur eftir dvöl utan þess.</dd>
-<dt>2.</dt>
-<dd>Grunur leikur á að fangi feli á sér hluti eða efni sem honum er bannað að hafa í fangelsinu.</dd>
-<dt>3.</dt>
-<dd>Ástæða þykir til að gera skyndileit meðal fanga.</dd>
-<dt>4.</dt>
-<dd>Fangi hefur fengið heimsókn sem farið hefur fram án eftirlits.</dd>
+<dt></dt>
+<dd>1. Þegar fangi kemur í fangelsi í upphafi afplánunar eða kemur aftur eftir dvöl utan þess.</dd>
+<dt></dt>
+<dd>2. Grunur leikur á að fangi feli á sér hluti eða efni sem honum er bannað að hafa í fangelsinu.</dd>
+<dt></dt>
+<dd>3. Ástæða þykir til að gera skyndileit meðal fanga.</dd>
+<dt></dt>
+<dd>4. Fangi hefur fengið heimsókn sem farið hefur fram án eftirlits.</dd>
 </dl>
 
 
-      Leit á fanga innan klæða skal gerð af starfsmanni sama kyns og fanginn.
+         Leit á fanga innan klæða skal gerð af starfsmanni sama kyns og fanginn.
 
 
 _[^1)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
@@ -359,11 +359,11 @@ _[^1)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
 
 [29. gr.][^1)^]
 
-     Heimilt er að taka þvag- og blóðsýni úr fanga.
-      Ef grunur leikur á að fangi feli innvortis efni eða hluti sem honum er bannað að hafa í fangelsi er heimilt að framkvæma leit að fengnu áliti læknis.
-      Taka blóðsýnis og leit innvortis skal gerð af lækni eða hjúkrunarfræðingi.
-      Vitni sama kyns og fangi skal vera viðstatt ef aðstæður leyfa.
-      Ákvörðun um leit samkvæmt þessari grein skal bókuð og ástæður tilgreindar.
+        Heimilt er að taka þvag- og blóðsýni úr fanga.
+         Ef grunur leikur á að fangi feli innvortis efni eða hluti sem honum er bannað að hafa í fangelsi er heimilt að framkvæma leit að fengnu áliti læknis.
+         Taka blóðsýnis og leit innvortis skal gerð af lækni eða hjúkrunarfræðingi.
+         Vitni sama kyns og fangi skal vera viðstatt ef aðstæður leyfa.
+         Ákvörðun um leit samkvæmt þessari grein skal bókuð og ástæður tilgreindar.
 
 
 _[^1)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
@@ -373,11 +373,11 @@ _[^1)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html_
 
 [30. gr.][^1)^]
 
-     Fanga má einangra frá öðrum föngum þegar það er nauðsynlegt vegna öryggis ríkisins. Einnig má einangra fanga vegna yfirvofandi hættu sem lífi eða heilbrigði hans er búin. Ef hætta er á að fangi valdi meiri háttar eignaspjöllum á húsakosti eða húsbúnaði fangelsisins má halda honum einangruðum frá öðrum svo og til að koma í veg fyrir strok.
-      Þá má einangra fanga til að koma í veg fyrir að hann hvetji aðra til að brjóta reglur fangelsis og hindra að fangi taki þátt í að útvega sér eða öðrum áfengi, önnur vímuefni eða lyf. Fanga má sömuleiðis aðgreina frá öðrum til að afstýra því að hann beiti aðra fanga yfirgangi.
-      Spennibol og handjárn má nota um skamman tíma ef nauðsyn krefur.
-      Ákvarðanir samkvæmt grein þessari skal bóka og ástæður tilgreindar. [Ákvörðun um einangrun sætir kæru til dómsmálaráðuneytisins og skal skýra fanga frá því um leið og ákvörðun er birt. Þegar ákvörðun er kærð skulu gögn málsins þegar send ráðuneytinu. Ráðuneytið skal taka ákvörðun innan tveggja sólarhringa frá því að kæra barst, ella fellur ákvörðun úr gildi.][^2)^]
-      Samþykki fangelsismálastofnunar þarf til að halda fanga í einangrun samkvæmt grein þessari lengur en 30 daga.
+        Fanga má einangra frá öðrum föngum þegar það er nauðsynlegt vegna öryggis ríkisins. Einnig má einangra fanga vegna yfirvofandi hættu sem lífi eða heilbrigði hans er búin. Ef hætta er á að fangi valdi meiri háttar eignaspjöllum á húsakosti eða húsbúnaði fangelsisins má halda honum einangruðum frá öðrum svo og til að koma í veg fyrir strok.
+         Þá má einangra fanga til að koma í veg fyrir að hann hvetji aðra til að brjóta reglur fangelsis og hindra að fangi taki þátt í að útvega sér eða öðrum áfengi, önnur vímuefni eða lyf. Fanga má sömuleiðis aðgreina frá öðrum til að afstýra því að hann beiti aðra fanga yfirgangi.
+         Spennibol og handjárn má nota um skamman tíma ef nauðsyn krefur.
+         Ákvarðanir samkvæmt grein þessari skal bóka og ástæður tilgreindar. [Ákvörðun um einangrun sætir kæru til dómsmálaráðuneytisins og skal skýra fanga frá því um leið og ákvörðun er birt. Þegar ákvörðun er kærð skulu gögn málsins þegar send ráðuneytinu. Ráðuneytið skal taka ákvörðun innan tveggja sólarhringa frá því að kæra barst, ella fellur ákvörðun úr gildi.][^2)^]
+         Samþykki fangelsismálastofnunar þarf til að halda fanga í einangrun samkvæmt grein þessari lengur en 30 daga.
 
 
 _[^1)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html[^2)^]"L. 31/1991, 1. gr.":/altext/stjt/1991.031.html_
@@ -387,25 +387,25 @@ _[^1)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html[^2)^]"L. 31/1991, 1. gr.
 
 [31. gr.][^1)^]
 
-     Fyrir brot á reglum fangelsis má beita fanga eftirtöldum agaviðurlögum:
+        Fyrir brot á reglum fangelsis má beita fanga eftirtöldum agaviðurlögum:
 
 <dl>
-<dt>1.</dt>
-<dd>Áminningu.</dd>
-<dt>2.</dt>
-<dd>Sviptingu réttinda sem fangar almennt njóta samkvæmt lögum þessum og reglugerðum.</dd>
-<dt>3.</dt>
-<dd>Sviptingu vinnulauna.</dd>
-<dt>4.</dt>
-<dd>Einangrun í allt að 30 daga.</dd>
+<dt></dt>
+<dd>1. Áminningu.</dd>
+<dt></dt>
+<dd>2. Sviptingu réttinda sem fangar almennt njóta samkvæmt lögum þessum og reglugerðum.</dd>
+<dt></dt>
+<dd>3. Sviptingu vinnulauna.</dd>
+<dt></dt>
+<dd>4. Einangrun í allt að 30 daga.</dd>
 </dl>
 
 
-      Beita má fleiri en einni tegund viðurlaga samtímis. Viðurlögin má skilorðsbinda.
-      ...[^2)^] Strjúki fangi telst tími frá stroki og þar til fangi er settur í fangelsi á ný ekki til refsitímans.
-      Forstöðumaður ákveður agaviðurlög samkvæmt grein þessari. Áður en hann tekur ákvörðun skal hann ganga úr skugga um hvernig broti var háttað með því að yfirheyra fangann og með annarri rannsókn eftir aðstæðum.
-      Ákvarðanir um agaviðurlög skulu bókaðar og birtar fanga í viðurvist vitnis. [Ákvörðun um agaviðurlög sætir kæru til dómsmálaráðuneytisins og skal skýra fanga frá því um leið og ákvörðun er birt. Þegar ákvörðun er kærð skulu gögn málsins þegar send ráðuneytinu. Ráðuneytið skal taka ákvörðun innan tveggja sólarhringa frá því að kæra barst, ella fellur ákvörðun úr gildi.][^2)^]
-      ...[^2)^]
+         Beita má fleiri en einni tegund viðurlaga samtímis. Viðurlögin má skilorðsbinda.
+         ...[^2)^] Strjúki fangi telst tími frá stroki og þar til fangi er settur í fangelsi á ný ekki til refsitímans.
+         Forstöðumaður ákveður agaviðurlög samkvæmt grein þessari. Áður en hann tekur ákvörðun skal hann ganga úr skugga um hvernig broti var háttað með því að yfirheyra fangann og með annarri rannsókn eftir aðstæðum.
+         Ákvarðanir um agaviðurlög skulu bókaðar og birtar fanga í viðurvist vitnis. [Ákvörðun um agaviðurlög sætir kæru til dómsmálaráðuneytisins og skal skýra fanga frá því um leið og ákvörðun er birt. Þegar ákvörðun er kærð skulu gögn málsins þegar send ráðuneytinu. Ráðuneytið skal taka ákvörðun innan tveggja sólarhringa frá því að kæra barst, ella fellur ákvörðun úr gildi.][^2)^]
+         ...[^2)^]
 
 
 _[^1)^]"L. 123/1997, 4. gr.":/altext/stjt/1997.123.html[^2)^]"L. 31/1991, 2. gr.":/altext/stjt/1991.031.html_
@@ -421,8 +421,8 @@ _[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html_
 
 [32. gr.
 
-     Dómsmálaráðherra skipar þriggja manna nefnd, náðunarnefnd, svo og þrjá varamenn, til tveggja ára í senn. Formaður nefndarinnar og varaformaður skulu uppfylla skilyrði laga til að hljóta skipun í embætti héraðsdómara.
-      Nefndin skal láta ráðherra í té rökstudda tillögu um afgreiðslu á erindum sem til hans er skotið vegna ákvörðunar fangelsismálastofnunar um samfélagsþjónustu og reynslulausn, svo og um afgreiðslu náðunarbeiðna.][^1)^]
+        Dómsmálaráðherra skipar þriggja manna nefnd, náðunarnefnd, svo og þrjá varamenn, til tveggja ára í senn. Formaður nefndarinnar og varaformaður skulu uppfylla skilyrði laga til að hljóta skipun í embætti héraðsdómara.
+         Nefndin skal láta ráðherra í té rökstudda tillögu um afgreiðslu á erindum sem til hans er skotið vegna ákvörðunar fangelsismálastofnunar um samfélagsþjónustu og reynslulausn, svo og um afgreiðslu náðunarbeiðna.][^1)^]
 
 
 _[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html_
@@ -438,8 +438,8 @@ _[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html_
 
 [33. gr.][^1)^]
 
-     Sé fangi lengur en þrjá mánuði í afplánun er óheimilt að innheimta opinber gjöld hjá honum meðan afplánun stendur yfir. Það sama gildir í tvöfaldan þann tíma eftir að afplánun lýkur, allt að einu ári, vegna opinberra gjalda er á fanga hvíldu er afplánun hófst og á hann eru lögð meðan á afplánun stendur.
-      Dráttarvextir skulu ekki innheimtir af slíkum skuldum fyrir þann tíma sem innheimta skal liggja niðri samkvæmt þessari grein.
+        Sé fangi lengur en þrjá mánuði í afplánun er óheimilt að innheimta opinber gjöld hjá honum meðan afplánun stendur yfir. Það sama gildir í tvöfaldan þann tíma eftir að afplánun lýkur, allt að einu ári, vegna opinberra gjalda er á fanga hvíldu er afplánun hófst og á hann eru lögð meðan á afplánun stendur.
+         Dráttarvextir skulu ekki innheimtir af slíkum skuldum fyrir þann tíma sem innheimta skal liggja niðri samkvæmt þessari grein.
 
 
 _[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html_
@@ -449,7 +449,7 @@ _[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html_
 
 [34. gr.][^1)^]
 
-     ...[^2)^]
+        ...[^2)^]
 
 
 _[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html[^2)^]"L. 19/1991, 194. gr.":1991019.html#g194_
@@ -459,8 +459,8 @@ _[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html[^2)^]"L. 19/1991, 194. g
 
 [35. gr.][^1)^]
 
-     Fangar, sem afplána ...[^2)^] fangelsisdóma, skulu látnir lausir kl. 8 að morgni þess dags sem afplánun lýkur.
-      Fangar, sem afplána vararefsingu vegna sekta, skulu látnir lausir um sama leyti dags og afplánun hófst.
+        Fangar, sem afplána ...[^2)^] fangelsisdóma, skulu látnir lausir kl. 8 að morgni þess dags sem afplánun lýkur.
+         Fangar, sem afplána vararefsingu vegna sekta, skulu látnir lausir um sama leyti dags og afplánun hófst.
 
 
 _[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html[^2)^]"L. 82/1998, 190. gr.":/altext/stjt/1998.082.html_
@@ -470,18 +470,18 @@ _[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html[^2)^]"L. 82/1998, 190. g
 
 [36. gr.][^1)^]
 
-     Í reglugerð skal setja nánari ákvæði um fangelsismálastofnun og hlutverk hennar, um skilyrði þess að verða ráðinn fangavörður og menntun þeirra, um vinnulaun og dagpeninga fanga, um nám fanga og um leyfi til dvalar utan fangelsis.
-      Heimilt er að setja í reglugerð nánari ákvæði samkvæmt lögum þessum.[^2)^]
+        Í reglugerð skal setja nánari ákvæði um fangelsismálastofnun og hlutverk hennar, um skilyrði þess að verða ráðinn fangavörður og menntun þeirra, um vinnulaun og dagpeninga fanga, um nám fanga og um leyfi til dvalar utan fangelsis.
+         Heimilt er að setja í reglugerð nánari ákvæði samkvæmt lögum þessum.[^2)^]
 
 
-_[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html[^2)^]Rg. 670/1996 (um einkennisfatnað fangavarða), 569/1988 (um upphaf og lok fangavistar), 119/1990, sbr. 258/1995 og 586/1995 (um bréfaskipti, símtöl og heimsóknir til afplánunarfanga), 179/1992, sbr. 259/1995 (gæsluvarðhaldsvist), 719/1995, sbr. 209/1997 (leyfi afplánunarfanga til dvalar utan fangelsis), 29/1993, sbr. 42/1994 (fullnusta refsidóma) og 132/1995 (dagpeningar fanga). Rg. 11/1996 (menntun fangavarða o.fl.)._
+_[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html[^2)^]Rg. 670/1996 (um einkennisfatnað fangavarða). Rg. 569/1988 (um upphaf og lok fangavistar). Rg. 119/1990, sbr. 258/1995 og 586/1995 (um bréfaskipti, símtöl og heimsóknir til afplánunarfanga). Rg. 179/1992, sbr. 259/1995 og 683/1998 (gæsluvarðhaldsvist). Rg. 719/1995, sbr. 209/1997 (leyfi afplánunarfanga til dvalar utan fangelsis). Rg. 29/1993, sbr. 42/1994 (fullnusta refsidóma). Rg. 11/1996 (menntun fangavarða o.fl.). Rg. 409/1998 (vinna, nám og dagpeningar fanga)._
 
 
 
 
 [37. gr.][^1)^]
 
-     Lög þessi öðlast gildi 1. janúar 1989. ...
+        Lög þessi öðlast gildi 1. janúar 1989. ...
 
 
 _[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html_
@@ -491,7 +491,7 @@ _[^1)^]"L. 123/1997, 5. gr.":/altext/stjt/1997.123.html_
 
 *[Ákvæði til bráðbirgða.*
 
-     Til að heimilt verði að fullnusta dóma með samfélagsþjónustu þar sem dæmd refsivist er meira en þrír mánuðir eða hluti refsivistar skilorðsbundinn þarf dómurinn að vera kveðinn upp eftir gildistöku laga þessara.][^1)^]
+        Til að heimilt verði að fullnusta dóma með samfélagsþjónustu þar sem dæmd refsivist er meira en þrír mánuðir eða hluti refsivistar skilorðsbundinn þarf dómurinn að vera kveðinn upp eftir gildistöku laga þessara.][^1)^]
 
 
 _[^1)^]"L. 123/1997, brbákv.":/altext/stjt/1997.123.html_
