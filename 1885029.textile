@@ -15,35 +15,35 @@ h2. Lög um lögtak og fjárnám án undanfarins dóms eða sáttar
 
 1. gr.
 
-        Taka má lögtaki skuldir þær og gjöld, er nú skal greina:
+     Taka má lögtaki skuldir þær og gjöld, er nú skal greina:
 
 <dl>
-<dt></dt>
-<dd>1. Skatta til landssjóðs, sveitar- og bæjarsjóða, svo og önnur gjöld og greiðslur, sem eftir beinu lagaákvæði, eða eftir lögheimilaðri niðurjöfnun eða mati eiga að lúkast til landssjóðs, sveitar- og bæjarsjóða, kirkna, opinberra stofnana, embætta og sýslana.</dd>
-<dt></dt>
-<dd>2. Gjöld af fasteignum landssjóðs, sveitar- og bæjarfélaga, þegar eftirrit af lögtaksbeiðninni hefir birt verið skuldunaut vottfast á þann hátt, sem lagt er fyrir í opnu bréfi 21. maí 1829, 1. gr.</dd>
-<dt></dt>
-<dd>3. Gjöld fyrir notkun þeirra stofnana, landsnytja og annarra hluta, er til almennings þarfa eru ætlaðir, enda séu gjöld þessi ákveðin í reglugerðum og gjaldskrám, sem staðfestar eru af konungi eða ráðgjafa, eða og samþykktar eða staðfestar eru af sveitarstjórn, bæjarstjórn eða yfirvaldi lögum samkvæmt.</dd>
-<dt></dt>
-<dd>4. Gjöld fyrir leyfisbréf, dómgjöld, endurgjald  --  þar meðtaldir dagpeningar og ferðakostnaður  --  sem greiða ber þeim, er framkvæmir eða er við staddur gerðir, eftir lagaákvæði eða sem sýslunarmaður, eða sem sérstaklega er til þess kvaddur eða skipaður af yfirvaldi, enda sé í lögum eða verðskrám, staðfestum af konungi, ráðgjafa eða landshöfðingja lögum samkvæmt kveðið á um, hvað gjalda skuli eða hvernig það skuli reikna; svo er og um endurgjald annarra lögmætra útgjalda, sem erindisrekstrinum voru samfara.</dd>
-<dt></dt>
-<dd>5. Endurgjald þess, sem landssjóður, kirkjur, sveitar- eða bæjarsjóðir hafa orðið að greiða, til að bæta úr vanrækslu einstakra manna á lögboðnum útvegunum, aðgerðum, vinnu eða kvöðum.</dd>
-<dt></dt>
-<dd>6. Framfærslueyrir, sem manni ber að greiða með barni sínu, skilgetnu eða óskilgetnu, með stjúpbarni sínu, meðan móðir þess er honum gift, foreldri sínu eða konu, er hann hefir slitið samvistum við hana að óvilja hennar, eða skilið við hana að borði og sæng eða að fullu og öllu, enda sé sá framfærslueyrir ákveðinn af yfirvaldi lögum samkvæmt, eða í skilnaðarskilmálum, staðfestum af yfirvaldi, hvort heldur er skilnaður að borði og sæng eða að fullu og öllu; svo er og um skaðabætur frá húsbændum eða öðrum þeim, er gjald eiga að greiða þeim manni, er framfærsluskylda hvílir á, hafi yfirvaldið lagt lögbann á greiðsluna, eftir reglum þeim, er um það gilda.</dd>
-<dt></dt>
-<dd>7. Brunabótagjald af húsum, sé tryggingin lögboðin.</dd>
-<dt></dt>
-<dd>8. ...[^1)^]</dd>
-<dt></dt>
-<dd>9. ...[^1)^]</dd>
-<dt></dt>
-<dd>10. Andvirði fyrir lausafé, keypt á opinberu uppboði, enda greini uppboðsbókin ljóslega nafn kaupanda og kaupverðið.</dd>
-<dt></dt>
-<dd>11. [Umsamdar greiðslur atvinnurekanda í sjúkra-, orlofs- og styrktarsjóði, svo og iðgjaldagreiðslur í lífeyrissjóði.][^2)^]</dd>
+<dt>1.</dt>
+<dd>Skatta til landssjóðs, sveitar- og bæjarsjóða, svo og önnur gjöld og greiðslur, sem eftir beinu lagaákvæði, eða eftir lögheimilaðri niðurjöfnun eða mati eiga að lúkast til landssjóðs, sveitar- og bæjarsjóða, kirkna, opinberra stofnana, embætta og sýslana.</dd>
+<dt>2.</dt>
+<dd>Gjöld af fasteignum landssjóðs, sveitar- og bæjarfélaga, þegar eftirrit af lögtaksbeiðninni hefir birt verið skuldunaut vottfast á þann hátt, sem lagt er fyrir í opnu bréfi 21. maí 1829, 1. gr.</dd>
+<dt>3.</dt>
+<dd>Gjöld fyrir notkun þeirra stofnana, landsnytja og annarra hluta, er til almennings þarfa eru ætlaðir, enda séu gjöld þessi ákveðin í reglugerðum og gjaldskrám, sem staðfestar eru af konungi eða ráðgjafa, eða og samþykktar eða staðfestar eru af sveitarstjórn, bæjarstjórn eða yfirvaldi lögum samkvæmt.</dd>
+<dt>4.</dt>
+<dd>Gjöld fyrir leyfisbréf, dómgjöld, endurgjald  --  þar meðtaldir dagpeningar og ferðakostnaður  --  sem greiða ber þeim, er framkvæmir eða er við staddur gerðir, eftir lagaákvæði eða sem sýslunarmaður, eða sem sérstaklega er til þess kvaddur eða skipaður af yfirvaldi, enda sé í lögum eða verðskrám, staðfestum af konungi, ráðgjafa eða landshöfðingja lögum samkvæmt kveðið á um, hvað gjalda skuli eða hvernig það skuli reikna; svo er og um endurgjald annarra lögmætra útgjalda, sem erindisrekstrinum voru samfara.</dd>
+<dt>5.</dt>
+<dd>Endurgjald þess, sem landssjóður, kirkjur, sveitar- eða bæjarsjóðir hafa orðið að greiða, til að bæta úr vanrækslu einstakra manna á lögboðnum útvegunum, aðgerðum, vinnu eða kvöðum.</dd>
+<dt>6.</dt>
+<dd>Framfærslueyrir, sem manni ber að greiða með barni sínu, skilgetnu eða óskilgetnu, með stjúpbarni sínu, meðan móðir þess er honum gift, foreldri sínu eða konu, er hann hefir slitið samvistum við hana að óvilja hennar, eða skilið við hana að borði og sæng eða að fullu og öllu, enda sé sá framfærslueyrir ákveðinn af yfirvaldi lögum samkvæmt, eða í skilnaðarskilmálum, staðfestum af yfirvaldi, hvort heldur er skilnaður að borði og sæng eða að fullu og öllu; svo er og um skaðabætur frá húsbændum eða öðrum þeim, er gjald eiga að greiða þeim manni, er framfærsluskylda hvílir á, hafi yfirvaldið lagt lögbann á greiðsluna, eftir reglum þeim, er um það gilda.</dd>
+<dt>7.</dt>
+<dd>Brunabótagjald af húsum, sé tryggingin lögboðin.</dd>
+<dt>8.</dt>
+<dd>...[^1)^]</dd>
+<dt>9.</dt>
+<dd>...[^1)^]</dd>
+<dt>10.</dt>
+<dd>Andvirði fyrir lausafé, keypt á opinberu uppboði, enda greini uppboðsbókin ljóslega nafn kaupanda og kaupverðið.</dd>
+<dt>11.</dt>
+<dd>[Umsamdar greiðslur atvinnurekanda í sjúkra-, orlofs- og styrktarsjóði, svo og iðgjaldagreiðslur í lífeyrissjóði.][^2)^]</dd>
 </dl>
 
 
-         ...[^1)^]
+      ...[^1)^]
 
 
 _[^1)^]"L. 90/1989, 99. gr.":1989090.html#g99[^2)^]"L. 21/1979, 1. gr.":/altext/stjtnr.html#1979021?g1_
@@ -53,7 +53,7 @@ _[^1)^]"L. 90/1989, 99. gr.":1989090.html#g99[^2)^]"L. 21/1979, 1. gr.":/altext/
 
 2. - 16. gr.
 
-        ...[^1)^]
+     ...[^1)^]
 
 
 _[^1)^]"L. 90/1989, 99. gr.":1989090.html#g99_

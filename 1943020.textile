@@ -11,13 +11,13 @@ h2. Lög um búfjártryggingar
 
 1. gr.
 
-        Stofna skal sérstaka deild við Brunabótafélag Íslands og undir stjórn þess, er nefnist Búfjártryggingardeild.
+     Stofna skal sérstaka deild við Brunabótafélag Íslands og undir stjórn þess, er nefnist Búfjártryggingardeild.
 
 
 
 2. gr.
 
-        [Verkefni búfjártryggingadeildar er að selja og annast vátryggingu búfjár gegn vanhöldum og slysum, sbr. 3. gr.][^1)^]
+     [Verkefni búfjártryggingadeildar er að selja og annast vátryggingu búfjár gegn vanhöldum og slysum, sbr. 3. gr.][^1)^]
 
 
 _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html_
@@ -27,7 +27,7 @@ _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html_
 
 3. gr.
 
-        [Skylt er að tryggja ...[^1)^] gegn hvers konar vanhöldum kynbótanaut, kynbótahesta og kynbótahrúta, sem notaðir eru í félögum eða á kynbótabúum, sem styrks njóta af opinberu fé. Vátryggingarupphæð búfjár skal fara lækkandi, er það eldist og rýrnar að verðgildi. Ákvæði þar að lútandi skulu sett með reglugerð. Tryggingartími búfjár skal minnst vera árlangt í senn.][^2)^]
+     [Skylt er að tryggja ...[^1)^] gegn hvers konar vanhöldum kynbótanaut, kynbótahesta og kynbótahrúta, sem notaðir eru í félögum eða á kynbótabúum, sem styrks njóta af opinberu fé. Vátryggingarupphæð búfjár skal fara lækkandi, er það eldist og rýrnar að verðgildi. Ákvæði þar að lútandi skulu sett með reglugerð. Tryggingartími búfjár skal minnst vera árlangt í senn.][^2)^]
 
 
 _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html[^2)^]"L. 90/1952, 1. gr.":/altext/stjtnr.html#1952090?g1_
@@ -37,21 +37,21 @@ _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html[^2)^]"L. 90/1952, 1. gr
 
 4. gr.
 
-        [[Heimilt er að tryggja gegn venjulegum vanhöldum og slysum:][^1)^]
+     [[Heimilt er að tryggja gegn venjulegum vanhöldum og slysum:][^1)^]
 
 <dl>
-<dt></dt>
-<dd>a. Einstaka gripi: Hrúta, sem hlotið hafa fyrstu verðlaun, naut, sem hlotið hafa fyrstu eða önnur verðlaun, og kynbótahesta, sem hlotið hafa fyrstu verðlaun á sveitasýningum eða héraðssýningum, enda nái ekki skyldutryggingarákvæði 3. gr. til þessara gripa.</dd>
-<dt></dt>
-<dd>b. Ær í kynbótabúum og sauðfjárræktarfélögum, sem styrks njóta af opinberu fé.</dd>
-<dt></dt>
-<dd>c. Heil kúabú, en þó eigi gegn kálfleysi.</dd>
-<dt></dt>
-<dd>d. Heil sauðfjárbú gegn vanhöldum og slysum, er nema meiru en 5% á ári. Þar undir telst lambalát fram að sauðburðarbyrjun, en eigi önnur lambavanhöld.</dd>
+<dt>a.</dt>
+<dd>Einstaka gripi: Hrúta, sem hlotið hafa fyrstu verðlaun, naut, sem hlotið hafa fyrstu eða önnur verðlaun, og kynbótahesta, sem hlotið hafa fyrstu verðlaun á sveitasýningum eða héraðssýningum, enda nái ekki skyldutryggingarákvæði 3. gr. til þessara gripa.</dd>
+<dt>b.</dt>
+<dd>Ær í kynbótabúum og sauðfjárræktarfélögum, sem styrks njóta af opinberu fé.</dd>
+<dt>c.</dt>
+<dd>Heil kúabú, en þó eigi gegn kálfleysi.</dd>
+<dt>d.</dt>
+<dd>Heil sauðfjárbú gegn vanhöldum og slysum, er nema meiru en 5% á ári. Þar undir telst lambalát fram að sauðburðarbyrjun, en eigi önnur lambavanhöld.</dd>
 </dl>
 
 
-         ...[^1)^]][^2)^]
+      ...[^1)^]][^2)^]
 
 
 _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html[^2)^]"L. 90/1952, 2. gr.":/altext/stjtnr.html#1952090?g2_
@@ -61,12 +61,12 @@ _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html[^2)^]"L. 90/1952, 2. gr
 
 5. gr.
 
-        [Vátryggingarupphæð kynbótagripa, sem tryggðir eru skv. 3. gr., ákveður vátryggjandi, en þó ekki yfir þreföldu skattmatsverði.
-         Vátryggingarupphæð gripa, sem tryggðir eru skv. 4. gr. a-lið, ákveður vátryggjandi, og má hún vera hæst tvöfalt skattmatsverð.
-         Vátryggingarupphæð sauðfjár, sem tryggt er skv. 4. gr. b-lið, má vera hæst eitt og hálft skattmatsverð.
-         Þeir bændur, sem tryggja allt sitt búfé og hafa ekki orðið fyrir tjóni, sem bætur hafa verið greiddar fyrir skv. 4. gr. c- og d-lið í 2 ár samfellt, fái 10% lækkun á tryggingargjöldum og á sama hátt 20% lækkun eftir 5 ár.
-         Vátryggingarupphæð gripa og sauðfjár, sem tryggt er samkvæmt 4. gr. c- og d-lið, skal vera skattmatsverð.
-         Gjalddagi á iðgjöldum er samtímis því, er tryggingar eru skráðar.][^1)^]
+     [Vátryggingarupphæð kynbótagripa, sem tryggðir eru skv. 3. gr., ákveður vátryggjandi, en þó ekki yfir þreföldu skattmatsverði.
+      Vátryggingarupphæð gripa, sem tryggðir eru skv. 4. gr. a-lið, ákveður vátryggjandi, og má hún vera hæst tvöfalt skattmatsverð.
+      Vátryggingarupphæð sauðfjár, sem tryggt er skv. 4. gr. b-lið, má vera hæst eitt og hálft skattmatsverð.
+      Þeir bændur, sem tryggja allt sitt búfé og hafa ekki orðið fyrir tjóni, sem bætur hafa verið greiddar fyrir skv. 4. gr. c- og d-lið í 2 ár samfellt, fái 10% lækkun á tryggingargjöldum og á sama hátt 20% lækkun eftir 5 ár.
+      Vátryggingarupphæð gripa og sauðfjár, sem tryggt er samkvæmt 4. gr. c- og d-lið, skal vera skattmatsverð.
+      Gjalddagi á iðgjöldum er samtímis því, er tryggingar eru skráðar.][^1)^]
 
 
 _[^1)^]"L. 90/1952, 3. gr.":/altext/stjtnr.html#1952090?g3_
@@ -76,7 +76,7 @@ _[^1)^]"L. 90/1952, 3. gr.":/altext/stjtnr.html#1952090?g3_
 
 6. gr.
 
-        ...[^1)^]
+     ...[^1)^]
 
 
 _[^1)^]"L. 20/1954, 133. gr.":1954020.html#g133_
@@ -86,13 +86,13 @@ _[^1)^]"L. 20/1954, 133. gr.":1954020.html#g133_
 
 7. gr.
 
-        Til vanhalda og slysa skv. 3. og 4. gr. teljast dauðsföll af sjúkdómum og slysum á meðan hinir vátryggðu gripir eru í gæslu, hvort sem er í húsi eða í heimahögum, eftir því sem nánar verður tiltekið í reglugerð.
+     Til vanhalda og slysa skv. 3. og 4. gr. teljast dauðsföll af sjúkdómum og slysum á meðan hinir vátryggðu gripir eru í gæslu, hvort sem er í húsi eða í heimahögum, eftir því sem nánar verður tiltekið í reglugerð.
 
 
 
 8. - 9. gr.
 
-        ...[^1)^]
+     ...[^1)^]
 
 
 _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html_
@@ -102,14 +102,14 @@ _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html_
 
 10. gr.
 
-        Vátryggingar á búfé gilda til þess tíma, sem tiltekið er í vátryggingarskírteininu.
+     Vátryggingar á búfé gilda til þess tíma, sem tiltekið er í vátryggingarskírteininu.
 
 
 
 11. gr.
 
-        ...[^1)^]
-         [Nú verður ágreiningur milli vátryggingafélags og tjónþola um rétt og skyldu til bóta eða um upphæð bótanna og skal ágreiningnum þá skotið til gerðardóms þriggja manna. Nefni til sinn mann hvor aðili, en viðkomandi dómari oddamanninn. Úrskurður gerðardómsins er fullnaðarúrskurður. Skaðabætur greiðast ekki af hendi fyrr en tjón er að fullu sannað og metið.][^1)^]
+     ...[^1)^]
+      [Nú verður ágreiningur milli vátryggingafélags og tjónþola um rétt og skyldu til bóta eða um upphæð bótanna og skal ágreiningnum þá skotið til gerðardóms þriggja manna. Nefni til sinn mann hvor aðili, en viðkomandi dómari oddamanninn. Úrskurður gerðardómsins er fullnaðarúrskurður. Skaðabætur greiðast ekki af hendi fyrr en tjón er að fullu sannað og metið.][^1)^]
 
 
 _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html_
@@ -119,13 +119,13 @@ _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html_
 
 12. gr.
 
-        Nú er búfé, sem vátryggt er samkvæmt lögum þessum, veðsett, og nær þá veðrétturinn einnig til vátryggingarfjárins.
+     Nú er búfé, sem vátryggt er samkvæmt lögum þessum, veðsett, og nær þá veðrétturinn einnig til vátryggingarfjárins.
 
 
 
 13. gr.
 
-        ...[^1)^]
+     ...[^1)^]
 
 
 _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html_
@@ -135,7 +135,7 @@ _[^1)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html_
 
 14. gr.
 
-        [Landbúnaðarráðherra getur með reglugerð,[^1)^] að fenginni umsögn [Fjármálaeftirlitsins],[^2)^] sett nánari ákvæði um framkvæmd laga þessara.][^3)^]
+     [Landbúnaðarráðherra getur með reglugerð,[^1)^] að fenginni umsögn [Fjármálaeftirlitsins],[^2)^] sett nánari ákvæði um framkvæmd laga þessara.][^3)^]
 
 
 _[^1)^]Rg. 79/1953, sbr. 115/1954.[^2)^]"L. 84/1998, 17. gr.":/altext/stjt/1998.084.html[^3)^]"L. 116/1993, 28. gr.":/altext/stjt/1993.116.html_
@@ -145,7 +145,7 @@ _[^1)^]Rg. 79/1953, sbr. 115/1954.[^2)^]"L. 84/1998, 17. gr.":/altext/stjt/1998.
 
 15. gr.
 
-        Brjóti vátryggjandi lög þessi eða reglugerð og skilyrði, sem sett eru samkvæmt þeim, varðar það réttindamissi til skaðabóta eftir málavöxtum, svo sem reglugerð tiltekur nánar. Í reglugerð má ákveða sektir fyrir brot á ákvæðum hennar ...[^1)^]
+     Brjóti vátryggjandi lög þessi eða reglugerð og skilyrði, sem sett eru samkvæmt þeim, varðar það réttindamissi til skaðabóta eftir málavöxtum, svo sem reglugerð tiltekur nánar. Í reglugerð má ákveða sektir fyrir brot á ákvæðum hennar ...[^1)^]
 
 
 _[^1)^]"L. 10/1983, 26. gr.":/altext/stjtnr.html#1983010?g26_
@@ -155,7 +155,7 @@ _[^1)^]"L. 10/1983, 26. gr.":/altext/stjtnr.html#1983010?g26_
 
 16. gr.
 
-        ...[^1)^]
+     ...[^1)^]
 
 
 _[^1)^]"L. 19/1991, 194. gr.":1991019.html#g194_

@@ -17,9 +17,9 @@ _Upphafsákvæði._
 
 1. gr.
 
-        Launagreiðendur skulu inna af hendi sérstakt gjald, tryggingagjald, af greiddum vinnulaunum, þóknunum, reiknuðu endurgjaldi og öðrum tegundum greiðslna og launa eftir því sem nánar segir í lögum þessum.
-         [Tryggingagjald samkvæmt lögum þessum er samsett af tveimur gjöldum, almennu tryggingagjaldi og atvinnutryggingagjaldi.][^1)^]
-         Tryggingagjald skal innheimt samkvæmt "lögum nr. 45/1987":1987045.html, um staðgreiðslu opinberra gjalda, með síðari breytingum, og lagt á með opinberum gjöldum samkvæmt "lögum nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, með síðari breytingum, nema öðruvísi sé ákveðið í lögum þessum.
+     Launagreiðendur skulu inna af hendi sérstakt gjald, tryggingagjald, af greiddum vinnulaunum, þóknunum, reiknuðu endurgjaldi og öðrum tegundum greiðslna og launa eftir því sem nánar segir í lögum þessum.
+      [Tryggingagjald samkvæmt lögum þessum er samsett af tveimur gjöldum, almennu tryggingagjaldi og atvinnutryggingagjaldi.][^1)^]
+      Tryggingagjald skal innheimt samkvæmt "lögum nr. 45/1987":1987045.html, um staðgreiðslu opinberra gjalda, með síðari breytingum, og lagt á með opinberum gjöldum samkvæmt "lögum nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, með síðari breytingum, nema öðruvísi sé ákveðið í lögum þessum.
 
 
 _[^1)^]"L. 141/1995, 1. gr.":/altext/stjt/1995.141.html_
@@ -31,39 +31,39 @@ _Hundraðshluti tryggingagjalds._
 
 2. gr.
 
-        [Atvinnutryggingagjald skal vera [1,15%][^1)^] af gjaldstofni skv. III. kafla.
-         Fyrir lok október ár hvert skal Atvinnuleysistryggingasjóður gefa fjármálaráðherra skýrslu um fjárhagslega stöðu sjóðsins þar sem gerð verði grein fyrir fyrirsjáanlegum útgjöldum á næsta fjárhagsári með hliðsjón af fyrirliggjandi spá Þjóðhagsstofnunar um atvinnuleysi og öðrum atriðum sem áhrif hafa á fjárhagslega stöðu sjóðsins. Ef niðurstaða skýrslunnar gefur tilefni til að breyta hundraðshluta atvinnutryggingagjalds skal fjármálaráðherra flytja frumvarp þar að lútandi á Alþingi.][^2)^]
-         [Almennt tryggingagjald skal vera [3,99%][^1)^] af gjaldstofni skv. III. kafla, sbr. þó 4. og 5. mgr.
-         Þrátt fyrir ákvæði 3. mgr. skal almennt tryggingagjald vera í tveimur gjaldflokkum, almennum gjaldflokki og sérstökum gjaldflokki, við álagningu tryggingagjalds á árunum 1998 - 2000 og staðgreiðslu þess á árunum 1997 - 1999.
-         Hundraðshluti almenns tryggingagjalds í sérstökum gjaldflokki, þ.e. fiskveiðar, iðnaður, landbúnaður, hugbúnaðariðnaður, kvikmyndaiðnaður, gisting, veitingarekstur og útleiga bifreiða, sbr. upptalningu atvinnugreinanúmera í viðauka I[^3)^] við lög þessi, skal vera sem hér segir:
+     [Atvinnutryggingagjald skal vera [1,15%][^1)^] af gjaldstofni skv. III. kafla.
+      Fyrir lok október ár hvert skal Atvinnuleysistryggingasjóður gefa fjármálaráðherra skýrslu um fjárhagslega stöðu sjóðsins þar sem gerð verði grein fyrir fyrirsjáanlegum útgjöldum á næsta fjárhagsári með hliðsjón af fyrirliggjandi spá Þjóðhagsstofnunar um atvinnuleysi og öðrum atriðum sem áhrif hafa á fjárhagslega stöðu sjóðsins. Ef niðurstaða skýrslunnar gefur tilefni til að breyta hundraðshluta atvinnutryggingagjalds skal fjármálaráðherra flytja frumvarp þar að lútandi á Alþingi.][^2)^]
+      [Almennt tryggingagjald skal vera [3,99%][^1)^] af gjaldstofni skv. III. kafla, sbr. þó 4. og 5. mgr.
+      Þrátt fyrir ákvæði 3. mgr. skal almennt tryggingagjald vera í tveimur gjaldflokkum, almennum gjaldflokki og sérstökum gjaldflokki, við álagningu tryggingagjalds á árunum 1998 - 2000 og staðgreiðslu þess á árunum 1997 - 1999.
+      Hundraðshluti almenns tryggingagjalds í sérstökum gjaldflokki, þ.e. fiskveiðar, iðnaður, landbúnaður, hugbúnaðariðnaður, kvikmyndaiðnaður, gisting, veitingarekstur og útleiga bifreiða, sbr. upptalningu atvinnugreinanúmera í viðauka I[^3)^] við lög þessi, skal vera sem hér segir:
 
 <dl>
-<dt></dt>
-<dd>a. Við staðgreiðslu tryggingagjalds á árinu 1997 og álagningu á árinu 1998 skal hundraðshlutinn vera 2,5%.</dd>
-<dt></dt>
-<dd>b. Við staðgreiðslu tryggingagjalds á árinu 1998 og álagningu á árinu 1999 skal hundraðshlutinn vera [3,04%].[^1)^]</dd>
-<dt></dt>
-<dd>c. Við staðgreiðslu tryggingagjalds á árinu 1999 og álagningu á árinu 2000 skal hundraðshlutinn vera [3,54%].[^1)^]</dd>
+<dt>a.</dt>
+<dd>Við staðgreiðslu tryggingagjalds á árinu 1997 og álagningu á árinu 1998 skal hundraðshlutinn vera 2,5%.</dd>
+<dt>b.</dt>
+<dd>Við staðgreiðslu tryggingagjalds á árinu 1998 og álagningu á árinu 1999 skal hundraðshlutinn vera [3,04%].[^1)^]</dd>
+<dt>c.</dt>
+<dd>Við staðgreiðslu tryggingagjalds á árinu 1999 og álagningu á árinu 2000 skal hundraðshlutinn vera [3,54%].[^1)^]</dd>
 </dl>
 
 
-         Hundraðshluti almenns tryggingagjalds í almennum gjaldflokki, þ.e. fyrir allar aðrar atvinnugreinar en falla undir 5. mgr., skal vera sem hér segir:
+      Hundraðshluti almenns tryggingagjalds í almennum gjaldflokki, þ.e. fyrir allar aðrar atvinnugreinar en falla undir 5. mgr., skal vera sem hér segir:
 
 <dl>
-<dt></dt>
-<dd>a. Við staðgreiðslu tryggingagjalds á árinu 1997 og álagningu á árinu 1998 skal hundraðshlutinn vera 4,9%.</dd>
-<dt></dt>
-<dd>b. Við staðgreiðslu tryggingagjalds á árinu 1998 og álagningu á árinu 1999 skal hundraðshlutinn vera [4,64%].[^1)^]</dd>
-<dt></dt>
-<dd>c. Við staðgreiðslu tryggingagjalds á árinu 1999 og álagningu á árinu 2000 skal hundraðshlutinn vera [4,29%].[^1)^]][^4)^]</dd>
+<dt>a.</dt>
+<dd>Við staðgreiðslu tryggingagjalds á árinu 1997 og álagningu á árinu 1998 skal hundraðshlutinn vera 4,9%.</dd>
+<dt>b.</dt>
+<dd>Við staðgreiðslu tryggingagjalds á árinu 1998 og álagningu á árinu 1999 skal hundraðshlutinn vera [4,64%].[^1)^]</dd>
+<dt>c.</dt>
+<dd>Við staðgreiðslu tryggingagjalds á árinu 1999 og álagningu á árinu 2000 skal hundraðshlutinn vera [4,29%].[^1)^]][^4)^]</dd>
 </dl>
 
 
-         Reki aðili fjölþættan atvinnurekstur eða starfsemi sem ýmist fellur undir sérstakan gjaldflokk eða almennan gjaldflokk skal hann aðgreina launagreiðslur í bókhaldi sínu þannig að séð verði hvað af þeim tilheyri hvorum þætti. Greiðslum fyrir yfirstjórn og öðrum slíkum greiðslum, sem ekki eru beint tengdar ákveðnum þáttum starfseminnar, skal skipt upp í gjaldflokka, þ.e. tryggingagjaldsskyld laun sem falla undir almennan flokk og sérstakan flokk, í sömu hlutföllum og eru á milli heildargreiðslu í hvorum gjaldflokki áður en umræddar yfirstjórnargreiðslur eru meðtaldar og reikna tryggingagjald af þeim í samræmi við það. Ef slík aðgreining er ekki fyrir hendi í bókhaldi eða ef hún er í verulegum atriðum röng eða ófullnægjandi að mati skattstjóra skal hann áætla skiptinguna.
-         [Geri launamaður eða sá sem stundar atvinnurekstur eða sjálfstæða starfsemi samning um tryggingavernd á grundvelli iðgjalds sem hann ákvarðar og hefur beinan ráðstöfunarrétt yfir, sbr. 3. málsl. 1. mgr. 2. gr. laga um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða, skal almennt tryggingagjald lækka um allt að 0,2% af gjaldstofni og sá hluti tryggingagjaldsins nýttur sem iðgjaldshluti launagreiðanda á móti iðgjaldshluta launamanns. Frádráttarbær iðgjaldshluti launagreiðanda skal vera 10% af iðgjaldshluta launamanns, þó aldrei hærri en 0,2% af gjaldstofni tryggingagjalds.
-         Skilyrði lækkunar skv. 8. mgr. er að mótframlag sé innt af hendi um leið og sparnaður er dreginn af launum og ráðstafað til aðila skv. 3. mgr. 8. gr. laga um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða.
-         Við skil á staðgreiðslu tryggingagjalds skal taka tilliti til lækkunar skv. 8. mgr. einu sinni á ári eins og um uppgjör fyrir desember væri að ræða. Um uppgjör og álagningu gilda ákvæði V. kafla.
-         Maður sem vinnur við eigin atvinnurekstur eða sjálfstæða starfsemi og ekki er háður skyldu til að skila launaframtali, sbr. 3. mgr. 12. gr., skal gera grein fyrir frádráttarbærum iðgjaldshluta á sérstöku eyðublaði í því formi sem ríkisskattstjóri ákveður.][^5)^]
+      Reki aðili fjölþættan atvinnurekstur eða starfsemi sem ýmist fellur undir sérstakan gjaldflokk eða almennan gjaldflokk skal hann aðgreina launagreiðslur í bókhaldi sínu þannig að séð verði hvað af þeim tilheyri hvorum þætti. Greiðslum fyrir yfirstjórn og öðrum slíkum greiðslum, sem ekki eru beint tengdar ákveðnum þáttum starfseminnar, skal skipt upp í gjaldflokka, þ.e. tryggingagjaldsskyld laun sem falla undir almennan flokk og sérstakan flokk, í sömu hlutföllum og eru á milli heildargreiðslu í hvorum gjaldflokki áður en umræddar yfirstjórnargreiðslur eru meðtaldar og reikna tryggingagjald af þeim í samræmi við það. Ef slík aðgreining er ekki fyrir hendi í bókhaldi eða ef hún er í verulegum atriðum röng eða ófullnægjandi að mati skattstjóra skal hann áætla skiptinguna.
+      [Geri launamaður eða sá sem stundar atvinnurekstur eða sjálfstæða starfsemi samning um tryggingavernd á grundvelli iðgjalds sem hann ákvarðar og hefur beinan ráðstöfunarrétt yfir, sbr. 3. málsl. 1. mgr. 2. gr. laga um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða, skal almennt tryggingagjald lækka um allt að 0,2% af gjaldstofni og sá hluti tryggingagjaldsins nýttur sem iðgjaldshluti launagreiðanda á móti iðgjaldshluta launamanns. Frádráttarbær iðgjaldshluti launagreiðanda skal vera 10% af iðgjaldshluta launamanns, þó aldrei hærri en 0,2% af gjaldstofni tryggingagjalds.
+      Skilyrði lækkunar skv. 8. mgr. er að mótframlag sé innt af hendi um leið og sparnaður er dreginn af launum og ráðstafað til aðila skv. 3. mgr. 8. gr. laga um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða.
+      Við skil á staðgreiðslu tryggingagjalds skal taka tilliti til lækkunar skv. 8. mgr. einu sinni á ári eins og um uppgjör fyrir desember væri að ræða. Um uppgjör og álagningu gilda ákvæði V. kafla.
+      Maður sem vinnur við eigin atvinnurekstur eða sjálfstæða starfsemi og ekki er háður skyldu til að skila launaframtali, sbr. 3. mgr. 12. gr., skal gera grein fyrir frádráttarbærum iðgjaldshluta á sérstöku eyðublaði í því formi sem ríkisskattstjóri ákveður.][^5)^]
 
 
 _[^1)^]"L. 130/1997, 13. gr.":/altext/stjt/1997.130.html[^2)^]"L. 141/1995, 2. gr.":/altext/stjt/1995.141.html[^3)^]Um texta þessa viðauka vísast til Stjtíð. A 1995, bls. 92 - 93, svo og breytingu á honum með "l. 141/1995, 5. gr.":/altext/stjt/1995.141.html[^4)^]"L. 156/1996, 1. gr.":/altext/stjt/1996.156.html[^5)^]"L. 148/1998, 1. gr.":/altext/stjt/1998.148.html_
@@ -75,22 +75,22 @@ _Ráðstöfun tryggingagjalds._
 
 3. gr.
 
-        [Tekjur af atvinnutryggingagjaldi skulu renna til Atvinnuleysistryggingasjóðs. [Þó skulu tekjur af atvinnutryggingagjaldi vegna reiknaðs endurgjalds þeirra sem falla undir gildissvið laga um Tryggingasjóð sjálfstætt starfandi einstaklinga renna í hlutaðeigandi deild þess sjóðs.][^1)^]
-         Tekjum af almennu tryggingagjaldi skal ráðstafað sem hér segir:
+     [Tekjur af atvinnutryggingagjaldi skulu renna til Atvinnuleysistryggingasjóðs. [Þó skulu tekjur af atvinnutryggingagjaldi vegna reiknaðs endurgjalds þeirra sem falla undir gildissvið laga um Tryggingasjóð sjálfstætt starfandi einstaklinga renna í hlutaðeigandi deild þess sjóðs.][^1)^]
+      Tekjum af almennu tryggingagjaldi skal ráðstafað sem hér segir:
 
 
 <dl>
-<dt></dt>
-<dd>1. Vinnueftirlit ríkisins fái í sinn hlut sem nemi allt að 0,08% af gjaldstofni skv. III. kafla. Þetta hlutfall skal ákveðið með reglugerð sem félagsmálaráðuneytið setur í samráði við stjórn stofnunarinnar fyrir eitt ár í senn.</dd>
-<dt></dt>
-<dd>2. Tekjur af almennu tryggingagjaldi umfram það sem ákveðið er í 1. tölul. renni til Tryggingastofnunar ríkisins til að fjármagna lífeyris- og slysatryggingar almannatrygginga eftir reglum sem fjármálaráðherra setur með reglugerð.</dd>
-<dt></dt>
-<dd>[3. Staðlaráð fái í sinn hlut sem nemi allt að 0,007% af gjaldstofni skv. III. kafla.</dd>
-<dt></dt>
-<dd>4. Icepro fái í sinn hlut sem nemi allt að 0,001% af gjaldstofni skv. III. kafla.][^2)^]</dd>
+<dt>1.</dt>
+<dd>Vinnueftirlit ríkisins fái í sinn hlut sem nemi allt að 0,08% af gjaldstofni skv. III. kafla. Þetta hlutfall skal ákveðið með reglugerð sem félagsmálaráðuneytið setur í samráði við stjórn stofnunarinnar fyrir eitt ár í senn.</dd>
+<dt>2.</dt>
+<dd>Tekjur af almennu tryggingagjaldi umfram það sem ákveðið er í 1. tölul. renni til Tryggingastofnunar ríkisins til að fjármagna lífeyris- og slysatryggingar almannatrygginga eftir reglum sem fjármálaráðherra setur með reglugerð.</dd>
+<dt>[3.</dt>
+<dd>Staðlaráð fái í sinn hlut sem nemi allt að 0,007% af gjaldstofni skv. III. kafla.</dd>
+<dt>4.</dt>
+<dd>Icepro fái í sinn hlut sem nemi allt að 0,001% af gjaldstofni skv. III. kafla.][^2)^]</dd>
 </dl>
 
-        Um hlutdeild opinberra byggingarsjóða í almennu tryggingagjaldi fer eftir ákvæðum laga um Húsnæðisstofnun ríkisins, svo og ákvæðum lánsfjárlaga og fjárlaga hverju sinni.][^3)^]
+     Um hlutdeild opinberra byggingarsjóða í almennu tryggingagjaldi fer eftir ákvæðum laga um Húsnæðisstofnun ríkisins, svo og ákvæðum lánsfjárlaga og fjárlaga hverju sinni.][^3)^]
 
 
 _[^1)^]"L. 66/1997, 1. gr.":/altext/stjt/1997.066.html[^2)^]"L. 156/1996, 2. gr.":/altext/stjt/1996.156.html[^3)^]"L. 141/1995, 3. gr.":/altext/stjt/1995.141.html_
@@ -106,9 +106,9 @@ _Almennt._
 
 4. gr.
 
-        Gjaldskyldur samkvæmt lögum þessum telst hver sá aðili sem innir af hendi eða reiknar greiðslur sem teljast laun skv. III. kafla.
-         Gjaldskyldan tekur til allra launagreiðenda, svo sem einstaklinga, félaga, sjóða og stofnana, sveitarfélaga og stofnana þeirra, ríkissjóðs, ríkisstofnana, erlendra verktaka og annarra þeirra aðila sem greiða laun eða hvers konar þóknanir fyrir starf. Enn fremur til allra þeirra sem vinna við eigin atvinnurekstur eða stunda sjálfstæða starfsemi.
-         Ef milligöngumaður annast launagreiðslur skal hann gegna skyldum gjaldskylds aðila varðandi skil og greiðslur samkvæmt lögum þessum. Sama gildir um umboðsmann sem um ræðir í 2. mgr. 2. tölul. 71. gr. laga um tekjuskatt og eignarskatt.
+     Gjaldskyldur samkvæmt lögum þessum telst hver sá aðili sem innir af hendi eða reiknar greiðslur sem teljast laun skv. III. kafla.
+      Gjaldskyldan tekur til allra launagreiðenda, svo sem einstaklinga, félaga, sjóða og stofnana, sveitarfélaga og stofnana þeirra, ríkissjóðs, ríkisstofnana, erlendra verktaka og annarra þeirra aðila sem greiða laun eða hvers konar þóknanir fyrir starf. Enn fremur til allra þeirra sem vinna við eigin atvinnurekstur eða stunda sjálfstæða starfsemi.
+      Ef milligöngumaður annast launagreiðslur skal hann gegna skyldum gjaldskylds aðila varðandi skil og greiðslur samkvæmt lögum þessum. Sama gildir um umboðsmann sem um ræðir í 2. mgr. 2. tölul. 71. gr. laga um tekjuskatt og eignarskatt.
 
 
 
@@ -116,19 +116,19 @@ _Aðilar undanþegnir gjaldskyldu._
 
 5. gr.
 
-        Eftirtaldir aðilar eru undanþegnir tryggingagjaldi:
+     Eftirtaldir aðilar eru undanþegnir tryggingagjaldi:
 
 <dl>
-<dt></dt>
-<dd>1. Forseti Íslands.</dd>
-<dt></dt>
-<dd>2. Erlendir þjóðhöfðingjar.</dd>
-<dt></dt>
-<dd>3. Sendiráð og sendiherrar erlendra ríkja, sendiræðismenn og erlendir starfsmenn við sendiráð.</dd>
+<dt>1.</dt>
+<dd>Forseti Íslands.</dd>
+<dt>2.</dt>
+<dd>Erlendir þjóðhöfðingjar.</dd>
+<dt>3.</dt>
+<dd>Sendiráð og sendiherrar erlendra ríkja, sendiræðismenn og erlendir starfsmenn við sendiráð.</dd>
 </dl>
 
 
-         Þeir sem taldir eru í 2. og 3. tölul. eru þó ekki undanþegnir gjaldskyldu af launum sem þeir kunna að greiða vegna atvika sem mundu skapa þeim skattskyldu hér á landi til tekjuskatts og eignarskatts.
+      Þeir sem taldir eru í 2. og 3. tölul. eru þó ekki undanþegnir gjaldskyldu af launum sem þeir kunna að greiða vegna atvika sem mundu skapa þeim skattskyldu hér á landi til tekjuskatts og eignarskatts.
 
 
 
@@ -140,9 +140,9 @@ _Almennt._
 
 6. gr.
 
-        Stofn til tryggingagjalds er allar tegundir launa eða þóknana fyrir starf, hverju nafni sem nefnist, sem skattskyld eru skv. 1. tölul. A- liðar "7. gr. laga nr. 75/1981":1981075.html#g7. Ekki skiptir máli í hvaða gjaldmiðli goldið er, hvort sem það er í reiðufé, fríðu, hlunnindum, vöruúttekt eða vinnuskiptum.
-         Gjaldstofn manns [vegna staðgreiðslu tryggingagjalds][^1)^] sem vinnur við eigin atvinnurekstur eða sjálfstæða starfsemi skal vera jafn fjárhæð reiknaðs endurgjalds sem hann telur sér til tekna eða bar að telja sér til tekna skv. "6. gr. laga nr. 45/1987":1987045.html#g6, um staðgreiðslu opinberra gjalda. Sama á við um reiknað endurgjald maka hans og barna innan 16 ára aldurs á tekjuárinu.
-         [Gjaldstofn manns vegna vinnu hans við eigin atvinnurekstur eða sjálfstæða starfsemi skal vera jafnhár fjárhæð skv. 2. mgr. 1. tölul. A-liðar "7. gr. laga nr. 75/1981":1981075.html#g7, um tekjuskatt og eignarskatt, með síðari breytingum, sbr. "59. gr. þeirra laga":1981075.html#g59. Gjaldstofn þessi skal þó eigi vera lægri en [748.224][^2)^] kr. miðað við heilt ár. ...[^2)^]][^1)^]
+     Stofn til tryggingagjalds er allar tegundir launa eða þóknana fyrir starf, hverju nafni sem nefnist, sem skattskyld eru skv. 1. tölul. A- liðar "7. gr. laga nr. 75/1981":1981075.html#g7. Ekki skiptir máli í hvaða gjaldmiðli goldið er, hvort sem það er í reiðufé, fríðu, hlunnindum, vöruúttekt eða vinnuskiptum.
+      Gjaldstofn manns [vegna staðgreiðslu tryggingagjalds][^1)^] sem vinnur við eigin atvinnurekstur eða sjálfstæða starfsemi skal vera jafn fjárhæð reiknaðs endurgjalds sem hann telur sér til tekna eða bar að telja sér til tekna skv. "6. gr. laga nr. 45/1987":1987045.html#g6, um staðgreiðslu opinberra gjalda. Sama á við um reiknað endurgjald maka hans og barna innan 16 ára aldurs á tekjuárinu.
+      [Gjaldstofn manns vegna vinnu hans við eigin atvinnurekstur eða sjálfstæða starfsemi skal vera jafnhár fjárhæð skv. 2. mgr. 1. tölul. A-liðar "7. gr. laga nr. 75/1981":1981075.html#g7, um tekjuskatt og eignarskatt, með síðari breytingum, sbr. "59. gr. þeirra laga":1981075.html#g59. Gjaldstofn þessi skal þó eigi vera lægri en [748.224][^2)^] kr. miðað við heilt ár. ...[^2)^]][^1)^]
 
 
 _[^1)^]"L. 122/1993, 36. gr.":/altext/stjt/1993.122.html[^2)^]"L. 141/1995, 4. gr.":/altext/stjt/1995.141.html_
@@ -154,19 +154,19 @@ _Laun o.þ.h._
 
 7. gr.
 
-        Til gjaldstofns skv. 6. gr. teljast meðal annars:
+     Til gjaldstofns skv. 6. gr. teljast meðal annars:
 
 <dl>
-<dt></dt>
-<dd>1. [Hvers konar laun og þóknanir, þar með talið ákvæðislaun, biðlaun, nefndarlaun, stjórnarlaun, launauppbætur, staðaruppbætur, orlofsfé og greiðslur fyrir ónotað orlof og framlag vinnuveitanda í lífeyrissjóð ...[^1)^]][^2)^]</dd>
-<dt></dt>
-<dd>2. Verkfærapeningar, flutningspeningar, fæðispeningar og þess háttar greiðslur.</dd>
-<dt></dt>
-<dd>3. Ökutækjastyrkir og dagpeningar. [Þó skal ekki telja til gjaldstofns greiðslur dagpeninga sem heimilt er að halda utan staðgreiðslu samkvæmt "lögum nr. 45/1987":1987045.html, um staðgreiðslu opinberra gjalda, með síðari breytingum, og reglugerðum og starfsreglum sem settar eru með stoð í þeim lögum.][^2)^]</dd>
-<dt></dt>
-<dd>4. Gjafir og risnufé sem teljast kaupuppbót og eftirgjöf lána sem telja má að komi í launa stað.</dd>
-<dt></dt>
-<dd>5. Laun eða þóknanir fyrir störf unnin erlendis, greidd af íslenskum aðilum til manna sem eru heimilisfastir hér á landi.</dd>
+<dt>1.</dt>
+<dd>[Hvers konar laun og þóknanir, þar með talið ákvæðislaun, biðlaun, nefndarlaun, stjórnarlaun, launauppbætur, staðaruppbætur, orlofsfé og greiðslur fyrir ónotað orlof og framlag vinnuveitanda í lífeyrissjóð ...[^1)^]][^2)^]</dd>
+<dt>2.</dt>
+<dd>Verkfærapeningar, flutningspeningar, fæðispeningar og þess háttar greiðslur.</dd>
+<dt>3.</dt>
+<dd>Ökutækjastyrkir og dagpeningar. [Þó skal ekki telja til gjaldstofns greiðslur dagpeninga sem heimilt er að halda utan staðgreiðslu samkvæmt "lögum nr. 45/1987":1987045.html, um staðgreiðslu opinberra gjalda, með síðari breytingum, og reglugerðum og starfsreglum sem settar eru með stoð í þeim lögum.][^2)^]</dd>
+<dt>4.</dt>
+<dd>Gjafir og risnufé sem teljast kaupuppbót og eftirgjöf lána sem telja má að komi í launa stað.</dd>
+<dt>5.</dt>
+<dd>Laun eða þóknanir fyrir störf unnin erlendis, greidd af íslenskum aðilum til manna sem eru heimilisfastir hér á landi.</dd>
 </dl>
 
 
@@ -181,7 +181,7 @@ _Hlunnindi._
 
 8. gr.
 
-        Til tryggingagjaldsskyldra hlunninda telst meðal annars fæði, húsnæði, fatnaður, bifreiðaafnot o.þ.h. Hlunnindi þessi skal reikna til gjaldstofns á sama verði og þau eru metin til tekna samkvæmt skattmati ríkisskattstjóra. Önnur hlunnindi skulu metin til peninga eftir gangverði á hverjum stað og tíma.
+     Til tryggingagjaldsskyldra hlunninda telst meðal annars fæði, húsnæði, fatnaður, bifreiðaafnot o.þ.h. Hlunnindi þessi skal reikna til gjaldstofns á sama verði og þau eru metin til tekna samkvæmt skattmati ríkisskattstjóra. Önnur hlunnindi skulu metin til peninga eftir gangverði á hverjum stað og tíma.
 
 
 
@@ -189,19 +189,19 @@ _Undanþágur frá gjaldstofni._
 
 9. gr.
 
-        Undanþegnar tryggingagjaldi eru eftirtaldar greiðslur:
+     Undanþegnar tryggingagjaldi eru eftirtaldar greiðslur:
 
 <dl>
-<dt></dt>
-<dd>1. Eftirlaun og lífeyrir sem Tryggingastofnun ríkisins eða lífeyrissjóður greiðir, enda starfi lífeyrissjóðurinn eftir reglum sem fjármálaráðherra samþykkir og sjóðurinn sé háður eftirliti fjármálaráðuneytisins.</dd>
-<dt></dt>
-<dd>2. Aðrar bætur greiddar af Tryggingastofnun ríkisins, þar með talið fæðingarorlof, svo og slysa- og sjúkradagpeningar úr sjúkrasjóðum stéttarfélaga.</dd>
-<dt></dt>
-<dd>3. Bætur tryggingafélaga vegna atvinnutjóns af völdum slysa.</dd>
-<dt></dt>
-<dd>4. Atvinnuleysisbætur.</dd>
-<dt></dt>
-<dd>5. Greiðslur úr ríkissjóði vegna ríkisábyrgðar á launum.</dd>
+<dt>1.</dt>
+<dd>Eftirlaun og lífeyrir sem Tryggingastofnun ríkisins eða lífeyrissjóður greiðir, enda starfi lífeyrissjóðurinn eftir reglum sem fjármálaráðherra samþykkir og sjóðurinn sé háður eftirliti fjármálaráðuneytisins.</dd>
+<dt>2.</dt>
+<dd>Aðrar bætur greiddar af Tryggingastofnun ríkisins, þar með talið fæðingarorlof, svo og slysa- og sjúkradagpeningar úr sjúkrasjóðum stéttarfélaga.</dd>
+<dt>3.</dt>
+<dd>Bætur tryggingafélaga vegna atvinnutjóns af völdum slysa.</dd>
+<dt>4.</dt>
+<dd>Atvinnuleysisbætur.</dd>
+<dt>5.</dt>
+<dd>Greiðslur úr ríkissjóði vegna ríkisábyrgðar á launum.</dd>
 </dl>
 
 
@@ -216,9 +216,9 @@ _Greiðslutímabil o.fl._
 
 10. gr.
 
-        Greiðslutímabil tryggingagjalds er almanaksmánuður nema annað sé tekið fram í lögum þessum. Gjalddagi tryggingagjalds er 1. hvers mánaðar vegna launa næstliðins mánaðar og eindagi 14 dögum síðar. Hafi gjaldandi eigi greitt á eindaga skal hann greiða dráttarvexti frá og með gjalddaga. Álag skv. 1. tölul. 2. mgr. "28. gr. laga nr. 45/1987":1987045.html#g28, um staðgreiðslu opinberra gjalda, reiknast ekki.
-         Gjaldskyldur aðili skal ótilkvaddur greiða tryggingagjald til innheimtumanns ríkissjóðs, í Reykjavík tollstjóra.
-         Ríkisskattstjóri ákveður hvað skuli koma fram í skilagreinum og greiðsluskjölum og ákveður gerð þeirra. Um skilagreinar, svo og um yfirferð, áætlun og tilkynningar skattstjóra á staðgreiðsluári, gilda að öðru leyti ákvæði "laga nr. 45/1987":1987045.html, um staðgreiðslu opinberra gjalda, með síðari breytingum.
+     Greiðslutímabil tryggingagjalds er almanaksmánuður nema annað sé tekið fram í lögum þessum. Gjalddagi tryggingagjalds er 1. hvers mánaðar vegna launa næstliðins mánaðar og eindagi 14 dögum síðar. Hafi gjaldandi eigi greitt á eindaga skal hann greiða dráttarvexti frá og með gjalddaga. Álag skv. 1. tölul. 2. mgr. "28. gr. laga nr. 45/1987":1987045.html#g28, um staðgreiðslu opinberra gjalda, reiknast ekki.
+      Gjaldskyldur aðili skal ótilkvaddur greiða tryggingagjald til innheimtumanns ríkissjóðs, í Reykjavík tollstjóra.
+      Ríkisskattstjóri ákveður hvað skuli koma fram í skilagreinum og greiðsluskjölum og ákveður gerð þeirra. Um skilagreinar, svo og um yfirferð, áætlun og tilkynningar skattstjóra á staðgreiðsluári, gilda að öðru leyti ákvæði "laga nr. 45/1987":1987045.html, um staðgreiðslu opinberra gjalda, með síðari breytingum.
 
 
 
@@ -226,7 +226,7 @@ _Upplýsingar, eftirlit, viðurlög o.fl._
 
 11. gr.
 
-        Ákvæði "laga nr. 45/1987":1987045.html, um staðgreiðslu opinberra gjalda, með síðari breytingum, skulu gilda um upplýsingar og eftirlit, viðurlög og málsmeðferð tryggingagjalds að því er varðar skil þess á staðgreiðsluári. Skulu ákvæði þeirra laga m.a. taka til dráttarvaxta, áætlunar gjaldstofns og innheimtu vanskilafjár, þar með talið lögtaksréttar, stöðvunar atvinnurekstrar, refsinga, opinberrar rannsóknar og fyrningar gjaldkröfu.
+     Ákvæði "laga nr. 45/1987":1987045.html, um staðgreiðslu opinberra gjalda, með síðari breytingum, skulu gilda um upplýsingar og eftirlit, viðurlög og málsmeðferð tryggingagjalds að því er varðar skil þess á staðgreiðsluári. Skulu ákvæði þeirra laga m.a. taka til dráttarvaxta, áætlunar gjaldstofns og innheimtu vanskilafjár, þar með talið lögtaksréttar, stöðvunar atvinnurekstrar, refsinga, opinberrar rannsóknar og fyrningar gjaldkröfu.
 
 
 
@@ -238,12 +238,12 @@ _Árleg tryggingagjaldsframtöl, álagning, endurskoðun gjalds, kærur, innheim
 
 12. gr.
 
-        Allir, sem skyldir eru til að greiða tryggingagjald samkvæmt lögum þessum, skulu, að staðgreiðsluári liðnu, senda skattstjóra árlega sérstakt launaframtal, í því formi sem ríkisskattstjóri ákveður, innan þess frests sem settur er um skil launaskýrslna þeirra er greinir í "92. gr. laga nr. 75/1981":1981075.html#g92.
-         Á launaframtal skal launagreiðandi færa launagreiðslur næstliðins árs og aðrar upplýsingar og sundurliðanir sem ríkisskattstjóra þykir við þurfa til ákvörðunar tryggingagjalds og form eyðublaðsins segir til um.
-         [Vegna tryggingagjalds á reiknað endurgjald manns sem stundar atvinnurekstur eða sjálfstæða starfsemi, maka hans og barna skal stofn gjaldsins vera sú fjárhæð sem greinir í 3. mgr. 6. gr. Er ekki skylt að gera sérstaka grein fyrir fjárhæðinni á launaframtali. Skipta skal gjaldstofni ársins jafnt á öll geiðslutímabil þess nema önnur skipting komi greinilega fram í skattgögnum gjaldanda.][^1)^]
-         Við álagningu opinberra gjalda skal skattstjóri ákvarða tryggingagjald gjaldskylds aðila samkvæmt launaframtali hans að gerðum þeim breytingum og leiðréttingum sem gera þarf á því.
-         Tryggingagjald skal birt í álagningarskrá, sbr. "98. gr. laga nr. 75/1981":1981075.html#g98, um tekjuskatt og eignarskatt.
-         Gjalddagi ógreidds tryggingagjalds, sem skattstjóri ákvarðar vegna hlunninda, og tryggingagjalds, sem undanþegið er staðgreiðslu, er 1. ágúst ár hvert og eindagi mánuði síðar.
+     Allir, sem skyldir eru til að greiða tryggingagjald samkvæmt lögum þessum, skulu, að staðgreiðsluári liðnu, senda skattstjóra árlega sérstakt launaframtal, í því formi sem ríkisskattstjóri ákveður, innan þess frests sem settur er um skil launaskýrslna þeirra er greinir í "92. gr. laga nr. 75/1981":1981075.html#g92.
+      Á launaframtal skal launagreiðandi færa launagreiðslur næstliðins árs og aðrar upplýsingar og sundurliðanir sem ríkisskattstjóra þykir við þurfa til ákvörðunar tryggingagjalds og form eyðublaðsins segir til um.
+      [Vegna tryggingagjalds á reiknað endurgjald manns sem stundar atvinnurekstur eða sjálfstæða starfsemi, maka hans og barna skal stofn gjaldsins vera sú fjárhæð sem greinir í 3. mgr. 6. gr. Er ekki skylt að gera sérstaka grein fyrir fjárhæðinni á launaframtali. Skipta skal gjaldstofni ársins jafnt á öll geiðslutímabil þess nema önnur skipting komi greinilega fram í skattgögnum gjaldanda.][^1)^]
+      Við álagningu opinberra gjalda skal skattstjóri ákvarða tryggingagjald gjaldskylds aðila samkvæmt launaframtali hans að gerðum þeim breytingum og leiðréttingum sem gera þarf á því.
+      Tryggingagjald skal birt í álagningarskrá, sbr. "98. gr. laga nr. 75/1981":1981075.html#g98, um tekjuskatt og eignarskatt.
+      Gjalddagi ógreidds tryggingagjalds, sem skattstjóri ákvarðar vegna hlunninda, og tryggingagjalds, sem undanþegið er staðgreiðslu, er 1. ágúst ár hvert og eindagi mánuði síðar.
 
 
 _[^1)^]"L. 32/1995, 2. gr.":/altext/stjt/1995.032.html_
@@ -255,8 +255,8 @@ _Vangreitt tryggingagjald._
 
 13. gr.
 
-        Skattstjórar skulu kanna skil þeirra sem greiða áttu tryggingagjald, m.a. með samanburði við laun í staðgreiðslu, launaframtöl, launamiða, skattframtöl, ársreikninga og önnur gögn sem fyrir hendi eru. Þeir skulu síðan leiðrétta það sem áfátt kann að reynast og ákvarða vangreitt tryggingagjald og senda tilkynningu þar um til gjaldanda og innheimtumanns.
-         Komi í ljós að aðili, sem greitt hefur laun sem greiða skal tryggingagjald af, hafi vanrækt greiðslu gjaldsins að hluta eða öllu leyti, eða ofgreitt tryggingagjaldið eða ekki skilað launaframtali, skal skattstjóri ákvarða tryggingagjald fyrir hvert einstakt greiðslutímabil. Skal ákvarða gjaldanda dráttarvexti af vangreiddu tryggingagjaldi frá og með gjalddaga þess í samræmi við "vaxtalög, nr. 25/1987":1987025.html. Á ofgreiðslu reiknast vextir í samræmi við ákvæði 2. mgr. "112. gr. laga nr. 75/1981":1981075.html#g112, um tekjuskatt og eignarskatt, með síðari breytingum.
+     Skattstjórar skulu kanna skil þeirra sem greiða áttu tryggingagjald, m.a. með samanburði við laun í staðgreiðslu, launaframtöl, launamiða, skattframtöl, ársreikninga og önnur gögn sem fyrir hendi eru. Þeir skulu síðan leiðrétta það sem áfátt kann að reynast og ákvarða vangreitt tryggingagjald og senda tilkynningu þar um til gjaldanda og innheimtumanns.
+      Komi í ljós að aðili, sem greitt hefur laun sem greiða skal tryggingagjald af, hafi vanrækt greiðslu gjaldsins að hluta eða öllu leyti, eða ofgreitt tryggingagjaldið eða ekki skilað launaframtali, skal skattstjóri ákvarða tryggingagjald fyrir hvert einstakt greiðslutímabil. Skal ákvarða gjaldanda dráttarvexti af vangreiddu tryggingagjaldi frá og með gjalddaga þess í samræmi við "vaxtalög, nr. 25/1987":1987025.html. Á ofgreiðslu reiknast vextir í samræmi við ákvæði 2. mgr. "112. gr. laga nr. 75/1981":1981075.html#g112, um tekjuskatt og eignarskatt, með síðari breytingum.
 
 
 
@@ -264,7 +264,7 @@ _Endurákvörðun tryggingagjalds, kærur o.fl._
 
 14. gr.
 
-        Séu skil gjaldanda í einstökum atriðum eða í heild ófullnægjandi, tortryggileg eða sýnilega gerð til málamynda skal við álagningu, sbr. 3. mgr. 12. gr., og við endurákvörðun beita ákvæðum "laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, eftir því sem við getur átt um slík tilvik. Ákvæði þeirra laga skulu og gilda, eftir því sem við á, um álagningu, rannsókn, kærur út af skattákvörðun, kærufresti, úrskurði, áfrýjun úrskurða og annað þar að lútandi. Sömu reglur skulu gilda, eftir því sem við á, ef gjaldandi, sem lagt skyldi á, hefur fallið af skrá eða honum ekki gert að greiða tryggingagjald af öllum gjaldstofninum.
+     Séu skil gjaldanda í einstökum atriðum eða í heild ófullnægjandi, tortryggileg eða sýnilega gerð til málamynda skal við álagningu, sbr. 3. mgr. 12. gr., og við endurákvörðun beita ákvæðum "laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, eftir því sem við getur átt um slík tilvik. Ákvæði þeirra laga skulu og gilda, eftir því sem við á, um álagningu, rannsókn, kærur út af skattákvörðun, kærufresti, úrskurði, áfrýjun úrskurða og annað þar að lútandi. Sömu reglur skulu gilda, eftir því sem við á, ef gjaldandi, sem lagt skyldi á, hefur fallið af skrá eða honum ekki gert að greiða tryggingagjald af öllum gjaldstofninum.
 
 
 
@@ -272,9 +272,9 @@ _Tryggingagjald ársmanna o.fl._
 
 15. gr.
 
-        Nú reiknar maður sér endurgjald eða greiðir laun til annarra, þannig að reiknaða endurgjaldið og launin nema samtals lægri fjárhæð en 30.000 kr. að meðaltali á mánuði, og er honum þá heimilt, í stað þess að skila mánaðarlega í samræmi við 10. gr., að senda skilagrein ásamt greiðslu á gjalddaga þess mánaðar þegar samanlagt reiknað endurgjald og greidd laun til annarra ná 360.000 kr. en eftir það á hverjum gjalddaga vegna þess árs.
-         Ef reiknað endurgjald eða greidd vinnulaun til annarra ná eigi til samans 360.000 kr. á árinu er gjaldanda heimilt, í stað þess að skila mánaðarlega í samræmi við 10. gr., að senda skilagrein ásamt greiðslu einu sinni á ári eins og um uppgjör fyrir desember væri að ræða.
-         Fjárhæðir í 1. og 2. mgr. eru grunnfjárhæðir og breytast í samræmi við verðbreytingarstuðul ríkisskattstjóra skv. "26. gr. laga nr. 75/1981":1981075.html#g26, í fyrsta sinn fyrir árið 1992. Reiknast þær í heilum þúsundum króna þannig að lægri fjárhæð en þúsund krónum er sleppt.
+     Nú reiknar maður sér endurgjald eða greiðir laun til annarra, þannig að reiknaða endurgjaldið og launin nema samtals lægri fjárhæð en 30.000 kr. að meðaltali á mánuði, og er honum þá heimilt, í stað þess að skila mánaðarlega í samræmi við 10. gr., að senda skilagrein ásamt greiðslu á gjalddaga þess mánaðar þegar samanlagt reiknað endurgjald og greidd laun til annarra ná 360.000 kr. en eftir það á hverjum gjalddaga vegna þess árs.
+      Ef reiknað endurgjald eða greidd vinnulaun til annarra ná eigi til samans 360.000 kr. á árinu er gjaldanda heimilt, í stað þess að skila mánaðarlega í samræmi við 10. gr., að senda skilagrein ásamt greiðslu einu sinni á ári eins og um uppgjör fyrir desember væri að ræða.
+      Fjárhæðir í 1. og 2. mgr. eru grunnfjárhæðir og breytast í samræmi við verðbreytingarstuðul ríkisskattstjóra skv. "26. gr. laga nr. 75/1981":1981075.html#g26, í fyrsta sinn fyrir árið 1992. Reiknast þær í heilum þúsundum króna þannig að lægri fjárhæð en þúsund krónum er sleppt.
 
 
 
@@ -282,7 +282,7 @@ _Dráttarvaxtaútreikningur._
 
 16. gr.
 
-        Á tryggingagjald vegna launa og hlunninda, sem undanþegin eru staðgreiðslu, reiknast dráttarvextir eftir almennum reglum frá og með gjalddaga 1. ágúst ár hvert ef ekki er greitt fyrir eindaga.
+     Á tryggingagjald vegna launa og hlunninda, sem undanþegin eru staðgreiðslu, reiknast dráttarvextir eftir almennum reglum frá og með gjalddaga 1. ágúst ár hvert ef ekki er greitt fyrir eindaga.
 
 
 
@@ -294,7 +294,7 @@ _Frádráttarbærni tryggingagjalds._
 
 17. gr.
 
-        Tryggingagjald telst rekstrarkostnaður skv. 1. tölul. "31. gr. laga nr. 75/1981":1981075.html#g31, um tekjuskatt og eignarskatt, að því leyti sem það er ákvarðað af launum sem teljast rekstrarkostnaður samkvæmt sömu grein.
+     Tryggingagjald telst rekstrarkostnaður skv. 1. tölul. "31. gr. laga nr. 75/1981":1981075.html#g31, um tekjuskatt og eignarskatt, að því leyti sem það er ákvarðað af launum sem teljast rekstrarkostnaður samkvæmt sömu grein.
 
 
 
@@ -302,7 +302,7 @@ _Setning reglugerðar._
 
 18. gr.
 
-        Ráðherra getur með reglugerð[^1)^] sett nánari ákvæði um framkvæmd laga þessara.
+     Ráðherra getur með reglugerð[^1)^] sett nánari ákvæði um framkvæmd laga þessara.
 
 
 _[^1)^]Rg. 753/1997._
@@ -314,13 +314,13 @@ _Brottfall lagaákvæða o.fl._
 
 19. gr.
 
-        Ákvæði laga þessara koma í stað þeirra ákvæða ... "laga nr. 46/1980":1980046.html, um aðbúnað, hollustuhætti og öryggi á vinnustöðum, með síðari breytingum, er fela í sér ákvörðun gjaldstofns og gjaldtöku af launagreiðendum sem miðast við launagreiðslur eða launatímabil.
+     Ákvæði laga þessara koma í stað þeirra ákvæða ... "laga nr. 46/1980":1980046.html, um aðbúnað, hollustuhætti og öryggi á vinnustöðum, með síðari breytingum, er fela í sér ákvörðun gjaldstofns og gjaldtöku af launagreiðendum sem miðast við launagreiðslur eða launatímabil.
 
 
 
 20. gr.
 
-        Lög þessi öðlast þegar gildi og koma til framkvæmda vegna launagreiðslna frá og með 1. janúar 1991. ...
+     Lög þessi öðlast þegar gildi og koma til framkvæmda vegna launagreiðslna frá og með 1. janúar 1991. ...
 
 
 
@@ -328,7 +328,7 @@ _Brottfall lagaákvæða o.fl._
 
 *I. - II.*
 
-        ...
+     ...
 
 
 

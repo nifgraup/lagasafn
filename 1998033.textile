@@ -12,65 +12,65 @@ h2. Úrskurður handhafa valds forseta Íslands um sendiráð, fastanefndir hjá
 Samkvæmt tillögu utanríkisráðherra og með vísan til "4. gr. laga nr. 39/1971":1971039.html#g4 um utanríkisþjónustu Íslands eru hér með sett eftirfarandi ákvæði:
 
 <dl>
-<dt></dt>
-<dd>1. a. Sendiráð skulu vera í Bonn, Brussel, Helsinki, Kaupmannahöfn, London, Moskvu, Ósló, París, Peking, Stokkhólmi og Washington. Fastanefndin í New York skal jafnframt gegna hlutverki sendiráðs gagnvart nánar tilteknum ríkjum.
+<dt>1.</dt>
+<dd>a. Sendiráð skulu vera í Bonn, Brussel, Helsinki, Kaupmannahöfn, London, Moskvu, Ósló, París, Peking, Stokkhólmi og Washington. Fastanefndin í New York skal jafnframt gegna hlutverki sendiráðs gagnvart nánar tilteknum ríkjum.
 <dl>
-<dt></dt>
-<dd>b. Fastanefndir skulu vera í Brussel, Genf, New York og Strassborg. Sendiráðið í París skal jafnframt gegna hlutverki fastanefndar hjá nánar tilteknum alþjóðastofnunum.</dd>
-<dt></dt>
-<dd>c. Aðalræðisskrifstofa skal vera í New York.</dd>
+<dt>b.</dt>
+<dd>Fastanefndir skulu vera í Brussel, Genf, New York og Strassborg. Sendiráðið í París skal jafnframt gegna hlutverki fastanefndar hjá nánar tilteknum alþjóðastofnunum.</dd>
+<dt>c.</dt>
+<dd>Aðalræðisskrifstofa skal vera í New York.</dd>
 </dl>
 </dd>
-<dt></dt>
-<dd>2. Umdæmi sendiráða skulu vera sem hér segir:
+<dt>2.</dt>
+<dd>Umdæmi sendiráða skulu vera sem hér segir:
 <dl>
-<dt></dt>
-<dd>a. _Bonn._ Auk Þýskalands skal umdæmi sendiráðsins vera Austurríki, Serbía-Svartfjallaland (fyrrum Sambandslýðveldi Júgóslavíu), Sviss og Ungverjaland.</dd>
-<dt></dt>
-<dd>b. _Brussel._ Auk Belgíu skal umdæmi sendiráðsins vera Liechtenstein og Lúxemborg. Forstöðumaður sendiráðsins skal vera sendiherra Íslands hjá Evrópusambandinu (EU).</dd>
-<dt></dt>
-<dd>c. _Helsinki._ Auk Finnlands skal umdæmi sendiráðsins vera Eistland, Lettland og Úkraína.</dd>
-<dt></dt>
-<dd>d. _Kaupmannahöfn._ Auk Danmerkur skal umdæmi sendiráðsins vera Bosnía og Hersegóvína, Litháen og Tyrkland.</dd>
-<dt></dt>
-<dd>e. _London._ Auk Bretlands skal umdæmi sendiráðsins vera Grikkland, Holland, Indland, Írland, Maldíveyjar og Nepal.</dd>
-<dt></dt>
-<dd>f. _Moskva._ Auk Rússlands skal umdæmi sendiráðsins vera Armenía, Aserbaídsjan, Búlgaría, Georgía, Moldóva, Rúmenía, Túrkmenistan og Úsbekistan.</dd>
-<dt></dt>
-<dd>g. _Ósló._ Auk Noregs skal umdæmi sendiráðsins vera Króatía, Makedónía (fyrrum Sambandslýðveldi Júgóslavíu), Pólland, Slóvakía og Tékkland.</dd>
-<dt></dt>
-<dd>h. _París._ Auk Frakklands skal umdæmi sendiráðsins vera Andorra, Ítalía, Portúgal, San Marínó og Spánn. Sendiráðið skal gegna hlutverki fastanefndar gagnvart Efnahagssamvinnu- og þróunarstofnuninni (OECD), Menningarmálastofnun Sameinuðu þjóðanna (UNESCO) og Matvæla- og landbúnaðarstofnun Sameinuðu þjóðanna (FAO) í Róm á Ítalíu.</dd>
-<dt></dt>
-<dd>i. _Peking._ Auk Kína skal umdæmi sendiráðsins vera Ástralía, Indónesía, Japan, Mongólía, Norður-Kórea (Alþýðulýðveldið Kórea), Nýja-Sjáland, Suður-Kórea (Lýðveldið Kórea), Taíland og Víetnam.</dd>
-<dt></dt>
-<dd>j. _Stokkhólmur._ Auk Svíþjóðar skal umdæmi sendiráðsins vera Albanía, Bangladess, Kýpur, Pakistan og Slóvenía.</dd>
-<dt></dt>
-<dd>k. _Washington._ Auk Bandaríkjanna skal umdæmi sendiráðsins vera Argentína, Brasilía, Chile, Gvatemala, Kanada, Kostaríka, Kólumbía, Marshalleyjar, Mexíkó, Níkaragva, Perú, Úrúgvæ og Venesúela.</dd>
+<dt>a.</dt>
+<dd>_Bonn._ Auk Þýskalands skal umdæmi sendiráðsins vera Austurríki, Serbía-Svartfjallaland (fyrrum Sambandslýðveldi Júgóslavíu), Sviss og Ungverjaland.</dd>
+<dt>b.</dt>
+<dd>_Brussel._ Auk Belgíu skal umdæmi sendiráðsins vera Liechtenstein og Lúxemborg. Forstöðumaður sendiráðsins skal vera sendiherra Íslands hjá Evrópusambandinu (EU).</dd>
+<dt>c.</dt>
+<dd>_Helsinki._ Auk Finnlands skal umdæmi sendiráðsins vera Eistland, Lettland og Úkraína.</dd>
+<dt>d.</dt>
+<dd>_Kaupmannahöfn._ Auk Danmerkur skal umdæmi sendiráðsins vera Bosnía og Hersegóvína, Litháen og Tyrkland.</dd>
+<dt>e.</dt>
+<dd>_London._ Auk Bretlands skal umdæmi sendiráðsins vera Grikkland, Holland, Indland, Írland, Maldíveyjar og Nepal.</dd>
+<dt>f.</dt>
+<dd>_Moskva._ Auk Rússlands skal umdæmi sendiráðsins vera Armenía, Aserbaídsjan, Búlgaría, Georgía, Moldóva, Rúmenía, Túrkmenistan og Úsbekistan.</dd>
+<dt>g.</dt>
+<dd>_Ósló._ Auk Noregs skal umdæmi sendiráðsins vera Króatía, Makedónía (fyrrum Sambandslýðveldi Júgóslavíu), Pólland, Slóvakía og Tékkland.</dd>
+<dt>h.</dt>
+<dd>_París._ Auk Frakklands skal umdæmi sendiráðsins vera Andorra, Ítalía, Portúgal, San Marínó og Spánn. Sendiráðið skal gegna hlutverki fastanefndar gagnvart Efnahagssamvinnu- og þróunarstofnuninni (OECD), Menningarmálastofnun Sameinuðu þjóðanna (UNESCO) og Matvæla- og landbúnaðarstofnun Sameinuðu þjóðanna (FAO) í Róm á Ítalíu.</dd>
+<dt>i.</dt>
+<dd>_Peking._ Auk Kína skal umdæmi sendiráðsins vera Ástralía, Indónesía, Japan, Mongólía, Norður-Kórea (Alþýðulýðveldið Kórea), Nýja-Sjáland, Suður-Kórea (Lýðveldið Kórea), Taíland og Víetnam.</dd>
+<dt>j.</dt>
+<dd>_Stokkhólmur._ Auk Svíþjóðar skal umdæmi sendiráðsins vera Albanía, Bangladess, Kýpur, Pakistan og Slóvenía.</dd>
+<dt>k.</dt>
+<dd>_Washington._ Auk Bandaríkjanna skal umdæmi sendiráðsins vera Argentína, Brasilía, Chile, Gvatemala, Kanada, Kostaríka, Kólumbía, Marshalleyjar, Mexíkó, Níkaragva, Perú, Úrúgvæ og Venesúela.</dd>
 </dl>
 </dd>
-<dt></dt>
-<dd>3. Fyrirsvar fastanefnda skal vera sem hér segir:
+<dt>3.</dt>
+<dd>Fyrirsvar fastanefnda skal vera sem hér segir:
 <dl>
-<dt></dt>
-<dd>a. _Brussel._ Auk Atlantshafsbandalagsins (NATO) og stofnana tengdum því skal fastanefndin fara með fyrirsvar gagnvart Vestur-Evrópusambandinu (WEU) og Stofnuninni um bann við efnavopnum (OPCW) í Haag í Hollandi.</dd>
-<dt></dt>
-<dd>b. _Genf._ Auk Fríverslunarsamtaka Evrópu (EFTA) skal fastanefndin fara með fyrirsvar gagnvart Alþjóðaviðskiptastofnuninni (WTO), Skrifstofu Sameinuðu þjóðanna í Genf og öðrum alþjóðastofnunum sem hafa aðsetur í Genf og Ísland er aðili að.</dd>
-<dt></dt>
-<dd>c. _New York._ Auk þess að fara með fyrirsvar gagnvart Sameinuðu þjóðunum í New York skal fastanefndin gegna hlutverki sendiráðs. Umdæmi þess skal vera eftirtalin ríki Karíbahafs: Bahamaeyjar, Barbadoseyjar, Grenada og Kúba.</dd>
-<dt></dt>
-<dd>d. _Strassborg._ Fastanefndin skal fara með fyrirsvar gagnvart Evrópuráðinu.</dd>
+<dt>a.</dt>
+<dd>_Brussel._ Auk Atlantshafsbandalagsins (NATO) og stofnana tengdum því skal fastanefndin fara með fyrirsvar gagnvart Vestur-Evrópusambandinu (WEU) og Stofnuninni um bann við efnavopnum (OPCW) í Haag í Hollandi.</dd>
+<dt>b.</dt>
+<dd>_Genf._ Auk Fríverslunarsamtaka Evrópu (EFTA) skal fastanefndin fara með fyrirsvar gagnvart Alþjóðaviðskiptastofnuninni (WTO), Skrifstofu Sameinuðu þjóðanna í Genf og öðrum alþjóðastofnunum sem hafa aðsetur í Genf og Ísland er aðili að.</dd>
+<dt>c.</dt>
+<dd>_New York._ Auk þess að fara með fyrirsvar gagnvart Sameinuðu þjóðunum í New York skal fastanefndin gegna hlutverki sendiráðs. Umdæmi þess skal vera eftirtalin ríki Karíbahafs: Bahamaeyjar, Barbadoseyjar, Grenada og Kúba.</dd>
+<dt>d.</dt>
+<dd>_Strassborg._ Fastanefndin skal fara með fyrirsvar gagnvart Evrópuráðinu.</dd>
 </dl>
 </dd>
-<dt></dt>
-<dd>4. Umdæmi aðalræðisskrifstofunnar í New York skal vera fylkin New York, Connecticut, New Jersey og Rhode Island.</dd>
-<dt></dt>
-<dd>5. Utanríkisráðherra ákveður hvar fyrirsvar gagnvart eftirtöldum alþjóðastofnunum í Vín skal vera hverju sinni: Alþjóðakjarnorkumálastofnuninni (IAEA), Skrifstofu Sameinuðu þjóðanna í Vín og Öryggis- og samvinnustofnun Evrópu (OSCE).</dd>
-<dt></dt>
-<dd>6. Sendiherra gagnvart Páfagarði skal hafa búsetu í Reykjavík.</dd>
-<dt></dt>
-<dd>7. Sendiherra gagnvart eftirtöldum ríkjum í Miðausturlöndum og Norður-Afríku skal hafa búsetu í Reykjavík: Alsír, Barein, Egyptalandi, Írak, Íran, Ísrael, Jórdaníu, Kúveit, Líbanon, Marokkó, Óman, Sádi-Arabíu og Túnis.</dd>
-<dt></dt>
-<dd>8. Sendiherra gagnvart eftirtöldum ríkjum í Afríku skal hafa búsetu í Reykjavík: Angóla, Botsvana, Eþíópíu, Gana, Grænhöfðaeyjum, Kenía, Lesótó, Mósambík, Namibíu, Níger, Nígeríu, Seychelleseyjum, Sómalíu, Suður-Afríku, Svasílandi, Tansaníu og Úganda.</dd>
+<dt>4.</dt>
+<dd>Umdæmi aðalræðisskrifstofunnar í New York skal vera fylkin New York, Connecticut, New Jersey og Rhode Island.</dd>
+<dt>5.</dt>
+<dd>Utanríkisráðherra ákveður hvar fyrirsvar gagnvart eftirtöldum alþjóðastofnunum í Vín skal vera hverju sinni: Alþjóðakjarnorkumálastofnuninni (IAEA), Skrifstofu Sameinuðu þjóðanna í Vín og Öryggis- og samvinnustofnun Evrópu (OSCE).</dd>
+<dt>6.</dt>
+<dd>Sendiherra gagnvart Páfagarði skal hafa búsetu í Reykjavík.</dd>
+<dt>7.</dt>
+<dd>Sendiherra gagnvart eftirtöldum ríkjum í Miðausturlöndum og Norður-Afríku skal hafa búsetu í Reykjavík: Alsír, Barein, Egyptalandi, Írak, Íran, Ísrael, Jórdaníu, Kúveit, Líbanon, Marokkó, Óman, Sádi-Arabíu og Túnis.</dd>
+<dt>8.</dt>
+<dd>Sendiherra gagnvart eftirtöldum ríkjum í Afríku skal hafa búsetu í Reykjavík: Angóla, Botsvana, Eþíópíu, Gana, Grænhöfðaeyjum, Kenía, Lesótó, Mósambík, Namibíu, Níger, Nígeríu, Seychelleseyjum, Sómalíu, Suður-Afríku, Svasílandi, Tansaníu og Úganda.</dd>
 </dl>
 
 Úrskurður þessi öðlast þegar gildi. ...

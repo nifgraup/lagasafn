@@ -15,28 +15,28 @@ h2. Lög um Samskiptamiðstöð heyrnarlausra og heyrnarskertra
 
 1. gr.
 
-        Markmið laga þessara er að stuðla að jafnrétti heyrnarlausra til þjónustu sem víðast í þjóðfélaginu á grundvelli táknmáls heyrnarlausra.
+     Markmið laga þessara er að stuðla að jafnrétti heyrnarlausra til þjónustu sem víðast í þjóðfélaginu á grundvelli táknmáls heyrnarlausra.
 
 
 
 2. gr.
 
-        Hlutverk Samskiptamiðstöðvar heyrnarlausra og heyrnarskertra er að annast:
+     Hlutverk Samskiptamiðstöðvar heyrnarlausra og heyrnarskertra er að annast:
 
 <dl>
-<dt></dt>
-<dd>a. rannsóknir á íslensku táknmáli,</dd>
-<dt></dt>
-<dd>b. kennslu táknmáls,</dd>
-<dt></dt>
-<dd>c. táknmálstúlkun,</dd>
-<dt></dt>
-<dd>d. aðra þjónustu.</dd>
+<dt>a.</dt>
+<dd>rannsóknir á íslensku táknmáli,</dd>
+<dt>b.</dt>
+<dd>kennslu táknmáls,</dd>
+<dt>c.</dt>
+<dd>táknmálstúlkun,</dd>
+<dt>d.</dt>
+<dd>aðra þjónustu.</dd>
 </dl>
 
 
-         Um skipan þjónustunnar skal kveðið á í reglugerð.
-         Stofnunin skal hafa samstarf við svæðisstjórnir um málefni fatlaðra, Greiningar- og ráðgjafarstöð ríkisins, Heyrnleysingjaskólann, Heyrnar- og talmeinastöð Íslands, Námsgagnastofnun og aðra opinbera aðila varðandi málefni er snerta starfsemi þeirra. Sama gildir um samstarf við félög áhugamanna.
+      Um skipan þjónustunnar skal kveðið á í reglugerð.
+      Stofnunin skal hafa samstarf við svæðisstjórnir um málefni fatlaðra, Greiningar- og ráðgjafarstöð ríkisins, Heyrnleysingjaskólann, Heyrnar- og talmeinastöð Íslands, Námsgagnastofnun og aðra opinbera aðila varðandi málefni er snerta starfsemi þeirra. Sama gildir um samstarf við félög áhugamanna.
 
 
 
@@ -46,19 +46,19 @@ h2. Lög um Samskiptamiðstöð heyrnarlausra og heyrnarskertra
 
 3. gr.
 
-        Menntamálaráðherra skipar stofnuninni fimm manna stjórn til fjögurra ára í senn og jafnmarga til vara:
+     Menntamálaráðherra skipar stofnuninni fimm manna stjórn til fjögurra ára í senn og jafnmarga til vara:
 
 <dl>
-<dt></dt>
-<dd>a. einn fulltrúa tilnefndan af Félagi heyrnarlausra,</dd>
-<dt></dt>
-<dd>b. einn fulltrúa tilnefndan af Foreldra- og styrktarfélagi heyrnardaufra,</dd>
-<dt></dt>
-<dd>c. einn fulltrúa tilnefndan af félagsmálaráðherra,</dd>
-<dt></dt>
-<dd>d. einn fulltrúa tilnefndan af heilbrigðisráðherra og</dd>
-<dt></dt>
-<dd>e. skipar menntamálaráðherra einn fulltrúa án tilnefningar. Skal hann vera formaður. Varamenn skulu skipaðir á sama hátt.</dd>
+<dt>a.</dt>
+<dd>einn fulltrúa tilnefndan af Félagi heyrnarlausra,</dd>
+<dt>b.</dt>
+<dd>einn fulltrúa tilnefndan af Foreldra- og styrktarfélagi heyrnardaufra,</dd>
+<dt>c.</dt>
+<dd>einn fulltrúa tilnefndan af félagsmálaráðherra,</dd>
+<dt>d.</dt>
+<dd>einn fulltrúa tilnefndan af heilbrigðisráðherra og</dd>
+<dt>e.</dt>
+<dd>skipar menntamálaráðherra einn fulltrúa án tilnefningar. Skal hann vera formaður. Varamenn skulu skipaðir á sama hátt.</dd>
 </dl>
 
 
@@ -67,13 +67,13 @@ h2. Lög um Samskiptamiðstöð heyrnarlausra og heyrnarskertra
 
 4. gr.
 
-        Menntamálaráðherra skipar forstöðumann til fimm ára í senn að fengnum tillögum stjórnar stofnunarinnar. Hann á sæti á fundum stjórnarinnar með málfrelsi og tillögurétti og sér um framkvæmd á ákvörðunum hennar. Forstöðumaður annast daglegan rekstur stofnunarinnar.
+     Menntamálaráðherra skipar forstöðumann til fimm ára í senn að fengnum tillögum stjórnar stofnunarinnar. Hann á sæti á fundum stjórnarinnar með málfrelsi og tillögurétti og sér um framkvæmd á ákvörðunum hennar. Forstöðumaður annast daglegan rekstur stofnunarinnar.
 
 
 
 5. gr.
 
-        [Forstöðumaður ræður annað starfsfólk.][^1)^]
+     [Forstöðumaður ræður annað starfsfólk.][^1)^]
 
 
 _[^1)^]"L. 83/1997, 125. gr.":/altext/stjt/1997.083.html_
@@ -83,13 +83,13 @@ _[^1)^]"L. 83/1997, 125. gr.":/altext/stjt/1997.083.html_
 
 6. gr.
 
-        Samskiptamiðstöð gerir fjárhags- og framkvæmdaáætlun til allt að fimm ára. Stjórn stofnunarinnar staðfestir áætlanir og fylgist með framkvæmd þeirra. Menntamálaráðherra getur, að fengnum tillögum stjórnar stofnunarinnar, sett gjaldskrá fyrir þá þjónustu sem samskiptamiðstöðin veitir.
+     Samskiptamiðstöð gerir fjárhags- og framkvæmdaáætlun til allt að fimm ára. Stjórn stofnunarinnar staðfestir áætlanir og fylgist með framkvæmd þeirra. Menntamálaráðherra getur, að fengnum tillögum stjórnar stofnunarinnar, sett gjaldskrá fyrir þá þjónustu sem samskiptamiðstöðin veitir.
 
 
 
 7. gr.
 
-        Lög þessi öðlast þegar gildi. Lögin skal endurskoða innan fjögurra ára frá gildistöku þeirra.
+     Lög þessi öðlast þegar gildi. Lögin skal endurskoða innan fjögurra ára frá gildistöku þeirra.
 
 
 
