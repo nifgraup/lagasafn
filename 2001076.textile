@@ -6,7 +6,7 @@ h2. Lög um áhafnir íslenskra farþegaskipa og flutningaskipa
 
 <hr />
 
-*Tóku gildi 1. júlí 2001.* Breytt með "l. 31/2003":/altext/stjt/2003.031.html (tóku gildi 3. apríl 2003) og "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003).
+*Tóku gildi 1. júlí 2001.* _Breytt með_ "l. 31/2003":/altext/stjt/2003.031.html (tóku gildi 3. apríl 2003; _EES-samningurinn:_ XVIII. viðauki tilskipun 93/104/EB, XIII. viðauki tilskipun 1999/63/EB, 1999/95/EB og 1999/130/EB) og "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -106,8 +106,7 @@ h2. Lög um áhafnir íslenskra farþegaskipa og flutningaskipa
  *II. kafli.* *Skírteini.*
 ■ *11. gr.* _Skírteini áhafnar._
  □ Sá einn sem er lögmætur handhafi skírteinis hefur rétt til starfa um borð í farþegaskipum og flutningaskipum.
- □ Eftirfarandi skírteini til skipstjórnar skulu gefin út að uppfylltum skilyrðum um menntun og þjálfun, aldur, siglingatíma, heilbrigði, sjón og heyrn:    
-
+ □ Eftirfarandi skírteini til skipstjórnar skulu gefin út að uppfylltum skilyrðum um menntun og þjálfun, aldur, siglingatíma, heilbrigði, sjón og heyrn:
 
 *Siglinga-*
 
@@ -193,16 +192,14 @@ engar
 
 E.
 
-   
- *Siglingatími:*
+*Siglingatími:*
 
     A. 54 mánaða siglingatími sem háseti á skipi. Umsækjandi skal uppfylla kröfur til að öðlast skírteini fjarskiptamanns.
     B. 18 mánaða siglingatími sem stýrimaður á skipi.
     C. 54 mánaða siglingatími sem stýrimaður á skipum sem eru 500 brúttótonn eða stærri eða 36 mánuðir í sömu stöðu ef umsækjandi hefur gegnt stöðu yfirstýrimanns í 18 mánuði af þeim siglingatíma.
     D. 18 mánaða siglinga- og námstími, enda hafi umsækjandi fengið fræðslu um borð og sá tími verið skráður í þjálfunarbók, eða að öðrum kosti 54 mánaða siglingatími sem háseti á skipi. Umsækjandi skal uppfylla kröfur til að öðlast skírteini fjarskiptamanns.
     E. Að lágmarki 9 mánaða siglinga- og námstími, þar á meðal siglingatími sem má ekki vera skemmri en 4 mánuðir. Af siglingatíma skal aðstoðarmaður í brú hafa gengið vaktir í brú a.m.k. í 4 mánuði undir beinu eftirliti skipstjóra eða vakthafandi stýrimanns og skal þar leiðbeint í öllu sem varðar vaktir og varðstöðu á siglingavakt. Áður en viðkomandi byrjar þjálfun sem aðstoðarmaður í brú skal hann leggja fram læknisvottorð um að hann hafi staðist kröfur sem gerðar eru um sjón og heyrn.
- □ Eftirfarandi skírteini til vélstjórnar skulu gefin út að uppfylltum skilyrðum um menntun og þjálfun, aldur, siglingatíma, heilbrigði, sjón og heyrn:    
-
+ □ Eftirfarandi skírteini til vélstjórnar skulu gefin út að uppfylltum skilyrðum um menntun og þjálfun, aldur, siglingatíma, heilbrigði, sjón og heyrn:
 
 *Siglinga-*
 
@@ -282,8 +279,7 @@ engar
 
 F.
 
-   
- *Siglingatími:*
+*Siglingatími:*
 
     A. 9 mánaða siglingatími sem aðstoðarmaður í vél.
     B. 14 mánaða siglingatími sem vélstjóri á skipi [leq]375 kW.

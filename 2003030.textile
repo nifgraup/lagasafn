@@ -6,7 +6,8 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
 
 <hr />
 
-*Tóku gildi 1. júlí 2003.*
+*Tóku gildi 1. júlí 2003.* _EES-samningurinn:_ IX. viðauki tilskipun 85/611/EBE.
+
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Gildissvið._
@@ -181,7 +182,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
 ■ *36. gr.* _Vísitölusjóðir._
  □ Verðbréfasjóði er heimilt að fjárfesta allt að 20% í hlutabréfum eða skuldabréfum sama útgefanda ef markmið fjárfestingarstefnu samkvæmt reglum sjóðsins er að líkja eftir tiltekinni hlutabréfa- eða skuldabréfavísitölu. Vísitalan skal hafa fullnægjandi áhættudreifingu, birt opinberlega og endurspegla viðkomandi markað með fullnægjandi hætti.
  □ Fjármálaeftirlitið getur hækkað heimild skv. 1. mgr. í 35% ef vægi eins útgefanda í vísitölunni er meira en 20%. Fjárfesting yfir 20% er aðeins leyfð í einum útgefanda.[^1)^]
-    _[^1)^]_"Rgl. 331/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/331-2003.
+    _[^1)^]_"Rgl. 331/2003":http://stjornartidindi.is/servlet/stjrtid/B/2003/331.pdf.
  ■ *37. gr.* _Traust verðbréf._
  □ Fjármálaeftirlitið getur heimilað verðbréfasjóði að binda allt að 100% af eignum sínum í verðbréfum og peningamarkaðsskjölum skv. 5. mgr. 35. gr. telji Fjármálaeftirlitið það samrýmanlegt hagsmunum eigenda hlutdeildarskírteina.
  □ Fjárfestingar verðbréfasjóðs skv. 1. mgr. skulu dreifast á að minnsta kosti sex mismunandi verðbréfaútgáfur og má fjárfesting í einni og sömu verðbréfaútgáfu ekki nema hærri fjárhæð en sem svarar til 30% af eignum verðbréfasjóðs.
@@ -225,7 +226,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  □ Í útboðslýsingu skulu koma fram nauðsynlegar upplýsingar til að fjárfestum sé kleift að meta kosti fjárfestinga í viðkomandi verðbréfasjóði. Í útdrætti úr útboðslýsingu skal draga fram meginatriði útboðslýsingar.
  □ Rekstrarfélag skal senda Fjármálaeftirlitinu útboðslýsingu og útdrátt úr útboðslýsingu í kjölfar breytinga á þeim.
  □ Nánar skal kveðið á um útboðslýsingar og útdrætti úr útboðslýsingum vegna verðbréfasjóða í reglugerð,[^1)^] meðal annars um hvaða upplýsingar skuli birta í útboðslýsingum og útdráttum úr þeim.
-    _[^1)^]_"Rgl. 686/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/686-2001.
+    _[^1)^]_"Rgl. 686/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/686.pdf.
  ■ *48. gr.* _Nánari upplýsingar í útboðslýsingu._
  □ Í útboðslýsingu verðbréfasjóðs skal á ítarlegan hátt lýsa fjárfestingarstefnu sjóðsins og, ef við á, einstakra deilda hans og tilgreina þær tegundir fjárfestinga sem honum eru heimilar samkvæmt reglum sjóðsins.
  □ Í útboðslýsingu skal tilgreina hvort sjóði, eða einstakri deild hans, er heimilt að fjárfesta í afleiðum, og sé slíkt heimilt, hvort notkun þeirra takmarkist við tækni til að lágmarka áhættu og fastsetja hagnað vegna verðsveiflna.

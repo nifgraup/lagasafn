@@ -6,7 +6,7 @@ h2. Lög um náttúruvernd
 
 <hr />
 
-*Tóku gildi 1. júlí 1999.* Breytt með "l. 140/2001":/altext/stjt/2001.140.html (tóku gildi 31. des. 2001), "l. 90/2002":2002090.html (tóku gildi 1. jan. 2003) og "l. 164/2002":/altext/stjt/2002.164.html (tóku gildi 1. jan. 2003).
+*Tóku gildi 1. júlí 1999.* _Breytt með_ "l. 140/2001":/altext/stjt/2001.140.html (tóku gildi 31. des. 2001), "l. 90/2002":2002090.html (tóku gildi 1. jan. 2003) og "l. 164/2002":/altext/stjt/2002.164.html (tóku gildi 1. jan. 2003).
 
 
  *I. kafli.* *Markmið, gildissvið og skilgreiningar.*
@@ -21,19 +21,19 @@ h2. Lög um náttúruvernd
  □ Í lögum þessum merkir:
     1. _Afréttur:_ Landsvæði utan byggðar sem að staðaldri hefur verið notað til sumarbeitar fyrir búfé.
     [2. _Búsvæði:_ Þeir staðir eða svæði þar sem tegund getur þrifist.][^1)^]
-    [3.] [^1)^] _Eignarland:_ Landsvæði sem er háð einkaeignarrétti þannig að eigandi landsins fer með öll venjuleg eignarráð þess innan þeirra marka sem lög segja til um á hverjum tíma.
-    [4.] [^1)^] _Fólkvangur:_ Landsvæði í umsjón sveitarfélags eða sveitarfélaga sem friðlýst hefur verið til útivistar og almenningsnota.
-    [5.] [^1)^] _Ósnortið víðerni:_ Landsvæði sem er a.m.k. 25 km[^2^] að stærð eða þannig að hægt sé að njóta þar einveru og náttúrunnar án truflunar af mannvirkjum eða umferð vélknúinna farartækja á jörðu, er í a.m.k. 5 km fjarlægð frá mannvirkjum og öðrum tæknilegum ummerkjum, svo sem raflínum, orkuverum, miðlunarlónum og þjóðvegum, og þar sem ekki gætir beinna ummerkja mannsins og náttúran fær að þróast án álags af mannlegum umsvifum.
-    [6.] [^1)^] _Náttúruminjar:_
+    [3. ][^1)^] _Eignarland:_ Landsvæði sem er háð einkaeignarrétti þannig að eigandi landsins fer með öll venjuleg eignarráð þess innan þeirra marka sem lög segja til um á hverjum tíma.
+    [4. ][^1)^] _Fólkvangur:_ Landsvæði í umsjón sveitarfélags eða sveitarfélaga sem friðlýst hefur verið til útivistar og almenningsnota.
+    [5. ][^1)^] _Ósnortið víðerni:_ Landsvæði sem er a.m.k. 25 km[^2^] að stærð eða þannig að hægt sé að njóta þar einveru og náttúrunnar án truflunar af mannvirkjum eða umferð vélknúinna farartækja á jörðu, er í a.m.k. 5 km fjarlægð frá mannvirkjum og öðrum tæknilegum ummerkjum, svo sem raflínum, orkuverum, miðlunarlónum og þjóðvegum, og þar sem ekki gætir beinna ummerkja mannsins og náttúran fær að þróast án álags af mannlegum umsvifum.
+    [6. ][^1)^] _Náttúruminjar:_
     a. Náttúruverndarsvæði.
     b. [Lífverur, búsvæði þeirra, vistgerðir og vistkerfi][^1)^] sem eru á náttúruminjaskrá, sbr. 67. gr.
-    [7.] [^1)^] _Náttúruverndarsvæði:_
+    [7. ][^1)^] _Náttúruverndarsvæði:_
     a. Friðlýst svæði, þ.e. þjóðgarðar, friðlönd, fólkvangar, og náttúruvætti.
     b. Önnur svæði og náttúrumyndanir sem eru á náttúruminjaskrá, sbr. 67. gr.
     c. Afmörkuð svæði á landi og sjó sem njóta verndar samkvæmt öðrum lögum vegna náttúru eða landslags.
-    [8.] [^1)^] _Ræktað land:_ Garðar og tún og akrar, þ.e. land sem hefur verið ræktað með jarðvinnslu, sáningu og reglulegri áburðargjöf, land í skógrækt eða land sem hvorki hefur þarfnast jarðvinnslu né sáningar til að verða slægjuland en er það vegna áburðargjafar og er notað sem slíkt.
+    [8. ][^1)^] _Ræktað land:_ Garðar og tún og akrar, þ.e. land sem hefur verið ræktað með jarðvinnslu, sáningu og reglulegri áburðargjöf, land í skógrækt eða land sem hvorki hefur þarfnast jarðvinnslu né sáningar til að verða slægjuland en er það vegna áburðargjafar og er notað sem slíkt.
     [9. _Vistgerðir:_ Staðir eða svæði með ákveðnum einkennum, t.d. hvað varðar gróður- og dýralíf, jarðveg og loftslag.][^1)^]
-    [10.] [^1)^] _Þjóðlenda:_ Landsvæði utan eignarlanda þó að einstaklingar eða lögaðilar kunni að eiga þar takmörkuð eignarréttindi.
+    [10. ][^1)^] _Þjóðlenda:_ Landsvæði utan eignarlanda þó að einstaklingar eða lögaðilar kunni að eiga þar takmörkuð eignarréttindi.
     _[^1)^]_"L. 140/2001, 1. gr.":/altext/stjt/2001.140.html
 
  *II. kafli.* *Stjórn náttúruverndarmála.*
@@ -261,7 +261,7 @@ h2. Lög um náttúruvernd
  □ Friðlýsing skv. 2. og 3. tölul. 1. mgr. getur ýmist verið staðbundin eða tekið til landsins alls.
     _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html [^2)^]"L. 140/2001, 10. gr.":/altext/stjt/2001.140.html [^3)^]Augl. 457/1996, augl. 606/2001, augl. 663/2002. [^4)^]Augl. 120/1994, augl. 326/1999, augl. 249/2001, augl. 591/2002. [^5)^]"L. 140/2001, 11. gr.":/altext/stjt/2001.140.html [^6)^]Augl. 364/2002.
  ■ *54. gr.* _Friðlýsing náttúruminja í hafi._
- □ Umhverfisráðherra getur, að fengnu samþykki sjávarútvegsráðherra og eftir atvikum að fengnum tillögum eða áliti Hafrannsóknastofnunarinnar, [[Umhverfisstofnunar][^1)^] eða Náttúrufræðistofnunar Íslands],[^1)^] friðlýst innan landhelgi og efnahagslögsögu náttúruminjar í hafi, þ.m.t. eyjar og sker, og á hafsbotni sem mikilvægt þykir að varðveita sakir fegurðar eða sérkenna eða miklu skiptir frá vísindalegu, náttúrufræðilegu eða menningarlegu sjónarmiði að ekki sé raskað. Friðlýsa skal svæði í kringum náttúruminjar svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu.
+ □ Umhverfisráðherra getur, að fengnu samþykki sjávarútvegsráðherra og eftir atvikum að fengnum tillögum eða áliti Hafrannsóknastofnunarinnar, [[Umhverfisstofnunar][^1)^] eða Náttúrufræðistofnunar Íslands],[^2)^] friðlýst innan landhelgi og efnahagslögsögu náttúruminjar í hafi, þ.m.t. eyjar og sker, og á hafsbotni sem mikilvægt þykir að varðveita sakir fegurðar eða sérkenna eða miklu skiptir frá vísindalegu, náttúrufræðilegu eða menningarlegu sjónarmiði að ekki sé raskað. Friðlýsa skal svæði í kringum náttúruminjar svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu.
  □ Ákvæði annarra greina þessa kafla gilda eftir því sem við á um friðlýstar náttúruminjar í hafi.
     _[^1)^]_"L. 164/2002, 22. gr.":/altext/stjt/2002.164.html [^2)^]"L. 140/2001, 12. gr.":/altext/stjt/2001.140.html
  ■ *55. gr.* _Stofnun fólkvangs._

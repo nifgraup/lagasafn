@@ -6,7 +6,7 @@ h2. Lög um lax- og silungsveiði
 
 <hr />
 
-*Upphaflega "l. 53/1957":/altext/stjtnr.html#1957053. Tóku gildi 1. október 1957. Endurútgefin, sbr. "64. gr. l. 38/1970":/altext/stjtnr.html#1970038?g64, sem "l. 76/1970":1970076.html.* Breytt með "l. 11/1973":1973011.html (tóku gildi 14. maí 1973), "l. 50/1986":1986050.html (tóku gildi 21. maí 1986), "l. 108/1988":/altext/stjt/1988.108.html (tóku gildi 1. jan. 1989), "l. 116/1990":/altext/stjt/1990.116.html (tóku gildi 31. des. 1990), "l. 19/1991":1991019.html (tóku gildi 1. júlí 1992 nema 1. og 3. mgr. 29. gr. sem tóku gildi 17. apríl 1991), "l. 92/1991":/altext/stjt/1991.092.html (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992), "l. 38/1992":/altext/stjt/1992.038.html (tóku gildi 10. júní 1992), "l. 63/1994":/altext/stjt/1994.063.html (tóku gildi 30. maí 1994), "l. 73/1996":/altext/stjt/1996.073.html (tóku gildi 19. júní 1996), "l. 24/1997":/altext/stjt/1997.024.html (tóku gildi 1. júní 1997), "l. 83/1997":/altext/stjt/1997.083.html (tóku gildi 6. júní 1997), "l. 50/1998":/altext/stjt/1998.050.html (tóku gildi 18. júní 1998), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 83/2001":/altext/stjt/2001.083.html (tóku gildi 15. júní 2001), "l. 164/2002":/altext/stjt/2002.164.html (tóku gildi 1. jan. 2003) og "l. 63/2003":/altext/stjt/2003.063.html (tóku gildi 7. apríl 2003).
+*Upphaflega "l. 53/1957":/altext/stjtnr.html#1957053. Tóku gildi 1. október 1957. Endurútgefin, sbr. "64. gr. l. 38/1970":/altext/stjtnr.html#1970038?g64, sem "l. 76/1970":1970076.html.* _Breytt með_ "l. 11/1973":1973011.html (tóku gildi 14. maí 1973), "l. 50/1986":1986050.html (tóku gildi 21. maí 1986), "l. 108/1988":/altext/stjt/1988.108.html (tóku gildi 1. jan. 1989), "l. 116/1990":/altext/stjt/1990.116.html (tóku gildi 31. des. 1990), "l. 19/1991":1991019.html (tóku gildi 1. júlí 1992 nema 1. og 3. mgr. 29. gr. sem tóku gildi 17. apríl 1991), "l. 92/1991":/altext/stjt/1991.092.html (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992), "l. 38/1992":/altext/stjt/1992.038.html (tóku gildi 10. júní 1992), "l. 63/1994":/altext/stjt/1994.063.html (tóku gildi 30. maí 1994), "l. 73/1996":/altext/stjt/1996.073.html (tóku gildi 19. júní 1996), "l. 24/1997":/altext/stjt/1997.024.html (tóku gildi 1. júní 1997), "l. 83/1997":/altext/stjt/1997.083.html (tóku gildi 6. júní 1997), "l. 50/1998":/altext/stjt/1998.050.html (tóku gildi 18. júní 1998), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 83/2001":/altext/stjt/2001.083.html (tóku gildi 15. júní 2001), "l. 164/2002":/altext/stjt/2002.164.html (tóku gildi 1. jan. 2003), "l. 63/2003":/altext/stjt/2003.063.html (tóku gildi 7. apríl 2003) og "l. 103/2003":/altext/stjtnr.html#2003103 (tóku gildi 1. júlí 2003).
 
 
  *I. kafli.* *Orðaskýringar.*
@@ -17,9 +17,10 @@ h2. Lög um lax- og silungsveiði
     _Áll:_ Sá staður langs eftir vatni, stöðuvatni eða straumvatni þar sem dýpi er mest milli grynninga eða sandeyra sem eigi teljast bakkar. Nú eru fleiri álar en einn og heitir sá höfuðáll sem vatnsmestur er.
     _Bakki:_ Fast takmark á farvegi straumvatns eða legi stöðuvatns, svo sem klettar, gróið land eða eyrar sem vatn fellur eigi yfir í meðalvexti eða sjór um stórstraumsflæði.
     _Dráttur:_ Staður í veiðivatni þar sem ádráttarveiði verður við komið.
+    [_Eldisdýr:_ lifandi fiskur, krabbadýr eða lindýr frá eldisstöð, óháð þroskastigi að meðtöldum dýrum sem lifa upprunalega villt en eru ætluð fyrir eldisstöð.][^1)^]
     _Eldisfiskur:_ Sjá alifiskur.
     _Eldisstofn:_ Hópur vatnafiska alinn í eldisstöð undan fiski sem alið hefur allan sinn aldur í fiskeldisstöð.
-    [_Erfðablöndun:_ Æxlun fiska milli stofna. Afkvæmi þeirra verða þá blönduð að erfðum. Til dæmis æxlun fisks sem sloppið hefur úr eldi með náttúrulegum, villtum laxi.][^1)^]
+    [_Erfðablöndun:_ Æxlun fiska milli stofna. Afkvæmi þeirra verða þá blönduð að erfðum. Til dæmis æxlun fisks sem sloppið hefur úr eldi með náttúrulegum, villtum laxi.][^2)^]
     _Félagsveiði:_ Félagsskapur eigenda eða notenda veiðiréttar um sameiginlega hagnýtingu veiðihlunninda.
     _Fiskeldi:_ Geymsla, gæsla og fóðrun vatnafiska, hafbeit, klak- og seiðaeldi, hvort sem er í söltu eða ósöltu vatni.
     _Fiskeldisstöð:_ Staður þar sem vatn, sjór, land eða mannvirki er nýtt í þágu fiskeldis.
@@ -35,11 +36,11 @@ h2. Lög um lax- og silungsveiði
     _Hafbeit til stangaveiði:_ Slepping gönguseiða í veiðivatn með takmarkaða framleiðslu til aukningar á fiskigengd til stangaveiði.
     _Hafbeitarstofn:_ Hópur vatnafiska sem klakinn hefur verið út undan fiski úr hafbeit.
     _Hafbeitarstöð:_ Staður þar sem vatn, sjór, land eða mannvirki er nýtt í þágu hafbeitar.
-    [_Heilsárseldi:_ Hefðbundið laxeldi í sjókvíum frá 50 gramma göngustærð upp í markaðsstærð.][^1)^]
+    [_Heilsárseldi:_ Hefðbundið laxeldi í sjókvíum frá 50 gramma göngustærð upp í markaðsstærð.][^2)^]
     _Jörð:_ Lögbýli samkvæmt ábúðarlögum.
     _Kvíaeldi:_ Fiskeldi í netkvíum (netbúrum) í fersku vatni eða söltu.
     _Kvísl:_ Hluti af straumvatni sem fellur sér milli bakka.
-    [_Kynbætur:_ Markvisst val með tilliti til ákveðinna arfgengra eiginleika. Slíkir eiginleikar geta verið mikill vaxtarhraði eða síðkynþroski. Til undaneldis eru valdir fiskar sem sýna ákjósanlega eiginleika umfram aðra fiska í stofninum. Slíku vali er viðhaldið og það aukið með vali í hverri kynslóð.][^1)^]
+    [_Kynbætur:_ Markvisst val með tilliti til ákveðinna arfgengra eiginleika. Slíkir eiginleikar geta verið mikill vaxtarhraði eða síðkynþroski. Til undaneldis eru valdir fiskar sem sýna ákjósanlega eiginleika umfram aðra fiska í stofninum. Slíku vali er viðhaldið og það aukið með vali í hverri kynslóð.][^2)^]
     _Lagardýr:_ Öll dýr með kalt blóð sem lifa og geta afkvæmi í sjó eða fersku vatni.
     _Laxastofn:_ Hópur laxa sem hrygnir á tilteknum stað og á tilteknum tíma og hrygnir ekki í neinum mæli með öðrum hópum á öðrum stað eða á öðrum tíma.
     _Lögn:_ Staður í vatni þar sem fastri veiðivél verður við komið.
@@ -50,7 +51,7 @@ h2. Lög um lax- og silungsveiði
     _Ós úr stöðuvatni:_ Sá staður þar sem straumlína ár hefst í stöðuvatni.
     _Ósasvæði:_ Svæði í straumvatni er nær frá ósi í sjó upp til þess staðar þar sem straumlína hverfur um stórstraumsflæði.
     _Sjór:_ Salt vatn utan árósa.
-    [_Skiptieldi:_ Eldi á laxi í strandeldi upp í 500 - 1.000 grömm og framhaldseldi í sjókvíum upp í markaðsstærð.][^1)^]
+    [_Skiptieldi:_ Eldi á laxi í strandeldi upp í 500 - 1.000 grömm og framhaldseldi í sjókvíum upp í markaðsstærð.][^2)^]
     _Strandeldi:_ Eldi vatnafiska til slátrunar í tönkum eða kerum á landi.
     _Straumlína (strengur):_ Lína sem liggur eftir endilöngu straumvatni um þá staði þess þar sem straumur er mestur.
     _Straumvatn:_ Ósalt vatn, á eða ósasvæði sem í er greinilegur straumur, þá er enginn vöxtur er í, og um stórstraumsfjöru.
@@ -64,10 +65,10 @@ h2. Lög um lax- og silungsveiði
     _Veiðitala:_ Tala veiddra fiska.
     _Veiðivatn:_ Á eða stöðuvatn sem veiði er í eða mætti í vera ef fiskur væri ræktaður þar.
     _Veiðivél:_ Sjá föst veiðivél.
-    [_Villtur fiskstofn:_ Hópur fiska sömu tegundar sem hrygnir á sama stað og á sama tíma en hrygnir ekki í neinum mæli með öðrum slíkum hópum.][^1)^]
-    _Villtur laxastofn:_ [Hópur laxa sem hrygnir á sama stað og á sama tíma en hrygnir ekki í neinum mæli með öðrum slíkum hópum.][^1)^]
-    [_Örmerkingar:_ Merkingar á laxi með örsmáum málmflísum í trjónuna.][^1)^]][^2)^]
-    _[^1)^]_"L. 83/2001, 1. gr.":/altext/stjt/2001.083.html [^2)^]"L. 63/1994, 1. gr.":/altext/stjt/1994.063.html
+    [_Villtur fiskstofn:_ Hópur fiska sömu tegundar sem hrygnir á sama stað og á sama tíma en hrygnir ekki í neinum mæli með öðrum slíkum hópum.][^2)^]
+    _Villtur laxastofn:_ [Hópur laxa sem hrygnir á sama stað og á sama tíma en hrygnir ekki í neinum mæli með öðrum slíkum hópum.][^2)^]
+    [_Örmerkingar:_ Merkingar á laxi með örsmáum málmflísum í trjónuna.][^2)^]][^3)^]
+    _[^1)^]_"L. 103/2003, 1. gr.":/altext/stjtnr.html#2003103?g1 [^2)^]"L. 83/2001, 1. gr.":/altext/stjt/2001.083.html [^3)^]"L. 63/1994, 1. gr.":/altext/stjt/1994.063.html
 
  *II. kafli.* *Um veiðirétt.*
  ■ *2. gr.* 1. Landeiganda er einum heimil veiði í vatni á landi sínu, enda sé eigi öðruvísi mælt í lögum þessum.
@@ -165,7 +166,7 @@ h2. Lög um lax- og silungsveiði
  □ 12. Úrskurð veiðimálastjóra skv. 9. mgr. má kæra til landbúnaðarráðherra innan fjögurra vikna frá birtingu. Ráðherra skal kveða upp rökstuddan úrskurð innan átta vikna frá því er beiðni barst honum.][^1)^]
     _[^1)^]_"L. 50/1998, 11. gr.":/altext/stjt/1998.050.html [^2)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html [^3)^]"Rg. 594/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/594-1998.
 
- *V. kafli.* *[Veiðistjórn vatnasilungs.]*[^1)^]
+ *V. kafli.* *[Veiðistjórn vatnasilungs.][^1)^]*
     _[^1)^]"L. 63/1994, 3. gr.":/altext/stjt/1994.063.html_
  ■ *24. gr.* 1. [Vatnasilung er heimilt að friða fyrir allri veiði ef ástæða þykir til. Veiðimálastjóri skal ákveða lengd friðunartíma í vatni hverju í samráði við hlutaðeigandi veiðifélag.
  □ 2. [Veiðimálastjóra er rétt að ákveða allt að tveggja sólarhringa friðun á viku hverri.][^1)^]
@@ -314,7 +315,7 @@ h2. Lög um lax- og silungsveiði
  □ 2. ...[^1)^]
     _[^1)^]_"L. 50/1998, 20. gr.":/altext/stjt/1998.050.html
 
- *IX. kafli.* *[Fiskeldi og hafbeit.]*[^1)^]
+ *IX. kafli.* *[Fiskeldi og hafbeit.][^1)^]*
     _[^1)^]"L. 63/1994, 5. gr.":/altext/stjt/1994.063.html_
  ■ *62. gr.* [1. Til fiskeldis og hafbeitar þarf rekstrarleyfi veiðimálastjóra að fenginni umsögn dýralæknis fisksjúkdóma, fisksjúkdómanefndar og veiðimálanefndar. Veiðimálastjóri skal einnig leita umsagnar Veiðimálastofnunar um hvort náttúrulegar aðstæður á fyrirhuguðu starfssvæði fiskeldis- eða hafbeitarstöðvar gefi tilefni til hættu á erfðablöndun og/eða neikvæðum vistfræðilegum áhrifum.
  □ 2. Umsókn um rekstrarleyfi til fiskeldis eða hafbeitar skal vera skrifleg og skulu þar koma fram upplýsingar um m.a. eignaraðild að fiskeldis- eða hafbeitarstöð, fagþekkingu umsækjanda, stærð stöðvar, framleiðslumagn, eldistegundir, eldisaðferðir, matsskyldu framkvæmdar samkvæmt "lögum nr. 106/2000":2000106.html, um mat á umhverfisáhrifum, starfsleyfi samkvæmt "lögum nr. 7/1998":1998007.html, um hollustuhætti og mengunarvarnir, o.fl. Umsókn skulu fylgja skilríki um afnot lands, vatns og sjávar, áætlun um fjármögnun mannvirkja og annars búnaðar, rekstraráætlun, leyfi til mannvirkjagerðar, leyfi til starfsemi samkvæmt ákvæðum annarra laga sem varða slíkan atvinnurekstur svo og önnur gögn sem veiðimálastjóri óskar eftir að lögð verði fram.
@@ -357,8 +358,9 @@ h2. Lög um lax- og silungsveiði
  □ 2. Flutningur eldistegunda sem ekki eru tilgreindar í rekstrarleyfi milli fiskeldis- og hafbeitarstöðva, svo og flutningur og sleppingar lifandi fisks og frjóvgaðra hrogna milli ótengdra vatnasvæða, er óheimill.
  □ 3. Veiðimálastjóri getur veitt undanþágu til flutnings á eldistegundum sem ekki eru tilgreindar í rekstrarleyfi milli fiskeldis- og hafbeitarstöðva svo og til flutnings á lifandi fiski og frjóvguðum hrognum milli ótengdra vatnasvæða að fenginni umsögn dýralæknis fisksjúkdóma og fisksjúkdómanefndar. Veiðimálastjóri skal leita umsagnar Veiðimálastofnunar um hvort náttúrulegar aðstæður á fyrirhuguðu starfssvæði fiskeldis- eða hafbeitarstöðvar eða vatnasvæði gefa tilefni til aukinnar hættu á erfðablöndun og/eða neikvæðum vistfræðilegum áhrifum.][^1)^]
     _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
- ■ *[76. gr.* Innflutningur á notuðum eldisbúnaði er óheimill.][^1)^]
-    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
+ ■ *[76. gr.* Innflutningur á notuðum eldisbúnaði er óheimill.
+ □ [Við inn- og útflutning eldisdýra er heimil notkun erlendra flutningstækja, svo sem brunnbáta, og búnaðar sem tengdur er þeim, enda skal flutningurinn háður skilyrðum reglugerðar sem landbúnaðarráðherra setur.][^1)^]][^2)^]
+    _[^1)^]_"L. 103/2003, 2. gr.":/altext/stjtnr.html#2003103?g2 [^2)^]"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
  ■ *[77. gr.* Landbúnaðarráðherra setur nánari reglur um framkvæmd þessa kafla með reglugerðum og öðrum stjórnvaldsreglum, m.a. um útgáfu rekstrarleyfa, örmerkingar á hluta af eða öllum laxaseiðum í kvíaeldi, fóðurnotkun, endurnýjun eldisbúnaðar, úttekt á fiskeldis- og hafbeitarstöðvum, eftirlit með starfsemi fiskeldis- og hafbeitarstöðva, flutning eldistegunda milli fiskeldis- og hafbeitarstöðva, flutning fisks og frjóvgaðra hrogna milli ótengdra vatnasvæða o.fl. Landbúnaðarráðherra getur einnig að fenginni umsögn dýralæknis fisksjúkdóma, veiðimálanefndar, veiðimálastjóra og Veiðimálastofnunar takmarkað eða bannað fiskeldi, hafbeit eða ákveðnar eldisaðferðir í einstaka fjörðum, flóum eða landsvæðum sem teljast sérlega viðkvæm gagnvart slíkri starfsemi.[^1)^] Til grundvallar ákvörðun ráðherra skal taka mið af því að markmið ákvæðisins er að vernda og hlífa villtum laxfiskastofnum við erfðablöndun, fisksjúkdómum og neikvæðum vistfræðiáhrifum. Skal þá m.a. litið til staðsetningar eldisstöðva, stærðar þeirra, fjarlægðar þeirra frá veiðiám og veiðiverðmæti innan svæðisins, þ.e. fjarðar eða flóa. Jafnframt skal litið til þess hvort svæði til fiskeldis séu staðsett í farleiðum lax og silungs og hvort straumar geti leitt sleppifisk í ár. Jafnframt skal landbúnaðarráðherra ákvarða svæðaskiptingu fiskeldis samkvæmt lögum þessum meðfram strönd landsins utan netlaga og heildarframleiðslu á hverju svæði.][^2)^]
     _[^1)^]Augl. 226/2001_. [^2)^]"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
 
@@ -366,8 +368,8 @@ h2. Lög um lax- og silungsveiði
  ■ *[78. gr.][^1)^]* 1. [Landbúnaðarráðherra fer með yfirstjórn fisksjúkdómamála. Honum til aðstoðar er fisksjúkdómanefnd, en í henni eiga sæti yfirdýralæknir, sem er formaður nefndarinnar, veiðimálastjóri, fiskistofustjóri og forstöðumaður Tilraunastöðvar Háskólans í meinafræði að Keldum. Ef atkvæði verða jöfn í nefndinni skal atkvæði formanns ráða úrslitum. Fisksjúkdómanefnd skal hafa forgöngu um fisksjúkdómarannsóknir og gera tillögur til ráðherra um aðferðir til varnar gegn útbreiðslu fisksjúkdóma, sem getur um í kafla þessum, og annað er að fisksjúkdómum lýtur.][^2)^]
  □ 2. [Deildarstjóri Rannsóknadeildar fisksjúkdóma og dýralæknir fisksjúkdóma skulu vera fisksjúkdómanefnd til aðstoðar og ráðuneytis.][^3)^]
     _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html [^2)^]"L. 63/2003, 1. gr.":/altext/stjt/2003.063.html [^3)^]"L. 50/1986, 17. gr.":1986050.html#g17
- ■ *[79. gr.][^1)^]* Bannað er að flytja til landsins lifandi laxfisk eða annan fisk, er lifir í ósöltu vatni. Ráðherra er rétt að leyfa innflutning lifandi hrogna slíkra fiska, enda mæli fisksjúkdómanefnd með því og telji eigi hættu á, að sjúkdómar flytjist til landsins með slíkum hrognum, og þeim fylgi heilbrigðisvottorð frá viðkomandi yfirvöldum.
-    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
+ ■ *[79. gr.][^1)^]* [Heimilt er að flytja til landsins lifandi laxfisk eða annan fisk, er lifir í ósöltu vatni, enda skal innflutningurinn háður skilyrðum reglugerðar sem landbúnaðarráðherra setur.][^2)^] Ráðherra er rétt að leyfa innflutning lifandi hrogna slíkra fiska, enda mæli fisksjúkdómanefnd með því og telji eigi hættu á, að sjúkdómar flytjist til landsins með slíkum hrognum, og þeim fylgi heilbrigðisvottorð frá viðkomandi yfirvöldum.
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html [^2)^]"L. 103/2003, 3. gr.":/altext/stjtnr.html#2003103?g3
  ■ *[80. gr.][^1)^]* Eigi má flytja til landsins lifandi skrautfiska né hrogn þeirra. Rétt er ráðherra að leyfa tilteknum aðilum slíkan innflutning, enda samþykki fisksjúkdómanefnd það hverju sinni og sé fyrir hendi heilbrigðisvottorð, sem hún metur gilt.
     _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
  ■ *[81. gr.][^1)^]* 1. Sótthreinsa skal hrogn, ílát og umbúðir um hrogn eða skrautfiska, sem flutt eru til landsins samkvæmt [79. og 80. gr.],[^2)^] baða skrautfiska úr lyfjablöndu, ef ástæða þykir til, svo og hafa hrogn og fisk í sóttkví, ef nauðsynlegt þykir. Fisksjúkdómanefnd gefur fyrirmæli um sótthreinsun og sóttkví og hefur eftirlit með henni.
@@ -395,7 +397,7 @@ h2. Lög um lax- og silungsveiði
  □ 3. Nú eykst eftir ófriðun sels lax- eða göngusilungsveiði jarðar, er bætur hlýtur samkvæmt 2. mgr., og skal sá hagsauki þá dreginn frá bótum, enda krefjist mats einhver, sem bætur skal greiða. Nú sýnir mat, að arður af lax- eða silungsveiði jarðar hefur aukist sem nemur arði af selveiði, og skulu bætur fyrir hana niður falla.
     _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html [^2)^]"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html [^3)^]"L. 92/1991, 56. gr.":/altext/stjt/1991.092.html
 
- *XIII. kafli.* *[Stjórn veiðimála, Veiðimálastofnun og eftirlit.]*[^1)^]
+ *XIII. kafli.* *[Stjórn veiðimála, Veiðimálastofnun og eftirlit.][^1)^]*
     _[^1)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html_
  ■ *[[89. gr.][^1)^]* [1. Landbúnaðarráðherra hefur yfirstjórn allra fiskeldis- og veiðimála samkvæmt lögum þessum.
  □ 2. Til aðstoðar landbúnaðarráðherra um stjórn fiskeldis- og veiðimála eru fiskeldisnefnd, veiðimálanefnd og veiðimálastjóri.][^2)^]][^3)^]

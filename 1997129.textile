@@ -6,7 +6,7 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
 
 <hr />
 
-*Tóku gildi 1. júlí 1998, að undanskilinni 3. mgr. 14. gr. sem tók gildi 1. maí 1999.* Breytt með "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 148/1998":/altext/stjt/1998.148.html (tóku gildi 1. jan. 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000), "l. 56/2000":/altext/stjt/2000.056.html (tóku gildi 26. maí 2000), "l. 65/2002":/altext/stjt/2002.065.html (tóku gildi 17. maí 2002), "l. 141/2002":/altext/stjt/2002.141.html (tóku gildi 30. des. 2002) og "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003).
+*Tóku gildi 1. júlí 1998, að undanskilinni 3. mgr. 14. gr. sem tók gildi 1. maí 1999.* _Breytt með_ "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 148/1998":/altext/stjt/1998.148.html (tóku gildi 1. jan. 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000), "l. 56/2000":/altext/stjt/2000.056.html (tóku gildi 26. maí 2000), "l. 65/2002":/altext/stjt/2002.065.html (tóku gildi 17. maí 2002), "l. 141/2002":/altext/stjt/2002.141.html (tóku gildi 30. des. 2002) og "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003).
 
 
  *I. kafli.* *Skyldutrygging, iðgjald og tryggingavernd.*
@@ -145,8 +145,8 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
     3. að móta fjárfestingarstefnu lífeyrissjóðsins, sbr. VII. kafla,
     4. að setja reglur um upplýsingagjöf framkvæmdastjóra til stjórnar um rekstur, iðgjöld, réttindaávinning og ráðstöfun eigna sjóðsins,
     [5. að setja verklagsreglur um verðbréfaviðskipti lífeyrissjóðsins, stjórnar hans og starfsmanna. Verklagsreglurnar skulu staðfestar af Fjármálaeftirlitinu],[^2)^]
-    [6.] [^2)^] að ákveða hver skuli vera fulltrúi af hálfu lífeyrissjóðs í stjórn stofnunar eða atvinnufyrirtækis, nema lög kveði á um annað,
-    [7.] [^2)^] að láta tryggingafræðilega athugun fara fram á fjárhag sjóðsins, sbr. 24. gr.
+    [6. ][^2)^] að ákveða hver skuli vera fulltrúi af hálfu lífeyrissjóðs í stjórn stofnunar eða atvinnufyrirtækis, nema lög kveði á um annað,
+    [7. ][^2)^] að láta tryggingafræðilega athugun fara fram á fjárhag sjóðsins, sbr. 24. gr.
     _[^1)^]_"L. 56/2000, 4. gr.":/altext/stjt/2000.056.html [^2)^]"L. 11/2000, 18. gr.":/altext/stjt/2000.011.html
  ■ *30. gr.* Fyrir lok júní hvert ár skal stjórn lífeyrissjóðs boða til ársfundar sjóðsins. Allir sjóðfélagar eiga rétt til fundarsetu á ársfundinum með umræðu- og tillögurétti. Atkvæðisréttur skal vera í samræmi við samþykktir hlutaðeigandi lífeyrissjóðs, sbr. 27. gr.
  □ Ársfund skal boða með tryggilegum hætti.
@@ -175,7 +175,7 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
     5. hafa eftirlit með því að fjárfestingarstefnu sé fylgt og að ávöxtun eigna sé eðlileg,
     6. hafa eftirlit með að iðgjöldum og öðru ráðstöfunarfé lífeyrissjóðs sé ráðstafað í samræmi við lög og samþykktir sjóðsins.
  □ [Fjármálaeftirlitið][^1)^] setur nánari reglur[^2)^] um verkefni endurskoðunardeilda og eftirlitsaðila lífeyrissjóða.
-    _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html [^2)^]"Rgl. 687/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/687-2001.
+    _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html [^2)^]"Rgl. 687/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/687.pdf.
 
  *VII. kafli.* *Fjárfestingarstefna lífeyrissjóða.*
  ■ *36. gr.* Stjórn lífeyrissjóðs skal móta fjárfestingarstefnu og ávaxta fé sjóðsins með hliðsjón af þeim kjörum sem best eru boðin á hverjum tíma með tilliti til ávöxtunar og áhættu. Stjórn lífeyrissjóðs er heimilt að móta sérstaka fjárfestingarstefnu fyrir hverja deild í deildaskiptum sjóði. Lífeyrissjóði er heimilt að ávaxta fé sitt með eftirfarandi hætti:
@@ -187,7 +187,7 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
     6. Í hlutabréfum fyrirtækja.
     7. Í hlutdeildarskírteinum verðbréfasjóða, en verðbréfasafni að baki skírteinunum skal skipt á aðra töluliði þessarar málsgreinar með tilliti til takmarkana í 2. - 6. mgr.
     8. Í öðrum verðbréfum.
-    [9.] [^1)^] Með gerð afleiðusamninga sem draga úr áhættu sjóðsins.
+    [9. ][^1)^] Með gerð afleiðusamninga sem draga úr áhættu sjóðsins.
  □ Verðbréf skv. 1., 2. og 5. - 8. tölul. 1. mgr. skulu hafa skráð kaup- og sölugengi á skipulegum markaði. Með skipulegum markaði er átt við skipulegan verðbréfamarkað innan aðildarríkja Efnahags- og framfarastofnunarinnar (OECD) [og Liechtenstein][^2)^] sem starfar reglulega, er opinn almenningi og viðurkenndur með þeim hætti sem [Fjármálaeftirlitið][^3)^] metur gildan. Sé markaðurinn utan ríkja OECD [eða Liechtenstein][^2)^] skal [Fjármálaeftirlitið][^3)^] hafa viðurkennt hann.
  □ [Þrátt fyrir ákvæði 2. mgr. er heimilt að fjárfesta fyrir allt að 10% af hreinni eign sjóðsins í verðbréfum sem falla undir 1., 2., 5., 6. og 8. tölul. 1. mgr. og ekki eru skráð á skipulegum markaði, enda séu verðbréfin gefin út af aðilum innan aðildarríkja OECD [eða Liechtenstein].[^2)^] Fjárfestingar í óskráðum hlutabréfum eru þó eingöngu heimilar ef engar hömlur eru á viðskiptum með hlutabréfin og ársreikningar hlutafélaganna öllum aðgengilegir.][^1)^]
  □ [Eign lífeyrissjóðs í einstökum tegundum verðbréfa skv. 2., 5., 6., og 8. tölul. 1. mgr. skal ekki vera meiri en 50% af hreinni eign sjóðsins.][^1)^]
@@ -198,7 +198,7 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
     _[^1)^]_"L. 56/2000, 7. gr.":/altext/stjt/2000.056.html [^2)^]"L. 65/2002, 5. gr.":/altext/stjt/2002.065.html [^3)^]"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html
  ■ *37. gr.* [Fjárfestingarstefna lífeyrissjóðs skal byggð á tegundaflokkun innlána og verðbréfa, sbr. 1. - 9. tölul. 1. mgr. 36. gr. Hver tegund innlána og verðbréfa skal jafnframt sundurliðuð eftir því sem við á með tilliti til gjaldmiðlaáhættu og stærðar einstakra innlánsaðila eða verðbréfaútgefenda. Lífeyrissjóðir skulu senda upplýsingar um fjárfestingarstefnu sína fyrir komandi ár til Fjármálaeftirlitsins eigi síðar en 1. desember ár hvert.
  □ Fjármálaeftirlitið skal setja reglur[^1)^] um form og efni fjárfestingarstefnu lífeyrissjóða og hvernig henni skuli skilað til eftirlitsins.][^2)^]
-    _[^1)^]_"Rgl. 966/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/966-2001. [^2)^]"L. 56/2000, 8. gr.":/altext/stjt/2000.056.html
+    _[^1)^]_"Rgl. 966/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/966.pdf. [^2)^]"L. 56/2000, 8. gr.":/altext/stjt/2000.056.html
  ■ *38. gr.* [Lífeyrissjóður má ekki fjárfesta í fasteignum eða lausafé nema að því marki sem nauðsynlegt er vegna starfsemi sjóðsins.
  □ Þrátt fyrir ákvæði 1. mgr. er lífeyrissjóði heimilt án takmarkana að yfirtaka eignir til að tryggja fullnustu kröfu. Eignirnar skulu seldar eigi síðar en innan 18 mánaða frá yfirtöku eignanna. Heimilt er þó að draga sölu lengur sé það augljóslega í þágu hagsmuna sjóðsins. Slíkan drátt á sölu eigna skal tilkynna Fjármálaeftirlitinu sem getur þá krafist sölu þeirra innan viðeigandi frests.][^1)^]
  □ Lífeyrissjóði er óheimilt að taka lán nema til fjárfestingar í fasteignum sem eru nauðsynlegar vegna starfsemi sjóðsins. Lífeyrissjóði er þó heimilt að nýta almenna greiðslufresti vegna kaupa á verðbréfum eða taka skammtímalán til þess að jafna fjárstreymi.
@@ -217,7 +217,7 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
  □ [Fjármálaeftirlitið][^1)^] skal sjá til þess í samráði við reikningsskilaráð að á hverjum tíma liggi fyrir skilgreining á góðri reikningsskilavenju við gerð ársreiknings lífeyrissjóðs.
  □ [Fjármálaeftirlitið][^1)^] setur reglur[^2)^] að höfðu samráði við reikningsskilaráð um uppsetningu ársreiknings, innihald einstakra liða efnahagsreiknings, yfirlit um breytingar á hreinni eign til greiðslu lífeyris og fjárstreymisyfirlit og skýringar og mat á einstökum liðum.
  □ [Með ársreikningum lífeyrissjóða skal fylgja sú fjárfestingarstefna sem starfað er eftir. Jafnframt skal fylgja úttekt á ávöxtun eignasafna síðasta árs. Fjármálaeftirlitið skal setja nánari reglur um form og efni þessara skýrslna.][^3)^]
-    _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html [^2)^]"Rgl. 55/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/055-2000, sbr. "765/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/765-2002. [^3)^]"L. 56/2000, 10. gr.":/altext/stjt/2000.056.html
+    _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html [^2)^]Rgl. 55/2000, sbr. "rgl. 765/2002":http://stjornartidindi.is/servlet/stjrtid/B/2002/765.pdf. [^3)^]"L. 56/2000, 10. gr.":/altext/stjt/2000.056.html
  ■ *41. gr.* Í skýrslu stjórnar skal koma fram yfirlit um starfsemi sjóðsins á árinu, svo og upplýsingar um atriði er mikilvæg eru við mat á fjárhagslegri stöðu sjóðsins og afkomu hans á reikningsárinu er ekki koma fram annars staðar í ársreikningnum.
  □ Í skýrslu stjórnar skal enn fremur upplýst um eftirfarandi:
     1. atburði eftir uppgjörsdag sem hafa verulega þýðingu,
@@ -229,7 +229,7 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
  □ Um endurskoðun hjá lífeyrissjóði gilda ákvæði VII. kafla laga um ársreikninga, eftir því sem við á, nema annað komi fram í þessum lögum.
  □ Verði endurskoðandi var við verulega ágalla í rekstri lífeyrissjóðs eða atriði er varða innra eftirlit, iðgjaldainnheimtu, greiðslutryggingar útlána, meðferð fjármuna eða önnur atriði sem veikt geta fjárhagsstöðu lífeyrissjóðsins, svo og ef hann hefur ástæðu til að ætla að lög, reglugerðir eða reglur sem gilda um starfsemina hafi verið brotnar, skal hann þegar í stað gera stjórn sjóðsins og [Fjármálaeftirlitinu][^1)^] viðvart. Ákvæði þessarar málsgreinar brjóta ekki í bága við þagnarskyldu endurskoðanda skv. 32. gr. laga þessara eða ákvæði annarra laga.
  □ [Fjármálaeftirlitið][^1)^] skal sjá til þess, í samráði við Félag löggiltra endurskoðenda og aðra hlutaðeigandi aðila, að á hverjum tíma liggi fyrir skilgreining á góðri endurskoðunarvenju við endurskoðun hjá lífeyrissjóðum. [Fjármálaeftirlitið][^1)^] setur reglur[^2)^] um endurskoðun lífeyrissjóða.
-    _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html [^2)^]"Rgl. 685/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/685-2001.
+    _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html [^2)^]"Rgl. 685/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/685.pdf.
  ■ *43. gr.* Senda skal [Fjármálaeftirlitinu][^1)^] endurskoðaðan ársreikning lífeyrissjóðs ásamt skýrslu stjórnar þegar eftir undirritun hans og eigi síðar en fjórum mánuðum eftir lok reikningsárs. Meginniðurstöður ársreiknings skal birta opinberlega og í samræmdu formi sem [Fjármálaeftirlitið][^1)^] ákveður. Slíkar meginniðurstöður skulu liggja frammi í starfsstöð viðkomandi lífeyrissjóðs og vera aðgengilegar fyrir sjóðfélaga.
     _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html
 

@@ -9,7 +9,7 @@ h2. Lög um fjármálafyrirtæki
 *Tóku gildi 1. janúar 2003.*
 
  *I. kafli.* *Gildissvið.*
- ■ *1. gr.* □ Lög þessi gilda um innlend fjármálafyrirtæki og um starfsemi erlendra fjármálafyrirtækja hér á landi. Með fjármálafyrirtæki er í lögum þessum átt við fyrirtæki sem fengið hefur starfsleyfi skv. 6. gr., sbr. 4. gr.
+ ■ *1. gr.* Lög þessi gilda um innlend fjármálafyrirtæki og um starfsemi erlendra fjármálafyrirtækja hér á landi. Með fjármálafyrirtæki er í lögum þessum átt við fyrirtæki sem fengið hefur starfsleyfi skv. 6. gr., sbr. 4. gr.
 
  *II. kafli.* *Starfsleyfi.*
  _A. Veiting starfsleyfis._
@@ -471,10 +471,10 @@ h2. Lög um fjármálafyrirtæki
  □ Heimilt er að flýta endurgreiðslu víkjandi lána æski lántaki þess, enda liggi fyrir samþykki Fjármálaeftirlitsins og slík endurgreiðsla hafi ekki óviðunandi áhrif á eiginfjárstöðu að mati þess.
  □ Þrátt fyrir ákvæði 1. - 7. mgr. skal eigið fé verðbréfafyrirtækis, verðbréfamiðlunar og rekstrarfélags verðbréfasjóðs aldrei nema lægri fjárhæð en sem svarar til 25% af föstum rekstrarkostnaði síðasta reikningsárs. Fjármálaeftirlitið getur heimilað undanþágu frá þessari kröfu ef grundvallarbreyting hefur orðið á starfsemi félagsins milli ára. Á fyrsta starfsári verðbréfafyrirtækis, verðbréfamiðlunar og rekstrarfélags verðbréfasjóðs skal eigið fé þess ekki nema lægri fjárhæð en sem svarar til 25% af föstum rekstrarkostnaði samkvæmt rekstraráætlun starfsársins. Fjármálaeftirlitið getur krafist þess að gerð sé breyting á rekstraráætluninni ef það telur að hún gefi ekki rétta mynd af þeirri starfsemi sem fyrirhuguð er.
  □ Fjármálaeftirlitinu er heimilt að ákveða í reglum[^2)^] að aðrir liðir en greindir eru í 5. - 7. mgr. teljist með eigin fé fjármálafyrirtækis.
-    _[^1)^]_"Rgl. 693/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/693-2001, sbr. "58/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/058-2002. [^2)^]"Rg. 852/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/852-2000, sbr. "964/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/964-2000.
+    _[^1)^]_"Rgl. 693/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/693.pdf, sbr. "rgl. 58/2002":http://stjornartidindi.is/servlet/stjrtid/B/2002/58.pdf. [^2)^]"Rg. 852/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/852-2000, sbr. "964/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/964-2000.
  ■ *85. gr.* _Frádráttur frá eigin fé._
  □ Frá eigin fé skv. 4. mgr. 84. gr. skal draga bókfært virði á eignarhlutum og víkjandi kröfum í öðrum fjármálafyrirtækjum eða fyrirtækjum tengdum fjármálasviði. Þegar um er að ræða eignarhluti sem nema allt að 10% af hlutafé í hverju einstöku fjármálafyrirtæki takmarkast frádrátturinn þó við þá heildarfjárhæð eignarhluta og víkjandi krafna sem er umfram 10% af eigin fé eins og það er reiknað skv. 4. mgr. 84. gr. fyrir frádrátt samkvæmt þessari grein. Eignarhlutir sparisjóða í Sparisjóðabanka Íslands hf. sem nema meira en 10% af hlutafé bankans skulu þó reiknast með sama hætti og eignarhlutir sem nema allt að 10%.
- □ Þegar fjárfesting í hlutum í öðrum fjármálafyrirtækjum eða fyrirtækjum á fjármálasviði er bráðabirgðaráðstöfun og ætluð sem fjárhagsaðstoð við endurskipulagningu eða til bjargar hlutaðeigandi fyrirtæki er Fjármálaeftirlitinu heimilt að veita undanþágu frá ákvæði 1. málsl.1. mgr.
+ □ Þegar fjárfesting í hlutum í öðrum fjármálafyrirtækjum eða fyrirtækjum á fjármálasviði er bráðabirgðaráðstöfun og ætluð sem fjárhagsaðstoð við endurskipulagningu eða til bjargar hlutaðeigandi fyrirtæki er Fjármálaeftirlitinu heimilt að veita undanþágu frá ákvæði 1. málsl. 1. mgr.
  □ Eignarhlutir og víkjandi kröfur í öðrum fjármálafyrirtækjum eða fyrirtækjum tengdum fjármálasviði, sbr. 1. mgr., sem reiknast með í samstæðureikningi hlutaðeigandi fjármálafyrirtækis, dragast ekki frá eigin fé hlutaðeigandi fyrirtækis.
  □ Eignarhlutir og víkjandi kröfur í félögum, sem reka vátryggingastarfsemi skv. 23. gr. dragast frá eigin fé við útreikning á eiginfjárhlutfalli skv. 4. mgr. 84. gr. Frádrátturinn takmarkast þó við þá fjárhæð sem samsvarar hlutdeild í lágmarksgjaldþoli viðkomandi vátryggingafélags.
  □ Frá eigin fé dragast enn fremur eignarhlutir í félögum sem eru umfram þau mörk sem greinir í 1. mgr. og 1. málsl. 3. mgr. 28. gr.
@@ -492,7 +492,7 @@ h2. Lög um fjármálafyrirtæki
  □ Ársreikningur skal gefa glögga mynd af fjárhagsstöðu og rekstrarafkomu fjármálafyrirtækis. Hann skal gerður í samræmi við lög, reglur og góða reikningsskilavenju og innihalda m.a. rekstrarreikning, efnahagsreikning og skýringar og upplýsingar um liði utan efnahagsreiknings.
  □ Fjármálaeftirlitið setur reglur[^1)^] að höfðu samráði við reikningsskilaráð um uppsetningu ársreiknings, innihald einstakra liða rekstrar- og efnahagsreiknings og liða utan efnahagsreiknings og skýringar og mat á einstökum liðum.
  □ Fjármálaeftirlitið skal sjá til þess í samráði við reikningsskilaráð að á hverjum tíma liggi fyrir skilgreining á góðri reikningsskilavenju við gerð ársreiknings og árshlutareiknings fjármálafyrirtækis.
-    _[^1)^]_"Rgl. 692/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/692-2001, sbr. "51/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/051-2002 og "755/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/755-2002.
+    _[^1)^]_"Rgl. 692/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/692.pdf, sbr. "rgl. 51/2002":http://stjornartidindi.is/servlet/stjrtid/B/2002/51.pdf og "rgl. 755/2002":http://stjornartidindi.is/servlet/stjrtid/B/2002/755.pdf.
  ■ *89. gr.* _Skýrsla stjórnar._
  □ Í skýrslu stjórnar skal koma fram yfirlit yfir starfsemi hlutaðeigandi fjármálafyrirtækis á árinu, svo og upplýsingar um atriði sem mikilvæg eru við mat á fjárhagslegri stöðu hlutaðeigandi fyrirtækis og afkomu þess á reikningsárinu er ekki koma fram í ársreikningnum.
  □ Í skýrslu stjórnar skal enn fremur upplýst um eftirfarandi:
@@ -524,7 +524,7 @@ h2. Lög um fjármálafyrirtæki
 ■ *96. gr.* _Árshlutauppgjör._
  □ Fjármálafyrirtæki skulu semja og birta árshlutauppgjör í samræmi við reglur[^1)^] sem Fjármálaeftirlitið setur.
  □ Fjármálaeftirlitið getur veitt undanþágu frá ákvæðum um gerð árshlutauppgjörs.
-    _[^1)^]_"Rgl. 691/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/691-2001.
+    _[^1)^]_"Rgl. 691/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/691.pdf.
  ■ *97. gr.* _Samstæðureikningsskil._
  □ Fyrirtæki telst vera móðurfyrirtæki þegar það:
     1. ræður yfir meiri hluta atkvæða í öðru fyrirtæki,
@@ -631,7 +631,7 @@ h2. Lög um fjármálafyrirtæki
 
  *XVI. kafli.* *Gildistaka o.fl.*
 ■ *112. gr.* _Innleiðing._
- □ Með lögum þessum eru tekin upp ákvæði tilskipana Evrópuþingsins og ráðsins nr. 2000/ 12/EB um stofnun og rekstur lánastofnana, 93/6/EBE um eigið fé fjárfestingarfyrirtækja og lánastofnana, 93/22/EBE um fjárfestingarþjónustu á sviði verðbréfaviðskipta, 86/635/EBE um ársreikninga og samstæðureikninga banka og annarra fjármálastofnana, 107/2001/EB um breytingu á tilskipun 85/611/EBE um sameiginlega fjárfestingu í framseljanlegum verðbréfum, 95/26/EB um breytingar á ýmsum tilskipunum á sviði fjármálaþjónustu með það í huga að efla eftirlit, 2000/28 um breytingu á tilskipun 2000/12/EB er varðar skilgreiningu á lánastofnun og 2000/46 um stofnun og rekstur rafeyrisfyrirtækja.
+ □ Með lögum þessum eru tekin upp ákvæði tilskipana Evrópuþingsins og ráðsins nr. 2000/12/EB um stofnun og rekstur lánastofnana, 93/6/EBE um eigið fé fjárfestingarfyrirtækja og lánastofnana, 93/22/EBE um fjárfestingarþjónustu á sviði verðbréfaviðskipta, 86/635/EBE um ársreikninga og samstæðureikninga banka og annarra fjármálastofnana, 107/2001/EB um breytingu á tilskipun 85/611/EBE um sameiginlega fjárfestingu í framseljanlegum verðbréfum, 95/26/EB um breytingar á ýmsum tilskipunum á sviði fjármálaþjónustu með það í huga að efla eftirlit, 2000/28 um breytingu á tilskipun 2000/12/EB er varðar skilgreiningu á lánastofnun og 2000/46 um stofnun og rekstur rafeyrisfyrirtækja.
 ■ *113. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. janúar 2003. ... Með fjármálagerningum í lögum þessum er átt við verðbréf samkvæmt skilgreiningu "laga nr. 13/1996":1996013.html, um verðbréfaviðskipti.
  ■ *114. gr.* ...

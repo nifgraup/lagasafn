@@ -6,7 +6,7 @@ h2. Lög um opinbert eftirlit með fjármálastarfsemi
 
 <hr />
 
-*Tóku gildi 1. janúar 1999.* Breytt með "l. 99/1999":1999099.html (tóku gildi 30. des. 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000), "l. 37/2002":2002037.html (tóku gildi 7. maí 2002) og "l. 50/2003":/altext/stjt/2003.050.html (tóku gildi 7. apríl 2003).
+*Tóku gildi 1. janúar 1999.* _Breytt með_ "l. 99/1999":1999099.html (tóku gildi 30. des. 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000), "l. 37/2002":2002037.html (tóku gildi 7. maí 2002) og "l. 50/2003":/altext/stjt/2003.050.html (tóku gildi 7. apríl 2003).
 
 
  *I. kafli.* *Markmið og gildissvið.*
@@ -19,14 +19,14 @@ h2. Lög um opinbert eftirlit með fjármálastarfsemi
     1. viðskiptabanka og sparisjóða,
     2. lánastofnana annarra en viðskiptabanka og sparisjóða,
     [3. rafeyrisfyrirtækja, skv. 1. og 2. gr. laga um rafeyrisfyrirtæki],[^1)^]
-    [4.] [^1)^] vátryggingafélaga,
-    [5.] [^1)^] félaga og einstaklinga sem stunda vátryggingamiðlun,
-    [6.] [^1)^] fyrirtækja í verðbréfaþjónustu,
-    [7.] [^1)^] verðbréfasjóða og rekstrarfélaga verðbréfasjóða,
-    [8.] [^1)^] [kauphalla og skipulegra tilboðsmarkaða],[^2)^]
-    [9.] [^1)^] verðbréfamiðstöðva,
-    [10.] [^1)^] lífeyrissjóða,
-    [11.] [^1)^] aðila, annarra en greinir í 1. tölul., sem heimild hafa lögum samkvæmt til þess að taka við innlánum.
+    [4. ][^1)^] vátryggingafélaga,
+    [5. ][^1)^] félaga og einstaklinga sem stunda vátryggingamiðlun,
+    [6. ][^1)^] fyrirtækja í verðbréfaþjónustu,
+    [7. ][^1)^] verðbréfasjóða og rekstrarfélaga verðbréfasjóða,
+    [8. ][^1)^] [kauphalla og skipulegra tilboðsmarkaða],[^2)^]
+    [9. ][^1)^] verðbréfamiðstöðva,
+    [10. ][^1)^] lífeyrissjóða,
+    [11. ][^1)^] aðila, annarra en greinir í 1. tölul., sem heimild hafa lögum samkvæmt til þess að taka við innlánum.
  □ Lögin taka einnig til eftirlits með annarri starfsemi en greinir í 1. mgr. sem Fjármálaeftirlitinu er falið samkvæmt sérstökum lögum.
  □ Um eftirlit með starfsemi innlendra aðila erlendis og erlendra aðila hér á landi fer samkvæmt ákvæðum sérlaga og alþjóðasamningum sem Ísland er aðili að.
  □ Þegar vafi leikur á um hvort starfsemi fellur undir þessa grein sker stjórn Fjármálaeftirlitsins úr.
@@ -48,7 +48,7 @@ h2. Lög um opinbert eftirlit með fjármálastarfsemi
  □ Stjórnarmenn, forstjóri og starfsmenn mega ekki vera stjórnendur, starfsmenn, endurskoðendur, lögmenn eða tryggingastærðfræðingar eftirlitsskyldra aðila.
  □ Stjórnarmenn, forstjóri og starfsmenn skulu ekki taka þátt í meðferð máls er varðar viðskipti þeirra sjálfra eða fyrirtækja sem þeir eiga hlut í, sitja í stjórn hjá, eru fyrirsvarsmenn fyrir eða eiga að öðru leyti verulegra hagsmuna að gæta í og snerta hina eftirlitsskyldu aðila. Sama gildir um þátttöku í meðferð máls er varðar aðila sem eru þeim tengdir persónulega eða fjárhagslega.
  □ Ráðherra setur reglur[^1)^] um viðskipti stjórnarmanna, forstjóra og starfsmanna við eftirlitsskylda aðila. Þar skal meðal annars kveðið á um takmarkanir á heimildum til að vera í fjárhagslegum skuldbindingum gagnvart eftirlitsskyldum aðilum eða eiga hlut í þeim.
-    _[^1)^]_"Rgl. 704/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/704-2001.
+    _[^1)^]_"Rgl. 704/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/704.pdf.
  ■ *7. gr.* _Samráðsnefnd eftirlitsskyldra aðila._
  □ Sérstök samráðsnefnd sem skipuð er fulltrúum eftirlitsskyldra aðila skal starfa í tengslum við stofnunina.
  □ Stjórnendur Fjármálaeftirlitsins skulu eiga reglulega fundi með samráðsnefndinni. Samráðsnefndin hefur ekki ákvörðunarvald í málefnum Fjármálaeftirlitsins.
