@@ -7,144 +7,62 @@ h2. Lög um búnaðargjald
 <hr />
 
 
+ ■ *1. gr.* [Innheimta skal sérstakt búnaðargjald af búvöruframleiðendum eins og þeir eru skilgreindir í lögum þessum og skal það nema 2,55% af gjaldstofni skv. 3. gr.][^1)^] Búnaðargjald er rekstrarkostnaður skv. "31. gr. laga nr. 75/1981":1981075.html#g31, um tekjuskatt og eignarskatt, og frádráttarbært frá tekjum þess árs sem það reiknast af.
+    _[^1)^]"L. 112/1999, 24. gr.":/altext/stjt/1999.112.html_
+ ■ *2. gr.* Gjaldskyldir búvöruframleiðendur eru þeir sem stunda rekstur sem fellur undir atvinnugreinanúmer 01 og 02 í atvinnuvegaflokkun Hagstofu Íslands, sbr. ÍSAT 95, þó ekki starfsemi í undirflokkum 01.4, 01.5 og 02.02. Undanþegnir gjaldskyldu eru þeir sem hvorki eru skráningarskyldir né á skrá yfir virðisaukaskattsskylda aðila samkvæmt "lögum nr. 50/1988":1988050.html, um virðisaukaskatt.
+ ■ *3. gr.* Gjaldstofn búnaðargjalds er velta búvöru og tengdrar þjónustu hjá búvöruframleiðendum, sbr. 2. gr. Til gjaldskyldrar veltu telst velta skv. "11":1988050.html#g11. - "13. gr. laga nr. 50/1988":1988050.html#g13, um virðisaukaskatt, að frádregnu andvirði seldra varanlegra rekstrarfjármuna sem talið hefur verið með í gjaldstofni til virðisaukaskatts.
+ □ Reki framleiðandi búvöru aðra starfsemi en gjaldskyld er skv. 2. gr. ber honum að halda þeirri starfsemi aðskildri í bókhaldi sínu eða færa hana á sérstakan rekstrarreikning utan landbúnaðarframtals.
+ □ Á framtali til búnaðargjalds ber gjaldskyldum aðilum að sundurliða gjaldstofn sinn eftir búgreinum, samkvæmt skilgreiningu í reglugerð[^1)^] sem ráðherra setur.
+    _[^1)^]Rg. 37/1999_.
+ ■ *4. gr.* [Gjaldskyldir búvöruframleiðendur skulu greiða fyrir fram upp í væntanlega álagningu með fimm jöfnum mánaðarlegum greiðslum mánuðina ágúst til desember á tekjuárinu. Fyrirframgreiðslan skal nema 2,65% af búnaðargjaldsstofni á næstliðnu tekjuári.
+ □ Gjalddagar fyrirframgreiðslu skv. 1. mgr. skulu vera fyrsti dagur mánaðanna ágúst til og með desember. Heimilt er gjaldanda að sækja um breytingu á fyrirframgreiðslu sem honum hefur verið gert að greiða skv. 1. mgr. Slíka umsókn skal senda skattstjóra er úrskurðar um breytingu greiðsluskyldunnar innan hæfilegs frests. Skattstjóri skal taka til greina umsókn gjaldanda ef fyrirsjáanlegt er að búnaðargjald breytist um sem nemur a.m.k. 25%, þó að lágmarki 10.000 kr. á milli ára.][^1)^]
+    _[^1)^]_"L. 139/1997, 1. gr.":/altext/stjt/1997.139.html
+ ■ *5. gr.* Gjaldskyldir búvöruframleiðendur skulu innan þess framtalsfrests sem kveðið er á um í "93. gr. laga nr. 75/1981":1981075.html#g93, um tekjuskatt og eignarskatt, skila framtali til skattstjóra eða umboðsmanns hans þar sem gjaldskyldar fjárhæðir eru tilgreindar eftir búgreinum á því formi sem ríkisskattstjóri ákveður.
+ □ Að loknum framtalsfresti skal skattstjóri leggja á búnaðargjald í samræmi við lög þessi og skulu um þá álagningu gilda sömu ákvæði og er að finna í X. kafla um álagningu, kærur o.fl. í "lögum nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt.
+ □ Ef greiðandi búnaðargjalds telur að álagning hafi ekki verið rétt ákvörðuð getur hann kært álagninguna til skattstjóra, sbr. "X. kafla laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt.
+ □ [Frá álögðu búnaðargjaldi skal draga þá fjárhæð sem greidd hefur verið fyrir fram skv. 4. gr. Greiði gjaldskyldur aðili ekki fyrirframgreiðslu á tilskildum tíma eða vangreiði hann skal innheimtumaður ríkissjóðs reikna hæstu leyfilegu dráttarvexti samkvæmt auglýsingu Seðlabanka Íslands á þá fjárhæð sem vangoldin er frá gjalddaga, sbr. 4. gr. Ef álagning er hærri en ákvörðuð fyrirframgreiðsla skal gjaldandi greiða mismuninn með sem næst jöfnum greiðslum á gjalddögum þinggjalda. Við mismun sem á rætur að rekja til of hárrar fyrirframgreiðslu skal bæta 2,5% álagi.][^1)^]
+ □ Um ábyrgð á greiðslu, [innheimtu],[^1)^] upplýsingaskyldu, eftirlitsheimildir og málsmeðferð skulu gilda ákvæði "laga nr. 75/1981":1981075.html.
+    _[^1)^]"L. 139/1997, 2. gr.":/altext/stjt/1997.139.html_
+ ■ *6. gr.* [Tekjum af búnaðargjaldi skal skipt þannig, sbr. þó 4. mgr.:
+
+<table>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+<tbody>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">_Velta í nautgripa- og sauðfjárrækt_</td>
+<td align="left">_Önnur afurðavelta_</td>
+</tr>
+<tr class="even">
+<td align="left">Til Búnaðarsjóðs</td>
+<td align="left">1,4% af stofni</td>
+<td align="left">1,75% af stofni</td>
+</tr>
+<tr class="odd">
+<td align="left">Til Lánasjóðs landbúnaðarins</td>
+<td align="left">1,150% af stofni</td>
+<td align="left">0,800% af stofni][^1)^]</td>
+</tr>
+</tbody>
+</table>
+
+□ Hluti Búnaðarsjóðs skiptist síðan á milli Bændasamtaka Íslands, búnaðarsambanda, búgreinasamtaka og Bjargráðasjóðs í samræmi við viðauka við lög þessi.
+ □ Fjármálaráðherra stendur skil á gjaldinu mánaðarlega, þó aldrei lægri fjárhæð en nemur 6,67% af álagningu næstliðins árs.
+ □ Af óskiptum tekjum búnaðargjalds skulu 0,5% renna í ríkissjóð til að standa straum af kostnaði við framkvæmd laga þessara.
+ □ [Fjármálaráðherra er heimilt að setja í reglugerð nánari reglur um fyrirframgreiðslur, álagningu, innheimtu og annað er varðar skattalega framkvæmd laga þessara.][^2)^]
+    _[^1)^]_"L. 112/1999, 25. gr.":/altext/stjt/1999.112.html [^2)^]"L. 139/1997, 3. gr.":/altext/stjt/1997.139.html
+ ■ *7. gr.* Lög þessi öðlast gildi 1. janúar 1998 ...[^1)^]
+    _[^1)^]Um breytingu á nánari gildistökuákvæðum sem ekki eru birt hér, sjá_ "l. 139/1997, 4. gr.":/altext/stjt/1997.139.html
+ *Ákvæði til bráðabirgða.*
+ ■ *I.* ...
+ ■ *II.* ...
+ ■ *III.* Þrátt fyrir ákvæði 4. mgr. 6. gr. skal 1% af óskiptum tekjum af búnaðargjaldi renna í ríkissjóð á árunum 1998 og 1999 til að standa straum af stofnkostnaði vegna álagningar og innheimtu gjaldsins.
+ ■ *[IV.* ...][^1)^]
+    _[^1)^]_"L. 139/1997, brbákv.":/altext/stjt/1997.139.html
+
+ *Viðauki.[^1)^]*
+    _[^1)^]Um texta viðaukans vísast til Stjtíð. A 1997 bls. 287, sbr. Stjtíð. A 1999 bls. 249._
 
-
-1. gr.
-
-     Innheimta skal sérstakt búnaðargjald af búvöruframleiðendum eins og þeir eru skilgreindir í lögum þessum og skal það nema 2,65% af gjaldstofni skv. 3. gr. Búnaðargjald er rekstrarkostnaður skv. "31. gr. laga nr. 75/1981":1981075.html#g31, um tekjuskatt og eignarskatt, og frádráttarbært frá tekjum þess árs sem það reiknast af.
-
-
-
-2. gr.
-
-     Gjaldskyldir búvöruframleiðendur eru þeir sem stunda rekstur sem fellur undir atvinnugreinanúmer 01 og 02 í atvinnuvegaflokkun Hagstofu Íslands, sbr. ÍSAT 95, þó ekki starfsemi í undirflokkum 01.4, 01.5 og 02.02. Undanþegnir gjaldskyldu eru þeir sem hvorki eru skráningarskyldir né á skrá yfir virðisaukaskattsskylda aðila samkvæmt "lögum nr. 50/1988":1988050.html, um virðisaukaskatt.
-
-
-
-3. gr.
-
-     Gjaldstofn búnaðargjalds er velta búvöru og tengdrar þjónustu hjá búvöruframleiðendum, sbr. 2. gr. Til gjaldskyldrar veltu telst velta skv. "11":1988050.html#g11. - "13. gr. laga nr. 50/1988":1988050.html#g13, um virðisaukaskatt, að frádregnu andvirði seldra varanlegra rekstrarfjármuna sem talið hefur verið með í gjaldstofni til virðisaukaskatts.
-      Reki framleiðandi búvöru aðra starfsemi en gjaldskyld er skv. 2. gr. ber honum að halda þeirri starfsemi aðskildri í bókhaldi sínu eða færa hana á sérstakan rekstrarreikning utan landbúnaðarframtals.
-      Á framtali til búnaðargjalds ber gjaldskyldum aðilum að sundurliða gjaldstofn sinn eftir búgreinum, samkvæmt skilgreiningu í reglugerð[^1)^] sem ráðherra setur.
-
-
-_[^1)^]Rg. 37/1999._
-
-
-
-
-4. gr.
-
-     [Gjaldskyldir búvöruframleiðendur skulu greiða fyrir fram upp í væntanlega álagningu með fimm jöfnum mánaðarlegum greiðslum mánuðina ágúst til desember á tekjuárinu. Fyrirframgreiðslan skal nema 2,65% af búnaðargjaldsstofni á næstliðnu tekjuári.
-      Gjalddagar fyrirframgreiðslu skv. 1. mgr. skulu vera fyrsti dagur mánaðanna ágúst til og með desember. Heimilt er gjaldanda að sækja um breytingu á fyrirframgreiðslu sem honum hefur verið gert að greiða skv. 1. mgr. Slíka umsókn skal senda skattstjóra er úrskurðar um breytingu greiðsluskyldunnar innan hæfilegs frests. Skattstjóri skal taka til greina umsókn gjaldanda ef fyrirsjáanlegt er að búnaðargjald breytist um sem nemur a.m.k. 25%, þó að lágmarki 10.000 kr. á milli ára.][^1)^]
-
-
-_[^1)^]"L. 139/1997, 1. gr.":/altext/stjt/1997.139.html_
-
-
-
-
-5. gr.
-
-     Gjaldskyldir búvöruframleiðendur skulu innan þess framtalsfrests sem kveðið er á um í "93. gr. laga nr. 75/1981":1981075.html#g93, um tekjuskatt og eignarskatt, skila framtali til skattstjóra eða umboðsmanns hans þar sem gjaldskyldar fjárhæðir eru tilgreindar eftir búgreinum á því formi sem ríkisskattstjóri ákveður.
-      Að loknum framtalsfresti skal skattstjóri leggja á búnaðargjald í samræmi við lög þessi og skulu um þá álagningu gilda sömu ákvæði og er að finna í X. kafla um álagningu, kærur o.fl. í "lögum nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt.
-      Ef greiðandi búnaðargjalds telur að álagning hafi ekki verið rétt ákvörðuð getur hann kært álagninguna til skattstjóra, sbr. "X. kafla laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt.
-      [Frá álögðu búnaðargjaldi skal draga þá fjárhæð sem greidd hefur verið fyrir fram skv. 4. gr. Greiði gjaldskyldur aðili ekki fyrirframgreiðslu á tilskildum tíma eða vangreiði hann skal innheimtumaður ríkissjóðs reikna hæstu leyfilegu dráttarvexti samkvæmt auglýsingu Seðlabanka Íslands á þá fjárhæð sem vangoldin er frá gjalddaga, sbr. 4. gr. Ef álagning er hærri en ákvörðuð fyrirframgreiðsla skal gjaldandi greiða mismuninn með sem næst jöfnum greiðslum á gjalddögum þinggjalda. Við mismun sem á rætur að rekja til of hárrar fyrirframgreiðslu skal bæta 2,5% álagi.][^1)^]
-      Um ábyrgð á greiðslu, [innheimtu],[^1)^] upplýsingaskyldu, eftirlitsheimildir og málsmeðferð skulu gilda ákvæði "laga nr. 75/1981":1981075.html.
-
-
-_[^1)^]"L. 139/1997, 2. gr.":/altext/stjt/1997.139.html_
-
-
-
-
-6. gr.
-
-     Tekjum af búnaðargjaldi skal skipt þannig, sbr. þó 4. mgr.:
-
-
-_Velta í nautgripa-_
-
-_Önnur_
-
-_og sauðfjárrækt_
-
-_afurðavelta_
-
-Til Búnaðarsjóðs
-
-1,225% af stofni
-
-1,575% af stofni
-
-Til Lánasjóðs
-
-landbúnaðarins
-
-1,150% af stofni
-
-0,800% af stofni
-
-Til Framleiðsluráðs
-
-landbúnaðarins
-
-0,275% af stofni
-
-0,275% af stofni
-
-     Hluti Búnaðarsjóðs skiptist síðan á milli Bændasamtaka Íslands, búnaðarsambanda, búgreinasamtaka og Bjargráðasjóðs í samræmi við viðauka við lög þessi.
-      Fjármálaráðherra stendur skil á gjaldinu mánaðarlega, þó aldrei lægri fjárhæð en nemur 6,67% af álagningu næstliðins árs.
-      Af óskiptum tekjum búnaðargjalds skulu 0,5% renna í ríkissjóð til að standa straum af kostnaði við framkvæmd laga þessara.
-      [Fjármálaráðherra er heimilt að setja í reglugerð nánari reglur um fyrirframgreiðslur, álagningu, innheimtu og annað er varðar skattalega framkvæmd laga þessara.][^1)^]
-
-
-_[^1)^]"L. 139/1997, 3. gr.":/altext/stjt/1997.139.html_
-
-
-
-
-7. gr.
-
-     Lög þessi öðlast gildi 1. janúar 1998 ...[^1)^]
-
-
-_[^1)^]Um breytingu á nánari gildistökuákvæðum sem ekki eru birt hér, sjá "l. 139/1997, 4. gr.":/altext/stjt/1997.139.html_
-
-
-
-
-*Ákvæði til bráðabirgða.*
-
-*I.*
-
-     ...
-
-
-
-*II.*
-
-     ...
-
-
-
-*III.*
-
-     Þrátt fyrir ákvæði 4. mgr. 6. gr. skal 1% af óskiptum tekjum af búnaðargjaldi renna í ríkissjóð á árunum 1998 og 1999 til að standa straum af stofnkostnaði vegna álagningar og innheimtu gjaldsins.
-
-
-
-*[IV.*
-
-     ...][^1)^]
-
-
-_[^1)^]"L. 139/1997, brbákv.":/altext/stjt/1997.139.html_
-
-
-
-
-*Viðauki.[^1)^]*
-
-_[^1)^]Um texta viðaukans vísast til Stjtíð. A 1997 bls. 287._
 
