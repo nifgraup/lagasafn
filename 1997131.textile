@@ -6,8 +6,8 @@ h2. Lög um rafræna eignarskráningu verðbréfa
 
 <hr />
 
-*Tóku gildi 1. janúar 1998.*
- _Breytt með "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 32/2000":/altext/stjt/2000.032.html (tóku gildi 26. maí 2000), "l. 77/2000":2000077.html (tóku gildi 1. jan. 2001), "l. 164/2000":/altext/stjt/2000.164.html (tóku gildi 29. des. 2000) og "l. 147/2001":/altext/stjt/2001.147.html (tóku gildi 31. des. 2001)._
+*Tóku gildi 1. janúar 1998.* Breytt með "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 32/2000":/altext/stjt/2000.032.html (tóku gildi 26. maí 2000), "l. 77/2000":2000077.html (tóku gildi 1. jan. 2001), "l. 164/2000":/altext/stjt/2000.164.html (tóku gildi 29. des. 2000), "l. 147/2001":/altext/stjt/2001.147.html (tóku gildi 31. des. 2001) og "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002).
+
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* Lög þessi gilda um rafræna útgáfu verðbréfa og skráningu eignarréttinda yfir þeim.
@@ -29,8 +29,9 @@ h2. Lög um rafræna eignarskráningu verðbréfa
  □ Verðbréfamiðstöð er óheimilt að stunda aðra starfsemi en þá sem kveðið er á um í lögum þessum eða er í eðlilegum tengslum við hana.
     _[^1)^]_"L. 84/1998, 20. gr.":/altext/stjt/1998.084.html
  ■ *4. gr.* Stjórnarmenn í verðbréfamiðstöð skulu vera þrír hið fæsta og skulu þeir vera búsettir hér á landi, vera lögráða, hafa óflekkað mannorð, vera fjár síns ráðandi og mega ekki á síðustu fimm árum í tengslum við atvinnurekstur hafa hlotið dóm fyrir refsiverðan verknað samkvæmt almennum hegningarlögum eða lögum um hlutafélög, einkahlutafélög, bókhald, ársreikninga, gjaldþrot eða opinber gjöld.
- □ Ríkisborgarar þeirra ríkja sem eru aðilar að samningnum um Evrópska efnahagssvæðið eru undanþegnir búsetuskilyrðum, enda séu viðkomandi ríkisborgarar búsettir í EES-ríki. Ráðherra er heimilt að veita þeim sem búsettir eru í öðrum ríkjum sömu undanþágu.
-■ *5. gr.* Einstaklingar og lögaðilar skulu tilkynna [Fjármálaeftirlitinu][^1)^] beina eða óbeina þátttöku í verðbréfamiðstöð sem nemur að minnsta kosti 10% af hlutafé eða atkvæðisrétti eða minna ef hún felur í sér veruleg áhrif á stjórn hlutafélagsins, svo og um hve mikil eign þessi er.
+ □ Ríkisborgarar þeirra ríkja sem eru aðilar að samningnum um Evrópska efnahagssvæðið eru undanþegnir búsetuskilyrðum, enda séu viðkomandi ríkisborgarar búsettir í EES-ríki. [Búsetuskilyrðið gildir ekki heldur um ríkisborgara aðildarríkja að stofnsamningi Fríverslunarsamtaka Evrópu sem búsettir eru í aðildarríki stofnsamningsins.][^1)^] Ráðherra er heimilt að veita þeim sem búsettir eru í öðrum ríkjum sömu undanþágu.
+    _[^1)^]_"L. 76/2002, 85. gr.":/altext/stjt/2002.076.html
+ ■ *5. gr.* Einstaklingar og lögaðilar skulu tilkynna [Fjármálaeftirlitinu][^1)^] beina eða óbeina þátttöku í verðbréfamiðstöð sem nemur að minnsta kosti 10% af hlutafé eða atkvæðisrétti eða minna ef hún felur í sér veruleg áhrif á stjórn hlutafélagsins, svo og um hve mikil eign þessi er.
  □ Fari hluthafi, sem á svo stóran hlut í verðbréfamiðstöð sem segir í 1. mgr., þannig með hlut sinn að skaði heilbrigðan eða traustan rekstur verðbréfamiðstöðvarinnar getur ráðherra, að fenginni tillögu [Fjármálaeftirlitsins],[^1)^] ákveðið að hlut þessum fylgi ekki atkvæðisréttur eða lagt fyrir verðbréfamiðstöðina að grípa til viðeigandi ráðstafana.
  □ Hafi ráðherra ákveðið skv. 2. mgr. að hlutum fylgi ekki atkvæðisréttur skulu þeir hlutir ekki teknir með við útreikning á því hve mikinn hluta atkvæða mætt hafi verið fyrir á hluthafafundum.
     _[^1)^]_"L. 84/1998, 20. gr.":/altext/stjt/1998.084.html

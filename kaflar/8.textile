@@ -1,27 +1,12 @@
-<table>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<tbody>
-<tr class="odd">
-<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
-<td align="left"></td>
-<td align="left">h3. 
- 8. Opinberir starfsmenn
-</td>
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
+h2. 8. Opinberir starfsmenn
 
+* Lög um réttindi og skyldur starfsmanna ríkisins, "nr. 70 11. júní 1996":http://www.althingi.is/lagas/127b/1996070.html
+* Lög um forgangsrétt kandídata frá háskóla Íslands til embætta, "nr. 36 11. júlí 1911":http://www.althingi.is/lagas/127b/1911036.html
+* Lög um verkfall opinberra starfsmanna, "nr. 33 3. nóvember 1915":http://www.althingi.is/lagas/127b/1915033.html
+* Lög um laun starfsmanna ríkisins, "nr. 92 24. desember 1955":http://www.althingi.is/lagas/127b/1955092.html
+* Lög um kjarasamninga starfsmanna banka í eigu ríkisins, "nr. 34 12. maí 1977":http://www.althingi.is/lagas/127b/1977034.html
+* Lög um kjarasamninga opinberra starfsmanna, "nr. 94 31. desember 1986":http://www.althingi.is/lagas/127b/1986094.html
+* Lög um Kjaradóm og kjaranefnd, "nr. 120 31. desember 1992":http://www.althingi.is/lagas/127b/1992120.html
 
-
-|!/img/box_green2.gif!|Lög um réttindi og skyldur starfsmanna ríkisins, "nr. 70 11. júní 1996":http://www.althingi.is/lagasofn/127a/1996070.html|
-|!/img/box_green2.gif!|Lög um forgangsrétt kandídata frá háskóla Íslands til embætta, "nr. 36 11. júlí 1911":http://www.althingi.is/lagasofn/127a/1911036.html|
-|!/img/box_green2.gif!|Lög um verkfall opinberra starfsmanna, "nr. 33 3. nóvember 1915":http://www.althingi.is/lagasofn/127a/1915033.html|
-|!/img/box_green2.gif!|Lög um laun starfsmanna ríkisins, "nr. 92 24. desember 1955":http://www.althingi.is/lagasofn/127a/1955092.html|
-|!/img/box_green2.gif!|Lög um kjarasamninga starfsmanna banka í eigu ríkisins, "nr. 34 12. maí 1977":http://www.althingi.is/lagasofn/127a/1977034.html|
-|!/img/box_green2.gif!|Lög um kjarasamninga opinberra starfsmanna, "nr. 94 31. desember 1986":http://www.althingi.is/lagasofn/127a/1986094.html|
-|!/img/box_green2.gif!|Lög um Kjaradóm og kjaranefnd, "nr. 120 31. desember 1992":http://www.althingi.is/lagasofn/127a/1992120.html|
+h4. "Kaflar lagasafns":kaflar.html
 

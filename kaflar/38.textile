@@ -1,27 +1,12 @@
-<table>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<tbody>
-<tr class="odd">
-<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
-<td align="left"></td>
-<td align="left">h3. 
- 38. Póstur, sími og fjarskipti
-</td>
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
+h2. 38. Póstur, sími og fjarskipti
 
+* Lög um Póst- og fjarskiptastofnun, "nr. 110 28. desember 1999":http://www.althingi.is/lagas/127b/1999110.html
+* Lög um lagningu sjálfvirks síma, "nr. 32 26. maí 1981":http://www.althingi.is/lagas/127b/1981032.html
+* Lög um fjarskipti, "nr. 107 28. desember 1999":http://www.althingi.is/lagas/127b/1999107.html
+* Lög um jöfnunargjald vegna alþjónustu árið 2000, "nr. 72 20. maí 2000":http://www.althingi.is/lagas/127b/2000072.html
+* Lög um jöfnunargjald vegna alþjónustu árið 2001, "nr. 160 20. desember 2000":http://www.althingi.is/lagas/127b/2000160.html
+* Lög um sölu ríkissjóðs á hlutafé í Landssíma Íslands hf., "nr. 75 31. maí 2001":http://www.althingi.is/lagas/127b/2001075.html
+* Lög um póstþjónustu "nr. 19 18. mars 2002":http://www.althingi.is/lagas/127b/2002019.html
 
-
-|!/img/box_green2.gif!|Lög um Póst- og fjarskiptastofnun, "nr. 110 28. desember 1999":http://www.althingi.is/lagasofn/127a/1999110.html|
-|!/img/box_green2.gif!|Lög um lagningu sjálfvirks síma, "nr. 32 26. maí 1981":http://www.althingi.is/lagasofn/127a/1981032.html|
-|!/img/box_green2.gif!|Lög um póstþjónustu, "nr. 142 27. desember 1996":http://www.althingi.is/lagasofn/127a/1996142.html|
-|!/img/box_green2.gif!|Lög um fjarskipti, "nr. 107 28. desember 1999":http://www.althingi.is/lagasofn/127a/1999107.html|
-|!/img/box_green2.gif!|Lög um jöfnunargjald vegna alþjónustu árið 2000, "nr. 72 20. maí 2000":http://www.althingi.is/lagasofn/127a/2000072.html|
-|!/img/box_green2.gif!|Lög um jöfnunargjald vegna alþjónustu árið 2001, "2000 nr. 160 20. desember":http://www.althingi.is/lagas/127a/2000160.html|
-|!/img/box_green2.gif!|Lög um sölu ríkissjóðs á hlutafé í Landssíma Íslands hf., "nr. 75 31. maí 2001":http://www.althingi.is/lagas/127a/2001075.html|
+h4. "Kaflar lagasafns":kaflar.html
 

@@ -1,74 +1,55 @@
-<table>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<tbody>
-<tr class="odd">
-<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
-<td align="left"></td>
-<td align="left">h3. 
- 11. Ríkisfjármál og ríkisábyrgðir
-</td>
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
+h2. 11. Ríkisfjármál og ríkisábyrgðir
 
+h3. 11.a. Fjárreiður ríkisins og eftirlit með þeim
 
- 11.a. Fjárreiður ríkisins og eftirlit með þeim
+* Lög um fjárreiður ríkisins, "nr. 88 27. maí 1997":http://www.althingi.is/lagas/127b/1997088.html
+* Lög um Ríkisendurskoðun, "nr. 86 27. maí 1997":http://www.althingi.is/lagas/127b/1997086.html
 
-|!/img/box_green2.gif!|Lög um fjárreiður ríkisins, "nr. 88 27. maí 1997":http://www.althingi.is/lagasofn/127a/1997088.html|
-|!/img/box_green2.gif!|Lög um Ríkisendurskoðun, "nr. 86 27. maí 1997":http://www.althingi.is/lagasofn/127a/1997086.html|
+h3. 11.b. Gjaldmiðill
 
+* Lög um gjaldmiðil Íslands, "nr. 22 23. apríl 1968":http://www.althingi.is/lagas/127b/1968022.html
+* Lög um breytt verðgildi íslensks gjaldmiðils, "nr. 35 29. maí 1979":http://www.althingi.is/lagas/127b/1979035.html
+* Lög um heimild fyrir ríkisstjórnina til að ganga inn í viðbótarsamning við myntsamning Norðurlanda, "nr. 4 15. júní 1926":http://www.althingi.is/lagas/127b/1926004.html
+* Lög um áframhaldandi gildi samninga með tilkomu evrunnar, "nr. 39 27. apríl 1998":http://www.althingi.is/lagas/127b/1998039.html
 
- 11.b. Gjaldmiðill
+h3. 11.c. Gjaldeyrismál
 
-|!/img/box_green2.gif!|Lög um gjaldmiðil Íslands, "nr. 22 23. apríl 1968":http://www.althingi.is/lagasofn/127a/1968022.html|
-|!/img/box_green2.gif!|Lög um breytt verðgildi íslensks gjaldmiðils, "nr. 35 29. maí 1979":http://www.althingi.is/lagasofn/127a/1979035.html|
-|!/img/box_green2.gif!|Lög um heimild fyrir ríkisstjórnina til að ganga inn í viðbótarsamning við myntsamning Norðurlanda, "nr. 4 15. júní 1926":http://www.althingi.is/lagasofn/127a/1926004.html|
-|!/img/box_green2.gif!|Lög um áframhaldandi gildi samninga með tilkomu evrunnar, "nr. 39 27. apríl 1998":http://www.althingi.is/lagasofn/127a/1998039.html|
+* Lög um gjaldeyrismál, "nr. 87 17. nóvember 1992":http://www.althingi.is/lagas/127b/1992087.html
 
+h3. 11.d. Lántökur ríkisins
 
- 11.c. Gjaldeyrismál
+* Lög um ríkisskuldabréf, "nr. 51 4. júní 1924":http://www.althingi.is/lagas/127b/1924051.html
+* Lög um innlenda lánsfjáröflun ríkissjóðs, "nr. 79 28. desember 1983":http://www.althingi.is/lagas/127b/1983079.html
+* Lög um Lánasýslu ríkisins, "nr. 43 16. maí 1990":http://www.althingi.is/lagas/127b/1990043.html
+* Lög um framlengingu á heimild ríkisstjórnarinnar til að nota allt að fjórum milljónum dollara af yfirdráttarheimild Íslands hjá Greiðslubandalagi Evrópu, "nr. 6 2. febrúar 1953":http://www.althingi.is/lagas/127b/1953006.html
+* Lög um heimild fyrir ríkisstjórnina til lántöku vegna vatnsveituframkvæmda í Vestmannaeyjum, "nr. 57 22. apríl 1963":http://www.althingi.is/lagas/127b/1963057.html
+* Lög um heimild til viðbótarlántöku og ábyrgðarheimild vegna framkvæmda á sviði orkumála 1979 o.fl., "nr. 42 23. maí 1980":http://www.althingi.is/lagas/127b/1980042.html
+* Lög um heimildir til lántöku á árunum 1980 og 1981 og ábyrgðarheimildir, "nr. 89 24. maí 1980":http://www.althingi.is/lagas/127b/1980089.html
+* Lög um lántöku o.fl. vegna byggingar flugstöðvar á Keflavíkurflugvelli, "nr. 45 15. maí 1984":http://www.althingi.is/lagas/127b/1984045.html
 
-|!/img/box_green2.gif!|Lög um gjaldeyrismál, "nr. 87 17. nóvember 1992":http://www.althingi.is/lagasofn/127a/1992087.html|
+h3. 11.e. Verðlagsmál og efnahagsráðstafanir
 
+* Lög um vísitölu byggingarkostnaðar, "nr. 42 30. mars 1987":http://www.althingi.is/lagas/127b/1987042.html
+* Lög um launavísitölu, "nr. 89 31. maí 1989":http://www.althingi.is/lagas/127b/1989089.html
+* Lög um vísitölu neysluverðs, "nr. 12 2. mars 1995":http://www.althingi.is/lagas/127b/1995012.html
+* Lög um heimild fyrir ríkisstjórnina til að taka á móti og ráðstafa framlögum samkvæmt áætlun um fjárhagslega viðreisn Evrópu, "nr. 47 25. maí 1949":http://www.althingi.is/lagas/127b/1949047.html
+* Lög um bráðabirgðabreyting nokkurra laga o.fl., "nr. 50 5. apríl 1948":http://www.althingi.is/lagas/127b/1948050.html
+* Lög um dýrtíðarráðstafanir vegna atvinnuveganna, "nr. 100 29. desember 1948":http://www.althingi.is/lagas/127b/1948100.html
+* Lög um ráðstafanir til lækkunar ríkisútgjalda, "nr. 5 10. apríl 1968":http://www.althingi.is/lagas/127b/1968005.html
+* Lög um aðgerðir í atvinnumálum, "nr. 9 1. apríl 1969":http://www.althingi.is/lagas/127b/1969009.html
+* Lög um ákvörðun kaupgreiðsluvísitölu fyrir tímabilið 1. janúar til 28. febrúar 1973, "nr. 100 28. desember 1972":http://www.althingi.is/lagas/127b/1972100.html
+* Lög um stjórn efnahagsmála o.fl., "nr. 13 10. apríl 1979":http://www.althingi.is/lagas/127b/1979013.203.html
+* Lög um ráðstafanir í sjávarútvegsmálum, "nr. 71 30. maí 1984":http://www.althingi.is/lagas/127b/1984071.html
+* Lög um efnahagsaðgerðir, "nr. 9 2. mars 1989":http://www.althingi.is/lagas/127b/1989009.html
 
- 11.d. Lántökur ríkisins
+h3. 11.f. Ríkisábyrgðir
 
-|!/img/box_green2.gif!|Lög um ríkisskuldabréf, "nr. 51 4. júní 1924":http://www.althingi.is/lagasofn/127a/1924051.html|
-|!/img/box_green2.gif!|Lög um stjórn efnahagsmála o.fl., "nr. 13 10. apríl 1979":http://www.althingi.is/lagasofn/127a/1979013.201.html|
-|!/img/box_green2.gif!|Lög um innlenda lánsfjáröflun ríkissjóðs, "nr. 79 28. desember 1983":http://www.althingi.is/lagasofn/127a/1983079.html|
-|!/img/box_green2.gif!|Lög um Lánasýslu ríkisins, "nr. 43 16. maí 1990":http://www.althingi.is/lagasofn/127a/1990043.html|
-|!/img/box_green2.gif!|Lög um framlengingu á heimild ríkisstjórnarinnar til að nota allt að fjórum milljónum dollara af yfirdráttarheimild Íslands hjá Greiðslubandalagi Evrópu, "nr. 6 2. febrúar 1953":http://www.althingi.is/lagasofn/127a/1953006.html|
-|!/img/box_green2.gif!|Lög um heimild fyrir ríkisstjórnina til lántöku vegna vatnsveituframkvæmda í Vestmannaeyjum, "nr. 57 22. apríl 1963":http://www.althingi.is/lagasofn/127a/1963057.html|
-|!/img/box_green2.gif!|Lög um heimild til viðbótarlántöku og ábyrgðarheimild vegna framkvæmda á sviði orkumála 1979 o.fl., "nr. 42 23. maí 1980":http://www.althingi.is/lagasofn/127a/1980042.html|
-|!/img/box_green2.gif!|Lög um heimildir til lántöku á árunum 1980 og 1981 og ábyrgðarheimildir, "nr. 89 24. maí 1980":http://www.althingi.is/lagasofn/127a/1980089.html|
-|!/img/box_green2.gif!|Lög um lántöku o.fl. vegna byggingar flugstöðvar á Keflavíkurflugvelli, "nr. 45 15. maí 1984":http://www.althingi.is/lagasofn/127a/1984045.html|
+* Lög um ríkisábyrgðir, "nr. 121 22. desember 1997":http://www.althingi.is/lagas/127b/1997121.html
+* Lög um heimild fyrir ríkisstjórnina til að ábyrgjast lán vegna Vatnsveitu Vestmannaeyja, "nr. 15 30. mars 1971":http://www.althingi.is/lagas/127b/1971015.html
+* Lög um heimild fyrir fjármálaráðherra f.h. ríkissjóðs til að ábyrgjast lán fyrir Arnarflug hf., "nr. 30 15. maí 1984":http://www.althingi.is/lagas/127b/1984030.html
+* Lög um lántöku Áburðarverksmiðju ríkisins, "nr. 49 28. maí 1984":http://www.althingi.is/lagas/127b/1984049.html
+* Lög um sjálfskuldarábyrgð ríkissjóðs á láni vegna byggingar stálvölsunarverksmiðju, "nr. 82 1. júlí 1985":http://www.althingi.is/lagas/127b/1985082.html
+* Lög um heimild til handa fjármálaráðherra, f.h. ríkissjóðs, til að ábyrgjast skuldabréf vegna fjármögnunar nýrrar starfsemi Íslenskrar erfðagreiningar ehf. "nr. 87 15. maí 2002":http://www.althingi.is/lagas/127b/2002087.html
 
-
- 11.e. Verðlagsmál og efnahagsráðstafanir
-
-|!/img/box_green2.gif!|Lög um vísitölu byggingarkostnaðar, "nr. 42 30. mars 1987":http://www.althingi.is/lagasofn/127a/1987042.html|
-|!/img/box_green2.gif!|Lög um launavísitölu, "nr. 89 31. maí 1989":http://www.althingi.is/lagasofn/127a/1989089.html|
-|!/img/box_green2.gif!|Lög um vísitölu neysluverðs, "nr. 12 2. mars 1995":http://www.althingi.is/lagasofn/127a/1995012.html|
-|!/img/box_green2.gif!|Lög um heimild fyrir ríkisstjórnina til að taka á móti og ráðstafa framlögum samkvæmt áætlun um fjárhagslega viðreisn Evrópu, "nr. 47 25. maí 1949":http://www.althingi.is/lagasofn/127a/1949047.html|
-|!/img/box_green2.gif!|Lög um bráðabirgðabreyting nokkurra laga o.fl., "nr. 50 5. apríl 1948":http://www.althingi.is/lagasofn/127a/1948050.html|
-|!/img/box_green2.gif!|Lög um dýrtíðarráðstafanir vegna atvinnuveganna, "nr. 100 29. desember 1948":http://www.althingi.is/lagasofn/127a/1948100.html|
-|!/img/box_green2.gif!|Lög um ráðstafanir til lækkunar ríkisútgjalda, "nr. 5 10. apríl 1968":http://www.althingi.is/lagasofn/127a/1968005.html|
-|!/img/box_green2.gif!|Lög um aðgerðir í atvinnumálum, "nr. 9 1. apríl 1969":http://www.althingi.is/lagasofn/127a/1969009.html|
-|!/img/box_green2.gif!|Lög um ákvörðun kaupgreiðsluvísitölu fyrir tímabilið 1. janúar til 28. febrúar 1973, "nr. 100 28. desember 1972":http://www.althingi.is/lagasofn/127a/1972100.html|
-|!/img/box_green2.gif!|Lög um stjórn efnahagsmála o.fl., "nr. 13 10. apríl 1979":http://www.althingi.is/lagasofn/127a/1979013.203.html|
-|!/img/box_green2.gif!|Lög um ráðstafanir í sjávarútvegsmálum, "nr. 71 30. maí 1984":http://www.althingi.is/lagasofn/127a/1984071.html|
-|!/img/box_green2.gif!|Lög um efnahagsaðgerðir, "nr. 9 2. mars 1989":http://www.althingi.is/lagasofn/127a/1989009.html|
-
-
- 11.f. Ríkisábyrgðir
-
-|!/img/box_green2.gif!|Lög um ríkisábyrgðir, "nr. 121 22. desember 1997":http://www.althingi.is/lagasofn/127a/1997121.html|
-|!/img/box_green2.gif!|Lög um heimild fyrir ríkisstjórnina til að ábyrgjast lán vegna Vatnsveitu Vestmannaeyja, "nr. 15 30. mars 1971":http://www.althingi.is/lagasofn/127a/1971015.html|
-|!/img/box_green2.gif!|Lög um heimild fyrir fjármálaráðherra f.h. ríkissjóðs til að ábyrgjast lán fyrir Arnarflug hf., "nr. 30 15. maí 1984":http://www.althingi.is/lagasofn/127a/1984030.html|
-|!/img/box_green2.gif!|Lög um lántöku Áburðarverksmiðju ríkisins, "nr. 49 28. maí 1984":http://www.althingi.is/lagasofn/127a/1984049.html|
-|!/img/box_green2.gif!|Lög um sjálfskuldarábyrgð ríkissjóðs á láni vegna byggingar stálvölsunarverksmiðju, "nr. 82 1. júlí 1985":http://www.althingi.is/lagasofn/127a/1985082.html|
+h4. "Kaflar lagasafns":kaflar.html
 

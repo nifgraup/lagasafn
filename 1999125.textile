@@ -6,8 +6,8 @@ h2. Lög um málefni aldraðra
 
 <hr />
 
-*Tóku gildi 11. janúar 2000.*
- _Breytt með "l. 172/2000":/altext/stjt/2000.172.html (tóku gildi 1. jan. 2001), "l. 67/2001":/altext/stjt/2001.067.html (tóku gildi 13. júní 2001) og "l. 124/2001":/altext/stjt/2001.124.html (tóku gildi 30. nóv. 2001)._
+*Tóku gildi 11. janúar 2000.* Breytt með "l. 172/2000":/altext/stjt/2000.172.html (tóku gildi 1. jan. 2001), "l. 67/2001":/altext/stjt/2001.067.html (tóku gildi 13. júní 2001), "l. 124/2001":/altext/stjt/2001.124.html (tóku gildi 30. nóv. 2001), "l. 74/2002":/altext/stjt/2002.074.html (tóku gildi 17. maí 2002) og "l. 93/2002":/altext/stjt/2002.093.html (tóku gildi 31. maí 2002).
+
 
  *I. kafli.* *Markmið og skilgreiningar.*
  _Markmið._
@@ -17,14 +17,16 @@ h2. Lög um málefni aldraðra
  _Skilgreiningar._
 ■ *2. gr.* Í lögum þessum er merking eftirfarandi hugtaka sem hér segir:
     1. _Aldraður:_ Sá sem náð hefur 67 ára aldri.
-    2. _Öldrunarmál:_ Þau mál sem varða aldraða og eru undir yfirstjórn heilbrigðis- og tryggingamálaráðherra. Til þeirra teljast þeir þjónustuþættir sem aldraðir eiga rétt á samkvæmt lögum þessum og Framkvæmdasjóður aldraðra.
-    3. _Vistunarmat aldraðra:_ Faglegt, einstaklingsbundið mat á þörf fyrir vistun á stofnun.
-    4. _Starfssvæði þjónustuhóps aldraðra:_ Umdæmi heilsugæslustöðva í læknishéruðum landsins samkvæmt lögum um heilbrigðisþjónustu.
-    5. _Vistmannaráð:_ Kjörnir fulltrúar íbúa stofnunar mynda vistmannaráð.
+    [2. _Vistmaður:_ Sá sem dvelur á stofnun skv. 1. tölul. 1. mgr. 14. gr. og sá sem dvelur lengur en sex mánuði undanfarandi tólf mánuði á stofnun skv. 2. tölul. 1. mgr. 14. gr. eða í hjúkrunarrými stofnunar sem er á föstum fjárlögum.][^1)^]
+    [3.] [^1)^] _Öldrunarmál:_ Þau mál sem varða aldraða og eru undir yfirstjórn heilbrigðis- og tryggingamálaráðherra. Til þeirra teljast þeir þjónustuþættir sem aldraðir eiga rétt á samkvæmt lögum þessum og Framkvæmdasjóður aldraðra.
+    [4.] [^1)^] _Vistunarmat aldraðra:_ Faglegt, einstaklingsbundið mat á þörf fyrir vistun á stofnun.
+    [5.] [^1)^] _Starfssvæði þjónustuhóps aldraðra:_ Umdæmi heilsugæslustöðva ...[^2)^] samkvæmt lögum um heilbrigðisþjónustu.
+    [6.] [^1)^] _Vistmannaráð:_ Kjörnir fulltrúar íbúa stofnunar mynda vistmannaráð.
+    _[^1)^]_"L. 74/2002, 26. gr.":/altext/stjt/2002.074.html [^2)^]"L. 93/2002, 23. gr.":/altext/stjt/2002.093.html
 
  *II. kafli.* *Stjórn öldrunarmála og skipulag öldrunarþjónustu.*
  _Yfirstjórn._
-■ *3. gr.* Heilbrigðis- og tryggingamálaráðherra fer með yfirstjórn öldrunarmála.
+ ■ *3. gr.* Heilbrigðis- og tryggingamálaráðherra fer með yfirstjórn öldrunarmála.
  □ Heilbrigðis- og tryggingamálaráðuneytið skal annast stefnumótun og áætlanagerð fyrir landið í heild um málefni aldraðra og hafa eftirlit með framkvæmd laganna og reglugerða sem settar eru á grundvelli þeirra. Jafnframt skal ráðuneytið beita sér fyrir almennri umræðu og kynningu á stöðu og valkostum aldraðra.
  _Samstarfsnefnd um málefni aldraðra._
 ■ *4. gr.* Heilbrigðis- og tryggingamálaráðherra skipar fimm manna samstarfsnefnd um málefni aldraðra eftir hverjar almennar alþingiskosningar. Skal einn nefndarmaður tilnefndur af Landssambandi eldri borgara, einn af Öldrunarráði Íslands og einn af Sambandi íslenskra sveitarfélaga og tveir skulu skipaðir án tilnefningar, þar af skal annar hafa faglega þekkingu á málefnum aldraðra. Ráðherra skipar formann úr hópi nefndarmanna. Varamenn skulu skipaðir á sama hátt og aðalmenn.
@@ -36,9 +38,9 @@ h2. Lög um málefni aldraðra
  _Þjónustuhópur aldraðra._
 ■ *6. gr.* Í hverju heilsugæsluumdæmi, sbr. lög um heilbrigðisþjónustu, skal starfa þjónustuhópur aldraðra. Sveitarfélög geta sameinast um þjónustuhóp aldraðra sé það talið hagkvæmt.
  □ Kostnaður af starfi þjónustuhóps aldraðra greiðist af sveitarfélögum á starfssvæði hans í hlutfalli við fjölda íbúa í hverju sveitarfélaganna.
-■ *7. gr.* [Sveitarstjórnir í heilsugæsluumdæmi, sbr. lög um heilbrigðisþjónustu, skipa fimm fulltrúa í þjónustuhóp aldraðra að loknum sveitarstjórnarkosningum. Héraðslæknir tilnefnir lækni, með sérmenntun á sviði öldrunar- eða heimilislækninga, og hjúkrunarfræðing, með þekkingu á öldrunarþjónustu. Sveitarstjórnir skipa án tilnefningar tvo fulltrúa sem hafa þekkingu á félagslegri þjónustu við aldraða. Skal annar þeirra vera félagsráðgjafi eða hafa hliðstæða menntun. Samtök eldri borgara á svæðinu tilnefna einn fulltrúa úr sínum röðum og sinnir hann öðrum verkefnum þjónustuhóps aldraðra en þeim sem kveðið er á um í 4. tölul. 8. gr.][^1)^]
+■ *7. gr.* [Sveitarstjórnir í heilsugæsluumdæmi, sbr. lög um heilbrigðisþjónustu, skipa fimm fulltrúa í þjónustuhóp aldraðra að loknum sveitarstjórnarkosningum. [Yfirlæknir heilsugæslu tilnefnir lækni með sérmenntun á sviði öldrunar- eða heimilislækninga og hjúkrunarforstjóri heilsugæslu tilnefnir hjúkrunarfræðing með þekkingu á öldrunarþjónustu.][^1)^] Sveitarstjórnir skipa án tilnefningar tvo fulltrúa sem hafa þekkingu á félagslegri þjónustu við aldraða. Skal annar þeirra vera félagsráðgjafi eða hafa hliðstæða menntun. Samtök eldri borgara á svæðinu tilnefna einn fulltrúa úr sínum röðum og sinnir hann öðrum verkefnum þjónustuhóps aldraðra en þeim sem kveðið er á um í 4. tölul. 8. gr.][^2)^]
  □ Sveitarstjórnir velja þjónustuhópnum formann úr hópi nefndarmanna.
-    _[^1)^]_"L. 67/2001, 1. gr.":/altext/stjt/2001.067.html
+    _[^1)^]_"L. 93/2002, 24. gr.":/altext/stjt/2002.093.html [^2)^]"L. 67/2001, 1. gr.":/altext/stjt/2001.067.html
  ■ *8. gr.* Þjónustuhópur aldraðra skal hafa eftirtalin verkefni á starfssvæði sínu:
     1. Að fylgjast með heilsufari og félagslegri velferð aldraðra og samhæfa þjónustu.
     2. Að gera tillögur til sveitarstjórna um öldrunarþjónustu.
@@ -89,9 +91,10 @@ h2. Lög um málefni aldraðra
  □ Áður en bygging þjónustuíbúða fyrir aldraða hefst skv. 4. tölul. 13. gr. ber að afla framkvæmdaleyfis hjá heilbrigðis- og tryggingamálaráðherra. Sama á við um eldra húsnæði sem tekið er til slíkra nota. Gildir þetta jafnt um framkvæmdir á vegum sveitarfélaga og á frjálsum markaði. Enn fremur skal afla samþykkis heilbrigðis- og tryggingamálaráðuneytisins á teikningum áður en framkvæmdir hefjast og skýra ráðuneytinu frá því hver muni bera ábyrgð á rekstri sameignar og sameiginlegrar þjónustu í húsnæðinu.
  □ Beiðni um framkvæmdaleyfi fyrir dagvist eða stofnun fyrir aldraða skulu fylgja upplýsingar um verksvið stofnunar og staðsetningu, svo og uppdrættir af byggingum, lóð og umhverfi og afstöðu til nágrennis ásamt lýsingu á húsakynnum. Enn fremur skal fylgja greinargerð um eigendur og fjárhag þeirra. Beiðninni skal og fylgja umsögn þjónustuhóps aldraðra á því starfssvæði þar sem stofnunin mun verða.
  □ Sama gildir um allar meiri háttar breytingar á húsakynnum og starfsemi stofnunar fyrir aldraða.
- □ Áður en ráðherra heimilar framkvæmdir skal umsóknin send til umsagnar samstarfsnefndar um málefni aldraðra. Ef um hjúkrunarrými er að ræða skal umsóknin einnig send til umsagnar landlæknis og viðkomandi héraðslæknis.
+ □ Áður en ráðherra heimilar framkvæmdir skal umsóknin send til umsagnar samstarfsnefndar um málefni aldraðra. Ef um hjúkrunarrými er að ræða skal umsóknin einnig send til umsagnar landlæknis ...[^1)^]
+    _[^1)^]_"L. 93/2002, 25. gr.":/altext/stjt/2002.093.html
  _Rekstrarleyfi._
-■ *17. gr.* Áður en rekstur dagvistar skv. 3. tölul. 13. gr. og stofnunar fyrir aldraða skv. 14. gr. getur hafist skal sækja um rekstrarleyfi hjá heilbrigðis- og tryggingamálaráðherra.
+ ■ *17. gr.* Áður en rekstur dagvistar skv. 3. tölul. 13. gr. og stofnunar fyrir aldraða skv. 14. gr. getur hafist skal sækja um rekstrarleyfi hjá heilbrigðis- og tryggingamálaráðherra.
  □ Umsókn um rekstrarleyfi skal fylgja greinargerð um eigendur stofnunar og fjárhag þeirra og skýrsla um starfsáætlun, stjórn, starfsfólk, rekstrarfyrirkomulag og hve mörgum vistmönnum stofnuninni er ætlað að sinna.
  □ Ráðherra veitir rekstrarleyfi ef stofnunin fullnægir heilbrigðiskröfum og ákvæðum þessara laga og ætla má að hún geti leyst verkefni sín á viðunandi hátt, sbr. og lög um heilbrigðisþjónustu.
  _Stjórn stofnana._
@@ -100,24 +103,61 @@ h2. Lög um málefni aldraðra
  □ Starfsmannaráð tilnefnir einn mann af sinni hálfu til setu á fundum stjórnar stofnunar fyrir aldraða með málfrelsi og tillögurétti. Sama gildir um vistmannaráð.
 
  *V. kafli.* *Kostnaður við öldrunarþjónustu.*
-■ *19. gr.* Þeir sem þjónustu dagvistar njóta skulu taka þátt í kostnaði af dagvistinni að hámarki sem nemur óskertum grunnlífeyri einstaklings samkvæmt almannatryggingalögum. Að öðru leyti greiðist kostnaður vegna dagvistar af Tryggingastofnun ríkisins.
-■ *20. gr.* Íbúar í þjónustuíbúðum, sbr. 4. tölul. 13. gr., greiða sjálfir þá þjónustu sem þar er veitt, aðra en heimaþjónustu, sbr. 24. gr., samkvæmt ákvörðun rekstraraðila.
-■ *21. gr.* Dvalarkostnaður á stofnunum fyrir aldraða skv. 14. gr. greiðist af Tryggingastofnun ríkisins, sbr. þó 22. gr.
- □ Með dvalarkostnaði á stofnun fyrir aldraða er átt við daggjald eins og það er ákveðið af heilbrigðis- og tryggingamálaráðherra, sbr. "39. gr. laga nr. 117/1993":1993117.html#g39, um almannatryggingar.
- ■ *22. gr.* Vistmenn, sem hafa tekjur umfram 30.386 kr. á mánuði, skulu taka þátt í greiðslu dvalarkostnaðar á stofnunum fyrir aldraða, sbr. 14. gr.
- □ Með tekjum sínum, sem eru umfram 30.386 kr. á mánuði, skal vistmaður greiða dvalarkostnað sinn að hluta eða öllu leyti.
- □ Setja skal reglugerð[^1)^] með nánari ákvæðum um þátttöku vistmanna í greiðslu dvalarkostnaðar, m.a. um hækkun viðmiðunartekna.
-    _[^1)^]_"Rg. 47/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/047-1990, sbr. "291/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/291-1990, "322/1991":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/322-1991, "236/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-1993, "561/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/561-1997, "570/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/570-1998, "631/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/631-2000 og "658/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/658-2001.
- ■ *23. gr.* Vistmaður á stofnun fyrir aldraða, sbr. 14. gr., sem ekki hefur aðrar tekjur en bætur almannatrygginga, fær ráðstöfunarfé frá Tryggingastofnun ríkisins, sbr. lög um almannatryggingar.
-■ *24. gr.* Kostnaður af rekstri heimaþjónustu skiptist þannig að sveitarfélög bera kostnað af félagslegum þætti hennar en ríkissjóður af heilbrigðisþættinum.
+ _[Dagvist.][^1)^]_
+    _[^1)^]_"L. 74/2002, 27. gr.":/altext/stjt/2002.074.html
+ ■ *19. gr.* Þeir sem þjónustu dagvistar njóta skulu taka þátt í kostnaði af dagvistinni að hámarki sem nemur óskertum grunnlífeyri einstaklings samkvæmt almannatryggingalögum. Að öðru leyti greiðist kostnaður vegna dagvistar af Tryggingastofnun ríkisins.
+ _[Önnur þjónusta en heimaþjónusta.][^1)^]_
+    _[^1)^]_"L. 74/2002, 28. gr.":/altext/stjt/2002.074.html
+ ■ *20. gr.* Íbúar í þjónustuíbúðum, sbr. 4. tölul. 13. gr., greiða sjálfir þá þjónustu sem þar er veitt, aðra en heimaþjónustu, sbr. 24. gr., samkvæmt ákvörðun rekstraraðila.
+ _[Daggjaldastofnanir.][^1)^]_
+    _[^1)^]_"L. 74/2002, 29. gr.":/altext/stjt/2002.074.html
+ ■ *21. gr.* [Lífeyrir samkvæmt lögum um almannatryggingar og bætur honum tengdar til vistmanna sem eru á dvalarheimilum sem ekki eru á föstum fjárlögum, sbr. 1. tölul. 1. mgr. 14. gr., fellur niður frá fyrsta degi næsta mánaðar eftir upphaf dvalar. Hafi vistmaður engar tekjur, sbr. 26. gr., skal Tryggingastofnun ríkisins greiða dvalarheimilinu vistunarframlag skv. 6. mgr. "43. gr. laga nr. 117/1993":1993117.html#g43, um almannatryggingar, til greiðslu dvalarkostnaðar hans á stofnuninni. Vistunarframlagið skal nema fjárhæð lífeyris vistmanns og bótum tengdum honum og því sem á vantar dvalarkostnað eins og hann er ákveðinn af heilbrigðis- og tryggingamálaráðherra skv. 39. gr. laga um almannatryggingar, sbr. þó 22. gr.
+ □ Lífeyrir frá lífeyristryggingum almannatrygginga og bætur honum tengdar til vistmanns sem dvelur á stofnun, sbr. 2. tölul. 1. mgr. 14. gr., sem ekki er á föstum fjárlögum, fellur niður, sbr. "43. gr. laga nr. 117/1993":1993117.html#g43 um almannatryggingar. Um þátttöku í greiðslu dvalarkostnaðar fer skv. 22. gr.
+ □ Með dvalarkostnaði á stofnun fyrir aldraða skv. 1. mgr. er átt við daggjald eins og það er ákveðið af heilbrigðis- og tryggingamálaráðherra hverju sinni, sbr. "39. gr. laga nr. 117/1993":1993117.html#g39, um almannatryggingar.][^1)^]
+    _[^1)^]"L. 74/2002, 29. gr.":/altext/stjt/2002.074.html Breytingin kemur til framkvæmda 1. janúar 2004, sbr. "36. gr. s.l.":/altext/stjt/2002.074.html_
+ _[Þátttaka vistmanns í greiðslu dvalarkostnaðar og framkvæmd tekjuútreiknings.][^1)^]_
+    _[^1)^]"L. 74/2002, 29. gr.":/altext/stjt/2002.074.html_
+ ■ *22. gr.* [Vistmaður, sem hefur tekjur, sbr. 26. gr., umfram 34.659 kr. á mánuði skal taka þátt í greiðslu dvalarkostnaðar á stofnun fyrir aldraða. Þó skal greiðsluþátttaka hans aldrei nema hærri fjárhæð en sem nemur daggjöldum á stofnun eins og þau eru ákveðin af heilbrigðis- og tryggingamálaráðherra, sbr. 39. gr. laga um almannatryggingar og 3. mgr. 23. gr. laga þessara.
+ □ Eftirfarandi gildir um greiðslu vistmanns á dvalarkostnaði á dvalarheimili og hjúkrunarheimili eða hjúkrunarrými öldrunarstofnunar sem ekki er á föstum fjárlögum og hjúkrunarrými sem er á föstum fjárlögum þegar vistmaður greiðir dvalarkostnað með tekjum sínum að hluta eða öllu leyti:
+    1. Nú hefur vistmaður tekjur, sbr. 26. gr., sem eru hærri en 34.659 kr. á mánuði og skal hann þá með þeim tekjum sem umfram eru taka þátt í dvalarkostnaði, sbr. 1. mgr., frá þeim tíma sem greiðslur bóta frá Tryggingastofnun ríkisins falla niður.
+    2. Ef tekjur vistmanns á dvalarheimili skv. 1. tölul. 1. mgr. 14. gr. ná ekki 34.659 kr. á mánuði greiðir Tryggingastofnun ríkisins dvalarkostnað hans með vistunarframlagi, sbr. 1. mgr. 21. gr.
+    3. Nú á vistmaður maka og skulu þá tekjur vistmanns, sbr. 26. gr., skiptast að jöfnu milli vistmanns og maka. Séu tekjurnar eftir skiptinguna hærri en 34.659 kr. á mánuði skal hann standa straum af dvalarkostnaði, sbr. 1. mgr., með þeim tekjum sem umfram eru.][^1)^]
+    _[^1)^]_"L. 74/2002, 29. gr.":/altext/stjt/2002.074.html Ákvæði greinarinnar er snerta útreikning bóta á grundvelli tekna koma til framkvæmda við álagningu opinberra gjalda á árinu 2004 á tekjur ársins 2003, sbr. "36. gr. s.l.":/altext/stjt/2002.074.html
+ _[Innheimta dvalarkostnaðar.][^1)^]_
+    _[^1)^]"L. 74/2002, 29. gr.":/altext/stjt/2002.074.html_
+ ■ *23. gr.* [Daggjaldastofnun skv. 1. og 2. tölul. 1. mgr. 14. gr. skal innheimta hjá vistmanni sjálfum í byrjun hvers mánaðar daglegan hlut hans í dvalarkostnaði nýliðins mánaðar þegar hann tekur þátt í greiðslu dvalarkostnaðar skv. 22. gr. Þess skal ætíð gætt að vistmaður haldi eftir mánaðarlegu ráðstöfunarfé skv. 22. gr. Stofnun skal gera Tryggingastofnun ríkisins grein fyrir innheimtu vegna nýliðins mánaðar fyrir 15. dag næsta mánaðar. Nú vanrækir stofnun þessa innheimtu og er Tryggingastofnun þá heimilt að halda eftir samsvarandi hluta af mánaðarlegum greiðslum vistunarframlags til viðkomandi stofnunar.
+ □ Stofnun sem er á föstum fjárlögum skal innheimta hjá vistmanni sjálfum í byrjun hvers mánaðar hlut hans í dvalarkostnaði, sbr. 3. mgr., nýliðins mánaðar þegar hann tekur þátt í greiðslu dvalarkostnaðar skv. 22. gr. Tekjur þessar skulu færast í bókhald stofnunar sem sértekjur. Fjármálaráðuneyti er heimilt samkvæmt upplýsingum frá heilbrigðis- og tryggingamálaráðuneyti að halda eftir af beinum fjárframlögum samkvæmt fjárlögum upphæð sem svarar til þessara sértekna.
+ □ Heilbrigðis- og tryggingamálaráðherra skal ákveða hámark greiðsluþátttöku vistmanns í dvalarkostnaði á stofnun sem er á föstum fjárlögum. Við ákvörðun skal höfð hliðsjón af ákvörðun daggjalda eins og þau eru ákveðin skv. "39. gr. laga nr. 117/1993":1993117.html#g39, um almannatryggingar.][^1)^]
+    _[^1)^]"L. 74/2002, 29. gr.":/altext/stjt/2002.074.html Ákvæði greinarinnar er snerta útreikning bóta á grundvelli tekna koma til framkvæmda við álagningu opinberra gjalda á árinu 2004 á tekjur ársins 2003, sbr. "36. gr. s.l.":/altext/stjt/2002.074.html_
+ _[Vasapeningar.][^1)^]_
+    _[^1)^]"L. 74/2002, 29. gr.":/altext/stjt/2002.074.html_
+ ■ *[24. gr.* Tryggingastofnun ríkisins er heimilt að greiða vistmanni á stofnun fyrir aldraða vasapeninga skv. "43. gr. laga nr. 117/1993":1993117.html#g43, um almannatryggingar, með síðari breytingum.][^1)^]
+    _[^1)^]"L. 74/2002, 29. gr.":/altext/stjt/2002.074.html_
+ ■ *[25. gr.][^1)^]* Kostnaður af rekstri heimaþjónustu skiptist þannig að sveitarfélög bera kostnað af félagslegum þætti hennar en ríkissjóður af heilbrigðisþættinum.
  □ Sveitarstjórnir geta ákveðið greiðsluþátttöku einstaklinga í þeirri heimaþjónustu sem þær veita, sbr. lög um félagsþjónustu sveitarfélaga.
  □ Undanþegnir gjaldskyldu vegna heimaþjónustu skulu þeir sem ekki hafa aðrar tekjur en ellilífeyri og tekjutryggingu samkvæmt almannatryggingalögum.
+    _[^1)^]_"L. 74/2002, 30. gr.":/altext/stjt/2002.074.html
+ _[Skilgreining á tekjum o.fl.][^1)^]_
+    _[^1)^]"L. 74/2002, 31. gr.":/altext/stjt/2002.074.html_
+ ■ *[26. gr.* Til tekna teljast samkvæmt þessum kafla tekjur skv. "II. kafla laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, með síðari breytingum, að teknu tilliti til ákvæða "28. gr. sömu laga":1981075.html#g28 um hvað ekki telst til tekna og frádráttarliða skv. 1., 3., 5. og 6. tölul. A-liðar 1. mgr. 30. gr. og "31. gr. sömu laga":1981075.html#g31 eða undantekninga og takmarkana samkvæmt öðrum sérlögum. Við ákvörðun tekjugrundvallar skulu þó tekjur skv. C-lið "7. gr. laga nr. 75/1981":1981075.html#g7, um tekjuskatt og eignarskatt, með síðari breytingum, metnar að 50 hundraðshlutum við útreikning á vistunarframlagi skv. 21. gr., sbr. og 22. gr.
+ □ Þrátt fyrir 1. mgr. teljast ekki til tekna bætur frá lífeyristryggingum almannatrygginga, bætur samkvæmt lögum um félagslega aðstoð, húsaleigubætur, fjárhagsaðstoð sveitarfélaga og bætur frá ríkjum sem Ísland hefur gert samninga við skv. "64. gr. laga nr. 117/1993":1993117.html#g64, um almannatryggingar.
+ □ Tryggingastofnun ríkisins skal annast framkvæmd útreiknings á tekjum skv. 21. og 22. gr. og 1. og 2. mgr. þessarar greinar og greiðir stofnunum vistunarframlag skv. 1. mgr. 21. gr.
+ □ Tekjumörk skv. 22. gr. breytast í samræmi við breytingar á tekjutryggingu skv. "17. gr. laga nr. 117/1993":1993117.html#g17, um almannatryggingar, með síðari breytingum.
+ □ Til grundvallar útreikningi á vistunarframlagi hvers mánaðar skal leggja [^1^]/12 af áætluðum tekjum greiðsluársins að teknu tilliti til innheimtuhlutfalls staðgreiðslu og persónuafsláttar viðkomandi staðgreiðsluárs. Greiðsluár er almanaksár. Áætlun um tekjuupplýsingar skal byggjast á nýjustu upplýsingum frá skattyfirvöldum, umsækjanda og vistmanni. Þegar endanlegar upplýsingar um tekjur greiðsluársins liggja fyrir við álagningu skattyfirvalda á opinberum gjöldum skal Tryggingastofnun ríkisins endurreikna fjárhæðir á grundvelli tekna skv. 1. og 2. mgr. Við þann endurreikning er Tryggingastofnun heimilt að taka tillit til almennra breytinga á launum frá þeim tíma sem áætlaðar tekjur vistmanns tilheyra til þess tíma sem endanlegar tekjur varða. Komi í ljós að vistunarframlag hafi verið vangreitt skal stofnun greitt það sem upp á vantar. Ef vistunarframlag hefur verið ofgreitt af Tryggingastofnun ríkisins skal um endurheimtu á ofgreiðslum fara skv. "50. gr. laga nr. 117/1993":1993117.html#g50, um almannatryggingar, með síðari breytingum, eftir því sem við á. Tryggingastofnun skal upplýsa umsækjanda eða vistmann um forsendur útreiknings og gefa kost á að koma að athugasemdum.
+ □ Ef um nýja umsókn um vistunarframlag er að ræða skal Tryggingastofnun áætla tekjur vistmanns á grundvelli upplýsinga frá skattyfirvöldum og vistmanni og skulu tekjur síðastliðið ár og það sem af er yfirstandandi ári fram að þeim tíma er umsókn barst Tryggingastofnun hafðar til hliðsjónar.
+ □ Um upplýsingaskyldu varðandi tekjur fer skv. "47. gr. laga nr. 117/1993":1993117.html#g47, um almannatryggingar, með síðari breytingum.
+ □ Þegar nýr vistmaður kemur til dvalar á stofnun skv. 1. og 2. tölul. 1. mgr. 14. gr. skulu stjórnendur stofnunarinnar óska eftir því við Tryggingastofnun að hún kanni hvort viðkomandi skuli taka þátt í greiðslu dvalarkostnaðar, sbr. 3. mgr. 21. gr. og 23. gr.][^1)^]
+    _[^1)^]_"L. 74/2002, 31. gr.":/altext/stjt/2002.074.html Ákvæði greinarinnar er snerta útreikning bóta á grundvelli tekna koma til framkvæmda við álagningu opinberra gjalda á árinu 2004 á tekjur ársins 2003. Ákvæði 4. - 6. málsl. 5. mgr. og 6. mgr. koma til framkvæmda 1. september 2004, sbr. "36. gr. l. 74/2002":/altext/stjt/2002.074.html.
 
  *VI. kafli.* *Ýmis ákvæði.*
-■ *25. gr.* Þær stofnanir fyrir aldraða, sem starfandi eru við gildistöku þessara laga, skulu í hvívetna háðar ákvæðum þeirra.
-■ *26. gr.* Heilbrigðis- og tryggingamálaráðherra setur með reglugerð[^1)^] nánari ákvæði um framkvæmd laga þessara, m.a. um húsnæði, búnað stofnana fyrir aldraða og aðbúnað og þjónustu fyrir vistmenn, svo og starfsfólk stofnana eftir starfsemi þeirra.
-    _[^1)^]_"Rg. 47/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/047-1990 (um stofnanaþjónustu fyrir aldraða), sbr. "291/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/291-1990, "322/1991":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/322-1991, "236/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-1993, "561/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/561-1997, "570/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/570-1998, "631/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/631-2000 og "658/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/658-2001. "Rg. 791/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/791-2001 (um þjónustuhóp aldraðra og vistunarmat).
- ■ *27. gr.* Lög þessi öðlast þegar gildi. ...
+ ■ *[27. gr.* Starfsmenn stofnana skv. 1. tölul. 14. gr. skulu gæta þagmælsku um heilsufar, ástand og aðrar persónulegar upplýsingar vistmanna. Þagnarskyldan helst þótt vistmaður andist og þótt starfsmaður láti af störfum. Um þagmælsku starfsmanna á stofnunum skv. 2. tölul. 14. gr. fer samkvæmt lögum um réttindi sjúklinga.][^1)^]
+    _[^1)^]_"L. 74/2002, 32. gr.":/altext/stjt/2002.074.html
+ ■ *[28. gr.][^1)^]* Þær stofnanir fyrir aldraða, sem starfandi eru við gildistöku þessara laga, skulu í hvívetna háðar ákvæðum þeirra.
+    _[^1)^]_"L. 74/2002, 32. gr.":/altext/stjt/2002.074.html
+ ■ *[29. gr.][^1)^]* Heilbrigðis- og tryggingamálaráðherra setur með reglugerð[^2)^] nánari ákvæði um framkvæmd laga þessara, m.a. um húsnæði, búnað stofnana fyrir aldraða og aðbúnað og þjónustu fyrir vistmenn, svo og starfsfólk stofnana eftir starfsemi þeirra.
+    _[^1)^]_"L. 74/2002, 32. gr.":/altext/stjt/2002.074.html [^2)^]"Rg. 47/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/047-1990 (um stofnanaþjónustu fyrir aldraða), sbr. "291/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/291-1990, "322/1991":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/322-1991, "236/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-1993, "561/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/561-1997, "570/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/570-1998, "631/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/631-2000 og "658/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/658-2001. "Rg. 791/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/791-2001 (um þjónustuhóp aldraðra og vistunarmat).
+ ■ *[30. gr.][^1)^]* Lög þessi öðlast þegar gildi. ...
+    _[^1)^]_"L. 74/2002, 32. gr.":/altext/stjt/2002.074.html
 
 
 

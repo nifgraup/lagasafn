@@ -6,6 +6,8 @@ h2. Lög um ársreikninga
 
 <hr />
 
+*Tóku gildi 1. janúar 1995.* Breytt með "l. 37/1995":/altext/stjt/1995.037.html (tóku gildi 9. mars 1995), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 58/2001":/altext/stjt/2001.058.html (tóku gildi 13. júní 2001), "l. 133/2001":/altext/stjt/2001.133.html (tóku gildi í samræmi við fyrirmæli 56. gr. laganna) og "l. 25/2002":/altext/stjt/2002.025.html (tóku gildi 8. apríl 2002 og komu til framkvæmda frá 1. jan. 2002).
+
 
  *I. kafli.* *Almenn ákvæði.*
  _Gildissvið og skilgreiningar._
@@ -64,8 +66,24 @@ h2. Lög um ársreikninga
  □ Efnahagsreikningur og rekstrarreikningur skulu settir upp með hliðstæðum hætti frá ári til árs nema sérstakar aðstæður gefi tilefni til annars. Breytingar skulu tilgreindar og rökstuddar í skýringum.
  □ Víkja má frá ákvæðum laga þessara um uppsetningu efnahagsreiknings eða rekstrarreiknings ef þau leiða til þess að ársreikningur eða samstæðureikningur gefur villandi eða óskýra mynd af rekstrarafkomu eða efnahag félags eða félagasamstæðu.
 ■ *11. gr.* Í ársreikningum og samstæðureikningum, sem samdir eru samkvæmt ákvæðum laga þessara, skulu fjárhæðir tilgreindar í íslenskum krónum.
+ □ [Þrátt fyrir ákvæði 1. mgr. geta félög, sbr. 1. mgr. 1. gr., fengið heimild til að færa bókhaldsbækur í erlendum gjaldmiðli og semja og birta ársreikning í þeim gjaldmiðli. Birti félag ársreikning sinn jafnframt í íslenskum krónum skal í skýringum geta um hvaða aðferðum er beitt við samningu ársreikningsins. Texti ársreiknings hjá félagi sem heimild hefur til færslu bókhalds og gerð ársreikninga í erlendum gjaldmiðli skal vera á íslensku, dönsku eða ensku.][^1)^]
  □ Ef getið er tölulegra upplýsinga í ársreikningum eða samstæðureikningum í annarri mynt en hinni upphaflegu skal það gert á því gengi sem við átti á reikningsskiladegi. Tilgreina skal það gengi sem við er miðað.
-■ *12. gr.* Óheimilt er að fella saman eignir og skuldir eða tekjur og gjöld innan einstakra liða.
+    _[^1)^]_"L. 25/2002, 4. gr.":/altext/stjt/2002.025.html
+ ■ *[11. gr. A.* Ársreikningaskrá veitir heimild til færslu bókhalds og samningar ársreiknings í erlendum gjaldmiðli. Félög sem uppfylla eitt eða fleiri eftirtalinna skilyrða geta sótt um slíka heimild:
+    1. Félög sem eru með meginstarfsemi sína erlendis eða eru hluti erlendrar félagasamstæðu þar sem starfrækslugjaldmiðill er annar en íslensk króna.
+    2. Félög sem eiga erlend dótturfélög eða hlutdeild í erlendum félögum og meginviðskipti eru við þessi félög.
+    3. Félög sem hafa meginstarfsemi sína hér á landi en eru með verulegan hluta viðskipta í öðrum gjaldmiðli en íslenskum krónum, enda teljist hann vera starfrækslugjaldmiðill samkvæmt góðri reikningsskilavenju.
+    4. Félög sem hafa verulegan hluta fjárfestinga sinna og skulda þeim tengdra skráðan í erlendum gjaldmiðlum, enda fari þau fram úr þeim stærðarmörkum sem tilgreind eru í 1. mgr. 6. gr.
+ □ Starfrækslugjaldmiðill er sá gjaldmiðill sem meginhluti viðskipta félags eða félagasamstæðu fer fram í. Starfrækslugjaldmiðill skal vera skráður hjá Seðlabanka Íslands eða viðskiptabanka félagsins hér á landi.
+ □ Ráðherra getur sett reglugerð um nánari skilyrði fyrir veitingu heimildar samkvæmt þessari grein.][^1)^]
+    _[^1)^]_"L. 25/2002, 5. gr.":/altext/stjt/2002.025.html
+ ■ *[11. gr. B.* Umsókn um heimild til færslu bókhalds og samningar ársreiknings í erlendum gjaldmiðli skal berast ársreikningaskrá tveimur mánuðum fyrir upphaf viðkomandi reikningsárs.
+ □ Félag sem fengið hefur heimild til færslu bókhalds og samningar ársreiknings í erlendum gjaldmiðli skv. 2. mgr. 11. gr. skal viðhalda þeirri aðferð í að minnsta kosti fimm ár nema það uppfylli ekki lengur skilyrði 11. gr. A.
+ □ Telji félag sig ekki lengur uppfylla skilyrði 11. gr. A ber því að tilkynna ársreikningaskrá um það. Að fenginni heimild ársreikningaskrár skal það færa bókhald sitt og semja ársreikning í íslenskum krónum miðað við næsta reikningsár.
+ □ Ársreikningaskrá skal hafa eftirlit með því að félög sem fengið hafa heimild skv. 1. mgr. uppfylli skilyrði 11. gr. A, sbr. 78. gr.
+ □ Uppfylli félag ekki skilyrði 11. gr. A skal ársreikningaskrá afturkalla heimild til færslu bókhalds og samningar ársreiknings í erlendum gjaldmiðli við upphaf næsta reikningsárs. Ársreikningaskrá getur veitt félagi frest í tvö reikningsár telji hún ástandið tímabundið.][^1)^]
+    _[^1)^]_"L. 25/2002, 5. gr.":/altext/stjt/2002.025.html
+ ■ *12. gr.* Óheimilt er að fella saman eignir og skuldir eða tekjur og gjöld innan einstakra liða.
 
  *II. kafli.* *Efnahagsreikningur og rekstrarreikningur.*
 ■ *13. gr.* Eignir, sem ætlaðar eru til varanlegrar eignar eða notkunar, teljast fastafjármunir. Eignir, sem eru ekki ætlaðar til varanlegrar eignar eða notkunar, teljast veltufjármunir.
@@ -320,8 +338,8 @@ h2. Lög um ársreikninga
  ■ *[89. gr.][^1)^]* Ráðherra getur sett reglugerð[^2)^] um framkvæmd laga þessara, þar á meðal um uppsetningu ársreikninga og samstæðureikninga, óstyttra og samandreginna, svo og um skil á þeim og birtingu þeirra.
  □ Viðmiðunarmörkin í 1. og 2. tölul. 2. mgr. 2. gr. og 1. og 2. tölul. 6. gr., svo og 59. gr. og 77. gr., eru grunnfjárhæðir sem miðast við gengi í ECU 1. janúar 1995. Ráðherra er heimilt að breyta þessum fjárhæðum til samræmis við breytingar á 4. tilskipun ESB eða ef verulegar breytingar verða á gengi ECU.[^3)^]
     _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]"Rg. 134/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/134-1996, "rg. 523/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/523-2001. [^3)^]"Rg. 242/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/242-2000.
- ■ *[90. gr.][^1)^]* ...[^2)^]
-    _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]"L. 37/1995, 4. gr.":/altext/stjt/1995.037.html
+ ■ *[90. gr.][^1)^]* [Félög sem fengið hafa heimild til að semja ársreikning í erlendum gjaldmiðli, sbr. 11. gr. A, skulu umreikna fjárhæðir í efnahagsreikningi fyrra árs á lokagengi þess árs. Þó er heimilt að umreikna efnahagsliði, aðra en peningalegar eignir og skuldir, svo sem varanlega rekstrarfjármuni og eignarhluti, á upphaflegu kaupgengi. Jafnframt er heimilt að umreikna innborgað hlutafé eða stofnfé á því gengi sem gilti þegar innborganir fóru fram. Við umreikninginn skal lögbundinn varasjóður nema sama hlutfalli af hlutafé í erlendum gjaldmiðli og hann nam í íslenskum krónum. Hinar umreiknuðu fjárhæðir mynda upphafsstærðir í bókhaldi í erlendum gjaldmiðli og skal gera grein fyrir umreikningsaðferðum í skýringum við ársreikning.][^2)^]
+    _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]"L. 25/2002, 6. gr.":/altext/stjt/2002.025.html
  ■ *[91. gr.][^1)^]* Lög þessi öðlast gildi 1. janúar 1995 og skulu gilda um ársreikninga og samstæðureikninga fyrir hvert það reikningsár sem hefst frá og með þeim tíma.
     _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html
  ■ *[92. gr.][^1)^]* ...
@@ -330,7 +348,9 @@ h2. Lög um ársreikninga
  *Ákvæði til bráðabirgða.*
  ■ *[I.* Við fyrstu reikningsskil eftir gildistöku laga þessara skal leysa upp endurmatsreikning sem myndaður hefur verið skv. a-lið 1. mgr. 25. gr. og færa með öðru óráðstöfuðu eigin fé félagsins.][^1)^]
     _[^1)^]_"L. 133/2001, 53. gr.":/altext/stjt/2001.133.html Breytingin kemur til framkvæmda við álagningu á árinu 2003, sbr. "56. gr. s.l.":/altext/stjt/2001.133.html
- ■ *[II.* Félögum skv. 1. mgr. 1. gr. er heimilt að taka tillit til áhrifa almennra verðlagsbreytinga við gerð ársreikninga vegna reikningsára sem hefjast á árunum 2002 og 2003 í samræmi við a-lið 1. mgr. 25. gr., sbr. 3. mgr. sömu greinar fyrir gildistöku laga þessara.][^1)^]   _[^1)^]_"L. 133/2001, 53. gr.":/altext/stjt/2001.133.html Breytingin kemur til framkvæmda við álagningu á árinu 2003, sbr. "56. gr. s.l.":/altext/stjt/2001.133.html
-
+ ■ *[II.* Félögum skv. 1. mgr. 1. gr. er heimilt að taka tillit til áhrifa almennra verðlagsbreytinga við gerð ársreikninga vegna reikningsára sem hefjast á árunum 2002 og 2003 í samræmi við a-lið 1. mgr. 25. gr., sbr. 3. mgr. sömu greinar fyrir gildistöku laga þessara.][^1)^]
+    _[^1)^]_"L. 133/2001, 53. gr.":/altext/stjt/2001.133.html Breytingin kemur til framkvæmda við álagningu á árinu 2003, sbr. "56. gr. s.l.":/altext/stjt/2001.133.html
+ ■ *[III.* Félög, sem óska eftir að færa bókhald og semja ársreikning vegna reikningsársins 2002 í erlendum gjaldmiðli, hafa frest til 30. apríl 2002 til að sækja um slíka heimild.][^1)^]
+    _[^1)^]_"L. 25/2002, 7. gr.":/altext/stjt/2002.025.html
 
 

@@ -1,38 +1,22 @@
-<table>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<tbody>
-<tr class="odd">
-<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
-<td align="left"></td>
-<td align="left">h3. 
- 17. Löggæsla og almannavarnir
-</td>
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
+h2. 17. Löggæsla og almannavarnir
 
+h3. 17.a. Stofnanir löggæslu og lögreglumenn
 
- 17.a. Stofnanir löggæslu og lögreglumenn
+* Lögreglulög, "nr. 90 13. júní 1996":http://www.althingi.is/lagas/127b/1996090.html
+* Lög um Landhelgisgæslu Íslands, "nr. 25 22. apríl 1967":http://www.althingi.is/lagas/127b/1967025.html
 
-|!/img/box_green2.gif!|Lögreglulög, "nr. 90 13. júní 1996":http://www.althingi.is/lagasofn/127a/1996090.html|
-|!/img/box_green2.gif!|Lög um Landhelgisgæslu Íslands, "nr. 25 22. apríl 1967":http://www.althingi.is/lagasofn/127a/1967025.html|
+h3. 17.b. Lögreglumál
 
+* Lög um lögreglusamþykktir, "nr. 36 18. maí 1988":http://www.althingi.is/lagas/127b/1988036.html
+* Vopnalög, "nr. 16 25. mars 1998":http://www.althingi.is/lagas/127b/1998016.html
+* Lög um erfðaefnisskrá lögreglu, "nr. 88 31. maí 2001":http://www.althingi.is/lagas/127b/2001088.html
 
- 17.b. Lögreglumál
+h3. 17.c. Almannavarnir o.fl.
 
-|!/img/box_green2.gif!|Lög um lögreglusamþykktir, "nr. 36 18. maí 1988":http://www.althingi.is/lagasofn/127a/1988036.html|
-|!/img/box_green2.gif!|Vopnalög, "nr. 16 25. mars 1998":http://www.althingi.is/lagasofn/127a/1998016.html|
-|!/img/box_green2.gif!|Lög um erfðaefnisskrá lögreglu, "nr. 88 31. maí 2001":http://www.althingi.is/lagas/127a/2001088.html|
+* Lög um almannavarnir, "nr. 94 29. desember 1962":http://www.althingi.is/lagas/127b/1962094.html
+* Lög um samræmda neyðarsímsvörun, "nr. 25 3. mars 1995":http://www.althingi.is/lagas/127b/1995025.html
+* Lög um varnir gegn snjóflóðum og skriðuföllum, "nr. 49 23. maí 1997":http://www.althingi.is/lagas/127b/1997049.html
+* Lög um öryggisþjónustu, "nr. 58 22. maí 1997":http://www.althingi.is/lagas/127b/1997058.html
 
-
- 17.c. Almannavarnir o.fl.
-
-|!/img/box_green2.gif!|Lög um almannavarnir, "nr. 94 29. desember 1962":http://www.althingi.is/lagasofn/127a/1962094.html|
-|!/img/box_green2.gif!|Lög um samræmda neyðarsímsvörun, "nr. 25 3. mars 1995":http://www.althingi.is/lagasofn/127a/1995025.html|
-|!/img/box_green2.gif!|Lög um varnir gegn snjóflóðum og skriðuföllum, "nr. 49 23. maí 1997":http://www.althingi.is/lagasofn/127a/1997049.html|
-|!/img/box_green2.gif!|Lög um öryggisþjónustu, "nr. 58 22. maí 1997":http://www.althingi.is/lagasofn/127a/1997058.html|
+h4. "Kaflar lagasafns":kaflar.html
 

@@ -1,23 +1,8 @@
-<table>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<tbody>
-<tr class="odd">
-<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
-<td align="left"></td>
-<td align="left">h3. 
- 23. Fjölmiðlun
-</td>
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
+h2. 23. Fjölmiðlun
 
+* Lög um prentrétt, "nr. 57 10. apríl 1956":http://www.althingi.is/lagas/127b/1956057.html
+* Útvarpslög, "nr. 53 17. maí 2000":http://www.althingi.is/lagas/127b/2000053.html
+* Lög um Ríkisútvarpið, "nr. 122 30. júní 2000":http://www.althingi.is/lagas/127b/2000122.html
 
-
-|!/img/box_green2.gif!|Lög um prentrétt, "nr. 57 10. apríl 1956":http://www.althingi.is/lagasofn/127a/1956057.html|
-|!/img/box_green2.gif!|Útvarpslög, "nr. 53 17. maí 2000":http://www.althingi.is/lagasofn/127a/2000053.html|
-|!/img/box_green2.gif!|Lög um Ríkisútvarpið, "nr. 122 30. júní 2000":http://www.althingi.is/lagasofn/127a/2000122.html|
+h4. "Kaflar lagasafns":kaflar.html
 

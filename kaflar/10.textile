@@ -1,47 +1,29 @@
-<table>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<tbody>
-<tr class="odd">
-<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
-<td align="left"></td>
-<td align="left">h3. 
- 10. Almannaskráning, hagskýrslur o.fl.
-</td>
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
+h2. 10. Almannaskráning, hagskýrslur o.fl.
 
+h3. 10.a. Stofnanir á sviði hagrannsókna
 
- 10.a. Stofnanir á sviði hagrannsókna
+* Lög um hagstofu Íslands, "nr. 24 20. október 1913":http://www.althingi.is/lagas/127b/1913024.html
 
-|!/img/box_green2.gif!|Lög um hagstofu Íslands, "nr. 24 20. október 1913":http://www.althingi.is/lagasofn/127a/1913024.html|
-|!/img/box_green2.gif!|Lög um Þjóðhagsstofnun, "nr. 54 21. maí 1974":http://www.althingi.is/lagasofn/127a/1974054.html|
+h3. 10.b. Þjóðskrá, manntal, lögheimili o.fl.
 
+* Lög um kirkju- og manntalsbækur (sálnaregistur), "nr. 3 12. janúar 1945":http://www.althingi.is/lagas/127b/1945003.html
+* Lög um tilkynningar aðsetursskipta, "nr. 73 25. nóvember 1952":http://www.althingi.is/lagas/127b/1952073.html
+* Lög um þjóðskrá og almannaskráningu, "nr. 54 27. apríl 1962":http://www.althingi.is/lagas/127b/1962054.html
+* Lög um fyrirtækjaskrá, "nr. 62 28. maí 1969":http://www.althingi.is/lagas/127b/1969062.html
+* Lög um manntal 31. janúar 1981, "nr. 76 19. desember 1980":http://www.althingi.is/lagas/127b/1980076.html
+* Lög um lögheimili, "nr. 21 5. maí 1990":http://www.althingi.is/lagas/127b/1990021.html
 
- 10.b. Þjóðskrá, manntal, lögheimili o.fl.
+h3. 10.c. Hagskýrslur o.fl.
 
-|!/img/box_green2.gif!|Lög um kirkju- og manntalsbækur (sálnaregistur), "nr. 3 12. janúar 1945":http://www.althingi.is/lagasofn/127a/1945003.html|
-|!/img/box_green2.gif!|Lög um tilkynningar aðsetursskipta, "nr. 73 25. nóvember 1952":http://www.althingi.is/lagasofn/127a/1952073.html|
-|!/img/box_green2.gif!|Lög um þjóðskrá og almannaskráningu, "nr. 54 27. apríl 1962":http://www.althingi.is/lagasofn/127a/1962054.html|
-|!/img/box_green2.gif!|Lög um fyrirtækjaskrá, "nr. 62 28. maí 1969":http://www.althingi.is/lagasofn/127a/1969062.html|
-|!/img/box_green2.gif!|Lög um manntal 31. janúar 1981, "nr. 76 19. desember 1980":http://www.althingi.is/lagasofn/127a/1980076.html|
-|!/img/box_green2.gif!|Lög um lögheimili, "nr. 21 5. maí 1990":http://www.althingi.is/lagasofn/127a/1990021.html|
+* Lög um hagfræðiskýrslur, "nr. 29 8. nóvember 1895":http://www.althingi.is/lagas/127b/1895029.html
+* Lög um verslunarskýrslur, "nr. 12 19. júní 1922":http://www.althingi.is/lagas/127b/1922012.html
+* Lög um viðauka við "lög nr. 29 8. nóvember 1895":http://www.althingi.is/lagas/127b/1895029.html, um hagfræðiskýrslur, "nr. 64 10. desember 1934":http://www.althingi.is/lagas/127b/1934064.html
 
+h3. 10.d. Tímatal
 
- 10.c. Hagskýrslur o.fl.
+* Alþingissamþykkt um almanaksbreytinguna, "1. júlí 1700":http://www.althingi.is/lagas/127b/1700017.html
+* Tilskipun um breytingu almanaksins á Íslandi og í Færeyjum, "10. apríl 1700":http://www.althingi.is/lagas/127b/1700104.html
+* Lög um tímareikning á Íslandi, "nr. 6 5. apríl 1968":http://www.althingi.is/lagas/127b/1968006.html
 
-|!/img/box_green2.gif!|Lög um hagfræðiskýrslur, "nr. 29 8. nóvember 1895":http://www.althingi.is/lagasofn/127a/1895029.html|
-|!/img/box_green2.gif!|Lög um verslunarskýrslur, "nr. 12 19. júní 1922":http://www.althingi.is/lagasofn/127a/1922012.html|
-|!/img/box_green2.gif!|Lög um viðauka við "lög nr. 29 8. nóvember 1895":http://www.althingi.is/lagasofn/127a/1895029.html, um hagfræðiskýrslur, "nr. 64 10. desember 1934":http://www.althingi.is/lagasofn/127a/1934064.html|
-
-
- 10.d. Tímatal
-
-|!/img/box_green2.gif!|Alþingissamþykkt um almanaksbreytinguna, "1. júlí 1700":http://www.althingi.is/lagasofn/127a/1700017.html|
-|!/img/box_green2.gif!|Tilskipun um breytingu almanaksins á Íslandi og í Færeyjum, "10. apríl 1700":http://www.althingi.is/lagasofn/127a/1700104.html|
-|!/img/box_green2.gif!|Lög um tímareikning á Íslandi, "nr. 6 5. apríl 1968":http://www.althingi.is/lagasofn/127a/1968006.html|
+h4. "Kaflar lagasafns":kaflar.html
 

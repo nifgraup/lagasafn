@@ -6,6 +6,8 @@ h2. Lög um bókhald
 
 <hr />
 
+*Tóku gildi 1. janúar 1995.* Breytt með "l. 37/1995":/altext/stjt/1995.037.html (tóku gildi 9. mars 1995), "l. 29/1997":/altext/stjt/1997.029.html (tóku gildi 16. maí 1997), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 133/2001":/altext/stjt/2001.133.html (tóku gildi 1. jan. 2002) og "l. 25/2002":/altext/stjt/2002.025.html (tóku gildi 8. apríl 2002 og komu til framkvæmda frá 1. jan. 2002).
+
 
  *I. kafli.* *Bókhaldsskylda.*
  ■ *1. gr.* Eftirtaldir aðilar eru bókhaldsskyldir:
@@ -64,8 +66,12 @@ h2. Lög um bókhald
     2. sundurliðunarbók, sbr. 14. gr.;
     3. ársreikningur, sbr. 22. gr.
  □ Í handfærðu bókhaldi eru kröfur skv. 2. tölul. 2. mgr. uppfylltar með færslu á viðeigandi bókhaldsreikninga í dagbók, sbr. 1. tölul. 2. mgr. Heimilt er að sameina sjóðbók og dagbók sem nefnist þá sjóðsdagbók. Sjóðbók og sjóðsdagbók skulu vera fyrir fram innbundnar og blaðsíðurnar tölusettar en færi aðili bæði sjóðbók og sjóðsdagbók má hin síðarnefnda vera lausblaðabók. Í handfærðu bókhaldi skal aðalbók vera fyrir fram innbundin og blaðsíðurnar tölusettar og færa má ársreikninginn í aðalbókina.
- □ Bókhaldsbækurnar skulu vera til staðar hér á landi. Skal texti þeirra vera á íslensku og fjárhæðir í íslenskum krónum.
-■ *11. gr.* Að jafnaði skal haga reikningaskipan í bókhaldinu þannig að færðir séu hreinir eigna- og skulda-, gjalda- og teknareikningar. Færa skal þá reikninga í bókhaldinu sem nauðsynlegt er til að eðlileg sundurliðun náist með tilliti til tegundar og stærðar starfseminnar.
+ □ ...[^1)^]
+    _[^1)^]_"L. 25/2002, 1. gr.":/altext/stjt/2002.025.html
+ ■ *[10. gr. A.* Bókhaldsbækur skulu vera til staðar hér á landi. Skal texti þeirra vera á íslensku og fjárhæðir í íslenskum krónum.
+ □ Þrátt fyrir ákvæði 1. mgr. geta félög, skv. 1. mgr. 1. gr. laga um ársreikninga, fengið heimild til að færa fjárhæðir í bókhaldsbækur í erlendum gjaldmiðli og semja ársreikning í þeim gjaldmiðli, sbr. 2. mgr. 11. gr. laga um ársreikninga. Texti í bókhaldsbókunum skal vera á íslensku, dönsku eða ensku.][^1)^]
+    _[^1)^]_"L. 25/2002, 2. gr.":/altext/stjt/2002.025.html
+ ■ *11. gr.* Að jafnaði skal haga reikningaskipan í bókhaldinu þannig að færðir séu hreinir eigna- og skulda-, gjalda- og teknareikningar. Færa skal þá reikninga í bókhaldinu sem nauðsynlegt er til að eðlileg sundurliðun náist með tilliti til tegundar og stærðar starfseminnar.
  □ Í stað sundurliðunar á skylda reikninga er heimilt að halda einn eða fáa reikninga í fjárhagsbókhaldinu en sundurliða þá í sérstöku undirkerfi. Slík undirkerfi skulu tengjast fjárhagsbókhaldinu á skýran og öruggan hátt um tiltekna reikninga sem eru ekki nýttir í öðrum tilgangi. Færslur, sem eiga uppruna sinn í slíkum undirkerfum, skulu færast í sérstaka dagbók og berast til fjárhagsbókhalds með reglubundnum og öruggum hætti. Við færslu í undirkerfi skal ætíð vísað til grunngagna.
  □ Eftir því sem aðstæður leyfa skal haga reikningaskipan þannig að nægilegt innra eftirlit skapist.
 ■ *12. gr.* Í aðalbók skal koma fram staða hvers einstaks bókhaldsreiknings í lok hvers bókhaldstímabils í samræmi við hreyfingalista eða dagbók í handfærðu bókhaldi. Samtölur aðalbókar skulu hverju sinni innifela allar færslur sem fram að því hafa verið gerðar á reikningsárinu.
@@ -93,9 +99,11 @@ h2. Lög um bókhald
 ■ *19. gr.* Fylgiskjöl með bókhaldinu skal tölusetja á reglubundinn hátt og til þeirra vísa við innfærslur í bækurnar. Þau skulu geymd í samfelldri töluröð.
  □ Hverjum bókhaldsskyldum aðila er skylt að geyma með skipulögðum hætti öll bréf, myndrit og skeyti er honum berast og hafa þýðingu í rekstri hans. Enn fremur skal halda eftir samritum af öllum þeim bréfum, myndritum og skeytum er hann sendir öðrum og hafa þýðingu í rekstri hans.
 ■ *20. gr.* Allar bækur, sem fyrirskipaðar eru í lögum þessum, ásamt bókhaldsgögnum og fylgiskjölum, svo og bréf, myndrit og skeyti eða samrit þeirra, þar með talin gögn sem varðveitt eru í tölvutæku formi, á örfilmu eða annan sambærilegan hátt, skulu varðveittar hér á landi á tryggan og öruggan hátt í sjö ár frá lokum viðkomandi reikningsárs. Þeim sem nota sjóðvélar er þó ekki skylt að varðveita innri strimla lengur en þrjú ár frá lokum viðkomandi reikningsárs enda liggi fyrir fullfrágengið bókhald og undirritaður ársreikningur.
- □ Ef tölvubúnaði, sem nauðsynlegur er til að kalla fram bókhaldsgögn, er breytt eða fargað ber að prenta gögnin í upprunalegu formi eða yfirfæra á nýjan miðil þannig að áfram verði unnt að kalla þau fram.
+ □ [Þrátt fyrir ákvæði 1. mgr. er félögum, sem fengið hafa heimild til að færa bókhald og semja ársreikning í erlendum gjaldmiðli skv. 1. mgr. 11. gr. A laga um ársreikninga, heimilt að varðveita gögn skv. 1. mgr. erlendis í allt að sex mánuði. Yfirvöld geta þó krafist aðgangs að þeim hér á landi og skal þeim þá skilað innan hæfilegs tíma. Bókhaldsgögn, sem eru á rafrænu formi, skulu ætíð vera aðgengileg yfirvöldum.][^1)^]
+ □ [Ef tölvubúnaði, sem nauðsynlegur er til að kalla fram bókhaldsgögn, er breytt eða fargað ber að yfirfæra bókhaldsgögnin á nýjan tölvutækan miðil þannig að áfram verði unnt að kalla þau fram.][^1)^]
  □ Ársreikning skal ætíð varðveita í 25 ár.
-■ *21. gr.* Allt, sem fært er í bækur eða á reikninga, skal vera skýrt og læsilegt með varanlegu letri. Eigi má eyða eða gera á annan hátt ólæsilegt það sem eitt sinn hefur verið í þær fært þótt fyrst hafi verið misfært af vangá. Þurfi að gera breytingu á færslu skal það gert með annarri færslu eða þannig að hin ranga færsla verði læsileg að leiðréttingu lokinni.
+    _[^1)^]_"L. 25/2002, 3. gr.":/altext/stjt/2002.025.html
+ ■ *21. gr.* Allt, sem fært er í bækur eða á reikninga, skal vera skýrt og læsilegt með varanlegu letri. Eigi má eyða eða gera á annan hátt ólæsilegt það sem eitt sinn hefur verið í þær fært þótt fyrst hafi verið misfært af vangá. Þurfi að gera breytingu á færslu skal það gert með annarri færslu eða þannig að hin ranga færsla verði læsileg að leiðréttingu lokinni.
  □ Leiðrétting á rangri færslu skal gerð með sérstöku fylgiskjali þar sem fram komi hvaða færslu er verið að leiðrétta og hvers vegna.
 
  *III. kafli.* *Ársreikningur.*

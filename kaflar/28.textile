@@ -1,63 +1,47 @@
-<table>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<tbody>
-<tr class="odd">
-<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
-<td align="left"></td>
-<td align="left">h3. 
- 28. Verslun og viðskipti
-</td>
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
+h2. 28. Verslun og viðskipti
 
+h3. 28.a. Heimildir til verslunar og viðskipta
 
- 28.a. Heimildir til verslunar og viðskipta
+* Lög um verslunaratvinnu, "nr. 28 8. apríl 1998":http://www.althingi.is/lagas/127b/1998028.html
+* Lög um breytingu á lögum nr. 28/1998, um verslunaratvinnu, með síðari breytingum "nr. 94 15. maí 2002":http://www.althingi.is/lagas/127b/2002094.html
+* Lög um verslun með áfengi og tóbak, "nr. 63 28. maí 1969":http://www.althingi.is/lagas/127b/1969063.html
+* Lög um umboðssöluviðskipti, "nr. 103 28. desember 1992":http://www.althingi.is/lagas/127b/1992103.html
+* Lög um fasteigna-, fyrirtækja- og skipasölu, "nr. 54 22. maí 1997":http://www.althingi.is/lagas/127b/1997054.html
+* Lög um bílaleigur, "nr. 64 20. maí 2000":http://www.althingi.is/lagas/127b/2000064.html
 
-|!/img/box_green2.gif!|Lög um verslunaratvinnu, "nr. 28 8. apríl 1998":http://www.althingi.is/lagasofn/127a/1998028.html|
-|!/img/box_green2.gif!|Lög um verslun með áfengi og tóbak, "nr. 63 28. maí 1969":http://www.althingi.is/lagasofn/127a/1969063.html|
-|!/img/box_green2.gif!|Lög um umboðssöluviðskipti, "nr. 103 28. desember 1992":http://www.althingi.is/lagasofn/127a/1992103.html|
-|!/img/box_green2.gif!|Lög um fasteigna-, fyrirtækja- og skipasölu, "nr. 54 22. maí 1997":http://www.althingi.is/lagasofn/127a/1997054.html|
-|!/img/box_green2.gif!|Lög um bílaleigur, "nr. 64 20. maí 2000":http://www.althingi.is/lagasofn/127a/2000064.html|
+h3. 28.b. Smásöluverslun og verslunarvarningur
 
+* Lög um merkingar og upplýsingaskyldu varðandi orkunotkun heimilistækja o.fl., "nr. 72 11. maí 1994":http://www.althingi.is/lagas/127b/1994072.html
+* Lög um matvæli, "nr. 93 28. júní 1995":http://www.althingi.is/lagas/127b/1995093.html
+* Lög um öryggi vöru og opinbera markaðsgæslu, "nr. 134 22. desember 1995":http://www.althingi.is/lagas/127b/1995134.html
+* Lög um orkunýtnikröfur, "nr. 51 17. maí 2000":http://www.althingi.is/lagas/127b/2000051.html
 
- 28.b. Smásöluverslun og verslunarvarningur
+h3. 28.c. Útflutningsverslun
 
-|!/img/box_green2.gif!|Lög um merkingar og upplýsingaskyldu varðandi orkunotkun heimilistækja o.fl., "nr. 72 11. maí 1994":http://www.althingi.is/lagasofn/127a/1994072.html|
-|!/img/box_green2.gif!|Lög um matvæli, "nr. 93 28. júní 1995":http://www.althingi.is/lagasofn/127a/1995093.html|
-|!/img/box_green2.gif!|Lög um öryggi vöru og opinbera markaðsgæslu, "nr. 134 22. desember 1995":http://www.althingi.is/lagasofn/127a/1995134.html|
-|!/img/box_green2.gif!|Lög um orkunýtnikröfur, "nr. 51 17. maí 2000":http://www.althingi.is/lagasofn/127a/2000051.html|
+* Lög um ábyrgð ríkissjóðs vegna viðskipta við lönd, sem versla á jafnvirðis- og vöruskiptagrundvelli, "nr. 104 27. desember 1952":http://www.althingi.is/lagas/127b/1952104.html
+* Lög um útflutningsleyfi o.fl., "nr. 4 11. janúar 1988":http://www.althingi.is/lagas/127b/1988004.html
+* Lög um Útflutningsráð Íslands, "nr. 114 31. desember 1990":http://www.althingi.is/lagas/127b/1990114.html
 
+h3. 28.d. Innflutningsverslun
 
- 28.c. Útflutningsverslun
+* Lög um innflutning, "nr. 88 17. nóvember 1992":http://www.althingi.is/lagas/127b/1992088.html
+* Lög um siglingar og verslun á Íslandi, "15. apríl 1854":http://www.althingi.is/lagas/127b/1854154.html
 
-|!/img/box_green2.gif!|Lög um ábyrgð ríkissjóðs vegna viðskipta við lönd, sem versla á jafnvirðis- og vöruskiptagrundvelli, "nr. 104 27. desember 1952":http://www.althingi.is/lagasofn/127a/1952104.html|
-|!/img/box_green2.gif!|Lög um útflutningsleyfi o.fl., "nr. 4 11. janúar 1988":http://www.althingi.is/lagasofn/127a/1988004.html|
-|!/img/box_green2.gif!|Lög um Útflutningsráð Íslands, "nr. 114 31. desember 1990":http://www.althingi.is/lagasofn/127a/1990114.html|
+h3. 28.e. Samkeppnismál
 
+* Samkeppnislög, "nr. 8 25. febrúar 1993":http://www.althingi.is/lagas/127b/1993008.html
+* Lög um stjórn efnahagsmála o.fl., "nr. 13 10. apríl 1979":http://www.althingi.is/lagas/127b/1979013.401.html
 
- 28.d. Innflutningsverslun
+h3. 28.f. Ýmis lög varðandi verslun og viðskipti
 
-|!/img/box_green2.gif!|Lög um innflutning, "nr. 88 17. nóvember 1992":http://www.althingi.is/lagasofn/127a/1992088.html|
-|!/img/box_green2.gif!|Lög um siglingar og verslun á Íslandi, "15. apríl 1854":http://www.althingi.is/lagasofn/127a/1854154.html|
+* Lög um staðla, "nr. 97 7. desember 1992":http://www.althingi.is/lagas/127b/1992097.html
+* Lög um vog, mál og faggildingu, "nr. 100 16. desember 1992":http://www.althingi.is/lagas/127b/1992100.html
+* Lög um neytendalán, "nr. 121 21. september 1994":http://www.althingi.is/lagas/127b/1994121.html
+* Lög um Löggildingarstofu, "nr. 155 27. desember 1996":http://www.althingi.is/lagas/127b/1996155.html
+* Lög um framkvæmd samnings um alþjóðaverslun með tegundir villtra dýra og plantna sem eru í útrýmingarhættu, "nr. 85 23. maí 2000":http://www.althingi.is/lagas/127b/2000085.html
+* Lög um rafrænar undirskriftir, "nr. 28 7. maí 2001":http://www.althingi.is/lagas/127b/2001028.html
+* Lög um rafræn viðskipti og aðra rafræna þjónustu "nr. 30 16. apríl 2002":http://www.althingi.is/lagas/127b/2002030.html
+* Lög um vörur unnar úr eðalmálmum "nr. 77 8. maí 2002":http://www.althingi.is/lagas/127b/2002077.html
 
-
- 28.e. Samkeppnismál
-
-|!/img/box_green2.gif!|Samkeppnislög, "nr. 8 25. febrúar 1993":http://www.althingi.is/lagasofn/127a/1993008.html|
-|!/img/box_green2.gif!|Lög um stjórn efnahagsmála o.fl., "nr. 13 10. apríl 1979":http://www.althingi.is/lagasofn/127a/1979013.401.html|
-
-
- 28.f. Ýmis lög varðandi verslun og viðskipti
-
-|!/img/box_green2.gif!|Lög um staðla, "nr. 97 7. desember 1992":http://www.althingi.is/lagasofn/127a/1992097.html|
-|!/img/box_green2.gif!|Lög um vog, mál og faggildingu, "nr. 100 16. desember 1992":http://www.althingi.is/lagasofn/127a/1992100.html|
-|!/img/box_green2.gif!|Lög um neytendalán, "nr. 121 21. september 1994":http://www.althingi.is/lagasofn/127a/1994121.html|
-|!/img/box_green2.gif!|Lög um Löggildingarstofu, "nr. 155 27. desember 1996":http://www.althingi.is/lagasofn/127a/1996155.html|
-|!/img/box_green2.gif!|Lög um framkvæmd samnings um alþjóðaverslun með tegundir villtra dýra og plantna sem eru í útrýmingarhættu, "nr. 85 23. maí 2000":http://www.althingi.is/lagasofn/127a/2000085.html|
-|!/img/box_green2.gif!|Lög um rafrænar undirskriftir, "nr. 28 7. maí 2001":http://www.althingi.is/lagas/127a/2001028.html|
+h4. "Kaflar lagasafns":kaflar.html
 

@@ -6,8 +6,8 @@ h2. Lög um fjarskipti
 
 <hr />
 
-*Tóku gildi 1. janúar 2000.*
- _Breytt með "l. 29/2001":/altext/stjt/2001.029.html (tóku gildi 16. maí 2001), "l. 72/2001":/altext/stjt/2001.072.html (tóku gildi 13. júní 2001) og "l. 145/2001":/altext/stjt/2001.145.html (tóku gildi 31. des. 2001)._
+*Tóku gildi 1. janúar 2000.* Breytt með "l. 29/2001":/altext/stjt/2001.029.html (tóku gildi 16. maí 2001), "l. 72/2001":/altext/stjt/2001.072.html (tóku gildi 13. júní 2001) og "l. 145/2001":/altext/stjt/2001.145.html (tóku gildi 31. des. 2001).
+
 
  *I. kafli.* *Skipulag fjarskipta.*
  ■ *1. gr.* _Markmið og gildissvið._
@@ -58,7 +58,7 @@ h2. Lög um fjarskipti
  □ Einstaklingar og lögaðilar sem uppfylla skilyrði laga þessara skulu hafa almenna heimild til að veita fjarskiptaþjónustu. Fjarskiptafyrirtæki sem hyggst starfa í samræmi við almenna heimild skal tilkynna það Póst- og fjarskiptastofnun a.m.k. fjórum vikum áður en starfsemi hefst og veita upplýsingar um starfsemi sína. Póst- og fjarskiptastofnun skal tilkynna fjarskiptafyrirtækinu eigi síðar en fjórum vikum eftir móttöku fullnægjandi tilkynningar hvort fyrirtækinu verði sett sérstök skilyrði, sbr. 7. og 8. gr.
  □ Póst- og fjarskiptastofnun skal halda skrá yfir öll fjarskiptafyrirtæki sem hafa tilkynnt að þau muni starfa samkvæmt almennri heimild.
 ■ *6. gr.* _Skilyrði almennrar heimildar._
- □ Póst- og fjarskiptastofnun skal setja skilyrði sem gilda um almennar heimildir. Skilyrði skulu vera hlutlæg, skýr og þannig að jafnræðis sé gætt.
+ □ Póst- og fjarskiptastofnun skal setja skilyrði sem gilda um almennar heimildir.[^1)^] Skilyrði skulu vera hlutlæg, skýr og þannig að jafnræðis sé gætt.
  □ Skilyrði geta verið eitt eða fleiri af eftirtöldum:
     a. að fylgt sé viðeigandi grunnkröfum,
     b. að veittar séu upplýsingar sem sanngjarnt er að krefjast til þess að ganga úr skugga um að farið sé eftir settum skilyrðum og til söfnunar á tölfræðilegum upplýsingum,
@@ -76,7 +76,8 @@ h2. Lög um fjarskipti
     e. um sérstaka tilhögun fyrir fatlaða,
     f. um samtengingu fjarskiptaneta og gagnkvæma starfrækslu þjónustu milli neta,
     g. um almannaheill, allsherjarreglu og rannsókn opinberra mála.
-■ *7. gr.* _Rekstrarleyfi._
+    _[^1)^]_"Rgl. 86/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/086-2002.
+ ■ *7. gr.* _Rekstrarleyfi._
  □ Póst- og fjarskiptastofnun er heimilt að krefjast þess að einstaklingar eða lögaðilar sæki um rekstrarleyfi í eftirfarandi tilvikum:
     a. þegar óskað er afnota af tíðnum eða númerum,
     b. þegar óskað er sérstakra réttinda að því er varðar aðgang að almenningum, afréttum og eignarlöndum,
@@ -163,8 +164,8 @@ h2. Lög um fjarskipti
 ■ *20. gr.* _Aðgangur að heimtaug._
  □ [Rekstrarleyfishafar með umtalsverða markaðshlutdeild í almennum fastasímanetum og talsímaþjónustu skulu verða við öllum réttmætum og sanngjörnum beiðnum fjarskiptafyrirtækja um aðgang að heimtaugum og aðstöðu er slíkum aðgangi tengist. Gjöld fyrir aðgang og aðstöðu skulu byggjast á kostnaði, þ.m.t. eðlilegri arðsemi af bundnu fjármagni. Rekstrarleyfishafar með umtalsverða markaðshlutdeild skulu birta viðmiðunartilboð um aðgang að heimtaugum og tengdri aðstöðu. Póst- og fjarskiptastofnun getur krafist breytinga á viðmiðunartilboði, þ.m.t. verði. Póst- og fjarskiptastofnun er heimilt að setja reglur um hvert skuli vera efni viðmiðunartilboðs.
  □ Beiðnum um aðgang að heimtaugum skal aðeins hafnað á grundvelli hlutlægra viðmiðana, nauðsynjar þess að viðhalda heildstæði neta eða af tæknilegum ástæðum. Náist ekki samkomulag um aðgang getur aðili vísað málinu til Póst- og fjarskiptastofnunar. Um málsmeðferð fer skv. 27. og 28. gr.
- □ Samgönguráðherra skal setja reglugerð skv. 1. mgr. sem felur í sér að reglugerð Evrópuþingsins og ráðsins (EB) nr. 2887/2000 frá 18. desember 2000, um opinn aðgang að heimtaugum, samkvæmt ákvörðun sameiginlegu EES-nefndarinnar nr. 47/2001 frá 30. mars 2001, um breytingu á XI. viðauka við EES-samninginn, verði að fullu innleidd í íslensk lög.][^1)^]
-    _[^1)^]_"L. 145/2001, 2. gr.":/altext/stjt/2001.145.html
+ □ Samgönguráðherra skal setja reglugerð[^1)^] skv. 1. mgr. sem felur í sér að reglugerð Evrópuþingsins og ráðsins (EB) nr. 2887/2000 frá 18. desember 2000, um opinn aðgang að heimtaugum, samkvæmt ákvörðun sameiginlegu EES-nefndarinnar nr. 47/2001 frá 30. mars 2001, um breytingu á XI. viðauka við EES-samninginn, verði að fullu innleidd í íslensk lög.][^2)^]
+    _[^1)^]_"Rg. 199/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/199-2002. [^2)^]"L. 145/2001, 2. gr.":/altext/stjt/2001.145.html
  ■ *21. gr.* _Innlendir reikisamningar._
  □ Þar sem ekki verður ráðist í uppsetningu og rekstur farsímastöðvar, vegna eðlis eða umfangs fjárfestingar, eða þar sem aðstæður til uppsetningar og rekstrar farsímastöðvar eru sérstaklega erfiðar, svo sem vegna náttúrulegra aðstæðna, skulu farsímafyrirtæki sem veita almenna farsímaþjónustu eiga aðgang að almennum farsímanetum annarra farsímafyrirtækja.
  □ Fjarskiptafyrirtæki skulu leitast við að semja sín á milli um skilmála aðgangs.
@@ -197,10 +198,11 @@ h2. Lög um fjarskipti
 ■ *26. gr.* _Viðmiðunartilboð o.fl._
  □ Fyrirtæki sem starfrækja almenn fjarskiptanet og/eða almenna fjarskiptaþjónustu á sviði talsíma í fastaneti og leigulína og njóta umtalsverðrar markaðshlutdeildar skulu uppfylla eftirtalin skilyrði:
     1. Gjöld fyrir samtengingu skulu vera gagnsæ og byggjast á kostnaði við stofnun og rekstur nets, auk hæfilegrar ávöxtunar fjármagns á grundvelli kostnaðarbókhalds sem haldið skal. Sönnunarbyrði fyrir því að gjöld séu reiknuð út frá raunverulegum tilkostnaði skal hvíla á fyrirtækinu sem lætur í té aðgang að aðstöðu sinni. Póst- og fjarskiptastofnun er heimilt að krefja viðkomandi fyrirtæki um rökstuðning fyrir samtengingargjöldum og þegar við á gera kröfu um lagfæringu þeirra. Þetta ákvæði nær einnig til farsímafyrirtækja sem Póst- og fjarskiptastofnun hefur úrskurðað að hafi umtalsverða markaðshlutdeild á samtengingarmarkaðinum.
-    2. Póst- og fjarskiptastofnun skal krefjast þess að fyrirtæki samkvæmt þessari málsgrein birti viðmiðunartilboð um samtengingu sem innihaldi sundurliðaða lýsingu, í samræmi við þörf markaðsaðila, á samtengingartilboði og tengdum skilmálum og skilyrðum, þar á meðal gjaldskrám. Í viðmiðunartilboði skal vera verð fyrir aðgang að allri þjónustu sem í boði er á neti fyrirtækisins. Stofnunin getur mælt fyrir um rökstuddar breytingar á viðmiðunartilboði. Póst- og fjarskiptastofnun er heimilt að setja reglur um hvert skuli vera efni samtengingarsamninga og viðmiðunartilboðs.
+    2. Póst- og fjarskiptastofnun skal krefjast þess að fyrirtæki samkvæmt þessari málsgrein birti viðmiðunartilboð um samtengingu sem innihaldi sundurliðaða lýsingu, í samræmi við þörf markaðsaðila, á samtengingartilboði og tengdum skilmálum og skilyrðum, þar á meðal gjaldskrám. Í viðmiðunartilboði skal vera verð fyrir aðgang að allri þjónustu sem í boði er á neti fyrirtækisins. Stofnunin getur mælt fyrir um rökstuddar breytingar á viðmiðunartilboði. Póst- og fjarskiptastofnun er heimilt að setja reglur[^1)^] um hvert skuli vera efni samtengingarsamninga og viðmiðunartilboðs.
     3. Gjöld fyrir samtengingu skulu vera nægjanlega sundurgreind svo að umsækjandi um samtengingu þurfi ekki að greiða fyrir annað en það sem tengist beint umbeðinni þjónustu.
  □ Póst- og fjarskiptastofnun skal tryggja að lýsing á kostnaðarbókhaldi sem sýnir helstu kostnaðarliði og reglur sem gilda um færslu kostnaðar við samtengingu séu aðgengilegar.
-■ *27. gr.* _Sáttameðferð Póst- og fjarskiptastofnunar._
+    _[^1)^]_"Rgl. 94/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/094-2002.
+ ■ *27. gr.* _Sáttameðferð Póst- og fjarskiptastofnunar._
  □ Náist ekki samkomulag með aðilum um samtengingu skv. 23. gr. innan mánaðar getur hvor aðili fyrir sig leitað til Póst- og fjarskiptastofnunar sem skal leita sátta með aðilum. Í því skyni skal stofnunin halda sáttafundi með þeim.
  □ Afskipti Póst- og fjarskiptastofnunar skulu miða að sem mestri hagkvæmni og hagsbótum fyrir notendur. Einkum skal lögð áhersla á nauðsyn þess:
     1. að viðunandi fjarskiptasamband náist milli allra notenda,
@@ -241,7 +243,7 @@ h2. Lög um fjarskipti
  ■ *33. gr.* _Númeraflutningur og forskeyti._
  □ Enda þótt fjarskiptafyrirtæki hafi heimilað notendum afnot af númerum í númeraröðum sínum er notendum frjálst að halda símanúmeri sínu þegar þeir flytja viðskipti sín til annars fjarskiptafyrirtækis. Fjarskiptafyrirtæki er heimilt að innheimta hjá notanda, sem var skráður hjá því, eingreiðslu er nemi kostnaði af umskráningu. Notendum skal vera unnt að halda símanúmeri sínu þó að þeir flytji milli númerasvæða. Fjarskiptafyrirtæki er heimilt að innheimta hjá notandanum kostnað við umskráningu. Póst- og fjarskiptastofnun setur nánari reglur[^1)^] um númeraflutning, þ.m.t. hvenær númeraflutningur milli númerasvæða og númeraflutningur utan almenna fasta fjarskiptanetsins skuli innleiddur og sker úr ágreiningi um framkvæmd hans.
  □ Fjarskiptafyrirtæki er skylt að gera notendum sínum mögulegt að hringja í forskeyti eða númer allra aðila sem veita fjarskiptaþjónustu. Óski símnotandi eftir því að öllum símtölum hans, t.d. til útlanda, verði beint til ákveðins þjónustuveitanda skal hann tilkynna fjarskiptafyrirtækinu sem hann tengist um það. Skal fjarskiptafyrirtæki gera ráðstafanir til að símtölin fari hina fyrir fram völdu leið án þess að nota þurfi forskeytið hverju sinni. Símnotandi skal þó ávallt geta breytt þessu í einstökum símtölum. Póst- og fjarskiptastofnun skal ákveða hvenær forval skal að fullu innleitt.[^2)^]
-    _[^1)^]_"Rgl. 401/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/401-2001, sbr. "840/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/840-2001. [^2)^]"Rgl. 158/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/158-2000.
+    _[^1)^]_"Rgl. 401/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/401-2001, sbr. "840/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/840-2001. [^2)^]"Rgl. 280/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/280-2002.
  ■ *34. gr.* _Skráning símanúmera._
  □ Áskrifendur í fjarskiptaþjónustu eiga rétt á að vera skráðir í opinberum númeraskrám og fá að skoða upplýsingar sem skráðar eru um þá og ef nauðsynlegt er geta þeir krafist þess að fá upplýsingarnar leiðréttar eða fjarlægðar úr skránni. Áskrifendur eiga kröfu á að vera óskráðir í gagnagrunni símaskrár en heimilt er að krefja þá um gjald sem samsvarar kostnaði rekstrarleyfishafa af því að fjarlægja þá úr gagnagrunninum.
  □ Símaskrár yfir alla áskrifendur sem ekki hafa mótmælt því að vera skráðir, þ.m.t. skrár yfir fastatalsímanúmer, farsímanúmer og persónutengd númer, skulu vera notendum fáanlegar í formi sem Póst- og fjarskiptastofnun hefur samþykkt.
@@ -367,7 +369,7 @@ h2. Lög um fjarskipti
  *XVII. kafli.* *Gildistaka o.fl.*
 ■ *59. gr.* _Almenn reglugerðarheimild._
  □ Samgönguráðherra setur í reglugerð[^1)^] nánari fyrirmæli um framkvæmd fjarskiptamála.
-    _[^1)^]_"Rg. 866/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2000, "rg. 532/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001.
+    _[^1)^]_"Rg. 866/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2000, "rg. 532/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001, "rg. 298/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/298-2002.
  ■ *60. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. janúar 2000.
  □ ...

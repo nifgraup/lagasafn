@@ -15,7 +15,7 @@ h2. Lög um dýravernd
 ■ *2. gr.* Skylt er að fara vel með öll dýr. Óheimilt er að hrekkja dýr eða meiða. Forðast skal að ofbjóða kröftum þeirra og þoli.
 ■ *3. gr.* Eigendum eða umráðamönnum dýra ber að sjá þeim fyrir viðunandi vistarverum og fullnægjandi fóðri, drykk og umhirðu.
  □ Tryggja skal dýrum eðlilegt frelsi til hreyfingar samkvæmt viðurkenndri reynslu og þekkingu. Koma skal í veg fyrir hávaða þar sem dýr eru höfð í vörslu.
- □ Eigendur og umráðamenn dýra skulu fylgjast með heilsu þeirra og gera viðhlítandi ráðstafanir til að koma megi í veg fyrir vanlíðan dýranna. Sérstakt eftirlit skal haft með dýrum sem haldin eru á tæknivæddum stórbúum, sbr. "7. gr. laga nr. 46/1991":1991046.html#g7, um búfjárhald, og sérákvæði í reglugerðum um einstakar búfjártegundir.
+ □ Eigendur og umráðamenn dýra skulu fylgjast með heilsu þeirra og gera viðhlítandi ráðstafanir til að koma megi í veg fyrir vanlíðan dýranna. Sérstakt eftirlit skal haft með dýrum sem haldin eru á tæknivæddum stórbúum, sbr. "7. gr. laga nr. 46/1991":1991046.html, um búfjárhald, og sérákvæði í reglugerðum um einstakar búfjártegundir.
  ■ *4. gr.* Að vetri til, þegar búfé er haldið til beitar eða látið liggja við opið, skal sjá til þess að á staðnum sé húsaskjól eða annað öruggt og hentugt skjól í öllum veðrum. Einnig skal vera þar nægilegt fóður og vatn og litið skal eftir búfénu reglulega en daglega eða oftar ef nauðsyn krefur að mati forðagæslumanns, ráðunautar eða dýralæknis. Heimilt er sveitarstjórn, að fengnum tillögum dýraverndarráðs eða héraðsdýralæknis, að banna dýrahald á tilteknum stöðum að vetri til séu fyrrgreind skilyrði ekki uppfyllt.
 ■ *5. gr.* Umhverfisráðherra setur í reglugerð, í samráði við landbúnaðarráðherra, nánari fyrirmæli um vistarverur og aðbúnað dýra. Þar skal m.a. setja skilyrði fyrir eða bann við innilokun dýra í búrum eða þröngum stíum og tjóðrun þeirra til langframa.
  □ Þegar búfé á í hlut skal einnig fara að reglum settum samkvæmt lögum um búfjárhald.
@@ -53,14 +53,15 @@ h2. Lög um dýravernd
  □ Umhverfisráðherra skipar tilraunadýranefnd til fjögurra ára í senn. Einn fulltrúi er skipaður án tilnefningar og skal hann hafa lokið háskólanámi og hafa þekkingu og reynslu á sviði dýratilrauna og einn fulltrúi er skipaður af Rannsóknastofnun í siðfræði. Auk þeirra á yfirdýralæknir sæti í nefndinni og er hann formaður hennar.
  □ Gæta skal þess við tilraunir eða aðgerðir á dýrum að þær baki þeim ekki meiri þjáningu en óhjákvæmilegt er.
  □ Tilraunadýranefnd skal tryggja að þeir sem nota dýr í tilraunaskyni hafi hlotið þjálfun og menntun í meðferð tilraunadýra.
- □ Umhverfisráðherra setur í samráði við tilraunadýranefnd reglugerð þar sem kveðið er á um meðferð tilraunadýra og eftirlit með tilraunum.
+ □ Umhverfisráðherra setur í samráði við tilraunadýranefnd reglugerð[^1)^] þar sem kveðið er á um meðferð tilraunadýra og eftirlit með tilraunum.
+    _[^1)^]_"Rg. 279/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/279-2002.
 
  *VII. kafli.* *Skipan dýraverndarmála.*
-■ *17. gr.* Umhverfisráðherra fer með yfirstjórn allra mála er varða dýravernd.
- □ Dýraverndarráð, skipað af umhverfisráðherra til fjögurra ára í senn, hefur með höndum eftirlit með framkvæmd laga þessara. Í ráðinu eiga sæti fimm menn. [Einn tilnefndur af Bændasamtökum Íslands],[^1)^] einn af Hinu íslenska náttúrufræðifélagi, einn af Dýralæknafélagi Íslands og einn af Sambandi dýraverndarfélaga Íslands. Umhverfisráðherra skipar einn mann í ráðið án tilnefningar og er hann jafnframt formaður. Varamenn skuli skipaðir með sama hætti.
+ ■ *17. gr.* Umhverfisráðherra fer með yfirstjórn allra mála er varða dýravernd.
+ □ [Umhverfisstofnun annast eftirlit með framkvæmd laganna.][^1)^]
  □ Ávallt skal leita umsagna dýraverndarráðs við setningu reglugerða og annarra stjórnvaldsfyrirmæla um dýravernd og við leyfisveitingar á grundvelli laga þessara. Þá ber ráðinu að gera tillögur til ráðherra um allt það sem horfir til framdráttar dýravernd í landinu og vera honum til ráðuneytis að öðru leyti. Dýraverndarráð skal láta héraðsdýralæknum, lögreglu, ákæruvaldi og dómstólum í té umsagnir um málefni er varða dýravernd sé þess óskað. Ráðið skal auk þess vinna að því að skilningur og þekking almennings á dýravernd verði aukin.
  □ Kostnaður við starfsemi dýraverndarráðs greiðist úr ríkissjóði.
-    _[^1)^]_"L. 73/1996, 29. gr.":/altext/stjt/1996.073.html
+    _[^1)^]_"L. 90/2002, 4. gr.":2002090.html#g4 Breytingin öðlast gildi 1. jan. 2003, sbr. "3. gr. s.l.":2002090.html
 
  *VIII. kafli.* *Eftirlit með framkvæmd laganna og viðurlög.*
  ■ *18. gr.* Lögreglu ber að hafa eftirlit með aðstæðum og aðbúnaði dýra samkvæmt lögum þessum. Leiki grunur á að meðferð á dýrum brjóti gegn lögum ber þeim er verða þess varir að tilkynna það lögreglu í viðkomandi umdæmi, héraðsdýralækni eða dýraverndarráði.
@@ -79,7 +80,7 @@ h2. Lög um dýravernd
 
  *IX. kafli.* *Gildistaka og stjórnvaldsfyrirmæli.*
 ■ *23. gr.* Umhverfisráðherra setur reglugerðir samkvæmt lögum þessum enda séu þær í samræmi við milliríkjasamninga sem Ísland er aðili að. Reglugerðir og önnur stjórnvaldsfyrirmæli um dýravernd, sem sett hafa verið fyrir gildistöku laga þessara, halda gildi sínu að svo miklu leyti sem þau brjóta ekki í bága við lög þessi uns ný stjórnvaldsfyrirmæli hafa verið sett.[^1)^]
-    _[^1)^]_"Rg. 158/1957":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/158-1957, "rg. 127/1958":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/127-1958, sbr. "232/1968":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/232-1968; "rg. 77/1973":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/077-1973, "rg. 635/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/635-1996, "rg. 499/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/499-1997, sbr. "900/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/900-2001.
+    _[^1)^]_"Rg. 158/1957":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/158-1957, "rg. 127/1958":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/127-1958, sbr. "232/1968":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/232-1968; "rg. 635/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/635-1996, "rg. 499/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/499-1997, sbr. "900/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/900-2001.
  ■ *24. gr.* Lög þessi öðlast gildi 1. júlí 1994. ...
 
 

@@ -6,8 +6,8 @@ h2. Lög um náttúruvernd
 
 <hr />
 
-*Tóku gildi 1. júlí 1999.*
- _Breytt með "l. 140/2001":/altext/stjt/2001.140.html (tóku gildi 31. des. 2001)._
+*Tóku gildi 1. júlí 1999.* Breytt með "l. 140/2001":/altext/stjt/2001.140.html (tóku gildi 31. des. 2001) og "l. 90/2002":2002090.html (taka gildi 1. jan. 2003).
+
 
  *I. kafli.* *Markmið, gildissvið og skilgreiningar.*
  ■ *1. gr.* _Markmið laganna._
@@ -40,11 +40,9 @@ h2. Lög um náttúruvernd
  ■ *4. gr.* _Yfirstjórn umhverfisráðherra._
  □ Umhverfisráðherra fer með yfirstjórn náttúruverndarmála.
  □ Við mótun stefnu í náttúruvernd og framkvæmdir og fræðslu á því sviði skal ráðherra hafa samráð við hlutaðeigandi aðila, stofnanir og félagasamtök eftir því sem við á hverju sinni.
-■ *5. gr.* _Náttúruvernd ríkisins._
- □ Náttúruvernd ríkisins er ríkisstofnun undir yfirstjórn umhverfisráðherra.
- □ Umhverfisráðherra skipar forstjóra Náttúruverndar ríkisins til fimm ára í senn. Hann skal hafa háskólamenntun og sérþekkingu sem nýtist honum í starfi. Forstjóri fer með stjórn stofnunarinnar, ber ábyrgð á rekstri hennar og ræður starfsmenn.
- □ Umhverfisráðherra skal setja í reglugerð nánari fyrirmæli um hlutverk og starfsskyldur forstjóra Náttúruverndar ríkisins og um innra skipulag stofnunarinnar.
-■ *6. gr.* _Hlutverk Náttúruverndar ríkisins._
+■ *5. gr.* ...[^1)^]
+    _[^1)^]_"L. 90/2002, 4. gr.":2002090.html#g4 Breytingin tekur gildi 1. jan. 2003, sbr. "3. gr. s.l.":2002090.html
+ ■ *6. gr.* _Hlutverk Náttúruverndar ríkisins._
  □ Hlutverk Náttúruverndar ríkisins er:
     a. umsjón, rekstur og eftirlit með náttúruverndarsvæðum í samræmi við lög,
     b. eftirlit með því að náttúru landsins sé ekki spillt með athöfnum, framkvæmdum eða rekstri, að svo miklu leyti sem slíkt eftirlit er ekki falið öðrum með sérstökum lögum; umhverfisráðherra skal, að höfðu samráði við aðrar stofnanir og aðila sem fara með eftirlit samkvæmt sérstökum lögum, setja í reglugerð nánari ákvæði um eftirlit stofnunarinnar,
@@ -243,9 +241,9 @@ h2. Lög um náttúruvernd
  □ Umhverfisráðherra getur, að fengnum tillögum eða áliti [Náttúruverndar ríkisins og Náttúrufræðistofnunar Íslands],[^1)^] friðlýst:
     1. Landsvæði sem mikilvægt er að varðveita sakir sérstaks landslags eða lífríkis. Friðlýst landsvæði nefnast friðlönd.[^2)^]
     2. Náttúrumyndanir, svo sem fossa, eldstöðvar, hella og dranga, svo og fundarstaði steingervinga, sjaldgæfra steintegunda og steinda, sem mikilvægt er að varðveita sakir fræðilegs gildis þeirra, fegurðar eða sérkenna. Friðlýsa skal svæði í kringum náttúrumyndanir svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu. Friðlýstar náttúrumyndanir nefnast náttúruvætti.[^3)^]
-    3. [Lífverur, búsvæði þeirra, vistgerðir og vistkerfi][^4)^] sem miklu skiptir frá vísindalegu, náttúrufræðilegu eða öðru menningarlegu sjónarmiði að ekki sé raskað, fækkað eða útrýmt.
+    3. [Lífverur, búsvæði þeirra, vistgerðir og vistkerfi][^4)^] sem miklu skiptir frá vísindalegu, náttúrufræðilegu eða öðru menningarlegu sjónarmiði að ekki sé raskað, fækkað eða útrýmt.[^5)^]
  □ Friðlýsing skv. 2. og 3. tölul. 1. mgr. getur ýmist verið staðbundin eða tekið til landsins alls.
-    _[^1)^]_"L. 140/2001, 10. gr.":/altext/stjt/2001.140.html [^2)^]Augl. 457/1996, augl. 606/2001. [^3)^]Augl. 120/1994, augl. 326/1999, augl. 249/2001. [^4)^]"L. 140/2001, 11. gr.":/altext/stjt/2001.140.html
+    _[^1)^]_"L. 140/2001, 10. gr.":/altext/stjt/2001.140.html [^2)^]Augl. 457/1996, augl. 606/2001. [^3)^]Augl. 120/1994, augl. 326/1999, augl. 249/2001. [^4)^]"L. 140/2001, 11. gr.":/altext/stjt/2001.140.html [^5)^]Augl. 364/2002.
  ■ *54. gr.* _Friðlýsing náttúruminja í hafi._
  □ Umhverfisráðherra getur, að fengnu samþykki sjávarútvegsráðherra og eftir atvikum að fengnum tillögum eða áliti Hafrannsóknastofnunarinnar, [Náttúruverndar ríkisins eða Náttúrufræðistofnunar Íslands],[^1)^] friðlýst innan landhelgi og efnahagslögsögu náttúruminjar í hafi, þ.m.t. eyjar og sker, og á hafsbotni sem mikilvægt þykir að varðveita sakir fegurðar eða sérkenna eða miklu skiptir frá vísindalegu, náttúrufræðilegu eða menningarlegu sjónarmiði að ekki sé raskað. Friðlýsa skal svæði í kringum náttúruminjar svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu.
  □ Ákvæði annarra greina þessa kafla gilda eftir því sem við á um friðlýstar náttúruminjar í hafi.
@@ -306,7 +304,7 @@ h2. Lög um náttúruvernd
  ■ *67. gr.* _Náttúruminjaskrá._
  □ Umhverfisráðherra skal gefa út heildstæða náttúruminjaskrá[^1)^] eigi sjaldnar en fimmta hvert ár og birta í Stjórnartíðindum. Birta má hvenær sem er ákvarðanir um ný svæði sem tekin eru á náttúruminjaskrá.
  □ Náttúruvernd ríkisins skal í samráði við Náttúrufræðistofnun Íslands og hlutaðeigandi náttúrustofur og náttúruverndarnefndir sjá um undirbúning og öflun gagna vegna viðbóta við náttúruminjaskrá og heildarútgáfu hennar.
-    _[^1)^]Augl. 631/1995_.
+    _[^1)^]Augl. 631/1995_, sbr. 78/2002.
  ■ *68. gr.* _Efni náttúruminjaskrár._
  □ Í náttúruminjaskrá skulu vera sem gleggstar upplýsingar um:
     a. friðlýstar náttúruminjar,

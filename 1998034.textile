@@ -6,6 +6,8 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
 
 <hr />
 
+*Tóku gildi 29. apríl 1998.* Breytt með "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 16/1999":/altext/stjt/1999.016.html (tóku gildi 24. mars 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000) og "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002).
+
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* Lög þessi gilda um starfsemi kauphalla og skipulegra tilboðsmarkaða sem starfa hér á landi.
@@ -52,10 +54,10 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
  *II. kafli.* *Kauphöll og hlutverk hennar.*
  ■ *10. gr.* Undir starfsemi kauphallar fellur skipulegur verðbréfamarkaður þar sem opinber skráning verðbréfa á sér stað, einnig sú skipulega starfsemi að viðskipti eiga sér stað milli kauphallaraðila með verðbréf sem eru opinberlega skráð hjá:
     1. kauphöll sem stofnuð er og skráð á Íslandi og hlotið hefur starfsleyfi í samræmi við ákvæði þessara laga,
-    2. kauphöll eða samsvarandi skipulegum verðbréfamarkaði á Evrópska efnahagssvæðinu,
-    3. kauphöll eða samsvarandi skipulegum verðbréfamarkaði sem aðildarríki að Evrópska efnahagssvæðinu hafa gert samstarfssamning við,
-    4. öðrum sambærilegum skipulegum verðbréfamörkuðum utan aðildarríkja Evrópska efnahagssvæðisins sem [Fjármálaeftirlitið][^1)^] metur gilda.
-    _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html
+    2. kauphöll eða samsvarandi skipulegum verðbréfamarkaði á Evrópska efnahagssvæðinu [og í aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu],[^1)^]
+    3. kauphöll eða samsvarandi skipulegum verðbréfamarkaði sem aðildarríki að Evrópska efnahagssvæðinu [eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] hafa gert samstarfssamning við,
+    4. öðrum sambærilegum skipulegum verðbréfamörkuðum utan aðildarríkja Evrópska efnahagssvæðisins [og aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] sem [Fjármálaeftirlitið][^2)^] metur gilda.
+    _[^1)^]_"L. 76/2002, 87. gr.":/altext/stjt/2002.076.html [^2)^]"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html
  _Hlutverk._
  ■ *11. gr.* Hlutverk kauphallar er:
     1. að annast opinbera skráningu verðbréfa og að setja reglur um skráningarhæfi þeirra,

@@ -6,6 +6,8 @@ h2. Lög um lækningatæki
 
 <hr />
 
+*Tóku gildi 16. maí 2001.* Breytt með "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002).
+
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Gildissvið._
@@ -26,10 +28,11 @@ h2. Lög um lækningatæki
     Einstaklingur eða lögpersóna, sem setur saman, pakkar, vinnur að, endurgerir að fullu og/eða merkir eina eða fleiri framleiðsluvöru og/eða tilgreinir tilætluð not hennar sem tækis í því skyni að setja hana á markað í eigin nafni, telst framleiðandi.
     Aðili, sem setur saman eða aðlagar tæki, sem eru á markaði, að þörfum einstakra sjúklinga, telst ekki vera framleiðandi.
     3. _Notandi:_ Sá sem þarf á lækningatækjum að halda vegna sjúkdóms, fötlunar eða skertrar getu, vinnur með lækningatæki eða hefur umsjón með tækjum og/eða sér um viðhald þeirra.
-    4. _Klínísk prófun:_ Rannsóknir á mönnum, í þeim tilgangi að afla upplýsinga og/eða sannprófa að lækningatæki séu við eðlilega notkun í samræmi við grunnkröfur um eiginleika og skil, en kveðið er á um grunnkröfur þessar í tilskipunum Evrópusambandsins sem eru hluti af samningnum um Evrópska efnahagssvæðið. Með klínískri prófun er einnig lagt mat á óæskilegar hliðarverkanir lækningatækja.
+    4. _Klínísk prófun:_ Rannsóknir á mönnum, í þeim tilgangi að afla upplýsinga og/eða sannprófa að lækningatæki séu við eðlilega notkun í samræmi við grunnkröfur um eiginleika og skil, en kveðið er á um grunnkröfur þessar í tilskipunum Evrópusambandsins sem eru hluti af samningnum um Evrópska efnahagssvæðið [og stofnsamningi Fríverslunarsamtaka Evrópu].[^1)^] Með klínískri prófun er einnig lagt mat á óæskilegar hliðarverkanir lækningatækja.
+    _[^1)^]_"L. 76/2002, 29. gr.":/altext/stjt/2002.076.html
 
  *II. kafli.* *Kröfur sem lækningatæki skulu uppfylla.*
-■ *4. gr.* _Öryggiskröfur._
+ ■ *4. gr.* _Öryggiskröfur._
  □ Lækningatæki skulu vera þannig úr garði gerð, notuð, þeim viðhaldið og eftir þeim litið að þau uppfylli öryggiskröfur sem gerðar eru í lögum þessum og reglum settum samkvæmt þeim til að vernda líf og heilsu notenda. Samsetning, framleiðsla, pökkun og viðhald lækningatækja skal vera þannig að tækið virki eins og leiðbeiningar framleiðandans gera ráð fyrir.
  □ Lækningatæki má því aðeins setja á markað og taka í notkun að hönnun þeirra, gerð og frágangur stofni ekki öryggi notenda í hættu.
  □ Sömu ákvæði skulu gilda um lækningatæki sem hönnuð eru og framleidd innan heilbrigðisstofnana.

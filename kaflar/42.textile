@@ -1,24 +1,9 @@
-<table>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<tbody>
-<tr class="odd">
-<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
-<td align="left"></td>
-<td align="left">h3. 
- 42. Sifjaréttindi
-</td>
-<td align="left"></td>
-</tr>
-</tbody>
-</table>
+h2. 42. Sifjaréttindi
 
+* Hjúskaparlög, "nr. 31 14. apríl 1993":http://www.althingi.is/lagas/127b/1993031.html
+* Lög um staðfesta samvist, "nr. 87 12. júní 1996":http://www.althingi.is/lagas/127b/1996087.html
+* Lög um ættleiðingar, "nr. 130 31. desember 1999":http://www.althingi.is/lagas/127b/1999130.html
+* Lög um heimild fyrir ríkisstjórnina til þess að láta öðlast gildi alþjóðleg einkamálaréttarákvæði í samningi milli Íslands, Danmerkur, Finnlands, Noregs og Svíþjóðar, um hjúskap, ættleiðingu og lögráð, "nr. 29 8. september 1931":http://www.althingi.is/lagas/127b/1931029.html
 
-
-|!/img/box_green2.gif!|Hjúskaparlög, "nr. 31 14. apríl 1993":http://www.althingi.is/lagasofn/127a/1993031.html|
-|!/img/box_green2.gif!|Lög um staðfesta samvist, "nr. 87 12. júní 1996":http://www.althingi.is/lagasofn/127a/1996087.html|
-|!/img/box_green2.gif!|Lög um ættleiðingar, "nr. 130 31. desember 1999":http://www.althingi.is/lagasofn/127a/1999130.html|
-|!/img/box_green2.gif!|Lög um heimild fyrir ríkisstjórnina til þess að láta öðlast gildi alþjóðleg einkamálaréttarákvæði í samningi milli Íslands, Danmerkur, Finnlands, Noregs og Svíþjóðar, um hjúskap, ættleiðingu og lögráð, "nr. 29 8. september 1931":http://www.althingi.is/lagasofn/127a/1931029.html|
+h4. "Kaflar lagasafns":kaflar.html
 

@@ -6,6 +6,7 @@ h2. Lög um dánarvottorð, krufningar o.fl.
 
 <hr />
 
+*Tóku gildi 1. janúar 1999.* Breytt með "l. 93/2002":/altext/stjt/2002.093.html (tóku gildi 31. maí 2002).
 
  _Ritun dánarvottorðs._
  ■ *1. gr.* Læknir skal rita dánarvottorð fyrir hvern mann er deyr hér á landi. Vottorðið skal ritað á eyðublað sem landlæknir lætur útbúa.
@@ -13,9 +14,10 @@ h2. Lög um dánarvottorð, krufningar o.fl.
 ■ *2. gr.* Læknir skoðar lík og athugar hvernig andlát hefur borið að, dauðaskilmerki og líklega dánarorsök.
  □ Andist maður á heilbrigðisstofnun ber læknir sá sem annaðist hinn látna á stofnuninni eða yfirlæknir viðkomandi deildar ábyrgð á að líkið verði skoðað.
  □ Andist maður utan heilbrigðisstofnunar skal læknir sá sem stundaði hinn látna í banalegunni skoða líkið.
- □ Við óvænt dauðsföll eða ef ekki tekst að ná til læknis sem stundaði hinn látna í banalegunni skal tilkynna andlátið til viðkomandi héraðslæknis. Héraðslæknir ber þá ábyrgð á að líkið verði skoðað.
+ □ [Við óvænt dauðsföll eða ef ekki tekst að ná til læknis sem stundaði hinn látna í banalegunni skal tilkynna andlátið til yfirlæknis heilsugæslu sem ber þá ábyrgð á að líkið verði skoðað.][^1)^]
+    _[^1)^]_"L. 93/2002, 22. gr.":/altext/stjt/2002.093.html
  _Tilkynning til lögreglu._
-■ *3. gr.* Læknir sem kvaddur er til vegna líkskoðunar skal gera lögreglu viðvart ef:
+ ■ *3. gr.* Læknir sem kvaddur er til vegna líkskoðunar skal gera lögreglu viðvart ef:
     1. ætla má að andlát tengist refsiverðu athæfi, sjálfsvígi eða andláti af völdum slyss,
     2. maður hefur fundist látinn,
     3. dauðsfall er óvænt,
