@@ -1,49 +1,68 @@
-h2. 46. Hlutaréttindi
+<table>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<tbody>
+<tr class="odd">
+<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
+<td align="left"></td>
+<td align="left">h3. 
+ 46. Hlutaréttindi
+</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
-h3. 46.a. Ýmis ákvæði
 
-* Jónsbók, "1281":http://www.althingi.is/lagasofn/126b/1281000.501.html
+ 46.a. Ýmis ákvæði
 
-h3. 46.b. Stofnun eignarréttinda
+|!/img/box_green2.gif!|Jónsbók, "1281":http://www.althingi.is/lagasofn/127a/1281000.501.html|
 
-* Lög um hefð, "nr. 46 10. nóvember 1905":http://www.althingi.is/lagasofn/126b/1905046.html
-* Lög um eignarrétt og afnotarétt fasteigna, "nr. 19 6. apríl 1966":http://www.althingi.is/lagasofn/126b/1966019.html
-* Lög um framkvæmd eignarnáms, "nr. 11 6. apríl 1973":http://www.althingi.is/lagasofn/126b/1973011.html
-* Opið bréf (frá kansellíinu) um meðferð á fundnu fé í kaupstöðum, "8. júní 1811":http://www.althingi.is/lagasofn/126b/1811086.html
-* Opið bréf kansellíisins um fundið fé í sveitum, "5. desember 1812":http://www.althingi.is/lagasofn/126b/181205b.html
 
-h3. 46.c. Sameign
+ 46.b. Stofnun eignarréttinda
 
-* Lög um fjöleignarhús, "nr. 26 6. apríl 1994":http://www.althingi.is/lagasofn/126b/1994026.html
+|!/img/box_green2.gif!|Lög um hefð, "nr. 46 10. nóvember 1905":http://www.althingi.is/lagasofn/127a/1905046.html|
+|!/img/box_green2.gif!|Lög um eignarrétt og afnotarétt fasteigna, "nr. 19 6. apríl 1966":http://www.althingi.is/lagasofn/127a/1966019.html|
+|!/img/box_green2.gif!|Lög um framkvæmd eignarnáms, "nr. 11 6. apríl 1973":http://www.althingi.is/lagasofn/127a/1973011.html|
+|!/img/box_green2.gif!|Opið bréf (frá kansellíinu) um meðferð á fundnu fé í kaupstöðum, "8. júní 1811":http://www.althingi.is/lagasofn/127a/1811086.html|
+|!/img/box_green2.gif!|Opið bréf kansellíisins um fundið fé í sveitum, "5. desember 1812":http://www.althingi.is/lagasofn/127a/181205b.html|
 
-h3. 46.d. Veðréttindi
 
-* Lög um samningsveð, "nr. 75 28. maí 1997":http://www.althingi.is/lagasofn/126b/1997075.html
+ 46.c. Sameign
 
-h3. 46.e. Skrásetning réttinda o.fl.
+|!/img/box_green2.gif!|Lög um fjöleignarhús, "nr. 26 6. apríl 1994":http://www.althingi.is/lagasofn/127a/1994026.html|
 
-* Þinglýsingalög, "nr. 39 10. maí 1978":http://www.althingi.is/lagasofn/126b/1978039.html
-* Lög um skrásetningu réttinda í loftförum, "nr. 21 16. apríl 1966":http://www.althingi.is/lagasofn/126b/1966021.html
-* Lög um skráningu og mat fasteigna, "2001 nr. 6 6. febrúar":http://www.althingi.is/lagas/126b/2001006.html
 
-h3. 46.f. Jarðir
+ 46.d. Veðréttindi
 
-* Jónsbók, "1281":http://www.althingi.is/lagasofn/126b/1281000.400.html
-* Réttarbót Eiríks konungs, "2. júlí 1294":http://www.althingi.is/lagasofn/126b/1294027.html
-* Lög um áveitu á Flóann, "nr. 68 14. nóvember 1917":http://www.althingi.is/lagasofn/126b/1917068.html
-* Lög um viðauka við og breyting á "lögum nr. 68 14. nóvember 1917":http://www.althingi.is/lagasofn/126b/1917068.html, um áveitu á Flóann, "nr. 10 15. júní 1926":http://www.althingi.is/lagasofn/126b/1926010.html
-* Lög um viðauka við og breyting á "lögum nr. 68 14. nóvember 1917":http://www.althingi.is/lagasofn/126b/1917068.html, um áveitu á Flóann, "nr. 56 19. júní 1933":http://www.althingi.is/lagasofn/126b/1933056.html
-* Lög um viðauka við "lög nr. 56/1933":http://www.althingi.is/lagasofn/126b/1933056.html, um viðauka við og breyting á "lögum nr. 68/1917":http://www.althingi.is/lagasofn/126b/1917068.html, um áveitu á Flóann, "nr. 117 30. desember 1943":http://www.althingi.is/lagasofn/126b/1943117.html
-* Lög um landamerki o.fl., "nr. 41 28. nóvember 1919":http://www.althingi.is/lagasofn/126b/1919041.html
-* Lög um skipting fasteignaveðslána, "nr. 39 13. júní 1937":http://www.althingi.is/lagasofn/126b/1937039.html
-* Landskiptalög, "nr. 46 27. júní 1941":http://www.althingi.is/lagasofn/126b/1941046.html
-* Lög um lausn ítaka af jörðum, "nr. 113 29. desember 1952":http://www.althingi.is/lagasofn/126b/1952113.html
-* Lög um bæjanöfn o.fl., "nr. 35 18. febrúar 1953":http://www.althingi.is/lagasofn/126b/1953035.html
-* Girðingarlög, "nr. 10 25. mars 1965":http://www.althingi.is/lagasofn/126b/1965010.html
-* Ábúðarlög, "nr. 64 31. maí 1976":http://www.althingi.is/lagasofn/126b/1976064.html
-* Jarðalög, "nr. 65 31. maí 1976":http://www.althingi.is/lagasofn/126b/1976065.html
-* Lög um afréttamálefni, fjallskil o.fl., "nr. 6 21. mars 1986":http://www.althingi.is/lagasofn/126b/1986006.html
-* Lög um þjóðlendur og ákvörðun marka eignarlanda, þjóðlendna og afrétta, "nr. 58 10. júní 1998":http://www.althingi.is/lagasofn/126b/1998058.html
+|!/img/box_green2.gif!|Lög um samningsveð, "nr. 75 28. maí 1997":http://www.althingi.is/lagasofn/127a/1997075.html|
 
-h4. "Kaflar lagasafns":kaflar.html
+
+ 46.e. Skrásetning réttinda o.fl.
+
+|!/img/box_green2.gif!|Þinglýsingalög, "nr. 39 10. maí 1978":http://www.althingi.is/lagasofn/127a/1978039.html|
+|!/img/box_green2.gif!|Lög um skrásetningu réttinda í loftförum, "nr. 21 16. apríl 1966":http://www.althingi.is/lagasofn/127a/1966021.html|
+|!/img/box_green2.gif!|Lög um skráningu og mat fasteigna, "2001 nr. 6 6. febrúar":http://www.althingi.is/lagas/127a/2001006.html|
+
+
+ 46.f. Jarðir
+
+|!/img/box_green2.gif!|Jónsbók, "1281":http://www.althingi.is/lagasofn/127a/1281000.400.html|
+|!/img/box_green2.gif!|Réttarbót Eiríks konungs, "2. júlí 1294":http://www.althingi.is/lagasofn/127a/1294027.html|
+|!/img/box_green2.gif!|Lög um áveitu á Flóann, "nr. 68 14. nóvember 1917":http://www.althingi.is/lagasofn/127a/1917068.html|
+|!/img/box_green2.gif!|Lög um viðauka við og breyting á "lögum nr. 68 14. nóvember 1917":http://www.althingi.is/lagasofn/127a/1917068.html, um áveitu á Flóann, "nr. 10 15. júní 1926":http://www.althingi.is/lagasofn/127a/1926010.html|
+|!/img/box_green2.gif!|Lög um viðauka við og breyting á "lögum nr. 68 14. nóvember 1917":http://www.althingi.is/lagasofn/127a/1917068.html, um áveitu á Flóann, "nr. 56 19. júní 1933":http://www.althingi.is/lagasofn/127a/1933056.html|
+|!/img/box_green2.gif!|Lög um viðauka við "lög nr. 56/1933":http://www.althingi.is/lagasofn/127a/1933056.html, um viðauka við og breyting á "lögum nr. 68/1917":http://www.althingi.is/lagasofn/127a/1917068.html, um áveitu á Flóann, "nr. 117 30. desember 1943":http://www.althingi.is/lagasofn/127a/1943117.html|
+|!/img/box_green2.gif!|Lög um landamerki o.fl., "nr. 41 28. nóvember 1919":http://www.althingi.is/lagasofn/127a/1919041.html|
+|!/img/box_green2.gif!|Lög um skipting fasteignaveðslána, "nr. 39 13. júní 1937":http://www.althingi.is/lagasofn/127a/1937039.html|
+|!/img/box_green2.gif!|Landskiptalög, "nr. 46 27. júní 1941":http://www.althingi.is/lagasofn/127a/1941046.html|
+|!/img/box_green2.gif!|Lög um lausn ítaka af jörðum, "nr. 113 29. desember 1952":http://www.althingi.is/lagasofn/127a/1952113.html|
+|!/img/box_green2.gif!|Lög um bæjanöfn o.fl., "nr. 35 18. febrúar 1953":http://www.althingi.is/lagasofn/127a/1953035.html|
+|!/img/box_green2.gif!|Ábúðarlög, "nr. 64 31. maí 1976":http://www.althingi.is/lagasofn/127a/1976064.html|
+|!/img/box_green2.gif!|Jarðalög, "nr. 65 31. maí 1976":http://www.althingi.is/lagasofn/127a/1976065.html|
+|!/img/box_green2.gif!|Lög um afréttamálefni, fjallskil o.fl., "nr. 6 21. mars 1986":http://www.althingi.is/lagasofn/127a/1986006.html|
+|!/img/box_green2.gif!|Lög um þjóðlendur og ákvörðun marka eignarlanda, þjóðlendna og afrétta, "nr. 58 10. júní 1998":http://www.althingi.is/lagasofn/127a/1998058.html|
+|!/img/box_green2.gif!|Girðingarlög "nr. 135 21. desember 2001":http://www.althingi.is/lagas/127a/2001135.html|
 

@@ -179,8 +179,8 @@ h2. Lög um verðbréfasjóði
  □ Framsetning ársreiknings skal vera með skýrum hætti og í samræmi við ákvæði laga þessara og reglna settra samkvæmt þeim.
  □ Ársreikningur skal gefa glögga mynd af eignum, skuldum, fjárhagsstöðu og rekstrarafkomu verðbréfasjóðs.
  □ Í ársskýrslu skal koma fram yfirlit yfir starfsemi hlutaðeigandi verðbréfasjóðs á árinu, svo og upplýsingar um atriði sem mikilvæg eru við mat á fjárhagslegri stöðu sjóðsins og afkomu hans á reikningsárinu en koma ekki fram annars staðar í ársreikningnum.
- □ [Fjármálaeftirlitinu][^2)^] er heimilt að setja nánari reglur um gerð ársreiknings.
-    _[^1)^]_"L. 17/1999, 4. gr.":/altext/stjt/1999.017.html [^2)^]"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html
+ □ [Fjármálaeftirlitinu][^2)^] er heimilt að setja nánari reglur[^3)^] um gerð ársreiknings.
+    _[^1)^]_"L. 17/1999, 4. gr.":/altext/stjt/1999.017.html [^2)^]"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html [^3)^]"Rgl. 695/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/695-2001.
  ■ *[31. gr.][^1)^]* Ársreikningur verðbréfasjóðs skal endurskoðaður af löggiltum endurskoðanda eða endurskoðunarstofu. Endurskoðandi má ekki sitja í stjórn verðbréfasjóðs eða rekstrarfélags, vera starfsmaður þessara aðila eða starfa í þágu þeirra að öðru en endurskoðun.
  □ Skylt er að veita endurskoðanda aðgang að öllum eigum, bókum, fylgiskjölum og öðrum gögnum verðbréfasjóðs. Jafnframt skulu stjórn og starfsmenn veita endurskoðanda allar umbeðnar upplýsingar sem unnt er að láta í té.
  □ Ákvæði 2. mgr. tekur einnig til upplýsinga og gagna hjá rekstrarfélagi og vörslufyrirtæki sem nauðsynleg eru vegna endurskoðunar hjá verðbréfasjóði.
@@ -219,7 +219,7 @@ h2. Lög um verðbréfasjóði
     _[^1)^]_"L. 17/1999, 4. gr.":/altext/stjt/1999.017.html [^2)^]"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html [^3)^]"Rg. 369/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/369-1993.
  ■ *[[39. gr.][^1)^]* Rekstrarfélag skal gefa út útboðslýsingu fyrir hvern verðbréfasjóð sem það annast rekstur á samkvæmt lögum þessum. Í útboðslýsingu skulu koma fram nauðsynlegar upplýsingar til að viðskiptavinum sé kleift að meta kosti fjárfestinga í hlutdeildarskírteinum verðbréfasjóðs.
  □ Nánar skal kveðið á um útboðslýsingar verðbréfasjóða skv. 1. mgr. í reglum[^2)^] sem [Fjármálaeftirlitið][^3)^] setur.][^4)^]
-    _[^1)^]_"L. 17/1999, 4. gr.":/altext/stjt/1999.017.html [^2)^]"Rg. 616/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/616-1996. [^3)^]"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html [^4)^]"L. 21/1996, 12. gr.":/altext/stjt/1996.021.html
+    _[^1)^]_"L. 17/1999, 4. gr.":/altext/stjt/1999.017.html [^2)^]"Rgl. 686/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/686-2001. [^3)^]"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html [^4)^]"L. 21/1996, 12. gr.":/altext/stjt/1996.021.html
  ■ *[40. gr.* Í auglýsingum og annarri kynningarstarfsemi verðbréfasjóða skal þess gætt að fram komi réttar og nákvæmar upplýsingar um starfsemi verðbréfasjóðsins. Þess skal gætt að skýrt komi fram hvort sjóðurinn hafi heimild til markaðssetningar á Evrópska efnahagssvæðinu eða markaðssetningar skv. 27. gr.
  □ Fjárfesti verðbréfasjóður í framvirkum samningum og valréttarsamningum skv. 27. gr. skal getið um það sérstaklega í auglýsingum og annarri kynningarstarfsemi. Jafnframt skal koma fram viðvörun til fjárfesta um að fjárfesting í slíkum sjóði sé áhættusöm.][^1)^]
     _[^1)^]_"L. 17/1999, 5. gr.":/altext/stjt/1999.017.html

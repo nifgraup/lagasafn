@@ -1,10 +1,25 @@
-h2. 9. Stjórnsýsla
+<table>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<tbody>
+<tr class="odd">
+<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
+<td align="left"></td>
+<td align="left">h3. 
+ 9. Stjórnsýsla
+</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
-* Stjórnsýslulög, "nr. 37 30. apríl 1993":http://www.althingi.is/lagasofn/126b/1993037.html
-* Lög um umboðsmann Alþingis, "nr. 85 27. maí 1997":http://www.althingi.is/lagasofn/126b/1997085.html
-* Lög um lögbókandagerðir, "nr. 86 1. júní 1989":http://www.althingi.is/lagasofn/126b/1989086.html
-* Lög um upplýsingamiðlun og aðgang að upplýsingum um umhverfismál, "nr. 21 30. mars 1993":http://www.althingi.is/lagasofn/126b/1993021.html
-* Upplýsingalög, "nr. 50 24. maí 1996":http://www.althingi.is/lagasofn/126b/1996050.html
 
-h4. "Kaflar lagasafns":kaflar.html
+
+|!/img/box_green2.gif!|Stjórnsýslulög, "nr. 37 30. apríl 1993":http://www.althingi.is/lagasofn/127a/1993037.html|
+|!/img/box_green2.gif!|Lög um umboðsmann Alþingis, "nr. 85 27. maí 1997":http://www.althingi.is/lagasofn/127a/1997085.html|
+|!/img/box_green2.gif!|Lög um lögbókandagerðir, "nr. 86 1. júní 1989":http://www.althingi.is/lagasofn/127a/1989086.html|
+|!/img/box_green2.gif!|Lög um upplýsingamiðlun og aðgang að upplýsingum um umhverfismál, "nr. 21 30. mars 1993":http://www.althingi.is/lagasofn/127a/1993021.html|
+|!/img/box_green2.gif!|Upplýsingalög, "nr. 50 24. maí 1996":http://www.althingi.is/lagasofn/127a/1996050.html|
 

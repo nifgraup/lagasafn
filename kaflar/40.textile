@@ -1,9 +1,24 @@
-h2. 40. Persónuréttindi
+<table>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<tbody>
+<tr class="odd">
+<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
+<td align="left"></td>
+<td align="left">h3. 
+ 40. Persónuréttindi
+</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
-* Lög um horfna menn, "nr. 44 26. maí 1981":http://www.althingi.is/lagasofn/126b/1981044.html
-* Lögræðislög, "nr. 71 28. maí 1997":http://www.althingi.is/lagasofn/126b/1997071.html
-* Lög um persónuvernd og meðferð persónuupplýsinga, "nr. 77 23. maí 2000":http://www.althingi.is/lagasofn/126b/2000077.html
-* Lög um mannanöfn, "nr. 45 17. maí 1996":http://www.althingi.is/lagasofn/126b/1996045.html
 
-h4. "Kaflar lagasafns":kaflar.html
+
+|!/img/box_green2.gif!|Lög um horfna menn, "nr. 44 26. maí 1981":http://www.althingi.is/lagasofn/127a/1981044.html|
+|!/img/box_green2.gif!|Lögræðislög, "nr. 71 28. maí 1997":http://www.althingi.is/lagasofn/127a/1997071.html|
+|!/img/box_green2.gif!|Lög um persónuvernd og meðferð persónuupplýsinga, "nr. 77 23. maí 2000":http://www.althingi.is/lagasofn/127a/2000077.html|
+|!/img/box_green2.gif!|Lög um mannanöfn, "nr. 45 17. maí 1996":http://www.althingi.is/lagasofn/127a/1996045.html|
 

@@ -6,6 +6,8 @@ h2. Lög um rafræna eignarskráningu verðbréfa
 
 <hr />
 
+*Tóku gildi 1. janúar 1998.*
+ _Breytt með "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 32/2000":/altext/stjt/2000.032.html (tóku gildi 26. maí 2000), "l. 77/2000":2000077.html (tóku gildi 1. jan. 2001), "l. 164/2000":/altext/stjt/2000.164.html (tóku gildi 29. des. 2000) og "l. 147/2001":/altext/stjt/2001.147.html (tóku gildi 31. des. 2001)._
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* Lög þessi gilda um rafræna útgáfu verðbréfa og skráningu eignarréttinda yfir þeim.
@@ -51,9 +53,10 @@ h2. Lög um rafræna eignarskráningu verðbréfa
     4. fyrirtæki í verðbréfaþjónustu,
     5. lánastofnanir aðrar en viðskiptabankar og sparisjóðir.
 ■ *11. gr.* Þeir aðilar, sem nefndir eru í 10. gr. og 1. - 3. tölul. 2. mgr. 12. gr., skulu gera aðildarsamning við verðbréfamiðstöð og er það skilyrði þess að þeir hafi heimild til milligöngu um eignarskráningu eða aðgang að verðbréfamiðstöðinni.
+ □ [Nú er starfsleyfi aðila sem gert hefur aðildarsamning um eignarskráningu skv. 1. mgr. afturkallað, bú hans er tekið til gjaldþrotaskipta eða hann óskar eftir heimild til greiðslustöðvunar eða til að leita nauðasamnings og fellur aðildarsamningurinn við það þá þegar úr gildi, svo og réttur til þess að hafa milligöngu um eignarskráningar í verðbréfamiðstöð. Verðbréfamiðstöð skal annast eignarskráningar frá þeim tíma sem samningur fellur úr gildi nema um annað hafi sérstaklega verið samið. Eigi síðar en fjórum mánuðum frá því að verðbréfamiðstöð tekur við eignarskráningu samkvæmt ákvæði þessarar málsgreinar skal hún hafa tryggt að rafbréf og eignarréttindi yfir því hafi verið færð í umsjón annarrar reikningsstofnunar sem gert hefur aðildarsamning við verðbréfamiðstöðina. Fjármálaeftirlitinu er heimilt að setja nánari reglur um aðferð og framkvæmd við slit aðildarsamnings og færslu gagna skv. 1. og 3. málsl. þessarar málsgreinar.][^1)^]
  □ Stjórn verðbréfamiðstöðvar er heimilt að gera aðildarsamning við útgefendur markaðsverðbréfa um heimild þeirra til að hafa milligöngu um eignarskráningu í verðbréfamiðstöð á útgáfu og fyrsta framsali rafbréfa útgefinna af viðkomandi aðila í samræmi við starfsheimildir þeirra á fjármagnsmarkaði.
- □ [Stjórn verðbréfamiðstöðvar skal veita hlutafélögum aðgang að upplýsingum í verðbréfamiðstöð um skráða eigendur hlutabréfa í viðkomandi hlutafélagi sem þar er eignarskráð.][^1)^] Hið sama gildir um aðgang verðbréfasjóða að upplýsingum um eigendur hlutdeildarskírteina í viðkomandi verðbréfasjóði.
-    _[^1)^]_"L. 32/2000, 2. gr.":/altext/stjt/2000.032.html
+ □ [Stjórn verðbréfamiðstöðvar skal veita hlutafélögum aðgang að upplýsingum í verðbréfamiðstöð um skráða eigendur hlutabréfa í viðkomandi hlutafélagi sem þar er eignarskráð.][^2)^] Hið sama gildir um aðgang verðbréfasjóða að upplýsingum um eigendur hlutdeildarskírteina í viðkomandi verðbréfasjóði.
+    _[^1)^]_"L. 147/2001, 1. gr.":/altext/stjt/2001.147.html [^2)^]"L. 32/2000, 2. gr.":/altext/stjt/2000.032.html
  ■ *12. gr.* Í reglugerð,[^1)^] sem ráðherra setur, er heimilt að ákveða:
     1. nánari reglur um grundvöll og framkvæmd eignarskráningar, svo og með hvaða hætti einstaklingar, sem eru starfsmenn verðbréfamiðstöðvar eða reikningsstofnunar, skuli framkvæma þau verkefni sem tengjast skráningu réttinda í verðbréfamiðstöðinni,
     2. nánari reglur um skráningu takmarkaðra eignarréttinda að rafbréfum,
@@ -65,14 +68,15 @@ h2. Lög um rafræna eignarskráningu verðbréfa
     _[^1)^]_"Rg. 397/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/397-2000. [^2)^]"L. 84/1998, 20. gr.":/altext/stjt/1998.084.html
 
  *III. kafli.* *Skráningarstarfsemi.*
- ■ *13. gr.* Stjórn verðbréfamiðstöðvar ber ábyrgð á því að fyllsta öryggis sé gætt í starfsemi hennar og reksturinn fari fram á hagkvæman hátt. Stjórn verðbréfamiðstöðvar setur nánari reglur um hvaða verðbréf er unnt að taka til skráningar sem rafbréf. Reglur þessar skulu tryggja jafnræði allra hlutaðeigandi og skulu birtar opinberlega. Rafbréf í sama verðbréfaflokki verða aðeins skráð í einni verðbréfamiðstöð.
-■ *14. gr.* Verðbréfamiðstöð er óheimilt að veita upplýsingar um skráð réttindi, sbr. þó ákvæði laga þessara.
+ ■ *13. gr.* Stjórn verðbréfamiðstöðvar ber ábyrgð á því að fyllsta öryggis sé gætt í starfsemi hennar og reksturinn fari fram á hagkvæman hátt. Stjórn verðbréfamiðstöðvar setur nánari reglur um hvaða verðbréf er unnt að taka til skráningar sem rafbréf. Reglur þessar skulu tryggja jafnræði allra hlutaðeigandi og skulu birtar opinberlega. [Rafbréf í sama verðbréfaflokki sem tekinn hefur verið til eignarskráningar í verðbréfamiðstöð er heimilt að skrá í fleiri en einni verðbréfamiðstöð, enda sé tryggt að aðeins sé hægt að skrá réttindi yfir hverju einstöku rafbréfi í einni verðbréfamiðstöð. Sama gildir um verðbréfaflokk sem hefur verið tekinn til eignarskráningar í erlendri verðbréfamiðstöð.][^1)^]
+    _[^1)^]_"L. 147/2001, 2. gr.":/altext/stjt/2001.147.html
+ ■ *14. gr.* Verðbréfamiðstöð er óheimilt að veita upplýsingar um skráð réttindi, sbr. þó ákvæði laga þessara.
  □ Verðbréfamiðstöð er heimilt að veita upplýsingar í hagtöluskyni að fenginni heimild [Persónuverndar].[^1)^]
     _[^1)^]_"L. 77/2000, 46. gr.":2000077.html#g46
  ■ *15. gr.* Seðlabanki Íslands tekur við innlánum frá reikningsstofnunum sem aðild eiga að verðbréfamiðstöð og annast efndalok viðskipta þeirra með rafbréf. [Seðlabanka Íslands er samkvæmt samningi við reikningsstofnun heimil veðtrygging í rafbréfum reikningsstofnunar til tryggingar á efndalokum er lúta að greiðsluuppgjöri í greiðslukerfum, sem viðurkennd eru af ráðherra skv. "3. gr. laga um öryggi greiðslufyrirmæla í greiðslukerfum, nr. 90/1999":1999090.html#g3, og skal skrá veðréttindin skv. IV. kafla laga þessara. Hafi reikningsstofnun ekki uppfyllt skyldur sínar innan þess frests sem ákveðinn er í gildandi reglum um viðskipti samkvæmt þessari grein er Seðlabankanum heimilt að innleysa þegar í stað þau rafbréf sem standa til tryggingar hlutaðeigandi efndalokum.][^1)^] Seðlabankinn setur nánari reglur um viðskipti sín samkvæmt þessari grein.
- □ Skipa skal samráðsnefnd verðbréfamiðstöðva, Verðbréfaþings Íslands og Seðlabanka Íslands. Seðlabanki Íslands skipar einn fulltrúa í nefndina, verðbréfamiðstöðvar sem hlotið hafa starfsleyfi samkvæmt lögum þessum einn fulltrúa og Verðbréfaþing Íslands einn fulltrúa. Seðlabanki Íslands fer með formennsku í nefndinni. Hlutverk samráðsnefndar er að fjalla um samskipti verðbréfamiðstöðva, Verðbréfaþings Íslands og Seðlabankans í tengslum við frágang viðskipta.
+ □ [Skipa skal samráðsnefnd verðbréfamiðstöðva, kauphalla og Seðlabanka Íslands. Seðlabanki Íslands skipar einn fulltrúa í nefndina, verðbréfamiðstöðvar sem hlotið hafa starfsleyfi samkvæmt lögum þessum einn fulltrúa og kauphallir sem hlotið hafa starfsleyfi samkvæmt lögum um starfsemi kauphalla og skipulegra tilboðsmarkaða einn fulltrúa. Seðlabanki Íslands fer með formennsku í nefndinni. Hlutverk samráðsnefndar er að fjalla um samskipti verðbréfamiðstöðva, kauphalla og Seðlabankans í tengslum við frágang viðskipta.][^2)^]
  □ Seðlabankinn getur beitt reikningsstofnanir viðurlögum skv. "41. gr. laga nr. 36/1986":1986036.html, um Seðlabanka Íslands, sé ákvörðunum bankans í þessum efnum ekki hlítt.
-    _[^1)^]"L. 32/2000, 3. gr.":/altext/stjt/2000.032.html_
+    _[^1)^]"L. 32/2000, 3. gr.":/altext/stjt/2000.032.html [^2)^]"L. 147/2001, 3. gr.":/altext/stjt/2001.147.html_
 
  *IV. kafli.* *Réttaráhrif skráningar o.fl.*
  ■ *16. gr.* Réttindi að rafbréfum skal skrá í verðbréfamiðstöð ef þau eiga að njóta réttarverndar gegn fullnustugerðum og ráðstöfunum með samningi. Óheimilt er að gefa út viðskiptabréf fyrir skráðum réttindum samkvæmt rafbréfi eða framselja þau og eru slík viðskipti ógild.

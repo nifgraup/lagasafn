@@ -49,20 +49,22 @@ h2. Lög um skipan opinberra framkvæmda
 
  *V. kafli.* *Skilamat.*
 ■ *16. gr.* Að lokinni verklegri framkvæmd og úttekt skal fara fram skilamat. Í matinu skal gerð grein fyrir því hvernig framkvæmd hefur tekist miðað við áætlun. Enn fremur skal þar gerður samanburður við hliðstæðar framkvæmdir sem þegar hafa verið metnar.
- □ Framkvæmdasýsla ríkisins setur nánari reglur um fyrirkomulag skilamats og sér um að greinargerðir um skilamat séu lagðar fyrir fjárlaganefnd Alþingis, samstarfsnefnd um opinberar framkvæmdir og eignaraðila.
+ □ Framkvæmdasýsla ríkisins setur nánari reglur[^1)^] um fyrirkomulag skilamats og sér um að greinargerðir um skilamat séu lagðar fyrir fjárlaganefnd Alþingis, samstarfsnefnd um opinberar framkvæmdir og eignaraðila.
+    _[^1)^]_"Rgl. 717/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/717-2001.
 
  *VI. kafli.* *Yfirstjórn opinberra framkvæmda.*
-■ *17. gr.* Opinberar framkvæmdir heyra undir fjármálaráðherra sem fer með framkvæmd laga þessara.
+ ■ *17. gr.* Opinberar framkvæmdir heyra undir fjármálaráðherra sem fer með framkvæmd laga þessara.
  □ Fjármálaráðuneytið fer með fjármálalega yfirstjórn opinberra framkvæmda, þ.e. frumathugunar, sbr. 3. - 5. gr., og áætlunargerðar, sbr. 6. - 10. gr. Framkvæmdasýsla ríkisins fer með yfirstjórn verklegrar framkvæmdar, sbr. 11. - 15. gr., og gerð skilamats, sbr. 16. gr.
  □ Sveitarfélög eða aðrir eignaraðilar fara með stjórn þeirra þátta, sem ræddir eru í 4., 6. og 13. gr., eftir því sem þar segir nánar.
  □ Fjármálaráðuneytinu er heimilt að fela einstökum ríkisstofnunum umsjón nánar skilgreindra flokka opinberra framkvæmda, enda hafi þessar stofnanir aðstöðu til að annast þessi verkefni.
 ■ *18. gr.* Samstarfsnefnd um opinberar framkvæmdir er fjármálaráðuneytinu til ráðuneytis um fjármálalega framkvæmd laga þessara, sbr. I. - IV. kafla. Í nefndinni eiga sæti þrír menn: formaður fjárlaganefndar Alþingis eða sérstaklega tilnefndur fulltrúi nefndarinnar, forstjóri Framkvæmdasýslu ríkisins og ráðuneytisstjóri fjármálaráðuneytisins, sem er formaður nefndarinnar. Hlutaðeigandi ráðuneyti hafa rétt til að eiga fulltrúa á fundum þar sem fjallað er um mál sem eru innan verksviðs þeirra. Þegar nefndin fjallar um sameiginlegar framkvæmdir ríkis og sveitarfélags á fulltrúi Sambands íslenskra sveitarfélaga rétt á að sitja fundi hennar nema sveitarfélag óski sjálft að tilnefna fulltrúa til fundarsetu.
  □ Nefndin hefur það hlutverk að leiða saman sjónarmið eignaraðila opinberrar framkvæmdar á undirbúnings- og framkvæmdastigi og rannsaka frumathugun og áætlunargerð sem er undanfari verklegrar framkvæmdar. Nefndin fylgist að öðru leyti með framkvæmd hinnar fjármálalegu hliðar opinberrar framkvæmdar.
  □ Ef nefndin telur að óþarfa dráttur sé á afgreiðslu máls, sem sameignaraðili sendir hlutaðeigandi ráðuneyti, skal hún hlutast til um að úr sé bætt.
- □ Ráðherra setur nefndinni nánari starfsreglur.
+ □ Ráðherra setur nefndinni nánari starfsreglur.[^1)^]
+    _[^1)^]_"Rgl. 716/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/716-2001.
 
  *VII. kafli.* *Starfsemi Framkvæmdasýslu ríkisins.*
-■ *19. gr.* Á vegum ríkisins skal rekin stofnun, Framkvæmdasýsla ríkisins, sem fer með stjórn verklegra framkvæmda af hálfu ríkisins nema annað sé sérstaklega tilgreint í lögum þessum. Stofnunin veitir ráðuneytum og ríkisstofnunum ráðgjöf um byggingartæknileg málefni og undirbúning framkvæmda. Framkvæmdasýsla ríkisins heyrir undir fjármálaráðuneytið.
+ ■ *19. gr.* Á vegum ríkisins skal rekin stofnun, Framkvæmdasýsla ríkisins, sem fer með stjórn verklegra framkvæmda af hálfu ríkisins nema annað sé sérstaklega tilgreint í lögum þessum. Stofnunin veitir ráðuneytum og ríkisstofnunum ráðgjöf um byggingartæknileg málefni og undirbúning framkvæmda. Framkvæmdasýsla ríkisins heyrir undir fjármálaráðuneytið.
 ■ *20. gr.* Framkvæmdasýsla ríkisins skal beita sér fyrir að hagkvæmni sé gætt í skipan opinberra framkvæmda. Til að sinna þessu hlutverki skal hún:
     a. veita ráðgjöf og vinna að samræmingu við undirbúning og áætlunargerð við opinberar verkframkvæmdir,
     b. undirbúa og annast framkvæmd útboða og samninga við verktaka,
@@ -74,8 +76,9 @@ h2. Lög um skipan opinberra framkvæmda
  □ Framkvæmdasýsla ríkisins getur falið einkaaðilum að annast einstök verkefni sem stofnuninni eru falin samkvæmt ákvæðum greinarinnar.
 ■ *21. gr.* Fjármálaráðherra skipar forstjóra Framkvæmdasýslu ríkisins til fimm ára í senn og er hann ábyrgur fyrir rekstri stofnunarinnar. Forstjóri mótar helstu áherslur, verkefni og starfshætti stofnunarinnar ásamt því að ráða starfslið hennar.
 ■ *22. gr.* Framkvæmdasýsla ríkisins selur ráðuneytum og ríkisstofnunum þjónustu sína samkvæmt gjaldskrá sem fjármálaráðherra staðfestir. Gjaldskráin skal miðast við að tekjur stofnunarinnar standi undir rekstri hennar.
-■ *23. gr.* Fjármálaráðherra getur í reglugerð kveðið nánar á um framkvæmd laga þessara.
-■ *24. gr.* Lög þessi taka þegar gildi. ...
+■ *23. gr.* Fjármálaráðherra getur í reglugerð[^1)^] kveðið nánar á um framkvæmd laga þessara.
+    _[^1)^]_"Rg. 715/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/715-2001.
+ ■ *24. gr.* Lög þessi taka þegar gildi. ...
 
 
 

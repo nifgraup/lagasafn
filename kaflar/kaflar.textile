@@ -1,56 +1,210 @@
-h2. !/myndir/althlit.gif!Kaflar lagasafns
+<table>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<tbody>
+<tr class="odd">
+<td align="left">"!/img/logo_la.gif(Á forsíðu)!":http://www.althingi.is/</td>
+<td align="left"></td>
+<td align="left">h3. 
+ Kaflar lagasafns
+</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
-<hr />
 
-Uppfært til september 2001 (útgáfa 126b). Kaflaskipan er eins og í prentaðri útgáfu 1999.
+ Uppfært til janúar 2002 (útgáfa 127a).
 
 "Allir kaflar lagasafnsins":allir.kaflar.html
 
-# "Stjórnskipunarlög o.fl.":1.html
-# "Mannréttindi":2.html
-# "Forseti Íslands":3.html
-# "Alþingi og lagasetning":4.html
-# "Dómstólar og réttarfar":5.html
-# "Framkvæmdarvaldið":6.html
-# "Sveitarfélög":7.html
-# "Opinberir starfsmenn":8.html
-# "Stjórnsýsla":9.html
-# "Almannaskráning, hagskýrslur o.fl.":10.html
-# "Ríkisfjármál og ríkisábyrgðir":11.html
-# "Eignir og framkvæmdir ríkisins":12.html
-# "Skattar og gjöld":13.html
-# "Utanríkismál og ýmsar alþjóðastofnanir":14.html
-# "Öryggismál":15.html
-# "Ríkisborgararéttur, útlendingar o.fl.":16.html
-# "Löggæsla og almannavarnir":17.html
-# "Refsilög, fangelsismál o.fl.":18.html
-# "Fjársafnanir, happdrætti o.fl.":19.html
-# "Trúfélög og kirkjumál":20.html
-# "Menntun, æskulýðsstarfsemi og íþróttir":21.html
-# "Menningarmál":22.html
-# "Fjölmiðlun":23.html
-# "Heilbrigðismál":24.html
-# "Almannatryggingar, félagsþjónusta o.fl.":25.html
-# "Vinnuréttur":26.html
-# "Atvinnurekstur":27.html
-# "Verslun og viðskipti":28.html
-# "Bankar, lánastofnanir og verðbréfaviðskipti":29.html
-# "Vátryggingar":30.html
-# "Iðnaður":31.html
-# "Náttúruauðlindir og orkumál":32.html
-# "Sjávarútvegur, fiskveiðar og fiskirækt":33.html
-# "Landbúnaður":34.html
-# "Umhverfismál":35.html
-# "Mannvirkjagerð, húsnæðismál og brunamál":36.html
-# "Samgöngur og vöruflutningar":37.html
-# "Póstur, sími og fjarskipti":38.html
-# "Ferðaþjónusta, veitingastarfsemi o.fl.":39.html
-# "Persónuréttindi":40.html
-# "Málefni barna":41.html
-# "Sifjaréttindi":42.html
-# "Erfðaréttindi":43.html
-# "Kröfuréttindi":44.html
-# "Félög, firmu og stofnanir":45.html
-# "Hlutaréttindi":46.html
-# "Hugverka- og einkaréttindi":47.html
+!/img/box_green2.gif!
+
+1. "Stjórnskipunarlög o.fl.":1.html
+
+!/img/box_green2.gif!
+
+25. "Almannatryggingar, félagsþjónusta o.fl.":25.html
+
+!/img/box_green2.gif!
+
+2. "Mannréttindi":2.html
+
+!/img/box_green2.gif!
+
+26. "Vinnuréttur":26.html
+
+!/img/box_green2.gif!
+
+3. "Forseti Íslands":3.html
+
+!/img/box_green2.gif!
+
+27. "Atvinnurekstur":27.html
+
+!/img/box_green2.gif!
+
+4. "Alþingi og lagasetning":4.html
+
+!/img/box_green2.gif!
+
+28. "Verslun og viðskipti":28.html
+
+!/img/box_green2.gif!
+
+5. "Dómstólar og réttarfar":5.html
+
+!/img/box_green2.gif!
+
+29. "Bankar, lánastofnanir og verðbréfaviðskipti":29.html
+
+!/img/box_green2.gif!
+
+6. "Framkvæmdarvaldið":6.html
+
+!/img/box_green2.gif!
+
+30. "Vátryggingar":30.html
+
+!/img/box_green2.gif!
+
+7. "Sveitarfélög":7.html
+
+!/img/box_green2.gif!
+
+31. "Iðnaður":31.html
+
+!/img/box_green2.gif!
+
+8. "Opinberir starfsmenn":8.html
+
+!/img/box_green2.gif!
+
+32. "Náttúruauðlindir og orkumál":32.html
+
+!/img/box_green2.gif!
+
+9. "Stjórnsýsla":9.html
+
+!/img/box_green2.gif!
+
+33. "Sjávarútvegur, fiskveiðar og fiskirækt":33.html
+
+!/img/box_green2.gif!
+
+10. "Almannaskráning, hagskýrslur o.fl.":10.html
+
+!/img/box_green2.gif!
+
+34. "Landbúnaður":34.html
+
+!/img/box_green2.gif!
+
+11. "Ríkisfjármál og ríkisábyrgðir":11.html
+
+!/img/box_green2.gif!
+
+35. "Umhverfismál":35.html
+
+!/img/box_green2.gif!
+
+12. "Eignir og framkvæmdir ríkisins":12.html
+
+!/img/box_green2.gif!
+
+36. "Mannvirkjagerð, húsnæðismál og brunamál":36.html
+
+!/img/box_green2.gif!
+
+13. "Skattar og gjöld":13.html
+
+!/img/box_green2.gif!
+
+37. "Samgöngur og vöruflutningar":37.html
+
+!/img/box_green2.gif!
+
+14. "Utanríkismál og ýmsar alþjóðastofnanir":14.html
+
+!/img/box_green2.gif!
+
+38. "Póstur, sími og fjarskipti":38.html
+
+!/img/box_green2.gif!
+
+15. "Öryggismál":15.html
+
+!/img/box_green2.gif!
+
+39. "Ferðaþjónusta, veitingastarfsemi o.fl.":39.html
+
+!/img/box_green2.gif!
+
+16. "Ríkisborgararéttur, útlendingar o.fl.":16.html
+
+!/img/box_green2.gif!
+
+40. "Persónuréttindi":40.html
+
+!/img/box_green2.gif!
+
+17. "Löggæsla og almannavarnir":17.html
+
+!/img/box_green2.gif!
+
+41. "Málefni barna":41.html
+
+!/img/box_green2.gif!
+
+18. "Refsilög, fangelsismál o.fl.":18.html
+
+!/img/box_green2.gif!
+
+42. "Sifjaréttindi":42.html
+
+!/img/box_green2.gif!
+
+19. "Fjársafnanir, happdrætti o.fl.":19.html
+
+!/img/box_green2.gif!
+
+43. "Erfðaréttindi":43.html
+
+!/img/box_green2.gif!
+
+20. "Trúfélög og kirkjumál":20.html
+
+!/img/box_green2.gif!
+
+44. "Kröfuréttindi":44.html
+
+!/img/box_green2.gif!
+
+21. "Menntun, æskulýðsstarfsemi og íþróttir":21.html
+
+!/img/box_green2.gif!
+
+45. "Félög, firmu og stofnanir":45.html
+
+!/img/box_green2.gif!
+
+22. "Menningarmál":22.html
+
+!/img/box_green2.gif!
+
+46. "Hlutaréttindi":46.html
+
+!/img/box_green2.gif!
+
+23. "Fjölmiðlun":23.html
+
+!/img/box_green2.gif!
+
+47. "Hugverka- og einkaréttindi":47.html
+
+!/img/box_green2.gif!
+
+24. "Heilbrigðismál":24.html
 

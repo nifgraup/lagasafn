@@ -96,25 +96,19 @@ h2. Lög um ársreikninga
  □ Framleiðslukostnaðarverð varanlegra rekstrarfjármuna samanstendur af kostnaðarverði hráefnis og hjálparefna, svo og vinnuafls að viðbættum kostnaðarauka sem beint eða óbeint leiðir af framleiðslu fjármunanna. Til kostnaðarverðs má enn fremur telja eðlilegt hlutfall af útgjöldum sem óbeint tengjast framleiðslunni enda hafi þau fallið til á framleiðslutímanum.
  □ Til kostnaðarverðs má enn fremur telja fjármagnskostnað af lánsfé sem nýtt er til að fjármagna kaup eða framleiðslu varanlegra rekstrarfjármuna á framleiðslutímanum. Ef fjármagnskostnaður er talinn til kostnaðarverðs skal greint frá því í skýringum.
  □ Eignarleigusamningar skulu í samræmi við samningsákvæði og góða reikningsskilavenju færðir í efnahagsreikning ef þeir nema verulegum fjárhæðum.
-■ *23. gr.* Varanlegir rekstrarfjármunir, sem nýtast takmarkaðan tíma vegna aldurs, úreldingar, slits eða af hliðstæðum ástæðum, skulu afskrifaðir árlega á kerfisbundinn hátt á áætluðum endingartíma þeirra. Ef þessir fjármunir eru endurmetnir samkvæmt ákvæðum 25. gr. ber að reikna afskriftir af framreiknuðu kostnaðarverði þeirra eins og það er á hverjum tíma.
-■ *24. gr.* Ef raunvirði fastafjármuna er lægra en bókfært verð þeirra skv. 22. eða 23. gr. og ástæður þess verða ekki taldar skammvinnar ber að færa verð þeirra niður að því marki sem telja verður nauðsynlegt samkvæmt góðri reikningsskilavenju.
+■ *23. gr.* Varanlegir rekstrarfjármunir, sem nýtast takmarkaðan tíma vegna aldurs, úreldingar, slits eða af hliðstæðum ástæðum, skulu afskrifaðir árlega á kerfisbundinn hátt á áætluðum endingartíma þeirra. Ef þessir fjármunir eru endurmetnir samkvæmt ákvæðum 25. gr. ber að reikna afskriftir af [hækkuðu bókfærðu verði][^1)^] þeirra eins og það er á hverjum tíma.
+    _[^1)^]_"L. 133/2001, 50. gr.":/altext/stjt/2001.133.html Breytingin kemur til framkvæmda við álagningu á árinu 2003, sbr. "56. gr. s.l.":/altext/stjt/2001.133.html
+ ■ *24. gr.* Ef raunvirði fastafjármuna er lægra en bókfært verð þeirra skv. 22. eða 23. gr. og ástæður þess verða ekki taldar skammvinnar ber að færa verð þeirra niður að því marki sem telja verður nauðsynlegt samkvæmt góðri reikningsskilavenju.
  □ Heimilt er að meta áhættufjármuni og langtímakröfur til markaðsverðs á reikningsskiladegi ef það er lægra en bókfært verð. Slíkar eignir skulu sæta niðurfærslu ef þess gerist sérstök þörf, svo sem vegna hættu á að kröfur muni ekki innheimtast eða af öðrum ástæðum. Niðurfærslur samkvæmt þessari grein skulu færðar í rekstrarreikning.
  □ Ef eignir hafa verið færðar niður skv. 1. eða 2. mgr. og ástæður verðlækkunarinnar eiga ekki lengur við ber að færa bókfært verð þeirra til fyrra horfs.
  □ Matsbreytingar skv. 1. - 3. mgr. skal færa í rekstrarreikning. Ef þær eru ekki sérgreindar í rekstrarreikningnum skal gera grein fyrir þeim í skýringum, enda sé um verulegar fjárhæðir að ræða.
-■ *25. gr.* Taka má tillit til áhrifa almennra verðlagsbreytinga á rekstur og efnahag félaga með eftirtöldum aðferðum:
-    a. Heimilt er að leiðrétta liði ársreiknings, þar með talið eigið fé, vegna áhrifa verðbólgu. Slíkar leiðréttingar skulu bæði taka til rekstrarreiknings og efnahagsreiknings.
-    b. Ef raunvirði fastafjármuna er verulega hærra en kostnaðarverð eða framreiknað kostnaðarverð þeirra af ástæðum sem taldar eru varanlegar er heimilt að hækka bókfært verð þeirra í ársreikningi.
- □ Matsbreytingar skv. 1. mgr. skal færa á endurmatsreikning meðal eigin fjár.
- □ Endurmatsreikningi, sem myndaður er skv. a-lið 1. mgr., má aðeins ráðstafa með eftirfarandi hætti:
-    a. til hækkunar á hlutafé með útgáfu jöfnunarhlutabréfa;
-    b. til að verðbæta lögbundinn varasjóð, að því marki sem svarar útgefnum jöfnunarbréfum;
-    c. til að verðbæta annað eigið fé í samræmi við verðlagsbreytingar;
-    d. nú nemur endurmatsreikningur hærri eða lægri fjárhæð en framreikningi á innborguðu eigin fé í samræmi við almennar verðlagsbreytingar og er þá heimilt að færa mismuninn á annað eigið fé;
-    e. nú er endurmatsreikningur neikvæður í lok reikningsárs og er þá heimilt að jafna hann á móti öðru eigin fé.
- □ Endurmatsreikning, sem myndaður er skv. b-lið 1. mgr., má aðeins leysa upp ef hin endurmetna eign er seld, tekin úr notkun eða fullafskrifuð, svo og ef forsendur fyrir endurmatinu eru ekki lengur fyrir hendi.
+■ *25. gr.* [Ef raunvirði fastafjármuna er talið verulega hærra en kostnaðarverð eða framreiknað kostnaðarverð þeirra af ástæðum sem taldar eru varanlegar er heimilt að hækka bókfært verð þeirra í ársreikningi.
+ □ Matsbreytingar skv. 1. mgr. skal færa á sérstakan endurmatsreikning meðal eigin fjár.
+ □ Endurmatsreikning, sem myndaður er skv. 2. mgr., má aðeins leysa upp ef hin endurmetna eign er seld, tekin úr notkun eða fullafskrifuð, svo og ef forsendur fyrir endurmatinu eru ekki lengur fyrir hendi.
  □ Hreyfingar á endurmatsreikningi á reikningsárinu skal sundurliða í skýringum.
- □ Ef beitt er ákvæðum 1. mgr. skal í skýringum gera nákvæma grein fyrir þeim aðferðum sem viðhafðar eru.
-■ *26. gr.* Veltufjármuni skal ekki færa til eignar við hærra verði en kostnaðarverði eða raunvirði ef það er lægra.
+ □ Ef beitt er ákvæðum 1. mgr. skal í skýringum gera nákvæma grein fyrir þeim aðferðum sem viðhafðar eru.][^1)^]
+    _[^1)^]_"L. 133/2001, 51. gr.":/altext/stjt/2001.133.html Breytingin kemur til framkvæmda við álagningu á árinu 2003, sbr. "56. gr. s.l.":/altext/stjt/2001.133.html
+ ■ *26. gr.* Veltufjármuni skal ekki færa til eignar við hærra verði en kostnaðarverði eða raunvirði ef það er lægra.
  □ Kostnaðarverð veltufjármuna samanstendur af kaupverði og þeim kostnaði sem tengist beint öflun þeirra. Til kostnaðarverðs má enn fremur telja eðlilegt hlutfall af útgjöldum sem tengjast öfluninni óbeint enda hafi útgjöldin fallið til á sama tímabili og eignanna var aflað eða þær voru framleiddar.
 ■ *27. gr.* Kostnaðarverð vörubirgða er heimilt að ákvarða sem vegið meðalverð allra birgða af sama tagi á grundvelli síðasta innkaupsverðs eða með annarri viðurkenndri aðferð. Vörubirgðir skulu þó aldrei metnar við hærra verði en dagverði.
  □ Ef vörubirgðir eru metnar við dagverði og það er verulega lægra en kostnaðarverð skal gera grein fyrir því í skýringum.
@@ -287,9 +281,9 @@ h2. Lög um ársreikninga
 
  *IX. kafli.* *Reikningsskilaráð og góð reikningsskilavenja.*
  ■ *79. gr.* Ráðherra skal skipa fimm sérfróða menn til fjögurra ára í senn í nefnd sem nefnist reikningsskilaráð. Skal einn nefndarmanna tilnefndur af Félagi löggiltra endurskoðenda, annar af viðskipta- og hagfræðideild Háskóla Íslands, þriðji af Verslunarráði Íslands, sá fjórði skal vera ríkisendurskoðandi en einn nefndarmaður er skipaður án tilnefningar. Ráðherra skipar formann reikningsskilaráðs úr hópi nefndarmanna.
-■ *80. gr.* Reikningsskilaráð skal stuðla að mótun góðrar reikningsskilavenju með útgáfu og kynningu samræmdra reglna[^1)^] sem farið skal eftir við gerð reikningsskila. Ráðið skal gefa álit á því hvað telst góð reikningsskilavenja á hverjum tíma. Reikningskilaráð skal árlega auglýsa í Lögbirtingablaðinu skrá yfir útgefnar reglur og álit.
+■ *80. gr.* Reikningsskilaráð skal stuðla að mótun góðrar reikningsskilavenju með útgáfu og kynningu samræmdra reglna[^1)^] sem farið skal eftir við gerð reikningsskila. Ráðið skal gefa álit á því hvað telst góð reikningsskilavenja á hverjum tíma. [Birta skal reglur reikningsskilaráðs í B-deild Stjórnartíðinda.][^2)^]
  □ Ráðið skal starfa í nánu samráði við Félag löggiltra endurskoðenda og hagsmunaaðila. Það getur einnig verið stjórnvöldum til ráðuneytis um ákvæði sem sett eru í lögum eða reglugerðum um reikningsskil.
-    _[^1)^]Augl. 670/1999_, augl. 671/1999, augl. 349/2000.
+    _[^1)^]Augl. 670/1999_, augl. 671/1999, augl. 349/2000. [^2)^]"L. 133/2001, 52. gr.":/altext/stjt/2001.133.html
  ■ *81. gr.* Ráðherra ákveður skiptingu kostnaðar við störf reikningsskilaráðs að höfðu samráði við tilnefningaraðila.
 
  *[X. kafli.* *Viðurlög og málsmeðferð.][^1)^]*
@@ -325,13 +319,18 @@ h2. Lög um ársreikninga
     _[^1)^]"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html_
  ■ *[89. gr.][^1)^]* Ráðherra getur sett reglugerð[^2)^] um framkvæmd laga þessara, þar á meðal um uppsetningu ársreikninga og samstæðureikninga, óstyttra og samandreginna, svo og um skil á þeim og birtingu þeirra.
  □ Viðmiðunarmörkin í 1. og 2. tölul. 2. mgr. 2. gr. og 1. og 2. tölul. 6. gr., svo og 59. gr. og 77. gr., eru grunnfjárhæðir sem miðast við gengi í ECU 1. janúar 1995. Ráðherra er heimilt að breyta þessum fjárhæðum til samræmis við breytingar á 4. tilskipun ESB eða ef verulegar breytingar verða á gengi ECU.[^3)^]
-    _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]"Rg. 134/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/134-1996, "rg. 801/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/801-1998, sbr. "243/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/243-2000. [^3)^]"Rg. 242/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/242-2000.
+    _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]"Rg. 134/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/134-1996, "rg. 523/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/523-2001. [^3)^]"Rg. 242/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/242-2000.
  ■ *[90. gr.][^1)^]* ...[^2)^]
     _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]"L. 37/1995, 4. gr.":/altext/stjt/1995.037.html
  ■ *[91. gr.][^1)^]* Lög þessi öðlast gildi 1. janúar 1995 og skulu gilda um ársreikninga og samstæðureikninga fyrir hvert það reikningsár sem hefst frá og með þeim tíma.
     _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html
  ■ *[92. gr.][^1)^]* ...
     _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html
+
+ *Ákvæði til bráðabirgða.*
+ ■ *[I.* Við fyrstu reikningsskil eftir gildistöku laga þessara skal leysa upp endurmatsreikning sem myndaður hefur verið skv. a-lið 1. mgr. 25. gr. og færa með öðru óráðstöfuðu eigin fé félagsins.][^1)^]
+    _[^1)^]_"L. 133/2001, 53. gr.":/altext/stjt/2001.133.html Breytingin kemur til framkvæmda við álagningu á árinu 2003, sbr. "56. gr. s.l.":/altext/stjt/2001.133.html
+ ■ *[II.* Félögum skv. 1. mgr. 1. gr. er heimilt að taka tillit til áhrifa almennra verðlagsbreytinga við gerð ársreikninga vegna reikningsára sem hefjast á árunum 2002 og 2003 í samræmi við a-lið 1. mgr. 25. gr., sbr. 3. mgr. sömu greinar fyrir gildistöku laga þessara.][^1)^]   _[^1)^]_"L. 133/2001, 53. gr.":/altext/stjt/2001.133.html Breytingin kemur til framkvæmda við álagningu á árinu 2003, sbr. "56. gr. s.l.":/altext/stjt/2001.133.html
 
 
 

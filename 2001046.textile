@@ -1,12 +1,11 @@
 <hr />
 
-h2. Lög um hönnun[^1)^]
+h2. Lög um hönnun
 
 *2001 nr. 46 19. maí*
 
 <hr />
 
-   _[^1)^]Lögin öðlast gildi 1. október 2001, sbr. 60. gr._
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* Hönnuður eða sá sem sækir rétt sinn til hans getur með skráningu samkvæmt lögum þessum öðlast einkarétt á hönnun (hönnunarrétt).
@@ -170,12 +169,13 @@ h2. Lög um hönnun[^1)^]
  □ Mál varðandi hönnun má ætíð höfða gegn þeim sem er skráður eigandi í hönnunarskrá og skulu tilkynningar Einkaleyfastofunnar sendar honum.
 ■ *52. gr.* Einkaleyfastofunni er eftir beiðni heimilt að taka að sér sérstök verkefni á sviði hönnunar og hönnunarréttar.
  □ Iðnaðarráðherra setur reglur um slíka þjónustu og greiðslu fyrir hana, sbr. 53. gr.
-■ *53. gr.* Iðnaðarráðherra setur nánari reglur um framkvæmd laga þessara, m.a. um hönnunarumsóknir og meðferð þeirra, meðferð andmælamála, endurnýjun og brottfall hönnunarskráningar, færslu í hönnunarskrá, efni og útgáfu ELS-tíðinda og verklag Einkaleyfastofunnar. Þá skal ráðherra ákveða gjöld samkvæmt lögunum, sbr. 36. gr.
+■ *53. gr.* Iðnaðarráðherra setur nánari reglur[^1)^] um framkvæmd laga þessara, m.a. um hönnunarumsóknir og meðferð þeirra, meðferð andmælamála, endurnýjun og brottfall hönnunarskráningar, færslu í hönnunarskrá, efni og útgáfu ELS-tíðinda og verklag Einkaleyfastofunnar. Þá skal ráðherra ákveða gjöld samkvæmt lögunum, sbr. 36. gr.
  □ Gjöld skulu standa straum af kostnaði við rekstur Einkaleyfastofunnar vegna hönnunarmálefna og við þjónustu sem veitt er, m.a. könnun Einkaleyfastofunnar á formskilyrðum og jafnvel efnisskilyrðum venjulegra umsókna, alþjóðlegra umsókna og endurupptekinna umsókna, þjónustu vegna samskráningar, birtingu, m.a. á myndum, yfirfærslu alþjóðlegra umsókna, umsýslu vegna endurnýjunar umsókna, könnun vegna ógildingar skráningar, útskriftir úr hönnunarskrám og þjónustuverkefni.
  □ Gjöld samkvæmt lögum þessum renna beint til Einkaleyfastofunnar og innheimtir hún gjöldin.
+    _[^1)^]_"Rg. 41/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/041-2000, "rg. 706/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/706-2001, "rg. 916/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/916-2001.
 
  *X. kafli.* *Alþjóðleg skráning hönnunar.*
-■ *54. gr.* Með alþjóðlegri skráningu hönnunar er átt við skráningu hönnunar samkvæmt Genfarsamningnum frá 2. júlí 1999 um breytingu á Haag-samningnum um alþjóðlega skráningu hönnunar á sviði iðnaðar.
+ ■ *54. gr.* Með alþjóðlegri skráningu hönnunar er átt við skráningu hönnunar samkvæmt Genfarsamningnum frá 2. júlí 1999 um breytingu á Haag-samningnum um alþjóðlega skráningu hönnunar á sviði iðnaðar.
 ■ *55. gr.* Umsókn um alþjóðlega skráningu hönnunar skal lögð inn hjá Einkaleyfastofunni eða alþjóðaskrifstofunni er starfar á vegum Alþjóðahugverkastofnunarinnar (WIPO). Skilyrði fyrir viðtöku umsóknar um alþjóðlega skráningu samkvæmt lögum þessum hér á landi er að umsækjandi sé íslenskur ríkisborgari, íslenskur lögaðili eða einstaklingur búsettur hér á landi eða að aðili reki hér á landi virka atvinnustarfsemi.
  □ Sé umsókn um alþjóðlega skráningu hönnunar lögð inn hjá Einkaleyfastofunni skal stofnunin senda hana áfram til alþjóðaskrifstofunnar. Fyrir móttöku og meðferð umsókna skal greiða tilskilið gjald, sbr. 53. gr.
 ■ *56. gr.* Telji Einkaleyfastofan alþjóðlega skráningu hönnunar óskráningarhæfa hér á landi skal alþjóðaskrifstofunni send niðurstaða Einkaleyfastofunnar ásamt rökstuðningi innan tilgreinds frests. Eiganda skráningar er heimilt að tjá sig um málið og óska eftir því að það verði tekið til skoðunar að nýju. Eigandi skráningar skal þá tilnefna umboðsmann skv. 47. gr.
