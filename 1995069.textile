@@ -87,12 +87,25 @@ h2. Lög um greiðslu ríkissjóðs á bótum til þolenda afbrota
 
 7. gr.
 
-     Bætur vegna einstaks verknaðar skulu ekki greiddar nemi þær lægri fjárhæð en 10.000 kr.
-      Fyrir tjón á munum skulu ekki greiddar hærri bætur en 500.000 kr.
-      Fyrir líkamstjón skulu ekki greiddar hærri bætur en 5.000.000 kr.
-      Fyrir miska skulu ekki greiddar hærri bætur en 1.000.000 kr.
-      Fyrir missi framfæranda skulu ekki greiddar hærri bætur en 3.000.000 kr.
-      Fjárhæðir samkvæmt þessari grein taka verðlagsbreytingum skv. 15. gr. skaðabótalaga.
+     [Bætur vegna einstaks verknaðar skulu ekki greiddar nema höfuðstóll kröfu sé 100.000 kr. eða hærri.
+      Af dæmdum eða ákvörðuðum bótum, að vöxtum meðtöldum, greiðir ríkissjóður ekki hærri fjárhæð en:
+
+<dl>
+<dt>a.</dt>
+<dd>250.000 kr. fyrir tjón á munum,</dd>
+<dt>b.</dt>
+<dd>2.500.000 kr. fyrir líkamstjón,</dd>
+<dt>c.</dt>
+<dd>600.000 kr. fyrir miska,</dd>
+<dt>d.</dt>
+<dd>2.500.000 kr. fyrir missi framfæranda.][^1)^]</dd>
+</dl>
+
+
+
+
+_[^1)^]"L. 144/1995, 18. gr.":/altext/stjt/1995.144.html_
+
 
 
 
@@ -190,14 +203,23 @@ h2. Lög um greiðslu ríkissjóðs á bótum til þolenda afbrota
 
 20. gr.
 
-     Lög þessi öðlast gildi 1. janúar 1996 og gilda um tjón sem leiðir af brotum sem framin voru 1. janúar 1993 og síðar.
+     Lög þessi öðlast gildi [1. júlí 1996][^1)^] og gilda um tjón sem leiðir af brotum sem framin voru 1. janúar 1993 og síðar.
+
+
+_[^1)^]"L. 144/1995, 19. gr.":/altext/stjt/1995.144.html_
+
 
 
 
 *Ákvæði til bráðabirgða.*
 
-
-      Umsókn um bætur vegna tjóns sem leiðir af broti sem framið er fyrir 1. janúar 1996 skal hafa borist bótanefnd innan árs frá gildistöku laganna.
+     Umsókn um bætur vegna tjóns sem leiðir af broti sem framið er fyrir [1. júlí 1996][^1)^] skal hafa borist bótanefnd innan árs frá gildistöku laganna.
+      [Gagnvart ríkissjóði ber krafa um bætur vegna verknaðar sem framinn var fyrir gildistöku laga þessara fyrst vexti frá 1. júlí 1996.][^1)^]
       Dómsmálaráðherra skal á ári hverju til ársloka 2000 gera Alþingi grein fyrir þeim útgjöldum sem lög þessi hafa í för með sér.
+
+
+_[^1)^]"L. 144/1995, 20. gr.":/altext/stjt/1995.144.html_
+
+
 
 

@@ -54,13 +54,17 @@ h2. Lög um tekjustofna sveitarfélaga
 <dd>Allt að [^1^]/[~2~]% af álagningarstofni:</dd>
 <dd><p>Íbúðir og íbúðarhús ásamt lóðarréttindum, erfðafestulönd og jarðeignir, sem ekki eru nytjaðar til annars en landbúnaðar, útihús og mannvirki á bújörðum, sem tengd eru landbúnaði, og sumarbústaðir ásamt lóðarréttindum.</p></dd>
 <dt>b.</dt>
-<dd>Allt að 1,12% af álagningarstofni:</dd>
+<dd>Allt að [1,32%][^1)^] af álagningarstofni:</dd>
 <dd><p>Allar aðrar fasteignir.</p></dd>
 </dl>
 
      Heimilt er sveitarstjórn að hækka um allt að 25% hundraðshluta þá, sem tilgreindir eru í 3. mgr. þessarar greinar, samkvæmt öðrum hvorum eða báðum stafliðum.
       Í sveitarfélagi, þar sem bæði er þéttbýli og dreifbýli, er sveitarstjórn heimilt að undanþiggja fasteignir í dreifbýli álagi á fasteignaskatt skv. 4. mgr.
       Fyrir 1. desember ár hvert skal Fasteignamat ríkisins láta sveitarfélögunum í té skrár yfir álagningarstofn fasteignaskatts í hverju sveitarfélagi, sbr. 2. mgr.
+
+
+_[^1)^]"L. 148/1995, 1. gr.":/altext/stjt/1995.148.html_
+
 
 
 
@@ -164,31 +168,39 @@ h2. Lög um tekjustofna sveitarfélaga
 <dt>b.</dt>
 <dd>Til að greiða úr sérstökum fjárhagserfiðleikum sveitarfélaga, sbr. 90. gr. sveitarstjórnarlaga.</dd>
 <dt>c.</dt>
-<dd>Til kostnaðarsamra stofnframkvæmda hjá fámennum sveitarfélögum, allt að 8% af vergum tekjum sjóðsins, sbr. 13. gr.</dd>
+<dd>Til kostnaðarsamra stofnframkvæmda hjá fámennum sveitarfélögum, allt að [10,5%][^1)^] af vergum tekjum sjóðsins, sbr. 13. gr.</dd>
 <dt>d.</dt>
-<dd>Til að aðstoða dreifbýlissveitarfélög til að standa undir auknum rekstrarkostnaði við grunnskóla vegna breyttrar verkaskiptingar ríkis og sveitarfélaga, allt að 15,5% af vergum tekjum sjóðsins, sbr. 14. gr.</dd>
+<dd>Til að aðstoða dreifbýlissveitarfélög til að standa undir auknum rekstrarkostnaði við grunnskóla vegna breyttrar verkaskiptingar ríkis og sveitarfélaga, allt að [18,5%][^1)^] af vergum tekjum sjóðsins, sbr. 14. gr.</dd>
 <dt>e.</dt>
-<dd>Til að bæta upp annan aukinn kostnað vegna breyttrar verkaskiptingar ríkis og sveitarfélaga, allt að 7,3% af vergum tekjum sjóðsins.</dd>
+<dd>...[^1)^]</dd>
 </dl>
 
-     Heimilt er að færa fjármagn milli c-, d- og e-liða.
+     [Heimilt er að færa fjármagn milli c- og d-liða.][^1)^]
+
+
+_[^1)^]"L. 148/1995, 2. gr.":/altext/stjt/1995.148.html_
+
 
 
 
 12. gr.
 
-     Jöfnunarframlögum skal úthlutað sem hér segir:
-
+     [Jöfnunarframlög skiptast í tvennt, tekjujöfnunarframlög og þjónustuframlög, og skal þeim úthlutað sem hér segir:
 
 <dl>
 <dt>a.</dt>
-<dd>Til sveitarfélaga sem hafa lægri skatttekjur en sambærileg sveitarfélög miðað við meðalnýtingu tekjustofna þeirra.</dd>
+<dd>Tekjujöfnunarframlögum skal úthlutað til að jafna tekjur sveitarfélaga. Jöfnunin skal miðuð við sambærileg sveitarfélög og fullnýtingu tekjustofna þeirra.</dd>
 <dt>b.</dt>
-<dd>Til sveitarfélaga sem skortir tekjur til að halda uppi þeirri þjónustu sem eðlilegt má telja að sveitarfélag af þeirri stærð veiti.</dd>
+<dd>Þjónustuframlögum skal úthlutað til að jafna mismunandi útgjaldaþörf sveitarfélaga með sérstöku tilliti til stærðarhagkvæmni þeirra.</dd>
 </dl>
 
-     Til jöfnunarframlaga skal verja þeim tekjum sjóðsins sem eru umfram ráðstöfun skv. 10. og 11. gr.
-      Í reglugerð skal meðal annars setja nánari ákvæði um útreikning jöfnunarframlaga og hvaða skilyrðum sveitarfélög þurfa að fullnægja til að hljóta þau.
+
+      Til jöfnunarframlaga skal verja þeim tekjum sjóðsins sem eru umfram ráðstöfun skv. 10. og 11. gr.
+      Í reglugerð skal meðal annars setja nánari ákvæði um útreikning jöfnunarframlaga, viðmiðanir um útgjaldaþörf sveitarfélaga, sbr. b-lið 1. mgr., með tilliti til íbúafjölda og verkefna og hvaða skilyrðum sveitarfélög þurfi að fullnægja til að hljóta þau.][^1)^]
+
+
+_[^1)^]"L. 148/1995, 3. gr.":/altext/stjt/1995.148.html_
+
 
 
 
@@ -201,15 +213,23 @@ h2. Lög um tekjustofna sveitarfélaga
 
 14. gr.
 
-     Framlögum skv. e-lið 11. gr. skal varið til að bæta dreifbýlissveitarfélögum upp aukinn kostnað vegna breytinga á verkaskiptingu ríkis og sveitarfélaga sem koma til framkvæmda samhliða lögum þessum.
+     [Framlögum skv. d-lið 11. gr. skal varið til að bæta dreifbýlissveitarfélögum upp aukinn kostnað við grunnskóla vegna breyttrar verkaskiptingar ríkis og sveitarfélaga.][^1)^]
       Framlögin skulu miðuð við að hagur þessara sveitarfélaga verði ekki lakari eftir breytingar á verkaskiptingunni heldur en áður var.
       Í reglugerð skal meðal annars setja nánari ákvæði um útreikning þessara framlaga og hvaða skilyrðum sveitarfélög þurfa að fullnægja til að hljóta þau.
+
+
+_[^1)^]"L. 148/1995, 4. gr.":/altext/stjt/1995.148.html_
+
 
 
 
 15. gr.
 
-     Að afloknum sveitarstjórnarkosningum skipar félagsmálaráðherra fimm manna ráðgjafarnefnd til fjögurra ára sem gera skal tillögur til ráðherra um framlög skv. c-, d- og e-lið 11. gr. og skv. 12. gr. Fjórir nefndarmenn skulu skipaðir samkvæmt tilnefningu Sambands íslenskra sveitarfélaga en einn án tilnefningar og skal hann vera formaður nefndarinnar. Varamenn skulu tilnefndir með sama hætti.
+     Að afloknum sveitarstjórnarkosningum skipar félagsmálaráðherra fimm manna ráðgjafarnefnd til fjögurra ára sem gera skal tillögur til ráðherra um framlög [skv. c- og d-lið][^1)^] 11. gr. og skv. 12. gr. Fjórir nefndarmenn skulu skipaðir samkvæmt tilnefningu Sambands íslenskra sveitarfélaga en einn án tilnefningar og skal hann vera formaður nefndarinnar. Varamenn skulu tilnefndir með sama hætti.
+
+
+_[^1)^]"L. 148/1995, 5. gr.":/altext/stjt/1995.148.html_
+
 
 
 
@@ -356,7 +376,11 @@ _[^1)^]Ákvæði 2. mgr. komi til framkvæmda við álagningu 1996 vegna tekna �
 32. gr.
 
      Séu gjöld samkvæmt lögum þessum eigi greidd innan mánaðar frá gjalddaga skal greiða sveitarstjórn dráttarvexti af því sem gjaldfallið er. Með gjalddaga í þessu sambandi er átt við reglulega gjalddaga skv. 4. mgr. 4. gr. og 3. og 5. mgr. 27. gr., en gjaldfelling vegna vangreiðslu á hluta skv. 5. mgr. 4. gr. og 4. mgr. 27. gr. hefur ekki áhrif á dráttarvaxtaútreikning. Um dráttarvexti gilda ákvæði III. kafla "vaxtalaga, nr. 25/1987":1987025.html.
-      Nú verður ljóst þegar álagningu sveitarsjóðsgjalda lýkur eða við endurákvörðun þeirra að gjaldandi hefur greitt meira en endanlegu álögðu gjaldi nemur og skal þá endurgreiða það sem ofgreitt var ásamt vöxtum fyrir það tímabil sem féð var í vörslu sveitarstjórnar. Skulu vextir þessir jafnháir vöxtum sem greiddir eru af almennum sparisjóðsinnstæðum í Landsbanka Íslands á hverjum tíma.
+      Nú verður ljóst þegar álagningu sveitarsjóðsgjalda lýkur eða við endurákvörðun þeirra að gjaldandi hefur greitt meira en endanlegu álögðu gjaldi nemur og skal þá endurgreiða það sem ofgreitt var ásamt vöxtum fyrir það tímabil sem féð var í vörslu sveitarstjórnar. [Skulu vextir þessir vera jafnháir hæstu vöxtum óbundinna sparireikninga á hverjum tíma.][^1)^]
+
+
+_[^1)^]"L. 148/1995, 6. gr.":/altext/stjt/1995.148.html_
+
 
 
 
@@ -386,11 +410,39 @@ _[^1)^]Rg. 542/1989, sbr. 395/1990._
 *Ákvæði til bráðabirgða.*
 
 
-      Sérstakan fasteignaskatt, sem nema skal 1,25% að hámarki af álagningarstofni, er heimilt að leggja á fasteignir sem nýttar eru við verslunarrekstur eða til skrifstofuhalds, ásamt tilheyrandi lóð, enda þótt um leigulóð sé að ræða. Skattskylda samkvæmt þessu ákvæði hvílir á aðilum sem skattskyldir eru samkvæmt ákvæðum "I. kafla laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, eða "lögum nr. 65/1982":1982065.html, um skattskyldu innlánsstofnana, með síðari breyting  um. Skattskyldan nær til sömu aðila og samkvæmt fyrri lögum um sama efni. Álagningarstofn skal vera fasteignamatsverð í árslok áður en álagning fer fram. Ef fasteignamat er ekki fyrir hendi skal miða við kostnaðar- eða kaupverð eignar eða áætlað fasteignamatsverð. Við ákvörðun á því hvaða eignir myndi stofn til skatts samkvæmt þessu ákvæði skal miða við raunverulega notkun fasteignar í árslok áður en álagning fer fram. Sé sama eignin notuð við verslunarrekstur eða til skrifstofuhalds, en einnig til annars, skal við ákvörðun á skattstofni skipta verðmæti eignarinnar hlutfallslega. Skattur samkvæmt ákvæði þessu rennur óskiptur til sveitarsjóðs. Sveitarstjórn annast álagningu og innheimtu skattsins en getur falið sérstökum innheimtuaðila innheimtuna.
+      Sérstakan fasteignaskatt, sem nema skal 1,25% að hámarki af álagningarstofni, er heimilt að leggja á fasteignir sem nýttar eru við verslunarrekstur eða til skrifstofuhalds, ásamt tilheyrandi lóð, enda þótt um leigulóð sé að ræða. Skattskylda samkvæmt þessu ákvæði hvílir á aðilum sem skattskyldir eru samkvæmt ákvæðum "I. kafla laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, eða "lögum nr. 65/1982":1982065.html, um skattskyldu innlánsstofnana, með síðari breytingum. Skattskyldan nær til sömu aðila og samkvæmt fyrri lögum um sama efni. Álagningarstofn skal vera fasteignamatsverð í árslok áður en álagning fer fram. Ef fasteignamat er ekki fyrir hendi skal miða við kostnaðar- eða kaupverð eignar eða áætlað fasteignamatsverð. Við ákvörðun á því hvaða eignir myndi stofn til skatts samkvæmt þessu ákvæði skal miða við raunverulega notkun fasteignar í árslok áður en álagning fer fram. Sé sama eignin notuð við verslunarrekstur eða til skrifstofuhalds, en einnig til annars, skal við ákvörðun á skattstofni skipta verðmæti eignarinnar hlutfallslega. Skattur samkvæmt ákvæði þessu rennur óskiptur til sveitarsjóðs. Sveitarstjórn annast álagningu og innheimtu skattsins en getur falið sérstökum innheimtuaðila innheimtuna.
       Eigendur fasteigna skulu senda því sveitarfélagi, sem eign er í, skrá yfir eignir sem falla undir ákvæði þetta ásamt upplýsingum um síðasta heildarfasteignamatsverð þeirra, eða eftir atvikum kostnaðarverð. Enn fremur skal skrá þar upplýsingar um notkun þeirra, svo og upplýsingar um rúmmál eigna sem einnig eru notaðar til annars en verslunarreksturs og skrifstofuhalds. Sveitarstjórn auglýsir frest eigenda til að skila upplýsingum þeim er að framan greinir. Vanræki húseigandi að senda skrá yfir eignir sem ákvæði þetta tekur til er sveitarstjórn heimilt að nota aðrar upplýsingar til viðmiðunar við álagningu þar til húseigandi bætir úr. Skattyfirvöld skulu veita sveitarstjórnum þær upplýsingar sem þörf er á í sambandi við framkvæmd ákvæðis þessa, þar á meðal skal heimila sveitarstjórnum aðgang að skrám yfir aðila sem skattlagðir voru á grundvelli "V. kafla laga nr. 111/1992":/altext/stjt/1992.111.html, um breytingar í skattamálum.
+      [Sérstakur fasteignaskattur skv. 1. mgr. leggst á álagningarstofn í stiglækkandi þrepum sem hér segir:
+
+
+Árið 1996 0,937%.
+
+Árið 1997 0,625%.
+
+Árið 1998 0,313%.
+
+Árið 1999 fellur skatturinn niður.
+
+
+      Þrátt fyrir ákvæði b-liðar 3. mgr. 3. gr. laganna skal hámark fasteignaskatts samkvæmt þessum lið vera sem hér segir miðað við álagningarstofn og hækka þannig í þrepum:
+
+
+Árið 1996 1,17%.
+
+Árið 1997 1,22%.
+
+Árið 1998 1,27%.
+
+Árið 1999 1,32%.][^1)^]
+
+
       Ákvæði II. kafla laga þessara sem taka til fasteignaskatts skulu jafnframt gilda um sérstakan skatt á skrifstofu- og verslunarhúsnæði samkvæmt þessu ákvæði eftir því sem við getur átt.
       Ráðherra er heimilt að setja með reglugerð nánari ákvæði um framkvæmd ákvæðis þessa.
-      Bráðabirgðaákvæði þetta gildir þar til félagsmálaráðuneytið og Samband íslenskra sveitarfélaga hafa unnið að nánari útfærslu málsins með það að markmiði að þessi sérstaki viðbótarskattur á skrifstofu- og verslunarhúsnæði falli að núverandi fyrirkomulagi við álagningu fasteignaskatts sveitarfélaga.
+      [Bráðabirgðaákvæði þetta gildir þar til álagningu árið 1999 á grundvelli ákvæðisins er lokið.][^2)^]
+
+
+_[^1)^]"L. 148/1995, 7. gr.":/altext/stjt/1995.148.html[^2)^]"L. 148/1995, 8. gr.":/altext/stjt/1995.148.html_
+
 
 
 

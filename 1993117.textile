@@ -123,6 +123,11 @@ _A. Almenn ákvæði._
 10. gr.
 
      Lífeyristryggingar taka til ellilífeyris, örorkulífeyris, tekjutryggingar, örorkustyrkja, barnalífeyris og bóta í fæðingarorlofi.
+      [Nema annað sé tilgreint teljast til tekna skv. II. kafla laga þessara tekjur skv. "II. kafla laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, að frádregnum tekjum skv. A-lið 1. mgr. "30. gr. sömu laga":1981075.html#g30. Við ákvörðun tekjugrundvallar skulu tekjur skv. 3. tölul. C-liðar "7. gr. laga nr. 75/1981":1981075.html#g7, um tekjuskatt og eignarskatt, metnar að 50 hundraðshlutum.][^1)^]
+
+
+_[^1)^]"L. 144/1995, 28. gr.":/altext/stjt/1995.144.html_
+
 
 
 
@@ -139,13 +144,13 @@ _Ellilífeyrir._
 
 
       Rétt til ellilífeyris eiga þeir sem eru 67 ára eða eldri og átt hafa lögheimili hér á landi a.m.k. þrjú almanaksár frá 16 til 67 ára aldurs. Fullur árlegur ellilífeyrir, 147.948 kr., greiðist þeim einstaklingum sem átt hafa lögheimili hér á landi a.m.k. 40 almanaksár frá 16 til 67 ára aldurs, sbr. þó 2. mgr. Sé um skemmri tíma að ræða greiðist ellilífeyrir í hlutfalli við lögheimilistímann.
-      Ellilífeyri skal skerða ef árstekjur einstaklinga eða hjóna hvors um sig eru hærri en 853.397 kr. Ef tekjur eru umfram umrædd mörk skal skerða ellilífeyri um 25% þeirra tekna sem umfram eru uns hann fellur niður. [Til tekna í þessu sambandi teljast ekki bætur almannatrygginga, tekjur úr lífeyrissjóðum, bætur samkvæmt lögum um félagslega aðstoð eða húsaleigubætur samkvæmt "lögum nr. 100/1994":1994100.html.][^1)^] Skerðing samkvæmt þessari málsgrein skal þó aldrei ná til þess hluta ellilífeyris sem einstaklingur á rétt á vegna frestunar á töku ellilífeyris sem ákveðin var fyrir 1. janúar 1992.
+      Ellilífeyri skal skerða ef árstekjur einstaklinga eða hjóna hvors um sig eru hærri en 853.397 kr. Ef tekjur eru umfram umrædd mörk skal skerða ellilífeyri um [30%][^1)^] þeirra tekna sem umfram eru uns hann fellur niður. [Til tekna í þessu sambandi teljast ekki bætur almannatrygginga, tekjur úr lífeyrissjóðum, bætur samkvæmt lögum um félagslega aðstoð eða húsaleigubætur samkvæmt "lögum nr. 100/1994":1994100.html.][^2)^] Skerðing samkvæmt þessari málsgrein skal þó aldrei ná til þess hluta ellilífeyris sem einstaklingur á rétt á vegna frestunar á töku ellilífeyris sem ákveðin var fyrir 1. janúar 1992.
       Lífeyrir hjóna, sem bæði fá lífeyri, skal nema 90% af lífeyri tveggja einstaklinga. Heimilt er þó að miða lífeyri beggja við lögheimilistíma þess sem á lengri réttindatíma, sbr. síðasta málslið 2. mgr. Þá er og heimilt að úrskurða hvoru hjónanna um sig einstaklingslífeyri ef þau eru eigi samvistum af heilsufarsástæðum eða öðrum ástæðum er tryggingaráð metur jafngildar.
       Hver, sem stundað hefur sjómennsku í 25 ár eða lengur, skal eiga rétt á töku ellilífeyris frá og með 60 ára aldri, enda sé að öðru leyti fullnægt skilyrðum þessarar greinar. Starfsár sjómanna skal í þessu sambandi miðast við að sjómaður hafi verið lögskráður á íslenskt skip eða skip gert út af íslenskum aðilum eigi færri en 180 daga að meðaltali í 25 ár. Nánari ákvæði um framkvæmd skulu sett með reglugerð.
       Nú hefur sjómaður stundað sjómennsku í 25 ár eða lengur að hluta eða öllu leyti á opnum báti eða þilfarsbáti undir 12 brl. eða af öðrum ástæðum ekki borið skylda til lögskráningar og er þá heimilt að úrskurða honum ellilífeyri frá og með 60 ára aldri, enda sé sannað að sú sjómennska hafi verið aðalstarf viðkomandi meðan á henni stóð.
 
 
-_[^1)^]"L. 148/1994, 12. gr.":/altext/stjt/1994.148.html_
+_[^1)^]"L. 144/1995, 29. gr.":/altext/stjt/1995.144.html[^2)^]"L. 148/1994, 12. gr.":/altext/stjt/1994.148.html_
 
 
 
@@ -199,11 +204,15 @@ _Barnalífeyrir._
 
 
       Barnalífeyrir er greiddur með börnum yngri en 18 ára, ef annað hvort foreldra er látið eða er örorkulífeyrisþegi, hafi annað hvort foreldra þess eða barnið sjálft átt hér lögheimili a.m.k. þrjú síðustu árin áður en umsókn er lögð fram. Séu báðir foreldrar látnir eða örorkulífeyrisþegar skal greiddur tvöfaldur barnalífeyrir. Hvorki skerðingarákvæði 2. mgr. 11. gr. né 4. mgr. 12. gr. takmarka rétt til barnalífeyris.
-      Sömu réttarstöðu hafa kjörbörn og stjúpbörn þegar eins stendur á. Þó skal ekki greiddur barnalífeyrir vegna fráfalls eða örorku stjúpforeldris ef barnið á framfærsluskylt foreldri á lífi. Eigi skal heldur greiða barnalífeyri vegna fráfalls eða örorku ættleiðanda, nema barnið hafi verið á framfæri hans a.m.k. tvö síðustu árin áður en lífeyrisréttur gat stofnast. Heimilt er tryggingaráði að stytta þennan frest ef sýnt þykir að ættleiðingin standi ekki í sambandi við væntanlegan bótarétt.
+      [Sömu réttarstöðu hafa stjúpbörn og kjörbörn þegar eins stendur á. Þó skal ekki greiddur barnalífeyrir vegna fráfalls eða örorku stjúpforeldris ef barnið á framfærsluskylt foreldri á lífi.][^1)^]
       Tryggingaráð getur ákveðið að greiða barnalífeyri með barni ellilífeyrisþega, svo og með barni manns sem sætir gæslu- eða refsivist, enda hafi vistin varað a.m.k. þrjá mánuði.
       Lífeyrisdeild Tryggingastofnunar skal greiða barnalífeyri þegar skilríki liggja fyrir um að barn verði ekki feðrað.
       Barnalífeyrir greiðist foreldrum barnanna, enda séu þau á framfæri þeirra, eða þeim öðrum er annast framfærslu þeirra að fullu.
       Árlegur barnalífeyrir með hverju barni skal vera 123.600 kr. Ekki skal greiða barnalífeyri vegna þeirra barna er njóta örorkulífeyris.
+
+
+
+_[^1)^]"L. 129/1995, 4. gr.":/altext/stjt/1995.129.html_
 
 
 
@@ -215,13 +224,17 @@ _Barnalífeyrir._
 _Fæðingarstyrkur._
 
 
-      Fæðingarstyrkur skal vera 25.090 kr. á mánuði í sex mánuði við hverja fæðingu til móður sem á lögheimili hér á landi við fæðingu barns og hefur átt lögheimili hér á landi síðustu 12 mánuði fyrir fæðinguna, sbr. þó 2. mgr. Hefja má greiðslu fæðingarstyrks allt að einum mánuði fyrir áætlaðan fæðingardag sem staðfestur skal með læknisvottorði. Upphæð fæðingarstyrks skal hækka með sama hætti og aðrar bætur lífeyristrygginga.
+      [Fæðingarstyrkur skal vera 25.090 kr. á mánuði í sex mánuði og greiðast móður við hverja fæðingu barns, eða frumættleiðingu, enda eigi hún lögheimili hér á landi og hafi átt síðustu 12 mánuðina á undan, sbr. þó 2. mgr. Hefja má greiðslu fæðingarstyrks allt að einum mánuði fyrir áætlaðan fæðingardag sem staðfestur skal með læknisvottorði. Sé barn sótt til útlanda til ættleiðingar er verðandi móður heimilt að hefja töku fæðingarstyrks við upphaf ferðar, enda hafi viðkomandi yfirvöld eða stofnun staðfest að hún fái barn til ættleiðingar.][^1)^]
       Ákvæði greinar þessarar taka ekki til félagsmanna í samtökum opinberra starfsmanna, bankamanna eða annarra stéttarfélaga er njóta óskertra launa í fæðingarorlofi samkvæmt kjarasamningum þann tíma er óskert laun eru greidd.
       Greiða skal fæðingarstyrk í þrjá mánuði ef um er að ræða andvanafæðingu eftir 28 vikna meðgöngutíma. Sé um að ræða fósturlát eftir 20 vikna meðgöngu greiðist fæðingarstyrkur í tvo mánuði.
       Greiðslur fæðingarstyrks falla niður frá þeim degi er foreldri lætur frá sér barn vegna ættleiðingar, uppeldis eða fósturs eða til varanlegrar dvalar á stofnun. Þegar um er að ræða tilvik samkvæmt þessari málsgrein skal fæðingarstyrkur þó aldrei greiddur skemur en í tvo mánuði eftir fæðingu.
-      Framlengja skal greiðslu fæðingarstyrks um einn mánuð fyrir hvert barn umfram eitt ef fleiri fæðast í einu. Framlengja skal og greiðslu fæðingarstyrks um einn mánuð ef um er að ræða alvarlegan sjúkleika barns sem krefst nánari umönnunar foreldris. Slík þörf skal rökstudd með vottorði læknis og staðfest af tryggingaráði.
-      Fæðingarstyrkur skal og greiddur ættleiðandi foreldri, uppeldis- eða fósturforeldri vegna töku barns yngra en fimm ára í fimm mánuði frá því er fyrir liggur staðfesting barnaverndarnefndar eða sveitarfélags um fósturráðstöfun eða leyfi til ættleiðingar eftir því sem við á.
+      Framlengja skal greiðslu fæðingarstyrks um einn mánuð fyrir hvert barn umfram eitt ef fleiri fæðast [eða eru ættleidd][^1)^] í einu. Framlengja skal og greiðslu fæðingarstyrks um einn mánuð ef um er að ræða alvarlegan sjúkleika barns sem krefst nánari umönnunar foreldris. Slík þörf skal rökstudd með vottorði læknis og staðfest af tryggingaráði.
+      Fæðingarstyrkur skal og greiddur ...[^1)^] uppeldis- eða fósturforeldri vegna töku barns yngra en fimm ára í fimm mánuði frá því er fyrir liggur staðfesting barnaverndarnefndar eða sveitarfélags um fósturráðstöfun ...[^1)^]
       Sé barnshafandi konu nauðsynlegt af heilsufars- eða öryggisástæðum að leggja niður störf meira en mánuði fyrir áætlaðan fæðingartíma barns skal hún eiga rétt til fæðingarstyrks þann tíma, þó aldrei lengur en í 60 daga, enda verði ekki við komið breytingum á starfsháttum hennar eða tilfærslu í starfi. Tryggingayfirlæknir skal meta hvort þörf er fyrir hendi samkvæmt ákvæði þessu.
+
+
+
+_[^1)^]"L. 129/1995, 5. gr.":/altext/stjt/1995.129.html_
 
 
 
@@ -234,7 +247,7 @@ _Fæðingardagpeningar._
 
 <dl>
 <dt>a.</dt>
-<dd>Foreldrar í fæðingarorlofi, sem átt hafa lögheimili hér á landi síðustu 12 mánuði fyrir fæðinguna, eiga rétt á greiðslu fæðingardagpeninga samkvæmt grein þessari, enda leggi þeir niður launuð störf þann tíma. Þeir sem eiga rétt samkvæmt kjarasamningum til óskertra launa í fæðingarorlofi eiga þó ekki rétt til greiðslu fæðingardagpeninga samkvæmt ákvæði þessu.</dd>
+<dd>Foreldrar í fæðingarorlofi, sem átt hafa lögheimili hér á landi síðustu 12 mánuði fyrir fæðinguna [eða frumættleiðinguna],[^1)^] eiga rétt á greiðslu fæðingardagpeninga samkvæmt grein þessari, enda leggi þeir niður launuð störf þann tíma. Þeir sem eiga rétt samkvæmt kjarasamningum til óskertra launa í fæðingarorlofi eiga þó ekki rétt til greiðslu fæðingardagpeninga samkvæmt ákvæði þessu.</dd>
 <dt>b.</dt>
 <dd>Fæðingardagpeningar skulu vera tvöfaldir sjúkradagpeningar einstaklings eins og þeir eru ákveðnir á hverjum tíma.</dd>
 <dt>c.</dt>
@@ -244,7 +257,7 @@ _Fæðingardagpeningar._
 <dt>e.</dt>
 <dd>Heimilt er konu að hefja töku fæðingarorlofs allt að einum mánuði fyrir áætlaðan fæðingardag sem staðfestur skal með læknisvottorði og miðast greiðsla fæðingardagpeninga við þann tíma. Beri fæðingu að fyrir áætlaða töku fæðingarorlofs miðast greiðslur fæðingardagpeninga við fæðingardag.</dd>
 <dt>f.</dt>
-<dd>Nú hefur móðir fengið fæðingardagpeninga í a.m.k. einn mánuð eftir fæðingu og á þá faðir rétt á greiðslu fæðingardagpeninga í stað móður ef hún óskar þess, enda leggi hann niður launaða vinnu á meðan. Foreldrar geta og skipt með sér fæðingarorlofi, t.d. verið bæði í orlofi á sama tíma að fullu eða hluta, þó þannig að greiðslur til þeirra sameiginlega nemi ekki meira en sex mánaða fæðingardagpeningum, sbr. c-lið.</dd>
+<dd>Nú hefur móðir fengið fæðingardagpeninga í a.m.k. einn mánuð eftir fæðingu [eða frumættleiðingu][^1)^] og á þá faðir rétt á greiðslu fæðingardagpeninga í stað móður ef hún óskar þess, enda leggi hann niður launaða vinnu á meðan. Foreldrar geta og skipt með sér fæðingarorlofi, t.d. verið bæði í orlofi á sama tíma að fullu eða hluta, þó þannig að greiðslur til þeirra sameiginlega nemi ekki meira en sex mánaða fæðingardagpeningum, sbr. c-lið.</dd>
 <dt>g.</dt>
 <dd>Taki foreldrar samanlagt ekki allt það fæðingarorlof, sem þeir eiga rétt á, falla niður fæðingardagpeningagreiðslur fyrir þann tíma sem ekki er nýttur.</dd>
 <dt>h.</dt>
@@ -258,7 +271,7 @@ _Fæðingardagpeningar._
 <dt>l.</dt>
 <dd>Greiðslur fæðingardagpeninga falla niður frá þeim degi er foreldri lætur frá sér barn vegna ættleiðingar, uppeldis eða fósturs eða til varanlegrar dvalar á stofnun. Þegar um er að ræða tilvik samkvæmt þessari málsgrein skulu fæðingardagpeningar þó aldrei greiddir skemur en tvo mánuði eftir fæðingu. Greiða skal fæðingardagpeninga í þrjá mánuði ef um er að ræða andvanafæðingu eftir 28 vikna meðgöngutíma. Sé um að ræða fósturlát eftir 20 vikna meðgöngu greiðast fæðingardagpeningar í tvo mánuði.</dd>
 <dt>m.</dt>
-<dd>Ættleiðandi foreldrar, uppeldis- eða fósturforeldrar eiga rétt til greiðslu fæðingardagpeninga í fæðingarorlofi vegna töku barns yngra en fimm ára.</dd>
+<dd>...[^1)^] uppeldis- eða fósturforeldrar eiga rétt til greiðslu fæðingardagpeninga í fæðingarorlofi vegna töku barns yngra en fimm ára.</dd>
 <dt>n.</dt>
 <dd>Fæðingardagpeningar greiðast úr lífeyrisdeild Tryggingastofnunar ríkisins gegn framvísun vottorðs læknis og sönnunar um launagreiðslur og atvinnuþátttöku viðkomandi samkvæmt nánari reglum sem ráðherra setur í reglugerð.</dd>
 <dt>o.</dt>
@@ -268,6 +281,10 @@ _Fæðingardagpeningar._
 </dd>
 </dl>
 
+
+
+
+_[^1)^]"L. 129/1995, 6. gr.":/altext/stjt/1995.129.html_
 
 
 
@@ -281,10 +298,11 @@ _Tekjutrygging._
 
       [Ef aðrar tekjur ellilífeyrisþega en lífeyrir almannatrygginga, bætur samkvæmt lögum um félagslega aðstoð og húsaleigubætur samkvæmt "lögum nr. 100/1994":1994100.html fara ekki fram úr 217.319 kr. á ári skal greiða uppbót á lífeyri hans að upphæð 272.208 kr. á ári. Hafi bótaþegi hins vegar aðrar tekjur umfram 217.319 kr. á ári skal skerða uppbótina um 45% þeirra tekna sem umfram eru. Sama gildir um hjónalífeyri eftir því sem við á.
       Ef aðrar tekjur örorkulífeyrisþega en lífeyrir almannatrygginga, bætur samkvæmt lögum um félagslega aðstoð og húsaleigubætur samkvæmt "lögum nr. 100/1994":1994100.html fara ekki fram úr 217.319 kr. á ári skal greiða uppbót á lífeyri hans að upphæð 279.840 kr. á ári. Hafi bótaþegi hins vegar aðrar tekjur umfram 217.319 kr. skal skerða uppbótina um 45% þeirra tekna sem umfram eru. Sama gildir um hjónalífeyri eftir því sem við á.
-      Um uppbót á lífeyri samkvæmt þessari grein gilda ákvæði 11. gr. eftir því sem við á.][^1)^]
+      [Nú sinnir maður ekki lagaskyldu um greiðslu iðgjalda til lífeyrissjóðs samkvæmt "lögum nr. 55/1980":1980055.html, um starfskjör launafólks og skyldutryggingu lífeyrisréttinda, með síðari breytingum. Er þá heimilt að áætla honum tekjur sem koma til frádráttar greiðslu tekjutryggingar. Setja skal reglugerð með nánari ákvæðum um framkvæmd þessa frádráttar.][^1)^]
+      Um uppbót á lífeyri samkvæmt þessari grein gilda ákvæði 11. gr. eftir því sem við á.][^2)^]
 
 
-_[^1)^]"L. 148/1994, 14. gr.":/altext/stjt/1994.148.html_
+_[^1)^]"L. 144/1995, 30. gr.":/altext/stjt/1995.144.html[^2)^]"L. 148/1994, 14. gr.":/altext/stjt/1994.148.html_
 
 
 
@@ -293,10 +311,10 @@ _[^1)^]"L. 148/1994, 14. gr.":/altext/stjt/1994.148.html_
 
      Við ákvörðun um hækkanir bóta skv. 17. gr. skulu umsóknir rökstuddar t.d. með skattframtölum og skýrum upplýsingum um hagi bótaþega. Hliðsjón skal höfð af því hvort eignum bótaþega hefur verið ráðstafað með þeim hætti að það valdi synjun hækkunar.
       Með reglugerð skal fjárhæðum 17. gr. breytt [1. september][^1)^] árlega til samræmis við almennar hækkanir bóta og annarra tekna milli ára.
-      Heilbrigðis- og tryggingamálaráðherra er heimilt með reglugerð að ákveða að aðrar tekjufjárhæðir skv. 17. gr. gildi um lífeyristekjur en aðrar tekjur.
+      Heilbrigðis- og tryggingamálaráðherra er heimilt með reglugerð að ákveða að aðrar tekjufjárhæðir skv. 17. gr. gildi um [lífeyri úr lífeyrissjóðum og tekjur skv. 3. tölul. C-liðar "7. gr. laga nr. 75/1981":1981075.html#g7, um tekjuskatt og eignarskatt,][^2)^] en aðrar tekjur.
 
 
-_[^1)^]"L. 148/1994, 15. gr.":/altext/stjt/1994.148.html_
+_[^1)^]"L. 148/1994, 15. gr.":/altext/stjt/1994.148.html[^2)^]"L. 144/1995, 31. gr.":/altext/stjt/1995.144.html Tekjur skv. 3. tölul. C-liðar "7. gr. laga nr. 75/1981":1981075.html#g7 skulu þó eigi teljast með í tekjugrunni við ákvörðun á bótum fyrr en frá og með 1. september 1996 vegna tekna ársins 1995, sbr. "59. gr. s.l.":/altext/stjt/1995.144.html_
 
 
 
@@ -508,10 +526,11 @@ _C. Tekjur._
       Tryggingastofnunin skal ár hvert gera áætlun um bótagreiðslur og rekstrarkostnað slysatrygginga næsta almanaksár að meðtöldu tillagi til varasjóðs, allt að 5% af útgjöldum.
       Með reglugerð skal ákveða fast ársiðgjald af trillubátum og meiri háttar heimilisaflvélum.[^1)^]
       Iðgjöld til slysatrygginga, önnur en þau sem nefnd eru í 1. og 3. mgr., skulu ákveðin sem hundraðshluti af hæfilega áætlaðri stofnfjárhæð vegna hvers einstaklings.[^2)^]
+      [Við ákvörðun á iðgjaldi vegna greiðslu slysatryggingadeildar Tryggingastofnunar ríkisins á launum eða aflahlut sjómanna skv. 63. gr. skal tekið tillit til rekstrarkostnaðar slysatrygginga auk framlags í varasjóð, sbr. 2. mgr. Iðgjald þetta skal ákveða árlega með reglugerð.][^3)^]
 
 
 
-_[^1)^]Rg. 15/1990.[^2)^]Rg. 94/1979, sbr. 623/1980. Rg. 201/1981, sbr. 10/1984, 249/1990 og 297/1990._
+_[^1)^]Rg. 15/1990.[^2)^]Rg. 94/1979, sbr. 623/1980. Rg. 201/1981, sbr. 10/1984, 249/1990 og 297/1990.[^3)^]"L. 144/1995, 32. gr.":/altext/stjt/1995.144.html_
 
 *IV. kafli.*
 
@@ -653,8 +672,12 @@ _[^1)^]Rg. 58/1994._
       Það skal ekki tálma greiðslu hálfra eða fullra dagpeninga vegna niðurfalls launaðrar vinnu skv. 5. mgr. þótt umsækjandi geti sinnt léttu heimilisstarfi.
       Nú tekur sjúklingur, sem unnið hefur heils dags launavinnu, upp allt að hálfs dags launað starf í afturbata og er þá heimilt að greiða honum hálfa dagpeninga meðan svo stendur, þó ekki lengur en í þrjá mánuði.
       Við ákvörðun dagpeninga skal að jafnaði við það miða hvernig störfum umsækjanda hefur verið háttað síðustu tvo mánuðina áður en hann varð óvinnufær. Námsfólk á ekki rétt til dagpeninga vegna forfalla frá námi, nema að því leyti sem forföllin valda töfum á að námsáfangi náist.
-      Nú greiðir vinnuveitandi laun í veikindaforföllum og renna þá dagpeningagreiðslur til hans þann tíma, að undanskilinni barnaviðbót sem fellur niður, þó aldrei hærri greiðsla en nemur [^3^]/[~4~] hlutum launanna.
+      ...[^1)^]
       Dagpeningar eru ekki greiddir þeim sem í verkfalli á, nema hann hafi átt rétt til dagpeninga áður en verkfall hófst.
+
+
+_[^1)^]"L. 144/1995, 33. gr.":/altext/stjt/1995.144.html_
+
 
 
 
@@ -921,17 +944,20 @@ Nú á ellilífeyrisþegi eða umsækjandi um ellilífeyri ekki lögheimili á �
 <dt>2.</dt>
 <dd>Ráðherra er heimilt að fela Tryggingastofnun ríkisins að semja við atvinnufyrirtæki um að þau taki í vinnu öryrkja sem fá greiddan örorkulífeyri, örorkustyrk, endurhæfingarlífeyri eða slysaörorkubætur undir 50% og hafa vinnugetu sem ekki hefur nýst á vinnumarkaði og ekki verulegar aðrar tekjur til lífsviðurværis en bætur almannatrygginga. Skerðing bóta á starfstímabilinu fer eftir almennum skerðingarreglum á hverjum tíma. Í reglugerð[^1)^] skal kveða nánar á um öryrkjavinnu þessa.</dd>
 <dt>3.</dt>
-<dd>Á meðan vextir, verðbætur og gengishagnaður eru frádráttarbærar tekjur við ákvörðun tekjuskattsstofns skulu þessar tekjur hvorki hafa áhrif á tekjur til skerðingar elli- og örorkulífeyris, sbr. 11. og 12. gr., né tekjutryggingar, sbr. 17. og 18. gr. laga um almannatryggingar.</dd>
+<dd>...[^2)^]</dd>
 <dt>4.</dt>
 <dd>Þeir sem ákveðið hafa frestun ellilífeyris fyrir 1. janúar 1992, sbr. "11. gr. laga nr. 67/1971":/altext/stjtnr.html#1971067?g11, um almannatryggingar, skulu halda rétti sínum. Tryggingastofnun ríkisins skal breyta fjárhæðum vegna frestunarinnar til samræmis við breytingar sem verða á fjárhæðum almannatrygginga hverju sinni. Nú andast maður, sem frestað hefur töku lífeyris fram yfir 67 ára aldur, fyrir 1. janúar 1992 og lætur eftir sig maka á lífi og skal þá hinn eftirlifandi maki til viðbótar eigin lífeyri eiga rétt á þeirri hækkun sem hinn látni átti rétt á vegna frestunar.</dd>
 <dt>5.</dt>
 <dd>...</dd>
+<dt>[6.</dt>
+<dd><p>Frá 1. janúar 1996 til ársloka 1997 skulu eftirfarandi ákvæði gilda í stað ákvæða 65. gr. laganna:</p>
+<p>Bætur almannatrygginga, svo og greiðslur skv. 59. gr., skulu breytast árlega í samræmi við fjárlög hverju sinni. Til hliðsjónar við ákvörðun bóta skal hafa þróun launa, verðlags og efnahagsmála. Heilbrigðisráðherra er þó heimilt, að fengnu samþykki ríkisstjórnar, að breyta bótafjárhæðum allt að 3% frá forsendum fjárlaga, enda verði verulegar breytingar á þjóðhagsforsendum frá því að fjárlög voru samþykkt.][^3)^]</p></dd>
 </dl>
 
 
 
 
-_[^1)^]Rg. 159/1995._
+_[^1)^]Rg. 159/1995.[^2)^]"L. 144/1995, 35. gr.":/altext/stjt/1995.144.html[^3)^]"L. 144/1995, 34. gr.":/altext/stjt/1995.144.html_
 
 
 

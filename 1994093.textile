@@ -56,18 +56,23 @@ h2. Lyfjalög
 <dt>1.</dt>
 <dd>Skráningu og afskráningu lyfja í samræmi við þær reglur sem gilda á Evrópska efnahagssvæðinu.</dd>
 <dt>2.</dt>
-<dd>Umsögn til ráðherra um umsóknir um markaðsleyfi lyfja (marketing authorization) í samræmi við þær reglur sem gilda á Evrópska efnahagssvæðinu.</dd>
+<dd>[Útgáfu markaðsleyfa][^1)^] lyfja (marketing authorization) í samræmi við þær reglur sem gilda á Evrópska efnahagssvæðinu.</dd>
 <dt>3.</dt>
-<dd>Umsögn til ráðherra um umsóknir um leyfi til að flytja inn og selja gegn lyfseðli óskráð lyf.</dd>
+<dd>[Afgreiðslu umsókna][^1)^] um leyfi til að flytja inn og selja gegn lyfseðli óskráð lyf.</dd>
 <dt>4.</dt>
-<dd>Umsögn til ráðherra um leyfi til tilrauna með lyf (klínískar rannsóknir og rannsóknir á aðgengi lyfja).</dd>
+<dd>[Útgáfu leyfa][^1)^] til tilrauna með lyf (klínískar rannsóknir og rannsóknir á aðgengi lyfja).</dd>
 <dt>5.</dt>
 <dd>Önnur atriði er lúta að framkvæmd laga þessara eða hliðstæðra laga, hér með talin samvinna við erlendar lyfjanefndir og lyfjaskrárnefndir.</dd>
 </dl>
 
 
+      [Ákvarðanir lyfjanefndar ríkisins má kæra til heilbrigðis- og tryggingamálaráðuneytis samkvæmt ákvæðum stjórnsýslulaga.][^1)^]
       Í samræmi við reglur Evrópska efnahagssvæðisins skulu framleiðendur sérlyfja eða umboðsmenn þeirra veita nefndinni jafnóðum allar nýjar upplýsingar er varða skráð lyf og lyf sem eru í skráningu.
       Kostnaður af starfsemi nefndarinnar, þar með talin laun nefndarmanna og starfsliðs, skal borinn uppi af skráningar- og árgjöldum sérlyfja, svo og öðrum leyfisgjöldum, svo sem markaðsleyfum og leyfum fyrir klínískar prófanir.
+
+
+_[^1)^]"L. 118/1995, 1. gr.":/altext/stjt/1995.118.html_
+
 
 
 
@@ -139,7 +144,11 @@ _[^1)^]Rg. 476/1994, sbr. 646/1994._
 
 10. gr.
 
-     Að fengnum tillögum lyfjanefndar ríkisins gefur heilbrigðis- og tryggingamálaráðuneytið út skrá, sérlyfjaskrá, er greinir skráð sérlyf eftir lyfjaflokkum eða á annan hliðstæðan hátt. Í skránni skal m.a. greina frá ábendingum, frábendingum, skammtastærðum, helstu aukaverkunum og hámarksverði lyfja, sbr. 40. gr.
+     Að fengnum tillögum lyfjanefndar ríkisins [annast heilbrigðis- og tryggingamálaráðuneytið útgáfu á][^1)^] skrá, sérlyfjaskrá, er greinir skráð sérlyf eftir lyfjaflokkum eða á annan hliðstæðan hátt. Í skránni skal m.a. greina frá ábendingum, frábendingum, skammtastærðum, helstu aukaverkunum og hámarksverði lyfja, sbr. 40. gr.
+
+
+_[^1)^]"L. 118/1995, 2. gr.":/altext/stjt/1995.118.html_
+
 
 
 
@@ -546,12 +555,12 @@ _[^1)^]Rg. 418/1994, sbr. 313/1995; rg. 633/1994; rg. 421/1988, sbr. 312/1995; r
 
 <dl>
 <dt>2.</dt>
-<dd>Núverandi lyfsalar halda lyfsöluleyfum sínum eftir gildistöku ákvæða VII. kafla laganna. Samvinnureknar lyfjabúðir á Akureyri og Selfossi og Lyfjabúð Háskóla Íslands hafa frest til 1. júní 1995 til að uppfylla skilyrði laga þessara. Læknar og sveitarfélög halda leyfum sínum til lyfsölu fram til 1. júní 1995 og eftir það þar til sá er uppfyllir skilyrði samkvæmt lögum þessum sækir um lyfsöluleyfið. Þrátt fyrir ákvæði 2. mgr. "6. gr. laga um lyfjadreifingu, nr. 76/1982":1982076.html#g6, getur ráðherra framlengt lyfsöluleyfi þar til ákvæði VII. kafla taka gildi.</dd>
+<dd>Núverandi lyfsalar halda lyfsöluleyfum sínum eftir gildistöku ákvæða VII. kafla laganna. Samvinnureknar lyfjabúðir á Akureyri og Selfossi og Lyfjabúð Háskóla Íslands hafa frest til [15. mars 1996][^2)^] til að uppfylla skilyrði laga þessara. Læknar og sveitarfélög halda leyfum sínum til lyfsölu fram til [15. mars 1996][^2)^] og eftir það þar til sá er uppfyllir skilyrði samkvæmt lögum þessum sækir um lyfsöluleyfið. Þrátt fyrir ákvæði 2. mgr. "6. gr. laga um lyfjadreifingu, nr. 76/1982":1982076.html#g6, getur ráðherra framlengt lyfsöluleyfi þar til ákvæði VII. kafla taka gildi.</dd>
 <dt>3.</dt>
-<dd>Ákvæði VII. og XIV. kafla koma þó eigi til framkvæmda fyrr en 1. nóvember 1995. Hið sama gildir um ákvörðun þóknunar fyrir lyfjaafhendingu dýralækna sem kveðið er á um í 30. gr.</dd>
+<dd>Ákvæði VII. og XIV. kafla koma þó eigi til framkvæmda fyrr en [15. mars 1996].[^2)^] Hið sama gildir um ákvörðun þóknunar fyrir lyfjaafhendingu dýralækna sem kveðið er á um í 30. gr.</dd>
 </dl>
 
-_[^1)^]Um rg. samkvæmt eldri lögum, sjá Lagasafn 1990, d. 1041 - 1050 og 1054 - 1062._
+_[^1)^]Um rg. samkvæmt eldri lögum, sjá Lagasafn 1990, d. 1041 - 1050 og 1054 - 1062.[^2)^]_"L. 118/1995, 4. gr.":/altext/stjt/1995.118.html
 
 
 

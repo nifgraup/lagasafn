@@ -29,7 +29,7 @@ h2. Lög um Listskreytingasjóð ríkisins
 
 <dl>
 <dt>1.</dt>
-<dd>Árlegt framlag ríkisins. Framlagið nemur 1% álagi á samanlagðar fjárveitingar ríkissjóðs í A-hluta fjárlaga til þeirra bygginga sem ríkissjóður stendur að einn eða með öðrum (sveitarfélögum o.s.frv.), sbr. 4. gr.[^1)^] Til byggingar telst föst innrétting.</dd>
+<dd>[Árlegt framlag úr ríkissjóði eftir því sem ákveðið er í fjárlögum.][^1)^]</dd>
 <dt>2.</dt>
 <dd>Vaxtatekjur.</dd>
 <dt>3.</dt>
@@ -39,7 +39,7 @@ h2. Lög um Listskreytingasjóð ríkisins
 
 
 
-_[^1)^]Framlag úr ríkissjóði er skert á árinu 1995, sbr. "l. 148/1994, 21. gr.":/altext/stjt/1994.148.html_
+_[^1)^]"L. 144/1995, 1. gr.":/altext/stjt/1995.144.html_
 
 
 
