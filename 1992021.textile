@@ -36,10 +36,14 @@ h2. Lög um Lánasjóð íslenskra námsmanna
 
 4. gr.
 
-     Ráðherra skipar stjórn sjóðsins þannig: Einn samkvæmt tilnefningu stúdentaráðs Háskóla Íslands, einn samkvæmt tilnefningu Sambands íslenskra námsmanna erlendis, einn samkvæmt tilnefningu Bandalags íslenskra sérskólanema, einn samkvæmt tilnefningu fjármálaráðherra og tvo án tilnefningar og skal annar þeirra vera formaður stjórnar en hinn varaformaður.
+     [Menntamálaráðherra skipar stjórn sjóðsins þannig: Einn samkvæmt tilnefningu stúdentaráðs Háskóla Íslands, einn samkvæmt tilnefningu Sambands íslenskra námsmanna erlendis, einn samkvæmt tilnefningu Bandalags íslenskra sérskólanema, einn samkvæmt tilnefningu Iðnnemasambands Íslands, einn samkvæmt tilnefningu fjármálaráðherra og þrjá án tilnefningar og skal einn þeirra vera formaður stjórnar og annar varaformaður.][^1)^]
       Stjórnin skal skipuð til tveggja ára í senn. Skipunartími fulltrúa menntamálaráðherra og fjármálaráðherra skal þó takmarkaður við embættistíma þeirra ráðherra sem skipuðu þá eða tilnefndu sitji þeir skemur. Varamenn í stjórn sjóðsins skulu skipaðir með sama hætti og til jafnlangs tíma.
       Verði atkvæði jöfn við afgreiðslu mála í stjórn sjóðsins sker atkvæði formanns úr.
-      Ráðherra ræður framkvæmdastjóra til fjögurra ára í senn að fengnum tillögum sjóðstjórnar. Framkvæmdastjóri ræður annað starfsfólk með samþykki sjóðstjórnar að fenginni heimild ráðuneytisins, sbr. ákvæði "laga nr. 97/1974":1974097.html.
+      [Menntamálaráðherra skipar framkvæmdastjóra til fimm ára í senn að fengnum tillögum sjóðstjórnar. Framkvæmdastjóri ræður annað starfsfólk.][^1)^]
+
+
+_[^1)^]"L. 67/1997, 1. gr.":/altext/stjt/1997.067.html_
+
 
 
 
@@ -57,7 +61,7 @@ h2. Lög um Lánasjóð íslenskra námsmanna
 <dt>4.</dt>
 <dd>að setja reglur um úthlutun námslána,</dd>
 <dt>5.</dt>
-<dd>að skera úr vafamálum er varða einstaka lánþega og öðrum málum með bókuðum samþykktum,</dd>
+<dd>[að skera úr vafamálum er varða einstaka lánþega og öðrum málum með bókuðum samþykktum. Úrskurðum stjórnar má vísa til málskotsnefndar, sbr. 6. gr.[^1)^]][^2)^]</dd>
 <dt>6.</dt>
 <dd>að afla upplýsinga um námsskipan og námstíma þeirra skóla sem lánað er til,</dd>
 <dt>7.</dt>
@@ -67,8 +71,25 @@ h2. Lög um Lánasjóð íslenskra námsmanna
 </dl>
 
 
+      [Stjórn sjóðsins er heimilt að skipa undirnefndir úr hópi stjórnarmanna til að fjalla um einstök mál og gera tillögur fyrir stjórn sjóðsins.][^2)^]
       Stjórn sjóðsins er heimilt að fela bankastofnunum útborgun lána, innheimtu og aðra daglega afgreiðslu.
       Bókhaldi skal haga samkvæmt fyrirmælum Ríkisbókhalds, sbr. "lög nr. 52/1966":1966052.html.
+
+
+_[^1)^]Svo í "Stjtíð., en á væntanlega að vera 5. gr. a.":/altext/stjt/1997.067.html[^2)^]"L. 67/1997, 2. gr.":/altext/stjt/1997.067.html_
+
+
+
+
+[5. gr. a.
+
+     Menntamálaráðherra skipar málskotsnefnd þriggja manna og jafnmarga til vara, sbr. 5. gr., til fjögurra ára í senn og skulu nefndarmenn vera lögfræðingar. Formaður nefndarinnar og varamaður hans skulu fullnægja skilyrðum til að hljóta skipun í embætti héraðsdómara.
+      Nefndin sker úr um hvort úrskurðir stjórnar Lánasjóðs íslenskra námsmanna séu í samræmi við ákvæði laga og reglugerða. Nefndin getur staðfest, breytt eða fellt úr gildi ákvarðanir stjórnar sjóðsins. Úrskurður nefndarinnar skal vera rökstuddur og er endanlegur. Afl atkvæða ræður niðurstöðu nefndarinnar. Ráðherra setur nefndinni starfsreglur.
+      Um málsmeðferð að öðru leyti fer eftir stjórnsýslulögum.][^1)^]
+
+
+_[^1)^]"L. 67/1997, 3. gr.":/altext/stjt/1997.067.html_
+
 
 
 
@@ -79,6 +100,7 @@ h2. Lög um Lánasjóð íslenskra námsmanna
 6. gr.
 
      Námslán skal aldrei veitt fyrr en námsmaður hefur skilað vottorði um tilskilda skólasókn og námsárangur.
+      [Námsmaður fær greiddan vaxtastyrk sem ætlaður er til að bæta honum fjármagnskostnað vegna framfærslu í samræmi við rétt hans til námsláns á hverjum tíma. Styrkurinn greiðist við útborgun námsláns og miðast við meðaltal vaxta- og lántökukostnaðar banka og sparisjóða eins og hann er á hverjum tíma samkvæmt nánari reglum sem stjórn sjóðsins setur.][^1)^]
       Námsmaður skal að jafnaði hafa heimild til að taka lán á hverju missiri meðan hann er við nám, þó ekki lengur en hæfilegur námstími er talinn í þeirri grein og í þeim skóla þar sem nám er stundað.
       Námslán skal ekki veitt nema námsframvinda sé með eðlilegum hætti.
       Námsmenn, sem fá lán úr sjóðnum, skulu undirrita skuldabréf við lántöku og leggja fram yfirlýsingu a.m.k. eins manns um að hann taki að sér sjálfskuldarábyrgð á endurgreiðslu lánsins ásamt vöxtum og verðtryggingu þess allt að tiltekinni hámarksfjárhæð.
@@ -87,17 +109,21 @@ h2. Lög um Lánasjóð íslenskra námsmanna
       Stjórn sjóðsins er heimilt að innheimta lántökugjöld af veittum lánum.
 
 
+_[^1)^]"L. 67/1997, 4. gr.":/altext/stjt/1997.067.html_
+
+
+
 
 7. gr.
 
-     Lán úr sjóðnum skulu verðtryggð. Verðtryggingin er miðuð við breytingar á lánskjaravísitölu Seðlabanka Íslands, sbr. "lög nr. 13/1979":/altext/stjtnr.html#1979013.[^1)^] Reiknast verðtryggingin frá fyrsta degi næsta mánaðar eftir að lán er veitt, eða einstakir hlutar þess greiddir út, til fyrsta dags þess mánaðar er greiðsla fer fram.
+     [Lán úr sjóðnum skulu verðtryggð. Verðtryggingin er miðuð við breytingar á vísitölu neysluverðs, sbr. "lög nr. 12/1995":1995012.html. Verðtryggingin reiknast frá fyrsta degi næsta mánaðar eftir að lán er veitt eða einstakir hlutar þess greiddir út, til fyrsta dags þess mánaðar er greiðsla fer fram.][^1)^]
       Verði breyting á grundvelli lánskjaravísitölunnar eða við útreikning hennar skal þriggja manna nefnd ákveða hvernig vísitölur samkvæmt nýjum breyttum grundvelli skulu tengdar eldri vísitölum. Nefndin skal þannig skipuð að Seðlabanki Íslands tilnefnir einn mann, Hæstiréttur annan en hagstofustjóri skal vera formaður nefndarinnar.
       Lánstími námsláns er ótilgreindur en greitt skal af námsláni skv. 8. gr. þar til skuldin er að fullu greidd.
       Endurgreiðsla hefst tveimur árum eftir námslok. Sjóðstjórn skilgreinir hvað telja beri námslok samkvæmt lögum þessum og úrskurðar um vafatilfelli.
       Vextir af lánum sjóðsins skulu vera breytilegir en þó aldrei hærri en 3% ársvextir af höfuðstól skuldarinnar. Vextir reiknast frá námslokum. Ríkisstjórnin, að tillögu menntamálaráðherra, tekur nánari ákvörðun um vexti námslána á hverjum tíma samkvæmt þessari grein.
 
 
-_[^1)^]Nú "l. 25/1987, V. kafli.":1987025.html_
+_[^1)^]"L. 67/1997, 5. gr.":/altext/stjt/1997.067.html_
 
 
 
@@ -105,13 +131,17 @@ _[^1)^]Nú "l. 25/1987, V. kafli.":1987025.html_
 8. gr.
 
      Árleg endurgreiðsla ákvarðast í tvennu lagi. Annars vegar er föst greiðsla, sem innheimt er á fyrri hluta ársins, óháð tekjum og hins vegar viðbótargreiðsla sem innheimt er á síðari hluta ársins og er háð tekjum fyrra árs.
-      Fasta ársgreiðslan er 48.000 kr. miðað við lánskjaravísitölu 3.198 nema eftirstöðvar láns ásamt verðbótum og vöxtum séu lægri. Þessi upphæð breytist á hverju ári í hlutfalli við lánskjaravísitölu 1. janúar hvers árs.
-      Viðbótargreiðslan miðast við ákveðinn hundraðshluta af útsvarsstofni ársins á undan endurgreiðsluári. Hundraðshluti þessi er 5% við afborganir af skuldabréfinu fyrstu fimm árin. Við næstu afborganir skal hundraðshlutinn nema 7%. Frá viðbótargreiðslunni samkvæmt þessari málsgrein dregst fasta greiðslan skv. 2. mgr.
-      Fjárhæðin skv. 3. mgr. skal margfölduð samkvæmt hlutfallslegri breytingu á lánskjaravísitölu frá 1. júlí á tekjuöflunarári til 1. júlí á endurgreiðsluári.
+      [Fastagreiðslan er 52.698 kr. miðað við vísitölu neysluverðs 177,8 nema eftirstöðvar láns ásamt verðbótum og vöxtum séu lægri. Þessi upphæð breytist á hverju ári í hlutfalli við vísitölu neysluverðs 1. janúar hvers árs.
+      Viðbótargreiðslan miðast við ákveðinn hundraðshluta af útsvarsstofni ársins á undan endurgreiðsluári. Hundraðshluti þessi er 4,75% við afborganir af skuldabréfinu. Frá viðbótargreiðslunni samkvæmt þessari málsgrein dregst fastagreiðslan skv. 2. mgr.
+      Fjárhæðin skv. 3. mgr. skal margfölduð samkvæmt hlutfallslegri breytingu á vísitölu neysluverðs frá 1. júlí á tekjuöflunarári til 1. júlí á endurgreiðsluári.][^1)^]
       Skuldara ber á hverjum gjalddaga að greiða kostnað af innheimtu hverrar greiðslu.
       Stjórn sjóðsins er heimilt að veita undanþágu frá árlegri endurgreiðslu skv. 1. mgr., að hluta eða öllu leyti, ef skyndilegar og verulegar breytingar verða á högum skuldara, t.d. ef hann veikist alvarlega eða verður fyrir slysi er skerðir til muna ráðstöfunarfé hans og möguleika til að afla tekna. Stjórn sjóðsins er enn fremur heimilt að veita undanþágu frá ársgreiðslu skv. 1. mgr. ef nám, atvinnuleysi, veikindi, þungun, umönnun barna eða aðrar sambærilegar ástæður valda verulegum fjárhagsörðugleikum hjá lánþega eða fjölskyldu hans.
       Skuldari, sem sækir um undanþágu skv. 6. mgr., skal leggja fyrir sjóðstjórn ítarlegar upplýsingar um eignir sínar, lífeyri og önnur atriði er stjórnin telur máli skipta.
       Heimilt er að endurgreiða lán örar en mælt er fyrir í þessari grein.
+
+
+_[^1)^]"L. 67/1997, 6. gr.":/altext/stjt/1997.067.html_
+
 
 
 
@@ -128,7 +158,11 @@ _[^1)^]Nú "l. 25/1987, V. kafli.":1987025.html_
 
      Verði á endurgreiðslutíma námslána breyting á skattalögum þannig að veruleg breyting verði á því er telst útsvarsstofn frá því sem nú er skal hámark árlegrar endurgreiðslu skv. 8. gr. reiknað af stofni sem nefnd þriggja manna ákveður. Skal nefndin þannig skipuð að menntamálaráðherra tilnefnir einn nefndarmann, fjármálaráðherra annan en ríkisskattstjóri skal vera formaður nefndarinnar. Skal nefndin leitast við að setja reglur um útreikning endurgreiðslustofns sem geri hámark árlegrar endurgreiðslu hvers skuldara sem líkast því og orðið hefði að óbreyttum skattalögum.
       Sé skattþega áætlaður útsvarsstofn skal miða við hann. Komi í ljós að útsvarsstofn hafi verið of hátt áætlaður eða oftalinn og lánþegi því innt af hendi of háa greiðslu skal honum endurgreidd hin ofgreidda fjárhæð með þeim vöxtum sem á hverjum tíma eru reiknaðir af venjulegum sparisjóðsinnstæðum.
-      Sé lánþegi á endurgreiðslutímanum ekki skattskyldur á Íslandi af öllum tekjum sínum og eignum skal honum gefinn kostur á að telja fram tekjur sínar til Lánasjóðs og yrði hámark árlegrar endurgreiðslu ákveðið í samræmi við það. Geri hann það ekki eða telja verði framtal hans ósennilegt og ekki unnt að sannreyna útsvarsstofn samkvæmt því verður árleg endurgreiðsla hans ákveðin skv. 1. mgr. 8. gr.
+      [Sé lánþegi á endurgreiðslutímanum ekki skattskyldur á Íslandi af öllum tekjum sínum og eignum skal honum gefinn kostur á að senda sjóðnum staðfestar upplýsingar um tekjur sínar og yrði hámark árlegrar endurgreiðslu ákveðið í samræmi við það. Geri hann það ekki eða telja verður upplýsingar hans ósennilegar og ekki unnt að sannreyna útsvarsstofn samkvæmt því skal stjórn sjóðsins áætla honum útsvarsstofn til útreiknings árlegrar viðbótargreiðslu. Komi í ljós að áætlun þessi sé röng eiga ákvæði 2. mgr. við.][^1)^]
+
+
+_[^1)^]"L. 67/1997, 7. gr.":/altext/stjt/1997.067.html_
+
 
 
 
@@ -143,7 +177,12 @@ _[^1)^]Nú "l. 25/1987, V. kafli.":1987025.html_
 12. gr.
 
      Sé námsmanni vegna örorku sinnar, framfærslu barna sinna eða maka eða af öðrum ástæðum illmögulegt að dómi sjóðstjórnar að stunda nám sitt að fullnýttri lánsheimild má veita honum aukalán úr sjóðnum enda verði höfð hliðsjón af þeim bótum sem hann fær samkvæmt gildandi tryggingalöggjöf. Lán þessi eru veitt með sömu kjörum og almenn námslán.
+      [Þá er stjórn sjóðsins heimilt að veita lán með sömu kjörum og almenn námslán vegna annarra áfalla en greinir í 1. mgr., svo sem ef námsmanni stendur ekki tímabundið til boða fullt nám samkvæmt skipulagi skóla eða veikindi valda því að námsmanni tekst ekki að standast prófkröfur.][^1)^]
       Stjórn sjóðsins er heimilt að veita venjuleg skuldabréfalán sem séu verðtryggð og beri vexti sem eru sambærilegir við almenna útlánavexti banka á hverjum tíma. Vextir skulu reiknast frá útborgun láns. Lánstími skal að hámarki vera 10 ár. Stjórn sjóðsins setur nánari reglur um veitingu lána samkvæmt þessari málsgrein.
+
+
+_[^1)^]"L. 67/1997, 8. gr.":/altext/stjt/1997.067.html_
+
 
 
 
@@ -151,6 +190,12 @@ _[^1)^]Nú "l. 25/1987, V. kafli.":1987025.html_
 
      Stjórn sjóðsins er heimilt að ákveða að námsmenn frá Norðurlöndum, sem heimilisfastir eru á Íslandi og stunda nám hérlendis, hafi rétt til námslána samkvæmt lögum þessum með sama hætti og íslenskir námsmenn enda njóti þeir ekki aðstoðar frá heimalandi sínu.
       Einnig er heimilt að láta ákvæði þessarar greinar taka til einstakra annarra erlendra ríkisborgara njóti íslenskir námsmenn sambærilegra réttinda í heimalandi þeirra.
+      [Ríkisborgari ríkis á Evrópska efnahagssvæðinu, sem starfað hefur sem launþegi á Evrópska efnahagssvæðinu í a.m.k. fimm ár, sbr. "lög nr. 47/1993":1993047.html, á rétt á aðstoð til starfstengds náms hafi hann komið hingað til lands vegna starfs síns og átt hér lögheimili í eitt ár. Sama gildir um maka hans og börn þeirra sem eru yngri en 21 árs eða eru á framfæri þeirra hér á landi.
+      Skilyrði til lánveitingar frá sjóðnum er að viðkomandi hafi átt lögheimili á Íslandi í eitt ár áður en nám hefst. Íslenskur ríkisborgari heldur þó að jafnaði lánsrétti sínum í tvö ár eftir að hann flytur lögheimili sitt til annars lands.][^1)^]
+
+
+_[^1)^]"L. 67/1997, 9. gr.":/altext/stjt/1997.067.html_
+
 
 
 
@@ -178,7 +223,7 @@ _[^1)^]Nú "l. 25/1987, V. kafli.":1987025.html_
 <dt>2.</dt>
 <dd>Ríkisframlag.</dd>
 <dt>3.</dt>
-<dd>Lánsfé.</dd>
+<dd>[Lánsfé. Sjóðnum er þó ekki heimilt að taka lán með útgáfu og sölu á skuldabréfum og öðrum endurgreiðanlegum skuldaviðurkenningum til almennings.][^1)^]</dd>
 </dl>
 
 
@@ -187,15 +232,19 @@ _[^1)^]Nú "l. 25/1987, V. kafli.":1987025.html_
       Ársreikningar sjóðsins skulu samþykktir af sjóðstjórn og endurskoðaðir af Ríkisendurskoðun. Þeir skulu birtir í Stjórnartíðindum.
 
 
+_[^1)^]"L. 67/1997, 10. gr.":/altext/stjt/1997.067.html_
+
+
+
 
 16. gr.
 
      Ráðherra er heimilt að setja með reglugerð frekari ákvæði um framkvæmd þessara laga.[^1)^]
-      Sjóðstjórn setur reglur um önnur atriði er greinir í lögum þessum og reglugerð skv. 1. mgr. Stjórnin gefur árlega út þessar reglur sem skulu samþykktar af ráðherra.
+      [Sjóðstjórn setur reglur um önnur atriði er greinir í lögum þessum og reglugerð skv. 1. mgr. Reglurnar skulu samþykktar af ráðherra og birtar í Stjórnartíðindum.][^2)^]
       Sjóðstjórn er heimilt, ef hagsmunasamtök námsmanna óska eftir, að draga félagsgjald frá láni enda komi ósk námsmanns þar að lútandi fram á lánsumsókn.
 
 
-_[^1)^]Rg. 210/1993, sbr. 226/1994, 304/1995 og 216/1996._
+_[^1)^]Rg. 210/1993, sbr. 226/1994, 304/1995, 216/1996 og 303/1997.[^2)^]"L. 67/1997, 11. gr.":/altext/stjt/1997.067.html_
 
 
 
@@ -208,7 +257,11 @@ _[^1)^]Rg. 210/1993, sbr. 226/1994, 304/1995 og 216/1996._
 
 18. gr.
 
-     Ef skuldari samkvæmt lögum þessum er jafnframt að endurgreiða námslán samkvæmt "lögum nr. 72/1982":/altext/stjtnr.html#1982072 eða eldri lögum skal hann fyrst endurgreiða að fullu lán sem tekin eru samkvæmt þessum lögum. Greiðslur af eldri námsskuldum frestast þar til lán samkvæmt þessum lögum eru að fullu greidd.
+     [Ef skuldari samkvæmt lögum þessum er jafnframt að endurgreiða námslán samkvæmt "lögum nr. 72/1982":/altext/stjtnr.html#1982072 eða eldri lögum skal hann fyrst endurgreiða að fullu lán sem tekin eru samkvæmt þessum lögum. Þá gildir endurgreiðsluhlutfallið 4,75% einnig gagnvart þeim sem tóku lán frá árinu 1992 með endurgreiðsluhlutfallið 5 - 7%. Greiðslur af eldri námsskuldum frestast þar til lán samkvæmt þessum lögum eru að fullu greidd.][^1)^]
+
+
+_[^1)^]"L. 67/1997, 12. gr.":/altext/stjt/1997.067.html_
+
 
 
 

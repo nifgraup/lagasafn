@@ -256,9 +256,10 @@ hafa komið sér saman um eftirfarandi:
 
       7. (a) Nefndin skal athuga erindi með hliðsjón af öllum upplýsingum sem hlutaðeigandi aðildarríki og kærandi hafa látið henni í té. Nefndin skal ekki taka til athugunar erindi frá kæranda fyrr en hún hefur fengið vissu fyrir því að kærandi hafi tæmt öll tiltæk úrræði innanlands. Þetta á þó ekki við ef beiting úrræðanna dregst á langinn.
 
-(b)
-
-Nefndin skal koma tillögum sínum og ráðleggingum á framfæri, ef einhverjar eru, við hlutaðeigandi ríki og kærandann.
+<dl>
+<dt>(b)</dt>
+<dd>Nefndin skal koma tillögum sínum og ráðleggingum á framfæri, ef einhverjar eru, við hlutaðeigandi ríki og kærandann.</dd>
+</dl>
 
 
       8. Nefndin skal í ársskýrslu sinni birta samantekt um slík erindi og, þar sem við á, samantekt um greinargerðir og yfirlýsingar hlutaðeigandi aðildarríkja svo og um eigin tillögur og ráðleggingar.
@@ -271,9 +272,10 @@ Nefndin skal koma tillögum sínum og ráðleggingum á framfæri, ef einhverjar
      1. Þar til náð hefur verið markmiðum yfirlýsingar um veitingu sjálfstæðis til handa nýlendum og nýlenduþjóðum með ályktun allsherjarþings Sameinuðu þjóðanna nr. 1514 (XV) frá 14. desember 1960 skulu ákvæði samnings þessa í engu rýra kærurétt sem þessum þjóðum er veittur í öðrum alþjóðlegum samningum eða af Sameinuðu þjóðunum eða sérstökum stofnunum þeirra.
       2. (a) Nefndin sem stofnuð er samkvæmt 1. mgr. 8. gr. þessa samnings skal fá afrit erinda, og senda álit sitt og ráðleggingar varðandi þessi erindi, til aðila á vegum Sameinuðu þjóðanna sem fást við málefni sem tengjast með beinum hætti meginreglum og markmiðum samnings þessa er þeir taka til athugunar erindi frá íbúum gæsluverndarlendna og lendna sem ekki ráða sér sjálfar og allra annarra landsvæða sem samþykkt allsherjarþings Sameinuðu þjóðanna nr. 1514 (XV) nær til og varða málefni sem samningur þessi nær til og eru til meðferðar hjá þessum aðilum.
 
-(b)
-
-Nefndin skal fá, frá til þess bærum stofnunum á vegum Sameinuðu þjóðanna, afrit af skýrslum um ráðstafanir á sviði löggjafar, réttarvörslu, stjórnsýslu eða aðrar ráðstafanir sem tengjast með beinum hætti meginreglum og markmiðum samnings þessa sem beitt er af stjórnvöldum á landsvæðum sem nefnd eru í lið (a) þessarar málsgreinar og gefa álit sitt og veita ráðleggingar til þessara aðila.
+<dl>
+<dt>(b)</dt>
+<dd>Nefndin skal fá, frá til þess bærum stofnunum á vegum Sameinuðu þjóðanna, afrit af skýrslum um ráðstafanir á sviði löggjafar, réttarvörslu, stjórnsýslu eða aðrar ráðstafanir sem tengjast með beinum hætti meginreglum og markmiðum samnings þessa sem beitt er af stjórnvöldum á landsvæðum sem nefnd eru í lið (a) þessarar málsgreinar og gefa álit sitt og veita ráðleggingar til þessara aðila.</dd>
+</dl>
 
 
       3. Nefndin skal í skýrslu sinni til allsherjarþingsins birta samantekt um erindi og skýrslur sem hún hefur fengið frá stofnunum Sameinuðu þjóðanna og álit og ráðleggingar sem nefndin hefur gefið sem varða áðurgreind erindi og skýrslur.

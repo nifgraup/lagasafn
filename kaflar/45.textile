@@ -1,8 +1,8 @@
 h2. 45. Félög, firmu og stofnanir
 
-h4. "45.a. Firmu og félög með ótakmarkaðri ábyrgð":45.,a.html
+"45.a. Firmu og félög með ótakmarkaðri ábyrgð":45.a.html
 
-h4. "45.b. Félög með takmarkaðri ábyrgð":45.,b.html
+"45.b. Félög með takmarkaðri ábyrgð":45.b.html
 
-h4. "45.c. Sjálfseignarstofnanir":45.,c.html
+"45.c. Sjálfseignarstofnanir":45.c.html
 

@@ -1,10 +1,12 @@
 <hr />
 
-h2. Lög um skipan prestakalla og prófastsdæma og um starfsmenn þjóðkirkju Íslands
+h2. Lög um skipan prestakalla og prófastsdæma og um starfsmenn þjóðkirkju Íslands[^1)^]
 
 *1990 nr. 62 17. maí*
 
 <hr />
+
+_[^1)^]Falla úr gildi 31. desember 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
 
 
@@ -129,10 +131,10 @@ _I. Múlaprófastsdæmi._
 <dd><p>_Hraungerðisprestakall:_</p>
 <p>Hraungerðis-, Villingaholts- og Laugardælasóknir.</p>
 <p>Prestssetur: Hraungerði.</p></dd>
-<dt>4.</dt>
+<dt>[4.</dt>
 <dd><p>_Skálholtsprestakall:_</p>
 <p>Skálholts-, Bræðratungu-, Haukadals- og Torfastaðasóknir.</p>
-<p>Um þjónustu prestakallsins fer eftir ákvæði 42. gr. laga þessara.</p></dd>
+<p>Prestssetur: Skálholt.][^1)^]</p></dd>
 <dt>5.</dt>
 <dd><p>_Mosfellsprestakall:_</p>
 <p>Mosfells-, Stóruborgar-, Búrfells-, Miðdals- og Úlfljótsvatnssóknir.</p>
@@ -197,7 +199,7 @@ _I. Múlaprófastsdæmi._
 <p>Ólafsvíkur- og Brimilsvallasóknir.</p>
 <p>Prestssetur: Ólafsvík.</p></dd>
 <dt>4.</dt>
-<dd><p>_[Setbergsprestakall:]_[^1)^]</p>
+<dd><p>_[Setbergsprestakall:]_[^2)^]</p>
 <p>Setbergssókn.</p>
 <p>Prestssetur: Grundarfjörður.</p></dd>
 <dt>5.</dt>
@@ -396,7 +398,7 @@ _I. Múlaprófastsdæmi._
 
 
 
-_[^1)^]"L. 18/1991, 1. gr.":/altext/stjt/1991.018.html_
+_[^1)^]"L. 69/1997, 1. gr.":/altext/stjt/1997.069.html[^2)^]"L. 18/1991, 1. gr.":/altext/stjt/1991.018.html_
 
 
 
@@ -421,10 +423,14 @@ _[^1)^]"L. 18/1991, 1. gr.":/altext/stjt/1991.018.html_
 
 3. gr.
 
-     Í hverju prestakalli skal vera einn sóknarprestur.
+     Í hverju prestakalli skal vera einn sóknarprestur.[^1)^]
       Ráðherra er heimilt að ráða prest sóknarpresti til aðstoðar í prestaköllum þar sem íbúafjöldi er yfir 4.000. Í mannfærri prestaköllum hefur ráðherra sömu heimild ef sérstaklega stendur á. Nú fer íbúafjöldi yfir 8.000 og skal prestakallinu þá að jafnaði skipt.
       Aðstoðarprestur er ráðinn samkvæmt tillögu biskups í samráði við sóknarprest og með samþykki sóknarnefndar. Ráðningartími aðstoðarprests skal vera allt að fjórum árum í senn.
       Aðstoðarprestur starfar undir stjórn sóknarprests samkvæmt erindisbréfi er biskup setur.
+
+
+_[^1)^]Ákv. 1. mgr. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
+
 
 
 
@@ -447,26 +453,26 @@ _[^1)^]"L. 18/1991, 1. gr.":/altext/stjt/1991.018.html_
 
 
 
-7. gr.
+7. gr.[^1)^]
 
-     [Þingvallaprestakalli skv. 1. gr. gegnir prestur er ráðherra skipar til fimm ára í senn að fengnum tillögum biskups og Þingvallanefndar.][^1)^]
+     [Þingvallaprestakalli skv. 1. gr. gegnir prestur er ráðherra skipar til fimm ára í senn að fengnum tillögum biskups og Þingvallanefndar.][^2)^]
 
 
-_[^1)^]"L. 150/1996, 2. gr.":/altext/stjt/1996.150.html_
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64[^2)^]"L. 150/1996, 2. gr.":/altext/stjt/1996.150.html_
 
 
 
 
 8. gr.
 
-     Þar sem prestssetur er samkvæmt lögum þessum er presti skylt að hafa aðsetur og lögheimili, nema biskup heimili annað um stundarsakir, að fenginni umsögn prófasts og viðkomandi sóknarnefnda.
-      Um réttindi og skyldur presta gagnvart prestssetursjörðum gilda ákvæði ábúðarlaga og annarra laga eftir því sem við getur átt. ...[^1)^]
+     Þar sem prestssetur er samkvæmt lögum þessum er presti skylt að hafa aðsetur og lögheimili, nema biskup heimili annað um stundarsakir, að fenginni umsögn prófasts og viðkomandi sóknarnefnda.[^1)^]
+      Um réttindi og skyldur presta gagnvart prestssetursjörðum gilda ákvæði ábúðarlaga og annarra laga eftir því sem við getur átt. ...[^2)^]
       Farprestar (skv. 9. gr.) njóti sambærilegra húsnæðiskjara og sóknarprestar.
       Eigi má ráðstafa prestssetri til langframa nema til þess komi samþykki biskups, að fenginni umsögn viðkomandi prófasts, héraðsfundar og sóknarnefnda í viðkomandi prestakalli, svo og samþykki þess prests er veitingu hefur fyrir viðkomandi brauði.
       Ráðherra er heimilt, að fenginni umsögn biskups og hlutaðeigandi prófasts, sóknarnefndar og sóknarprests, að flytja prestssetur til innan prestakalls. Ákvörðun um þetta efni skal birt í B-deild Stjórnartíðinda.
 
 
-_[^1)^]"L. 137/1993, 10. gr.":1993137.html#g10_
+_[^1)^]Ákv. 1. mgr. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64[^2)^]"L. 137/1993, 10. gr.":1993137.html#g10_
 
 
 
@@ -475,7 +481,7 @@ _[^1)^]"L. 137/1993, 10. gr.":1993137.html#g10_
 
 *Um sérþjónustuembætti.*
 
-9. gr.
+9. gr.[^1)^]
 
      Ráðherra er heimilt samkvæmt tillögu biskups að ákveða að í prófastsdæmum starfi farprestar er hafi með höndum eftirtalin verkefni:
 
@@ -493,36 +499,60 @@ _[^1)^]"L. 137/1993, 10. gr.":1993137.html#g10_
       Ráðningartími farprests skal vera allt að þremur árum í senn.
 
 
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
-10. gr.
+
+
+
+10. gr.[^1)^]
 
      Ráðherra er heimilt samkvæmt tillögu biskups að ákveða að prestar starfi meðal Íslendinga erlendis. Ráðningartími þeirra skal vera allt að þremur árum í senn.
 
 
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
-11. gr.
+
+
+
+11. gr.[^1)^]
 
      Á sjúkrastofnunum skal halda uppi prestsþjónustu.
       Þar sem þess er þörf skal ráða presta að sjúkrastofnunum og hafi þeir sérmenntun til starfans. Við ráðningu sjúkraprests ber að leita álits stjórnar hlutaðeigandi stofnunar og ber honum að starfa í samráði við stofnunina.
 
 
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
-12. gr.
+
+
+
+12. gr.[^1)^]
 
      Við fangelsi skal starfa prestur (prestar) er hafi sérmenntun til starfans.
 
 
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
-13. gr.
+
+
+
+13. gr.[^1)^]
 
      Meðal heyrnarskertra skal starfa prestur er hafi sérmenntun til starfans.
 
 
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
-14. gr.
+
+
+
+14. gr.[^1)^]
 
      Heimilt er ráðherra að ráða presta til sérþjónustu í fleiri tilvikum en greinir hér að framan.
       Ráðherra ákveður í reglugerð, að fenginni tillögu biskups, starfssvið presta er gegna sérþjónustu, kveður á um skipulag prestsþjónustu þeirra og stöðu þeirra gagnvart sóknarprestum.
+
+
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
+
 
 
 
@@ -530,14 +560,18 @@ _[^1)^]"L. 137/1993, 10. gr.":1993137.html#g10_
 
 *Um embættisgengi presta.*
 
-15. gr.
+15. gr.[^1)^]
 
      Kirkjumálaráðherra skipar sóknarpresta í embætti, sbr. "lög um veitingu prestakalla, nr. 44/1987":1987044.html. Ráðherra ræður aðra presta til þjónustu, að fengnum tillögum biskups.
       Biskup setur prestum erindisbréf.
 
 
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
-16. gr.
+
+
+
+16. gr.[^1)^]
 
      Almenn skilyrði til skipunar eða setningar í prestsembætti eru þessi:
 
@@ -547,7 +581,7 @@ _[^1)^]"L. 137/1993, 10. gr.":1993137.html#g10_
 <dt>2.</dt>
 <dd>Embættispróf frá guðfræðideild Háskóla Íslands eða frá viðurkenndri guðfræðideild eða guðfræðiskóla og skal biskup um hið síðarnefnda atriði leita umsagnar guðfræðideildar Háskóla Íslands.</dd>
 <dt>3.</dt>
-<dd>Áður en kandídat hlýtur vígslu skal hann hafa starfað með sóknarpresti eigi skemur en fjóra mánuði undir eftirliti prófasts. Um framkvæmd og eftirlit þessa skal nánar kveðið á í reglugerð.[^1)^] Að öðru leyti fer um nám í kennimannlegri guðfræði svo sem segir í reglugerð um nám í guðfræðideild Háskóla Íslands.</dd>
+<dd>[Áður en kandídat hlýtur vígslu skal hann hafa starfað með sóknarpresti eigi skemur en tvo mánuði undir eftirliti prófasts.][^2)^] Um framkvæmd og eftirlit þessa skal nánar kveðið á í reglugerð.[^3)^] Að öðru leyti fer um nám í kennimannlegri guðfræði svo sem segir í reglugerð um nám í guðfræðideild Háskóla Íslands.</dd>
 <dt>4.</dt>
 <dd>Aðili hafi ekki gerst sekur um athæfi sem ætla má að rýri álit hans og sé ósamboðið manni í prestsstarfi. Nú telur biskup að hæfni kandídats orki tvímælis og getur hann þá kvatt þriggja manna nefnd sér til ráðuneytis.</dd>
 <dt>5.</dt>
@@ -557,14 +591,18 @@ _[^1)^]"L. 137/1993, 10. gr.":1993137.html#g10_
 
 
 
-_[^1)^]Rg. 89/1991, sbr. 10/1994._
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64[^2)^]"L. 59/1997, 1. gr.":/altext/stjt/1997.059.html[^3)^]Rg. 89/1991, sbr. 10/1994._
 
 
 
 
-17. gr.
+17. gr.[^1)^]
 
      Biskup skal vandlega gæta þess að eigi veljist aðrir til prestsþjónustu í þjóðkirkjunni en þeir sem til þess eru hæfir að framkvæma prestlegt embætti og annast sálgæslu sóknarbarna sinna. Er engum óvígðum guðfræðingi heimilt að sækja um prestsstarf í þjónustu kirkjunnar nema fyrir liggi umsögn biskups um að hann fullnægi þeim kröfum sem gerðar eru til prestsvígslu.
+
+
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
+
 
 
 
@@ -572,15 +610,23 @@ _[^1)^]Rg. 89/1991, sbr. 10/1994._
 
 *Ýmis ákvæði um presta og starfsskyldur þeirra.*
 
-18. gr.
+18. gr.[^1)^]
 
      Sóknarprestar og aðrir starfsmenn þjóðkirkjunnar, sem lög þessi ná til og taka laun úr ríkissjóði, eru opinberir starfsmenn og njóta lögkjara og bera skyldur samkvæmt því, sbr. m.a. "lög nr. 38/1954":1954038.html.
 
 
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
-19. gr.
+
+
+
+19. gr.[^1)^]
 
      Skylt er sóknarpresti að taka við embætti sínu jafnskjótt og föng eru á eftir að hann hefur hlotið skipun. Ráðherra getur þó samkvæmt tillögu biskups veitt presti, er situr jörð, frest til næstu fardaga til að taka við embættinu.
+
+
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
+
 
 
 
@@ -641,9 +687,13 @@ _[^1)^]Rg. 89/1991, sbr. 10/1994._
 
 27. gr.
 
-     Kirkjumálaráðherra skipar prófasta úr hópi þjónandi presta í prófastsdæminu með ráði biskups er leitað hefur áður álits þjónandi presta í prófastsdæminu og þriggja fulltrúa leikmanna sem kosnir eru á héraðsfundi til fjögurra ára í senn, þó ekki fleiri en þjónandi prestar eru í prófastsdæminu. Sóknarpresti er skylt að takast á hendur prófastsembætti. Biskup getur falið presti eða nágrannaprófasti að gegna prófastsembætti um stundarsakir ef sérstaklega stendur á svo sem vegna fjarveru prófasts eða veikinda hans eða vegna þess að prófasts missir við.
+     Kirkjumálaráðherra skipar prófasta úr hópi þjónandi presta í prófastsdæminu með ráði biskups er leitað hefur áður álits þjónandi presta í prófastsdæminu og þriggja fulltrúa leikmanna sem kosnir eru á héraðsfundi til fjögurra ára í senn, þó ekki fleiri en þjónandi prestar eru í prófastsdæminu.[^1)^] Sóknarpresti er skylt að takast á hendur prófastsembætti. Biskup getur falið presti eða nágrannaprófasti að gegna prófastsembætti um stundarsakir ef sérstaklega stendur á svo sem vegna fjarveru prófasts eða veikinda hans eða vegna þess að prófasts missir við.
       Nú lætur prófastur af prestsembætti í prestakalli og verður prófastsembætti þá laust. Nú telur prófastur sér óhægt að gegna embættinu vegna veikinda eða af öðrum sérstökum persónulegum ástæðum og er þá heimilt að leysa hann undan því embætti þótt hann gegni prestsembætti sínu eftirleiðis.
       Biskup setur próföstum erindisbréf.
+
+
+_[^1)^]Ákv. 1. málsl. 1. mgr. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
+
 
 
 
@@ -702,7 +752,9 @@ _[^1)^]Rg. 89/1991, sbr. 10/1994._
 
 *VI. kafli.*
 
-*Um biskup Íslands og embætti hans.*
+*Um biskup Íslands og embætti hans.[^1)^]*
+
+_[^1)^]Öll ákv. VI. kafla falla úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
 35. gr.
 
@@ -759,33 +811,41 @@ _[^1)^]Rg. 89/1991, sbr. 10/1994._
 
 *Um vígslubiskupa og embætti þeirra.*
 
-42. gr.
+42. gr.[^1)^]
 
      Tveir vígslubiskupar skulu vera hér á landi. Hafa þeir aðsetur í Skálholti í Biskupstungum og á Hólum í Hjaltadal.
-      Vígslubiskup í Skálholti hefur með höndum prestsþjónustu í Skálholtsprestakalli. Skal hann njóta aðstoðarþjónustu nágrannapresta eða farprests.
+      ...[^2)^]
       Vígslubiskup á Hólum hefur með höndum prestsþjónustu í Hólaprestakalli. Skal hann njóta aðstoðarþjónustu nágrannapresta eða farprests.
 
 
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64[^2)^]"L. 69/1997, 2. gr.":/altext/stjt/1997.069.html_
 
-43. gr.
+
+
+
+43. gr.[^1)^]
 
      Forseti Íslands skipar vígslubiskupa.
-      Um kosningu vígslubiskupa og kjörgengi gilda ákvæði laga um biskupskjör, nr. 96 frá 1980, eftir því sem við getur átt, en ráðherra setur í reglugerð[^1)^] nánari reglur um kosningu og kjörgengi þeirra.
+      Um kosningu vígslubiskupa og kjörgengi gilda ákvæði laga um biskupskjör, nr. 96 frá 1980, eftir því sem við getur átt, en ráðherra setur í reglugerð[^2)^] nánari reglur um kosningu og kjörgengi þeirra.
 
 
-_[^1)^]Rg. 118/1991, sbr. 89/1994._
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64[^2)^]Rg. 118/1991, sbr. 89/1994._
 
 
 
 
-44. gr.
+44. gr.[^1)^]
 
      Umdæmi vígslubiskups í Skálholti nær yfir Múla-, Austfjarða-, Skaftafells-, Rangárvalla-, Árness-, Kjalarness-, Reykjavíkur-, Borgarfjarðar-, Snæfellsness- og Dala-, Barðastrandar- og Ísafjarðarprófastsdæmi.
       Umdæmi vígslubiskups á Hólum nær yfir Húnavatns-, Skagafjarðar-, Eyjafjarðar- og Þingeyjarprófastsdæmi.
 
 
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
 
-45. gr.
+
+
+
+45. gr.[^1)^]
 
      Verkefni vígslubiskupa í hvoru umdæmi fyrir sig skulu vera eftirfarandi:
 
@@ -802,6 +862,10 @@ _[^1)^]Rg. 118/1991, sbr. 89/1994._
 
 
       Einnig skulu vígslubiskupar vera biskupi til ráðuneytis um sameiginleg málefni þjóðkirkjunnar og gegna að öðru leyti þeim störfum sem biskup felur þeim.
+
+
+_[^1)^]Ákv. fellur úr gildi 1. janúar 1998, sbr. "l. 78/1997, 64. gr.":1997078.html#g64_
+
 
 
 
@@ -846,15 +910,17 @@ _[^1)^]Rg. 118/1991, sbr. 89/1994._
 <dt>4.</dt>
 <dd>Ákvæði laga þessara um vígslubiskupa taka til þeirra vígslubiskupa sem nú eru í starfi. Þó skulu ákvæði 42. gr. um fasta búsetu vígslubiskupa ekki eiga við um vígslubiskupa sem eru í starfi við gildistöku laganna.</dd>
 <dt>5.</dt>
-<dd>Meðan núverandi sóknarprestur í Skálholtsprestakalli þjónar kallinu taka ákvæði 42. gr., um að vígslubiskup í Skálholti gegni prestsstörfum í Skálholtsprestakalli, ekki gildi.</dd>
+<dd>[Nú losnar embætti sóknarprests í Bergþórshvolsprestakalli og er þá heimilt að setja prest til að gegna því embætti allt til 1. janúar 1999.][^2)^]</dd>
 <dt>6.</dt>
 <dd>Lög þessi skulu koma til endurskoðunar eigi síðar en 1995. Þó skal ráðherra láta nú þegar athuga hvort hagkvæmara sé að Árness-, Hólmavíkur- og Prestsbakkaprestaköll í Húnavatnsprófastsdæmi færist til prófastsdæmis í Vestfjarðakjördæmi. Verði sú niðurstaða skal hann leggja fram frumvarp til laga um þá breytingu á næsta Alþingi.</dd>
+<dt>[7.</dt>
+<dd>Heimilt er í Grafarvogsprestakalli í Reykjavíkurprófastsdæmi eystra að ráða sóknarpresti annan prest til aðstoðar fram til 1. janúar 1999.][^2)^]</dd>
 </dl>
 
 
 
 
-_[^1)^]Augl. 277/1990, 538/1990, sbr. 444/1991, 414/1992, 525/1993, 669/1994 og 651/1995._
+_[^1)^]Augl. 277/1990, 538/1990, sbr. 444/1991, 414/1992, 525/1993, 669/1994 og 651/1995.[^2)^]"L. 69/1997, 3. gr.":/altext/stjt/1997.069.html_
 
 
 

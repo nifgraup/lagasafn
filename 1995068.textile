@@ -14,27 +14,27 @@ h2. Lög um Lúganósamninginn um dómsvald og um fullnustu dóma í einkamálum
      Heimilt er að fullgilda fyrir Íslands hönd samning um dómsvald og um fullnustu dóma í einkamálum sem gerður var í Lúganó 16. september 1988 (Lúganósamninginn), ásamt þeim þremur bókunum sem honum fylgja og teljast óaðskiljanlegur hluti hans.
       Samningurinn ásamt bókunum og yfirlýsingum sem honum fylgja er prentaður sem fylgiskjal með lögum þessum.
 
- 
+
 
 2. gr.
 
      Lúganósamningurinn og þær þrjár bókanir sem honum fylgja skulu hafa lagagildi hér á landi.
 
- 
+
 
 3. gr.
 
      Dómar, sem kveðnir eru upp í öðru samningsríki á grundvelli varnarþings skv. 1. tölul. 5. gr. og b-lið 1. tölul. 16. gr. Lúganósamningsins, skulu viðurkenndir og þeim fullnægt hér á landi þó að viðkomandi ríki hafi gert fyrirvara um að það muni ekki viðurkenna eða fullnægja íslenskum dómum í sambærilegum tilvikum.
       Dómar, sem hvorki þarf að viðurkenna né fullnægja skv. 2. mgr. II. gr. í bókun nr. 1 við samninginn, fá ekki réttarverkanir hér á landi.
 
- 
+
 
 4. gr.
 
      Ákvæði 1. gr. laga þessara öðlast þegar gildi.
       Önnur ákvæði laganna öðlast gildi um leið og Lúganósamningurinn öðlast gildi að því er Ísland varðar.
 
- 
+
 
 5. gr.
 
@@ -42,12 +42,9 @@ h2. Lög um Lúganósamninginn um dómsvald og um fullnustu dóma í einkamálum
 
 
 
-_Fylgiskjal._
+*Fylgiskjal.*
 
-_SAMNINGUR um dómsvald og um fullnustu dóma í einkamálum, gerður í Lúganó 16. september 1988._
-
-
-
+*SAMNINGUR um dómsvald og um fullnustu dóma í einkamálum, gerður í Lúganó 16. september 1988.*
 
 _Inngangur._
 
@@ -56,32 +53,18 @@ _Inngangur._
 <dd>AÐILAR AÐ SAMNINGI ÞESSUM</dd>
 <dt></dt>
 <dd>SEM ER UMHUGAÐ um að styrkja á yfirráðasvæðum sínum réttarvernd þeirra manna sem þar eru búsettir,</dd>
-<dd>
-</dd>
 <dt></dt>
 <dd>SEM TELJA að í því skyni sé nauðsynlegt að ákvarða hið alþjóðlega dómsvald dómstóla sinna og að auðvelda viðurkenningu og koma á skjótvirkri málsmeðferð til að tryggja fullnustu á dómum, opinberlega staðfestum skjölum og réttarsáttum,</dd>
-<dd>
-</dd>
 <dt></dt>
 <dd>SEM GERA SÉR GREIN fyrir tengslum sín í milli, sem hafa komið fram á sviði efnahagsmála í fríverslunarsamningum milli Efnahagsbandalags Evrópu og aðildarríkja Fríverslunarsamtaka Evrópu,</dd>
-<dd>
-</dd>
 <dt></dt>
 <dd>SEM HAFA HLIÐSJÓN af Brusselsamningnum frá 27. september 1968 um dómsvald og um fullnustu dóma í einkamálum eins og honum hefur verið breytt með aðildarsamningum eftir því sem Evrópubandalögin hafa stækkað,</dd>
-<dd>
-</dd>
 <dt></dt>
 <dd>SEM ERU SANNFÆRÐIR um að með því að láta meginreglur þess samnings einnig ná til ríkja, sem eru aðilar að þessum samningi, muni lagaleg og efnahagsleg samvinna í Evrópu styrkjast,</dd>
-<dd>
-</dd>
 <dt></dt>
 <dd>SEM ÓSKA að tryggja eins samræmda túlkun og unnt er á samningi þessum,</dd>
-<dd>
-</dd>
 <dt></dt>
 <dd>HAFA í þessum anda ÁKVEÐIÐ að gera með sér samning þennan og</dd>
-<dd>
-</dd>
 <dt></dt>
 <dd>HAFA ORÐIÐ ÁSÁTTIR UM EFTIRFARANDI:</dd>
 </dl>
@@ -480,8 +463,7 @@ b)
 <dd>í milliríkjaviðskiptum í formi sem er í samræmi við viðskiptavenjur sem aðilunum voru eða áttu að hafa verið kunnar og eru almennt þekktar og farið er almennt eftir af aðilum samninga af þeirri gerð á því viðskiptasviði sem um er að ræða.</dd>
 </dl>
 
-
- Hafi slíkt samkomulag verið gert milli aðila og hvorugur eða enginn þeirra á heimili í samningsríki geta dómstólar í öðrum samningsríkjum ekki skorið úr málinu nema sá dómstóll eða þeir dómstólar, sem samið hefur verið um, hafi vísað máli frá dómi vegna rangs varnarþings.
+Hafi slíkt samkomulag verið gert milli aðila og hvorugur eða enginn þeirra á heimili í samningsríki geta dómstólar í öðrum samningsríkjum ekki skorið úr málinu nema sá dómstóll eða þeir dómstólar, sem samið hefur verið um, hafi vísað máli frá dómi vegna rangs varnarþings.
 
 <dl>
 <dt>2.</dt>
@@ -1285,9 +1267,9 @@ g)</dt>
 
 58. gr.
 
- --  Engin.  -- 
+      --  Engin.  -- 
 
- 
+
 
 59. gr.
 
@@ -1457,7 +1439,7 @@ En gagnvart ríki, sem gerist aðili og vísað er til í a- eða b-lið 1. mgr.
 
 
 
-_BÓKUN NR. 1 um tiltekin atriði varðandi varnarþing, málsmeðferð og fullnustu._
+*BÓKUN NR. 1 um tiltekin atriði varðandi varnarþing, málsmeðferð og fullnustu.*
 
 SAMNINGSAÐILAR HAFA KOMIÐ SÉR SAMAN UM EFTIRFARANDI ÁKVÆÐI SEM SKULU FYLGJA SAMNINGNUM:
 
@@ -1555,9 +1537,9 @@ V. gr. b.
 
 V. gr. c.
 
- --  Engin.  -- 
+      --  Engin.  -- 
 
- 
+
 
 V. gr. d.
 
@@ -1571,7 +1553,7 @@ VI. gr.
 
 
 
-_BÓKUN NR. 2 um samræmda túlkun samningsins._
+*BÓKUN NR. 2 um samræmda túlkun samningsins.*
 
 _Inngangur._
 
@@ -1660,7 +1642,7 @@ _Inngangur._
 
 
 
-_BÓKUN NR. 3 um beitingu 57. gr._
+*BÓKUN NR. 3 um beitingu 57. gr.*
 
      SAMNINGSAÐILAR HAFA ORÐIÐ ÁSÁTTIR UM EFTIRFARANDI:
 

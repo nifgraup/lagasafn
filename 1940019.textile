@@ -58,8 +58,14 @@ _[^1)^]"L. 31/1961, 2. gr.":/altext/stjtnr.html#1961031?g2_
 <dd>Fyrir brot, framin innan íslenska ríkisins. Sé brot framið af starfsmanni eða farþega erlends skips eða loftfars, sem hér er á ferð, gegn manni, sem með farinu fylgist, eða hagsmunum, sem við farið eru nátengdir, skal þó því aðeins refsa hér, að dómsmálaráðherra fyrirskipi rannsókn og málshöfðun.</dd>
 <dt>2.</dt>
 <dd>Fyrir brot, framin á íslenskum skipum eða í íslenskum loftförum, hvar sem þau hafa þá verið stödd. Hafi brot verið framið á stað, þar sem refsivald annars ríkis nær til að þjóðarétti, og af manni, sem hvorki var fastur starfsmaður né farþegi á farinu, skal þó ekki refsað hér, nema heimild sé til þess eftir 5. eða 6. gr.</dd>
+<dt>[3.</dt>
+<dd>Fyrir brot gegn 264. gr., framið innan íslenska ríkisins enda þótt frumbrotið sem ávinningur stafar frá hafi verið framið erlendis og án tillits til hver var að því valdur.][^1)^]</dd>
 </dl>
 
+
+
+
+_[^1)^]"L. 10/1997, 1. gr.":/altext/stjt/1997.010.html_
 
 
 
@@ -495,12 +501,12 @@ _[^1)^]"L. 101/1976, 6. gr.":/altext/stjtnr.html#1976101?g6_
 52. gr.
 
      Ákveða skal í dómi, sátt eða úrskurði frest til greiðslu sektar, þó ekki yfir 6 mánuði.
-      Lögreglustjórar annast innheimtu sekta. Heimilt er þeim að leyfa, að sekt sé greidd með afborgunum.
-      Hafi greiðsla sektar ekki farið fram á tilskildum tíma, skal þegar heimta hana eða eftirstöðvar hennar með fjárnámi, ef unnt er, nema lögreglustjóri álíti, að innheimtan mundi hafa í för með sér tilfinnanlega röskun á högum sökunauts eða manna, sem hann framfærir. Annars kostar krefst lögreglustjóri fjárnáms ...[^1)^]
+      Lögreglustjórar annast innheimtu sekta. Heimilt er þeim að leyfa, að sekt sé greidd með afborgunum. [Eigi skal þó veita lengri greiðslufrest en eitt ár frá því að sekt kemur til innheimtu.][^1)^]
+      Hafi greiðsla sektar ekki farið fram á tilskildum tíma, skal þegar heimta hana eða eftirstöðvar hennar með fjárnámi, ef unnt er, nema lögreglustjóri álíti, að innheimtan mundi hafa í för með sér tilfinnanlega röskun á högum sökunauts eða manna, sem hann framfærir. Annars kostar krefst lögreglustjóri fjárnáms ...[^2)^]
       Ekki er leyfilegt, án sérstakrar lagaheimildar, að krefjast greiðslu sektar úr dánarbúi sökunauts, né að innheimta sekt hjá nokkrum öðrum en sökunaut sjálfum.
 
 
-_[^1)^]"L. 19/1991, 194. gr.":1991019.html#g194_
+_[^1)^]"L. 57/1997, 1. gr.":/altext/stjt/1997.057.html[^2)^]"L. 19/1991, 194. gr.":1991019.html#g194_
 
 
 
@@ -520,9 +526,96 @@ _[^1)^]"L. 101/1976, 7. gr.":/altext/stjtnr.html#1976101?g7_
      Dómstólar ákveða í dómi, úrskurði eða sátt, þar sem sekt er tiltekin, hvort hún skuli afplánuð í varðhaldi eða fangelsi, og um hversu langan tíma. ...[^1)^] Ekki má ákveða styttri tíma til afplánunar sektar en 2 daga og ekki lengri en 1 ár.
       Sé sekt dæmd ásamt refsivist, skal afplánun hennar ákveðin með sömu tegund refsivistar og aðalrefsingin.
       Hafi hluti sektar verið greiddur, ákveður [lögreglustjóri][^2)^] sá, sem annast fullnustu sektardóms, styttingu afplánunartíma að sama skapi, en þó þannig, að hann verði ekki undir framangreindu lágmarki, og að sektarfjárhæð, sem svarar til hluta úr degi, afplánist með heilum degi.
+      [Sekt sem ekki er ákveðin af dómstólum skal afplánuð í varðhaldi.
+      Sekt allt að 100.000 krónum sem sakborningur hefur skriflega gengist undir hjá lögreglustjóra afplánast með varðhaldi eftir meðfylgjandi töflu:
+Sekt:
+
+Vararefsing:
+
+0 - 
+
+9.999
+
+kr.
+
+2 dagar
+
+10.000 - 
+
+19.999
+
+kr.
+
+4 dagar
+
+20.000 - 
+
+29.999
+
+kr.
+
+6 dagar
+
+30.000 - 
+
+39.999
+
+kr.
+
+8 dagar
+
+40.000 - 
+
+49.999
+
+kr.
+
+10 dagar
+
+50.000 - 
+
+59.999
+
+kr.
+
+12 dagar
+
+60.000 - 
+
+69.999
+
+kr.
+
+14 dagar
+
+70.000 - 
+
+79.999
+
+kr.
+
+16 dagar
+
+80.000 - 
+
+89.999
+
+kr.
+
+18 dagar
+
+90.000 - 
+
+100.000
+
+kr.
+
+20 dagar
+
+     Lagagrundvöllur vararefsingarinnar og lengd varðhaldsins skulu tilgreind í lögreglustjórasátt og skal sakborningur gangast skriflega undir vararefsinguna ásamt öðrum viðurlögum.][^3)^]
 
 
-_[^1)^]"L. 48/1988, 31. gr.":1988048.html#g31[^2)^]"L. 92/1991, 23. gr.":/altext/stjt/1991.092.html_
+_[^1)^]"L. 48/1988, 31. gr.":1988048.html#g31[^2)^]"L. 92/1991, 23. gr.":/altext/stjt/1991.092.html[^3)^]"L. 57/1997, 2. gr.":/altext/stjt/1997.057.html_
 
 
 
@@ -566,7 +659,7 @@ _[^1)^]"L. 22/1955, 2. gr.":/altext/stjtnr.html#1955022?g2_
       Nú er kæru frestað samkvæmt ákvæðum þessarar greinar, og skal [ákærandi][^1)^] þá kynna aðilja rækilega skilyrðin og gera honum ljósar afleiðingar skilorðsrofa.][^3)^]
 
 
-_[^1)^]"L. 84/1996, 12. gr.":/altext/stjt/1996.084.html, sem tekur gildi 1. júlí 1997.[^2)^]"L. 19/1991, 195. gr.":1991019.html[^3)^]"L. 22/1955, 3. gr.":/altext/stjtnr.html#1955022?g3_
+_[^1)^]"L. 84/1996, 12. gr.":/altext/stjt/1996.084.html[^2)^]"L. 19/1991, 195. gr.":1991019.html[^3)^]"L. 22/1955, 3. gr.":/altext/stjtnr.html#1955022?g3_
 
 
 
@@ -628,7 +721,7 @@ _[^1)^]"L. 101/1976, 9. gr.":/altext/stjtnr.html#1976101?g9_
       Nú hefur aðilja verið sett skilyrði um dvöl á hæli samkvæmt 4. tölul. 3. mgr. 57. gr., og getur [ákærandi][^1)^] þá vegna breyttra ástæðna fellt skilyrðið niður að nokkru leyti eða öllu, að fengnum tillögum forstöðumanns hælis, ef því er að skipta.][^2)^]
 
 
-_[^1)^]"L. 84/1996, 12. gr.":/altext/stjt/1996.084.html, sem tekur gildi 1. júlí 1997.[^2)^]"L. 22/1955, 5. gr.":/altext/stjtnr.html#1955022?g5_
+_[^1)^]"L. 84/1996, 12. gr.":/altext/stjt/1996.084.html[^2)^]"L. 22/1955, 5. gr.":/altext/stjtnr.html#1955022?g5_
 
 
 
@@ -642,7 +735,7 @@ _[^1)^]"L. 84/1996, 12. gr.":/altext/stjt/1996.084.html, sem tekur gildi 1. júl
       Nú hefur refsing áður verið tiltekin í dómi, og ákveður dómari þá fullnustu dóms, ef frestur er ekki veittur samkvæmt 3. mgr. þessarar greinar.][^3)^]
 
 
-_[^1)^]"L. 84/1996, 12. gr.":/altext/stjt/1996.084.html, sem tekur gildi 1. júlí 1997.[^2)^]"L. 20/1981, 1. gr.":/altext/stjtnr.html#1981020?g1[^3)^]"L. 22/1955, 6. gr.":/altext/stjtnr.html#1955022?g6_
+_[^1)^]"L. 84/1996, 12. gr.":/altext/stjt/1996.084.html[^2)^]"L. 20/1981, 1. gr.":/altext/stjtnr.html#1981020?g1[^3)^]"L. 22/1955, 6. gr.":/altext/stjtnr.html#1955022?g6_
 
 
 
@@ -754,12 +847,16 @@ _[^1)^]"L. 31/1961, 7. gr.":/altext/stjtnr.html#1961031?g7_
 <dt>2.</dt>
 <dd>Hluti, sem ætla má, að ákvarðaðir séu til notkunar í glæpsamlegu skyni, ef nauðsynlegt þykir vegna réttaröryggis.</dd>
 <dt>3.</dt>
-<dd>Muni eða ávinning, sem aflað hefur verið með broti, og enginn á löglegt tilkall til, eða fjárhæð, sem svarar til slíks ávinnings.</dd>
+<dd>Muni eða ávinning, sem aflað hefur verið með broti, og enginn á löglegt tilkall til, eða fjárhæð, sem svarar til slíks ávinnings, [eða muni sem keyptir eru fyrir ávinninginn. Ef ekki er unnt að færa fullar sönnur á fjárhæð ávinnings er dómara heimilt að áætla fjárhæðina].[^1)^]</dd>
 </dl>
 
 
       Hið upptæka skal vera eign ríkissjóðs, nema annað sé sérstaklega ákveðið í lögum. Hafi einhver beðið tjón við brotið, skal hann þó eiga forgang til andvirðisins, ef bætur fást ekki á annan hátt.
       Nú er félagi slitið með dómi, og skal þá gera eignir þess upptækar til handa ríkissjóði, enda taki ríkisvaldið bækur þess og skjöl til varðveislu.
+
+
+_[^1)^]"L. 10/1997, 2. gr.":/altext/stjt/1997.010.html_
+
 
 
 
@@ -950,7 +1047,7 @@ _[^1)^]"L. 20/1981, 5. gr.":/altext/stjtnr.html#1981020?g5_
       Nú er sök fyrnd samkvæmt framansögðu og verður þá hvorki refsað fyrir háttsemina né dæmd viðurlög þau, sem mælt er um í 62. - 67. gr. Hinu sama gegnir um eignarupptöku og réttindasviptingu og úrræði samkvæmt 2. mgr. 148. gr. og 2. mgr. 241. gr. Fyrningarfrestur um eignarupptöku er ekki skemmri en 5 ár, en 10 ár um eignarupptöku samkvæmt 3. tölul. 1. mgr. 69. gr. og hliðstæðum ákvæðum í sérrefsilögum, nema þar sé öðruvísi kveðið á.][^2)^]
 
 
-_[^1)^]"L. 90/1996, 43. gr.":1996090.html#g43, sem tekur gildi 1. júlí 1997.[^2)^]"L. 20/1981, 6. gr.":/altext/stjtnr.html#1981020?g6_
+_[^1)^]"L. 90/1996, 43. gr.":1996090.html#g43[^2)^]"L. 20/1981, 6. gr.":/altext/stjtnr.html#1981020?g6_
 
 
 
@@ -1750,10 +1847,10 @@ _[^1)^]"L. 64/1974, 1. gr.":/altext/stjtnr.html#1974064?g1_
 
 [173. gr. b.
 
-     Hver, sem tekur við eða aflar sér eða öðrum ávinnings af broti gegn 173. gr. a, skal sæta fangelsi allt að 10 árum. Sömu refsingu skal sá sæta sem geymir eða flytur slíkan ávinning, aðstoðar við afhendingu hans eða stuðlar á annan sambærilegan hátt að því að tryggja öðrum ávinning af slíku broti.][^1)^]
+     ...[^1)^]][^2)^]
 
 
-_[^1)^]"L. 39/1993, 1. gr.":/altext/stjt/1993.039.html_
+_[^1)^]"L. 10/1997, 3. gr.":/altext/stjt/1997.010.html[^2)^]"L. 39/1993, 1. gr.":/altext/stjt/1993.039.html_
 
 
 
@@ -2567,19 +2664,22 @@ _[^1)^]"L. 39/1995, 1. gr.":/altext/stjt/1995.039.html_
 
 
 
+264. gr.
+
+     [Hver sem tekur við eða aflar sér eða öðrum ávinnings af broti samkvæmt lögum þessum skal sæta sektum, varðhaldi eða fangelsi allt að 2 árum. Sömu refsingu skal sá sæta sem geymir eða flytur slíkan ávinning, aðstoðar við afhendingu hans eða stuðlar á annan sambærilegan hátt að því að tryggja öðrum ávinning af broti. Nú er brot ítrekað eða stórfellt og getur refsing þá orðið varðhald eða fangelsi allt að 4 árum.
+      Refsing getur orðið fangelsi allt að 10 árum ef um ræðir ávinning af broti skv. 173. gr. a.
+      Ef ávinningur er smávægilegur og engin sérstök atvik auka saknæmi brotsins skal mál eigi höfðað nema almenningshagsmunir krefjist.
+      Sé brot framið af gáleysi varðar það sektum eða varðhaldi. Varði brotið sem ávinningur stafar frá ekki þyngri refsingu en varðhaldi má láta refsingu falla niður.][^1)^]
+
+
+_[^1)^]"L. 10/1997, 4. gr.":/altext/stjt/1997.010.html_
+
+
+
+
 *XXVIII. kafli.*
 
 *Ákvæði um bætur, brottfall erfðaréttar o.fl.*
-
-264. gr.
-
-     ...[^1)^]
-
-
-_[^1)^]"L. 50/1993, 29. gr.":1993050.html#g29_
-
-
-
 
 265. gr.
 

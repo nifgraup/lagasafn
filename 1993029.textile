@@ -79,7 +79,7 @@ _[^1)^]"L. 48/1996, 1. gr.":/altext/stjt/1996.048.html_
 <dt>d.</dt>
 <dd>Yfirbyggingar, þar með talin ökumannshús fyrir vélknúin ökutæki.</dd>
 <dt>e.</dt>
-<dd>...[^1)^]</dd>
+<dd>[Ökutæki sem aðallega eru ætluð til vöruflutninga og eru yfir 5 tonn að heildarþyngd.][^2)^]</dd>
 </dl>
 </dd>
 <dt>[4.]</dt>
@@ -90,7 +90,7 @@ _[^1)^]"L. 48/1996, 1. gr.":/altext/stjt/1996.048.html_
 <dt>b.</dt>
 <dd>Hópferðabifreiðar, þ.e. ökutæki sem aðallega eru ætluð til fólksflutninga og skráð eru fyrir 10 - 17 farþega að meðtöldum ökumanni.</dd>
 <dt>c.</dt>
-<dd>Ökutæki sem aðallega eru ætluð til vöruflutninga.</dd>
+<dd>[Ökutæki sem aðallega eru ætluð til vöruflutninga og eru 5 tonn eða minna að heildarþyngd.][^2)^]</dd>
 <dt>d.</dt>
 <dd>Vélknúin ökutæki til sérstakra nota, gálgabifreiðar o.fl. sem ekki eru aðallega hönnuð til flutnings á mönnum eða vörum og ekki eru tilgreind annars staðar í þessari grein.</dd>
 <dt>e.</dt>
@@ -116,7 +116,7 @@ _[^1)^]"L. 48/1996, 1. gr.":/altext/stjt/1996.048.html_
       Ráðherra er heimilt að samræma vörugjöld af vörum samkvæmt þessum kafla til lækkunar eða hækkunar ef sams konar eða svipaðar vörur kaflans bera ekki sama vörugjald.
 
 
-_[^1)^]"L. 41/1995, 2. gr.":/altext/stjt/1995.041.html_
+_[^1)^]"L. 41/1995, 2. gr.":/altext/stjt/1995.041.html[^2)^]"L. 47/1997, 1. gr":/altext/stjt/1997.047.html. Sjá einnig brbákv. s.l._
 
 
 
@@ -234,9 +234,6 @@ _Ýmis ákvæði._
 *III. kafli.*
 
 *Vörugjöld af eldsneyti.*
-
-
-
 
 _Almennt vörugjald af eldsneyti._
 
@@ -385,13 +382,13 @@ _[^1)^]Rg. 254/1993, sbr. 375/1993, 169/1995 og 289/1996. Rg. 255/1993, sbr. 511
 
      ...
 
- *Ákvæði til bráðabirgða.*
 
+
+*Ákvæði til bráðabirgða.*
 
 *I.*
 
      Ákvæði laga þessara skulu gilda um allar vörur er ekki hafa verið teknar til tollafgreiðslu við gildistöku þeirra.
-
 
 
 *II.*

@@ -16,8 +16,7 @@ h2. Lög um Evrópska efnahagssvæðið
 <dl>
 <dt>1.</dt>
 <dd>Samning um Evrópska efnahagssvæðið (EES-samninginn), þ.e. meginmál samningsins, bókanir við hann og viðauka, ásamt gerðum, sem í viðaukunum er getið, milli Efnahagsbandalags Evrópu, Kola- og stálbandalags Evrópu og aðildarríkja þessara bandalaga annars vegar og aðildarríkja Fríverslunarsamtaka Evrópu hins vegar, sem undirritaður var í Óportó hinn 2. maí 1992;</dd>
-<dt>
-2.</dt>
+<dt>2.</dt>
 <dd>samning milli EFTA-ríkjanna um stofnun eftirlitsstofnunar og dómstóls sem undirritaður var í Óportó hinn 2. maí 1992;</dd>
 <dt>3.</dt>
 <dd>samning um fastanefnd EFTA-ríkjanna sem undirritaður var í Óportó hinn 2. maí 1992;</dd>
@@ -77,15 +76,11 @@ _[^1)^]"L. 91/1994, 1. gr.":/altext/stjt/1994.091.html_
 
 
 
-_Fylgiskjal I._
-
-
-
+*Fylgiskjal I.*
 
 _SAMNINGUR UM EVRÓPSKA EFNAHAGSSVÆÐIÐ_
 
-
- EFNAHAGSBANDALAG EVRÓPU,
+EFNAHAGSBANDALAG EVRÓPU,
  KOLA- OG STÁLBANDALAG EVRÓPU,
  KONUNGSRÍKIÐ BELGÍA,
  KONUNGSRÍKIÐ DANMÖRK,
@@ -128,11 +123,9 @@ _SAMNINGUR UM EVRÓPSKA EFNAHAGSSVÆÐIÐ_
 
 _[^1)^]"L. 66/1993, 2. gr. fylgiskjals.":/altext/stjt/1993.066.html_
 
+*I. hluti.*
 
-
-
-
-_I. hluti. Markmið og meginreglur._
+*Markmið og meginreglur.*
 
 1. gr.
 
@@ -226,7 +219,9 @@ _[^1)^]"L. 66/1993, 2. gr. fylgiskjals.":/altext/stjt/1993.066.html_
 
 
 
-_II. hluti. Frjálsir vöruflutningar._
+*II. hluti.*
+
+*Frjálsir vöruflutningar.*
 
 *1. kafli.*
 
@@ -418,7 +413,9 @@ _II. hluti. Frjálsir vöruflutningar._
 
 
 
-_III. hluti. Frjálsir fólksflutningar, frjáls þjónustustarfsemi og frjálsir fjármagnsflutningar._
+*III. hluti.*
+
+*Frjálsir fólksflutningar, frjáls þjónustustarfsemi og frjálsir fjármagnsflutningar.*
 
 *1. kafli.*
 
@@ -673,7 +670,9 @@ Staðfesturéttur felur í sér rétt til að hefja og stunda sjálfstæða atvi
 
 
 
-_IV. hluti. Samkeppnisreglur og aðrar sameiginlegar reglur._
+*IV. hluti.*
+
+*Samkeppnisreglur og aðrar sameiginlegar reglur.*
 
 *1. kafli.*
 
@@ -896,7 +895,9 @@ Hafi sameiginlegu EES-nefndinni ekki tekist að finna lausn innan þriggja mána
 
 
 
-_V. hluti. Altæk ákvæði er varða fjórþætta frelsið._
+*V. hluti.*
+
+*Altæk ákvæði er varða fjórþætta frelsið.*
 
 *1. kafli.*
 
@@ -1020,7 +1021,9 @@ Með sömu launum án mismununar vegna kynferðis er átt við að:
 
 
 
-_VI. hluti. Samvinna utan marka fjórþætta frelsisins._
+*VI. hluti.*
+
+*Samvinna utan marka fjórþætta frelsisins.*
 
 78. gr.
 
@@ -1143,7 +1146,9 @@ _VI. hluti. Samvinna utan marka fjórþætta frelsisins._
 
 
 
-_VII. hluti. Ákvæði um stofnanir._
+*VII. hluti.*
+
+*Ákvæði um stofnanir.*
 
 *1. kafli.*
 
@@ -1456,7 +1461,11 @@ Hafi tilkynningin ekki farið fram fyrir umræddan dag gengur ákvörðunin í g
      1. Ef öryggisráðstöfun, sem samningsaðili hefur gripið til, veldur misvægi milli réttinda og skyldna samkvæmt samningi þessum getur hver hinna samningsaðilanna gripið til jafnumfangsmikilla jöfnunarráðstafana gagnvart fyrrnefndum samningsaðila og bráðnauðsynlegar eru til að jafna umrætt misvægi. Þær ráðstafanir skulu helst gerðar sem raska minnst starfsemi Evrópska efnahagssvæðisins.
       2. Málsmeðferðin, sem kveðið er á um í 113. gr., gildir.
 
- VIII. hluti. Fjármagnskerfi.
+
+
+*VIII. hluti.*
+
+*Fjármagnskerfi.*
 
 115. gr.
 
@@ -1474,7 +1483,11 @@ Hafi tilkynningin ekki farið fram fyrir umræddan dag gengur ákvörðunin í g
 
      Í bókun 38 eru ákvæði um fjármagnskerfið.
 
- IX. hluti. Almenn ákvæði og lokaákvæði.
+
+
+*IX. hluti.*
+
+*Almenn ákvæði og lokaákvæði.*
 
 118. gr.
 
@@ -1635,7 +1648,7 @@ _[^1)^]"L. 66/1993, 6. gr. fylgiskjals.":/altext/stjt/1993.066.html "Bókunin, s
 
 
 
-_Fylgiskjal II._
+*Fylgiskjal II.*
 
 _Bókun 1. Um altæka aðlögun._
 
@@ -1727,14 +1740,14 @@ _12. Viðtakendur gerða bandalagsins._
       Ákvæði þar sem þess er getið að gerð bandalagsins sé beint til aðildarríkja bandalagsins eiga ekki við að því er samninginn varðar.
 
 
-_Fylgiskjal III._
+*Fylgiskjal III.*
 
 _9. tölul. VIII. viðauka._
 
      Þrátt fyrir 31. - 35. gr. samningsins og ákvæði þessa viðauka er Íslandi heimilt að beita áfram höftum, sem eru í gildi við undirritun samningsins um staðfestu þeirra sem eru ekki ríkisborgarar og ríkisborgara sem eiga ekki lögheimili á Íslandi, á sviði sjávarútvegs og fiskvinnslu.
 
 
-_Fylgiskjal IV._
+*Fylgiskjal IV.*
 
 _G-liður 1. tölul. XII. viðauka._
 
@@ -1742,21 +1755,13 @@ _G-liður 1. tölul. XII. viðauka._
       Þessi höft skulu ekki koma í veg fyrir fjárfestingar erlendra aðila eða ríkisborgara sem eru ekki með lögheimili á Íslandi í félögum sem taka aðeins á óbeinan hátt þátt í fiskveiðum eða fiskvinnslu. Þó hafa innlend yfirvöld rétt til að skuldbinda fyrirtæki sem hafa að hluta eða að öllu leyti verið keypt af erlendum aðilum eða ríkisborgurum sem ekki eru með lögheimili á Íslandi til að losa sig við fjárfestingar í starfsemi á sviði fiskvinnslu eða í fiskiskipum.
 
 
-_Fylgiskjal V.[^1)^]_
-
-
-
+*Fylgiskjal V.[^1)^]*
 
 _[^1)^]Fylgiskjal með "L. 66/1993":/altext/stjt/1993.066.html._
 
-
-
-
-
 _Bókun um breytingu á samningnum um evrópska efnahagssvæðið._
 
-
- EFNAHAGSBANDALAG EVRÓPU,
+EFNAHAGSBANDALAG EVRÓPU,
  KOLA- OG STÁLBANDALAG EVRÓPU,
  KONUNGSRÍKIÐ BELGÍA,
  KONUNGSRÍKIÐ DANMÖRK,
@@ -1788,7 +1793,6 @@ _Bókun um breytingu á samningnum um evrópska efnahagssvæðið._
  ÞAR EÐ æskilegt er að hafa meðal slíkra breytinga ákvæði sem sýnir vilja samningsaðila til að gera Sviss kleift að taka þátt í EES síðar meir;
  HAFA ÁKVEÐIÐ að gera eftirfarandi viðbótarbókun:
 
-
 1. gr.
 
      1. EES-samningurinn, eins og honum er breytt með bókun þessari, skal öðlast gildi daginn sem bókun þessi öðlast gildi, milli Efnahagsbandalags Evrópu, Kola- og stálbandalags Evrópu, aðildarríkja þeirra og Lýðveldisins Austurríkis, Lýðveldisins Finnlands, Lýðveldisins Íslands, Konungsríkisins Noregs og Konungsríkisins Svíþjóðar.
@@ -1809,7 +1813,6 @@ _[^1)^]Ákvæði um breytingar á EES-samningi._
 
  ...
 
-
 15. gr.
 
      ...[^1)^]
@@ -1819,7 +1822,6 @@ _[^1)^]Gildistökuákvæði._
 
 
  ...
-
 
 21. gr.
 

@@ -11,10 +11,27 @@ h2. Lög um skráningu skipa
 
 1. gr.
 
-     [Skráningarskylt eftir lögum þessum er sérhvert skip sem er 6 metrar á lengd eða stærra, mælt milli stafna. Rétt er að skrá skip hér á landi þegar íslenskir ríkisborgarar, sem eiga lögheimili hér á landi eða íslenskir lögaðilar, sem eiga heimili hér á landi, eiga það. [Þennan rétt hafa einnig ríkisborgarar annarra ríkja Evrópska efnahagssvæðisins frá og með gildistöku samnings um hið Evrópska efnahagssvæði samkvæmt nánari ákvæðum sem ráðherra setur með reglugerð.][^1)^] Til fiskveiða hér á landi má aðeins skrá skip og báta sem eru í eigu íslenskra ríkisborgara sem eiga lögheimili hérlendis og lögaðila sem eiga heimili hér á landi og eru að öllu leyti eign íslenskra ríkisborgara sem eiga lögheimili hér á landi.][^2)^]
+     [Skráningarskylt eftir lögum þessum er sérhvert skip sem er 6 metrar á lengd eða stærra, mælt milli stafna. Rétt er að skrá skip hér á landi þegar íslenskir ríkisborgarar, sem eiga lögheimili hér á landi eða íslenskir lögaðilar, sem eiga heimili hér á landi, eiga það. [Þennan rétt hafa einnig ríkisborgarar annarra ríkja Evrópska efnahagssvæðisins frá og með gildistöku samnings um hið Evrópska efnahagssvæði samkvæmt nánari ákvæðum sem ráðherra setur með reglugerð.][^1)^]][^2)^]
+      [Aðeins má skrá til fiskveiða hér á landi skip sem eru í eigu eftirtalinna aðila:
+
+<dl>
+<dt>1.</dt>
+<dd>Íslenskra ríkisborgara sem eiga lögheimili hér á landi.</dd>
+<dt>2.</dt>
+<dd>Íslenskra lögaðila sem eiga heimili hér á landi og eru að öllu leyti í eigu íslenskra ríkisborgara, sem eiga lögheimili hér á landi, eða íslenskra lögaðila sem uppfylla eftirfarandi skilyrði:</dd>
+<dd><dl>
+<dt>a.</dt>
+<dd>Eru undir yfirráðum íslenskra aðila.</dd>
+<dt>b.</dt>
+<dd>Eru í eigu erlendra aðila að hámarki 25% sé miðað við hlutafé eða stofnfé. Fari eignarhlutur íslensks lögaðila í öðrum lögaðila, sem er skráður eigandi skips, ekki yfir 5% má eignarhlutur erlendra aðila þó vera allt að 33%.][^3)^]</dd>
+</dl>
+</dd>
+</dl>
 
 
-_[^1)^]"L. 62/1993, 10. gr.":/altext/stjt/1993.062.html[^2)^]"L. 23/1991, 24. gr.":/altext/stjt/1991.023.html Augl. 574/1993._
+
+
+_[^1)^]"L. 62/1993, 10. gr.":/altext/stjt/1993.062.html[^2)^]"L. 23/1991, 24. gr.":/altext/stjt/1991.023.html Augl. 574/1993.[^3)^]"L. 39/1997, 1. gr.":/altext/stjt/1997.039.html_
 
 
 
@@ -293,7 +310,7 @@ _[^1)^]"L. 7/1996, 17. gr.":/altext/stjt/1996.007.html_
      Fyrir útgáfu þjóðernis- og skrásetningarskírteinis, útgáfu mælibréfs, áritun á þjóðernis- og skrásetningarskírteini, endurrit mælibréfs, einkaleyfi á skipsnafni eða öðrum einkennum samkvæmt 5. gr. og nafnbreytingu á skipi skal eigandi greiða gjöld í ríkissjóð samkvæmt reglugerð[^1)^] er ráðherra setur.
 
 
-_[^1)^]Rg. 187/1996._
+_[^1)^]Rg. 153/1997._
 
 
 

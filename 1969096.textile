@@ -137,12 +137,10 @@ _[^1)^]Augl. A 77/1990, 2. gr._
 <dd>Sveitarstjórnarkosningar og sýslunefnda, mörk sveitarfélaga, tekjustofna sveitarfélaga, Jöfnunarsjóð sveitarfélaga, Lánasjóð sveitarfélaga, aðstoð við landakaup sveitarfélaga og Bjargráðasjóð Íslands.</dd>
 <dt>2.</dt>
 <dd>Framfærslu og sveitfesti.</dd>
-<dt>3.</dt>
-<dd>Brunavarnir og Brunamálastofnun ríkisins.</dd>
+<dt>[3.]</dt>
+<dd>[^1)^] Samband íslenskra sveitarfélaga.</dd>
 <dt>[4.]</dt>
-<dd>[^1)^]Samband íslenskra sveitarfélaga.</dd>
-<dt>5.</dt>
-<dd>[Vernd barna og ungmenna.][^2)^]</dd>
+<dd>[^1)^] [Vernd barna og ungmenna.][^2)^]</dd>
 </dl>
 </dd>
 <dt>B.</dt>
@@ -178,7 +176,7 @@ _[^1)^]Augl. A 77/1990, 2. gr._
 
 
 
-_[^1)^]Augl. A 27/1993, 1. gr.[^2)^]Augl. A 114/1993, 1. gr.[^3)^]Augl. A 114/1993, 2. gr._
+_[^1)^]Augl. A 103/1997, 1. gr. Öðlast gildi 1. janúar 1998.[^2)^]Augl. A 114/1993, 1. gr.[^3)^]Augl. A 114/1993, 2. gr._
 
 
 
@@ -233,7 +231,7 @@ _[^1)^]Augl. A 27/1993, 1. gr.[^2)^]Augl. A 114/1993, 1. gr.[^3)^]Augl. A 114/19
 <dt>3.</dt>
 <dd>Eftirlit með opinberum sjóðum samkvæmt "lögum nr. 20/1964":/altext/stjtnr.html#1964020.[^3)^]</dd>
 <dt>4.</dt>
-<dd>Eftirlit með rekstri ríkisstofnana lögum samkvæmt, sbr. "82. gr. laga nr. 52/1966":1966052.html#g82.[^4)^]</dd>
+<dd>Eftirlit með rekstri ríkisstofnana lögum samkvæmt, sbr. "82. gr. laga nr. 52/1966":1966052.html.[^4)^]</dd>
 </dl>
 </dd>
 <dt>III.</dt>
@@ -277,7 +275,7 @@ _[^1)^]Á væntanlega að vera "l. 52/1966":1966052.html.[^2)^]Augl. A 1/1984, 1
 <dt>5.</dt>
 <dd>Skýrsluvélar ríkisins og Reykjavíkurborgar.</dd>
 <dt>6.</dt>
-<dd>Þjóðskrá og almannaskráning, fyrirtækjaskráning og hliðstæð verkefni.</dd>
+<dd>Þjóðskrá og almannaskráning, [skráningu fyrirtækja, hlutafélaga, einkahlutafélaga og samvinnufélaga][^1)^] og hliðstæð verkefni.</dd>
 <dt>7.</dt>
 <dd>Skýrslur og úrskurði í þágu opinberra aðilja, svo sem verið hefur.</dd>
 <dt>8.</dt>
@@ -286,6 +284,10 @@ _[^1)^]Á væntanlega að vera "l. 52/1966":1966052.html.[^2)^]Augl. A 1/1984, 1
 <dd>Almenna upplýsingaþjónustu, svo sem tíðkast hefur.</dd>
 </dl>
 
+
+
+
+_[^1)^]Augl. A 103/1997, 2. gr._
 
 
 
@@ -512,23 +514,25 @@ _[^1)^]Augl. A 27/1993, 4. gr._
 <dt>1.</dt>
 <dd>Náttúruvernd, friðunar- og uppgræðsluaðgerðir á sviði gróður- og skógverndar að fengnum tillögum Náttúruverndarráðs og í samráði við landbúnaðarráðherra, útivist og aðstöðu til náttúruskoðunar, aðgerðir til að stjórna stofnstærð villtra dýra, dýravernd og eflingu alhliða umhverfisverndar. [Ennfremur þjóðgarða, aðra en Þingvallaþjóðgarð.][^1)^] Náttúruverndarráð og embætti veiðistjóra.</dd>
 <dt>2.</dt>
-<dd>Varnir gegn mengun á landi, í lofti og legi, eyðingu og endurvinnslu hvers konar úrgangs frá byggð og atvinnuvegum, yfirstjórn Hollustuverndar ríkisins að því er varðar mengunarvarnir og yfirstjórn Siglingamálastofnunar ríkisins að því er varðar varnir gegn mengun sjávar.</dd>
+<dd>Varnir gegn mengun á landi, í lofti og legi, eyðingu og endurvinnslu hvers konar úrgangs frá byggð og atvinnuvegum, yfirstjórn Hollustuverndar ríkisins ...[^2)^]</dd>
 <dt>3.</dt>
-<dd>Skipulags- og byggingarmál, gerð landnýtingaráætlana og mál er varða landmælingar, skipulagsstjóra ríkisins, skipulagsstjórn og Landmælingar Íslands.</dd>
+<dd>Skipulags- og byggingarmál, [brunavarnir],[^3)^] gerð landnýtingaráætlana og mál er varða landmælingar, skipulagsstjóra ríkisins, skipulagsstjórn, [Brunamálastofnun ríkisins][^3)^] og Landmælingar Íslands.</dd>
 <dt>4.</dt>
 <dd>Rannsóknir á sviði umhverfismála í samráði og samvinnu við aðra aðila, veðurspár, veðurathuganir og aðrar mælingar á ástandi lofthjúps jarðar og alþjóðlega samvinnu á því sviði, Veðurstofu Íslands og Náttúrufræðistofnun Íslands.</dd>
-<dt>5.</dt>
-<dd>Fræðslu og upplýsingastarfsemi á sviði umhverfismála.</dd>
-<dt>6.</dt>
-<dd>Frumkvæði að samræmingu á aðgerðum ráðuneyta, einstakra ríkisstofnana og sveitarfélaga í málaflokkum sem snerta framkvæmd umhverfismála, svo sem í löggjöf um losun úrgangsefna og varnir gegn loft-, hávaða-, titrings-, geislunar-, ljós-, varma- og lyktarmengun.</dd>
-<dt>7.</dt>
-<dd>Alþjóðasamskipti og samvinnu á sviði umhverfismála.][^2)^]][^3)^]</dd>
+<dt>[5.</dt>
+<dd>Varnir gegn ofanflóðum, sem eigi ber undir annað ráðuneyti lögum samkvæmt.][^2)^]</dd>
+<dt>[6.]</dt>
+<dd>[^2)^] Fræðslu og upplýsingastarfsemi á sviði umhverfismála.</dd>
+<dt>[7.]</dt>
+<dd>[^2)^] Frumkvæði að samræmingu á aðgerðum ráðuneyta, einstakra ríkisstofnana og sveitarfélaga í málaflokkum sem snerta framkvæmd umhverfismála, svo sem í löggjöf um losun úrgangsefna og varnir gegn loft-, hávaða-, titrings-, geislunar-, ljós-, varma- og lyktarmengun.</dd>
+<dt>[8.]</dt>
+<dd>[^2)^] Alþjóðasamskipti og samvinnu á sviði umhverfismála.][^4)^]][^5)^]</dd>
 </dl>
 
 
 
 
-_[^1)^]Augl. A 27/1993, 5. gr.[^2)^]Augl. A 77/1990, 3. gr.[^3)^]Augl. A 5/1990, 1. gr._
+_[^1)^]Augl. A 27/1993, 5. gr.[^2)^]Augl. A 103/1997, 3. gr.[^3)^]Augl. A 103/1997, 3. gr. Öðlast gildi 1. janúar 1998.[^4)^]Augl. A 77/1990, 3. gr.[^5)^]Augl. A 5/1990, 1. gr._
 
 
 
@@ -596,19 +600,19 @@ _[^1)^]Augl. A 5/1990, 1. gr.[^2)^]Rg. 488/1993.[^3)^]Augl. A 64/1987, 1. gr._
 <dt>6.</dt>
 <dd>[Samkeppnismál, óréttmæta viðskiptahætti],[^3)^] verðskráningu og verðlag, nema lögð séu til annars ráðuneytis.</dd>
 <dt>7.</dt>
-<dd>Hlutafélög, samvinnufélög og önnur félög um verslun eða annan atvinnurekstur.</dd>
+<dd>[Hlutafélög, einkahlutafélög, samvinnufélög, önnur en skráningu, svo][^4)^] og önnur félög um verslun eða annan atvinnurekstur.</dd>
 <dt>8.</dt>
-<dd>Verslunarskrár og firmu.][^4)^]</dd>
+<dd>Verslunarskrár og firmu.][^5)^]</dd>
 <dt>[9.</dt>
-<dd>Mælitæki og vogaráhöld.][^5)^]</dd>
+<dd>Mælitæki og vogaráhöld.][^6)^]</dd>
 <dt>[10.</dt>
-<dd>Vátryggingastarfsemi.][^6)^]</dd>
+<dd>Vátryggingastarfsemi.][^7)^]</dd>
 </dl>
 
 
 
 
-_[^1)^]Augl. A 5/1990, 1. gr.[^2)^]Augl. 116/1996, 1. gr.[^3)^]Augl. A 14/1994, 1. gr.[^4)^]Augl. A 64/1987, 2. gr.[^5)^]Augl. A 77/1990, 4. gr.[^6)^]Augl. 11/1995, 2. gr._
+_[^1)^]Augl. A 5/1990, 1. gr.[^2)^]Augl. 116/1996, 1. gr.[^3)^]Augl. A 14/1994, 1. gr.[^4)^]Augl. A 103/1997, 4. gr.[^5)^]Augl. A 64/1987, 2. gr.[^6)^]Augl. A 77/1990, 4. gr.[^7)^]Augl. 11/1995, 2. gr._
 
 
 

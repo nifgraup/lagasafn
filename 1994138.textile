@@ -15,10 +15,14 @@ h2. Lög um einkahlutafélög
 
 1. gr.
 
-     Einkahlutafélag merkir félag samkvæmt lögum þessum þar sem enginn félagsmanna ber persónulega ábyrgð á heildarskuldbindingum félagsins.
+     Einkahlutafélag merkir félag samkvæmt lögum þessum þar sem enginn félagsmanna ber persónulega ábyrgð á heildarskuldbindingum félagsins. [Viðskiptaráðherra fer með mál er varða einkahlutafélög samkvæmt lögunum, önnur en þau sem varða skráningu einkahlutafélaga en með þau fer ráðherra Hagstofu Íslands. Með ráðherra er í lögum þessum átt við viðskiptaráðherra nema ráðherra Hagstofu Íslands sé tilgreindur sérstaklega.][^1)^]
       Hlutafé í einkahlutafélagi skal minnst vera 500.000 krónur og skiptist það í einn eða fleiri hluti. Þessari fjárhæð getur ráðherra breytt í samræmi við breytingar á gengi evrópskra mynteininga (ECU). Fjárhæðin skal þó jafnan standa á heilu hundraði þúsunda króna. Breyting á fjárhæðinni skal öðlast gildi við upphaf árs enda hafi verið tilkynnt um hana eigi síðar en 15. desember árið áður. Nú uppfyllir einkahlutafélag kröfu um lágmarkshlutafé þegar það er stofnað og er því þá ekki skylt að hækka hlutafé sitt þótt endurskoðun lágmarksfjárhæðar samkvæmt þessari málsgrein leiði til þess að hlutafé félagsins nái ekki lengur þeirri lágmarksfjárhæð hlutafjár sem þarf til þess að einkahlutafélag verði stofnað.
       Einkahlutafélögum einum er rétt og skylt að hafa orðið einkahlutafélag í heiti sínu eða skammstöfunina ehf. Að öðru leyti fer um heiti félaganna eftir ákvæðum firmalaga.
-      Á bréfsefni, pöntunareyðublöðum og svipuðum skjölum einkahlutafélaga og útibúa þeirra skal greina heiti, kennitölu og heimilisfang. Að því er varðar útibú félags skal auk þess greina hugsanlega skrá og skráningarnúmer félagsins í heimalandi sínu. Ef heiti einkahlutafélags eða útibús er notað skal bæta við upplýsingum um gjaldþrotaskipti eða félagsslitameðferð ef um slíkt er að ræða.
+      [Á bréfsefni, pöntunareyðublöðum og svipuðum skjölum einkahlutafélaga og útibúa þeirra skal greina heiti, kennitölu og heimilisfang félags, svo og skráningaraðila og hugsanlegt skráningarnúmer, annað en kennitölu. Að því er varðar útibú félags skal auk þess greina hugsanlega skrá og skráningarnúmer félagsins í heimalandi þess. Ef heiti einkahlutafélags eða útibús er notað skal bæta við upplýsingum um gjaldþrotaskipti eða félagsslitameðferð ef um slíkt er að ræða.][^2)^]
+
+
+_[^1)^]"L. 43/1997, 1. gr.":/altext/stjt/1997.043.html[^2)^]"L. 31/1997, 1. gr.":/altext/stjt/1997.031.html_
+
 
 
 
@@ -26,8 +30,12 @@ h2. Lög um einkahlutafélög
 
      Nú á einkahlutafélag svo mikinn hluta hlutafjárins í öðru einkahlutafélagi eða hlutafélagi að það fer með meiri hluta atkvæða í félaginu og telst þá fyrrnefnda félagið móðurfélag en hið síðarnefnda dótturfélag.
       Nú á dótturfélag eða móðurfélag ásamt einu eða fleiri dótturfélögum eða fleiri en eitt dótturfélag í sameiningu svo mikið hlutafé í öðru einkahlutafélagi eða hlutafélagi sem um ræðir í 1. mgr. og telst þá síðastnefnda félagið dótturfélag móðurfélagsins.
-      Ef einkahlutafélag hefur annars, vegna hlutafjáreignar eða samninga, yfirráð í öðru einkahlutafélagi eða hlutafélagi og verulega hlutdeild í afrakstri þess telst fyrrnefnda félagið einnig móðurfélag og hið síðarnefnda dótturfélag.
+      Ef einkahlutafélag hefur annars, vegna hlutafjáreignar eða samninga, yfirráð í öðru einkahlutafélagi eða hlutafélagi ...[^1)^] telst fyrrnefnda félagið einnig móðurfélag og hið síðarnefnda dótturfélag.
       Móður- og dótturfélög eru í sameiningu samstæða.
+
+
+_[^1)^]"L. 31/1997, 2. gr.":/altext/stjt/1997.031.html_
+
 
 
 
@@ -439,10 +447,14 @@ h2. Lög um einkahlutafélög
 
 36. gr.
 
-     Ef ráðstafa á lækkunarfjárhæðinni að nokkru eða öllu leyti í þeim tilgangi er greinir í 2., 3. og 4. tölul. 2. mgr. 34. gr. skal, nema hlutaféð hækki um leið um samsvarandi fjárhæð, birta tvisvar í Lögbirtingablaðinu áskorun til kröfuhafa félagsins um að tilkynna kröfur sínar til félagsstjórnar innan tveggja mánaða frá fyrstu birtingu áskorunarinnar. Svo framarlega sem tilkynntar gjaldfallnar kröfur eru ekki greiddar og fullnægjandi trygging sett fyrir greiðslu ógjaldfallinna eða umdeildra krafna má ekki framkvæma hlutafjárlækkunina. Hlutafélagaskrá getur úrskurðað eftir ósk aðila hvort framboðin trygging sé nægileg.
-      Sanni félag að það eigi fyrir skuldum er hlutafélagaskrá heimilt að veita því undanþágu frá innköllunarskyldu skv. 1. mgr. ef ljóst þykir að kröfuhafar félagsins bíði ekki af því tjón.
+     Ef ráðstafa á lækkunarfjárhæðinni að nokkru eða öllu leyti í þeim tilgangi er greinir í 2., 3. og 4. tölul. 2. mgr. 34. gr. skal, nema hlutaféð hækki um leið um samsvarandi fjárhæð, birta tvisvar í Lögbirtingablaðinu áskorun til kröfuhafa félagsins um að tilkynna kröfur sínar til félagsstjórnar innan tveggja mánaða frá fyrstu birtingu áskorunarinnar. Svo framarlega sem tilkynntar gjaldfallnar kröfur eru ekki greiddar og fullnægjandi trygging sett fyrir greiðslu ógjaldfallinna eða umdeildra krafna má ekki framkvæma hlutafjárlækkunina. [Rísi ágreiningur milli félags og kröfuhafa um það hvort framboðin trygging sé nægileg geta hlutaðeigandi, innan tveggja vikna frá því að tryggingin er boðin fram, lagt málið fyrir héraðsdóm á heimilisvarnarþingi félagsins.][^1)^]
+      Sanni félag að það eigi fyrir skuldum er [ráðherra][^1)^] heimilt að veita því undanþágu frá innköllunarskyldu skv. 1. mgr. ef ljóst þykir að kröfuhafar félagsins bíði ekki af því tjón.
       Með tilkynningu um lækkun hlutafjár skal auk nauðsynlegra sönnunargagna fylgja yfirlýsing, undirrituð af stjórn félags og endurskoðendum, um að skuldir við lánardrottna félagsins séu því ekki til fyrirstöðu að hlutafjárlækkun geti farið fram.
       Ef tilkynning um framkvæmd lækkunar hlutafjár hefur ekki borist innan árs frá því að ákvörðunin var skráð missir hún gildi sitt og tilkynning sú sem gerð var skv. 5. mgr. 34. gr. skal afmáð úr hlutafélagaskrá.
+
+
+_[^1)^]"L. 43/1997, 2. gr.":/altext/stjt/1997.043.html_
+
 
 
 
@@ -683,8 +695,12 @@ h2. Lög um einkahlutafélög
 62. gr.
 
      Félagsstjórn annast boðun til hluthafafunda.
-      Ef félagið hefur enga starfandi stjórn eða félagsstjórn lætur hjá líða að boða til hluthafafundar sem halda skal samkvæmt lögum, félagssamþykktum eða ákvörðun hluthafafundar skal hlutafélagaskrá láta boða til fundarins ef stjórnarmaður, framkvæmdastjóri, endurskoðandi, skoðunarmaður eða hluthafi krefst þess. Umboðsmaður hlutafélagaskrár skal stýra hluthafafundum sem skráin hefur látið boða til, sbr. 3. mgr. 65. gr., og er félagsstjórn skylt að afhenda honum hlutaskrá, fundargerðabók og endurskoðunarbók félagsins.
+      Ef félagið hefur enga starfandi stjórn eða félagsstjórn lætur hjá líða að boða til hluthafafundar sem halda skal samkvæmt lögum, félagssamþykktum eða ákvörðun hluthafafundar skal [ráðherra][^1)^] láta boða til fundarins ef stjórnarmaður, framkvæmdastjóri, endurskoðandi, skoðunarmaður eða hluthafi krefst þess. Umboðsmaður [ráðherra][^1)^] skal stýra hluthafafundum sem [hann][^1)^] hefur látið boða til, sbr. 3. mgr. 65. gr., og er félagsstjórn skylt að afhenda honum hlutaskrá, fundargerðabók og endurskoðunarbók félagsins.
       Ríkissjóður greiðir til bráðabirgða kostnað vegna fundarins. Heimilt er þó að setja það skilyrði að sá er biður um boðun til fundar setji tryggingu fyrir greiðslu kostnaðar. Félagið ber kostnaðinn endanlega. Greiði félagið ekki reikning innan þriggja mánaða frá dagsetningu hans glatar fundarbeiðandi þó tryggingarfé sínu en á í þess stað kröfu á félagið.
+
+
+_[^1)^]"L. 43/1997, 3. gr.":/altext/stjt/1997.043.html_
+
 
 
 
@@ -708,10 +724,14 @@ h2. Lög um einkahlutafélög
 
      Hluthafafundi stýrir fundarstjóri. Fundurinn kýs fundarstjóra úr hópi hluthafa eða annarra nema félagssamþykktir kveði á um annað.
       Formaður félagsstjórnar eða annar, sem stjórnin nefnir til, setur hluthafafund og stjórnar kjöri fundarstjóra.
-      Sé boðað til hluthafafundar skv. 2. mgr. 62. gr. ákveður umboðsmaður hlutafélagaskrár fundarstjóra.
+      Sé boðað til hluthafafundar skv. 2. mgr. 62. gr. ákveður umboðsmaður [ráðherra][^1)^] fundarstjóra.
       Þegar fundur hefur verið settur skal gerð skrá yfir hluthafa og umboðsmenn hluthafa er fund sækja til þess að ljóst sé hversu mörgum hlutum og atkvæðum hver þeirra ræður yfir. Skrá þessi skal notuð þar til hluthafafundur kann að breyta henni.
       Fundarstjóri skal láta kjósa fundarritara sem heldur fundargerðabók. Í fundargerðabók skal skrá ákvarðanir hluthafafundar ásamt úrslitum atkvæðagreiðslna. Skrá yfir viðstadda hluthafa og umboðsmenn skal færð í fundargerðabók eða fylgja henni. Fundargerð skal lesa upphátt fyrir fundarlok og skrá þar athugasemdir sem fram koma. Fundarstjóri og fundarritari skulu undirrita fundargerðabók.
       Í síðasta lagi fjórtán dögum eftir hluthafafund skulu hluthafar eiga aðgang að fundargerðabók eða staðfestu endurriti fundargerðar á skrifstofu félagsins. Fundargerðabók skal varðveitt með tryggilegum hætti.
+
+
+_[^1)^]"L. 43/1997, 4. gr.":/altext/stjt/1997.043.html_
+
 
 
 
@@ -788,10 +808,14 @@ h2. Lög um einkahlutafélög
 
 72. gr.
 
-     Hluthafi getur á aðalfundi eða öðrum hluthafafundi, þar sem málið er á dagskrá, komið fram með tillögu um að fram fari rannsókn á stofnun félags, tilgreindum atriðum varðandi starfsemi þess eða ákveðnum þáttum bókhalds eða ársreiknings. Hljóti tillagan fylgi hluthafahóps sem ræður yfir minnst [^1^]/[~4~] hlutafjárins getur hluthafi í síðasta lagi einum mánuði frá lokum fundarins farið þess á leit við hlutafélagaskrá að hún tilnefni rannsóknarmenn. Tilmælin skal taka til greina svo framarlega sem hlutafélagaskrá telur nægilegar ástæður til þeirra. Hlutafélagaskrá skal gefa stjórn félagsins og endurskoðendum þess og, þegar við á, þeim sem málið varðar tækifæri til að láta í ljós álit sitt um kröfuna áður en hún tekur ákvörðun sína. Hlutafélagaskrá ákveður fjölda rannsóknarmanna en meðal þeirra skulu vera bæði löggiltur endurskoðandi og lögfræðingur.
+     Hluthafi getur á aðalfundi eða öðrum hluthafafundi, þar sem málið er á dagskrá, komið fram með tillögu um að fram fari rannsókn á stofnun félags, tilgreindum atriðum varðandi starfsemi þess eða ákveðnum þáttum bókhalds eða ársreiknings. Hljóti tillagan fylgi hluthafahóps sem ræður yfir minnst [^1^]/[~4~] hlutafjárins getur hluthafi í síðasta lagi einum mánuði frá lokum fundarins farið þess á leit við [ráðherra][^1)^] að [hann][^1)^] tilnefni rannsóknarmenn. Tilmælin skal taka til greina svo framarlega sem [ráðherra][^1)^] telur nægilegar ástæður til þeirra. [Ráðherra][^1)^] skal gefa stjórn félagsins og endurskoðendum þess og, þegar við á, þeim sem málið varðar tækifæri til að láta í ljós álit sitt um kröfuna áður en [hann][^1)^] tekur ákvörðun sína. [Ráðherra][^1)^] ákveður fjölda rannsóknarmanna en meðal þeirra skulu vera bæði löggiltur endurskoðandi og lögfræðingur.
       Ákvæði laga um ársreikninga um hæfisskilyrði, aðstöðu, fundarsetu og upplýsingagjöf til endurskoðenda eða skoðunarmanna gilda einnig um rannsóknarmenn eftir því sem við á.
-      Rannsóknarmennirnir skulu gefa skriflega skýrslu til hluthafafunda. Þeir skulu fá greidda þóknun frá félaginu og skal hún ákveðin af hlutafélagaskrá.
+      Rannsóknarmennirnir skulu gefa skriflega skýrslu til hluthafafunda. Þeir skulu fá greidda þóknun frá félaginu og skal hún ákveðin af [ráðherra].[^1)^]
       Skýrsla rannsóknarmanna skal liggja frammi til sýnis fyrir hluthafa á skrifstofu félagsins í skemmsta lagi viku fyrir hluthafafund.
+
+
+_[^1)^]"L. 43/1997, 5. gr.":/altext/stjt/1997.043.html_
+
 
 
 
@@ -807,8 +831,12 @@ h2. Lög um einkahlutafélög
 
 74. gr.
 
-     Einungis er heimilt að úthluta sem arði hagnaði samkvæmt samþykktum ársreikningi síðasta reikningsárs, yfirfærðum hagnaði frá fyrri árum og frjálsum sjóðum eftir að dregið hefur verið frá tap sem ekki hefur verið jafnað og það fé sem samkvæmt lögum eða félagssamþykktum skal lagt í varasjóð eða til annarra þarfa. Nú nemur varasjóður ekki [^1^]/[~10~] hlutafjárins og má þá ekki greiða hærri arð en sem nemur þeim hundraðshluta af greiddu hlutafé sem svarar til hæstu vaxta á almennum sparisjóðsreikningum.
+     Einungis er heimilt að úthluta sem arði hagnaði samkvæmt samþykktum ársreikningi síðasta reikningsárs, yfirfærðum hagnaði frá fyrri árum og frjálsum sjóðum eftir að dregið hefur verið frá tap sem ekki hefur verið jafnað og það fé sem samkvæmt lögum eða félagssamþykktum skal lagt í varasjóð eða til annarra þarfa. ...[^1)^]
       Í móðurfélagi er óheimilt að úthluta það miklum arði að andstætt sé góðum rekstrarvenjum með tilliti til fjárhagsstöðu samstæðunnar enda þótt arðsúthlutun sé annars heimil.
+
+
+_[^1)^]"L. 31/1997, 3. gr.":/altext/stjt/1997.031.html_
+
 
 
 
@@ -845,13 +873,17 @@ h2. Lög um einkahlutafélög
 79. gr.
 
      Einkahlutafélagi er hvorki heimilt að veita hluthöfum, stjórnarmönnum eða framkvæmdastjórum félagsins eða móðurfélags þess lán né setja tryggingu fyrir þá. Félagi er einnig óheimilt að veita þeim lán eða setja fyrir þann tryggingu sem giftur er eða í óvígðri sambúð með aðila skv. 1. málsl. eða er skyldur honum að feðgatali eða niðja ellegar stendur hlutaðeigandi að öðru leyti sérstaklega nærri. Ákvæði þessarar málsgreinar taka þó ekki til venjulegra viðskiptalána.
-      Einkahlutafélag má ekki veita lán til að fjármagna kaup á hlutum í félaginu eða móðurfélagi þess hvort heldur móðurfélagið er einkahlutafélag eða hlutafélag. Einkahlutafélag má heldur ekki leggja fram fé né setja tryggingu í tengslum við slík kaup.
+      Einkahlutafélag má ekki veita lán til að fjármagna kaup á hlutum í félaginu eða móðurfélagi þess hvort heldur móðurfélagið er einkahlutafélag eða hlutafélag. Einkahlutafélag má heldur ekki leggja fram fé né setja tryggingu í tengslum við slík kaup. [Ákvæði 1. - 2. málsl. eiga þó ekki við um kaup starfsmanna félagsins eða tengds félags á hlutum eða kaup á hlutum fyrir þá. Gætt skal ákvæða 74. gr.][^1)^]
       Trygging félagsins, sem sett er fyrir áðurnefnda aðila í bága við ákvæði 1. og 2. mgr., er þó bindandi nema viðsemjandi hafi vitað eða mátt vita að tryggingin hafi verið sett andstætt þessum ákvæðum.
       Ef félagið hefur innt af hendi greiðslur í tengslum við ráðstafanir sem eru andstæðar 1. og 2. mgr. skal endurgreiða þær með dráttarvöxtum.
       Ef ekki er unnt að endurgreiða féð eða afturkalla tryggingu eru þeir sem gerðu eða framkvæmdu síðar ráðstafanir skv. 1. og 2. mgr. ábyrgir fyrir tapi félagsins.
       Ákvæði 1. og 2. mgr. eiga ekki við um lán og framlag til móðurfélags og tryggingu fyrir skuldbindingum móðurfélags.
       Ákvæðum 1. og 2. mgr. verður ekki beitt um innlánsstofnanir eða aðrar fjármálastofnanir.
       Í gerðabók félagsstjórnar skal getið sérhvers láns, framlags og tryggingar samkvæmt þessari grein.
+
+
+_[^1)^]"L. 31/1997, 4. gr.":/altext/stjt/1997.031.html_
+
 
 
 
@@ -875,7 +907,7 @@ h2. Lög um einkahlutafélög
 
 82. gr.
 
-     Bú einkahlutafélags skal tekið til skipta samkvæmt kröfu hlutafélagaskrár:
+     Bú einkahlutafélags skal tekið til skipta samkvæmt kröfu [ráðherra]:[^1)^]
 
 <dl>
 <dt>1.</dt>
@@ -901,6 +933,10 @@ h2. Lög um einkahlutafélög
 
       Bú einkahlutafélags skal tekið til skipta samkvæmt kröfu félagsstjórnar hafi hluthafar, er ráða yfir minnst [^2^]/[~3~] heildarhlutafjár félagsins, samþykkt að slíta félaginu á þennan hátt eða skilyrðum 2. mgr. 85. gr. fyrir skipun skilanefndar er ekki fullnægt.
       Félagsstjórn skal sjá um að haldinn verði hluthafafundur innan sex mánaða frá því að eigið fé samkvæmt bókum félagsins er orðið minna en skráð hlutafé þess. Á hluthafafundinum skal stjórnin gera grein fyrir fjárhagslegri stöðu félagsins og, ef þörf krefur, leggja fram tillögur um nauðsynlegar ráðstafanir, þar á meðal um slit félagsins.
+
+
+_[^1)^]"L. 43/1997, 6. gr.":/altext/stjt/1997.043.html_
+
 
 
 
@@ -1233,9 +1269,13 @@ _Breyting einkahlutafélags í hlutafélag._
 
 115. gr.
 
-     Tilkynna skal hlutafélagaskrá stofnun útibús erlends einkahlutafélags. Tilkynning skal gerð samkvæmt reglum sem ráðherra setur. Ákvæði XVII. kafla um skráningu einkahlutafélaga varðandi tilkynningar um stofnun félaganna skulu gilda eftir því sem við á.
+     Tilkynna skal hlutafélagaskrá stofnun útibús erlends einkahlutafélags. ...[^1)^] Ákvæði XVII. kafla um skráningu einkahlutafélaga varðandi tilkynningar um stofnun félaganna skulu gilda eftir því sem við á.
       Útibússtjóri undirritar tilkynningu og ber ábyrgð á efni hennar og fylgiskjala.
       Útibú má ekki hefja starfsemi fyrr en það hefur verið skráð.
+
+
+_[^1)^]"L. 43/1997, 7. gr.":/altext/stjt/1997.043.html_
+
 
 
 
@@ -1292,9 +1332,13 @@ _Breyting einkahlutafélags í hlutafélag._
 
 121. gr.
 
-     Hlutafélagaskrá annast skráningu allra íslenskra einkahlutafélaga og útibúa erlendra einkahlutafélaga.
-      Ráðherra setur nánari reglur um skipulag hlutafélagaskrár og má þar ákveða sektir fyrir brot á reglunum. Veita skal almennan aðgang að skránni. Um skil á ársreikningum og aðgang að þeim gilda ákvæði laga um ársreikninga.
+     [Hagstofa Íslands skráir íslensk einkahlutafélög og útibú erlendra einkahlutafélaga og starfrækir hlutafélagaskrá í því skyni.
+      Ráðherra Hagstofu Íslands er heimilt að setja með reglugerð nánari ákvæði um skráningu einkahlutafélaga, þar með talið um skipulag skráningarinnar, rekstur hlutafélagaskrár, aðgang að skránni og gjaldtöku, m.a. fyrir útgáfu vottorða og afnot af þeim upplýsingum sem hlutafélagaskrá hefur á tölvutæku formi.][^1)^]
       Tilkynningar til hlutafélagaskrár ásamt fylgiskjölum og tilskildum skráningar- og birtingargjöldum skal senda beint til hlutafélagaskrár eða sýslumanns í því lögsagnarumdæmi þar sem tilkynnandi á heimili. Sé tilkynning afhent sýslumanni skal hann þegar framsenda hana til hlutafélagaskrárinnar enda öðlast tilkynning ekki gildi fyrr en við skráningu þar.
+
+
+_[^1)^]"L. 43/1997, 8. gr.":/altext/stjt/1997.043.html_
+
 
 
 
@@ -1333,8 +1377,12 @@ _Breyting einkahlutafélags í hlutafélag._
 
 123. gr.
 
-     Breytingar á félagssamþykktum eða öðru því sem tilkynnt hefur verið skal tilkynna innan mánaðar sé ekki kveðið á um annað í lögum þessum. Krefjast má sannana fyrir lögmæti breytinga. Tilkynningar um breytingar skulu undirritaðar af meiri hluta stjórnar eða prókúruhafa. Ákvæði 4. mgr. 122. gr. gilda eftir því sem við á.
+     Breytingar á félagssamþykktum eða öðru því sem tilkynnt hefur verið skal tilkynna innan mánaðar sé ekki kveðið á um annað í lögum þessum. Krefjast má sannana fyrir lögmæti breytinga. Tilkynningar um breytingar skulu undirritaðar af meiri hluta stjórnar eða prókúruhafa. Ákvæði 4. mgr. 122. gr. gilda eftir því sem við á. [Þegar breytingar á félagssamþykktum eða stofnsamningi að öðru leyti eru tilkynntar skal leggja fram nýjan heildartexta með innfelldum breytingum. Félagsstjórn eða sá aðili, sem kemur í hennar stað, skal tilkynna upphaf og lok félagsslitameðferðar.][^1)^]
       Auk tilkynninga skv. 1. mgr. um breytingar á stjórn o.fl. skal í júnímánuði ár hvert tilkynna heimilisföng einkahlutafélaga og nöfn, kennitölur og heimilisföng stjórnarmanna, varastjórnarmanna, framkvæmdastjóra, endurskoðenda eða skoðunarmanna og prókúruhafa miðað við 1. júní nema hlutafélagaskrá ákveði að tilkynningar skuli miðast við annan dag.
+
+
+_[^1)^]"L. 31/1997, 5. gr.":/altext/stjt/1997.031.html_
+
 
 
 
@@ -1352,8 +1400,13 @@ _Breyting einkahlutafélags í hlutafélag._
 125. gr.
 
      Hlutafélagaskrá skal á kostnað tilkynnanda láta birta í Lögbirtingablaði aðalefni þess sem skrásett hefur verið um stofnun nýrra einkahlutafélaga og tilvísun í aðalefni aukatilkynninga. Þá getur hlutafélagaskrá í öðrum tilvikum látið birta meira en tilvísun í aðalefni aukatilkynninga ef hún telur slíkt nauðsynlegt.
-      Það sem skráð hefur verið og birt í Lögbirtingablaði skal telja manni kunnugt nema atvik séu svo vaxin að telja megi hann hvorki um það hafa vitað né mátt vita.
+      Það sem skráð hefur verið og birt í Lögbirtingablaði skal telja manni kunnugt nema atvik séu svo vaxin að telja megi hann hvorki um það hafa vitað né mátt vita. [Ákvæði 1. málsl. taka þó ekki til ráðstafana sem gerðar eru innan sextán daga eftir birtingu ef viðkomandi maður sannar að hann hafi ekki getað aflað vitneskju um það sem birt var.][^1)^]
       Nú hefur birting í Lögbirtingablaði eigi farið fram og hefur tilkynning þá ekki gildi gagnvart öðrum en þeim sem sannanlega höfðu vitneskju um hana.
+      [Ef um misræmi er að ræða milli þess sem skráð er og þess sem birt er í Lögbirtingablaði getur félagið ekki borið hinn birta texta fyrir sig gagnvart þriðja manni. Hann getur hins vegar borið hinn birta texta fyrir sig gagnvart félaginu nema sannað sé að hann hafi haft vitneskju um það sem skráð var.][^1)^]
+
+
+_[^1)^]"L. 31/1997, 6. gr.":/altext/stjt/1997.031.html_
+
 
 
 
@@ -1449,7 +1502,11 @@ _Breyting einkahlutafélags í hlutafélag._
 
 135. gr.
 
-     Ráðherra getur með reglugerð sett nánari ákvæði um framkvæmd laga þessara.
+     [Ráðherra getur með reglugerð sett nánari ákvæði um framkvæmd laga þessara, sbr. þó 2. mgr. 121. gr.][^1)^]
+
+
+_[^1)^]"L. 43/1997, 9. gr.":/altext/stjt/1997.043.html_
+
 
 
 

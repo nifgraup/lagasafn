@@ -15,10 +15,14 @@ h2. Lög um skráningu og meðferð persónuupplýsinga
 
 1. gr.
 
-     Lög þessi taka til hvers konar kerfisbundinnar skráningar og annarrar meðferðar á persónuupplýsingum. Lögin eiga við hvort heldur sem skráning er vélræn eða handunnin. Lögin taka til skráningar af hálfu atvinnurekenda, fyrirtækja, félaga, stofnana og til skráningar á vegum opinberra aðila.
+     Lög þessi taka til hvers konar kerfisbundinnar skráningar og annarrar meðferðar á persónuupplýsingum. Lögin eiga við hvort heldur sem skráning er vélræn eða handunnin. Lögin taka til skráningar af hálfu atvinnurekenda, fyrirtækja, félaga, stofnana og til skráningar á vegum opinberra aðila. [Jafnframt taka lögin til skýrslna sálfræðinga og félagsráðgjafa hvort sem þær teljast skrár í skilningi 2. mgr. eða ekki.][^1)^]
       Með kerfisbundinni skráningu upplýsinga er átt við söfnun og skráningu ákveðinna og afmarkaðra upplýsinga í skipulagsbundna heild.
       Með persónuupplýsingum er átt við upplýsingar sem varða einkamálefni, fjárhagsmálefni eða önnur málefni einstaklinga, stofnana, fyrirtækja eða annarra lögpersóna sem sanngjarnt er og eðlilegt að leynt fari.
       Ákvæði laganna eiga við um upplýsingar um einkamálefni er varða tiltekinn aðila, þótt hann sé ekki nafngreindur, ef hann er sérgreindur með nafnnúmeri, kennitölu eða öðru skráningarauðkenni sem unnt er að persónugreina með eða án greiningarlykils.
+
+
+_[^1)^]"L. 76/1997, 2. gr.":/altext/stjt/1997.076.html_
+
 
 
 
@@ -75,7 +79,6 @@ h2. Lög um skráningu og meðferð persónuupplýsinga
 
 
 
-
 _Samtenging skráa._
 
 6. gr.
@@ -115,7 +118,11 @@ _[^1)^]"L. 50/1996, 25. gr.":1996050.html#g25_
 
 10. gr.
 
-     Um skyldu læknis til þess að afhenda sjúkraskrá, alla eða að hluta, sjúklingi eða forráðamanni hans, fer eftir ákvæðum læknalaga nr. 53 frá 19. maí 1988.
+     [Um skyldu læknis og annarra sem færa sjúkraskrá til þess að afhenda sjúklingi eða umboðsmanni hans afrit skrárinnar, í heild eða að hluta, fer eftir ákvæðum laga um réttindi sjúklinga.][^1)^]
+
+
+_[^1)^]"L. 76/1997, 3. gr.":/altext/stjt/1997.076.html_
+
 
 
 

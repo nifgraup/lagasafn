@@ -108,7 +108,6 @@ _[^1)^]"L. 122/1996, 1. gr.":/altext/stjt/1996.122.html[^2)^]"L. 148/1995, 1. gr
 
      Tekjur Jöfnunarsjóðs eru þessar:
 
-
 <dl>
 <dt>a.</dt>
 <dd>Framlag úr ríkissjóði er nemi 1,4% af skatttekjum ríkissjóðs af beinum og óbeinum sköttum sem innheimtir eru í ríkissjóð. Skal framlagið greiðast Jöfnunarsjóði mánaðarlega eftir á.</dd>
@@ -163,7 +162,7 @@ _[^1)^]"L. 79/1996, 1. gr.":/altext/stjt/1996.079.html[^2)^]"L. 122/1996, 2. gr.
 
 
 
-_[^1)^]"L. 79/1996, 2. gr.":/altext/stjt/1996.079.html Ákvæðið öðlast gildi 1. janúar 1997._
+_[^1)^]"L. 79/1996, 2. gr.":/altext/stjt/1996.079.html_
 
 
 
@@ -422,7 +421,10 @@ _[^1)^]"L. 148/1995, 6. gr.":/altext/stjt/1995.148.html_
 _[^1)^]Rg. 542/1989, sbr. 395/1990._
 
 
- *Ákvæði til bráðabirgða.*
+
+
+*Ákvæði til bráðabirgða.*
+
 
 
 
@@ -431,7 +433,6 @@ _[^1)^]Rg. 542/1989, sbr. 395/1990._
      Sérstakan fasteignaskatt, sem nema skal 1,25% að hámarki af álagningarstofni, er heimilt að leggja á fasteignir sem nýttar eru við verslunarrekstur eða til skrifstofuhalds, ásamt tilheyrandi lóð, enda þótt um leigulóð sé að ræða. Skattskylda samkvæmt þessu ákvæði hvílir á aðilum sem skattskyldir eru samkvæmt ákvæðum "I. kafla laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, eða "lögum nr. 65/1982":1982065.html, um skattskyldu innlánsstofnana, með síðari breytingum. Skattskyldan nær til sömu aðila og samkvæmt fyrri lögum um sama efni. Álagningarstofn skal vera fasteignamatsverð í árslok áður en álagning fer fram. Ef fasteignamat er ekki fyrir hendi skal miða við kostnaðar- eða kaupverð eignar eða áætlað fasteignamatsverð. Við ákvörðun á því hvaða eignir myndi stofn til skatts samkvæmt þessu ákvæði skal miða við raunverulega notkun fasteignar í árslok áður en álagning fer fram. Sé sama eignin notuð við verslunarrekstur eða til skrifstofuhalds, en einnig til annars, skal við ákvörðun á skattstofni skipta verðmæti eignarinnar hlutfallslega. Skattur samkvæmt ákvæði þessu rennur óskiptur til sveitarsjóðs. Sveitarstjórn annast álagningu og innheimtu skattsins en getur falið sérstökum innheimtuaðila innheimtuna.
       Eigendur fasteigna skulu senda því sveitarfélagi, sem eign er í, skrá yfir eignir sem falla undir ákvæði þetta ásamt upplýsingum um síðasta heildarfasteignamatsverð þeirra, eða eftir atvikum kostnaðarverð. Enn fremur skal skrá þar upplýsingar um notkun þeirra, svo og upplýsingar um rúmmál eigna sem einnig eru notaðar til annars en verslunarreksturs og skrifstofuhalds. Sveitarstjórn auglýsir frest eigenda til að skila upplýsingum þeim er að framan greinir. Vanræki húseigandi að senda skrá yfir eignir sem ákvæði þetta tekur til er sveitarstjórn heimilt að nota aðrar upplýsingar til viðmiðunar við álagningu þar til húseigandi bætir úr. Skattyfirvöld skulu veita sveitarstjórnum þær upplýsingar sem þörf er á í sambandi við framkvæmd ákvæðis þessa, þar á meðal skal heimila sveitarstjórnum aðgang að skrám yfir aðila sem skattlagðir voru á grundvelli "V. kafla laga nr. 111/1992":/altext/stjt/1992.111.html, um breytingar í skattamálum.
       [Sérstakur fasteignaskattur skv. 1. mgr. leggst á álagningarstofn í stiglækkandi þrepum sem hér segir:
-
 
 Árið 1996 0,937%.
 
@@ -443,7 +444,6 @@ _[^1)^]Rg. 542/1989, sbr. 395/1990._
 
 
       Þrátt fyrir ákvæði b-liðar 3. mgr. 3. gr. laganna skal hámark fasteignaskatts samkvæmt þessum lið vera sem hér segir miðað við álagningarstofn og hækka þannig í þrepum:
-
 
 Árið 1996 1,17%.
 

@@ -43,33 +43,39 @@ h2. Lög um Byggðastofnun
      Verkefni stjórnar Byggðastofnunar eru meðal annars þessi:
 
 <dl>
-<dt>1.</dt>
-<dd>Að ráða forstjóra.</dd>
-<dt>2.</dt>
-<dd>Að ákveða starfsskipulag stofnunarinnar að því leyti sem það hefur ekki verið gert í reglugerð.</dd>
-<dt>3.</dt>
-<dd>Að ákveða starfsáætlun fyrir stofnunina til eins árs í senn, þar á meðal hverjar byggðaáætlanir skuli gerðar á vegum hennar. Starfsáætlun skal endurskoða á árinu eftir því sem þurfa þykir.</dd>
-<dt>4.</dt>
-<dd>Að ákveða rekstraráætlun fyrir stofnunina til eins árs í senn.</dd>
-<dt>5.</dt>
-<dd>Að fjalla um allar byggðaáætlanir sem gerðar eru á vegum stofnunarinnar eða lagðar eru fyrir stjórnina til samþykktar, sbr. 9. gr. laga þessara.</dd>
-<dt>6.</dt>
-<dd>Að fjalla um skýrslur stofnunarinnar um starfsemi hennar.</dd>
-<dt>7.</dt>
-<dd>Að taka ákvarðanir um lántöku, sbr. 16. gr. laga þessara.</dd>
-<dt>8.</dt>
-<dd>Að setja reglur um lánakjör stofnunarinnar.</dd>
-<dt>9.</dt>
-<dd>Að taka ákvarðanir um veitingu lána og ábyrgða, svo og óafturkræf framlög samkvæmt lögum þessum.</dd>
+<dt>[1.]</dt>
+<dd>[^1)^] Að ákveða starfsskipulag stofnunarinnar að því leyti sem það hefur ekki verið gert í reglugerð.</dd>
+<dt>[2.]</dt>
+<dd>[^1)^] Að ákveða starfsáætlun fyrir stofnunina til eins árs í senn, þar á meðal hverjar byggðaáætlanir skuli gerðar á vegum hennar. Starfsáætlun skal endurskoða á árinu eftir því sem þurfa þykir.</dd>
+<dt>[3.]</dt>
+<dd>[^1)^] Að ákveða rekstraráætlun fyrir stofnunina til eins árs í senn.</dd>
+<dt>[4.]</dt>
+<dd>[^1)^] Að fjalla um allar byggðaáætlanir sem gerðar eru á vegum stofnunarinnar eða lagðar eru fyrir stjórnina til samþykktar, sbr. 9. gr. laga þessara.</dd>
+<dt>[5.]</dt>
+<dd>[^1)^] Að fjalla um skýrslur stofnunarinnar um starfsemi hennar.</dd>
+<dt>[6.]</dt>
+<dd>[^1)^] Að taka ákvarðanir um lántöku, sbr. 16. gr. laga þessara.</dd>
+<dt>[7.]</dt>
+<dd>[^1)^] Að setja reglur um lánakjör stofnunarinnar.</dd>
+<dt>[8.]</dt>
+<dd>[^1)^] Að taka ákvarðanir um veitingu lána og ábyrgða, svo og óafturkræf framlög samkvæmt lögum þessum.</dd>
 </dl>
 
+
+
+
+_[^1)^]"L. 83/1997, 8. gr.":/altext/stjt/1997.083.html_
 
 
 
 
 6. gr.
 
-     Stjórn Byggðastofnunar ræður forstjóra til að annast daglega stjórn stofnunarinnar. Ráðning forstjóra miðast við 6 mánaða gagnkvæman uppsagnarfrest.
+     [Forsætisráðherra skipar forstjóra til fimm ára í senn til að annast daglega stjórn stofnunarinnar.][^1)^]
+
+
+_[^1)^]"L. 83/1997, 9. gr.":/altext/stjt/1997.083.html_
+
 
 
 
@@ -89,9 +95,13 @@ h2. Lög um Byggðastofnun
 <dt>5.</dt>
 <dd>Að gera tillögur um árlega heildarútlánaáætlun, svo og tillögur um veitingu einstakra lána, ábyrgða og óafturkræfra framlaga stofnunarinnar.</dd>
 <dt>6.</dt>
-<dd>Að ráða stofnuninni starfsfólk innan ramma fjárhagsáætlunar. Stjórn stofnunarinnar skal staðfesta ráðningu helstu starfsmanna samkvæmt nánari ákvörðun stjórnarinnar.</dd>
+<dd>Að ráða stofnuninni starfsfólk innan ramma fjárhagsáætlunar. ...[^1)^]</dd>
 </dl>
 
+
+
+
+_[^1)^]"L. 83/1997, 10. gr.":/altext/stjt/1997.083.html_
 
 
 
@@ -253,6 +263,10 @@ _[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html[^2)^]"L. 90/1991, 90
      Handbært fé Byggðastofnunar skal geyma á reikningum í bönkum eða sparisjóðum samkvæmt ákvörðun stjórnar Byggðastofnunar.
 
 
+_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
+
+
+
 
 [21. gr.][^1)^]
 
@@ -279,7 +293,7 @@ _[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html_
      ...[^2)^]
 
 
-_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html[^2)^]"L. 12/1986, 13. gr.":1986012.html#g13_
+_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html[^2)^]"L. 12/1986, 13. gr.":1986012.html_
 
 
 
@@ -289,7 +303,7 @@ _[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html[^2)^]"L. 12/1986, 13
      Nánari ákvæði um skipulag Byggðastofnunar og framkvæmd laga þessara má setja með reglugerð.[^2)^]
 
 
-_[^1)^]"L. 39/1991":/altext/stjt/1991.039.html, 3. - 4. gr. [^2)^]Rg. 51/1992, sbr. 290/1994._
+_[^1)^]"L. 39/1991, 3. - 4. gr.":/altext/stjt/1991.039.html[^2)^]Rg. 51/1992, sbr. 290/1994._
 
 
 
