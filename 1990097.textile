@@ -102,7 +102,7 @@ h2. Lög um heilbrigðisþjónustu
  □ [20.2. Sjúkratryggður einstaklingur samkvæmt lögum um almannatryggingar skal greiða gjald til heilsugæslustöðvar fyrir þjónustu á heilsugæslustöð í samræmi við gjaldskrá er ráðherra setur. Einnig skal sjúkratryggður greiða gjald vegna krabbameinsleitar samkvæmt reglugerð sem ráðherra setur. Ekki er heimilt að taka gjald vegna mæðra- og ungbarnaverndar og heilsugæslu í skólum. Einstaklingar sem ekki eru sjúkratryggðir hér á landi skulu greiða gjald sem nemur kostnaði við veitta þjónustu á heilsugæslustöð samkvæmt gjaldskrá sem ráðherra setur, nema í gildi sé samningur við það ríki sem þeir koma frá vegna þjónustu á heilsugæslustöð.
  □ 20.3. Sjúkratryggður einstaklingur samkvæmt lögum um almannatryggingar skal greiða heilsugæslulækni gjald fyrir vitjun samkvæmt gjaldskrá sem ráðherra setur. Gjald þetta skal vera hærra fyrir vitjanir utan dagvinnutíma. Í vitjanagjaldi skal óhjákvæmilegur ferðakostnaður læknis innifalinn.
  □ 20.4. Heimilt er að setja reglugerð[^1)^] um hámark greiðslna sjúkratryggðs einstaklings.][^2)^]
-    _[^1)^]_"Rg. 981/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/981-2003, sbr. "45/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/045-2004. [^2)^]"L. 74/2002, 33. gr.":/altext/stjt/2002.074.html
+    _[^1)^]_"Rg. 981/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/981-2003, sbr. "45/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/045-2004 og "196/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/196-2004. [^2)^]"L. 74/2002, 33. gr.":/altext/stjt/2002.074.html
  ■ *21. gr.*
  □ 21.1. ...[^1)^]
  □ 21.2. [Þegar heilsugæslustöð er í starfstengslum við sjúkrahús skulu framkvæmdastjórn, læknaráð og starfsmannaráð vera sameiginleg fyrir alla stofnunina.][^1)^]
@@ -133,7 +133,7 @@ h2. Lög um heilbrigðisþjónustu
  □ 24.2. [Ráðherra setur með reglugerð[^2)^] nánari ákvæði um flokkun sjúkrahúsa, starfssvið og verkaskiptingu, að höfðu samráði við hlutaðeigandi sveitarfélög og Samband íslenskra sveitarfélaga. Hann getur jafnframt ákveðið sameiningu sjúkrastofnana sem reknar eru af ríkinu með reglugerð[^3)^] ...[^4)^]][^5)^]
  □ [24.3. ...[^6)^]][^7)^]
  □ [24.4.][^7)^] Ráðherra skal með reglugerð kveða á um samvinnu sjúkrahúsa í landinu að höfðu samráði við Samband ísl. sveitarfélaga.
-    _[^1)^]_"L. 148/2001, 9. gr.":/altext/stjt/2001.148.html [^2)^]"Rg. 34/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/034-1993, sbr. "504/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/504-1993. Augl. 206/1994. [^3)^]"Rg. 875/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/875-1999, "rg. 127/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/127-2000. [^4)^]"L. 78/2003, 6. gr.":/altext/stjt/2003.078.html [^5)^]"L. 140/1996, 19. gr.":/altext/stjt/1996.140.html [^6)^]"L. 93/2002, 7. gr.":/altext/stjt/2002.093.html [^7)^]"L. 128/1990, 1. gr.":/altext/stjt/1990.128.html
+    _[^1)^]_"L. 148/2001, 9. gr.":/altext/stjt/2001.148.html [^2)^]"Rg. 34/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/034-1993, sbr. "504/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/504-1993. Augl. 206/1994. [^3)^]"Rg. 875/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/875-1999, "rg. 127/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/127-2000, "rg. 457/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/457-2004. [^4)^]"L. 78/2003, 6. gr.":/altext/stjt/2003.078.html [^5)^]"L. 140/1996, 19. gr.":/altext/stjt/1996.140.html [^6)^]"L. 93/2002, 7. gr.":/altext/stjt/2002.093.html [^7)^]"L. 128/1990, 1. gr.":/altext/stjt/1990.128.html
  ■ *25. gr.*
  □ 25.1. Þegar bygging eða starfræksla nýs sjúkrahúss er ákveðin, skal starfssvið þess ákveðið í samræmi við ákvæði 24. gr.
 ■ *26. gr.*
@@ -194,7 +194,7 @@ h2. Lög um heilbrigðisþjónustu
  □ 35.1. Þau sjúkrahús í eigu sveitarfélaga eða einkaaðila, sem starfandi eru við gildistöku þessara laga, skulu í hvívetna fylgja þeim starfsreglum, er þeim verða settar. Að öðru leyti verður rekstur þeirra óbreyttur, verði ekki um annað samið milli eigenda og ríkisins.
 ■ *[35. gr. a.*
  □ 35.a.1. Sjúkratryggður einstaklingur samkvæmt lögum um almannatryggingar skal greiða gjald til göngudeilda, slysadeilda og bráðamóttöku sjúkrahúsa fyrir nauðsynlega heilbrigðisþjónustu án þess að um innlögn á sjúkrahús sé að ræða í samræmi við gjaldskrá er ráðherra setur. Gjald vegna sérfræðiþjónustu getur verið hlutfallsgjald og má tiltaka hámark þess í reglugerð.[^1)^] Einstaklingur sem ekki er sjúkratryggður hér á landi skal greiða gjald samkvæmt gjaldskrá sem ráðherra setur.][^2)^]
-    _[^1)^]_"Rg. 981/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/981-2003, sbr. "45/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/045-2004. [^2)^]"L. 74/2002, 34. gr.":/altext/stjt/2002.074.html
+    _[^1)^]_"Rg. 981/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/981-2003, sbr. "45/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/045-2004 og "196/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/196-2004. [^2)^]"L. 74/2002, 34. gr.":/altext/stjt/2002.074.html
 
  *V. kafli.* *Ýmis ákvæði.*
  ■ *36. gr.*

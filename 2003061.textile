@@ -37,9 +37,10 @@ h2. Hafnalög
  □ Skipulag hafnarsvæðis skal miðast við þarfir hafnar og er skylt að hafa samráð við hafnarstjórn og Siglingastofnun Íslands við gerð þess. Viðkomandi sveitarstjórn veitir framkvæmdaleyfi fyrir nýjum hafnarmannvirkjum.
  □ Engin mannvirkjagerð má fara fram á hafnarsvæði nema með samþykki viðkomandi hafnarstjórnar. Ef leyfi til mannvirkjagerðar er eigi notað innan tveggja ára frá veitingu þess fellur það úr gildi.
 ■ *6. gr.* _Lágmarkskröfur um hafnarmannvirki, slysavarnir og staðfesting á fjármögnun._
- □ Öll mannvirkjagerð í höfnum skal vera í samræmi við gildandi skipulag fyrir viðkomandi sveitarfélag. Siglingastofnun Íslands skal fylgjast með að við hönnun og byggingu hafnarmannvirkja sé fylgt að minnsta kosti lágmarkskröfum um styrkleika mannvirkja og öryggi notenda hafnanna. Hafnir skulu tilkynna Siglingastofnun Íslands um fyrirhugaðar framkvæmdir og leggja fyrir stofnunina gögn um gerð mannvirkjanna til samþykktar áður en framkvæmdir eru hafnar. Siglingastofnun Íslands er heimilt að veita einstökum höfnum undanþágu frá þessu byggingareftirliti, enda geti þær sýnt fram á að starfsmenn þeirra hafi yfir nægri tækniþekkingu að ráða og fyrir hendi sé vel skilgreint innra eftirlit. Hafnir sem njóta opinberra framlaga til framkvæmda skulu að auki leggja fram staðfesta fjármögnun fyrirhugaðra framkvæmda til samþykktar Siglingastofnunar Íslands. Samgönguráðherra getur sett reglugerð er kveður á um lágmarkskröfur um hafnarmannvirki að fenginni tillögu Siglingastofnunar Íslands.
+ □ Öll mannvirkjagerð í höfnum skal vera í samræmi við gildandi skipulag fyrir viðkomandi sveitarfélag. Siglingastofnun Íslands skal fylgjast með að við hönnun og byggingu hafnarmannvirkja sé fylgt að minnsta kosti lágmarkskröfum um styrkleika mannvirkja og öryggi notenda hafnanna. Hafnir skulu tilkynna Siglingastofnun Íslands um fyrirhugaðar framkvæmdir og leggja fyrir stofnunina gögn um gerð mannvirkjanna til samþykktar áður en framkvæmdir eru hafnar. Siglingastofnun Íslands er heimilt að veita einstökum höfnum undanþágu frá þessu byggingareftirliti, enda geti þær sýnt fram á að starfsmenn þeirra hafi yfir nægri tækniþekkingu að ráða og fyrir hendi sé vel skilgreint innra eftirlit. Hafnir sem njóta opinberra framlaga til framkvæmda skulu að auki leggja fram staðfesta fjármögnun fyrirhugaðra framkvæmda til samþykktar Siglingastofnunar Íslands. Samgönguráðherra getur sett reglugerð[^1)^] er kveður á um lágmarkskröfur um hafnarmannvirki að fenginni tillögu Siglingastofnunar Íslands.
  □ Ráðherra skal setja reglur um slysavarnir í höfnum.
-■ *7. gr.* _Ábyrgð eiganda hafnarmannvirkja._
+    _[^1)^]_"Rg. 326/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/326-2004.
+ ■ *7. gr.* _Ábyrgð eiganda hafnarmannvirkja._
  □ Eigandi hafnar er ábyrgur fyrir því að mannvirki, búnaður og rekstur hafnarinnar sé ætíð í samræmi við gildandi lög og reglugerðir. Hafnarstjórn er heimilt að nema brott á kostnað eiganda bryggjur eða önnur mannvirki í sjó fram sem hætta stafar af ef eigandi sinnir ekki tilmælum um úrbætur innan eðlilegs tímafrests.
 
  *III. kafli.* *Rekstrarform og upplýsingaskylda hafna.*
@@ -110,8 +111,9 @@ h2. Hafnalög
 
  *VIII. kafli.* *Framlög ríkisins til hafnamála og framkvæmdir í höfnum.*
 ■ *22. gr.* _Frumrannsóknir._
- □ Ríkissjóður greiðir allt að fullu kostnað við frumrannsóknir samkvæmt nánari ákvæðum í reglugerð. Siglingastofnun Íslands skal hafa umsjón með frumrannsóknum sem kostaðar eru af ríkissjóði og hafa samráð við viðkomandi hafnarstjórn þar sem við á.
-■ *23. gr.* _Samgönguáætlun._
+ □ Ríkissjóður greiðir allt að fullu kostnað við frumrannsóknir samkvæmt nánari ákvæðum í reglugerð.[^1)^] Siglingastofnun Íslands skal hafa umsjón með frumrannsóknum sem kostaðar eru af ríkissjóði og hafa samráð við viðkomandi hafnarstjórn þar sem við á.
+    _[^1)^]_"Rg. 326/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/326-2004.
+ ■ *23. gr.* _Samgönguáætlun._
  □ Siglingastofnun Íslands vinnur tillögu að áætlun um hafnarframkvæmdir með kostnaðarþátttöku ríkissjóðs, sbr. "lög nr. 71/2002":2002071.html, um samgönguáætlun.
  □ Við undirbúning þessarar tillögugerðar ber Siglingastofnun að hafa samráð og samstarf við viðkomandi hafnarstjórn og hafnaráð.
  □ Við tillögugerðina og forgangsröðun framkvæmda skal leggja til grundvallar mat er taki mið af hagkvæmni framkvæmdar, þörf fyrir hana og þýðingu fyrir byggðarlagið.

@@ -6,7 +6,7 @@ h2. Lög um útlendinga
 
 <hr />
 
-*Tóku gildi 1. janúar 2003.* _EES-samningurinn:_ VIII. viðauki tilskipun 93/96/EBE og V. viðauki tilskipun 64/221/EBE. _Breytt með_ "l. 27/2003":/altext/stjt/2003.027.html (tóku gildi 3. apríl 2003).
+*Tóku gildi 1. janúar 2003.* _EES-samningurinn:_ VIII. viðauki tilskipun 93/96/EBE og V. viðauki tilskipun 64/221/EBE. _Breytt með_ "l. 27/2003":/altext/stjt/2003.027.html (tóku gildi 3. apríl 2003) og "l. 20/2004":/altext/stjt/2004.020.html (tóku gildi 1. maí 2004).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -52,10 +52,11 @@ h2. Lög um útlendinga
  □ Útlendingur, sem hyggst ráða sig í vinnu, fyrir endurgjald eða án þess, eða stunda sjálfstæða atvinnustarfsemi hér á landi, þarf, auk atvinnuleyfis þar sem það er áskilið í lögum, að hafa dvalarleyfi, nema dvöl sé heimil án dvalarleyfis skv. 2. mgr. 8. gr.
  □ Útlendingur, sem hyggst dveljast hér lengur en honum er heimilt skv. 1. mgr. 8. gr., þarf að hafa dvalarleyfi.
 ■ *10. gr.* _Útgáfa dvalarleyfis._
- □ Dvalarleyfi, sem veitt er í fyrsta sinn, skal hafa verið gefið út áður en komið er til landsins. Frá þessu má þó víkja ef ríkar sanngirnisástæður mæla með.
- □ Dvalarleyfi, sem veitt er í fyrsta sinn, skal að jafnaði gefið út til eins árs. Heimilt er að gefa leyfið út til skemmri tíma eða allt að tveimur árum ef rétt þykir vegna tilgangs dvalarinnar eða af öðrum ástæðum.
+ □ [Dvalarleyfi, sem veitt er í fyrsta sinn, skal að jafnaði gefið út til eins árs. Heimilt er að víkja frá þessu ef rétt þykir vegna tilgangs dvalarinnar eða af öðrum ástæðum. Um gildistíma dvalarleyfis sem gefið er út vegna komu flóttamannahópa gilda sérreglur, sbr. 51. gr.
+ □ Umsókn um dvalarleyfi skv. 1. mgr. skal hafa verið samþykkt áður en útlendingur kemur til landsins. Frá þessu má þó víkja ef ríkar sanngirnisástæður mæla með.][^1)^]
  □ Útlendingastofnun tekur ákvörðun um dvalarleyfi.
-■ *11. gr.* _Skilyrði dvalarleyfis._
+    _[^1)^]_"L. 20/2004, 1. gr.":/altext/stjt/2004.020.html
+ ■ *11. gr.* _Skilyrði dvalarleyfis._
  □ Veita má útlendingi dvalarleyfi, að fenginni umsókn, ef:
     a. framfærsla hans, sjúkratrygging og húsnæði er tryggt, samkvæmt nánari reglum sem dómsmálaráðherra setur,
     b. skilyrðum fyrir dvalarleyfi, sem sett eru í reglum skv. 1. mgr. 3. gr., er fullnægt og
@@ -71,9 +72,11 @@ h2. Lög um útlendinga
  □ Dómsmálaráðherra getur sett nánari reglur.
 ■ *13. gr.* _Dvalarleyfi fyrir aðstandendur._
  □ Nánustu aðstandendur íslensks ríkisborgara eða annars norræns ríkisborgara sem búsettur er hér á landi eða útlendings sem dvelst eða fær að dveljast löglega í landinu samkvæmt dvalarleyfi sem ekki er háð takmörkunum eða búsetuleyfi geta samkvæmt umsókn fengið dvalarleyfi, enda liggi ekki fyrir atvik sem greinir í c-lið 1. mgr. 11. gr. auk þess sem framfærsla, sjúkratrygging og húsnæði skal vera tryggt, sbr. a-lið 1. mgr. 11. gr.
- □ Nánustu aðstandendur í skilningi 1. mgr. eru maki, sambúðarmaki, samvistarmaki, niðjar yngri en 18 ára og á framfæri viðkomandi og ættmenni hans eða maka að feðgatali og á þeirra framfæri.
+ □ [Nánustu aðstandendur í skilningi 1. mgr. eru maki, sambúðarmaki og samvistarmaki eldri en 24 ára, niðjar yngri en 18 ára og á framfæri viðkomandi og ættmenni hans eða maka að feðgatali eldri en 66 ára og á þeirra framfæri.][^1)^]
+ □ [Nú er rökstuddur grunur um að til hjúskapar hafi verið stofnað í þeim tilgangi einum að afla dvalarleyfis, og ekki er sýnt fram á annað með óyggjandi hætti, og veitir hann þá ekki rétt til dvalarleyfis. Sama gildir ef rökstuddur grunur er um að ekki hafi verið stofnað til hjúskapar með vilja beggja hjóna.][^1)^]
  □ Dvalarleyfi aðstandanda útlendings skal að jafnaði gefið út til sama tíma og leyfi þess síðarnefnda, þó þannig að það gildi ekki lengur en leyfi hans.
-■ *14. gr.* _Endurnýjun._
+    _[^1)^]_"L. 20/2004, 2. gr.":/altext/stjt/2004.020.html
+ ■ *14. gr.* _Endurnýjun._
  □ Endurnýja má dvalarleyfi útlendings, að fenginni umsókn, ef fullnægt er skilyrðum 11. gr.
  □ Endurnýjað dvalarleyfi skal að jafnaði gefið út til eins árs en heimilt er að gefa leyfið út fyrir annað tímabil ef rétt þykir vegna tilgangs dvalarinnar eða af öðrum ástæðum. Endurnýjað dvalarleyfi skal þó ekki gefið út til lengri tíma en tveggja ára.
  □ Heimila má útlendingi, sem sækir um endurnýjun dvalarleyfis, áframhaldandi dvöl með sömu skilyrðum þar til ákvörðun hefur verið tekin um umsóknina og hann á rétt á því ef hann leggur umsókn fram a.m.k. mánuði áður en leyfið fellur úr gildi.
@@ -103,21 +106,24 @@ h2. Lög um útlendinga
     h. hann hefur ekki greitt kostnað hins opinbera við fyrri færslu hans úr landi, sbr. 1. mgr. 56. gr.,
     i. hann er skráður í Schengen-upplýsingakerfið í því skyni að honum verði synjað um komu,
     j. það er nauðsynlegt vegna allsherjarreglu, þjóðaröryggis eða alþjóðasamskipta ríkisins eða annars ríkis sem tekur þátt í Schengen-samstarfinu.
- □ Nægjanlegt er að meðferð máls hefjist innan sjö sólarhringa frestsins.
+ □ Nægjanlegt er að meðferð máls hefjist innan sjö sólarhringa frestsins. [Heimilt er að synja til bráðabirgða útlendingi inngöngu í landið innan þess frests. Sú ákvörðun sætir ekki kæru.][^1)^]
  □ Nú ber útlendingur að hann sé flóttamaður eða veitir að öðru leyti upplýsingar sem benda til að ákvæði 1. mgr. 45. gr. eigi við, og skal þá leggja málið fyrir Útlendingastofnun til meðferðar og ákvörðunar.
  □ Dómsmálaráðherra getur sett reglur um undanþágu frá ákvæðum 1. mgr. að því er varðar þann sem hefur vegabréfsáritun eða dvalarleyfi gefið út af ríki sem tekur þátt í Schengen-samstarfinu.
-■ *19. gr.* _Frávísun eftir komu til landsins._
- □ Heimilt er að vísa útlendingi frá landi eftir reglum 1. mgr. 18. gr. þótt sjö sólarhringa fresturinn sé liðinn. Þó verður meðferð máls að hefjast innan þriggja mánaða frá komu hans til landsins.
+    _[^1)^]_"L. 20/2004, 3. gr.":/altext/stjt/2004.020.html
+ ■ *19. gr.* _Frávísun eftir komu til landsins._
+ □ Heimilt er að vísa útlendingi frá landi eftir reglum 1. mgr. 18. gr. þótt sjö sólarhringa fresturinn sé liðinn. Þó verður meðferð máls að hefjast innan [níu][^1)^] mánaða frá komu hans til landsins.
  □ Ekki má vísa útlendingi sem hefur dvalarleyfi eða búsetuleyfi frá landi samkvæmt ákvæði þessu.
-■ *20. gr.* _Brottvísun._
+    _[^1)^]_"L. 20/2004, 4. gr.":/altext/stjt/2004.020.html
+ ■ *20. gr.* _Brottvísun._
  □ Heimilt er að vísa útlendingi úr landi ef:
-    a. hann hefur brotið alvarlega eða margsinnis gegn einu eða fleiri ákvæðum laganna eða kemur sér hjá að hlíta ákvörðun sem felur í sér að hann skuli yfirgefa landið,
+    a. [hann dvelur ólöglega í landinu, hefur brotið][^1)^] alvarlega eða margsinnis gegn einu eða fleiri ákvæðum laganna eða kemur sér hjá að hlíta ákvörðun sem felur í sér að hann skuli yfirgefa landið,
     b. hann hefur á síðustu fimm árum afplánað refsingu erlendis eða verið dæmdur þar til refsingar fyrir háttsemi sem að íslenskum lögum getur varðað fangelsi lengur en þrjá mánuði; samsvarandi gildir um sérstakar ráðstafanir sem ákvarðaðar eru vegna slíkrar refsiverðrar háttsemi,
     c. hann hefur verið dæmdur hér á landi til refsingar eða til að sæta öryggisráðstöfunum fyrir háttsemi sem getur varðað fangelsi lengur en þrjá mánuði eða oftar en einu sinni verið dæmdur á síðustu þremur árum til fangelsisrefsingar,
     d. það er nauðsynlegt vegna öryggis ríkisins eða almannahagsmuna.
  □ Brottvísun skv. a-, b- og c-lið 1. mgr. skal ekki ákveða ef það með hliðsjón af málsatvikum og tengslum útlendingsins við landið mundi fela í sér ósanngjarna ráðstöfun gagnvart honum eða nánustu ættingjum hans. Útlendingi sem hefur dvalarleyfi eða norrænum ríkisborgara sem átt hefur heimili hér á landi lengur en þrjá mánuði má því aðeins vísa úr landi að hin refsiverða háttsemi geti varðað eins árs fangelsi eða meira.
  □ Brottvísun felur í sér bann við komu til landsins síðar. Endurkomubannið getur gilt fyrir fullt og allt eða um tiltekinn tíma, en að jafnaði ekki skemur en þrjú ár. Samkvæmt umsókn má heimila þeim sem vísað hefur verið úr landi endurkomu en að jafnaði ekki fyrr en tvö ár eru liðin frá brottför.
-■ *21. gr.* _Frávísun og brottvísun útlendings sem hefur búsetuleyfi o.fl._
+    _[^1)^]_"L. 20/2004, 5. gr.":/altext/stjt/2004.020.html
+ ■ *21. gr.* _Frávísun og brottvísun útlendings sem hefur búsetuleyfi o.fl._
  □ Óheimilt er að vísa frá landi eða úr landi útlendingi sem fæddur er hér á landi og hefur átt hér fast heimili óslitið síðan.
  □ Útlendingi sem hefur búsetuleyfi má því aðeins vísa frá landi eða úr landi að:
     a. það sé nauðsynlegt vegna öryggis ríkisins, sbr. d-lið 1. mgr. 20. gr.,
@@ -137,9 +143,10 @@ h2. Lög um útlendinga
  □ Í máli er varðar frávísun, brottvísun eða afturköllun leyfis, svo og í máli vegna umsóknar um hæli, skal stjórnvald leiðbeina útlendingnum um að honum sé heimilt, á eigin kostnað, að leita aðstoðar lögmanns eða annars fulltrúa, um rétt hans á að fá sér skipaðan talsmann, sbr. 2. mgr. 34. gr., og um rétt hans til að hafa samband við fulltrúa heimalands síns, fulltrúa Flóttamannastofnunar Sameinuðu þjóðanna og mannúðar- eða mannréttindasamtök hér á landi.
  □ Að öðru leyti gildir almenn leiðbeiningarskylda skv. 7. gr. stjórnsýslulaga.
 ■ *26. gr.* _Miðlun upplýsinga úr landi._
- □ Stjórnvöldum sem fara með málefni útlendinga er heimilt að láta erlendum stjórnvöldum í té upplýsingar um útlending vegna meðferðar á máli er varðar vegabréfsáritun, dvalarleyfi eða hæli að því marki sem nauðsynlegt er vegna skuldbindinga Íslands sem þátttakanda í Schengen-samstarfinu og samstarfi samkvæmt Dyflinnarsamningnum frá 15. júní 1990.
+ □ Stjórnvöldum sem fara með málefni útlendinga er heimilt að láta erlendum stjórnvöldum í té upplýsingar um útlending vegna meðferðar á máli er varðar vegabréfsáritun, dvalarleyfi eða hæli að því marki sem nauðsynlegt er vegna skuldbindinga Íslands sem þátttakanda í Schengen-samstarfinu og samstarfi [á grundvelli samnings milli Íslands, Noregs og ráðs Evrópusambandsins frá 19. janúar 2001 um viðmiðanir og fyrirkomulag við að ákvarða hvaða ríki skuli fara með beiðni um hæli sem lögð er fram á Íslandi, Noregi eða í aðildarríki Evrópusambandsins].[^1)^]
  □ Dómsmálaráðherra getur sett nánari reglur um hvaða upplýsingar megi veita og um skilyrði sem þarf að fullnægja til að upplýsingar verði veittar.
-■ *27. gr.* _Vanhæfi._
+    _[^1)^]_"L. 20/2004, 6. gr.":/altext/stjt/2004.020.html
+ ■ *27. gr.* _Vanhæfi._
  □ Opinber starfsmaður, sem tekið hefur þátt í meðferð opinbers máls á hendur viðkomandi útlendingi, má ekki taka þátt í undirbúningi að ákvörðun eða taka sjálfur ákvörðun í máli um frávísun, dvalarleyfi, búsetuleyfi eða brottvísun. Ákvæði þetta tekur ekki til mála vegna brota á ákvæðum laga þessara eða reglna sem settar eru samkvæmt þeim.
 ■ *28. gr.* _Öflun gagna fyrir dómi._
  □ Útlendingi, svo og stjórnvaldi sem fer með mál útlendings, er heimilt að krefjast þess að upplýsinga, sem ekki verður aflað á annan hátt svo að fullnægjandi sé í máli samkvæmt lögunum, verði aflað fyrir dómi eftir reglum XII. kafla laga um meðferð einkamála um öflun sönnunargagna án þess að mál hafi verið höfðað. Dómari ákveður hvort skilyrði eru til að fallast á beiðni.
@@ -147,7 +154,8 @@ h2. Lög um útlendinga
 ■ *29. gr.* _Rannsóknarúrræði._
  □ Útlendingi er skylt að veita atbeina sinn til að upplýsa hver hann er, að því marki sem stjórnvald skv. 2. mgr. 3. gr. krefst þess. Dómsmálaráðherra setur nánari reglur um hvað skylda má útlending til að gera til að fullnægja þessari skyldu.
  □ Ef vafi leikur á hver útlendingur er við komu til landsins eða síðar getur lögregla lagt hald á ferðaskilríki, farseðla og annað sem getur verið til upplýsinga um hver hann er. Sama gildir þegar vafi er um fyrri dvalarstað og það skiptir máli um rétt til dvalar hér á landi. Lögregla skal benda útlendingi á að hann geti borið réttmæti haldlagningar undir dómara samkvæmt reglum laga um meðferð opinberra mála.
- □ Ef rökstuddur grunur leikur á að útlendingur, í bága við fyrirmæli sem greinir í 1. mgr., haldi eftir eða leyni upplýsingum um hver hann er eða, í bága við fyrirmæli sem greinir í 53. gr., haldi eftir eða leyni upplýsingum um fyrri dvalarstað má lögregla leita á útlendingnum, á heimili hans, herbergi eða hirslum samkvæmt reglum laga um meðferð opinberra mála, eftir því sem við á.
+ □ Ef rökstuddur grunur leikur á að útlendingur, í bága við fyrirmæli sem greinir í 1. mgr., haldi eftir eða leyni upplýsingum um hver hann er eða, í bága við fyrirmæli sem greinir í 53. gr., haldi eftir eða leyni upplýsingum um fyrri dvalarstað má lögregla leita á útlendingnum, á heimili hans, herbergi eða hirslum samkvæmt reglum laga um meðferð opinberra mála ...[^1)^] [Sama gildir ef rökstuddur grunur leikur á að til hjúskapar hafi verið stofnað í þeim tilgangi einum að afla dvalarleyfis eða ekki með vilja beggja, sbr. 3. mgr. 13. gr.][^1)^]
+ □ [Leit skal ákveðin með úrskurði dómara nema sá sem í hlut á samþykki hana eða brýn hætta sé á að bið eftir úrskurði dómara valdi sakarspjöllum.][^1)^]
  □ Í þágu máls má taka ljósmyndir og fingraför af útlendingi sem:
     a. ekki getur fært sönnur á hver hann er eða ef ástæða er til að ætla að útlendingurinn gefi rangt upp hver hann er,
     b. leitar hælis eða sækir um leyfi samkvæmt lögunum,
@@ -155,7 +163,9 @@ h2. Lög um útlendinga
     d. hefur verið vísað frá landi eða úr landi eða ætla má að dveljist hér ólöglega.
  □ Fingraför, sem tekin eru skv. 4. mgr., má færa í tölvufærða fingrafaraskrá. Dómsmálaráðherra getur sett nánari reglur um færslu og notkun skrárinnar.
  □ Ef útlendingur neitar að gefa upp hver hann er eða rökstuddur grunur er um að útlendingur gefi rangar upplýsingar um hver hann er getur lögregla lagt fyrir hann að tilkynna sig eða halda sig á ákveðnu svæði. Ef slíkum fyrirmælum er ekki sinnt eða þau teljast ófullnægjandi er heimilt að handtaka útlendinginn og úrskurða í gæsluvarðhald samkvæmt reglum laga um meðferð opinberra mála, eftir því sem við á. Gæsla má ekki standa lengur en í 12 vikur samanlagt nema sérstaklega standi á.
-■ *30. gr.* _Kæruheimild._
+ □ [Við ákvörðun um veitingu dvalarleyfis hefur Útlendingastofnun heimild til að fara fram á að umsækjandi um dvalarleyfi skv. 1. mgr. 13. gr. eða ættmenni hans gangist undir rannsókn á erfðaefni og töku lífsýnis í því skyni, til að staðfesta að um skyldleika sé að ræða skv. 2. mgr. 13. gr., ef fyrirliggjandi gögn í því efni eru ekki talin veita fullnægjandi sönnun um skyldleikann.][^1)^]
+    _[^1)^]_"L. 20/2004, 7. gr.":/altext/stjt/2004.020.html
+ ■ *30. gr.* _Kæruheimild._
  □ Ákvörðun lögreglunnar, svo og ákvörðun sendiráðs, fastanefndar eða ræðismanns skv. 5. mgr. 6. gr., má kæra til Útlendingastofnunar. Ákvörðun Útlendingastofnunar sem æðra stjórnvalds verður ekki kærð. Að öðru leyti má kæra ákvörðun til dómsmálaráðuneytisins.
  □ Nú vill útlendingur nýta heimild til kæru og skal hann þá lýsa kæru innan 15 daga frá því að honum var kynnt ákvörðunin fyrir þeim sem það gerir. Að öðru leyti fer um kæru skv. VII. kafla stjórnsýslulaga um stjórnsýslukæru.
 ■ *31. gr.* _Hvenær ákvörðun getur komið til framkvæmda._
@@ -179,27 +189,29 @@ h2. Lög um útlendinga
  □ Þvingunarúrræðum skv. 3. og 5. mgr. má beita þegar ákvörðun um að útlendingur skuli yfirgefa landið er tekin og þegar mál sem getur leitt til slíkrar ákvörðunar er til meðferðar.
 ■ *34. gr.* _Réttaraðstoð._
  □ Dómari skal skipa útlendingi talsmann úr hópi lögmanna þegar krafist er gæslu skv. 6. mgr. 29. gr. eða 5. mgr. 33. gr. Sama gildir þegar fyrir dómi er krafist úrræða skv. 3. og 4. mgr. 33. gr. nema það hafi í för með sér sérstakt óhagræði eða töf eða dómarinn telur ekki varhugavert að láta hjá líða að skipa talsmann.
- □ Þegar kærð er ákvörðun sem varðar frávísun, brottvísun eða afturköllun leyfis og í máli vegna umsóknar um hæli skal útlendingur eiga rétt á að stjórnvald skipi honum talsmann. Þetta gildir þó ekki í málum vegna brottvísunar skv. b- og c-lið 1. mgr. 20. gr., b-lið 2. mgr. 21. gr. og 2. mgr. 43. gr. þegar um er að ræða háttsemi sem greinir í 2. málsl., eða þegar útlendingur sem sótt hefur um hæli kærir að hann hafi einungis fengið dvalarleyfi skv. 2. mgr. 11. gr. Ef dómari tekur til greina beiðni um að afla upplýsinga fyrir dómi skv. 28. gr. skal kostnaður útlendingsins við lögfræðiaðstoð meðan öflun upplýsinganna fer fram greiðast úr ríkissjóði.
+ □ Þegar kærð er ákvörðun sem varðar frávísun, brottvísun eða afturköllun leyfis og í máli vegna umsóknar um hæli skal útlendingur eiga rétt á að stjórnvald skipi honum talsmann. Þetta gildir þó ekki í málum vegna brottvísunar skv. b- og c-lið 1. mgr. 20. gr., b-lið 2. mgr. 21. gr. og 2. mgr. 43. gr. þegar um er að ræða háttsemi sem greinir í 2. málsl., [þegar kærð er synjun, sem byggð er á d- og e-lið 1. mgr. 46. gr., á meðferð umsóknar um hæli][^1)^] eða þegar útlendingur sem sótt hefur um hæli kærir að hann hafi einungis fengið dvalarleyfi skv. 2. mgr. 11. gr. Ef dómari tekur til greina beiðni um að afla upplýsinga fyrir dómi skv. 28. gr. skal kostnaður útlendingsins við lögfræðiaðstoð meðan öflun upplýsinganna fer fram greiðast úr ríkissjóði.
  □ Ákvæði VI. kafla laga um meðferð opinberra mála gilda, eftir því sem við á, um réttaraðstoð skv. 1. og 2. mgr. Krefja skal útlending um endurgreiðslu kostnaðar af réttaraðstoð að hluta til eða að öllu leyti ef hann hefur ráð á því.
+    _[^1)^]_"L. 20/2004, 8. gr.":/altext/stjt/2004.020.html
 
  *VI. kafli.* *[Sérreglur um útlendinga sem falla undir samninginn um Evrópska efnahagssvæðið (EES) og stofnsamning Fríverslunarsamtaka Evrópu (EFTA).][^1)^]*
-    _[^1)^]_"L. 27/2003, 5. gr.":/altext/stjt/2003.027.html
- ■ *35. gr.* _Dvalarleyfi._
- □ [Útlendingur, sem fellur undir reglur EES-samningsins (EES-útlendingur) eða stofnsamnings EFTA (EFTA-útlendingur), má koma til landsins án sérstaks leyfis og dveljast eða starfa hér á landi í allt að þrjá mánuði frá komu hans til landsins, eða allt að sex mánuðum ef hann er í atvinnuleit. Dvöl í öðru norrænu landi skal ekki draga frá dvalartímanum.][^1)^]
- □ [Útlendingur, sem hvorki er ríkisborgari EES- eða EFTA-ríkis né aðstandandi slíks borgara, má koma til landsins án sérstaks leyfis til að veita þjónustu í allt að 90 starfsdaga á almanaksári hafi hann leyfi sem jafngildir óbundnu atvinnuleyfi í EES- eða EFTA-ríki og er ráðinn hjá aðila sem veitir þjónustu og hefur staðfestu eða starfsemi þar.][^1)^]
- □ [EES- eða EFTA-útlendingur],[^1)^] sem dvelst eða starfar hér á landi lengur en greinir í 1. mgr., skal hafa dvalarleyfi. Dómsmálaráðherra getur sett reglur um undanþágur frá reglum um dvalarleyfi og reglur um tilkynningarskyldu.
+    _[^1)^]"L. 27/2003, 5. gr.":/altext/stjt/2003.027.html_
+ ■ *35. gr.* _[Dvalarleyfi og búsetuleyfi.][^1)^]_
+ □ [Útlendingur, sem fellur undir reglur EES-samningsins (EES-útlendingur) eða stofnsamnings EFTA (EFTA-útlendingur), má koma til landsins án sérstaks leyfis og dveljast eða starfa hér á landi í allt að þrjá mánuði frá komu hans til landsins, eða allt að sex mánuðum ef hann er í atvinnuleit. Dvöl í öðru norrænu landi skal ekki draga frá dvalartímanum.][^2)^]
+ □ [Útlendingur, sem hvorki er ríkisborgari EES- eða EFTA-ríkis né aðstandandi slíks borgara, má koma til landsins án sérstaks leyfis til að veita þjónustu í allt að 90 starfsdaga á almanaksári hafi hann leyfi sem jafngildir óbundnu atvinnuleyfi í EES- eða EFTA-ríki og er ráðinn hjá aðila sem veitir þjónustu og hefur staðfestu eða starfsemi þar.][^2)^]
+ □ [EES- eða EFTA-útlendingur],[^2)^] sem dvelst eða starfar hér á landi lengur en greinir í 1. mgr., skal hafa dvalarleyfi [eða búsetuleyfi hér á landi].[^1)^] Dómsmálaráðherra getur sett reglur um undanþágur frá reglum um dvalarleyfi og reglur um tilkynningarskyldu.
  □ Dvalarleyfi, sem sótt er um í fyrsta sinn, má sækja um eftir komu til landsins.
  □ Útlendingastofnun tekur ákvörðun um dvalarleyfi.
-    _[^1)^]_"L. 27/2003, 2. gr.":/altext/stjt/2003.027.html
- ■ *36. gr.* _Skilyrði dvalarleyfis._
- □ [EES- eða EFTA-útlendingur, þó ekki útlendingur sem greinir í 2. mgr. 35. gr.],[^1)^] á rétt á dvalarleyfi samkvæmt umsókn þess efnis ef hann framvísar þeim ferðaskilríkjum sem hann komst inn í landið með og gögnum sem sýna að hann:
+    _[^1)^]_"L. 20/2004, 9. gr.":/altext/stjt/2004.020.html [^2)^]"L. 27/2003, 2. gr.":/altext/stjt/2003.027.html
+ ■ *36. gr.* _[Skilyrði dvalarleyfis og búsetuleyfis.][^1)^]_
+ □ [EES- eða EFTA-útlendingur, þó ekki útlendingur sem greinir í 2. mgr. 35. gr.],[^2)^] á rétt á dvalarleyfi samkvæmt umsókn þess efnis ef hann framvísar þeim ferðaskilríkjum sem hann komst inn í landið með og gögnum sem sýna að hann:
     a. er launþegi sem fellur undir lög um frjálsan atvinnu- og búseturétt launafólks innan Evrópska efnahagssvæðisins, sbr. 2. tölul. V. viðauka við EES-samninginn,
     b. ætlar að stunda sjálfstæða atvinnustarfsemi hér á landi eða veita eða njóta hér þjónustu,
     c. þiggur nægilegar fastar reglubundnar greiðslur eða á nægilegt eigið fé og fellur undir sjúkratryggingu sem ábyrgist alla áhættu meðan dvöl hans hér á landi varir eða
     d. er innritaður hjá viðurkenndri námsstofnun með það að meginmarkmiði að öðlast þar menntun eða starfsþjálfun.
  □ Dómsmálaráðherra setur nánari reglur um framkvæmd þessa.
  □ Heimilt er að synja um dvalarleyfi skv. 1. mgr. ef þær aðstæður eru fyrir hendi sem geta veitt tilefni til að meina útlendingnum komu til landsins, dvöl eða vinnu samkvæmt öðrum lagaákvæðum.
-    _[^1)^]_"L. 27/2003, 3. gr.":/altext/stjt/2003.027.html
+ □ [Um skilyrði fyrir útgáfu búsetuleyfis EES-útlendings gilda ákvæði 15. gr.][^1)^]
+    _[^1)^]_"L. 20/2004, 10. gr.":/altext/stjt/2004.020.html [^2)^]"L. 27/2003, 3. gr.":/altext/stjt/2003.027.html
  ■ *37. gr.* _Dvalarleyfi fyrir aðstandendur._
  □ Aðstandandi útlendings sem hefur eða öðlast dvalarleyfi skv. 1. mgr. 36. gr. á rétt á dvalarleyfi samkvæmt umsókn þess efnis að uppfylltum skilyrðum í reglum sem dómsmálaráðherra setur.
 ■ *38. gr.* _Áframhaldandi dvöl að loknu starfi._
@@ -228,12 +240,12 @@ h2. Lög um útlendinga
     _[^1)^]_"L. 27/2003, 4. gr.":/altext/stjt/2003.027.html
  ■ *43. gr.* _Brottvísun._
  □ Heimilt er að vísa [EES- eða EFTA-útlendingi][^1)^] úr landi ef það er nauðsynlegt með skírskotun til allsherjarreglu og almannaöryggis.
- □ Brottvísun skv. 1. mgr. má framkvæma ef útlendingurinn sýnir af sér eða ætla má að um sé að ræða persónubundna háttsemi sem felur í sér raunverulega og nægilega alvarlega ógn gagnvart grundvallarþjóðfélagssjónarmiðum. Ef útlendingurinn hefur verið dæmdur til refsingar eða sérstakar ráðstafanir ákvarðaðar má brottvísun af þessari ástæðu að jafnaði því aðeins fara fram að um sé að ræða háttsemi sem getur gefið til kynna að útlendingurinn muni fremja refsivert brot á ný.
+ □ Brottvísun skv. 1. mgr. má framkvæma ef útlendingurinn sýnir af sér eða ætla má að um sé að ræða persónubundna háttsemi sem felur í sér raunverulega og nægilega alvarlega ógn gagnvart grundvallarþjóðfélagssjónarmiðum. Ef útlendingurinn hefur verið dæmdur til refsingar eða sérstakar ráðstafanir ákvarðaðar má brottvísun af þessari ástæðu ...[^2)^] því aðeins fara fram að um sé að ræða háttsemi sem getur gefið til kynna að útlendingurinn muni fremja refsivert brot á ný.
  □ Einnig er heimilt að vísa [EES- eða EFTA-útlendingi][^1)^] úr landi ef hann fullnægir ekki skilyrðum um dvöl skv. 36. - 38. gr.
  □ Brottvísun skal ekki ákveða ef það með hliðsjón af málsatvikum og tengslum útlendingsins við landið mundi fela í sér ósanngjarna ráðstöfun gagnvart honum eða nánustu ættingjum hans.
  □ Brottvísun felur í sér bann við komu til landsins síðar. Endurkomubannið getur gilt fyrir fullt og allt eða um tiltekinn tíma en að jafnaði ekki skemur en tvö ár. Samkvæmt umsókn má fella endurkomubannið úr gildi ef nýjar aðstæður mæla með því.
  □ Útlendingastofnun tekur ákvörðun um brottvísun, svo og um heimild útlendings sem vísað hefur verið úr landi til endurkomu.
-    _[^1)^]_"L. 27/2003, 4. gr.":/altext/stjt/2003.027.html
+    _[^1)^]_"L. 27/2003, 4. gr.":/altext/stjt/2003.027.html [^2)^]"L. 20/2004, 11. gr.":/altext/stjt/2004.020.html
 
  *VII. kafli.* *Vernd gegn ofsóknum og flóttamenn.*
  ■ *44. gr.* _Flóttamannahugtakið._
@@ -250,16 +262,18 @@ h2. Lög um útlendinga
     b. veitt hefur verið hæli í öðru ríki,
     c. komið hefur til landsins að eigin frumkvæði eftir að hafa hlotið vernd í öðru ríki eða eftir að hafa dvalist í ríki eða á svæði þar sem hann þurfti ekki að sæta ofsóknum og hafði ekki ástæðu til að óttast að verða sendur aftur til heimalands síns,
     d. krefja má annað norrænt ríki um að taka við samkvæmt reglum norræna vegabréfaeftirlitssamningsins,
-    e. krefja má annað ríki sem tekur þátt í samstarfi á grundvelli Dyflinnarsamningsins frá 15. júní 1990 um að taka við,
+    e. [krefja má annað ríki, sem tekur þátt í samstarfi á grundvelli samnings Íslands, Noregs og ráðs Evrópusambandsins frá 19. janúar 2001 um viðmiðanir og fyrirkomulag við að ákvarða hvaða ríki skuli fara með beiðni um hæli sem lögð er fram á Íslandi, Noregi eða í aðildarríki Evrópusambandsins, um að taka við],[^1)^]
     f. synja má um hæli vegna krefjandi þjóðarhagsmuna.
  □ Ekki skal endursenda flóttamann til annars ríkis skv. c-, d- og e-lið 1. mgr. ef hann hefur slík sérstök tengsl við landið að nærtækast sé að hann fái hér vernd.
  □ Maki flóttamanns, sambúðarmaki eða samvistarmaki og börn undir 18 ára aldri án maka, sambúðarmaka eða samvistarmaka eiga rétt á hæli nema sérstakar ástæður mæli því í mót.
  □ Með umsókn um hæli skal afhenda vegabréf eða önnur ferðaskilríki sem umsækjandi hefur í fórum sínum.
  □ Dómsmálaráðherra getur sett reglur um að útlendingur sem sækir um hæli skuli dveljast í tilteknu sveitarfélagi og í húsnæði sem lagt er til þar til endanleg ákvörðun liggur fyrir um umsóknina.
-■ *47. gr.* _Réttaráhrif hælis._
- □ Hælisveiting hefur í för með sér að útlendingurinn hefur réttarstöðu flóttamanns og fær dvalarleyfi. Hann hefur þá réttarstöðu sem leiðir af íslenskum lögum og flóttamannasamningnum eða öðrum þjóðréttarsamningum um flóttamenn.
+    _[^1)^]_"L. 20/2004, 12. gr.":/altext/stjt/2004.020.html
+ ■ *47. gr.* _Réttaráhrif hælis._
+ □ Hælisveiting hefur í för með sér að útlendingurinn hefur réttarstöðu flóttamanns og fær dvalarleyfi. Hann hefur þá réttarstöðu sem leiðir af íslenskum lögum og flóttamannasamningnum eða öðrum þjóðréttarsamningum um flóttamenn. [Sama gildir um barn flóttamanns sem er fætt eftir komu hans til landsins.][^1)^]
  □ Hælisveitingu má afturkalla ef flóttamaður fellur ekki lengur undir flóttamannahugtakið skv. 44. gr. eða það að öðru leyti leiðir af almennum stjórnsýslureglum. Útlendingastofnun tekur ákvörðun um afturköllun.
-■ *48. gr.* _Ferðaskírteini fyrir flóttamenn og vegabréf fyrir útlendinga._
+    _[^1)^]_"L. 20/2004, 13. gr.":/altext/stjt/2004.020.html
+ ■ *48. gr.* _Ferðaskírteini fyrir flóttamenn og vegabréf fyrir útlendinga._
  □ Flóttamanni, sem dvelst eða fær að dveljast löglega í landinu, skal að fenginni umsókn veita ferðaskírteini fyrir flóttamenn til ferða erlendis, enda mæli sérstakar ástæður því ekki í mót. Nú hefur flóttamaður ferðaskilríki gefin út af öðru ríki og skal hann þá því aðeins fá skírteini gefið út að honum hafi verið veitt hér hæli eða búsetuleyfi eða skylt sé að gefa hér út ferðaskírteini fyrir flóttamenn í samræmi við þjóðréttarsamning.
  □ Útlendingur, sem hefur eða fær dvalarleyfi hér á grundvelli umsóknar um hæli, en án þess að vera veitt hæli, skal fá vegabréf fyrir útlendinga til ferða erlendis samkvæmt nánari reglum sem dómsmálaráðherra setur. Þar má og heimila útgáfu vegabréfs fyrir útlendinga í öðrum tilvikum.
  □ Með umsókn um ferðaskírteini fyrir flóttamenn eða vegabréf fyrir útlendinga skal afhenda vegabréf eða önnur ferðaskilríki sem umsækjandi hefur í fórum sínum.
@@ -273,10 +287,11 @@ h2. Lög um útlendinga
 ■ *51. gr.* _Flóttamannahópar._
  □ Útlendingastofnun heimilar hópum flóttamanna komu til landsins í samræmi við ákvörðun stjórnvalda að fenginni tillögu Flóttamannaráðs Íslands. Sama gildir um hópa útlendinga sem ekki teljast flóttamenn.
  □ Ákvæði IV. og V. kafla stjórnsýslulaga um andmælarétt og um birtingu ákvörðunar, rökstuðning o.fl., og viðeigandi ákvæði V. kafla laga þessara, gilda ekki um ákvarðanir skv. 1. mgr. Ákvörðun verður einungis kærð af þeim sem bein afstaða er tekin til í máli.
- □ Útlendingur, sem heimiluð er koma skv. 1. mgr., skal fá dvalarleyfi. Þegar endanleg ákvörðun hefur verið tekin um að útlendingur skuli hafa réttarstöðu flóttamanns, sbr. 2. mgr. 50. gr., á hann rétt til hælis og ferðaskírteinis fyrir flóttamenn, sbr. 46. - 48. gr.
+ □ Útlendingur, sem heimiluð er koma skv. 1. mgr., skal fá dvalarleyfi [til þriggja ára sem ekki er háð takmörkunum].[^1)^] Þegar endanleg ákvörðun hefur verið tekin um að útlendingur skuli hafa réttarstöðu flóttamanns, sbr. 2. mgr. 50. gr., á hann rétt til hælis og ferðaskírteinis fyrir flóttamenn, sbr. 46. - 48. gr.
+    _[^1)^]_"L. 20/2004, 14. gr.":/altext/stjt/2004.020.html
 
  *VIII. kafli.* *Ýmis ákvæði.*
-■ *52. gr.* _Sérákvæði vegna öryggis ríkisins o.fl._
+ ■ *52. gr.* _Sérákvæði vegna öryggis ríkisins o.fl._
  □ Meina má útlendingi landgöngu og synja um útgáfu dvalarleyfis og búsetuleyfis eða setja takmarkanir eða skilyrði ef nauðsynlegt þykir vegna utanríkisstefnu ríkisins, öryggis ríkisins eða mikilvægra þjóðarhagsmuna. Af sömu ástæðum má framkvæma ákvörðun fyrr en greinir í 31. og 32. gr. Útlendingastofnun tekur ákvörðun samkvæmt þessari málsgrein.
  □ Dómsmálaráðherra getur, ef nauðsynlegt þykir vegna öryggis ríkisins, sett nánari reglur um tilkynningarskyldu en segir í 17. gr. eða reglum skv. 54. gr.
 ■ *53. gr.* _Upplýsinga- og tilkynningarskylda útlendinga._
@@ -299,12 +314,13 @@ h2. Lög um útlendinga
  □ Útlendingastofnun og lögreglu er heimil vinnsla persónuupplýsinga, þar á meðal þeirra sem viðkvæmar geta talist, að því marki sem slík vinnsla telst nauðsynleg við framkvæmd laganna. Eftir þörfum er heimilt við vinnslu persónuupplýsinga að samkeyra upplýsingar Útlendingastofnunar og lögreglu. Að öðru leyti fer um meðferð persónuupplýsinga samkvæmt lögum um persónuvernd og meðferð persónuupplýsinga.
  □ Dómsmálaráðherra skal, að fenginni umsögn Persónuverndar, setja reglur um hvaða skrár skulu haldnar af Útlendingastofnun og lögreglu.
 ■ *56. gr.* _Ábyrgð á kostnaði._
- □ Útlendingur, sem færður er úr landi samkvæmt lögunum, skal greiða kostnað af brottför sinni. Útlendingurinn skal einnig greiða kostnað af gæslu þegar hennar er þörf vegna þess að útlendingurinn fer ekki úr landi af sjálfsdáðum. Krafan er aðfararhæf og hún getur auk þess verið grundvöllur frávísunar við síðari komu til landsins, sbr. h-lið 1. mgr. 18. gr. Lögreglunni er heimilt að leggja hald á farseðla sem finnast í fórum útlendingsins til notkunar við brottför.
+ □ Útlendingur, sem færður er úr landi samkvæmt lögunum, skal greiða kostnað af brottför sinni. Útlendingurinn skal einnig greiða kostnað af gæslu þegar hennar er þörf vegna þess að útlendingurinn fer ekki úr landi af sjálfsdáðum. Krafan er aðfararhæf og hún getur auk þess verið grundvöllur frávísunar við síðari komu til landsins, sbr. h-lið 1. mgr. 18. gr. Lögreglunni er heimilt að leggja hald á farseðla sem finnast í fórum útlendingsins til notkunar við brottför. [Sama gildir um fjármuni til greiðslu á kröfu vegna kostnaðar við brottför og gæslu samkvæmt ákvæði þessu.][^1)^]
  □ Nú er útlendingi, sem komið hefur með skipi eða loftfari, vísað frá landi skv. 18. eða 42. gr. og skal þá eigandi farsins eða leigutaki, og á þeirra vegum stjórnandi þess eða umboðsmaður hér á landi, annaðhvort taka útlendinginn um borð á ný eða flytja hann úr landi á annan hátt eða greiða kostnað sem hið opinbera hefur af því að færa útlendinginn úr landi. Á sama hátt er þeim skylt að taka fylgdarmenn um borð og greiða kostnað af fylgd með útlendingnum úr landi ef lögregla telur þess þörf.
  □ Kostnaður við að færa útlending úr landi, sem ekki fæst greiddur skv. 1. eða 2. mgr., greiðist úr ríkissjóði.
  □ Nú gengur útlendingur, sem þarf leyfi lögreglunnar skv. 7. gr., á land án þess að hafa fengið slíkt leyfi og fer þá eftir reglum 2. mgr. um ábyrgð á kostnaði. Sama gildir þá að jafnaði einnig um kostnað sem hið opinbera kann að hafa af dvöl útlendingsins hér í allt að þrjá mánuði.
  □ Ábyrgð skv. 2. og 4. mgr. gildir ekki við komu yfir innri landamæri Schengen-svæðisins.
-■ *57. gr.* _Refsiákvæði._
+    _[^1)^]_"L. 20/2004, 15. gr.":/altext/stjt/2004.020.html
+ ■ *57. gr.* _Refsiákvæði._
  □ Það varðar sektum eða fangelsi allt að sex mánuðum ef maður:
     a. af ásetningi eða gáleysi brýtur gegn lögunum eða reglum, banni, boði eða skilyrðum sem sett eru samkvæmt lögunum eða
     b. af ásetningi eða stórfelldu gáleysi veitir í máli samkvæmt lögunum upplýsingar sem eru í verulegum atriðum rangar eða augljóslega villandi.
@@ -313,20 +329,24 @@ h2. Lög um útlendinga
     b. af ásetningi eða stórfelldu gáleysi hefur milligöngu um vinnu eða húsnæði fyrir útlending eða gefur út eða miðlar yfirlýsingum, umsögnum eða skjölum til notkunar í máli samkvæmt lögunum ef hann með því notfærir sér ótilhlýðilega aðstæður útlendingsins eða
     c. af ásetningi með því að vekja, styrkja eða hagnýta sér ranga eða óljósa hugmynd, eða á annan ótilhlýðilegan hátt, tælir útlending til að koma til landsins í því skyni að setjast þar að eða
     d. lætur öðrum í té vegabréf, ferðaskírteini fyrir flóttamenn, önnur ferðaskilríki eða svipuð skilríki sem nota má sem ferðaskilríki og hlutaðeigandi veit eða má vita að útlendingur getur notað þau til að koma til landsins eða til annars ríkis eða
-    e. í hagnaðarskyni aðstoðar útlending til að dveljast ólöglega hér á landi eða í öðru ríki sem tekur þátt í Schengen-samstarfinu eða
-    f. í hagnaðarskyni aðstoðar útlending við að koma ólöglega til landsins eða annars ríkis sem tekur þátt í Schengen-samstarfinu.
- □ Það varðar sektum eða fangelsi allt að sex árum að reka í hagnaðarskyni skipulagða starfsemi til að aðstoða útlendinga við að koma ólöglega til landsins eða til annars ríkis.
+    e. [af ásetningi eða stórfelldu gáleysi aðstoðar útlending við að dveljast ólöglega hér á landi eða í öðru ríki eða][^1)^]
+    f. [af ásetningi eða stórfelldu gáleysi aðstoðar útlending við að koma ólöglega hingað til lands eða annars ríkis eða][^1)^]
+    [g. af ásetningi eða stórfelldu gáleysi aflar eða reynir að afla dvalarleyfis á grundvelli hjúskapar skv. 3. mgr. 13. gr. eða
+    h. hefur í vörslum sínum falsað vegabréf, fölsuð skilríki eða falsaða vegabréfsáritun.][^1)^]
+ □ [Það varðar sektum eða fangelsi allt að sex árum að standa að skipulagðri starfsemi til að aðstoða útlendinga við að koma ólöglega til landsins eða til annars ríkis, hvort sem starfsemin er rekin í hagnaðarskyni eða ekki.][^1)^]
  □ Nú er útlendingur fluttur til landsins með skipi eða loftfari án þess að hafa fullnægjandi ferðaskilríki og stjórnandi skips eða loftfars hefur ekki gengið úr skugga um að hann beri gild ferðaskilríki, sbr. 3. mgr. 4. gr., og er þá heimilt að gera stjórnanda farartækis sekt.
  □ Þegar brot er framið í starfsemi lögaðila má gera lögaðilanum sekt skv. II. kafla A almennra hegningarlaga.
  □ Tilraun eða hlutdeild í brotum á lögum þessum er refsiverð eftir því sem segir í III. kafla almennra hegningarlaga.
+    _[^1)^]_"L. 20/2004, 16. gr.":/altext/stjt/2004.020.html
 
  *IX. kafli.* *Reglugerð og gildistaka.*
-■ *58. gr.* _Reglugerð._
+ ■ *58. gr.* _Reglugerð._
  □ Dómsmálaráðherra getur sett nánari reglur[^1)^] um framkvæmd laganna.
     _[^1)^]_"Rg. 53/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/053-2003, sbr. "546/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/546-2003.
  ■ *59. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. janúar 2003.
  □ ...
-
+ ■ *[Ákvæði til bráðabirgða.* Ákvæði a-liðar 1. mgr. 36. gr. laganna tekur ekki gildi fyrir ríkisborgara Eistlands, Lettlands, Litháens, Póllands, Slóvakíu, Slóveníu, Tékklands og Ungverjalands fyrr en 1. maí 2006. Til sama tíma gilda ákvæði 1. mgr. 35. gr. laganna um heimild EES-útlendings til dvalar án sérstaks leyfis í sex mánuði ef hann er í atvinnuleit og ákvæði 4. mgr. 35. gr. laganna um heimild EES-útlendings til að sækja um dvalarleyfi eftir komu til landsins ekki um launþega frá þessum ríkjum.][^1)^]
+    _[^1)^]_"L. 20/2004, 17. gr.":/altext/stjt/2004.020.html
 
 

@@ -6,7 +6,7 @@ h2. Sóttvarnalög
 
 <hr />
 
-*Tóku gildi 1. janúar 1998.* _Breytt með_ "l. 90/2000":/altext/stjt/2000.090.html (tóku gildi 1. sept. 2000), "l. 74/2002":/altext/stjt/2002.074.html (tóku gildi 17. maí 2002; komu til framkvæmda skv. fyrirmælum í 36. gr.), "l. 93/2002":/altext/stjt/2002.093.html (tóku gildi 31. maí 2002) og "l. 164/2002":/altext/stjt/2002.164.html (tóku gildi 1. jan. 2003).
+*Tóku gildi 1. janúar 1998.* _Breytt með_ "l. 90/2000":/altext/stjt/2000.090.html (tóku gildi 1. sept. 2000), "l. 74/2002":/altext/stjt/2002.074.html (tóku gildi 17. maí 2002; komu til framkvæmda skv. fyrirmælum í 36. gr.), "l. 93/2002":/altext/stjt/2002.093.html (tóku gildi 31. maí 2002), "l. 164/2002":/altext/stjt/2002.164.html (tóku gildi 1. jan. 2003) og "l. 55/2004":/altext/stjt/2004.055.html (tóku gildi 14. júní 2004).
 
 
  *I. kafli.* *Skilgreiningar.*
@@ -18,8 +18,9 @@ h2. Sóttvarnalög
 ■ *2. gr.* Lög þessi fjalla um smitsjúkdóma sem valdið geta farsóttum og ógnað almannaheill, svo og aðrar alvarlegar næmar sóttir. Með smitsjúkdómum er átt við sjúkdóma eða smitun sem smitefni, örverur og eiturefni (toxín) þeirra eða sníkjudýr valda.
 ■ *3. gr.* Ráðherra ákveður með reglugerð,[^1)^] að fengnum tillögum sóttvarnaráðs, hvaða smitsjúkdómar eru skráningarskyldir og hvaða sjúkdómar eru tilkynningarskyldir, sbr. 1. og 2. mgr. 9. gr. Af skráningarskyldum smitsjúkdómum eru þeir sjúkdómar tilkynningarskyldir sem ógnað geta almannaheill.
  □ Með skráningarskyldu er átt við skyldu til að senda sóttvarnalækni ópersónugreindar upplýsingar, en með tilkynningarskyldu er átt við skyldu til að senda honum persónugreindar upplýsingar um sjúkdómstilvik.
- □ Sóttvarnalæknir er ábyrgur fyrir því að haldin sé smitsjúkdómaskrá. Skráin tekur til smitsjúkdóma og ónæmisaðgerða, sbr. 2. tölul. 5. gr., og er til stuðnings sóttvarnastarfi og faraldsfræðirannsóknum. Gæta skal fyllsta trúnaðar um allar einkaupplýsingar sem fram koma í smitsjúkdómaskrá og gilda um skrána sömu reglur og um aðrar sjúkraskrár.
-    _[^1)^]_"Rg. 129/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-1999, sbr. "222/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/222-2001, "447/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2001 og "241/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/241-2003.
+ □ Sóttvarnalæknir er ábyrgur fyrir því að haldin sé smitsjúkdómaskrá. [Skráin tekur til smitsjúkdóma, ónæmisaðgerða, sbr. 2. tölul. 5. gr., og sýklalyfjanotkunar, sbr. 3. tölul. 5. gr., og er til stuðnings sóttvarnastarfi og faraldsfræðirannsóknum.][^2)^] Gæta skal fyllsta trúnaðar um allar einkaupplýsingar sem fram koma í smitsjúkdómaskrá og gilda um skrána sömu reglur og um aðrar sjúkraskrár.
+ □ [Sóttvarnalæknir skal fá afhentar upplýsingar úr lyfjagagnagrunni landlæknis skv. 27. gr. lyfjalaga og frá heilbrigðisstofnunum til að halda skrá um sýklalyfjanotkun. Upplýsingarnar skulu vera ópersónugreinanlegar.][^2)^]
+    _[^1)^]_"Rg. 129/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-1999, sbr. "222/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/222-2001, "447/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2001, "241/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/241-2003 og "558/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/558-2004. [^2)^]"L. 55/2004, 1. gr.":/altext/stjt/2004.055.html
 
  *II. kafli.* *Yfirstjórn sóttvarna.*
  ■ *4. gr.* Embætti landlæknis ber ábyrgð á framkvæmd sóttvarna undir yfirstjórn heilbrigðisráðherra.
@@ -31,10 +32,12 @@ h2. Sóttvarnalög
  ■ *5. gr.* Verksvið sóttvarnalæknis er aðallega eftirfarandi:
     1. Að skipuleggja og samræma sóttvarnir og ónæmisaðgerðir um land allt, m.a. með útgáfu leiðbeininga um viðbrögð við farsóttum.
     2. Að halda smitsjúkdómaskrá til að fylgjast með útbreiðslu smitsjúkdóma með öflun nákvæmra upplýsinga um greiningu þeirra frá rannsóknastofum, sjúkrahúsum og læknum.
-    3. Að koma upplýsingum um útbreiðslu smitsjúkdóma, innan lands sem utan, með reglubundnum hætti og eftir þörfum til lækna og annarra heilbrigðisstarfsmanna.
-    4. Að vera læknum og öðrum, sem við sóttvarnir fást, til ráðgjafar.
-    5. Að hafa umsjón með forvörnum gegn smitsjúkdómum, m.a. upplýsingum og fræðslu til almennings um þessi efni.
-■ *6. gr.* Ráðherra skal skipa sjö manna ráð, sóttvarnaráð, til fjögurra ára í senn. Þar skulu eiga sæti sérfræðingar á sviði smitsjúkdómalækninga, bakteríufræði, veirufræði, kynsjúkdóma og faraldsfræði/heilbrigðisfræði, heilsugæslulæknir og hjúkrunarfræðingur með sérþekkingu á sviði sóttvarna. Ráðherra skipar formann úr hópi ráðsmanna. Varamenn skulu skipaðir með sama hætti.
+    [3. Að halda skrá um notkun manna á sýklalyfjum sem valdið geta ónæmi sýkla gegn sýklalyfjum.][^1)^]
+    [4. ][^1)^] Að koma upplýsingum um útbreiðslu smitsjúkdóma, innan lands sem utan, með reglubundnum hætti og eftir þörfum til lækna og annarra heilbrigðisstarfsmanna.
+    [5. ][^1)^] Að vera læknum og öðrum, sem við sóttvarnir fást, til ráðgjafar.
+    [6. ][^1)^] Að hafa umsjón með forvörnum gegn smitsjúkdómum, m.a. upplýsingum og fræðslu til almennings um þessi efni.
+    _[^1)^]_"L. 55/2004, 2. gr.":/altext/stjt/2004.055.html
+ ■ *6. gr.* Ráðherra skal skipa sjö manna ráð, sóttvarnaráð, til fjögurra ára í senn. Þar skulu eiga sæti sérfræðingar á sviði smitsjúkdómalækninga, bakteríufræði, veirufræði, kynsjúkdóma og faraldsfræði/heilbrigðisfræði, heilsugæslulæknir og hjúkrunarfræðingur með sérþekkingu á sviði sóttvarna. Ráðherra skipar formann úr hópi ráðsmanna. Varamenn skulu skipaðir með sama hætti.
  □ Þegar fjallað er um mál í sóttvarnaráði, sem tengjast starfssviði [Umhverfisstofnunar][^1)^] eða embættis yfirdýralæknis, skulu fulltrúar þeirra stofnana sitja fundi ráðsins, eftir því sem við á, með málfrelsi og tillögurétti.
  □ Sóttvarnaráð mótar stefnu í sóttvörnum og skal vera heilbrigðisyfirvöldum til ráðgjafar um aðgerðir til varnar útbreiðslu smitsjúkdóma.
  □ Ráðið skal hafa aðsetur hjá embætti landlæknis og skal sóttvarnalæknir vera ritari þess.
@@ -50,7 +53,8 @@ h2. Sóttvarnalög
 ■ *9. gr.* Læknir, sem kemst að því í starfi sínu að einstaklingur hefur smitast af smitsjúkdómi sem samkvæmt lögum þessum er tilkynningarskyldur eða hefur rökstuddan grun um að svo sé, skal þegar í stað tilkynna það ...[^1)^] sóttvarnalækni.
  □ Hliðstæð skylda hvílir á forstöðumönnum rannsóknastofa, sjúkradeilda og annarra heilbrigðisstofnana. Rannsóknastofur, sem fást við rannsóknir á sýnum frá sjúklingum með smitsjúkdóma sem lög þessi taka til, skulu hafa starfsleyfi heilbrigðis- og tryggingamálaráðherra.
  □ Hlutaðeigandi aðilum er skylt að aðstoða [sóttvarnalækni og yfirlækni heilsugæslu, sbr. 4. mgr. 4. gr.],[^1)^] m.a. með því að veita upplýsingar sem þeir telja nauðsynlegar vegna sóttvarna.
-    _[^1)^]_"L. 93/2002, 16. gr.":/altext/stjt/2002.093.html
+ □ [Forstöðumönnum heilbrigðisstofnana er skylt að senda sóttvarnalækni upplýsingar um magn sýklalyfja sem notað er á viðkomandi stofnun, skipt eftir deildum þar sem það á við.][^2)^]
+    _[^1)^]_"L. 93/2002, 16. gr.":/altext/stjt/2002.093.html [^2)^]"L. 55/2004, 3. gr.":/altext/stjt/2004.055.html
  ■ *10. gr.* Hafi læknir, sem hefur sjúkling til meðferðar sem haldinn er smitsjúkdómi, rökstuddan grun eða vitneskju um að sjúklingurinn fylgi ekki fyrirmælum sem honum voru sett um umgengni og meðferð skal hann tilkynna það þegar í stað til viðkomandi [yfirlæknis heilsugæslu, sbr. 4. mgr. 4. gr.],[^1)^] eða sóttvarnalæknis.
     _[^1)^]_"L. 93/2002, 17. gr.":/altext/stjt/2002.093.html
  _3. Skyldur heilbrigðisfulltrúa og heilbrigðisnefnda og dýralækna._
@@ -83,7 +87,7 @@ h2. Sóttvarnalög
 ■ *17. gr.* [Kostnaður sem hlýst af framkvæmd laga þessara greiðist úr ríkissjóði. Greiðsluhlutdeild sjúklinga skal fylgja lögum um almannatryggingar [og lögum um heilbrigðisþjónustu].[^1)^] Heimilt er þó með reglugerð að veita undanþágur frá greiðsluhlutdeild sjúklinga, svo sem þegar sjúklingar leita til göngudeilda smitsjúkdóma vegna greiningar og meðferðar tilkynningarskyldra smitsjúkdóma, sjúklingar eru kvaddir til rannsókna til að leita að smiti og þegar fólki er gert að sæta læknisrannsókn.][^2)^]
     _[^1)^]_"L. 74/2002, 35. gr.":/altext/stjt/2002.074.html [^2)^]"L. 90/2000, 5. gr.":/altext/stjt/2000.090.html
  ■ *18. gr.* Ráðherra skal með reglugerð[^1)^] setja nánari ákvæði um fyrirkomulag skráninga og tilkynninga skv. 3. gr., starfsemi rannsóknastofa sem fást við rannsóknir á sýnum frá sjúklingum með smitsjúkdóma sem lögin taka til skv. 9. gr., opinberar sóttvarnaráðstafanir skv. 12. gr., [heimild til að kveða á um læknisrannsókn eftir tilmælum sóttvarnalæknis skv. 14. gr.],[^2)^] starfsemi göngudeilda skv. 16. gr. og hvaða deildir geti veitt þjónustu, sjúklingum að kostnaðarlausu, skv. 17. gr. Þá er ráðherra heimilt að setja reglur ef grípa þarf til sérstakra ráðstafana vegna sóttvarna við náttúruhamfarir [og aðra vá][^3)^] og að setja í reglugerð nánari ákvæði um framkvæmd laga þessara.
-    _[^1)^]_"Rg. 129/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-1999, sbr. "222/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/222-2001, "447/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2001 og "241/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/241-2003; "rg. 131/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/131-1999, "rg. 221/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/221-2001. [^2)^]"L. 90/2000, 6. gr.":/altext/stjt/2000.090.html [^3)^]"L. 93/2002, 21. gr.":/altext/stjt/2002.093.html
+    _[^1)^]_"Rg. 129/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-1999, sbr. "222/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/222-2001, "447/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2001, "241/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/241-2003 og "558/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/558-2004; "rg. 131/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/131-1999, "rg. 221/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/221-2001, "rg. 415/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/415-2004. [^2)^]"L. 90/2000, 6. gr.":/altext/stjt/2000.090.html [^3)^]"L. 93/2002, 21. gr.":/altext/stjt/2002.093.html
  ■ *19. gr.* Með mál sem rísa kunna út af brotum á lögum þessum skal farið að hætti opinberra mála.
  □ Brot gegn lögum þessum eða reglum settum samkvæmt þeim varða sektum eða fangelsi allt að þremur mánuðum.
 ■ *20. gr.* Lög þessi öðlast gildi 1. janúar 1998. ...

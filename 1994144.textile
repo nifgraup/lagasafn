@@ -6,7 +6,7 @@ h2. Lög um ársreikninga
 
 <hr />
 
-*Tóku gildi 1. janúar 1995.* _Breytt með_ "l. 37/1995":/altext/stjt/1995.037.html (tóku gildi 9. mars 1995), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 58/2001":/altext/stjt/2001.058.html (tóku gildi 13. júní 200158/2001; _EES-samningurinn:_ XXII. viðauki tilskipun 78/660/EBE), "l. 133/2001":/altext/stjt/2001.133.html (tóku gildi 1. jan. 2002 nema 1. gr., a-, b- og c-liður 3. gr., b- og c-liður 17. gr., c-liður 19. gr., 34. gr., a-liður 35. gr., b-liður 36. gr., 37. gr., 38. gr., 39. gr., 40. gr., a-liður 41. gr., 42. gr. og 52. gr. sem tóku gildi 31. des. 2001 og 44. gr. sem tók gildi 1. jan. 2003; komu til framkvæmda skv. fyrirmælum í 56. gr.), "l. 25/2002":/altext/stjt/2002.025.html (tóku gildi 8. apríl 2002; komu til framkvæmda skv. fyrirmælum í 10. gr.) og "l. 56/2003":/altext/stjt/2003.056.html (tóku gildi 7. apríl 2003, sjá þó 45. gr.; _EES-samningurinn:_ XXII. viðauki tilskipun 78/660/EBE og 83/349/EBE og IX. viðauki tilskipun 86/635/EBE).
+*Tóku gildi 1. janúar 1995.* _Breytt með_ "l. 37/1995":/altext/stjt/1995.037.html (tóku gildi 9. mars 1995), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 58/2001":/altext/stjt/2001.058.html (tóku gildi 13. júní 200158/2001; _EES-samningurinn:_ XXII. viðauki tilskipun 78/660/EBE), "l. 133/2001":/altext/stjt/2001.133.html (tóku gildi 1. jan. 2002 nema 1. gr., a-, b- og c-liður 3. gr., b- og c-liður 17. gr., c-liður 19. gr., 34. gr., a-liður 35. gr., b-liður 36. gr., 37. gr., 38. gr., 39. gr., 40. gr., a-liður 41. gr., 42. gr. og 52. gr. sem tóku gildi 31. des. 2001 og 44. gr. sem tók gildi 1. jan. 2003; komu til framkvæmda skv. fyrirmælum í 56. gr.), "l. 25/2002":/altext/stjt/2002.025.html (tóku gildi 8. apríl 2002; komu til framkvæmda skv. fyrirmælum í 10. gr.), "l. 56/2003":/altext/stjt/2003.056.html (tóku gildi 7. apríl 2003, sjá þó 45. gr.; _EES-samningurinn:_ XXII. viðauki tilskipun 78/660/EBE og 83/349/EBE og IX. viðauki tilskipun 86/635/EBE) og "l. 28/2004":/altext/stjt/2004.028.html (tóku gildi 11. maí 2004; sjá nánar 7. gr. s.l.; _EES-samningurinn:_ XXII. og IX. viðauki tilskipun 2001/65/EB).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -129,9 +129,33 @@ h2. Lög um ársreikninga
  □ [Kostnaðarverð birgða tekur til alls kostnaðar við kaup á birgðum eða áfallins kostnaðar við framleiðslu þeirra, sbr. 3. mgr. 22. gr. Auk þess telst til kostnaðarverðs birgða allur kostnaður við að koma þeim á núverandi stað og í það ástand sem þær eru. Dreifingarkostnað má ekki telja til kostnaðarverðs birgða.][^1)^]
     _[^1)^]_"L. 56/2003, 16. gr.":/altext/stjt/2003.056.html
  ■ *28. gr.* Skammtímakröfur skulu sæta niðurfærslu ef þess gerist sérstök þörf, svo sem vegna hættu á að þær muni ekki innheimtast eða af öðrum ástæðum. Ákvæði 3. mgr. og 1. málsl. 4. mgr. 24. gr. gilda um þetta eftir því sem við á.
-■ *29. gr.* Verðbréf, sem eru ekki ætluð til varanlegrar eignar og skráð eru á opinberu verðbréfaþingi, er heimilt að meta við síðasta skráða kaupgengi þrátt fyrir ákvæði 26. gr.
- □ Tilgreina skal í skýringum ef þessu ákvæði er beitt.
-■ *30. gr.* Kostnað við stofnun félags eða hækkun hlutafjár má ekki færa til eignar.
+■ *29. gr.* [Heimilt er að meta til gangvirðis fjármálagerninga ef þeirra hefur verið aflað í þeim tilgangi að selja aftur eða til að hagnast á skammtímaverðbreytingum. Ef heimildin er notuð skal meta til gangvirðis skuldbindingar sem tengjast afleiðusamningum eða loforði um afhendingu fjármálagerninga sem enn eru ekki í eigu viðkomandi félags. Einnig má meta eignir og skuldbindingar sem þeim tengjast á gangvirði þegar þessar eignir og skuldbindingar uppfylla kröfur um áhættuvörn í skilningi alþjóðlegra reikningsskilareglna og skulu slíkar eignir og skuldbindingar metnar til gangvirðis eins og krafist er í þeim reikningsskilum.
+ □ Ákvæði þetta nær þó ekki til:
+    1. útlána og viðskiptakrafna viðkomandi félags sem ekki er fyrirhugað að versla með,
+    2. fjármálagerninga, annarra en afleiðusamninga, sem ætlunin er að eiga fram að gjalddaga,
+    3. eignarhluta í dótturfélögum,
+    4. eignarhluta í hlutdeildarfélögum,
+    5. eignarhluta í samrekstrarfélögum, sbr. 3. mgr. 35. gr.,
+    6. eigin eignarhluta, skilyrts viðbótarverðs við sameiningu fyrirtækja, sem og annarra fjármálagerninga sem tengjast eigin fé viðkomandi félags,
+    7. allra annarra fjármálagerninga sem ekki er viðeigandi að færa á gangvirði samkvæmt alþjóðlegum reikningsskilareglum.
+ □ Til fjármálagerninga teljast hvers konar framseljanleg kröfuréttindi til peningagreiðslu eða ígildis hennar, þ.m.t. afleiður þar sem uppgjörsákvæði byggjast á breytingum á undirliggjandi þáttum á tilteknu tímabili, svo sem vöxtum, gengi gjaldmiðla, verðbréfaverði eða verðbréfavísitölu, eða þær tengjast breytingu á verði tiltekinna vörutegunda, enn fremur framseljanleg skilríki á eignarréttindum að öðru en fasteign eða einstökum lausafjármunum, svo sem hlutabréf.][^1)^]
+    _[^1)^]_"L. 28/2004, 1. gr.":/altext/stjt/2004.028.html
+ ■ *[29. gr. A.* Mat á fjármálagerningum og skuldbindingum til gangvirðis skv. 29. gr. skal vera í samræmi við alþjóðlegar reikningsskilareglur. Einungis er heimilt að beita slíku mati ef það byggist á áreiðanlegum upplýsingum um gangvirði.
+ □ Gangvirði skal ákvarðað með tilliti til:
+    1. markaðsverðs þeirra fjármálagerninga sem eru á virkum markaði,
+    2. markaðsverðs undirliggjandi þátta í viðkomandi fjármálagerningi ef viðkomandi fjármálagerningur er ekki skráður á markaði,
+    3. virðis sem reiknað er út með almennum viðurkenndum matslíkönum eða matsaðferðum fyrir þær eignir sem ekki eru á markaði; slík matslíkön og matsaðferðir skulu gefa góða mynd af markaðsverði.
+ □ Ef ekki er hægt að meta þessar eignir eða skuldbindingar til gangvirðis samkvæmt framangreindum aðferðum skal matið byggjast á kostnaðarverði skv. 22. gr.][^1)^]
+    _[^1)^]_"L. 28/2004, 2. gr.":/altext/stjt/2004.028.html
+ ■ *[29. gr. B.* Á rekstrarreikning skal færa þær breytingar á virði fjármálagerninga og skuldbindinga sem metnar eru í samræmi við 29. gr. A, þrátt fyrir ákvæði a-liðar 3. tölul. 1. mgr. 20. gr., sbr. þó 2. mgr. Þar með eru taldar breytingar á virði afleiðusamninga og annarra fjármálagerninga sem aflað hefur verið í þeim tilgangi að hagnast á skammtímaverðbreytingum.
+ □ Slík breyting skal þó færð beint á gangvirðisreikning sem færður er með eigin fé þegar:
+    1. í reikningsskilum afleiðusamnings er byggt á að um sé að ræða áhættuvörn í skilningi alþjóðlegra reikningsskilareglna, að því marki sem þær leyfa að verðbreyting sé ekki tekin með í rekstrarreikningi, eða;
+    2. um er að ræða verðbreytingar á virði fjármálagerninga sem aflað er í þeim tilgangi að selja aftur, eða;
+    3. verðbreytingar tengjast gengismun sem verður á peningalegum liðum sem eru hluti af nettófjárfestingu félagsins í starfsemi erlendis.
+ □ Samræmi skal vera í færslu breytinga á virði fjármálagerninga og skuldbindinga skv. 1. eða 2. mgr. frá einu ári til annars.
+ □ Leysa skal gangvirðisreikning upp til jafns við framkomnar breytingar á viðkomandi eign eða skuldbindingu þegar hún er seld eða innleyst eða forsendur fyrir verðbreytingunni eru ekki fyrir hendi.][^1)^]
+    _[^1)^]_"L. 28/2004, 2. gr.":/altext/stjt/2004.028.html
+ ■ *30. gr.* Kostnað við stofnun félags eða hækkun hlutafjár má ekki færa til eignar.
 ■ *31. gr.* [Ef kostnaður vegna óefnislegra réttinda, rannsókna eða þróunar er ekki gjaldfærður strax skal afskrifa hann með kerfisbundnum hætti á áætluðum nýtingartíma viðkomandi eigna, þó ekki á lengri tíma en 20 árum.
  □ Sé áætlaður nýtingartími lengri en fimm ár skal gera grein fyrir ástæðum þess í skýringum.][^1)^]
     _[^1)^]_"L. 56/2003, 17. gr.":/altext/stjt/2003.056.html
@@ -148,7 +172,19 @@ h2. Lög um ársreikninga
  ■ *36. gr.* Í skýringum í ársreikningi ...[^1)^] skal a.m.k. veita upplýsingar um þau atriði sem tilgreind eru í 37. - 51. gr., auk þeirra upplýsinga sem krafist er samkvæmt öðrum ákvæðum laga þessara.
     _[^1)^]_"L. 56/2003, 19. gr.":/altext/stjt/2003.056.html
  ■ *37. gr.* Veita skal upplýsingar um mat á einstökum liðum ársreiknings, þar á meðal þær aðferðir sem beitt er við endurmat og afskriftir fastafjármuna. Ef fjárhæðir í ársreikningi eru byggðar á erlendum gjaldmiðli á reikningsskiladegi skal tilgreina það gengi sem við er miðað.
-■ *38. gr.* Tilgreina skal nöfn, heimilisföng og félagsform dótturfélaga og hlutdeildarfélaga. Geta skal hlutdeildar í hverju þeirra fyrir sig og eigin fjár þeirra samtals, svo og rekstrarárangurs síðasta reikningsárs. Ekki er nauðsynlegt að veita þessar upplýsingar ef þær hafa óverulega þýðingu eða þær geta valdið félaginu verulegu tjóni enda sé ástæðunnar getið.
+■ *[37. gr. A.* Veita skal eftirfarandi upplýsingar þegar fjármálagerningar eru metnir til gangvirðis skv. 29. gr. A:
+    1. helstu forsendur sem liggja að baki matslíkönum og matsaðferðum þegar gangvirði er ákvarðað skv. 3. tölul. 2. mgr. 29. gr. A,
+    2. breytingar á virði fyrir hvern flokk fjármálagerninga hvort sem breytingin hefur verið færð á rekstrarreikning eða á gangvirðisreikning,
+    3. umfang og eðli hvers flokks afleiðusamninga, þ.m.t. mikilvægi skilmála og skilyrði sem gætu haft áhrif á fjárhæð, tímasetningu og áreiðanleika framtíðarfjárstreymis, og
+    4. hreyfingar á gangvirðisreikningi á árinu.][^1)^]
+    _[^1)^]_"L. 28/2004, 3. gr.":/altext/stjt/2004.028.html
+ ■ *[37. gr. B.* Veita skal eftirfarandi upplýsingar um þá fjármálagerninga, sbr. 29. gr., sem félag hefur ekki metið í ársreikningi sínum til gangvirðis:
+    1. gangvirði fyrir hvern flokk afleiddra fjármálagerninga ef hægt er að ákvarða það með einhverri þeirra aðferða sem fram kemur í 29. gr. A, og
+    2. umfang og eðli gerninganna.
+ □ Þegar um er að ræða áhættufjármuni sem eru fjármálagerningar í skilningi 3. mgr. 29. gr. og niðurfærsla í samræmi við 24. gr. hefur ekki farið fram skal upplýsa um bókfært verð og gangvirði einstakra eigna eða flokka eigna. Rökstyðja skal forsendur þess álits að um skammvinna verðlækkun sé að ræða.
+ □ Fyrir fjárfestingar í dóttur- og hlutdeildarfélögum, sbr. 35. gr., skal jafnframt upplýst um gangvirði einstakra eignarhluta eða eignaflokka.][^1)^]
+    _[^1)^]_"L. 28/2004, 3. gr.":/altext/stjt/2004.028.html
+ ■ *38. gr.* Tilgreina skal nöfn, heimilisföng og félagsform dótturfélaga og hlutdeildarfélaga. Geta skal hlutdeildar í hverju þeirra fyrir sig og eigin fjár þeirra samtals, svo og rekstrarárangurs síðasta reikningsárs. Ekki er nauðsynlegt að veita þessar upplýsingar ef þær hafa óverulega þýðingu eða þær geta valdið félaginu verulegu tjóni enda sé ástæðunnar getið.
  □ Heimilt er að víkja frá ákvæðum 1. mgr. um upplýsingar um eigið fé og rekstrarárangur dóttur- og hlutdeildarfélaga ef:
     1. hlutdeildarfélag birtir ekki ársreikning sinn og hlutur félagsins í eigin fé þess er minni en 50%;
     2. reikningsskil dótturfélags eru hluti af samstæðureikningi félagsins eða
@@ -192,17 +228,18 @@ h2. Lög um ársreikninga
 
  *V. kafli.* *Skýrsla stjórnar.*
  ■ *52. gr.* Í skýrslu stjórnar með ársreikningi skal upplýsa um atriði sem mikilvæg eru við mat á fjárhagslegri stöðu félags og afkomu þess á reikningsárinu og ekki koma fram í efnahagsreikningi eða rekstrarreikningi eða skýringum með þeim nema sérstakar ástæður séu til að ætla að slíkt geti skaðað félagið. Ef veruleg óvissa ríkir um einstaka liði í ársreikningi eða ársreikninginn í heild skal veita upplýsingar um slíkt.
+ □ [Í skýrslunni skal gera grein fyrir meginmarkmiðum og stefnu við áhættustýringu, enda geti breytingar á virði fjármálagerninga haft veruleg áhrif á rekstur og fjárhagsstöðu. Upplýsa skal sérstaklega með hvaða hætti mat á einstökum liðum í reikningsskilum, svo sem afleiðusamningum, byggist á slíkri markmiðssetningu í áhættustýringu og þeim áhættuþáttum sem máli geta skipt við mat á eignum og skuldum, fjárhagsstöðu og rekstrarafkomu. Gera skal grein fyrir markaðsáhættu, þ.e. vaxta-, gjaldeyris- og hlutabréfaáhættu, sem og útlánaáhættu og lausafjáráhættu í rekstri félagsins.][^1)^]
  □ Í skýrslunni skal gera grein fyrir tillögu stjórnar um ráðstöfun hagnaðar eða jöfnun taps á síðasta reikningsári.
  □ Í félögum, sem skráð eru á opinberu verðbréfaþingi, skal enn fremur gera grein fyrir samanburði á raunverulegri afkomu félagsins og rekstraráætlun þess hafi hún verið birt opinberlega, ásamt skýringum á helstu frávikum.
- □ Í hlutafélögum skal upplýsa um fjölda hluthafa í upphafi og lok reikningsárs. Þá skal upplýst um hundraðshluta hlutafjár þeirra hluthafa sem eiga a.m.k. 10% hlutafjár félagsins í lok ársins. Ef atkvæðagildi hluta er mismunandi miðað við fjárhæð þeirra skal gerð grein fyrir atkvæðahlutdeild þeirra hluthafa sem ráða yfir a.m.k. 10% allra atkvæða í félaginu. Við útreikning þennan telst [samstæða][^1)^] einn aðili.
+ □ Í hlutafélögum skal upplýsa um fjölda hluthafa í upphafi og lok reikningsárs. Þá skal upplýst um hundraðshluta hlutafjár þeirra hluthafa sem eiga a.m.k. 10% hlutafjár félagsins í lok ársins. Ef atkvæðagildi hluta er mismunandi miðað við fjárhæð þeirra skal gerð grein fyrir atkvæðahlutdeild þeirra hluthafa sem ráða yfir a.m.k. 10% allra atkvæða í félaginu. Við útreikning þennan telst [samstæða][^2)^] einn aðili.
  □ Í samvinnufélögum, sameignarfélögum og samlagsfélögum skal upplýsa um fjölda félagsaðila í upphafi og lok reikningsárs og fjölda eigenda að B-hluta stofnsjóðs ef stofnsjóður samvinnufélaga er þannig tvískiptur. Ef atkvæðagildi félagsaðila er mismunandi skal það skýrt.
- □ Í skýrslu stjórnar með ársreikningi móðurfélags skal veita upplýsingar um [samstæðuna][^1)^] í heild.
+ □ Í skýrslu stjórnar með ársreikningi móðurfélags skal veita upplýsingar um [samstæðuna][^2)^] í heild.
  □ Í skýrslu stjórnar skal enn fremur fjallað um eftir því sem við á:
     1. mikilvæg atvik sem orðið hafa eftir lok reikningsársins;
     2. framtíðarhorfur félagsins;
     3. rannsóknar- og þróunarstarfsemi og
     4. útibú félagsins erlendis ef einhver eru.
-    _[^1)^]_"L. 56/2003, 24. gr.":/altext/stjt/2003.056.html
+    _[^1)^]_"L. 28/2004, 4. gr.":/altext/stjt/2004.028.html [^2)^]"L. 56/2003, 24. gr.":/altext/stjt/2003.056.html
 
  *VI. kafli.* *Samstæðureikningar.*
  ■ *53. gr.* _[Skylda til að semja samstæðureikning._
@@ -466,8 +503,8 @@ h2. Lög um ársreikninga
  *[XI. kafli.][^1)^]* *Ýmis ákvæði.*
     _[^1)^]"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html_
  ■ *[89. gr.][^1)^]* Ráðherra getur sett reglugerð[^2)^] um framkvæmd laga þessara, þar á meðal um uppsetningu ársreikninga og samstæðureikninga, óstyttra og samandreginna, svo og um skil á þeim og birtingu þeirra.
- □ Viðmiðunarmörkin í 1. og 2. tölul. 2. mgr. 2. gr. og 1. og 2. tölul. [2. gr.],[^3)^] svo og 59. gr. og 77. gr., eru grunnfjárhæðir sem miðast við gengi í [evru][^3)^] 1. janúar 1995. Ráðherra er heimilt að breyta þessum fjárhæðum til samræmis við breytingar á 4. tilskipun ESB eða ef verulegar breytingar verða á gengi [evru].[^3)4)^]
-    _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]"Rg. 134/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/134-1996, "rg. 523/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/523-2001. [^3)^]"L. 56/2003, 44. gr.":/altext/stjt/2003.056.html [^4)^]"Rg. 242/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/242-2000.
+ □ Viðmiðunarmörkin í 1. og 2. tölul. 2. mgr. 2. gr. og [1. og 2. tölul. 1. mgr. 53. gr. A],[^3)^] svo og 59. gr. og 77. gr., eru grunnfjárhæðir sem miðast við gengi í [evru][^4)^] 1. janúar 1995. Ráðherra er heimilt að breyta þessum fjárhæðum til samræmis við breytingar á 4. tilskipun ESB eða ef verulegar breytingar verða á gengi [evru].[^4)5)^]
+    _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]"Rg. 134/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/134-1996, "rg. 523/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/523-2001. [^3)^]"L. 28/2004, 5. gr.":/altext/stjt/2004.028.html [^4)^]"L. 56/2003, 44. gr.":/altext/stjt/2003.056.html [^5)^]"Rg. 242/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/242-2000.
  ■ *[90. gr.][^1)^]* [Félög sem fengið hafa heimild til að semja ársreikning í erlendum gjaldmiðli, sbr. 11. gr. A, skulu umreikna fjárhæðir í efnahagsreikningi fyrra árs á lokagengi þess árs. Þó er heimilt að umreikna efnahagsliði, aðra en peningalegar eignir og skuldir, svo sem varanlega rekstrarfjármuni og eignarhluti, á upphaflegu kaupgengi. Jafnframt er heimilt að umreikna innborgað hlutafé eða stofnfé á því gengi sem gilti þegar innborganir fóru fram. Við umreikninginn skal lögbundinn varasjóður nema sama hlutfalli af hlutafé í erlendum gjaldmiðli og hann nam í íslenskum krónum. Hinar umreiknuðu fjárhæðir mynda upphafsstærðir í bókhaldi í erlendum gjaldmiðli og skal gera grein fyrir umreikningsaðferðum í skýringum við ársreikning.][^2)^]
     _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]"L. 25/2002, 6. gr.":/altext/stjt/2002.025.html
  ■ *[91. gr.][^1)^]* Lög þessi öðlast gildi 1. janúar 1995 og skulu gilda um ársreikninga og samstæðureikninga fyrir hvert það reikningsár sem hefst frá og með þeim tíma.

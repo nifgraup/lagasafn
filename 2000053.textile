@@ -6,7 +6,7 @@ h2. Útvarpslög
 
 <hr />
 
-*Tóku gildi 26. maí 2000.* _EES-samningurinn:_ X. viðauki tilskipun 89/552/EBE, XI. viðauki tilskipun 90/387/EBE, XI. og XIV. viðauki tilskipun 90/388/EBE og II. og X. viðauki tilskipun 95/47/EB.
+*Tóku gildi 26. maí 2000.* _EES-samningurinn:_ X. viðauki tilskipun 89/552/EBE, XI. viðauki tilskipun 90/387/EBE, XI. og XIV. viðauki tilskipun 90/388/EBE og II. og X. viðauki tilskipun 95/47/EB. _Breytt með_ "l. 48/2004":/altext/stjt/2004.048.html (hlutu ekki staðfestingu forseta Íslands en tóku eigi að síður gildi, sbr. 26. gr. stjskr. 33/1944, þann 14. júní 2004; voru felld úr gildi með "l. 107/2004":/altext/stjt/2004.107.html) og "l. 107/2004":/altext/stjt/2004.107.html (tóku gildi 30. júlí 2004).
 
 
  *I. kafli.* *Skilgreiningar.*
@@ -49,7 +49,7 @@ h2. Útvarpslög
  *III. kafli.* *Leyfi til útvarps.*
 ■ *6. gr.* _Leyfi til útvarps._
  □ Til útvarps, sem á uppruna sinn hér á landi, þarf leyfi útvarpsréttarnefndar, nema annað sé sérstaklega ákveðið í lögum, sbr. lög um Ríkisútvarpið.
- □ Útvarpsréttarnefnd skipa sjö menn. Skulu þeir, ásamt jafnmörgum varamönnum, kosnir hlutfallskosningu á Alþingi til fjögurra ára. Nefndin kýs sér sjálf formann og varaformann úr hópi nefndarmanna.
+ □ [Menntamálaráðherra skipar þrjá menn í útvarpsréttarnefnd til fjögurra ára og jafnmarga til vara. Tveir skulu skipaðir samkvæmt tilnefningu Hæstaréttar en einn skipar ráðherra án tilnefningar og skal hann jafnframt vera formaður nefndarinnar. Varamenn skulu skipaðir á sama hátt og skal varamaður formanns jafnframt vera varaformaður nefndarinnar. Nefndarmenn og varamenn þeirra skulu uppfylla starfsgengisskilyrði héraðsdómara. Nefndinni er heimilt að kalla sér til ráðgjafar og aðstoðar sérfróða aðila eftir því sem hún telur þörf á.][^1)^]
  □ Útvarpsréttarnefnd getur veitt lögaðilum og einstaklingum tímabundið leyfi til útvarps. Leyfi til hljóðvarps má lengst veita til fimm ára í senn en til sjónvarps lengst til sjö ára í senn. Nánari ákvæði um gildistíma útvarpsleyfa skulu sett í reglugerð. Heimilt er að binda leyfi við afmörkuð svæði.
  □ Leyfi til útvarps hér á landi er háð eftirfarandi almennum skilyrðum:
     a. Leyfishafi skal hafa staðfestu í EES-ríki. Um heimild erlends aðila utan EES-ríkis eða íslensks lögaðila, sem slíkur aðili á hlut í, til að reka útvarpsstöðvar fer samkvæmt lögum um fjárfestingu erlendra aðila í atvinnurekstri.
@@ -63,9 +63,10 @@ h2. Útvarpslög
  □ Útvarpsréttarnefnd fylgist með því að reglum samkvæmt útvarpsleyfum sé fylgt og hefur að öðru leyti eftirlit með framkvæmd laga þessara, þar á meðal eftirlit með öllum útvarpsútsendingum er lúta íslenskri lögsögu skv. 2. og 3. gr. laga þessara. Útvarpsréttarnefnd getur áskilið að faggilt skoðunarstofa staðfesti skýrslur sjónvarpsstöðva um útsendingu á evrópsku dagskrárefni skv. 7. gr. og um sýningu efnis sem framleitt er af sjálfstæðum framleiðendum, sbr.10. gr. Póst- og fjarskiptastofnun hefur eftirlit með tæknilegum eiginleikum útsendinga.
  □ Ákvarðanir útvarpsréttarnefndar samkvæmt lögum þessum eru fullnaðarúrlausnir á stjórnsýslusviði og sæta ekki stjórnsýslukæru.
  □ Kostnaður við starfsemi útvarpsréttarnefndar greiðist úr ríkissjóði.
+    _[^1)^]_"L. 107/2004, 1. gr.":/altext/stjt/2004.107.html
 
  *IV. kafli.* *Skyldur útvarpsstöðva.*
-■ *7. gr.* _Dagskrárframboð._
+ ■ *7. gr.* _Dagskrárframboð._
  □ Útvarpsstöðvar skulu stuðla að almennri menningarþróun og efla íslenska tungu. Þó skal heimilt, ef sérstaklega stendur á, að veita leyfi til útvarps á öðrum tungumálum en íslensku.
  □ Sjónvarpsstöðvar skulu kosta kapps um að meiri hluta útsendingartíma sé varið í íslenskt dagskrárefni og annað dagskrárefni frá Evrópu. Með útsendingartíma er í þessu sambandi átt við heildarútsendingartíma sjónvarpsstöðva að frádregnum þeim tíma sem varið er til frétta, íþróttaviðburða, leikja, auglýsinga, textavarpsþjónustu og fjarsölu.
  □ Í reglugerð[^1)^] skal það nánar skilgreint hvað telst vera evrópskt efni.

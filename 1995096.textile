@@ -7,7 +7,7 @@ h2. [Lög um gjald af áfengi og tóbaki][^1)^]
 <hr />
 
    _[^1)^]"L. 149/2001, 3. gr.":/altext/stjt/2001.149.html_
- *Tóku gildi 1. september 1995.* _Breytt með_ "l. 85/1996":/altext/stjt/1996.085.html (tóku gildi 19. júní 1996), "l. 93/1998":/altext/stjt/1998.093.html (tóku gildi 1. júlí 1998), "l. 104/2000":/altext/stjt/2000.104.html (tóku gildi 1. júlí 2000), "l. 155/2000":/altext/stjt/2000.155.html (tóku gildi 1. jan. 2001), "l. 149/2001":/altext/stjt/2001.149.html (tóku gildi 1. jan. 2002) og "l. 122/2002":/altext/stjt/2002.122.html (tóku gildi 29. nóv. 2002).
+ *Tóku gildi 1. september 1995.* _Breytt með_ "l. 85/1996":/altext/stjt/1996.085.html (tóku gildi 19. júní 1996), "l. 93/1998":/altext/stjt/1998.093.html (tóku gildi 1. júlí 1998), "l. 104/2000":/altext/stjt/2000.104.html (tóku gildi 1. júlí 2000), "l. 155/2000":/altext/stjt/2000.155.html (tóku gildi 1. jan. 2001), "l. 149/2001":/altext/stjt/2001.149.html (tóku gildi 1. jan. 2002), "l. 122/2002":/altext/stjt/2002.122.html (tóku gildi 29. nóv. 2002) og "l. 25/2004":/altext/stjt/2004.025.html (tóku gildi 1. júlí 2004).
 
 
  *[I. kafli.* *Áfengisgjald.][^1)^]*
@@ -30,12 +30,17 @@ h2. [Lög um gjald af áfengi og tóbaki][^1)^]
  □ [Ríkisskattstjóri skal][^2)^] halda skrár yfir alla þá sem eru gjaldskyldir skv. 1. mgr. 2. gr. laga þessara.
  □ Fjármálaráðherra setur í reglugerð nánari ákvæði um upplýsingaskyldu þeirra sem eru gjaldskyldir skv. 1. mgr. 2. gr., svo og skyldu þeirra til að halda framleiðslu- og birgðabókhald.
     _[^1)^]_"L. 93/1998, 3. gr.":/altext/stjt/1998.093.html [^2)^]"L. 93/1998, 4. gr.":/altext/stjt/1998.093.html
- ■ *[5. gr.][^1)^]* Gjald af innfluttu áfengi skal greitt við tollafgreiðslu þess. Fjármálaráðherra er heimilt með reglugerð[^2)^] að veita gjaldfrest á áfengisgjaldi við innflutning í allt að tvær vikur enda séu settar fullnægjandi tryggingar.
+ ■ *[5. gr.][^1)^]* [Gjald af innfluttu áfengi skal greitt við tollafgreiðslu þess.
  □ Af áfengi, sem framleitt er innan lands til sölu þar, reiknast gjald við sölu eða afhendingu vörunnar frá verksmiðju eða framleiðanda til kaupanda og skiptir ekki máli hvenær eða með hvaða hætti greiðsla fer fram.
  □ Þeir sem skyldir eru til að innheimta gjald skv. 2. mgr. skulu ótilkvaddir greiða innheimtumanni ríkissjóðs í umdæmi því þar sem þeir eru heimilisfastir áfengisgjald sem þeim ber að standa skil á. Greiðslu skal fylgja skýrsla á þar til gerðu eyðublaði um hina gjaldskyldu sölu.
- □ Hvert uppgjörstímabil vegna gjaldskyldrar innlendrar framleiðslu er tvær vikur. Gjalddagi er annar virkur dagur eftir lok uppgjörstímabils.
- □ Fjármálaráðherra er heimilt að setja í reglugerð nánari ákvæði um innheimtu áfengisgjalds, þar á meðal um tryggingar fyrir skilum á gjaldi skv. 1. og 2. mgr.
-    _[^1)^]_"L. 93/1998, 3. gr.":/altext/stjt/1998.093.html [^2)^]"Rg. 390/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/390-1999, sbr. "898/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/898-1999.
+ □ Fjármálaráðherra er heimilt að setja í reglugerð[^2)^] nánari ákvæði um innheimtu gjalds, þar á meðal að veita allt að tveggja vikna greiðslufrest og er þá hvert uppgjörstímabil tvær vikur, frá 1. til 15. hvers mánaðar og frá 16. til loka hvers mánaðar. Gjalddagi er annar virkur dagur eftir lok uppgjörstímabils.][^3)^]
+    _[^1)^]_"L. 93/1998, 3. gr.":/altext/stjt/1998.093.html [^2)^]"Rg. 390/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/390-1999, sbr. "898/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/898-1999. [^3)^]"L. 25/2004, 1. gr.":/altext/stjt/2004.025.html
+ ■ *[5. gr. a.* Sé áfengisgjald ekki greitt á gjalddaga, sbr. 5. gr., skal aðili sæta álagi til viðbótar því gjaldi sem honum ber að standa skil á. Sama gildir ef framleiðandi áfengis hefur ekki skilað áfengisgjaldsskýrslu eða henni verið ábótavant og áfengisgjald því áætlað, nema hann hafi greitt fyrir gjalddaga upphæð er til áætlunar svarar eða gefið fyrir lok kærufrests fullnægjandi skýringu á vafaatriðum.
+ □ Álag skv. 1. mgr. skal vera 1% af þeirri upphæð sem vangreidd er fyrir hvern byrjaðan dag eftir gjalddaga, þó ekki hærra en 10%.
+ □ Sé áfengisgjald ekki greitt innan mánaðar frá gjalddaga skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er. Dráttarvextir skulu reiknaðir frá og með gjalddaga.
+ □ Verði vanskil á greiðslu áfengisgjalds skal tollstjóri synja innflytjanda eða framleiðanda áfengis um frekari greiðslufrest meðan vanskil vara.
+ □ Ef um er að ræða ítrekuð eða stórfelld vanskil á greiðslu áfengisgjalds, álags skv. 2. mgr. eða dráttarvaxta skv. 3. mgr. getur tollstjóri án fyrirvara stöðvað tollafgreiðslu á öðrum vörum til skuldara eða látið lögreglu stöðva atvinnurekstur skuldarans, m.a. með því að setja starfsstöðvar, skrifstofur, útsölur, tæki og vörur undir innsigli þar til full skil eru gerð, enda telji tollstjóri hagsmuni ríkissjóðs ekki verða tryggða með öðrum hætti.][^1)^]
+    _[^1)^]_"L. 25/2004, 2. gr.":/altext/stjt/2004.025.html
  ■ *[6. gr.][^1)^]* [Áfengisgjald skal fellt niður eða endurgreitt í eftirtöldum tilvikum:][^2)^]
     1. Við sölu áfengis úr landi.
     2. [Við innflutning og sölu á áfengi til tollfrjálsra verslana og tollfrjálsra forðageymslna. Jafnframt af áfengi sem áfengisgjald hefur verið reiknað eða greitt af en er síðar sent til útlanda, í tollfrjálsa verslun, í tollvörugeymslu, í tollfrjálsa forðageymslu eða á frísvæði eða er fargað undir eftirliti tollyfirvalda.][^3)^]
@@ -56,13 +61,13 @@ h2. [Lög um gjald af áfengi og tóbaki][^1)^]
  ■ *[8. gr.* Greiða skal til ríkissjóðs sérstakt gjald, tóbaksgjald, af tóbaki sem flutt er hingað til lands eða er framleitt hér á landi.
  □ Tóbak telst samkvæmt lögum þessum vera sérhver vara sem flokkast í 24. kafla í viðauka I við "tollalög, nr. 55/1987":1987055.html, með síðari breytingum.][^1)^]
     _[^1)^]"L. 149/2001, 2. gr.":/altext/stjt/2001.149.html_
- ■ *[9. gr.* Áfengis- og tóbaksverslun ríkisins leggur á og innheimtir tóbaksgjald af tóbaksvörum sem verslunin hefur flutt hingað til lands eða framleiddar hafa verið hér á landi og verslunin selur til smásala tóbaks.
+ ■ *[9. gr.* [Áfengis- og tóbaksverslun ríkisins leggur á og innheimtir tóbaksgjald af tóbaksvörum sem hafa verið fluttar hingað til lands eða framleiddar hér á landi.][^1)^]
  □ Fjárhæð tóbaksgjalds skv. 1. mgr. skal vera sem hér segir:
-    1. Vindlingar: [213,51 kr.][^1)^] á hvern pakka (20 stk.).
-    2. Neftóbak: [2,52 kr.][^1)^] á hvert gramm eða hluta úr grammi vöru.
-    3. Annað tóbak: [7,64 kr.][^1)^] á hvert gramm eða hluta úr grammi vöru.
- □ Uppgjörstímabil tóbaksgjalds samkvæmt þessari grein er einn mánuður. Gjalddagi hvers uppgjörstímabils er fimmti dagur næsta mánaðar eftir lok þess. Áfengis- og tóbaksverslun ríkisins skal greiða tollstjóranum í Reykjavík innheimt gjald eigi síðar en á gjalddaga hvers uppgjörstímabils.][^2)^]
-    _[^1)^]_"L. 122/2002, 2. gr.":/altext/stjt/2002.122.html [^2)^]"L. 149/2001, 2. gr.":/altext/stjt/2001.149.html
+    1. Vindlingar: [213,51 kr.][^2)^] á hvern pakka (20 stk.).
+    2. Neftóbak: [2,52 kr.][^2)^] á hvert gramm eða hluta úr grammi vöru.
+    3. Annað tóbak: [7,64 kr.][^2)^] á hvert gramm eða hluta úr grammi vöru.
+ □ Uppgjörstímabil tóbaksgjalds samkvæmt þessari grein er einn mánuður. Gjalddagi hvers uppgjörstímabils er fimmti dagur næsta mánaðar eftir lok þess. Áfengis- og tóbaksverslun ríkisins skal greiða tollstjóranum í Reykjavík innheimt gjald eigi síðar en á gjalddaga hvers uppgjörstímabils.][^3)^]
+    _[^1)^]_"L. 25/2004, 3. gr.":/altext/stjt/2004.025.html [^2)^]"L. 122/2002, 2. gr.":/altext/stjt/2002.122.html [^3)^]"L. 149/2001, 2. gr.":/altext/stjt/2001.149.html
  ■ *[10. gr.* Af tóbaki sem ferðamenn, farmenn og aðrir hafa með sér til landsins til einkanota eða er sent hingað til lands án þess að um innflutning í atvinnuskyni sé að ræða skal við toll afgreiðslu greiða tóbaksgjald sem hér segir:
     1. Vindlingar: [268,20 kr.][^1)^] á hvern pakka (20 stk.).
     2. Annað tóbak: [13,40 kr.][^1)^] á hvert gramm eða hluta úr grammi vöru.

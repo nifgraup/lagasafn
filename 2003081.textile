@@ -389,10 +389,11 @@ h2. Lög um fjarskipti
  □ Ekki er gerð krafa um sérstaka þjálfun þeirra sem starfrækja þráðlausan búnað nema í þeim tilfellum að búnaður gegni öryggishlutverki eða þegar sendiafl er umfram 100 wött. Póst- og fjarskiptastofnun gefur út skírteini talstöðvavarðar sem heimilar handhafa að starfrækja fjarskiptabúnað í skipum og flugvélum. Skírteinin veita alþjóðleg réttindi og skulu vera í samræmi við alþjóðasamþykktir. Í skírteininu sem skal vera tímabundið skal kveða á um hvaða búnað handhafa er heimilt að starfrækja. Umsækjandi skírteinis skal leggja fram gögn sem sýna fram á að hann hafi fengið þjálfun í notkun þráðlauss búnaðar í viðurkenndum skóla.
  □ Póst- og fjarskiptastofnun getur veitt útlendingum sem hér dvelja í takmarkaðan tíma undanþágu til að starfrækja fjarskiptabúnað, enda hafi þeir til þess réttindi í sínu heimalandi.
  □ Póst- og fjarskiptastofnun getur sett nánari reglur um heimildir einstaklinga til að starfrækja fjarskiptabúnað.
- □ Póst- og fjarskiptastofnun gefur út leyfi til radíóáhugamanna að fengnum umsóknum þeirra og umsögn hagsmunasamtaka áhugamanna. Erlendir ríkisborgarar geta sótt um leyfi til bráðabirgða eða til lengri tíma. Samgönguráðherra setur reglugerð um starfsemi radíóáhugamanna.
+ □ Póst- og fjarskiptastofnun gefur út leyfi til radíóáhugamanna að fengnum umsóknum þeirra og umsögn hagsmunasamtaka áhugamanna. Erlendir ríkisborgarar geta sótt um leyfi til bráðabirgða eða til lengri tíma. Samgönguráðherra setur reglugerð[^1)^] um starfsemi radíóáhugamanna.
+    _[^1)^]_"Rg. 348/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/348-2004.
 
  *XIV. kafli.* *Uppsetning og vernd fjarskiptavirkja.*
-■ *69. gr.* _Aðgangur að landi._
+ ■ *69. gr.* _Aðgangur að landi._
  □ Nú er fjarskiptafyrirtæki nauðsynlegt að leggja leiðslur fjarskiptavirkja um land annars manns, yfir það eða í jörðu, yfir hús eða önnur mannvirki á landinu, á þeim, gegnum þau eða undir þeim, og er eiganda viðkomandi fasteignar þá skylt að heimila slíkt, enda komi fullar bætur fyrir. Hafa skal samráð við eigendur eða umráðamenn slíkra fasteigna og mannvirkja um hvar leiðslur eru lagðar og skal þess gætt að sem minnst sé raskað hagsmunum eigandans. Starfsmenn við fjarskiptavirki skulu gæta þess að valda eigendum og íbúum ekki meiri óþægindum en brýnustu nauðsyn ber til.
  □ Nú verður tjón á landi manna, mannvirkjum eða öðrum eignum við lagningu fjarskiptavirkja eða viðhald þeirra, og ekki verður úr bætt, eða lagning fjarskiptavirkja leiðir til takmörkunar á afnotamöguleikum viðkomandi eignar, og skal eigandi fjarskiptavirkis þá bæta tjónið. Náist ekki samkomulag um bótafjárhæð skal um ákvörðun bóta fara að lögum um framkvæmd eignarnáms.
 ■ *70. gr.* _Eignarnám._
@@ -431,7 +432,7 @@ h2. Lög um fjarskipti
  *XVII. kafli.* *Gildistaka o.fl.*
 ■ *75. gr.* _Almenn reglugerðarheimild._
  □ Samgönguráðherra setur í reglugerð[^1)^] nánari fyrirmæli um framkvæmd fjarskiptamála.
-    _[^1)^]_"Rg. 866/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2000, "rg. 532/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001, "rg. 298/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/298-2002.
+    _[^1)^]_"Rg. 866/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2000, "rg. 532/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001, "rg. 348/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/348-2004.
  ■ *76. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 25. júlí 2003. Ákvæði 22. gr. tekur gildi 1. janúar 2004 og kemur fyrst til framkvæmda á árinu 2005 vegna bókfærðrar veltu á árinu 2004. ...
 
