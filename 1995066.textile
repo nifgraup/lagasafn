@@ -127,13 +127,17 @@ _[^1)^]"L. 77/1996, 2. gr.":/altext/stjt/1996.077.html_
 
 13. gr.
 
-     Skólanefnd skal kosin af hlutaðeigandi sveitarstjórn eða sveitarstjórnum í upphafi hvers kjörtímabils. Um kosningu í skólanefnd og starfshætti fer samkvæmt "sveitarstjórnarlögum, nr. 8/1986":1986008.html, og samþykktum viðkomandi sveitarfélags.
+     Skólanefnd skal kosin af hlutaðeigandi sveitarstjórn eða sveitarstjórnum í upphafi hvers kjörtímabils. Um kosningu í skólanefnd og starfshætti fer samkvæmt "sveitarstjórnarlögum, nr. 8/1986":1986008.html,[^1)^] og samþykktum viðkomandi sveitarfélags.
       Varamenn í skólanefndum skulu jafnmargir aðalmönnum og kosnir á sama hátt.
       Þar sem fleiri en eitt sveitarfélag standa saman að rekstri grunnskóla, eða hluta hans, skal setja í stofnsamning ákvæði um aðild hvers og eins að skólanefnd.
       Fulltrúar kennara, skólastjóra og foreldra eiga rétt til setu á skólanefndarfundum með málfrelsi og tillögurétt.
       Grunnskólakennarar í skólahverfinu kjósa úr sínum hópi fulltrúa til að starfa með skólanefnd. Þar sem stöðugildi við grunnskóla í skólahverfi eru 15 eða færri skal kjörinn einn kennarafulltrúi en tveir þar sem stöðugildi eru 16 eða fleiri. Varamenn kennarafulltrúa skulu jafnmargir aðalmönnum.
       Skólastjóri, eða aðstoðarskólastjóri í forföllum hans, á rétt til setu á skólanefndarfundum þegar fjallað er sérstaklega um málefni viðkomandi skóla.
       Foreldrafélag, eða samtök foreldra í skólahverfinu, kýs úr sínum hópi einn fulltrúa til að starfa með skólanefnd og einn varamann.
+
+
+_[^1)^]Nú "l. 45/1998":1998045.html._
+
 
 
 
@@ -278,17 +282,14 @@ _[^1)^]"L. 77/1996, 4. gr.":/altext/stjt/1996.077.html_
      Kennsludagur grunnskólanemenda skal hefjast að morgni og vera samfelldur með eðlilegum stundahléum og matarhléi. Stundahlé í grunnskóla skulu að lágmarki vera 15 mínútur á móti hverjum 100 mínútum sem kenndar eru og matarhlé að lágmarki 30 mínútur.
       Vikulegur kennslutími hvers nemanda í grunnskóla skal að lágmarki vera:
 
+1200 mínútur (30 kennslustundir) í 1. - 4. bekk
 
-<dl>
-<dt></dt>
-<dd>1200 mínútur (30 kennslustundir) í 1. - 4. bekk</dd>
-<dt></dt>
-<dd>1400 mínútur (35 kennslustundir) í 5. - 7. bekk</dd>
-<dt></dt>
-<dd>1480 mínútur (37 kennslustundir) í 8. - 10. bekk</dd>
-</dl>
+1400 mínútur (35 kennslustundir) í 5. - 7. bekk
 
-     Við ákvörðun daglegs og vikulegs starfstíma nemenda í grunnskóla skal þess gætt að í heild fari hann ekki fram yfir hæfilegt vinnuálag miðað við aldur nemenda og þroska.
+1480 mínútur (37 kennslustundir) í 8. - 10. bekk
+
+
+      Við ákvörðun daglegs og vikulegs starfstíma nemenda í grunnskóla skal þess gætt að í heild fari hann ekki fram yfir hæfilegt vinnuálag miðað við aldur nemenda og þroska.
       Skólastjóri ákveður lengd kennslustunda í samráði við kennararáð/kennarafund. Meðallengd kennslustunda í grunnskóla skal vera 40 mínútur.
       Sveitarstjórn getur boðið grunnskólanemendum lengda viðveru utan daglegs kennslutíma.
 
@@ -308,16 +309,31 @@ _[^1)^]"L. 77/1996, 4. gr.":/altext/stjt/1996.077.html_
 
      Menntamálaráðherra setur grunnskólum aðalnámskrá. Í henni er m.a. kveðið nánar á um uppeldishlutverk grunnskólans og meginstefnu í kennslu og kennsluskipan í samræmi við hlutverk grunnskólans, sbr. 2. gr.
       Í starfi skólans skal leggja áherslu á:
-  --  að efla sjálfsvitund og félagsvitund nemenda,
-  --  að stuðla að líkamlegri og andlegri velferð, heilbrigðum lífsháttum og ábyrgri umgengni við líf og umhverfi,
-  --  þjálfun í íslensku í öllum námsgreinum og leikræna og listræna tjáningu,
-  --  hæfni nemenda til að skilja orsakasamhengi og draga rökréttar ályktanir,
-  --  skilning og frjótt, skapandi starf og jafnvægi milli bóklegs og verklegs náms,
-  --  að nýta leiki barna sem náms- og þroskaleið,
-  --  að námið nýtist nemendum í daglegu lífi, frekara námi og starfi,
-  --  að búa bæði kynin jafnt undir virka þátttöku í samfélaginu, fjölskyldulífi og atvinnulífi,
-  --  margvíslegar leiðir við öflun þekkingar með notkun tæknimiðla, upplýsingatækni, safna- og heimildavinnu,
-  --  náms- og starfsfræðslu, kynningu á atvinnulífi og námsleiðum til undirbúnings náms- og starfsvals.
+
+<dl>
+<dt> -- </dt>
+<dd>að efla sjálfsvitund og félagsvitund nemenda,</dd>
+<dt> -- </dt>
+<dd>að stuðla að líkamlegri og andlegri velferð, heilbrigðum lífsháttum og ábyrgri umgengni við líf og umhverfi,</dd>
+<dt> -- </dt>
+<dd>þjálfun í íslensku í öllum námsgreinum og leikræna og listræna tjáningu,</dd>
+<dt> -- </dt>
+<dd>hæfni nemenda til að skilja orsakasamhengi og draga rökréttar ályktanir,</dd>
+<dt> -- </dt>
+<dd>skilning og frjótt, skapandi starf og jafnvægi milli bóklegs og verklegs náms,</dd>
+<dt> -- </dt>
+<dd>að nýta leiki barna sem náms- og þroskaleið,</dd>
+<dt> -- </dt>
+<dd>að námið nýtist nemendum í daglegu lífi, frekara námi og starfi,</dd>
+<dt> -- </dt>
+<dd>að búa bæði kynin jafnt undir virka þátttöku í samfélaginu, fjölskyldulífi og atvinnulífi,</dd>
+<dt> -- </dt>
+<dd>margvíslegar leiðir við öflun þekkingar með notkun tæknimiðla, upplýsingatækni, safna- og heimildavinnu,</dd>
+<dt> -- </dt>
+<dd>náms- og starfsfræðslu, kynningu á atvinnulífi og námsleiðum til undirbúnings náms- og starfsvals.</dd>
+</dl>
+
+
       Við setningu aðalnámskrár, skipulagningu náms og kennslu og við gerð og val námsgagna skal þess sérstaklega gætt að allir nemendur fái sem jöfnust tækifæri til náms, sbr. 2. gr.
       Markmið náms og kennslu og starfshættir grunnskóla skulu vera þannig að komið sé í veg fyrir mismunun vegna uppruna, kyns, búsetu, stéttar, trúarbragða eða fötlunar.
       Í öllu skólastarfi skal tekið mið af mismunandi persónugerð, þroska, hæfileikum, getu eða áhugasviðum nemenda.
@@ -564,8 +580,12 @@ _[^1)^]"Rg. 709/1996":http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogreg
 
 50. gr.
 
-     Kennarar og skólastjórar grunnskóla skulu, auk námsleyfa, sbr. 25. gr., eiga kost á endurmenntun í þeim tilgangi að efla starfshæfni sína, kynnast markverðum nýjungum í skóla- og uppeldismálum og njóta stuðnings við nýbreytni- og þróunarstörf. Til þessa verkefnis skal árlega veitt fé á fjárlögum.
+     Kennarar og skólastjórar grunnskóla skulu, auk námsleyfa, sbr. 25. gr., eiga kost á endurmenntun í þeim tilgangi að efla starfshæfni sína, kynnast markverðum nýjungum í skóla- og uppeldismálum og njóta stuðnings við nýbreytni- og þróunarstörf. Til þessa verkefnis skal árlega veitt fé á fjárlögum.[^1)^]
       Að frumkvæði skólastjóra mótar hver skóli áætlun um hvernig endurmenntun starfsfólks hans skuli hagað svo að hún sé í sem bestu samræmi við þær áherslur sem fram koma í skólanámskrá.
+
+
+_[^1)^]"Rg. 220/1999":http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-2201999._
+
 
 
 

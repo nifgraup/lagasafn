@@ -28,18 +28,18 @@ h2. Lög um leikskóla
      Samkvæmt lögum þessum skal meginmarkmið með uppeldi í leikskóla vera:
 
 <dl>
-<dt></dt>
-<dd> --  að veita börnum umönnun, búa þeim hollt uppeldisumhverfi og örugg leikskilyrði,</dd>
-<dt></dt>
-<dd> --  að gefa börnum kost á að taka þátt í leik og starfi og njóta fjölbreyttra uppeldiskosta barnahópsins undir leiðsögn leikskólakennara,</dd>
-<dt></dt>
-<dd> --  að kappkosta í samvinnu við heimilin að efla alhliða þroska barna í samræmi við eðli og þarfir hvers og eins og leitast við að hlúa að þeim andlega og líkamlega svo að þau fái notið bernsku sinnar,</dd>
-<dt></dt>
-<dd> --  að stuðla að umburðarlyndi og víðsýni barna og jafna uppeldisaðstöðu þeirra í hvívetna,</dd>
-<dt></dt>
-<dd> --  að efla kristilegt siðgæði barna og leggja grundvöll að því að börn verði sjálfstæðir, hugsandi, virkir og ábyrgir þátttakendur í lýðræðisþjóðfélagi sem er í örri og sífelldri þróun,</dd>
-<dt></dt>
-<dd> --  að rækta tjáningar- og sköpunarmátt barna í þeim tilgangi að styrkja sjálfsmynd þeirra, öryggi og getu til að leysa mál sín á friðsamlegan hátt.</dd>
+<dt> -- </dt>
+<dd>að veita börnum umönnun, búa þeim hollt uppeldisumhverfi og örugg leikskilyrði,</dd>
+<dt> -- </dt>
+<dd>að gefa börnum kost á að taka þátt í leik og starfi og njóta fjölbreyttra uppeldiskosta barnahópsins undir leiðsögn leikskólakennara,</dd>
+<dt> -- </dt>
+<dd>að kappkosta í samvinnu við heimilin að efla alhliða þroska barna í samræmi við eðli og þarfir hvers og eins og leitast við að hlúa að þeim andlega og líkamlega svo að þau fái notið bernsku sinnar,</dd>
+<dt> -- </dt>
+<dd>að stuðla að umburðarlyndi og víðsýni barna og jafna uppeldisaðstöðu þeirra í hvívetna,</dd>
+<dt> -- </dt>
+<dd>að efla kristilegt siðgæði barna og leggja grundvöll að því að börn verði sjálfstæðir, hugsandi, virkir og ábyrgir þátttakendur í lýðræðisþjóðfélagi sem er í örri og sífelldri þróun,</dd>
+<dt> -- </dt>
+<dd>að rækta tjáningar- og sköpunarmátt barna í þeim tilgangi að styrkja sjálfsmynd þeirra, öryggi og getu til að leysa mál sín á friðsamlegan hátt.</dd>
 </dl>
 
 
@@ -60,7 +60,11 @@ h2. Lög um leikskóla
 
      Menntamálaráðuneytið mótar uppeldisstefnu leikskóla, sinnir þróunar- og tilraunastarfi og mati á uppeldisstarfi leikskóla og er stjórnendum þeirra til ráðuneytis um starfsemina.
       Uppeldisstefnan er fagleg stefnumörkun. Þar skal kveðið á um uppeldis- og menntunarhlutverk leikskólans, gildi leiksins og meginstefnu varðandi starfshætti og innra gæðamat.
-      Menntamálaráðuneytið hefur uppeldisstefnu leikskóla stöðugt til endurskoðunar, sér um útgáfu hennar og breytingar þegar þörf er talin á.
+      Menntamálaráðuneytið hefur uppeldisstefnu leikskóla stöðugt til endurskoðunar, sér um útgáfu hennar[^1)^] og breytingar þegar þörf er talin á.
+
+
+_[^1)^]Augl. 315/1999._
+
 
 
 
@@ -98,7 +102,11 @@ _[^1)^]"Rg. 225/1995":http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogreg
 
 9. gr.
 
-     Leikskólanefnd, kjörin af sveitarstjórn, fer með málefni leikskóla í umboði sveitarstjórnar. Einn fulltrúi starfsfólks leikskóla og einn fulltrúi foreldra leikskólabarna eiga rétt til setu á fundum leikskólanefndar með málfrelsi og tillögurétti. Heimilt er sveitarstjórn að sameina nefndir þannig að ein nefnd fari með verkefni á fleiri en einu sviði, sbr. "58. gr. sveitarstjórnarlaga, nr. 8/1986":1986008.html. Þar sem sveitarfélög hafa sameinast um rekstur leikskóla skulu þau öll eiga fulltrúa í þeirri nefnd sem fer með málefni leikskóla.
+     Leikskólanefnd, kjörin af sveitarstjórn, fer með málefni leikskóla í umboði sveitarstjórnar. Einn fulltrúi starfsfólks leikskóla og einn fulltrúi foreldra leikskólabarna eiga rétt til setu á fundum leikskólanefndar með málfrelsi og tillögurétti. Heimilt er sveitarstjórn að sameina nefndir þannig að ein nefnd fari með verkefni á fleiri en einu sviði, sbr. "58. gr. sveitarstjórnarlaga, nr. 8/1986":1986008.html.[^1)^] Þar sem sveitarfélög hafa sameinast um rekstur leikskóla skulu þau öll eiga fulltrúa í þeirri nefnd sem fer með málefni leikskóla.
+
+
+_[^1)^]Nú "l. 45/1998":1998045.html._
+
 
 
 

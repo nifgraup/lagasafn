@@ -20,8 +20,8 @@ h2. Lög um Evrópska efnahagssvæðið
 <dd>samning milli EFTA-ríkjanna um stofnun eftirlitsstofnunar og dómstóls sem undirritaður var í Óportó hinn 2. maí 1992;</dd>
 <dt>3.</dt>
 <dd>samning um fastanefnd EFTA-ríkjanna sem undirritaður var í Óportó hinn 2. maí 1992;</dd>
-<dt>4.</dt>
-<dd>[bókun um breytingu á samningnum um Evrópska efnahagssvæðið, milli Efnahagsbandalags Evrópu, Kola- og stálbandalags Evrópu og aðildarríkja þessara bandalaga annars vegar og Austurríkis, Finnlands, Íslands, Liechtensteins, Noregs og Svíþjóðar hins vegar, sem undirrituð var í Brussel hinn 17. mars 1993;</dd>
+<dt>[4.</dt>
+<dd>bókun um breytingu á samningnum um Evrópska efnahagssvæðið, milli Efnahagsbandalags Evrópu, Kola- og stálbandalags Evrópu og aðildarríkja þessara bandalaga annars vegar og Austurríkis, Finnlands, Íslands, Liechtensteins, Noregs og Svíþjóðar hins vegar, sem undirrituð var í Brussel hinn 17. mars 1993;</dd>
 <dt>5.</dt>
 <dd>bókun um breytingu á samningnum milli EFTA-ríkjanna um stofnun eftirlitsstofnunar og dómstóls, milli Austurríkis, Finnlands, Íslands, Liechtensteins, Noregs og Svíþjóðar, sem undirrituð var í Brussel hinn 17. mars 1993;</dd>
 <dt>6.</dt>
@@ -176,11 +176,8 @@ _[^1)^]"L. 66/1993, 2. gr. fylgiskjals.":/altext/stjt/1993.066.html_
 
      Samningsaðilar skulu gera allar viðeigandi almennar eða sérstakar ráðstafanir til að tryggja að staðið verði við þær skuldbindingar sem af samningi þessum leiðir. Þeir skulu varast ráðstafanir sem teflt geta því í tvísýnu að markmiðum samnings þessa verði náð.
 
-<dl>
-<dt></dt>
-<dd>Þeir skulu enn fremur auðvelda samvinnu innan ramma samnings þessa.</dd>
-</dl>
 
+Þeir skulu enn fremur auðvelda samvinnu innan ramma samnings þessa.
 
 
 
@@ -279,11 +276,8 @@ _[^1)^]"L. 66/1993, 2. gr. fylgiskjals.":/altext/stjt/1993.066.html_
 
      Einstökum samningsaðilum er óheimilt að leggja hvers kyns beinan eða óbeinan skatt innan lands á framleiðsluvörur annarra samningsaðila umfram það sem beint eða óbeint er lagt á sams konar innlendar framleiðsluvörur.
 
-<dl>
-<dt></dt>
-<dd>Samningsaðila er einnig óheimilt að leggja á framleiðsluvörur annarra samningsaðila innlendan skatt sem er til þess fallinn að vernda óbeint aðrar framleiðsluvörur.</dd>
-</dl>
 
+Samningsaðila er einnig óheimilt að leggja á framleiðsluvörur annarra samningsaðila innlendan skatt sem er til þess fallinn að vernda óbeint aðrar framleiðsluvörur.
 
 
 
@@ -492,11 +486,8 @@ Staðfesturéttur felur í sér rétt til að hefja og stunda sjálfstæða atvi
 
      Með félög eða fyrirtæki, sem stofnuð eru í samræmi við lög aðildarríkis EB eða EFTA-ríkis og hafa skráða skrifstofu, yfirstjórn eða aðalstarfsstöð á yfirráðasvæði samningsaðila, skal farið, að því er þennan kafla varðar, á sama hátt og einstaklinga sem eru ríkisborgarar í aðildarríkjum EB eða EFTA-ríkjum.
 
-<dl>
-<dt></dt>
-<dd>Með félögum eða fyrirtækjum er átt við félög eða fyrirtæki, stofnuð á grundvelli einkamálaréttar eða verslunarréttar, þar með talin samvinnufélög, svo og aðrar lögpersónur sem lúta allsherjarrétti eða einkamálarétti, þó að frátöldum þeim sem eru ekki rekin í hagnaðarskyni.</dd>
-</dl>
 
+Með félögum eða fyrirtækjum er átt við félög eða fyrirtæki, stofnuð á grundvelli einkamálaréttar eða verslunarréttar, þar með talin samvinnufélög, svo og aðrar lögpersónur sem lúta allsherjarrétti eða einkamálarétti, þó að frátöldum þeim sem eru ekki rekin í hagnaðarskyni.
 
 
 
@@ -522,9 +513,9 @@ Staðfesturéttur felur í sér rétt til að hefja og stunda sjálfstæða atvi
 
      Með „þjónustu“ er í samningi þessum átt við þjónustu sem að jafnaði er veitt gegn þóknun að því leyti sem hún lýtur ekki ákvæðum um frjálsa vöruflutninga, frjálsa fjármagnsflutninga og frjálsa fólksflutninga.
 
-<dl>
-<dt></dt>
-<dd>Undir „þjónustu“ fellur einkum:
+
+Undir „þjónustu“ fellur einkum:
+
 <dl>
 <dt>a.</dt>
 <dd>starfsemi á sviði iðnaðar;</dd>
@@ -535,11 +526,8 @@ Staðfesturéttur felur í sér rétt til að hefja og stunda sjálfstæða atvi
 <dt>d.</dt>
 <dd>sérfræðistörf.</dd>
 </dl>
-</dd>
-<dt></dt>
-<dd>Sá sem veitir þjónustu getur, með fyrirvara um ákvæði 2. kafla, í því skyni stundað starfsemi sína tímabundið í því ríki þar sem þjónustan er veitt, með sömu skilyrðum og það ríki setur eigin ríkisborgurum.</dd>
-</dl>
 
+Sá sem veitir þjónustu getur, með fyrirvara um ákvæði 2. kafla, í því skyni stundað starfsemi sína tímabundið í því ríki þar sem þjónustan er veitt, með sömu skilyrðum og það ríki setur eigin ríkisborgurum.
 
 
 
@@ -650,13 +638,10 @@ Staðfesturéttur felur í sér rétt til að hefja og stunda sjálfstæða atvi
      1. Bannað er að leggja á gjöld og setja skilmála er varða flutningastarfsemi innan yfirráðasvæðis samningsaðila og fela í einhverjum mæli í sér aðstoð eða vernd, einu eða fleiri fyrirtækjum eða atvinnugreinum í hag, nema þar til bært yfirvald samkvæmt 2. mgr. 50. gr. heimili það.
       2. Þar til bært yfirvald skal að eigin frumkvæði eða að beiðni aðildarríkis EB eða EFTA-ríkis kanna gjöld þau og skilmála sem um getur í 1. mgr., annars vegar einkum með kröfur um æskilega efnahagsstefnu á einstökum landsvæðum í huga, svo og þarfir vanþróaðra svæða og erfiðleika svæða þar sem alvarlegt stjórnmálaástand ríkir, og hins vegar með tilliti til áhrifa gjaldanna og skilmálanna á samkeppni milli mismunandi greina flutningastarfsemi.
 
-<dl>
-<dt></dt>
-<dd>Þar til bært yfirvald skal taka nauðsynlegar ákvarðanir samkvæmt eigin reglum.</dd>
-</dl>
 
+Þar til bært yfirvald skal taka nauðsynlegar ákvarðanir samkvæmt eigin reglum.
 
-      3. Bannið sem um getur í 1. mgr. tekur ekki til gjalda sem ákveðin eru til að bregðast við samkeppni.
+     3. Bannið sem um getur í 1. mgr. tekur ekki til gjalda sem ákveðin eru til að bregðast við samkeppni.
 
 
 
@@ -694,10 +679,17 @@ Staðfesturéttur felur í sér rétt til að hefja og stunda sjálfstæða atvi
 
       2. Samningar og ákvarðanir sem grein þessi bannar eru sjálfkrafa ógildir.
       3. Ákveða má að ákvæðum 1. mgr. verði ekki beitt um:
-  --  samninga eða tegundir samninga milli fyrirtækja;
-  --  ákvarðanir eða tegundir ákvarðana af hálfu samtaka fyrirtækja;
-  --  samstilltar aðgerðir eða tegundir samstilltra aðgerða;
- sem stuðla að bættri framleiðslu eða vörudreifingu eða efla tæknilegar og efnahagslegar framfarir, enda sé neytendum veitt sanngjörn hlutdeild í þeim ávinningi sem af þeim hlýst, án þess að:
+
+<dl>
+<dt> -- </dt>
+<dd>samninga eða tegundir samninga milli fyrirtækja;</dd>
+<dt> -- </dt>
+<dd>ákvarðanir eða tegundir ákvarðana af hálfu samtaka fyrirtækja;</dd>
+<dt> -- </dt>
+<dd>samstilltar aðgerðir eða tegundir samstilltra aðgerða;</dd>
+</dl>
+
+sem stuðla að bættri framleiðslu eða vörudreifingu eða efla tæknilegar og efnahagslegar framfarir, enda sé neytendum veitt sanngjörn hlutdeild í þeim ávinningi sem af þeim hlýst, án þess að:
 
 <dl>
 <dt>a.</dt>
@@ -714,9 +706,9 @@ Staðfesturéttur felur í sér rétt til að hefja og stunda sjálfstæða atvi
 
      Misnotkun eins eða fleiri fyrirtækja á yfirburðastöðu á svæðinu sem samningur þessi tekur til, eða verulegum hluta þess, er ósamrýmanleg framkvæmd samnings þessa og því bönnuð að því leyti sem hún kann að hafa áhrif á viðskipti milli samningsaðila.
 
-<dl>
-<dt></dt>
-<dd>Slík misnotkun getur einkum falist í því að:
+
+Slík misnotkun getur einkum falist í því að:
+
 <dl>
 <dt>a.</dt>
 <dd>beint eða óbeint sé krafist ósanngjarns kaup- eða söluverðs eða aðrir ósanngjarnir viðskiptaskilmálar settir;</dd>
@@ -727,9 +719,6 @@ Staðfesturéttur felur í sér rétt til að hefja og stunda sjálfstæða atvi
 <dt>d.</dt>
 <dd>sett sé það skilyrði fyrir samningagerð að hinir viðsemjendurnir taki á sig viðbótarskuldbindingar sem tengjast ekki efni samninganna, hvorki í eðli sínu né samkvæmt viðskiptavenju.</dd>
 </dl>
-</dd>
-</dl>
-
 
 
 
@@ -778,7 +767,7 @@ Hin þar til bæra eftirlitsstofnun getur birt ákvörðun sína og heimilað r�
 
 <dl>
 <dt>a.</dt>
-<dd>framkvæmdastjórn EB í þeim málum sem falla undir reglugerð EBE nr. 4064/89, í samræmi við þá reglugerð, bókanir 21 og 24 og XIV. viðauka við samninginn. Með fyrirvara um endurskoðunarvald dómstóls EB hefur framkvæmdastjórn EB ein vald til að taka ákvarðanir í þessum málum.</dd>
+<dd>framkvæmdastjórn EB í þeim málum sem falla undir reglugerð EBE nr. 4064/89, í samræmi við þá reglugerð, bókanir 21 og 24 og XIV. viðauka við samninginn. Með fyrirvara um endurskoðunarvald dómstóls EB hefur framkvæmdastjórn EB ein vald til að taka ákvarðanir í þessum málum;</dd>
 <dt>b.</dt>
 <dd>eftirlitsstofnun EFTA í þeim málum sem falla ekki undir a-lið hafi viðmiðunarmörkum, sem sett eru í XIV. viðauka, verið fullnægt á yfirráðasvæði EFTA-ríkjanna í samræmi við bókanir 21 og 24 og XIV. viðauka við samninginn. Þetta er með þeim fyrirvara að aðildarríki EB séu ekki valdbær í þessu tilliti.</dd>
 </dl>
@@ -1024,17 +1013,31 @@ Með sömu launum án mismununar vegna kynferðis er átt við að:
 78. gr.
 
      Samningsaðilar skulu efla og auka samvinnu innan ramma starfsemi bandalagsins á sviði:
-  --  rannsókna og tækniþróunar,
-  --  upplýsingaþjónustu,
-  --  umhverfismála,
-  --  menntunar, þjálfunar og æskulýðsmála,
-  --  félagsmála,
-  --  neytendaverndar,
-  --  lítilla og meðalstórra fyrirtækja,
-  --  ferðamála,
-  --  hljóð- og myndmiðlunar og
-  --  almannavarna,
- að því leyti sem samstarf á þessum sviðum lýtur ekki ákvæðum annarra hluta samnings þessa.
+
+<dl>
+<dt> -- </dt>
+<dd>rannsókna og tækniþróunar,</dd>
+<dt> -- </dt>
+<dd>upplýsingaþjónustu,</dd>
+<dt> -- </dt>
+<dd>umhverfismála,</dd>
+<dt> -- </dt>
+<dd>menntunar, þjálfunar og æskulýðsmála,</dd>
+<dt> -- </dt>
+<dd>félagsmála,</dd>
+<dt> -- </dt>
+<dd>neytendaverndar,</dd>
+<dt> -- </dt>
+<dd>lítilla og meðalstórra fyrirtækja,</dd>
+<dt> -- </dt>
+<dd>ferðamála,</dd>
+<dt> -- </dt>
+<dd>hljóð- og myndmiðlunar og</dd>
+<dt> -- </dt>
+<dd>almannavarna,</dd>
+</dl>
+
+að því leyti sem samstarf á þessum sviðum lýtur ekki ákvæðum annarra hluta samnings þessa.
 
 
 
@@ -1049,12 +1052,23 @@ Með sömu launum án mismununar vegna kynferðis er átt við að:
 80. gr.
 
      Samvinna samkvæmt 78. gr. skal að öðru jöfnu fara fram með eftirfarandi hætti:
-  --  þátttöku EFTA-ríkja í rammaáætlunum EB, einstökum áætlunum, verkefnum eða öðrum aðgerðum;
-  --  komið verði á sameiginlegri starfsemi á tilteknum sviðum þar sem meðal annars gæti verið um að ræða samræmingu eða samstillingu á starfsemi, sameiningu starfsemi sem fyrir er og komið verði á sérstakri sameiginlegri starfsemi;
-  --  formlegum og óformlegum upplýsingaskiptum eða -miðlun;
-  --  sameiginlegu átaki til að hvetja til tiltekinnar starfsemi á yfirráðasvæði samningsaðila;
-  --  hliðstæðri löggjöf, eftir því sem við á, með sömu eða svipuðum ákvæðum;
-  --  samræmingu aðgerða og starfsemi á vettvangi eða fyrir tilstilli alþjóðastofnana, svo og samræmingu samvinnu við þriðju lönd, þar sem um gagnkvæmt hagsmunamál er að ræða.
+
+<dl>
+<dt> -- </dt>
+<dd>þátttöku EFTA-ríkja í rammaáætlunum EB, einstökum áætlunum, verkefnum eða öðrum aðgerðum;</dd>
+<dt> -- </dt>
+<dd>komið verði á sameiginlegri starfsemi á tilteknum sviðum þar sem meðal annars gæti verið um að ræða samræmingu eða samstillingu á starfsemi, sameiningu starfsemi sem fyrir er og komið verði á sérstakri sameiginlegri starfsemi;</dd>
+<dt> -- </dt>
+<dd>formlegum og óformlegum upplýsingaskiptum eða -miðlun;</dd>
+<dt> -- </dt>
+<dd>sameiginlegu átaki til að hvetja til tiltekinnar starfsemi á yfirráðasvæði samningsaðila;</dd>
+<dt> -- </dt>
+<dd>hliðstæðri löggjöf, eftir því sem við á, með sömu eða svipuðum ákvæðum;</dd>
+<dt> -- </dt>
+<dd>samræmingu aðgerða og starfsemi á vettvangi eða fyrir tilstilli alþjóðastofnana, svo og samræmingu samvinnu við þriðju lönd, þar sem um gagnkvæmt hagsmunamál er að ræða.</dd>
+</dl>
+
+
 
 
 
@@ -1087,9 +1101,14 @@ Með sömu launum án mismununar vegna kynferðis er átt við að:
 
 <dl>
 <dt>a.</dt>
-<dd><p>Framlag EFTA-ríkjanna vegna þátttöku þeirra í starfsemi bandalagsins skal reiknað í hlutfalli við:
-  --  fjárhagsskuldbindingar; og
-  --  greiðsluskuldbindingar;</p>
+<dd><p>Framlag EFTA-ríkjanna vegna þátttöku þeirra í starfsemi bandalagsins skal reiknað í hlutfalli við:</p>
+<dl>
+<dt> -- </dt>
+<dd>fjárhagsskuldbindingar; og</dd>
+<dt> -- </dt>
+<dd>greiðsluskuldbindingar;</dd>
+</dl>
+
 <p>sem varðandi bandalagið eru settar árlega á þann lið fjárlaga þess sem á við um viðkomandi starfsemi.</p>
 <p>Hlutfallsstuðullinn sem ákvarðar framlag EFTA-ríkjanna skal vera summa hlutfallsins milli annars vegar vergrar landsframleiðslu hvers EFTA-ríkis um sig miðað við markaðsverð og hins vegar summa vergrar landsframleiðslu allra aðildarríkja EB og umrædds EFTA-ríkis miðað við markaðsverð. Stuðullinn skal reiknaður fyrir hvert fjárhagsár á grundvelli nýjustu tölfræðilegra upplýsinga.</p>
 <p>Bæði að því er varðar fjárhagsskuldbindingar og greiðsluskuldbindingar skal fjárframlag EFTA-ríkjanna koma til viðbótar fjárframlagi bandalagsins á þeim lið fjárlaga þess sem á við um viðkomandi starfsemi.</p>
@@ -1232,8 +1251,15 @@ Skipa skal fulltrúa í EES-ráðið í samræmi við þau skilyrði sem mælt v
 97. gr.
 
      Með fyrirvara um meginregluna um jafnræði, og eftir að öðrum samningsaðilum hafa verið veittar upplýsingar þar um, hefur samningur þessi ekki áhrif á rétt einstakra samningsaðila til að breyta innlendri löggjöf á þeim sviðum sem samningurinn tekur til:
-  --  ef sameiginlega EES-nefndin kemst að þeirri niðurstöðu að löggjöf, eins og henni hefur verið breytt, hafi ekki áhrif til hins verra á framkvæmd samningsins; eða
-  --  ef skilyrðum 98. gr. hefur verið fullnægt.
+
+<dl>
+<dt> -- </dt>
+<dd>ef sameiginlega EES-nefndin kemst að þeirri niðurstöðu að löggjöf, eins og henni hefur verið breytt, hafi ekki áhrif til hins verra á framkvæmd samningsins; eða</dd>
+<dt> -- </dt>
+<dd>ef skilyrðum 98. gr. hefur verið fullnægt.</dd>
+</dl>
+
+
 
 
 
@@ -1256,11 +1282,8 @@ Skipa skal fulltrúa í EES-ráðið í samræmi við þau skilyrði sem mælt v
 
      Framkvæmdastjórn EB skal tryggja sérfræðingum EFTA-ríkjanna eins víðtæka þátttöku og unnt er á viðkomandi sviðum við undirbúning á drögum að tillögum er síðar eiga að fara fyrir þær nefndir sem eru framkvæmdastjórninni til aðstoðar við beitingu framkvæmdarvalds hennar. Í þessum málum skal framkvæmdastjórn EB, þegar hún gengur frá tillögum, ráðgast við sérfræðinga EFTA-ríkjanna á sama grundvelli og hún ráðgast við sérfræðinga aðildarríkja EB.
 
-<dl>
-<dt></dt>
-<dd>Í þeim tilvikum þegar mál er til meðferðar hjá ráði Evrópubandalaganna í samræmi við starfsreglur sem gilda um viðkomandi nefnd skal framkvæmdastjórn EB koma áliti sérfræðinga EFTA-ríkjanna á framfæri við ráð Evrópubandalaganna.</dd>
-</dl>
 
+Í þeim tilvikum þegar mál er til meðferðar hjá ráði Evrópubandalaganna í samræmi við starfsreglur sem gilda um viðkomandi nefnd skal framkvæmdastjórn EB koma áliti sérfræðinga EFTA-ríkjanna á framfæri við ráð Evrópubandalaganna.
 
 
 
@@ -1282,13 +1305,10 @@ Skipa skal fulltrúa í EES-ráðið í samræmi við þau skilyrði sem mælt v
       2. Sameiginlega EES-nefndin skal meta á hvaða hluta viðauka við samning þennan þessi nýja löggjöf hefur bein áhrif.
       3. Samningsaðilar skulu gera sitt ýtrasta til að komast að samkomulagi um málefni sem samningur þessi tekur til.
 
-<dl>
-<dt></dt>
-<dd>Sameiginlega EES-nefndin skal einkum gera sitt ýtrasta til að finna lausn sem aðilar geta sætt sig við þegar upp koma alvarleg vandamál á sviðum sem falla undir valdsvið löggjafans í EFTA-ríkjunum.</dd>
-</dl>
 
+Sameiginlega EES-nefndin skal einkum gera sitt ýtrasta til að finna lausn sem aðilar geta sætt sig við þegar upp koma alvarleg vandamál á sviðum sem falla undir valdsvið löggjafans í EFTA-ríkjunum.
 
-      4. Ef ekki er unnt að komast að samkomulagi um breytingar á viðauka við samning þennan, þrátt fyrir beitingu undanfarandi málsgreinar, skal sameiginlega EES-nefndin kanna alla frekari möguleika á því að tryggja áframhaldandi góða framkvæmd samningsins og taka nauðsynlegar ákvarðanir þar að lútandi, meðal annars að viðurkenna að löggjöf sé sambærileg. Taka verður slíka ákvörðun eigi síðar en við lok sex mánaða tímabils, frá því að málinu er vísað til sameiginlegu EES-nefndarinnar, eða á gildistökudegi samsvarandi löggjafar bandalagsins ef sá dagur er síðar.
+     4. Ef ekki er unnt að komast að samkomulagi um breytingar á viðauka við samning þennan, þrátt fyrir beitingu undanfarandi málsgreinar, skal sameiginlega EES-nefndin kanna alla frekari möguleika á því að tryggja áframhaldandi góða framkvæmd samningsins og taka nauðsynlegar ákvarðanir þar að lútandi, meðal annars að viðurkenna að löggjöf sé sambærileg. Taka verður slíka ákvörðun eigi síðar en við lok sex mánaða tímabils, frá því að málinu er vísað til sameiginlegu EES-nefndarinnar, eða á gildistökudegi samsvarandi löggjafar bandalagsins ef sá dagur er síðar.
       5. Hafi sameiginlega EES-nefndin ekki tekið ákvörðun um breytingu á viðauka við þennan samning við lok frests sem settur er í 4. mgr. skal litið svo á að framkvæmd viðkomandi hluta viðaukans, sem ákveðinn er samkvæmt 2. mgr., sé frestað til bráðabirgða nema sameiginlega EES-nefndin ákveði annað. Frestun af þessu tagi gengur í gildi sex mánuðum eftir lok tímabilsins sem um getur í 4. mgr., þó ekki fyrir þann dag er samsvarandi gerð EB kemur til framkvæmda í bandalaginu. Sameiginlega EES-nefndin skal áfram leitast við að koma á samkomulagi um lausn sem aðilar geta sætt sig við svo að draga megi frestunina til baka við fyrsta tækifæri.
       6. Ræða skal um raunhæfar afleiðingar þeirrar frestunar sem um getur í 5. mgr. í sameiginlegu EES-nefndinni. Réttindi og skyldur sem einstaklingar og aðilar í atvinnurekstri hafa þegar áunnið sér með samningi þessum skulu haldast. Samningsaðilar skulu, eftir því sem við á, ákveða hvaða breytingar þurfi að gera vegna frestunarinnar.
 
@@ -1353,9 +1373,9 @@ Hafi tilkynningin ekki farið fram fyrir umræddan dag gengur ákvörðunin í g
      1. EFTA-ríkin skulu koma á fót sjálfstæðri eftirlitsstofnun (eftirlitsstofnun EFTA) svo og kerfi svipuðu og fyrir er í bandalaginu, meðal annars kerfi til að tryggja efndir á skuldbindingum samkvæmt samningi þessum og til eftirlits með lögmæti aðgerða eftirlitsstofnunar EFTA á sviði samkeppni.
       2. EFTA-ríkin skulu koma á fót dómstóli (EFTA-dómstóli).
 
-<dl>
-<dt></dt>
-<dd>Undir valdsvið EFTA-dómstólsins skal með tilliti til beitingar samnings þessa og í samræmi við sérstakan samning milli EFTA-ríkjanna einkum heyra:
+
+Undir valdsvið EFTA-dómstólsins skal með tilliti til beitingar samnings þessa og í samræmi við sérstakan samning milli EFTA-ríkjanna einkum heyra:
+
 <dl>
 <dt>a.</dt>
 <dd>mál um tilhögun eftirlits er varðar EFTA-ríkin;</dd>
@@ -1364,9 +1384,6 @@ Hafi tilkynningin ekki farið fram fyrir umræddan dag gengur ákvörðunin í g
 <dt>c.</dt>
 <dd>lausn deilumála milli tveggja eða fleiri EFTA-ríkja.</dd>
 </dl>
-</dd>
-</dl>
-
 
 
 
@@ -1385,15 +1402,12 @@ Hafi tilkynningin ekki farið fram fyrir umræddan dag gengur ákvörðunin í g
 
      Ákvarðanir eftirlitsstofnunar EFTA og framkvæmdastjórnar EB, samkvæmt samningi þessum, sem leggja fjárskuldbindingar á aðra aðila en ríki skulu vera fullnustuhæfar. Hið sama skal eiga við um slíka dóma dómstóls Evrópubandalaganna, dómstóls Evrópubandalaganna á fyrsta dómstigi og EFTA-dómstólsins samkvæmt samningi þessum.
 
-<dl>
-<dt></dt>
-<dd>Fullnustan skal fara fram í samræmi við gildandi réttarfarsreglur í einkamálum í ríkinu þar sem fullnustan fer fram. Fullnustuúrskurður skal fylgja ákvörðuninni með því eina formskilyrði að það að ákvörðun hafi verið tekin af þar til bærum aðila sé staðfest af því yfirvaldi sem sérhver samningsaðili tilnefnir í þessu skyni og sendir öðrum samningsaðilum, svo og eftirlitsstofnun EFTA, framkvæmdastjórn EB, dómstóli Evrópubandalaganna, dómstóli Evrópubandalaganna á fyrsta dómstigi og EFTA-dómstólnum, tilkynningu um.</dd>
-<dt></dt>
-<dd>Þegar þessum formsatriðum hefur verið fullnægt að beiðni hlutaðeigandi aðila má hinn sami láta fullnustu fara fram, í samræmi við lög þess ríkis þar sem fullnustan á að fara fram, með því að fara með málið beint fyrir þar til bært yfirvald.</dd>
-<dt></dt>
-<dd>Fullnustunni verður einungis frestað með úrskurði dómstóls Evrópubandalaganna hvað varðar ákvarðanir framkvæmdastjórnar EB, úrskurði dómstóls Evrópubandalaganna á fyrsta dómstigi eða dómstóls Evrópubandalaganna, eða með úrskurði EFTA-dómstólsins hvað varðar ákvarðanir eftirlitsstofnunar EFTA eða úrskurði EFTA-dómstólsins. Dómstólar hlutaðeigandi ríkja hafa þó lögsögu varðandi kvartanir um að ekki sé staðið að fullnustunni með eðlilegum hætti.</dd>
-</dl>
 
+Fullnustan skal fara fram í samræmi við gildandi réttarfarsreglur í einkamálum í ríkinu þar sem fullnustan fer fram. Fullnustuúrskurður skal fylgja ákvörðuninni með því eina formskilyrði að það að ákvörðun hafi verið tekin af þar til bærum aðila sé staðfest af því yfirvaldi sem sérhver samningsaðili tilnefnir í þessu skyni og sendir öðrum samningsaðilum, svo og eftirlitsstofnun EFTA, framkvæmdastjórn EB, dómstóli Evrópubandalaganna, dómstóli Evrópubandalaganna á fyrsta dómstigi og EFTA-dómstólnum, tilkynningu um.
+
+Þegar þessum formsatriðum hefur verið fullnægt að beiðni hlutaðeigandi aðila má hinn sami láta fullnustu fara fram, í samræmi við lög þess ríkis þar sem fullnustan á að fara fram, með því að fara með málið beint fyrir þar til bært yfirvald.
+
+Fullnustunni verður einungis frestað með úrskurði dómstóls Evrópubandalaganna hvað varðar ákvarðanir framkvæmdastjórnar EB, úrskurði dómstóls Evrópubandalaganna á fyrsta dómstigi eða dómstóls Evrópubandalaganna, eða með úrskurði EFTA-dómstólsins hvað varðar ákvarðanir eftirlitsstofnunar EFTA eða úrskurði EFTA-dómstólsins. Dómstólar hlutaðeigandi ríkja hafa þó lögsögu varðandi kvartanir um að ekki sé staðið að fullnustunni með eðlilegum hætti.
 
 
  3. þáttur. Lausn deilumála.
@@ -1404,15 +1418,17 @@ Hafi tilkynningin ekki farið fram fyrir umræddan dag gengur ákvörðunin í g
       2. Sameiginlegu EES-nefndinni er heimilt að leysa deilumálið. Henni skulu gefnar allar upplýsingar sem hún kann að þarfnast til þess að framkvæma nákvæma rannsókn á málinu, með það fyrir augum að finna lausn sem aðilar geta sætt sig við. Í þessum tilgangi skal sameiginlega EES-nefndin rannsaka alla möguleika til að viðhalda góðri framkvæmd samningsins.
       3. Varði deilumál túlkun ákvæða samnings þessa, sem eru efnislega samhljóða samsvarandi reglum stofnsáttmála Efnahagsbandalags Evrópu og stofnsáttmála Kola- og stálbandalagsins og gerðum sem samþykktar hafa verið vegna beitingar þessara tveggja sáttmála, og hafi deilumálið ekki verið leyst innan þriggja mánaða frá því að það var lagt fyrir sameiginlegu EES-nefndina, geta samningsaðilar, sem eiga aðild að deilumálinu, samþykkt að fara fram á það við dómstól Evrópubandalaganna að hann kveði upp úrskurð um túlkun á viðkomandi reglum.
 
+
+Hafi sameiginlega EES-nefndin ekki náð samkomulagi um lausn á slíku deilumáli innan sex mánaða frá þeim degi er þessi málsmeðferð hófst, eða hafi samningsaðilar, sem eiga aðild að deilumálinu, á þeim tíma ekki ákveðið að fara fram á úrskurð dómstóls Evrópubandalaganna, getur samningsaðili, til að draga úr hugsanlegu ójafnvægi,
+
 <dl>
-<dt></dt>
-<dd>Hafi sameiginlega EES-nefndin ekki náð samkomulagi um lausn á slíku deilumáli innan sex mánaða frá þeim degi er þessi málsmeðferð hófst, eða hafi samningsaðilar, sem eiga aðild að deilumálinu, á þeim tíma ekki ákveðið að fara fram á úrskurð dómstóls Evrópubandalaganna, getur samningsaðili, til að draga úr hugsanlegu ójafnvægi,
-  --  annaðhvort gripið til öryggisráðstafana í samræmi við 2. mgr. 112. gr. og fylgt þá málsmeðferð 113. gr.;
-  --  eða beitt 102. gr. að breyttu breytanda.</dd>
+<dt> -- </dt>
+<dd>annaðhvort gripið til öryggisráðstafana í samræmi við 2. mgr. 112. gr. og fylgt þá málsmeðferð 113. gr.;</dd>
+<dt> -- </dt>
+<dd>eða beitt 102. gr. að breyttu breytanda.</dd>
 </dl>
 
-
-      4. Varði deilumál umfang eða gildistíma öryggisráðstafana, sem gripið er til í samræmi við 3. mgr. 111. gr. eða 112. gr., eða jafngildi jöfnunarráðstafana, sem gerðar eru í samræmi við 114. gr., og hafi sameiginlegu EES-nefndinni ekki tekist að leysa deiluna þremur mánuðum eftir þann dag er málið var lagt fyrir hana getur hver samningsaðila sem er vísað deilumálinu til gerðardóms samkvæmt málsmeðferð sem mælt er fyrir um í bókun 33. Óheimilt er að fjalla um túlkun á ákvæðum samnings þessa, sem um getur í 3. mgr., samkvæmt þessari málsmeðferð. Gerðin er bindandi fyrir deiluaðila.
+     4. Varði deilumál umfang eða gildistíma öryggisráðstafana, sem gripið er til í samræmi við 3. mgr. 111. gr. eða 112. gr., eða jafngildi jöfnunarráðstafana, sem gerðar eru í samræmi við 114. gr., og hafi sameiginlegu EES-nefndinni ekki tekist að leysa deiluna þremur mánuðum eftir þann dag er málið var lagt fyrir hana getur hver samningsaðila sem er vísað deilumálinu til gerðardóms samkvæmt málsmeðferð sem mælt er fyrir um í bókun 33. Óheimilt er að fjalla um túlkun á ákvæðum samnings þessa, sem um getur í 3. mgr., samkvæmt þessari málsmeðferð. Gerðin er bindandi fyrir deiluaðila.
 
 
 
@@ -1434,20 +1450,14 @@ Hafi tilkynningin ekki farið fram fyrir umræddan dag gengur ákvörðunin í g
       2. Samningsaðilar skulu tafarlaust bera saman ráð sín í sameiginlegu EES-nefndinni með það fyrir augum að finna viðunandi lausn fyrir alla aðila.
       3. Hlutaðeigandi samningsaðili má ekki grípa til öryggisráðstafana fyrr en einum mánuði eftir dagsetningu tilkynningarinnar samkvæmt 1. mgr. nema samráði samkvæmt 2. mgr. hafi verið lokið áður en umræddur frestur var liðinn. Þegar óvenjulegar aðstæður, sem krefjast tafarlausra aðgerða, útiloka könnun fyrirfram getur hlutaðeigandi samningsaðili strax gripið til þeirra verndarráðstafana sem bráðnauðsynlegar teljast til þess að ráða bót á ástandinu.
 
-<dl>
-<dt></dt>
-<dd>Framkvæmdastjórn EB skal grípa til öryggisráðstafana fyrir bandalagið.</dd>
-</dl>
 
+Framkvæmdastjórn EB skal grípa til öryggisráðstafana fyrir bandalagið.
 
-      4. Hlutaðeigandi samningsaðili skal án tafar tilkynna ráðstafanirnar, sem gerðar hafa verið, til sameiginlegu EES-nefndarinnar og veita allar nauðsynlegar upplýsingar.
+     4. Hlutaðeigandi samningsaðili skal án tafar tilkynna ráðstafanirnar, sem gerðar hafa verið, til sameiginlegu EES-nefndarinnar og veita allar nauðsynlegar upplýsingar.
       5. Í sameiginlegu EES-nefndinni skal hafa samráð um öryggisráðstafanirnar á þriggja mánaða fresti frá því að gripið er til þeirra með það fyrir augum að fella þær niður fyrir áætluð lok gildistímabilsins eða takmarka umfang þeirra.
 
-<dl>
-<dt></dt>
-<dd>Hver samningsaðilanna um sig getur hvenær sem er farið fram á það við sameiginlegu EES-nefndina að hún endurskoði umræddar ráðstafanir.</dd>
-</dl>
 
+Hver samningsaðilanna um sig getur hvenær sem er farið fram á það við sameiginlegu EES-nefndina að hún endurskoði umræddar ráðstafanir.
 
 
 
@@ -1489,13 +1499,10 @@ Hafi tilkynningin ekki farið fram fyrir umræddan dag gengur ákvörðunin í g
 
      1. Álíti samningsaðili það öllum samningsaðilum til hagsbóta að þróa tengslin, sem stofnað er til með samningi þessum, með því að láta þau ná til fleiri sviða en þar er gert ráð fyrir skal hann leggja fram rökstudda beiðni til hinna samningsaðilanna í EES-ráðinu. Ráðið getur falið sameiginlegu EES-nefndinni að rannsaka alla þætti beiðninnar og leggja fram skýrslu.
 
-<dl>
-<dt></dt>
-<dd>EES-ráðið getur, eftir því sem við á, tekið stjórnmálalegar ákvarðanir með það fyrir augum að hafnar verði samningaviðræður milli samningsaðila.</dd>
-</dl>
 
+EES-ráðið getur, eftir því sem við á, tekið stjórnmálalegar ákvarðanir með það fyrir augum að hafnar verði samningaviðræður milli samningsaðila.
 
-      2. Samningar sem samningaviðræður samkvæmt 1. mgr. leiða til skulu háðir fullgildingu eða samþykki samningsaðila í samræmi við þeirra eigin reglur.
+     2. Samningar sem samningaviðræður samkvæmt 1. mgr. leiða til skulu háðir fullgildingu eða samþykki samningsaðila í samræmi við þeirra eigin reglur.
 
 
 
@@ -1599,11 +1606,8 @@ _[^1)^]"L. 66/1993, 4. gr. fylgiskjals.":/altext/stjt/1993.066.html_
 
      Sérhver samningsaðili getur sagt upp aðild sinni að samningi þessum að því tilskildu að hann veiti öðrum samningsaðilum að minnsta kosti tólf mánaða fyrirvara með skriflegum hætti.
 
-<dl>
-<dt></dt>
-<dd>Jafnskjótt og fyrirhuguð uppsögn hefur verið tilkynnt skulu hinir samningsaðilarnir boða til ráðstefnu stjórnarerindreka til þess að meta hvaða breytingar sé nauðsynlegt að gera á samningnum.</dd>
-</dl>
 
+Jafnskjótt og fyrirhuguð uppsögn hefur verið tilkynnt skulu hinir samningsaðilarnir boða til ráðstefnu stjórnarerindreka til þess að meta hvaða breytingar sé nauðsynlegt að gera á samningnum.
 
 
 
@@ -1628,18 +1632,15 @@ Textar gerða, sem vísað er til í viðaukunum, eru jafngildir á dönsku, ens
 
      2. Samningsaðilar skulu fullgilda eða samþykkja samning þennan í samræmi við stjórnskipuleg skilyrði hvers um sig.
 
-<dl>
-<dt></dt>
-<dd>Samningnum skal komið í vörslu hjá aðalskrifstofu ráðs Evrópubandalaganna sem skal senda hverjum hinna samningsaðilanna staðfest endurrit.</dd>
-<dt></dt>
-<dd>Fullgildingar- og samþykktarskjölunum skal komið í vörslu hjá aðalskrifstofu ráðs Evrópubandalaganna sem skal tilkynna öllum hinum samningsaðilunum það.</dd>
-</dl>
+
+Samningnum skal komið í vörslu hjá aðalskrifstofu ráðs Evrópubandalaganna sem skal senda hverjum hinna samningsaðilanna staðfest endurrit.
+
+Fullgildingar- og samþykktarskjölunum skal komið í vörslu hjá aðalskrifstofu ráðs Evrópubandalaganna sem skal tilkynna öllum hinum samningsaðilunum það.
+
+     3. [Samningur þessi öðlast gildi þann dag og með þeim skilyrðum sem kveðið er á um í bókuninni um breytingu á samningnum um Evrópska efnahagssvæðið.][^1)^]
 
 
-      3. [Samningur þessi öðlast gildi þann dag og með þeim skilyrðum sem kveðið er á um í bókuninni um breytingu á samningnum um Evrópska efnahagssvæðið.][^1)^]
-
-
-_[^1)^]"L. 66/1993, 6. gr. fylgiskjals.":/altext/stjt/1993.066.html "Bókunin, sem hér er vísað til, er í fylgiskjali V., 22. gr.":/altext/stjt/1993.066.html_
+_[^1)^]"L. 66/1993, 6. gr. fylgiskjals.":/altext/stjt/1993.066.html "Bókunin, sem hér er vísað til, er í fylgiskjali V, 22. gr.":/altext/stjt/1993.066.html_
 
 
 
@@ -1740,7 +1741,7 @@ _G-liður 1. tölul. XII. viðauka._
 
 *Fylgiskjal V.[^1)^]*
 
-_[^1)^]Fylgiskjal með "L. 66/1993":/altext/stjt/1993.066.html._
+_[^1)^]Fylgiskjal með "l. 66/1993":/altext/stjt/1993.066.html._
 
 _Bókun um breytingu á samningnum um evrópska efnahagssvæðið._
 
@@ -1780,8 +1781,15 @@ EFNAHAGSBANDALAG EVRÓPU,
 
      1. EES-samningurinn, eins og honum er breytt með bókun þessari, skal öðlast gildi daginn sem bókun þessi öðlast gildi, milli Efnahagsbandalags Evrópu, Kola- og stálbandalags Evrópu, aðildarríkja þeirra og Lýðveldisins Austurríkis, Lýðveldisins Finnlands, Lýðveldisins Íslands, Konungsríkisins Noregs og Konungsríkisins Svíþjóðar.
       2. Að því er varðar Furstadæmið Liechtenstein skal EES-samningurinn, eins og honum er breytt með bókun þessari, öðlast gildi þann dag sem EES-ráðið ákveður og að því tilskildu að
-  --  EES-ráðið hafi ákveðið að skilyrði b-liðar 121. gr. EES-samningsins, nánar tiltekið um að góð framkvæmd EES-samningsins raskist ekki, hafi verið fullnægt; og
-  --  EES-ráðið hafi tekið viðeigandi ákvarðanir, einkum að því er varðar beitingu þeirra ákvarðana gagnvart Liechtenstein sem EES-ráðið og sameiginlega EES-nefndin hafa þegar tekið.
+
+<dl>
+<dt> -- </dt>
+<dd>EES-ráðið hafi ákveðið að skilyrði b-liðar 121. gr. EES-samningsins, nánar tiltekið um að góð framkvæmd EES-samningsins raskist ekki, hafi verið fullnægt; og</dd>
+<dt> -- </dt>
+<dd>EES-ráðið hafi tekið viðeigandi ákvarðanir, einkum að því er varðar beitingu þeirra ákvarðana gagnvart Liechtenstein sem EES-ráðið og sameiginlega EES-nefndin hafa þegar tekið.</dd>
+</dl>
+
+
       3. Liechtenstein skal vera heimilt að eiga þátt í ákvörðunum EES-ráðsins skv. 2. mgr. hér að framan.
 
 

@@ -77,36 +77,33 @@ _[^1)^]"L. 83/1997, 140. gr.":/altext/stjt/1997.083.html_
      Þjóðvegir skulu mynda eðlilegt, samfellt vegakerfi til tengingar byggða landsins. Vegakerfi þetta skal tengja öll býli á landinu, alla þéttbýlisstaði, flugvelli þar sem starfrækt er reglubundið áætlunarflug, hafnir og bryggjur ef þaðan eru stundaðar áætlunarsiglingar og aðra staði eins og nánar er lýst hér á eftir.
       Þjóðvegum skal skipað í flokka eftir eftirfarandi reglum:
 
-<dl>
-<dt></dt>
-<dd>_Stofnvegir:_</dd>
-<dt></dt>
-<dd>Vegir sem ná til 1.000 íbúa svæðis og tengja slík svæði saman. Víkja má frá reglunni um íbúafjölda ef um er að ræða tengingu kaupstaða eða kauptúna sem mynda samræmda heild frá atvinnulegu eða félagslegu sjónarmiði. Sama gildir um vegi sem hafa mikla árstíðabundna umferð eða þar sem innan 10 ára má búast við 1.000 bíla umferð á dag yfir sumarmánuðina. Við það stofnvegakerfi sem þannig fæst skal tengja með stofnvegi þéttbýli 400 íbúa eða fleiri enda sé tengingin ekki lengri en 20 km, svo og þéttbýli með 200 - 400 íbúa ef tenging er ekki lengri en sem svarar 5 km fyrir hverja 100 íbúa í þéttbýlinu. Þar sem stofnvegur endar í þéttbýli skal hann ná til þess svæðis sem mikilvægast er fyrir athafnalíf þéttbýlisins.</dd>
-<dt></dt>
-<dd>_Tengivegir:_</dd>
-<dt></dt>
-<dd>Vegir sem tengja safnvegi við stofnvegi og ná að þriðja býli frá vegarenda þar sem búseta er. Þetta ákvæði gildir þó ekki ef um er að ræða veg í kaupstað eða kauptúni. Einnig má telja tengiveg að innsta býli þar sem landsvegur liggur úr byggð.</dd>
-<dt></dt>
-<dd>Þar sem tengivegur tengir þéttbýli við stofnvegakerfið skal hann ná til þess svæðis sem mikilvægast er fyrir athafnalíf þéttbýlisins.</dd>
-<dt></dt>
-<dd>Vegir að flugvöllum þar sem starfrækt er reglubundið áætlunarflug og vegir að höfnum og bryggjum, ef þaðan eru stundaðar áætlunarsiglingar, skulu einnig vera tengivegir ef þeir eru ekki stofnvegir samkvæmt skilgreiningu um þann vegflokk.</dd>
-<dt></dt>
-<dd>_Safnvegir:_</dd>
-<dt></dt>
-<dd>Safnvegir tengja einstök býli, stofnanir o.fl. við tengivegi eða stofnvegi.</dd>
-<dt></dt>
-<dd>Til safnvega teljast:</dd>
-<dt></dt>
-<dd>Vegir að öllum býlum sem búseta er á og ekki eru tengd með stofnvegi eða tengivegi. Vegur samkvæmt þessum lið skal þó aldrei teljast ná nær býli en 50 m ef hann endar þar eða vera inni í þéttri byggð ef vegakerfi þar er styttra en sem svarar 50 m fyrir hvert býli eða íbúð.</dd>
-<dt></dt>
-<dd>Vegir að kirkjustöðum, opinberum skólum og öðrum opinberum stofnunum í dreifbýli og í þéttbýli með minna en 200 íbúa.</dd>
-<dt></dt>
-<dd>_Landsvegir:_</dd>
-<dt></dt>
-<dd>Til þessa vegflokks skal telja þjóðvegi sem ekki tilheyra neinum af framangreindum vegflokkum. Þar er um að ræða vegi yfir fjöll og heiðar, þar á meðal vegi sem tengja saman landshluta, vegi innan þjóðgarða og vegi að fjölsóttum ferðamannastöðum.</dd>
-<dt></dt>
-<dd>Á vegum þessum skal yfirleitt einungis gera ráð fyrir árstíðabundinni umferð og minna eftirliti og minni þjónustu en á öðrum þjóðvegum.</dd>
-</dl>
+_Stofnvegir:_
+
+Vegir sem ná til 1.000 íbúa svæðis og tengja slík svæði saman. Víkja má frá reglunni um íbúafjölda ef um er að ræða tengingu kaupstaða eða kauptúna sem mynda samræmda heild frá atvinnulegu eða félagslegu sjónarmiði. Sama gildir um vegi sem hafa mikla árstíðabundna umferð eða þar sem innan 10 ára má búast við 1.000 bíla umferð á dag yfir sumarmánuðina. Við það stofnvegakerfi sem þannig fæst skal tengja með stofnvegi þéttbýli 400 íbúa eða fleiri enda sé tengingin ekki lengri en 20 km, svo og þéttbýli með 200 - 400 íbúa ef tenging er ekki lengri en sem svarar 5 km fyrir hverja 100 íbúa í þéttbýlinu. Þar sem stofnvegur endar í þéttbýli skal hann ná til þess svæðis sem mikilvægast er fyrir athafnalíf þéttbýlisins.
+
+_Tengivegir:_
+
+Vegir sem tengja safnvegi við stofnvegi og ná að þriðja býli frá vegarenda þar sem búseta er. Þetta ákvæði gildir þó ekki ef um er að ræða veg í kaupstað eða kauptúni. Einnig má telja tengiveg að innsta býli þar sem landsvegur liggur úr byggð.
+
+Þar sem tengivegur tengir þéttbýli við stofnvegakerfið skal hann ná til þess svæðis sem mikilvægast er fyrir athafnalíf þéttbýlisins.
+
+Vegir að flugvöllum þar sem starfrækt er reglubundið áætlunarflug og vegir að höfnum og bryggjum, ef þaðan eru stundaðar áætlunarsiglingar, skulu einnig vera tengivegir ef þeir eru ekki stofnvegir samkvæmt skilgreiningu um þann vegflokk.
+
+_Safnvegir:_
+
+Safnvegir tengja einstök býli, stofnanir o.fl. við tengivegi eða stofnvegi.
+
+Til safnvega teljast:
+
+Vegir að öllum býlum sem búseta er á og ekki eru tengd með stofnvegi eða tengivegi. Vegur samkvæmt þessum lið skal þó aldrei teljast ná nær býli en 50 m ef hann endar þar eða vera inni í þéttri byggð ef vegakerfi þar er styttra en sem svarar 50 m fyrir hvert býli eða íbúð.
+
+Vegir að kirkjustöðum, opinberum skólum og öðrum opinberum stofnunum í dreifbýli og í þéttbýli með minna en 200 íbúa.
+
+_Landsvegir:_
+
+Til þessa vegflokks skal telja þjóðvegi sem ekki tilheyra neinum af framangreindum vegflokkum. Þar er um að ræða vegi yfir fjöll og heiðar, þar á meðal vegi sem tengja saman landshluta, vegi innan þjóðgarða og vegi að fjölsóttum ferðamannastöðum.
+
+Á vegum þessum skal yfirleitt einungis gera ráð fyrir árstíðabundinni umferð og minna eftirliti og minni þjónustu en á öðrum þjóðvegum.
 
 
 
@@ -194,7 +191,7 @@ _[^1)^]"L. 83/1997, 140. gr.":/altext/stjt/1997.083.html_
       Er þingsályktun um vegáætlun hefur gilt í tvö ár skal hún tekin til endurskoðunar og jafnframt samin áætlun fyrir tvö ár til viðbótar þannig að ávallt sé fyrir hendi gildandi vegáætlun fyrir a.m.k. tvö ár.
 
 
-_[^1)^]Augl. A 101/1998, um þingsályktun um vegáætlun fyrir árin 1998 - 2002, og augl. A 103/1998, um þingsályktun um langtímaáætlun í vegagerð._
+_[^1)^]Augl. A 101/1998, um þingsályktun um vegáætlun fyrir árin 1998 - 2002._
 
 
 
@@ -259,8 +256,12 @@ _[^1)^]Augl. A 101/1998, um þingsályktun um vegáætlun fyrir árin 1998 - 200
 28. gr.
 
      Samgönguráðherra leggur að fengnum tillögum vegamálastjóra tillögu til þingsályktunar um langtímaáætlun í vegagerð fyrir Alþingi. Áætlunin skal vera til 12 ára. Í áætluninni skal gerð grein fyrir markmiðum áætlunarinnar, áætlaðri fjáröflun skipt á þrjú fjögurra ára tímabil og útgjöld sundurliðuð á helstu framkvæmdaflokka. Við meðferð tillögunnar fyrir Alþingi skal útgjöldum skipt til einstakra framkvæmdaliða á hverju hinna þriggja tímabila, þar með talið til einstakra vegarkafla á stofnvegum. Tillöguna skal afgreiða í endanlegu formi sem þingsályktun um langtímaáætlun í vegagerð.
-      Langtímaáætlun um vegagerð öðlast gildi þegar Alþingi hefur samþykkt hana.
+      Langtímaáætlun um vegagerð öðlast gildi þegar Alþingi hefur samþykkt hana.[^1)^]
       Þegar þingsályktun um langtímaáætlun í vegagerð hefur gilt í fjögur ár skal hún tekin til endurskoðunar og jafnframt samin áætlun fyrir eitt fjögurra ára tímabil til viðbótar þannig að alltaf sé fyrir hendi gildandi langtímaáætlun fyrir a.m.k. tvö fjögurra ára tímabil.
+
+
+_[^1)^]Augl. A 103/1998, um þingsályktun um langtímaáætlun í vegagerð._
+
 
 
 
@@ -336,9 +337,9 @@ _[^1)^]"L. 56/1995, 1. gr.":/altext/stjt/1995.056.html_
 
 
 
-[38. gr.]
+[38. gr.][^1)^]
 
-[^1)^]      Enginn má gera girðingu yfir veg með hliði á veginum án leyfis Vegagerðarinnar nema um einkaveg sé að ræða. Sama bann gildir þar sem mælt og markað hefur verið fyrir vegi enda hafi Vegagerðin tilkynnt jarðarábúanda hvar mælt hefur verið.
+     Enginn má gera girðingu yfir veg með hliði á veginum án leyfis Vegagerðarinnar nema um einkaveg sé að ræða. Sama bann gildir þar sem mælt og markað hefur verið fyrir vegi enda hafi Vegagerðin tilkynnt jarðarábúanda hvar mælt hefur verið.
       Nú er leyft að gera girðingu yfir veg með hliði á veginum og skal þá grind vera í hliðinu, að minnsta kosti 4 m á breidd, þannig gerð að hún haldist opin af sjálfu sér meðan ekið er um hliðið. Skylt er vegfarendum að loka hliðinu á eftir sér.
       Vegagerðinni er heimilt að afturkalla með eins árs fyrirvara gefið leyfi til þess að gera girðingu yfir veg með hliði á veginum.
 

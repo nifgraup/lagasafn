@@ -13,26 +13,25 @@ h2. Lög um gjaldeyrismál
 
      Í lögum þessum hafa eftirfarandi orð merkingu sem hér segir:
 
-<dl>
-<dt></dt>
-<dd>Innlendur aðili merkir:
+Innlendur aðili merkir:
+
 <dl>
 <dt>1.</dt>
 <dd>sérhvern mann sem hefur fasta búsetu hér á landi samkvæmt lögum um lögheimili án tillits til ríkisfangs; sama á við um íslenskan ríkisborgara og skyldulið hans sem hefur búsetu erlendis en gegnir störfum þar á vegum íslenska ríkisins við sendiráð, fastanefnd eða ræðismannsskrifstofu og tekur laun úr ríkissjóði eða er starfsmaður alþjóðastofnunar sem Ísland er aðili að;</dd>
 <dt>2.</dt>
 <dd>sérhvern lögaðila sem skráður er til heimilis hér á landi á lögmæltan hátt, telur heimili sitt hér á landi samkvæmt samþykktum sínum eða ef raunveruleg framkvæmdastjórn hans er hér á landi; hérlend útibú lögaðila, sem heimili eiga erlendis, teljast til innlendra aðila.</dd>
 </dl>
-</dd>
-<dt></dt>
-<dd>Erlendur aðili merkir alla aðra aðila en innlenda.</dd>
-<dt></dt>
-<dd>Innlendur gjaldeyrir merkir íslenska peningaseðla, slegna peninga, tékka og aðrar ávísanir, víxla og önnur greiðslufyrirmæli sem hljóða upp á greiðslu í íslenskum krónum, minnispeninga, gull, silfur og aðra dýra málma ef þeir eru notaðir sem gjaldmiðill í viðskiptum hér á landi.</dd>
-<dt></dt>
-<dd>Erlendur gjaldeyrir merkir erlenda peningaseðla, slegna peninga, tékka og aðrar ávísanir, víxla og önnur greiðslufyrirmæli sem hljóða upp á greiðslu í erlendri mynt, minnispeninga, gull, silfur og aðra dýra málma ef þeir eru notaðir sem gjaldmiðill í viðskiptum erlendis.</dd>
-<dt></dt>
-<dd>Gjaldeyrisviðskipti merkja það að skipta innlendum gjaldeyri fyrir erlendan, erlendum gjaldeyri fyrir innlendan eða einum erlendum gjaldeyri fyrir annan eða reikningsviðskipti sem eru ígildi þess að erlendur gjaldeyrir sé látinn af hendi eða móttekinn.</dd>
-<dt></dt>
-<dd>Fjármagnshreyfingar merkja yfirfærslu eða flutning á fjármunum milli landa sem tengjast:
+
+Erlendur aðili merkir alla aðra aðila en innlenda.
+
+Innlendur gjaldeyrir merkir íslenska peningaseðla, slegna peninga, tékka og aðrar ávísanir, víxla og önnur greiðslufyrirmæli sem hljóða upp á greiðslu í íslenskum krónum, minnispeninga, gull, silfur og aðra dýra málma ef þeir eru notaðir sem gjaldmiðill í viðskiptum hér á landi.
+
+Erlendur gjaldeyrir merkir erlenda peningaseðla, slegna peninga, tékka og aðrar ávísanir, víxla og önnur greiðslufyrirmæli sem hljóða upp á greiðslu í erlendri mynt, minnispeninga, gull, silfur og aðra dýra málma ef þeir eru notaðir sem gjaldmiðill í viðskiptum erlendis.
+
+Gjaldeyrisviðskipti merkja það að skipta innlendum gjaldeyri fyrir erlendan, erlendum gjaldeyri fyrir innlendan eða einum erlendum gjaldeyri fyrir annan eða reikningsviðskipti sem eru ígildi þess að erlendur gjaldeyrir sé látinn af hendi eða móttekinn.
+
+Fjármagnshreyfingar merkja yfirfærslu eða flutning á fjármunum milli landa sem tengjast:
+
 <dl>
 <dt>1.</dt>
 <dd>beinum fjárfestingum,</dd>
@@ -49,9 +48,9 @@ h2. Lög um gjaldeyrismál
 <dt>7.</dt>
 <dd>yfirfærslu á fjármunum einstaklinga og fjölskyldna.</dd>
 </dl>
-</dd>
-<dt></dt>
-<dd>Skammtímahreyfingar fjármagns merkja fjármagnshreyfingar milli landa sem tengjast:
+
+Skammtímahreyfingar fjármagns merkja fjármagnshreyfingar milli landa sem tengjast:
+
 <dl>
 <dt>1.</dt>
 <dd>útgáfu á og viðskiptum með skuldabréf og víxla með lokagjalddaga allt að einu ári frá útgáfudegi og önnur slík skammtímaverðbréf,</dd>
@@ -62,20 +61,18 @@ h2. Lög um gjaldeyrismál
 <dt>4.</dt>
 <dd>innleggi á og úttekt af reikningum í innlánsstofnunum.</dd>
 </dl>
-</dd>
-<dt></dt>
-<dd>Jafnframt teljast til skammtímahreyfinga fjármagns inn- og útflutningur skammtímaverðbréfa og önnur hliðstæð viðskipti.</dd>
-<dt></dt>
-<dd>Langtímahreyfingar fjármagns merkja allar aðrar fjármagnshreyfingar en skammtímahreyfingar fjármagns.</dd>
-<dt></dt>
-<dd>Bein fjárfesting merkir fjárframlag eða annað framlag til eigin fjár atvinnufyrirtækis eða kaup á eignarhlut til að öðlast virk áhrif á stjórn þess. Langtímalán frá eigendum fyrirtækis til fyrirtækisins teljast einnig bein fjárfesting.</dd>
-<dt></dt>
-<dd>Óbein fjárfesting merkir alla aðra fjárfestingu en beina fjárfestingu, einkum fjárfestingu í verðbréfum sem er fyrst og fremst til þess ætluð að ávaxta fé en ekki til að öðlast virk áhrif á stjórn fyrirtækis.</dd>
-<dt></dt>
-<dd>Innlend verðbréf merkja hvers konar framseljanleg kröfuréttindi sem innlendur aðili gefur út, svo sem hlutabréf, arðmiða, skuldabréf, vaxtamiða, hlutdeildarskírteini í verðbréfasjóði, svo og framseljanleg skilríki fyrir eignarréttindum að öðrum eignum en fasteignum eða einstökum lausafjármunum.</dd>
-<dt></dt>
-<dd>Erlend verðbréf merkja hvers konar framseljanleg kröfuréttindi sem erlendur aðili gefur út, svo sem hlutabréf, arðmiða, skuldabréf, vaxtamiða, hlutdeildarskírteini í verðbréfasjóði, svo og framseljanleg skilríki fyrir eignarréttindum að öðrum eignum en fasteignum eða einstökum lausafjármunum.</dd>
-</dl>
+
+Jafnframt teljast til skammtímahreyfinga fjármagns inn- og útflutningur skammtímaverðbréfa og önnur hliðstæð viðskipti.
+
+Langtímahreyfingar fjármagns merkja allar aðrar fjármagnshreyfingar en skammtímahreyfingar fjármagns.
+
+Bein fjárfesting merkir fjárframlag eða annað framlag til eigin fjár atvinnufyrirtækis eða kaup á eignarhlut til að öðlast virk áhrif á stjórn þess. Langtímalán frá eigendum fyrirtækis til fyrirtækisins teljast einnig bein fjárfesting.
+
+Óbein fjárfesting merkir alla aðra fjárfestingu en beina fjárfestingu, einkum fjárfestingu í verðbréfum sem er fyrst og fremst til þess ætluð að ávaxta fé en ekki til að öðlast virk áhrif á stjórn fyrirtækis.
+
+Innlend verðbréf merkja hvers konar framseljanleg kröfuréttindi sem innlendur aðili gefur út, svo sem hlutabréf, arðmiða, skuldabréf, vaxtamiða, hlutdeildarskírteini í verðbréfasjóði, svo og framseljanleg skilríki fyrir eignarréttindum að öðrum eignum en fasteignum eða einstökum lausafjármunum.
+
+Erlend verðbréf merkja hvers konar framseljanleg kröfuréttindi sem erlendur aðili gefur út, svo sem hlutabréf, arðmiða, skuldabréf, vaxtamiða, hlutdeildarskírteini í verðbréfasjóði, svo og framseljanleg skilríki fyrir eignarréttindum að öðrum eignum en fasteignum eða einstökum lausafjármunum.
 
 
 

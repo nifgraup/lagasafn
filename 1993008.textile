@@ -53,36 +53,33 @@ h2. Samkeppnislög
 
      Merking orða í lögum þessum er sem hér segir:
 
-<dl>
-<dt></dt>
-<dd>Atvinnurekstur er hvers konar atvinnustarfsemi, óháð formi eignarhalds og án tillits til þeirrar vöru, þjónustu eða réttinda sem verslað eða sýslað er með gegn endurgjaldi.</dd>
-<dt></dt>
-<dd>Fyrirtæki er einstaklingur, félag, opinberir aðilar og aðrir sem stunda atvinnurekstur.</dd>
-<dt></dt>
-<dd>Fyrirtækjasamstæða er samband fyrirtækja með þannig eignauppbyggingu að eitt fyrirtæki á svo stóran hlut í öðru fyrirtæki eða fleiri fyrirtækjum að það fer með meiri hluta atkvæða. Það fyrirtæki skoðast því sem móðurfyrirtæki, en hitt eða hin fyrirtækin sem dótturfyrirtæki. Til fyrirtækjasamstæðu telst einnig fyrirtæki þar sem móðurfyrirtæki og dótturfyrirtæki eða eitt eða fleiri dótturfyrirtæki eiga saman svo mörg hlutabréf eða hluti að þau fara með meiri hluta atkvæða í þeim.</dd>
-<dt></dt>
-<dd>Markaðsráðandi staða er þegar fyrirtæki hefur þann efnahagslega styrkleika að geta hindrað virka samkeppni á þeim markaði sem máli skiptir og það getur að verulegu leyti starfað án þess að taka tillit til keppinauta, viðskiptavina og neytenda.</dd>
-<dt></dt>
-<dd>Markaður er sölusvæði vöru og staðgengdarvöru og/eða sölusvæði þjónustu og staðgengdarþjónustu. Staðgengdarvara og staðgengdarþjónusta er vara eða þjónusta sem að fullu eða verulegu leyti getur komið í stað annarrar.</dd>
-<dt></dt>
-<dd>Neytandi er einstaklingur sem kaupir vöru eða þjónustu gegn endurgjaldi, enda séu kaupin ekki gerð í atvinnuskyni.</dd>
-<dt></dt>
-<dd>Sölustig framleiðslu ber að líta á sem eitt sölustig, heildsölu annað sölustig, smásölu hið þriðja o.s.frv.</dd>
-<dt></dt>
-<dd>Þjónusta er hvers konar fyrirgreiðsla, vinna eða þjónusta gegn endurgjaldi, nema launuð vinna í þjónustu annarra.</dd>
-<dt></dt>
-<dd>Vara er samkvæmt lögum þessum fasteignir og lausafé, þar með talin skip, loftför, lofttegundir, rafmagn og aðrir orkugjafar.</dd>
-<dt></dt>
-<dd>Verð er andvirði vöru og þjónustu, þ.e. hvers konar endurgreiðsla án tillits til þess hvort notað er annað heiti, svo sem endurgjald, laun, þóknun, frakt, flutningsgjald, taxti, leiga eða því um líkt.</dd>
-<dt></dt>
-<dd>Virk yfirráð eru yfirráð sem gera aðila kleift að hafa úrslitaáhrif á rekstur og stjórnun fyrirtækis hvort sem þau áhrif eru til komin vegna þess að hann getur:
+Atvinnurekstur er hvers konar atvinnustarfsemi, óháð formi eignarhalds og án tillits til þeirrar vöru, þjónustu eða réttinda sem verslað eða sýslað er með gegn endurgjaldi.
+
+Fyrirtæki er einstaklingur, félag, opinberir aðilar og aðrir sem stunda atvinnurekstur.
+
+Fyrirtækjasamstæða er samband fyrirtækja með þannig eignauppbyggingu að eitt fyrirtæki á svo stóran hlut í öðru fyrirtæki eða fleiri fyrirtækjum að það fer með meiri hluta atkvæða. Það fyrirtæki skoðast því sem móðurfyrirtæki, en hitt eða hin fyrirtækin sem dótturfyrirtæki. Til fyrirtækjasamstæðu telst einnig fyrirtæki þar sem móðurfyrirtæki og dótturfyrirtæki eða eitt eða fleiri dótturfyrirtæki eiga saman svo mörg hlutabréf eða hluti að þau fara með meiri hluta atkvæða í þeim.
+
+Markaðsráðandi staða er þegar fyrirtæki hefur þann efnahagslega styrkleika að geta hindrað virka samkeppni á þeim markaði sem máli skiptir og það getur að verulegu leyti starfað án þess að taka tillit til keppinauta, viðskiptavina og neytenda.
+
+Markaður er sölusvæði vöru og staðgengdarvöru og/eða sölusvæði þjónustu og staðgengdarþjónustu. Staðgengdarvara og staðgengdarþjónusta er vara eða þjónusta sem að fullu eða verulegu leyti getur komið í stað annarrar.
+
+Neytandi er einstaklingur sem kaupir vöru eða þjónustu gegn endurgjaldi, enda séu kaupin ekki gerð í atvinnuskyni.
+
+Sölustig framleiðslu ber að líta á sem eitt sölustig, heildsölu annað sölustig, smásölu hið þriðja o.s.frv.
+
+Þjónusta er hvers konar fyrirgreiðsla, vinna eða þjónusta gegn endurgjaldi, nema launuð vinna í þjónustu annarra.
+
+Vara er samkvæmt lögum þessum fasteignir og lausafé, þar með talin skip, loftför, lofttegundir, rafmagn og aðrir orkugjafar.
+
+Verð er andvirði vöru og þjónustu, þ.e. hvers konar endurgreiðsla án tillits til þess hvort notað er annað heiti, svo sem endurgjald, laun, þóknun, frakt, flutningsgjald, taxti, leiga eða því um líkt.
+
+Virk yfirráð eru yfirráð sem gera aðila kleift að hafa úrslitaáhrif á rekstur og stjórnun fyrirtækis hvort sem þau áhrif eru til komin vegna þess að hann getur:
+
 <dl>
 <dt>a.</dt>
 <dd>haft áhrif á skipun stjórnar, atkvæðagreiðslur eða ákvarðanir fyrirtækisins,</dd>
 <dt>b.</dt>
 <dd>notað eða ráðstafað eignum eða hluta eigna fyrirtækis.</dd>
-</dl>
-</dd>
 </dl>
 
 
@@ -371,8 +368,10 @@ _[^1)^]Augl. 559/1994 og rg. 21/1995._
      Fyrirtæki, sem selur vörur eða þjónustu til neytenda, skal merkja vöru sína og þjónustu með söluverði eða sýna það á svo áberandi hátt á sölustaðnum að auðvelt sé fyrir neytendur að sjá það. Samkeppnisstofnun getur sett nánari ákvæði um verðmerkingar með opinberri tilkynningu.[^1)^]
 
 
-
 _[^1)^]Rg. 577/1994, 578/1994, 580/1994, 512/1996 og 580/1998._
+
+
+
 
 32. gr.
 
@@ -510,8 +509,10 @@ _[^1)^]Rg. 522/1995. Rg. 512/1996. Rg. 309/1998. Rg. 719/1998._
      Ráðherra er heimilt að fenginni umsögn samkeppnisráðs að setja reglugerð um nánari framkvæmd samkeppnisreglna samningsins um Evrópska efnahagssvæðið og samningsins um eftirlitsstofnun og dómstól EFTA. Ráðherra er einnig heimilt að setja nánari reglur um framkvæmd reglna EES-samningsins um ríkisaðstoð til aðila hér á landi.[^1)^]
 
 
+_[^1)^]Rg. 593/1993, sbr. 338/1996, 358/1998 og 245/1999. Rg. 594/1993, sbr. 375/1994, 338/1995, 600/1995, 226/1996, 564/1996, 683/1997, 755/1997 og 349/1998. Rg. 229/1997. Rg. 230/1997._
 
-_[^1)^]Rg. 593/1993, sbr. 338/1996 og 358/1998. Rg. 594/1993, sbr. 375/1994, 338/1995, 600/1995, 226/1996, 564/1996, 683/1997, 755/1997 og 349/1998. Rg. 229/1997. Rg. 230/1997._
+
+
 
 *XII. kafli.*
 

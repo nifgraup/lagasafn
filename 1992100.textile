@@ -23,26 +23,23 @@ h2. Lög um vog, mál og faggildingu
 
      Í lögum þessum hafa eftirfarandi orð merkingu sem hér greinir:
 
-<dl>
-<dt></dt>
-<dd>Eftirlit merkir athugun á vöru, þjónustu, hönnun vöru, ferli eða verksmiðju til að ákvarða samræmi þeirra við tilteknar kröfur eða almennar kröfur og skal þá byggt á faglegum úrskurði.</dd>
-<dt></dt>
-<dd>Faggilding merkir aðferð sem þar til bær aðili beitir til að veita formlega viðurkenningu á því að aðili sé hæfur til að vinna tiltekin verkefni.</dd>
-<dt></dt>
-<dd>Kvörðun merkir röð aðgerða sem staðfesta við tilgreindar aðstæður sambandið milli gilda sem mælitæki eða mælibúnaður sýnir eða gilda sem áþreifanlegur mælikvarði táknar og tilsvarandi þekktra gilda þess sem mælt er.</dd>
-<dt></dt>
-<dd>Landsmæligrunnur merkir opinbera viðmiðun allra annarra mæligrunna í landinu.</dd>
-<dt></dt>
-<dd>Löggilding merkir aðgerð til að tryggja og staðfesta að mælitæki og vigtarmenn fullnægi í einu og öllu kröfum laga og reglugerða.</dd>
-<dt></dt>
-<dd>Mæligrunnur merkir áþreifanlegan mælikvarða, mælitæki eða mælibúnað til þess að skilgreina, raungera, varðveita eða birta einingu eða gildi eðlisfræðistærðar til þess að flytja þessa einingu eða stærð yfir á önnur mælitæki með samanburði.</dd>
-<dt></dt>
-<dd>Prófun merkir tæknilega framkvæmd sem felur í sér ákvörðun á einu eða fleiri einkennum tiltekinnar vöru, ferils eða þjónustu samkvæmt fyrir fram tilgreindum verklagsreglum.</dd>
-<dt></dt>
-<dd>Tilnefndur aðili merkir prófunarstofu, vottunarstofu eða eftirlitsaðila sem stjórnvöld tilnefna til að annast yfirumsjón með samræmismati samkvæmt tilskipunum Evrópubandalagsins (EB) og samkomulagi aðildarríkja Fríverslunarsamtaka Evrópu (EFTA) um gagnkvæma viðurkenningu á niðurstöðum prófana og staðfestingum á samræmi frá 15. júní 1988 (Tampere-samkomulaginu).</dd>
-<dt></dt>
-<dd>Vottun merkir aðferð sem þriðji aðili beitir til að veita formlega staðfestingu á því að vara, ferli eða þjónusta sé í samræmi við tilgreindar kröfur.</dd>
-</dl>
+Eftirlit merkir athugun á vöru, þjónustu, hönnun vöru, ferli eða verksmiðju til að ákvarða samræmi þeirra við tilteknar kröfur eða almennar kröfur og skal þá byggt á faglegum úrskurði.
+
+Faggilding merkir aðferð sem þar til bær aðili beitir til að veita formlega viðurkenningu á því að aðili sé hæfur til að vinna tiltekin verkefni.
+
+Kvörðun merkir röð aðgerða sem staðfesta við tilgreindar aðstæður sambandið milli gilda sem mælitæki eða mælibúnaður sýnir eða gilda sem áþreifanlegur mælikvarði táknar og tilsvarandi þekktra gilda þess sem mælt er.
+
+Landsmæligrunnur merkir opinbera viðmiðun allra annarra mæligrunna í landinu.
+
+Löggilding merkir aðgerð til að tryggja og staðfesta að mælitæki og vigtarmenn fullnægi í einu og öllu kröfum laga og reglugerða.
+
+Mæligrunnur merkir áþreifanlegan mælikvarða, mælitæki eða mælibúnað til þess að skilgreina, raungera, varðveita eða birta einingu eða gildi eðlisfræðistærðar til þess að flytja þessa einingu eða stærð yfir á önnur mælitæki með samanburði.
+
+Prófun merkir tæknilega framkvæmd sem felur í sér ákvörðun á einu eða fleiri einkennum tiltekinnar vöru, ferils eða þjónustu samkvæmt fyrir fram tilgreindum verklagsreglum.
+
+Tilnefndur aðili merkir prófunarstofu, vottunarstofu eða eftirlitsaðila sem stjórnvöld tilnefna til að annast yfirumsjón með samræmismati samkvæmt tilskipunum Evrópubandalagsins (EB) og samkomulagi aðildarríkja Fríverslunarsamtaka Evrópu (EFTA) um gagnkvæma viðurkenningu á niðurstöðum prófana og staðfestingum á samræmi frá 15. júní 1988 (Tampere-samkomulaginu).
+
+Vottun merkir aðferð sem þriðji aðili beitir til að veita formlega staðfestingu á því að vara, ferli eða þjónusta sé í samræmi við tilgreindar kröfur.
 
 
 
@@ -277,7 +274,7 @@ _[^1)^]Rg. 129/1994, 130/1994, sbr. 428/1994, 131/1994, 132/1994, 133/1994, 134/
 
 *I.*
 
-     Þrátt fyrir ákvæði 19. gr. skulu löggildingar, sem veittar hafa verið vigtarmönnum af lögreglustjórum skv. "1. gr. laga nr. 60/1915":/altext/stjtnr.html#1915060?g1, halda gildi sínu uns þeim er breytt eða þær eru afturkallaðar samkvæmt ákvæðum þessara laga, þó ekki lengur en til 1. janúar 1998.
+     ...
 
 
 
@@ -289,13 +286,10 @@ _[^1)^]Rg. 129/1994, 130/1994, sbr. 428/1994, 131/1994, 132/1994, 133/1994, 134/
 
 *[III.*
 
-     Viðskiptaráðherra er heimilt að setja reglugerðir[^1)^] um öryggi vöru sem boðin er neytendum hér á landi í atvinnuskyni eða neytendum í öðrum ríkjum Evrópska efnahagssvæðisins af aðilum sem staðfestu hafa hér á landi að því leyti sem það er nauðsynlegt vegna skuldbindinga er leiðir af samningi um Evrópskt efnahagssvæði og að því leyti sem ekki er kveðið á um öryggi hlutaðeigandi vöru og eftirlit með því að hún uppfylli settar kröfur í öðrum löndum.
-      Í reglugerð skal kveðið á um hvernig eftirliti með því að vara uppfylli þær kröfur sem til hennar eru gerðar skuli háttað og rétt skoðunarstofa til aðgangs að eftirlitsskyldri vöru.
-      Löggildingarstofan annast eftirlit skv. 2. mgr.
-      Ákvæði þetta fellur úr gildi 1. janúar 1997.][^2)^]
+     ...][^1)^]
 
 
-_[^1)^]Rg. 431/1994 og 636/1994.[^2)^]"L. 52/1995, 1. gr.":/altext/stjt/1995.052.html_
+_[^1)^]"L. 52/1995, 1. gr.":/altext/stjt/1995.052.html_
 
 
 

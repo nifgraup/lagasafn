@@ -21,8 +21,8 @@ h2. Lög um aðgerðir gegn peningaþvætti
 <dt>1.</dt>
 <dd>Móttöku innlána og annarra endurgreiðanlegra fjármuna frá almenningi.</dd>
 <dt>2.</dt>
-<dd>Útlánastarfsemi, m.a.:</dd>
-<dd><dl>
+<dd>Útlánastarfsemi, m.a.:
+<dl>
 <dt>a.</dt>
 <dd>neytendalán,</dd>
 <dt>b.</dt>
@@ -42,8 +42,8 @@ h2. Lög um aðgerðir gegn peningaþvætti
 <dt>6.</dt>
 <dd>Að veita ábyrgðir eða veðtryggingar vegna lántöku.</dd>
 <dt>7.</dt>
-<dd>Viðskipti fyrir eigin reikning eða fyrir viðskiptavini með:</dd>
-<dd><dl>
+<dd>Viðskipti fyrir eigin reikning eða fyrir viðskiptavini með:
+<dl>
 <dt>a.</dt>
 <dd>greiðsluskjöl á peningamarkaði (ávísanir, víxla, önnur sambærileg greiðsluskjöl o.s.frv.),</dd>
 <dt>b.</dt>

@@ -32,12 +32,12 @@ h2. Lög um Eignarhaldsfélagið Brunabótafélag Íslands
      Tilgangur og starfssvið félagsins er einkum:
 
 <dl>
-<dt></dt>
-<dd> --  að taka þátt í vátryggingastarfsemi með eignaraðild að vátryggingafélögum,</dd>
-<dt></dt>
-<dd> --  að stunda lánastarfsemi, m.a. til verklegra framkvæmda sveitarfélaga eftir því sem ástæður félagsins leyfa, svo og rekstur fasteigna,</dd>
-<dt></dt>
-<dd> --  að stuðla að þróun vátrygginga með fræðslu og menntun á því sviði og að taka þátt í eða veita styrki til slíkrar starfsemi.</dd>
+<dt> -- </dt>
+<dd>að taka þátt í vátryggingastarfsemi með eignaraðild að vátryggingafélögum,</dd>
+<dt> -- </dt>
+<dd>að stunda lánastarfsemi, m.a. til verklegra framkvæmda sveitarfélaga eftir því sem ástæður félagsins leyfa, svo og rekstur fasteigna,</dd>
+<dt> -- </dt>
+<dd>að stuðla að þróun vátrygginga með fræðslu og menntun á því sviði og að taka þátt í eða veita styrki til slíkrar starfsemi.</dd>
 </dl>
 
 
@@ -174,7 +174,7 @@ h2. Lög um Eignarhaldsfélagið Brunabótafélag Íslands
 
 *Ákvæði til bráðabirgða.*
 
-     Fulltrúaráð Brunabótafélags Íslands eins og það er skipað við gildistöku laga þessara verði fulltrúaráð Eignarhaldsfélagsins Brunabótafélag Íslands fram að næsta aðalfundi fulltrúaráðsins sem haldinn skal árið 1995 og sama gildir um stjórn þess. Stjórnin skal setja félaginu samþykktir innan tveggja mánaða frá gildistöku laga þessara sem starfa ber eftir þar til fulltrúaráðið hefur sett félaginu samþykktir samkvæmt ákvæðum 14. gr. Starfssvið fulltrúaráðs Brunabótafélags Íslands og stjórnar breytist til samræmis við ákvæði þessara laga. Skipunarbréf forstjóra Brunabótafélags Íslands gildi áfram í samræmi við ákvæði þess.
+     ...
 
 
 

@@ -459,12 +459,12 @@ _Bernarsáttmálinn til verndar bókmenntum og listum frá 9. september 1886, fu
 <dt>5.</dt>
 <dd>gera allar nauðsynlegar ráðstafanir, í samræmi við ákvarðanir sambandsþingsins og með hliðsjón af þeim kringumstæðum, sem fyrir hendi kunna að verða milli tveggja reglulegra sambandsþinga, til að tryggja það, að framkvæmdastjórinn framfylgi framkvæmdaáætlun sambandsins;</dd>
 <dt>6.</dt>
-<dd>framkvæma önnur þau störf, sem nefndinni eru falin samkvæmt þessum sáttmála.
+<dd>framkvæma önnur þau störf, sem nefndinni eru falin samkvæmt þessum sáttmála.</dd>
+</dl>
+
 <dl>
 <dt>b.</dt>
 <dd>Þegar um er að ræða málefni, sem einnig varða hagsmuni annarra sambanda, sem alþjóðasamtökin stjórna, skal framkvæmdanefndin taka ákvarðanir sínar, eftir að leitað hefur verið ráða samræmingarnefndar alþjóðasamtakanna.</dd>
-</dl>
-</dd>
 </dl>
 
 
@@ -636,7 +636,9 @@ _Bernarsáttmálinn til verndar bókmenntum og listum frá 9. september 1886, fu
 <dt>1.</dt>
 <dd>þegar a.m.k. fimm sambandslönd hafa fullgilt þennan samning eða gerst aðilar að honum, án þess að hafa gefið út yfirlýsingu samkvæmt b-lið 1. mgr., og</dd>
 <dt>2.</dt>
-<dd>þegar Frakkland, Spánn, Stóra-Bretland, Norður-Írland og Bandaríkin eru orðin bundin af Almenna höfundarréttarsáttmálanum (Universal Copyright Convention) eftir þá endurskoðun, sem fram fór á honum í París 24. júlí 1971.
+<dd>þegar Frakkland, Spánn, Stóra-Bretland, Norður-Írland og Bandaríkin eru orðin bundin af Almenna höfundarréttarsáttmálanum (Universal Copyright Convention) eftir þá endurskoðun, sem fram fór á honum í París 24. júlí 1971.</dd>
+</dl>
+
 <dl>
 <dt>b.</dt>
 <dd>Gildistakan, sem um er rætt í a-lið, skal eiga við þau sambandslönd, sem a.m.k. þremur mánuðum fyrir gildistökuna hafa skilað fullgildingar- eða aðildarskjölum, sem ekki hafa að geyma yfirlýsingu samkvæmt b-lið 1. mgr.</dd>
@@ -644,8 +646,6 @@ _Bernarsáttmálinn til verndar bókmenntum og listum frá 9. september 1886, fu
 <dd>Að því er varðar hvert það sambandsland, sem b-liður þessarar málsgreinar tekur ekki til, sem fullgildir eða gerist aðili að þessum samningi, án þess að gefa yfirlýsingu samkvæmt b-lið 1. mgr., skal 1. - 21. gr. og viðaukinn öðlast gildi eftir þrjá mánuði frá þeim degi, að framkvæmdastjórinn hefur tilkynnt um afhendingu á viðeigandi fullgildingar- eða aðildarskjölum, nema tiltekin hafi verið síðari dagsetning í þeim skjölum, sem afhent hafa verið. Í síðara tilvikinu skulu 1. - 21. gr. og viðaukinn öðlast gildi gagnvart því landi á þeim degi, sem þannig er tiltekinn.</dd>
 <dt>d.</dt>
 <dd>Ákvæði stafliða a - c hafa ekki áhrif á gildi VI. gr. viðaukans.</dd>
-</dl>
-</dd>
 </dl>
 
 
@@ -832,12 +832,12 @@ II. gr.
 <dt>1.</dt>
 <dd>frá þeim degi, sem umsækjandi fullnægir skilyrðum þeim, sem greind eru í 1. mgr. IV. gr., eða</dd>
 <dt>2.</dt>
-<dd>þegar ekki er vitað, hver eigandi þýðingarréttarins er eða heimilisfang hans, þá frá þeim degi, þegar umsækjandi sendir í samræmi við 2. mgr. IV. gr. endurrit af umsókn sinni, sem lögð var fyrir þann aðila, sem fullgiltur er til að veita leyfið.
+<dd>þegar ekki er vitað, hver eigandi þýðingarréttarins er eða heimilisfang hans, þá frá þeim degi, þegar umsækjandi sendir í samræmi við 2. mgr. IV. gr. endurrit af umsókn sinni, sem lögð var fyrir þann aðila, sem fullgiltur er til að veita leyfið.</dd>
+</dl>
+
 <dl>
 <dt>b.</dt>
 <dd>Ef þýðing á því máli, sem umsóknin tók til, hefur verið gerð af eiganda þýðingarréttarins eða með hans leyfi á umræddu sex eða níu mánaða tímabili, skal ekki veita leyfi samkvæmt þessari grein.</dd>
-</dl>
-</dd>
 </dl>
 
 
@@ -855,7 +855,9 @@ II. gr.
 <dt>3.</dt>
 <dd>að þýðingin sé eingöngu notuð í því skyni, sem til er tekið í skilmála 2. tölul., og útvarpssendingin lögmæt og ætluð hlustendum á landssvæði umrædds lands, þar með taldar útvarpssendingar á hljóð- eða sjónvarpsupptökum, sem löglega eru gerðar í þeim tilgangi einum að vera til afnota í slíkum útvarpssendingum;</dd>
 <dt>4.</dt>
-<dd>að hvers kyns notkun þýðingarinnar eigi sér ekki stað í hagnaðarskyni.
+<dd>að hvers kyns notkun þýðingarinnar eigi sér ekki stað í hagnaðarskyni.</dd>
+</dl>
+
 <dl>
 <dt>b.</dt>
 <dd>Hljóð- eða sjónvarpsupptöku á þýðingu, sem gerð hefur verið af útvarpsstöð með leyfi, sem veitt hefur verið samkvæmt þessari málsgrein, er hverri annarri útvarpsstöð, sem hefur aðalstöðvar sínar í því landi, þar sem fullgiltur aðili veitti umrætt leyfi, einnig heimilt að nota í þeim tilgangi og með þeim skilmálum, sem um er rætt í staflið a, enda komi til samþykki þargreindrar útvarpsstöðvar.</dd>
@@ -863,8 +865,6 @@ II. gr.
 <dd>Svo fremi að fullnægt sé öllum þeim sjónarmiðum og skilyrðum, sem um er rætt í staflið a, er einnig heimilt að veita útvarpsstöð leyfi til að þýða hvern þann texta, sem fyrir kemur í hljóð- eða sjónvarpsupptöku, þegar sú upptaka sjálf var gerð og útgefin til þess eins, að vera notuð í sambandi við kerfisbundið kennslustarf.</dd>
 <dt>d.</dt>
 <dd>Að tilskildum ákvæðum stafliða a - c, skulu ákvæði næstu málsgreinar að ofan gilda um veitingu og notkun hvers þess leyfis, sem veitt er samkvæmt þessari málsgrein.</dd>
-</dl>
-</dd>
 </dl>
 
 
@@ -880,12 +880,12 @@ III. gr.
 <dt>1.</dt>
 <dd>þess tímabils, sem máli skiptir og tilgreint er í 3. mgr., er hefst á þeim degi, sem tiltekin útgáfa af verki er gefin út í fyrsta skipti, eða</dd>
 <dt>2.</dt>
-<dd>hvers eins lengra tímabils, sem ákveðið er í lögum þess lands, sem rætt er um í 1. mgr. og hefst á sama degi, að eintökum af slíkum útgáfum hefur ekki verið dreift til almennings í því landi, eða ekki verið dreift í sambandi við kerfisbundið kennslustarf, af hálfu eiganda réttarins til eftirgerðar eða með hans leyfi fyrir greiðslu, sem sanngjörn er miðað við það, sem venjulega er farið fram á í því landi fyrir verk af svipuðu tagi, er hverjum ríkisborgara í því landi heimilt að fá leyfi til að framleiða og gefa út slíkar útgáfur á því verði eða lægra verði, enda séu þær til notkunar í sambandi við kerfisbundið kennslustarf.
+<dd>hvers eins lengra tímabils, sem ákveðið er í lögum þess lands, sem rætt er um í 1. mgr. og hefst á sama degi, að eintökum af slíkum útgáfum hefur ekki verið dreift til almennings í því landi, eða ekki verið dreift í sambandi við kerfisbundið kennslustarf, af hálfu eiganda réttarins til eftirgerðar eða með hans leyfi fyrir greiðslu, sem sanngjörn er miðað við það, sem venjulega er farið fram á í því landi fyrir verk af svipuðu tagi, er hverjum ríkisborgara í því landi heimilt að fá leyfi til að framleiða og gefa út slíkar útgáfur á því verði eða lægra verði, enda séu þær til notkunar í sambandi við kerfisbundið kennslustarf.</dd>
+</dl>
+
 <dl>
 <dt>b.</dt>
 <dd>Leyfi, sem veitt hafa verið til eftirgerðar og útgáfu á verki, sem dreift hefur verið eins og lýst er í staflið a, má einnig veita með þeim skilmálum, sem greindir eru í þessari grein, ef engin lögmæt eintök af þeirri útgáfu hafa verið til sölu um sex mánaða skeið eftir lok þess tímabils, sem við á, til almennings í viðkomandi landi eða í sambandi við kerfisbundið kennslustarf, á sanngjörnu verði miðað við það, sem venjulega er farið fram á í því landi fyrir verk af svipuðu tagi.</dd>
-</dl>
-</dd>
 </dl>
 
 
@@ -905,7 +905,9 @@ III. gr.
 <dt>1.</dt>
 <dd>frá þeim degi, að umsækjandi fullnægir skilyrðum þeim, sem rætt er um í 1. mgr. IV. gr., eða</dd>
 <dt>2.</dt>
-<dd>þegar ekki er vitað, hver eigandi réttar til eftirgerðar er eða heimilisfang hans, frá þeim degi, að umsækjandinn sendir endurrit af umsókn sinni til fullgilts aðila samkvæmt því, sem mælt er fyrir í 2. mgr. IV. gr.
+<dd>þegar ekki er vitað, hver eigandi réttar til eftirgerðar er eða heimilisfang hans, frá þeim degi, að umsækjandinn sendir endurrit af umsókn sinni til fullgilts aðila samkvæmt því, sem mælt er fyrir í 2. mgr. IV. gr.</dd>
+</dl>
+
 <dl>
 <dt>b.</dt>
 <dd>Þegar unnt er að fá leyfi eftir að liðin eru önnur tímabil og 2. mgr. IV. gr. á við, skal ekki veita nein leyfi fyrr en liðnir eru þrír mánuðir frá þeim degi, að endurrit af umsókninni eru send.</dd>
@@ -913,8 +915,6 @@ III. gr.
 <dd>Ef dreifing eins og lýst er í a-lið 2. mgr. hefur átt sér stað á því sex eða þriggja mánaða tímabili, sem um er rætt í stafliðum a og b, skal ekki veita nein leyfi samkvæmt þessari grein.</dd>
 <dt>d.</dt>
 <dd>Engin leyfi skal veita, ef höfundurinn hefur tekið úr umferð öll eintökin af þeirri útgáfu, sem sótt hefur verið um leyfi til að framleiða og gefa út.</dd>
-</dl>
-</dd>
 </dl>
 
 

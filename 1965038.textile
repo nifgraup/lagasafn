@@ -63,16 +63,13 @@ h2. Lög um Myndlista- og handíðaskóla Íslands
 
      Myndlistadeild. 1. Rétt til inngöngu í forskóla myndlistadeildar veitir landspróf miðskóla, gagnfræðapróf eða hliðstæð próf með þeirri einkunn, sem stjórn skólans metur gilda. Ef sérstaklega stendur á, getur skólastjórn veitt undanþágu frá þessum ákvæðum að fengnu samþykki menntamálaráðuneytisins.
 
-<dl>
-<dt></dt>
-<dd>Við inntöku í forskólann skal höfð hliðsjón af hæfileikum umsækjanda á sviði myndrænna listgreina.</dd>
-<dt></dt>
-<dd>Forskólinn veitir tveggja ára undirbúningsmenntun í almennum myndlistum. Aðalkennslugreinar skulu vera teiknun, málun og myndmótun.
+Við inntöku í forskólann skal höfð hliðsjón af hæfileikum umsækjanda á sviði myndrænna listgreina.
+
+Forskólinn veitir tveggja ára undirbúningsmenntun í almennum myndlistum. Aðalkennslugreinar skulu vera teiknun, málun og myndmótun.
+
 <dl>
 <dt>2.</dt>
 <dd>Rétt til framhaldsnáms í myndlistadeild eiga þeir, sem lokið hafa forskólanámi með fullnægjandi árangri, eða hlotið hliðstæðan undirbúning annars staðar.</dd>
-</dl>
-</dd>
 </dl>
 
 
@@ -101,23 +98,19 @@ h2. Lög um Myndlista- og handíðaskóla Íslands
 
      Kennaradeild. 1. Teiknikennaradeildin veitir tveggja ára undirbúning að kennarastarfi í teiknun og skyldum greinum í barna- og framhaldsskólum landsins.
 
-<dl>
-<dt></dt>
-<dd>Inntökuskilyrði eru, að umsækjandi hafi áður lokið tveggja ára forskólanámi myndlistadeildar, eða hlotið hliðstæða undirbúningsmenntun.
+Inntökuskilyrði eru, að umsækjandi hafi áður lokið tveggja ára forskólanámi myndlistadeildar, eða hlotið hliðstæða undirbúningsmenntun.
+
 <dl>
 <dt>2.</dt>
 <dd>Vefnaðarkennaradeildin veitir tveggja ára undirbúning að kennarastarfi í vefnaði.</dd>
 </dl>
-</dd>
-<dt></dt>
-<dd>Inntökuskilyrði eru, að umsækjandi hafi áður stundað undirbúningsnám í vefnaði með þeim árangri, sem skólastjóri metur gildan.
+
+Inntökuskilyrði eru, að umsækjandi hafi áður stundað undirbúningsnám í vefnaði með þeim árangri, sem skólastjóri metur gildan.
+
 <dl>
 <dt>3.</dt>
 <dd>Nám í öðrum greinum kennaradeildanna en sérgreinum skal vera hið sama eða hliðstætt námi í undirbúningsdeild sérnáms í Kennaraskóla Íslands. Námi í kennaradeild lýkur með kennaraprófi.</dd>
 </dl>
-</dd>
-</dl>
-
 
 
 
@@ -146,6 +139,7 @@ h2. Lög um Myndlista- og handíðaskóla Íslands
 8. gr.
 
      Heimilt er að fjölga eða fækka kennsludeildum að fengnum tillögum skólastjóra og fræðsluráðs og með samþykki menntamálaráðuneytisins.
+
 
 
 

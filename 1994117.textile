@@ -201,8 +201,8 @@ _[^1)^]"L. 73/1998, 1. gr.":/altext/stjt/1998.073.html_
 
 <dl>
 <dt>1.</dt>
-<dd>_Alferð,_ sbr. "lög um alferðir, nr. 80/1994":1994080.html, er fyrir fram ákveðin samsetning ekki færri en tveggja eftirfarandi atriða, þegar ferð er seld eða boðin til sölu á heildarverði og þegar þjónustan tekur til lengri tíma en 24 klst. eða í henni felst gisting:</dd>
-<dd><dl>
+<dd>_Alferð,_ sbr. "lög um alferðir, nr. 80/1994":1994080.html, er fyrir fram ákveðin samsetning ekki færri en tveggja eftirfarandi atriða, þegar ferð er seld eða boðin til sölu á heildarverði og þegar þjónustan tekur til lengri tíma en 24 klst. eða í henni felst gisting:
+<dl>
 <dt>a.</dt>
 <dd>flutnings,</dd>
 <dt>b.</dt>
@@ -583,7 +583,7 @@ _[^1)^]"L. 73/1998, 1. gr.":/altext/stjt/1998.073.html_
 
 *I.*
 
-     Skipa skal nýtt Ferðamálaráð og nýja stjórn Ferðamálasjóðs samkvæmt lögum þessum þegar er því verður við komið. Skipunartími núverandi Ferðamálaráðs og stjórnar Ferðamálasjóðs skal haldast þar til skipað hefur verið í ráðið og stjórn sjóðsins að nýju.
+     ...
 
 
 

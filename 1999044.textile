@@ -48,8 +48,8 @@ _Skilgreiningar._
 <dt>4.</dt>
 <dd>_Ósnortið víðerni:_ Landsvæði sem er a.m.k. 25 km[^2^] að stærð eða þannig að hægt sé að njóta þar einveru og náttúrunnar án truflunar af mannvirkjum eða umferð vélknúinna farartækja á jörðu, er í a.m.k. 5 km fjarlægð frá mannvirkjum og öðrum tæknilegum ummerkjum, svo sem raflínum, orkuverum, miðlunarlónum og þjóðvegum, og þar sem ekki gætir beinna ummerkja mannsins og náttúran fær að þróast án álags af mannlegum umsvifum.</dd>
 <dt>5.</dt>
-<dd>_Náttúruminjar:_</dd>
-<dd><dl>
+<dd>_Náttúruminjar:_
+<dl>
 <dt>a.</dt>
 <dd>Náttúruverndarsvæði.</dd>
 <dt>b.</dt>
@@ -57,8 +57,8 @@ _Skilgreiningar._
 </dl>
 </dd>
 <dt>6.</dt>
-<dd>_Náttúruverndarsvæði:_</dd>
-<dd><dl>
+<dd>_Náttúruverndarsvæði:_
+<dl>
 <dt>a.</dt>
 <dd>Friðlýst svæði, þ.e. þjóðgarðar, friðlönd, fólkvangar, og náttúruvætti.</dd>
 <dt>b.</dt>
@@ -165,7 +165,11 @@ _Hlutverk Náttúruverndarráðs._
      Náttúruverndarráð skal stuðla að náttúruvernd og vera umhverfisráðherra, Náttúruvernd ríkisins og öðrum stjórnvöldum til ráðgjafar um náttúruverndarmál.
       Náttúruverndarráð gerir tillögur til ráðherra um friðlýsingar og aðrar verndunaraðgerðir og fjallar um náttúruverndaráætlun, sbr. 65. og 66. gr., áður en hún er lögð fyrir Alþingi.
       Náttúruverndarráð fylgist með þróun náttúruverndar á alþjóðavettvangi.
-      Náttúruverndarráð fer með málefni Friðlýsingarsjóðs, sbr. 71. gr.
+      Náttúruverndarráð fer með málefni Friðlýsingarsjóðs,[^1)^] sbr. 71. gr.
+
+
+_[^1)^]Rg. 371/1997._
+
 
 
 
@@ -240,7 +244,11 @@ _Umferð ríðandi manna._
       Á ferð um hálendi og önnur lítt gróin svæði skulu menn hafa tiltækt nægilegt aðflutt fóður fyrir hross sín.
       Heimilt er mönnum, að fengnu leyfi eiganda eða rétthafa eignarlands þegar við á, að slá upp aðhöldum eða næturhólfum, enda valdi það ekki spjöllum á náttúru landsins. Á hálendi skal þeim valinn staður á ógrónu landi sé þess kostur.
       Þar sem svo háttar til skal haft samráð við landverði eða umsjónaraðila á staðnum þegar farið er um eða dvalist á náttúruverndarsvæðum, sbr. IV. kafla.
-      Umhverfisráðherra getur sett í reglugerð nánari ákvæði um umferð ríðandi manna og rekstur hrossa.
+      Umhverfisráðherra getur sett í reglugerð[^1)^] nánari ákvæði um umferð ríðandi manna og rekstur hrossa.
+
+
+_[^1)^]Augl. 433/1993. Rg. 619/1998._
+
 
 
 
@@ -249,8 +257,12 @@ _Umferð ríðandi manna._
 _Akstur utan vega._
 
      Bannað er að aka vélknúnum ökutækjum utan vega. Þó er heimilt að aka slíkum tækjum á jöklum, svo og á snjó utan vega utan þéttbýlis svo fremi sem jörð er snævi þakin og frosin.
-      Umhverfisráðherra kveður, að fengnum tillögum Náttúruverndar ríkisins, í reglugerð á um aðrar undanþágur frá banni skv. 1. málsl. 1. mgr., m.a. vegna starfa manna við landbúnað, landmælingar, línu- og vegalagnir og rannsóknir. Ráðherra getur í reglugerð, að fengnum tillögum Náttúruverndar ríkisins, takmarkað eða bannað akstur á jöklum og á snjó þar sem hætta er á náttúruspjöllum eða óþægindum fyrir aðra sem þar eru á ferð.
+      Umhverfisráðherra kveður, að fengnum tillögum Náttúruverndar ríkisins, í reglugerð[^1)^] á um aðrar undanþágur frá banni skv. 1. málsl. 1. mgr., m.a. vegna starfa manna við landbúnað, landmælingar, línu- og vegalagnir og rannsóknir. Ráðherra getur í reglugerð, að fengnum tillögum Náttúruverndar ríkisins, takmarkað eða bannað akstur á jöklum og á snjó þar sem hætta er á náttúruspjöllum eða óþægindum fyrir aðra sem þar eru á ferð.
       Ólögmætur akstur utan vega varðar refsingu, sbr. 76. gr.
+
+
+_[^1)^]Rg. 619/1998._
+
 
 
 
@@ -360,7 +372,11 @@ _Umsjón með náttúruverndarsvæðum._
 _Landverðir._
 
      Á náttúruverndarsvæðum starfa landverðir og aðrir starfsmenn. Hlutverk landvarða er m.a. að sjá um eftirlit og fræðslu.
-      Umhverfisráðherra setur í reglugerð, að fengnum tillögum Náttúruverndar ríkisins, nánari ákvæði um menntun og starfsskyldur þeirra sem starfa á náttúruverndarsvæðum.
+      Umhverfisráðherra setur í reglugerð,[^1)^] að fengnum tillögum Náttúruverndar ríkisins, nánari ákvæði um menntun og starfsskyldur þeirra sem starfa á náttúruverndarsvæðum.
+
+
+_[^1)^]Rg. 61/1990._
+
 
 
 
@@ -614,7 +630,11 @@ _Rekstur þjóðgarða._
      Í hverjum þjóðgarði starfar þjóðgarðsvörður sem forstjóri Náttúruverndar ríkisins ræður. Þjóðgarðsverðir skulu hafa sérþekkingu og reynslu sem nýtist þeim í starfi.
       Þjóðgarðsverðir annast daglegan rekstur þjóðgarða og gera tillögur til Náttúruverndar ríkisins um rekstur þeirra. Náttúruvernd ríkisins getur falið þjóðgarðsvörðum eftirlit og umsjón á öðrum svæðum sem stofnunin ber ábyrgð á.
       Náttúruvernd ríkisins gerir tillögur um verndaráætlun og landnotkun innan þjóðgarða og skulu þær staðfestar af ráðherra.
-      Umhverfisráðherra setur, að fenginni tillögu Náttúruverndar ríkisins, reglugerð um meðferð og rekstur þjóðgarða og umgengni almennings.
+      Umhverfisráðherra setur, að fenginni tillögu Náttúruverndar ríkisins, reglugerð[^1)^] um meðferð og rekstur þjóðgarða og umgengni almennings.
+
+
+_[^1)^]Rg. 319/1984. Rg. 359/1993. Rg. 513/1995._
+
 
 
 
@@ -626,15 +646,19 @@ _Friðlýsing annarra náttúruminja á landi._
 
 <dl>
 <dt>1.</dt>
-<dd>Landsvæði sem mikilvægt er að varðveita sakir sérstaks landslags eða lífríkis. Friðlýst landsvæði nefnast friðlönd.</dd>
+<dd>Landsvæði sem mikilvægt er að varðveita sakir sérstaks landslags eða lífríkis. Friðlýst landsvæði nefnast friðlönd.[^1)^]</dd>
 <dt>2.</dt>
-<dd>Náttúrumyndanir, svo sem fossa, eldstöðvar, hella og dranga, svo og fundarstaði steingervinga, sjaldgæfra steintegunda og steinda, sem mikilvægt er að varðveita sakir fræðilegs gildis þeirra, fegurðar eða sérkenna. Friðlýsa skal svæði í kringum náttúrumyndanir svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu. Friðlýstar náttúrumyndanir nefnast náttúruvætti.</dd>
+<dd>Náttúrumyndanir, svo sem fossa, eldstöðvar, hella og dranga, svo og fundarstaði steingervinga, sjaldgæfra steintegunda og steinda, sem mikilvægt er að varðveita sakir fræðilegs gildis þeirra, fegurðar eða sérkenna.[^2)^] Friðlýsa skal svæði í kringum náttúrumyndanir svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu. Friðlýstar náttúrumyndanir nefnast náttúruvætti.</dd>
 <dt>3.</dt>
 <dd>Lífverur, búsvæði þeirra og vistkerfi sem miklu skiptir frá vísindalegu, náttúrufræðilegu eða öðru menningarlegu sjónarmiði að ekki sé raskað, fækkað eða útrýmt.</dd>
 </dl>
 
 
       Friðlýsing skv. 2. og 3. tölul. 1. mgr. getur ýmist verið staðbundin eða tekið til landsins alls.
+
+
+_[^1)^]Augl. 457/1996.[^2)^]Augl. 120/1994._
+
 
 
 
@@ -808,8 +832,12 @@ _Efni náttúruverndaráætlunar._
 
 _Náttúruminjaskrá._
 
-     Umhverfisráðherra skal gefa út heildstæða náttúruminjaskrá eigi sjaldnar en fimmta hvert ár og birta í Stjórnartíðindum. Birta má hvenær sem er ákvarðanir um ný svæði sem tekin eru á náttúruminjaskrá.
+     Umhverfisráðherra skal gefa út heildstæða náttúruminjaskrá[^1)^] eigi sjaldnar en fimmta hvert ár og birta í Stjórnartíðindum. Birta má hvenær sem er ákvarðanir um ný svæði sem tekin eru á náttúruminjaskrá.
       Náttúruvernd ríkisins skal í samráði við Náttúrufræðistofnun Íslands og hlutaðeigandi náttúrustofur og náttúruverndarnefndir sjá um undirbúning og öflun gagna vegna viðbóta við náttúruminjaskrá og heildarútgáfu hennar.
+
+
+_[^1)^]Augl. 631/1995._
+
 
 
 
@@ -919,7 +947,11 @@ _Skaðabætur._
 _Gildistaka._
 
      Lög þessi öðlast gildi 1. júlí 1999. ...
-      Reglugerðir og önnur stjórnvaldsfyrirmæli, sem sett eru samkvæmt eldri lögum, skulu halda gildi sínu að svo miklu leyti sem þau fara ekki í bága við lög þessi.
+      Reglugerðir og önnur stjórnvaldsfyrirmæli, sem sett eru samkvæmt eldri lögum, skulu halda gildi sínu að svo miklu leyti sem þau fara ekki í bága við lög þessi.[^1)^]
+
+
+_[^1)^]Rg. 205/1973, sbr. 640/1982._
+
 
 
 

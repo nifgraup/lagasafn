@@ -181,10 +181,7 @@ _[^1)^]"L. 140/1996, 15. gr.":/altext/stjt/1996.140.html_
      
       13.1. Heilsugæslustöðvar skulu vera með þrennu móti:
 
-<dl>
-<dt></dt>
-<dd>Heilsugæslustöð 2 (H2) þar sem starfa tveir læknar hið minnsta ásamt hjúkrunarfræðingum og öðru starfsfólki samkvæmt reglugerð. Heilsugæslustöð 1 (H1) þar sem starfar einn læknir hið minnsta ásamt hjúkrunarfræðingi og öðru starfsfólki samkvæmt reglugerð. Heilsugæslustöð H þar sem starfar hjúkrunarfræðingur og annað starfslið samkvæmt reglugerð og læknir hefur reglulega móttöku sjúklinga. Heimilt er að ráða lækni til starfa við H2 og H1 stöðvar hluta úr ári þar sem sérstakar ástæður mæla með. Einnig er heimilt að ákveða að læknir hafi aðsetur á H-stöð, varanlega eða um tiltekinn tíma, mæli sérstakar ástæður með. Heilsugæslustöð H skal stjórnunarlega heyra undir næstu H1- eða H2-stöð.</dd>
-</dl>
+Heilsugæslustöð 2 (H2) þar sem starfa tveir læknar hið minnsta ásamt hjúkrunarfræðingum og öðru starfsfólki samkvæmt reglugerð. Heilsugæslustöð 1 (H1) þar sem starfar einn læknir hið minnsta ásamt hjúkrunarfræðingi og öðru starfsfólki samkvæmt reglugerð. Heilsugæslustöð H þar sem starfar hjúkrunarfræðingur og annað starfslið samkvæmt reglugerð og læknir hefur reglulega móttöku sjúklinga. Heimilt er að ráða lækni til starfa við H2 og H1 stöðvar hluta úr ári þar sem sérstakar ástæður mæla með. Einnig er heimilt að ákveða að læknir hafi aðsetur á H-stöð, varanlega eða um tiltekinn tíma, mæli sérstakar ástæður með. Heilsugæslustöð H skal stjórnunarlega heyra undir næstu H1- eða H2-stöð.
 
 
       13.2. Starfslið heilsugæslustöðvar getur að hluta verið sameiginlegt með annarri heilbrigðisstofnun í starfstengslum við stöðina.
@@ -198,9 +195,8 @@ _[^1)^]"L. 140/1996, 15. gr.":/altext/stjt/1996.140.html_
       14.1. Heilsugæslustöðvar skulu vera í héruðum skv. 6. gr. Héruðum skal skipt í heilsugæsluumdæmi, og skulu stöðvar innan sama umdæmis hafa samstarf og veita hver annarri aðstoð og þjónustu, eftir því sem við verður komið. Heilsugæsluumdæmi og heilsugæslustöðvar skulu vera í héruðum svo sem hér greinir:
       14.2. REYKJAVÍKURHÉRAÐ
 
-<dl>
-<dt></dt>
-<dd>Í Reykjavík skulu starfrækt fjögur heilsugæsluumdæmi sem hér segir:
+Í Reykjavík skulu starfrækt fjögur heilsugæsluumdæmi sem hér segir:
+
 <dl>
 <dt>1.</dt>
 <dd>Vesturbæjarumdæmi þar sem starfa þrjár heilsugæslustöðvar sem hér segir:
@@ -243,10 +239,8 @@ _[^1)^]"L. 140/1996, 15. gr.":/altext/stjt/1996.140.html_
 </dl>
 </dd>
 </dl>
-</dd>
-<dt></dt>
-<dd>Starfssvæði heilsugæslustöðvar á Seltjarnarnesi nær frá Hringbraut að norðan að flugvelli að austan. Þrátt fyrir skiptingu Reykjavíkur í heilsugæsluumdæmi geta íbúar borgarinnar og Seltjarnarness jafnan valið sér heilsugæslulækni eða heimilislækni utan heilsugæslustöðva og leitað læknishjálpar sem þeir eiga auðveldast með að ná til hverju sinni.</dd>
-</dl>
+
+Starfssvæði heilsugæslustöðvar á Seltjarnarnesi nær frá Hringbraut að norðan að flugvelli að austan. Þrátt fyrir skiptingu Reykjavíkur í heilsugæsluumdæmi geta íbúar borgarinnar og Seltjarnarness jafnan valið sér heilsugæslulækni eða heimilislækni utan heilsugæslustöðva og leitað læknishjálpar sem þeir eiga auðveldast með að ná til hverju sinni.
 
 
       14.3. VESTURLANDSHÉRAÐ
@@ -602,7 +596,7 @@ _[^1)^]"L. 140/1996, 17. gr.":/altext/stjt/1996.140.html_
       20.2. Ráðherra setur gjaldskrá fyrir veitta þjónustu heilsugæslustöðva og skal hún vera í samræmi við hliðstæðar gjaldskrár samkvæmt lögum um almannatryggingar.[^1)^]
 
 
-_[^1)^]Rg. 81/1995, sbr. 228/1995 og 235/1995. Rg. 68/1996._
+_[^1)^]Rg. 81/1995, sbr. 228/1995 og 235/1995. Rg. 68/1996, sbr. 246/1997, 529/1997 og 236/1999._
 
 
 
@@ -865,15 +859,10 @@ _[^1)^]"L. 1/1992, 25. gr.":/altext/stjt/1992.001.html_
 
 *Ákvæði til bráðabirgða.*
 
-     1. [Heilsuverndarstarf í Reykjavík samkvæmt "lögum nr. 44/1955":/altext/stjtnr.html#1955044 skal haldast óbreytt til [30. apríl 1997][^1)^] en þá skulu heilsugæslustöðvar hafa verið skipulagðar til þess að annast það. Sérstök þriggja manna stjórn, skipuð af heilbrigðis- og tryggingamálaráðherra, skal í umboði hans annast rekstur Heilsuverndarstöðvar Reykjavíkur og vinna að endanlegri gerð áætlunar um framtíðarhlutverk stöðvarinnar. Í stjórninni skulu eiga sæti einn fulltrúi ráðherra, sem skal vera formaður, einn skipaður samkvæmt tilnefningu Reykjavíkurborgar og einn samkvæmt tilnefningu tryggingaráðs. Áætlunin skal koma til framkvæmda frá og með [1. maí 1997].[^1)^] Frá þeim tíma falla "heilsuverndarlög, nr. 44/1955":/altext/stjtnr.html#1955044, sbr. "lög nr. 28/1957":/altext/stjtnr.html#1957028, úr gildi.][^2)^]
+     ...[^1)^]
 
 
-<dl>
-<dt>2.</dt>
-<dd>[Skipun bráðabirgðastjórnar Sjúkrahúss Reykjavíkur framlengist til 1. janúar 1997. Frá 1. janúar 1996 skal bráðabirgðastjórnin skipuð sjö fulltrúum, þremur frá Reykjavíkurborg, einum tilnefndum af heilbrigðis- og tryggingamálaráðherra, einum af fjármálaráðherra, einum af yfirstjórn Sjálfseignarstofnunar St. Jósefsspítala og einum fulltrúa starfsmanna Sjúkrahúss Reykjavíkur. Starfsmannaráði Sjúkrahúss Reykjavíkur skal auk þess heimilt að tilnefna einn áheyrnarfulltrúa til setu á fundum stjórnarinnar með málfrelsi og tillögurétt. Varamenn skulu skipaðir með sama hætti. Bráðabirgðastjórn Sjúkrahúss Reykjavíkur skal fara með yfirstjórn Sjúkrahúss Reykjavíkur í umboði borgarstjórnar Reykjavíkur.][^3)^]</dd>
-</dl>
-
-_[^1)^]_"L. 140/1996, 20. gr.":/altext/stjt/1996.140.html[^2)^]"L. 86/1991, 1. gr.":/altext/stjt/1991.086.html[^3)^]"L. 144/1995, 47. gr.":/altext/stjt/1995.144.html
+_[^1)^]Ákvæðinu var breytt með "l. 86/1991, 1. gr.":/altext/stjt/1991.086.html, "l. 144/1995, 47. gr.":/altext/stjt/1995.144.html, og "l. 140/1996, 20. gr.":/altext/stjt/1996.140.html_
 
 
 

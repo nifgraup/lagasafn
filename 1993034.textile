@@ -27,24 +27,21 @@ _Skilgreiningar._
 
      Í lögum þessum merkir:
 
-<dl>
-<dt></dt>
-<dd>_Skip:_ Hvert það far sem er sex metrar á lengd eða lengra, mælt milli stafna, og notað á sjó.</dd>
-<dt></dt>
-<dd>_Leiðsögumaður:_ Sá sem fengið hefur löggildingu til leiðsögu skipa um ákveðið svæði.</dd>
-<dt></dt>
-<dd>_Leiðsöguskylda:_ Skylda til að nota leiðsögumann við siglingu skipa um ákveðið svæði eða við ákveðnar aðstæður.</dd>
-<dt></dt>
-<dd>_Hafnsögumaður:_ Leiðsögumaður sem fengið hefur löggildingu til leiðsögu skipa um ákveðið hafnarsvæði. Hafnsögumaður er ráðinn af viðkomandi hafnarstjórn.</dd>
-<dt></dt>
-<dd>_Hafnsöguskylda:_ Skylda til að nota hafnsögumann við siglingu skipa um ákveðið hafnarsvæði eða við ákveðnar aðstæður.</dd>
-<dt></dt>
-<dd>_Hafnarsvæði:_ Svæði við höfn sem nánar er tilgreint í reglugerð.</dd>
-<dt></dt>
-<dd>_Umboðsmaður:_ Sá sem annast milligöngu útgerðar eða leigutaka skips og stjórnvalda.</dd>
-<dt></dt>
-<dd>_Hættuleg efni:_ Efni sem hættuleg teljast samkvæmt skilgreiningu Alþjóðasiglingamálastofnunarinnar (IMO Dangerous Goods Code).</dd>
-</dl>
+_Skip:_ Hvert það far sem er sex metrar á lengd eða lengra, mælt milli stafna, og notað á sjó.
+
+_Leiðsögumaður:_ Sá sem fengið hefur löggildingu til leiðsögu skipa um ákveðið svæði.
+
+_Leiðsöguskylda:_ Skylda til að nota leiðsögumann við siglingu skipa um ákveðið svæði eða við ákveðnar aðstæður.
+
+_Hafnsögumaður:_ Leiðsögumaður sem fengið hefur löggildingu til leiðsögu skipa um ákveðið hafnarsvæði. Hafnsögumaður er ráðinn af viðkomandi hafnarstjórn.
+
+_Hafnsöguskylda:_ Skylda til að nota hafnsögumann við siglingu skipa um ákveðið hafnarsvæði eða við ákveðnar aðstæður.
+
+_Hafnarsvæði:_ Svæði við höfn sem nánar er tilgreint í reglugerð.
+
+_Umboðsmaður:_ Sá sem annast milligöngu útgerðar eða leigutaka skips og stjórnvalda.
+
+_Hættuleg efni:_ Efni sem hættuleg teljast samkvæmt skilgreiningu Alþjóðasiglingamálastofnunarinnar (IMO Dangerous Goods Code).
 
 
 
@@ -146,13 +143,14 @@ _[^1)^]Rg. 320/1998. Rg. 710/1998.[^2)^]"L. 62/1993, 5. gr.":/altext/stjt/1993.0
 
 *Ákvæði til bráðabirgða.*
 
+     
 
 
 
 10. gr.
 
      Leiðsögumenn, sem skipaðir hafa verið fyrir gildistöku laga þessara, halda réttindum sínum þann tíma sem skírteini þeirra kveða á um.
-      Hafnsögumenn, sem starfa við hafnsögu skipa við gildistöku laga þessara, skulu innan fimm ára afla sér löggildingar sem hafnsögumenn.
+      ...
 
 
 

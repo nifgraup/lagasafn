@@ -19,18 +19,15 @@ h2. Lög um fjárfestingu erlendra aðila í atvinnurekstri
 
      Í lögum þessum hafa eftirfarandi orð merkingu sem hér segir:
 
-<dl>
-<dt></dt>
-<dd>_Erlendur aðili:_ Einstaklingur, búsettur erlendis, án tillits til ríkisfangs, félag, stofnun, sjóður eða annar lögaðili, sem á heimili erlendis, erlent ríki og ríkisfyrirtæki, svo og atvinnufyrirtæki undir erlendum yfirráðum. Einstaklingur telst búsettur erlendis ef hann á lögheimili erlendis eða á þar heimili samkvæmt skilgreiningu lögheimilislaga. Lögaðili telst eiga heimili erlendis ef hann er skráður til heimilis erlendis eða telur heimili sitt erlendis samkvæmt samþykktum sínum.</dd>
-<dt></dt>
-<dd>_Íslenskt atvinnufyrirtæki:_ Atvinnufyrirtæki sem er með atvinnurekstur hér á landi og á heimili hér á landi, án tillits til þess hvernig rekstrarformi og eignarhaldi viðkomandi atvinnufyrirtækis er háttað. Atvinnufyrirtæki telst eiga heimili hér á landi ef það er skráð hér á landi, ef það telur heimili sitt hér á landi samkvæmt samþykktum sínum eða ef raunveruleg framkvæmdastjórn þess er hér á landi.</dd>
-<dt></dt>
-<dd>_Atvinnufyrirtæki undir erlendum yfirráðum:_ Íslenskt atvinnufyrirtæki þar sem erlendur aðili eða aðilar eiga meiri hluta fyrirtækisins, svo sem meiri hluta hlutafjár eða stofnfjár, eða fara með meiri hluta atkvæðisréttar eða hafa með öðrum hætti raunveruleg yfirráð yfir viðkomandi atvinnufyrirtæki.</dd>
-<dt></dt>
-<dd>_Fjárfesting:_ Fjárframlag eða annað framlag til eigin fjár atvinnufyrirtækis eða kaup á eignarhlut sem fyrir er í atvinnufyrirtæki.</dd>
-<dt></dt>
-<dd>_Erlend fjárfesting:_ Fjárfesting erlends aðila í atvinnurekstri hér á landi, án tillits til þess hvort um er að ræða nýtt framlag eða endurfjárfestingu á úthlutuðum arði eða hlut eða söluandvirði vegna fyrri fjárfestingar hér á landi.</dd>
-</dl>
+_Erlendur aðili:_ Einstaklingur, búsettur erlendis, án tillits til ríkisfangs, félag, stofnun, sjóður eða annar lögaðili, sem á heimili erlendis, erlent ríki og ríkisfyrirtæki, svo og atvinnufyrirtæki undir erlendum yfirráðum. Einstaklingur telst búsettur erlendis ef hann á lögheimili erlendis eða á þar heimili samkvæmt skilgreiningu lögheimilislaga. Lögaðili telst eiga heimili erlendis ef hann er skráður til heimilis erlendis eða telur heimili sitt erlendis samkvæmt samþykktum sínum.
+
+_Íslenskt atvinnufyrirtæki:_ Atvinnufyrirtæki sem er með atvinnurekstur hér á landi og á heimili hér á landi, án tillits til þess hvernig rekstrarformi og eignarhaldi viðkomandi atvinnufyrirtækis er háttað. Atvinnufyrirtæki telst eiga heimili hér á landi ef það er skráð hér á landi, ef það telur heimili sitt hér á landi samkvæmt samþykktum sínum eða ef raunveruleg framkvæmdastjórn þess er hér á landi.
+
+_Atvinnufyrirtæki undir erlendum yfirráðum:_ Íslenskt atvinnufyrirtæki þar sem erlendur aðili eða aðilar eiga meiri hluta fyrirtækisins, svo sem meiri hluta hlutafjár eða stofnfjár, eða fara með meiri hluta atkvæðisréttar eða hafa með öðrum hætti raunveruleg yfirráð yfir viðkomandi atvinnufyrirtæki.
+
+_Fjárfesting:_ Fjárframlag eða annað framlag til eigin fjár atvinnufyrirtækis eða kaup á eignarhlut sem fyrir er í atvinnufyrirtæki.
+
+_Erlend fjárfesting:_ Fjárfesting erlends aðila í atvinnurekstri hér á landi, án tillits til þess hvort um er að ræða nýtt framlag eða endurfjárfestingu á úthlutuðum arði eða hlut eða söluandvirði vegna fyrri fjárfestingar hér á landi.
 
 
 
@@ -52,13 +49,13 @@ _[^1)^]"L. 121/1993, 1. gr.":/altext/stjt/1993.121.html_
 
 <dl>
 <dt>1.</dt>
-<dd>Eftirtaldir aðilar mega einir stunda fiskveiðar í efnahagslögsögu Íslands samkvæmt lögum um rétt til veiða í efnahagslögsögu Íslands eða eiga og reka fyrirtæki til vinnslu sjávarafurða hér á landi:
+<dd><p>Eftirtaldir aðilar mega einir stunda fiskveiðar í efnahagslögsögu Íslands samkvæmt lögum um rétt til veiða í efnahagslögsögu Íslands eða eiga og reka fyrirtæki til vinnslu sjávarafurða hér á landi:</p>
 <dl>
 <dt>a.</dt>
 <dd>Íslenskir ríkisborgarar og aðrir íslenskir aðilar.</dd>
 <dt>b.</dt>
-<dd>Íslenskir lögaðilar sem að öllu leyti eru í eigu íslenskra aðila eða íslenskra lögaðila sem uppfylla eftirfarandi skilyrði:</dd>
-<dd><dl>
+<dd>Íslenskir lögaðilar sem að öllu leyti eru í eigu íslenskra aðila eða íslenskra lögaðila sem uppfylla eftirfarandi skilyrði:
+<dl>
 <dt>i.</dt>
 <dd>Eru undir yfirráðum íslenskra aðila.</dd>
 <dt>ii.</dt>
@@ -68,8 +65,8 @@ _[^1)^]"L. 121/1993, 1. gr.":/altext/stjt/1993.121.html_
 </dl>
 </dd>
 </dl>
-</dd>
-<dd><p>Með vinnslu sjávarafurða í 1. mgr. þessa töluliðar er átt við frystingu, söltun, herslu og hverja aðra þá verkun sem ver fisk og aðrar sjávarafurðir skemmdum, þar með taldar bræðsla og mjölvinnsla. Til vinnslu í þessu sambandi telst hins vegar ekki reyking, súrsun, niðursuða, niðurlagning og umpökkun afurða í neytendaumbúðir eða frekari vinnsla afurða til að gera þær hæfari til dreifingar, neyslu eða matreiðslu.</p></dd>
+
+<p>Með vinnslu sjávarafurða í 1. mgr. þessa töluliðar er átt við frystingu, söltun, herslu og hverja aðra þá verkun sem ver fisk og aðrar sjávarafurðir skemmdum, þar með taldar bræðsla og mjölvinnsla. Til vinnslu í þessu sambandi telst hins vegar ekki reyking, súrsun, niðursuða, niðurlagning og umpökkun afurða í neytendaumbúðir eða frekari vinnsla afurða til að gera þær hæfari til dreifingar, neyslu eða matreiðslu.</p></dd>
 <dt>2.</dt>
 <dd>Íslenskir ríkisborgarar og aðrir íslenskir aðilar mega einir eiga virkjunarréttindi vatnsfalla og jarðhita önnur en til heimilisnota. Sama á við um fyrirtæki sem stunda orkuvinnslu og orkudreifingu. Sama rétt hafa einstaklingar sem búsettir eru í öðru aðildarríki Evrópska efnahagssvæðisins og lögaðilar sem heimilisfastir eru í öðru EES-ríki. Heimilt skal að kveða svo á í fjárfestingarsamningum milli Íslands og ríkja utan Evrópska efnahagssvæðisins að einstaklingar sem þar eru búsettir eða lögaðilar sem þar eru heimilisfastir hafi einnig sama rétt, enda verði slíkir samningar lagðir fyrir Alþingi til staðfestingar með þingsályktun.</dd>
 <dd><p>Erlendum aðila, sem öðlast eignarrétt og afnotarétt yfir fasteign samkvæmt ákvæðum laga um eignarrétt og afnotarétt fasteigna, er heimilt að nýta jarðhita til beinnar notkunar í atvinnustarfsemi sinni innan þeirra takmarkana sem fram koma í orkulögum.</p></dd>
@@ -227,13 +224,13 @@ _[^1)^]"L. 46/1996, 2. gr.":/altext/stjt/1996.046.html_
 
 *I.*
 
-     Takmarkanir þær, sem lög þessi setja fjárfestingu erlendra aðila í atvinnurekstri hér á landi, skulu ekki ná til fjárfestingar erlends aðila sem átt hefur sér stað fyrir gildistöku laga þessara samkvæmt heimildum í eldri lögum. Tilkynna ber slíka fjárfestingu til Seðlabanka Íslands, gjaldeyriseftirlits, sbr. 5. gr., innan þriggja mánaða frá gildistöku laga þessara.
+     ...
 
 
 
 *[II.*
 
-     Hafi íslenskur lögaðili, sem á eignarhlut í lögaðila sem stundar veiðar í efnahagslögsögu Íslands eða vinnslu sjávarafurða hér á landi, verið að hluta í eigu erlends aðila 31. desember 1995 skulu takmarkanir skv. b-lið 1. tölul. 1. mgr. 4. gr. laga þessara ekki koma til framkvæmda að því er varðar þann lögaðila fyrr en 1. janúar 1998, enda hafi erlend eignaraðild í lögaðilanum ekki verið meiri en 49%, eignarhlutur lögaðilans í einstökum sjávarútvegs- eða fiskvinnslufyrirtækjum ekki farið yfir 10% og fjárfestingin verið tilkynnt Seðlabanka Íslands samkvæmt ákvæðum laganna fyrir 31. desember 1995.][^1)^]
+     ...][^1)^]
 
 
 _[^1)^]"L. 46/1996, 7. gr.":/altext/stjt/1996.046.html_

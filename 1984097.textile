@@ -21,7 +21,7 @@ h2. Lög um bókasafnsfræðinga
 
 <dl>
 <dt>1.</dt>
-<dd>þeim sem lokið hafa B.A.-prófi frá Háskóla Íslands með bókasafnsfræði sem aðalgrein (það er a.m.k. 60 einingar samkvæmt núgildandi reglugerð Háskóla Íslands, nr. 78/1979,[^1)^] eða 3 stig samkvæmt eldri reglugerð);</dd>
+<dd>þeim sem lokið hafa B.A.-prófi frá Háskóla Íslands með bókasafnsfræði sem aðalgrein (það er a.m.k. 60 einingar samkvæmt núgildandi reglugerð Háskóla Íslands, nr. 78/1979, eða 3 stig samkvæmt eldri reglugerð);</dd>
 <dt>2.</dt>
 <dd>þeim sem tekið hafa lokapróf frá háskóla og a.m.k. 60 einingar í bókasafnsfræði við Háskóla Íslands;</dd>
 <dt>3.</dt>
@@ -32,10 +32,6 @@ h2. Lög um bókasafnsfræðinga
 
 
       Áður en leyfi er veitt samkvæmt 3. og 4. lið skal leita umsagnar Félags bókasafnsfræðinga og fastra kennara í bókasafnsfræði við félagsvísindadeild Háskóla Íslands.
-
-
-_[^1)^]Nú rg. 98/1993._
-
 
 
 

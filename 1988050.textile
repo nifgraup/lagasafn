@@ -41,12 +41,11 @@ _Upphafsákvæði._
 <dt>6.</dt>
 <dd>[Fólksflutningar. Flutningur á ökutækjum með ferjum, sem eru í beinum tengslum við fólksflutninga, telst til fólksflutninga samkvæmt þessum staflið.][^2)^]</dd>
 <dt>7.</dt>
-<dd>[Póstþjónusta sem opinber aðili hefur einkaleyfi á, samkvæmt "póstlögum, nr. 33/1986":1986033.html. Undanþágan nær einnig til viðtöku og dreifingar á öðrum árituðum bréfapóstsendingum, þar með talin póstkort, blöð og tímarit, og til almennra dreifisendinga og opinna bréfa.][^3)^]</dd>
+<dd>[Póstþjónusta sem opinber aðili hefur einkaleyfi á, samkvæmt "póstlögum, nr. 33/1986":1986033.html.[^3)^] Undanþágan nær einnig til viðtöku og dreifingar á öðrum árituðum bréfapóstsendingum, þar með talin póstkort, blöð og tímarit, og til almennra dreifisendinga og opinna bréfa.][^4)^]</dd>
 <dt>8.</dt>
-<dd>[[Fasteignaleiga og útleiga bifreiðastæða. Útleiga hótel- og gistiherbergja og útleiga tjaldstæða er þó skattskyld, svo og önnur gistiþjónusta þegar leigt er til skemmri tíma en eins mánaðar.][^2)^] Sama gildir um sölu á aðstöðu fyrir veitingar og samkomur þegar leigt er til skemmri tíma en eins mánaðar.][^4)^]</dd>
+<dd>[[Fasteignaleiga og útleiga bifreiðastæða. Útleiga hótel- og gistiherbergja og útleiga tjaldstæða er þó skattskyld, svo og önnur gistiþjónusta þegar leigt er til skemmri tíma en eins mánaðar.][^2)^] Sama gildir um sölu á aðstöðu fyrir veitingar og samkomur þegar leigt er til skemmri tíma en eins mánaðar.][^5)^]</dd>
 <dt>9.</dt>
-<dd>Vátryggingarstarfsemi.
-<dl>
+<dd>Vátryggingarstarfsemi.</dd>
 <dt>10.</dt>
 <dd>Þjónusta banka, sparisjóða og annarra lánastofnana, svo og verðbréfamiðlun.</dd>
 <dt>11.</dt>
@@ -60,12 +59,10 @@ _Upphafsákvæði._
 <dt>15.</dt>
 <dd>...[^1)^]</dd>
 </dl>
-</dd>
-</dl>
 
 
       Undanþágur skv. 3. mgr. ná aðeins til sölu eða afhendingar vinnu og þjónustu sem þar getur, en ekki til virðisaukaskatts (innskatts) af aðföngum til hinnar undanþegnu starfsemi, sbr. 3. og 4. mgr. 15. gr. og 1. mgr. 16. gr.
-      [Góðgerðarstarfsemi er undanþegin skattskyldu,[^5)^] enda renni hagnaður af henni að öllu leyti til líknarmála. Skilyrði fyrir undanþágu er að starfsemin sé á ábyrgð og fjárhagsleg áhætta aðila og hann hafi fengið staðfestingu skattstjóra um að framangreind skilyrði séu uppfyllt. Eftirtalin starfsemi telst góðgerðarstarfsemi samkvæmt ákvæðinu:
+      [Góðgerðarstarfsemi er undanþegin skattskyldu,[^6)^] enda renni hagnaður af henni að öllu leyti til líknarmála. Skilyrði fyrir undanþágu er að starfsemin sé á ábyrgð og fjárhagsleg áhætta aðila og hann hafi fengið staðfestingu skattstjóra um að framangreind skilyrði séu uppfyllt. Eftirtalin starfsemi telst góðgerðarstarfsemi samkvæmt ákvæðinu:
 
 <dl>
 <dt>1.</dt>
@@ -73,14 +70,14 @@ _Upphafsákvæði._
 <dt>2.</dt>
 <dd>söfnun og sala verðlítilla notaðra muna, enda sé einungis selt til skattskyldra aðila,</dd>
 <dt>3.</dt>
-<dd>sala nytjamarkaða á notuðum munum sem söluaðili hefur fengið afhenta án endurgjalds.][^6)^]</dd>
+<dd>sala nytjamarkaða á notuðum munum sem söluaðili hefur fengið afhenta án endurgjalds.][^7)^]</dd>
 </dl>
 
 
       [Fjármálaráðherra er heimilt að setja í reglugerð nánari skilyrði fyrir undanþágum samkvæmt þessari grein.][^1)^]
 
 
-_[^1)^]"L. 119/1989, 1. gr.":/altext/stjt/1989.119.html Með "l. 26/1991, 35. gr.":/altext/stjt/1991.026.html, er mælt fyrir um heimild fjármálaráðherra til að fella niður eða endurgreiða vsk. af gjöfum til björgunarsveita, mannúðarmála, líknarmála og vísindarannsókna, en sú heimild var þó ekki felld inn í þessa grein "l. 50/1988":1988050.html.[^2)^]"L. 122/1993, 16. gr.":/altext/stjt/1993.122.html[^3)^]"L. 46/1995, 1. gr.":/altext/stjt/1995.046.html[^4)^]"L. 111/1992, 46. gr.":/altext/stjt/1992.111.html[^5)^]Rg. 564/1989, sbr. 612/1995.[^6)^]"L. 55/1997, 1. gr.":/altext/stjt/1997.055.html_
+_[^1)^]"L. 119/1989, 1. gr.":/altext/stjt/1989.119.html Með "l. 26/1991, 35. gr.":/altext/stjt/1991.026.html, er mælt fyrir um heimild fjármálaráðherra til að fella niður eða endurgreiða vsk. af gjöfum til björgunarsveita, mannúðarmála, líknarmála og vísindarannsókna, en sú heimild var þó ekki felld inn í þessa grein "l. 50/1988":1988050.html.[^2)^]"L. 122/1993, 16. gr.":/altext/stjt/1993.122.html[^3)^]Nú "l. 142/1996":1996142.html, um póstþjónustu.[^4)^]"L. 46/1995, 1. gr.":/altext/stjt/1995.046.html[^5)^]"L. 111/1992, 46. gr.":/altext/stjt/1992.111.html[^6)^]Rg. 564/1989, sbr. 612/1995.[^7)^]"L. 55/1997, 1. gr.":/altext/stjt/1997.055.html_
 
 
 
@@ -123,17 +120,17 @@ _[^1)^]"L. 111/1992, 47. gr.":/altext/stjt/1992.111.html[^2)^]Rg. 562/1989, sbr.
 <dt>1.</dt>
 <dd>Aðilar sem eingöngu selja vöru eða þjónustu sem undanþegin er virðisaukaskatti.</dd>
 <dt>2.</dt>
-<dd>[Listamenn, að því er varðar sölu þeirra á eigin listaverkum, enda falli listaverkin undir tollskrárnúmer 9701.1000 - 9703.0000, svo og uppboðshaldarar að því er varðar sölu þessara verka á listmunauppboðum, sbr. "lög nr. 36/1987":1987036.html.][^1)^]</dd>
+<dd>[Listamenn, að því er varðar sölu þeirra á eigin listaverkum, enda falli listaverkin undir tollskrárnúmer 9701.1000 - 9703.0000, svo og uppboðshaldarar að því er varðar sölu þessara verka á listmunauppboðum, sbr. "lög nr. 36/1987":1987036.html.[^1)^]][^2)^]</dd>
 <dt>3.</dt>
-<dd>Þeir sem selja skattskylda vöru eða þjónustu fyrir minna en [220.000 kr.][^2)^] á ári.</dd>
+<dd>Þeir sem selja skattskylda vöru eða þjónustu fyrir minna en [220.000 kr.][^3)^] á ári.</dd>
 <dt>4.</dt>
-<dd>[Skólamötuneyti.][^1)^]</dd>
+<dd>[Skólamötuneyti.][^2)^]</dd>
 </dl>
 
 
 
 
-_[^1)^]"L. 119/1989, 2. gr.":/altext/stjt/1989.119.html[^2)^]"L. 55/1997, 3. gr.":/altext/stjt/1997.055.html_
+_[^1)^]Nú "l. 28/1998":1998028.html.[^2)^]"L. 119/1989, 2. gr.":/altext/stjt/1989.119.html[^3)^]"L. 55/1997, 3. gr.":/altext/stjt/1997.055.html_
 
 
 
@@ -263,8 +260,8 @@ _[^1)^]"L. 40/1995, 2. gr.":/altext/stjt/1995.040.html[^2)^]"L. 122/1993, 17. gr
 <dt>[9.</dt>
 <dd>Þjónusta sem veitt er erlendum fiskiskipum vegna löndunar eða sölu afla hér á landi.</dd>
 <dt>10.</dt>
-<dd>[Sala á þjónustu til aðila sem hvorki hafa búsetu né starfsstöð hér á landi, enda sé þjónustan nýtt að öllu leyti erlendis. Skattskyld þjónusta, sem veitt er í tengslum við menningarstarfsemi, listastarfsemi, íþróttastarfsemi, kennslustarfsemi og aðra hliðstæða starfsemi sem fram fer hér á landi og er undanþegin skattskyldu skv. 3. mgr. 2. gr. laganna, telst ávallt nýtt hér. Jafnframt er sala á þjónustu til aðila sem hvorki hafa búsetu né starfsstöð hér á landi undanþegin skattskyldri veltu þó að þjónustan sé ekki nýtt að öllu leyti erlendis ef kaupandi gæti, væri starfsemi hans skráningarskyld hér á landi, talið virðisaukaskatt vegna kaupa þjónustunnar til innskatts, sbr. 15. og 16. gr. Eftirtalin þjónusta fellur undir þennan tölulið:</dd>
-<dd><dl>
+<dd>[Sala á þjónustu til aðila sem hvorki hafa búsetu né starfsstöð hér á landi, enda sé þjónustan nýtt að öllu leyti erlendis. Skattskyld þjónusta, sem veitt er í tengslum við menningarstarfsemi, listastarfsemi, íþróttastarfsemi, kennslustarfsemi og aðra hliðstæða starfsemi sem fram fer hér á landi og er undanþegin skattskyldu skv. 3. mgr. 2. gr. laganna, telst ávallt nýtt hér. Jafnframt er sala á þjónustu til aðila sem hvorki hafa búsetu né starfsstöð hér á landi undanþegin skattskyldri veltu þó að þjónustan sé ekki nýtt að öllu leyti erlendis ef kaupandi gæti, væri starfsemi hans skráningarskyld hér á landi, talið virðisaukaskatt vegna kaupa þjónustunnar til innskatts, sbr. 15. og 16. gr. Eftirtalin þjónusta fellur undir þennan tölulið:
+<dl>
 <dt>a.</dt>
 <dd>framsal á höfundarrétti, rétti til einkaleyfis, vörumerkis og hönnunar, svo og framsal annarra sambærilegra réttinda,</dd>
 <dt>b.</dt>
@@ -308,15 +305,15 @@ _[^1)^]"L. 55/1997, 5. gr.":/altext/stjt/1997.055.html[^2)^]"L. 111/1992, 48. gr
 
      Skattskyld velta á hverju uppgjörstímabili, sbr. 24. gr., telst heildarskattverð allra vara sem afhentar hafa verið, svo og heildarskattverð allrar skattskyldrar vinnu og þjónustu sem innt hefur verið af hendi á tímabilinu.
       [Ef gefinn er út reikningur vegna afhendingar telst hún hafa farið fram á útgáfudegi reiknings, enda sé reikningur gefinn út fyrir eða samtímis afhendingu.][^1)^]
-      Þegar greiðsla fer fram að fullu eða að hluta áður en afhending á sér stað teljast [80,32%][^2)^] af hinni mótteknu fjárhæð til skattskyldrar veltu á því tímabili sem greiðsla fer fram, [eða 87,72% þegar um er að ræða sölu skv. 2. mgr. 14. gr.].[^1)^] ...[^2)^]
+      Þegar greiðsla fer fram að fullu eða að hluta áður en afhending á sér stað teljast [80,32%][^2)^] af hinni mótteknu fjárhæð til skattskyldrar veltu á því tímabili sem greiðsla fer fram, [eða 87,72% þegar um er að ræða sölu skv. 2. mgr. 14. gr.][^1)^] ...[^2)^]
       Vörur, sem afhentar eru til umsýslu- eða umboðssölu, má annaðhvort telja til skattskyldrar veltu á því uppgjörstímabili þegar afhending fer fram eða til veltu þess tímabils þegar gert er upp við umsýslu- eða umboðsmann. Sé síðarnefnda aðferðin valin má ekki gefa út reikning skv. 20. gr. fyrr en uppgjörið fer fram.
       Við uppgjör á skattskyldri veltu er seljanda heimilt að draga frá sem hér segir:
 
 <dl>
 <dt>1.</dt>
-<dd>[80,32%][^2)^] þeirrar fjárhæðar sem hann endurgreiðir viðskiptavinum sínum vegna endursendra vara, [eða 87,72% þegar um er að ræða sölu skv. 2. mgr. 14. gr.].[^1)^]</dd>
+<dd>[80,32%][^2)^] þeirrar fjárhæðar sem hann endurgreiðir viðskiptavinum sínum vegna endursendra vara, [eða 87,72% þegar um er að ræða sölu skv. 2. mgr. 14. gr.][^1)^]</dd>
 <dt>2.</dt>
-<dd>[80,32%][^2)^] af töpuðum útistandandi viðskiptaskuldum, enda hafi hin tapaða fjárhæð áður verið talin til skattskyldrar veltu, [eða 87,72% þegar um er að ræða sölu skv. 2. mgr. 14. gr.].[^1)^] Fáist fjárhæðin síðar greidd skulu [80,32%][^2)^] hennar talin með skattskyldri veltu á því tímabili þegar hún fæst greidd, [eða 87,72% þegar um er að ræða sölu skv. 2. mgr. 14. gr.].[^1)^]</dd>
+<dd>[80,32%][^2)^] af töpuðum útistandandi viðskiptaskuldum, enda hafi hin tapaða fjárhæð áður verið talin til skattskyldrar veltu, [eða 87,72% þegar um er að ræða sölu skv. 2. mgr. 14. gr.][^1)^] Fáist fjárhæðin síðar greidd skulu [80,32%][^2)^] hennar talin með skattskyldri veltu á því tímabili þegar hún fæst greidd, [eða 87,72% þegar um er að ræða sölu skv. 2. mgr. 14. gr.][^1)^]</dd>
 <dt>3.</dt>
 <dd>Afslátt sem veittur er eftir að afhending hefur átt sér stað ef hann er veittur aðila sem getur dregið virðisaukaskattinn frá sem innskatt í uppgjöri sínu, sbr. 3. og 4. mgr. 15. gr., og skilyrði til að veita afslátt voru ekki fyrir hendi við afhendingu. Afsláttur af þessu tagi til annarra er ekki frádráttarbær. Frádráttur samkvæmt þessum tölulið er háður því að gefinn sé út innleggsreikningur (kreditreikningur) fyrir afslættinum og fjárhæð skattsins komi þar einnig fram, sbr. 1. og 3. mgr. 20. gr.</dd>
 </dl>
@@ -452,7 +449,7 @@ _[^1)^]"L. 40/1995, 5. gr.":/altext/stjt/1995.040.html_
 
 20. gr.
 
-     Við sérhverja sölu eða afhendingu á vöru eða skattskyldri þjónustu skal seljandi gefa út reikning, sbr. þó 21. gr. Á reikningi skal koma fram útgáfudagur, nafn og kennitala kaupanda og seljanda, skráningarnúmer seljanda, tegund sölu, magn, einingarverð og heildarverð. Reikningseyðublöð skulu vera fyrir fram tölusett í samfelldri töluröð. Reikningur skal bera greinilega með sér hvort virðisaukaskattur er innifalinn í heildarfjárhæð hans eða ekki. Enn fremur skal sérstaklega koma fram hver fjárhæð virðisaukaskatts er, ellegar að virðisaukaskattur sé [19,68%][^1)^] af heildarverði, [eða 12,28% þegar um er að ræða sölu skv. 2. mgr. 14. gr.].[^2)^] Við sölu til skattskylds aðila skal fjárhæð virðisaukaskatts ætíð koma fram.
+     Við sérhverja sölu eða afhendingu á vöru eða skattskyldri þjónustu skal seljandi gefa út reikning, sbr. þó 21. gr. Á reikningi skal koma fram útgáfudagur, nafn og kennitala kaupanda og seljanda, skráningarnúmer seljanda, tegund sölu, magn, einingarverð og heildarverð. Reikningseyðublöð skulu vera fyrir fram tölusett í samfelldri töluröð. Reikningur skal bera greinilega með sér hvort virðisaukaskattur er innifalinn í heildarfjárhæð hans eða ekki. Enn fremur skal sérstaklega koma fram hver fjárhæð virðisaukaskatts er, ellegar að virðisaukaskattur sé [19,68%][^1)^] af heildarverði, [eða 12,28% þegar um er að ræða sölu skv. 2. mgr. 14. gr.][^2)^] Við sölu til skattskylds aðila skal fjárhæð virðisaukaskatts ætíð koma fram.
       Sé greitt að fullu eða að hluta áður en afhending fer fram, sbr. 3. mgr. 13. gr., skal móttakandi greiðslu gefa út kvittun til greiðanda í samræmi við ákvæði 1. mgr. þessarar greinar eftir því sem við á.
       Þegar seldum verðmætum er skilað til seljanda skal ætíð gefa út innleggsreikning (kreditreikning) fyrir hinum mótteknu verðmætum með tilvísun til fyrri reiknings. Sama gildir um afslátt sem veittur er eftir að reikningur hefur verið gefinn út, svo og leiðréttingar á fyrri reikningum.
       [Við sölu, sem er að hluta til skattskyld og að hluta til undanþegin skatti, skal halda viðskiptum, sem eru skattskyld, greinilega aðgreindum á reikningi frá öðrum viðskiptum. Jafnframt skal á reikningi aðgreina skattskylda sölu eftir skatthlutföllum, þannig að heildarverð vöru og þjónustu ásamt virðisaukaskatti komi sérstaklega fram vegna hvors skatthlutfalls.][^2)^]
@@ -780,12 +777,12 @@ _[^1)^]Rg. 637/1989. Rg. 554/1993, sbr. 30/1994, 147/1994, 335/1994 og 502/1995.
 
 [43. gr.
 
-     Fjármálaráðherra getur kveðið svo á með reglugerð að endurgreiða megi virðisaukaskatt af vörum sem [aðilar búsettir erlendis][^1)^] kaupa hérlendis og hafa með sér er þeir hverfa úr landi, enda séu uppfyllt þau skilyrði sem hann telur nauðsynleg.
-      Fjármálaráðherra getur ákveðið með reglugerð[^2)^] að hvaða marki skuli endurgreiða sendimönnum erlendra ríkja virðisaukaskatt af kaupum á vörum og þjónustu hér á landi.
-      [Fjármálaráðherra er heimilt með reglugerð[^3)^] að setja reglur um endurgreiðslu virðisaukaskatts sem erlend fyrirtæki hafa greitt hérlendis við kaup á vörum eða þjónustu. Endurgreiðsla samkvæmt þessari málsgrein getur eingöngu tekið til virðisaukaskatts af þeim aðföngum sem virðisaukaskattsskyldir aðilar geta talið til innskatts, sbr. 15. og 16. gr.][^4)^]][^5)^]
+     Fjármálaráðherra getur kveðið svo á með reglugerð[^1)^] að endurgreiða megi virðisaukaskatt af vörum sem [aðilar búsettir erlendis][^2)^] kaupa hérlendis og hafa með sér er þeir hverfa úr landi, enda séu uppfyllt þau skilyrði sem hann telur nauðsynleg.
+      Fjármálaráðherra getur ákveðið með reglugerð[^3)^] að hvaða marki skuli endurgreiða sendimönnum erlendra ríkja virðisaukaskatt af kaupum á vörum og þjónustu hér á landi.
+      [Fjármálaráðherra er heimilt með reglugerð[^4)^] að setja reglur um endurgreiðslu virðisaukaskatts sem erlend fyrirtæki hafa greitt hérlendis við kaup á vörum eða þjónustu. Endurgreiðsla samkvæmt þessari málsgrein getur eingöngu tekið til virðisaukaskatts af þeim aðföngum sem virðisaukaskattsskyldir aðilar geta talið til innskatts, sbr. 15. og 16. gr.][^5)^]][^6)^]
 
 
-_[^1)^]"L. 115/1997, 3. gr.":/altext/stjt/1997.115.html[^2)^]Rg. 294/1997, sbr. 689/1997.[^3)^]Rg. 288/1995.[^4)^]"L. 40/1995, 8. gr.":/altext/stjt/1995.040.html[^5)^]"L. 119/1989, 13. gr.":/altext/stjt/1989.119.html_
+_[^1)^]Rg. 294/1997, sbr. 248/1999.[^2)^]"L. 115/1997, 3. gr.":/altext/stjt/1997.115.html[^3)^]Rg. 294/1997, sbr. 689/1997.[^4)^]Rg. 288/1995.[^5)^]"L. 40/1995, 8. gr.":/altext/stjt/1995.040.html[^6)^]"L. 119/1989, 13. gr.":/altext/stjt/1989.119.html_
 
 
 
@@ -829,7 +826,7 @@ _[^1)^]"L. 119/1989, 13. gr.":/altext/stjt/1989.119.html_
 
 [47. gr.][^1)^]
 
-     Fjármálaráðherra hefur eftirlit með því að skattstjórar, [skattrannsóknarstjóri ríkisins,][^2)^] ríkisskattstjóri, [yfirskattanefnd][^3)^] og innheimtumenn ríkissjóðs ræki skyldur sínar samkvæmt lögum þessum. Hann hefur rétt til þess að fá til athugunar virðisaukaskattsskýrslur og gögn er þær varða og krefja framangreinda aðila skýringa á öllu því er framkvæmd laga þessara varðar.
+     Fjármálaráðherra hefur eftirlit með því að skattstjórar, [skattrannsóknarstjóri ríkisins],[^2)^] ríkisskattstjóri, [yfirskattanefnd][^3)^] og innheimtumenn ríkissjóðs ræki skyldur sínar samkvæmt lögum þessum. Hann hefur rétt til þess að fá til athugunar virðisaukaskattsskýrslur og gögn er þær varða og krefja framangreinda aðila skýringa á öllu því er framkvæmd laga þessara varðar.
 
 
 _[^1)^]"L. 119/1989, 13. gr.":/altext/stjt/1989.119.html[^2)^]"L. 111/1992, 61. gr.":/altext/stjt/1992.111.html[^3)^]"L. 30/1992, 23. gr.":1992030.html#g23_
@@ -907,7 +904,7 @@ _[^1)^]"L. 122/1993, 33. gr.":/altext/stjt/1993.122.html_
 
 *[VI.*
 
-     Fjármálaráðherra getur með reglugerð ákveðið að endurgreiða hluta virðisaukaskatts af neyslufiski. Heimild þessi fellur niður frá og með 1. desember 1994.][^1)^]
+     ...][^1)^]
 
 
 _[^1)^]"L. 122/1993, 33. gr.":/altext/stjt/1993.122.html_
@@ -917,19 +914,17 @@ _[^1)^]"L. 122/1993, 33. gr.":/altext/stjt/1993.122.html_
 
 *[VII.*
 
-     Fjármálaráðherra getur heimilað þeim sem hafa með höndum útleigu á hótel- og gistiherbergjum og annarri gistiþjónustu að gera leiðréttingu á innskatti vegna fjárfestingar í fasteignum og búnaði í gistirými sem notað er til skattskyldrar starfsemi eftir 1. janúar 1994. Leiðréttingin skal ákveðin sem hlutfall af eignfærðri nýfjárfestingu skattskylds aðila á árunum 1990 - [1993][^1)^] sem hann hefur greitt virðisaukaskatt af. Hlutfall þetta skal eigi vera hærra en 8% af fjárfestingu á árinu 1990, allt að 11% af fjárfestingu á árinu 1991, [allt að 14% af fjárfestingu á árinu 1992 og allt að 17% af fjárfestingu á árinu 1993].[^1)^] Leiðrétting þessi tekur ekki til innskatts af fasteignum og búnaði sem hefur verið keyptur eða yfirtekinn af öðrum aðilum í gistihúsarekstri á árunum 1990 - 1992. [Jafnframt er heimilt að leiðrétta virðisaukaskattsskil ársins 1993 hjá aðilum sem skráðir voru frjálsri skráningu á grundvelli reglugerðar nr. 487/1992.][^1)^]
-      Framangreind leiðrétting á innskatti skal gerð með jöfnum fjárhæðum á árunum 1994, 1995 og 1996 [vegna fjárfestingar á árunum 1990 - 1992].[^1)^] [Leiðrétting vegna fjárfestingar á árinu 1993 skal gerð með jöfnum fjárhæðum á árunum 1995 og 1996. Heildarkostnaður ríkissjóðs vegna leiðréttingar á árunum 1994 - 1996 skal að hámarki nema 75 milljónum króna vegna fjárfestingar á árunum 1990 - 1992 en að hámarki 10 milljónum króna vegna fjárfestingar á árinu 1993. Leiðrétting hvers árs samkvæmt þessari heimild skal háð því skilyrði að aðili hafi haft með höndum skattskylda útleigu á gistirými fram að þeim tíma er til endurgreiðslu kemur.][^1)^]
-      Fjármálaráðherra setur í reglugerð nánari ákvæði um framkvæmd þessa ákvæðis þar á meðal um hlutfall af fjárfestingarkostnaði.][^2)^]
+     ...][^1)^]
 
 
-_[^1)^]"L. 40/1995, 9. gr.":/altext/stjt/1995.040.html[^2)^]"L. 122/1993, 33. gr.":/altext/stjt/1993.122.html_
+_[^1)^]"L. 122/1993, 33. gr.":/altext/stjt/1993.122.html, sbr. "l. 40/1995, 9. gr.":/altext/stjt/1995.040.html_
 
 
 
 
 *[VIII.*
 
-     Hafi skattstjóri tilkynnt aðila um fyrirhugaðar breytingar á virðisaukaskatti fyrir 1. janúar 1997 skal fara með málið eftir þeim ákvæðum sem í gildi voru fyrir þann tíma.][^1)^]
+     ...][^1)^]
 
 
 _[^1)^]"L. 149/1996, brbákv. I.":/altext/stjt/1996.149.html_

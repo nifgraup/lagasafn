@@ -15,19 +15,19 @@ h2. Útvarpslög
 
 1. gr.
 
-     [Lög þessi eru sett með hliðsjón af "lögum um fjarskipti, nr. 73/1984":1984073.html, hvað varðar tæknilega eiginleika.
+     [Lög þessi eru sett með hliðsjón af "lögum um fjarskipti, nr. 73/1984":1984073.html,[^1)^] hvað varðar tæknilega eiginleika.
       Með útvarpi, hljóðvarpi eða sjónvarpi, er í lögum þessum átt við hvers konar útsendingu dagskárefnis innan íslenskrar lögsögu sem ætluð er almenningi til beinnar móttöku og dreift er með rafsegulöldum hvort heldur í tali, tónum eða myndum, um þráð eða þráðlaust hvort heldur sem útsendingin er læst eða ólæst.
       Ákvæði þessara laga ná ekki til dreifingar útvarpsdagskrár eða útsendinga sem eingöngu eru ætlaðar þröngum hóp og takmarkast við byggingar eða húsakynni á samfelldri lóð, svo sem einstök íbúðarhús, sjúkrahús, gistihús, skóla og verksmiðju.
       Útvarpsstöð er sá aðili sem leyfi hefur til útvarps samkvæmt lögum þessum.
       Útvarpsdagskrá í skilningi laga þessara er heildarsamsetning dagskárliða í útvarpi.
       Auglýsing er hvers konar tilkynning sem útvarpað er gegn endurgjaldi og felur í sér kynningu vöru eða þjónustu.
       Dulin auglýsing er sýning eða önnur kynning í máli eða myndum á vöru, þjónustu, vörumerki eða starfsemi aðila er framleiðir vöru eða veitir þjónustu í útvarpsdagskrám utan afmarkaðra auglýsingatíma sé slík sýning til þess ætluð af hálfu útvarpsstöðvar að þjóna auglýsingamarkmiðum og villa um fyrir notendum.
-      Kostun er hvers konar framlag lögaðila eða einstaklinga til framleiðslu eða sýningar dagskrárliða í útvarpi, með það fyrir augum að vekja athygli á nafni sínu, vörumerki, ímynd, starfsemi eða vörum.][^1)^]
+      Kostun er hvers konar framlag lögaðila eða einstaklinga til framleiðslu eða sýningar dagskrárliða í útvarpi, með það fyrir augum að vekja athygli á nafni sínu, vörumerki, ímynd, starfsemi eða vörum.][^2)^]
       [Læst útsending er hljóðvarps- eða sjónvarpsútsending ætluð almenningi þar sem hljóð- eða myndmerkjum hefur verið breytt í því skyni að veita einungis þeim aðgang að útsendingunni sem greitt hafa fyrir hana (áskrifendum).
-      Myndlykill er búnaður sem einum sér eða með öðrum búnaði er ætlað að veita aðgang að innihaldi læstrar útsendingar.][^2)^]
+      Myndlykill er búnaður sem einum sér eða með öðrum búnaði er ætlað að veita aðgang að innihaldi læstrar útsendingar.][^3)^]
 
 
-_[^1)^]"L. 82/1993, 1. gr.":/altext/stjt/1993.082.html[^2)^]"L. 98/1995, 1. gr.":/altext/stjt/1995.098.html_
+_[^1)^]Nú "l. 143/1996":1996143.html.[^2)^]"L. 82/1993, 1. gr.":/altext/stjt/1993.082.html[^3)^]"L. 98/1995, 1. gr.":/altext/stjt/1995.098.html_
 
 
 
@@ -53,7 +53,7 @@ _[^1)^]"L. 82/1993, 2. gr.":/altext/stjt/1993.082.html_
 <dt>1.</dt>
 <dd>[Fjarskiptaeftirlit ríkisins úthlutar senditíðnum í samræmi við alþjóðasamþykktir og gefur út leyfisbréf til þeirra sem fengið hafa leyfi til útvarps. Í leyfisbréfi skal kveðið á um tæknilega eiginleika í samræmi við settar reglur og alþjóðasamþykktir, svo sem um tíðni og útgeislað afl. Viðstöðulaust, óstytt og óbreytt endurvarp heildardagskrár sjónvarpsstöðva skal einvörðungu heimilað um þráð og/eða þráðlaust um örbylgju. Í síðara tilfellinu skal hafa samráð við samgönguráðuneytið.][^1)^]</dd>
 <dt>2.</dt>
-<dd>[Um heimildir erlends aðila eða íslensks lögaðila, sem erlendur aðili á hlut í til að reka útvarpsstöð, fer samkvæmt lögum um fjárfestingu erlendra aðila í atvinnurekstri].[^2)^]</dd>
+<dd>[Um heimildir erlends aðila eða íslensks lögaðila, sem erlendur aðili á hlut í til að reka útvarpsstöð, fer samkvæmt lögum um fjárfestingu erlendra aðila í atvinnurekstri.][^2)^]</dd>
 <dt>3.</dt>
 <dd><p>[a. Útvarpsstöðvar skulu stuðla að almennri menningarþróun og efla íslenska tungu. Þær skulu kosta kapps um að meiri hluti útsendrar dagskrár sé íslenskt dagskrárefni og dagskrárefni frá Evrópu.</p>
 <p>Efni á erlendu máli, sem sýnt er í sjónvarpsstöð, skal jafnan fylgja íslenskt tal eða texti á íslensku eftir því sem við á hverju sinni. Það á þó ekki við þegar fluttir eru erlendir söngtextar eða þegar dreift er viðstöðulaust um gervitungl og móttökustöð fréttum eða fréttatengdu efni sem sýnir að verulegu leyti atburði sem gerast í sömu andrá. Við þær aðstæður skal sjónvarpsstöð, eftir því sem kostur er, láta fylgja endursögn eða kynningu á íslensku á þeim atburðum sem gerst hafa. Skal lögð áhersla á að allt tal og texti sé á lýtalausu íslensku máli.</p>

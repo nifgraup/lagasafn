@@ -64,8 +64,8 @@ _[^1)^]"L. 48/1996, 1. gr.":/altext/stjt/1996.048.html_
 
 <dl>
 <dt>1.</dt>
-<dd>Eftirtalin ökutæki skulu undanþegin vörugjaldi:</dd>
-<dd><dl>
+<dd>Eftirtalin ökutæki skulu undanþegin vörugjaldi:
+<dl>
 <dt>a.</dt>
 <dd>Hópferðabifreiðar, þ.e. ökutæki sem aðallega eru ætluð til fólksflutninga, sem skráðar eru fyrir 18 manns eða fleiri að meðtöldum ökumanni.</dd>
 <dt>b.</dt>
@@ -81,8 +81,8 @@ _[^1)^]"L. 48/1996, 1. gr.":/altext/stjt/1996.048.html_
 <dt>2.</dt>
 <dd>10% vörugjald: Dráttarvélar.</dd>
 <dt>3.</dt>
-<dd>15% vörugjald:</dd>
-<dd><dl>
+<dd>15% vörugjald:
+<dl>
 <dt>a.</dt>
 <dd>Kranabifreiðar og borkranabifreiðar sem eru 5 tonn eða minna að leyfðri heildarþyngd.</dd>
 <dt>b.</dt>
@@ -94,8 +94,8 @@ _[^1)^]"L. 48/1996, 1. gr.":/altext/stjt/1996.048.html_
 </dl>
 </dd>
 <dt>4.</dt>
-<dd>20% vörugjald:</dd>
-<dd><dl>
+<dd>20% vörugjald:
+<dl>
 <dt>a.</dt>
 <dd>Dráttarbifreiðar fyrir festivagna og sem aðallega eru gerðar til að draga annað ökutæki, að heildarþyngd 5 tonn eða minna.</dd>
 <dt>b.</dt>
@@ -107,8 +107,8 @@ _[^1)^]"L. 48/1996, 1. gr.":/altext/stjt/1996.048.html_
 <dt>5.</dt>
 <dd>30% vörugjald: Hópferðabifreiðar sem skráðar eru fyrir 10 - 17 manns að meðtöldum ökumanni.</dd>
 <dt>6.</dt>
-<dd>70% vörugjald:</dd>
-<dd><dl>
+<dd>70% vörugjald:
+<dl>
 <dt>a.</dt>
 <dd>Bifhjól (þar með talin stigin bifhjól) og reiðhjól með hjálparvél.</dd>
 <dt>b.</dt>
@@ -137,8 +137,8 @@ _[^1)^]"L. 83/1998, 6. gr.":/altext/stjt/1998.083.html_
 
 <dl>
 <dt>1.</dt>
-<dd>Eftirtalin ökutæki skulu undanþegin vörugjaldi:</dd>
-<dd><dl>
+<dd>Eftirtalin ökutæki skulu undanþegin vörugjaldi:
+<dl>
 <dt>a.</dt>
 <dd>Dráttarbifreiðar að heildarþyngd 4 tonn eða meira sem gerðar eru til nota utan þjóðvega.</dd>
 <dt>b.</dt>
@@ -166,8 +166,8 @@ _[^1)^]"L. 83/1998, 6. gr.":/altext/stjt/1998.083.html_
 <dt>2.</dt>
 <dd>Greiða skal 10% vörugjald af hópferðabifreiðum sem eru skráðar fyrir 10 - 17 manns að meðtöldum ökumanni og eru í eigu hópferða- eða sérleyfishafa eða í fjármögnunarleigu vegna fjármögnunarleigusamnings við hópferða- eða sérleyfishafa.[^2)^] Gjaldið skal lækka í 5% frá 1. janúar 2000.</dd>
 <dt>3.</dt>
-<dd>Af eftirtöldum ökutækjum skal greiða 30% vörugjald:</dd>
-<dd><dl>
+<dd>Af eftirtöldum ökutækjum skal greiða 30% vörugjald:
+<dl>
 <dt>a.</dt>
 <dd>Ökutæki á beltum undir 700 kg sem eru sérstaklega ætluð til flutninga í snjó, á svæðum þar sem aðrar samgöngur eru erfiðleikum bundnar verulegan hluta árs.</dd>
 <dt>b.</dt>
@@ -452,18 +452,17 @@ _[^1)^]Rg. 254/1993, sbr. 375/1993, 169/1995 og 289/1996. Rg. 255/1993, sbr. 511
 
 *[III.*
 
-     Fjármálaráðherra er heimilt að endurgreiða hópferða- og sérleyfishöfum og fjármögnunarleigum allt að tveimur þriðju hlutum vörugjalds á hópferðabifreiðar fyrir 18 farþega eða fleiri að meðtöldum ökumanni og allt að einum þriðja hluta vörugjalds á hópferðabifreiðar fyrir 10 - 17 farþega að meðtöldum ökumanni sem lagt var á samkvæmt lögum þessum á tímabilinu frá 1. júlí 1993 til 1. mars 1995. Endurgreiðslan skal þó takmörkuð við þann hluta vörugjaldsins sem ekki hefur verið afskrifaður.
-      Ráðherra setur í reglugerð nánari reglur[^1)^] um framkvæmd þessa ákvæðis, m.a. um skilyrði og fyrirkomulag endurgreiðslu.][^2)^]
+     ...][^1)^]
 
 
-_[^1)^]Rg. 170/1995.[^2)^]"L. 41/1995, brbákv.":/altext/stjt/1995.041.html_
+_[^1)^]"L. 41/1995, brbákv.":/altext/stjt/1995.041.html_
 
 
 
 
 *[IV.*
 
-     Greiða skal skráðum eigendum dráttarbifreiða og vélknúinna ökutækja til sérstakra nota, sem eru yfir 5 tonn að heildarþyngd, sbr. 1. gr. laga þessara, og tollafgreidd voru eða gjaldskyld aðvinnsla var framkvæmd á, á tímabilinu frá 22. maí 1997 og fram til gildistöku laga þessara, helming af því vörugjaldi sem greitt var af ökutækinu, enda hafi verið greitt 30% vörugjald af því. Ef skráður eigandi er eignarleigufyrirtæki skal greiðsla þó bundin því skilyrði að henni verði ráðstafað til leigutaka bifreiðar. Ráðherra getur sett nánari reglur um framkvæmd ákvæðisins, m.a. um skilyrði og fyrirkomulag endurgreiðslu.][^1)^]
+     ...][^1)^]
 
 
 _[^1)^]"L. 140/1997, brbákv.":/altext/stjt/1997.140.html_

@@ -58,8 +58,8 @@ h2. Lög um helgidagafrið
 <dt>1.</dt>
 <dd>Á helgidögum skv. 1. tölul. 2. gr. er öll almenn starfsemi heimil.</dd>
 <dt>2.</dt>
-<dd>Á helgidögum skv. 2. og 3. tölul. 2. gr. er eftirfarandi starfsemi óheimil:</dd>
-<dd><dl>
+<dd>Á helgidögum skv. 2. og 3. tölul. 2. gr. er eftirfarandi starfsemi óheimil:
+<dl>
 <dt>a.</dt>
 <dd>Skemmtanir, svo sem dansleikir eða einkasamkvæmi á opinberum veitingastöðum eða á öðrum stöðum sem almenningur hefur aðgang að. Hið sama gildir um opinberar sýningar og skemmtanir þar sem happdrætti, bingó eða önnur svipuð spil fara fram.</dd>
 <dt>b.</dt>

@@ -50,14 +50,11 @@ _[^1)^]"L. 39/1999, 1. gr.":/altext/stjt/1999.039.html_
 
      Texti tilkynningarinnar skal vera sem hér segir:
 
-<dl>
-<dt></dt>
-<dd>_Við brottför:_ Skipsheiti, kallmerki eða skipaskrárnúmer, brottfararstaður og tími.</dd>
-<dt></dt>
-<dd>_Á sjó:_ Skipsheiti, kallmerki eða skipaskrárnúmer, reitnúmer, stefna og tími.</dd>
-<dt></dt>
-<dd>_Við komu í höfn:_ Skipsheiti, kallmerki eða skipaskrárnúmer, komustaður og tími.</dd>
-</dl>
+_Við brottför:_ Skipsheiti, kallmerki eða skipaskrárnúmer, brottfararstaður og tími.
+
+_Á sjó:_ Skipsheiti, kallmerki eða skipaskrárnúmer, reitnúmer, stefna og tími.
+
+_Við komu í höfn:_ Skipsheiti, kallmerki eða skipaskrárnúmer, komustaður og tími.
 
 
       [Í sjálfvirku tilkynningarkerfi skal að lágmarki tilkynna auðkenni skips og staðsetningu þess.][^1)^]

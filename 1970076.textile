@@ -17,108 +17,105 @@ h2. Lög um lax- og silungsveiði
 
      [Merking orða í þessum lögum er sem hér segir:
 
-<dl>
-<dt></dt>
-<dd>_Alifiskur:_ Fiskur sem alinn er eða látinn ganga sjálfala í tjörnum eða ílátum.</dd>
-<dt></dt>
-<dd>_Almenningur í stöðuvatni:_ Sá hluti stöðuvatns sem liggur fyrir utan 115 m breitt vatnsbelti (netlög) landareigna þeirra sem að vatninu liggja.</dd>
-<dt></dt>
-<dd>_Á:_ Straumvatn frá ósasvæði til upptaka.</dd>
-<dt></dt>
-<dd>_Áll:_ Sá staður langs eftir vatni, stöðuvatni eða straumvatni þar sem dýpi er mest milli grynninga eða sandeyra sem eigi teljast bakkar. Nú eru fleiri álar en einn og heitir sá höfuðáll sem vatnsmestur er.</dd>
-<dt></dt>
-<dd>_Bakki:_ Fast takmark á farvegi straumvatns eða legi stöðuvatns, svo sem klettar, gróið land eða eyrar sem vatn fellur eigi yfir í meðalvexti eða sjór um stórstraumsflæði.</dd>
-<dt></dt>
-<dd>_Dráttur:_ Staður í veiðivatni þar sem ádráttarveiði verður við komið.</dd>
-<dt></dt>
-<dd>_Eldisfiskur:_ Sjá alifiskur.</dd>
-<dt></dt>
-<dd>_Eldisstofn:_ Hópur vatnafiska alinn í eldisstöð undan fiski sem alið hefur allan sinn aldur í fiskeldisstöð.</dd>
-<dt></dt>
-<dd>_Félagsveiði:_ Félagsskapur eigenda eða notenda veiðiréttar um sameiginlega hagnýtingu veiðihlunninda.</dd>
-<dt></dt>
-<dd>_Fiskeldi:_ Geymsla, gæsla og fóðrun vatnafiska, hafbeit, klak- og seiðaeldi, hvort sem er í söltu eða ósöltu vatni.</dd>
-<dt></dt>
-<dd>_Fiskeldisstöð:_ Staður þar sem vatn, sjór, land eða mannvirki er nýtt í þágu fiskeldis.</dd>
-<dt></dt>
-<dd>_Fiskihverfi:_ Veiðivatn eða -vötn sem sami fiskstofn byggir og fer um fram og aftur eða ætla má að sami fiskstofn byggi og fari um fram og aftur þá er ræktaður hefur verið.</dd>
-<dt></dt>
-<dd>_Fiskrækt:_ Hvers konar aðgerðir sem ætla má að skapi eða auki fiskmagn veiðivatns, sbr. 2. mgr. 44. gr.</dd>
-<dt></dt>
-<dd>_Fiskræktarslepping:_ Slepping samstofna smáseiða eða gönguseiða til aukningar á fiskigengd í veiðivatni.</dd>
-<dt></dt>
-<dd>_Fiskur:_ Lax (Salmo salar), silungur (Salmo trutta og Salvelinus alpinus) og regnbogasilungur (Oncorhynchus mykis), áll (Anguilla anguilla) eða annar vatnafiskur ef ræktaður verður.</dd>
-<dt></dt>
-<dd>_Fiskvegur:_ Hvers konar mannvirki er gerir veiðivötn fiskgeng eða greiðir fiskför um þau.</dd>
-<dt></dt>
-<dd>_Föst veiðivél:_ Veiðitæki sem fest er í vatni og fiskur getur ánetjast í eða króast af, svo sem lagnet, króknet, kista og girðing.</dd>
-<dt></dt>
-<dd>_Geldstofn:_ Vatnafiskur sem ekki framleiðir frjóar kynfrumur.</dd>
-<dt></dt>
-<dd>_Göngusilungur:_ Silungur er gengur úr sjó í ósalt vatn, svo sem sjóbirtingur (urriði) og sjóreyður (bleikja).</dd>
-<dt></dt>
-<dd>_Hafbeit:_ Slepping gönguseiða til sjógöngu og veiði kynþroska fiska til slátrunar er þeir ganga úr sjó í ferskt vatn.</dd>
-<dt></dt>
-<dd>_Hafbeit til stangaveiði:_ Slepping gönguseiða í veiðivatn með takmarkaða framleiðslu til aukningar á fiskigengd til stangaveiði.</dd>
-<dt></dt>
-<dd>_Hafbeitarstofn:_ Hópur vatnafiska sem klakinn hefur verið út undan fiski úr hafbeit.</dd>
-<dt></dt>
-<dd>_Hafbeitarstöð:_ Staður þar sem vatn, sjór, land eða mannvirki er nýtt í þágu hafbeitar.</dd>
-<dt></dt>
-<dd>_Jörð:_ Lögbýli samkvæmt ábúðarlögum.</dd>
-<dt></dt>
-<dd>_Kvíaeldi:_ Fiskeldi í netkvíum (netbúrum) í fersku vatni eða söltu.</dd>
-<dt></dt>
-<dd>_Kvísl:_ Hluti af straumvatni sem fellur sér milli bakka.</dd>
-<dt></dt>
-<dd>_Lagardýr:_ Öll dýr með kalt blóð sem lifa og geta afkvæmi í sjó eða fersku vatni.</dd>
-<dt></dt>
-<dd>_Laxastofn:_ Hópur laxa sem hrygnir á tilteknum stað og á tilteknum tíma og hrygnir ekki í neinum mæli með öðrum hópum á öðrum stað eða á öðrum tíma.</dd>
-<dt></dt>
-<dd>_Lögn:_ Staður í vatni þar sem fastri veiðivél verður við komið.</dd>
-<dt></dt>
-<dd>_Netlög:_ Vatnsbotn 115 metra út frá bakka landareignar að straumvatni eða stöðuvatni, svo og sjávarbotn 115 metra út frá stórstraumsfjöruborði landareignar.</dd>
-<dt></dt>
-<dd>_Ós í á:_ Sá staður þar sem straumur þverár sameinast straumi höfuðár.</dd>
-<dt></dt>
-<dd>_Ós í sjó:_ Sá staður þar sem straumur ár hverfur í sjó um stórstraumsfjöru.</dd>
-<dt></dt>
-<dd>_Ós í stöðuvatn:_ Sá staður þar sem straumur ár hverfur í stöðuvatn.</dd>
-<dt></dt>
-<dd>_Ós úr stöðuvatni:_ Sá staður þar sem straumlína ár hefst í stöðuvatni.</dd>
-<dt></dt>
-<dd>_Ósasvæði:_ Svæði í straumvatni er nær frá ósi í sjó upp til þess staðar þar sem straumlína hverfur um stórstraumsflæði.</dd>
-<dt></dt>
-<dd>_Sjór:_ Salt vatn utan árósa.</dd>
-<dt></dt>
-<dd>_Strandeldi:_ Eldi vatnafiska til slátrunar í tönkum eða kerum á landi.</dd>
-<dt></dt>
-<dd>_Straumlína (strengur):_ Lína sem liggur eftir endilöngu straumvatni um þá staði þess þar sem straumur er mestur.</dd>
-<dt></dt>
-<dd>_Straumvatn:_ Ósalt vatn, á eða ósasvæði sem í er greinilegur straumur, þá er enginn vöxtur er í, og um stórstraumsfjöru.</dd>
-<dt></dt>
-<dd>_Stöðuvatn:_ Ósalt vatn sem eigi er í greinilegur straumur annar en sá sem stafar af sjávarföllum, vindi eða aðrennsli í leysingum.</dd>
-<dt></dt>
-<dd>_Vatn:_ Ósalt vatn með föstu legi eða farvegi, straumvatn eða stöðuvatn.</dd>
-<dt></dt>
-<dd>_Vatnafiskur:_ Fiskur sem lifir að hluta eða allan sinn lífsferil í fersku vatni.</dd>
-<dt></dt>
-<dd>_Vatnasilungur:_ Silungur sem elur allan aldur sinn í ósöltu vatni, svo sem vatnaurriði, vatnableikja (reyður), lækjasilungur og murta.</dd>
-<dt></dt>
-<dd>_Veiðihlutur:_ Hundraðshluti jarðar í veiði vatns samkvæmt arðskrá.</dd>
-<dt></dt>
-<dd>_Veiðimagn:_ Samanlögð þyngd veiddra fiska.</dd>
-<dt></dt>
-<dd>_Veiðimál:_ Hvers konar mál er lúta að lax-, silungs- og álaveiði, fiskrækt eða fiskeldi.</dd>
-<dt></dt>
-<dd>_Veiðitala:_ Tala veiddra fiska.</dd>
-<dt></dt>
-<dd>_Veiðivatn:_ Á eða stöðuvatn sem veiði er í eða mætti í vera ef fiskur væri ræktaður þar.</dd>
-<dt></dt>
-<dd>_Veiðivél:_ Sjá föst veiðivél.</dd>
-<dt></dt>
-<dd>_Villtur laxastofn:_ Hópur laxfiska sem klekst út og elst upp í veiðivatni.][^1)^]</dd>
-</dl>
+_Alifiskur:_ Fiskur sem alinn er eða látinn ganga sjálfala í tjörnum eða ílátum.
+
+_Almenningur í stöðuvatni:_ Sá hluti stöðuvatns sem liggur fyrir utan 115 m breitt vatnsbelti (netlög) landareigna þeirra sem að vatninu liggja.
+
+_Á:_ Straumvatn frá ósasvæði til upptaka.
+
+_Áll:_ Sá staður langs eftir vatni, stöðuvatni eða straumvatni þar sem dýpi er mest milli grynninga eða sandeyra sem eigi teljast bakkar. Nú eru fleiri álar en einn og heitir sá höfuðáll sem vatnsmestur er.
+
+_Bakki:_ Fast takmark á farvegi straumvatns eða legi stöðuvatns, svo sem klettar, gróið land eða eyrar sem vatn fellur eigi yfir í meðalvexti eða sjór um stórstraumsflæði.
+
+_Dráttur:_ Staður í veiðivatni þar sem ádráttarveiði verður við komið.
+
+_Eldisfiskur:_ Sjá alifiskur.
+
+_Eldisstofn:_ Hópur vatnafiska alinn í eldisstöð undan fiski sem alið hefur allan sinn aldur í fiskeldisstöð.
+
+_Félagsveiði:_ Félagsskapur eigenda eða notenda veiðiréttar um sameiginlega hagnýtingu veiðihlunninda.
+
+_Fiskeldi:_ Geymsla, gæsla og fóðrun vatnafiska, hafbeit, klak- og seiðaeldi, hvort sem er í söltu eða ósöltu vatni.
+
+_Fiskeldisstöð:_ Staður þar sem vatn, sjór, land eða mannvirki er nýtt í þágu fiskeldis.
+
+_Fiskihverfi:_ Veiðivatn eða -vötn sem sami fiskstofn byggir og fer um fram og aftur eða ætla má að sami fiskstofn byggi og fari um fram og aftur þá er ræktaður hefur verið.
+
+_Fiskrækt:_ Hvers konar aðgerðir sem ætla má að skapi eða auki fiskmagn veiðivatns, sbr. 2. mgr. 44. gr.
+
+_Fiskræktarslepping:_ Slepping samstofna smáseiða eða gönguseiða til aukningar á fiskigengd í veiðivatni.
+
+_Fiskur:_ Lax (Salmo salar), silungur (Salmo trutta og Salvelinus alpinus) og regnbogasilungur (Oncorhynchus mykis), áll (Anguilla anguilla) eða annar vatnafiskur ef ræktaður verður.
+
+_Fiskvegur:_ Hvers konar mannvirki er gerir veiðivötn fiskgeng eða greiðir fiskför um þau.
+
+_Föst veiðivél:_ Veiðitæki sem fest er í vatni og fiskur getur ánetjast í eða króast af, svo sem lagnet, króknet, kista og girðing.
+
+_Geldstofn:_ Vatnafiskur sem ekki framleiðir frjóar kynfrumur.
+
+_Göngusilungur:_ Silungur er gengur úr sjó í ósalt vatn, svo sem sjóbirtingur (urriði) og sjóreyður (bleikja).
+
+_Hafbeit:_ Slepping gönguseiða til sjógöngu og veiði kynþroska fiska til slátrunar er þeir ganga úr sjó í ferskt vatn.
+
+_Hafbeit til stangaveiði:_ Slepping gönguseiða í veiðivatn með takmarkaða framleiðslu til aukningar á fiskigengd til stangaveiði.
+
+_Hafbeitarstofn:_ Hópur vatnafiska sem klakinn hefur verið út undan fiski úr hafbeit.
+
+_Hafbeitarstöð:_ Staður þar sem vatn, sjór, land eða mannvirki er nýtt í þágu hafbeitar.
+
+_Jörð:_ Lögbýli samkvæmt ábúðarlögum.
+
+_Kvíaeldi:_ Fiskeldi í netkvíum (netbúrum) í fersku vatni eða söltu.
+
+_Kvísl:_ Hluti af straumvatni sem fellur sér milli bakka.
+
+_Lagardýr:_ Öll dýr með kalt blóð sem lifa og geta afkvæmi í sjó eða fersku vatni.
+
+_Laxastofn:_ Hópur laxa sem hrygnir á tilteknum stað og á tilteknum tíma og hrygnir ekki í neinum mæli með öðrum hópum á öðrum stað eða á öðrum tíma.
+
+_Lögn:_ Staður í vatni þar sem fastri veiðivél verður við komið.
+
+_Netlög:_ Vatnsbotn 115 metra út frá bakka landareignar að straumvatni eða stöðuvatni, svo og sjávarbotn 115 metra út frá stórstraumsfjöruborði landareignar.
+
+_Ós í á:_ Sá staður þar sem straumur þverár sameinast straumi höfuðár.
+
+_Ós í sjó:_ Sá staður þar sem straumur ár hverfur í sjó um stórstraumsfjöru.
+
+_Ós í stöðuvatn:_ Sá staður þar sem straumur ár hverfur í stöðuvatn.
+
+_Ós úr stöðuvatni:_ Sá staður þar sem straumlína ár hefst í stöðuvatni.
+
+_Ósasvæði:_ Svæði í straumvatni er nær frá ósi í sjó upp til þess staðar þar sem straumlína hverfur um stórstraumsflæði.
+
+_Sjór:_ Salt vatn utan árósa.
+
+_Strandeldi:_ Eldi vatnafiska til slátrunar í tönkum eða kerum á landi.
+
+_Straumlína (strengur):_ Lína sem liggur eftir endilöngu straumvatni um þá staði þess þar sem straumur er mestur.
+
+_Straumvatn:_ Ósalt vatn, á eða ósasvæði sem í er greinilegur straumur, þá er enginn vöxtur er í, og um stórstraumsfjöru.
+
+_Stöðuvatn:_ Ósalt vatn sem eigi er í greinilegur straumur annar en sá sem stafar af sjávarföllum, vindi eða aðrennsli í leysingum.
+
+_Vatn:_ Ósalt vatn með föstu legi eða farvegi, straumvatn eða stöðuvatn.
+
+_Vatnafiskur:_ Fiskur sem lifir að hluta eða allan sinn lífsferil í fersku vatni.
+
+_Vatnasilungur:_ Silungur sem elur allan aldur sinn í ósöltu vatni, svo sem vatnaurriði, vatnableikja (reyður), lækjasilungur og murta.
+
+_Veiðihlutur:_ Hundraðshluti jarðar í veiði vatns samkvæmt arðskrá.
+
+_Veiðimagn:_ Samanlögð þyngd veiddra fiska.
+
+_Veiðimál:_ Hvers konar mál er lúta að lax-, silungs- og álaveiði, fiskrækt eða fiskeldi.
+
+_Veiðitala:_ Tala veiddra fiska.
+
+_Veiðivatn:_ Á eða stöðuvatn sem veiði er í eða mætti í vera ef fiskur væri ræktaður þar.
+
+_Veiðivél:_ Sjá föst veiðivél.
+
+_Villtur laxastofn:_ Hópur laxfiska sem klekst út og elst upp í veiðivatni.][^1)^]
 
 
 
@@ -261,9 +258,7 @@ _[^1)^]"L. 50/1998, 2. gr.":/altext/stjt/1998.050.html_
 
 *IV. kafli.*
 
-*[Veiðistjórn lax- og göngusilungs og fiskrækt.]*
-
-[^1)^]
+*[Veiðistjórn lax- og göngusilungs og fiskrækt.][^1)^]*
 
 _[^1)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html_
 
@@ -399,7 +394,7 @@ _[^1)^]"L. 50/1998, 11. gr.":/altext/stjt/1998.050.html[^2)^]"L. 63/1994, 2. gr.
 
 *V. kafli.*
 
-*[Veiðistjórn vatnasilungs. ]*
+*[Veiðistjórn vatnasilungs.]*
 
 [^1)^]
 
@@ -1281,7 +1276,7 @@ _[^1)^]"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html[^2)^]Sjá nú "l. 68/1997
      Veita skal lán úr Stofnlánadeild landbúnaðarins samkvæmt "lögum nr. 75 27. apríl 1962":/altext/stjtnr.html#1962075,[^2)^] um Stofnlánadeild landbúnaðarins, landnám, ræktun og byggingar í sveitum, til framkvæmda þeirra, sem getur í [93. gr.][^1)^] Lán skulu og veitt til að reisa íbúðarhús við eldisstöðvar samkvæmt "lögum nr. 75 27. apríl 1962":/altext/stjtnr.html#1962075,[^2)^] þegar fiskur hefur verið alinn þar í 3 ár og skilyrði til eldis hafa reynst hagkvæm. Lán til íbúðarhúsa við eldisstöðvar skulu hlíta sömu reglum sem lán til íbúðarhúsa á nýbýlum.
 
 
-_[^1)^]"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html[^2)^]Nú "l. 45/1971":1971045.html._
+_[^1)^]"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html[^2)^]Nú "l. 68/1997":1997068.html._
 
 
 

@@ -19,12 +19,9 @@ h2. Lög um mat á umhverfisáhrifum
 
      Í lögum þessum merkir:
 
-<dl>
-<dt></dt>
-<dd>_Framkvæmdaraðili:_ Ríki, sveitarfélag, stofnun eða fyrirtæki í eigu slíkra aðila að nokkru eða hluta, lögaðili eða einstaklingur er hyggst hefja framkvæmdir sem lög þessi taka til.</dd>
-<dt></dt>
-<dd>_Leyfisveitandi:_ Lögbært yfirvald sem veitir endanlegt leyfi til framkvæmda.</dd>
-</dl>
+_Framkvæmdaraðili:_ Ríki, sveitarfélag, stofnun eða fyrirtæki í eigu slíkra aðila að nokkru eða hluta, lögaðili eða einstaklingur er hyggst hefja framkvæmdir sem lög þessi taka til.
+
+_Leyfisveitandi:_ Lögbært yfirvald sem veitir endanlegt leyfi til framkvæmda.
 
 
 
@@ -40,7 +37,11 @@ h2. Lög um mat á umhverfisáhrifum
 
      Lög þessi gilda um allar framkvæmdir sem kunna að hafa umtalsverð áhrif á umhverfi, náttúruauðlindir og samfélag.
       Lög þessi hagga ekki strangari ákvæðum annarra laga um mat á umhverfisáhrifum.
-      Beita skal ákvæðum "skipulagslaga, nr. 19 21. maí 1964":1964019.html, ásamt síðari breytingum, við framkvæmd þessara laga eins og þau geta átt við.
+      Beita skal ákvæðum "skipulagslaga, nr. 19 21. maí 1964":1964019.html,[^1)^] ásamt síðari breytingum, við framkvæmd þessara laga eins og þau geta átt við.
+
+
+_[^1)^]Nú "l. 73/1997":1997073.html._
+
 
 
 
@@ -148,10 +149,10 @@ h2. Lög um mat á umhverfisáhrifum
 
 [12. gr. a.
 
-     Óheimilt er að veita leyfi til framkvæmda sem lög þessi taka til, hefja framkvæmdir eða staðfesta skipulagsáætlanir samkvæmt "skipulagslögum, nr. 19 21. maí 1964":1964019.html, ásamt síðari breytingum, nema ákvæða laga þessara hafi verið gætt.][^1)^]
+     Óheimilt er að veita leyfi til framkvæmda sem lög þessi taka til, hefja framkvæmdir eða staðfesta skipulagsáætlanir samkvæmt "skipulagslögum, nr. 19 21. maí 1964":1964019.html,[^1)^] ásamt síðari breytingum, nema ákvæða laga þessara hafi verið gætt.][^2)^]
 
 
-_[^1)^]"L. 110/1993, 1. gr.":/altext/stjt/1993.110.html_
+_[^1)^]Nú "l. 73/1997":1997073.html.[^2)^]"L. 110/1993, 1. gr.":/altext/stjt/1993.110.html_
 
 
 

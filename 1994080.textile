@@ -23,9 +23,8 @@ h2. Lög um alferðir
 
      Í lögum þessum merkja eftirfarandi hugtök:
 
-<dl>
-<dt></dt>
-<dd>Alferð er fyrir fram ákveðin samsetning ekki færri en tveggja eftirfarandi atriða, þegar ferð er seld eða boðin til sölu á heildarverði og þegar þjónustan tekur til lengri tíma en 24 klst. eða í henni felst gisting:
+Alferð er fyrir fram ákveðin samsetning ekki færri en tveggja eftirfarandi atriða, þegar ferð er seld eða boðin til sölu á heildarverði og þegar þjónustan tekur til lengri tíma en 24 klst. eða í henni felst gisting:
+
 <dl>
 <dt>a.</dt>
 <dd>flutnings,</dd>
@@ -34,15 +33,15 @@ h2. Lög um alferðir
 <dt>c.</dt>
 <dd>annarrar þjónustu við ferðamenn sem tekur til verulegs hluta ferðarinnar.</dd>
 </dl>
-</dd>
-<dt></dt>
-<dd>Það telst alferð þótt reikningar séu gerðir sérstaklega fyrir hvert atriði.</dd>
-<dt></dt>
-<dd>Ferðaheildsali er sá sem setur saman alferð og býður hana til sölu, hvort heldur beint eða gegnum ferðasmásala.</dd>
-<dt></dt>
-<dd>Ferðasmásali er sá sem býður til sölu alferð sem ferðaheildsali hefur sett saman.</dd>
-<dt></dt>
-<dd>Farkaupi er einstaklingur eða lögpersóna sem:
+
+Það telst alferð þótt reikningar séu gerðir sérstaklega fyrir hvert atriði.
+
+Ferðaheildsali er sá sem setur saman alferð og býður hana til sölu, hvort heldur beint eða gegnum ferðasmásala.
+
+Ferðasmásali er sá sem býður til sölu alferð sem ferðaheildsali hefur sett saman.
+
+Farkaupi er einstaklingur eða lögpersóna sem:
+
 <dl>
 <dt>a.</dt>
 <dd>gerir samning um kaup á alferð (aðalsamningsaðili),</dd>
@@ -50,8 +49,6 @@ h2. Lög um alferðir
 <dd>aðalsamningsaðilinn semur um kaup á alferð fyrir,</dd>
 <dt>c.</dt>
 <dd>fengið hefur alferð framselda frá aðalsamningsaðila eða þeim sem aðalsamningsaðili samdi um kaup á alferð fyrir.</dd>
-</dl>
-</dd>
 </dl>
 
 

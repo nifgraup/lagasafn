@@ -131,8 +131,8 @@ _Skilgreining hugtaka._
 <dt> -- </dt>
 <dd>eftirlitsstjórnvöld, þann aðila sem samkvæmt lögum hlutaðeigandi ríkis fer með eftirlit með vátryggingafélögum og vátryggingastarfsemi, hér á landi [Fjármálaeftirlitið].[^1)^]</dd>
 <dt>[ -- </dt>
-<dd>náin tengsl, tengsl vátryggingafélags við</dd>
-<dd><dl>
+<dd>náin tengsl, tengsl vátryggingafélags við
+<dl>
 <dt>a.</dt>
 <dd>önnur félög í félagasamstæðu sem vátryggingafélagið tilheyrir,</dd>
 <dt>b.</dt>
@@ -519,7 +519,7 @@ _[^1)^]"L. 84/1998, 5. gr.":/altext/stjt/1998.084.html[^2)^]"L. 63/1997, 6. gr."
       [Setja skal reglugerð[^1)^] um réttaraðstoðarvátryggingar, greinaflokk skv. 17. tölul. 1. mgr., til þess að tryggja hagsmuni vátryggingataka í ágreiningsmáli við vátryggingafélagið sjálft.][^2)^]
 
 
-_[^1)^]Rg. 99/1998[^2)^]"L. 63/1997, 7. gr.":/altext/stjt/1997.063.html_
+_[^1)^]Rg. 99/1998.[^2)^]"L. 63/1997, 7. gr.":/altext/stjt/1997.063.html_
 
 
 

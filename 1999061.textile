@@ -169,8 +169,8 @@ _Skipan sérstaks samningaráðs._
 <dt>2.</dt>
 <dd>Ef fyrirtækið eða fyrirtækjasamstæðan hefur færri en 2.000 starfsmenn og á fyrirtæki eða starfsstöðvar í aðeins tveimur ríkjum skal auk þess tilnefndur einn fulltrúi starfsmanna í því ríki þar sem starfsmenn eru fleiri.</dd>
 <dt>3.</dt>
-<dd>Ef fyrirtækið eða fyrirtækjasamstæðan hefur 2.000 eða fleiri starfsmenn skulu enn fremur tilnefndir:</dd>
-<dd><dl>
+<dd>Ef fyrirtækið eða fyrirtækjasamstæðan hefur 2.000 eða fleiri starfsmenn skulu enn fremur tilnefndir:
+<dl>
 <dt>a.</dt>
 <dd>einn fulltrúi starfsmanna í ríkjum þar sem a.m.k. 25% starfsmanna fyrirtækisins eða fyrirtækjasamstæðunnar starfa og</dd>
 <dt>b.</dt>
@@ -333,8 +333,8 @@ _Val fulltrúa í samstarfsráð._
 <dt>2.</dt>
 <dd>Ef fyrirtækið eða fyrirtækjasamstæðan hefur færri en 2.000 starfsmenn og á fyrirtæki eða starfsstöðvar í aðeins tveimur ríkjum skal auk þess tilnefndur einn fulltrúi starfsmanna í því ríki þar sem starfsmenn eru flestir.</dd>
 <dt>3.</dt>
-<dd>Ef fyrirtækið eða fyrirtækjasamstæðan hefur 2.000 eða fleiri starfsmenn skulu enn fremur tilnefndir:</dd>
-<dd><dl>
+<dd>Ef fyrirtækið eða fyrirtækjasamstæðan hefur 2.000 eða fleiri starfsmenn skulu enn fremur tilnefndir:
+<dl>
 <dt>a.</dt>
 <dd>einn fulltrúi starfsmanna í ríkjum þar sem a.m.k. 25% starfsmanna fyrirtækisins eða fyrirtækjasamstæðunnar starfa og</dd>
 <dt>b.</dt>

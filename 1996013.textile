@@ -150,17 +150,17 @@ _[^1)^]_"L. 35/1998, 1. gr.":/altext/stjt/1998.035.html[^2)^]"L. 84/1998, 1. gr.
 <dt>3.</dt>
 <dd>Stjórnarmenn í verðbréfafyrirtæki skulu vera a.m.k. þrír en í verðbréfamiðlun a.m.k. tveir. Þeir skulu vera búsettir hér á landi, vera lögráða, hafa óflekkað mannorð, vera fjár síns ráðandi og mega ekki á síðustu fimm árum hafa í tengslum við atvinnurekstur hlotið dóm fyrir refsiverðan verknað samkvæmt almennum hegningarlögum eða lögum um hlutafélög, einkahlutafélög, bókhald, ársreikninga, gjaldþrot eða opinber gjöld. Ríkisborgarar þeirra ríkja sem eru aðilar að samningnum um Evrópska efnahagssvæðið eru undanþegnir búsetuskilyrðinu, enda séu viðkomandi ríkisborgarar búsettir í EES-ríki. Ráðherra er heimilt að veita þeim sem búsettir eru í öðrum ríkjum sömu undanþágu.</dd>
 <dt>4.</dt>
-<dd>Framkvæmdastjóri fyrirtækisins fullnægi skilyrðum 2. og 3. málsl. 3. tölul. og hafi sótt nám í verðbréfamiðlun og lokið þar prófi samkvæmt prófkröfum sem settar eru í reglugerð eða öðru jafngildu námi að mati ráðherra.</dd>
+<dd>Framkvæmdastjóri fyrirtækisins fullnægi skilyrðum 2. og 3. málsl. 3. tölul. og hafi sótt nám í verðbréfamiðlun og lokið þar prófi samkvæmt prófkröfum sem settar eru í reglugerð[^2)^] eða öðru jafngildu námi að mati ráðherra.</dd>
 <dt>5.</dt>
 <dd>Endurskoðun á reikningum fyrirtækisins sé framkvæmd af löggiltum endurskoðanda eða endurskoðunarstofu.</dd>
 <dt>6.</dt>
 <dd>Fyrirtækið setji tryggingu fyrir tjóni sem það kann að baka viðskiptavinum sínum í starfsemi sinni. Nánari ákvæði um fjárhæð tryggingar og lágmarksskilmála að öðru leyti skulu sett með reglugerð.</dd>
 </dl>
 
-     Jafnframt þeim skilyrðum sem fram koma í 1. mgr. er ráðherra heimilt að synja umsókn um starfsleyfi ef stjórnarmaður eða framkvæmdastjóri hafa sýnt af sér háttsemi sem gefur tilefni til að ætla að þeir misnoti aðstöðu sína eða ef eignarhlutur hluthafa í fyrirtæki í verðbréfaþjónustu, sbr. 12. gr., telst ósamrýmanlegur rekstri fyrirtækisins. Sama á við ef það er mat [Fjármálaeftirlitsins][^2)^] að náin tengsl fyrirtækis í verðbréfaþjónustu við einstaklinga eða lögaðila geti hindrað það í eðlilegum eftirlitsaðgerðum, sem og ef lög eða reglur, sem um þá aðila gilda, hindra eðlilegt eftirlit.
+     Jafnframt þeim skilyrðum sem fram koma í 1. mgr. er ráðherra heimilt að synja umsókn um starfsleyfi ef stjórnarmaður eða framkvæmdastjóri hafa sýnt af sér háttsemi sem gefur tilefni til að ætla að þeir misnoti aðstöðu sína eða ef eignarhlutur hluthafa í fyrirtæki í verðbréfaþjónustu, sbr. 12. gr., telst ósamrýmanlegur rekstri fyrirtækisins. Sama á við ef það er mat [Fjármálaeftirlitsins][^3)^] að náin tengsl fyrirtækis í verðbréfaþjónustu við einstaklinga eða lögaðila geti hindrað það í eðlilegum eftirlitsaðgerðum, sem og ef lög eða reglur, sem um þá aðila gilda, hindra eðlilegt eftirlit.
 
 
-_[^1)^]"L. 94/1998, 1. gr.":/altext/stjt/1998.094.html[^2)^]"L. 84/1998, 1. gr.":/altext/stjt/1998.084.html_
+_[^1)^]"L. 94/1998, 1. gr.":/altext/stjt/1998.094.html[^2)^]Rg. 301/1999.[^3)^]"L. 84/1998, 1. gr.":/altext/stjt/1998.084.html_
 
 
 
@@ -542,7 +542,7 @@ _[^1)^]"L. 35/1998, 3. gr.":/altext/stjt/1998.035.html_
       Ráðherra er heimilt að fengnum tillögum [Fjármálaeftirlitsins][^2)^] að ákveða í reglugerð[^1)^] að aðrir liðir en greindir eru í 3. - 5. mgr. teljist með eigin fé fyrirtækis í verðbréfaþjónustu.
 
 
-_[^1)^]Rg. 348/1996, sbr. 118/1997 og 53/1999.[^2)^]"L. 84/1998, 1. gr.":/altext/stjt/1998.084.html_
+_[^1)^]Rg. 348/1996, sbr. 118/1997, 53/1999 og 275/1999.[^2)^]"L. 84/1998, 1. gr.":/altext/stjt/1998.084.html_
 
 
 
@@ -822,7 +822,7 @@ _[^1)^]"L. 84/1998, 1. gr.":/altext/stjt/1998.084.html_
 
 51. gr.
 
-     Standi yfir opinber rannsókn vegna meints brots fyrirtækis í verðbréfaþjónustu á ákvæðum laga þessara, reglugerðum, reglum eða samþykktum er ráðherra heimilt, að fengnum tillögum [Fjármálaeftirlitsins],[^1)^] að svipta hlutaðeigandi fyrirtæki starfsleyfi um stundarsakir. Skalþá ráðherra skipa fyrirtækinu umsjónaraðila til bráðabirgða sem gera skal ráðstafanir sem miða að því að tryggja hag viðskiptavina þess.
+     Standi yfir opinber rannsókn vegna meints brots fyrirtækis í verðbréfaþjónustu á ákvæðum laga þessara, reglugerðum, reglum eða samþykktum er ráðherra heimilt, að fengnum tillögum [Fjármálaeftirlitsins],[^1)^] að svipta hlutaðeigandi fyrirtæki starfsleyfi um stundarsakir. Skal þá ráðherra skipa fyrirtækinu umsjónaraðila til bráðabirgða sem gera skal ráðstafanir sem miða að því að tryggja hag viðskiptavina þess.
 
 
 _[^1)^]"L. 84/1998, 1. gr.":/altext/stjt/1998.084.html_
@@ -863,7 +863,7 @@ _[^1)^]"L. 84/1998, 1. gr.":/altext/stjt/1998.084.html_
 
 
 
-*XIII. kafli*
+*XIII. kafli.*
 
 *Ýmis ákvæði.*
 
@@ -892,7 +892,11 @@ _[^1)^]"L. 84/1998, 1. gr.":/altext/stjt/1998.084.html_
 
 58. gr.
 
-     Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt að kveða nánar á um framkvæmd þeirra með reglugerð, þar á meðal um viðurlög í formi dagsekta.
+     Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt að kveða nánar á um framkvæmd þeirra með reglugerð,[^1)^] þar á meðal um viðurlög í formi dagsekta.
+
+
+_[^1)^]Rg. 301/1999._
+
 
 
 
@@ -920,21 +924,7 @@ _[^1)^]"L. 84/1998, 1. gr.":/altext/stjt/1998.084.html_
 
 *Ákvæði til bráðabirgða.*
 
-*I.*
-
-     Starfandi verðbréfafyrirtæki samkvæmt "lögum nr. 9/1993":1993009.html skulu tilkynna viðskiptaráðherra þegar við gildistöku laga þessara hvaða þjónustu skv. 8. gr. þau hyggist veita.
-
-
-
-*II.*
-
-     Einstaklingar, sem hlotið hafa leyfi viðskiptaráðherra til verðbréfamiðlunar samkvæmt "lögum nr. 9/1993":1993009.html og stunda starfsemi samkvæmt því leyfi, skulu hafa aðlagað starfsemi sína að ákvæðum laga þessara eigi síðar en 1. janúar 1997.
-
-
-
-*III.*
-
-     Starfandi fyrirtæki í verðbréfaþjónustu skulu hafa frest til 1. janúar 1997 til að fullnægja skilyrðum 1. tölul. 1. mgr. 3. gr. um innborgað hlutafé. Yfirtaki nýir aðilar starfsemi slíks fyrirtækis fyrir 1. október 1996 skal það þó hafa fullnægt framangreindum skilyrðum innan þriggja mánaða frá yfirtökunni.
+     ...
 
 
 

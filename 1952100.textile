@@ -88,7 +88,8 @@ _[^1)^]"L. 62/1998, 5. gr.":/altext/stjt/1998.062.html_
 
 <dl>
 <dt>A.</dt>
-<dd>Búsetuskilyrði.</dd>
+<dd>Búsetuskilyrði.
+<dl>
 <dt>1.</dt>
 <dd>Umsækjandi hafi átt hér lögheimili í sjö ár; ríkisborgari í einhverju hinna Norðurlandanna þó einungis í fjögur ár.</dd>
 <dt>2.</dt>
@@ -103,14 +104,19 @@ _[^1)^]"L. 62/1998, 5. gr.":/altext/stjt/1998.062.html_
 <dd>Flóttamaður, sem fullnægir skilgreiningu í alþjóðasamningi um stöðu flóttamanna sem gerður var 28. júlí 1951, hafi átt hér lögheimili sem slíkur í fimm ár.</dd>
 <dt>7.</dt>
 <dd>Reglur þessar miðast við lögheimili og samfellda dvöl hér á landi. Heimilt er að víkja frá því skilyrði þótt dvöl umsækjanda hér hafi verið rofin allt að einu ári vegna tímabundinnar atvinnu eða af óviðráðanlegum ástæðum, svo sem vegna veikinda nákomins ættingja, en þó allt að þremur árum vegna náms erlendis. Sá tími, sem umsækjandi hefur átt hér lögheimili og dvöl, verður þó að vera að minnsta kosti jafnlangur þeim tíma sem hann verður samkvæmt áðurgreindum reglum að uppfylla.</dd>
+</dl>
+</dd>
 <dt>B.</dt>
-<dd>Önnur skilyrði.</dd>
+<dd>Önnur skilyrði.
+<dl>
 <dt>1.</dt>
 <dd>Umsækjandi sé að áliti tveggja valinkunnra manna starfhæfur og vel kynntur þar sem hann hefur dvalist.</dd>
 <dt>2.</dt>
 <dd>Umsækjandi geti framfleytt sér hérlendis með hliðsjón af þeim upplýsingum sem koma fram í umsókn og hafi ekki þegið framfærslustyrk frá sveitarfélagi síðastliðin tvö ár.</dd>
 <dt>3.</dt>
 <dd>Umsækjandi hafi ekki sætt varðhalds- eða fangelsisrefsingu eða eigi ólokið máli í refsivörslukerfinu þar sem hann er grunaður eða sakaður um refsiverða háttsemi.</dd>
+</dl>
+</dd>
 </dl>
 
 

@@ -60,8 +60,8 @@ _Form og efni samnings._
 <dt>3.</dt>
 <dd>Taki samningur til ákveðinnar fasteignar ber að tilgreina nafn og staðsetningu eignarinnar.</dd>
 <dt>4.</dt>
-<dd>Taki samningur til fasteignar sem enn er á byggingarstigi ber að veita kaupanda upplýsingar um:</dd>
-<dd><dl>
+<dd>Taki samningur til fasteignar sem enn er á byggingarstigi ber að veita kaupanda upplýsingar um:
+<dl>
 <dt>a.</dt>
 <dd>hversu langt byggingin er komin og hvenær henni verði lokið,</dd>
 <dt>b.</dt>

@@ -43,18 +43,15 @@ _Samningur milli Íslands, Danmerkur, Finnlands, Noregs og Svíþjóðar um innh
      Beiðni um fullnustu skal senda yfirvaldi í samningsríki því, þar sem sá dvelst, er meðlagið á að fá, eða í samningsríki því, þar sem dómurinn eða úrskurðurinn var kveðinn upp eða skriflega skuldbindingin gerð.
       Eigi fullnusta að fara fram í öðru samningsríki en því, þar sem beiðnin kom fram skv. 1. mgr., skal senda beiðnina til fyrrnefnds ríkis. Í því tilviki er beiðnin send og móttekin af:
 
-<dl>
-<dt></dt>
-<dd>í Danmörku yfirstjórnvaldi (í Kaupmannahöfn „overpræsidenten“, en annars hlutaðeigandi amtmanni) eða, ef óvíst er, hvert yfirstjórnvald á að fjalla um málið, dómsmálaráðuneytinu;</dd>
-<dt></dt>
-<dd>í Finnlandi hlutaðeigandi lénsstjórn eða, ef óvíst er, hver lénsstjórn á að fjalla um málið, utanríkisráðuneytinu;</dd>
-<dt></dt>
-<dd>á Íslandi dómsmálaráðuneytinu;</dd>
-<dt></dt>
-<dd>í Noregi hlutaðeigandi fylkismanni eða, ef óvíst er, hver fylkismaður á að fjalla um málið, félagsmálaráðuneytinu, þegar um er að ræða meðlag með óskilgetnu barni eða móður slíks barns, en annars dómsmálaráðuneytinu;</dd>
-<dt></dt>
-<dd>og í Svíþjóð hlutaðeigandi lénsstjórn eða, sé óvíst, hver lénsstjórn á um að fjalla, réttardeild utanríkisráðuneytisins.</dd>
-</dl>
+í Danmörku yfirstjórnvaldi (í Kaupmannahöfn „overpræsidenten“, en annars hlutaðeigandi amtmanni) eða, ef óvíst er, hvert yfirstjórnvald á að fjalla um málið, dómsmálaráðuneytinu;
+
+í Finnlandi hlutaðeigandi lénsstjórn eða, ef óvíst er, hver lénsstjórn á að fjalla um málið, utanríkisráðuneytinu;
+
+á Íslandi dómsmálaráðuneytinu;
+
+í Noregi hlutaðeigandi fylkismanni eða, ef óvíst er, hver fylkismaður á að fjalla um málið, félagsmálaráðuneytinu, þegar um er að ræða meðlag með óskilgetnu barni eða móður slíks barns, en annars dómsmálaráðuneytinu;
+
+og í Svíþjóð hlutaðeigandi lénsstjórn eða, sé óvíst, hver lénsstjórn á um að fjalla, réttardeild utanríkisráðuneytisins.
 
 
       Beiðni um innheimtu í öðru samningsríki á meðlagi, sem yfirvald hefur greitt fyrir fram, má það yfirvald senda beint til yfirvalds í því ríki, samkvæmt ákvæðinu í 2. mgr., þar sem innheimtan á að fara fram.

@@ -18,8 +18,8 @@ h2. Lög um skráningu skipa
 <dt>1.</dt>
 <dd>Íslenskra ríkisborgara sem eiga lögheimili hér á landi.</dd>
 <dt>2.</dt>
-<dd>Íslenskra lögaðila sem eiga heimili hér á landi og eru að öllu leyti í eigu íslenskra ríkisborgara, sem eiga lögheimili hér á landi, eða íslenskra lögaðila sem uppfylla eftirfarandi skilyrði:</dd>
-<dd><dl>
+<dd>Íslenskra lögaðila sem eiga heimili hér á landi og eru að öllu leyti í eigu íslenskra ríkisborgara, sem eiga lögheimili hér á landi, eða íslenskra lögaðila sem uppfylla eftirfarandi skilyrði:
+<dl>
 <dt>a.</dt>
 <dd>Eru undir yfirráðum íslenskra aðila.</dd>
 <dt>b.</dt>
@@ -368,7 +368,7 @@ _[^1)^]"L. 92/1991, 85. gr.":/altext/stjt/1991.092.html_
       Lög þessi hagga ekki við neinum ákvæðum "laga um rétt til fiskveiða í landhelgi, nr. 33 19. júní 1922":/altext/stjtnr.html#1922033.[^1)^]
 
 
-_[^1)^]Nú "l. 13/1992":1992013.html._
+_[^1)^]Nú "l. 79/1997":1997079.html._
 
 
 

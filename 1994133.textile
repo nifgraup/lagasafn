@@ -23,24 +23,21 @@ h2. Lög um atvinnuréttindi útlendinga
 
      Í lögum þessum merkir:
 
-<dl>
-<dt></dt>
-<dd>_Atvinnuleyfi:_ Leyfi sem félagsmálaráðherra veitir útlendingi til að starfa á Íslandi eða atvinnurekanda til að ráða útlending í starf.</dd>
-<dt></dt>
-<dd>_Tímabundið atvinnuleyfi:_ Leyfi veitt atvinnurekanda til að ráða útlending til starfa.</dd>
-<dt></dt>
-<dd>_Óbundið atvinnuleyfi:_ Leyfi veitt útlendingi til að vinna á Íslandi.</dd>
-<dt></dt>
-<dd>_Atvinnuleyfi vegna námsdvalar og vistráðningar:_ Atvinnuleyfi erlendra námsmanna í íslenskum skólum eða vegna samninga um vist á heimili.</dd>
-<dt></dt>
-<dd>_Atvinnuleyfi til bráðabirgða:_ Leyfi veitt atvinnurekanda til að ráða til bráðabirgða útlendinga, einn eða fleiri, að uppfylltum tilteknum skilyrðum.</dd>
-<dt></dt>
-<dd>_Atvinnurekstrarleyfi:_ Leyfi til að vinna sjálfstætt eða starfrækja fyrirtæki.</dd>
-<dt></dt>
-<dd>_Atvinnurekandi:_ Einstaklingur eða fyrirtæki sem er með atvinnurekstur hér á landi án tillits til þess hvernig rekstrarformi og eignarhaldi er háttað.</dd>
-<dt></dt>
-<dd>_Útlendingur:_ Einstaklingur sem ekki hefur íslenskan ríkisborgararétt.</dd>
-</dl>
+_Atvinnuleyfi:_ Leyfi sem félagsmálaráðherra veitir útlendingi til að starfa á Íslandi eða atvinnurekanda til að ráða útlending í starf.
+
+_Tímabundið atvinnuleyfi:_ Leyfi veitt atvinnurekanda til að ráða útlending til starfa.
+
+_Óbundið atvinnuleyfi:_ Leyfi veitt útlendingi til að vinna á Íslandi.
+
+_Atvinnuleyfi vegna námsdvalar og vistráðningar:_ Atvinnuleyfi erlendra námsmanna í íslenskum skólum eða vegna samninga um vist á heimili.
+
+_Atvinnuleyfi til bráðabirgða:_ Leyfi veitt atvinnurekanda til að ráða til bráðabirgða útlendinga, einn eða fleiri, að uppfylltum tilteknum skilyrðum.
+
+_Atvinnurekstrarleyfi:_ Leyfi til að vinna sjálfstætt eða starfrækja fyrirtæki.
+
+_Atvinnurekandi:_ Einstaklingur eða fyrirtæki sem er með atvinnurekstur hér á landi án tillits til þess hvernig rekstrarformi og eignarhaldi er háttað.
+
+_Útlendingur:_ Einstaklingur sem ekki hefur íslenskan ríkisborgararétt.
 
 
 

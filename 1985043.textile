@@ -18,29 +18,27 @@ h2. Lög um Verðlagsráð sjávarútvegsins
      Verðlagsráð sjávarútvegsins annast meginframkvæmd laga þessara. Sjávarútvegsráðherra skipar Verðlagsráð eftir tilnefningu eftirtalinna aðila, þannig:
  A. Af hálfu fiskseljenda:
 
-<dl>
-<dt></dt>
-<dd>2 fulltrúar tilnefndir af Landssambandi íslenskra útvegsmanna.</dd>
-<dt></dt>
-<dd>1 fulltrúi tilnefndur af Sjómannasambandi Íslands.</dd>
-<dt></dt>
-<dd>1 fulltrúi tilnefndur af Farmanna- og fiskimannasambandi Íslands.
- B. Af hálfu fiskkaupenda:</dd>
-<dt></dt>
-<dd>1 fulltrúi tilnefndur af Sölusambandi íslenskra fiskframleiðenda.</dd>
-<dt></dt>
-<dd>1 fulltrúi tilnefndur af Sjávarafurðadeild S.Í.S.</dd>
-<dt></dt>
-<dd>2 fulltrúar tilnefndir af Sölumiðstöð hraðfrystihúsanna.</dd>
-<dt></dt>
-<dd>2 fulltrúar tilnefndir af Félagi rækju- og hörpudiskframleiðenda.</dd>
-<dt></dt>
-<dd>2 fulltrúar tilnefndir af Félagi síldarsaltenda á Norður- og Austurlandi.</dd>
-<dt></dt>
-<dd>2 fulltrúar tilnefndir af Félagi síldarsaltenda á Suðvesturlandi.</dd>
-<dt></dt>
-<dd>4 fulltrúar tilnefndir af Félagi íslenskra fiskmjölsframleiðenda.</dd>
-</dl>
+2 fulltrúar tilnefndir af Landssambandi íslenskra útvegsmanna.
+
+1 fulltrúi tilnefndur af Sjómannasambandi Íslands.
+
+1 fulltrúi tilnefndur af Farmanna- og fiskimannasambandi Íslands.
+
+B. Af hálfu fiskkaupenda:
+
+1 fulltrúi tilnefndur af Sölusambandi íslenskra fiskframleiðenda.
+
+1 fulltrúi tilnefndur af Sjávarafurðadeild S.Í.S.
+
+2 fulltrúar tilnefndir af Sölumiðstöð hraðfrystihúsanna.
+
+2 fulltrúar tilnefndir af Félagi rækju- og hörpudiskframleiðenda.
+
+2 fulltrúar tilnefndir af Félagi síldarsaltenda á Norður- og Austurlandi.
+
+2 fulltrúar tilnefndir af Félagi síldarsaltenda á Suðvesturlandi.
+
+4 fulltrúar tilnefndir af Félagi íslenskra fiskmjölsframleiðenda.
 
 
       Fulltrúar í Verðlagsráði skulu skipaðir til tveggja ára í senn. Varamenn skulu tilnefndir á sama hátt og taka sæti í Verðlagsráði í forföllum aðalmanna. Verðlagsráð kýs sér formann og ritara til eins árs í senn, annan úr hópi fiskseljenda og hinn úr hópi fiskkaupenda. Skulu þeir ásamt framkvæmdastjóra undirbúa fundi ráðsins.
@@ -61,26 +59,20 @@ h2. Lög um Verðlagsráð sjávarútvegsins
       Þegar ákveða skal verð á rækju og hörpudiski skal Verðlagsráð skipað 4 fulltrúum fiskseljenda samkvæmt 1. gr. og 4 fulltrúum fiskkaupenda, þannig: 2 frá Félagi rækju- og hörpudiskframleiðenda, 1 frá Sjávarafurðadeild S.Í.S. og 1 frá Sölumiðstöð hraðfrystihúsanna.
       Þegar ákveða skal verð á lifur og fiskúrgangi úr sjávarafla, öðrum en síld, skal Verðlagsráð skipað 6 fulltrúum; 3 fulltrúum seljenda, þannig:
 
-<dl>
-<dt></dt>
-<dd>1 fulltrúi tilnefndur af Landssambandi íslenskra útvegsmanna.</dd>
-<dt></dt>
-<dd>1 fulltrúi tilnefndur sameiginlega af Sjómannasambandi Íslands og Farmanna- og fiskimannasambandi Íslands.</dd>
-<dt></dt>
-<dd>1 fulltrúi tilnefndur sameiginlega af fulltrúum Sölumiðstöðvar hraðfrystihúsanna, Sölusambandi íslenskra fiskframleiðenda og Sjávarafurðadeild S.Í.S. í Verðlagsráði og má hann ekki eiga aðild að kaupum á fiskúrgangi, vera félagsbundinn eða hafa hagsmuna að gæta í samtökum verksmiðja þeirra er tilnefna fulltrúa kaupenda samkvæmt þessari málsgrein;</dd>
-</dl>
+1 fulltrúi tilnefndur af Landssambandi íslenskra útvegsmanna.
+
+1 fulltrúi tilnefndur sameiginlega af Sjómannasambandi Íslands og Farmanna- og fiskimannasambandi Íslands.
+
+1 fulltrúi tilnefndur sameiginlega af fulltrúum Sölumiðstöðvar hraðfrystihúsanna, Sölusambandi íslenskra fiskframleiðenda og Sjávarafurðadeild S.Í.S. í Verðlagsráði og má hann ekki eiga aðild að kaupum á fiskúrgangi, vera félagsbundinn eða hafa hagsmuna að gæta í samtökum verksmiðja þeirra er tilnefna fulltrúa kaupenda samkvæmt þessari málsgrein;
 
 og 3 fulltrúum kaupenda tilnefndum af Félagi íslenskra fiskmjölsframleiðenda.
       Þegar ákveða skal verð á síldarúrgangi skal Verðlagsráð skipað 6 fulltrúum; 3 fulltrúum seljenda, þannig:
 
-<dl>
-<dt></dt>
-<dd>1 fulltrúi tilnefndur sameiginlega af Sjómannasambandi Íslands og Farmanna- og fiskimannasambandi Íslands.</dd>
-<dt></dt>
-<dd>1 fulltrúi tilnefndur af Landssambandi íslenskra útvegsmanna.</dd>
-<dt></dt>
-<dd>1 fulltrúi tilnefndur sameiginlega af fulltrúum Félags síldarsaltenda á Norður- og Austurlandi og Félags síldarsaltenda á Suðvesturlandi. Þessi fulltrúi má ekki eiga aðild að kaupum á síldarúrgangi, vera félagsbundinn eða hafa hagsmuna að gæta í samtökum verksmiðja þeirra er tilnefna fulltrúa kaupenda samkvæmt 2. mgr.;</dd>
-</dl>
+1 fulltrúi tilnefndur sameiginlega af Sjómannasambandi Íslands og Farmanna- og fiskimannasambandi Íslands.
+
+1 fulltrúi tilnefndur af Landssambandi íslenskra útvegsmanna.
+
+1 fulltrúi tilnefndur sameiginlega af fulltrúum Félags síldarsaltenda á Norður- og Austurlandi og Félags síldarsaltenda á Suðvesturlandi. Þessi fulltrúi má ekki eiga aðild að kaupum á síldarúrgangi, vera félagsbundinn eða hafa hagsmuna að gæta í samtökum verksmiðja þeirra er tilnefna fulltrúa kaupenda samkvæmt 2. mgr.;
 
 og 3 fulltrúum kaupenda tilnefndum af Félagi íslenskra fiskmjölsframleiðenda.
 

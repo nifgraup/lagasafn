@@ -48,26 +48,23 @@ h2. Lög um Lúganósamninginn um dómsvald og um fullnustu dóma í einkamálum
 
 _Inngangur._
 
-<dl>
-<dt></dt>
-<dd>AÐILAR AÐ SAMNINGI ÞESSUM</dd>
-<dt></dt>
-<dd>SEM ER UMHUGAÐ um að styrkja á yfirráðasvæðum sínum réttarvernd þeirra manna sem þar eru búsettir,</dd>
-<dt></dt>
-<dd>SEM TELJA að í því skyni sé nauðsynlegt að ákvarða hið alþjóðlega dómsvald dómstóla sinna og að auðvelda viðurkenningu og koma á skjótvirkri málsmeðferð til að tryggja fullnustu á dómum, opinberlega staðfestum skjölum og réttarsáttum,</dd>
-<dt></dt>
-<dd>SEM GERA SÉR GREIN fyrir tengslum sín í milli, sem hafa komið fram á sviði efnahagsmála í fríverslunarsamningum milli Efnahagsbandalags Evrópu og aðildarríkja Fríverslunarsamtaka Evrópu,</dd>
-<dt></dt>
-<dd>SEM HAFA HLIÐSJÓN af Brusselsamningnum frá 27. september 1968 um dómsvald og um fullnustu dóma í einkamálum eins og honum hefur verið breytt með aðildarsamningum eftir því sem Evrópubandalögin hafa stækkað,</dd>
-<dt></dt>
-<dd>SEM ERU SANNFÆRÐIR um að með því að láta meginreglur þess samnings einnig ná til ríkja, sem eru aðilar að þessum samningi, muni lagaleg og efnahagsleg samvinna í Evrópu styrkjast,</dd>
-<dt></dt>
-<dd>SEM ÓSKA að tryggja eins samræmda túlkun og unnt er á samningi þessum,</dd>
-<dt></dt>
-<dd>HAFA í þessum anda ÁKVEÐIÐ að gera með sér samning þennan og</dd>
-<dt></dt>
-<dd>HAFA ORÐIÐ ÁSÁTTIR UM EFTIRFARANDI:</dd>
-</dl>
+AÐILAR AÐ SAMNINGI ÞESSUM
+
+SEM ER UMHUGAÐ um að styrkja á yfirráðasvæðum sínum réttarvernd þeirra manna sem þar eru búsettir,
+
+SEM TELJA að í því skyni sé nauðsynlegt að ákvarða hið alþjóðlega dómsvald dómstóla sinna og að auðvelda viðurkenningu og koma á skjótvirkri málsmeðferð til að tryggja fullnustu á dómum, opinberlega staðfestum skjölum og réttarsáttum,
+
+SEM GERA SÉR GREIN fyrir tengslum sín í milli, sem hafa komið fram á sviði efnahagsmála í fríverslunarsamningum milli Efnahagsbandalags Evrópu og aðildarríkja Fríverslunarsamtaka Evrópu,
+
+SEM HAFA HLIÐSJÓN af Brusselsamningnum frá 27. september 1968 um dómsvald og um fullnustu dóma í einkamálum eins og honum hefur verið breytt með aðildarsamningum eftir því sem Evrópubandalögin hafa stækkað,
+
+SEM ERU SANNFÆRÐIR um að með því að láta meginreglur þess samnings einnig ná til ríkja, sem eru aðilar að þessum samningi, muni lagaleg og efnahagsleg samvinna í Evrópu styrkjast,
+
+SEM ÓSKA að tryggja eins samræmda túlkun og unnt er á samningi þessum,
+
+HAFA í þessum anda ÁKVEÐIÐ að gera með sér samning þennan og
+
+HAFA ORÐIÐ ÁSÁTTIR UM EFTIRFARANDI:
 
 *I. hluti.*
 
@@ -758,7 +755,9 @@ b)</dt>
 <dd>á Norður-Írlandi til „High Court of Justice“ eða, ef um er að ræða dóm um framfærsluskyldu, til „Magistrates' Court“.</dd>
 </dl>
 </dd>
-<dd><dl>
+</dl>
+
+<dl>
 <dt>2.</dt>
 <dd>Niðurstöðu málskots eða endurupptöku verður aðeins hnekkt:
 <dl>
@@ -786,8 +785,6 @@ b)</dt>
 <dd>í Svíþjóð með áfrýjun til „högsta domstolen“,</dd>
 <dt> -- </dt>
 <dd>í Stóra-Bretlandi og Norður-Írlandi með einum möguleika á áfrýjun um lagaatriði.</dd>
-</dl>
-</dd>
 </dl>
 </dd>
 </dl>
@@ -1133,10 +1130,10 @@ g)</dt>
 <dd>um „litis pendens“ eða skyldar kröfur, sbr. 21. og 22. gr., þegar mál er höfðað í samningsríki sem ekki er aðili að Evrópubandalögunum og í samningsríki sem er aðili að Evrópubandalögunum,</dd>
 <dt>c)</dt>
 <dd>við úrlausn um viðurkenningu og fullnustu þegar annaðhvort dómsríkið eða ríki það, sem beiðni er beint til, er ekki aðili að Evrópubandalögunum.</dd>
-<dt>3.</dt>
-<dd>Auk þeirra ástæðna, sem tilgreindar eru í III. hluta, má synja um viðurkenningu eða fullnustu ef þær reglur, sem dómstóllinn hefur byggt dómsvald sitt á, eru aðrar en þær sem af samningi þessum leiðir og krafist er viðurkenningar eða fullnustu hjá aðila sem á heimili í samningsríki sem ekki er aðili að Evrópubandalögunum, nema dóminn megi ella viðurkenna eða honum megi fullnægja samkvæmt lögum í því ríki sem beiðni er beint til.</dd>
 </dl>
 </dd>
+<dt>3.</dt>
+<dd>Auk þeirra ástæðna, sem tilgreindar eru í III. hluta, má synja um viðurkenningu eða fullnustu ef þær reglur, sem dómstóllinn hefur byggt dómsvald sitt á, eru aðrar en þær sem af samningi þessum leiðir og krafist er viðurkenningar eða fullnustu hjá aðila sem á heimili í samningsríki sem ekki er aðili að Evrópubandalögunum, nema dóminn megi ella viðurkenna eða honum megi fullnægja samkvæmt lögum í því ríki sem beiðni er beint til.</dd>
 </dl>
 
 
@@ -1297,6 +1294,9 @@ g)</dt>
 <dd>ríkjum sem vísað er til í b-lið 60. gr.,</dd>
 <dt>b)</dt>
 <dd>öðrum ríkjum sem samkvæmt beiðni samningsríkis til vörsluaðilans hefur verið boðin aðild. Vörsluaðilinn skal því aðeins bjóða viðkomandi ríki aðild að hann, eftir að hafa kynnt efni þeirra yfirlýsinga sem ríkið hyggst gefa í samræmi við 63. gr., hefur fengið einróma samþykki þeirra ríkja, sem undirritað hafa samninginn, og samningsríkja sem vísað er til í a- og b-lið 60. gr.</dd>
+</dl>
+
+<dl>
 <dt>2.</dt>
 <dd>Ef ríki, sem gerist aðili að samningnum, óskar að leggja fram nánari upplýsingar vegna bókunar nr. 1 skulu hafnar um það samningaviðræður. Svissneska sambandsráðið skal boða til samningaráðstefnu í því skyni.</dd>
 <dt>3.</dt>
@@ -1505,24 +1505,21 @@ VI. gr.
 
 _Inngangur._
 
-<dl>
-<dt></dt>
-<dd>SAMNINGSAÐILAR</dd>
-<dt></dt>
-<dd>SEM VÍSA til 65. gr. samnings þessa,</dd>
-<dt></dt>
-<dd>SEM HAFA Í HUGA hin nánu tengsl milli samnings þessa og Brusselsamningsins,</dd>
-<dt></dt>
-<dd>SEM HAFA Í HUGA að dómstóll Evrópubandalaganna hefur samkvæmt bókun frá 3. júní 1971 vald til þess að skera úr um túlkun á ákvæðum Brusselsamningsins,</dd>
-<dt></dt>
-<dd>SEM ER KUNNUGT um úrlausnir dómstóls Evrópubandalaganna um túlkun á Brusselsamningnum fram að undirritun samnings þessa,</dd>
-<dt></dt>
-<dd>SEM HAFA Í HUGA að samningaviðræður þær, sem voru undanfari þess að samningurinn var gerður, voru byggðar á Brusselsamningnum í ljósi þeirra úrlausna,</dd>
-<dt></dt>
-<dd>SEM VILJA, með fullri virðingu fyrir sjálfstæði dómstólanna, koma í veg fyrir mismunandi túlkun og ná eins samræmdri túlkun og unnt er á ákvæðum samningsins, og á ákvæðum þessa samnings og þeim ákvæðum Brusselsamningsins sem í öllum meginatriðum eru tekin upp í þennan samning,</dd>
-<dt></dt>
-<dd>HAFA ORÐIÐ ÁSÁTTIR UM EFTIRFARANDI:</dd>
-</dl>
+SAMNINGSAÐILAR
+
+SEM VÍSA til 65. gr. samnings þessa,
+
+SEM HAFA Í HUGA hin nánu tengsl milli samnings þessa og Brusselsamningsins,
+
+SEM HAFA Í HUGA að dómstóll Evrópubandalaganna hefur samkvæmt bókun frá 3. júní 1971 vald til þess að skera úr um túlkun á ákvæðum Brusselsamningsins,
+
+SEM ER KUNNUGT um úrlausnir dómstóls Evrópubandalaganna um túlkun á Brusselsamningnum fram að undirritun samnings þessa,
+
+SEM HAFA Í HUGA að samningaviðræður þær, sem voru undanfari þess að samningurinn var gerður, voru byggðar á Brusselsamningnum í ljósi þeirra úrlausna,
+
+SEM VILJA, með fullri virðingu fyrir sjálfstæði dómstólanna, koma í veg fyrir mismunandi túlkun og ná eins samræmdri túlkun og unnt er á ákvæðum samningsins, og á ákvæðum þessa samnings og þeim ákvæðum Brusselsamningsins sem í öllum meginatriðum eru tekin upp í þennan samning,
+
+HAFA ORÐIÐ ÁSÁTTIR UM EFTIRFARANDI:
 
 
 
@@ -1604,41 +1601,29 @@ _Inngangur._
 
 _YFIRLÝSING frá fulltrúum ríkisstjórna þeirra ríkja, sem hafa undirritað Lúganósamninginn og eru aðilar að Evrópubandalögunum, um bókun nr. 3 um beitingu 57. gr. samningsins._
 
-<dl>
-<dt></dt>
-<dd>Við undirritun samnings um dómsvald og um fullnustu dóma í einkamálum í Lúganó 16. september 1988</dd>
-<dt></dt>
-<dd>LÝSA FULLTRÚAR RÍKISSTJÓRNA AÐILDARRÍKJA EVRÓPUBANDALAGANNA</dd>
-<dt></dt>
-<dd>SEM HAFA Í HUGA þær skuldbindingar sem teknar hafa verið gagnvart aðildarríkjum Fríverslunarsamtaka Evrópu,</dd>
-<dt></dt>
-<dd>SEM ER UMHUGAÐ um að skaða ekki þá réttareiningu sem stofnað er til með samningnum,</dd>
-<dt></dt>
-<dd>ÞVÍ YFIR að þau muni gera allar ráðstafanir, sem í þeirra valdi standa, til að tryggja að virtar verði þær reglur um dómsvald og um viðurkenningu og fullnustu dóma sem settar eru með samningnum þegar undirbúnar verða þær ákvarðanir sem fjallað er um í 1. mgr. bókunar nr. 3 um beitingu 57. gr.</dd>
-</dl>
+Við undirritun samnings um dómsvald og um fullnustu dóma í einkamálum í Lúganó 16. september 1988
+
+LÝSA FULLTRÚAR RÍKISSTJÓRNA AÐILDARRÍKJA EVRÓPUBANDALAGANNA
+
+SEM HAFA Í HUGA þær skuldbindingar sem teknar hafa verið gagnvart aðildarríkjum Fríverslunarsamtaka Evrópu,
+
+SEM ER UMHUGAÐ um að skaða ekki þá réttareiningu sem stofnað er til með samningnum,
+
+ÞVÍ YFIR að þau muni gera allar ráðstafanir, sem í þeirra valdi standa, til að tryggja að virtar verði þær reglur um dómsvald og um viðurkenningu og fullnustu dóma sem settar eru með samningnum þegar undirbúnar verða þær ákvarðanir sem fjallað er um í 1. mgr. bókunar nr. 3 um beitingu 57. gr.
 
 _YFIRLÝSING frá fulltrúum ríkisstjórna þeirra ríkja sem hafa undirritað Lúganósamninginn og eru aðilar að Evrópubandalögunum._
 
-<dl>
-<dt></dt>
-<dd>Við undirritun samnings um dómsvald og um fullnustu dóma í einkamálum í Lúganó 16. september 1988</dd>
-<dt></dt>
-<dd>LÝSA FULLTRÚAR RÍKISSTJÓRNA AÐILDARRÍKJA EVRÓPUBANDALAGANNA</dd>
-<dt></dt>
-<dd>ÞVÍ YFIR að þau telja rétt að dómstóll Evrópubandalaganna taki við túlkun Brusselsamningsins réttmætt tillit til fordæma sem úrlausnir samkvæmt Lúganósamningnum veita.</dd>
-</dl>
+Við undirritun samnings um dómsvald og um fullnustu dóma í einkamálum í Lúganó 16. september 1988
+
+LÝSA FULLTRÚAR RÍKISSTJÓRNA AÐILDARRÍKJA EVRÓPUBANDALAGANNA
+
+ÞVÍ YFIR að þau telja rétt að dómstóll Evrópubandalaganna taki við túlkun Brusselsamningsins réttmætt tillit til fordæma sem úrlausnir samkvæmt Lúganósamningnum veita.
 
 _YFIRLÝSING frá fulltrúum ríkisstjórna þeirra ríkja sem hafa undirritað Lúganósamninginn og eru aðilar að Fríverslunarsamtökum Evrópu._
 
-<dl>
-<dt></dt>
-<dd>Við undirritun samnings um dómsvald og um fullnustu dóma í einkamálum í Lúganó 16. september 1988</dd>
-</dl>
+Við undirritun samnings um dómsvald og um fullnustu dóma í einkamálum í Lúganó 16. september 1988
 
-<dl>
-<dt></dt>
-<dd>LÝSA FULLTRÚAR RÍKISSTJÓRNA AÐILDARRÍKJA FRÍVERSLUNARSAMTAKA EVRÓPU</dd>
-<dt></dt>
-<dd>ÞVÍ YFIR að þau telja rétt að dómstólar þeirra taki við túlkun samningsins réttmætt tillit til fordæma sem úrlausnir dómstóls Evrópubandalaganna og dómstóla í aðildarríkjum Evrópubandalaganna veita hvað varðar ákvæði Brusselsamningsins sem í öllum meginatriðum eru tekin upp í Lúganósamninginn.</dd>
-</dl>
+LÝSA FULLTRÚAR RÍKISSTJÓRNA AÐILDARRÍKJA FRÍVERSLUNARSAMTAKA EVRÓPU
+
+ÞVÍ YFIR að þau telja rétt að dómstólar þeirra taki við túlkun samningsins réttmætt tillit til fordæma sem úrlausnir dómstóls Evrópubandalaganna og dómstóla í aðildarríkjum Evrópubandalaganna veita hvað varðar ákvæði Brusselsamningsins sem í öllum meginatriðum eru tekin upp í Lúganósamninginn.
 

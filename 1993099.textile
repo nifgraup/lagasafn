@@ -40,38 +40,35 @@ h2. Lög um framleiðslu, verðlagningu og sölu á búvörum
 
      Merking orða í lögum þessum er sem hér segir:
 
-<dl>
-<dt></dt>
-<dd>Afurðastöð er hver sú atvinnustarfsemi lögaðila eða einstaklings sem tekur við búvörum úr höndum framleiðenda til vinnslu, flokkunar, pökkunar, geymslu, heildsölu og/eða dreifingar.</dd>
-<dt></dt>
-<dd>[Beingreiðslumark er tiltekin fjárhæð sem ákveðin er í 37. gr. og skiptist milli lögbýla eftir greiðslumarki þeirra.][^1)^]</dd>
-<dt></dt>
-<dd>Búvörur teljast í lögum þessum afurðir búfjár, þar með taldar afurðir nautgripa, sauðfjár, hrossa, svína, alifugla og loðdýra, afurðir nytjajurta og afurðir hlunninda. Lög þessi taka ekki til afurða alifiska.</dd>
-<dt></dt>
-<dd>Efri og neðri mörk greiðslumarks eru leyfileg fráviksmörk framleiðslu á lögbýli frá greiðslumarki býlisins án þess að frávikið valdi breytingu á beinum greiðslum úr ríkissjóði nema kveðið sé á um aðrar viðmiðanir í samningum [Bændasamtaka Íslands][^2)^] og landbúnaðarráðherra skv. a-lið 1. mgr. 30. gr. eða í reglugerðum við lög þessi.</dd>
-<dt></dt>
-<dd>Fóður merkir í lögum þessum vöru sem notuð er til fóðrunar búfjár við búvöruframleiðslu.</dd>
-<dt></dt>
-<dd>Framleiðandi er hver sá, sem á eigin vegum hefur með búvöruframleiðslu að gera, hvort sem er einstaklingur, lögaðili, aðili að félagsbúi eða ríkisbú.</dd>
-<dt></dt>
-<dd>[Greiðslumark lögbýlis er tiltekinn fjöldi ærgilda eða magn mjólkur mælt í lítrum sem ákveðið er fyrir hvert lögbýli og veitir rétt til beingreiðslu úr ríkissjóði.</dd>
-<dt></dt>
-<dd>Heildargreiðslumark er tiltekið magn mjólkur mælt í lítrum sem ákveðið er samkvæmt búvörusamningi með tilliti til heildarneyslu innan lands og skiptist milli lögbýla eftir greiðslumarki þeirra.][^3)^]</dd>
-<dt></dt>
-<dd>Lögbýli eða jörð er í lögum þessum skilgreint skv. "1. gr. ábúðarlaga nr. 64 31. maí 1976":1976064.html#g1, með síðari breytingum.</dd>
-<dt></dt>
-<dd>Sláturleyfishafi er hver sá aðili sem hefur löggildingu eða undanþáguleyfi til slátrunar búfjár samkvæmt "lögum nr. 30 28. apríl 1966":1966030.html, um meðferð, skoðun og mat á sláturafurðum, með síðari breytingum.</dd>
-<dt></dt>
-<dd>Verðlagsár er tímabilið frá 1. september til 31. ágúst árið eftir. Þó getur landbúnaðarráðherra ákveðið, að fenginni umsögn Framleiðsluráðs landbúnaðarins, að verðlagsár fylgi almanaksári.</dd>
-<dt></dt>
-<dd>[Vetrarfóðraðar kindur eru ær, hrútar, sauðir og lömb sem sett eru á vetur og talin eru fram á forðagæsluskýrslu.][^1)^]</dd>
-</dl>
+Afurðastöð er hver sú atvinnustarfsemi lögaðila eða einstaklings sem tekur við búvörum úr höndum framleiðenda til vinnslu, flokkunar, pökkunar, geymslu, heildsölu og/eða dreifingar.
+
+[Beingreiðslumark er tiltekin fjárhæð sem ákveðin er í 37. gr. og skiptist milli lögbýla eftir greiðslumarki þeirra.][^1)^]
+
+Búvörur teljast í lögum þessum afurðir búfjár, þar með taldar afurðir nautgripa, sauðfjár, hrossa, svína, alifugla og loðdýra, afurðir nytjajurta og afurðir hlunninda. Lög þessi taka ekki til afurða alifiska.
+
+Efri og neðri mörk greiðslumarks eru leyfileg fráviksmörk framleiðslu á lögbýli frá greiðslumarki býlisins án þess að frávikið valdi breytingu á beinum greiðslum úr ríkissjóði nema kveðið sé á um aðrar viðmiðanir í samningum [Bændasamtaka Íslands][^2)^] og landbúnaðarráðherra skv. a-lið 1. mgr. 30. gr. eða í reglugerðum við lög þessi.
+
+Fóður merkir í lögum þessum vöru sem notuð er til fóðrunar búfjár við búvöruframleiðslu.
+
+Framleiðandi er hver sá, sem á eigin vegum hefur með búvöruframleiðslu að gera, hvort sem er einstaklingur, lögaðili, aðili að félagsbúi eða ríkisbú.
+
+[Greiðslumark lögbýlis er tiltekinn fjöldi ærgilda eða magn mjólkur mælt í lítrum sem ákveðið er fyrir hvert lögbýli og veitir rétt til beingreiðslu úr ríkissjóði.
+
+Heildargreiðslumark er tiltekið magn mjólkur mælt í lítrum sem ákveðið er samkvæmt búvörusamningi með tilliti til heildarneyslu innan lands og skiptist milli lögbýla eftir greiðslumarki þeirra.][^3)^]
+
+Lögbýli eða jörð er í lögum þessum skilgreint skv. "1. gr. ábúðarlaga nr. 64 31. maí 1976":1976064.html#g1, með síðari breytingum.
+
+Sláturleyfishafi er hver sá aðili sem hefur löggildingu eða undanþáguleyfi til slátrunar búfjár samkvæmt "lögum nr. 30 28. apríl 1966":1966030.html,[^4)^] um meðferð, skoðun og mat á sláturafurðum, með síðari breytingum.
+
+Verðlagsár er tímabilið frá 1. september til 31. ágúst árið eftir. Þó getur landbúnaðarráðherra ákveðið, að fenginni umsögn Framleiðsluráðs landbúnaðarins, að verðlagsár fylgi almanaksári.
+
+[Vetrarfóðraðar kindur eru ær, hrútar, sauðir og lömb sem sett eru á vetur og talin eru fram á forðagæsluskýrslu.][^1)^]
 
 
       Rísi ágreiningur um hvað falla skuli undir hugtök þessi sker landbúnaðarráðherra úr þeim ágreiningi.
 
 
-_[^1)^]"L. 124/1995, 2. gr.":/altext/stjt/1995.124.html[^2)^]"L. 124/1995, 19. gr.":/altext/stjt/1995.124.html[^3)^]"L. 124/1995, 1. gr.":/altext/stjt/1995.124.html_
+_[^1)^]"L. 124/1995, 2. gr.":/altext/stjt/1995.124.html[^2)^]"L. 124/1995, 19. gr.":/altext/stjt/1995.124.html[^3)^]"L. 124/1995, 1. gr.":/altext/stjt/1995.124.html[^4)^]Nú "l. 96/1997":1997096.html._
 
 
 
@@ -734,13 +731,17 @@ _[^1)^]"L. 87/1995, 20. gr.":/altext/stjt/1995.087.html_
 
 54. gr.
 
-     Landbúnaðarráðherra getur með reglugerð ákveðið að mjólk og mjólkurvörur, egg, kartöflur, garðávextir og grænmeti, sem selja á innan lands eða flytja skal á erlendan markað, skuli metið, flokkað og merkt eftir tegundum, gæðum og uppruna enda fullnægi varan reglum um heilbrigði og hollustuhætti sem settar eru á grundvelli "laga nr. 81 3. ágúst 1988":1988081.html, um hollustuhætti og heilbrigðiseftirlit, og "laga nr. 24 1. febrúar 1936":1936024.html, um eftirlit með matvælum og öðrum neyslu- og nauðsynjavörum.
-      Til að standa straum af kostnaði við mat samkvæmt þessari grein er ráðherra heimilt að láta innheimta sérstakt matsgjald af þeirri vöru sem matið tekur til og má gjaldið vera tiltekin krónutala á hverja þyngdareiningu eða hlutfall af verði vörunnar til framleiðanda. Matsgjaldið má þó aldrei vera hærra en sem nemur 1,5% af verði vörunnar til framleiðanda. Framleiðandi þeirrar vöru, sem tekin er til mats, er ábyrgur fyrir greiðslu matsgjalds. Gjald þetta má taka lögtaki. Heimilt er að ákveða að það skuli innheimt með búnaðarmálasjóðsgjaldi samkvæmt "lögum nr. 41 15. maí 1990":1990041.html.
+     Landbúnaðarráðherra getur með reglugerð ákveðið að mjólk og mjólkurvörur, egg, kartöflur, garðávextir og grænmeti, sem selja á innan lands eða flytja skal á erlendan markað, skuli metið, flokkað og merkt eftir tegundum, gæðum og uppruna enda fullnægi varan reglum um heilbrigði og hollustuhætti sem settar eru á grundvelli "laga nr. 81 3. ágúst 1988":1988081.html,[^1)^] um hollustuhætti og heilbrigðiseftirlit, og "laga nr. 24 1. febrúar 1936":1936024.html,[^2)^] um eftirlit með matvælum og öðrum neyslu- og nauðsynjavörum.
+      Til að standa straum af kostnaði við mat samkvæmt þessari grein er ráðherra heimilt að láta innheimta sérstakt matsgjald af þeirri vöru sem matið tekur til og má gjaldið vera tiltekin krónutala á hverja þyngdareiningu eða hlutfall af verði vörunnar til framleiðanda. Matsgjaldið má þó aldrei vera hærra en sem nemur 1,5% af verði vörunnar til framleiðanda. Framleiðandi þeirrar vöru, sem tekin er til mats, er ábyrgur fyrir greiðslu matsgjalds. Gjald þetta má taka lögtaki. Heimilt er að ákveða að það skuli innheimt með búnaðarmálasjóðsgjaldi samkvæmt "lögum nr. 41 15. maí 1990":1990041.html.[^3)^]
       Landbúnaðarráðherra ákveður yfirstjórn mats þeirra búvara sem ákveðið er að taka til mats samkvæmt þessari grein.
       Um löggildingu matsmanna fer eftir ákvæðum í reglugerð og er þar heimilt að ákveða að afurðastöð og söluaðilar skuli á sinn kostnað hafa í þjónustu sinni matsmenn til að framkvæma mat samkvæmt þessari grein. Þá eina má skipa eða löggilda sem matsmenn sem hafa góða þekkingu á viðkomandi búvöru og reynslu í öllu er varðar meðferð varanna og mat á þeim.
       Í reglugerð skulu sett ákvæði um matsreglur, gæðaflokkun, framkvæmd mats, yfirmat og annað sem lýtur að matinu.
       Afurðastöðvum og öðrum, sem annast sölumeðferð þeirra búvara sem mat samkvæmt þessari grein tekur til, er skylt að sjá matsmönnum fyrir aðstöðu til að framkvæma matið samkvæmt nánari reglum sem settar skulu í reglugerð.
-      Við verðlagningu búvara skal verð þeirra ákveðið mismunandi eftir tegunda- og gæðaflokkum sem ákveðnir eru samkvæmt þessari grein, "lögum nr. 30 28. apríl 1966":1966030.html, um meðferð, skoðun og mat á sláturafurðum, "lögum nr. 57 16. maí 1990":1990057.html, um flokkun og mat á gærum og ull, og öðrum lögum og reglum um sama efni.
+      Við verðlagningu búvara skal verð þeirra ákveðið mismunandi eftir tegunda- og gæðaflokkum sem ákveðnir eru samkvæmt þessari grein, "lögum nr. 30 28. apríl 1966":1966030.html,[^4)^] um meðferð, skoðun og mat á sláturafurðum, "lögum nr. 57 16. maí 1990":1990057.html, um flokkun og mat á gærum og ull, og öðrum lögum og reglum um sama efni.
+
+
+_[^1)^]Nú "l. 7/1998":1998007.html.[^2)^]Nú "l. 93/1995":1995093.html.[^3)^]Nú "l. 84/1997":1997084.html.[^4)^]Nú "l. 96/1997":1997096.html._
+
 
 
 
@@ -787,16 +788,24 @@ _[^1)^]"L. 69/1998, 18. gr.":/altext/stjt/1998.069.html_
      Framleiðsluráð landbúnaðarins og sláturleyfishafar skulu gera samkomulag um verkaskiptingu á milli sláturleyfishafa vegna slátrunar og verkunar sauðfjár- og stórgripaafurða til sölu á erlenda markaði með tilliti til mismunandi heimilda þeirra til slátrunar og verkunar á þessum búvörum til útflutnings og þess að sala hvers sláturleyfishafa á innlendum markaði miðist við hlutfall heimilaðrar framleiðslu skv. 30. gr. þeirra framleiðenda sem eru í viðskiptum hjá sláturleyfishafa.
       Heimilt er að gera slíkt samkomulag til tiltekins tíma og skal aðilum heimilt að óska endurskoðunar á því vegna breyttra aðstæðna, eftir því sem nánar er tekið til í samkomulaginu. Samkomulagið öðlast ekki gildi fyrr en landbúnaðarráðherra hefur staðfest það.
       Nú næst ekki slíkt samkomulag sem um ræðir í 1. mgr. eða ráðherra neitar að staðfesta það og skal ráðherra þá úrskurða framangreinda verkaskiptingu. Úrskurður þessi skal vera tímabundinn og má gilda í allt að tvö ár. Aðilum er á þessu tímabili frjálst að gera með sér samkomulag skv. 1. mgr. er komi í stað úrskurðar ráðherra. Í slíkum úrskurði er heimilt að kveða á um magn og verkun þessara búvara og skiptingu þeirra til sölu innan lands og utan.
-      Brjóti sláturleyfishafi gegn samkomulagi eða úrskurði samkvæmt þessari grein er ráðherra heimilt að svipta viðkomandi sláturleyfi samkvæmt "lögum nr. 30 28. apríl 1966":1966030.html, um meðferð, skoðun og mat á sláturafurðum, með síðari breytingum.
+      Brjóti sláturleyfishafi gegn samkomulagi eða úrskurði samkvæmt þessari grein er ráðherra heimilt að svipta viðkomandi sláturleyfi samkvæmt "lögum nr. 30 28. apríl 1966":1966030.html,[^1)^] um meðferð, skoðun og mat á sláturafurðum, með síðari breytingum.
+
+
+_[^1)^]Nú "l. 96/1997":1997096.html._
+
 
 
 
 63. gr.
 
      Framleiðsluráð landbúnaðarins hættir rekstri Grænmetisverslunar landbúnaðarins frá og með 1. júní 1986.
-      Landbúnaðarráðherra er þó heimilt að ákveða að breyting skv. 1. mgr. verði fyrr enda hafi þá náðst samkomulag við aðila skv. 3. mgr. um yfirtöku á rekstri fyrirtækisins, sölu og leigu á eignum þess og að hið nýja fyrirtæki gefi fastráðnu starfsfólki Grænmetisverslunar landbúnaðarins kost á sambærilegum störfum. Skulu ákvæði "14. gr. laga nr. 38 14. apríl 1954":1954038.html, um réttindi og skyldur starfsmanna ríkisins, þá ekki ná til þeirra starfsmanna Grænmetisverslunar landbúnaðarins sem njóta lögkjara samkvæmt þeim lögum.
+      Landbúnaðarráðherra er þó heimilt að ákveða að breyting skv. 1. mgr. verði fyrr enda hafi þá náðst samkomulag við aðila skv. 3. mgr. um yfirtöku á rekstri fyrirtækisins, sölu og leigu á eignum þess og að hið nýja fyrirtæki gefi fastráðnu starfsfólki Grænmetisverslunar landbúnaðarins kost á sambærilegum störfum. Skulu ákvæði "14. gr. laga nr. 38 14. apríl 1954":1954038.html,[^1)^] um réttindi og skyldur starfsmanna ríkisins, þá ekki ná til þeirra starfsmanna Grænmetisverslunar landbúnaðarins sem njóta lögkjara samkvæmt þeim lögum.
       Heimilt er landbúnaðarráðherra að selja samtökum framleiðenda kartaflna og grænmetis eða hlutafélagi í eigu þessara aðila eignir Grænmetisverslunar landbúnaðarins, aðrar en fasteignir. Þá er ráðherra heimilt að leigja sömu aðilum núverandi fasteignir Grænmetisverslunar landbúnaðarins til reksturs dreifingar- og sölufyrirtækis með kartöflur og grænmeti.
       Tekjur, sem fást við sölu og leigu á eignum skv. 3. mgr., ásamt sjóðum Grænmetisverslunar landbúnaðarins við starfslok, skulu lagðar í sérstakan sjóð sem hefur það verkefni að styrkja stofnræktun garðávaxta, rannsóknir og tilraunir með ræktun og meðferð garðávaxta og vöruþróun á þessu sviði. Sjóðurinn skal vera í vörslu Framleiðnisjóðs landbúnaðarins og annast stjórn hans úthlutun úr sjóðnum samkvæmt ákvæðum reglugerðar er landbúnaðarráðherra setur.
+
+
+_[^1)^]Nú "l. 70/1996":1996070.html._
+
 
 
 
@@ -957,29 +966,21 @@ _[^1)^]"L. 87/1995, 24. gr.":/altext/stjt/1995.087.html_
 
 *Ákvæði til bráðabirgða.*
 
-A. [Þrátt fyrir ákvæði 1. mgr. 37. gr. laganna um að heildargreiðslumark sauðfjárafurða skuli endanlega ákveðið fyrir 15. september ár hvert, vegna framleiðslu næsta verðlagsárs, er landbúnaðarráðherra heimilt að fresta ákvörðun heildargreiðslumarks verðlagsársins 1996 - 1997, þó ekki lengur en til [6. desember 1995.][^1)^]][^2)^]
+A. [...][^1)2)^]
 
-B. Heimilt er að verja á árinu 1993 allt að 250 milljónum króna af innheimtum verðjöfnunargjöldum af mjólk til að greiða fyrir niðurfærslu fullvirðisréttar til framleiðslu mjólkur sem framkvæmd var 1. september 1992 og tók gildi frá og með verðlagsárinu 1992 - 1993. Framleiðnisjóður landbúnaðarins skal greiða fyrir niðurfærslu fullvirðisréttar að því marki sem fullvirðisréttur, sem leigður hefur verið Framleiðnisjóði, er tekinn í notkun á ný verðlagsárið 1992 - 1993. Greiðsla vegna niðurfærslu skal vera 50 kr. fyrir hvern lítra mjólkur í fullvirðisrétti.
+B. ...
 
-Greiðslur vegna niðurfærslu fullvirðisréttar til framleiðslu mjólkur skulu greiddar handhafa beinna greiðslna á lögbýlinu vegna framleiðslu mjólkur verðlagsárið 1992 - 1993 samkvæmt skrám Framleiðsluráðs landbúnaðarins 31. mars 1993. Þetta gildir þó ekki ef gert er samkomulag á milli ábúanda og eiganda lögbýlis, þegar ekki er um sömu aðila að ræða, um annan hátt á greiðslum, enda berist tilkynning þess efnis til landbúnaðarráðuneytisins fyrir 31. mars 1993.
+C. ...[^3)^]
 
-Þá skal Framleiðnisjóður bæta niðurfærslu sem nauðsynleg kann að verða vegna þess greiðslumarks (fullvirðisréttar) sem losnar úr leigu hjá sjóðnum verðlagsárið 1993 - 1994 eða síðar.
+D. - F. ...
 
-C. Heimilt er að verja á árunum [1993 - 1997][^3)^] allt að 450 milljónum króna af innheimtum verðjöfnunargjöldum af mjólk til að styrkja úreldingu mjólkurbúa eða hagræðingu í mjólkuriðnaði samkvæmt sérstökum reglum[^4)^] sem landbúnaðarráðherra setur.
+[G. ...][^4)^]
 
-Heimilt er að veita styrki til búháttabreytinga af ofangreindri fjárhæð á búum sem liggja fjarri afurðastöð og til búa þar sem flutningskostnaður vex verulega vegna úreldingar mjólkurbús.
+[H. ...][^5)^]
 
-D. Heimilt er á árinu 1993 að verja allt að 175 milljónum króna af innheimtum verðjöfnunargjöldum af mjólk til að standa straum af hluta kostnaðar við niðurgreiðslu á birgðum mjólkurvara sem til staðar verða í árslok 1992. Skal fjárhæð þessi endurgreidd úr ríkissjóði á árinu 1994, sbr. 6. gr. samnings um stjórnun mjólkurframleiðslu frá 16. ágúst 1992.
+[I. ...][^6)^]
 
-E. - F. ...
-
-[G. Fram til 31. ágúst 1995 getur landbúnaðarráðherra heimilað innheimtu sérstaks verðskerðingargjalds af sláturafurðum sauðfjár og nautgripa til viðbótar gjaldi skv. 20. gr. laga þessara. Gjald þetta dregst af verði til framleiðenda. Það má að hámarki nema 5% af afurðaverði til framleiðenda og skal eingöngu varið til markaðsaðgerða utan lands. Ráðherra setur í reglugerð ákvæði um innheimtu og ráðstöfun gjalds þessa.][^5)^]
-
-[H. Skipa skal í nýtt Framleiðsluráð skv. 5. gr. laganna að afstöðnu fyrsta þingi nýrra heildarsamtaka bænda. Skal nýskipað Framleiðsluráð taka þegar til starfa og fellur þá jafnframt niður umboð þeirra manna sem nú skipa ráðið.][^6)^]
-
-[I. Úthluta skal tollkvótum samkvæmt "lögum nr. 99/1993":1993099.html, um framleiðslu, verðlagningu og sölu á búvörum, sbr. viðauka IIIA við "tollalög, nr. 55/1987":1987055.html, í fyrsta sinn frá og með gildistöku laga þessara, í hlutfalli við þann tíma sem eftir er af árinu 1995. Að svo miklu leyti sem innflutningur samkvæmt tollkvóta fer fram á tilteknum tímabilum þá skal telja innflutning frá og með þeirri dagsetningu sem ákveðin er skv. 4. mgr. 53. gr. búvörulaga. Tollkvótar skulu auglýstir lausir til umsóknar fyrir 1. ágúst 1995 og skal fyrsta úthlutun fara fram fyrir 15. september 1995.][^7)^]
-
-[J. Fóðurgjald, sem innheimt hefur verið skv. "30. gr. laga nr. 99/1993":1993099.html#g30, um framleiðslu, verðlagningu og sölu á búvörum, og hefur við gildistöku laga þessara ekki verið ráðstafað, skal renna í fóðursjóð, sbr. 31. gr. tilvitnaðra laga. Þessi ráðstöfun skal þó eigi skerða endurgreiðslurétt þeirra aðila sem eiga rétt á endurgreiðslum vegna fóðurs sem tollafgreitt var fyrir gildistöku laganna.][^8)^]
+[J. ...][^7)^]
 
 [K. [Heimilt er landbúnaðarráðherra, að fengnum tillögum verðlagsnefndar búvara, að verja til eftirfarandi verkefna eftirstöðvum af verðmiðlunargjöldum sem ekki hefur verið ráðstafað:
 
@@ -991,18 +992,18 @@ E. - F. ...
 <dt>3.</dt>
 <dd>Hagrannsókna vegna verðlagningar og úttekta á stöðu framleiðslu og/eða vinnslu mjólkur.</dd>
 <dt>4.</dt>
-<dd>Lækkunar á tilteknum mjólkurafurðum.][^9)^]][^10)^]</dd>
+<dd>Lækkunar á tilteknum mjólkurafurðum.][^8)^]][^9)^]</dd>
 </dl>
 
-[L. Heimilt er á árunum 1996 og 1997 að veita þeim framleiðendum, sem aukið hafa sauðfjárgreiðslumark lögbýlisins frá greiðslumarksskrá eins og hún var 1. maí 1995, undanþágu frá skerðingu beingreiðslu sem ella yrði vegna ásetningskröfu 3. mgr. 39. gr. laganna.][^11)^]
+[L. ...][^10)^]
 
-[M. Til að jafna skilaverð til framleiðenda fyrir afurðir frá sláturtíð 1995, sem seldar eru á erlendum mörkuðum, skal innheimta 10% verðjöfnunargjald af því verði sem kemur til skila við útflutning (fob) hjá hverri afurðastöð. Ráðherra setur í reglugerð nánari ákvæði um innheimtu og ráðstöfun verðjöfnunargjaldsins.][^12)^]
+[M. ...][^11)^]
 
-[N. ...[^13)^]][^14)^]
+[N. ...[^12)^]][^13)^]
 
-[O. Verðmiðlunargjöld og verðskerðingargjöld, sem innheimt verða af verði til framleiðenda og af slátur- og heildsölukostnaði eftir 1. september 1998, skulu endurgreidd framleiðendum og sláturleyfishöfum í samræmi við ákvæði laga þessara.][^15)^]
+[O. Verðmiðlunargjöld og verðskerðingargjöld, sem innheimt verða af verði til framleiðenda og af slátur- og heildsölukostnaði eftir 1. september 1998, skulu endurgreidd framleiðendum og sláturleyfishöfum í samræmi við ákvæði laga þessara.][^14)^]
 
-_[^1)^]_"L. 121/1995, 1. gr.":/altext/stjt/1995.121.html[^2)^]"L. 99/1995, 2. gr.":/altext/stjt/1995.099.html[^3)^]"L. 147/1995, 3. gr.":/altext/stjt/1995.147.html[^4)^]Rg. 204/1996.[^5)^]"L. 85/1994, 3. gr.":/altext/stjt/1994.085.html[^6)^]"L. 141/1994, 2. gr.":/altext/stjt/1994.141.html[^7)^]"L. 87/1995, brbákv. I.":/altext/stjt/1995.087.html[^8)^]"L. 87/1995, brbákv. II.":/altext/stjt/1995.087.html[^9)^]"L. 69/1998, 17. gr.":/altext/stjt/1998.069.html[^10)^]"L. 99/1995, brbákv.":/altext/stjt/1995.099.html, sbr. "l. 124/1995, 21. gr.":/altext/stjt/1995.124.html[^11)^]"L. 124/1995, brbákv. I.":/altext/stjt/1995.124.html[^12)^]"L. 124/1995, brbákv. II.":/altext/stjt/1995.124.html[^13)^]"L. 77/1997, 3. gr.":/altext/stjt/1997.077.html[^14)^]"L. 124/1995, brbákv. III.":/altext/stjt/1995.124.html[^15)^]"L. 130/1998, brbákv.":/altext/stjt/1998.130.html
+_[^1)^]_"L. 121/1995, 1. gr.":/altext/stjt/1995.121.html[^2)^]"L. 99/1995, 2. gr.":/altext/stjt/1995.099.html[^3)^]Ákvæðinu var breytt með "l. 147/1995, 3. gr.":/altext/stjt/1995.147.html[^4)^]"L. 85/1994, 3. gr.":/altext/stjt/1994.085.html[^5)^]"L. 141/1994, 2. gr.":/altext/stjt/1994.141.html[^6)^]"L. 87/1995, brbákv. I.":/altext/stjt/1995.087.html[^7)^]"L. 87/1995, brbákv. II.":/altext/stjt/1995.087.html[^8)^]"L. 69/1998, 17. gr.":/altext/stjt/1998.069.html[^9)^]"L. 99/1995, brbákv.":/altext/stjt/1995.099.html, sbr. "l. 124/1995, 21. gr.":/altext/stjt/1995.124.html[^10)^]"L. 124/1995, brbákv. I.":/altext/stjt/1995.124.html[^11)^]"L. 124/1995, brbákv. II.":/altext/stjt/1995.124.html[^12)^]"L. 77/1997, 3. gr.":/altext/stjt/1997.077.html[^13)^]"L. 124/1995, brbákv. III.":/altext/stjt/1995.124.html[^14)^]"L. 130/1998, brbákv.":/altext/stjt/1998.130.html
 
 
 

@@ -204,9 +204,9 @@ _[^1)^]"L. 9/1995, 4. gr.":/altext/stjt/1995.009.html_
 
 <dl>
 <dt>a.</dt>
-<dd>[Sýslumenn og starfsmenn þeirra samkvæmt ákvörðun sýslumanna. Með samþykki dómsmálaráðuneytisins getur sýslumaður enn fremur falið öðrum að annast atkvæðagreiðslu utan kjörfundar,][^1)^]</dd>
+<dd>[Sýslumenn og starfsmenn þeirra samkvæmt ákvörðun sýslumanna. Með samþykki dómsmálaráðuneytisins getur sýslumaður enn fremur falið öðrum að annast atkvæðagreiðslu utan kjörfundar],[^1)^]</dd>
 <dt>b.</dt>
-<dd>[hreppstjórar,][^2)^]</dd>
+<dd>[hreppstjórar],[^2)^]</dd>
 <dt>c.</dt>
 <dd>skipstjórar á íslenskum skipum í millilandasiglingum og á fjarlægum miðum,</dd>
 <dt>d.</dt>
@@ -501,7 +501,7 @@ _[^1)^]"L. 10/1991, 17. gr.":/altext/stjt/1991.010.html_
 41. gr.
 
      Er yfirkjörstjórn hefur lagt úrskurð á framboðslista merkir hún lista landsframboða með hliðsjón af auglýsingu dómsmálaráðuneytisins um listabókstafi stjórnmálasamtaka, sbr. 40. gr.
-      Nú hefur landsframboð fleiri lista en einn í sama kjördæmi og skal þá merkja þá A, AA..., B, BB..., o.s.frv. eftir því sem við á.
+      Nú hefur landsframboð fleiri lista en einn í sama kjördæmi og skal þá merkja þá A, AA ..., B, BB ..., o.s.frv. eftir því sem við á.
 
 
 
@@ -602,13 +602,10 @@ _[^1)^]"L. 92/1991, 97. gr.":/altext/stjt/1991.092.html_
 
      Kjörseðla, sem notaðir verða á kjörfundi, skal fullgera á þennan hátt:
 
-<dl>
-<dt></dt>
-<dd>Prenta skal listana á eyðublaðið, hvern við annars hlið, í röð eftir bókstöfum þeirra. Niður undan bókstaf hvers lista, sem skal vera stór og greinilegur og standa yfir miðjum listanum, skulu vera nöfn frambjóðenda listans í réttri röð ásamt stöðu og heimili, ef nauðsyn þykir til auðkenningar. Listarnir skulu aðgreindir með feitum langstrikum, og skal að minnsta kosti [^1^]/[~2~] cm breitt bil vera fyrir framan nöfnin á hverjum lista.</dd>
-</dl>
 
+Prenta skal listana á eyðublaðið, hvern við annars hlið, í röð eftir bókstöfum þeirra. Niður undan bókstaf hvers lista, sem skal vera stór og greinilegur og standa yfir miðjum listanum, skulu vera nöfn frambjóðenda listans í réttri röð ásamt stöðu og heimili, ef nauðsyn þykir til auðkenningar. Listarnir skulu aðgreindir með feitum langstrikum, og skal að minnsta kosti [^1^]/[~2~] cm breitt bil vera fyrir framan nöfnin á hverjum lista.
 
-      Þess skal getið um hvern lista fyrir hvaða stjórnmálasamtök hann er í kjöri á þann hátt að prenta með skýru letri neðan við listabókstafinn en ofan við nöfnin á listanum: _Listi_ .... (nafn stjórnmálasamtakanna).
+     Þess skal getið um hvern lista fyrir hvaða stjórnmálasamtök hann er í kjöri á þann hátt að prenta með skýru letri neðan við listabókstafinn en ofan við nöfnin á listanum: _Listi_ ... (nafn stjórnmálasamtakanna).
 
 
 
@@ -976,8 +973,8 @@ _[^1)^]"L. 10/1991, 30. gr.":/altext/stjt/1991.010.html_
       Kjörstjórn og umboðsmenn lista athuga fylgibréfin ...[^1)^] og rannsaka, hvort sá, sem bréfið er frá stendur á kjörskrá, og ef svo er, hvort hann hefur greitt atkvæði á kjörfundi. Ef svo reynist, að sá, sem bréfið er frá, standi á kjörskrá og eigi rétt á að greiða atkvæði og hafi ekki greitt atkvæði á kjörfundi, setja meðkjörstjórar merki við nafn kjósandans á eftirritin af kjörskránni.
       ...[^1)^]
 
-_[^1)^]"L. 10/1991, 31. gr.":/altext/stjt/1991.010.html_
 
+_[^1)^]"L. 10/1991, 31. gr.":/altext/stjt/1991.010.html_
 
 
 
@@ -1190,19 +1187,14 @@ _Úthlutun þingsæta samkvæmt kosningaúrslitum á landinu öllu._
 
       _Áfangar við úthlutun þingsæta._ Þingsætum samkvæmt þessari grein skal úthluta [í þremur áföngum].[^1)^] Úthluta skal sæti hverju sinni til þess lista sem hefur hæst hlutfall atkvæðatölu af kjördæmistölu. Halda skal áfram úthlutun innan hvers áfanga svo lengi sem unnt er og ljúka henni og ákvörðun kjördæmistölu, ef þörf krefur, áður en úthlutun samkvæmt næsta áfanga hefst.
 
-<dl>
-<dt></dt>
-<dd>_1. áfangi:_ Fyrst skal úthluta þingsætum til lista með atkvæðatölu sem nemur [^4^]/[~5~] af kjördæmistölu eða meira. Þessum áfanga lýkur jafnskjótt og ekki finnast fleiri slíkar atkvæðatölur, enda hafi ákvæði d-liðar 2. mgr. áður verið beitt ef við á.</dd>
-<dt></dt>
-<dd>_2. áfangi:_ Næst skal ráðstafa einu þingsæti, ef unnt er, til hvers kjördæmis sem ekki hlaut úthlutun í fyrsta áfanga. Í þessum áfanga skal þó ganga fram hjá lista hafi hann ekki fengið a.m.k. 7% gildra atkvæða í kjördæmi sínu.</dd>
-<dt></dt>
-<dd>_3. áfangi:_ Þá skal ljúka úthlutun í öllum kjördæmum.</dd>
-<dt></dt>
-<dd>_4._ ...[^1)^]</dd>
-</dl>
 
+_1. áfangi:_ Fyrst skal úthluta þingsætum til lista með atkvæðatölu sem nemur [^4^]/[~5~] af kjördæmistölu eða meira. Þessum áfanga lýkur jafnskjótt og ekki finnast fleiri slíkar atkvæðatölur, enda hafi ákvæði d-liðar 2. mgr. áður verið beitt ef við á.
 
+_2. áfangi:_ Næst skal ráðstafa einu þingsæti, ef unnt er, til hvers kjördæmis sem ekki hlaut úthlutun í fyrsta áfanga. Í þessum áfanga skal þó ganga fram hjá lista hafi hann ekki fengið a.m.k. 7% gildra atkvæða í kjördæmi sínu.
 
+_3. áfangi:_ Þá skal ljúka úthlutun í öllum kjördæmum.
+
+_4._ ...[^1)^]
 
 _[^1)^]"L. 9/1995, 19. gr.":/altext/stjt/1995.009.html_
 
@@ -1226,13 +1218,10 @@ _[^1)^]"L. 9/1995, 20. gr.":/altext/stjt/1995.009.html_
 
      Til þess að finna hverjir frambjóðendur hafa náð kosningu á hverjum lista í kjördæmi skal reikna frambjóðendum atkvæðatölu á þennan hátt:
 
-<dl>
-<dt></dt>
-<dd>Yfirkjörstjórn tekur saman þá kjörseðla þar sem engin breyting hefur verið gerð á listanum. Þar telst efsta nafn listans vera í fyrsta sæti, næsta nafn í öðru sæti o.s.frv. Næst tekur yfirkjörstjórn alla þá kjörseðla þar sem kjósendur hafa gert einhverjar breytingar á röð frambjóðenda og telur atkvæði hvers frambjóðanda í hvert sæti listans.</dd>
-</dl>
 
+Yfirkjörstjórn tekur saman þá kjörseðla þar sem engin breyting hefur verið gerð á listanum. Þar telst efsta nafn listans vera í fyrsta sæti, næsta nafn í öðru sæti o.s.frv. Næst tekur yfirkjörstjórn alla þá kjörseðla þar sem kjósendur hafa gert einhverjar breytingar á röð frambjóðenda og telur atkvæði hvers frambjóðanda í hvert sæti listans.
 
-      Landskjörstjórn skal raða nöfnum frambjóðenda á hverjum lista þannig að sá, sem hlotið hefur flest atkvæði í 1. sæti, samkvæmt næstu málsgrein hér á undan, hlýtur það sæti. Sá frambjóðandi, að þessum slepptum, sem hlotið hefur flest atkvæði í 1. og 2. sæti samanlagt, hlýtur 2. sætið o.s.frv. uns raðað hefur verið í sæti svo mörgum frambjóðendum listans að ljóst sé hverjir teljast þingmenn hans í kjördæminu og hverjir varaþingmenn.
+     Landskjörstjórn skal raða nöfnum frambjóðenda á hverjum lista þannig að sá, sem hlotið hefur flest atkvæði í 1. sæti, samkvæmt næstu málsgrein hér á undan, hlýtur það sæti. Sá frambjóðandi, að þessum slepptum, sem hlotið hefur flest atkvæði í 1. og 2. sæti samanlagt, hlýtur 2. sætið o.s.frv. uns raðað hefur verið í sæti svo mörgum frambjóðendum listans að ljóst sé hverjir teljast þingmenn hans í kjördæminu og hverjir varaþingmenn.
       Framboðslisti í kjördæmi, sem hlotið hefur þingmann eða þingmenn kjörna, hefur rétt til jafnmargra varaþingmanna meðan nöfn endast á listanum.
 
 
@@ -1540,7 +1529,7 @@ _[^1)^]"L. 82/1998, 188. gr.":/altext/stjt/1998.082.html_
 
 *[Ákvæði til bráðabirgða. ...][^1)^]*
 
-_[^1)^]"L. 9/1995":/altext/stjt/1995.009.html._
+_[^1)^]"L. 9/1995, brbákv. I. og II.":/altext/stjt/1995.009.html_
 
 
 

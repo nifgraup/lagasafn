@@ -2,7 +2,7 @@
 
 h2. Alþjóðasamningur um borgaraleg og stjórnmálaleg réttindi
 
-*1979 nr. 10 22. ágúst*
+*1979 nr. 10 28. ágúst*
 
 <hr />
 
@@ -478,7 +478,7 @@ Skýrslunni skal jafnan komið á framfæri við hlutaðeigandi aðildarríki.
 
 42. gr.
 
-     1. (a) Nú er mál sem vísað er til nefndarinnar í samræmi við 41. gr. ekki leyst svo hlutaðeigandi aðildarríkjum þyki fullnægjandi og má þá nefndin, að fengnu samþykki hlutaðeigandi ríkja, skipa sérstaka sáttanefnd (hér á eftir kölluð sáttanefndin). Sáttanefndin skal veita hlutaðeigandi ríkjum liðsinni sitt af fremsta megni með það fyrir augum að komast að vinsamlegri lausn í málinu, byggðri á virðingu fyrir samningi þessum.
+     1. (a) Nú er mál sem vísað er til nefndarinnar í samræmi við 41. gr. ekki leyst svo hlutaðeigandi aðildarríkjum þyki fullnægjandi og má þá nefndin, að fengnu samþykki hlutaðeigandi ríkja, skipa sérstaka sáttanefnd (hér á eftir kölluð sáttanefndin). Sáttanefndin skal veita hlutaðeigandi ríkjum liðsinni sitt af fremsta megni með það fyrir augum að komast að vinsamlegri lausn í málinu, byggðri á virðingu fyrir samningi þessum;
 
 <dl>
 <dt>(b)</dt>
@@ -497,9 +497,9 @@ Skýrslunni skal jafnan komið á framfæri við hlutaðeigandi aðildarríki.
 <dt>(a)</dt>
 <dd>Geti sáttanefndin ekki lokið athugun sinni á málinu innan tólf mánaða skal hún einskorða skýrslu sína við stutta greinargerð um hve langt athugunin hefur náð;</dd>
 <dt>(b)</dt>
-<dd>Hafi vinsamleg lausn málsins náðst á grundvelli virðingar fyrir mannréttindum eins og þau eru viðurkennd í samningi þessum skal sáttanefndin einskorða skýrslu sína við stutta greinargerð um staðreyndirnar og þá lausn sem náðst hefur.</dd>
+<dd>Hafi vinsamleg lausn málsins náðst á grundvelli virðingar fyrir mannréttindum eins og þau eru viðurkennd í samningi þessum skal sáttanefndin einskorða skýrslu sína við stutta greinargerð um staðreyndirnar og þá lausn sem náðst hefur;</dd>
 <dt>(c)</dt>
-<dd>Náist ekki lausn samkvæmt ákvæðum málsliðar (b) skal í skýrslu sáttanefndarinnar greint frá því sem nefndin hefur orðið áskynja varðandi hvers kyns staðreyndir er snerta ágreiningsmál hlutaðeigandi aðildarríkja og áliti hennar á möguleikum til vinsamlegrar lausnar málsins. Skýrsla þessi skal ennfremur hafa að geyma þau skriflegu gögn sem lögð voru fram af hlutaðeigandi aðildarríkjum svo og bókanir um það sem munnlega kom fram af þeirra hálfu.</dd>
+<dd>Náist ekki lausn samkvæmt ákvæðum málsliðar (b) skal í skýrslu sáttanefndarinnar greint frá því sem nefndin hefur orðið áskynja varðandi hvers kyns staðreyndir er snerta ágreiningsmál hlutaðeigandi aðildarríkja og áliti hennar á möguleikum til vinsamlegrar lausnar málsins. Skýrsla þessi skal ennfremur hafa að geyma þau skriflegu gögn sem lögð voru fram af hlutaðeigandi aðildarríkjum svo og bókanir um það sem munnlega kom fram af þeirra hálfu;</dd>
 <dt>(d)</dt>
 <dd>Sé skýrsla sáttanefndarinnar lögð fyrir eins og greinir í málslið (c) skulu aðildarríki þau sem í hlut eiga tilkynna formanni nefndarinnar innan þriggja mánaða frá móttöku skýrslunnar hvort þau fallist á efni skýrslu sáttanefndarinnar eða ekki.</dd>
 </dl>
