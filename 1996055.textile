@@ -26,7 +26,7 @@ h2. Lög um tæknifrjóvgun
  □ Áður en tæknifrjóvgun fer fram og samþykki skv. a-lið 1. mgr. er veitt skal gefa parinu upplýsingar um meðferðina og þau læknisfræðilegu, félagslegu og lögfræðilegu áhrif sem hún kann að hafa.
  □ Læknir ákveður hvort tæknifrjóvgun fer fram. Synjun má kæra til landlæknis sem sendir kæruna tafarlaust til meðferðar sérstakrar nefndar sem ráðherra skipar til fjögurra ára í senn. Í nefndinni skulu eiga sæti þrír fulltrúar og jafnmargir til vara, einn lögfræðingur, einn læknir og einn félagsráðgjafi. Ákvörðun nefndarinnar er endanleg.
  □ Ráðherra setur nánari reglur[^1)^] um framkvæmd ákvæðis þessa, m.a. um heimild til að leita umsagnar barnaverndarnefndar um félagslegar aðstæður parsins.
-    _[^1)^]Rg. 568/1997_, sbr. 585/1997.
+    _[^1)^]_"Rg. 568/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/568-1997, sbr. "585/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/585-1997.
  ■ *4. gr.* Læknir, sem annast meðferð, skal velja viðeigandi gjafa.
  □ Óski gjafi eftir nafnleynd er heilbrigðisstarfsfólki skylt að tryggja að hún verði virt. Í þeim tilvikum má hvorki veita gjafa upplýsingar um parið sem fær gjafakynfrumur eða um barnið né veita parinu eða barninu upplýsingar um gjafann.
  □ Óski gjafi ekki eftir nafnleynd skal stofnunin varðveita upplýsingar um hann í sérstakri skrá. Verði til barn vegna kynfrumugjafarinnar skal varðveita upplýsingar um það og parið sem fékk gjafakynfrumurnar í sömu skrá.
@@ -51,7 +51,7 @@ h2. Lög um tæknifrjóvgun
  □ Að hámarksgeymslutíma liðnum skal eyða ónotuðum kynfrumum og fósturvísum.
  □ Nú er hámarksgeymslutími kynfrumna ekki liðinn en sá sem lagði til kynfrumur andast og skal þá eyða ónotuðum kynfrumum nema tilgangur geymslunnar hafi verið gjöf kynfrumna til notkunar við tæknifrjóvgun.
  □ Nú er hámarksgeymslutími fósturvísa ekki liðinn en karlmaður sá og kona, sem lögðu kynfrumurnar til, slíta hjúskap eða sambúð og skal þá eyða fósturvísunum. Sama gildir ef annað þeirra andast nema um gjöf kynfrumna til notkunar við tæknifrjóvgun hafi verið að ræða.
-    _[^1)^]Rg. 568/1997_.
+    _[^1)^]_"Rg. 568/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/568-1997.
  _Rannsóknir á fósturvísum._
  ■ *11. gr.* Hvers konar rannsóknir, tilraunir og aðgerðir á fósturvísum skulu vera óheimilar.
  □ Þó skal heimilt að gera rannsóknir á fósturvísum:
@@ -70,7 +70,7 @@ h2. Lög um tæknifrjóvgun
     b. notkun gjafakynfrumna, m.a. um notkun gjafakynfrumna innan fjölskyldu,
     c. geymslutíma fósturvísa,
     d. vísindarannsóknir á fósturvísum, sbr. c- og d-lið 11. gr., og vísindasiðanefnd sem fjalli um slíkar rannsóknir.
-    _[^1)^]Rg. 568/1997_.
+    _[^1)^]_"Rg. 568/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/568-1997.
  ■ *14. gr.* Brot gegn lögum þessum eða reglum settum samkvæmt þeim varða sektum eða fangelsi allt að þremur mánuðum.
  □ Fyrir hlutdeild í broti skal refsa á sama hátt nema þyngri refsing liggi við samkvæmt öðrum lögum.
 ■ *15. gr.* Lög þessi öðlast gildi 1. júní 1996, og skulu á sama tíma liggja fyrir reglur skv. 13. gr. um framkvæmd tæknifrjóvgunar sem ráðherra setur.

@@ -77,7 +77,7 @@ h2. Lög um meðferð einkamála
     c. búnað til hljóðritunar og myndbandsupptöku í þinghöldum,
     d. dómabækur,
     [e.] [^2)^] varðveislu málsskjala, hljóðritana og myndbanda.
-    _[^1)^]Rg. 225/1992_, sbr. 433/1994. [^2)^]"L. 38/1994, 2. gr.":/altext/stjt/1994.038.html
+    _[^1)^]_"Rg. 225/1992":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/225-1992, sbr. "433/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/433-1994. [^2)^]"L. 38/1994, 2. gr.":/altext/stjt/1994.038.html
 
  *III. kafli.* *Aðild og fyrirsvar.*
  ■ *16. gr.* 1. Aðili dómsmáls getur hver sá verið, einstaklingur, félag eða stofnun, sem getur átt réttindi eða borið skyldur að landslögum. Dómstólar hafa vald til að dæma mál allra þeirra sem geta verið aðilar nema undantekningar séu gerðar í lögum eða samkvæmt þjóðarétti.
@@ -524,7 +524,7 @@ h2. Lög um meðferð einkamála
  □ 2. Dómsmálaráðherra skal skipa nefnd þriggja lögfræðinga, gjafsóknarnefnd, til fjögurra ára í senn til að veita umsögn um umsóknir um gjafsókn. Einn nefndarmanna skal skipaður eftir tilnefningu Lögmannafélags Íslands en annar eftir tilnefningu Dómarafélags Íslands. [Dómsmálaráðherra getur sett nánari reglur í reglugerð[^1)^] um starfshætti gjafsóknarnefndar, þar á meðal um viðmiðunarmörk í mati hennar á skilyrðum fyrir gjafsókn skv. a-lið 1. mgr. 126. gr.][^2)^]
  □ 3. Umsókn um gjafsókn skal vera skrifleg og beint til dómsmálaráðherra. Í henni skal greint skýrlega frá máli sem hún varðar og rökstutt að skilyrðum fyrir gjafsókn sé fullnægt. Umsókn skulu fylgja gögn eftir þörfum.
  □ 4. Dómsmálaráðherra veitir gjafsókn eftir umsókn aðila. Hún verður því aðeins veitt að gjafsóknarnefnd mæli með því.
-    _[^1)^]Rg. 69/2000_. [^2)^]"L. 38/1994, 4. gr.":/altext/stjt/1994.038.html
+    _[^1)^]_"Rg. 69/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/069-2000. [^2)^]"L. 38/1994, 4. gr.":/altext/stjt/1994.038.html
  ■ *126. gr.* 1. Gjafsókn verður aðeins veitt ef málstaður umsækjanda gefur nægilegt tilefni til málshöfðunar eða málsvarnar og öðru hvoru eftirfarandi skilyrða er að auki fullnægt:
     a. að efnahag umsækjanda sé þannig háttað að kostnaður af gæslu hagsmuna hans í máli yrði honum fyrirsjáanlega ofviða, en við mat á efnahag hans má eftir því sem á við einnig taka tillit til eigna og tekna maka hans eða sambýlismanns eða eigna og tekna foreldra hans ef hann er yngri en 18 ára,
     b. að úrlausn máls hafi verulega almenna þýðingu eða varði verulega miklu fyrir atvinnu, félagslega stöðu eða aðra einkahagi umsækjanda.
@@ -722,7 +722,7 @@ h2. Lög um meðferð einkamála
     d. Gögn sem áfrýjandi leggur þegar fram fyrir Hæstarétti, svo og gögn sem hann telur sig þurfa að afla eftir þann tíma.
  □ 3. Þegar mál hefur verið þingfest beinir [skrifstofa Hæstaréttar][^1)^] því til héraðsdómstólsins, þar sem var leyst úr máli, að afhenda Hæstarétti dómsgerðir.
  □ 4. Hæstiréttur setur nánari reglur um frágang málsgagna og dómsgerða.][^2)^]
-    _[^1)^]_"L. 15/1998, 36. gr.":1998015.html [^2)^]"L. 38/1994, 10. gr.":/altext/stjt/1994.038.html Rg. 461/1994 og 463/1994.
+    _[^1)^]_"L. 15/1998, 36. gr.":1998015.html [^2)^]"L. 38/1994, 10. gr.":/altext/stjt/1994.038.html "Rg. 461/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-1994 og "463/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-1994.
  ■ *[157. gr.* 1. Nú lætur áfrýjandi undir höfuð leggjast að afhenda Hæstarétti áfrýjunarstefnu, greinargerð eða málsgögn samkvæmt fyrirmælum 156. gr. og verður þá ekki frekar af máli.
  □ 2. Ef ekki er sótt þing af hálfu áfrýjanda á síðara stigi verður málið fellt niður með dómi. Hafi stefndi skilað greinargerð í málinu má dæma honum málskostnað úr hendi áfrýjanda.][^1)^]
     _[^1)^]_"L. 38/1994, 11. gr.":/altext/stjt/1994.038.html
@@ -764,7 +764,7 @@ h2. Lög um meðferð einkamála
  ■ *[164. gr.* 1. Að því leyti sem þarf að taka afstöðu til atriða varðandi rekstur máls fyrir Hæstirétti ræður hann þeim til lykta með ákvörðun, hvort sem ágreiningur er um þau milli aðila eða ekki, enda leiði ákvörðunin ekki til loka máls fyrir dóminum. Ákvörðun verður ekki rökstudd sérstaklega, en um efni hennar skal getið í þingbók eftir þörfum.
  □ 2. Úr öðrum atriðum máls leysir Hæstiréttur með dómi. Ef mál er fellt niður eða því er vísað frá Hæstarétti skal aðeins getið um ástæður þess í dómi, svo og um málskostnað ef því er að skipta. Sama gildir ef héraðsdómur er ómerktur og máli vísað heim eða því er vísað frá héraðsdómi.
  □ 3. Sé kveðið á í dómi um önnur málalok en getur í 2. mgr. skal greina þar frá kröfum aðila eftir því sem þörf er á svo að niðurstaða verði skýr. Að því leyti sem greinargerð um málsatvik er ábótavant í héraðsdómi skal bætt úr því í dómi Hæstaréttar. Ef og að því leyti sem niðurstöðu héraðsdóms er breytt skal það rökstutt í dómi Hæstaréttar. Fallist Hæstiréttur á niðurstöðu héraðsdóms en ekki á röksemdir fyrir henni getur hann greint frá rökum sínum eftir því sem þykir þörf.
- □ 4. Um dóma Hæstaréttar gilda að öðru leyti ákvæði 114. gr. eftir því sem getur átt við.][^1)^]    _[^1)^]_"L. 38/1994, 18. gr.":/altext/stjt/1994.038.html
+ □ 4. Um dóma Hæstaréttar gilda að öðru leyti ákvæði 114. gr. eftir því sem getur átt við.][^1)^]   _[^1)^]_"L. 38/1994, 18. gr.":/altext/stjt/1994.038.html
  ■ *[165. gr.* 1. Dóm skal kveða upp svo fljótt sem er unnt eftir að mál er dómtekið og aldrei síðar en þegar fjórar vikur eru liðnar frá því. Verði því ekki komið við og hafi mál verið munnlega flutt skal endurtaka málflutning að því leyti sem Hæstarétti þykir nauðsynlegt.
  □ 2. Strax eftir dómtöku máls skulu dómarar ræða með sér fyrir luktum dyrum röksemdir og niðurstöðu dóms. Fyrir málflutning felur forseti einum dómara að vera frummælandi á þeim fundi, en forseti stýrir þar ráðagerðum, ber fram spurningar, stuðlar að því að álit hvers dómara komi þar sem skýrast fram og telur atkvæði þeirra. Afl atkvæða ræður úrslitum. Að lokinni umræðu felur forseti frummælandanum að semja atkvæði að dómi. Greinist dómarar í meiri og minni hluta semur frummælandinn atkvæði fyrir þann hluta sem hann heyrir til, en hinir dómararnir ákveða hver þeirra semji atkvæði þeirra. Dómari, sem greiðir atkvæði með ómerkingu héraðsdóms eða frávísun máls og verður í minni hluta, verður einnig að greiða atkvæði um efni máls. Dómarar ganga í sameiningu frá dómi, með eða án sératkvæða.
  □ 3. Við uppkvaðningu dóms skal lesa upp dómsorð í heyranda hljóði á dómþingi eftir því sem þörf þykir. Ef sératkvæði er í dómi skal þess einnig getið.

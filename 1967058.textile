@@ -23,7 +23,7 @@ h2. Orkulög
     8. Að hafa af hálfu ríkisins yfirumsjón með eftirliti með raforkuvirkjum og jarðhitavirkjum til varnar hættu og tjóni af þeim.
     9. Að hafa umsjón með öllum fallvötnum og jarðhitasvæðum í eigu ríkisins, halda skrá yfir þau með greinargerð fyrir skilyrðum til hagnýtingar þeirra, eins og best er vitað á hverjum tíma, og láta ríkisstjórninni í té vitneskju um þetta.
  □ Ráðherra kveður með reglugerð[^3)^] nánar á um hlutverk og starfshætti Orkustofnunar, þar á meðal skiptingu hennar í deildir, að fengnum tillögum stofnunarinnar.
-    _[^1)^]Á væntanlega að vera „hagnýtar“. [^2)^]_"L. 84/1972, 1. gr.":/altext/stjtnr.html#1972084?g1 [^3)^]Rg. 632/1996.
+    _[^1)^]Á væntanlega að vera „hagnýtar“. [^2)^]_"L. 84/1972, 1. gr.":/altext/stjtnr.html#1972084?g1 [^3)^]"Rg. 632/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/632-1996.
  ■ *3. gr.* [Ráðherra skipar framkvæmdastjóra Orkustofnunar til fimm ára í senn.][^1)^] Nefnist hann orkumálastjóri. Hann skal hafa verkfræðilega menntun. Ráðherra setur orkumálastjóra erindisbréf.
     _[^1)^]_"L. 83/1997, 69. gr.":/altext/stjt/1997.083.html
  ■ *4. gr.* Ráðherra skipar Tækninefnd Orkustofnunar, orkumálastjóra til ráðuneytis í tæknilegum og fjárhagslegum efnum, svo og til að auðvelda samvinnu allra hlutaðeigandi aðila.
@@ -31,7 +31,7 @@ h2. Orkulög
     a. Orkumálastjóri, sem jafnframt er formaður Tækninefndar.
     b. Tæknimenntaðir fulltrúar tilnefndir af Landsvirkjun, Sambandi ísl. rafveitna, Sambandi ísl. hitaveitna, Rafmagnsveitum ríkisins, Rannsóknaráði ríkisins og hagfræðimenntaður fulltrúi Efnahagsstofnunarinnar. Þar til samband hitaveitna á Íslandi verður stofnað, tilnefnir Hitaveita Reykjavíkur fulltrúa í þess stað. Varamenn skulu skipaðir á sama hátt. Tækninefnd getur kallað fleiri menn til starfa, þegar nauðsyn ber til vegna þeirra verkefna, sem þar eru til meðferðar hverju sinni.
  □ Nánari ákvæði um starfssvið og starfshætti Tækninefndar Orkustofnunar skulu sett í reglugerð.[^1)^] Ráðherra ákveður starfskjör tækninefndarmanna.
-    _[^1)^]Rg. 632/1996_.
+    _[^1)^]_"Rg. 632/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/632-1996.
  ■ *5. gr.* [Orkumálastjóri ræður fasta starfsmenn Orkustofnunar.][^1)^] Fast starfsfólk Orkustofnunar skal taka laun samkvæmt ákvæðum laga um kjarasamninga opinberra starfsmanna ...[^1)^]
     _[^1)^]_"L. 83/1997, 70. gr.":/altext/stjt/1997.083.html
  ■ *6. gr.* Orkustofnun lætur sveitarfélögum og öðrum aðilum í té leiðbeiningar og upplýsingar um orkumál, þegar þess er óskað og eftir því sem við verður komið, gegn hæfilegu endurgjaldi.
@@ -76,7 +76,8 @@ h2. Orkulög
  ■ *[27. gr.][^1)^]* Um héraðsrafmagnsveitu, sem hlýtur einkarétt skv. 18. gr.,[^2)^] skal setja reglugerð,[^3)^] sem stjórn veitunnar semur og ráðherra staðfestir, og skal þar m.a. setja ákvæði um stjórn og rekstur veitunnar, orkuveitusvæði hennar, skilmála fyrir raforkusölunni, löggildingu rafvirkja og sektir fyrir brot á reglugerðinni.
     _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]Nú "21. gr.":/altext/stjtnr.html#1985053?g21 [^3)^]Augl. 129/1997.
  ■ *[28. gr.][^1)^]* Gjald fyrir raforku frá héraðsrafmagnsveitu, sem fellur undir ákvæði 24. gr.,[^2)^] skal ákveða í gjaldskrá, sem stjórn veitunnar semur og ráðherra staðfestir. Í gjaldskrá má ákveða sérstakt heimtaugargjald, sem greiðist þegar heimtaug er lögð. Gjaldskrá skal endurskoða eigi sjaldnar en fimmta hvert ár.
-    _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]Nú "27. gr.":/altext/stjtnr.html#1985053?g27
+ □ [Eiganda héraðsrafmagnsveitu er ár hvert heimilt að áskilja sér allt að 7% arð af eigin fé rafveitunnar. Ákvæði 1. málsl. nær eingöngu til héraðsrafmagnsveitu sem er alfarið í eigu sveitarfélags og starfar ekki samkvæmt sérlögum.][^3)^]
+    _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]Nú "27. gr.":/altext/stjtnr.html#1985053?g27 [^3)^]"L. 78/2001, 1. gr.":/altext/stjt/2001.078.html
  ■ *[29. gr.][^1)^]* Ríkisstjórninni er heimilt að ábyrgjast lán allt að 80% stofnkostnaðar héraðsrafmagnsveitna, að fenginni umsögn Orkustofnunar.
     _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2
 
@@ -90,7 +91,8 @@ h2. Orkulög
  □ Nú hefur einkaleyfi verið veitt til þess að starfrækja hitaveitu samkvæmt lögum þessum, og skal þá, áður en veitan tekur til starfa, setja henni gjaldskrá, er ráðherra staðfestir.
  □ Í gjaldskrá má ákveða sérstakt heimæðargjald.
  □ Gjaldskrána ber að endurskoða eigi sjaldnar en fimmta hvert ár.
-    _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]Nú 30. og 31. gr.
+ □ [Eiganda hitaveitu er ár hvert heimilt að áskilja sér allt að 7% arð af eigin fé hitaveitunnar. Ákvæði 1. málsl. nær eingöngu til hitaveitu sem er alfarið í eigu sveitarfélags og starfar ekki samkvæmt sérlögum.][^3)^]
+    _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]Nú 30. og 31. gr. [^3)^]"L. 78/2001, 2. gr.":/altext/stjt/2001.078.html
  ■ *[33. gr.][^1)^]* Heimilt er ríkisstjórninni að ábyrgjast fyrir hönd ríkissjóðs nauðsynleg lán, er aðilar þeir, sem um ræðir í 27. og 28. gr.,[^2)^] kunna að taka til að koma upp hitaveitu samkvæmt ákvæðum þessara laga. Má ábyrgðin þó aldrei fara fram úr 80% upphaflegs stofnkostnaðar hitaveitunnar. Í tryggingu fyrir ábyrgðinni getur ríkissjóður krafist 1. veðréttar í hitaveitunni, svo og árlegum tekjum hennar, ef aðrar tryggingar eru ekki fyrir hendi, er ríkisstjórnin metur gildar.
     _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]Nú 30. og 31. gr.
  ■ *[34. gr.][^1)^]* Jarðeigendur, sem eiga land, þar sem leiðslur hitaveitu sveitarfélags verða lagðar, svo og lóðareigendur og lóðarleigjendur í hlutaðeigandi umdæmi eru skyldir til að láta af hendi land, landsafnot og mannvirki, sem þarf til þess að veita megi vatninu um veitusvæðið. Þeim er einnig skylt að þola grjóttak, malartekju og aðra jarðefnatöku, svo og eignarkvaðir, óhagræði og takmörkun á afnotarétti, sem bygging og rekstur hitaveitunnar kann að hafa í för með sér. Fullar bætur komi fyrir eftir mati, ef samkomulag næst ekki.
@@ -156,7 +158,7 @@ h2. Orkulög
     1. Stjórn og fjárreiður, reikningshald og fyrningar, um meðferð varasjóðs, svo og um skýrslugerðir.
     2. Starfsmannahald og verkaskiptingu starfsmanna.
     3. Skilyrði, sem Rafmagnsveitur ríkisins mega setja héraðsrafmagnsveitum, sem kaupa raforku frá þeim, um rekstrarfyrirkomulag og tilhögun veituvirkja til tryggingar öruggum rekstri, svo og til að tryggja Rafmagnsveitum ríkisins greiðslu fyrir þá orku, er þær selja, og til að stuðla að aukinni raforkunotkun og góðri hagnýtingu orkunnar.
-    _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]Rg. 122/1992, sbr. 256/1997 og 833/1999 (fyrir Rafmagnsveitur ríkisins).
+    _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]"Rg. 122/1992":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/122-1992, sbr. "256/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/256-1997 og "833/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/833-1999 (fyrir Rafmagnsveitur ríkisins).
 
  *X. kafli.* *Um Orkusjóð.*
     ...[^1)^]
@@ -167,12 +169,12 @@ h2. Orkulög
     _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2
  ■ *[79. gr.][^1)^]* Öll gjöld samkvæmt lögum þessum eða reglugerðum og gjaldskrám, sem settar verða samkvæmt þeim, má taka lögtaki á kostnað gjaldanda og stöðva afhendingu rafmagns og hitaorku, ef ekki er staðið í skilum á greiðslu fyrir þau á settum gjalddaga.
     _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2
- ■ *[80. gr.][^1)^]* Orkustofnun, Rafmagnsveitur ríkisins, Rafmagnseftirlit ríkisins, ...[^2)^] og jarðboranir ríkisins eru undanþegin tekjuskatti, útsvari, aðstöðugjaldi, stimpilgjaldi og öðrum sköttum til ríkis, sveitar- og bæjarfélaga.
-    _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]"L. 48/1992, 4. gr.":/altext/stjt/1992.048.html
+ ■ *[80. gr.][^1)^]* Orkustofnun, Rafmagnsveitur ríkisins, Rafmagnseftirlit ríkisins, ...[^2)^] og jarðboranir ríkisins eru undanþegin tekjuskatti, útsvari, aðstöðugjaldi, stimpilgjaldi og öðrum sköttum til ríkis, sveitar- og bæjarfélaga. [Sama á við um hitaveitur og/eða rafveitur sem hafa einkaleyfi til starfsemi sem kveðið er á um í IV. og V. kafla laga þessara.][^3)^]
+    _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]"L. 48/1992, 4. gr.":/altext/stjt/1992.048.html [^3)^]"L. 78/2001, 3. gr.":/altext/stjt/2001.078.html
  ■ *[81. gr.][^1)^]* Brot gegn lögum þessum varða sektum.
     _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2
  ■ *[82. gr.][^1)^]* Nánari ákvæði um framkvæmd þessara laga skal setja í reglugerð,[^2)^] þar á meðal ákvæði um skyldu einstaklinga, fyrirtækja og stofnana til að láta Orkustofnun í té skýrslur um atriði, er orkumál varða og Orkustofnun þarf á að halda til að geta sinnt hlutverki sínu; um skyldu til samningsgerðar um samrekstur orkuvera, þar sem tveir eða fleiri aðilar annast vinnslu raforku inn á samtengt kerfi.
-    _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]Rg. 585/1993.
+    _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2 [^2)^]"Rg. 585/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/585-1993.
  ■ *[83. gr.][^1)^]* Með mál út af brotum á lögum þessum og reglugerðum samkvæmt þeim skal farið að hætti opinberra mála.
     _[^1)^]_"L. 53/1985, 2. gr.":/altext/stjtnr.html#1985053?g2
  ■ *[Ákvæði til bráðabirgða.* ...][^1)^]

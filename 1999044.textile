@@ -66,7 +66,7 @@ h2. Lög um náttúruvernd
  □ Náttúruverndarráð gerir tillögur til ráðherra um friðlýsingar og aðrar verndunaraðgerðir og fjallar um náttúruverndaráætlun, sbr. 65. og 66. gr., áður en hún er lögð fyrir Alþingi.
  □ Náttúruverndarráð fylgist með þróun náttúruverndar á alþjóðavettvangi.
  □ Náttúruverndarráð fer með málefni Friðlýsingarsjóðs,[^1)^] sbr. 71. gr.
-    _[^1)^]Rg. 371/1997_.
+    _[^1)^]_"Rg. 371/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/371-1997.
  ■ *10. gr.* _Náttúruverndarþing._
  □ Umhverfisráðherra skal boða til náttúruverndarþings að loknum alþingiskosningum og síðan tveimur árum síðar.
  □ Náttúruverndarþing er vettvangur þeirra sem fjalla um náttúruverndarmál. Á náttúruverndarþingi skulu m.a. eiga sæti Náttúruverndarráð og fulltrúar náttúrustofa, náttúruverndarnefnda, hagsmunaaðila, náttúruverndar- og útivistarsamtaka og annarra aðila sem vinna að náttúruvernd, svo og forstjórar stofnana á sviði náttúrufræða. Jafnframt skulu fulltrúar ráðuneyta og þingflokka á Alþingi eiga rétt til setu á þinginu með málfrelsi og tillögurétt, svo og sviðsstjórar Náttúruverndar ríkisins og Náttúrufræðistofnunar Íslands og forstöðumenn setra síðarnefndu stofnunarinnar.
@@ -98,12 +98,12 @@ h2. Lög um náttúruvernd
  □ Heimilt er mönnum, að fengnu leyfi eiganda eða rétthafa eignarlands þegar við á, að slá upp aðhöldum eða næturhólfum, enda valdi það ekki spjöllum á náttúru landsins. Á hálendi skal þeim valinn staður á ógrónu landi sé þess kostur.
  □ Þar sem svo háttar til skal haft samráð við landverði eða umsjónaraðila á staðnum þegar farið er um eða dvalist á náttúruverndarsvæðum, sbr. IV. kafla.
  □ Umhverfisráðherra getur sett í reglugerð[^1)^] nánari ákvæði um umferð ríðandi manna og rekstur hrossa.
-    _[^1)^]Augl. 433/1993_. Rg. 619/1998.
+    _[^1)^]Augl. 433/1993_. "Rg. 619/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/619-1998.
  ■ *17. gr.* _Akstur utan vega._
  □ Bannað er að aka vélknúnum ökutækjum utan vega. Þó er heimilt að aka slíkum tækjum á jöklum, svo og á snjó utan vega utan þéttbýlis svo fremi sem jörð er snævi þakin og frosin.
  □ Umhverfisráðherra kveður, að fengnum tillögum Náttúruverndar ríkisins, í reglugerð[^1)^] á um aðrar undanþágur frá banni skv. 1. málsl. 1. mgr., m.a. vegna starfa manna við landbúnað, landmælingar, línu- og vegalagnir og rannsóknir. Ráðherra getur í reglugerð, að fengnum tillögum Náttúruverndar ríkisins, takmarkað eða bannað akstur á jöklum og á snjó þar sem hætta er á náttúruspjöllum eða óþægindum fyrir aðra sem þar eru á ferð.
  □ Ólögmætur akstur utan vega varðar refsingu, sbr. 76. gr.
-    _[^1)^]Rg. 619/1998_.
+    _[^1)^]_"Rg. 619/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/619-1998.
  ■ *18. gr.* _Umferð um vötn._
  □ Um umferð um vötn fer samkvæmt ákvæðum "vatnalaga, nr. 15/1923":1923015.html.
  ■ *19. gr.* _Takmörkun umferðar í óbyggðum._
@@ -140,7 +140,7 @@ h2. Lög um náttúruvernd
 ■ *29. gr.* _Landverðir._
  □ Á náttúruverndarsvæðum starfa landverðir og aðrir starfsmenn. Hlutverk landvarða er m.a. að sjá um eftirlit og fræðslu.
  □ Umhverfisráðherra setur í reglugerð,[^1)^] að fengnum tillögum Náttúruverndar ríkisins, nánari ákvæði um menntun og starfsskyldur þeirra sem starfa á náttúruverndarsvæðum.
-    _[^1)^]Rg. 61/1990_.
+    _[^1)^]_"Rg. 61/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/061-1990.
  ■ *30. gr.* _Umsjón falin öðrum._
  □ Náttúruvernd ríkisins getur falið einstaklingum eða lögaðilum umsjón og rekstur náttúruverndarsvæða að þjóðgörðum undanskildum. Gera skal sérstakan samning um umsjón og rekstur svæðanna sem umhverfisráðherra staðfestir. Í samningnum skal kveða á um réttindi og skyldur samningsaðila, mannvirkjagerð á svæðunum og aðrar framkvæmdir, landvörslu, menntun starfsmanna, móttöku ferðamanna og fræðslu, svo og gjaldtöku, sbr. 32. gr. Náttúruvernd ríkisins hefur eftirlit með því að umsjónar- og rekstraraðili uppfylli samningsskuldbindingar.
 ■ *31. gr.* _Gestastofur._
@@ -185,7 +185,7 @@ h2. Lög um náttúruvernd
  □ Ráðherra skal í reglugerð[^1)^] kveða á um skráningu, innflutning, ræktun og dreifingu lifandi framandi lífvera hér á landi, sbr. þó 1. mgr. Þar má m.a. birta skrá yfir tegundir sem óheimilt er að flytja til landsins, svo og yfir tegundir sem heimilt er að rækta hérlendis og sleppa í villtri náttúru, þar með talið á skógræktarsvæðum.
  □ Ráðherra skipar til fjögurra ára nefnd sérfræðinga stjórnvöldum til ráðgjafar um innflutning, ræktun og dreifingu framandi lífvera. Skulu stjórnvöld leita umsagnar nefndarinnar og Náttúruverndar ríkisins áður en tekin er ákvörðun um innflutning, ræktun eða dreifingu nýrra tegunda lifandi lífvera. Í nefndinni skulu eiga sæti einn fulltrúi tilnefndur af Náttúrufræðistofnun Íslands, einn samkvæmt tilnefningu Rannsóknastofnunar landbúnaðarins, einn samkvæmt tilnefningu Líffræðistofnunar Háskóla Íslands og einn fulltrúi tilnefndur sameiginlega af Landgræðslu ríkisins og Skógrækt ríkisins. Ráðherra skipar formann nefndarinnar án tilnefningar.
  □ Ákvæði greinar þessarar taka ekki til lifandi smitefna, sbr. "lög um ónæmisaðgerðir, nr. 38/1978":1978038.html, erfðabreyttra lífvera, sbr. "lög um erfðabreyttar lífverur, nr. 18/1996":1996018.html, sjávarafla, sbr. lög um meðferð, vinnslu og dreifingu sjávarafurða, nr. 55/1998, og þeirra tegunda sjávarspendýra sem lifa hér við land.
-    _[^1)^]Rg. 583/2000._
+    _[^1)^]"Rg. 583/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/583-2000._
  ■ *42. gr.* _Áletranir á náttúrumyndanir._
  □ Hvers konar áletranir á náttúrumyndanir eru óheimilar og varða refsingu skv. 76. gr., sbr. og 75. gr.
 ■ *43. gr.* _Auglýsingar utan þéttbýlis._
@@ -232,14 +232,14 @@ h2. Lög um náttúruvernd
  □ Þjóðgarðsverðir annast daglegan rekstur þjóðgarða og gera tillögur til Náttúruverndar ríkisins um rekstur þeirra. Náttúruvernd ríkisins getur falið þjóðgarðsvörðum eftirlit og umsjón á öðrum svæðum sem stofnunin ber ábyrgð á.
  □ Náttúruvernd ríkisins gerir tillögur um verndaráætlun og landnotkun innan þjóðgarða og skulu þær staðfestar af ráðherra.
  □ Umhverfisráðherra setur, að fenginni tillögu Náttúruverndar ríkisins, reglugerð[^1)^] um meðferð og rekstur þjóðgarða og umgengni almennings.
-    _[^1)^]Rg. 319/1984_. Rg. 359/1993. Rg. 513/1995.
+    _[^1)^]_"Rg. 319/1984":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/319-1984, sbr. "292/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/292-2001; "rg. 359/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/359-1993, sbr. "285/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/285-2001; "rg. 513/1995":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/513-1995.
  ■ *53. gr.* _Friðlýsing annarra náttúruminja á landi._
  □ Umhverfisráðherra getur, að fengnum tillögum eða áliti Náttúruverndar ríkisins, Náttúrufræðistofnunar Íslands og Náttúruverndarráðs, friðlýst:
     1. Landsvæði sem mikilvægt er að varðveita sakir sérstaks landslags eða lífríkis. Friðlýst landsvæði nefnast friðlönd.[^1)^]
     2. Náttúrumyndanir, svo sem fossa, eldstöðvar, hella og dranga, svo og fundarstaði steingervinga, sjaldgæfra steintegunda og steinda, sem mikilvægt er að varðveita sakir fræðilegs gildis þeirra, fegurðar eða sérkenna. Friðlýsa skal svæði í kringum náttúrumyndanir svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu. Friðlýstar náttúrumyndanir nefnast náttúruvætti.[^2)^]
     3. Lífverur, búsvæði þeirra og vistkerfi sem miklu skiptir frá vísindalegu, náttúrufræðilegu eða öðru menningarlegu sjónarmiði að ekki sé raskað, fækkað eða útrýmt.
  □ Friðlýsing skv. 2. og 3. tölul. 1. mgr. getur ýmist verið staðbundin eða tekið til landsins alls.
-    _[^1)^]Augl. 457/1996_. [^2)^]Augl. 120/1994, augl. 326/1999.
+    _[^1)^]Augl. 457/1996_. [^2)^]Augl. 120/1994, augl. 326/1999, augl. 249/2001.
  ■ *54. gr.* _Friðlýsing náttúruminja í hafi._
  □ Umhverfisráðherra getur, að fengnu samþykki sjávarútvegsráðherra og eftir atvikum að fengnum tillögum eða áliti Hafrannsóknastofnunarinnar, Náttúruverndar ríkisins, Náttúrufræðistofnunar Íslands eða Náttúruverndarráðs, friðlýst innan landhelgi og efnahagslögsögu náttúruminjar í hafi, þ.m.t. eyjar og sker, og á hafsbotni sem mikilvægt þykir að varðveita sakir fegurðar eða sérkenna eða miklu skiptir frá vísindalegu, náttúrufræðilegu eða menningarlegu sjónarmiði að ekki sé raskað. Friðlýsa skal svæði í kringum náttúruminjar svo sem nauðsynlegt er til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu.
  □ Ákvæði annarra greina þessa kafla gilda eftir því sem við á um friðlýstar náttúruminjar í hafi.
@@ -333,7 +333,7 @@ h2. Lög um náttúruvernd
  ■ *78. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. júlí 1999. ...
  □ Reglugerðir og önnur stjórnvaldsfyrirmæli, sem sett eru samkvæmt eldri lögum, skulu halda gildi sínu að svo miklu leyti sem þau fara ekki í bága við lög þessi.[^1)^]
-    _[^1)^]Rg. 205/1973_, sbr. 640/1982.
+    _[^1)^]_"Rg. 205/1973":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/205-1973, sbr. "640/1982":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/640-1982.
  ■ *79. gr.* ...
 
  *Ákvæði til bráðabirgða.*

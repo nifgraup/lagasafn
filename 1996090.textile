@@ -48,7 +48,7 @@ h2. Lögreglulög
  □ 3. Dómsmálaráðherra mælir nánar fyrir[^5)^] um starfsemi ríkislögreglustjóra.
  □ 4. Ríkislögreglustjóra til aðstoðar er vararíkislögreglustjóri. Hann er staðgengill ríkislögreglustjóra.
  □ 5. Þegar ríkislögreglustjóri er svo við málsefni eða aðila riðinn að hann mætti eigi gegna dómarastörfum í því skal hann víkja sæti og setur dómsmálaráðherra þá löghæfan mann til meðferðar þess máls.
-    _[^1)^]Rg. 794/2000_. [^2)^]"L. 15/2000, 10. gr.":/altext/stjt/2000.015.html [^3)^]"L. 29/1998, 1. gr.":/altext/stjt/1998.029.html [^4)^]"L. 78/1998, 1. gr.":/altext/stjt/1998.078.html [^5)^]Rg. 396/1997. Rg. 406/1997.
+    _[^1)^]_"Rg. 322/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/322-2001. [^2)^]"L. 15/2000, 10. gr.":/altext/stjt/2000.015.html [^3)^]"L. 29/1998, 1. gr.":/altext/stjt/1998.029.html [^4)^]"L. 78/1998, 1. gr.":/altext/stjt/1998.078.html [^5)^]"Rg. 396/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/396-1997. "Rg. 406/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/406-1997.
  ■ *6. gr.* _Lögregluumdæmi og stjórn þeirra._
  □ 1. Landið skiptist í lögregluumdæmi sem fara saman við skiptingu þess í stjórnsýsluumdæmi. Sýslumenn eru lögreglustjórar, hver í sínu umdæmi nema í Reykjavík þar sem lögreglustjórn er í höndum sérstaks lögreglustjóra. Við embætti lögreglustjórans í Reykjavík skal starfa varalögreglustjóri.
  □ 2. Lögreglustjórar fara með stjórn lögregluliðs, hver í sínu umdæmi. Þeir annast daglega stjórn og rekstur lögreglunnar í umdæmi sínu og bera ábyrgð á framkvæmd lögreglustarfa innan þess.
@@ -64,13 +64,13 @@ h2. Lögreglulög
     b. Lögreglumanni er heimilt að fara út fyrir starfssvæði sitt til þess að ljúka lögregluaðgerð sem hann hefur hafið innan þess. Á sama hátt getur lögreglumaður unnið lögregluverk utan umdæmis síns ef verkefnið krefst þess eða brýna nauðsyn ber til.
     c. Lögreglumanni, sem er að störfum en á leið um annað lögregluumdæmi, er heimilt að hafa afskipti af mönnum sem hann stendur að lögbrotum.
  □ 5. Lögreglumaður skal tilkynna yfirmanni sínum um aðgerðir sínar skv. b- og c-liðum 4. mgr. svo fljótt sem kostur er. Með sama hætti ber að tilkynna lögreglustjóra hlutaðeigandi umdæmis um aðgerðir lögreglumanns.
-    _[^1)^]Rg. 774/1998_. [^2)^]"L. 29/1998, 2. gr.":/altext/stjt/1998.029.html
+    _[^1)^]_"Rg. 774/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/774-1998. [^2)^]"L. 29/1998, 2. gr.":/altext/stjt/1998.029.html
  ■ *8. gr.* _Lögreglurannsóknir._
  □ 1. Lögregla annast rannsókn brota í samráði við ákærendur.
  □ 2. Rannsókn brots skal að jafnaði hefja í því umdæmi þar sem það er framið, sbr. þó ákvæði a- og b-liða 2. mgr. 5. gr.
  □ 3. Dómsmálaráðherra setur nánari reglur[^1)^] um í hvaða umdæmi brot skuli rannsakað, hvernig stjórn rannsóknar skuli háttað, hvenær brot skuli rannsakað undir stjórn ríkislögreglustjóra skv. a-lið 2. mgr. 5. gr. og hvenær lögreglustjórum sé rétt að leita aðstoðar ríkislögreglustjóra við rannsókn skv. b-lið 2. mgr. 5. gr.
  □ 4. Við embætti lögreglustjórans í Reykjavík skal starfrækt tæknideild sem sinni vettvangsrannsóknum og öðrum slíkum rannsóknum. Tæknideildin skal þjóna öllum lögregluumdæmum og setur dómsmálaráðherra nánari reglur um starfrækslu hennar.
-    _[^1)^]Rg. 396/1997_. Rg. 406/1997.
+    _[^1)^]_"Rg. 396/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/396-1997. "Rg. 406/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/406-1997.
  ■ *9. gr.* _Handhafar lögregluvalds._
  □ 1. Ríkislögreglustjóri, vararíkislögreglustjóri, lögreglustjórar, varalögreglustjórinn í Reykjavík, skólastjóri Lögregluskóla ríkisins, löglærðir fulltrúar lögreglustjóra og lögreglumenn fara með lögregluvald.
  □ 2. Dómsmálaráðherra er heimilt í undantekningartilvikum að fela öðrum starfsmönnum lögreglu lögregluvald tímabundið til að sinna sérstökum verkefnum.
@@ -86,7 +86,7 @@ h2. Lögreglulög
  □ 2. Hlutverk héraðslögreglumanna er að gegna almennum löggæslustörfum þegar á þarf að halda, þar á meðal að halda uppi lögum og reglu á mannfundum og skemmtunum undir stjórn lögreglumanna.
  □ 3. Dómsmálaráðherra setur reglur[^1)^] um fjölda héraðslögreglumanna og störf þeirra.
  □ 4. Héraðslögreglumenn njóta sömu réttinda og bera sömu skyldur og lögreglumenn á meðan þeir gegna lögreglustörfum.
-    _[^1)^]Rg. 283/1997_.
+    _[^1)^]_"Rg. 283/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/283-1997.
  ■ *11. gr.* _Samvinna lögreglu við önnur stjórnvöld og stofnanir._
  □ 1. Lögreglan skal aðstoða ákæruvaldið við störf þess.
  □ 2. Lögregla og önnur stjórnvöld og stofnanir skulu hafa gagnkvæmt samstarf varðandi verkefni sem tengjast löggæslu, svo sem forvarnir. Sérstaklega skal lögregla vinna með félagsmálayfirvöldum, heilbrigðisyfirvöldum og menntamálayfirvöldum að forvörnum eftir því sem tilefni gefst til og aðstæður leyfa og upplýsa þessa aðila um málefni sem krefjast afskipta þeirra.
@@ -99,7 +99,7 @@ h2. Lögreglulög
  □ 1. Handhafa lögregluvalds ber að sýna árvekni í starfi sínu og kunna glögg skil á skyldum sínum og þeirri ábyrgð sem starfinu fylgir.
  □ 2. Handhafa lögregluvalds ber að rækja starfa sinn af kostgæfni og samviskusemi og ávallt gæta fyllstu hlutlægni og réttsýni. Þeir skulu gæta þess að mönnum verði ekki gert tjón, óhagræði eða miski framar en óhjákvæmilegt er eftir því sem á stendur. Ekki mega þeir beita sakaðan mann harðræði fram yfir það sem lög heimila og nauðsynlegt er til þess að vinna bug á mótþróa hans gegn lögmætum aðgerðum né á annan hátt beita hann ólögmætri þvingun í orði eða verki, svo sem með hótunum.
  □ 3. [Við framkvæmd starfa sinna skulu handhafar lögregluvalds bera á sér sérstök skilríki. Ráðherra ákveður útlit, efni og notkun lögregluskilríkja með reglugerð.[^1)^]][^2)^]
-    _[^1)^]Rg. 282/1997_. [^2)^]"L. 29/1998, 4. gr.":/altext/stjt/1998.029.html
+    _[^1)^]_"Rg. 282/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/282-1997. [^2)^]"L. 29/1998, 4. gr.":/altext/stjt/1998.029.html
  ■ *14. gr.* _Valdbeiting._
  □ Handhöfum lögregluvalds er heimilt að beita valdi við framkvæmd skyldustarfa sinna. Aldrei mega þeir þó ganga lengra í beitingu valds en þörf er á hverju sinni.
 ■ *15. gr.* _Aðgerðir í þágu almannafriðar, allsherjarreglu o.fl._
@@ -199,12 +199,12 @@ h2. Lögreglulög
     _[^1)^]_"L. 49/2000, 1. gr.":/altext/stjt/2000.049.html
  ■ *39. gr.* _Reglugerð um Lögregluskóla ríkisins._
  □ Dómsmálaráðherra setur í reglugerð[^1)^] nánari fyrirmæli um stjórn skólans og starfslið, inntökuskilyrði, námstilhögun og prófkröfur.
-    _[^1)^]Rg. 490/1997_.
+    _[^1)^]_"Rg. 490/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/490-1997.
 
  *IX. kafli.* *Ýmis ákvæði.*
  ■ *40. gr.* _Nánari reglur um framkvæmd laganna._
  □ Dómsmálaráðherra setur nánari reglur[^1)^] um framkvæmd laga þessara.
-    _[^1)^]Rg. 396/1997_. Rg. 401/1997. Rg. 528/1997, sbr. 716/1997, 603/1998 og 467/1999.
+    _[^1)^]_"Rg. 396/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/396-1997. "Rg. 401/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/401-1997. "Rg. 528/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/528-1997, sbr. "716/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/716-1997, "603/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/603-1998 og "467/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/467-1999.
  ■ *41. gr.* _Refsingar._
  □ Brot gegn 19. - 21. gr. varða fésektum nema þyngri refsing liggi við samkvæmt öðrum lögum.
 ■ *42. gr.* _Gildistaka._

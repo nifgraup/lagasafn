@@ -25,7 +25,7 @@ h2. Sveitarstjórnarlög
  □ Byggðarmerki skulu skráð hjá Einkaleyfastofunni sem veitir umsóknum viðtöku og kannar skráningarhæfi merkjanna. Umsókn skal fylgja tilskilið gjald.
  □ Skráning byggðarmerkis veitir sveitarfélagi einkarétt á notkun þess.
  □ Iðnaðarráðherra setur nánari reglur[^1)^] um skráningu byggðarmerkja, m.a. varðandi umsóknir og meðferð þeirra, skilyrði fyrir skráningu, ógildingu, birtingu og gjöld fyrir umsóknir og vottorð úr byggðarmerkjaskrá.
-    _[^1)^]Rg. 112/1999_.
+    _[^1)^]_"Rg. 112/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-1999.
  ■ *6. gr.* _Lágmarksíbúatala._
  □ Lágmarksíbúatala sveitarfélags er 50 íbúar.
  □ Nú hefur íbúafjöldi sveitarfélags verið lægri en 50 í þrjú ár samfleytt og skal ráðuneytið þá eiga frumkvæði að því að sameina það nágrannasveitarfélagi. Einnig má þá skipta hinu fámenna sveitarfélagi milli nágrannasveitarfélaga.
@@ -265,7 +265,7 @@ h2. Sveitarstjórnarlög
  □ Ársreikningurinn skal gerður samkvæmt lögum, reglum og góðri reikningsskilavenju.
  □ Ársreikningur skal sýna yfirlit um rekstur og framkvæmdir á reikningsárinu og efnahagsreikning í lok reikningsárs ásamt skýringum. Í ársreikningi skal sýna fjárhagsáætlun reikningsársins til samanburðar og í honum skal koma fram yfirlit um fjárhagslegar skuldbindingar sveitarfélagsins.
  □ Ráðherra setur með reglugerð[^1)^] nánari ákvæði um bókhald og ársreikninga sveitarfélaga að höfðu samráði við Hagstofu Íslands og Samband íslenskra sveitarfélaga.
-    _[^1)^]Rg. 944/2000_.
+    _[^1)^]_"Rg. 944/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/944-2000, sbr. augl. 414/2001.
  ■ *68. gr.* _Endurskoðun ársreiknings._
  □ Sveitarstjórn ræður löggiltan endurskoðanda eða endurskoðunarfyrirtæki sem vinna skal endurskoðun hjá sveitarfélaginu.
  □ Heimilt er þó sveitarstjórn að ákveða að endurskoðun sveitarsjóðs, stofnana og fyrirtækja sveitarfélagsins verði falin sérstakri endurskoðunarstofnun á vegum sveitarfélagsins. Skal slík endurskoðunarstofnun vera undir stjórn forstöðumanns sem skal hafa löggildingu sem endurskoðandi. Stofnunin skal heyra beint undir sveitarstjórn og vera óháð öllum nefndum, ráðum, stjórnum, fyrirtækjum og stofnunum sveitarfélagsins við framkvæmd endurskoðunarinnar.
@@ -303,8 +303,9 @@ h2. Sveitarstjórnarlög
  □ Ráðherra skipar þriggja manna eftirlitsnefnd sem hefur það hlutverk að fylgjast með fjármálum sveitarfélaga. Einn fulltrúi í nefndina skal skipaður samkvæmt tilnefningu Sambands íslenskra sveitarfélaga og tveir án tilnefningar og skal annar þeirra vera löggiltur endurskoðandi. Þrír varamenn skulu skipaðir með sama hætti. Ráðherra skipar formann nefndarinnar.
  □ Nefndin skal árlega athuga reikningsskil sveitarfélaga og bera þau saman við viðmiðanir skv. 4. mgr. þessarar greinar og ákvæði 3. mgr. 61. gr. Leiði athugun í ljós að fjármál sveitarfélags stefni í óefni skal nefndin aðvara viðkomandi sveitarfélag og samhliða upplýsa ráðuneytið um álit sitt. Sveitarstjórn er skylt í slíkum tilvikum að gera eftirlitsnefndinni innan tveggja mánaða grein fyrir hvernig sveitarstjórnin hyggst bregðast við aðvörun nefndarinnar.
  □ Þóknun til eftirlitsnefndarmanna skal ákveðin af ráðherra. Þóknunin og annar kostnaður af starfi nefndarinnar greiðist úr ríkissjóði.
- □ Ráðherra setur í samráði við Samband íslenskra sveitarfélaga reglugerð um störf og málsmeðferð eftirlitsnefndar og viðmiðanir varðandi fjárhagsleg málefni sveitarfélaga. Fjárhagsviðmiðanir skulu taka til þeirra atriða sem meginmáli skipta við mat á rekstri og efnahag sveitarfélaga.
-■ *75. gr.* _Fjárþröng._
+ □ Ráðherra setur í samráði við Samband íslenskra sveitarfélaga reglugerð[^1)^] um störf og málsmeðferð eftirlitsnefndar og viðmiðanir varðandi fjárhagsleg málefni sveitarfélaga. Fjárhagsviðmiðanir skulu taka til þeirra atriða sem meginmáli skipta við mat á rekstri og efnahag sveitarfélaga.
+    _[^1)^]_"Rg. 374/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/374-2001.
+ ■ *75. gr.* _Fjárþröng._
  □ Komist sveitarfélag í fjárþröng þannig að sveitarstjórn telur sér eigi unnt að standa í skilum skal hún tilkynna það til eftirlitsnefndar skv. 74. gr. Ákvörðun um slíka tilkynningu skal tekin eftir tvær umræður í sveitarstjórn.
  □ Eftirlitsnefnd skal þá tafarlaust láta fara fram rannsókn á fjárreiðum og rekstri sveitarfélagsins og leggja síðan fyrir sveitarstjórn að bæta það sem áfátt kann að reynast innan hæfilegs frests.
  □ Eftirlitsnefnd er heimilt að grípa til aðgerða skv. 2. mgr. hafi sveitarstjórn ekki sinnt aðvörun nefndarinnar skv. 2. mgr. 74. gr. eða ef nefndin telur viðbrögð sveitarstjórnar í framhaldi af aðvörun nefndarinnar ófullnægjandi.
@@ -390,7 +391,7 @@ h2. Sveitarstjórnarlög
  □ Sveitarstjórn hins sameinaða sveitarfélags skal hlutast til um að samþykktir og reglugerðir, sem giltu í þeim sveitarfélögum sem sameinuð hafa verið, verði endurskoðaðar og samræmdar.
 ■ *98. gr.* _Fjárhagsleg aðstoð Jöfnunarsjóðs sveitarfélaga._
  □ Ráðuneytið getur, að fenginni umsögn Sambands íslenskra sveitarfélaga, sett almennar reglur[^1)^] þess efnis að Jöfnunarsjóður sveitarfélaga veiti fjárhagslega aðstoð til þess að greiða fyrir sameiningu sveitarfélaga. Slíka aðstoð má veita í allt að fimm ár eftir sameiningu.
-    _[^1)^]Rg. 619/1994_.
+    _[^1)^]_"Rg. 619/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/619-1994.
  ■ *99. gr.* _Afsláttur af fasteignaskatti._
  □ Þegar sveitarfélag í dreifbýli og sveitarfélag í þéttbýli sameinast er sveitarstjórn hins sameinaða sveitarfélags heimilt að ákveða að um tiltekinn tíma, þó ekki lengur en 10 ár frá sameiningu, megi veita tiltekinn afslátt af fasteignaskatti af eignum í dreifbýli vegna mismunandi þjónustu við fasteignaeigendur í dreifbýli og þéttbýli.
 

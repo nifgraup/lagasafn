@@ -17,6 +17,7 @@ h2. Lög um lax- og silungsveiði
     _Dráttur:_ Staður í veiðivatni þar sem ádráttarveiði verður við komið.
     _Eldisfiskur:_ Sjá alifiskur.
     _Eldisstofn:_ Hópur vatnafiska alinn í eldisstöð undan fiski sem alið hefur allan sinn aldur í fiskeldisstöð.
+    [_Erfðablöndun:_ Æxlun fiska milli stofna. Afkvæmi þeirra verða þá blönduð að erfðum. Til dæmis æxlun fisks sem sloppið hefur úr eldi með náttúrulegum, villtum laxi.][^1)^]
     _Félagsveiði:_ Félagsskapur eigenda eða notenda veiðiréttar um sameiginlega hagnýtingu veiðihlunninda.
     _Fiskeldi:_ Geymsla, gæsla og fóðrun vatnafiska, hafbeit, klak- og seiðaeldi, hvort sem er í söltu eða ósöltu vatni.
     _Fiskeldisstöð:_ Staður þar sem vatn, sjór, land eða mannvirki er nýtt í þágu fiskeldis.
@@ -32,9 +33,11 @@ h2. Lög um lax- og silungsveiði
     _Hafbeit til stangaveiði:_ Slepping gönguseiða í veiðivatn með takmarkaða framleiðslu til aukningar á fiskigengd til stangaveiði.
     _Hafbeitarstofn:_ Hópur vatnafiska sem klakinn hefur verið út undan fiski úr hafbeit.
     _Hafbeitarstöð:_ Staður þar sem vatn, sjór, land eða mannvirki er nýtt í þágu hafbeitar.
+    [_Heilsárseldi:_ Hefðbundið laxeldi í sjókvíum frá 50 gramma göngustærð upp í markaðsstærð.][^1)^]
     _Jörð:_ Lögbýli samkvæmt ábúðarlögum.
     _Kvíaeldi:_ Fiskeldi í netkvíum (netbúrum) í fersku vatni eða söltu.
     _Kvísl:_ Hluti af straumvatni sem fellur sér milli bakka.
+    [_Kynbætur:_ Markvisst val með tilliti til ákveðinna arfgengra eiginleika. Slíkir eiginleikar geta verið mikill vaxtarhraði eða síðkynþroski. Til undaneldis eru valdir fiskar sem sýna ákjósanlega eiginleika umfram aðra fiska í stofninum. Slíku vali er viðhaldið og það aukið með vali í hverri kynslóð.][^1)^]
     _Lagardýr:_ Öll dýr með kalt blóð sem lifa og geta afkvæmi í sjó eða fersku vatni.
     _Laxastofn:_ Hópur laxa sem hrygnir á tilteknum stað og á tilteknum tíma og hrygnir ekki í neinum mæli með öðrum hópum á öðrum stað eða á öðrum tíma.
     _Lögn:_ Staður í vatni þar sem fastri veiðivél verður við komið.
@@ -45,6 +48,7 @@ h2. Lög um lax- og silungsveiði
     _Ós úr stöðuvatni:_ Sá staður þar sem straumlína ár hefst í stöðuvatni.
     _Ósasvæði:_ Svæði í straumvatni er nær frá ósi í sjó upp til þess staðar þar sem straumlína hverfur um stórstraumsflæði.
     _Sjór:_ Salt vatn utan árósa.
+    [_Skiptieldi:_ Eldi á laxi í strandeldi upp í 500 - 1.000 grömm og framhaldseldi í sjókvíum upp í markaðsstærð.][^1)^]
     _Strandeldi:_ Eldi vatnafiska til slátrunar í tönkum eða kerum á landi.
     _Straumlína (strengur):_ Lína sem liggur eftir endilöngu straumvatni um þá staði þess þar sem straumur er mestur.
     _Straumvatn:_ Ósalt vatn, á eða ósasvæði sem í er greinilegur straumur, þá er enginn vöxtur er í, og um stórstraumsfjöru.
@@ -58,8 +62,10 @@ h2. Lög um lax- og silungsveiði
     _Veiðitala:_ Tala veiddra fiska.
     _Veiðivatn:_ Á eða stöðuvatn sem veiði er í eða mætti í vera ef fiskur væri ræktaður þar.
     _Veiðivél:_ Sjá föst veiðivél.
-    _Villtur laxastofn:_ Hópur laxfiska sem klekst út og elst upp í veiðivatni.][^1)^]
-    _[^1)^]_"L. 63/1994, 1. gr.":/altext/stjt/1994.063.html
+    [_Villtur fiskstofn:_ Hópur fiska sömu tegundar sem hrygnir á sama stað og á sama tíma en hrygnir ekki í neinum mæli með öðrum slíkum hópum.][^1)^]
+    _Villtur laxastofn:_ [Hópur laxa sem hrygnir á sama stað og á sama tíma en hrygnir ekki í neinum mæli með öðrum slíkum hópum.][^1)^]
+    [_Örmerkingar:_ Merkingar á laxi með örsmáum málmflísum í trjónuna.][^1)^]][^2)^]
+    _[^1)^]_"L. 83/2001, 1. gr.":/altext/stjt/2001.083.html [^2)^]"L. 63/1994, 1. gr.":/altext/stjt/1994.063.html
 
  *II. kafli.* *Um veiðirétt.*
  ■ *2. gr.* 1. Landeiganda er einum heimil veiði í vatni á landi sínu, enda sé eigi öðruvísi mælt í lögum þessum.
@@ -70,8 +76,8 @@ h2. Lög um lax- og silungsveiði
     _[^1)^]_"L. 50/1998, 1. gr.":/altext/stjt/1998.050.html
  ■ *3. gr.* 1. Veiðiréttindi, er skilin hafa verið við landareign, áður en lög þessi tóku gildi, er eigendum landareigna þeirra, er þau ella mundu hafa fylgt samkvæmt 1. mgr. 2. gr., rétt að leysa til sín, hverjum fyrir sinni landareign, er ráðherra leyfir, að fengnu samþykki veiðimálanefndar, enda krefjist [^3^]/4 hlutar þeirra innlausnar. Nú á maður fleiri jarðir en eina, og hefur hann þá eitt atkvæði fyrir lögbýli hvert, sem metið er til verðs í gildandi fasteignamati. Erfðafestuhafi skal fara með atkvæði jarða í erfðafestu í stað eiganda. Nú er landareign í óskiptri sameign, og kemur þá fulltrúi frá eigendum, er fer með eitt atkvæði fyrir þá jörð.
  □ 2. Nú er innlausnar krafist samkvæmt 1. mgr., en eigi af hálfu allra þeirra landeigenda, er innlausnarrétt eiga, og getur þá eigandi veiðiréttar krafist þess, að þeir landeigendur, sem innlausnar krefjast, leysi til sín veiðirétt hinna, er eigi vilja innleysa.
- □ 3. Um mat á andvirði veiðiréttar og greiðslu þess fer eftir því sem segir í [95.][^1)^] og [97. gr.][^1)^]
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
+ □ 3. Um mat á andvirði veiðiréttar og greiðslu þess fer eftir því sem segir í [101. og 103. gr.][^1)^]
+    _[^1)^]_"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html
  ■ *4. gr.* 1. Nú er landareign eða veiðiréttur í óskiptri sameign, og er þá sameigendum öllum veiði jafnheimil. Rétt er þeim, er telst vanhaldinn, að krefjast skipta á veiði, annaðhvort svo, að hvor eða hver hafi sinn hluta vatns eða veiði sinn tíma, dag eða viku, að tiltölu við eignarhluta sinn, en eigi skulu skipti lengur standa en fimm ár um sinn. Mat skal ráða, ef menn skilur á um veiðiskipti.
  □ 2. Nú er landareign í sameign, en skipt eftir merkjum, afnotaskiptum eða eignar, og skal réttur hvers aðila til veiði vera í hlutfalli við landverð hvers jarðarhluta, þegar landskipti fara fram, án tillits til legu jarðarhlutans að veiðivatni, enda verði eigi samkomulag um aðra skipan. Að öðru leyti fara landskiptin fram í samræmi við "landskiptalög, nr. 46 27. júní 1941":1941046.html.
  ■ *5. gr.* Búendum, sem rétt eiga til upprekstrar á afrétt, er einum heimil veiði í vötnum á þeim afrétti til búsþarfa á sama hátt sem verið hefur, enda sé veiðiréttur í þeim vötnum eigi einkaeign. Eigi má leigja veiði í slíkum vötnum eða leyfa hana með öðrum hætti. Veiðifélagi við slík vötn er heimilt að ráðstafa veiði í samræmi við lög þessi.
@@ -96,7 +102,7 @@ h2. Lög um lax- og silungsveiði
  □ 4. Ráðherra er rétt að setja með reglugerð nánari ákvæði um skrásetningu veiðivatna. Í reglugerðinni má ákveða, hver veiðivötn skuli skrásetja.
 ■ *11. gr.* 1. Ákveða má í samþykkt veiðifélags eða reglugerð, er ráðherra setur,[^1)^] að merkja skuli tilteknu merki öll ádráttarnet og lagnet, sem nota á til veiði í tilteknu vatni, og svo lagnet, er nota á til silungsveiða í sjó.
  □ 2. Eftirlitsmaður með veiði hefur með höndum merkingu veiðarfæra eða hreppstjóri, þar sem eigi er eftirlitsmaður við veiðivatn.
-    _[^1)^]Rg. 261/1996_.
+    _[^1)^]_"Rg. 261/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/261-1996.
  ■ *12. gr.* 1. Hver sá, sem veiði stundar, skal gefa skýrslu um veiði sína. Eigandi veiðiréttinda eða veiðifélag skal heimta veiðiskýrslur af veiðimanni og senda þær veiðimálastjóra.
  □ 2. Skýrslur þessar skulu gerðar eftir fyrirmynd, er veiðimálastjóri setur, og skal hann sjá um, að þeir menn, sem skýrslur eiga að gefa, geti fengið skýrslueyðublöð ókeypis. Kostnaður af prentun eyðublaða greiðist úr ríkissjóði.
  □ 3. Eftirlitsmaður með veiði eða hreppstjóri, þar sem eigi er eftirlitsmaður við veiðivatn, skulu safna veiðiskýrslum hver í sínu umdæmi og senda þær veiðimálastjóra.
@@ -110,22 +116,22 @@ h2. Lög um lax- og silungsveiði
  □ 2. Óheimilt er að koma með lax að landi sem veiðst hefur í sjó í veiðitæki sem ætluð eru til veiði annarra fiska. Ber þeim er veiðir lax á þann hátt að sleppa honum í sjó aftur.
  □ 3. Nú hefur laxveiði í sjó verið metin sérstaklega til dýrleika í fasteignamati því er öðlaðist gildi árið 1932 eða tillit hefur verið tekið til hennar við ákvörðun fasteignaverðs í því mati og er þá sú veiði leyfileg.
  □ 4. Veiði lax og göngusilungs í sjó skal hlíta sömu reglum sem veiði í ósöltu vatni eftir því sem unnt er. Ráðherra setur reglur um þessa veiði.[^1)^]
- □ 5. Nú liggur veiðivatn eða hafbeitarstöð svo nærri sjávarveiði, slíkri sem getur í 3. mgr., að veiðimálastjóri telji að sjávarveiðin rýri veiði í vatninu eða hjá stöðinni en veiðieigendur í vatninu, einn eða fleiri, eða eigendur hafbeitarstöðvar vilja leysa sjávarveiðina til sín og er ráðherra þá rétt að leyfa það að fengnu samþykki veiðimálanefndar. Um mat á andvirði veiðiréttar og greiðslu þess fer eftir því sem segir í 94. og 96. gr.[^2)^]
- □ 6. Heimild landareigna, sem liggja að sjó, til silungsveiða skal miðast við þann netafjölda sem viðkomandi landareign hafði síðustu fimm ár fyrir gildistöku laga um lax- og silungsveiði frá 1957. Um ágreining skal fjalla skv. 94. gr.[^3)^] Rétt er ráðherra að setja reglur um silungsveiði í sjó.
- □ 7. Rétt er [veiðimálastjóra][^4)^] að takmarka eða banna veiði göngusilungs í sjó á tilteknum svæðum og um tiltekinn tíma enda komi ósk um slíka friðun frá einstökum veiðieigendum eða veiðifélagi sem ætla verði að njóti góðs af friðun þessari. Um mat á bótum vegna slíkrar takmörkunar fer skv. 94. og 96. gr.,[^2)^] en bætur skulu greiddar af þeim sem takmörkunar óskar.
- □ 8. Með sama skilorði og í 7. mgr. segir er [veiðimálastjóra][^4)^] rétt að banna veiði fiska framan við árósa þar sem hætta er á að lax og silungur geti veiðst í veiðiútbúnað sem ætlaður er til slíkrar veiði.][^5)^]
-    _[^1)^]Rg. 261/1996_. [^2)^]Nú 95. og 97. gr. [^3)^]Nú "95. gr.":/altext/stjtnr.html#1996261?g95 [^4)^]"L. 50/1998, 3. gr.":/altext/stjt/1998.050.html [^5)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html
+ □ 5. Nú liggur veiðivatn eða hafbeitarstöð svo nærri sjávarveiði, slíkri sem getur í 3. mgr., að veiðimálastjóri telji að sjávarveiðin rýri veiði í vatninu eða hjá stöðinni en veiðieigendur í vatninu, einn eða fleiri, eða eigendur hafbeitarstöðvar vilja leysa sjávarveiðina til sín og er ráðherra þá rétt að leyfa það að fengnu samþykki veiðimálanefndar. Um mat á andvirði veiðiréttar og greiðslu þess fer eftir því sem segir í [101. og 103. gr.][^2)^]
+ □ 6. Heimild landareigna, sem liggja að sjó, til silungsveiða skal miðast við þann netafjölda sem viðkomandi landareign hafði síðustu fimm ár fyrir gildistöku laga um lax- og silungsveiði frá 1957. Um ágreining skal fjalla skv. [101. gr.][^2)^] Rétt er ráðherra að setja reglur um silungsveiði í sjó.
+ □ 7. Rétt er [veiðimálastjóra][^3)^] að takmarka eða banna veiði göngusilungs í sjó á tilteknum svæðum og um tiltekinn tíma enda komi ósk um slíka friðun frá einstökum veiðieigendum eða veiðifélagi sem ætla verði að njóti góðs af friðun þessari. Um mat á bótum vegna slíkrar takmörkunar fer skv. [101. og 103. gr.],[^2)^] en bætur skulu greiddar af þeim sem takmörkunar óskar.
+ □ 8. Með sama skilorði og í 7. mgr. segir er [veiðimálastjóra][^3)^] rétt að banna veiði fiska framan við árósa þar sem hætta er á að lax og silungur geti veiðst í veiðiútbúnað sem ætlaður er til slíkrar veiði.][^4)^]
+    _[^1)^]_"Rg. 261/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/261-1996. [^2)^]"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html [^3)^]"L. 50/1998, 3. gr.":/altext/stjt/1998.050.html [^4)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html
  ■ *15. gr.* 1. [Veiða má silung í sjó á færi og á stöng, í ádráttarnet og í lagnet, þó eigi á lóð, í króknet, fleygnætur, herpinætur né önnur veiðitæki þau er lax má í veiða.
  □ 2. Á tímabilinu 1. apríl til 1. október má eigi leggja net né hafa ádrátt í sjó nær ósi straumvatns en 1.500 metra ef meðalvatnsmagn ár er innan við 25 m[^3^] á sekúndu en 2.000 metra ef vatnsmagnið er meira og eigi nær en 1.500 metra frá hafbeitarstöð, enda gangi fiskur í það vatn eða þá hafbeitarstöð. Fullt samráð skal hafa við viðkomandi veiðifélag eða hafbeitarstöð varðandi ráðstöfun stangaveiði á þessu svæði. [Rétt er veiðimálastjóra að takmarka stangaveiði á friðuðu svæði við ós og setja reglur[^1)^] um veiðitæki og möskvastærð neta við slíka ósa. Þó getur veiðimálastjóri að fenginni umsögn Fiskistofu leyft ádrátt fyrir síld og loðnu á friðuðu svæði tiltekinn tíma ársins.][^2)^]
- □ 3. [Til verndunar villtra stofna laxfiska er veiðimálastjóra rétt að friða tiltekin svæði í sjó í nágrenni mikilvægra veiðivatna þar sem ekki verði heimiluð starfsemi á sviði fiskeldis og hafbeitar með laxfiska.][^2)^] Ráðherra skal setja reglur um þessi friðunarsvæði.][^3)^]
-    _[^1)^]Rg. 261/1996_. [^2)^]"L. 50/1998, 4. gr.":/altext/stjt/1998.050.html [^3)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html
+ □ 3. ...[^3)^]][^4)^]
+    _[^1)^]_"Rg. 261/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/261-1996. [^2)^]"L. 50/1998, 4. gr.":/altext/stjt/1998.050.html [^3)^]"L. 83/2001, 2. gr.":/altext/stjt/2001.083.html [^4)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html
  ■ *16. gr.* 1. [Eigi má hafa ádrátt í ósi straumvatns eða ósasvæði.
  □ 2. Eigi má veiða fisk í ósum í ár eða ósum í stöðuvötn og eigi 100 metra upp frá slíkum ósum eða 250 metra niður frá þeim. Eigi má heldur veiða fisk í ósum úr stöðuvötnum þeim er lax eða göngusilungur fer um né 50 metra upp eða niður frá slíkum ósum.
  □ 3. [Veiðimálastjóri][^1)^] getur ...[^1)^] veitt undanþágu að nokkru leyti eða öllu frá banni því er ræðir um í 1. og 2. mgr. þar sem svo hagar til að veiði í ós eða við er eigi talin skaðvænleg.
- □ 4. [Veiðimálastjóra][^1)^] er rétt með samþykki veiðimálanefndar [og hlutaðeigandi veiðifélags][^1)^] að banna alla veiði eða tilteknar veiðiaðferðir upp eða niður frá ósi enda þyki það nauðsynlegt til viðhalds veiði í vatni. Bann þetta skal standa tiltekinn tíma og má binda það því skilorði að veiðieigendur eða ábúendur greiði bætur þeim aðila sem öðrum fremur missir af veiði vegna slíks banns. Ákveða má bætur með mati skv. 94. gr.[^2)^] ef eigi semst.][^3)^]
-    _[^1)^]_"L. 50/1998, 5. gr.":/altext/stjt/1998.050.html [^2)^]Nú "95. gr.":/altext/stjt/1998.050.html [^3)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html
- ■ *17. gr.* [Í straumvatni eða hluta straumvatns þar sem veiði er stunduð með föstum veiðivélum skal fiskur eiga frjálsa för eftir miðju vatni og nefnist þar gönguhelgi. Hún tekur yfir þriðjung af breidd straumvatns um miðbik en helming af breidd óss eða ósasvæðis. Þó skal fiskur eiga frjálsa för eftir aðalstraumlínu þótt skemmra liggi frá bakka en nemi þriðjungi af breidd vatns. Nú greinir menn á um gönguhelgi eða aðalstraumlínu og má þá skjóta þeim ágreiningi til mats skv. 94. gr.[^1)^]][^2)^]
-    _[^1)^]Nú_ "95. gr.":/altext/stjt/1994.063.html [^2)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html
+ □ 4. [Veiðimálastjóra][^1)^] er rétt með samþykki veiðimálanefndar [og hlutaðeigandi veiðifélags][^1)^] að banna alla veiði eða tilteknar veiðiaðferðir upp eða niður frá ósi enda þyki það nauðsynlegt til viðhalds veiði í vatni. Bann þetta skal standa tiltekinn tíma og má binda það því skilorði að veiðieigendur eða ábúendur greiði bætur þeim aðila sem öðrum fremur missir af veiði vegna slíks banns. Ákveða má bætur með mati skv. [101. gr.][^2)^] ef eigi semst.][^3)^]
+    _[^1)^]_"L. 50/1998, 5. gr.":/altext/stjt/1998.050.html [^2)^]"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html [^3)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html
+ ■ *17. gr.* [Í straumvatni eða hluta straumvatns þar sem veiði er stunduð með föstum veiðivélum skal fiskur eiga frjálsa för eftir miðju vatni og nefnist þar gönguhelgi. Hún tekur yfir þriðjung af breidd straumvatns um miðbik en helming af breidd óss eða ósasvæðis. Þó skal fiskur eiga frjálsa för eftir aðalstraumlínu þótt skemmra liggi frá bakka en nemi þriðjungi af breidd vatns. Nú greinir menn á um gönguhelgi eða aðalstraumlínu og má þá skjóta þeim ágreiningi til mats skv. [101. gr.][^1)^]][^2)^]
+    _[^1)^]_"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html [^2)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html
  ■ *18. gr.* 1. [Eigi má veiða lax nema á tímabilinu frá 20. maí til 30. september ár hvert. [Nú telst sannað að fiskur hrygni í veiðivatni í september og er veiðimálastjóra þá rétt að fenginni umsögn veiðimálanefndar að ákveða að veiðitíma ljúki fyrr í því vatni.][^1)^] Ádráttarveiði er eigi heimil eftir 31. ágúst.
  □ 2. Á tímabili því, er getur í 1. mgr., má hvergi stunda laxveiði lengur en 3 og [^1^]/2 mánuð. [Rétt er veiðimálastjóra að setja nánari reglur um veiðitíma í vatni hverju að fengnum tillögum hlutaðeigandi veiðifélags og veiðimálanefndar.][^1)^]
  □ 3. Göngusilung má veiða frá 1. apríl til 10. október ár hvert. Þó skulu lok veiðitíma göngusilungs í veiðivatni, þar sem megnið af veiðinni er villtur laxastofn, miðast við 30. september skv. 1. mgr. [Þá er sérstaklega stendur á getur veiðimálastjóri að fenginni umsögn veiðimálanefndar leyft að göngusilungur sé veiddur utan þess tíma í lagnet, á stöng, á dorg og færi.][^1)^]
@@ -136,8 +142,8 @@ h2. Lög um lax- og silungsveiði
  ■ *19. gr.* 1. [Á veiðitíma þeim er getur í 18. gr., skal lax og göngusilungur vera friðaður gegn allri veiði, annarri en stangaveiði, 84 stundir á viku hverri, frá föstudagskvöldi kl. 10 til þriðjudagsmorguns kl. 10. Friðunartíma þennan má stytta í 60 stundir á viku sé að dómi veiðimálastjóra, veiðimálanefndar og hlutaðeigandi veiðifélags engin hætta á að um þverrandi fiskstofn sé að tefla á viðkomandi veiðisvæði. Með sama skilorði má lengja friðunartímann um allt að 24 stundir verði talin hætta á þverrandi fiskstofni í fiskihverfinu eða til jöfnunar fiskigengd í því vatni. Ádrátt má aldrei hafa frá kl. 9 síðdegis til kl. 9 árdegis og aldrei nema tvo daga í viku hverri, þriðjudag og miðvikudag. Stangaveiði og veiði með færi má stunda frá sólarupprás til sólseturs, þó aldrei á tímabilinu frá kl. 3 eftir miðnætti til kl. 7 árdegis og aldrei lengur en 12 klst. á sólarhring hverjum. Rétt er að setja nánari reglur um daglegan stangaveiðitíma með sama hætti og ákveðið er í 2. mgr. 18. gr. Nú fer lax og göngusilungur um stöðuvatn og skal hann friðaður þar svo sem nú var sagt.
  □ 2. [Veiðimálastjóra er rétt að ákveða að friðun sú sem getur í 1. mgr. skuli gilda aðra daga ofar í straumvatni en neðar enda telji hann það nauðsynlegt til jöfnunar fiskigengd í því vatni.][^1)^]][^2)^]
     _[^1)^]_"L. 50/1998, 7. gr.":/altext/stjt/1998.050.html [^2)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html
- ■ *20. gr.* [[Veiðimálastjóra][^1)^] er rétt ...[^1)^] með samþykki veiðimálanefndar að friða tiltekin svæði í vatni þar sem fiskur safnast saman til hrygningar eða vegna fyrirstöðu á göngu, svo sem undir fossum enda telji [hann][^1)^] að veiði á þeim stöðum sé hættuleg fiskstofni vatnsins. Friðun þessa má binda tiltekinn tíma. Slík friðun er því skilyrði háð að veiðieigendur eða ábúendur í fiskihverfi greiði bætur þeim aðila sem missir verulega og öðrum fremur af veiði vegna friðunar. Ákveða má bætur með mati skv. 94. gr.[^2)^] ef eigi semur.][^3)^]
-    _[^1)^]_"L. 50/1998, 8. gr.":/altext/stjt/1998.050.html [^2)^]Nú "95. gr.":/altext/stjt/1998.050.html [^3)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html
+ ■ *20. gr.* [[Veiðimálastjóra][^1)^] er rétt ...[^1)^] með samþykki veiðimálanefndar að friða tiltekin svæði í vatni þar sem fiskur safnast saman til hrygningar eða vegna fyrirstöðu á göngu, svo sem undir fossum enda telji [hann][^1)^] að veiði á þeim stöðum sé hættuleg fiskstofni vatnsins. Friðun þessa má binda tiltekinn tíma. Slík friðun er því skilyrði háð að veiðieigendur eða ábúendur í fiskihverfi greiði bætur þeim aðila sem missir verulega og öðrum fremur af veiði vegna friðunar. Ákveða má bætur með mati skv. [101. gr.][^2)^] ef eigi semur.][^3)^]
+    _[^1)^]_"L. 50/1998, 8. gr.":/altext/stjt/1998.050.html [^2)^]"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html [^3)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html
  ■ *21. gr.* [Veiðimálastjóra er rétt að friða heilt vatn gegn allri veiði eða einstökum veiðiaðferðum, enda sé sú friðun nauðsynleg til verndar fiskstofni þess vatns, en leita skal hann samþykkis hlutaðeigandi veiðifélags og veiðimálanefndar.][^1)^]
     _[^1)^]_"L. 50/1998, 9. gr.":/altext/stjt/1998.050.html
  ■ *22. gr.* 1. [Þrátt fyrir ákvæði 16. - 21. gr., svo og ákvæði 38. gr., er leyfilegt að veiða lax og silung til vísindalegra rannsókna og eru slíkar veiðar undanþegnar friðunarákvæðum laga þessara.
@@ -155,7 +161,7 @@ h2. Lög um lax- og silungsveiði
  □ 10. Þegar ákvörðun veiðimálastjóra liggur fyrir skal hún kynnt framkvæmdaraðila og þeim sem hlut eiga að máli, þar á meðal öðrum veiðifélögum á viðkomandi vatnasviði. Jafnframt skal birta hana opinberlega.
  □ 11. Ráðherra er heimilt að ákveða með sérstakri reglugerð að innheimt skuli gjald af framkvæmdaraðila vegna kostnaðar embættis veiðimálastjóra af málsmeðferð samkvæmt ákvæðum þessarar greinar.
  □ 12. Úrskurð veiðimálastjóra skv. 9. mgr. má kæra til landbúnaðarráðherra innan fjögurra vikna frá birtingu. Ráðherra skal kveða upp rökstuddan úrskurð innan átta vikna frá því er beiðni barst honum.][^1)^]
-    _[^1)^]_"L. 50/1998, 11. gr.":/altext/stjt/1998.050.html [^2)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html [^3)^]Rg. 594/1998.
+    _[^1)^]_"L. 50/1998, 11. gr.":/altext/stjt/1998.050.html [^2)^]"L. 63/1994, 2. gr.":/altext/stjt/1994.063.html [^3)^]"Rg. 594/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/594-1998.
 
  *V. kafli.* *[Veiðistjórn vatnasilungs.]*[^1)^]
     _[^1)^]"L. 63/1994, 3. gr.":/altext/stjt/1994.063.html_
@@ -187,8 +193,8 @@ h2. Lög um lax- og silungsveiði
  □ 2. Eigi má stunda stangarveiði í þeim hluta straumvatns, þar sem veitt er með föstum veiðivélum eða ádrætti né á vikufriðunartíma þessara veiðitækja. Veiðimálastjóra er rétt að setja nánari reglur um, hversu haga skuli veiði og friðun í vatni hverju, en hafa skal hann samráð um það við veiðifélag. Nú verða öll net tekin upp ákveðið tímabil veiðitímans, samkvæmt ákvörðun stjórnar veiðifélags, og getur hún þá um það tímabil leyft stangarveiði í þeim hluta straumvatns, þar sem veitt var með föstum veiðivélum eða ádrætti.
  □ 3. Eigi má stunda stangarveiði nær föstum veiðivélum né stöðum, þar sem veitt er með ádrætti, en 100 metra. Þó má bilið ekki vera skemmra en sem svarar fimmfaldri lengd veiðivélarinnar, sem næst liggur.
  □ 4. Veiðimálastjóri ákveður með samþykki veiðimálanefndar, hversu margar stengur megi hafa um sinn í veiðivatni. Leita skal hann um það álits veiðifélags.
- □ 5. Nú rís ágreiningur um skiptingu veiðitíma, veiðistaði eða leigu eftir veiði milli notenda veiðiréttar í vatni, slíku er ræðir um í 4. mgr., og er þá þeim, er telur sig vanhaldinn, rétt að krefjast mats samkvæmt 94. gr.[^1)^] laga þessara.
-    _[^1)^]Nú_ "95. gr.":/altext/stjt/1998.050.html
+ □ 5. Nú rís ágreiningur um skiptingu veiðitíma, veiðistaði eða leigu eftir veiði milli notenda veiðiréttar í vatni, slíku er ræðir um í 4. mgr., og er þá þeim, er telur sig vanhaldinn, rétt að krefjast mats samkvæmt [101. gr.][^1)^] laga þessara.
+    _[^1)^]_"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html
  ■ *31. gr.* 1. Girðing í straumvatni, sem lax eða göngusilungur fer um, skal þannig gerð, að hlið sé á henni, eigi minna en 5 m breitt við inngang í gildru eða veiðikró. Veiðimálastjóri getur mælt svo fyrir, að hlið skuli höfð á girðingu, þar sem hún liggur yfir ál, sem ætla má, að mikil fiskför sé um. Hlið þessi skulu standa opin þann tíma viku, sem vatn er friðað samkvæmt 19. gr. Eigi má hafa nema einn leiðara við girðingu, og telst hann hluti veiðivélarinnar.
  □ 2. Inngangur í veiðikrær skal vita undan straumi, og má leiðari frá girðingu aldrei liggja á móti straumi né girðingu að öðru leyti vera þannig hagað, að hætta sé á, að hún taki fisk, sem forstreymis gengur.
 ■ *32. gr.* 1. Laxakista eða silunga skal þannig gerð, að í þeirri hlið kistu, er mest veit móti straumi, séu eigi færri en tíu spelar sívalir, er standi lóðrétt og nái frá botni kistunnar til yfirborðs vatns. Slár má því einungis hafa milli spela, að þær gangi þvert á þá, og sé aldrei minna bil en 50 cm á milli slánna.
@@ -279,9 +285,9 @@ h2. Lög um lax- og silungsveiði
     f. Meðferð á afla félags eða arði og greiðslu kostnaðar af starfsemi félags.
  □ 4. Í samþykkt má ákveða, að veiðifélag starfi í deildum, enda taki hver deild yfir tiltekið veiðivatn eða hluta vatns samkvæmt c-lið 1. mgr. 45. gr. Hver deild ráðstafar veiði í sínu umdæmi með þeim takmörkunum, sem aðalfundur setur.
 ■ *50. gr.* 1. Á fundi, boðuðum á sama hátt og stofnfundur, skal gera skrá, er sýni hluta þann af veiði eða arði af veiði, sem koma á í hlut hverrar jarðar eða jarðarhluta, er veiðiréttur fylgir í vatni á félagssvæði. Við niðurjöfnun veiði eða arðs af henni skal m.a. taka tillit til aðstöðu við netjaveiði og stangarveiði, landlengdar að veiðivatni, til hrygningarskilyrða og uppeldisskilyrða fisks.
- □ 2. Arðskrá skal leggja undir úrskurð fundarmanna, og skal greiða atkvæði um hana, eins og segir í 1. mgr. 49. gr. Í arðskrá skal greina tímamark fyrir gildistöku hennar. Nú verður arðskrá eigi löglega samþykkt, og skal stjórn veiðifélags óska eftir mati samkvæmt [95. gr.][^1)^] Einnig er félagsmanni, sem telur gengið á hlut sinn með arðskrá, rétt að krefjast mats samkvæmt [95. gr.][^1)^] Tekur mat gildi tveimur mánuðum eftir birtingu í ábyrgðarbréfi frá stjórn veiðifélags eða á annan sannanlegan hátt, enda sé yfirmats eigi krafist. Nú fer yfirmat fram, og tekur það gildi frá þeim tíma, er yfirmatsmenn ákveða.
+ □ 2. Arðskrá skal leggja undir úrskurð fundarmanna, og skal greiða atkvæði um hana, eins og segir í 1. mgr. 49. gr. Í arðskrá skal greina tímamark fyrir gildistöku hennar. Nú verður arðskrá eigi löglega samþykkt, og skal stjórn veiðifélags óska eftir mati samkvæmt [101. gr.][^1)^] Einnig er félagsmanni, sem telur gengið á hlut sinn með arðskrá, rétt að krefjast mats samkvæmt [101. gr.][^1)^] Tekur mat gildi tveimur mánuðum eftir birtingu í ábyrgðarbréfi frá stjórn veiðifélags eða á annan sannanlegan hátt, enda sé yfirmats eigi krafist. Nú fer yfirmat fram, og tekur það gildi frá þeim tíma, er yfirmatsmenn ákveða.
  □ 3. Rétt er félagsmanni að krefjast endurskoðunar á arðskrá fimm árum eftir setningu hennar í fyrsta skipti, en síðar á átta ára fresti.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
+    _[^1)^]_"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html
  ■ *51. gr.* Kostnað af starfsemi veiðifélags skulu félagsmenn greiða í sama hlutfalli sem þeir taka arð.
 ■ *52. gr.* Félagsstjórn skal senda ráðherra samþykkt og arðskrá til staðfestingar. Nú þykja samþykkt og arðskrá eigi þannig úr garði gerðar, að staðfesta megi, og sendir ráðherra þær aftur til félagsstjórnar með athugasemdum um það, er ábótavant þykir. Annars kostar staðfestir hann þær, eða þá er lagfært hefur verið það, er ábótavant þykir, enda mæli veiðimálastjóri og veiðimálanefnd með staðfestingu. Líða skulu minnst sex mánuðir frá stofnfundi félags og þar til samþykkt er staðfest. Aldrei má samþykkt brjóta í bág við réttarákvæði, almennar grundvallarreglur laga né réttindi einstakra manna.
 ■ *53. gr.* Nú hefur veiðifélag verið stofnað samkvæmt 47. og 48. gr., og getur þá sá, sem telur félagið ólöglega stofnað, vefengt stofnunina fyrir ráðherra, áður en sex mánuðir eru liðnir frá stofnfundi félags. Vefenging, sem síðar berst um stofnun félags, skal eigi tekin til greina. Nú hefur vefenging fyrir ráðherra verið borin fram á lögmætum tíma, en hann tekur hana eigi til greina, og er þá rétt að skjóta málinu til dómstóla, áður en sex mánuðir eru liðnir frá staðfestingu samþykktar.
@@ -298,8 +304,8 @@ h2. Lög um lax- og silungsveiði
 ■ *58. gr.* [Veiðimálastjóra er rétt með samþykki veiðimálanefndar að veita veiðifélagi undanþágu frá ákvæði 1. mgr. 31. gr. um hlið á girðingum, 1. mgr. 34. gr. um lengd fastra veiðivéla út í vatn og 4. mgr. 34. gr. um fjölda veiðitækja við garð og binda undanþágu þeim skilyrðum sem þurfa þykir.][^1)^]
     _[^1)^]_"L. 50/1998, 19. gr.":/altext/stjt/1998.050.html
  ■ *59. gr.* 1. Nú verða ábúendaskipti á jörð á félagssvæði, og er þá hinum nýja ábúanda skylt að gerast félagi og taka á sig skuldbindingar félagsmanns.
- □ 2. Eignir veiðifélags skulu teljast til jarða á félagssvæðinu í arðskrárhlutfalli. Ef ágreiningur verður vegna eignarhluta í veiðifélagi, sker mat úr, sbr. 94. gr.[^1)^]
-    _[^1)^]Nú_ "95. gr.":/altext/stjt/1998.050.html
+ □ 2. Eignir veiðifélags skulu teljast til jarða á félagssvæðinu í arðskrárhlutfalli. Ef ágreiningur verður vegna eignarhluta í veiðifélagi, sker mat úr, sbr. [101. gr.][^1)^]
+    _[^1)^]_"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html
  ■ *60. gr.* 1. Nú starfar veiðifélag við fiskihverfi, þar sem áður var engin veiði eða svo lítil, að hún var eigi talin í skýrslum um undanfarin 10 ár, og er þá félaginu rétt að gera samþykkt á lögmætum félagsfundi um fullnaðarfriðun fisks í því fiskihverfi eða friðun gegn allri veiði eða tilteknum veiðiaðferðum.
  □ 2. Samþykkt um friðun samkvæmt 1. mgr. gildir um 5 ár í senn, nema meiri hluti félagsmanna samþykki að breyta henni fyrr eða ráðherra mæli svo fyrir. Leita skal staðfestingar ráðherra á samþykkt samkvæmt 52. gr.
 ■ *61. gr.* 1. Nú vill veiðifélag með ráði og samþykki veiðimálastjóra auka friðun eða láta vikufriðun gilda aðra daga ofar í straumvatni en neðar, auka fjarlægð milli fastra veiðivéla frá því, sem í lögum er mælt, stytta hámarkslengd þeirra, draga úr veiðni veiðitækja, fækka þeim eða kveða á um meiri lágmarksstærð fisks, sem veiða má, og er það rétt, ef allir félagsmenn hverfa að einu ráði eða lögmætur félagsfundur samþykkir með [^2^]/3 atkvæða félagsmanna, enda fari um fundarboðun og atkvæðagreiðslu eins og mælt er í 49. gr. laga þessara, og fundarefnis sé getið í fundarboði.
@@ -308,12 +314,16 @@ h2. Lög um lax- og silungsveiði
 
  *IX. kafli.* *[Fiskeldi og hafbeit.]*[^1)^]
     _[^1)^]"L. 63/1994, 5. gr.":/altext/stjt/1994.063.html_
- ■ *62. gr.* 1. [Til fiskeldis og hafbeitar þarf leyfi [veiðimálastjóra][^1)^] að fenginni umsögn [veiðimálanefndar].[^1)^] [Veiðimálastjóri skal leita umsagnar Veiðimálastofnunar um fyrirhugaða hafbeit ef náttúrulegar aðstæður á svæðinu gefa tilefni til hættu á erfðablöndun.][^1)^]
- □ 2. Nú æskir maður þess að taka upp fiskeldi, þar á meðal kvíaeldi eða hafbeit á laxfiskum, og skal hann senda umsókn um rekstrarleyfi til veiðimálastjóra um það. Umsókn skulu fylgja skilríki um afnot lands, vatns og sjávar, svo og áætlun um rekstur og kostnaðaráætlun, auk heimildar til mannvirkjagerðar og starfsemi samkvæmt ákvæðum annarra laga er varða slíkan atvinnurekstur.
- □ 3. Er skilríkjum hefur verið skilað og mannvirkjagerð lokið skal veiðimálastjóri gera úttekt á stöðinni. Teljist frágangur fullnægjandi skal veiðimálastjóri mæla með staðfestingu rekstrarleyfis. [Veiðimálastjóri][^1)^] gefur síðan út rekstrarleyfi og öðlast starfsemin þar með réttindi skv. 66. gr. Í rekstrarleyfi skal tilgreina leyfilega árlega framleiðslu í kvía- og strandeldi og hámark sleppinga á seiðum í hafbeit. [Veiðimálastjóri][^1)^] getur heimilað aukningu í fjölda slepptra seiða í hafbeit að fenginni umsögn veiðimálanefndar ...[^1)^]
- □ 4. Ráðherra er rétt að setja skilyrði fyrir rekstrarleyfi í reglugerð. Hafbeitar- og eldisstöðvar í rekstri við gildistöku þessara laga skulu endurnýja rekstrarleyfi innan árs frá gildistöku þeirra.][^2)^]
- □ [5. Flutningur seiða í hafbeitarstöð er óheimill fyrr en fullgilt rekstrarleyfi er fengið. Veiðimálastjóri getur þó veitt undanþágu til flutnings á seiðum í hafbeitarstöð hafi stöðin fengið heimild til starfsemi samkvæmt ákvæðum annarra laga er varða slíkan atvinnurekstur.][^1)^]
-    _[^1)^]_"L. 50/1998, 21. gr.":/altext/stjt/1998.050.html [^2)^]"L. 63/1994, 5. gr.":/altext/stjt/1994.063.html
+ ■ *62. gr.* [1. Til fiskeldis og hafbeitar þarf rekstrarleyfi veiðimálastjóra að fenginni umsögn dýralæknis fisksjúkdóma, fisksjúkdómanefndar og veiðimálanefndar. Veiðimálastjóri skal einnig leita umsagnar Veiðimálastofnunar um hvort náttúrulegar aðstæður á fyrirhuguðu starfssvæði fiskeldis- eða hafbeitarstöðvar gefi tilefni til hættu á erfðablöndun og/eða neikvæðum vistfræðilegum áhrifum.
+ □ 2. Umsókn um rekstrarleyfi til fiskeldis eða hafbeitar skal vera skrifleg og skulu þar koma fram upplýsingar um m.a. eignaraðild að fiskeldis- eða hafbeitarstöð, fagþekkingu umsækjanda, stærð stöðvar, framleiðslumagn, eldistegundir, eldisaðferðir, matsskyldu framkvæmdar samkvæmt "lögum nr. 106/2000":2000106.html, um mat á umhverfisáhrifum, starfsleyfi samkvæmt "lögum nr. 7/1998":1998007.html, um hollustuhætti og mengunarvarnir, o.fl. Umsókn skulu fylgja skilríki um afnot lands, vatns og sjávar, áætlun um fjármögnun mannvirkja og annars búnaðar, rekstraráætlun, leyfi til mannvirkjagerðar, leyfi til starfsemi samkvæmt ákvæðum annarra laga sem varða slíkan atvinnurekstur svo og önnur gögn sem veiðimálastjóri óskar eftir að lögð verði fram.
+ □ 3. Við meðferð umsóknar um rekstrarleyfi til fiskeldis eða hafbeitar skal veiðimálastjóri leggja mat á sjúkdómstengda og vistfræðilega þætti sem kunna að fylgja starfsemi fiskeldis- eða hafbeitarstöðvar. Veiti fyrirliggjandi gögn ekki nægilegar upplýsingar til að leggja mat á þá getur veiðimálastjóri lagt fyrir umsækjanda að láta í té frekari upplýsingar áður en rekstrarleyfi er veitt, þar á meðal að framkvæma á eigin kostnað rannsóknir á hvort fyrirhuguð starfsemi fiskeldis- eða hafbeitarstöðvar feli í sér aukna hættu á fisksjúkdómum og/eða óæskilegri blöndun fiskstofna, svo sem merkingar á fiski, samantekt á veðurfars- og haffræðilegum upplýsingum, samantekt á öðrum hagsmunum í veiðimálum og fiskeldi á svæðinu, mat á stöðu fiskstofna í helstu ám á svæðinu og mat á fari laxfiska í nágrenni fyrirhugaðrar eldisstöðvar.
+ □ 4. Ef umsókn og önnur gögn eru fullnægjandi að mati veiðimálastjóra gefur hann út rekstrarleyfi til fimm ára. Í rekstrarleyfi skulu vera ákvæði um stærð fiskeldis- eða hafbeitarstöðvar, hvort um sé að ræða seiðaeldi, hafbeit, strandeldi, skiptieldi eða heilsárseldi, leyfilegar tegundir í eldi, leyfilegt framleiðslumagn, hámark sleppinga á seiðum í hafbeit og skyldu fiskeldis- eða hafbeitarstöðvar til að annast vöktun og rannsóknir á nánasta umhverfi sínu. Jafnframt skulu í rekstrarleyfi vera ákvæði um varúðarráðstafanir til að koma í veg fyrir að fiskur sleppi vegna eldis eða flutnings á fiski og áætlun um aðgerðir til að endurheimta fisk sem sleppur. Veiðimálastjóri getur ákveðið að gefa út rekstrarleyfi til skemmri tíma og/eða takmarka stærð eða framleiðslumagn fiskeldis- eða hafbeitarstöðvar og hámark sleppinga á seiðum í hafbeit. Einnig getur veiðimálastjóri bundið rekstrarleyfi tilteknum skilyrðum, m.a. um að leyfishafi framkvæmi á eigin kostnað rannsóknir á hvort starfsemi fiskeldis- eða hafbeitarstöðvar hafi í för með sér aukna hættu á fisksjúkdómum, sníkjudýrum og/eða óæskilegri blöndun fiskstofna, svo sem merkingar á fiski, samantekt á veðurfars- og haffræðilegum upplýsingum, samantekt á öðrum hagsmunum í veiðimálum og fiskeldi á svæðinu, mat á stöðu fiskstofna í helstu ám á svæðinu, mat á fari laxfiska í nágrenni fyrirhugaðrar eldisstöðvar, mat á fari eldisfiska með kerfisbundnum merkingum og sleppingum á eldisfiski, vöktun á nærliggjandi ám og vöktun á kynþroska og heilbrigði fiska í eldi. Óheimilt er að gefa út rekstrarleyfi fyrr en ákvörðun um matsskyldu eða úrskurður um mat á umhverfisáhrifum liggur fyrir, sbr. "lög nr. 106/2000":2000106.html, um mat á umhverfisáhrifum, eftir því sem við á. Ákvörðun um rekstrarleyfi skal vera í samræmi við úrskurð um mat á umhverfisáhrifum. Enn fremur er óheimilt að gefa út rekstrarleyfi fyrr en starfsleyfi liggur fyrir samkvæmt "lögum nr. 7/1998":1998007.html, um hollustuhætti og mengunarvarnir.
+ □ 5. Rekstrarleyfi tekur fyrst gildi þegar dýralæknir fisksjúkdóma og veiðimálastjóri hafa gert úttekt á fiskeldis- eða hafbeitarstöð.
+ □ 6. Ef breytingar verða á eldistegundum og/eða framleiðslumagni getur veiðimálastjóri fellt rekstrarleyfi úr gildi.
+ □ 7. Framsal, leiga og veðsetning á rekstrarleyfi til fiskeldis- eða hafbeitar er óheimil.
+ □ 8. Fiskeldis- og hafbeitarstöðvum er óheimilt að hefja starfsemi eða flytja eldisfisk eða seiði í fiskeldis- eða hafbeitarstöð fyrr en rekstrarleyfi er fengið.
+ □ 9. Veiðimálastjóri getur afturkallað rekstrarleyfi samkvæmt lögum þessum ef leyfishafi eða starfsmenn hans brjóta gegn ákvæðum laganna eða stjórnvaldsfyrirmælum sem sett eru á grundvelli þeirra, skilyrðum leyfis er ekki fullnægt, leyfishafi verður ófær um að reka fiskeldisstöð eða ef eldisfiskur sleppur ítrekað frá fiskeldisstöð. Brjóti leyfishafi gegn ákvæðum laga þessara eða hlíti ekki þeim skilyrðum sem sett eru í rekstrarleyfi skal veiðimálastjóri veita honum skriflega viðvörun og hæfilegan frest til úrbóta. Sinni leyfishafi ekki slíkri viðvörun skal afturkalla rekstrarleyfi. Sé um ásetning eða stórkostlegt gáleysi að ræða getur veiðimálastjóri afturkallað rekstrarleyfi án undanfarandi viðvörunar eða frests til úrbóta.][^1)^]
+    _[^1)^]_"L. 83/2001, 3. gr.":/altext/stjt/2001.083.html
  ■ *63. gr.* [Skylt er að láta af hendi við veiðifélag land eða landsafnot, vatn eða afnot vatns, er þarf til byggingar og starfsemi klakstöðvar eða klak- og eldisstöðvar, svo og þola þær eignarkvaðir, óhagræði og takmörkun á afnotarétti er bygging slíkra stöðva eða starfsemi kann að hafa í för með sér, enda komi fullar bætur fyrir eftir mati nema samkomulag verði.][^1)^]
     _[^1)^]_"L. 63/1994, 5. gr.":/altext/stjt/1994.063.html
  ■ *64. gr.* 1. [Nú er vatn tekið úr veiðivatni til afnota í eldisstöð og skal þá búa svo um vatnsleiðslur að eldistjörn og frá að fiskur gangi eigi úr veiðivatni í leiðslur. Umbúnaður slíkra vatnsleiðslna skal háður samþykki veiðimálastjóra.
@@ -333,84 +343,106 @@ h2. Lög um lax- og silungsveiði
     _[^1)^]_"L. 63/1994, 5. gr.":/altext/stjt/1994.063.html
  ■ *71. gr.* [Veiðimálastjóra er rétt að fenginni umsögn veiðimálanefndar að ákveða friðunarsvæði í sjó framan við frárennsli fiskeldis- og hafbeitarstöðva á sama hátt og kveðið er á um í 7. og 8. mgr. 14. gr.][^1)^]
     _[^1)^]_"L. 50/1998, 23. gr.":/altext/stjt/1998.050.html
- ■ *72. gr.* [Missi fiskeldisstöð með rekstrarleyfi út eldisfisk er henni heimil, þrátt fyrir friðun á villtum fiski á svæðinu, veiði innan 200 metra frá stöðinni, enda sé það utan netlaga og veiðimálastjóra hafi verið tilkynnt um það. Heimild þessi takmarkast við þrjá sólarhringa frá því að fiskur slapp út ef þetta gerist á göngutíma laxfiska og skal framkvæmd í samráði við fulltrúa veiðimálastjóra.][^1)^]
-    _[^1)^]_"L. 63/1994, 5. gr.":/altext/stjt/1994.063.html
+ ■ *72. gr.* [1. Fiskeldisstöð sem missir út eldisfisk er heimil, þrátt fyrir friðun á villtum fiski á svæðinu, veiði innan 200 metra frá stöðinni, enda sé það utan netlaga og veiðimálastjóra hafi verið tilkynnt um það. Heimild þessi takmarkast við þrjá sólarhringa frá því að fiskur slapp út ef þetta gerist á göngutíma laxfiska og skal framkvæmd í samráði við fulltrúa veiðimálastjóra.
+ □ 2. Ef fiskeldisstöð hefur ekki byrjað veiði skv. 1. mgr. innan 12 klukkustunda eftir að hún missir út eldisfisk getur veiðimálastjóri gefið út almenna heimild til veiði á svæðinu með sömu skilyrðum og fram koma í 1. mgr.
+ □ 3. Leyfishafa rekstrarleyfis er skylt að tilkynna embætti veiðimálastjóra ef fiskeldisstöð missir út eldisfisk.][^1)^]
+    _[^1)^]_"L. 83/2001, 4. gr.":/altext/stjt/2001.083.html
  ■ *73. gr.* [Fiskeldis-, hafbeitar- og kvíaeldisstöðvar hafi með sér samtök, Landssamband fiskeldis- og hafbeitarstöðva, sem gæti sameiginlegra hagsmuna fiskeldismanna.][^1)^]
     _[^1)^]_"L. 63/1994, 5. gr.":/altext/stjt/1994.063.html
+ ■ *[74. gr.* Ef fiskeldis- eða hafbeitarstöð hefur ekki hafið starfsemi að því marki sem gert var ráð fyrir í rekstraráætlun innan 12 mánaða frá útgáfu rekstrarleyfis er veiðimálastjóra heimilt að fella rekstrarleyfi úr gildi. Ef rekstraráætlun er ekki fylgt eftir þann tíma er veiðimálastjóra einnig heimilt að fella rekstrarleyfi úr gildi.][^1)^]
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
+ ■ *[75. gr.* 1. Kynbættan eldislax er eingöngu heimilt að nýta til fiskeldis og óheimilt er að sleppa honum í fiskrækt eða hafbeit. Veiðimálastjóri getur veitt rannsóknaraðila undanþágu til sleppitilrauna í smáum stíl að fenginni umsögn Veiðimálastofnunar.
+ □ 2. Flutningur eldistegunda sem ekki eru tilgreindar í rekstrarleyfi milli fiskeldis- og hafbeitarstöðva, svo og flutningur og sleppingar lifandi fisks og frjóvgaðra hrogna milli ótengdra vatnasvæða, er óheimill.
+ □ 3. Veiðimálastjóri getur veitt undanþágu til flutnings á eldistegundum sem ekki eru tilgreindar í rekstrarleyfi milli fiskeldis- og hafbeitarstöðva svo og til flutnings á lifandi fiski og frjóvguðum hrognum milli ótengdra vatnasvæða að fenginni umsögn dýralæknis fisksjúkdóma og fisksjúkdómanefndar. Veiðimálastjóri skal leita umsagnar Veiðimálastofnunar um hvort náttúrulegar aðstæður á fyrirhuguðu starfssvæði fiskeldis- eða hafbeitarstöðvar eða vatnasvæði gefa tilefni til aukinnar hættu á erfðablöndun og/eða neikvæðum vistfræðilegum áhrifum.][^1)^]
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
+ ■ *[76. gr.* Innflutningur á notuðum eldisbúnaði er óheimill.][^1)^]
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
+ ■ *[77. gr.* Landbúnaðarráðherra setur nánari reglur um framkvæmd þessa kafla með reglugerðum og öðrum stjórnvaldsreglum, m.a. um útgáfu rekstrarleyfa, örmerkingar á hluta af eða öllum laxaseiðum í kvíaeldi, fóðurnotkun, endurnýjun eldisbúnaðar, úttekt á fiskeldis- og hafbeitarstöðvum, eftirlit með starfsemi fiskeldis- og hafbeitarstöðva, flutning eldistegunda milli fiskeldis- og hafbeitarstöðva, flutning fisks og frjóvgaðra hrogna milli ótengdra vatnasvæða o.fl. Landbúnaðarráðherra getur einnig að fenginni umsögn dýralæknis fisksjúkdóma, veiðimálanefndar, veiðimálastjóra og Veiðimálastofnunar takmarkað eða bannað fiskeldi, hafbeit eða ákveðnar eldisaðferðir í einstaka fjörðum, flóum eða landsvæðum sem teljast sérlega viðkvæm gagnvart slíkri starfsemi.[^1)^] Til grundvallar ákvörðun ráðherra skal taka mið af því að markmið ákvæðisins er að vernda og hlífa villtum laxfiskastofnum við erfðablöndun, fisksjúkdómum og neikvæðum vistfræðiáhrifum. Skal þá m.a. litið til staðsetningar eldisstöðva, stærðar þeirra, fjarlægðar þeirra frá veiðiám og veiðiverðmæti innan svæðisins, þ.e. fjarðar eða flóa. Jafnframt skal litið til þess hvort svæði til fiskeldis séu staðsett í farleiðum lax og silungs og hvort straumar geti leitt sleppifisk í ár. Jafnframt skal landbúnaðarráðherra ákvarða svæðaskiptingu fiskeldis samkvæmt lögum þessum meðfram strönd landsins utan netlaga og heildarframleiðslu á hverju svæði.][^2)^]
+    _[^1)^]Augl. 226/2001_. [^2)^]"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
 
  *X. kafli.* *Um innflutning á lifandi fiski og hrognum.*
- ■ *[74. gr.][^1)^]* 1. Ráðherra fer með yfirstjórn fisksjúkdómamála. Honum til aðstoðar er fisksjúkdómanefnd, en í henni eiga sæti yfirdýralæknir, og sé hann formaður, veiðimálastjóri og forstöðumaður Tilraunastöðvar Háskólans í meinafræði að Keldum. Hún skal hafa forgöngu um fisksjúkdómarannsóknir og gera tillögur til ráðherra um aðferðir til varnar gegn útbreiðslu fisksjúkdóma, sem getur um í kafla þessum, og annað, er að fisksjúkdómum lýtur.
+ ■ *[78. gr.][^1)^]* 1. Ráðherra fer með yfirstjórn fisksjúkdómamála. Honum til aðstoðar er fisksjúkdómanefnd, en í henni eiga sæti yfirdýralæknir, og sé hann formaður, veiðimálastjóri og forstöðumaður Tilraunastöðvar Háskólans í meinafræði að Keldum. Hún skal hafa forgöngu um fisksjúkdómarannsóknir og gera tillögur til ráðherra um aðferðir til varnar gegn útbreiðslu fisksjúkdóma, sem getur um í kafla þessum, og annað, er að fisksjúkdómum lýtur.
  □ 2. [Deildarstjóri Rannsóknadeildar fisksjúkdóma og dýralæknir fisksjúkdóma skulu vera fisksjúkdómanefnd til aðstoðar og ráðuneytis.][^2)^]
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html [^2)^]"L. 50/1986, 17. gr.":1986050.html#g17
- ■ *[75. gr.][^1)^]* Bannað er að flytja til landsins lifandi laxfisk eða annan fisk, er lifir í ósöltu vatni. Ráðherra er rétt að leyfa innflutning lifandi hrogna slíkra fiska, enda mæli fisksjúkdómanefnd með því og telji eigi hættu á, að sjúkdómar flytjist til landsins með slíkum hrognum, og þeim fylgi heilbrigðisvottorð frá viðkomandi yfirvöldum.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
- ■ *[76. gr.][^1)^]* Eigi má flytja til landsins lifandi skrautfiska né hrogn þeirra. Rétt er ráðherra að leyfa tilteknum aðilum slíkan innflutning, enda samþykki fisksjúkdómanefnd það hverju sinni og sé fyrir hendi heilbrigðisvottorð, sem hún metur gilt.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
- ■ *[77. gr.][^1)^]* 1. Sótthreinsa skal hrogn, ílát og umbúðir um hrogn eða skrautfiska, sem flutt eru til landsins samkvæmt [75. og 76. gr.],[^1)^] baða skrautfiska úr lyfjablöndu, ef ástæða þykir til, svo og hafa hrogn og fisk í sóttkví, ef nauðsynlegt þykir. Fisksjúkdómanefnd gefur fyrirmæli um sótthreinsun og sóttkví og hefur eftirlit með henni.
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html [^2)^]"L. 50/1986, 17. gr.":1986050.html#g17
+ ■ *[79. gr.][^1)^]* Bannað er að flytja til landsins lifandi laxfisk eða annan fisk, er lifir í ósöltu vatni. Ráðherra er rétt að leyfa innflutning lifandi hrogna slíkra fiska, enda mæli fisksjúkdómanefnd með því og telji eigi hættu á, að sjúkdómar flytjist til landsins með slíkum hrognum, og þeim fylgi heilbrigðisvottorð frá viðkomandi yfirvöldum.
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
+ ■ *[80. gr.][^1)^]* Eigi má flytja til landsins lifandi skrautfiska né hrogn þeirra. Rétt er ráðherra að leyfa tilteknum aðilum slíkan innflutning, enda samþykki fisksjúkdómanefnd það hverju sinni og sé fyrir hendi heilbrigðisvottorð, sem hún metur gilt.
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
+ ■ *[81. gr.][^1)^]* 1. Sótthreinsa skal hrogn, ílát og umbúðir um hrogn eða skrautfiska, sem flutt eru til landsins samkvæmt [79. og 80. gr.],[^2)^] baða skrautfiska úr lyfjablöndu, ef ástæða þykir til, svo og hafa hrogn og fisk í sóttkví, ef nauðsynlegt þykir. Fisksjúkdómanefnd gefur fyrirmæli um sótthreinsun og sóttkví og hefur eftirlit með henni.
  □ 2. Nú er fiskur fluttur milli landa með viðkomu á Íslandi, og skal sá flutningur háður fyrirmælum yfirdýralæknis.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
- ■ *[78. gr.][^1)^]* Fisksjúkdómanefnd er rétt, ef ástæða þykir til, að fyrirskipa sótthreinsun veiðitækja og veiðibúnaðar, sem notaður hefur verið erlendis, áður en leyfilegt sé að flytja hann inn í landið, enda sé vottorð eigi lagt fram um, að veiðitæki og veiðibúnaður hafi verið sótthreinsaður erlendis. Enn fremur er nefndinni rétt að banna, ef ástæða þykir til, innflutning á dauðum vatnafiski, ferskum eða frystum.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
- ■ *[79. gr.][^1)^]* Nú kemur upp næmur sjúkdómur í veiðivatni eða í klak- og eldisstöð eða grunsamlegt þykir, að næmur sjúkdómur leynist í fiski á slíkum stöðum, og er ráðherra rétt að fengnum tillögum fisksjúkdómanefndar að gera hvers konar ráðstafanir, sem taldar eru nauðsynlegar til að hefta útbreiðslu sjúkdómsins.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
- ■ *[80. gr.][^1)^]* Ráðherra er rétt eftir tillögum fisksjúkdómanefndar að setja reglur[^2)^] um heilbrigðiseftirlit í klak- og eldisstöðvum, um töku sýnishorna, um sóttvarnaraðgerðir og um kostnað af nauðsynlegum ráðstöfunum, svo og kveða nánar á um önnur ákvæði þessa kafla, eftir því sem þurfa þykir.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html [^2)^]Rg. 403/1986, sbr. 597/1989 (um varnir gegn fisksjúkdómum og heilbrigðiseftirlit með fiskeldisstöðvum). Rg. 105/2000 (um flutning og sleppingar laxfiska o.fl.).
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html [^2)^]"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html
+ ■ *[82. gr.][^1)^]* Fisksjúkdómanefnd er rétt, ef ástæða þykir til, að fyrirskipa sótthreinsun veiðitækja og veiðibúnaðar, sem notaður hefur verið erlendis, áður en leyfilegt sé að flytja hann inn í landið, enda sé vottorð eigi lagt fram um, að veiðitæki og veiðibúnaður hafi verið sótthreinsaður erlendis. Enn fremur er nefndinni rétt að banna, ef ástæða þykir til, innflutning á dauðum vatnafiski, ferskum eða frystum.
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
+ ■ *[83. gr.][^1)^]* Nú kemur upp næmur sjúkdómur í veiðivatni eða í klak- og eldisstöð eða grunsamlegt þykir, að næmur sjúkdómur leynist í fiski á slíkum stöðum, og er ráðherra rétt að fengnum tillögum fisksjúkdómanefndar að gera hvers konar ráðstafanir, sem taldar eru nauðsynlegar til að hefta útbreiðslu sjúkdómsins.
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
+ ■ *[84. gr.][^1)^]* Ráðherra er rétt eftir tillögum fisksjúkdómanefndar að setja reglur[^2)^] um heilbrigðiseftirlit í klak- og eldisstöðvum, um töku sýnishorna, um sóttvarnaraðgerðir og um kostnað af nauðsynlegum ráðstöfunum, svo og kveða nánar á um önnur ákvæði þessa kafla, eftir því sem þurfa þykir.
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html [^2)^]"Rg. 403/1986":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/403-1986, sbr. "597/1989 (um varnir gegn fisksjúkdómum og heilbrigðiseftirlit":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/597-1989 með "fiskeldisstöðvum). Rg. 105/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/105-2000 (um flutning og sleppingar laxfiska o.fl.).
 
  *XI. kafli.* *Um álaveiðar.*
- ■ *[81. gr.][^1)^]* Ráðherra er rétt að setja reglur um álaveiðar að fengnum tillögum veiðimálastjóra og veiðimálanefndar. Í reglum þessum má mæla fyrir um gerð veiðitækja og veiðitíma, og skal þess gætt, að lax og silungur veiðist eigi í blóra við ál.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
+ ■ *[85. gr.][^1)^]* Ráðherra er rétt að setja reglur um álaveiðar að fengnum tillögum veiðimálastjóra og veiðimálanefndar. Í reglum þessum má mæla fyrir um gerð veiðitækja og veiðitíma, og skal þess gætt, að lax og silungur veiðist eigi í blóra við ál.
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
 
  *XII. kafli.* *Um ófriðun sels.*
- ■ *[82. gr.][^1)^]* Rétt er að skjóta eða styggja sel í veiðivatni og í ósi þess eða ósasvæði, enda sé eigi öðruvísi mælt í lögum.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
- ■ *[83. gr.][^1)^]* 1. Nú eru friðlýst eða arðgæf selalátur eða selalagnir í veiðivatni eða nær ósi vatns, er lax eða göngusilungur fer um, en 7 km, og getur þá ráðherra ófriðað þau eftir tillögum veiðimálanefndar og veiðimálastjóra, enda sýni mat, að arður af laxveiði eða göngusilungi í ánni sé meiri en arður af selveiði.
+ ■ *[86. gr.][^1)^]* Rétt er að skjóta eða styggja sel í veiðivatni og í ósi þess eða ósasvæði, enda sé eigi öðruvísi mælt í lögum.
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
+ ■ *[87. gr.][^1)^]* 1. Nú eru friðlýst eða arðgæf selalátur eða selalagnir í veiðivatni eða nær ósi vatns, er lax eða göngusilungur fer um, en 7 km, og getur þá ráðherra ófriðað þau eftir tillögum veiðimálanefndar og veiðimálastjóra, enda sýni mat, að arður af laxveiði eða göngusilungi í ánni sé meiri en arður af selveiði.
  □ 2. Nú eru friðlýst eða arðgæf selalátur eða selalagnir í veiðivatni eða svo nærri ósi vatns sem segir í 1. mgr., en lax- og silungsveiði í vatninu er metin minna virði en selveiðin, og er ráðherra rétt eftir tillögum veiðimálastjóra að ófriða þau, enda hafi fiskrækt verið stunduð við vatnið svo lengi og með þeim árangri, að mat þyki sýna, að laxveiði eða göngusilungs í vatninu verði arðsamari en selveiðin.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
- ■ *[84. gr.][^1)^]* 1. Fyrir missi selveiðinytja þeirra, er getur í [83. gr.],[^1)^] skulu koma fullar bætur.
- □ 2. Bætur greiða eigendur laxveiði eða göngusilungs í því fiskihverfi, er í hlut á. Skulu þær vera árgjald, sbr. þó 3. mgr. Bætur skulu ákveðnar með mati, ef eigi semur, og greiða veiðieigendur þær í arðskrárhlutfalli. Sýslumaður jafnar niður gjaldi og innheimtir ...[^2)^] Fylgir því lögtaksréttur. Nú er veiðiréttur leigður samkvæmt 2. gr., og greiðir þá leigutaki bætur í stað leigusala.
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html
+ ■ *[88. gr.][^1)^]* 1. Fyrir missi selveiðinytja þeirra, er getur í [87. gr.],[^2)^] skulu koma fullar bætur.
+ □ 2. Bætur greiða eigendur laxveiði eða göngusilungs í því fiskihverfi, er í hlut á. Skulu þær vera árgjald, sbr. þó 3. mgr. Bætur skulu ákveðnar með mati, ef eigi semur, og greiða veiðieigendur þær í arðskrárhlutfalli. Sýslumaður jafnar niður gjaldi og innheimtir ...[^3)^] Fylgir því lögtaksréttur. Nú er veiðiréttur leigður samkvæmt 2. gr., og greiðir þá leigutaki bætur í stað leigusala.
  □ 3. Nú eykst eftir ófriðun sels lax- eða göngusilungsveiði jarðar, er bætur hlýtur samkvæmt 2. mgr., og skal sá hagsauki þá dreginn frá bótum, enda krefjist mats einhver, sem bætur skal greiða. Nú sýnir mat, að arður af lax- eða silungsveiði jarðar hefur aukist sem nemur arði af selveiði, og skulu bætur fyrir hana niður falla.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html [^2)^]"L. 92/1991, 56. gr.":/altext/stjt/1991.092.html
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html [^2)^]"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html [^3)^]"L. 92/1991, 56. gr.":/altext/stjt/1991.092.html
 
  *XIII. kafli.* *[Stjórn veiðimála, Veiðimálastofnun og eftirlit.]*[^1)^]
     _[^1)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html_
- ■ *[85. gr.* 1. Landbúnaðarráðherra hefur yfirstjórn allra veiðimála.
- □ 2. Til aðstoðar ráðherra um stjórn veiðimála eru veiðimálanefnd og veiðimálastjóri.][^1)^]
-    _[^1)^]_"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
- ■ *[86. gr.* 1. [Ráðherra skipar veiðimálastjóra til fimm ára í senn.][^1)^] Veiðimálastjóri skal hafa lokið háskólaprófi í raunvísindum og vera sérmenntaður í vatnalíffræði eða fiskifræði vatnafiska:
-    a. [hann fer með stjórn veiðimála og er ráðherra til aðstoðar um þau mál eins og kveðið er á um í lögum þessum],[^2)^]
+ ■ *[[89. gr.][^1)^]* [1. Landbúnaðarráðherra hefur yfirstjórn allra fiskeldis- og veiðimála samkvæmt lögum þessum.
+ □ 2. Til aðstoðar landbúnaðarráðherra um stjórn fiskeldis- og veiðimála eru fiskeldisnefnd, veiðimálanefnd og veiðimálastjóri.][^2)^]][^3)^]
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html [^2)^]"L. 83/2001, 6. gr.":/altext/stjt/2001.083.html [^3)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
+ ■ *[[90. gr.][^1)^]* 1. [Ráðherra skipar veiðimálastjóra til fimm ára í senn.][^2)^] Veiðimálastjóri skal hafa lokið háskólaprófi í raunvísindum og vera sérmenntaður í vatnalíffræði eða fiskifræði vatnafiska:
+    a. [hann fer með stjórn veiðimála og er ráðherra til aðstoðar um þau mál eins og kveðið er á um í lögum þessum],[^3)^]
     b. hann annast þau verkefni sem honum eru sérstaklega falin í lögum þessum,
     c. hann gerir tillögur um setningu reglugerða og önnur ákvæði sem sett eru samkvæmt lögum um friðun, fiskrækt, fiskeldi eða veiði,
-    d. [hann gefur leyfi til merkinga vatnafiska með skilyrðum sem hann setur],[^2)^]
-    e. [hann ber ábyrgð á söfnun skýrslna um veiði, fiskrækt og fiskeldi; hann má fela öðrum aðila söfnun og úrvinnslu gagna],[^2)^]
-    f. [hann skipar veiðieftirlitsmenn].[^2)^]
- □ 2. [Ríkið rekur rannsókna- og ráðgjafarstofnun í veiðimálum er nefnist Veiðimálastofnun. Ráðherra skipar framkvæmdastjóra stofnunarinnar til fimm ára í senn, að fenginni umsögn stjórnar Veiðimálastofnunar. Framkvæmdastjóri skal hafa viðhlítandi háskólamenntun og þekkingu á starfseminni. Hann hefur á hendi daglega stjórn stofnunarinnar og ber ábyrgð á framkvæmd mótaðrar stefnu og fjárhagsafkomu. Hann ræður annað starfsfólk.][^3)^] Ráðherra er rétt að setja reglugerð um verkefni og stjórn stofnunarinnar.
+    d. [hann gefur leyfi til merkinga vatnafiska með skilyrðum sem hann setur],[^3)^]
+    e. [hann ber ábyrgð á söfnun skýrslna um veiði, fiskrækt og fiskeldi; hann má fela öðrum aðila söfnun og úrvinnslu gagna],[^3)^]
+    f. [hann skipar veiðieftirlitsmenn].[^3)^]
+ □ 2. [Ríkið rekur rannsókna- og ráðgjafarstofnun í veiðimálum er nefnist Veiðimálastofnun. Ráðherra skipar framkvæmdastjóra stofnunarinnar til fimm ára í senn, að fenginni umsögn stjórnar Veiðimálastofnunar. Framkvæmdastjóri skal hafa viðhlítandi háskólamenntun og þekkingu á starfseminni. Hann hefur á hendi daglega stjórn stofnunarinnar og ber ábyrgð á framkvæmd mótaðrar stefnu og fjárhagsafkomu. Hann ræður annað starfsfólk.][^4)^] Ráðherra er rétt að setja reglugerð um verkefni og stjórn stofnunarinnar.
     Hlutverk Veiðimálastofnunar er:
     a. að annast verkefni sem miða að því að auka fiskigengd í ám og vötnum og bæta nýtingu þeirra,
     b. að annast rannsóknir á ám og vötnum og á vatnafiskum, í fiskrækt, fiskeldi og hafbeit,
     c. að annast þróunarstarf og leiðbeiningar í veiðimálum,
     d. að annast rannsókn á einstökum veiðivötnum fyrir eigendur þeirra og veiðifélög enda greiði þessir aðilar kostnað af verkinu, sbr. 3. mgr. þessarar greinar.
- □ 3. Veiðimálastofnun er heimilt að taka að sér rannsóknir og önnur verkefni á starfssviði sínu fyrir einstaklinga, félög og stofnanir gegn endurgjaldi.][^4)^]
-    _[^1)^]_"L. 83/1997, 81. gr.":/altext/stjt/1997.083.html [^2)^]"L. 50/1998, 24. gr.":/altext/stjt/1998.050.html [^3)^]"L. 24/1997, 1. gr.":/altext/stjt/1997.024.html [^4)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
- ■ *[87. gr.* 1. Veiðimálastofnun er heimilt að starfrækja deildir á landsbyggðinni samkvæmt ákvörðun ráðherra að fengnum tillögum stjórnar Veiðimálastofnunar ...[^1)^]
- □ 2. Heimilt er að starfrækja rannsóknastöð í fiskeldi og hafbeit í tengslum við Veiðimálastofnun. Stöðin er rannsóknavettvangur fyrir klak og eldi laxfiska, kynbætur og hafbeit. Ráðherra er heimilt að setja reglur um verkefni og skipa fag- og stjórnarnefnd fyrir stöðina en [framkvæmdastjóri Veiðimálastofnunar][^1)^] skal hafa umsjón með hlutdeild ríkisins í henni.][^2)^]
-    _[^1)^]_"L. 50/1998, 25. gr.":/altext/stjt/1998.050.html [^2)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
- ■ *[88. gr.* 1. Stjórn Veiðimálastofnunar skal skipuð fimm mönnum sem ráðherra skipar til fjögurra ára í senn, einn án tilnefningar, einn samkvæmt tilnefningu Landssambands fiskeldis- og hafbeitarstöðva, einn samkvæmt tilnefningu Landssambands stangaveiðifélaga, einn samkvæmt tilnefningu Landssambands veiðifélaga og einn samkvæmt tilnefningu [Bændasamtaka Íslands].[^1)^] Ráðherra skipar formann. Varamenn skal skipa með sama hætti.
- □ 2. Stjórn Veiðimálastofnunar hefur á hendi yfirstjórn stofnunarinnar og deilda hennar og markar meginatriði um stefnu og starf hennar. Stjórnin gerir tillögur til ráðherra um starfs- og fjárhagsáætlun og staðfestir reikninga stofnunarinnar að loknu ársuppgjöri.][^2)^]
-    _[^1)^]_"L. 73/1996, 12. gr.":/altext/stjt/1996.073.html [^2)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
- ■ *[89. gr.* 1. Í veiðimálanefnd eiga sæti fimm menn. Ráðherra skipar nefndina til fjögurra ára í senn, einn án tilnefningar, einn samkvæmt tilnefningu Landssambands fiskeldis- og hafbeitarstöðva, einn samkvæmt tilnefningu Landssambands stangaveiðifélaga og tvo samkvæmt tilnefningu Landssambands veiðifélaga. Ráðherra skipar formann nefndarinnar. Nú tilnefnir einhver framangreindra aðila eigi mann í veiðimálanefnd og skipar þá ráðherra í nefndina í hans stað. Varamenn skal skipa með sama hætti og aðalmenn.
- □ 2. Veiðimálanefnd er ráðherra til aðstoðar um veiðimál og fer með þau mál sem henni eru falin í lögum þessum. Umsagnar veiðimálanefndar skal leita um setningu reglugerða um veiðimál.][^1)^]
-    _[^1)^]_"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
- ■ *[90. gr.* Öll veiðifélög samkvæmt ákvæðum VIII. kafla laga þessara hafa með sér landssamtök, Landssamband veiðifélaga, sem gætir sameiginlegra hagsmuna þeirra.][^1)^]
-    _[^1)^]_"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
- ■ *[91. gr.* 1. [Veiðimálastjóri][^1)^] skipar eftirlitsmenn með veiði þar sem þurfa þykir enda æski þess veiðifélag, eigendur eða notendur veiði og greiði kostnað af eftirlitinu. ...[^1)^] Á sama hátt skipar [veiðimálastjóri][^1)^] eftirlitsmann með klaköflun þar sem þurfa þykir og greiðir viðkomandi klakleyfishafi kostnað sem af þessu leiðir.
- □ 2. Rétt er [veiðimálastjóra][^1)^] að skipa eftirlitsmenn með því að bann við laxveiðum í sjó sé virt. [Kostnaður við störf þeirra greiðist úr ríkissjóði.][^1)^]
+ □ 3. Veiðimálastofnun er heimilt að taka að sér rannsóknir og önnur verkefni á starfssviði sínu fyrir einstaklinga, félög og stofnanir gegn endurgjaldi.][^5)^]
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html [^2)^]"L. 83/1997, 81. gr.":/altext/stjt/1997.083.html [^3)^]"L. 50/1998, 24. gr.":/altext/stjt/1998.050.html [^4)^]"L. 24/1997, 1. gr.":/altext/stjt/1997.024.html [^5)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
+ ■ *[[91. gr.][^1)^]* 1. Veiðimálastofnun er heimilt að starfrækja deildir á landsbyggðinni samkvæmt ákvörðun ráðherra að fengnum tillögum stjórnar Veiðimálastofnunar ...[^2)^]
+ □ 2. Heimilt er að starfrækja rannsóknastöð í fiskeldi og hafbeit í tengslum við Veiðimálastofnun. Stöðin er rannsóknavettvangur fyrir klak og eldi laxfiska, kynbætur og hafbeit. Ráðherra er heimilt að setja reglur um verkefni og skipa fag- og stjórnarnefnd fyrir stöðina en [framkvæmdastjóri Veiðimálastofnunar][^2)^] skal hafa umsjón með hlutdeild ríkisins í henni.][^3)^]
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html [^2)^]"L. 50/1998, 25. gr.":/altext/stjt/1998.050.html [^3)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
+ ■ *[[92. gr.][^1)^]* 1. Stjórn Veiðimálastofnunar skal skipuð fimm mönnum sem ráðherra skipar til fjögurra ára í senn, einn án tilnefningar, einn samkvæmt tilnefningu Landssambands fiskeldis- og hafbeitarstöðva, einn samkvæmt tilnefningu Landssambands stangaveiðifélaga, einn samkvæmt tilnefningu Landssambands veiðifélaga og einn samkvæmt tilnefningu [Bændasamtaka Íslands].[^2)^] Ráðherra skipar formann. Varamenn skal skipa með sama hætti.
+ □ 2. Stjórn Veiðimálastofnunar hefur á hendi yfirstjórn stofnunarinnar og deilda hennar og markar meginatriði um stefnu og starf hennar. Stjórnin gerir tillögur til ráðherra um starfs- og fjárhagsáætlun og staðfestir reikninga stofnunarinnar að loknu ársuppgjöri.][^3)^]
+    _[^1)^]_"L. 83/2001, 5. gr.":/altext/stjt/2001.083.html [^2)^]"L. 73/1996, 12. gr.":/altext/stjt/1996.073.html [^3)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
+ ■ *[93. gr.* 1. Í fiskeldisnefnd eiga sæti fjórir menn. Landbúnaðarráðherra skipar nefndina til fjögurra ára í senn, einn án tilnefningar, einn samkvæmt tilnefningu sjávarútvegsráðherra, einn samkvæmt tilnefningu Hafrannsóknastofnunarinnar og einn samkvæmt tilnefningu Veiðimálastofnunar. Ráðherra skipar formann nefndarinnar. Varamenn skal skipa með sama hætti og aðalmenn.
+ □ 2. Fiskeldisnefnd skal vera til ráðgjafar og stefnumótunar um fiskeldi bæði á landi og í sjó og fara með þau mál sem henni eru falin samkvæmt lögum.][^1)^]
+    _[^1)^]_"L. 83/2001, 7. gr.":/altext/stjt/2001.083.html
+ ■ *[[94. gr.][^1)^]* [1. Í veiðimálanefnd eiga sæti sex menn. Ráðherra skipar nefndina til fjögurra ára í senn, einn án tilnefningar, tvo samkvæmt tilnefningu Landssambands fiskeldis- og hafbeitarstöðva, einn samkvæmt tilnefningu Landssambands stangaveiðifélaga og tvo samkvæmt tilnefningu Landssambands veiðifélaga. Ráðherra skipar formann nefndarinnar og skal atkvæði hans ráða úrslitum ef atkvæði falla jöfn. Nú tilnefnir einhver framangreindra aðila eigi mann í veiðimálanefnd og skipar þá ráðherra í nefndina í hans stað. Varamenn skal skipa með sama hætti.][^2)^]
+ □ 2. Veiðimálanefnd er ráðherra til aðstoðar um veiðimál og fer með þau mál sem henni eru falin í lögum þessum. Umsagnar veiðimálanefndar skal leita um setningu reglugerða um veiðimál.][^3)^]
+    _[^1)^]_"L. 83/2001, 7. gr.":/altext/stjt/2001.083.html [^2)^]"L. 83/2001, 8. gr.":/altext/stjt/2001.083.html [^3)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
+ ■ *[[95. gr.][^1)^]* Öll veiðifélög samkvæmt ákvæðum VIII. kafla laga þessara hafa með sér landssamtök, Landssamband veiðifélaga, sem gætir sameiginlegra hagsmuna þeirra.][^2)^]
+    _[^1)^]_"L. 83/2001, 7. gr.":/altext/stjt/2001.083.html [^2)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
+ ■ *[[96. gr.][^1)^]* 1. [Veiðimálastjóri][^2)^] skipar eftirlitsmenn með veiði þar sem þurfa þykir enda æski þess veiðifélag, eigendur eða notendur veiði og greiði kostnað af eftirlitinu. ...[^2)^] Á sama hátt skipar [veiðimálastjóri][^2)^] eftirlitsmann með klaköflun þar sem þurfa þykir og greiðir viðkomandi klakleyfishafi kostnað sem af þessu leiðir.
+ □ 2. Rétt er [veiðimálastjóra][^2)^] að skipa eftirlitsmenn með því að bann við laxveiðum í sjó sé virt. [Kostnaður við störf þeirra greiðist úr ríkissjóði.][^2)^]
  □ 3. Eftirlitsmenn skulu hafa nákvæmar gætur á því að veiði í umdæmi þeirra sé stunduð með löglegum hætti. Þeir safna skýrslum, m.a. skulu þeir gera skrár um veiðivélar, lagnir og drætti í umdæmum sínum og sjá um merkingu veiðarfæra. Nánari fyrirmæli um starfsemi eftirlitsmanna setur veiðimálastjóri í erindisbréfi.
  □ 4. Veiðimálastjóri gefur út skírteini handa eftirlitsmönnum.
- □ 5. Eftirlitsmenn skulu eiga frjálsa för um veiðivatn, meðfram því og um netlög í sjó eftir því sem þörf krefur. Þeir hafa vald til að taka upp ólögleg veiðitæki eða veiðitæki sem notuð eru á óleyfilegum tíma eða óleyfilegum stað.][^2)^]
-    _[^1)^]_"L. 50/1998, 26. gr.":/altext/stjt/1998.050.html [^2)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
+ □ 5. Eftirlitsmenn skulu eiga frjálsa för um veiðivatn, meðfram því og um netlög í sjó eftir því sem þörf krefur. Þeir hafa vald til að taka upp ólögleg veiðitæki eða veiðitæki sem notuð eru á óleyfilegum tíma eða óleyfilegum stað.][^3)^]
+    _[^1)^]_"L. 83/2001, 7. gr.":/altext/stjt/2001.083.html [^2)^]"L. 50/1998, 26. gr.":/altext/stjt/1998.050.html [^3)^]"L. 63/1994, 6. gr.":/altext/stjt/1994.063.html
+ ■ *[97. gr.* 1. Veiðimálastjóri skal hafa eftirlit með fiskeldis- og hafbeitarstöðvum samkvæmt lögum þessum. Eftirlitið skal ná til rekstrarlegra og fiskeldislegra þátta í starfsemi stöðvanna og að skilyrði í rekstrarleyfi séu haldin. Skulu fiskeldis- og hafbeitarstöðvar færa dagbók varðandi starfsemina samkvæmt reglugerð sem landbúnaðarráðherra setur. Eftirlitsaðilum skal ætíð vera heimill aðgangur að eldisstöð og dagbók hennar. Forsvarsmönnum fiskeldis- og hafbeitarstöðva er skylt að veita veiðimálastjóra og eftirlitsaðilum hans allar þær upplýsingar og þá aðstoð sem nauðsynleg er við framkvæmd eftirlits og skoðunar.
+ □ 2. Veiðimálastjóra er heimilt að fela aðilum sem hlotið hafa faggildingu samkvæmt "lögum nr. 100/1992":1992100.html, um vog, mál og faggildingu, að annast framkvæmd eftirlitsins samkvæmt sérstökum samningi. Eftirlitið skal framkvæmt á vegum veiðimálastjóra og eftir þeim reglum sem hann setur.
+ □ 3. Veiðimálastjóri skal fylgjast með starfi faggiltra eftirlitsaðila og sannreyna að þeir ræki skyldur sínar á fullnægjandi hátt, enda skulu þeir veita veiðimálastjóra upplýsingar um starfsemi og ástand fiskeldis- og hafbeitarstöðva á þann hátt sem hann ákveður. Veiðimálastjóri og faggiltir eftirlitsaðilar skulu bundnir þagnarskyldu um upplýsingar sem þeir fá við framkvæmd eftirlits.
+ □ 4. Verði misbrestur á að faggiltir eftirlitsaðilar ræki skyldur sínar samkvæmt samningi, vanræki þeir upplýsingaskyldu sína eða gefi rangar upplýsingar getur veiðimálastjóri sagt upp samningi við þá um framkvæmd eftirlits.
+ □ 5. Fyrir eftirlit veiðimálastjóra eða faggiltra eftirlitsaðila skulu fiskeldis- og hafbeitarstöðvar greiða árlegt eftirlitsgjald sem miðast við raunkostnað við eftirlitið samkvæmt gjaldskrá sem landbúnaðarráðherra staðfestir.
+ □ 6. Eftirlitsgjald skal innheimt með einni greiðslu á ári eigi síðar en 1. nóvember ár hvert. Veiðimálastjóri skal annast innheimtu eftirlitsgjaldsins. Ef eftirlitsgjald er ekki greitt á eindaga reiknast hæstu lögleyfðir dráttarvextir af fjárhæð þess frá gjalddaga til greiðsludags. Eftirlitsgjald má innheimta með fjárnámi.][^1)^]
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html
 
  *XIV. kafli.* *Um Fiskræktarsjóð og styrkveitingar til fiskræktar.*
- ■ *[92. gr.][^1)^]* 1. Stofna skal sjóð, er nefnist Fiskræktarsjóður, til stuðnings fiskrækt og fiskeldi í landinu. Tekjur sjóðsins eru:
+ ■ *[98. gr.][^1)^]* 1. Stofna skal sjóð, er nefnist Fiskræktarsjóður, til stuðnings fiskrækt og fiskeldi í landinu. Tekjur sjóðsins eru:
     a. Fjárveiting úr ríkissjóði.
     b. Gjald af skírum veiðitekjum, 2%, er innheimtist af veiðifélögum.
     c. Tekjuafgangur fiskeldisstöðva ríkisins, eftir ákvörðun ráðherra.
@@ -419,32 +451,32 @@ h2. Lög um lax- og silungsveiði
     [f. 3‰ af óskírum tekjum vatnsaflsstöðva í landinu vegna sölu á raforku samkvæmt sérsamningum til nýrra stórnotenda.][^2)^]
  □ 2. [Með stjórn Fiskræktarsjóðs fer veiðimálanefnd. Ákvarðanir um styrki og lán úr sjóðnum skulu háðar samþykki ráðherra.][^2)^]
  □ [3. Ráðherra setur í reglugerð nánari ákvæði um gjaldskyldu, innheimtu, útreikning, gjalddaga, lögvernd, álagningu gjalda samkvæmt áætlun og annað sem lýtur að framkvæmd á innheimtu gjaldanna.][^3)^]
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html [^2)^]"L. 50/1998, 27. gr.":/altext/stjt/1998.050.html [^3)^]"L. 38/1992, 1. gr.":/altext/stjt/1992.038.html
- ■ *[93. gr.][^1)^]* 1. [Heimilt er að veita lán og styrki úr Fiskræktarsjóði til mannvirkjagerðar er lýtur að fiskrækt eða fiskeldi enda samþykki veiðimálastjóri tilhögun framkvæmda, þær séu gerðar undir eftirliti hans og hann mæli með styrkveitingu. Enn fremur er heimilt að veita úr Fiskræktarsjóði lán eða styrki til annarra verkefna sem stuðla að aukningu og viðhaldi íslenskra laxfiska. Ráðherra setur með reglugerð nánari ákvæði um ráðstöfun fjár úr Fiskræktarsjóði.][^2)^]
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html [^2)^]"L. 50/1998, 27. gr.":/altext/stjt/1998.050.html [^3)^]"L. 38/1992, 1. gr.":/altext/stjt/1992.038.html
+ ■ *[99. gr.][^1)^]* 1. [Heimilt er að veita lán og styrki úr Fiskræktarsjóði til mannvirkjagerðar er lýtur að fiskrækt eða fiskeldi enda samþykki veiðimálastjóri tilhögun framkvæmda, þær séu gerðar undir eftirliti hans og hann mæli með styrkveitingu. Enn fremur er heimilt að veita úr Fiskræktarsjóði lán eða styrki til annarra verkefna sem stuðla að aukningu og viðhaldi íslenskra laxfiska. Ráðherra setur með reglugerð nánari ákvæði um ráðstöfun fjár úr Fiskræktarsjóði.][^2)^]
  □ 2. Þessar framkvæmdir njóta styrks, er nemi allt að [^1^]/3 af áætluðum kostnaði:
     1. Fiskvegir og önnur meiri háttar mannvirki, er stefna að því að auka fiskför um vatn.
     2. Klakhús og eldisstöðvar.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html [^2)^]Sjá nú "l. 68/1997":1997068.html.
- ■ *[94. gr.][^1)^]* Veita skal lán úr Stofnlánadeild landbúnaðarins samkvæmt "lögum nr. 75 27. apríl 1962":/altext/stjtnr.html#1962075,[^2)^] um Stofnlánadeild landbúnaðarins, landnám, ræktun og byggingar í sveitum, til framkvæmda þeirra, sem getur í [93. gr.][^1)^] Lán skulu og veitt til að reisa íbúðarhús við eldisstöðvar samkvæmt "lögum nr. 75 27. apríl 1962":/altext/stjtnr.html#1962075,[^2)^] þegar fiskur hefur verið alinn þar í 3 ár og skilyrði til eldis hafa reynst hagkvæm. Lán til íbúðarhúsa við eldisstöðvar skulu hlíta sömu reglum sem lán til íbúðarhúsa á nýbýlum.
-    _[^1)^]"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html [^2)^]Nú "l. 68/1997":1997068.html._
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html [^2)^]Sjá nú "l. 68/1997":1997068.html.
+ ■ *[100. gr.][^1)^]* Veita skal lán úr Stofnlánadeild landbúnaðarins samkvæmt "lögum nr. 75 27. apríl 1962":/altext/stjtnr.html#1962075,[^2)^] um Stofnlánadeild landbúnaðarins, landnám, ræktun og byggingar í sveitum, til framkvæmda þeirra, sem getur í [99. gr.][^3)^] Lán skulu og veitt til að reisa íbúðarhús við eldisstöðvar samkvæmt "lögum nr. 75 27. apríl 1962":/altext/stjtnr.html#1962075,[^2)^] þegar fiskur hefur verið alinn þar í 3 ár og skilyrði til eldis hafa reynst hagkvæm. Lán til íbúðarhúsa við eldisstöðvar skulu hlíta sömu reglum sem lán til íbúðarhúsa á nýbýlum.
+    _[^1)^]"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html [^2)^]Nú "l. 68/1997":1997068.html. [^3)^]"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html_
 
  *XV. kafli.* *Um matsgerðir og skaðabætur.*
- ■ *[95. gr.][^1)^]* 1. Nú greinir menn á, hvar um sé að tefla sjó, straumvatn, stöðuvatn, á, ós, ósasvæði, kvísl, ál, takmörk fiskihverfis, vatns eða hluta af vatni, svo sem ós, ósasvæði, kvísl, ál, foss, lögn eða veiðistað, legu aðalstraumlínu eða önnur slík efni, sem getur í lögum þessum, og skal þá skera úr ágreiningi með mati.
+ ■ *[101. gr.][^1)^]* 1. Nú greinir menn á, hvar um sé að tefla sjó, straumvatn, stöðuvatn, á, ós, ósasvæði, kvísl, ál, takmörk fiskihverfis, vatns eða hluta af vatni, svo sem ós, ósasvæði, kvísl, ál, foss, lögn eða veiðistað, legu aðalstraumlínu eða önnur slík efni, sem getur í lögum þessum, og skal þá skera úr ágreiningi með mati.
  □ 2. Mat samkvæmt 1. mgr. og annað mat, sem getur í lögum þessum, skulu framkvæma tveir menn dómkvaddir af héraðsdómara, þar sem er vatn það, er meta skal. Héraðsdómari skal að jafnaði dómkveðja menn búsetta í öðru lögsagnarumdæmi, en ráðfæra skal hann sig við veiðimálastjóra, áður en hann framkvæmir dómkvaðningu. Nú varðar mat merkivatn milli lögsagnarumdæma, og ákveður þá ráðherra, hvaða héraðsdómari dómkveður matsmenn.
  □ 3. Mati má skjóta til yfirmats, áður en liðnir eru tveir mánuðir frá birtingu mats. [Í yfirmati eiga sæti þrír menn sem ráðherra skipar, þar af einn samkvæmt tilnefningu veiðimálanefndar.][^2)^]
  □ 4. Rétt er að skjóta ágreiningi, er getur í 1. mgr., beint til yfirmatsmanna, enda séu aðilar ásáttir um það.
  □ 5. Matsmenn ákveða kostnað af mati og skiptingu hans á aðila.
  □ 6. Rétt er matsmönnum að kveðja kunnáttumenn sér til aðstoðar, ef þörf þykir, telst kostnaður af því til matskostnaðar.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html [^2)^]"L. 73/1996, 12. gr.":/altext/stjt/1996.073.html
- ■ *[96. gr.][^1)^]* 1. Nú hefur veiðieigandi, er veiði átti áður en lög þessi komu til framkvæmda, misst hana að mestu eða öllu fyrir þá sök, að lögin fyrirmuna honum að nota þá veiðiaðferð, er hann áður mátti einni við koma, og á hann þá kröfu til skaðabóta eftir mati, sbr. [95. gr.][^1)^]
- □ 2. [Matsmenn skv. 1. mgr. skulu leita umsagnar veiðimálastjóra og veiðimálanefndar. Skaðabætur greiðast að hálfu úr ríkissjóði og að hálfu úr hlutaðeigandi sveitarsjóði eða -sjóðum.][^2)^]
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html [^2)^]"L. 73/1996, 12. gr.":/altext/stjt/1996.073.html
+ ■ *[102. gr.][^1)^]* 1. Nú hefur veiðieigandi, er veiði átti áður en lög þessi komu til framkvæmda, misst hana að mestu eða öllu fyrir þá sök, að lögin fyrirmuna honum að nota þá veiðiaðferð, er hann áður mátti einni við koma, og á hann þá kröfu til skaðabóta eftir mati, sbr. [101. gr.][^2)^]
+ □ 2. [Matsmenn skv. 1. mgr. skulu leita umsagnar veiðimálastjóra og veiðimálanefndar. Skaðabætur greiðast að hálfu úr ríkissjóði og að hálfu úr hlutaðeigandi sveitarsjóði eða -sjóðum.][^3)^]
  □ 3. Nú hefur maður í öðrum tilvikum en í 1. mgr. segir orðið að mun öðrum fremur fyrir tjóni vegna ákvæða og framkvæmdar laga þessara, og á hann kröfu til skaðabóta eftir mati. Skaðabætur skulu greiða eigendur veiðiréttar í fiskihverfi því, sem í hlut á, eftir ákvörðun matsnefndar, og má taka þær lögtaki. Ákveða má þeim, er tjón hefur beðið, bætur með því að úthluta honum arði í arðskrá. Stjórn veiðifélags er skylt að annast innheimtu bóta á félagssvæði sínu.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html [^2)^]"L. 108/1988, 33. gr.":/altext/stjt/1988.108.html
- ■ *[97. gr.][^1)^]* Um fjárhæð og greiðslu bóta eða endurgjald, er greinir í lögum þessum, fer eftir lögum um framkvæmd eignarnáms.[^2)^]
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html [^2)^]"L. 11/1973":1973011.html.
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html [^2)^]"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html [^3)^]"L. 108/1988, 33. gr.":/altext/stjt/1988.108.html
+ ■ *[103. gr.][^1)^]* Um fjárhæð og greiðslu bóta eða endurgjald, er greinir í lögum þessum, fer eftir lögum um framkvæmd eignarnáms.[^2)^]
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html [^2)^]"L. 11/1973":1973011.html.
 
  *XVI. kafli.* *Refsiákvæði og réttarfars.*
- ■ *[98. gr.][^1)^]* 1. Það varðar mann sektum [eða fangelsi allt að 2 árum],[^2)^] ef miklar sakir eru, ef:
+ ■ *[104. gr.][^1)^]* 1. Það varðar mann sektum [eða fangelsi allt að 2 árum],[^2)^] ef miklar sakir eru, ef:
     a. Hann veiðir ólofað í vatni annars manns.
     b. Hann hittist með veiðarfæri við veiðivatn annars manns fyrir utan venjulega vegi, nema sannað sé, að hann hafi átt þar lögmæt erindi.
     c. Hann veiðir á tíma, þegar veiði er bönnuð, eða á stöðum, þar sem veiði er bönnuð.
@@ -456,22 +488,22 @@ h2. Lög um lax- og silungsveiði
     i. Hann hlítir eigi settum reglum um veiðifélög eða samþykktum þeirra.
     j. Hann hlítir annars eigi lögum þessum eða reglum, settum samkvæmt þeim.
  □ 2. Brot gegn ákvæðum 14. gr. innan íslenskrar fiskveiðilandhelgi varðar fésektum ...[^4)^] og auk þess [fangelsi allt að 2 árum],[^2)^] ef miklar sakir eru.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html [^2)^]"L. 82/1998, 161. gr.":/altext/stjt/1998.082.html [^3)^]"L. 50/1998, 28. gr.":/altext/stjt/1998.050.html [^4)^]"L. 116/1990, 34. gr.":/altext/stjt/1990.116.html
- ■ *[99. gr.][^1)^]* Brot þau, er getur í c-, d- og h-liðum [98. gr.],[^1)^] teljast fullframin, jafnskjótt og veiðarfæri er komið að veiðistað, nema sannað sé, að það hafi verið flutt þangað í lögmætum tilgangi.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
- ■ *[100. gr.][^1)^]* Nú veiðir maður ólofað í vatni annars manns, og skal sá, er misgert var við, fá allt veiðifang eða andvirði þess auk bóta fyrir annað tjón, sem hann kann að hafa orðið fyrir.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
- ■ *[101. gr.][^1)^]* Ólögleg veiðitæki og veiðitæki, sem eru notuð með ólöglegum hætti, skulu upptæk ger. Eins fer um ólöglegt veiðifang, sbr. þó [100. gr.][^1)^]
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
- ■ *[102. gr.][^1)^]* Sektir samkvæmt lögum þessum og andvirði upptækra veiðitækja renna í ríkissjóð.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
- ■ *[103. gr.][^1)^]* 1. Rétt er dómsmálaráðherra að fela Landhelgisgæslunni löggæslu samkvæmt lögum þessum, eftir því sem við verður komið.
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html [^2)^]"L. 82/1998, 161. gr.":/altext/stjt/1998.082.html [^3)^]"L. 50/1998, 28. gr.":/altext/stjt/1998.050.html [^4)^]"L. 116/1990, 34. gr.":/altext/stjt/1990.116.html
+ ■ *[105. gr.][^1)^]* Brot þau, er getur í c-, d- og h-liðum [104. gr.],[^2)^] teljast fullframin, jafnskjótt og veiðarfæri er komið að veiðistað, nema sannað sé, að það hafi verið flutt þangað í lögmætum tilgangi.
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html [^2)^]"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html
+ ■ *[106. gr.][^1)^]* Nú veiðir maður ólofað í vatni annars manns, og skal sá, er misgert var við, fá allt veiðifang eða andvirði þess auk bóta fyrir annað tjón, sem hann kann að hafa orðið fyrir.
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html
+ ■ *[107. gr.][^1)^]* Ólögleg veiðitæki og veiðitæki, sem eru notuð með ólöglegum hætti, skulu upptæk ger. Eins fer um ólöglegt veiðifang, sbr. þó [106. gr.][^2)^]
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html [^2)^]"L. 83/2001, 10. gr.":/altext/stjt/2001.083.html
+ ■ *[108. gr.][^1)^]* Sektir samkvæmt lögum þessum og andvirði upptækra veiðitækja renna í ríkissjóð.
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html
+ ■ *[109. gr.][^1)^]* 1. Rétt er dómsmálaráðherra að fela Landhelgisgæslunni löggæslu samkvæmt lögum þessum, eftir því sem við verður komið.
  □ 2. ...[^2)^]
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html [^2)^]"L. 19/1991, 194. gr.":1991019.html#g194
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html [^2)^]"L. 19/1991, 194. gr.":1991019.html#g194
 
  *XVII. kafli.* *Niðurlagsákvæði.*
- ■ *[104. gr.][^1)^]* Veiðifélag, sem löglega hefur verið stofnað samkvæmt eldri lögum, skal haldast, en breyta skal samþykktum þess samkvæmt 1. - 2. mgr. 49. gr.
-    _[^1)^]_"L. 63/1994, 7. gr.":/altext/stjt/1994.063.html
+ ■ *[110. gr.][^1)^]* Veiðifélag, sem löglega hefur verið stofnað samkvæmt eldri lögum, skal haldast, en breyta skal samþykktum þess samkvæmt 1. - 2. mgr. 49. gr.
+    _[^1)^]_"L. 83/2001, 9. gr.":/altext/stjt/2001.083.html
 
 
 

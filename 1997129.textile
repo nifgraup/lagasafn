@@ -30,8 +30,8 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
  □ Launagreiðendur og þeir sem stunda atvinnurekstur eða sjálfstæða starfsemi, svo og aðrir þeir sem inna af hendi iðgjaldsskyldar greiðslur, skulu að tekjuári liðnu tilgreina á launamiðum eða á annan hátt er ríkisskattstjóri ákveður þá fjárhæð sem iðgjöld hvers manns miðuðust við ásamt heildariðgjaldi sem skilað hefur verið til lífeyrissjóðs [og aðila skv. 3. mgr. 8. gr.][^1)^]
  □ [Hver sá sem er skylt að eiga aðild að lífeyrissjóði samkvæmt lögum þessum og er framtalsskyldur samkvæmt lögum um tekjuskatt og eignarskatt skal í framtali sínu eða á annan hátt er ríkisskattstjóri ákveður tilgreina þau iðgjöld til öflunar lífeyrisréttinda sem hann hefur greitt á árinu og þá lífeyrissjóði og aðila skv. 3. mgr. 8. gr. sem hann hefur greitt til.][^1)^]
  □ Að tekjuári liðnu skal ríkisskattstjóri senda hverjum og einum lífeyrissjóði yfirlit vegna hvers manns sem er aðili að sjóðnum samkvæmt þeim upplýsingum sem embættið hefur fengið samkvæmt þessari grein. Á yfirlitinu skulu koma fram iðgjaldsstofn og greitt iðgjald hvers manns og mótframlag launagreiðanda. Sé enginn lífeyrissjóður tilgreindur á framtölum eða skilagreinum launagreiðanda og lífeyrissjóða skal senda yfirlitið til Söfnunarsjóðs lífeyrisréttinda sem skal þá innheimta iðgjaldið.
- □ Ráðherra skal með reglugerð kveða nánar á um framkvæmd þessarar greinar.
-    _[^1)^]_"L. 148/1998, 3. gr.":/altext/stjt/1998.148.html
+ □ Ráðherra skal með reglugerð[^2)^] kveða nánar á um framkvæmd þessarar greinar.
+    _[^1)^]_"L. 148/1998, 3. gr.":/altext/stjt/1998.148.html [^2)^]"Rg. 391/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/391-1998, sbr. "742/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/742-1998 og "224/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/224-2001.
  ■ *7. gr.* Lífeyrisiðgjald, til lágmarkstryggingaverndar og viðbótartryggingaverndar, skal greitt reglulega í hverjum mánuði, sbr. 2. - 4. mgr.
  □ Iðgjaldagreiðslutímabil skal eigi vera lengra en mánuður og skal gjalddagi vera tíunda næsta mánaðar. Eindagi skal vera síðasti dagur sama mánaðar og iðgjald fellur í gjalddaga. Að öðru leyti fer um iðgjaldagreiðslur samkvæmt þeim reglum sem settar eru í samþykktir viðkomandi lífeyrissjóðs eða samkvæmt samningum þeirra aðila sem tilgreindir eru í 8. gr. Réttindi vegna aukaframlaga í lífeyrissjóði umfram reglubundin framlög skulu reiknuð miðað við greiðsludag.
  □ Launagreiðanda er skylt að halda eftir af launum iðgjaldshluta launþega og standa viðkomandi lífeyrissjóði skil á honum, ásamt iðgjaldshluta sínum. Sams konar skylda hvílir á launagreiðanda að því er varðar innheimtu og skil á iðgjaldi til þeirra aðila sem tilgreindir eru í 8. gr.
@@ -163,7 +163,7 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
  □ Lífeyrissjóði er skylt að tilkynna [Fjármálaeftirlitinu][^3)^] ef skipt er um eftirlitsaðila skv. 1. mgr.
  □ [Lífeyrissjóður skal hafa í þjónustu sinni starfsmann sem hæfur er til að sinna eignastýringu verðbréfasafna sjóðsins á grundvelli menntunar sinnar og starfsreynslu.
  □ Lífeyrissjóður sem býður upp á tvo eða fleiri valmöguleika varðandi ávöxtun lífeyrisiðgjalda eða ávinnslu lífeyrisréttinda skal hafa í þjónustu sinni starfsfólk sem hæft er til að sinna ráðgjöf í þeim efnum. Gæta skal þess að ráðgjöf sé sett fram á hlutlægan og faglegan hátt og taki mið af hagsmunum hvers sjóðfélaga. Lífeyrissjóður skal enn fremur láta útbúa skriflegt kynningarefni þar sem gerð er grein fyrir kostum og göllum einstakra valkosta miðað við mismunandi forsendur. Í auglýsingum og annarri kynningarstarfsemi lífeyrissjóða skal þess gætt að fram komi réttar og nákvæmar upplýsingar um starfsemi og þjónustu lífeyrissjóðanna.][^1)^]
-    _[^1)^]_"L. 56/2000, 6. gr.":/altext/stjt/2000.056.html [^2)^]Rg. 546/1998. [^3)^]"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html
+    _[^1)^]_"L. 56/2000, 6. gr.":/altext/stjt/2000.056.html [^2)^]"Rg. 546/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/546-1998. [^3)^]"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html
  ■ *35. gr.* Endurskoðunardeild eða eftirlitsaðili lífeyrissjóðs skv. 1. mgr. 34. gr. skal m.a. annast eftirfarandi verkefni:
     1. hafa eftirlit með að skráning iðgjalda og lífeyrisréttinda sé samkvæmt lögum og samþykktum sjóðsins,
     2. hafa eftirlit með að lífeyrisréttindi séu reiknuð í samræmi við lög og samþykktir sjóðsins,
@@ -214,7 +214,7 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
  □ [Fjármálaeftirlitið][^1)^] skal sjá til þess í samráði við reikningsskilaráð að á hverjum tíma liggi fyrir skilgreining á góðri reikningsskilavenju við gerð ársreiknings lífeyrissjóðs.
  □ [Fjármálaeftirlitið][^1)^] setur reglur[^2)^] að höfðu samráði við reikningsskilaráð um uppsetningu ársreiknings, innihald einstakra liða efnahagsreiknings, yfirlit um breytingar á hreinni eign til greiðslu lífeyris og fjárstreymisyfirlit og skýringar og mat á einstökum liðum.
  □ [Með ársreikningum lífeyrissjóða skal fylgja sú fjárfestingarstefna sem starfað er eftir. Jafnframt skal fylgja úttekt á ávöxtun eignasafna síðasta árs. Fjármálaeftirlitið skal setja nánari reglur um form og efni þessara skýrslna.][^3)^]
-    _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html [^2)^]Rgl. 55/2000. [^3)^]"L. 56/2000, 10. gr.":/altext/stjt/2000.056.html
+    _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html [^2)^]"Rgl. 55/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/055-2000. [^3)^]"L. 56/2000, 10. gr.":/altext/stjt/2000.056.html
  ■ *41. gr.* Í skýrslu stjórnar skal koma fram yfirlit um starfsemi sjóðsins á árinu, svo og upplýsingar um atriði er mikilvæg eru við mat á fjárhagslegri stöðu sjóðsins og afkomu hans á reikningsárinu er ekki koma fram annars staðar í ársreikningnum.
  □ Í skýrslu stjórnar skal enn fremur upplýst um eftirfarandi:
     1. atburði eftir uppgjörsdag sem hafa verulega þýðingu,
@@ -226,7 +226,7 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
  □ Um endurskoðun hjá lífeyrissjóði gilda ákvæði VII. kafla laga um ársreikninga, eftir því sem við á, nema annað komi fram í þessum lögum.
  □ Verði endurskoðandi var við verulega ágalla í rekstri lífeyrissjóðs eða atriði er varða innra eftirlit, iðgjaldainnheimtu, greiðslutryggingar útlána, meðferð fjármuna eða önnur atriði sem veikt geta fjárhagsstöðu lífeyrissjóðsins, svo og ef hann hefur ástæðu til að ætla að lög, reglugerðir eða reglur sem gilda um starfsemina hafi verið brotnar, skal hann þegar í stað gera stjórn sjóðsins og [Fjármálaeftirlitinu][^1)^] viðvart. Ákvæði þessarar málsgreinar brjóta ekki í bága við þagnarskyldu endurskoðanda skv. 32. gr. laga þessara eða ákvæði annarra laga.
  □ [Fjármálaeftirlitið][^1)^] skal sjá til þess, í samráði við Félag löggiltra endurskoðenda og aðra hlutaðeigandi aðila, að á hverjum tíma liggi fyrir skilgreining á góðri endurskoðunarvenju við endurskoðun hjá lífeyrissjóðum. [Fjármálaeftirlitið][^1)^] setur reglur[^2)^] um endurskoðun lífeyrissjóða.
-    _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html [^2)^]Rg. 541/1998.
+    _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html [^2)^]"Rg. 541/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/541-1998.
  ■ *43. gr.* Senda skal [Fjármálaeftirlitinu][^1)^] endurskoðaðan ársreikning lífeyrissjóðs ásamt skýrslu stjórnar þegar eftir undirritun hans og eigi síðar en fjórum mánuðum eftir lok reikningsárs. Meginniðurstöður ársreiknings skal birta opinberlega og í samræmdu formi sem [Fjármálaeftirlitið][^1)^] ákveður. Slíkar meginniðurstöður skulu liggja frammi í starfsstöð viðkomandi lífeyrissjóðs og vera aðgengilegar fyrir sjóðfélaga.
     _[^1)^]_"L. 84/1998, 7. gr.":/altext/stjt/1998.084.html
 
@@ -272,7 +272,7 @@ h2. Lög um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða
  *XII. kafli.* *Ýmis ákvæði.*
  ■ *55. gr.* Brot gegn lögum þessum varða sektum eða fangelsi allt að einu ári, nema þyngri refsing liggi við samkvæmt almennum hegningarlögum. Sé brot framið í þágu lögaðila er heimilt að beita stjórnendur lögaðilans framangreindum viðurlögum og einnig er heimilt að gera lögaðilanum sekt.
 ■ *56. gr.* Fjármálaráðherra fer með framkvæmd laga þessara og er honum heimilt að kveða nánar á um framkvæmd þeirra með reglugerð.[^1)^]
-    _[^1)^]Rg. 391/1998_, sbr. 742/1998; rg. 698/1998, sbr. 9/1999; rg. 589/2000, rg. 590/2000, rg. 830/2000.
+    _[^1)^]_"Rg. 391/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/391-1998, sbr. "742/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/742-1998 og "224/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/224-2001; "rg. 698/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/698-1998, sbr. "9/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/009-1999; "rg. 589/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/589-2000, "rg. 590/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2000, "rg. 830/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/830-2000.
  ■ *57. gr.* Kostnaður við birtingu tilkynninga samkvæmt lögum þessum skal greiddur af viðkomandi lífeyrissjóði.
 ■ *58. gr.* Lög þessi öðlast gildi 1. júlí 1998. ...
 

@@ -116,7 +116,7 @@ h2. Lög um verðbréfasjóði
  □ Innlausnarvirði hlutdeildarskírteina verðbréfasjóðs er markaðsvirði samanlagðra eigna að frádregnum skuldum sjóðsins við innlausn, svo sem skuldum hans við innlánsstofnanir, ógreiddum umsýslu- og stjórnunarkostnaði, innheimtukostnaði og áföllnum eða reiknuðum opinberum gjöldum.
  □ Innlausnarvirði hlutdeildarskírteina verðbréfasjóðs skal reiknað daglega og auglýst opinberlega eigi sjaldnar en tvisvar í mánuði. [Fjármálaeftirlitið][^1)^] getur ákveðið að opinber auglýsing innlausnarvirðis skuli fara fram oftar ef ástæða þykir til.
  □ Ráðherra getur í reglugerð[^2)^] sett nánari reglur um útreikning á innlausnarvirði hlutdeildarskírteina.
-    _[^1)^]_"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html [^2)^]Rg. 362/1993, sbr. 294/1994.
+    _[^1)^]_"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html [^2)^]"Rg. 362/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/362-1993, sbr. "294/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/294-1994.
 
  *VII. kafli.* *Fjárfestingarstefna verðbréfasjóða.*
  ■ *20. gr.* [Verðbréfasjóði eða einstökum deildum hans er eingöngu heimilt að fjárfesta með eftirfarandi hætti:
@@ -216,10 +216,10 @@ h2. Lög um verðbréfasjóði
  ■ *[38. gr.][^1)^]* Hyggist verðbréfasjóður markaðssetja hlutdeildarskírteini sín eða stofna útibú í ríki innan Evrópska efnahagssvæðisins skal það tilkynnt [Fjármálaeftirlitinu][^2)^] og eftirlitsaðila í því landi þar sem markaðssetning eða stofnun útibús er fyrirhuguð.
  □ Leyfi til starfsemi, er lög þessi taka til, sem veitt hefur verið af lögbærum yfirvöldum í öðru ríki innan Evrópska efnahagssvæðisins, gildir einnig hér á landi. Um starfsemi slíkra leyfishafa fer samkvæmt nánari reglum[^3)^] sem ráðherra setur.
  □ Um gildi leyfa til starfsemi, sem lög þessi taka til, sem veitt eru af lögbærum yfirvöldum ríkja utan Evrópska efnahagssvæðisins, svo og um starfsemi slíkra leyfishafa hér á landi, fer eftir reglum sem ráðherra setur.
-    _[^1)^]_"L. 17/1999, 4. gr.":/altext/stjt/1999.017.html [^2)^]"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html [^3)^]Rg. 369/1993.
+    _[^1)^]_"L. 17/1999, 4. gr.":/altext/stjt/1999.017.html [^2)^]"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html [^3)^]"Rg. 369/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/369-1993.
  ■ *[[39. gr.][^1)^]* Rekstrarfélag skal gefa út útboðslýsingu fyrir hvern verðbréfasjóð sem það annast rekstur á samkvæmt lögum þessum. Í útboðslýsingu skulu koma fram nauðsynlegar upplýsingar til að viðskiptavinum sé kleift að meta kosti fjárfestinga í hlutdeildarskírteinum verðbréfasjóðs.
  □ Nánar skal kveðið á um útboðslýsingar verðbréfasjóða skv. 1. mgr. í reglum[^2)^] sem [Fjármálaeftirlitið][^3)^] setur.][^4)^]
-    _[^1)^]_"L. 17/1999, 4. gr.":/altext/stjt/1999.017.html [^2)^]Rg. 616/1996. [^3)^]"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html [^4)^]"L. 21/1996, 12. gr.":/altext/stjt/1996.021.html
+    _[^1)^]_"L. 17/1999, 4. gr.":/altext/stjt/1999.017.html [^2)^]"Rg. 616/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/616-1996. [^3)^]"L. 84/1998, 4. gr.":/altext/stjt/1998.084.html [^4)^]"L. 21/1996, 12. gr.":/altext/stjt/1996.021.html
  ■ *[40. gr.* Í auglýsingum og annarri kynningarstarfsemi verðbréfasjóða skal þess gætt að fram komi réttar og nákvæmar upplýsingar um starfsemi verðbréfasjóðsins. Þess skal gætt að skýrt komi fram hvort sjóðurinn hafi heimild til markaðssetningar á Evrópska efnahagssvæðinu eða markaðssetningar skv. 27. gr.
  □ Fjárfesti verðbréfasjóður í framvirkum samningum og valréttarsamningum skv. 27. gr. skal getið um það sérstaklega í auglýsingum og annarri kynningarstarfsemi. Jafnframt skal koma fram viðvörun til fjárfesta um að fjárfesting í slíkum sjóði sé áhættusöm.][^1)^]
     _[^1)^]_"L. 17/1999, 5. gr.":/altext/stjt/1999.017.html
@@ -230,7 +230,7 @@ h2. Lög um verðbréfasjóði
  ■ *[43. gr.* Verðbréfasjóður getur höfðað mál í eigin nafni fyrir hönd einstakra eigenda hlutdeildarskírteina til ógildingar á skírteinum.][^1)^]
     _[^1)^]_"L. 17/1999, 6. gr.":/altext/stjt/1999.017.html
  ■ *[44. gr.][^1)^]* Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt að kveða nánar á um framkvæmd þeirra með reglugerð.[^2)^]
-    _[^1)^]_"L. 17/1999, 6. gr.":/altext/stjt/1999.017.html [^2)^]Rg. 369/1993.
+    _[^1)^]_"L. 17/1999, 6. gr.":/altext/stjt/1999.017.html [^2)^]"Rg. 369/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/369-1993.
 
  *XII. kafli.* *Viðurlög.*
  ■ *[45. gr.][^1)^]* Brot gegn lögum þessum varða sektum eða fangelsi allt að einu ári nema þyngri refsing liggi við broti samkvæmt almennum hegningarlögum. Sé brot framið í þágu lögaðila er heimilt að beita stjórnendur lögaðilans framangreindum viðurlögum og einnig er heimilt að gera lögaðilanum sekt og sviptingu starfsréttinda.

@@ -18,7 +18,7 @@ h2. Lög um almannavarnir
  *II. kafli.* *Skipulag almannavarna.*
 ■ *4. gr.* [Almannavarnir heyra undir dómsmálaráðherra, sbr. þó 5. gr. og VI. kafla.
  □ Almannavarnaráð, sem dómsmálaráðherra skipar, stýrir starfsemi almannavarna og er til ráðuneytis um framkvæmd laga þessara. Í ráðinu eiga sæti forstjóri landhelgisgæslunnar, landlæknir, [ríkislögreglustjóri],[^1)^] póst- og símamálastjóri og vegamálastjóri. Ráðherra skipar einn þeirra formann ráðsins til þriggja ára í senn. Ráðherra getur sett almannavarnaráði starfsreglur með reglugerð.[^2)^]][^3)^]
-    _[^1)^]_"L. 90/1996, 43. gr.":1996090.html#g43 [^2)^]Rg. 740/2000. [^3)^]"L. 85/1985, 1. gr.":/altext/stjtnr.html#1985085?g1
+    _[^1)^]_"L. 90/1996, 43. gr.":1996090.html#g43 [^2)^]"Rg. 740/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/740-2000. [^3)^]"L. 85/1985, 1. gr.":/altext/stjtnr.html#1985085?g1
  ■ *5. gr.* Landlæknir fer, samkvæmt nánari fyrirmælum heilbrigðismálaráðherra, með stjórn þeirra þátta almannavarna, er varða sjúkrahúsmál, læknismeðferð og hjúkrun á sjúkum og særðum.
  □ Forráðamönnum [heilbrigðisstofnana][^1)^] ber, samkvæmt fyrirmælum landlæknis, að undirbúa og framkvæma ráðstafanir, sem nauðsynlegar eru til að geta veitt sjúkum og særðum móttöku og meðferð á hættutímum. Þeim ber og að taka þátt í undirbúningi að stofnun og rekstri varasjúkrahúsa.
     _[^1)^]_"L. 85/1985, 2. gr.":/altext/stjtnr.html#1985085?g2
@@ -57,7 +57,7 @@ h2. Lög um almannavarnir
     g. Undirbúningur og aðstoð vegna brottflutnings fólks og móttöku fólks af hættusvæði.
     h. Aðrar ráðstafanir sem ráðherra ákveður, að fengnum tillögum almannavarnaráðs.
  □ Ráðherra setur með reglugerð nánari ákvæði um lágmarksviðbúnað að almannavörnum í héraði. Ráðherra er heimilt að ákveða að almannavarnaráð annist lágmarksviðbúnað almannavarna í héraði, á kostnað sveitarfélagsins, hafi ákvæðum um lágmarksviðbúnað ekki verið hlítt.][^2)^]
-    _[^1)^]Rg. 107/1969_. [^2)^]"L. 85/1985, 6. gr.":/altext/stjtnr.html#1985085?g6
+    _[^1)^]_"Rg. 107/1969":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/107-1969. [^2)^]"L. 85/1985, 6. gr.":/altext/stjtnr.html#1985085?g6
 
  *III. kafli.* *Hjálparlið.*
  ■ *10. gr.* Það er borgaraleg skylda þeirra, sem eru á aldrinum 18 - 65 ára, að gegna, án endurgjalds, starfi í þágu almannavarna í umdæmi, þar sem þeir dveljast, samkvæmt fyrirmælum, er lögreglustjóri gefur, að fengnum tillögum almannavarnanefndar. Ákvörðun lögreglustjóra má skjóta til dómsmálaráðherra.

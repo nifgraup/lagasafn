@@ -13,306 +13,57 @@ h2. Lög um veiðar í fiskveiðilandhelgi Íslands
  ■ *3. gr.* Erlendum skipum eru bannaðar allar veiðar í fiskveiðilandhelgi Íslands. Með ákvæði þessu eru ekki skert þau réttindi sem veitt hafa verið eða kunna að verða veitt öðrum ríkjum samkvæmt milliríkjasamningum.
 ■ *4. gr.* Aðeins þeim íslensku skipum, sem leyfi hafa til veiða í atvinnuskyni í fiskveiðilandhelgi Íslands samkvæmt ákvæðum "laga nr. 38 15. maí 1990":1990038.html, um stjórn fiskveiða, með síðari breytingum, er heimilt að stunda veiðar í fiskveiðilandhelginni.
  ■ *5. gr.* Íslenskum skipum eru bannaðar veiðar með botnvörpu, flotvörpu og dragnót í fiskveiðilandhelgi Íslands nema á þeim veiðisvæðum og veiðitímum sem tilgreind eru í þessari grein, enda undanþiggi ráðherra ekki tiltekin svæði slíkum veiðum. Þegar rætt er um viðmiðunarlínu er átt við línu sem dregin er umhverfis landið á milli eftirtalinna staða:
-
-1.
-
-Horn (grp. 1)
-
-66°27'4 N  -  22°24'3 V
-
-2.
-
-Selsker (viti)
-
-66°07'5 N  -  21°30'0 V
-
-3.
-
-Ásbúðarrif (grp. 2)
-
-66°08'1 N  -  20°11'0 V
-
-4.
-
-[Siglunes (grp. 3)
-
-66°11'9 N  -  18°49'9 V
-
-][^1)^]
-
-5.
-
-Flatey (Skjálfanda) (grp. 4)
-
-66°10'3 N  -  17°50'3 V
-
-6.
-
-Mánáreyjar (Lágey) (grp. 5)
-
-66°17'8 N  -  17°06'8 V
-
-7.
-
-Rauðinúpur (grp. 6)
-
-66°30'7 N  -  16°32'4 V
-
-8.
-
-Rifstangi (grp. 7)
-
-66°32'3 N  -  16°11'8 V
-
-9.
-
-Hraunhafnartangi (grp. 8)
-
-66°32'2 N  -  16°01'5 V
-
-10.
-
-Langanes (grp. 9)
-
-66°22'7 N  -  14°31'9 V
-
-11.
-
-Skálatáarsker
-
-65°59'7 N  -  14°36'4 V
-
-12.
-
-Almenningsfles
-
-65°33'1 N  -  13°40'5 V
-
-13.
-
-Glettinganes (grp. 10)
-
-65°30'5 N  -  13°36'3 V
-
-14.
-
-Norðfjarðarhorn (grp. 11)
-
-65°10'0 N  -  13°30'8 V
-
-15.
-
-Gerpir (grp. 12)
-
-65°04'7 N  -  13°29'6 V
-
-16.
-
-Hólmur (Seley) (grp. 13)
-
-64°58'9 N  -  13°30'6 V
-
-17.
-
-Skrúður (Þursi) (grp. 15)
-
-64°54'1 N  -  13°36'8 V
-
-18.
-
-Papey (viti)
-
-64°35'5 N  -  14°10'5 V
-
-19.
-
-Hvítingar (grp. 18)
-
-64°23'9 N  -  14°28'0 V
-
-20.
-
-Stokksnes (grp. 19)
-
-64°14'1 N  -  14°58'4 V
-
-21.
-
-Hrollaugseyjar (grp. 20)
-
-64°01'7 N  -  15°58'7 V
-
-22.
-
-Ingólfshöfði (grp. 22)
-
-63°47'8 N  -  16°38'5 V
-
-23.
-
-Hvalsíki (grp. 23)
-
-63°44'1 N  -  17°33'5 V
-
-24.
-
-Meðallandssandur I
-
-(grp. 24)
-
-63°32'4 N  -  17°55'6 V
-
-25.
-
-Meðallandssandur II
-
-(grp. 25)
-
-63°30'6 N  -  17°59'9 V
-
-26.
-
-Mýrnatangi (grp. 26)
-
-63°27'4 N  -  18°11'8 V
-
-27.
-
-Kötlutangi (grp. 27)
-
-63°23'4 N  -  18°42'8 V
-
-28.
-
-Lundadrangur (grp. 28)
-
-63°23'5 N  -  19°07'5 V
-
-29.
-
-Bakkafjara (skúr við sæ-
-
-streng)
-
-63°32'3 N  -  20°10'9 V
-
-30.
-
-Knarrarós (viti)
-
-63°49'4 N  -  20°58'6 V
-
-31.
-
-Hafnarnes
-
-63°50'6 N  -  21°23'5 V
-
-32.
-
-Selvogur (viti)
-
-63°49'3 N  -  21°39'1 V
-
-33.
-
-Krýsuvíkurberg (viti)
-
-63°49'8 N  -  22°04'2 V
-
-34.
-
-Reykjanes (aukaviti)
-
-63°48'0 N  -  22°41'9 V
-
-35.
-
-Önglabrjótsnef
-
-63°49'0 N  -  22°44'3 V
-
-36.
-
-Stafnes (viti)
-
-63°58'3 N  -  22°45'5 V
-
-37.
-
-1. sjm. r/v V af Garðskaga-
-
-vita
-
-64°04'9 N  -  22°43'6 V
-
-38.
-
-Malarrif (viti)
-
-64°43'7 N  -  23°48'2 V
-
-39.
-
-Dritvíkurtangi
-
-64°45'0 N  -  23°55'3 V
-
-40.
-
-Skálasnagi
-
-64°51'3 N  -  24°02'5 V
-
-41.
-
-Öndverðarnes (viti)
-
-64°53'1 N  -  24°02'7 V
-
-42.
-
-Skor (viti)
-
-65°24'9 N  -  23°57'2 V
-
-43.
-
-Bjargtangar (grp. 33)
-
-65°30'2 N  -  24°32'1 V
-
-44.
-
-Kópanes (grp. 34)
-
-65°48'4 N  -  24°06'0 V
-
-45.
-
-Barði (grp. 35)
-
-66°03'7 N  -  23°47'4 V
-
-46.
-
-Straumnes (grp. 36)
-
-66°25'7 N  -  23°08'4 V
-
-47.
-
-Kögur (grp. 37)
-
-66°28'3 N  -  22°55'5 V
-
-48.
-
-Horn (grp. 38)
-
-66°27'9 N  -  22°28'2 V
-
-□ Heimildir fiskiskipa til veiða með botnvörpu, flotvörpu og dragnót innan fiskveiðilandhelgi Íslands miðast við stærðir skipa og aflvísa þeirra. Er skipum skipt niður í þrjá flokka miðað við stærðir þeirra og aflvísa þannig:
+    1. Horn (grp. 1) [hfill] 66°27'4 N  -  22°24'3 V
+    2. Selsker (viti) [hfill] 66°07'5 N  -  21°30'0 V
+    3. Ásbúðarrif (grp. 2) [hfill] 66°08'1 N  -  20°11'0 V
+    4. [Siglunes (grp. 3) [hfill] 66°11'9 N  -  18°49'9 V][^1)^]
+    5. Flatey (Skjálfanda) (grp. 4) [hfill] 66°10'3 N  -  17°50'3 V
+    6. Mánáreyjar (Lágey) (grp. 5) [hfill] 66°17'8 N  -  17°06'8 V
+    7. Rauðinúpur (grp. 6) [hfill] 66°30'7 N  -  16°32'4 V
+    8. Rifstangi (grp. 7) [hfill] 66°32'3 N  -  16°11'8 V
+    9. Hraunhafnartangi (grp. 8) [hfill] 66°32'2 N  -  16°01'5 V
+    10. Langanes (grp. 9) [hfill] 66°22'7 N  -  14°31'9 V
+    11. Skálatáarsker [hfill] 65°59'7 N  -  14°36'4 V
+    12. Almenningsfles [hfill] 65°33'1 N  -  13°40'5 V
+    13. Glettinganes (grp. 10) [hfill] 65°30'5 N  -  13°36'3 V
+    14. Norðfjarðarhorn (grp. 11) [hfill] 65°10'0 N  -  13°30'8 V
+    15. Gerpir (grp. 12) [hfill] 65°04'7 N  -  13°29'6 V
+    16. Hólmur (Seley) (grp. 13) [hfill] 64°58'9 N  -  13°30'6 V
+    17. Skrúður (Þursi) (grp. 15) [hfill] 64°54'1 N  -  13°36'8 V
+    18. Papey (viti) [hfill] 64°35'5 N  -  14°10'5 V
+    19. Hvítingar (grp. 18) [hfill] 64°23'9 N  -  14°28'0 V
+    20. Stokksnes (grp. 19) [hfill] 64°14'1 N  -  14°58'4 V
+    21. Hrollaugseyjar (grp. 20) [hfill] 64°01'7 N  -  15°58'7 V
+    22. Ingólfshöfði (grp. 22) [hfill] 63°47'8 N  -  16°38'5 V
+    23. Hvalsíki (grp. 23) [hfill] 63°44'1 N  -  17°33'5 V
+    24. Meðallandssandur I (grp. 24) [hfill] 63°32'4 N  -  17°55'6 V
+    25. Meðallandssandur II (grp. 25) [hfill] 63°30'6 N  -  17°59'9 V
+    26. Mýrnatangi (grp. 26) [hfill] 63°27'4 N  -  18°11'8 V
+    27. Kötlutangi (grp. 27) [hfill] 63°23'4 N  -  18°42'8 V
+    28. Lundadrangur (grp. 28) [hfill] 63°23'5 N  -  19°07'5 V
+    29. Bakkafjara (skúr við sæ-
+     streng) [hfill] 63°32'3 N  -  20°10'9 V
+    30. Knarrarós (viti) [hfill] 63°49'4 N  -  20°58'6 V
+    31. Hafnarnes [hfill] 63°50'6 N  -  21°23'5 V
+    32. Selvogur (viti) [hfill] 63°49'3 N  -  21°39'1 V
+    33. Krýsuvíkurberg (viti) [hfill] 63°49'8 N  -  22°04'2 V
+    34. Reykjanes (aukaviti) [hfill] 63°48'0 N  -  22°41'9 V
+    35. Önglabrjótsnef [hfill] 63°49'0 N  -  22°44'3 V
+    36. Stafnes (viti) [hfill] 63°58'3 N  -  22°45'5 V
+    37. 1. sjm. r/v V af Garðskaga-
+     vita [hfill] 64°04'9 N  -  22°43'6 V
+    38. Malarrif (viti) [hfill] 64°43'7 N  -  23°48'2 V
+    39. Dritvíkurtangi [hfill] 64°45'0 N  -  23°55'3 V
+    40. Skálasnagi [hfill] 64°51'3 N  -  24°02'5 V
+    41. Öndverðarnes (viti) [hfill] 64°53'1 N  -  24°02'7 V
+    42. Skor (viti) [hfill] 65°24'9 N  -  23°57'2 V
+    43. Bjargtangar (grp. 33) [hfill] 65°30'2 N  -  24°32'1 V
+    44. Kópanes (grp. 34) [hfill] 65°48'4 N  -  24°06'0 V
+    45. Barði (grp. 35) [hfill] 66°03'7 N  -  23°47'4 V
+    46. Straumnes (grp. 36) [hfill] 66°25'7 N  -  23°08'4 V
+    47. Kögur (grp. 37) [hfill] 66°28'3 N  -  22°55'5 V
+    48. Horn (grp. 38) [hfill] 66°27'9 N  -  22°28'2 V
+ □ Heimildir fiskiskipa til veiða með botnvörpu, flotvörpu og dragnót innan fiskveiðilandhelgi Íslands miðast við stærðir skipa og aflvísa þeirra. Er skipum skipt niður í þrjá flokka miðað við stærðir þeirra og aflvísa þannig:
     1. flokkur: Fiskiskip 42 metrar og lengri. Enn fremur öll fiskiskip með aflvísa 2.500 eða hærri.
     2. flokkur: Fiskiskip lengri en 29 metrar en styttri en 42 metrar með aflvísa lægri en 2.500. Enn fremur fiskiskip styttri en 29 metrar en með aflvísa 1.600 og hærri. Í þennan flokk falla einnig fiskiskip 39 metrar og styttri sem togveiðiheimildir höfðu eftir þeirri viðmiðun skv. "3. gr. laga nr. 81 31. maí 1976":1976081.html, um veiðar í fiskveiðilandhelgi Íslands, enda verði ekki um aukningu á aflvísum þeirra að ræða eftir 1. júní 1997.
     3. flokkur: Fiskiskip styttri en 29 metrar, enda séu þau með lægri aflvísa en 1.600. Enn fremur fiskiskip 26 metrar og styttri sem togveiðiheimildir höfðu eftir þeirri viðmiðun skv. "3. gr. laga nr. 81 31. maí 1976":1976081.html, um veiðar í fiskveiðilandhelgi Íslands, enda verði ekki um aukningu á aflvísum þeirra að ræða eftir 1. júní 1997.
@@ -377,21 +128,21 @@ Horn (grp. 38)
     _[^1)^]_"L. 127/1997, 1. gr.":/altext/stjt/1997.127.html
  ■ *6. gr.* Þrátt fyrir 5. gr. er heimilt að leyfa veiðar með dragnót[^1)^] nær landi en um ræðir í 5. gr. samkvæmt sérstökum leyfum Fiskistofu. Aðeins er heimilt að veita leyfi skipum styttri en 42 metrar, enda séu þau með aflvísi lægri en 2.500, en ráðherra skal með reglugerð kveða nánar á um skilyrði fyrir veitingu leyfa samkvæmt þessari málsgrein. Getur ráðherra sett almennar og svæðisbundnar reglur í því skyni að stuðla að hagkvæmri nýtingu fiskstofna, að teknu tilliti til veiða með öðrum veiðarfærum sem stundaðar eru á viðkomandi svæðum. Getur ráðherra m.a. ákveðið að leyfin séu bundin við ákveðið svæði og að aðeins hljóti leyfi til veiða á tilteknu svæði tiltekinn fjöldi skipa, skip sem skráð eru á því svæði, skip af ákveðinni stærð eða gerð eða skip sem áður hafa stundað dragnótaveiðar. Þá getur ráðherra, að fenginni umsögn Hafrannsóknastofnunarinnar, ákveðið að dragnótaveiðar á ákveðnu svæði miðist við nýtingu ákveðinnar fisktegundar.
  □ Sé talin þörf á að takmarka notkun tiltekins veiðarfæris til að tryggja skynsamlega nýtingu þess stofns sem veiðarnar beinast að eða vegna þeirrar skaðsemi sem notkun þess kann að hafa í för með sér fyrir nýtingu annarra stofna getur ráðherra með reglugerð[^2)^] ákveðið að veiðar með því veiðarfæri séu háðar sérstöku leyfi Fiskistofu. Um skilyrði fyrir veitingu slíkra leyfa skal kveðið á í reglugerð og gilda ákvæði 1. mgr. um þau eftir því sem við á.
-    _[^1)^]Rg. 687/1997_, sbr. 620/2000 og 1/2001. [^2)^]Rg. 438/1999, sbr. 577/1999, 600/2000 og 770/2000; rg. 717/2000, rg. 718/2000.
+    _[^1)^]_"Rg. 687/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/687-1997, sbr. "620/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/620-2000 og "1/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/001-2001. [^2)^]"Rg. 438/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/438-1999, sbr. "577/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/577-1999, "600/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/600-2000 og "770/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/770-2000; "rg. 717/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/717-2000, "rg. 718/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/718-2000.
  ■ *7. gr.* Grásleppuveiðar skulu háðar sérstöku leyfi Fiskistofu og eiga þeir bátar einir kost á slíku leyfi sem rétt áttu til leyfis á grásleppuvertíðinni 1997 samkvæmt reglum þar um. Ráðherra skal í reglugerð kveða nánar á um skipulag grásleppuveiða og veiðitíma samkvæmt þessari málsgrein. Getur ráðherra m.a. ákveðið að leyfin séu bundin við ákveðið svæði og að aðeins hljóti leyfi til veiða á tilteknu svæði skip sem skráð eru á því svæði. Þá getur ráðherra sett reglur um heimildir til flutnings leyfa til grásleppuveiða milli báta.
  □ Sé talin þörf á að koma í veg fyrir staðbundna ofnýtingu á tilteknum stofni, óeðlilegan meðafla af öðrum tegundum en veiði beinist að eða önnur óæskileg áhrif veiða getur ráðherra ákveðið að veiðar úr tilteknum nytjastofni eða á tilteknu svæði séu háðar leyfi Fiskistofu. Sama á við ef þörf er á að skipuleggja veiðar úr stofnum sem ekki er stjórnað með skiptingu heildarafla milli einstakra skipa, sbr. "7. gr. laga nr. 38 15. maí 1990":1990038.html#g7, með síðari breytingum, t.d. vegna óvissu um veiðiþol viðkomandi stofns. Ráðherra skal í reglugerð kveða nánar á um skilyrði fyrir veitingu leyfa samkvæmt þessari málsgrein. Getur ráðherra sett almennar og svæðisbundnar reglur og m.a. ákveðið að leyfin séu bundin við ákveðið svæði og að aðeins hljóti leyfi til veiða á tilteknu svæði tiltekinn fjöldi skipa, skip sem skráð eru á því svæði, skip af ákveðinni stærð eða gerð eða skip sem áður hafa stundað tilteknar veiðar.
  ■ *8. gr.* Ráðherra er heimilt með reglugerð að skipta veiðisvæðum milli veiðarfæra með því að banna notkun ákveðinna veiðarfæra á ákveðnum svæðum í tiltekinn tíma. Áður en ákvarðanir um slíka skiptingu veiðisvæða eru teknar skal leita álits samtaka þeirra útgerðar- og sjómanna sem ætla má að slík skipting veiðisvæða varði mestu hverju sinni.
  □ Þá er ráðherra heimilt að banna notkun allra eða tiltekinna gerða veiðarfæra á svæðum þar sem veiðarfæri geta valdið skemmdum á neðansjávarstrengjum og vatnslögnum.
 ■ *9. gr.* Ráðherra skal gera nauðsynlegar ráðstafanir til þess að sporna við því að stundaðar séu veiðar sem skaðlegar geta talist með tilliti til hagkvæmrar nýtingar nytjastofna. Getur ráðherra með reglugerð[^1)^] m.a. ákveðið sérstök friðunarsvæði þar sem veiðar með tilteknum veiðarfærum eru bannaðar. Ráðherra ákveður hvort reglugerðir um friðunarsvæði gildi um ákveðinn tíma eða séu ótímabundnar. Áður en ákvarðanir eru teknar samkvæmt þessari grein skal að jafnaði leita umsagnar Hafrannsóknastofnunarinnar.
  □ Heimilt er að banna tímabundið allar veiðar eða notkun tiltekinna veiðarfæra á ákveðnu svæði sé þess talin þörf vegna tilrauna eða vísindalegra rannsókna Hafrannsóknastofnunarinnar.
-    _[^1)^]Rg. 262/1994_, sbr. 210/2000; rg. 494/1998, sbr. 608/1999, 770/1999 og 665/2000; rg. 411/1999, sbr. 10/2000 og 494/2000; rg. 753/1999, rg. 766/1999, rg. 627/2000, rg. 716/2000, rg. 859/2000, sbr. 14/2001; rg. 880/2000, rg. 913/2000.
+    _[^1)^]_"Rg. 262/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/262-1994, sbr. "210/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/210-2000 og "274/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/274-2001; "rg. 494/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/494-1998, sbr. "608/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/608-1999, "770/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/770-1999 og "665/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/665-2000; "rg. 411/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/411-1999, sbr. "10/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/010-2000, "494/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/494-2000 og "79/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/079-2001; "rg. 753/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/753-1999, "rg. 766/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/766-1999, "rg. 627/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/627-2000, "rg. 716/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/716-2000, "rg. 859/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/859-2000, sbr. "14/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/014-2001; "rg. 880/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/880-2000, "rg. 190/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/190-2001, "rg. 194/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/194-2001, "rg. 228/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/228-2001, "rg. 409/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/409-2001.
  ■ *10. gr.* Veiðieftirlitsmönnum Fiskistofu er heimilt að fara í veiðiferðir með fiskiskipum og er skipstjórum þeirra skylt að veita þeim alla aðstoð og aðstöðu um borð í skipum sínum til þess að þeir geti sinnt eftirliti með veiðum. Í erindisbréfum til eftirlitsmanna, sem útgefin eru af ráðuneytinu, skal nánar kveðið á um starfsskyldur veiðieftirlitsmanna um borð í veiðiskipum.
  □ Verði veiðieftirlitsmenn Fiskistofu, leiðangursstjórar skipa, sem eru á vegum Hafrannsóknastofnunarinnar, eða starfsmenn Landhelgisgæslunnar varir við að stundaðar séu skaðlegar veiðar skv. 3. mgr. skulu þeir þegar tilkynna það til Hafrannsóknastofnunarinnar eða þeirra aðila sem stofnunin tilnefnir í því skyni.
  □ Skaðlegar veiðar skv. 2. mgr. teljast veiðar þegar smáfiskur í afla fer yfir þau viðmiðunarmörk sem ráðherra hefur ákveðið að fengnum tillögum Hafrannsóknastofnunarinnar. Sama gildir um veiðar á smáhumri, smárækju eða öðrum tegundum nytjastofna, enda hafi verið sett viðmiðunarmörk varðandi nýtingu hlutaðeigandi stofns. Þá teljast það enn fremur skaðlegar veiðar í þessu sambandi ef telja verður að veiðarnar séu ekki í samræmi við aðrar ákvarðanir sem teknar hafa verið um hagkvæma nýtingu viðkomandi nytjastofna.
  □ Að fengnum upplýsingum skv. 2. mgr. getur Hafrannsóknastofnunin bannað tilteknar veiðar á ákveðnum svæðum í allt að 14 sólarhringa með tilkynningu til strandstöðva og í útvarpi. Jafnframt skal veiðieftirliti Fiskistofu og stjórnstöð Landhelgisgæslunnar tilkynnt um skyndilokanir. Ráðherra skal setja nánari reglur[^1)^] um framkvæmd slíkra skyndilokana.
  □ Sjávarútvegsráðuneytið skal, í samráði við Hafrannsóknastofnunina, áður en skyndilokun fellur úr gildi, ákveða til hvaða ráðstafana skuli grípa ef ástæða er talin til frekari friðunar á viðkomandi svæði. Hafrannsóknastofnuninni er þó heimilt að grípa til skyndilokunar svæðis aftur í allt að sjö daga sé þess talin þörf þar sem ekki liggja fyrir nægar upplýsingar um ástand svæðisins eða ef talið er að skyndilokun svæðisins aftur tryggi að ekki verði um að ræða frekari skaðlegar veiðar á því svæði. Ákvörðun um til hvaða ráðstafana verði gripið í framhaldi af lokun skv. 4. mgr. skal tilkynnt a.m.k. einum sólarhring áður en fyrri skyndilokun fellur úr gildi.
  □ Heimilt er ráðuneytinu að leyfa einstökum fiskiskipum að stunda tilraunaveiðar á svæðum sem lokað hefur verið tímabundið skv. 4. mgr. Slíkt skal þó jafnan gert undir eftirliti Fiskistofu, Hafrannsóknastofnunarinnar eða Landhelgisgæslunnar og skal skipstjórnarmönnum skylt að fara að fyrirmælum eftirlitsaðila varðandi tilraunaveiðarnar.
-    _[^1)^]Rg. 26/1998_.
+    _[^1)^]_"Rg. 26/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/026-1998.
  ■ *11. gr.* Heimilt er að grípa til skyndilokana veiðisvæða skv. 10. gr. vegna upplýsinga sem komnar eru frá skipstjórum um að skaðlegar veiðar fari fram á ákveðnu svæði. Skilyrði þess eru eftirfarandi:
     1. Að upplýsingar berist frá a.m.k. þremur skipstjórum sem telji að skaðlegar veiðar séu stundaðar á tilteknu svæði.
     2. Upplýsingarnar séu studdar nýjum mælingum á aflasamsetningu hjá viðkomandi skipum, sbr. 1. tölul., enda séu mælingarnar framkvæmdar á fullnægjandi hátt að mati Hafrannsóknastofnunarinnar og fyrir liggi ákveðnar tillögur frá skipstjórunum um mörk þess svæðis sem lagt er til að lokað verði.
@@ -400,7 +151,7 @@ Horn (grp. 38)
 ■ *12. gr.* Sé veiðieftirlitsmaður Fiskistofu um borð í veiðiskipi getur hann óskað eftir því að skipstjóri láti kasta eða leggi veiðarfæri á tilteknu svæði í tilraunaskyni, enda hafi hann rökstudda ástæðu til að ætla að önnur skip stundi skaðlegar veiðar á því svæði. Slíka tilraun skal gera með þeim hætti að hún tefji veiðar skipsins óverulega og valdi útgerðinni ekki teljandi óhagræði. Skal framkvæmd tilraunarinnar ákveðin í samráði við skipstjóra skipsins.
 ■ *13. gr.* Ráðherra getur, að fengnu áliti Hafrannsóknastofnunarinnar, veitt tímabundnar heimildir til veiðitilrauna og annarra vísindalegra rannsókna í fiskveiðilandhelgi Íslands og þurfa þær heimildir ekki að vera bundnar við íslenska aðila. Slíkar tilraunir eða rannsóknir skulu að jafnaði fara fram undir eftirliti Hafrannsóknastofnunarinnar, Landhelgisgæslunnar eða Fiskistofu. Verði því ekki viðkomið að hafa sérstakan eftirlitsmann um borð í skipi því er heimild fær samkvæmt þessari grein skal heimildin veitt með því skilyrði að Hafrannsóknastofnunin fái nákvæmar upplýsingar um niðurstöður þessara tilrauna eða rannsókna. Heimilt er að ákveða að leyfishafi skuli greiða allan kostnað sem leiðir af veru eftirlitsmanns um borð í skipi samkvæmt þessari grein.
 ■ *14. gr.* Ráðherra setur reglur[^1)^] um framkvæmd laga þessara. Getur hann m.a. sett allar reglur um útbúnað, gerð og frágang veiðarfæra og takmarkað notkun þeirra. Þá getur ráðherra sett reglur um lágmarksstærðir sjávardýra sem heimilt er að veiða og leyfilegan veiðitíma.
-    _[^1)^]Rg. 262/1977_, sbr. 311/1977 (um lágmarksstærðir fisktegunda). Rg. 143/1979 (um veiðar á sandsíli). Rg. 6/1984 (um eftirlit með afla og úthaldi á fiskveiðum). Rg. 285/1985 (um loðnuveiðar). Rg. 373/1985 (um leyfisbindingu veiða). Rg. 113/1988, sbr. 539/1989 (um veitingu veiðileyfa). Rg. 128/1988, sbr. 4/1990 (um grásleppuveiðar). Rg. 376/1992 (um síldveiðar). Rg. 492/1993, sbr. 482/1994 (ígulkeraveiðar). Rg. 198/1995 (um bann við rækjuveiðum á Skötufirði og innanverðu Ísafjarðardjúpi). Rg. 504/1995, sbr. 641/1995, 3/1996, 562/1996, 578/1996 og 101/1997 (um friðunarsvæði við Ísland). Rg. 609/1995. Rg. 75/1996. Rg. 334/1997 (um dragnótaveiðar). Rg. 24/1998 (um möskvamæla og framkvæmd möskvamælinga). Rg. 64/1998, sbr. 664/2000 (um þorskfisknet). Rg. 75/1998, sbr. 176/2000 (um hrognkelsaveiðar). Rg. 77/1998, sbr. 382/1998 og 737/2000 (um botn- og flotvörpur). Rg. 150/1998, sbr. 445/1999 (um mælingar á fiskilestum). Rg. 486/1998 (um gerð og útbúnað smáfiskaskilju). Rg. 304/1999, sbr. 276/2000 (um úthafsrækjuveiðisvæði og notkun seiðaskilju við rækjuveiðar). Rg. 552/2000 (um humarveiðar). Rg. 739/2000 (um gerð og útbúnað smárækjuskilju).
+    _[^1)^]_"Rg. 262/1977":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/262-1977, sbr. "311/1977":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/311-1977 (um lágmarksstærðir fisktegunda). "Rg. 143/1979":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/143-1979 (um veiðar á sandsíli). "Rg. 6/1984 (um eftirlit":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/006-1984 með "afla og úthaldi á fiskveiðum). Rg. 285/1985":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/285-1985 (um loðnuveiðar). "Rg. 373/1985":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/373-1985 (um leyfisbindingu veiða). "Rg. 113/1988":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/113-1988, sbr. "539/1989":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/539-1989 (um veitingu veiðileyfa). "Rg. 128/1988":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/128-1988, sbr. "4/1990":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/004-1990 (um grásleppuveiðar). "Rg. 376/1992":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-1992 (um síldveiðar). "Rg. 492/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/492-1993, sbr. "482/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/482-1994 (ígulkeraveiðar). "Rg. 198/1995":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/198-1995 (um bann við rækjuveiðum á Skötufirði og innanverðu Ísafjarðardjúpi). "Rg. 504/1995":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/504-1995, sbr. "641/1995":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/641-1995, "3/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/003-1996, "562/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-1996, "578/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/578-1996 og "101/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/101-1997 (um friðunarsvæði við Ísland). "Rg. 609/1995":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/609-1995. "Rg. 75/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/075-1996. "Rg. 334/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/334-1997 (um dragnótaveiðar). "Rg. 24/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/024-1998 (um möskvamæla og framkvæmd möskvamælinga). "Rg. 64/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/064-1998, sbr. "664/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/664-2000 og "242/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/242-2001 (um þorskfisknet). "Rg. 75/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/075-1998, sbr. "176/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/176-2000 (um hrognkelsaveiðar). "Rg. 77/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/077-1998, sbr. "382/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/382-1998, "737/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/737-2000 og "29/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/029-2001 (um botn- og flotvörpur). "Rg. 150/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/150-1998, sbr. "445/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/445-1999 (um mælingar á fiskilestum). "Rg. 304/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/304-1999, sbr. "276/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/276-2000, "30/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/030-2001 og "191/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/191-2001 (um úthafsrækjuveiðisvæði og notkun seiðaskilju við rækjuveiðar). "Rg. 552/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/552-2000 (um humarveiðar). "Rg. 739/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/739-2000 (um gerð og útbúnað smárækjuskilju). "Rg. 278/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/278-2001 (um gerð og útbúnað smáfiskaskilju).
  ■ *15. gr.* Brot gegn ákvæðum laga þessara og reglum settum samkvæmt þeim varða viðurlögum skv. 16. - 17. gr. laga þessara, hvort sem þau eru framin af ásetningi eða gáleysi. Sé um stórfelld eða ítrekuð ásetningsbrot að ræða skulu þau þar að auki varða ...[^1)^] fangelsi allt að sex árum.
  □ Beita skal ákvæðum laga um sérstakt gjald vegna ólögmæts sjávarafla vegna brota á lögum þessum eftir því sem við á.
     _[^1)^]_"L. 82/1998, 239. gr.":/altext/stjt/1998.082.html

@@ -19,10 +19,11 @@ h2. Lög um ársreikninga
     6. _dótturfélag:_ félag sem er undir yfirráðum annars félags á þann hátt sem lýst er í 5. tölul.;
     7. _félagasamstæða:_ móðurfélag og dótturfélög þess;
     8. _samstæðureikningur:_ reikningsskil þar sem reikningar móðurfélags og dótturfélaga þess eru sameinaðir í eitt;
-    9. _félagaskrá:_ hver sú stofnun sem með lögum er fengið það hlutverk að skrásetja félög og afla og geyma gögn um stofnun félaga og starfsemi þeirra.
+    9. [_ársreikningaskrá:_ skrá sem starfrækt er í því skyni að taka á móti, geyma og birta ársreikninga skilaskyldra félaga.][^1)^]
  □ Þegar talið er saman atkvæðamagn félags í öðru félagi skal bæði telja atkvæði sem félagið sjálft fer með og atkvæði dótturfélaga þess hlutfallslega.
  □ Eigin hlutir félags og hlutir, sem dótturfélag á í móðurfélagi, skulu ekki taldir með þegar talin eru saman atkvæði félags í dóttur- eða hlutdeildarfélögum.
-■ *2. gr.* Lög þessi gilda um sameignarfélög og önnur félög með ótakmarkaðri ábyrgð félagsaðila, svo og samlagsfélög, ef félagsaðilar þeirra eru eingöngu félög sem talin eru í 1. málsl. 1. mgr. 1. gr.
+    _[^1)^]_"L. 58/2001, 1. gr.":/altext/stjt/2001.058.html
+ ■ *2. gr.* Lög þessi gilda um sameignarfélög og önnur félög með ótakmarkaðri ábyrgð félagsaðila, svo og samlagsfélög, ef félagsaðilar þeirra eru eingöngu félög sem talin eru í 1. málsl. 1. mgr. 1. gr.
  □ Enn fremur gilda lög þessi um sameignarfélög, og önnur félög með ótakmarkaðri ábyrgð félagsaðila, svo og samlagsfélög, ef félögin fara fram úr tvennum af eftirfarandi stærðarmörkum tvö ár í röð:
     1. eignir nema samtals a.m.k. 200.000.000 kr.;
     2. rekstrartekjur nema a.m.k. 400.000.000 kr.;
@@ -37,10 +38,11 @@ h2. Lög um ársreikninga
     1. það er dótturfélag;
     2. ársreikningur þess og allra dótturfélaga þess er hluti af samstæðureikningi móðurfélags sem lýtur löggjöf EES-ríkis;
     3. stjórn félagsins hefur ekki sex mánuðum fyrir lok reikningsárs borist krafa frá félagsaðilum, sem eiga a.m.k. 10% af eigin fé félagsins, um að láta semja samstæðureikning;
-    4. félagið sendir félagaskrá ársreikning sinn ásamt samstæðureikningi, sbr. 2. tölul., svo og upplýsingar sem greinir í 1. málsl. 2. mgr. og
+    4. félagið sendir [ársreikningaskrá][^1)^] ársreikning sinn ásamt samstæðureikningi, sbr. 2. tölul., svo og upplýsingar sem greinir í 1. málsl. 2. mgr. og
     5. félagið gerir grein fyrir því í skýringum í ársreikningi að með stoð í þessari grein hafi það ekki samið samstæðureikning og skýrir frá nafni og lögheimili móðurfélagsins, sbr. 2. tölul.
- □ Félagaskrá getur krafist þess að látnar verði í té sams konar upplýsingar um samstæðureikninga sem tilgreindir eru í 2. tölul. 1. mgr. og hefðu átt að fylgja samstæðureikningi félagsins sjálfs samkvæmt lögum þessum. Félagaskrá getur enn fremur krafist íslenskrar þýðingar á samstæðureikningnum.
-■ *5. gr.* Halda má dótturfélagi utan samstæðureiknings ef:
+ □ [Ársreikningaskrá][^1)^] getur krafist þess að látnar verði í té sams konar upplýsingar um samstæðureikninga sem tilgreindir eru í 2. tölul. 1. mgr. og hefðu átt að fylgja samstæðureikningi félagsins sjálfs samkvæmt lögum þessum. [Ársreikningaskrá][^1)^] getur enn fremur krafist íslenskrar þýðingar á samstæðureikningnum.
+    _[^1)^]_"L. 58/2001, 2. gr.":/altext/stjt/2001.058.html
+ ■ *5. gr.* Halda má dótturfélagi utan samstæðureiknings ef:
     1. það hefur óverulega þýðingu fyrir rekstur eða efnahag félagasamstæðunnar vegna smæðar þess;
     2. stjórnun þess er ekki lengur í höndum eigenda þess eða verulegar og varanlegar hindranir eru á að félag geti nýtt eignarhluta sinn í dótturfélaginu eða haft áhrif á stjórnun þess;
     3. ekki er unnt að afla nauðsynlegra upplýsinga tímanlega og án óeðlilegs kostnaðar; eða
@@ -232,48 +234,59 @@ h2. Lög um ársreikninga
 ■ *68. gr.* Endurskoðendum, skoðunarmönnum og samstarfsmönnum þeirra er óheimilt að veita einstökum félagsaðilum eða óviðkomandi aðilum upplýsingar um hag félagsins.
 
  *VIII. kafli.* *Birting ársreiknings.*
-■ *69. gr.* Eigi síðar en mánuði eftir samþykkt ársreiknings, þó eigi síðar en átta mánuðum eftir lok reikningsárs, skal senda félagaskrá ársreikning eða samstæðureikning ásamt skýrslu stjórnar, áritun endurskoðenda eða skoðunarmanna og upplýsingar um hvenær ársreikningurinn var samþykktur. Ársreikninga félaga, sem hafa hlutabréf sín eða skuldabréf skráð á opinberu verðbréfaþingi, skal þó senda þegar í stað eftir samþykkt þeirra og eigi síðar en sex mánuðum eftir lok reikningsárs. Ef samþykkt á ráðstöfun hagnaðar eða jöfnun taps kemur ekki fram í ársreikningnum eða skýrslu stjórnar skal enn fremur senda staðfest endurrit úr gerðabók aðalfundarins þar sem greint er frá ráðstöfun hagnaðar eða jöfnun taps.
- □ Þrátt fyrir ákvæði 1. mgr. er félögum, sem fara ekki fram úr stærðarmörkunum í 1. mgr. 6. gr., heimilt að senda félagaskrá samandregna útgáfu af rekstrarreikningi, efnahagsreikningi og skýringum. Heimild þessi nær þó ekki til félaga sem hafa hlutabréf sín eða skuldabréf skráð á opinberu verðbréfaþingi og heldur ekki til félaga sem leggja ekki hömlur á viðskipti með eignarhluta sína.
- □ Félagaskrá skal veita aðgang að þeim gögnum sem skilaskyld eru samkvæmt þessari grein.
-■ *70. gr.* Ársreikninga dótturfélaga, sem haldið er utan samstæðureiknings samkvæmt ákvæðum 3. mgr. 5. gr., skal senda félagaskrá með ársreikningi eða samstæðureikningi móðurfélags.
-■ *71. gr.* Sameignarfélög og samlagsfélög, sem tilgreind eru í 2. gr., skulu senda félagaskrá tilkynningu um nafn, heimilisfang, félagsform og atvinnugrein sína samtímis því að þau senda henni í fyrsta sinn birtingarskyld gögn skv. 69. gr.
+■ *69. gr.* Eigi síðar en mánuði eftir samþykkt ársreiknings, þó eigi síðar en átta mánuðum eftir lok reikningsárs, skal senda [ársreikningaskrá][^1)^] ársreikning eða samstæðureikning ásamt skýrslu stjórnar, áritun endurskoðenda eða skoðunarmanna og upplýsingar um hvenær ársreikningurinn var samþykktur. Ársreikninga félaga, sem hafa hlutabréf sín eða skuldabréf skráð á opinberu verðbréfaþingi, skal þó senda þegar í stað eftir samþykkt þeirra og eigi síðar en sex mánuðum eftir lok reikningsárs. Ef samþykkt á ráðstöfun hagnaðar eða jöfnun taps kemur ekki fram í ársreikningnum eða skýrslu stjórnar skal enn fremur senda staðfest endurrit úr gerðabók aðalfundarins þar sem greint er frá ráðstöfun hagnaðar eða jöfnun taps.
+ □ Þrátt fyrir ákvæði 1. mgr. er félögum, sem fara ekki fram úr stærðarmörkunum í 1. mgr. 6. gr., heimilt að senda [ársreikningaskrá][^1)^] samandregna útgáfu af rekstrarreikningi, efnahagsreikningi og skýringum. Heimild þessi nær þó ekki til félaga sem hafa hlutabréf sín eða skuldabréf skráð á opinberu verðbréfaþingi og heldur ekki til félaga sem leggja ekki hömlur á viðskipti með eignarhluta sína.
+ □ [Ársreikningaskrá][^1)^] skal veita aðgang að þeim gögnum sem skilaskyld eru samkvæmt þessari grein.
+ □ [Ráðherra ákveður aðsetur ársreikningaskrár.][^1)^]
+    _[^1)^]_"L. 58/2001, 3. gr.":/altext/stjt/2001.058.html
+ ■ *70. gr.* Ársreikninga dótturfélaga, sem haldið er utan samstæðureiknings samkvæmt ákvæðum 3. mgr. 5. gr., skal senda [ársreikningaskrá][^1)^] með ársreikningi eða samstæðureikningi móðurfélags.
+    _[^1)^]_"L. 58/2001, 4. gr.":/altext/stjt/2001.058.html
+ ■ *71. gr.* Sameignarfélög og samlagsfélög, sem tilgreind eru í 2. gr., skulu senda [ársreikningaskrá][^1)^] tilkynningu um nafn, heimilisfang, félagsform og atvinnugrein sína samtímis því að þau senda henni í fyrsta sinn birtingarskyld gögn skv. 69. gr.
  □ Sameignarfélög og samlagsfélög, sem nýta sér undanþáguheimildir 75. eða 76. gr., skulu veita upplýsingar um nöfn og heimilisföng þeirra félaga sem semja ársreikninga þeirra eða innifela þá í samstæðureikningum sínum ef eftir því er leitað.
-■ *72. gr.* Ef félag birtir ársreikning sinn eða samstæðureikning í heild skal hann vera í sama formi og hann var samþykktur á aðalfundi með áritun endurskoðenda eða skoðunarmanna. Ef áritun endurskoðenda eða skoðunarmanna er ekki fyrirvaralaus skal vakin athygli á því og ástæður þess tilgreindar.
+    _[^1)^]_"L. 58/2001, 5. gr.":/altext/stjt/2001.058.html
+ ■ *72. gr.* Ef félag birtir ársreikning sinn eða samstæðureikning í heild skal hann vera í sama formi og hann var samþykktur á aðalfundi með áritun endurskoðenda eða skoðunarmanna. Ef áritun endurskoðenda eða skoðunarmanna er ekki fyrirvaralaus skal vakin athygli á því og ástæður þess tilgreindar.
  □ Nú er ársreikningur eða samstæðureikningur ekki birtur í heild og skal þá koma fram með ótvíræðum hætti að hann sé samandreginn. Áritun endurskoðenda eða skoðunarmanna þarf ekki að fylgja með samandreginni útgáfu en koma skal fram ef áritunin var ekki fyrirvaralaus og ástæður þess tilgreindar.
-■ *73. gr.* Útibússtjórar í útibúum erlendra félaga, sem skráð eru hjá félagaskrá, skulu í síðasta lagi átta mánuðum eftir lok reikningsárs senda staðfest endurrit ársreiknings eða samstæðureiknings félagsins til félagaskrár ásamt reikningsskilum útibúsins.
- □ Reikningar, sem sendir eru félagaskrá skv. 1. mgr., skulu vera í sama formi og ber að birta þá samkvæmt gildandi reglum í heimaríki félagsins.
- □ Ársreikninga fyrir erlent félag, sem lýtur löggjöf EES-ríkis, má senda félagaskrá óendurskoðaða ef slíkt samræmist löggjöf í heimaríki félagsins.
- □ Félagaskrá skal veita aðgang að þeim gögnum sem skilaskyld eru samkvæmt þessari grein.
-■ *74. gr.* Í stað þess að senda félagaskrá ársreikning sinn getur erlent dótturfélag, sem rekur útibú hér á landi og lýtur löggjöf annars EES-ríkis, sent félagaskrá samstæðureikning móðurfélags síns ef:
+■ *73. gr.* [Útibússtjórar í útibúum erlendra félaga, sem skráð eru hér á landi, skulu í síðasta lagi átta mánuðum eftir lok reikningsárs senda staðfest endurrit ársreiknings eða samstæðureiknings félagsins til ársreikningaskrár ásamt reikningsskilum útibúsins.][^1)^]
+ □ Reikningar, sem sendir eru [ársreikningaskrá][^1)^] skv. 1. mgr., skulu vera í sama formi og ber að birta þá samkvæmt gildandi reglum í heimaríki félagsins.
+ □ Ársreikninga fyrir erlent félag, sem lýtur löggjöf EES-ríkis, má senda [ársreikningaskrá][^1)^] óendurskoðaða ef slíkt samræmist löggjöf í heimaríki félagsins.
+ □ [Ársreikningaskrá][^1)^] skal veita aðgang að þeim gögnum sem skilaskyld eru samkvæmt þessari grein.
+    _[^1)^]_"L. 58/2001, 6. gr.":/altext/stjt/2001.058.html
+ ■ *74. gr.* Í stað þess að senda [ársreikningaskrá][^1)^] ársreikning sinn getur erlent dótturfélag, sem rekur útibú hér á landi og lýtur löggjöf annars EES-ríkis, sent [ársreikningaskrá][^1)^] samstæðureikning móðurfélags síns ef:
     1. móðurfélagið lýtur löggjöf EES-ríkis;
     2. allir félagsaðilar hafa samþykkt þessa aðferð;
     3. móðurfélagið ábyrgist skuldbindingar félagsins;
     4. reikningar félagsins og dótturfélaga þess eru teknir með í samstæðureikningi móðurfélagsins í samræmi við ákvæði laga þessara um samstæðureikninga;
     5. getið er um reikningsskilaaðferðir við gerð samstæðureikningsins og
-    6. samstæðureikningurinn ásamt skýrslu stjórnar og áritun endurskoðenda er sendur félagaskrá ásamt staðfestingu á því sem tilgreint er í 2. og 3. tölul.
- □ Í stað þess að senda félagaskrá ársreikninga sína geta önnur erlend félög sent henni samstæðureikning móðurfélaga sinna ef það samræmist þeirri löggjöf sem um þau gildir og
+    6. samstæðureikningurinn ásamt skýrslu stjórnar og áritun endurskoðenda er sendur [ársreikningaskrá][^1)^] ásamt staðfestingu á því sem tilgreint er í 2. og 3. tölul.
+ □ Í stað þess að senda [ársreikningaskrá][^1)^] ársreikninga sína geta önnur erlend félög sent henni samstæðureikning móðurfélaga sinna ef það samræmist þeirri löggjöf sem um þau gildir og
     1. skilyrði 2., 3., 5. og 6. tölul. 1. mgr. eru uppfyllt og
-    2. félagaskrá telur að samstæðureikningarnir séu gerðir í samræmi við ákvæði laga þessara.
+    2. [ársreikningaskrá][^1)^] telur að samstæðureikningarnir séu gerðir í samræmi við ákvæði laga þessara.
  □ Tilkynning skv. 2. tölul. 1. mgr. skal send fyrir hvert reikningsár. Yfirlýsing um efni 3. tölul. 1. mgr. gildir uns hún hefur verið afturkölluð.
-■ *75. gr.* Sameignarfélag eða samlagsfélag, sem tilgreint er í 2. gr., þarf ekki að senda félagaskrá ársreikning sinn ef a.m.k. einn af félagsaðilum þess er heimilisfastur hér á landi, semur ársreikning fyrir félagið og lætur endurskoða hann og senda skránni ásamt sínum eigin ársreikningi.
- □ Félag, sem um ræðir í 1. mgr. þar sem enginn félagsaðili er heimilisfastur hér á landi, þarf ekki að senda félagaskrá ársreikning sinn ef einhver félagsaðili þess:
+    _[^1)^]_"L. 58/2001, 7. gr.":/altext/stjt/2001.058.html
+ ■ *75. gr.* Sameignarfélag eða samlagsfélag, sem tilgreint er í 2. gr., þarf ekki að senda [ársreikningaskrá][^1)^] ársreikning sinn ef a.m.k. einn af félagsaðilum þess er heimilisfastur hér á landi, semur ársreikning fyrir félagið og lætur endurskoða hann og senda skránni ásamt sínum eigin ársreikningi.
+ □ Félag, sem um ræðir í 1. mgr. þar sem enginn félagsaðili er heimilisfastur hér á landi, þarf ekki að senda [ársreikningaskrá][^1)^] ársreikning sinn ef einhver félagsaðili þess:
     1. lýtur löggjöf EES-ríkis;
     2. semur ársreikning fyrir félagið og lætur endurskoða hann samkvæmt ákvæðum þeirrar löggjafar og
-    3. sendir félagaskrá ársreikninginn innan þeirra tímamarka, sem greinir í 1. mgr. 69. gr., ásamt sínum eigin ársreikningi eða opinbera staðfestingu á að ársreikningar félagsins hafi verið birtir í samræmi við löggjöfina sem nefnd er í 1. tölul.
+    3. sendir [ársreikningaskrá][^1)^] ársreikninginn innan þeirra tímamarka, sem greinir í 1. mgr. 69. gr., ásamt sínum eigin ársreikningi eða opinbera staðfestingu á að ársreikningar félagsins hafi verið birtir í samræmi við löggjöfina sem nefnd er í 1. tölul.
  □ Félagsaðili getur haft ársreikning skv. 1. mgr. sem hluta af eigin ársskýrslu.
-■ *76. gr.* Sameignarfélag eða samlagsfélag, sem tilgreint er í 2. gr., þarf ekki að senda félagaskrá ársreikning sinn ef hann er hluti af samstæðureikningi félagsaðila sem saminn er og endurskoðaður í samræmi við ákvæði laga þessara og sendur félagaskrá.
- □ Ákvæði 1. mgr. eiga enn fremur við ef ársreikningur félags er hluti af samstæðureikningi móðurfélags þess félagsaðila sem ekki er skylt að senda félagaskrá samstæðureikning sinn, sbr. 4. gr.
- □ Í samstæðureikningum þeim sem greinir í 1. og 2. mgr. skal geta þess í skýringum ef félag skv. 2. gr. sendir félagaskrá ekki ársreikning sinn.
- □ Innan tímamarka 1. mgr. 69. gr. skal senda félagaskrá samstæðureikninga skv. 1. og 2. mgr. eða staðfestingu opinbers aðila á að ársreikningur hafi verið saminn og birtur í samræmi við ákvæði 1. mgr.
-■ *77. gr.* Þegar sérstakar samkeppnisaðstæður mæla með því geta félög, sem á reikningsskiladegi fara ekki fram úr tvennum af eftirfarandi stærðarmörkum, sent félagaskrá samandreginn rekstrarreikning, samkvæmt nánari reglum sem fjármálaráðherra setur:
+    _[^1)^]_"L. 58/2001, 8. gr.":/altext/stjt/2001.058.html
+ ■ *76. gr.* Sameignarfélag eða samlagsfélag, sem tilgreint er í 2. gr., þarf ekki að senda [ársreikningaskrá][^1)^] ársreikning sinn ef hann er hluti af samstæðureikningi félagsaðila sem saminn er og endurskoðaður í samræmi við ákvæði laga þessara og sendur [ársreikningaskrá].[^1)^]
+ □ Ákvæði 1. mgr. eiga enn fremur við ef ársreikningur félags er hluti af samstæðureikningi móðurfélags þess félagsaðila sem ekki er skylt að senda [ársreikningaskrá][^1)^] samstæðureikning sinn, sbr. 4. gr.
+ □ Í samstæðureikningum þeim sem greinir í 1. og 2. mgr. skal geta þess í skýringum ef félag skv. 2. gr. sendir [ársreikningaskrá][^1)^] ekki ársreikning sinn.
+ □ Innan tímamarka 1. mgr. 69. gr. skal senda [ársreikningaskrá][^1)^] samstæðureikninga skv. 1. og 2. mgr. eða staðfestingu opinbers aðila á að ársreikningur hafi verið saminn og birtur í samræmi við ákvæði 1. mgr.
+    _[^1)^]_"L. 58/2001, 9. gr.":/altext/stjt/2001.058.html
+ ■ *77. gr.* Þegar sérstakar samkeppnisaðstæður mæla með því geta félög, sem á reikningsskiladegi fara ekki fram úr tvennum af eftirfarandi stærðarmörkum, sent [ársreikningaskrá][^1)^] samandreginn rekstrarreikning, samkvæmt nánari reglum sem fjármálaráðherra setur:
     1. eignir nema samtals 500 milljónum kr.;
     2. rekstrartekjur nema samtals 1.000 milljónum kr.;
     3. fjöldi ársverka á reikningsári er a.m.k. 250.
  □ Heimildinni til þess að beita ákvæði 1. mgr. má aðeins breyta ef félag hefur á reikningsskiladegi farið fram úr eða fer ekki lengur fram úr tvennum af þeim mörkum, sem nefnd eru í 1. mgr., tvö reikningsár í röð.
-■ *78. gr.* Félagaskrá skal gera úrtakskannanir og athuganir á ársreikningum, samstæðureikningum og skýrslum stjórna í því skyni að sannreyna að þessi gögn séu í samræmi við ákvæði þessara laga. Hún getur krafist þeirra upplýsinga hjá hverju félagi sem nauðsynlegar eru í þessu sambandi.
+    _[^1)^]_"L. 58/2001, 10. gr.":/altext/stjt/2001.058.html
+ ■ *78. gr.* [Ársreikningaskrá skal gera úrtakskannanir og athuganir á ársreikningum, samstæðureikningum og skýrslum stjórna í því skyni að sannreyna að þessi gögn séu í samræmi við ákvæði þessara laga. Hún getur krafist þeirra upplýsinga hjá hverju félagi sem nauðsynlegar eru í þessu sambandi.
+ □ Í því skyni að sannreyna hvort félög uppfylli ákvæði laganna um stærðarmörk til að mega skila samandregnum ársreikningum og samstæðureikningum hefur ársreikningaskrá heimild til að afla upplýsinga hjá ríkisskattstjóra um nöfn og kennitölur þeirra félaga sem lög þessi taka til og fara yfir þau stærðarmörk sem greinir í 6. gr.][^1)^]
+    _[^1)^]_"L. 58/2001, 11. gr.":/altext/stjt/2001.058.html
 
  *IX. kafli.* *Reikningsskilaráð og góð reikningsskilavenja.*
-■ *79. gr.* Ráðherra skal skipa fimm sérfróða menn til fjögurra ára í senn í nefnd sem nefnist reikningsskilaráð. Skal einn nefndarmanna tilnefndur af Félagi löggiltra endurskoðenda, annar af viðskipta- og hagfræðideild Háskóla Íslands, þriðji af Verslunarráði Íslands, sá fjórði skal vera ríkisendurskoðandi en einn nefndarmaður er skipaður án tilnefningar. Ráðherra skipar formann reikningsskilaráðs úr hópi nefndarmanna.
+ ■ *79. gr.* Ráðherra skal skipa fimm sérfróða menn til fjögurra ára í senn í nefnd sem nefnist reikningsskilaráð. Skal einn nefndarmanna tilnefndur af Félagi löggiltra endurskoðenda, annar af viðskipta- og hagfræðideild Háskóla Íslands, þriðji af Verslunarráði Íslands, sá fjórði skal vera ríkisendurskoðandi en einn nefndarmaður er skipaður án tilnefningar. Ráðherra skipar formann reikningsskilaráðs úr hópi nefndarmanna.
 ■ *80. gr.* Reikningsskilaráð skal stuðla að mótun góðrar reikningsskilavenju með útgáfu og kynningu samræmdra reglna[^1)^] sem farið skal eftir við gerð reikningsskila. Ráðið skal gefa álit á því hvað telst góð reikningsskilavenja á hverjum tíma. Reikningskilaráð skal árlega auglýsa í Lögbirtingablaðinu skrá yfir útgefnar reglur og álit.
  □ Ráðið skal starfa í nánu samráði við Félag löggiltra endurskoðenda og hagsmunaaðila. Það getur einnig verið stjórnvöldum til ráðuneytis um ákvæði sem sett eru í lögum eða reglugerðum um reikningsskil.
     _[^1)^]Augl. 670/1999_, augl. 671/1999, augl. 349/2000.
@@ -312,7 +325,7 @@ h2. Lög um ársreikninga
     _[^1)^]"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html_
  ■ *[89. gr.][^1)^]* Ráðherra getur sett reglugerð[^2)^] um framkvæmd laga þessara, þar á meðal um uppsetningu ársreikninga og samstæðureikninga, óstyttra og samandreginna, svo og um skil á þeim og birtingu þeirra.
  □ Viðmiðunarmörkin í 1. og 2. tölul. 2. mgr. 2. gr. og 1. og 2. tölul. 6. gr., svo og 59. gr. og 77. gr., eru grunnfjárhæðir sem miðast við gengi í ECU 1. janúar 1995. Ráðherra er heimilt að breyta þessum fjárhæðum til samræmis við breytingar á 4. tilskipun ESB eða ef verulegar breytingar verða á gengi ECU.[^3)^]
-    _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]Rg. 134/1996, rg. 801/1998, sbr. 243/2000. [^3)^]Rg. 242/2000.
+    _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]"Rg. 134/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/134-1996, "rg. 801/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/801-1998, sbr. "243/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/243-2000. [^3)^]"Rg. 242/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/242-2000.
  ■ *[90. gr.][^1)^]* ...[^2)^]
     _[^1)^]_"L. 37/1995, 3. gr.":/altext/stjt/1995.037.html [^2)^]"L. 37/1995, 4. gr.":/altext/stjt/1995.037.html
  ■ *[91. gr.][^1)^]* Lög þessi öðlast gildi 1. janúar 1995 og skulu gilda um ársreikninga og samstæðureikninga fyrir hvert það reikningsár sem hefst frá og með þeim tíma.

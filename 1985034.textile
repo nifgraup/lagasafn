@@ -33,7 +33,7 @@ h2. Siglingalög
  □ Hver, sem hefur lögmætra hagsmuna að gæta, getur krafist þess að fá að kynna sér efni skipsbóka, eftir því sem við verður komið, og að fá endurrit úr þeim ef honum er nauðsyn á því. Þetta á þó ekki við hafi skip rekist á erlent skip og ekki er á samsvarandi hátt veittur aðgangur að bókum þess skips nema samgönguráðuneytið mæli fyrir á annan veg.
  □ Fullnotaðar skipsbækur skulu varðveittar eigi skemur en í þrjú ár frá því síðast var fært í þær. Sé áður höfðað mál sem tengist ferðum skipsins sem viðkomandi bók varðar skal hún geymd þar til fullnaðarlausn hefur fengist á því máli.
  □ Ákvæði 2. og 3. mgr. gilda einnig um varðveislu færslna sjálfrita í skipi varðandi siglingu skips o.þ.h.
-    _[^1)^]Rg. 138/1986_, sbr. 183/1987.
+    _[^1)^]_"Rg. 138/1986":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/138-1986, sbr. "183/1987":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/183-1987.
  ■ *10. gr.* Skipstjóri annast um að fermingu og affermingu skips sé hraðað eftir þörfum og að ferð skips dragist ekki. Ekki má hann nauðsynjalaust víkja skipinu af réttri leið á ferð þess né tefja það á annan hátt nema honum sé rétt eða skylt að bjarga mönnum eða skipi úr sjávarháska.
 ■ *11. gr.* Ef skip kemst í sjávarháska er skipstjóra skylt að gera allt, sem hann má, til bjargar mönnum, skipi, farmi og öðrum fjármunum sem á skipi eru og leita sér til þess hjálpar sem nauðsyn krefur. Hann skal gæta þess að skipsbókum og skipsskjölum sé eða verði vel borgið eftir því sem aðstæður frekast leyfa. Eigi skal hann yfirgefa skip meðan enn er raunhæf von um björgun þess nema honum sé sjálfum yfirvofandi lífsháski búinn.
 ■ *12. gr.* Nú fer skipstjóri frá skipi og skal hann þá áður gefa hinum æðsta stýrimanni sem kostur er á eða að öðrum kosti, ef ekki næst til stýrimanns, öðrum skipverja eða skipverjum nauðsynleg fyrirmæli eða leiðbeiningar um það sem þörf er á.
@@ -290,7 +290,7 @@ h2. Siglingalög
  □ Heimilt er, án tillits til ákvæða þessarar greinar, að ákveða í farmskírteini að flutningur skuli lúta reglum nefnds alþjóðasáttmála og viðauka eða löggjöf tiltekins ríkis.
 
  *V. kafli.* *Um flutning á farþegum og farangri.[^1)^]*
-    _[^1)^]Rg. 463/1998_.
+    _[^1)^]_"Rg. 463/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-1998.
  _1. Upphafsákvæði._
  ■ *120. gr.* Með „farsala“ er í þessum kafla átt við þann sem í atvinnuskyni eða gegn þóknun í viðskiptaaugnamiði tekur að sér eftir samningi að flytja með skipi farþega eða farþega og farangur.
  □ Með „farþega“ er átt við mann sem flytja á eða verður fluttur með skipi samkvæmt farsamningi og enn fremur þann sem með heimild farsala fylgir ökutæki eða lifandi dýri sem háð er samningi um vöruflutning.
@@ -477,7 +477,7 @@ h2. Siglingalög
  □ Nú hefur útgerðarmaður greitt bætur af þessum sökum og getur hann þá endurkrafið þann, er valdur var að tjóninu, um bótaupphæðina, að því marki sem lög heimila.
  _2. Slys á skipverjum._
 ■ *172. gr.* Útgerðarmaður ber ábyrgð á kröfum vegna lífs- eða líkamstjóns þeirra sem ráðnir eru í skiprúm hjá honum hafi slys borið að höndum er hlutaðeigandi var staddur á skipi eða vann í beinum tengslum við rekstur skips enda þótt slysið eða tjónið verði ekki rakið til bilunar á tækjum eða ónógra öryggisráðstafana né heldur yfirsjónar þeirra er starfa í þágu skips. Lækka má fébætur eða láta þær niður falla ef sá, sem fyrir slysi eða tjóni varð, sýndi vítavert gáleysi sem leiddi til slyssins eða tjónsins.
- □ Skylt er útgerðarmanni að kaupa tryggingu fyrir dánarbótum og slysabótum er á hann kunna að falla samkvæmt 1. mgr. sem hér segir:
+ □ [Skylt er útgerðarmanni að kaupa tryggingu fyrir dánarbótum og slysabótum er á hann kunna að falla skv. 1. mgr. Sé útgerðarmaður jafnframt í áhöfn skips er honum skylt að tryggja sig með sama hætti. Tryggingin skal vera sem hér segir:][^1)^]
     1. Dánarbætur:
     a. 360.000 kr. við andlát er greiðast eftirlifandi maka og börnum á sambærilegan hátt og almennar lögerfðarreglur mæla fyrir um. Með „maka“ er hér einnig átt við sambúðarmann eða sambúðarkonu samkvæmt reglum Tryggingastofnunar ríkisins, sbr. 52. gr. laga um almannatryggingar.
     b. 140.000 kr. til viðbótar greiðslu skv. a-lið ef bætur greiðast samkvæmt c- eða d-lið og skiptast á sama hátt og bætur samkvæmt a-lið.
@@ -488,8 +488,9 @@ h2. Siglingalög
     b. Vegna varanlegrar örorku greiðast bætur á eftirfarandi hátt: 9100 kr. fyrir hvert örorkustig á bilinu frá 1 - 25%, 18.200 kr. á bilinu frá 26 - 50% og 27.300 kr. fyrir hvert örorkustig umfram 50%.
  □ Frá eingreiðslu dánarbóta skal draga örorkubætur ef greiddar hafa verið.
  □ Upphæðir þær, sem um ræðir í 2. mgr., skulu breytast í samræmi við breytingar á næstlægsta launaflokki Dagsbrúnar (efsta starfsaldursþrepi) og skal Hagstofa Íslands birta tilkynningar um breytingar á framangreindum upphæðum eigi sjaldnar en á þriggja mánaða fresti.
+    _[^1)^]_"L. 55/2001, 2. gr.":/altext/stjt/2001.055.html
  _3. Um heimild til takmörkunar ábyrgðar._
-■ *173. gr.* Útgerðarmaður getur takmarkað ábyrgð sína eftir reglum þessa kafla. Sömu heimild hefur eigandi skips (sem ekki er útgerðarmaður), afnotahafi, farmsamningshafi, umráðamaður (disponent) og hver sá sem starfar í beinu sambandi við björgun skips, þ.m.t. störf sem getið er í 4., 5. og 6. tölul. 1. mgr. 174. gr.
+ ■ *173. gr.* Útgerðarmaður getur takmarkað ábyrgð sína eftir reglum þessa kafla. Sömu heimild hefur eigandi skips (sem ekki er útgerðarmaður), afnotahafi, farmsamningshafi, umráðamaður (disponent) og hver sá sem starfar í beinu sambandi við björgun skips, þ.m.t. störf sem getið er í 4., 5. og 6. tölul. 1. mgr. 174. gr.
  □ Þeir menn, sem útgerðarmaður eða aðrir, sem nefndir eru í 1. mgr., bera ábyrgð á, svo sem sjálfstæðir verktakar ef því er að skipta, geta einnig takmarkað ábyrgð sína samkvæmt reglum þessa kafla.
  □ Sá, sem tekur að sér að tryggja gegn ábyrgð á kröfu sem sætir takmörkun ábyrgðar, hefur sömu heimild til að takmarka ábyrgðina og hinn tryggði sjálfur.
 ■ *174. gr.* Heimild til takmörkunar á ábyrgð er fyrir hendi án tillits til þess á hvaða grundvelli ábyrgðin hvílir að því er varðar kröfur sem snerta:

@@ -86,7 +86,7 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
  □ Sjóðurinn verður hvorki tekinn til gjaldþrotaskipta né er heimilt að gera aðför í eignum hans.
 ■ *18. gr.* _Reglugerð._
  □ Ráðherra setur í reglugerð[^1)^] nánari ákvæði um starfsemi sjóðsins, m.a. um tilhögun á greiðslum úr sjóðnum, tryggingu á innstæðu, verðbréfum eða reiðufé þegar um sameiginlegan reikning er að ræða eða þegar viðskiptavinur aðildarfyrirtækis á ekki ótvíræðan rétt til innstæðu, verðbréfa og reiðufjár og um ávöxtun á eignum sjóðsins.
-    _[^1)^]Rg. 120/2000_.
+    _[^1)^]_"Rg. 120/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/120-2000.
 
  *VI. kafli.* *Öryggissjóðir.*
  ■ *19. gr.* Viðskiptabönkum annars vegar og sparisjóðum hins vegar, með staðfestu hér á landi, er heimilt að stofna sjálfseignarstofnanir, öryggissjóði, sem allir viðskiptabankar eða allir sparisjóðir skulu vera aðilar að í því skyni að tryggja hagsmuni viðskiptamanna og fjárhagslegt öryggi viðskiptabanka eða sparisjóða.

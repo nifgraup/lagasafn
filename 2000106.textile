@@ -46,7 +46,7 @@ h2. Lög um mat á umhverfisáhrifum
  □ Nú er fyrirhuguð framkvæmd meðal þeirra sem taldar eru í 2. viðauka við lög þessi og ber framkvæmdaraðila þá að tilkynna Skipulagsstofnun um hana. Ráðherra setur í reglugerð[^1)^] ákvæði um hvaða gögn skuli lögð fram til Skipulagsstofnunar. Innan fjögurra vikna frá því að gögn um framkvæmdina berast skal stofnunin tilkynna hvort framkvæmdin skuli háð mati samkvæmt lögum þessum. Við ákvörðun um matsskyldu skal Skipulagsstofnun fara eftir viðmiðum í 3. viðauka við lög þessi. Áður skal stofnunin leita álits leyfisveitenda, framkvæmdaraðila og annarra eftir eðli máls hverju sinni. Skipulagsstofnun skal gera hlutaðeigandi grein fyrir niðurstöðu sinni og kynna hana almenningi.
  □ Almenningi skal heimilt að tilkynna framkvæmd eða bera fram fyrirspurn um matsskyldu framkvæmda sem taldar eru upp í 2. viðauka til Skipulagsstofnunar og skal stofnunin þá leita upplýsinga um framkvæmdina hjá framkvæmdaraðila og leyfisveitanda og taka ákvörðun um hvort hún eigi undir grein þessa.
  □ Ákvörðun Skipulagsstofnunar skv. 2. og 3. mgr. má kæra til umhverfisráðherra. Kærufrestur er fjórar vikur frá því að niðurstaða stofnunarinnar er kynnt hlutaðeigandi og almenningi.
-    _[^1)^]Rg. 671/2000_.
+    _[^1)^]_"Rg. 671/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/671-2000.
  ■ *7. gr.* _Aðrar framkvæmdir sem hugsanlega eru matsskyldar._
  □ Umhverfisráðherra er heimilt, að fenginni umsögn Skipulagsstofnunar, að mæla svo um í reglugerð að framkvæmd sem ekki er talin upp í 1. og 2. viðauka við lög þessi skuli háð mati ef sýnt þykir að hún geti haft í för með sér umtalsverð umhverfisáhrif. Sama gildir um framkvæmd sem varðar alþjóðasamninga sem Ísland er aðili að. Við ákvörðunina skal ráðherra fylgja viðmiðunum í 3. viðauka við lög þessi og leita álits Skipulagsstofnunar, leyfisveitenda, framkvæmdaraðila og annarra eftir eðli máls hverju sinni.
 
@@ -113,7 +113,7 @@ h2. Lög um mat á umhverfisáhrifum
     h. minni háttar breytingar á úrskurðum,
     i. samtengingu vinnu við mat á umhverfisáhrifum og starfsleyfis,
     j. eftirlit.
-    _[^1)^]Rg. 671/2000_.
+    _[^1)^]_"Rg. 671/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/671-2000.
  ■ *20. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi. ...
 
