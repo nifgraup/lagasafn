@@ -6,7 +6,7 @@ h2. Lög um úrvinnslugjald
 
 <hr />
 
-*Tóku gildi 1. janúar 2003.* _EES-samningurinn:_ II. viðauki tilskipun 94/62/EB, XX. viðauki tilskipun 1999/31/EBE og 2000/53/EB. _Breytt með_ "l. 8/2003":/altext/stjt/2003.008.html (tóku gildi 12. mars 2003) og "l. 144/2003":/altext/stjt/2003.144.html (tóku gildi 1. jan. 2004).
+*Tóku gildi 1. janúar 2003.* _EES-samningurinn:_ II. viðauki tilskipun 94/62/EB, XX. viðauki tilskipun 1999/31/EBE og 2000/53/EB. _Breytt með_ "l. 8/2003":/altext/stjt/2003.008.html (tóku gildi 12. mars 2003), "l. 144/2003":/altext/stjt/2003.144.html (tóku gildi 1. jan. 2004) og "l. 128/2004":/altext/stjt/2004.128.html (tóku gildi 1. jan. 2005).
 
 
  *I. kafli.* *Markmið og skilgreiningar.*
@@ -20,29 +20,40 @@ h2. Lög um úrvinnslugjald
     4. _Förgun úrgangs:_ aðgerð eða ferli þegar úrgangi er umbreytt og/eða komið fyrir varanlega, svo sem urðun og sorpbrennsla.
     5. _Móttökustöð:_ staður og aðstaða þar sem tekið er við úrgangi til geymslu til lengri eða skemmri tíma, til umhleðslu, flokkunar eða annarrar meðhöndlunar. Þaðan fer úrgangurinn til förgunar, endurnýtingar, endurnotkunar eða honum er fargað á staðnum. Undir móttökustöð falla flokkunarmiðstöðvar og förgunarstaðir.
     6. _Söfnunarstöð (gámastöð):_ staður og aðstaða þar sem tekið er við úrgangi frá almenningi og/eða smærri fyrirtækjum. Þaðan fer hann til endurnotkunar og endurnýtingar eða er fluttur til móttökustöðva.
-    7. _Úrgangur:_ hvers kyns efni eða hlutir sem einstaklingar eða lögaðilar ákveða að losa sig við eða er gert að losa sig við á tiltekinn hátt og falla undir lög þessi.
-    8. _Úrvinnsla úrgangs:_ söfnun, geymsla, böggun, flokkun, flutningur, endurnotkun, endurnýting, pökkun og förgun úrgangs.
+    [7. _Umbúðir:_ allar vörur, af hvaða tegund sem er og úr hvaða efni sem er, sem eru notaðar við pökkun, verndun, meðhöndlun og afhendingu framleiðsluvöru, hvort sem þar er um að ræða hráefni eða fullunna vöru, til notanda eða neytanda. Nánar tiltekið eru umbúðir:
+    a. _söluumbúðir_ eða _grunnumbúðir,_ þ.e. umbúðir sem eru þannig gerðar að á sölustað mynda þær sölueiningu fyrir notanda eða neytanda,
+    b. _safnumbúðir,_ þ.e. umbúðir sem eru þannig gerðar að á sölustað mynda þær safn tiltekins fjölda sölueininga, hvort sem þær eru seldar sem slíkar til notanda eða neytanda eða aðeins notaðar til að fylla í hillur á sölustað; hægt er að taka þær utan af vörunni án þess að það hafi áhrif á eiginleika hennar,
+    c. _flutningsumbúðir,_ þ.e. umbúðir þannig gerðar að þær auðvelda meðhöndlun og flutning nokkurra sölueininga eða safnumbúða til að koma í veg fyrir tjón við meðhöndlun og flutning; gámar til vöruflutninga á landleiðum, með skipum og flugvélum eru ekki taldir til flutningsumbúða.][^1)^]
+    [8. ][^1)^] _Úrgangur:_ hvers kyns efni eða hlutir sem einstaklingar eða lögaðilar ákveða að losa sig við eða er gert að losa sig við á tiltekinn hátt og falla undir lög þessi.
+    [9. ][^1)^] _Úrvinnsla úrgangs:_ söfnun, geymsla, böggun, flokkun, flutningur, endurnotkun, endurnýting, pökkun og förgun úrgangs.
+    _[^1)^]_"L. 128/2004, 1. gr.":/altext/stjt/2004.128.html
 
  *II. kafli.* *Úrvinnslugjald og ráðstöfun þess.*
-■ *3. gr.* _Almennt um gjaldtöku._
+ ■ *3. gr.* _Almennt um gjaldtöku._
  □ Til að stuðla að úrvinnslu úrgangs skal leggja úrvinnslugjald á vörur, eftir því sem nánar er kveðið á um í lögum þessum. Leggja skal úrvinnslugjald á vörur hvort sem þær eru fluttar inn til landsins eða framleiddar hér á landi.
  □ Úrvinnslugjald skal standa undir kostnaði við meðferð flokkaðs úrgangs á söfnunarstöð, flutning hans frá söfnunarstöð til móttökustöðvar eða endurnýtingarstöðvar, enda hafi verið greitt úrvinnslugjald af vörunum. Þá skal gjaldið standa undir endurnýtingu úrgangsins og förgun hans eftir því sem við á. Jafnframt skal gjaldið standa undir kostnaði við förgun þess úrgangs sem blandast hefur vöru sem greitt hefur verið úrvinnslugjald af, enda sé blöndunin hluti af eðlilegri notkun vörunnar. Úrvinnslugjald skal standa undir kostnaði vegna greiðslu skilagjalda og vegna starfsemi Úrvinnslusjóðs.
 ■ *4. gr.* _Fjárhæð úrvinnslugjalds._
  □ Fjárhæð úrvinnslugjalds skal taka mið af áætlun um kostnað við úrvinnslu úrgangs, sbr. 2. mgr. 3. gr. Vöruflokkum skal skipt í uppgjörsflokka með reglugerð sem ráðherra setur að fenginni tillögu stjórnar Úrvinnslusjóðs og skal tekjum hvers uppgjörsflokks eingöngu varið til að mæta gjöldum þess flokks. Hver uppgjörsflokkur er fjárhagslega sjálfstæður.
  □ Umhverfisráðherra leggur að fenginni tillögu stjórnar Úrvinnslusjóðs fram tillögu til fjármálaráðherra um breytingar á fjárhæðum úrvinnslugjalds, álagningu skilagjalds og nýjar gjaldskyldar vörur eftir því sem við á. Fjármálaráðherra flytur frumvarp á Alþingi um fjárhæðir úrvinnslugjalds og skilagjalds.
 ■ *5. gr.* _Úrvinnslugjald á ökutæki._
- □ Skráður eigandi gjaldskylds ökutækis skal á hverju gjaldtímabili greiða úrvinnslugjald að fjárhæð 520 kr. fyrir hvert gjaldskylt ökutæki sitt skv. 2. mgr. "1. gr. laga nr. 39/1988":1988039.html#g1, um bifreiðagjald. Gjalddagar úrvinnslugjalds á ökutæki eru 1. janúar ár hvert vegna gjaldtímabilsins 1. janúar  -  30. júní og 1. júlí ár hvert vegna gjaldtímabilsins 1. júlí  -  31. desember. Gjaldið skal innheimt með bifreiðagjaldi og fer um greiðsluskyldu, gjalddaga, eindaga, álagningu, innheimtu gjaldsins og kæruheimild samkvæmt lögum um bifreiðagjald.
- □ Bifreiðar sem eru undanþegnar bifreiðagjaldi skv. 4. gr. laga um bifreiðagjald eru gjaldskyldar samkvæmt lögum þessum. [Gjaldtímabil vegna bifreiða samkvæmt málsgrein þessari er 1. janúar  -  31. desember og skal skráður eigandi gjaldskylds ökutækis á gjaldtímabilinu greiða úrvinnslugjald að fjárhæð 1.040 kr. fyrir hvert gjaldskylt ökutæki sitt. Gjalddagi úrvinnslugjalds á bifreiðar samkvæmt málsgrein þessari er 1. júlí ár hvert. Um innheimtu gjaldsins að öðru leyti gildir 1. mgr.][^1)^]
- □ [Gjaldskylda fellur niður frá og með upphafi fyrsta gjaldtímabils eftir að full 15 ár eru liðin frá skráningu ökutækis hér á landi.][^1)^]
-    _[^1)^]_"L. 144/2003, 1. gr.":/altext/stjt/2003.144.html
+ □ Skráður eigandi gjaldskylds ökutækis skal á hverju gjaldtímabili greiða úrvinnslugjald að fjárhæð [350 kr.][^1)^] fyrir hvert gjaldskylt ökutæki sitt skv. 2. mgr. "1. gr. laga nr. 39/1988":1988039.html#g1, um bifreiðagjald. Gjalddagar úrvinnslugjalds á ökutæki eru 1. janúar ár hvert vegna gjaldtímabilsins 1. janúar  -  30. júní og 1. júlí ár hvert vegna gjaldtímabilsins 1. júlí  -  31. desember. Gjaldið skal innheimt með bifreiðagjaldi og fer um greiðsluskyldu, gjalddaga, eindaga, álagningu, innheimtu gjaldsins og kæruheimild samkvæmt lögum um bifreiðagjald.
+ □ Bifreiðar sem eru undanþegnar bifreiðagjaldi skv. 4. gr. laga um bifreiðagjald eru gjaldskyldar samkvæmt lögum þessum. [Gjaldtímabil vegna bifreiða samkvæmt málsgrein þessari er 1. janúar  -  31. desember og skal skráður eigandi gjaldskylds ökutækis á gjaldtímabilinu greiða úrvinnslugjald að fjárhæð [700 kr.][^1)^] fyrir hvert gjaldskylt ökutæki sitt. Gjalddagi úrvinnslugjalds á bifreiðar samkvæmt málsgrein þessari er 1. júlí ár hvert. Um innheimtu gjaldsins að öðru leyti gildir 1. mgr.][^2)^]
+ □ [Gjaldskylda fellur niður frá og með upphafi fyrsta gjaldtímabils eftir að greitt hefur verið úrvinnslugjald af ökutækinu í full 15 ár og fyrir bifreiðar sem eru eldri en 25 ára í upphafi gjaldárs.][^1)^]
+    _[^1)^]_"L. 128/2004, 2. gr.":/altext/stjt/2004.128.html [^2)^]"L. 144/2003, 1. gr.":/altext/stjt/2003.144.html
  ■ *6. gr.* _Skilagjald á ökutæki._
- □ Greiða skal skilagjald, 10.000 kr., hverjum þeim sem afhendir gjaldskylt ökutæki til móttökustöðvar til endurnýtingar eða endanlegrar förgunar, enda hafi ökutækið verið afskráð og úrvinnslugjald greitt a.m.k. einu sinni af viðkomandi ökutæki.
+ □ Greiða skal skilagjald, [15.000 kr.],[^1)^] hverjum þeim sem afhendir gjaldskylt ökutæki til móttökustöðvar til endurnýtingar eða endanlegrar förgunar, enda hafi ökutækið verið afskráð og úrvinnslugjald greitt a.m.k. einu sinni af viðkomandi ökutæki.
  □ Umhverfisráðherra setur í reglugerð ákvæði um fyrirkomulag greiðslu til móttökustöðvar.
-■ *7. gr.* _Skilagjald á drykkjarvöruumbúðir._
+    _[^1)^]_"L. 128/2004, 3. gr.":/altext/stjt/2004.128.html
+ ■ *7. gr.* _Skilagjald á drykkjarvöruumbúðir._
  □ Endurgreiða skal neytendum skilagjaldshluta úrvinnslugjalds, 9 kr. með virðisaukaskatti á hverja umbúðaeiningu, sbr. viðauka III, við móttöku á notuðum úrvinnslugjaldsskyldum drykkjarvöruumbúðum.
-■ *8. gr.* _Úrvinnslugjald á aðrar vörur._
+■ *[7. gr. a.* _Úrvinnslugjald á pappa-, pappírs- og plastumbúðir._
+ □ Úrvinnslugjald skal leggja á umbúðir gerðar úr pappa og pappír, 10 kr./kg, og umbúðir gerðar úr plasti, 10 kr./kg. Úrvinnslugjald skal leggja á hvort sem umbúðir eru einar sér eða utan um vörur sem fluttar eru til landsins. Úrvinnslugjald skal lagt á samkvæmt upplýsingum gjaldskylds aðila um þyngd, tegund og samsetningu umbúða, sbr. þó 2. mgr. Þetta á einnig við um samsettar umbúðir.
+ □ Gjaldskyldur aðili skal við tollafgreiðslu gefa upp þyngd umbúða í vörusendingu til tollafgreiðslu samkvæmt staðfestum upplýsingum þar um. Ef ekki liggja fyrir upplýsingar um þyngd umbúða vöru frá framleiðanda hennar eða aðrar staðfestar upplýsingar hjá gjaldskyldum aðila skal reikna mismun á brúttó- og nettóþyngd vörusendingar að frádregnum vörubrettum. Mismunurinn af þeim útreikningi myndar álagningarstofn til greiðslu á úrvinnslugjaldi vegna viðkomandi vörusendingar. Ef engar upplýsingar liggja fyrir um mismun á brúttó- og nettóþyngd vörusendingar skal ákvarða álagningarstofn fyrir úrvinnslugjald sem nemur 15% af uppgefinni brúttóþyngd vörusendingar að frádregnum vörubrettum. Þegar álagningarstofn er reiknaður út samkvæmt þessari málsgrein skal þyngd umbúða eftir efni þeirra hlutfallslega skipt sem hér segir: 80% skal ákvarðað sem pappa- og pappírsumbúðir og 20% skal ákvarðað sem plastumbúðir nema fyrir liggi staðfestar upplýsingar um hlutfall efnis í umbúðum.
+ □ Um álagningu úrvinnslugjalds á heyrúlluplast og um skilagjald á einnota drykkjarvöruumbúðum með skilagjaldi úr áli, stáli, gleri og plastefnum fer skv. 8. gr.][^1)^]
+    _[^1)^]_"L. 128/2004, 4. gr.":/altext/stjt/2004.128.html
+ ■ *8. gr.* _[Úrvinnslugjald á aðrar vörur._
  □ Úrvinnslugjald skal leggja á eftirtalda vöruflokka, eins og nánar er kveðið á um í viðaukum með lögum þessum:
-    1. _Umbúðir:_ heyrúlluplast, sbr. viðauka I, samsettar pappaumbúðir fyrir drykkjarvörur, sbr. viðauka II, einnota drykkjarvöruumbúðir með skilagjaldi úr áli, stáli, gleri og plastefnum, sbr. viðauka III.
+    1. _Aðrar umbúðir:_ heyrúlluplast, sbr. viðauka I, einnota drykkjarvöruumbúðir með skilagjaldi úr áli, stáli, gleri og plastefnum, sbr. viðauka III.
     2. _Olíuvörur:_ sbr. viðauka IV.
     3. _Lífræn leysiefni og klórbundin efnasambönd:_ lífræn leysiefni, sbr. viðauka V, halógeneruð efnasambönd, sbr. viðauka VI, ísócýanöt og pólyúretön, sbr. viðauka VII.
     4. _Málning og litarefni:_ málning, sbr. viðauka VIII, prentlitir, sbr. viðauka IX.
@@ -52,10 +63,11 @@ h2. Lög um úrvinnslugjald
     8. _Varnarefni:_ sbr. viðauka XIV.
     9. _Kælimiðlar:_ sbr. viðauka XV.
     10. _Hjólbarðar:_ sbr. viðauka XVI.
-    [11. _Veiðarfæri úr gerviefnum:_ sbr. viðauka XVII.][^1)^]
+    11. _Veiðarfæri úr gerviefnum:_ sbr. viðauka XVII.
  □ Við flokkun til gjaldskyldu samkvæmt lögum þessum skal fylgt flokkunarreglum tollalaga.
- □ Fyrirtækjum og atvinnugreinum er heimilt að semja sín á milli um ráðstafanir til að tryggja úrvinnslu úrgangs vegna svartolíu, enda þjóni það markmiðum laganna. Svartolía er þá undanþegin gjaldtöku samkvæmt lögum þessum, enda hafi stjórn Úrvinnslusjóðs staðfest samninginn, sbr. 3. mgr. 17. gr., og tilkynnt það tollstjóra.
-    _[^1)^]_"L. 144/2003, 2. gr.":/altext/stjt/2003.144.html
+ □ Fyrirtækjum og atvinnugreinum er heimilt að semja sín á milli um ráðstafanir til að tryggja úrvinnslu úrgangs vegna svartolíu og veiðarfæra úr gerviefnum, enda þjóni það markmiðum laganna. Svartolía og veiðarfæri úr gerviefnum eru þá undanþegin gjaldtöku samkvæmt lögum þessum, enda hafi stjórn Úrvinnslusjóðs staðfest samninginn, sbr. 3. mgr. 17. gr., og tilkynnt það tollstjóra. Hvorum samningsaðila er heimilt að segja upp samningi samkvæmt þessari grein. Úrvinnslusjóði er þó einungis heimilt að segja upp samningi vegna brota á honum og að fenginni umsögn Umhverfisstofnunar. Úrvinnslusjóður skal tilkynna tollstjóra sé samningi sagt upp.
+ □ Í samningi skv. 3. mgr. skal koma fram verklýsing þar sem m.a. eru upplýsingar um söfnun, flutninga, meðhöndlun úrgangs, ráðstöfun hans, umsjón og stjórnun, upplýsingasöfnun og skýrslugjöf. Þá skulu, áður en gengið er frá samningi, liggja fyrir upplýsingar um magn úrgangs, hvernig kerfið mun vera fjármagnað, aðgang handhafa úrgangs að kerfinu og greiðslu umsýslugjalds til Úrvinnslusjóðs.][^1)^]
+    _[^1)^]_"L. 128/2004, 5. gr.":/altext/stjt/2004.128.html
 
  *III. kafli.* *Gjaldskyldir aðilar, álagning gjalds, uppgjörstímabil, gjalddagar, skýrslur, álag, dráttarvextir, kæruheimild og kærufrestur.*
  ■ *9. gr.* _Gjaldskyldir aðilar._
@@ -120,15 +132,20 @@ h2. Lög um úrvinnslugjald
  □ Þrátt fyrir ákvæði 1. mgr. skal móttaka á flokkuðum úrgangi, sem til er kominn vegna vara sem bera úrvinnslugjald, hefjast 1. apríl 2003 vegna vöru sem fellur undir viðauka II, X og XVI, 1. júlí 2003 vegna ökutækja, sbr. 5. gr., og eigi síðar en 1. júlí 2004 vegna vöru sem fellur undir viðauka I. Greiðsla skilagjalds á ökutæki, sbr. 6. gr., skal hefjast 1. júlí 2003.
 
  *Ákvæði til bráðabirgða.*
- ■ *I.* Úrvinnslusjóður skal taka við öllum sjóðum og skuldbindingum spilliefnanefndar sem stofnast hafa fyrir gildistöku laga þessara.
- ■ *II.* Ákvæði 7. gr. og 1. tölul. 8. gr., sbr. viðauka III, skulu koma til framkvæmda 1. janúar 2008. Frá sama tíma falla úr gildi "lög nr. 52/1989":1989052.html, um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur, með síðari breytingum.
+ ■ *I.* [Ákvæði 7. gr. og 1. tölul. 1. mgr. 8. gr., sbr. viðauka III vegna einnota drykkjarvöruumbúða með skilagjaldi úr áli, stáli, gleri og plastefnum, skulu koma til framkvæmda 1. janúar 2008. Frá sama tíma falla úr gildi "lög nr. 52/1989":1989052.html, um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur, með síðari breytingum.
  □ Úrvinnslusjóði er þó heimilt að undirbúa samning við Endurvinnsluna hf. um að ákvæði 1. mgr. komi til framkvæmda fyrir 1. janúar 2008.
- ■ *III.* [Leggja skal úrvinnslugjald á veiðarfæri úr gerviefnum og pappírs-, pappa- og plastumbúðir frá 1. janúar 2005.][^1)^]
-    _[^1)^]_"L. 144/2003, 3. gr.":/altext/stjt/2003.144.html
- ■ *[IV.* Ákvæði 1. málsl. 2. mgr. 5. gr. laganna koma til framkvæmda 1. júlí 2003.][^1)^]
-    _[^1)^]_"L. 8/2003, 1. gr.":/altext/stjt/2003.008.html
+ □ Ákvæði 11. tölul. 1. mgr. 8. gr., sbr. viðauka XVII um veiðarfæri úr gerviefnum, skal koma til framkvæmda 1. september 2005.][^1)^]
+    _[^1)^]_"L. 128/2004, 6. gr.":/altext/stjt/2004.128.html
+ ■ *II.* [Þrátt fyrir ákvæði 7. gr. a skal greiðsla vegna móttöku á plastfilmu sem kemur frá fyrirtækjum og bylgjupappa koma til framkvæmda 1. apríl 2005 og vegna annarra umbúða frá og með 1. mars 2006. Álagning úrvinnslugjalds á þessa vöruflokka skal hefjast 1. september 2005.
+ □ Frá gildistöku laga þessara til 1. júní 2005 skal starfa nefnd umhverfisráðuneytis, Sambands íslenskra sveitarfélaga, Úrvinnslusjóðs og Umhverfisstofnunar. Umhverfisráðherra skal skipa nefndina með tilnefningu frá framangreindum aðilum. Nefndin skal undirbúa framkvæmd móttöku á pappa- og plastumbúðum sem berast með söfnunarkerfi sveitarfélaga í samræmi við ákvæði "laga nr. 55/2003":2003055.html, um meðhöndlun úrgangs. Tilnefningaraðilar skulu bera kostnað vegna fulltrúa sinna í nefndinni.][^1)^]
+    _[^1)^]"L. 128/2004, 6. gr.":/altext/stjt/2004.128.html_
+ ■ *[III.* Þrátt fyrir ákvæði 7. gr. a skal til 1. september 2005 leggja úrvinnslugjald á samsettar pappaumbúðir fyrir drykkjarvöru sem flokkast undir eftirfarandi tollskrárnúmer sem hér segir:
+    ...[^1)^]][^2)^]
+    _[^1)^]Um gjaldskrána vísast til Stjtíð. A 2004, bls. 770 - 772. [^2)^]_"L. 128/2004, 6. gr.":/altext/stjt/2004.128.html
+ ■ *[IV.* ...[^1)^]][^2)^]
+    _[^1)^]_"L. 128/2004, 6. gr.":/altext/stjt/2004.128.html [^2)^]"L. 8/2003, 1. gr.":/altext/stjt/2003.008.html
 
  *Viðaukar I - XVII.[^1)^]*
-    _[^1)^]Um texta viðauka þessara vísast til Stjtíð. A 2002, bls. 514 - 535, sbr. Stjtíð. A 2003, bls. 15 og bls. 584 - 587._
+    _[^1)^]Um texta viðauka þessara vísast til Stjtíð. A 2002, bls. 514 - 535, sbr. Stjtíð. A 2003, bls. 15 og bls. 584 - 587 og Stjtíð. A 2004, bls. 772 - 788._
 
 
