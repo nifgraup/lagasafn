@@ -121,7 +121,7 @@ h2. Lög um húsnæðismál
     2. Dagsetning yfirfærslu, svo og dagsetning fyrsta útdráttar húsbréfa í verðbréfamiðstöð og tilhögun á greiðslum síðari útdrátta þar.
     3. Önnur atriði er varða yfirfærslu húsbréfa í verðbréfamiðstöð, svo sem réttarstöðu eigenda áþreifanlegra bréfa gagnvart útdrætti o.fl.
  □ Að liðnum auglýstum fresti fara útgreiðslur á hlutkesti samkvæmt þessari grein einungis fram fyrir milligöngu verðbréfamiðstöðvar. Rétthafi kröfu samkvæmt hinu áþreifanlega húsbréfi getur vitjað hennar hjá útgefanda eða reikningsstofnun sem útgefandi vísar til hafi skírteini ekki verið yfirfært til skráningar í verðbréfamiðstöð. Skal nánar kveðið á um framkvæmd hlutkestis og yfirfærslu samkvæmt þessari grein í reglugerð[^1)^] sem félagsmálaráðuneytið setur.][^2)^]
-    _[^1)^]Rg. 2/1999_, sbr. 607/1999; rg. 7/1999, sbr. 942/1999 og 372/2000. [^2)^]"L. 32/2000, 8. gr.":/altext/stjt/2000.032.html
+    _[^1)^]Rg. 2/1999_, sbr. 607/1999, 115/2000, 651/2000 og 884/2000; rg. 7/1999, sbr. 942/1999 og 372/2000. [^2)^]"L. 32/2000, 8. gr.":/altext/stjt/2000.032.html
  ■ *23. gr.* _Aukaafborganir._
  □ Skuldurum fasteignaveðbréfa er heimilt að greiða aukaafborganir af skuldabréfum sínum eða að endurgreiða skuldina að fullu fyrir gjalddaga. Til að jafna fjárstreymi vegna slíkra endurgreiðslna er heimilt að innleysa útgefin húsbréf eftir hlutkesti, sbr. 22. gr.
 ■ *24. gr.* _Greiðslukjör húsbréfa._
@@ -140,7 +140,7 @@ h2. Lög um húsnæðismál
  □ Húsbréfadeildinni er heimilt að áskilja sér vaxtaálag til að mæta rekstrarkostnaði og áætluðum útlánatöpum. Félagsmálaráðherra ákveður vaxtaálag þetta, að fengnum tillögum stjórnar Íbúðalánasjóðs.
 ■ *29. gr.* _Reglugerð._
  □ Félagsmálaráðherra getur sett frekari fyrirmæli í reglugerð[^1)^] um fyrirkomulag og tilhögun húsbréfaviðskipta, þar á meðal um skyldur fasteignasala til þess að veita upplýsingar um gengi húsbréfa.
-    _[^1)^]Rg. 2/1999_, sbr. 607/1999 og 115/2000; rg. 7/1999, sbr. 942/1999 og 372/2000.
+    _[^1)^]Rg. 2/1999_, sbr. 607/1999, 115/2000, 651/2000 og 884/2000; rg. 7/1999, sbr. 942/1999 og 372/2000.
 
  *VII. kafli.* *Viðbótarlán.*
  ■ *30. gr.* _Lánveiting._
@@ -284,11 +284,8 @@ h2. Lög um húsnæðismál
  □ Ákveði sveitarstjórn eða annar framkvæmdaraðili að nýta sér forkaupsrétt á félagslegri íbúð eða kaupleiguíbúð, sem boðin er til sölu, fellur slíkur réttur niður eftir að íbúð hefur verið ráðstafað á ný. Sveitarstjórn eða framkvæmdaraðili skal þá gefa út yfirlýsingu um að niður séu fallnar kvaðir sem verið hafa á íbúðinni um forkaupsrétt og takmarkanir á ráðstöfunarrétti. Skal yfirlýsingunni þinglýst.
  □ Kaupskylda sveitarfélags við nauðungarsölu íbúðar skv. "86. gr. laga nr. 97/1993":1993097.html skal ekki vara lengur en í 15 ár frá útgáfu síðasta afsals.
  □ Á meðan kaupskylda og forkaupsréttur sveitarfélaga á félagslegu húsnæði varir samkvæmt ákvæðum "laga nr. 97/1993":1993097.html, um Húsnæðisstofnun ríkisins, skulu húsnæðisnefndir, þar sem þær eru starfandi, annast meðferð mála vegna þeirra íbúða sem ganga til sveitarfélaga.
- □ Um útreikning á innlausnarverði félagslegra íbúða, sem sveitarfélög leysa til sín skv. 1. mgr., skal beita fyrirmælum 1. og 4. mgr. "87. gr. laga nr. 97/1993":1993097.html. Hafi íbúð verið byggð eftir gildistöku "laga nr. 51/1980":/altext/stjtnr.html#1980051 skal enn fremur gæta ákvæða 1. og 2. mgr. "88. gr. laga nr. 97/1993":1993097.html, en annars 1. - 3. og 8. mgr. "89. gr. laga nr. 97/1993":1993097.html, hafi íbúðin verið byggð fyrir gildistöku fyrrnefndra laga. Um íbúðir á vegum Byggingarfélags verkamanna fer eftir ákvæðum "90. gr. laga nr. 97/1993":1993097.html. Stjórn varasjóðs skv. 43. gr. laga þessara skal fjalla um heimildir húsnæðisnefnda skv. 4. mgr. "87. gr. laga nr. 97/1993":1993097.html.
- ■ *III.* _Ráðstöfun innleystra íbúða._
- □ Íbúð sem sveitarstjórn hefur leyst til sín samkvæmt ákvæðum eldri laga getur hún ráðstafað þannig:
-    1. Sveitarstjórn getur ákveðið að selja íbúðina á almennum markaði. Áður skal hún greiða upp áhvílandi lán sem veitt hafa verið af Byggingarsjóði verkamanna og Byggingarsjóði ríkisins.
-    2. Sveitarstjórn getur ákveðið að leigja íbúðina út. Áður skal sveitarstjórn greiða upp áhvílandi lán sem veitt hafa verið af Byggingarsjóði verkamanna. Við þær aðstæður skal sveitarfélagið eiga rétt á nýju láni úr Íbúðalánasjóði skv. VIII. kafla laga þessara.
+ □ Um útreikning á innlausnarverði félagslegra íbúða, sem sveitarfélög leysa til sín skv. 1. mgr., skal beita fyrirmælum 1. og 4. mgr. "87. gr. laga nr. 97/1993":1993097.html. Hafi íbúð verið byggð eftir gildistöku "laga nr. 51/1980":/altext/stjtnr.html#1980051 skal enn fremur gæta ákvæða 1. og 2. mgr. "88. gr. laga nr. 97/1993":1993097.html, en annars 1. - 3. og 8. mgr. "89. gr. laga nr. 97/1993":1993097.html, hafi íbúðin verið byggð fyrir gildistöku fyrrnefndra laga. Um íbúðir á vegum Byggingarfélags verkamanna fer eftir ákvæðum "90. gr. laga nr. 97/1993":1993097.html. Stjórn varasjóðs skv. 43. gr. laga þessara skal fjalla um heimildir húsnæðisnefnda skv. 4. mgr. "1. Sveitarstjórn getur ákveðið að selja íbúðina á almennum markaði. Áður skal hún greiða upp áhvílandi lán sem veitt hafa verið af Byggingarsjóði verkamanna og Byggingarsjóði ríkisins.
+    ":1%3Cbr%3E%C2%A0%C2%A0%C2%A0%3Ca%20name=2. Sveitarstjórn getur ákveðið að leigja íbúðina út. Áður skal sveitarstjórn greiða upp áhvílandi lán sem veitt hafa verið af Byggingarsjóði verkamanna. Við þær aðstæður skal sveitarfélagið eiga rétt á nýju láni úr Íbúðalánasjóði skv. VIII. kafla laga þessara.
  □ Á næstu tveimur árum eftir gildistöku laga þessara er sveitarfélögum heimilt eftir tillögu húsnæðisnefnda sveitarfélaga að ákveða að tiltekinn hluti árlegra viðbótarlána skuli fara til að mæta endursölu innleystra íbúða, enda taki söluverð slíkra íbúða mið af markaðsverði íbúða á viðkomandi svæði.
  ■ *IV.* _Sala og ráðstöfun eignaríbúða._
  □ Eftir gildistöku laga þessara getur eigandi félagslegrar eignaríbúðar hvenær sem er, að virtum ákvæðum um forkaupsrétt sveitarfélaga, selt íbúð sína á almennum markaði, greiði hann upp skuld við framkvæmdaraðila og lán sem veitt hafa verið af Byggingarsjóði verkamanna. Forkaupsréttur sveitarfélaga skal aldrei vera lengri en 30 ár frá útgáfu síðasta afsals íbúðar. Sveitarstjórn er heimilt að stytta þann tíma hvenær sem er.
@@ -302,13 +299,7 @@ h2. Lög um húsnæðismál
  □ Stjórn Íbúðalánasjóðs skal staðfesta lok framkvæmda og byggingarkostnað íbúða, sem fullgerðar eru eftir gildistöku laga þessara, með úttekt sinni.
  □ Sveitarstjórn eða annar framkvæmdaraðili skal skila lokauppgjöri á byggingarkostnaði innan mánaðar frá því er framkvæmdalánssamningur rann út eða lokaúttekt fór fram.
  □ Að uppfylltu ákvæði 3. mgr. skulu greiddar eftirstöðvar framkvæmdaláns sem Húsnæðisstofnun ríkisins hefur veitt.
- □ Um ráðstöfun íbúða samkvæmt þessu ákvæði sem koma til afhendingar eftir gildistöku laga þessara fer eftir því sem segir í ákvæði til bráðabirgða VII.
- ■ *VII.* _Meðferð umsókna um félagslegar eignaríbúðir._
- □ Úthlutanir íbúða sem farið hafa fram og samningar sem gerðir hafa verið við einstaklinga um félagslegar eignaríbúðir fyrir 15. júní 1998 skulu halda gildi sínu. Um meðferð slíkra íbúða, lánveitingar, réttarstöðu aðila og samskipti við framkvæmdaraðila fer eftir því sem segir í 42. gr., 43. gr., 51. gr., 1. - 8. mgr. 52. gr., 2. mgr. 54. gr., 2. mgr. 56. gr., 57. gr., 58. gr., 1. og 2. mgr. 58. gr. a, 59. - 61. gr., 64. gr., 1. mgr. 68. gr., 69. gr. og "78. gr. laga nr. 97/1993":1993097.html.
- □ Með allar aðrar félagslegar eignaríbúðir sem eru á framkvæmdarstigi eða eru til endurúthlutunar við gildistöku laga þessara og ekki hefur verið úthlutað til einstaklinga fyrir 15. júní 1998 skal farið á grundvelli laga þessara hafi uppgjör og lánveitingar samkvæmt eldri lögum ekki verið lokið fyrir gildistöku laga þessara.
- □ Um kaupskyldu, forkaupsrétt og ráðstöfun félagslegra eignaríbúða gilda fyrirmæli ákvæðis til bráðabirgða II og IV.
- ■ *VIII.* _Varasjóður._
- □ Í varasjóð skv. X. kafla laga þessara skulu auk framlaga sveitarfélaga renna:
+ □ Um ráðstöfun íbúða samkvæmt þessu ákvæði sem koma til afhendingar eftir gildistöku laga þessara fer
     1. Framlög sveitarfélaga til Tryggingarsjóðs vegna byggingargalla skv. "81. gr. laga nr. 97/1993":1993097.html, um Húsnæðisstofnun ríkisins.
     2. Söluhagnaður af íbúðum sem sveitarfélög hafa byggt og innleystar eru af hálfu sveitarfélaga og endurseldar með söluhagnaði.
     3. Framlög ríkissjóðs samkvæmt fjárlögum vegna afskrifta og niðurgreiðslna eldri lána Byggingarsjóðs verkamanna.

@@ -20,7 +20,7 @@ h2. Lög um aðbúnað, hollustuhætti og öryggi á vinnustöðum
  ■ *3. gr.* Lög þessi ná til vinnu við loftför á jörðu niðri, nema um störf áhafnar sé að ræða.
  □ Lög þessi ná einnig til fermingar og affermingar skipa, þar með talin fiskiskip, svo og til viðgerða um borð í skipum og starfsemi, sem því er tengd. Lögin ná þó ekki til búnaðar í skipum, sem notaður er í þessum tilgangi. Lögin ná heldur ekki til lögskráðra manna, nema þegar þeir starfa undir verkstjórn úr landi.
  □ Ráðherra getur í samráði við forstjóra Vinnueftirlits ríkisins mælt svo fyrir í reglugerð,[^1)^] að áhöld, vélar og mannvirki eða framkvæmdir, sem lög þessi ná ekki til, skuli vera háð því eftirliti, er lög þessi mæla fyrir um, enda séu viðkomandi atriði ekki háð öðrum lögum.
-    _[^1)^]Rg. 552/1989_, 214/1990, 215/1990, 453/1991, 324/1994, 325/1994, 326/1994, 327/1994, 328/1994, 329/1994, 330/1994, 331/1994, 496/1994, 497/1994, 501/1994, 503/1994, 504/1994, 54/1995, 557/1995, 580/1995, 98/1996, 99/1996 og 108/1996.
+    _[^1)^]Rg. 552/1989_, 214/1990, 215/1990, 453/1991, 324/1994, 325/1994, 326/1994, 327/1994, 328/1994, 329/1994, 330/1994, 331/1994, 496/1994, 497/1994, 501/1994, 503/1994, 54/1995, 557/1995, 580/1995, 98/1996, 99/1996, 108/1996, rg. 570/2000, rg. 571/2000.
 
  *II. kafli.* *Öryggis- og heilbrigðisstarfsemi innan fyrirtækja. Samskipti atvinnurekenda og starfsmanna.*
  ■ *4. gr.* Í fyrirtækjum, þar sem eru 1 til 9 starfsmenn, skal atvinnurekandi og/eða verkstjóri hans stuðla að góðum aðbúnaði, hollustuháttum og öryggi á vinnustað, í nánu samstarfi við starfsmenn fyrirtækisins og félagslegan trúnaðarmann þeirra, sbr. þó 2. mgr. þessarar greinar.
@@ -104,9 +104,9 @@ h2. Lög um aðbúnað, hollustuhætti og öryggi á vinnustöðum
  ■ *33. gr.* Ákvæðin í 29. gr., 30. gr., 32. gr. og 2. mgr. 34. gr. gilda einnig um þá, sem útvega, selja eða afhenda efni eða vörur, sem geta verið hættuleg eða á annan hátt dregið úr öryggi eða valdið sjúkdómshættu.
 ■ *34. gr.* Stjórn Vinnueftirlits ríkisins setur nánari reglur[^1)^] um þau atriði, sem um er fjallað í 29. - 33. gr.
  □ Ákvæðin í 29. - 33. gr. leysa notandann ekki undan neinum skyldum samkvæmt lögum þessum.
-    _[^1)^]Rg. 491/1987_, 492/1987, 90/1989, 453/1991, 324/1994, 325/1994, 326/1994, 327/1994, 328/1994, 329/1994, 330/1994, 331/1994, 496/1994, 503/1994, 504/1994 og 580/1995. Rg. 98/1996. Rg. 99/1996. Rg. 377/1996. Rg. 379/1996. Rg. 380/1996. Rg. 382/1996. Rg. 383/1996. Rg. 118/1998. Rg. 140/1998. Rg. 154/1999.
+    _[^1)^]Rg. 491/1987_, 492/1987, 90/1989, 453/1991, 324/1994, 325/1994, 326/1994, 327/1994, 328/1994, 329/1994, 330/1994, 331/1994, 496/1994, 503/1994 og 580/1995. Rg. 98/1996. Rg. 99/1996. Rg. 377/1996. Rg. 379/1996. Rg. 380/1996. Rg. 382/1996. Rg. 383/1996. Rg. 118/1998. Rg. 140/1998. Rg. 154/1999, rg. 570/2000, rg. 571/2000.
  ■ *35. gr.* Stjórn Vinnueftirlits ríkisins getur, þegar sérstaklega stendur á, sett reglur[^1)^] eða tekið ákvarðanir, sem víkja frá kröfunum í 29. - 33. gr. Slíkar ákvarðanir getur forstjóri Vinnueftirlits ríkisins tekið í algerum undantekningartilvikum, þegar sérstakar ástæður eru fyrir hendi.
-    _[^1)^]Rg. 580/1995_.
+    _[^1)^]Rg. 580/1995_, rg. 571/2000.
  _e. Skyldur verktaka og fleiri._
  ■ *36. gr.* Ef fleiri en einn verktaki starfa við mannvirkjagerð samtímis, skal byggingarstjóri, ef hann er til staðar, en annars byggingarmeistari, sjá um, að samhæfðar séu ráðstafanir til þess að koma í veg fyrir slys eða óhollustu.
  □ Ákvæði þetta rýrir ekki að neinu leyti skyldur einstakra framkvæmdaaðila sem atvinnurekenda samkvæmt lögum þessum.
@@ -120,7 +120,7 @@ h2. Lög um aðbúnað, hollustuhætti og öryggi á vinnustöðum
     b. um bann gegn sérlega hættulegum störfum, framleiðslu-, starfs- og vinnsluaðferðum,
     c. um að settar skuli upp á vinnustað greinilegar aðvaranir og/eða vinnusvæði girt eða afmörkuð með öðrum hætti,
     d. um gerð og notkun hlífðarbúnaðar, svo sem um hentugan fatnað, öryggishjálma, hlífðarbúnað gegn hávaða og geislun, hlífðargleraugu, vinnuskó, rykgrímur, gasgrímur, annan búnað til þess að verjast loftmengun og annan búnað ótalinn. Starfsmenn eru skyldir til þess að nota slíkan öryggisbúnað, þegar þeir, að mati Vinnueftirlits ríkisins, þarfnast hans við vinnu sína.
-    _[^1)^]Rg. 478/1985_; 491/1987; 492/1987; 493/1987; 90/1989; 453/1991; 430/1992; 324/1994; 325/1994; 326/1994; 327/1994; 328/1994; 329/1994; 330/1994; 331/1994; 496/1994; 497/1994; 498/1994; 499/1994; 500/1994; 501/1994, sbr. 690/1998 og 584/1999; 503/1994; 504/1994; 578/1995; 580/1995; 581/1995; 621/1995; 698/1995; 699/1995; 707/1995; 98/1996; 99/1996; 108/1996; 377/1996; 382/1996; 383/1996; 496/1996; 547/1996, sbr. 504/1999; 552/1996; 553/1996; 554/1996, sbr. 529/1998; 80/1998; 118/1998; 140/1998; 228/1998; 154/1999; 602/1999; 684/1999.
+    _[^1)^]Rg. 478/1985_; 491/1987; 492/1987; 493/1987; 90/1989; 453/1991; 430/1992; 324/1994; 325/1994; 326/1994; 327/1994; 328/1994; 329/1994; 330/1994; 331/1994; 496/1994; 497/1994; 498/1994; 499/1994; 500/1994; 501/1994, sbr. 690/1998 og 584/1999; 503/1994; 578/1995; 580/1995; 581/1995; 621/1995; 698/1995; 699/1995; 707/1995; 98/1996; 99/1996; 108/1996; 377/1996; 382/1996; 383/1996; 496/1996; 547/1996, sbr. 504/1999; 552/1996; 553/1996; 554/1996, sbr. 529/1998; 80/1998; 118/1998; 140/1998; 228/1998; 154/1999; 602/1999; 684/1999, rg. 570/2000, rg. 571/2000.
  ■ *39. gr.* Þar sem aðstæður með tilliti til heilbrigðis og öryggis starfsmanna krefjast þess, skal stjórn Vinnueftirlits ríkisins hlutast til um, að hlutaðeigandi fyrirtæki geri áætlanir um framleiðslu-, starfs- og vinnsluaðferðir.
  □ Slíkar áætlanir og breytingar á þeim skulu kynntar öryggisnefndum, áður en þær eru framkvæmdar.
 ■ *40. gr.* Stjórn Vinnueftirlits ríkisins setur reglur um:
@@ -155,12 +155,12 @@ h2. Lög um aðbúnað, hollustuhætti og öryggi á vinnustöðum
     a. gerð, útfærslu, uppsetningu, tilkynningarskyldu og prófanir,
     b. á hvern hátt eða hvort leggja skuli fyrir Vinnueftirlitið til umsagnar eða samþykktar áætlanir eða önnur gögn um gerð, framleiðslu eða uppsetningu slíks búnaðar,
     c. notkun, viðhald og gæslu slíks búnaðar.
-    _[^1)^]Rg. 475/1985_, rg. 476/1985, rg. 492/1987, rg. 90/1989, rg. 153/1986, sbr. 424/1987, rg. 561/1987, rg. 453/1991, rg. 324/1994, rg. 325/1994, rg. 326/1994, rg. 327/1994, rg. 328/1994, rg. 329/1994, rg. 330/1994, rg. 331/1994, rg. 496/1994, rg. 500/1994, rg. 501/1994, sbr. 690/1998 og 584/1999, rg. 503/1994, rg. 504/1994, rg. 580/1995, rg. 98/1996, rg. 99/1996, rg. 108/1996, rg. 377/1996, rg. 380/1996, rg. 382/1996, rg. 383/1996, rg. 164/1997, rg. 118/1998, rg. 140/1998, rg. 609/1999.
+    _[^1)^]Rg. 475/1985_, rg. 476/1985, rg. 492/1987, rg. 90/1989, rg. 153/1986, sbr. 424/1987, rg. 561/1987, rg. 453/1991, rg. 324/1994, rg. 325/1994, rg. 326/1994, rg. 327/1994, rg. 328/1994, rg. 329/1994, rg. 330/1994, rg. 331/1994, rg. 496/1994, rg. 500/1994, rg. 501/1994, sbr. 690/1998 og 584/1999, rg. 503/1994, rg. 580/1995, rg. 98/1996, rg. 99/1996, rg. 108/1996, rg. 377/1996, rg. 380/1996, rg. 382/1996, rg. 383/1996, rg. 164/1997, rg. 118/1998, rg. 140/1998, rg. 609/1999, rg. 570/2000, rg. 571/2000.
  ■ *48. gr.* Vinnueftirlit ríkisins getur lagt bann við framleiðslu, innflutningi, sölu, afhendingu, notkun og auglýsingum á sérlega hættulegum búnaði.
 ■ *49. gr.* Hvers konar vélar, tæki og búnað, sem getið er um í 46. gr., nema bifreiðar og vélar, sem lúta öðrum lögum, skal skrá og skoða samkvæmt nánari fyrirmælum í reglum,[^1)^] sem stjórn Vinnueftirlits ríkisins setur í samráði við forstjóra Vinnueftirlitsins.
  □ Um greiðslur fyrir skráningu og skoðun farandvéla, farandvinnuvéla og búvéla skal Vinnueftirlit ríkisins semja gjaldskrá,[^2)^] sem félagsmálaráðuneytið staðfestir.
  □ Stjórn Vinnueftirlitsins setur reglur[^3)^] um kennslu, þjálfun og próf, er gefi til kynna næga hæfni og þekkingu þeirra aðila, sem óska eftir leyfi til að mega stjórna eða fara með tilteknar vélar, enda sé ekki kveðið á um slík leyfi í öðrum lögum.
-    _[^1)^]Rg. 153/1986_, sbr. 424/1987 og 561/1987. Rg. 203/1972, sbr. 62/1988. Rg. 198/1983, sbr. 300/1995. [^2)^]Gjaldskrá 503/1998, sbr. augl. 163/2000. [^3)^]Rg. 198/1993, sbr. 21/1999.
+    _[^1)^]Rg. 153/1986_, sbr. 424/1987 og 561/1987. Rg. 203/1972, sbr. 62/1988. Rg. 198/1983, sbr. 300/1995 og 816/2000. [^2)^]Gjaldskrá 503/1998, sbr. augl. 163/2000. [^3)^]Rg. 198/1993, sbr. 21/1999.
 
  *VIII. kafli.* *Hættuleg efni og vörur.*
  ■ *50. gr.* Efni og vörur, sem geta verið hættuleg eða á annan hátt stofnað heilsu og öryggi manna í voða, þar með talin sprengi- og eldfim efni og sprengiefni, má aðeins framleiða eða nota við framleiðslu eða á annan hátt á vinnustað, ef þeim framleiðslu-, starfs- og vinnsluaðferðum er beitt, sem tryggja að starfsmenn séu varðir gegn slysum, eitrunum og sjúkdómum.
@@ -251,7 +251,7 @@ h2. Lög um aðbúnað, hollustuhætti og öryggi á vinnustöðum
  ■ *[63. gr. e.* Atvinnurekandi skal gera nauðsynlegar ráðstafanir til að tryggja öryggi og heilbrigði ungmenna með gerð mats á áhættu sem starf getur skapað þeim. Þetta mat skal fara fram áður en ungmenni hefja störf og í hvert sinn sem verulegar breytingar eru gerðar á starfsskilyrðum. Sýni matið að öryggi, líkamlegri eða andlegri heilsu eða þroska ungmennis geti verið stofnað í hættu skal atvinnurekandi sjá til þess að reglulega fari fram viðeigandi skoðun og eftirlit með heilsu ungmennanna þeim að kostnaðarlausu.][^1)^]
     _[^1)^]_"L. 52/1997, 11. gr.":/altext/stjt/1997.052.html
  ■ *[63. gr. f.* Ráðherra skal að fengnum tillögum stjórnar Vinnueftirlits ríkisins setja nánari reglur[^1)^] um leyfisveitingar skv. a-lið 2. mgr. 60. gr., heimild til að ráða börn 14 ára og eldri til vinnu sem er hluti af fræðilegu eða verklegu námsfyrirkomulagi skv. b-lið 2. mgr. 60. gr., hvað teljist störf af léttara tagi og við hvaða skilyrði þau skuli unnin skv. c-lið 2. mgr. 60. gr., skilyrði og takmörk vegna frávika skv. 3. mgr. 63. gr., frávik skv. 2. og 3. mgr. 63. gr. a og 2. - 4. mgr. 63. gr. b og um framkvæmd 62. gr., 63. gr. c og 63. gr. e.][^2)^]
-    _[^1)^]_"Rg. 426/1999":http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-4261999. [^2)^]"L. 52/1997, 12. gr.":/altext/stjt/1997.052.html
+    _[^1)^]Rg. 426/1999_. [^2)^]"L. 52/1997, 12. gr.":/altext/stjt/1997.052.html
 
  *XI. kafli.* *Heilsuvernd, læknisskoðanir og aðrar rannsóknir.*
  ■ *64. gr.* Rækja skal atvinnusjúkdómavarnir í samræmi við ákvæði laga þessara og laga um heilbrigðisþjónustu í samvinnu við heilbrigðisyfirvöld.
@@ -286,7 +286,7 @@ h2. Lög um aðbúnað, hollustuhætti og öryggi á vinnustöðum
  □ Ráðherra er heimilt að skipta stofnuninni í deildir að fengnum tillögum stjórnar stofnunarinnar.
  □ Ráðherra skal setja reglur um skiptingu landsins í eftirlitsumdæmi að fengnum tillögum stjórnar og forstjóra stofnunarinnar.
  □ Ráðherra setur með reglugerð[^1)^] nánari ákvæði um framkvæmd á lögum þessum.
-    _[^1)^]Rg. 153/1986_, sbr. 424/1987 og 561/1987. Rg. 431/1997. Rg. 433/1997. Rg. 679/1998.
+    _[^1)^]Rg. 153/1986_, sbr. 424/1987 og 561/1987; rg. 431/1997, rg. 433/1997, rg. 931/2000.
  ■ *74. gr.* Ráðherra skipar stjórn stofnunarinnar þannig: Þrjá stjórnarmenn tilnefnda af Alþýðusambandi Íslands, tvo stjórnarmenn tilnefnda af Vinnuveitendasambandi Íslands, einn stjórnarmann tilnefndan af Vinnumálasambandi samvinnufélaganna, einn stjórnarmann tilnefndan af Bandalagi starfsmanna ríkis og bæja, einn stjórnarmann tilnefndan af Sambandi íslenskra sveitarfélaga og einn stjórnarmann án tilnefningar. Varamenn í stjórnina skulu skipaðir á sama hátt.
  □ Ráðherra skipar formann stjórnar úr hópi stjórnarmanna og ákveður stjórnarlaun. Skipun stjórnar skal vera til fjögurra ára í senn.
 ■ *75. gr.* Stjórn Vinnueftirlits ríkisins hefur með höndum stjórn stofnunarinnar, markar henni stefnu og starfssvið í samræmi við lög og fer, ásamt forstjóra, með tengsl stofnunarinnar við félagsmálaráðuneytið.
@@ -296,10 +296,9 @@ h2. Lög um aðbúnað, hollustuhætti og öryggi á vinnustöðum
  □ Forstjóri stofnunarinnar situr stjórnarfundi og ennfremur aðrir starfsmenn stofnunarinnar, þegar við á. Þeir skulu hafa þar málfrelsi og tillögurétt.
     _[^1)^]_"L. 83/1997, 34. gr.":/altext/stjt/1997.083.html
  ■ *77. gr.* Til þess að standast kostnað af framkvæmd laga þessara skulu fyrirtæki þau, er lög þessi gilda um, greiða í ríkissjóð iðgjöld, sem innheimt skulu ásamt slysatryggingagjaldi, sbr. lög um almannatryggingar.
- □ Iðgjöld skulu reiknast af sama stofni og slysatryggingaiðgjald, sbr. 1. mgr. þessarar greinar. Hundraðshluti iðgjalds skal ákveðinn með reglugerð[^1)^] fyrir eitt ár í senn, með hliðsjón af fjárhagsáætlun Vinnueftirlits ríkisins, ásamt leiðréttingu vegna tekjuafgangs eða tekjuhalla næsta reikningsárs á undan.
+ □ Iðgjöld skulu reiknast af sama stofni og slysatryggingaiðgjald, sbr. 1. mgr. þessarar greinar. Hundraðshluti iðgjalds skal ákveðinn með reglugerð fyrir eitt ár í senn, með hliðsjón af fjárhagsáætlun Vinnueftirlits ríkisins, ásamt leiðréttingu vegna tekjuafgangs eða tekjuhalla næsta reikningsárs á undan.
  □ Aðrar tekjur stofnunarinnar eru skrásetningar- og eftirlitsgjöld samkvæmt 1. mgr. 49. gr. og gjöld fyrir aukaþjónustu samkvæmt 4. mgr. 80. gr.
-    _[^1)^]Rg. 480/1983_, sbr. 239/1989 og 232/1990.
- ■ *78. gr.* Vinnueftirlit ríkisins hefur það verkefni að:
+■ *78. gr.* Vinnueftirlit ríkisins hefur það verkefni að:
     a. leiðbeina fyrirtækjum, öryggisnefndum, öryggisnefndum sérgreina, aðilum vinnumarkaðarins og opinberum aðilum um mál er varða starfsumhverfi,
     b. aðstoða félagsmálaráðuneytið við undirbúning á reglugerðum í samræmi við lög þessi,
     c. gefa út reglur og leiðbeiningar í samræmi við lög þessi,

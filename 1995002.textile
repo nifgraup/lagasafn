@@ -146,13 +146,14 @@ h2. Lög um hlutafélög
  □ Áskriftarvottorð þau, sem um ræðir í 35. gr., skulu greina nafn félags, númer þeirra hluta, sem þeim tilheyra, svo og hlutaflokk. Reglur um undirskriftir á bráðabirgðaskírteini gilda einnig um skilríki fyrir áskriftarrétti.
 ■ *29. gr.* Um framsal og veðsetningu hlutabréfa gilda venjulegar reglur viðskiptabréfa, nema annað sé skýrt tekið fram í hlutabréfinu.
 ■ *30. gr.* Þegar hlutafélag hefur verið stofnað skal stjórn þess þegar í stað gera hlutaskrá. Heimilt er að hafa skrána í tryggu lausblaða- eða spjaldaformi eða tölvuskrá hana.
- □ Í hlutaskrá skulu hlutir eða hlutabréf skráð í númeraröð og skal fyrir sérhvern hlut eða hlutabréf tekið fram um nafn eiganda, kennitölu og heimilisfang.
+ □ [Í hlutaskrá skulu hlutir eða hlutabréf skráð í númeraröð og skal fyrir sérhvern hlut eða hlutabréf tekið fram um nafn eiganda, kennitölu og heimilisfang eða þeirra sem heimild hafa til safnskráningar, ef við á, samkvæmt lögum um verðbréfaviðskipti.][^1)^]
  □ Taki hlutabréf til tveggja eða fleiri hluta skal hlutaskráin jafnframt geyma upplýsingar um númer slíks hlutabréfs og nafnverð þeirra.
  □ Í hlutaskrá skal enn fremur vera að finna skrá um hluthafa í stafrófsröð og sé tekin fram hlutafjáreign hvers hluthafa.
  □ Verði eigendaskipti að hlut og ákvæði 22. og 23. gr. eru þeim ekki til fyrirstöðu skal nafn hins nýja hluthafa fært í hlutaskrána þegar hann eða löglegur umboðsmaður hans tilkynnir eigendaskiptin og færir sönnur á þau. Enn fremur skal geta eigendaskipta- og skráningardags.
  □ Þegar nafn nýs eiganda er fært í hlutaskrá skal hlutabréfið einnig áritað um færsluna.
  □ Hlutaskrá skal ætíð vera geymd á skrifstofu hlutafélags, og eiga allir hluthafar og stjórnvöld aðgang að henni og mega kynna sér efni hennar.
-■ *31. gr.* Sá er eignast hefur hlut getur ekki beitt réttindum sínum sem hluthafi, nema nafn hans hafi verið skráð í hlutaskrá eða hann hafi tilkynnt og fært sönnur á eign sína á hlutnum. Þetta á þó ekki við um rétt til arðs eða annarrar greiðslu og rétt til nýrra hluta við hækkun hlutafjár. Nú er arður sendur hluthöfum eða greiddur út án framvísunar arðmiða eða hlutabréfa og telst félagið þá þrátt fyrir næsta málslið hér að framan hafa lokið arðgreiðslu ef það greiðir þeim sem á útborgunardegi er skráður eigandi hlutabréfa í hlutaskrá eða hefur á þeim degi tilkynnt og fært sönnur á eign sína á hlutnum.
+    _[^1)^]_"L. 164/2000, 4. gr.":/altext/stjt/2000.164.html
+ ■ *31. gr.* Sá er eignast hefur hlut getur ekki beitt réttindum sínum sem hluthafi, nema nafn hans hafi verið skráð í hlutaskrá eða hann hafi tilkynnt og fært sönnur á eign sína á hlutnum. Þetta á þó ekki við um rétt til arðs eða annarrar greiðslu og rétt til nýrra hluta við hækkun hlutafjár. Nú er arður sendur hluthöfum eða greiddur út án framvísunar arðmiða eða hlutabréfa og telst félagið þá þrátt fyrir næsta málslið hér að framan hafa lokið arðgreiðslu ef það greiðir þeim sem á útborgunardegi er skráður eigandi hlutabréfa í hlutaskrá eða hefur á þeim degi tilkynnt og fært sönnur á eign sína á hlutnum.
 ■ *32. gr.* Nú eiga margir hlut saman og geta þeir þá aðeins beitt réttindum sínum í félaginu með sameiginlegum umboðsmanni.
 
  *V. kafli.* *Hækkun hlutafjár og áskriftarréttindi.*

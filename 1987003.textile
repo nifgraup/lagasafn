@@ -30,29 +30,126 @@ h2. Lög um fjáröflun til vegagerðar[^1)^]
 |þyngd öku-|metra-|þyngd öku-|metra-|
 |tækis, kg|gjald, kr.|tækis, kg|gjald, kr.|
 
-|4.000 - 4.999|7,11|18.000 - 18.999|17,09|
-|5.000 - 5.999|7,56|19.000 - 19.999|18,40|
-|6.000 - 6.999|8,17|20.000 - 20.999|19,38|
-|7.000 - 7.999|8,58|21.000 - 21.999|20,50|
-|8.000 - 8.999|8,96|22.000 - 22.999|21,79|
-|9.000 - 9.999|9,36|23.000 - 23.999|22,83|
-|10.000 - 10.999|9,93|24.000 - 24.999|23,86|
-|11.000 - 11.999|10,30|25.000 - 25.999|25,02|
-|12.000 - 12.999|11,20|26.000 - 26.999|26,13|
-|13.000 - 13.999|12,00|27.000 - 27.999|27,30|
-|14.000 - 14.999|12,93|28.000 - 28.999|28,46|
-|15.000 - 15.999|13,92|29.000 - 29.999|29,62|
-|16.000 - 16.999|15,03|30.000 - 30.999|30,78|
-|17.000 - 17.999|16,12|31.000 og yfir|31,94][^4)^]|
+4.000 - 4.999
+
+6,40
+
+18.000 - 18.999
+
+15,38
+
+5.000 - 5.999
+
+6,80
+
+19.000 - 19.999
+
+16,56
+
+6.000 - 6.999
+
+7,35
+
+20.000 - 20.999
+
+17,44
+
+7.000 - 7.999
+
+7,72
+
+21.000 - 21.999
+
+18,45
+
+8.000 - 8.999
+
+8,06
+
+22.000 - 22.999
+
+19,61
+
+9.000 - 9.999
+
+8,42
+
+23.000 - 23.999
+
+20,55
+
+10.000 - 10.999
+
+8,94
+
+24.000 - 24.999
+
+21,47
+
+11.000 - 11.999
+
+9,27
+
+25.000 - 25.999
+
+22,52
+
+12.000 - 12.999
+
+10,08
+
+26.000 - 26.999
+
+23,52
+
+13.000 - 13.999
+
+10,80
+
+27.000 - 27.999
+
+24,57
+
+14.000 - 14.999
+
+11,64
+
+28.000 - 28.999
+
+25,61
+
+15.000 - 15.999
+
+12,53
+
+29.000 - 29.999
+
+26,66
+
+16.000 - 16.999
+
+13,53
+
+30.000 - 30.999
+
+27,70
+
+17.000 - 17.999
+
+14,51
+
+31.000 og yfir
+
+28,75][^5)^]
 
    ...[^4)^]
     ...[^4)^]
-    [Nú er ökutæki eingöngu notað vegna flutninga þar sem leyfð heildarþyngd nýtist ekki til fulls og getur eigandi eða umráðamaður þá fengið gjaldþyngd ökutækisins skráða lægri en leyfð heildarþyngd þess er. Þó skal gjaldþyngd ekki vera lægri en eigin þyngd ökutækis. Ríkisskattstjóri veitir heimild samkvæmt þessari grein og getur bundið hana tilteknum tímamörkum. Ef í ljós kemur við eftirlit að heildarþyngd ökutækis með farmi er meiri en skráð gjaldþyngd þess skv. 1. mgr. skal heimild til að skrá gjaldþyngd niður afturkölluð og ekki veitt á ný fyrr en að liðnum fullum tveimur árum. Þungaskattur skal vera 70% lægri af akstri almenningsvagna í áætlunarferðum. ...[^5)^]][^6)^]
-    ...[^7)^]
-    [Samanlögð gjaldþyngd samtengdra ökutækja skal vera að hámarki 40.000 kg fyrir fimm ása samtengd ökutæki og 44.000 kg fyrir sex ása samtengd ökutæki.][^6)^]
+    [Nú er ökutæki eingöngu notað vegna flutninga þar sem leyfð heildarþyngd nýtist ekki til fulls og getur eigandi eða umráðamaður þá fengið gjaldþyngd ökutækisins skráða lægri en leyfð heildarþyngd þess er. Þó skal gjaldþyngd ekki vera lægri en eigin þyngd ökutækis. Ríkisskattstjóri veitir heimild samkvæmt þessari grein og getur bundið hana tilteknum tímamörkum. Ef í ljós kemur við eftirlit að heildarþyngd ökutækis með farmi er meiri en skráð gjaldþyngd þess skv. 1. mgr. skal heimild til að skrá gjaldþyngd niður afturkölluð og ekki veitt á ný fyrr en að liðnum fullum tveimur árum. Þungaskattur skal vera 70% lægri af akstri almenningsvagna í áætlunarferðum. ...[^6)^]][^7)^]
+    ...[^8)^]
+    [Samanlögð gjaldþyngd samtengdra ökutækja skal vera að hámarki 40.000 kg fyrir fimm ása samtengd ökutæki og 44.000 kg fyrir sex ása samtengd ökutæki.][^7)^]
     Ökumælar skulu settir í bifreiðar, festi- eða tengivagna á kostnað eigenda þeirra. Um tegundir og útbúnað mæla, ísetningu þeirra, álestur, viðgerðir og eftirlit skal kveðið á í reglugerð.
-    [Ef skylt er að búa ökutæki ökurita til eftirlits með aksturs- og hvíldartíma ökumanna samkvæmt reglugerð nr. 136/1995 skal ökuritinn notaður sem ökumælir.[^8)^] Nú er ökuriti notaður sem ökumælir og er ökumanni þá skylt að hafa skráningarblað (skífu) í ökuritanum.][^6)^]
-    [Ríkisskattstjóri][^6)^] getur, ef sérstaklega stendur á, veitt undanþágu frá því að ökumælisskyld bifreið, festi- eða tengivagn sé útbúin ökumæli enda fari ákvörðun þungaskatts fram á annan jafntryggan hátt.
+    [Ef skylt er að búa ökutæki ökurita til eftirlits með aksturs- og hvíldartíma ökumanna samkvæmt reglugerð nr. 136/1995 skal ökuritinn notaður sem ökumælir.[^9)^] Nú er ökuriti notaður sem ökumælir og er ökumanni þá skylt að hafa skráningarblað (skífu) í ökuritanum.][^7)^]
+    [Ríkisskattstjóri][^7)^] getur, ef sérstaklega stendur á, veitt undanþágu frá því að ökumælisskyld bifreið, festi- eða tengivagn sé útbúin ökumæli enda fari ákvörðun þungaskatts fram á annan jafntryggan hátt.
     _C._ [Af bifreiðum, sem skrásettar eru erlendis og nota annan orkugjafa en bensín, og af eftirvögnum, sem eru 6.000 kg eða meira að leyfðri heildarþyngd, skal greiða þungaskatt skv. 2. og 3. mgr. Af bifreiðum, sem eru allt að 4.000 kg að leyfðri heildarþyngd, og nýttar eru í atvinnuskyni, sbr. 2. mgr. 4. gr. A, skal vikugjaldið vera 25% hærra. Af bifreiðum, sem eru 4.000 kg eða meira að leyfðri heildarþyngd, og af eftirvögnum, sem eru 6.000 kg eða meira að leyfðri heildarþyngd, og nýtt eru í atvinnuskyni skal greiða þungaskatt samkvæmt ákvæðum B-liðar.
     Af ökutækjum skráðum erlendis skal greiða þungaskatt fyrir hverja byrjaða viku sem ökutækið er hér á landi sem hér segir:
 
@@ -141,8 +238,8 @@ Allt að 1.000
 
 3.230
 
-   Sé eigin þyngd ökutækis meiri en 4.000 kg skal þungaskattur fyrir hverja byrjaða viku hækka um 1.000 kr. fyrir hver byrjuð 1.000 kg sem eigin þyngd er umfram 4.000 kg. Við ákvörðun þungaskatts samkvæmt þessari málsgrein reiknast brot úr viku sem heil vika.][^9)^]
-    _[^1)^]"L. 68/1996, 4. gr.":/altext/stjt/1996.068.html [^2)^]"L. 151/1998, 4. gr.":/altext/stjt/1998.151.html [^3)^]"L. 128/1997, 1. gr.":/altext/stjt/1997.128.html [^4)^]"L. 31/2000, 2. gr.":/altext/stjt/2000.031.html [^5)^]"L. 151/1998, 5. gr.":/altext/stjt/1998.151.html [^6)^]"L. 68/1996, 5. gr.":/altext/stjt/1996.068.html [^7)^]"L. 83/1998, 2. gr.":/altext/stjt/1998.083.html [^8)^]Rg. 8/1996. [^9)^]"L. 151/1998, 6. gr.":/altext/stjt/1998.151.html_
+   Sé eigin þyngd ökutækis meiri en 4.000 kg skal þungaskattur fyrir hverja byrjaða viku hækka um 1.000 kr. fyrir hver byrjuð 1.000 kg sem eigin þyngd er umfram 4.000 kg. Við ákvörðun þungaskatts samkvæmt þessari málsgrein reiknast brot úr viku sem heil vika.][^10)^]
+    _[^1)^]"L. 68/1996, 4. gr.":/altext/stjt/1996.068.html [^2)^]"L. 151/1998, 4. gr.":/altext/stjt/1998.151.html [^3)^]"L. 128/1997, 1. gr.":/altext/stjt/1997.128.html [^4)^]"L. 31/2000, 2. gr.":/altext/stjt/2000.031.html [^5)^]"L. 165/2000, 1. gr.":/altext/stjt/2000.165.html [^6)^]"L. 151/1998, 5. gr.":/altext/stjt/1998.151.html [^7)^]"L. 68/1996, 5. gr.":/altext/stjt/1996.068.html [^8)^]"L. 83/1998, 2. gr.":/altext/stjt/1998.083.html [^9)^]Rg. 8/1996. [^10)^]"L. 151/1998, 6. gr.":/altext/stjt/1998.151.html_
  ■ *5. gr.* Bifreið, sem í [ökutækjaskrá][^1)^] er talin nota annað eldsneyti en bensín, skal talin vera slík, hvað skatti viðvíkur, þangað til eigandi eða umráðamaður sannar fyrir [skráningaraðila],[^1)^] að hún noti þar eftir bensín fyrir eldsneyti.
  □ Eigandi eða umráðamaður bensínbifreiðar, sem setur í bifreið sína hreyfil, er notar annað eldsneyti en bensín, skal tilkynna [skráningaraðila][^1)^] breytinguna jafnskjótt og hún kemur til framkvæmda.
  □ Nú kemur í ljós, að bifreið notar annað eldsneyti en bensín, en hún hefur ekki verið skráð sem slík og skal þá, hvað skattinn snertir, telja, að hún hafi verið þannig frá síðustu aðalskoðun, nema eigandi eða umráðamaður sanni, að svo hafi ekki verið.
@@ -212,7 +309,7 @@ Allt að 1.000
     _[^1)^]_"L. 68/1996, 15. gr.":/altext/stjt/1996.068.html
  ■ *[20. gr.* Fjármálaráðherra getur með reglugerð[^1)^] sett nánari ákvæði um framkvæmd laga þessara.
  □ Um þau atriði, sem ekki er kveðið sérstaklega á um í lögum þessum, fer samkvæmt "lögum nr. 50/1988":1988050.html, um virðisaukaskatt, með síðari breytingum, eftir því sem við á.][^2)^]
-    _[^1)^]Rg. 308/1996. Rg. 309/1996, sbr. 588/1998, 59/1999 og 380/1999. [^2)^]"L. 68/1996, 15. gr.":/altext/stjt/1996.068.html_
+    _[^1)^]Rg. 308/1996. Rg. 309/1996, sbr. 588/1998, 59/1999, 380/1999 og 466/2000. [^2)^]"L. 68/1996, 15. gr.":/altext/stjt/1996.068.html_
  *[Ákvæði til bráðabirgða.*
  ■ *I.* Heimilt er að endurgreiða útlagðan kostnað vegna kaupa á ökumælum, vegna nýskráningar bifreiða, tengi- eða festivagna eða vegna nauðsynlegrar endurnýjunar á ökumælum í bifreiðar, tengi- eða festivagna ef ákvörðun er tekin um að hætta að miða innheimtu þungaskatts við ekna kílómetra samkvæmt ökumælum.
  □ Ráðherra er heimilt að kveða nánar á um framkvæmd þessa ákvæðis í reglugerð.][^1)^]
@@ -233,5 +330,7 @@ Allt að 1.000
  □ Ný gjaldskrá B-liðar 4. gr. tekur gildi 11. júní 2000. Nýja gjaldið fyrir hvern ekinn kílómetra tekur gildi strax að loknu öðru álestrartímabili sem er frá 20. maí til 10. júní 2000, sbr. 2. mgr. B-liðar 7. gr. Sé ekki komið með ökutæki til álestrar á réttum tíma skal reikna út meðaltal ekinna kílómetra á dag á tímabilinu milli álestra. Þá skal hið nýja gjald innheimt eftir meðaltalsakstri eftir lok fyrrgreinds álestrartímabils.
  □ Þeir sem sótt hafa um heimild til ríkisskattstjóra til að greiða gjald fyrir gjaldárið 2000 er tekur mið af 95.000 km akstri í stað gjalds fyrir hvern ekinn kílómetra auk 100.000 kr. fasts árgjalds, sbr. 4. mgr. B-liðar 4. gr., fyrir gildistöku laga þessara, skulu halda rétti sínum til greiðslu áðurgreinds gjalds.][^1)^]
     _[^1)^]_"L. 31/2000, brbákv.":/altext/stjt/2000.031.html
+ ■ *[VIII.* Þrátt fyrir ákvæði 4. mgr. 5. gr. eru bifreiðar, sem nota í tilraunaskyni annan orkugjafa en bensín, dísilolíu eða annað eldsneyti unnið úr olíu, undanþegnar greiðslu þungaskatts frá gildistöku laga þessara til 31. desember 2002.][^1)^]
+    _[^1)^]_"L. 165/2000, 2. gr.":/altext/stjt/2000.165.html
 
 

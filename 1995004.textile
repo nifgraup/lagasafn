@@ -17,17 +17,17 @@ h2. Lög um tekjustofna sveitarfélaga
  □ Sveitarstjórn getur ákveðið að gjalddagar vatnsskatts, holræsagjalds og lóðarleigu skuli vera þeir sömu og gjalddagar fasteignaskatts og jafnframt að innheimtu þeirra verði hagað á sama hátt og innheimtu fasteignaskatts, sbr. 4. gr.
 
  *II. kafli.* *Um fasteignaskatt.*
-■ *3. gr.* Á allar fasteignir, sem metnar eru af Fasteignamati ríkisins, sbr. þó 5. gr., skal árlega leggja skatt til sveitarfélags þar sem fasteign er.
- □ Stofn til álagningar skattsins á hús og mannvirki, að undanteknum [sumarhúsum og][^1)^] útihúsum í sveitum, skal vera afskrifað endurstofnverð þeirra margfaldað með markaðsstuðli fasteigna í Reykjavík samkvæmt matsreglum Fasteignamats ríkisins. Stofn til álagningar fasteignaskatts á aðrar fasteignir skal vera fasteignamat þeirra.
+■ *3. gr.* [Leggja skal árlega fasteignaskatt á allar fasteignir sem metnar eru í fasteignamati 31. desember á næstliðnu ári, sbr. þó 5. gr.
+ □ Stofn til álagningar fasteignaskatts á allar fasteignir skal vera fasteignamat þeirra.][^1)^]
  □ Skatturinn skal vera sem hér segir:
     a. Allt að [^1^]/2% af álagningarstofni:
-    Íbúðir og íbúðarhús ásamt lóðarréttindum, erfðafestulönd og jarðeignir, sem ekki eru nytjaðar til annars en landbúnaðar, útihús og mannvirki á bújörðum, sem tengd eru landbúnaði, og sumarbústaðir ásamt lóðarréttindum.
-    b. Allt að [1,32%][^2)^] af álagningarstofni:
-    Allar aðrar fasteignir.
+    Íbúðir og íbúðarhús ásamt lóðarréttindum, erfðafestulönd [í dreifbýli][^2)^] og jarðeignir, ...[^2)^] útihús og mannvirki á bújörðum, sem tengd eru landbúnaði, [öll hlunnindi][^2)^] og sumarbústaðir ásamt lóðarréttindum.
+    b. [Allt að 1,32% af álagningarstofni:
+    Allar aðrar fasteignir, svo sem iðnaðar-, skrifstofu- og verslunarhúsnæði, fiskeldismannvirki, veiðihús og mannvirki sem nýtt eru fyrir ferðaþjónustu.][^3)^]
  □ Heimilt er sveitarstjórn að hækka um allt að 25% hundraðshluta þá, sem tilgreindir eru í 3. mgr. þessarar greinar, samkvæmt öðrum hvorum eða báðum stafliðum.
- □ Í sveitarfélagi, þar sem bæði er þéttbýli og dreifbýli, er sveitarstjórn heimilt að undanþiggja fasteignir í dreifbýli [og sumarhús][^1)^] álagi á fasteignaskatt skv. 4. mgr.
+ □ Í sveitarfélagi, þar sem bæði er þéttbýli og dreifbýli, er sveitarstjórn heimilt að undanþiggja fasteignir í dreifbýli [og sumarhús][^4)^] álagi á fasteignaskatt skv. 4. mgr.
  □ Fyrir 1. desember ár hvert skal Fasteignamat ríkisins láta sveitarfélögunum í té skrár yfir álagningarstofn fasteignaskatts í hverju sveitarfélagi, sbr. 2. mgr.
-    _[^1)^]_"L. 122/1996, 1. gr.":/altext/stjt/1996.122.html [^2)^]"L. 148/1995, 1. gr.":/altext/stjt/1995.148.html
+    _[^1)^]_"L. 144/2000, 1. gr.":/altext/stjt/2000.144.html [^2)^]"L. 144/2000, 2. gr.":/altext/stjt/2000.144.html [^3)^]"L. 144/2000, 3. gr.":/altext/stjt/2000.144.html [^4)^]"L. 122/1996, 1. gr.":/altext/stjt/1996.122.html
  ■ *4. gr.* Sveitarstjórn annast álagningu skattsins sem reiknast af heilum þúsundum álagningarstofns og skal sleppa því sem umfram er. Innheimtu skattsins getur sveitarstjórn falið sérstökum innheimtuaðila.
  □ Eigandi greiðir skattinn, nema um leigujarðir, leigulóðir eða önnur samningsbundin jarðarafnot sé að ræða. Þá greiðist skatturinn af ábúanda eða notanda.
  □ Verði ágreiningur um gjaldstofn skv. 3. gr. skal vísa honum til úrskurðar Fasteignamats ríkisins. Þeim úrskurði má skjóta til yfirfasteignamatsnefndar ríkisins. Verði ágreiningur um gjaldskyldu sker yfirfasteignamatsnefnd úr. Úrskurðum nefndarinnar má skjóta til dómstóla.
@@ -47,7 +47,8 @@ h2. Lög um tekjustofna sveitarfélaga
     b. Árlegt framlag úr ríkissjóði sem verði [0,264%][^1)^] af álagningarstofni útsvars næstliðins tekjuárs og skal greiðast Jöfnunarsjóði með jöfnum mánaðarlegum greiðslum.
     [c. Hlutdeild í útsvarstekjum sveitarfélaga er nemi [0,77%][^2)^] af álagningarstofni útsvars ár hvert. Við skil á staðgreiðslu útsvars til sveitarfélaga samkvæmt "lögum nr. 45/1987":1987045.html, um staðgreiðslu opinberra gjalda, skal jafnframt gera Jöfnunarsjóði sveitarfélaga skil á hlutdeild sjóðsins í staðgreiðslu útsvars.][^1)^]
     [d.] [^1)^] Vaxtatekjur.
-    _[^1)^]_"L. 79/1996, 1. gr.":/altext/stjt/1996.079.html [^2)^]"L. 122/1996, 2. gr.":/altext/stjt/1996.122.html
+    [e. Framlag úr ríkissjóði er nemi 0,64% af skatttekjum ríkissjóðs af beinum og óbeinum sköttum sem innheimtir eru í ríkissjóð. Skal því varið til að jafna tekjutap einstakra sveitarfélaga vegna lækkunar fasteignaskattstekna í kjölfar breytingar á álagningarstofni mannvirkja. Ráðherra setur reglugerð um framkvæmd þessa ákvæðis í samráði við Samband íslenskra sveitarfélaga.][^3)^]
+    _[^1)^]_"L. 79/1996, 1. gr.":/altext/stjt/1996.079.html [^2)^]"L. 122/1996, 2. gr.":/altext/stjt/1996.122.html [^3)^]"L. 144/2000, 4. gr.":/altext/stjt/2000.144.html
  ■ *9. gr.* Tekjum Jöfnunarsjóðs skal ráðstafað sem hér segir:
     a. Til greiðslu bundinna framlaga skv. 10. gr.
     b. Til greiðslu sérstakra framlaga skv. 11. gr.
@@ -75,7 +76,9 @@ h2. Lög um tekjustofna sveitarfélaga
     _[^1)^]Rg. 653/1997_, sbr. 771/1998. [^2)^]"L. 79/1996, 4. gr.":/altext/stjt/1996.079.html
  ■ *13. gr.* Framlögum skv. c-lið 11. gr. skal varið til að greiða hluta af stofnkostnaði sveitarfélaga við grunnskóla, íþróttamannvirki, félagsheimili, vatnsveitur og dagvistarheimili fyrir börn.
  □ Í reglugerð skal meðal annars setja nánari ákvæði um útreikning þessara framlaga og hvaða skilyrðum sveitarfélög þurfa að fullnægja til að hljóta þau.
-■ *14. gr.* [Framlögum skv. d-lið 11. gr. skal varið til að bæta dreifbýlissveitarfélögum upp aukinn kostnað við grunnskóla vegna breyttrar verkaskiptingar ríkis og sveitarfélaga.][^1)^]
+ □ [Þar sem svo háttar til að hagkvæmara er að mati sveitarstjórnar að leggja vatnsveitu að einstökum bæjum í dreifbýli, sbr. 2. mgr. "1. gr. laga nr. 81/1991":1991081.html#g1, um vatnsveitur sveitarfélaga, með síðari breytingum, er heimilt að greiða framlög úr Jöfnunarsjóði sveitarfélaga vegna stofnkostnaðar við vatnsveitu á vegum eigenda einstakra lögbýla. Heildarfjárhæð framlaga úr sjóðnum til framkvæmda á hverju ári skal ekki fara umfram 25 millj. kr. Stjórn Bændasamtaka Íslands gerir í lok hvers árs tillögur til félagsmálaráðuneytisins um framlög vegna einstakra framkvæmda á því ári á grundvelli reglugerðar[^1)^] sem ráðherra setur og annast greiðslur til framkvæmdaraðila.][^2)^]
+    _[^1)^]Rg. 973/2000. [^2)^]"L. 144/2000, 5. gr.":/altext/stjt/2000.144.html_
+ ■ *14. gr.* [Framlögum skv. d-lið 11. gr. skal varið til að bæta dreifbýlissveitarfélögum upp aukinn kostnað við grunnskóla vegna breyttrar verkaskiptingar ríkis og sveitarfélaga.][^1)^]
  □ Framlögin skulu miðuð við að hagur þessara sveitarfélaga verði ekki lakari eftir breytingar á verkaskiptingunni heldur en áður var.
  □ Í reglugerð skal meðal annars setja nánari ákvæði um útreikning þessara framlaga og hvaða skilyrðum sveitarfélög þurfa að fullnægja til að hljóta þau.
  □ [Skólamálaskrifstofum sveitarfélaga og öðrum opinberum aðilum er skylt að láta Jöfnunarsjóði sveitarfélaga í té allar upplýsingar sem nauðsynlegar eru til ákvörðunar og úthlutunar framlaga vegna stofnkostnaðar og reksturs grunnskóla.][^2)^]
@@ -97,9 +100,9 @@ h2. Lög um tekjustofna sveitarfélaga
  □ Lækki skattstjóri tekjuskattsstofn skv. 66. gr. laga um tekjuskatt og eignarskatt skal útsvarsstofn lækka um sömu fjárhæð.
 ■ *22. gr.* Skattstjórar annast álagningu útsvars.
  □ Ákvæði VIII. - XIV. kafla laga um tekjuskatt og eignarskatt gilda um útsvar eftir því sem við á nema öðruvísi sé ákveðið í lögum þessum.
-■ *23. gr.* Útsvar skal vera ákveðinn hundraðshluti af tekjum hvers almanaksárs, en má þó eigi vera hærra en [12,04%][^1)^] og eigi lægra en [11,24%][^1)^] af útsvarsstofni og skal sami hundraðshluti lagður á tekjur allra manna í hverju sveitarfélagi.
+■ *23. gr.* Útsvar skal vera ákveðinn hundraðshluti af tekjum hvers almanaksárs, en má þó eigi vera hærra en [13,03%][^1)^] og eigi lægra en [11,24%][^2)^] af útsvarsstofni og skal sami hundraðshluti lagður á tekjur allra manna í hverju sveitarfélagi.
  □ Útsvar af þeim tekjum barna, sem um ræðir í 2. og 3. mgr. 65. gr. laga um tekjuskatt og eignarskatt, skal vera 2% af tekjum umfram það lágmark sem tilgreint er í 2. mgr. 67. gr. sömu laga.
-    _[^1)^]_"L. 122/1996, 3. gr.":/altext/stjt/1996.122.html
+    _[^1)^]_"L. 144/2000, 6. gr.":/altext/stjt/2000.144.html [^2)^]"L. 122/1996, 3. gr.":/altext/stjt/1996.122.html
  ■ *24. gr.* Sveitarstjórn skal ákveða fyrir 1. desember ár hvert hvaða hundraðshluti verði lagður á tekjur manna á næsta ári, sbr. 1. mgr. 23. gr. þessara laga, svo og 1. mgr. 9. gr. laga um staðgreiðslu opinberra gjalda.
  □ Ákvörðun sveitarstjórnar skal tilkynna fjármálaráðuneytinu eigi síðar en 15. desember á sama ári.
  □ Skil á staðgreiðslufé til sveitarfélagsins skulu vera sami hundraðshluti og álagningarhlutfallið skv. 1. mgr.
@@ -140,7 +143,7 @@ h2. Lög um tekjustofna sveitarfélaga
 ■ *34. gr.* Ríkisstjórninni er heimilt að gera samninga við stjórnir annarra ríkja um gagnkvæmar ívilnanir á útsvörum þeirra erlendra og íslenskra aðila sem eftir gildandi útsvarslögum ríkjanna eiga að greiða útsvar af sömu tekjum bæði á Íslandi og í einhverju öðru ríki.
  □ Nú er eigi fyrir hendi samningur við annað ríki um að komast hjá tvísköttun á tekjur skv. 1. mgr. og einstaklingur, sem útsvarsskyldur er hér á landi skv. 19. gr., greiðir til opinberra aðila í öðru ríki útsvar af tekjum sínum sem útsvarsskyldar eru hér á landi og er þá ríkisskattstjóra heimilt, samkvæmt umsókn hlutaðeigandi einstaklings eða ábendingu skattstjóra, að lækka útsvar hans hér á landi með hliðsjón af þessum útsvarsgreiðslum hans.
 ■ *35. gr.* Ráðherra er heimilt að setja með reglugerð nánari ákvæði um framkvæmd laga þessara.[^1)^]
-    _[^1)^]Rg. 542/1989_, sbr. 395/1990.
+    _[^1)^]Rg. 542/1989_, sbr. 395/1990; rg. 945/2000 (um fasteignaskatt).
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Sérstakan fasteignaskatt, sem nema skal 1,25% að hámarki af álagningarstofni, er heimilt að leggja á fasteignir sem nýttar eru við verslunarrekstur eða til skrifstofuhalds, ásamt tilheyrandi lóð, enda þótt um leigulóð sé að ræða. Skattskylda samkvæmt þessu ákvæði hvílir á aðilum sem skattskyldir eru samkvæmt ákvæðum "I. kafla laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, eða "lögum nr. 65/1982":1982065.html, um skattskyldu innlánsstofnana, með síðari breytingum. Skattskyldan nær til sömu aðila og samkvæmt fyrri lögum um sama efni. Álagningarstofn skal vera fasteignamatsverð í árslok áður en álagning fer fram. Ef fasteignamat er ekki fyrir hendi skal miða við kostnaðar- eða kaupverð eignar eða áætlað fasteignamatsverð. Við ákvörðun á því hvaða eignir myndi stofn til skatts samkvæmt þessu ákvæði skal miða við raunverulega notkun fasteignar í árslok áður en álagning fer fram. Sé sama eignin notuð við verslunarrekstur eða til skrifstofuhalds, en einnig til annars, skal við ákvörðun á skattstofni skipta verðmæti eignarinnar hlutfallslega. Skattur samkvæmt ákvæði þessu rennur óskiptur til sveitarsjóðs. Sveitarstjórn annast álagningu og innheimtu skattsins en getur falið sérstökum innheimtuaðila innheimtuna.
@@ -167,5 +170,9 @@ h2. Lög um tekjustofna sveitarfélaga
  □ Ráðstöfunarfé skv. 1. mgr. skal varið til að greiða allt að 20% af normkostnaði við grunnskólabyggingar í sveitarfélögum með 2.000 íbúa og yfir á árunum 1997 - 2002 í samræmi við norm og reglur Jöfnunarsjóðs sveitarfélaga eins og þær eru hverju sinni. Sá hluti fjárhæðarinnar sem sveitarfélögin nýta ekki á viðkomandi ári skal færður á milli ára innan tímabilsins. Framlag ríkisins samkvæmt þessu ákvæði skal að hámarki vera 1.325 milljónir króna á tímabilinu.
  □ Endurskoða skal núgildandi norm og reglur Jöfnunarsjóðs sveitarfélaga um stofnframlög og setja nánari ákvæði og sérstakar reglur um úthlutun þessa fjár í samráði við Samband íslenskra sveitarfélaga.][^1)^]
     _[^1)^]_"L. 79/1996, 7. gr.":/altext/stjt/1996.079.html
+ ■ *[V.* Þrátt fyrir ákvæði 23. gr. skal hámark útsvars skv. 1. mgr. 23. gr. tekjuárið 2001 vera 12,70%.][^1)^]
+    _[^1)^]_"L. 144/2000, 7. gr.":/altext/stjt/2000.144.html
+ ■ *[VI.* Þrátt fyrir lokamálslið 3. mgr. 13. gr. skal stjórn Bændasamtaka Íslands skila tillögum um framlög vegna framkvæmda á árunum 1999 og 2000 eigi síðar en 15. mars 2001.][^1)^]
+    _[^1)^]_"L. 144/2000, 7. gr.":/altext/stjt/2000.144.html
 
 

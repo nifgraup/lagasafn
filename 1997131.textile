@@ -68,7 +68,7 @@ h2. Lög um rafræna eignarskráningu verðbréfa
  ■ *13. gr.* Stjórn verðbréfamiðstöðvar ber ábyrgð á því að fyllsta öryggis sé gætt í starfsemi hennar og reksturinn fari fram á hagkvæman hátt. Stjórn verðbréfamiðstöðvar setur nánari reglur um hvaða verðbréf er unnt að taka til skráningar sem rafbréf. Reglur þessar skulu tryggja jafnræði allra hlutaðeigandi og skulu birtar opinberlega. Rafbréf í sama verðbréfaflokki verða aðeins skráð í einni verðbréfamiðstöð.
 ■ *14. gr.* Verðbréfamiðstöð er óheimilt að veita upplýsingar um skráð réttindi, sbr. þó ákvæði laga þessara.
  □ Verðbréfamiðstöð er heimilt að veita upplýsingar í hagtöluskyni að fenginni heimild [Persónuverndar].[^1)^]
-    _[^1)^]_"L. 77/2000, 46. gr.":2000077.html#g46 Öðlast gildi 1. janúar 2001.
+    _[^1)^]_"L. 77/2000, 46. gr.":2000077.html#g46
  ■ *15. gr.* Seðlabanki Íslands tekur við innlánum frá reikningsstofnunum sem aðild eiga að verðbréfamiðstöð og annast efndalok viðskipta þeirra með rafbréf. [Seðlabanka Íslands er samkvæmt samningi við reikningsstofnun heimil veðtrygging í rafbréfum reikningsstofnunar til tryggingar á efndalokum er lúta að greiðsluuppgjöri í greiðslukerfum, sem viðurkennd eru af ráðherra skv. "3. gr. laga um öryggi greiðslufyrirmæla í greiðslukerfum, nr. 90/1999":1999090.html#g3, og skal skrá veðréttindin skv. IV. kafla laga þessara. Hafi reikningsstofnun ekki uppfyllt skyldur sínar innan þess frests sem ákveðinn er í gildandi reglum um viðskipti samkvæmt þessari grein er Seðlabankanum heimilt að innleysa þegar í stað þau rafbréf sem standa til tryggingar hlutaðeigandi efndalokum.][^1)^] Seðlabankinn setur nánari reglur um viðskipti sín samkvæmt þessari grein.
  □ Skipa skal samráðsnefnd verðbréfamiðstöðva, Verðbréfaþings Íslands og Seðlabanka Íslands. Seðlabanki Íslands skipar einn fulltrúa í nefndina, verðbréfamiðstöðvar sem hlotið hafa starfsleyfi samkvæmt lögum þessum einn fulltrúa og Verðbréfaþing Íslands einn fulltrúa. Seðlabanki Íslands fer með formennsku í nefndinni. Hlutverk samráðsnefndar er að fjalla um samskipti verðbréfamiðstöðva, Verðbréfaþings Íslands og Seðlabankans í tengslum við frágang viðskipta.
  □ Seðlabankinn getur beitt reikningsstofnanir viðurlögum skv. "41. gr. laga nr. 36/1986":1986036.html, um Seðlabanka Íslands, sé ákvörðunum bankans í þessum efnum ekki hlítt.
@@ -101,10 +101,10 @@ h2. Lög um rafræna eignarskráningu verðbréfa
     _[^1)^]Rg. 397/2000_.
 
  *V. kafli.* *Reikningsyfirlit.*
- ■ *24. gr.* Á reikning í verðbréfamiðstöð skal eignarskrá rafbréf reikningseiganda. Á hvern reikning skal skrá reikningsstofnun eða reikningsstofnanir sem hafa heimild til eignarskráningar á reikninginn. Verðbréfamiðstöð skal gefa út reikningsyfirlit um þau réttindi sem þar eru skráð.
+ ■ *24. gr.* [Á reikning í verðbréfamiðstöð skal eignarskrá rafbréf reikningseiganda. Á hvern reikning skal skrá reikningsstofnun eða reikningsstofnanir sem hafa heimild til eignarskráningar á reikninginn. Reikningsstofnun er heimilt að annast safnskráningu á reikning í samræmi við lög um verðbréfaviðskipti. Ef reikningur er safnreikningur skal hann auðkenndur sem slíkur. Verðbréfamiðstöð skal gefa út reikningsyfirlit um þau réttindi sem þar eru skráð.][^1)^]
  □ Reikningsyfirlit skulu gefin út með jöfnu millibili handa eigendum rafbréfa. Á reikningsyfirliti skal koma fram yfirlit yfir þau rafbréf sem viðkomandi reikningseigandi er skráður eigandi að við dagsetningu yfirlitsins. Samsvarandi yfirlit skulu gefin út til eiganda takmarkaðra eignarréttinda yfir rafbréfi. Reikningsstofnun er heimilt að senda skráðum rétthafa aukareikningsyfirlit, enda hafi hann óskað eftir því.
- □ Í reglugerð,[^1)^] sem ráðherra setur, skal setja nánari reglur um gerð reikninga og útgáfu reikningsyfirlita skv. 1. mgr., svo og hvaða atriði skulu koma fram á yfirlitinu.
-    _[^1)^]Rg. 397/2000_.
+ □ Í reglugerð,[^2)^] sem ráðherra setur, skal setja nánari reglur um gerð reikninga og útgáfu reikningsyfirlita skv. 1. mgr., svo og hvaða atriði skulu koma fram á yfirlitinu.
+    _[^1)^]_"L. 164/2000, 3. gr.":/altext/stjt/2000.164.html [^2)^]Rg. 397/2000.
 
  *VI. kafli.* *Úrskurðarnefnd og kærumeðferð.*
  ■ *25. gr.* Kæra vegna ágreinings sem kann að rísa í tilefni af eignarskráningu í verðbréfamiðstöð eða annarra atriða sem falla undir gildissvið laganna skal send til úrskurðarnefndar verðbréfamiðstöðva. Þetta á þó ekki við um skaðabótakröfur.

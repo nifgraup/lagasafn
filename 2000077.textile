@@ -1,12 +1,11 @@
 <hr />
 
-h2. Lög um persónuvernd og meðferð persónuupplýsinga[^1)^]
+h2. Lög um persónuvernd og meðferð persónuupplýsinga
 
 *2000 nr. 77 23. maí*
 
 <hr />
 
-   _[^1)^]Lögin taka gildi 1. janúar 2001, sbr. 46. gr._
 
  *I. kafli.* *Markmið, skilgreiningar og gildissvið.*
  ■ *1. gr.* _Markmið._
@@ -253,9 +252,10 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga[^1)^]
 ■ *45. gr.* _Reglugerðir um einstaka flokka starfsemi._
  □ Með reglugerð má mæla fyrir um meðferð persónuupplýsinga í tiltekinni starfsemi og hjá einstökum starfsstéttum.
  □ Í reglugerð skal mælt fyrir um heimild til söfnunar og skráningar upplýsinga sem varða fjárhagsmálefni og lánstraust fyrirtækja, svo og annarra lögaðila, í því skyni að miðla til annarra upplýsingum um það efni. Heimild til slíkrar starfsemi skal bundin leyfi Persónuverndar og um hana gilda eftirfarandi ákvæði laganna: 11. gr. um öryggi og gæði upplýsinga, 12. gr. um innra eftirlit, 13. gr. um meðferð vinnsluaðila á upplýsingum, 18. gr. um upplýsingarétt hins skráða, 21. gr. um viðvörunarskyldu þegar upplýsingum er safnað frá öðrum en hinum skráða, 25. gr. um leiðréttingu og eyðingu rangra og villandi upplýsinga, 26. gr. um eyðingu og bann við notkun upplýsinga sem hvorki eru rangar né villandi, 33. gr. um leyfisskylda vinnslu, 34. gr. um forsendur leyfisveitingar, 35. gr. um skilmála, 38. gr. um aðgang Persónuverndar að upplýsingum o.fl., 40. gr. um stöðvun vinnslu o.fl., 41. gr. um dagsektir, 42. gr. um refsingar og 43. gr. um bætur.
- □ Að fenginni umsögn Persónuverndar skal ráðherra í reglugerð mæla nánar fyrir um eftirlit Persónuverndar með rafrænni vinnslu persónuupplýsinga hjá lögreglu. Þar skal m.a. mælt fyrir um skyldu lögreglu til að tilkynna Persónuvernd um rafrænt unnar skrár sem hún heldur og efni slíkra tilkynninga. Þá skal mælt fyrir um í hvaða tilvikum og með hvaða hætti hinn skráði á rétt til aðgangs að persónuupplýsingum sem skráðar hafa verið um hann hjá lögreglu, svo og heimild lögreglu til miðlunar upplýsinga í öðrum tilvikum. Loks skal mælt fyrir um öryggi persónuupplýsinga og innra eftirlit lögreglu með því að vinnslu persónuupplýsinga sé hagað í samræmi við lög, svo og um tímalengd á varðveislu skráðra upplýsinga.
+ □ Að fenginni umsögn Persónuverndar skal ráðherra í reglugerð[^1)^] mæla nánar fyrir um eftirlit Persónuverndar með rafrænni vinnslu persónuupplýsinga hjá lögreglu. Þar skal m.a. mælt fyrir um skyldu lögreglu til að tilkynna Persónuvernd um rafrænt unnar skrár sem hún heldur og efni slíkra tilkynninga. Þá skal mælt fyrir um í hvaða tilvikum og með hvaða hætti hinn skráði á rétt til aðgangs að persónuupplýsingum sem skráðar hafa verið um hann hjá lögreglu, svo og heimild lögreglu til miðlunar upplýsinga í öðrum tilvikum. Loks skal mælt fyrir um öryggi persónuupplýsinga og innra eftirlit lögreglu með því að vinnslu persónuupplýsinga sé hagað í samræmi við lög, svo og um tímalengd á varðveislu skráðra upplýsinga.
  □ Þá skal í reglugerð kveða nánar á um starfsemi þeirra sem nota nafnalista, vinna nafnáritanir, þar á meðal við markaðssetningarstarfsemi, og við gerð markaðs- og skoðanakannana.
-■ *46. gr.* _Gildistaka._
+    _[^1)^]Rg. 794/2000_.
+ ■ *46. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. janúar 2001. ...
  ■ *Ákvæði til bráðabirgða.* Þegar er lög þessi hafa verið birt skal ráðherra skipa stjórn og auglýsa embætti forstjóra Persónuverndar laust til umsóknar. Eftir að forstjóri hefur verið skipaður ræður hann eftir þörfum annað starfsfólk til að annast undirbúning að gildistöku laganna og sinna stjórnsýslu skv. 2. mgr.
  □ Þrátt fyrir 1. mgr. 46. gr. skal Persónuvernd þegar er stjórn hennar hefur verið skipuð taka að sér eftirlit með því að meðferð persónuupplýsinga í Schengen-upplýsingakerfinu á Íslandi sé í samræmi við "lög nr. 16/2000":2000016.html, um Schengen-upplýsingakerfið á Íslandi.

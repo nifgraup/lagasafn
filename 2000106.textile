@@ -43,10 +43,11 @@ h2. Lög um mat á umhverfisáhrifum
  □ Ráðherra getur heimilað í sérstökum undantekningartilvikum, að fenginni umsögn Skipulagsstofnunar og leyfisveitenda, að mat á umhverfisáhrifum framkvæmdar, eða hluta hennar, samkvæmt þessari grein og 6. gr. fari fram með öðrum hætti en kveðið er á um í lögum þessum. Málsmeðferð slíks mats skal vera jafngild þeirri málsmeðferð sem mælt er fyrir um í IV. kafla.
 ■ *6. gr.* _Framkvæmdir sem kunna að vera háðar mati á umhverfisáhrifum._
  □ Framkvæmdir sem tilgreindar eru í 2. viðauka við lög þessi skulu háðar mati á umhverfisáhrifum þegar þær geta haft í för með sér umtalsverð umhverfisáhrif vegna umfangs, eðlis eða staðsetningar.
- □ Nú er fyrirhuguð framkvæmd meðal þeirra sem taldar eru í 2. viðauka við lög þessi og ber framkvæmdaraðila þá að tilkynna Skipulagsstofnun um hana. Ráðherra setur í reglugerð ákvæði um hvaða gögn skuli lögð fram til Skipulagsstofnunar. Innan fjögurra vikna frá því að gögn um framkvæmdina berast skal stofnunin tilkynna hvort framkvæmdin skuli háð mati samkvæmt lögum þessum. Við ákvörðun um matsskyldu skal Skipulagsstofnun fara eftir viðmiðum í 3. viðauka við lög þessi. Áður skal stofnunin leita álits leyfisveitenda, framkvæmdaraðila og annarra eftir eðli máls hverju sinni. Skipulagsstofnun skal gera hlutaðeigandi grein fyrir niðurstöðu sinni og kynna hana almenningi.
+ □ Nú er fyrirhuguð framkvæmd meðal þeirra sem taldar eru í 2. viðauka við lög þessi og ber framkvæmdaraðila þá að tilkynna Skipulagsstofnun um hana. Ráðherra setur í reglugerð[^1)^] ákvæði um hvaða gögn skuli lögð fram til Skipulagsstofnunar. Innan fjögurra vikna frá því að gögn um framkvæmdina berast skal stofnunin tilkynna hvort framkvæmdin skuli háð mati samkvæmt lögum þessum. Við ákvörðun um matsskyldu skal Skipulagsstofnun fara eftir viðmiðum í 3. viðauka við lög þessi. Áður skal stofnunin leita álits leyfisveitenda, framkvæmdaraðila og annarra eftir eðli máls hverju sinni. Skipulagsstofnun skal gera hlutaðeigandi grein fyrir niðurstöðu sinni og kynna hana almenningi.
  □ Almenningi skal heimilt að tilkynna framkvæmd eða bera fram fyrirspurn um matsskyldu framkvæmda sem taldar eru upp í 2. viðauka til Skipulagsstofnunar og skal stofnunin þá leita upplýsinga um framkvæmdina hjá framkvæmdaraðila og leyfisveitanda og taka ákvörðun um hvort hún eigi undir grein þessa.
  □ Ákvörðun Skipulagsstofnunar skv. 2. og 3. mgr. má kæra til umhverfisráðherra. Kærufrestur er fjórar vikur frá því að niðurstaða stofnunarinnar er kynnt hlutaðeigandi og almenningi.
-■ *7. gr.* _Aðrar framkvæmdir sem hugsanlega eru matsskyldar._
+    _[^1)^]Rg. 671/2000_.
+ ■ *7. gr.* _Aðrar framkvæmdir sem hugsanlega eru matsskyldar._
  □ Umhverfisráðherra er heimilt, að fenginni umsögn Skipulagsstofnunar, að mæla svo um í reglugerð að framkvæmd sem ekki er talin upp í 1. og 2. viðauka við lög þessi skuli háð mati ef sýnt þykir að hún geti haft í för með sér umtalsverð umhverfisáhrif. Sama gildir um framkvæmd sem varðar alþjóðasamninga sem Ísland er aðili að. Við ákvörðunina skal ráðherra fylgja viðmiðunum í 3. viðauka við lög þessi og leita álits Skipulagsstofnunar, leyfisveitenda, framkvæmdaraðila og annarra eftir eðli máls hverju sinni.
 
  *IV. kafli.* *Málsmeðferð vegna matsskyldra framkvæmda.*
@@ -101,7 +102,7 @@ h2. Lög um mat á umhverfisáhrifum
  □ Ef líklegt þykir að framkvæmd muni hafa umtalsverð umhverfisáhrif í öðru ríki innan Evrópska efnahagssvæðisins ber Skipulagsstofnun að senda því ríki lýsingu á framkvæmdinni ásamt tiltækum upplýsingum um hugsanleg áhrif hennar yfir landamæri. Skipulagsstofnun getur krafist þess að framkvæmdaraðili taki saman upplýsingar um hugsanleg áhrif í viðkomandi ríki á tungumáli þess.
  □ Þegar líklegt þykir að framkvæmd hér á landi muni hafa umtalsverð áhrif á umhverfi annars ríkis innan Evrópska efnahagssvæðisins skal gefa því tækifæri til að fjalla um málið.
 ■ *19. gr.* _Reglugerð um mat á umhverfisáhrifum._
- □ Umhverfisráðherra setur í reglugerð, að fenginni umsögn Skipulagsstofnunar, nánari ákvæði um framkvæmd laganna, þar með talið um:
+ □ Umhverfisráðherra setur í reglugerð,[^1)^] að fenginni umsögn Skipulagsstofnunar, nánari ákvæði um framkvæmd laganna, þar með talið um:
     a. tilkynningar um framkvæmdir skv. 2. viðauka,
     b. framsetningu matsáætlunar, matsskýrslu og gögn,
     c. samráðsferlið,
@@ -112,7 +113,8 @@ h2. Lög um mat á umhverfisáhrifum
     h. minni háttar breytingar á úrskurðum,
     i. samtengingu vinnu við mat á umhverfisáhrifum og starfsleyfis,
     j. eftirlit.
-■ *20. gr.* _Gildistaka._
+    _[^1)^]Rg. 671/2000_.
+ ■ *20. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi. ...
 
  *Ákvæði til bráðabirgða.*

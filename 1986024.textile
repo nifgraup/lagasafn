@@ -33,21 +33,38 @@ h2. Lög um skiptaverðmæti og greiðslumiðlun innan sjávarútvegsins
     _[^1)^]_"L. 80/1997, 3. gr.":/altext/stjt/1997.080.html
  ■ *8. gr.* Fé því, sem safnast á greiðslumiðlunarreikning smábáta skv. 6. gr., skal skipta mánaðarlega og færa til tekna á bankareikninga í þessum hlutföllum:
 
-1.
-
-Til lífeyrissjóða sjómanna
-
-[37,5%][^1)^]
-
-2.
-
-Til greiðslu iðgjalda af slysa- og örorku-
-
-tryggingu skipverja, sams konar þeim sem
-
-samið er um í heildarkjarasamningum sjó-
-
-manna og útvegsmanna, þar á meðal vegna
+<table>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+<tbody>
+<tr class="odd">
+<td align="left">1.</td>
+<td align="left">Til lífeyrissjóða sjómanna</td>
+<td align="left">[37,5%][^1)^]</td>
+</tr>
+<tr class="even">
+<td align="left">2.</td>
+<td align="left">Til greiðslu iðgjalda af slysa- og örorku-</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">tryggingu skipverja, sams konar þeim sem</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">samið er um í heildarkjarasamningum sjó-</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">manna og útvegsmanna, þar á meðal vegna</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
 grásleppuveiða, svo og af vátryggingu báts,
 
