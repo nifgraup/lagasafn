@@ -1662,21 +1662,17 @@ _3. Ákvæði um tilhögun aðlögunar/breytinga á gerðum bandalagsins._
 
 _4. Tilhögun varðandi upplýsingaskipti og tilkynningar._
 
+a. [Þegar aðildarríki EB ber að veita framkvæmdastjórn EB upplýsingar skal EFTA-ríki veita eftirlitsstofnun EFTA slíkar upplýsingar og hún koma þeim áleiðis til fastanefndar EFTA-ríkjanna. Hið sama gildir þegar þar til bær yfirvöld eiga að annast sendingu upplýsinga. Framkvæmdastjórn EB og eftirlitsstofnun EFTA skulu skiptast á upplýsingum sem þeim hafa borist frá aðildarríkjum EB eða EFTA-ríkjunum eða þar til bærum yfirvöldum.][^1)^]
 
+b. Þegar aðildarríki EB ber að veita einu eða fleiri aðildarríkjum EB upplýsingar skal það einnig veita framkvæmdastjórn EB þessar upplýsingar og skal hún koma þeim á framfæri við fastanefndina sem dreifir þeim til EFTA-ríkjanna.
 
+EFTA-ríki skal veita einu eða fleiri EFTA-ríkjum samsvarandi upplýsingar og einnig fastanefndinni sem kemur upplýsingunum á framfæri við framkvæmdastjórn EB er dreifir þeim til aðildarríkja EB. Hið sama gildir þegar þar til bær yfirvöld eiga að veita upplýsingarnar.
 
-<dl>
-<dt>a.</dt>
-<dd>[Þegar aðildarríki EB ber að veita framkvæmdastjórn EB upplýsingar skal EFTA-ríki veita eftirlitsstofnun EFTA slíkar upplýsingar og hún koma þeim áleiðis til fastanefndar EFTA-ríkjanna. Hið sama gildir þegar þar til bær yfirvöld eiga að annast sendingu upplýsinga. Framkvæmdastjórn EB og eftirlitsstofnun EFTA skulu skiptast á upplýsingum sem þeim hafa borist frá aðildarríkjum EB eða EFTA-ríkjunum eða þar til bærum yfirvöldum.][^1)^]</dd>
-<dt>b.</dt>
-<dd><p>Þegar aðildarríki EB ber að veita einu eða fleiri aðildarríkjum EB upplýsingar skal það einnig veita framkvæmdastjórn EB þessar upplýsingar og skal hún koma þeim á framfæri við fastanefndina sem dreifir þeim til EFTA-ríkjanna.</p>
-<p>EFTA-ríki skal veita einu eða fleiri EFTA-ríkjum samsvarandi upplýsingar og einnig fastanefndinni sem kemur upplýsingunum á framfæri við framkvæmdastjórn EB er dreifir þeim til aðildarríkja EB. Hið sama gildir þegar þar til bær yfirvöld eiga að veita upplýsingarnar.</p></dd>
-<dt>c.</dt>
-<dd>Á sviðum þar sem brýn þörf er á skjótvirkri upplýsingamiðlum ber að leita viðeigandi lausna fyrir einstök svið til þess að greiða fyrir beinum upplýsingaskiptum.</dd>
-<dt>d.</dt>
-<dd>Starfsemi framkvæmdastjórnar EB vegna tilhögunar við sannprófun eða samþykki, upplýsingar, tilkynningar eða ráðgjöf og skyld málefni skal að því er EFTA-ríkin varðar fara fram í samræmi við starfsreglur þeirra. Þetta gildir með fyrirvara um ákvæði 2., 3. og 7. tölul. Framkvæmdastjórn EB og eftirlitsstofnun EFTA eða fastanefndin, eftir atvikum, skulu skiptast á öllum upplýsingum um þessi málefni. Öllum ágreiningsefnum sem upp koma í þessu samhengi má vísa til sameiginlegu EES-nefndarinnar.</dd>
-<dd><p>_[^1)^]_"L. 91/1994, 2. gr":/altext/stjt/1994.091.html. Sjá einnig "gildistökuákvæði í 3. gr. þeirra laga í":/altext/stjt/1994.091.html Stjtíð. A 1993, bls. 277.</p></dd>
-</dl>
+c. Á sviðum þar sem brýn þörf er á skjótvirkri upplýsingamiðlum ber að leita viðeigandi lausna fyrir einstök svið til þess að greiða fyrir beinum upplýsingaskiptum.
+
+d. Starfsemi framkvæmdastjórnar EB vegna tilhögunar við sannprófun eða samþykki, upplýsingar, tilkynningar eða ráðgjöf og skyld málefni skal að því er EFTA-ríkin varðar fara fram í samræmi við starfsreglur þeirra. Þetta gildir með fyrirvara um ákvæði 2., 3. og 7. tölul. Framkvæmdastjórn EB og eftirlitsstofnun EFTA eða fastanefndin, eftir atvikum, skulu skiptast á öllum upplýsingum um þessi málefni. Öllum ágreiningsefnum sem upp koma í þessu samhengi má vísa til sameiginlegu EES-nefndarinnar.
+
+_[^1)^]"L. 91/1994, 2. gr":/altext/stjt/1994.091.html. Sjá einnig "gildistökuákvæði í 3. gr. þeirra laga í":/altext/stjt/1994.091.html Stjtíð. A 1993, bls. 277._
 
 _5. Skýrslugerð._
 
@@ -1686,12 +1682,9 @@ _5. Skýrslugerð._
 
 _6. Birting upplýsinga._
 
-<dl>
-<dt>a.</dt>
-<dd>Þegar aðildarríki EB á, samkvæmt gerð sem vísað er til, að birta ákveðnar upplýsingar um staðreyndir, málsmeðferð og annað slíkt skulu EFTA-ríkin einnig, samkvæmt samningnum, birta viðkomandi upplýsingar á samsvarandi hátt.</dd>
-<dt>b.</dt>
-<dd>Þegar birta á, samkvæmt gerð sem vísað er til, staðreyndir, málsmeðferð, skýrslur og annað slíkt í Stjórnartíðindum Evrópubandalagsins skal birta þar samsvarandi upplýsingar varðandi EFTA-ríkin í sérstakri EES-deild.</dd>
-</dl>
+a. Þegar aðildarríki EB á, samkvæmt gerð sem vísað er til, að birta ákveðnar upplýsingar um staðreyndir, málsmeðferð og annað slíkt skulu EFTA-ríkin einnig, samkvæmt samningnum, birta viðkomandi upplýsingar á samsvarandi hátt.
+
+b. Þegar birta á, samkvæmt gerð sem vísað er til, staðreyndir, málsmeðferð, skýrslur og annað slíkt í Stjórnartíðindum Evrópubandalagsins skal birta þar samsvarandi upplýsingar varðandi EFTA-ríkin í sérstakri EES-deild.
 
 _7. Réttindi og skyldur._
 
@@ -1761,9 +1754,6 @@ _[^1)^]Fylgiskjal með "L. 66/1993":/altext/stjt/1993.066.html._
 
 
 _Bókun um breytingu á samningnum um evrópska efnahagssvæðið._
-
-
-
 
 
  EFNAHAGSBANDALAG EVRÓPU,

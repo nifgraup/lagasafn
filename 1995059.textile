@@ -47,7 +47,7 @@ h2. Lög um áhafnir íslenskra kaupskipa
 <dt>k.</dt>
 <dd>Matsveinn eða bryti er hver sá sem hefur öðlast réttindi til að vera matsveinn eða bryti á skipi.</dd>
 <dt>l.</dt>
-<dd>Fullgildur undirmaður er sá sem uppfyllt hefur þær kröfur sem gerðar eru til stöðunnar. Til þess að mega gegna vaktstöðu á siglingavakt í brú, í vélarrúmi og hafa á hendi stjórnun björgunarfara þarf viðkomandi að hafa tilskilin réttindi frá Siglingamálastofnun ríkisins eða sambærileg réttindi frá öðru viðurkenndu yfirvaldi, eða frá öðru ríki sem er aðili að STCW-samþykktinni.</dd>
+<dd>Fullgildur undirmaður er sá sem uppfyllt hefur þær kröfur sem gerðar eru til stöðunnar. Til þess að mega gegna vaktstöðu á siglingavakt í brú, í vélarrúmi og hafa á hendi stjórnun björgunarfara þarf viðkomandi að hafa tilskilin réttindi frá [Siglingastofnun Íslands][^1)^] eða sambærileg réttindi frá öðru viðurkenndu yfirvaldi, eða frá öðru ríki sem er aðili að STCW-samþykktinni.</dd>
 <dt>m.</dt>
 <dd>Undirmenn eru allir undirmenn skips aðrir en fullgildir undirmenn.</dd>
 <dt>n.</dt>
@@ -55,7 +55,7 @@ h2. Lög um áhafnir íslenskra kaupskipa
 <dt>o.</dt>
 <dd>Kaupskip merkir hvert það skip, skrásett sem vöruflutninga- eða farþegaskip, er siglir með varning og/eða farþega til og frá landinu milli hafna innan lands og utan. Til þessa flokks teljast m.a. olíu- og efnaflutningaskip.</dd>
 <dt>p.</dt>
-<dd>Strandsigling er sigling innan 50 sjómílna frá ströndum Íslands og á öðrum hafsvæðum eftir nánari ákvörðun Siglingamálastofnunar ríkisins.</dd>
+<dd>Strandsigling er sigling innan 50 sjómílna frá ströndum Íslands og á öðrum hafsvæðum eftir nánari ákvörðun [Siglingastofnunar Íslands].[^1)^]</dd>
 <dt>q.</dt>
 <dd>Innanlandssigling er sigling innan íslenskrar fiskveiðilögsögu.</dd>
 <dt>r.</dt>
@@ -68,6 +68,10 @@ h2. Lög um áhafnir íslenskra kaupskipa
 <dd>Mánuður telst 30 dagar.</dd>
 </dl>
 
+
+
+
+_[^1)^]"L. 7/1996, 29. gr.":/altext/stjt/1996.007.html_
 
 
 
@@ -263,7 +267,11 @@ III/2
 
 8. gr.
 
-     Öll kaupskip skulu hljóta skírteini til staðfestingar lágmarksfjölda skipverja, samsetningu áhafnarinnar og atvinnuskírteinakröfur fyrir hinar ýmsu stöður. Slík mönnunarskírteini skulu gefin út af Siglingamálastofnun ríkisins í samræmi við ákvarðanir mönnunarnefndar kaupskipa.
+     Öll kaupskip skulu hljóta skírteini til staðfestingar lágmarksfjölda skipverja, samsetningu áhafnarinnar og atvinnuskírteinakröfur fyrir hinar ýmsu stöður. Slík mönnunarskírteini skulu gefin út af [Siglingastofnun Íslands][^1)^] í samræmi við ákvarðanir mönnunarnefndar kaupskipa.
+
+
+_[^1)^]"L. 7/1996, 29. gr.":/altext/stjt/1996.007.html_
+
 
 
 

@@ -48,7 +48,7 @@ _[^1)^]"L. 62/1995, 1. gr.":/altext/stjt/1995.062.html_
 <dd>Önnur skip en upp eru talin í stafliðum f - h hlíta ákvæðum laganna um fiskiskip.</dd>
 <dt>
 j.</dt>
-<dd>Strandsigling er sigling innan 50 sjómílna frá ströndum Íslands og á öðrum hafsvæðum eftir nánari ákvörðun Siglingamálastofnunar ríkisins.</dd>
+<dd>Strandsigling er sigling innan 50 sjómílna frá ströndum Íslands og á öðrum hafsvæðum eftir nánari ákvörðun [Siglingastofnunar Íslands].[^1)^]</dd>
 <dt>k.</dt>
 <dd>Innanlandssigling er sigling innan íslenskrar fiskveiðilögsögu.</dd>
 <dt>l.</dt>
@@ -58,13 +58,13 @@ j.</dt>
 <dt>n.</dt>
 <dd>STCW er alþjóðasamþykkt um þjálfun, skírteini og vaktstöður sjómanna frá 1978.</dd>
 <dt>o.</dt>
-<dd>Stig merkir námsstig, sbr. lög um Stýrimannaskólann í Reykjavík.][^1)^]</dd>
+<dd>Stig merkir námsstig, sbr. lög um Stýrimannaskólann í Reykjavík.][^2)^]</dd>
 </dl>
 
 
 
 
-_[^1)^]"L. 62/1995, 2. gr.":/altext/stjt/1995.062.html_
+_[^1)^]"L. 7/1996, 13. gr.":/altext/stjt/1996.007.html[^2)^]"L. 62/1995, 2. gr.":/altext/stjt/1995.062.html_
 
 
 
@@ -330,11 +330,11 @@ _[^1)^]Rg. 304/1993._
 
      Hver sá sem fullnægir skilyrðum þeim, sem sett eru skv. III., IV. og V. kafla þessara laga, á rétt á að fá þau skírteini sem veita viðeigandi atvinnuleyfi.
       Skírteinin skulu gefin út af [sýslumönnum][^1)^] og skulu þau rituð á þar til gerð eyðublöð eftir fyrirmynd sem samgönguráðuneytið semur.
-      [Skírteinin skulu gefin út á íslensku og ensku og gilda til fimm ára í senn. Samgönguráðherra setur reglur um skilyrði til endurnýjunar atvinnuskírteina, svo sem um viðhald réttinda og heilsufar, þar sem taka skal mið af alþjóðasamþykkt um þjálfun, skírteini og vaktstöðu sjómanna frá 1978, eftir því sem við á. Atvinnuskírteini samkvæmt STCW-alþjóðasamþykktinni skulu þó gefin út af Siglingamálastofnun ríkisins.
-      Skírteinishafi skal hafa skírteinið meðferðis við skipstjórn og sýna það þegar löggæslumaður krefst þess.][^2)^]
+      [Skírteinin skulu gefin út á íslensku og ensku og gilda til fimm ára í senn. Samgönguráðherra setur reglur um skilyrði til endurnýjunar atvinnuskírteina, svo sem um viðhald réttinda og heilsufar, þar sem taka skal mið af alþjóðasamþykkt um þjálfun, skírteini og vaktstöðu sjómanna frá 1978, eftir því sem við á. Atvinnuskírteini samkvæmt STCW-alþjóðasamþykktinni skulu þó gefin út af [Siglingastofnun Íslands].[^2)^]
+      Skírteinishafi skal hafa skírteinið meðferðis við skipstjórn og sýna það þegar löggæslumaður krefst þess.][^3)^]
 
 
-_[^1)^]"L. 62/1995, 9. gr.":/altext/stjt/1995.062.html[^2)^]"L. 62/1995, 10. gr.":/altext/stjt/1995.062.html_
+_[^1)^]"L. 62/1995, 9. gr.":/altext/stjt/1995.062.html[^2)^]"L. 7/1996, 13. gr.":/altext/stjt/1996.007.html[^3)^]"L. 62/1995, 10. gr.":/altext/stjt/1995.062.html_
 
 
 
@@ -395,7 +395,11 @@ _[^1)^]"L. 62/1995, 11. gr.":/altext/stjt/1995.062.html_
 </dl>
 
 
-      Nefndin skal leita umsagnar Siglingamálastofnunar ríkisins varðandi öryggi og búnað skips.
+      Nefndin skal leita umsagnar [Siglingastofnunar Íslands][^1)^] varðandi öryggi og búnað skips.
+
+
+_[^1)^]"L. 7/1996, 13. gr.":/altext/stjt/1996.007.html_
+
 
 
 

@@ -419,7 +419,7 @@ Horn (grp. 38)
 22°28'2
 
 
-      Þar sem í lögum þessum er rætt um lengd skipa, er miðað við mestu lengd samkvæmt mælingum Siglingamálastofnunar ríkisins.
+      Þar sem í lögum þessum er rætt um lengd skipa, er miðað við mestu lengd samkvæmt mælingum [Siglingastofnunar Íslands].[^1)^]
       Þar sem í lögum þessum er rætt um skip 39 metra að lengd og minni, eru undanskildir skuttogarar með aflvél 1000 bremsuhestöfl eða stærri.
 
 <dl>
@@ -438,11 +438,11 @@ Horn (grp. 38)
 <dd>_Austurland._
 <dl>
 <dt>B1.</dt>
-<dd>Frá línu réttvísandi [norðaustur frá Langanesi (vms 10)][^1)^] að línu, sem dregin er réttvísandi austur frá Hvítingum (vms 19), er heimilt allt árið að veiða með botnvörpu og flotvörpu utan línu, sem dregin er 12 sjómílur utan við viðmiðunarlínu.</dd>
+<dd>Frá línu réttvísandi [norðaustur frá Langanesi (vms 10)][^2)^] að línu, sem dregin er réttvísandi austur frá Hvítingum (vms 19), er heimilt allt árið að veiða með botnvörpu og flotvörpu utan línu, sem dregin er 12 sjómílur utan við viðmiðunarlínu.</dd>
 <dt>B2.</dt>
 <dd>Heimilt er að veiða með botnvörpu og flotvörpu allt árið utan línu, sem dregin er í 5 sjómílna fjarlægð frá fjörumarki Hvalbaks (64°35'8 N, 13°16'6 V).</dd>
 <dt>B3.</dt>
-<dd>[Frá línu réttvísandi norðaustur frá Langanesi (vms 10) að línu réttvísandi austur frá Glettinganesi (vms 13) er skipum, 39 metrar að lengd eða minni, heimilt að veiða allt árið með botnvörpu og flotvörpu utan línu, sem dregin er 6 sjómílur utan við viðmiðunarlínu.][^2)^]</dd>
+<dd>[Frá línu réttvísandi norðaustur frá Langanesi (vms 10) að línu réttvísandi austur frá Glettinganesi (vms 13) er skipum, 39 metrar að lengd eða minni, heimilt að veiða allt árið með botnvörpu og flotvörpu utan línu, sem dregin er 6 sjómílur utan við viðmiðunarlínu.][^3)^]</dd>
 </dl>
 </dd>
 <dt>C.</dt>
@@ -455,7 +455,7 @@ Horn (grp. 38)
 <dt>C3.</dt>
 <dd>Á svæði milli lína, sem dregnar eru réttvísandi suður frá Ingólfshöfða (vms 22) og réttvísandi suður frá Lundadrang (vms 28), er heimilt að veiða með botnvörpu og flotvörpu á tímabilinu 15. september til 31. janúar utan línu, sem dregin er 4 sjómílur utan við viðmiðunarlínu.</dd>
 <dt>C4.</dt>
-<dd>[Frá línu réttvísandi austur frá Hvítingum (vms 19) að 18°00'0 V er skipum, sem eru 39 metrar að lengd eða minni, heimilt að veiða 1. maí til 1. mars með botnvörpu og flotvörpu utan línu, sem dregin er í 4ra sjómílna fjarlægð frá fjörumarki meginlandsins. Togveiðar verði þó ekki heimilar á svæði milli línu, sem dregin er réttvísandi suður frá Stokksnesi (viðmiðunarpunktur 20), og að 15°45' vesturlengdar, innan 6 sjómílna frá landi, á tímabilinu frá 1. maí til 1. október.][^3)^]</dd>
+<dd>[Frá línu réttvísandi austur frá Hvítingum (vms 19) að 18°00'0 V er skipum, sem eru 39 metrar að lengd eða minni, heimilt að veiða 1. maí til 1. mars með botnvörpu og flotvörpu utan línu, sem dregin er í 4ra sjómílna fjarlægð frá fjörumarki meginlandsins. Togveiðar verði þó ekki heimilar á svæði milli línu, sem dregin er réttvísandi suður frá Stokksnesi (viðmiðunarpunktur 20), og að 15°45' vesturlengdar, innan 6 sjómílna frá landi, á tímabilinu frá 1. maí til 1. október.][^4)^]</dd>
 <dt>C5.</dt>
 <dd>Frá línu réttvísandi austur frá Hvítingum (vms 19) að 18°00' v. lg. er skipum, sem eru 26 metrar að lengd eða minni, heimilt að veiða 1. maí til 1. mars með botnvörpu og flotvörpu utan línu, sem dregin er í 3ja sjómílna fjarlægð frá fjörumarki meginlandsins.</dd>
 <dt>C6.</dt>
@@ -463,14 +463,14 @@ Horn (grp. 38)
 <dt>C7.</dt>
 <dd>Frá 18° v. lg. að línu réttvísandi suður frá Lundadrang (vms 28) er skipum, sem eru 26 metrar að lengd og minni, heimilt að veiða allt árið með botnvörpu og flotvörpu utan línu, sem dregin er í 3ja sjómílna fjarlægð frá fjörumarki meginlandsins.</dd>
 <dt>C8.</dt>
-<dd>[Frá línu réttvísandi austur frá Hvítingum (vms 19) að línu réttvísandi suður af Hvalnesi (64°24'1 n. br., 14°32'5 v. lg.) er öllum skipum heimilt að veiða með botnvörpu og flotvörpu utan línu, sem dregin er 4 sjómílur utan við viðmiðunarlínu á tímabilinu frá 1. maí til 31. desember.][^4)^]</dd>
+<dd>[Frá línu réttvísandi austur frá Hvítingum (vms 19) að línu réttvísandi suður af Hvalnesi (64°24'1 n. br., 14°32'5 v. lg.) er öllum skipum heimilt að veiða með botnvörpu og flotvörpu utan línu, sem dregin er 4 sjómílur utan við viðmiðunarlínu á tímabilinu frá 1. maí til 31. desember.][^5)^]</dd>
 </dl>
 </dd>
 <dt>D.</dt>
 <dd>_Suðurland._
 <dl>
 <dt>D1.</dt>
-<dd>[Utan línu, sem dregin er úr punkti í 12 sjómílna fjarlægð réttvísandi suður frá Lundadrang (vms 28) í punkt 63°08'0 N, 19°57'0 V og þaðan í 4ra sjómílna fjarlægð réttvísandi suður frá Surtsey (63°17'6 N, 20°36'3 V), er heimilt að veiða allt árið með botnvörpu og flotvörpu.][^5)^]</dd>
+<dd>[Utan línu, sem dregin er úr punkti í 12 sjómílna fjarlægð réttvísandi suður frá Lundadrang (vms 28) í punkt 63°08'0 N, 19°57'0 V og þaðan í 4ra sjómílna fjarlægð réttvísandi suður frá Surtsey (63°17'6 N, 20°36'3 V), er heimilt að veiða allt árið með botnvörpu og flotvörpu.][^6)^]</dd>
 <dt>D2.</dt>
 <dd>Utan línu, sem dregin er úr punkti í 4ra sjómílna fjarlægð réttvísandi suður úr Lundadrang (vms 28) í punkt í 4ra sjómílna fjarlægð réttvísandi suður frá Surtsey, eru skipum, sem eru 39 metrar að lengd og minni, heimilar veiðar með botnvörpu og flotvörpu allt árið.</dd>
 <dt>D3.</dt>
@@ -493,11 +493,11 @@ Horn (grp. 38)
 <dd>_Reykjanes- og Faxaflóasvæði._
 <dl>
 <dt>E1.</dt>
-<dd>[Utan línu, sem dregin er 5 sjómílur utan við Geirfugladrang úr punkti í 5 sjómílna fjarlægð réttvísandi suður frá Geirfugladrang í punkt 64°43'7 N og 24°12'0 V, er heimilt að veiða allt árið með botnvörpu og flotvörpu.][^6)^]</dd>
+<dd>[Utan línu, sem dregin er 5 sjómílur utan við Geirfugladrang úr punkti í 5 sjómílna fjarlægð réttvísandi suður frá Geirfugladrang í punkt 64°43'7 N og 24°12'0 V, er heimilt að veiða allt árið með botnvörpu og flotvörpu.][^7)^]</dd>
 <dt>E2.</dt>
 <dd>Á tímabilinu 1. nóvember til 31. desember er heimilt að veiða með botnvörpu og flotvörpu utan línu, sem dregin er í 12 sjómílna fjarlægð frá viðmiðunarlínu á svæði, sem að sunnan markast af línu dreginni réttvísandi suður frá Reykjanesaukavita (vms 34) og að vestan af línu, sem dregin er réttvísandi vestur frá Reykjanesaukavita.</dd>
 <dt>E3.</dt>
-<dd>[Frá línu réttvísandi suðvestur frá Reykjanesaukavita (vms 34) að línu réttvísandi vestur frá Malarrifi (vms 38) er skipum, sem eru 39 metrar að lengd eða minni, heimilt að veiða allt árið með botnvörpu og flotvörpu utan línu, sem dregin er 4 sjómílur utan við viðmiðunarlínu.][^7)^]</dd>
+<dd>[Frá línu réttvísandi suðvestur frá Reykjanesaukavita (vms 34) að línu réttvísandi vestur frá Malarrifi (vms 38) er skipum, sem eru 39 metrar að lengd eða minni, heimilt að veiða allt árið með botnvörpu og flotvörpu utan línu, sem dregin er 4 sjómílur utan við viðmiðunarlínu.][^8)^]</dd>
 </dl>
 </dd>
 <dt>F.</dt>
@@ -510,7 +510,7 @@ Horn (grp. 38)
 <dt>F3.</dt>
 <dd>Á tímabilinu 1. júní til 31. desember er skipum, sem eru 26 metrar að lengd eða minni, heimilt að veiða með botnvörpu og flotvörpu utan línu, sem dregin er í 4ra sjómílna fjarlægð frá viðmiðunarlínu á Snæfellsnesi, norðan við línu réttvísandi vestur frá Malarrifi (vms 38) og utan við viðmiðunarlínu milli Öndverðarnesvita (vms 41) og Skorarvita (vms 42). Að norðan takmarkast svæði þetta af 65°16'0 N.</dd>
 <dt>F4.</dt>
-<dd>Á tímabilinu 1. janúar til 31. maí er skipum, sem eru 26 metrar að lengd eða minni, heimilt að veiða með botnvörpu og flotvörpu utan línu, sem dregin er 4 sjómílur utan við viðmiðunarlínu, frá línu réttvísandi vestur frá Malarrifi (vms 38) að línu réttvísandi vestur frá Skálasnaga (vms 40) og þaðan í punkt í 4ra sjómílna fjarlægð réttvísandi vestur frá Bjargtöngum.][^8)^]</dd>
+<dd>Á tímabilinu 1. janúar til 31. maí er skipum, sem eru 26 metrar að lengd eða minni, heimilt að veiða með botnvörpu og flotvörpu utan línu, sem dregin er 4 sjómílur utan við viðmiðunarlínu, frá línu réttvísandi vestur frá Malarrifi (vms 38) að línu réttvísandi vestur frá Skálasnaga (vms 40) og þaðan í punkt í 4ra sjómílna fjarlægð réttvísandi vestur frá Bjargtöngum.][^9)^]</dd>
 </dl>
 </dd>
 <dt>G.</dt>
@@ -525,13 +525,13 @@ Horn (grp. 38)
 </dd>
 <dt>B.</dt>
 <dd><p>Á tímabilinu frá 1. október til 30. nóvember er skipum, sem eru 20 m að lengd eða minni, heimilt að veiða með botnvörpu utan línu sem dregin er 4 mílur utan við viðmiðunarlínu á eftirgreindu svæði:</p>
-<p>Á svæði, sem afmarkast af línu réttvísandi 300° frá punkti 65°51'5 N  -  24°13'0 V og 66°04'8 N og 23°57'0 V.][^9)^]</p></dd>
+<p>Á svæði, sem afmarkast af línu réttvísandi 300° frá punkti 65°51'5 N  -  24°13'0 V og 66°04'8 N og 23°57'0 V.][^10)^]</p></dd>
 </dl>
 
 
 
 
-_[^1)^]"L. 42/1977, 1. gr.":/altext/stjtnr.html#1977042?g1[^2)^]"L. 42/1977, 2. gr.":/altext/stjtnr.html#1977042?g2[^3)^]"L. 42/1977, 3. gr.":/altext/stjtnr.html#1977042?g3[^4)^]"L. 42/1977, 4. gr.":/altext/stjtnr.html#1977042?g4[^5)^]"L. 42/1977, 5. gr.":/altext/stjtnr.html#1977042?g5[^6)^]"L. 42/1977, 6. gr.":/altext/stjtnr.html#1977042?g6[^7)^]"L. 42/1977, 7. gr.":/altext/stjtnr.html#1977042?g7[^8)^]"L. 42/1977, 8. gr.":/altext/stjtnr.html#1977042?g8[^9)^]"L. 67/1979, 1. gr.":/altext/stjtnr.html#1979067?g1_
+_[^1)^]"L. 7/1996, 5. gr.":/altext/stjt/1996.007.html[^2)^]"L. 42/1977, 1. gr.":/altext/stjtnr.html#1977042?g1[^3)^]"L. 42/1977, 2. gr.":/altext/stjtnr.html#1977042?g2[^4)^]"L. 42/1977, 3. gr.":/altext/stjtnr.html#1977042?g3[^5)^]"L. 42/1977, 4. gr.":/altext/stjtnr.html#1977042?g4[^6)^]"L. 42/1977, 5. gr.":/altext/stjtnr.html#1977042?g5[^7)^]"L. 42/1977, 6. gr.":/altext/stjtnr.html#1977042?g6[^8)^]"L. 42/1977, 7. gr.":/altext/stjtnr.html#1977042?g7[^9)^]"L. 42/1977, 8. gr.":/altext/stjtnr.html#1977042?g8[^10)^]"L. 67/1979, 1. gr.":/altext/stjtnr.html#1979067?g1_
 
 
 

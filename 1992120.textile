@@ -23,10 +23,10 @@ h2. Lög um Kjaradóm og kjaranefnd
 
 2. gr.
 
-     Kjaradómur ákveður laun forseta Íslands skv. "1. gr. laga nr. 10/1990":1990010.html#g1, um laun forseta Íslands, [þingfararkaup samkvæmt lögum um þingfararkaup alþingismanna og þingfararkostnað],[^1)^] launakjör ráðherra, hæstaréttardómara, héraðsdómara, biskups Íslands, ríkisendurskoðanda, ríkissáttasemjara, ríkissaksóknara og umboðsmanns Alþingis.
+     Kjaradómur ákveður laun forseta Íslands skv. "1. gr. laga nr. 10/1990":1990010.html#g1, um laun forseta Íslands, [þingfararkaup samkvæmt lögum um þingfararkaup alþingismanna og þingfararkostnað],[^1)^] launakjör ráðherra, hæstaréttardómara, héraðsdómara, biskups Íslands, ríkisendurskoðanda, ríkissáttasemjara, ríkissaksóknara, [umboðsmanns Alþingis og umboðsmanns barna].[^2)^]
 
 
-_[^1)^]"L. 88/1995, 17. gr.":1995088.html#g17_
+_[^1)^]"L. 88/1995, 17. gr.":1995088.html#g17[^2)^]"L. 70/1996, 56. gr.":1996070.html#g56_
 
 
 
@@ -70,37 +70,43 @@ _[^1)^]"L. 88/1995, 17. gr.":1995088.html#g17_
 8. gr.
 
      Kjaranefnd skal skipuð þremur mönnum. Kjaradómur tilnefnir tvo nefndarmenn og fjármálaráðherra skipar einn og skal hann jafnframt vera formaður. Varamenn skulu valdir með sama hætti.
-      Kjaranefnd ákveður starfskjör þeirra forstöðumanna ríkisstofnana, fyrirtækja ríkisins og embættismanna sem nánar eru tilgreindir í 9. gr.
+      [Kjaranefnd ákveður laun og starfskjör embættismanna, annarra en þeirra sem taldir eru upp í 2. gr., lögreglumanna, tollvarða og fangavarða, sbr. ákvæði laga um réttindi og skyldur starfsmanna ríkisins.][^1)^]
+
+
+_[^1)^]"L. 70/1996, 56. gr.":1996070.html#g56_
 
 
 
-9. gr.
 
-     Eftirtaldir aðilar heyra undir úrskurð kjaranefndar um launakjör: Brunamálastjóri, fiskistofustjóri, flugmálastjóri, flugvallarstjóri Keflavík, forsetaritari, forstjóri Áfengis- og tóbaksverslunar ríkisins, forstjóri Fangelsismálastofnunar, forstjóri Fasteignamats ríkisins, forstjóri Fríhafnar Keflavíkurflugvelli, forstjóri Hafrannsóknastofnunar, forstjóri Iðntæknistofnunar Íslands, forstjóri Innkaupastofnunar ríkisins, forstjóri Landhelgisgæslunnar, forstjóri Landmælinga Íslands, forstjóri Lánasýslu ríkisins, forstjóri Rannsóknastofnunar byggingariðnaðarins, forstjóri Rannsóknastofnunar fiskiðnaðarins, forstjóri Rannsóknastofnunar landbúnaðarins, forstjóri Ríkisspítala, forstjóri Tryggingastofnunar ríkisins, forstjóri Vinnueftirlits ríkisins, forstöðumaður framkvæmdadeildar Innkaupastofnunar ríkisins, forstöðumaður Listasafns Íslands, forstöðumaður Tryggingaeftirlitsins, framkvæmdastjóri Hollustuverndar ríkisins, framkvæmdastjóri Húsnæðisstofnunar ríkisins, framkvæmdastjóri Lánasjóðs íslenskra námsmanna, framkvæmdastjóri Sinfóníuhljómsveitar Íslands, hagstofustjóri, húsameistari ríkisins, landgræðslustjóri, landlæknir, landsbókavörður, lyfsölustjóri, lögreglustjórar, námsgagnastjóri, orkumálastjóri, póst- og símamálastjóri, rafmagnsveitustjóri ríkisins, rannsóknarlögreglustjóri, ráðuneytisstjórar, rektor Háskóla Íslands, rektor Háskólans á Akureyri, rektor Kennaraháskóla Íslands, rektor Tækniskóla Íslands, ríkisbókari, ríkisféhirðir, ríkislögmaður, ríkisskattstjóri, ríkistollstjóri, sendiherrar, siglingamálastjóri, skattrannsóknastjóri, skattstjórar, skipulagsstjóri ríkisins, skógræktarstjóri, sýslumenn, tollgæslustjóri, tollstjórinn í Reykjavík, útvarpsstjóri, veðurstofustjóri, vegamálastjóri, veiðimálastjóri, verðlagsstjóri, vita- og hafnamálastjóri, yfirdýralæknir, yfirskattanefndarmenn, þjóðleikhússtjóri, þjóðminjavörður og þjóðskjalavörður.
-      Óski einhver framangreindra aðila þess skal stéttarfélag, sem hefur rétt til að gera kjarasamninga samkvæmt "lögum nr. 94/1986":1986094.html, um kjarasamninga opinberra starfsmanna, semja um starfskjör hans og taka lög þessi þá ekki til hans.
-      Þá skal kjaranefnd úrskurða um launakjör presta þjóðkirkjunnar, þ.e. sóknarpresta, sérþjónustupresta, prófasta og vígslubiskupa.
-      Teljist starf stjórnanda í stofnun eða embættismanns vera þannig að því megi að umfangi og ábyrgð öldungis jafna til starfa þeirra sem taldir eru upp í 1. mgr. og hafi viðkomandi starfsmaður óskað eftir að vera utan samningsumboðs stéttarfélaga, sbr. 5. tölul. "1. gr. laga nr. 94/1986":1986094.html#g1, um kjarasamninga opinberra starfsmanna, eða er ekki í slíku félagi skal fjármálaráðherra vísa ákvörðun um launakjör hans til kjaranefndar.
-
-
-
-10. gr.
+[9. gr.][^1)^]
 
      Kjaranefnd aflar sér af sjálfsdáðum nauðsynlegra gagna og upplýsinga og er henni rétt að krefjast skýrslna, munnlegra og skriflegra, af einstökum mönnum og embættismönnum. Skulu embættismenn m.a. veita upplýsingar um aukastörf og hlunnindi sem störfum þeirra fylgja.
       Talsmönnum þeirra sem undir úrskurðarvald kjaranefndar falla, svo og ráðuneytum vegna embættismanna og stofnana sem undir þau heyra, skal gefinn kostur á að leggja fram skriflegar eða munnlegar greinargerðir vegna þeirra mála sem til úrlausnar eru. Nefndin getur og heimilað einstökum embættismönnum að reifa mál sitt fyrir nefndinni.
 
 
+_[^1)^]"L. 70/1996, 56. gr.":1996070.html#g56_
 
-11. gr.
+
+
+
+[10. gr.][^1)^]
 
      Við ákvörðun launakjara skal kjaranefnd gæta innbyrðis samræmis í starfskjörum hjá þeim sem hún fjallar um, að þau séu á hverjum tíma í samræmi við laun í þjóðfélaginu hjá þeim sem sambærilegir geta talist með tilliti til starfa og ábyrgðar og að samræmi sé milli þeirra og þeirra launa hjá ríkinu sem greidd eru á grundvelli kjarasamninga eða Kjaradóms.
 
 
+_[^1)^]"L. 70/1996, 56. gr.":1996070.html#g56_
 
-12. gr.
 
-     Nefndin skal í ákvörðun sinni greina á milli fastra launa fyrir dagvinnu og launa fyrir annað sem starfinu fylgir. Hún skal og kveða á um hvernig greitt skal fyrir sérstök tilfallandi störf sem starfinu geta fylgt og kveða á um önnur starfskjör.
-      Kjaranefnd skal í ákvörðunum sínum taka tillit til venjubundins vinnuframlags og starfsskyldna umfram dagvinnu. Hún úrskurðar hvaða aukastörf tilheyri aðalstarfi og hver beri að launa sérstaklega.
+
+
+[11. gr.][^1)^]
+
+     [Kjaranefnd skal ákvarða föst laun fyrir dagvinnu og kveða á um önnur starfskjör. Hún úrskurðar hvaða aukastörf tilheyra aðalstarfi og hver beri að launa sérstaklega. Við ákvarðanir sínar getur nefndin tekið tillit til sérstakrar hæfni er nýtist í starfi og sérstaks álags sem starfinu fylgir.][^1)^]
       Kjaranefndin skal og taka tillit til kvaða sem störfunum kunna að fylgja, svo og hlunninda og réttinda sem þeim fylgja, svo sem lífeyrisréttinda og ráðningarkjara.
+
+
+_[^1)^]"L. 70/1996, 56. gr.":1996070.html#g56_
+
 
 
 
@@ -108,30 +114,55 @@ _[^1)^]"L. 88/1995, 17. gr.":1995088.html#g17_
 
 *Almenn ákvæði.*
 
-13. gr.
+[12. gr.][^1)^]
 
      Kjaradómur og kjaranefnd skulu taka mál til meðferðar þegar þeim þykir þurfa og ætíð ef orðið hafa verulegar breytingar á þeim launum í þjóðfélaginu sem höfð skulu til viðmiðunar samkvæmt lögum þessum eða á störfum þeirra sem úrskurðarvald þeirra tekur til.
       Eigi sjaldnar en árlega skulu Kjaradómur og kjaranefnd meta það hvort tilefni sé til breytinga á starfskjörum sem þeir ákveða.
 
 
+_[^1)^]"L. 70/1996, 56. gr.":1996070.html#g56_
 
-14. gr.
+
+
+
+[13. gr.][^1)^]
 
      Kostnaður við Kjaradóm og kjaranefnd, þar á meðal laun dómenda og nefndarmanna eftir ákvörðun fjármálaráðherra, skal greiðast úr ríkissjóði.
 
 
+_[^1)^]"L. 70/1996, 56. gr.":1996070.html#g56_
 
-15. gr.
+
+
+
+[14. gr.][^1)^]
 
      Lög þessi öðlast þegar gildi.
+
+
+_[^1)^]"L. 70/1996, 56. gr.":1996070.html#g56_
+
 
 
 
 *Ákvæði til bráðabirgða.*
 
+*I.*
+
      Strax eftir gildistöku laga þessara skal skipa í Kjaradóm samkvæmt þeim og fellur frá sama tíma niður skipun dómenda samkvæmt fyrri lögum.
       Ákvæði laga þessara breyta ekki efni skriflegra kjarasamninga sem gerðir hafa verið við einstaklinga sem undir lögin falla fyrir gildistöku þeirra nema þeim sé sagt upp með löglegum fyrirvara.
-      Leiði úrskurður samkvæmt lögum þessum vegna ákvæða 1. mgr. 6. gr. eða 1. mgr. 12. gr. til þess að þegar áunninn eftirlaunaréttur einstaklings í starfi, eða þess sem tekur eftirlaun sem miðast við slíkt starf, breytist til lækkunar skal viðkomandi halda þeim rétti sem hann hefur þegar áunnið sér. Lífeyrir, eins og hann er samkvæmt þeim rétti, skal taka breytingum í hlutfalli við breytingar á meðaldagvinnulaunum sem ákveðin eru samkvæmt lögum þessum frá fyrsta úrskurði samkvæmt þeim.
+      Leiði úrskurður samkvæmt lögum þessum vegna ákvæða 1. mgr. 6. gr. eða 1. mgr. 12. gr.[^1)^] til þess að þegar áunninn eftirlaunaréttur einstaklings í starfi, eða þess sem tekur eftirlaun sem miðast við slíkt starf, breytist til lækkunar skal viðkomandi halda þeim rétti sem hann hefur þegar áunnið sér. Lífeyrir, eins og hann er samkvæmt þeim rétti, skal taka breytingum í hlutfalli við breytingar á meðaldagvinnulaunum sem ákveðin eru samkvæmt lögum þessum frá fyrsta úrskurði samkvæmt þeim.
+
+
+_[^1)^]"11. gr.":1996070.html#g11, sbr. "l. 70/1996, 56. gr.":1996070.html#g56_
+
+*[II.*
+
+     Þrátt fyrir breytingu á 2. mgr. 8. gr. þessara laga samfara gildistöku nýrra laga um réttindi og skyldur starfsmanna ríkisins skal kjaranefnd fyrst ákveða laun og starfskjör þeirra embættismanna, sem fram að þessu hafa ekki fallið undir lög þessi, frá og með 1. janúar 1997. Fram að þeim tíma skulu laun og starfskjör þessara embættismanna ráðast af kjarasamningum.][^1)^]
+
+
+_[^1)^]"L. 70/1996, 56. gr.":1996070.html#g56_
+
 
 
 

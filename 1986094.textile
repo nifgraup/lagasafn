@@ -16,28 +16,26 @@ h2. Lög um kjarasamninga opinberra starfsmanna
 1. gr.
 
      Lög þessi gilda um alla starfsmenn sem eru félagar í stéttarfélögum sem skv. 4. og 5. gr. laganna hafa rétt til að gera kjarasamninga samkvæmt þeim og eru ráðnir hjá ríkinu, ríkisstofnunum, sveitarfélögum eða stofnunum þeirra með föstum tíma-, viku- eða mánaðarlaunum, enda verði starf þeirra talið aðalstarf.
-      Ákvæði laganna taka ekki til:
+      [Ákvæði laganna taka ekki til:
 
 <dl>
 <dt>1.</dt>
-<dd>[Þeirra opinberu starfsmanna sem heyra undir lög um Kjaradóm og kjaranefnd.][^1)^]</dd>
+<dd>Þeirra embættismanna sem heyra undir lög um Kjaradóm og kjaranefnd.</dd>
 <dt>2.</dt>
-<dd>Starfsmanna ríkisbanka né lánastofnana ríkisins.</dd>
+<dd>Starfsmanna ríkisbanka eða lánastofnana ríkisins.</dd>
 <dt>3.</dt>
-<dd>Starfsmanna stofnana og fyrirtækja ríkis og sveitarfélaga þegar um kaup þeirra og kjör fer eftir kjarasamningum stéttarfélaga þeirra og vinnuveitenda, sbr. "lög nr. 80/1938":1938080.html og "lög nr. 19/1979":1979019.html.</dd>
+<dd>Starfsmanna stofnana og fyrirtækja ríkis og sveitarfélaga þegar kaup þeirra og kjör fara eftir kjarasamningum stéttarfélaga þeirra og vinnuveitenda, sbr. "lög nr. 80/1938":1938080.html og "lög nr. 19/1979":1979019.html.</dd>
 <dt>4.</dt>
 <dd>Þeirra sem skipa samninganefndir ríkis og sveitarfélaga.</dd>
 <dt>5.</dt>
-<dd>Forstöðumanna stofnana, sbr. 5. og 6. tölul. "29. gr. laga nr. 38/1954":1954038.html#g29, sem óska að vera utan samningsumboðs stéttarfélaga og ákveður fjármálaráðherra þeim starfskjör án samninga.</dd>
-<dt>6.</dt>
-<dd>Þeirra starfsmanna sveitarfélaga sem getið er í 4. - 6. tölul. 19. gr. þessara laga og eru utan samningsumboðs stéttarfélags samkvæmt ákvörðun sveitarstjórnar sem ákveður þeim starfskjör án samninga.</dd>
+<dd>Þeirra starfsmanna sveitarfélaga sem getið er í 3. - 5. tölul. 19. gr. þessara laga og eru utan samningsumboðs stéttarfélags samkvæmt ákvörðun sveitarstjórnar sem ákveður þeim starfskjör án samnings.][^1)^]</dd>
 </dl>
 
 
       Ráðherra getur með reglugerð sett nánari ákvæði um framkvæmd þessarar greinar.
 
 
-_[^1)^]"L. 119/1992, 1. gr.":/altext/stjt/1992.119.html_
+_[^1)^]"L. 70/1996, 56. gr.":1996070.html#g56_
 
 
 
@@ -128,10 +126,9 @@ _[^1)^]"L. 119/1990, 1. gr.":/altext/stjt/1990.119.html_
 
      Í kjarasamningi skal kveðið á um föst laun, vinnutíma, þar með talið vinnuvökur, laun fyrir yfirvinnu, orlof, ferðakostnað, fæðisaðstöðu, fæðiskostnað, tryggingar,[^1)^] starfsmenntun og önnur atriði sem aðilar verða sammála um.
       Um aukatekjur og önnur hlunnindi ríkisstarfsmanna, sem líkt er farið, skal kveða á í reglugerð sem fjármálaráðherra setur.
-      [Þrátt fyrir ákvæði 2. mgr. geta fjármálaráðuneyti og viðkomandi ráðuneyti, ef um það er samkomulag, falið stjórnendum eða stjórnum stofnana að staðfesta ráðningarbréf starfsmanna. Slíka heimild getur fjármálaráðuneytið afturkallað einhliða með þriggja mánaða fyrirvara.][^2)^]
 
 
-_[^1)^]Sjá reglur 30/1990 og 31/1990.[^2)^]"L. 119/1990, 3. gr.":/altext/stjt/1990.119.html_
+_[^1)^]Sjá reglur 30/1990 og 31/1990._
 
 
 
@@ -212,28 +209,32 @@ _[^1)^]Sjá reglur 30/1990 og 31/1990.[^2)^]"L. 119/1990, 3. gr.":/altext/stjt/1
 
 19. gr.
 
-     Heimild til verkfalls skv. 14. gr. nær eigi til eftirtalinna starfsmanna:
+     [Heimild til verkfalls skv. 14. gr. nær eigi til eftirtalinna starfsmanna:
 
 <dl>
 <dt>1.</dt>
-<dd>Þeirra sem skipa störf sem talin eru upp í "29. gr. laga nr. 38/1954":1954038.html#g29, um réttindi og skyldur starfsmanna ríkisins, með síðari breytingum.</dd>
+<dd>Þeirra embættismanna sem heyra undir lög um Kjaradóm og kjaranefnd.</dd>
 <dt>2.</dt>
-<dd>Þeirra sem heyra undir "lög nr. 56/1972":1972056.html, um lögreglumenn ríkisins, með síðari breytingum, og "lög nr. 38/1973":/altext/stjtnr.html#1973038, um fangelsi og vinnuhæli, með síðari breytingum.[^1)^]</dd>
+<dd>Starfsmanna Alþingis og stofnana þess, svo og starfsmanna á skrifstofu forseta Íslands og í Stjórnarráði, þar með talinna starfsmanna utanríkisþjónustunnar.</dd>
 <dt>3.</dt>
-<dd>Þeirra sem starfa við nauðsynlegustu öryggisgæslu og heilbrigðisþjónustu.</dd>
+<dd>Starfsmanna Hæstaréttar og héraðsdómstóla.</dd>
 <dt>4.</dt>
-<dd>Framkvæmdastjóra sveitarfélaga, borgar- og bæjarlögmanna, borgar- og bæjarritara, borgar- og bæjarverkfræðinga, skrifstofustjóra borgarstjórnar og starfsmanna launadeilda.</dd>
+<dd>Starfsmanna við embætti ríkissaksóknara, ríkislögmanns, ríkissáttasemjara og umboðsmanns barna.</dd>
 <dt>5.</dt>
-<dd>Forstöðumanna stærri atvinnu- og þjónustustofnana sveitarfélaga og staðgengla þeirra.</dd>
+<dd>Þeirra sem starfa við nauðsynlegustu öryggisgæslu og heilbrigðisþjónustu.</dd>
 <dt>6.</dt>
-<dd>Annarra þeirra er gegna störfum sem öldungis verður jafnað til þeirra starfa sem getið er í 4. og 5. tölul.</dd>
+<dd>Framkvæmdastjóra sveitarfélaga, borgar- og bæjarlögmanna, borgar- og bæjarritara, borgar- og bæjarverkfræðinga, skrifstofustjóra borgarstjórnar og starfsmanna launadeilda.</dd>
+<dt>7.</dt>
+<dd>Forstöðumanna stærri atvinnu- og þjónustustofnana sveitarfélaga og staðgengla þeirra.</dd>
+<dt>8.</dt>
+<dd>Annarra þeirra er gegna störfum sem öldungis verður jafnað til þeirra starfa sem getið er í 6. og 7. tölul.][^1)^]</dd>
 </dl>
 
 
-      Fyrir 1. febrúar ár hvert skulu fjármálaráðherra og sveitarfélög, að undangengnu samráði við viðkomandi stéttarfélög, birta skrár[^2)^] um störf þau sem falla undir ákvæði 3. - 6. tölul. fyrri málsgreinar þessarar greinar. Ný skrá tekur gildi 15. febrúar næst eftir birtingu. Sé ný skrá ekki birt samkvæmt framangreindu framlengist síðast gildandi skrá um eitt ár. Andmæli gegn breytingum á skrám skulu borin fram fyrir 1. mars sama ár og skal ágreiningur um breytingar lagður fyrir Félagsdóm sem sker úr honum til fullnustu.
+      Fyrir 1. febrúar ár hvert skulu fjármálaráðherra og sveitarfélög, að undangengnu samráði við viðkomandi stéttarfélög, birta skrár[^2)^] um störf þau sem falla undir ákvæði [5. - 8. tölul.][^1)^] fyrri málsgreinar þessarar greinar. Ný skrá tekur gildi 15. febrúar næst eftir birtingu. Sé ný skrá ekki birt samkvæmt framangreindu framlengist síðast gildandi skrá um eitt ár. Andmæli gegn breytingum á skrám skulu borin fram fyrir 1. mars sama ár og skal ágreiningur um breytingar lagður fyrir Félagsdóm sem sker úr honum til fullnustu.
 
 
-_[^1)^]Nú "l. 48/1988":1988048.html.[^2)^]Augl. 27/1992, 39/1995, 42/1995, 43/1995, 45/1995, 46/1995, 47/1995, 49/1995, 50/1995, 51/1995, 52/1995, 53/1995, 55/1995, 60/1995, 62/1995, 64/1995, 68/1995, 70/1995 og 76/1995._
+_[^1)^]"L. 70/1996, 56. gr.":1996070.html#g56[^2)^]Augl. 27/1992, 39/1995, 42/1995, 43/1995, 45/1995, 46/1995, 47/1995, 49/1995, 50/1995, 51/1995, 52/1995, 53/1995, 55/1995, 60/1995, 62/1995, 64/1995, 68/1995, 70/1995 og 76/1995._
 
 
 
@@ -253,7 +254,11 @@ _[^1)^]Nú "l. 48/1988":1988048.html.[^2)^]Augl. 27/1992, 39/1995, 42/1995, 43/1
 22. gr.
 
      Um laun og önnur kjör þeirra manna, sem um ræðir í 19. gr., skal samið af samninganefnd þess stéttarfélags er þeir tilheyra.
-      Náist ekki samningar um kjör þeirra starfsmanna sem tilgreindir eru í 1. og 2. svo og 4. - 6. tölul. 19. gr. og falla undir lög þessi á stéttarfélagið rétt á að þriggja manna gerðardómur taki deiluna til úrlausnar. Takist ekki samkomulag um oddamann tilnefnir viðkomandi bæjarfógeti eða sýslumaður, í Reykjavík yfirborgardómarinn, hann en málsaðilar einn dómara hvor.
+      Náist ekki samningar um kjör þeirra starfsmanna sem tilgreindir eru í [2. - 4. og 6. - 8. tölul. 19. gr.][^1)^] og falla undir lög þessi á stéttarfélagið rétt á að þriggja manna gerðardómur taki deiluna til úrlausnar. Takist ekki samkomulag um oddamann tilnefnir viðkomandi bæjarfógeti eða sýslumaður, í Reykjavík yfirborgardómarinn, hann en málsaðilar einn dómara hvor.
+
+
+_[^1)^]"L. 70/1996, 56. gr.":1996070.html#g56_
+
 
 
 
@@ -293,7 +298,7 @@ _[^1)^]Nú "l. 48/1988":1988048.html.[^2)^]Augl. 27/1992, 39/1995, 42/1995, 43/1
 <dt>3.</dt>
 <dd>Ágreining um skilning á kjarasamningi eða gildi hans.</dd>
 <dt>4.</dt>
-<dd>Hverjir falli undir ákvæði "29. gr. laga nr. 38/1954":1954038.html#g29.</dd>
+<dd>Hverjir falli undir ákvæði "29. gr. laga nr. 38/1954":1954038.html.</dd>
 <dt>5.</dt>
 <dd>Hverjir falli undir ákvæði 3. - 6. tölul. 19. gr. þessara laga.</dd>
 <dt>6.</dt>
