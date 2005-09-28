@@ -6,7 +6,8 @@ h2. Lög um vog, mál og faggildingu
 
 <hr />
 
-*Tóku gildi 1. janúar 1993, að undanskilinni 2. mgr. 11. gr. sem tók gildi 1. janúar 1996.* _Breytt með_ "l. 102/1994":/altext/stjt/1994.102.html (tóku gildi 3. júní 1994), "l. 52/1995":/altext/stjt/1995.052.html (tóku gildi 9. mars 1995), "l. 147/1995":/altext/stjt/1995.147.html (tóku gildi 1. jan. 1996), "l. 155/1996":1996155.html (tóku gildi 30. des. 1996), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998) og "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002).
+
+ *Tóku gildi 1. janúar 1993, að undanskilinni 2. mgr. 11. gr. sem tók gildi 1. janúar 1996.* _Breytt með_ "l. 102/1994":/altext/stjt/1994.102.html (tóku gildi 3. júní 1994), "l. 52/1995":/altext/stjt/1995.052.html (tóku gildi 9. mars 1995), "l. 147/1995":/altext/stjt/1995.147.html (tóku gildi 1. jan. 1996), "l. 155/1996":1996155.html (tóku gildi 30. des. 1996), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002) og "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005).
 
 
  *I. kafli.* *Gildissvið og skilgreiningar.*
@@ -30,33 +31,36 @@ h2. Lög um vog, mál og faggildingu
 
  *III. kafli.* *Löggilding mælitækja.*
 ■ *5. gr.* Skylt er að löggilda öll mælitæki sem notuð eru hér á landi til að mæla stærðir sem hafa áhrif á verð eða afgjald í hvers konar viðskiptum með vöru og þjónustu og skatt- og gjaldstofna.
- □ Ráðherra setur í reglugerð[^1)^] nánari reglur um framkvæmd þessarar greinar, þar á meðal um reglubundna endurlöggildingu mælitækja. Í þeim er m.a. heimilt að undanþiggja tilteknar gerðir mælitækja ýtrustu kröfum um löggildingarhæfni. Slík mælitæki skulu þó háð eftirliti Löggildingarstofunnar.
- □ Löggildingarstofan sker úr um hvort mælitæki séu löggildingarskyld. Úrskurði hennar má þó vísa til ráðherra til endanlegrar ákvörðunar, enda sé það gert innan fjögurra vikna frá því að Löggildingarstofan kvað upp úrskurð sinn.
-    _[^1)^]_"Rg. 207/1995":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/207-1995. "Rg. 604/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/604-2000 (um löggildingu heitavatnsmæla). "Rg. 608/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/608-2000 (um vínmál). "Rg. 792/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2002 (um löggildingu kaldavatnsmæla). "Rg. 793/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/793-2002 (um löggildingu ósjálfvirkra voga). "Rg. 794/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/794-2002 (um löggildingu sjálfvirkra voga). "Rg. 329/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/329-2004 (um löggildingu raforkumæla).
+ □ Ráðherra setur í reglugerð[^1)^] nánari reglur um framkvæmd þessarar greinar, þar á meðal um reglubundna endurlöggildingu mælitækja. Í þeim er m.a. heimilt að undanþiggja tilteknar gerðir mælitækja ýtrustu kröfum um löggildingarhæfni. Slík mælitæki skulu þó háð eftirliti [Neytendastofu].[^2)^]
+ □ [Neytendastofa][^2)^] sker úr um hvort mælitæki séu löggildingarskyld. Úrskurði hennar má þó vísa til ráðherra til endanlegrar ákvörðunar, enda sé það gert innan fjögurra vikna frá því að [Neytendastofa][^2)^] kvað upp úrskurð sinn.
+    _[^1)^]_"Rg. 207/1995":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/207-1995. "Rg. 604/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/604-2000 (um löggildingu heitavatnsmæla). "Rg. 608/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/608-2000 (um vínmál). "Rg. 792/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2002 (um löggildingu kaldavatnsmæla). "Rg. 793/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/793-2002 (um löggildingu ósjálfvirkra voga). "Rg. 794/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/794-2002 (um löggildingu sjálfvirkra voga). "Rg. 329/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/329-2004 (um löggildingu raforkumæla). [^2)^]"L. 62/2005, 13. gr.":2005062.html#g13
  ■ *6. gr.* Löggildingar- og eftirlitsskyld mælitæki skulu ávallt uppfylla þær mælitæknilegu kröfur sem til þeirra eru gerðar. Tækjunum skal þannig fyrir komið að hvorki umhverfi þeirra, uppsetning né aðbúnaður hindri notkun, prófun eða stillingu tækjanna. Sé þess ekki gætt má banna notkun þeirra.
 ■ *7. gr.* Hvarvetna þar sem viðskipti fara fram og hönd selur hendi og í því sambandi notuð löggildingar- eða eftirlitsskyld mælitæki skal þannig um búið að viðskiptavinurinn sjái greinilega þegar mæling fer fram og geti lesið mæliniðurstöður fyrirhafnarlaust.
 ■ *8. gr.* Löggildingar- og eftirlitsskyld mælitæki skulu vera staðsett með þeim hætti og vera í slíku ástandi að viðskiptavinurinn geti borið traust til þeirra niðurstaðna sem tækin sýna. Merkingar og ástand mælitækja og aukabúnaðar þeirra skulu ávallt vera í fullkomnu lagi.
 ■ *9. gr.* Aukabúnaður, sem tengdur er löggildingarskyldu mælitæki, skal sýna sömu mæliniðurstöðu og tækið sjálft.
  □ Tenging hvers kyns aukabúnaðar við löggildingarskylt mælitæki, sem dregið getur úr nákvæmni þess eða búnaðarins sjálfs, er með öllu óheimil.
 ■ *10. gr.* Eigendum eða vörslumönnum löggildingar- og eftirlitsskyldra mælitækja ber að sjá til þess að tækin sæti reglubundnu eftirliti og uppfylli þær kröfur sem til þeirra eru gerðar í lögum þessum og reglugerðum settum samkvæmt þeim.
- □ Nú uppfyllir löggildingar- eða eftirlitsskylt mælitæki ekki þær kröfur sem til þess eru gerðar og skal notkun þess þá bönnuð. Heimilt er Löggildingarstofunni að loka með innsigli löggildingar- eða eftirlitsskyldum mælitækjum sem notkun hefur verið bönnuð á og hafa á brott með sér slík tæki eða hluta úr þeim ef vafi leikur á að settum reglum sé fullnægt.
+ □ Nú uppfyllir löggildingar- eða eftirlitsskylt mælitæki ekki þær kröfur sem til þess eru gerðar og skal notkun þess þá bönnuð. Heimilt er [Neytendastofu][^1)^] að loka með innsigli löggildingar- eða eftirlitsskyldum mælitækjum sem notkun hefur verið bönnuð á og hafa á brott með sér slík tæki eða hluta úr þeim ef vafi leikur á að settum reglum sé fullnægt.
  □ Óheimilt er að nota löggildingar- og eftirlitsskyld mælitæki nema þau beri gilt auðkenni þar að lútandi.
+    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
 
  *IV. kafli.* *Faggilding.*
-■ *11. gr.* Löggildingarstofan annast faggildingu fyrir hönd íslenskra stjórnvalda. Allir, sem þess óska, skulu geta látið faggilda starfsemi sína, enda uppfylli þeir þær kröfur sem settar eru, sbr. 12. gr.
- □ Nú er gerð krafa um faggildingu stofnana og fyrirtækja, sem framkvæma lögbundnar prófanir eða eftirlit eða votta að vara, ferli eða þjónusta, svo og hæfni og þekking starfsmanna, uppfylli lögbundnar kröfur og skal þá slíkri kröfu fullnægt af Löggildingarstofunni eða hliðstæðum stofnunum í aðildarríkjum Evrópska efnahagssvæðisins [eða aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu].[^1)^] Ráðherra getur í reglugerð heimilað að faggilding frá stofnunum í ríkjum utan Evrópska efnahagssvæðisins [eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] gildi hér á landi.
- □ Löggildingarstofan metur tilnefnda aðila, sbr. 2. gr.
- □ Löggildingarstofan annast hér á landi málefni sem lúta að alþjóðlegum verklagsreglum á prófunarstofum í efnafræði.
-    _[^1)^]_"L. 76/2002, 41. gr.":/altext/stjt/2002.076.html
+ ■ *11. gr.* [Neytendastofa][^1)^] annast faggildingu fyrir hönd íslenskra stjórnvalda. Allir, sem þess óska, skulu geta látið faggilda starfsemi sína, enda uppfylli þeir þær kröfur sem settar eru, sbr. 12. gr.
+ □ Nú er gerð krafa um faggildingu stofnana og fyrirtækja, sem framkvæma lögbundnar prófanir eða eftirlit eða votta að vara, ferli eða þjónusta, svo og hæfni og þekking starfsmanna, uppfylli lögbundnar kröfur og skal þá slíkri kröfu fullnægt af [Neytendastofu][^1)^] eða hliðstæðum stofnunum í aðildarríkjum Evrópska efnahagssvæðisins [eða aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu].[^2)^] Ráðherra getur í reglugerð heimilað að faggilding frá stofnunum í ríkjum utan Evrópska efnahagssvæðisins [eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^2)^] gildi hér á landi.
+ □ [Neytendastofa][^1)^] metur tilnefnda aðila, sbr. 2. gr.
+ □ [Neytendastofa][^1)^] annast hér á landi málefni sem lúta að alþjóðlegum verklagsreglum á prófunarstofum í efnafræði.
+    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]"L. 76/2002, 41. gr.":/altext/stjt/2002.076.html
  ■ *12. gr.* Ráðherra er heimilt að ákveða í reglugerð[^1)^] forsendur faggildingar skv. 11. gr. enda séu þær í samræmi við hliðstæðar forsendur í aðildarríkjum Evrópska efnahagssvæðisins [eða aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu].[^2)^] Í reglugerðinni skal telja upp þá staðla sem byggt skal á og birta meginreglur og sérreglur um faggildingu, vottun, prófun og eftirlit, svo og reglur um brottfall faggildingar á slíkri starfsemi.
     _[^1)^]_"Rg. 346/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/346-1993, "350/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/350-1993, "351/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/351-1993, "631/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/631-1994 og "41/1996":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/041-1996. "Rg. 354/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/354-1997. [^2)^]"L. 76/2002, 42. gr.":/altext/stjt/2002.076.html
- ■ *13. gr.* Nú synjar Löggildingarstofan umsókn um faggildingu og skal synjunin þá rökstudd skriflega. Synjun má skjóta til sérstakrar úrskurðarnefndar. Hún skal skipuð einum fulltrúa hvors málsaðila og fulltrúa ráðuneytisins sem jafnframt er oddamaður.
+ ■ *13. gr.* Nú synjar [Neytendastofa][^1)^] umsókn um faggildingu og skal synjunin þá rökstudd skriflega. Synjun má skjóta til sérstakrar úrskurðarnefndar. Hún skal skipuð einum fulltrúa hvors málsaðila og fulltrúa ráðuneytisins sem jafnframt er oddamaður.
+    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
 
- *V. kafli.* *Löggildingarstofan.*
-■ *14. gr.* Löggildingarstofan er sjálfstæð ríkisstofnun er lýtur yfirstjórn viðskiptaráðuneytis.
- □ ...[^1)^]
-    _[^1)^]_"L. 155/1996, 6. gr.":1996155.html#g6
- ■ *15. gr.* Hlutverk Löggildingarstofunnar er að:
+ *V. kafli.* *[Neytendastofa.][^1)^]*
+    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13_
+ ■ *14. gr.* [Neytendastofa][^1)^] er sjálfstæð ríkisstofnun er lýtur yfirstjórn viðskiptaráðuneytis.
+ □ ...[^2)^]
+    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]"L. 155/1996, 6. gr.":1996155.html
+ ■ *15. gr.* Hlutverk [Neytendastofu][^1)^] er að:
     1. löggilda mælitæki, hafa eftirlit með mælitækjum, löggilda vigtarmenn og sjá að öðru leyti um að lögum þessum og reglugerðum settum samkvæmt þeim sé framfylgt,
     2. annast öflun, varðveislu og viðhald landsmæligrunna,
     3. annast kvörðun mæligrunna og mælitækja og útgáfu vottorða þar að lútandi,
@@ -64,14 +68,18 @@ h2. Lög um vog, mál og faggildingu
     5. veita stjórnvöldum og öðrum ráðgjöf um faggildingu og mælifræðileg málefni og stuðla að útbreiðslu þekkingar hér á landi á þeim sviðum,
     6. vera í fyrirsvari fyrir Íslands hönd í alþjóðlegu samstarfi um mælifræðileg málefni og á sviði faggildingar,
     7. hafa samstarf við aðra aðila sem fást við verkefni á sviði mælifræði og faggildingar.
- □ Ráðherra getur enn fremur falið Löggildingarstofunni að sjá um kennslu vigtarmanna og annast rannsóknir á sviði mælifræði.
-■ *16. gr.* Ráðherra getur að tillögu Löggildingarstofunnar og að höfðu samráði við samtök atvinnulífsins, eftirlitsstofnanir og samtök neytenda ákveðið að komið skuli á fót eftirliti með mælitækjum á sviðum sem ekki falla undir 5. gr. þar sem þess er talin þörf vegna einstakra atvinnugreina eða hagsmuna neytenda, svo og vegna aðstæðna er varða umhverfisvernd og heilbrigði eða öryggi almennings.
-■ *17. gr.* Löggildingarstofan skal, þar sem aðstæður mæla með, með samningi fela aðilum, sem þess óska og hafa sérþekkingu og nauðsynlega hæfni, að leysa verkefni sem henni eru falin samkvæmt lögum þessum.
-■ *18. gr.* Löggildingarstofan innheimtir gjöld fyrir þjónustu sína samkvæmt gjaldskrá sem ráðherra setur. Við ákvörðun um gjaldskrá skal við það miðað að tekjur stofnunarinnar standi undir útgjöldum hennar.
- □ Þess skal ávallt gætt að tekjum Löggildingarstofunnar af löggildingu mælitækja og annarri lögbundinni starfsemi sé ekki varið til að standa straum af kostnaði við þjónustu sem öðrum aðilum er einnig heimilt að veita.
+ □ Ráðherra getur enn fremur falið [Neytendastofu][^1)^] að sjá um kennslu vigtarmanna og annast rannsóknir á sviði mælifræði.
+    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
+ ■ *16. gr.* Ráðherra getur að tillögu [Neytendastofu][^1)^] og að höfðu samráði við samtök atvinnulífsins, eftirlitsstofnanir og samtök neytenda ákveðið að komið skuli á fót eftirliti með mælitækjum á sviðum sem ekki falla undir 5. gr. þar sem þess er talin þörf vegna einstakra atvinnugreina eða hagsmuna neytenda, svo og vegna aðstæðna er varða umhverfisvernd og heilbrigði eða öryggi almennings.
+    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
+ ■ *17. gr.* [Neytendastofa][^1)^] skal, þar sem aðstæður mæla með, með samningi fela aðilum, sem þess óska og hafa sérþekkingu og nauðsynlega hæfni, að leysa verkefni sem henni eru falin samkvæmt lögum þessum.
+    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
+ ■ *18. gr.* [Neytendastofa][^1)^] innheimtir gjöld fyrir þjónustu sína samkvæmt gjaldskrá sem ráðherra setur. Við ákvörðun um gjaldskrá skal við það miðað að tekjur stofnunarinnar standi undir útgjöldum hennar.
+ □ Þess skal ávallt gætt að tekjum [Neytendastofu][^1)^] af löggildingu mælitækja og annarri lögbundinni starfsemi sé ekki varið til að standa straum af kostnaði við þjónustu sem öðrum aðilum er einnig heimilt að veita.
+    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
 
  *VI. kafli.* *Löggiltir vigtarmenn.*
-■ *19. gr.* Vigtarmenn skulu hafa löggildingu Löggildingarstofunnar sem gefur út skírteini þeim til handa. Ráðherra setur þeim erindisbréf.[^1)^]
+ ■ *19. gr.* Vigtarmenn skulu hafa löggildingu [Neytendastofu][^1)^] sem gefur út skírteini þeim til handa. Ráðherra setur þeim erindisbréf.[^2)^]
  □ Löggiltir vigtarmenn geta menn orðið uppfylli þeir eftirtalin skilyrði:
     1. eru búsettir hér á landi,
     2. eru fullra tuttugu ára,
@@ -80,8 +88,8 @@ h2. Lög um vog, mál og faggildingu
  □ Í reglugerð skal kveðið á um prófkröfur skv. 4. tölul. 1. mgr.
  □ Synja má manni um löggildingu ef 68. gr. almennra hegningarlaga á við um hagi hans.
  □ Löggilding vigtarmanns gildir í allt að fimm ár en heimilt er að ákveða styttri gildistíma í einstökum tilfellum samkvæmt nánari reglum sem ráðherra setur.
- □ Heimilt er að binda löggildingu vigtarmanns við tiltekinn eða tiltekna vinnustaði. Enn fremur má undanþiggja ákveðna vinnustaði. Löggildingarstofan getur kveðið á um að störf hjá tilteknum vinnuveitendum séu ósamrýmanleg störfum löggiltra vigtarmanna.
-    _[^1)^]Erbr. 147/1993._
+ □ Heimilt er að binda löggildingu vigtarmanns við tiltekinn eða tiltekna vinnustaði. Enn fremur má undanþiggja ákveðna vinnustaði. [Neytendastofa][^1)^] getur kveðið á um að störf hjá tilteknum vinnuveitendum séu ósamrýmanleg störfum löggiltra vigtarmanna.
+    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]Erbr. 147/1993.
  ■ *20. gr.* Vottorð löggilts vigtarmanns er full sönnun um þyngd þess sem vegið var og hvað var vegið. Ráðherra getur í reglugerð tilgreint að ákveðin störf skuli unnin af löggiltum vigtarmönnum.
 
  *VII. kafli.* *Ýmis ákvæði.*

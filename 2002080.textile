@@ -6,7 +6,8 @@ h2. Barnaverndarlög
 
 <hr />
 
-*Tóku gildi 1. júní 2002, sjá þó 101. gr.*
+
+ *Tóku gildi 1. júní 2002, sjá þó 101. gr.*
 
  *I. kafli.* *Markmið barnaverndarlaga o.fl.*
  ■ *1. gr.* _Réttindi barna og skyldur foreldra._
@@ -462,10 +463,11 @@ h2. Barnaverndarlög
 ■ *91. gr.* _Önnur vistun barns á heimili án atbeina barnaverndaryfirvalda._
  □ Þeir sem óska eftir því að taka barn til sumardvalar á einkaheimili gegn gjaldi í allt að þrjá mánuði yfir sumartíma skulu sækja um leyfi til barnaverndarnefndar í heimilisumdæmi sínu.
  □ Heimilt er félagasamtökum eða öðrum aðilum að setja á stofn og reka heimili til að veita börnum viðtöku til umönnunar, stuðnings, afþreyingar eða hollra tómstunda að fengnu leyfi Barnaverndarstofu.
- □ Ráðherra setur reglugerð að fengnum tillögum Barnaverndarstofu um framkvæmd 1. og 2. mgr. þar sem m.a. skal kveðið á um skilyrði fyrir leyfisveitingu, réttindi barna, samninga um vistun, stuðning og eftirlit.
+ □ Ráðherra setur reglugerð[^1)^] að fengnum tillögum Barnaverndarstofu um framkvæmd 1. og 2. mgr. þar sem m.a. skal kveðið á um skilyrði fyrir leyfisveitingu, réttindi barna, samninga um vistun, stuðning og eftirlit.
+    _[^1)^]_"Rg. 366/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/366-2005.
 
  *XVII. kafli.* *Almenn verndarákvæði.*
-■ *92. gr.* _Útivistartími barna._
+ ■ *92. gr.* _Útivistartími barna._
  □ Börn, 12 ára og yngri, mega ekki vera á almannafæri eftir klukkan 20.00 nema í fylgd með fullorðnum. Börn, sem eru á aldrinum 13 til 16 ára, skulu ekki vera á almannafæri eftir klukkan 22.00, enda séu þau ekki á heimferð frá viðurkenndri skóla-, íþrótta- eða æskulýðssamkomu. Á tímabilinu 1. maí til 1. september lengist útivistartími barna um tvær klukkustundir.
  □ Aldursmörk þessa ákvæðis miðast við fæðingarár en ekki fæðingardag.
 ■ *93. gr.* _Eftirlit með sýningum og skemmtunum._

@@ -6,7 +6,8 @@ h2. Lög um póstþjónustu
 
 <hr />
 
-*Tóku gildi 3. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 97/67/EB. _Breytt með_ "l. 136/2002":/altext/stjt/2002.136.html (tóku gildi 1. jan. 2003; _EES-samningurinn:_ XI. viðauki tilskipun 97/39/EB) og "l. 129/2004":/altext/stjt/2004.129.html (taka gildi 31. des. 2005).
+
+ *Tóku gildi 3. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 97/67/EB. _Breytt með_ "l. 136/2002":/altext/stjt/2002.136.html (tóku gildi 1. jan. 2003; _EES-samningurinn:_ XI. viðauki tilskipun 97/39/EB) og "l. 129/2004":/altext/stjt/2004.129.html (taka gildi 31. des. 2005).
 
 
  *I. kafli.* *Gildissvið laganna og markmið.*
@@ -118,9 +119,10 @@ h2. Lög um póstþjónustu
     3. Endastöðvagjöld skulu vera gegnsæ og gætt skal jafnræðis.
 ■ *18. gr.* _Fyrirkomulag bókhalds._
  □ Rekstrarleyfishafar skulu í bókhaldi greina kostnað og tekjur vegna alþjónustu frá annarri þjónustu. Rekstrarleyfishafi, sem falinn er einkaréttur ríkisins, sbr. 11. gr., skal í bókhaldi sínu aðgreina annars vegar tekjur og kostnað fyrir sérhverja tegund þjónustu sem fellur undir einkaréttinn og hins vegar aðra alþjónustu. Póstrekendur sem stunda einnig leyfisskylda starfsemi á öðru sviði skulu greina kostnað og tekjur vegna póststarfsemi sinnar frá öðrum kostnaði og tekjum.
- □ Samgönguráðherra skal setja reglugerð um bókhald póstrekenda, sundurgreiningu kostnaðar og fjárhagslegan aðskilnað milli póstþjónustu og annars reksturs og milli einkaréttarþjónustu, alþjónustu og annarrar þjónustu.
+ □ Samgönguráðherra skal setja reglugerð[^1)^] um bókhald póstrekenda, sundurgreiningu kostnaðar og fjárhagslegan aðskilnað milli póstþjónustu og annars reksturs og milli einkaréttarþjónustu, alþjónustu og annarrar þjónustu.
  □ Póst- og fjarskiptastofnun skal tryggja að bókhald rekstrarleyfishafa samræmist reglugerðinni og skal það staðfest opinberlega.
-■ *19. gr.* _Gerð og birting ársreikninga._
+    _[^1)^]_"Rg. 313/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/313-2005.
+ ■ *19. gr.* _Gerð og birting ársreikninga._
  □ Ársreikningar rekstrarleyfishafa skulu gerðir í samræmi við lög um bókhald og lög um ársreikninga og birtir opinberlega.
 
  *VIII. kafli.* *Kröfur um þjónustu og gæði.*

@@ -6,7 +6,8 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
 
 <hr />
 
-*Tóku gildi 29. apríl 1998.* _Breytt með_ "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 16/1999":/altext/stjt/1999.016.html (tóku gildi 24. mars 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000), "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002) og "l. 33/2003":2003033.html (tóku gildi 1. júlí 2003).
+
+ *Tóku gildi 29. apríl 1998.* _Breytt með_ "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 16/1999":/altext/stjt/1999.016.html (tóku gildi 24. mars 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000), "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002), "l. 33/2003":2003033.html (tóku gildi 1. júlí 2003), "l. 31/2005":2005031.html (tóku gildi 1. júlí 2005) og "l. 66/2005":/altext/stjt/2005.066.html (tóku gildi 1. júlí 2005).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -93,7 +94,8 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
  □ Brjóti aðili að kauphöll ítrekað eða með vítaverðum hætti þau skilyrði sem sett eru í aðildarsamningi er kauphöllinni heimilt að fella samninginn einhliða úr gildi eða beita vægari ráðstöfunum, svo sem tímabundinni stöðvun aðildar að kauphöllinni. Grípi kauphöll til ráðstafana samkvæmt þessari málsgrein skal hún án tafar gera [Fjármálaeftirlitinu][^1)^] grein fyrir þeim.
     _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html
 
- *IV. kafli.* *Reglur um opinbera skráningu verðbréfa í kauphöll.*
+ *IV. kafli.* *Reglur um opinbera skráningu verðbréfa í kauphöll.[^1)^]*
+    _[^1)^]IV. kafli fellur úr gildi 1. jan. 2006 skv. "l. 31/2005, 27. gr.":2005031.html_
  ■ *17. gr.* Kauphallaraðilar sækja um opinbera skráningu verðbréfa í viðskiptakerfi kauphallarinnar fyrir hönd útgefenda nema stjórn hennar samþykki annað. Skráning er háð samþykki stjórnar kauphallar sem setur nánari reglur um verðbréf sem tekin eru til opinberrar skráningar. Áður en stjórn kauphallar samþykkir fyrir sitt leyti reglur um opinbera skráningu verðbréfa skal hún leita umsagnar um þær hjá [Fjármálaeftirlitinu].[^1)^] [Reglur, sem kauphöll setur um opinbera skráningu verðbréfa, skulu uppfylla ákvæði laga þessara og reglugerðar sem ráðherra setur á grundvelli þeirra.][^2)^] Reglur um opinbera skráningu verðbréfa skulu fela í sér skilyrði fyrir upptöku viðskipta og skráningar, svo sem:
     1. að lögð sé fram skráningarlýsing útgefanda,
     2. um stærð og dreifingu hvers flokks, svo og önnur atriði sem stjórn telur að geti skipt máli fyrir markaðshæfi verðbréfa,
@@ -125,8 +127,22 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
  □ Birting telst hafa átt sér stað þegar tilkynning er komin til kauphallar sem tekið hefur verðbréfin til opinberrar skráningar og hefur verið miðlað til kauphallaraðila í samræmi við reglur sem stjórn setur. Kauphöll er heimilt að setja nánari reglur um form tilkynninga.
 ■ *25. gr.* Hlutafélagi, sem fengið hefur hlutabréf sín opinberlega skráð í kauphöll, ber þegar í stað að tilkynna henni um heildareign félagsins á eigin hlutabréfum, þar með talið í dótturfélögum þess, þegar hún nær, hækkar upp fyrir eða lækkar niður fyrir 5% og 10% af heildarhlutafé í félaginu.
  □ Í tilkynningum til kauphallar, sem getið er um í 1. mgr., skal taka fram raunverulega hlutafjáreign, hvernig hún skiptist á hlutabréfaflokka og hvernig hún var samkvæmt síðustu tilkynningu um hlutafjáreign.
+■ *[25. gr. a.* Félög sem fengið hafa skráningu fyrir einn eða fleiri flokka hlutabréfa á skipulegum verðbréfamarkaði skulu í ársskýrslu sinni birta nákvæmar upplýsingar um eftirfarandi atriði:
+    1. uppbyggingu hlutafjár, þar á meðal hluti sem ekki eru skráðir á skipulegum verðbréfamarkaði, mismunandi hlutaflokka og réttindi og skyldur tengdar þeim, sem og hlutfall þeirra af heildarhlutafé,
+    2. allar takmarkanir á framsali hluta, t.d. takmarkanir varðandi hlutafjáreign einstakra aðila eða ef samþykki félagsins eða annarra hluthafa þarf fyrir framsali,
+    3. verulega beina eða óbeina hlutafjáreign, þar á meðal óbeina eign í gegnum önnur félög eða gagnkvæma hlutafjáreign félaga,
+    4. eigendur hluta með sérstök stjórnunarréttindi og lýsingu á þeim réttindum,
+    5. helstu ákvæði kaupréttaráætlana starfsmanna,
+    6. allar takmarkanir varðandi atkvæðisrétt, t.d. takmarkanir á atkvæðisrétti hluthafa sem eiga ákveðið hlutfall eða fjölda atkvæða, frest til að nýta atkvæðisrétt eða ef fjárhagsleg réttindi tengd hlutum eru ekki tengd eignarhaldi þeirra,
+    7. alla samninga milli hluthafa sem félaginu er kunnugt um og geta haft í för með sér takmarkanir varðandi framsal og/eða atkvæðarétt,
+    8. reglur varðandi tilnefningar og endurnýjun stjórnarmanna og breytingar á samþykktum félags,
+    9. sérstakar heimildir stjórnar, þar á meðal heimildir til að gefa út nýja hluti eða kaupa eigin hluti,
+    10. samninga sem félagið er aðili að og taka gildi, breytast eða falla úr gildi ef breytingar verða á stjórnun eða yfirráðum í félagi í kjölfar yfirtökutilboðs og áhrif þess á félagið, nema um sé að ræða upplýsingar sem haft geta skaðleg áhrif á starfsemi félagsins eða hafa óveruleg áhrif á starfsemi félagsins; þær undantekningar eiga þó ekki við ef um er að ræða upplýsingar sem félagi er skylt að birta á grundvelli laga,
+    11. samninga félagsins við stjórnarmenn eða starfsmenn um greiðslur eða bætur ef þeir segja upp eða ef þeim er sagt upp án gildrar ástæðu eða ef starfi þeirra lýkur vegna yfirtökutilboðs.
+ □ Stjórn félags sem skráð hefur einn eða fleiri hlutabréfaflokka á skipulegum verðbréfamarkaði skal á aðalfundi hvert ár kynna greinargerð með skýringum varðandi þau atriði sem tiltekin eru í 1. mgr.][^1)^]
+    _[^1)^]_"L. 31/2005, 28. gr.":2005031.html
  _Flöggunarreglur._
-■ *26. gr.* ...[^1)^]
+ ■ *26. gr.* ...[^1)^]
     _[^1)^]_"L. 33/2003, 61. gr.":2003033.html#g61
  ■ *27. gr.* Í reglugerð sem ráðherra setur er heimilt að kveða nánar á um skyldu útgefenda og eigenda hlutabréfa til að veita kauphöll upplýsingar, svo og hvenær veita megi undanþágur frá upplýsingaskyldunni.
  □ Í reglugerð er einnig heimilt að setja nánari reglur um upplýsingaskyldu þegar útgefandi hefur fengið verðbréf sín skráð í fleiri en einni kauphöll.
@@ -170,6 +186,22 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
 ■ *34. gr.* Óheimilt er að gefa til kynna að verðbréfamarkaður sé skipulagður vegna viðskipta með eða tilboða í verðbréf sem ekki eru skráð í kauphöll eða á skipulegum tilboðsmarkaði, svo sem með því að birta skipulega upplýsingar um viðskiptin með sama hætti og kauphöll og skipulegur tilboðsmarkaður gera eða á nokkurn þann hátt að hætta skapist á ruglingi við slíka starfsemi. Þetta á við jafnt þótt slík viðskipti fari fram í viðskiptakerfi kauphallar eða skipulegs tilboðsmarkaðar.
  □ Starfræki aðilar verðbréfamarkað þar sem veruleg viðskipti eiga sér stað er [Fjármálaeftirlitinu][^1)^] heimilt að setja það sem skilyrði fyrir áframhaldandi starfsemi hans að hann uppfylli ákvæði þessara laga um kauphöll eða skipulegan tilboðsmarkað, eftir því sem við getur átt.
     _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html
+ ■ *[34. gr. a.* _Markaðstorg._
+ □ Þrátt fyrir ákvæði 34. gr. getur Fjármálaeftirlitið veitt fjármálafyrirtæki sem hefur leyfi til verðbréfaviðskipta eða skipulegum verðbréfamarkaði starfsleyfi til að starfrækja markaðstorg þar sem fram fari kerfisbundin viðskipti með verðbréf sem ekki eru skráð á skipulegum verðbréfamarkaði.
+ □ Í stjórn markaðstorgs skulu vera eigi færri en þrír stjórnarmenn og ber hún ábyrgð á því að starfsemi þess fari fram á öruggan og hagkvæman hátt.
+ □ Stjórn markaðstorgs ber ábyrgð á því að settar séu reglur:
+    1. sem tryggja nauðsynlegan aðgang að upplýsinga- og viðskiptakerfum fyrir verðbréf sem þar eru keypt og seld,
+    2. sem tryggja að viðskipti á markaðstorginu eigi sér stað með skýrum og gagnsæjum hætti í samræmi við ákvæði gildandi laga og reglna settra samkvæmt þeim og að gætt sé jafnræðis allra aðila að viðskiptum á markaðstorginu,
+    3. sem tryggja að nægjanlegt eftirlit sé með því að útgefendur verðbréfa og aðilar að markaðstorgi starfi eftir lögum og reglum, svo og samþykktum sem um það gilda,
+    4. sem tryggja að tilkynnt sé um brot á lögum og reglum, svo og samþykktum sem um markaðstorgið gilda, og að nauðsynlegar upplýsingar þar um berist lögbæru yfirvaldi,
+    5. um skilyrði þess að hefja megi viðskipti með verðbréf á markaðstorginu, svo og um upplýsingaskyldu útgefanda verðbréfa og hluthafa, svo að aðilar að því geti tekið upplýsta fjárfestingarákvörðun,
+    6. um skilyrði sem uppfylla þarf til þess að geta orðið aðili að markaðstorginu,
+    7. um skýrslugjöf vegna viðskipta í upplýsingaskyni,
+    8. um skipulegt viðskipta- og upplýsingakerfi og uppgjör viðskipta sem þar eiga sér stað; í þeim skal kveðið á um með hvaða hætti tilboð eru sett fram, svo og um söfnun og miðlun upplýsinga um viðskipti með verðbréf sem þar er verslað með, hvort sem viðskiptin eiga sér stað í viðskiptakerfinu eða utan þess.
+ □ Ákvæði "VIII":2003033.html. - "XI":2003033.html. kafla "laga um verðbréfaviðskipti, nr. 33/2003":2003033.html, gilda um viðskipti með verðbréf á markaðstorgi.
+ □ Áður en markaðsaðili má hefja viðskipti á markaðstorgi skal hann undirrita skriflegan aðildarsamning. Brjóti markaðsaðili ítrekað eða með vítaverðum hætti skilyrði þau sem sett eru fyrir aðild að markaðinum er heimilt að afturkalla aðildina.
+ □ Fjármálaeftirlitið hefur eftirlit með starfsemi markaðstorgs og hefur við það eftirlit allar heimildir XI. kafla þessara laga. Fjármálaeftirlitið getur afturkallað starfsleyfi markaðstorgs að uppfylltum ákvæðum XII. kafla þessara laga.][^1)^]
+    _[^1)^]_"L. 66/2005, 1. gr.":/altext/stjt/2005.066.html Fram til 1. júlí 2006 er útgefendum, sem eru með skráð verðbréf í kauphöll við gildistöku "l. 66/2005, óheimilt að versla":/altext/stjt/2005.066.html með verðbréf sín á markaðstorgi. Stjórn kauphallar er heimilt að veita undanþágu frá þessu banni þjóni það hagsmunum fjárfesta, sbr. "l. 66/2005, brbákv.":/altext/stjt/2005.066.html
 
  *XI. kafli.* *Eftirlit.*
  ■ *35. gr.* [Fjármálaeftirlitið][^1)^] hefur eftirlit með því að starfsemi kauphalla og skipulegra tilboðsmarkaða sé í samræmi við lög þessi, reglur eða reglugerðir settar samkvæmt þeim, svo og önnur fyrirmæli eða samþykktir sem um starfsemina gilda. Skal [Fjármálaeftirlitinu][^1)^] þess vegna heimill aðgangur að öllum gögnum og upplýsingum um starfsemi sem fram fer samkvæmt lögum þessum sem það telur nauðsyn á. Telji [Fjármálaeftirlitið][^1)^] að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa skal það eiga sambærilegan aðgang að upplýsingum og gögnum hjá viðkomandi aðila. ...[^2)^]

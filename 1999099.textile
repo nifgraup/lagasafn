@@ -6,7 +6,8 @@ h2. Lög um greiðslu kostnaðar við opinbert eftirlit með fjármálastarfsemi
 
 <hr />
 
-*Tóku gildi 30. desember 1999.* _Breytt með_ "l. 158/2000":/altext/stjt/2000.158.html (tóku gildi 1. jan. 2001), "l. 34/2001":2001034.html (tóku gildi 16. maí 2001), "l. 144/2001":/altext/stjt/2001.144.html (tóku gildi 1. jan. 2002), "l. 37/2002":2002037.html (tóku gildi 7. maí 2002), "l. 157/2002":/altext/stjt/2002.157.html (tóku gildi 1. jan. 2003), "l. 137/2003":/altext/stjt/2003.137.html (tóku gildi 1. jan. 2004) og "l. 134/2004":/altext/stjt/2004.134.html (tóku gildi 1. jan. 2005).
+
+ *Tóku gildi 30. desember 1999.* _Breytt með_ "l. 158/2000":/altext/stjt/2000.158.html (tóku gildi 1. jan. 2001), "l. 34/2001":2001034.html (tóku gildi 16. maí 2001), "l. 144/2001":/altext/stjt/2001.144.html (tóku gildi 1. jan. 2002), "l. 37/2002":2002037.html (tóku gildi 7. maí 2002), "l. 157/2002":/altext/stjt/2002.157.html (tóku gildi 1. jan. 2003), "l. 137/2003":/altext/stjt/2003.137.html (tóku gildi 1. jan. 2004), "l. 134/2004":/altext/stjt/2004.134.html (tóku gildi 1. jan. 2005) og "l. 32/2005":2005032.html (tóku gildi 25. maí 2005; _EES-samningurinn:_ IX. viðauki tilskipun 2002/92/EB).
 
  ■ *1. gr.* _Almennt ákvæði._
  □ Eftirlitsskyldir aðilar skv. 5. gr. skulu standa straum af kostnaði við rekstur Fjármálaeftirlitsins í samræmi við ákvæði laga þessara.
@@ -25,7 +26,7 @@ h2. Lög um greiðslu kostnaðar við opinbert eftirlit með fjármálastarfsemi
  □ [Eftirtaldir eftirlitsskyldir aðilar skulu greiða eftirlitsgjald af álagningarstofni í þeim hlutföllum og stærðum sem hér segir:
     1. Viðskiptabankar, sparisjóðir, lánafyrirtæki og rafeyrisfyrirtæki skulu greiða 0,00874% af eignum samtals, þó eigi lægri fjárhæð en 400.000 kr.
     2. Vátryggingafélög skulu greiða 0,232% af bókfærðum frumtryggingaiðgjöldum og 0,045% af bókfærðum fengnum endurtryggingaiðgjöldum, þó eigi lægri fjárhæð en 400.000 kr. Vegna söfnunarlíftrygginga greiðist þó eftirlitsgjald sem nemur 0,0059% af nettómismun iðgjaldaskuldar að frádregnum hluta endurtryggjenda í iðgjaldaskuldinni.
-    3. Félög eða einstaklingar sem stunda vátryggingamiðlun skulu greiða 0,09% af því iðgjaldamagni sem miðlað er á næstliðnu ári, þó eigi lægri fjárhæð en 200.000 kr.
+    3. [Vátryggingamiðlarar skulu greiða 0,09% af því iðgjaldamagni sem miðlað er á næstliðnu ári, þó eigi lægri fjárhæð en 200.000 kr.][^2)^]
     4. Verðbréfafyrirtæki skulu greiða 0,1% af eignum samtals, þó aldrei lægri fjárhæð en 400.000 kr. Verðbréfamiðlanir skulu greiða 0,1% af eignum samtals, þó aldrei lægri fjárhæð en 250.000 kr. Rekstrarfélög verðbréfasjóða og fjárfestingarsjóða og fjárfestingarsjóðir sem gefa út hlutabréf skulu greiða 0,00988% af eignum rekstrarfélags og viðkomandi sjóðs samtals, þó aldrei lægri fjárhæð en 400.000 kr.
     5. Kauphallir og aðrir skipulegir tilboðsmarkaðir skulu greiða 0,5% af rekstrartekjum, þó aldrei lægri fjárhæð en 250.000 kr.
     6. Lífeyrissjóðir skulu samtals greiða 0,00605% af hreinni eign til greiðslu lífeyris. Greiða skal eftirlitsgjaldið sem 150.000 kr. fastagjald vegna þeirra lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris undir einum milljarði króna, 300.000 kr. vegna þeirra lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris frá einum til tíu milljarða króna og 600.000 kr. vegna þeirra lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris þar yfir. Það sem þá er ógreitt af eftirlitsgjaldi skv. 1. málsl. greiðist í hlutfalli við fjölda virkra sjóðfélaga.
@@ -35,8 +36,8 @@ h2. Lög um greiðslu kostnaðar við opinbert eftirlit með fjármálastarfsemi
     10. Tryggingarsjóður innstæðueigenda og fjárfesta og öryggissjóðir samkvæmt lögum um innstæðutryggingar og tryggingakerfi fyrir fjárfesta skulu greiða fastagjald sem nemur 150.000 kr.
  □ Útibú erlendra eftirlitsskyldra aðila sem fengið hafa starfsleyfi hér á landi skulu greiða eftirlitsgjald samkvæmt viðeigandi tölulið 1. mgr.
  □ Þrátt fyrir 1. mgr. skal eftirlitsskyldur aðili, sem er að minnsta kosti að [^9^]/10 hlutum í eigu annars eftirlitsskylds aðila, greiða [^1^]/5 hluta eftirlitsgjalds samkvæmt viðeigandi tölulið 1. mgr., enda hafi móðurfélagið heimild til sömu starfsemi og dótturfélagið. Ákvæði þetta á þó ekki við um lágmarksgjald skv. 1. mgr.
- □ Eftirlitsgjald skal reiknast í heilum þúsundum króna. Við álagningu skal jafnframt færa álagningarstofna í þúsundir króna.][^2)^]
-    _[^1)^]_"L. 157/2002, 1. gr.":/altext/stjt/2002.157.html [^2)^]"L. 134/2004, 1. gr.":/altext/stjt/2004.134.html
+ □ Eftirlitsgjald skal reiknast í heilum þúsundum króna. Við álagningu skal jafnframt færa álagningarstofna í þúsundir króna.][^3)^]
+    _[^1)^]_"L. 157/2002, 1. gr.":/altext/stjt/2002.157.html [^2)^]"L. 32/2005, 66. gr.":2005032.html#g66 [^3)^]"L. 134/2004, 1. gr.":/altext/stjt/2004.134.html
  ■ *6. gr.* _Framkvæmd álagningar og innheimtu._
  □ Álagning eftirlitsgjalds samkvæmt lögum þessum skal fara fram eigi síðar en 15. janúar ár hvert. Fjármálaeftirlitið skal gera eftirlitsskyldum aðilum grein fyrir álagningunni með bréfi.
  □ Eftirlitsgjald greiðist ársþriðjungslega með þremur jafnháum greiðslum. Það greiðist þannig að gjalddagi 1. ársþriðjungs er 1. febrúar og eindagi 15. febrúar, gjalddagi 2. ársþriðjungs er 1. maí og eindagi 15. maí og gjalddagi 3. ársþriðjungs er 1. september og eindagi 15. september.

@@ -6,7 +6,8 @@ h2. Lög um Evrópufélög
 
 <hr />
 
-*Tóku gildi 8. október 2004.*
+
+ *Tóku gildi 8. október 2004.*
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Gildissvið._
@@ -121,9 +122,9 @@ h2. Lög um Evrópufélög
  *Reglugerð ráðsins (EB) nr. 2157/2001 frá 8. október 2001 um samþykktir fyrir Evrópufélög (SE)*
  RÁÐ EVRÓPUSAMBANDSINS HEFUR,
  með hliðsjón af stofnsáttmála Evrópubandalagsins, einkum 308. gr.
- með hliðsjón af tillögu framkvæmdastjórnarinnar (Stjtíð. EB C 263, 16.10.1989, bls. 41, og Stjtíð. EB C 176, 8.7.1991, bls. 1.),
- með hliðsjón af áliti Evrópuþingsins (Álit frá 4. september 2001 (hefur enn ekki verið birt í Stjórnartíðindum EB).),
- með hliðsjón af áliti efnahags- og félagsmálanefndarinnar (Stjtíð. EB C 124, 21.5.1990, bls. 34.),
+ með hliðsjón af tillögu framkvæmdastjórnarinnar ([^1^]),
+ með hliðsjón af áliti Evrópuþingsins ([^2^]),
+ með hliðsjón af áliti efnahags- og félagsmálanefndarinnar ([^3^]),
  _og að teknu tilliti til eftirfarandi:_
     1) Tilkoma innri markaðarins og þær efnahagslegu og félagslegu framfarir sem hann leiðir til í gervöllu bandalaginu hafa ekki einungis í för með sér að ryðja verður úr vegi viðskiptahindrunum heldur einnig að laga verður skipulag framleiðslu að aðstæðum í bandalaginu almennt. Í þessu skyni er það grundvallaratriði að félögum, sem ekki eru bundin við að sinna staðbundnum þörfum eingöngu, sé kleift að gera áætlanir um og endurskipuleggja starfsemi sína á bandalagsvísu.
     2) Forsenda fyrir slíkri endurskipulagningu er að félög frá mismunandi aðildarríkjum eigi þess kost að sameina krafta sína með samruna. Slíkt má því aðeins koma til framkvæmda að tekið sé tilhlýðilegt tillit til reglnanna um samkeppni sem mælt er fyrir um í sáttmálanum.
@@ -143,7 +144,7 @@ h2. Lög um Evrópufélög
     16) Með fyrirvara um afleiðingar hugsanlegrar, síðari samræmingar á lögum aðildarríkjanna er ekki þörf, eins og sakir standa, á sérstökum reglum um Evrópufélög á þessu sviði. Af þessum sökum ber að beita reglum, m.a. meginreglum alþjóðlegs einkamálaréttar, hvort sem Evrópufélag fer með yfirráð yfir öðru félagi eða lýtur yfirráðum þess.
     17) Tilgreina ber þær reglur sem gilda þegar Evrópufélag lýtur yfirráðum annars fyrirtækis og vísa í því sambandi til gildandi laga þess aðildarríkis um hlutafélög þar sem Evrópufélagið er með skráða skrifstofu.
     18) Hverju aðildarríki skal gert að beita hlutafélög, sem heyra undir lögsögu þess, viðeigandi viðurlögum þegar um er að ræða brot á þessari reglugerð.
-    19) Í tilskipun 2001/86/EB (Stjtíð. EB L 294, 10.11.2001, bls. 22.) er mælt fyrir um reglur um aðild starfsmanna að Evrópufélögum og koma þau ákvæði til fyllingar þessari reglugerð, eru óaðskiljanleg viðbót við hana og skal beitt samhliða henni.
+    19) Í tilskipun 2001/86/EB ([^4^]) er mælt fyrir um reglur um aðild starfsmanna að Evrópufélögum og koma þau ákvæði til fyllingar þessari reglugerð, eru óaðskiljanleg viðbót við hana og skal beitt samhliða henni.
     20) Þessi reglugerð tekur ekki til laga á öðrum sviðum, svo sem skattalaga, samkeppnislaga, hugverkaréttar eða gjaldþrotalaga. Ákvæði í lögum aðildarríkjanna og bandalagsins gilda því á framangreindum sviðum og á öðrum sviðum sem þessi reglugerð tekur ekki til.
     21) Tilskipun 2001/86/EB er ætlað að tryggja rétt starfsmanna til aðildar að málum og ákvörðunum sem snerta starfsemi Evrópufélagsins sem þeir vinna hjá. Um önnur málefni, sem varða félagsmála- og vinnulöggjöf, einkum um rétt starfsmanna, samkvæmt reglum aðildarríkjanna, til upplýsinga og samráðs, fer að viðeigandi, innlendum ákvæðum sem gilda með sömu skilyrðum um hlutafélög.
     22) Fresta skal gildistöku þessarar reglugerðar svo að hverju aðildarríki gefist ráðrúm til að taka ákvæði tilskipunar 2001/86/EB upp í landslög og koma fyrir fram upp því kerfi sem þarf til að stofna megi og reka Evrópufélög með skráðar skrifstofur á yfirráðasvæði þess, þannig að unnt sé að beita reglugerðinni og tilskipuninni samhliða.
@@ -170,7 +171,7 @@ h2. Lög um Evrópufélög
  □ 4. Breyta má hlutafélagi, sem stofnað hefur verið samkvæmt lögum aðildarríkis og með skráðar skrifstofur og aðalskrifstofur innan bandalagsins, í Evrópufélag hafi það í a.m.k. tvö ár átt dótturfyrirtæki sem heyrir undir lög annars aðildarríkis.
  □ 5. Aðildarríki getur kveðið á um að félagi, sem hefur aðalskrifstofu utan bandalagsins, skuli heimilt að taka þátt í stofnun Evrópufélags, að því tilskildu að það sé stofnað samkvæmt lögum aðildarríkis, að skráð skrifstofa þess sé í viðkomandi aðildarríki og það hafi raunveruleg og stöðug tengsl við atvinnulíf aðildarríkis.
 ■ *3. gr.* 1. Að því er varðar 1., 2. og 3. mgr. 2. gr. skal litið á Evrópufélag sem hlutafélag sem heyrir undir lög þess aðildarríkis þar sem það hefur skráða skrifstofu.
- □ 2. Evrópufélag getur fyrir sitt leyti stofnað dótturfyrirtæki, eitt eða fleiri, með Evrópufélagssniði. Þau ákvæði í lögum aðildarríkisins þar sem dótturfyrirtæki Evrópufélags er með skráða skrifstofu, sem krefjast þess að hluthafar í hlutafélagi séu fleiri en einn, gilda ekki um dótturfyrirtæki Evrópufélaga. Ákvæði í landslögum um framkvæmd tólftu tilskipunar ráðsins (89/667/EBE) frá 21. desember 1989 um einkahlutafélög eins aðila (Stjtíð. EB L 395, 30.12.1989, bls. 40. Tilskipuninni var síðast breytt með aðildarlögunum frá 1994.) skulu gilda um Evrópufélög að breyttu breytanda.
+ □ 2. Evrópufélag getur fyrir sitt leyti stofnað dótturfyrirtæki, eitt eða fleiri, með Evrópufélagssniði. Þau ákvæði í lögum aðildarríkisins þar sem dótturfyrirtæki Evrópufélags er með skráða skrifstofu, sem krefjast þess að hluthafar í hlutafélagi séu fleiri en einn, gilda ekki um dótturfyrirtæki Evrópufélaga. Ákvæði í landslögum um framkvæmd tólftu tilskipunar ráðsins (89/667/EBE) frá 21. desember 1989 um einkahlutafélög eins aðila ([^5^]) skulu gilda um Evrópufélög að breyttu breytanda.
 ■ *4. gr.* 1. Hlutafé Evrópufélags skal gefið upp í evrum.
  □ 2. Skráð hlutafé skal vera minnst 120 000 evrur.
  □ 3. Krefjist lög aðildarríkis að skráð hlutafé félaga, sem sinna tilteknum tegundum starfsemi, sé hærri fjárhæð skulu þau lög gilda um Evrópufélög með skráðar skrifstofur í því aðildarríki.
@@ -216,7 +217,7 @@ h2. Lög um Evrópufélög
 ■ *11. gr.* 1. Bæta skal skammstöfuninni SE framan við eða aftan við heiti Evrópufélags.
  □ 2. Einungis Evrópufélög mega nota skammstöfunina SE í heiti sínu.
  □ 3. Engu að síður skal félögum, fyrirtækjum og öðrum lögaðilum, sem hafa verið skráð í aðildarríki áður en reglugerð þessi kemur til framkvæmda og hafa skammstöfunina SE í heiti sínu, ekki gert að breyta því.
-■ *12. gr.* 1. Sérhvert Evrópufélag skal skráð í því aðildarríki þar sem það er með skráða skrifstofu, í skrá sem er tilgreind í lögum þess aðildarríkis í samræmi við 3. gr. fyrstu tilskipunar ráðsins (68/151/EBE) frá 9. mars 1968 um samræmingu verndarráðstafana, sem ætlað er að vera jafngildar í bandalaginu og aðildarríki krefjast af félögum í skilningi annarrar málsgreinar 58. gr. sáttmálans, til að vernda hagsmuni félagsmanna og annarra (Stjtíð. EB L 65, 14.3.1968, bls. 8. Tilskipuninni var síðast breytt með aðildarlögunum frá 1994.).
+■ *12. gr.* 1. Sérhvert Evrópufélag skal skráð í því aðildarríki þar sem það er með skráða skrifstofu, í skrá sem er tilgreind í lögum þess aðildarríkis í samræmi við 3. gr. fyrstu tilskipunar ráðsins (68/151/EBE) frá 9. mars 1968 um samræmingu verndarráðstafana, sem ætlað er að vera jafngildar í bandalaginu og aðildarríki krefjast af félögum í skilningi annarrar málsgreinar 58. gr. sáttmálans, til að vernda hagsmuni félagsmanna og annarra ([^6^]).
  □ 2. Óheimilt er að skrá Evrópufélag, nema því aðeins að tekist hafi samkomulag um tilhögun á aðild starfsmanna að félaginu skv. 4. gr. tilskipunar 2001/86/EB eða tekin hafi verið ákvörðun skv. 6. mgr. 3. gr. þeirrar tilskipunar eða að frestur til samningaviðræðna skv. 5. gr. sömu tilskipunar hafi runnið út án þess að samkomulag hafi náðst.
  □ 3. Til að unnt sé að skrá Evrópufélag í aðildarríki sem hefur nýtt sér þann kost sem um getur í 3. mgr. 7. gr. tilskipunar 2001/86/EB verður annaðhvort að hafa náðst samkomulag skv. 4. gr. tilskipunarinnar um tilhögun á aðild starfsmanna, þ.m.t. um þátttöku þeirra, eða ekkert þátttökufélag má hafa heyrt undir reglur um þátttöku fyrir skráningu Evrópufélagsins.
  □ 4. Samþykktir Evrópufélags mega aldrei stríða gegn þeirri tilhögun á aðild starfsmanna sem þannig hefur verið ákveðin. Stríði nýtt fyrirkomulag, sem er ákvarðað samkvæmt framangreindri tilskipun, gegn gildandi samþykktum skal breyta samþykktunum eins og þörf krefur.
@@ -236,7 +237,7 @@ h2. Lög um Evrópufélög
  *2. þáttur.* *Stofnun með samruna.*
 ■ *17. gr.* 1. Heimilt er að stofna Evrópufélög með samruna í samræmi við 1. mgr. 2. gr.
  □ 2. Slíkan samruna má framkvæma í samræmi við:
-    a) málsmeðferð um samruna með yfirtöku sem mælt er fyrir um í 1. mgr. 3. gr. þriðju tilskipunar ráðsins (78/855/EBE) frá 9. október 1978 um samruna almenningshlutafélaga, byggð á g-lið 3. mgr. 54. gr. sáttmálans (Stjtíð. EB L 295, 20.10.1978, bls. 36. Tilskipuninni var síðast breytt með aðildarlögunum frá 1994.) eða
+    a) málsmeðferð um samruna með yfirtöku sem mælt er fyrir um í 1. mgr. 3. gr. þriðju tilskipunar ráðsins (78/855/EBE) frá 9. október 1978 um samruna almenningshlutafélaga, byggð á g-lið 3. mgr. 54. gr. sáttmálans ([^7^]) eða
     b) málsmeðferð um samruna með stofnun nýs félags sem mælt er fyrir um í 1. mgr. 4. gr. téðrar tilskipunar.
     Þegar um er að ræða samruna með yfirtöku skal yfirtökufélagið taka á sig form Evrópufélags við samrunann. Þegar um er að ræða samruna með stofnun nýs félags er hið nýstofnaða félag Evrópufélagið.
 ■ *18. gr.* Að því er varðar málefni, sem þessi þáttur gildir ekki um, eða ef hann gildir einungis að hluta til um eitthvert málefni, að því er varðar þau atriði þess málefnis sem þessi þáttur gildir ekki um, skal hvert það félag, sem hlut á að stofnun Evrópufélags með samruna, lúta ákvæðum um samruna hlutafélaga í lögum þess aðildarríkis, sem fer með lögsögu í málum þess, í samræmi við tilskipun 78/855/EBE.
@@ -323,7 +324,7 @@ h2. Lög um Evrópufélög
  □ 3. Ekki má flytja skráða skrifstofu frá einu aðildarríki til annars skv. 8. gr. á sama tíma og breytingin kemur til framkvæmda.
  □ 4. Framkvæmdastjórn eða stjórn félagsins skal semja áætlun um breytingu og skýrslu þar sem lagalegir og efnahagslegir þættir breytingarinnar eru skýrðir og rökstuddir og skýrt er hvaða afleiðingar samþykkt Evrópufélagsformsins mun hafa fyrir hluthafa og starfsmenn.
  □ 5. Birta skal áætlunina um breytingu félagsins á þann hátt sem mælt er fyrir um í lögum hvers aðildarríkis, í samræmi við 3. gr. tilskipunar 68/ 151/EBE, minnst einum mánuði fyrir hluthafafundinn sem er boðaður til að taka ákvörðun um breytingu félagsins.
- □ 6. Fyrir hluthafafundinn, sem um getur í 7. mgr., skulu óháðir sérfræðingar, einn eða fleiri, sem hafa verið tilnefndir eða samþykktir, í samræmi við innlend ákvæði sem hafa verið samþykkt til að framkvæma 10. gr. tilskipunar 78/855/EBE, af yfirvaldi á sviði dómgæslu eða stjórnsýslu í aðildarríkinu sem fer með lögsögu í málum félagsins sem breyta á í Evrópufélag, votta, í samræmi við tilskipun 77/91/ EBE (Önnur tilskipun ráðsins 77/91/EBE frá 13. desember 1976 um samræmingu verndarráðstafana, sem ætlað er að vera jafngildar í bandalaginu og aðildarríki krefjast þegar almenningshlutafélög eru stofnuð og um tilskilið hlutafé og heimilaðar breytingar á hlutafé þeirra í skilningi annarrar málsgreinar 58. gr. sáttmálans til að vernda hagsmuni félagsmanna og annarra (Stjtíð. EB L 26, 31.1.1977, bls. 1). Tilskipuninni var síðast breytt með aðildarlögunum frá 1994.), að breyttu breytanda, að hrein eign félagsins samsvari a.m.k. hlutafé þess, að viðbættum þeim varasjóðum sem ekki má úthluta samkvæmt lögum eða samþykktum.
+ □ 6. Fyrir hluthafafundinn, sem um getur í 7. mgr., skulu óháðir sérfræðingar, einn eða fleiri, sem hafa verið tilnefndir eða samþykktir, í samræmi við innlend ákvæði sem hafa verið samþykkt til að framkvæma 10. gr. tilskipunar 78/855/EBE, af yfirvaldi á sviði dómgæslu eða stjórnsýslu í aðildarríkinu sem fer með lögsögu í málum félagsins sem breyta á í Evrópufélag, votta, í samræmi við tilskipun 77/91/ EBE ([^8^]), að breyttu breytanda, að hrein eign félagsins samsvari a.m.k. hlutafé þess, að viðbættum þeim varasjóðum sem ekki má úthluta samkvæmt lögum eða samþykktum.
  □ 7. Hluthafafundur skal samþykkja breytingaráætlun ásamt samþykktum Evrópufélagsins. Ákvörðunin skal afgreidd eins og mælt er fyrir um í þeim ákvæðum landslaga sem samþykkt hafa verið til að framkvæma 7. gr. tilskipunar 78/855/EBE.
  □ 8. Aðildarríkin geta bundið breytinguna því skilyrði að hún njóti stuðnings aukins meirihluta atkvæða eða sé samþykkt samhljóða í þeirri stjórnarstofnun félagsins þar sem þátttaka starfsmanna er skipulögð.
  □ 9. Réttindi og skyldur félagsins, sem breyta á, að því er varðar ráðningarskilmála sem leiðir af landslögum, venju og einstökum ráðningarsamningum eða ráðningarsamböndum og eru í gildi þegar skráningin fer fram, skulu, á grundvelli slíkrar skráningar, færast til Evrópufélagsins.
@@ -403,8 +404,8 @@ h2. Lög um Evrópufélög
 
  *IV. bálkur.* *Ársreikningar og samstæðureikningar.*
 ■ *61. gr.* Með fyrirvara um 62. gr. skal Evrópufélag heyra undir reglur um hlutafélög samkvæmt lögum í aðildarríkinu, þar sem Evrópufélagið er með skráða skrifstofu, að því er snertir gerð ársreikninga og, þegar við á, samstæðureikninga ásamt meðfylgjandi ársskýrslu svo og endurskoðun og birtingu þessara reikninga.
-■ *62. gr.* 1. Um gerð ársreikninga, og eftir atvikum samstæðureikninga ásamt meðfylgjandi ársskýrslu, svo og um endurskoðun og birtingu þessara reikninga skal Evrópufélag, sem er lána- eða fjármálastofnun, fara eftir reglum sem mælt hefur verið fyrir um í þeim landslögum aðildarríkisins, þar sem Evrópufélagið er með skráða skrifstofu, sem sett eru til framkvæmdar tilskipun Evrópuþingsins og ráðsins 2000/12/EB frá 20. mars 2000 um stofnun og rekstur lánastofnana (Stjtíð. EB L 126, 26.5.2000, bls. 1.).
- □ 2. Um gerð ársreikninga, og eftir atvikum, samstæðureikninga ásamt meðfylgjandi ársskýrslu svo og um endurskoðun og birtingu þessara reikninga skal Evrópufélag, sem er vátryggingafélag, fara eftir reglum sem mælt hefur verið fyrir um í þeim landslögum aðildarríkisins, þar sem Evrópufélagið er með skráða skrifstofu, sem sett eru til framkvæmdar tilskipun ráðsins 91/674/EBE frá 19. desember 1991 um ársreikninga og samstæðureikninga vátryggingafélaga (Stjtíð. EB L 374, 31.12.1991, bls. 7.).
+■ *62. gr.* 1. Um gerð ársreikninga, og eftir atvikum samstæðureikninga ásamt meðfylgjandi ársskýrslu, svo og um endurskoðun og birtingu þessara reikninga skal Evrópufélag, sem er lána- eða fjármálastofnun, fara eftir reglum sem mælt hefur verið fyrir um í þeim landslögum aðildarríkisins, þar sem Evrópufélagið er með skráða skrifstofu, sem sett eru til framkvæmdar tilskipun Evrópuþingsins og ráðsins 2000/12/EB frá 20. mars 2000 um stofnun og rekstur lánastofnana ([^9^]).
+ □ 2. Um gerð ársreikninga, og eftir atvikum, samstæðureikninga ásamt meðfylgjandi ársskýrslu svo og um endurskoðun og birtingu þessara reikninga skal Evrópufélag, sem er vátryggingafélag, fara eftir reglum sem mælt hefur verið fyrir um í þeim landslögum aðildarríkisins, þar sem Evrópufélagið er með skráða skrifstofu, sem sett eru til framkvæmdar tilskipun ráðsins 91/674/EBE frá 19. desember 1991 um ársreikninga og samstæðureikninga vátryggingafélaga ([^10^]).
 
  *V. bálkur.* *Félagsslit, skiptameðferð, gjaldþrot og greiðslustöðvun.*
 ■ *63. gr.* Evrópufélag skal, að því er varðar félagsslit, skiptameðferð, gjaldþrot, greiðslustöðvun og ámóta málsmeðferð, heyra undir lagaákvæði sem gilda mundu um hlutafélag stofnað í samræmi við lög aðildarríkisins þar sem það er með skráða skrifstofu, þ.m.t. ákvæði um ákvarðanir hluthafafunda.
@@ -424,7 +425,7 @@ h2. Lög um Evrópufélög
 
  *VI. bálkur.* *Viðbótarákvæði og bráðabirgðaákvæði.*
 ■ *67. gr.* 1. Meðan þriðji áfangi í þróun Efnahags- og myntbandalags Evrópu (EMU) á ekki við um eitthvert aðildarríki getur það aðildarríki beitt sömu ákvæðum gagnvart Evrópufélögum með skráðar skrifstofur á yfirráðasvæði þess og gilda um hlutafélög sem það hefur lögsögu yfir að því er varðar gjaldmiðilinn sem hlutafé þeirra er gefið upp í. Hvernig sem atvikast vill getur Evrópufélag auk þess gefið upp hlutafé sitt í evrum. Þegar svo ber undir skal umreikningsgengi innlends gjaldmiðils gagnvart evru vera það sem það var síðasta dag næsta mánaðar fyrir stofnun Evrópufélagsins.
- □ 2. Meðan þriðji áfangi í þróun Efnahags- og myntbandalags Evrópu (EMU) á ekki við um aðildarríkið þar sem Evrópufélag er með skráða skrifstofu er Evrópufélaginu hins vegar heimilt að semja og birta ársreikninga sína og, þegar við á, samstæðureikninga í evrum. Aðildarríkið getur krafist þess að Evrópufélag semji og birti ársreikninga sína og, þegar við á, samstæðureikninga í innlendum gjaldmiðli og á sömu forsendum og við eiga um hlutafélög sem heyra undir lögsögu þess aðildarríkis. Engu að síður skal Evrópufélagið einnig eiga þess kost að birta ársreikninga sína og, þegar við á, samstæðureikninga í evrum í samræmi við tilskipun ráðsins 90/604/EBE frá 8. nóvember 1990 um breytingu á tilskipun 78/660/EBE um ársreikninga og tilskipun 83/ 349/EBE um samstæðureikninga að því er varðar undanþágur fyrir lítil og meðalstór félög og birtingu reikninga í ekum (ECU) (Stjtíð. EB L 317, 16.11.1990, bls. 57.).
+ □ 2. Meðan þriðji áfangi í þróun Efnahags- og myntbandalags Evrópu (EMU) á ekki við um aðildarríkið þar sem Evrópufélag er með skráða skrifstofu er Evrópufélaginu hins vegar heimilt að semja og birta ársreikninga sína og, þegar við á, samstæðureikninga í evrum. Aðildarríkið getur krafist þess að Evrópufélag semji og birti ársreikninga sína og, þegar við á, samstæðureikninga í innlendum gjaldmiðli og á sömu forsendum og við eiga um hlutafélög sem heyra undir lögsögu þess aðildarríkis. Engu að síður skal Evrópufélagið einnig eiga þess kost að birta ársreikninga sína og, þegar við á, samstæðureikninga í evrum í samræmi við tilskipun ráðsins 90/604/EBE frá 8. nóvember 1990 um breytingu á tilskipun 78/660/EBE um ársreikninga og tilskipun 83/ 349/EBE um samstæðureikninga að því er varðar undanþágur fyrir lítil og meðalstór félög og birtingu reikninga í ekum (ECU) ([^11^]).
 
  *VII. bálkur.* *Lokaákvæði.*
 ■ *68. gr.* 1. Aðildarríkin skulu gera allar viðeigandi ráðstafanir til að tryggja góða framkvæmd þessarar reglugerðar.
@@ -436,14 +437,7 @@ h2. Lög um Evrópufélög
     d) hvort aðildarríki eigi að leyfa, með lögum um framkvæmd heimilda sem reglugerð þessi veitir aðildarríkjunum eða með lögum sem samþykkt hafa verið til að tryggja góða framkvæmd þessarar reglugerðar með tilliti til Evrópufélagsins, að sett verði ákvæði í samþykktir Evrópufélags sem víkja frá eða eru til fyllingar þessum lögum jafnvel þótt slík ákvæði væru ekki leyfð í samþykktum hlutafélags sem er með skráða skrifstofu í aðildarríkinu.
 ■ *70. gr.* Reglugerð þessi öðlast gildi 8. október 2004.
  □ Reglugerð þessi er bindandi í heild sinni og gildir í öllum aðildarríkjunum án frekari lögfestingar.
-    Gjört í Lúxemborg 8. október 2001.
-    
-
-|_Fyrir hönd ráðsins,_|
-|L. ONKELINX|
-|_forseti._|
-
-_I. VIÐAUKI_
+ _I. VIÐAUKI_
  *HLUTAFÉLÖG SEM UM GETUR Í 1. MGR. 2. GR.*
  BELGÍA:
  la société anonyme//de naamloze vennootschap
@@ -527,5 +521,16 @@ _I. VIÐAUKI_
  public companies limited by guarantee having a share capital,
  private companies limited by shares,
  private companies limited by guarantee having a share capital
+    _[^(1)^]Stjtíð. EB C 263, 16.10.1989, bls. 41, og Stjtíð. EB C 176, 8.7.1991, bls. 1.
+ [^(2)^]Álit frá 4. september 2001 (hefur enn ekki verið birt í Stjórnartíðindum EB).
+ [^(3)^]Stjtíð. EB C 124, 21.5.1990, bls. 34.
+ [^(4)^]Stjtíð. EB L 294, 10.11.2001, bls. 22.
+ [^(5)^]Stjtíð. EB L 395, 30.12.1989, bls. 40. Tilskipuninni var síðast breytt með aðildarlögunum frá 1994.
+ [^(6)^]Stjtíð. EB L 65, 14.3.1968, bls. 8. Tilskipuninni var síðast breytt með aðildarlögunum frá 1994.
+ [^(7)^]Stjtíð. EB L 295, 20.10.1978, bls. 36. Tilskipuninni var síðast breytt með aðildarlögunum frá 1994.
+ [^(8)^]Önnur tilskipun ráðsins 77/91/EBE frá 13. desember 1976 um samræmingu verndarráðstafana, sem ætlað er að vera jafngildar í bandalaginu og aðildarríki krefjast þegar almenningshlutafélög eru stofnuð og um tilskilið hlutafé og heimilaðar breytingar á hlutafé þeirra í skilningi annarrar málsgreinar 58. gr. sáttmálans til að vernda hagsmuni félagsmanna og annarra (Stjtíð. EB L 26, 31.1.1977, bls. 1). Tilskipuninni var síðast breytt með aðildarlögunum frá 1994.
+ [^(9)^]Stjtíð. EB L 126, 26.5.2000, bls. 1.
+ [^(10)^]Stjtíð. EB L 374, 31.12.1991, bls. 7.
+ [^(11)^]Stjtíð. EB L 317, 16.11.1990, bls. 57._
 
 

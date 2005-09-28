@@ -6,7 +6,8 @@ h2. Lög um meðferð einkamála
 
 <hr />
 
-*Tóku gildi 1. júlí 1992.* _Breytt með_ "l. 133/1993":/altext/stjt/1993.133.html (tóku gildi 1. jan. 1994; _EES-samningurinn:_ V. viðauki tilskipun 64/221/EBE, VII. viðauki tilskipun 67/43/EBE, V. viðauki tilskipun 68/360/EBE og 72/194/EBE, VIII. viðauki tilskipun 73/148/EBE, 75/34/EBE og 75/35/EBE, VII. viðauki tilskipun 77/249/EBE og 89/48/EBE, VIII. viðauki tilskipun 90/364/EBE, 90/365/EBE og 90/366/EBE), "l. 38/1994":/altext/stjt/1994.038.html (tóku gildi 1. júlí 1994), "l. 15/1998":1998015.html (tóku gildi 1. júlí 1998 nema 38. gr. sem tók gildi 3. apríl 1998), "l. 36/1999":/altext/stjt/1999.036.html (tóku gildi 1. maí 1999), "l. 97/1999":/altext/stjt/1999.097.html (tóku gildi 27. des. 1999; _EES-samningurinn_) og "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003).
+
+ *Tóku gildi 1. júlí 1992.* _Breytt með_ "l. 133/1993":/altext/stjt/1993.133.html (tóku gildi 1. jan. 1994; _EES-samningurinn:_ V. viðauki tilskipun 64/221/EBE, VII. viðauki tilskipun 67/43/EBE, V. viðauki tilskipun 68/360/EBE og 72/194/EBE, VIII. viðauki tilskipun 73/148/EBE, 75/34/EBE og 75/35/EBE, VII. viðauki tilskipun 77/249/EBE og 89/48/EBE, VIII. viðauki tilskipun 90/364/EBE, 90/365/EBE og 90/366/EBE), "l. 38/1994":/altext/stjt/1994.038.html (tóku gildi 1. júlí 1994), "l. 15/1998":1998015.html (tóku gildi 1. júlí 1998 nema 38. gr. sem tók gildi 3. apríl 1998), "l. 36/1999":/altext/stjt/1999.036.html (tóku gildi 1. maí 1999), "l. 97/1999":/altext/stjt/1999.097.html (tóku gildi 27. des. 1999; _EES-samningurinn_), "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003) og "l. 7/2005":/altext/stjt/2005.007.html (tóku gildi 24. febr. 2005).
 
 
  *1. þáttur.* *Almennar reglur um meðferð einkamála.*
@@ -523,16 +524,15 @@ h2. Lög um meðferð einkamála
  *5. þáttur.* *Gjafsókn, málskostnaður og réttarfarssektir.*
  *XX. kafli.* *Gjafsókn.*
  ■ *125. gr.* 1. Í þessum kafla er orðið gjafsókn notað bæði um gjafsókn og gjafvörn.
- □ 2. Dómsmálaráðherra skal skipa nefnd þriggja lögfræðinga, gjafsóknarnefnd, til fjögurra ára í senn til að veita umsögn um umsóknir um gjafsókn. Einn nefndarmanna skal skipaður eftir tilnefningu Lögmannafélags Íslands en annar eftir tilnefningu Dómarafélags Íslands. [Dómsmálaráðherra getur sett nánari reglur í reglugerð[^1)^] um starfshætti gjafsóknarnefndar, þar á meðal um viðmiðunarmörk í mati hennar á skilyrðum fyrir gjafsókn skv. a-lið 1. mgr. 126. gr.][^2)^]
+ □ 2. Dómsmálaráðherra skal skipa nefnd þriggja lögfræðinga, gjafsóknarnefnd, til fjögurra ára í senn til að veita umsögn um umsóknir um gjafsókn. Einn nefndarmanna skal skipaður eftir tilnefningu Lögmannafélags Íslands en annar eftir tilnefningu Dómarafélags Íslands. [Dómsmálaráðherra getur kveðið nánar á um starfshætti gjafsóknarnefndar í reglugerð.[^1)^]][^2)^]
  □ 3. Umsókn um gjafsókn skal vera skrifleg og beint til dómsmálaráðherra. Í henni skal greint skýrlega frá máli sem hún varðar og rökstutt að skilyrðum fyrir gjafsókn sé fullnægt. Umsókn skulu fylgja gögn eftir þörfum.
  □ 4. Dómsmálaráðherra veitir gjafsókn eftir umsókn aðila. Hún verður því aðeins veitt að gjafsóknarnefnd mæli með því.
-    _[^1)^]_"Rg. 69/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/069-2000. [^2)^]"L. 38/1994, 4. gr.":/altext/stjt/1994.038.html
- ■ *126. gr.* 1. Gjafsókn verður aðeins veitt ef málstaður umsækjanda gefur nægilegt tilefni til málshöfðunar eða málsvarnar og öðru hvoru eftirfarandi skilyrða er að auki fullnægt:
-    a. að efnahag umsækjanda sé þannig háttað að kostnaður af gæslu hagsmuna hans í máli yrði honum fyrirsjáanlega ofviða, en við mat á efnahag hans má eftir því sem á við einnig taka tillit til eigna og tekna maka hans eða sambýlismanns eða eigna og tekna foreldra hans ef hann er yngri en 18 ára,
-    b. að úrlausn máls hafi verulega almenna þýðingu eða varði verulega miklu fyrir atvinnu, félagslega stöðu eða aðra einkahagi umsækjanda.
+    _[^1)^]_"Rg. 69/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/069-2000. [^2)^]"L. 7/2005, 1. gr.":/altext/stjt/2005.007.html
+ ■ *126. gr.* 1. [Einstaklingi má veita gjafsókn ef fjárhag hans er þannig háttað að kostnaður af gæslu hagsmuna hans í máli yrði honum fyrirsjáanlega ofviða enda sé nægilegt tilefni til málshöfðunar eða málsvarnar og eðlilegt megi teljast að öðru leyti að gjafsókn sé kostuð af almannafé. Dómsmálaráðherra getur með reglugerð kveðið nánar á um skilyrði gjafsóknar, þar með talið hvenær nægilegt tilefni sé til veitingar gjafsóknar, þau atriði sem líta ber til við mat á fjárhagsstöðu umsækjanda og heimildir til takmörkunar á gjafsókn skv. 1. mgr. 127. gr.][^1)^]
  □ 2. Gjafsókn verður enn fremur veitt eftir því sem fyrir er mælt í öðrum lögum.
  □ 3. Nú er gjafsókn veitt, og skal þá tekið fram í gjafsóknarbréfi til hvaða máls hún taki, hvort hún sé veitt til rekstrar máls fyrir héraðsdómi eða æðra dómi og hvort hún sé takmörkuð með tilteknum hætti.
-■ *127. gr.* 1. Að því leyti sem hér er ekki mælt á annan veg skuldbindur gjafsókn ríkið til að greiða þann málskostnað sem gjafsóknarhafi hefur sjálfur af máli. Gjafsókn má þó takmarka þannig að hún nái aðeins til tiltekinna þátta málskostnaðar eða geti hæst numið tiltekinni fjárhæð.
+    _[^1)^]_"L. 7/2005, 2. gr.":/altext/stjt/2005.007.html
+ ■ *127. gr.* 1. Að því leyti sem hér er ekki mælt á annan veg skuldbindur gjafsókn ríkið til að greiða þann málskostnað sem gjafsóknarhafi hefur sjálfur af máli. Gjafsókn má þó takmarka þannig að hún nái aðeins til tiltekinna þátta málskostnaðar eða geti hæst numið tiltekinni fjárhæð.
  □ 2. Ef þóknun umboðsmanns gjafsóknarhafa fyrir flutning máls er ekki undanskilin gjafsókn skal hún ákveðin í dómi. Takist sátt í máli ákveður dómari þóknunina í úrskurði.
  □ 3. Gjafsóknarhafi er undanþeginn öllum greiðslum í ríkissjóð vegna þess máls sem gjafsókn tekur til, þar á meðal greiðslum fyrir opinber vottorð og önnur gögn sem verða lögð fram í máli.
  □ 4. Ef annað er ekki tekið fram í gjafsóknarbréfi nær gjafsókn einnig til kostnaðar af fullnustu réttinda gjafsóknarhafa með aðför og nauðungarsölu.
@@ -835,6 +835,8 @@ h2. Lög um meðferð einkamála
     _[^1)^]"L. 38/1994, 23. gr.":/altext/stjt/1994.038.html_
  ■ *[181. gr.* ...][^1)^]
     _[^1)^]_"L. 38/1994, 24. gr.":/altext/stjt/1994.038.html
+ ■ *[182. gr.* Nú hefur aðila verið veitt gjafsókn fyrir héraðsdómi á grundvelli b-liðar 1. mgr. "126. gr. laga nr. 91/1991":1991091.html#g126 fyrir gildistöku laga þessara og skal þá heimilt að veita honum gjafsókn vegna sama máls fyrir Hæstarétti, gangi það þangað.][^1)^]
+    _[^1)^]"L. 7/2005, 3. gr.":/altext/stjt/2005.007.html_
 
 
 
