@@ -7,12 +7,13 @@ h2. Lög um erfðafjárskatt
 <hr />
 
 
- *Tóku gildi 1. apríl 2004.* _Breytt með_ "l. 15/2004":/altext/stjt/2004.015.html (tóku gildi 20. apríl 2004) og "l. 129/2004":/altext/stjt/2004.129.html (taka gildi 31. des. 2005).
+ *Tóku gildi 1. apríl 2004.* _Breytt með_ "l. 15/2004":/altext/stjt/2004.015.html (tóku gildi 20. apríl 2004) og "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005).
 
  ■ *1. gr.* Af öllum fjárverðmætum er við skipti á dánarbúi manns hverfa til erfingja hans skal greiða skatt í ríkissjóð eftir lögum þessum, sbr. þó 18. gr.
  □ Greiða skal skatt samkvæmt lögum þessum af gjafaarfi, dánargjöfum, fyrirframgreiddum arfi og gjöfum þar sem gefandi hefur áskilið sér afnot eða tekjur af hinu gefna til dauðadags eða um tiltekinn tíma sem ekki er liðinn við fráfall hans.
- □ Ekki skal greiða erfðafjárskatt af lífeyrissparnaði sem fellur til erfingja samkvæmt lögum um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða, enda fari um skattlagningu samkvæmt lögum um tekjuskatt og eignarskatt.
-■ *2. gr.* Erfðafjárskattur er 5%.
+ □ Ekki skal greiða erfðafjárskatt af lífeyrissparnaði sem fellur til erfingja samkvæmt lögum um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða, enda fari um skattlagningu samkvæmt lögum um tekjuskatt ...[^1)^]
+    _[^1)^]_"L. 129/2004, 148. gr.":/altext/stjt/2004.129.html
+ ■ *2. gr.* Erfðafjárskattur er 5%.
  □ Þrátt fyrir ákvæði 1. mgr. skal engan erfðafjárskatt greiða af fyrstu 1.000.000 kr. í skattstofni dánarbús, sbr. 4. og 5. gr., og skulu erfingjar njóta skattfrelsis í hlutfalli við arf sinn. Ákvæði þetta gildir ekki um fyrirframgreiðslu arfs.
  □ Þrátt fyrir ákvæði 1. og 2. mgr. greiða engan erfðafjárskatt maki, einstaklingur í staðfestri samvist með arfleifanda samkvæmt lögum um staðfesta samvist og sambýlismaður sem stofnað hefur til óvígðrar sambúðar við einstakling af gagnstæðu kyni og tekur arf eftir hann samkvæmt erfðaskrá þar sem stöðu hans sem sambýlismanns arfleifanda er ótvírætt getið.
  □ Nú byrja búskipti eftir lát beggja hjóna og skal þá leggja erfðafjárskatt á arf erfingjanna eins og um eitt bú sé að ræða án tillits til þess hvort erfingjar beggja hjónanna eru hinir sömu eða ekki.
@@ -65,11 +66,13 @@ h2. Lög um erfðafjárskatt
  □ Hver sá sem af ásetningi eða stórkostlegu hirðuleysi lætur sýslumanni eða skattyfirvöldum í té rangar eða villandi upplýsingar eða gögn varðandi erfðafjárskýrslu annarra aðila eða aðstoðar við ranga eða villandi skýrslugjöf til sýslumanns eða skattyfirvalda skal sæta þeirri refsingu er segir í 1. mgr. þessarar greinar.
  □ Hafi erfingi af ásetningi eða stórkostlegu hirðuleysi vanrækt að gegna skyldu sinni skv. 12. gr. skal hann sæta sektum eða fangelsi allt að tveimur árum.
  □ Tilraun til brota og hlutdeild í brotum á lögum þessum er refsiverð eftir því sem segir í III. kafla almennra hegningarlaga og varðar fésektum allt að hámarki því sem ákveðið er í öðrum ákvæðum þessarar greinar.
- □ Um málsmeðferð samkvæmt þessari grein gilda meginreglur "110. gr. laga nr. 90/2003":2003090.html#g110, um tekjuskatt og eignarskatt.
+ □ Um málsmeðferð samkvæmt þessari grein gilda meginreglur "110. gr. laga nr. 90/2003":2003090.html#g110, um tekjuskatt ...[^1)^]
+    _[^1)^]"L. 129/2004, 148. gr.":/altext/stjt/2004.129.html_
  ■ *17. gr.* Nú er eigi fyrir hendi samningur við annað ríki um að komast hjá tvísköttun á fjárverðmæti sem lög þessi taka til og greiddur hefur verið erfðafjárskattur af þeim verðmætum til opinberra aðila í öðru ríki, þá er skattstjóra heimilt samkvæmt umsókn erfingja að lækka erfðafjárskatt hans hér á landi með hliðsjón af þessum erfðafjárskattsgreiðslum hans. Lækkun skal aldrei nema hærri fjárhæð en þeirri sem erfingja væri gert skylt að greiða hér á landi af fjárverðmætum.
 ■ *18. gr.* Ríkisstjórninni er heimilt að gera samninga við stjórnir annarra ríkja um gagnkvæmar ívilnanir á erfðafjárskatti erlendra og íslenskra skattaðila sem eftir gildandi löggjöf ríkjanna eiga að greiða skatt af sömu eignum bæði á Íslandi og erlendis.
  □ Enn fremur er ríkisstjórninni heimilt að gera samninga um gagnkvæm upplýsingaskipti og um innheimtu erfðafjárskatts við önnur ríki.
-■ *19. gr.* Ákvæði "laga nr. 90/2003":2003090.html, um tekjuskatt og eignarskatt, og reglugerðir settar samkvæmt þeim skulu gilda eftir því sem við á við beitingu laga þessara, þar á meðal ef vafi leikur á hvernig meta skuli verðmæti eigna.
+■ *19. gr.* Ákvæði "laga nr. 90/2003":2003090.html, um tekjuskatt ...,[^1)^] og reglugerðir settar samkvæmt þeim skulu gilda eftir því sem við á við beitingu laga þessara, þar á meðal ef vafi leikur á hvernig meta skuli verðmæti eigna.
+    _[^1)^]"L. 129/2004, 148. gr.":/altext/stjt/2004.129.html_
  ■ *20. gr.* Fjármálaráðherra getur með reglugerð kveðið nánar á um framkvæmd laga þessara.
 ■ *21. gr.* Lög þessi öðlast gildi 1. apríl 2004 og taka til skipta á dánarbúum þeirra sem andast þann dag eða síðar. ... Lögin taka einnig til búskipta þeirra er hafa heimild til setu í óskiptu búi fari þau fram eftir gildistöku laganna.
  ■ *[Ákvæði til bráðabirgða.* Ákvæði "laga nr. 83/1984":1984083.html, um erfðafjárskatt, með síðari breytingum, skulu gilda um skipti á dánarbúum þeirra sem önduðust fyrir 1. apríl 2004, sbr. þó ákvæði 3. málsl. 21. gr. laga þessara.][^1)2)^]

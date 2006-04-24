@@ -146,16 +146,18 @@ h2. Lög um miðlun vátrygginga
  □ Gefi ársreikningur vátryggingamiðlara Fjármálaeftirlitinu vísbendingu um að vátryggingamiðlari eigi ekki fyrir fjárhagslegum skuldbindingum getur Fjármálaeftirlitið gert vátryggingamiðlara að skila áætlun skv. 1. mgr.
  □ Meðan áætlun skv. 1. mgr. er í gildi skal Fjármálaeftirlitið ekki framsenda tilkynningu vegna ráðagerða vátryggingamiðlara um starfsemi erlendis, sbr. 56. gr.
 ■ *20. gr.* _Starfsábyrgðartrygging._
- □ Vátryggingamiðlurum er skylt að hafa í gildi ábyrgðartryggingu vegna fjárhagstjóns sem leitt getur af gáleysi í störfum þeirra eða starfsmanna þeirra. Slík trygging getur verið vátrygging tekin hjá vátryggingafélagi sem hefur starfsleyfi hér á landi eða önnur trygging jafngild að mati Fjármálaeftirlitsins. Nánari ákvæði um gildissvið vátryggingarinnar, þ.m.t. vátryggingarfjárhæðir, skal setja í reglugerð.
+ □ Vátryggingamiðlurum er skylt að hafa í gildi ábyrgðartryggingu vegna fjárhagstjóns sem leitt getur af gáleysi í störfum þeirra eða starfsmanna þeirra. Slík trygging getur verið vátrygging tekin hjá vátryggingafélagi sem hefur starfsleyfi hér á landi eða önnur trygging jafngild að mati Fjármálaeftirlitsins. Nánari ákvæði um gildissvið vátryggingarinnar, þ.m.t. vátryggingarfjárhæðir, skal setja í reglugerð.[^1)^]
  □ Vátryggingamiðlari skal senda Fjármálaeftirlitinu staðfestingu á endurnýjun starfsábyrgðartryggingar.
-■ *21. gr.* _Viðtaka fjármuna._
+    _[^1)^]_"Rg. 592/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/592-2005.
+ ■ *21. gr.* _Viðtaka fjármuna._
  □ Vátryggingamiðlari má ekki taka við iðgjöldum, vátryggingarbótum eða öðrum fjármunum fyrir hönd vátryggingafélags eða viðskiptamanns nema samkvæmt skriflegri heimild.
 ■ *22. gr.* _Vörslufjárreikningar._
  □ Vátryggingamiðlara er skylt að halda fjármunum sem hann tekur við í þágu annarra aðgreindum frá eigin fé. Skulu slíkir fjármunir varðveittir á sérstökum vörslufjárreikningi. Vextir, sem á vörslufé kunna að falla, renna til eiganda þess. Vátryggingamiðlari er ekki eigandi innstæðu á vörslufjárreikningi samkvæmt þessari grein og innstæðan er ekki hæft andlag aðfarargerða hjá honum og stendur utan skuldaraðar við skipti á búi hans.
- □ Viðskiptaráðherra setur nánari reglur um vörslufjárreikninga.
+ □ Viðskiptaráðherra setur nánari reglur[^1)^] um vörslufjárreikninga.
+    _[^1)^]_"Rg. 590/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2005.
 
  *V. kafli.* *Starfshættir vátryggingamiðlara.*
-■ *23. gr.* _Yfirsýn yfir starfsemina og sérstakar ráðstafanir._
+ ■ *23. gr.* _Yfirsýn yfir starfsemina og sérstakar ráðstafanir._
  □ Vátryggingamiðlari skal:
     1. gæta þess að framkvæmdastjóri vátryggingamiðlunar hafi yfirsýn yfir rekstur miðlunarinnar, þar á meðal fjárhagslega stöðu,
     2. gæta þess að sá starfsmaður, sem hefur umsjón með daglegri starfsemi í tengslum við vátryggingamiðlun skv. 1. tölul. 3. gr., hafi yfirsýn yfir rekstur miðlunarinnar,
@@ -250,10 +252,11 @@ h2. Lög um miðlun vátrygginga
  □ Vátryggingaumboðsmaður má ekki taka við iðgjöldum, vátryggingarbótum eða öðrum fjármunum fyrir hönd vátryggingafélags eða viðskiptamanns nema samkvæmt skriflegri heimild.
 ■ *44. gr.* _Vörslufjárreikningur._
  □ Vátryggingaumboðsmanni er skylt að halda fjármunum sem hann tekur við í þágu annarra aðgreindum frá eigin fé. Skulu slíkir fjármunir varðveittir á sérstökum vörslufjárreikningi. Vextir, sem á vörslufé kunna að falla, renna til eiganda þess. Vátryggingaumboðsmaður er ekki eigandi innstæðu á vörslufjárreikningi samkvæmt þessari grein og innstæðan er ekki hæft andlag aðfarargerða hjá honum og stendur utan skuldaraðar við skipti á búi hans.
- □ Viðskiptaráðherra setur nánari reglur um vörslufjárreikninga.
+ □ Viðskiptaráðherra setur nánari reglur[^1)^] um vörslufjárreikninga.
+    _[^1)^]_"Rg. 590/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2005.
 
  *X. kafli.* *Starfshættir vátryggingaumboðmanns.*
-■ *45. gr.* _Yfirsýn yfir starfsemina og sérstakar ráðstafanir._
+ ■ *45. gr.* _Yfirsýn yfir starfsemina og sérstakar ráðstafanir._
  □ Vátryggingaumboðsmaður skal:
     1. gæta þess að framkvæmdastjóri vátryggingaumboðsmanns hafi yfirsýn yfir rekstur starfseminnar,
     2. gæta þess að sá starfsmaður, sem hefur umsjón með daglegri starfsemi í tengslum við miðlun vátrygginga, sbr. 1. mgr. 1. gr., hafi yfirsýn yfir rekstur starfseminnar,

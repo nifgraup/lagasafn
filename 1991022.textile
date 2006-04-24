@@ -7,7 +7,7 @@ h2. Lög um samvinnufélög
 <hr />
 
 
- *Tóku gildi 1. janúar 1992.* _Breytt með_ "l. 84/1993":/altext/stjt/1993.084.html (tóku gildi 27. maí 1993), "l. 144/1994":1994144.html (tóku gildi 1. jan. 1995), "l. 44/1997":/altext/stjt/1997.044.html (tóku gildi 1. sept. 1997), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 22/2001":/altext/stjt/2001.022.html (tóku gildi 16. maí 2001), "l. 23/2001":/altext/stjt/2001.023.html (tóku gildi 16. maí 2001), "l. 35/2003":/altext/stjt/2003.035.html (tóku gildi 1. júlí 2003), "l. 45/2003":/altext/stjt/2003.045.html (tóku gildi 3. apríl 2003) og "l. 129/2004":/altext/stjt/2004.129.html (taka gildi 31. des. 2005).
+ *Tóku gildi 1. janúar 1992.* _Breytt með_ "l. 84/1993":/altext/stjt/1993.084.html (tóku gildi 27. maí 1993), "l. 144/1994":1994144.html (tóku gildi 1. jan. 1995), "l. 44/1997":/altext/stjt/1997.044.html (tóku gildi 1. sept. 1997), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 22/2001":/altext/stjt/2001.022.html (tóku gildi 16. maí 2001), "l. 23/2001":/altext/stjt/2001.023.html (tóku gildi 16. maí 2001), "l. 35/2003":/altext/stjt/2003.035.html (tóku gildi 1. júlí 2003), "l. 45/2003":/altext/stjt/2003.045.html (tóku gildi 3. apríl 2003) og "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005).
 
 
  *I. kafli.* *Starfssvið samvinnufélaga.*
@@ -26,8 +26,8 @@ h2. Lög um samvinnufélög
  □ Til tryggingar fyrir fé því sem lagt er í innlánsdeild eru eignir félagsins, þar með talin eign í Tryggingarsjóði innlánsdeilda og ábyrgð félagsmanna skv. 18. gr.
  □ Óheimilt er innlánsdeild að veita lán í eigin nafni eða reka aðra fjármálastarfsemi en um getur í 1. mgr. og hún telst hvorki innláns- né lánastofnun í skilningi laga um Seðlabanka Íslands.
  □ Fjármálaeftirlitið hefur eftirlit með starfsemi innlánsdeilda samvinnufélaga samkvæmt þessari grein. Hver innlánsdeild skal senda Fjármálaeftirlitinu endurskoðaðan ársreikning eigi síðar en þremur mánuðum eftir lok reikningstímabils og sex mánaða árshlutareikning eigi síðar en tveimur mánuðum eftir lok reikningstímabils. Sex mánaða árshlutareikningur skal vera áritaður af endurskoðanda sem endurskoðaður eða kannaður. Um eftirlitið gilda að öðru leyti ákvæði laga um opinbert eftirlit með fjármálastarfsemi.
- □ Tryggingarsjóður innlánsdeilda er undanþeginn tekjuskatti og eignarskatti.][^2)^]][^3)^]
-    _[^1)^]Augl. 760/2001_. [^2)^]"L. 23/2001, 1. gr.":/altext/stjt/2001.023.html [^3)^]"L. 84/1993, 1. gr.":/altext/stjt/1993.084.html
+ □ Tryggingarsjóður innlánsdeilda er undanþeginn tekjuskatti ...[^2)^]][^3)^]][^4)^]
+    _[^1)^]Augl. 760/2001_. [^2)^]"L. 129/2004, 92. gr.":/altext/stjt/2004.129.html [^3)^]"L. 23/2001, 1. gr.":/altext/stjt/2001.023.html [^4)^]"L. 84/1993, 1. gr.":/altext/stjt/1993.084.html
  ■ *3. gr.* Félögum, sem skrásett eru eftir lögum þessum, er einum rétt og skylt að hafa í nafni sínu orðin kaupfélag (skammstafað kf.), samvinnufélag (skammstafað svf.), pöntunarfélag (skammstafað pf.) eða framleiðslusamvinnufélag (skammstafað fsf.). [Þó mega hlutafélög, sem stofnuð verða skv. XII. kafla laganna, halda orðinu kaupfélagi óstyttu í nafni sínu.][^1)^]
  □ Um heiti samvinnufélags fer að öðru leyti eftir ákvæðum firmalaga.
     _[^1)^]_"L. 22/2001, 1. gr.":/altext/stjt/2001.022.html
@@ -57,7 +57,7 @@ h2. Lög um samvinnufélög
     16. Ákvæði um ráðstöfun tekjuafgangs, sbr. VIII. kafla.
     _[^1)^]_"L. 22/2001, 10. gr.":/altext/stjt/2001.022.html
  ■ *6. gr.* Jafnskjótt og samvinnufélag er stofnað og því settar samþykktir skal kjósa því stjórn og [endurskoðendur eða skoðunarmenn].[^1)^]
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html
  ■ *7. gr.* Stjórn félagsins heldur skrá yfir félagsaðila. Skal geyma skrána á skrifstofu félagsins og er hún öllum opin.
 ■ *8. gr.* Rita skal fundargerð um það sem gerist á stofnfundi félagsins. Skal hún skráð í fundargerðabók þess og undirrituð af öllum stofnendum.
 
@@ -111,7 +111,7 @@ h2. Lög um samvinnufélög
     d. Þóknun [stjórnar, endurskoðenda og skoðunarmanna][^2)^] fyrir liðið ár.
     e. Önnur þau mál sem heyra undir aðalfund samkvæmt félagssamþykktum.
  □ Hver félagsaðili á rétt á því að fá mál tekið til meðferðar á félagsfundi ef hann gerir skriflega kröfu um það til félagsstjórnar með það miklum fyrirvara að unnt sé að taka málið á dagskrá fundarins.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 10. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 10. gr.":/altext/stjt/2001.022.html
  ■ *22. gr.* Í deildaskiptu félagi skal boðað til aðalfundar í hverri deild einu sinni á ári. Skal þar velja deildinni stjórn og félagsmönnum skal gerð grein fyrir hag félagsins og rekstri, fyrirhuguðum framkvæmdum og öðru því sem máli skiptir. Á fundi þessum skal fara fram kjör fulltrúa til að fara með umboð deildarinnar á félagsfundi (fulltrúafundi). Kjósa skal aðal- og varafulltrúa samkvæmt nánari ákvæðum í samþykktum félagsins. Framkvæmdastjóri (kaupfélagsstjóri) eða annar fulltrúi framkvæmdastjórnar og stjórnar félagsins skal jafnan sækja hinn árlega aðalfund deildarinnar með fullu málfrelsi.
  □ Stjórn deildarinnar boðar til annarra deildarfunda eftir því þörf þykir.
 ■ *23. gr.* Heimilt er félagsaðila að láta umboðsmann sækja félagsfundi fyrir sína hönd, en umboðsmaður getur þó ekki farið með nema atkvæði eins félaga auk atkvæðis þess er hann sjálfur hefur. Umboð til fundarsóknar skal vera skriflegt og ekki eldra en þriggja mánaða. Fulltrúar deilda geta ekki sent fulltrúa í sinn stað á fulltrúafund, en kjörnir varafulltrúar taka við í forföllum aðalfulltrúa.
@@ -238,15 +238,15 @@ h2. Lög um samvinnufélög
  □ Félagsstjórn er heimilt að verja smávægilegum fjárhæðum miðað við fjárhagsstöðu félagsins í sama skyni og um getur í 3. mgr.
 
  *[IX. kafli.* *Sérstakar rannsóknir.][^1)^]*
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html
  ■ *[55. gr.][^1)^]* Félagsaðili getur á aðalfundi eða á öðrum félagsfundi, þar sem málið er á dagskrá, komið fram með tillögu um að fram fari rannsókn á stofnun félags, tilgreindum atriðum varðandi starfsemi þess eða ákveðnum þáttum bókhalds eða ársreiknings. Hljóti tillagan atkvæði minnst 25% atkvæðisbærra félagsmanna eða fulltrúa deilda getur félagsmaður í síðasta lagi einum mánuði frá lokum fundarins farið þess á leit við ráðherra að hann tilnefni rannsóknarmenn. Auk þess geta eigendur að a.m.k. 25% hluta í B-deild stofnsjóðs farið þess á leit við ráðherra að hann tilnefni slíka rannsóknarmenn. Tilmælin skal taka til greina svo framarlega sem ráðherra telur nægilegar ástæður til þeirra. Ráðherra skal gefa stjórn félagsins, [endurskoðendum og skoðunarmönnum][^2)^] þess og, þegar við á, þeim sem málið varðar tækifæri til að láta í ljós álit sitt um kröfuna áður en hann tekur ákvörðun sína. Ráðherra ákveður fjölda rannsóknarmanna, en meðal þeirra skulu vera bæði [endurskoðandi][^2)^] og lögfræðingur.
  □ [Ákvæði laga um ársreikninga, hæfisskilyrði, aðstöðu, fundarsetu og upplýsingagjöf til endurskoðenda eða skoðunarmanna gilda einnig um rannsóknarmenn eftir því sem við á.][^1)^]
  □ Rannsóknarmennirnir skulu gefa skriflega skýrslu til félagsfunda. Þeir skulu fá greidda þóknun frá félaginu og skal hún ákveðin af ráðherra.
  □ Skýrsla rannsóknarmanna skal liggja frammi til sýnis fyrir félagsmenn á skrifstofu félagsins í skemmsta lagi viku fyrir félagsfund.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 10. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 10. gr.":/altext/stjt/2001.022.html
 
  *[X. kafli.][^1)^]* *Samruni samvinnufélaga.*
-    _[^1)^]"L. 144/1994, 85. gr.":1994144.html#g85_
+    _[^1)^]"L. 144/1994, 85. gr.":1994144.html_
  ■ *[56. gr.][^1)^]* Samvinnufélag getur sameinast algerlega öðru samvinnufélagi með samningi um að hið síðarnefnda taki við eignum og skuldum hins fyrrnefnda án skuldaskila samkvæmt eftirfarandi ákvæðum. Telst þá fyrrnefnda félaginu slitið og félagsaðilar þess verða félagsaðilar í hinu síðarnefnda með fullum réttindum.
  □ Samningur um sameiningu samvinnufélaga skal lagður fyrir félagsfundi (fulltrúafundi) félaganna og öðlast hann eigi gildi nema hann sé þar samþykktur með minnst [^2^]/3 hluta atkvæða, sbr. ákvæði [70. gr.][^2)^] Ákvörðunin skal að öðru leyti uppfylla frekari fyrirmæli er félagssamþykktir kunna að kveða á um.
  □ Félagsaðilar og eigendur hluta í B-deild stofnsjóðs skulu eiga aðgang að eftirfarandi upplýsingum eigi síðar en viku fyrir fundi í báðum félögunum:
@@ -255,26 +255,26 @@ h2. Lög um samvinnufélög
     3. Greinargerð um ástæður sem liggja að baki tillögu um sameiningu félaganna.
     4. Tillögu að breytingu á samþykktum þess félags, sem eftir stendur, í samræmi við samningsuppkastið, sbr. 1. tölul.
  □ Ákvörðun um samruna samvinnufélaga skal tilkynna til samvinnufélagaskrár innan viku frá því að hún er gerð. Hafi tilkynning ekki farið fram innan tveggja mánaða frá því að ákvörðunin er tekin fellur hún úr gildi.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
  ■ *[57. gr.][^1)^]* Stjórn þess félags, sem sameinað er öðru með yfirtöku þess síðarnefnda á eignum og skuldum þess fyrrnefnda, skal láta birta tvisvar sinnum í Lögbirtingablaði áskorun til lánardrottna félagsins um að lýsa kröfum sínum innan þriggja mánaða frá fyrstu birtingu áskorunar talið. Eignum félagsins skal halda aðgreindum þar til fresturinn er útrunninn og lýstum kröfum fullnægt. Ekki þarf að halda eignunum aðgreindum ef allir lánardrottnar samþykkja eða þeim er sett fullnægjandi trygging. [Rísi ágreiningur milli félags og lánardrottna, sem kröfum hafa lýst, um það hvort framboðin trygging sé nægileg geta báðir aðilar innan tveggja vikna frá kröfulýsingu lagt málið fyrir héraðsdóm á heimilisvarnarþingi félagsins.][^2)^] Sanni félag að það eigi fyrir skuldum er ráðherra heimilt að veita undanþágu frá innköllun samkvæmt framangreindu.
  □ Ef það félag, sem við eignum og skuldum tekur, verður gjaldþrota meðan það hefur aðgreindar eignir þess félags, sem sameinað er, skulu kröfur á hendur síðarnefnda félaginu, svo og kröfur eigenda stofnsjóðs njóta forgangsréttar til greiðslu af eignum félagsins í þeirri röð sem kveðið er á um í [65. gr.][^3)^]
  □ Þegar ekki er lengur skylt að halda eignum þess félags aðgreindum, sem sameinað er öðru, skal senda tilkynningu innan viku til samvinnufélagaskrár um sameiningu félaganna og slit þess félags sem sameinað var öðru. Félagsstjórnir beggja félaganna skulu undirrita tilkynninguna.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 44/1997, 6. gr.":/altext/stjt/1997.044.html [^3)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 44/1997, 6. gr.":/altext/stjt/1997.044.html [^3)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
  ■ *[58. gr.][^1)^]* Eigendur hluta í B-deild stofnsjóða samvinnufélaga, sem sameinuð eru, skulu njóta fullra réttinda hjá hinu sameinaða samvinnufélagi og skal eign þeirra skráð í hlutaskrá þess, sbr. þó 3. mgr. 40. gr.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html
  ■ *[59. gr.][^1)^]* Ef samvinnufélag á meira en [^9^]/10 hluta hlutabréfa í hlutafélagi og fer með samsvarandi hluta atkvæðanna geta stjórnir félaganna tekið ákvörðun um innlausn samvinnufélagsins á þeim hluta hlutabréfanna í hlutafélaginu, sem ekki eru í eigu samvinnufélagsins, og ákveðið að samvinnufélagið taki við öllum eignum og skuldum hlutafélagsins. Tilkynna skal samvinnufélaga- og hlutafélagaskrám um ákvörðun hér að lútandi innan viku frá því að hún er gerð og hafi tilkynningin ekki borist innan tveggja mánaða fellur hún úr gildi. Ákvæði [56. og 57. gr.][^2)^] eiga við um samruna félaganna eftir því sem við getur átt.
  □ Hluthafar í því félagi, sem sameinað er samvinnufélaginu, eiga rétt á því að hlutabréf þeirra verði innleyst innan mánaðar frá því að ákvörðun um sameiningu er tekin. Skal samvinnufélagið kaupa hlutina á því verði sem svarar til verðmætis þeirra. Náist ekki samkomulag um verðið skal það ákveðið af matsmönnum sem dómkvaddir eru af héraðsdómara á heimilisvarnarþingi hlutafélagsins. Hvor aðili um sig getur borið ákvörðun matsmanna undir dómstóla. Verður þá að höfða mál innan þriggja mánaða frá því að mat hefur farið fram.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
 
  *[XI. kafli.][^1)^]* *Samvinnusambönd.*
-    _[^1)^]"L. 144/1994, 85. gr.":1994144.html#g85_
+    _[^1)^]"L. 144/1994, 85. gr.":1994144.html_
  ■ *[60. gr.][^1)^]* Ef þrjú eða fleiri samvinnufélög með líku verksviði koma sér saman um að mynda samband samvinnufélaga sem sérstakt félag má ákveða að félagið verði einnig í formi samvinnufélags. Um stofnun þess, skrásetningu og skipulag gilda þá ákvæði laga þessara eftir því sem við getur átt.
  □ Hvert það félag, sem fullnægir ákvæðum laga þessara og samþykktum samvinnusambands, hefur rétt til inngöngu í starfandi samvinnusamband, enda starfi það á sambærilegu verksviði og þau samvinnufélög sem fyrir eru í sambandinu.
  □ Nánari ákvæði um samvinnusamband skal setja í samþykktir þess.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html
 
  *[XII. kafli.][^1)^]* *[Breyting á rekstrarformi samvinnufélaga og slit samvinnufélaga.][^2)^]*
-    _[^1)^]"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 9. gr.":/altext/stjt/2001.022.html_
+    _[^1)^]"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 9. gr.":/altext/stjt/2001.022.html_
  ■ *[61. gr.* Að tillögu félagsstjórnar getur félagsfundur með [^2^]/3 hlutum greiddra atkvæða samþykkt að breyta samvinnufélagi í hlutafélag. Boða skal til fundarins með minnst tveggja vikna fyrirvara og viku fyrir félagsfund skulu tillaga, áætlun um breytingu og fylgiskjöl liggja frammi á skrifstofu félagsins og send sérhverjum félagsmanni sem þess óskar.
  □ Þegar stjórn hefur samþykkt tillögu um breytinguna er óheimilt að veita nýjum félagsmönnum inngöngu í félagið og að greiða úr stofnsjóði til félagsmanna frá dagsetningu tillögunnar þar til hlutafélagið hefur verið skráð eða tillaga felld. Félagsfund skal halda innan mánaðar frá því að stjórn hefur tekið ákvörðun.
  □ Á fundinum skal lögð fram áætlun um breytingu samvinnufélags. Í áætluninni skal koma skýrlega fram hvort hlutafélagið skuli hafa einhver einkenni samvinnufélags að því er varðar rétt manna til inngöngu, atkvæðisrétt, arðgreiðslur og tengsl þeirra við viðskiptaþátttöku félagsmanns í félaginu, skilgreiningu á tilgangi og viðskiptaþátttöku í félaginu, rétt sem fylgi búsetu á félagssvæði eða öðrum skilgreiningum, réttindi við slit o.fl. Í áætluninni skal ávallt fjallað um neðangreind atriði:
@@ -332,42 +332,42 @@ h2. Lög um samvinnufélög
  □ Í auglýsingu skv. 1. mgr. skal skilanefnd boða til fundar með lánardrottnum félags og félagsaðilum til þess að fjalla um kröfur á hendur félaginu og skal sá fundur haldinn innan mánaðar frá lokum kröfulýsingarfrests.
  □ Löggilding skilanefndar og innköllun krafna breyta ekki rétti lánardrottna til að leita fullnustu krafna sinna samkvæmt almennum reglum.
  □ Um kröfur á hendur félaginu og gagnkvæma samninga þess skulu gilda ákvæði gjaldþrotalaga eftir því sem við á.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html
  ■ *[64. gr.][^1)^]* Þegar kröfulýsingarfrestur er á enda skal skilanefnd gera skrá um þær kröfur sem henni hafa borist. Skal hún láta í ljós álit sitt á því hvort eða að hvað miklu leyti hún telji að viðurkenna skuli hverja kröfu. Telji skilanefnd ekki unnt að viðurkenna kröfu, að nokkru leyti eða öllu eins og henni hefur verið lýst, skal hún tilkynna hlutaðeigandi kröfuhafa um það á sannanlegan hátt og boða hann sérstaklega til þess fundar þar sem fjallað verður um lýstar kröfur.
  □ Komi ekki fram andmæli gegn afstöðu skilanefndar til viðurkenningar á lýstum kröfum á fundi, sem haldinn er til umfjöllunar um þær, skal álit hennar teljast endanlega samþykkt af öllum hlutaðeigandi.
  □ Andmæli lánardrottinn afstöðu skilanefndar til viðurkenningar kröfu sinnar eða sæti krafa andmælum af hendi annars lánardrottins eða félagsmanns og ekki er á fundinum leystur ágreiningur þeirra skal skilanefnd þegar í stað vísa honum til úrlausnar héraðsdómara á heimilisvarnarþingi félagsins sem kveður upp úrskurð um hann svo fljótt sem verða má. Um málskot gilda almennar reglur.
  □ Berist skilanefnd krafa eftir lok kröfulýsingarfrests skulu um hana gilda ákvæði gjaldþrotalaga eftir því sem við á.
  □ Telji skilanefnd orka tvímælis að eignir félagsins hrökkvi fyrir skuldum þess að loknum kröfulýsingarfresti skal hún án tafar afhenda bú þess til gjaldþrotaskipta.
  □ Sé bú samvinnufélags tekið til gjaldþrotaskipta með þeim hætti er segir í 5. mgr. skal við búsmeðferð telja frestdag þann dag sem félagsfundur hefur ákveðið félagsslit skv. 1. tölul. [62. gr. a][^2)^] eða þann dag sem félaginu skyldi slíta samkvæmt ákvæðum félagssamþykkta skv. 5. tölul. [62. gr. a],[^2)^] en úrskurðardag eða upphafsdag skipta þann dag sem skilanefnd hefur hlotið löggildingu [samvinnufélagaskrár].[^3)^]
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html [^3)^]"L. 44/1997, 7. gr.":/altext/stjt/1997.044.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html [^3)^]"L. 44/1997, 7. gr.":/altext/stjt/1997.044.html
  ■ *[65. gr.][^1)^]* Þegar að loknum fundi skv. [64. gr.][^2)^] og þegar nægilegum eignum félagsins hefur verið komið í verð skal skilanefnd greiða viðurkenndar kröfur á hendur félaginu. Skal hún taka frá fé til greiðslu umdeildra krafna.
  □ Skilanefnd skal eftir þörfum boða til félagsfunda um tilhögun á slitum félagsins.
  □ Þegar lokið er greiðslu krafna og fé hefur verið sérgreint til greiðslu umdeildra krafna skv. 1. mgr. og þegar fram er komin afstaða félagsaðila til þess að hverju leyti eignum félagsins skuli komið í verð skal skilanefndin gera frumvarp til úthlutunargerðar til eigenda stofnsjóðs og lokareikninga félagsins. Eigendur hluta í B-deild stofnsjóðs skulu hafa forgangsrétt til greiðslu fram yfir eigendur A-deildar þar til nafnverð hluta í B-deild er að fullu greitt. Ákveða má í samþykktum félags að auka þennan forgangsrétt. Í samþykktunum má einnig ákveða að fé í óskiptum stofnsjóði eða í A-deild skuli renna til annarra en félagsaðila við félagsslit.
  □ Skilanefnd skal boða til félagsfundar (fulltrúafundar) til umfjöllunar um lokareikninga og frumvarp til úthlutunargerðar. Sé frumvarpi ekki andmælt eða athugasemdir gerðar við reikninga skal skilanefnd greiða félagsaðilum eða öðrum og eigendum B-deildar stofnsjóðs eða afsala þeim eignum í samræmi við frumvarpið.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
  ■ *[66. gr.][^1)^]* Hafi skilanefnd ekki lokið störfum innan eins árs frá löggildingu skal hún gera [samvinnufélagaskrá][^2)^] skriflega grein fyrir ástæðum þess og síðan tvívegis á ári hverju þar til hún lýkur störfum.
  □ Rísi ágreiningur við meðferð skilanefndar, sem við gjaldþrotameðferð ætti undir dómsvald héraðsdómara, skal skilanefnd tafarlaust vísa ágreiningsefninu til úrlausnar héraðsdómara á heimilisvarnarþingi félagsins er kveður upp úrskurð um ágreininginn. Um málskot slíkra úrskurða gilda almennar reglur.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 44/1997, 7. gr.":/altext/stjt/1997.044.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 44/1997, 7. gr.":/altext/stjt/1997.044.html
  ■ *[67. gr.][^1)^]* Ef lánardrottinn, félagsaðili, eigandi hlutar í B-deild stofnsjóðs eða aðrir vitja ekki fjár, sem í hlut þeirra koma við félagsslitin, eða ef ágreiningur um réttmæti kröfu skv. 3. mgr. [64. gr.][^2)^] er óleystur við úthlutun skilanefndar skal skilanefnd leggja viðkomandi fjárhæð á geymslureikning við viðskiptabanka. Sé fjárins ekki vitjað innan tíu ára, eftir atvikum frá lyktum ágreinings um kröfu lánardrottins að telja, skal það renna til ríkissjóðs.
  □ Þegar skilanefnd hefur lokið úthlutun eða lagt fé á geymslureikninga skv. 1. mgr. skal hún tilkynna samvinnufélagaskrá um lok starfa sinna og afhenda henni lokareikninga félagsins, úthlutunargerð sína, kvittanir þeirra er við greiðslum hafa tekið, skilríki fyrir geymslureikningum svo og öll skjöl og bækur félagsins.
  □ Skilanefnd skal auglýsa í Lögbirtingablaði um lok starfa sinna og hver málalok hafi orðið.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
  ■ *[68. gr.][^1)^]* Þegar lokið hefur verið greiðslu krafna á hendur félaginu eða fé til greiðslu umdeildra krafna hefur verið lagt á geymslureikning getur félagsfundur ákveðið að starfi skilanefndar skuli lokið og félagið taki upp starfsemi á ný. Skal sú ákvörðun tekin með sama hætti og ákvörðun um slit samvinnufélags, en eigendur hluta í B-deild stofnsjóðs eiga þá rétt á því að félagið innleysi hluti sína á því verði sem þeir mundu hafa við félagsslit. Tilkynna skal ákvörðunina til samvinnufélagaskrár, en ekki er heimilt að hefja á ný starfsemi fyrr en ákvörðunin hefur verið skráð og félagið fullnægir lögmæltum skilyrðum að öðru leyti.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html
  ■ *[69. gr.][^1)^]* Komi fram eignir félags eftir að skilanefnd hefur lokið störfum eða verði þau málalok á ágreiningi um réttmæti kröfu lánardrottins að fé, sem lagt hefur verið á geymslureikning vegna kröfunnar, notist ekki að öllu leyti til greiðslu hennar skal skilanefnd taka upp starf sitt á ný án innköllunar og úthluta eignum í samræmi við upphaflega úthlutunargerð sína. Um lok framhaldsskipta gilda ákvæði 2. og 3. mgr. [67. gr.][^2)^]
  □ Sé þess ekki kostur að skilanefnd annist um framhaldsskipti skv. 1. mgr. skal ráðherra beina því til [héraðsdómara][^3)^] á varnarþingi því, sem félagið hafði, að hann annist um framhaldsskiptin í stað skilanefndar.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html [^3)^]"L. 44/1997, 8. gr.":/altext/stjt/1997.044.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html [^3)^]"L. 44/1997, 8. gr.":/altext/stjt/1997.044.html
 
  *[XIII. kafli.][^1)^]* *Breytingar á samþykktum o.fl.*
-    _[^1)^]"L. 144/1994, 85. gr.":1994144.html#g85_
+    _[^1)^]"L. 144/1994, 85. gr.":1994144.html_
  ■ *[70. gr.][^1)^]* Ákvörðun um breytingu á félagssamþykktum skal tekin á félagsfundi og verður hún því aðeins gild að breytingartillögu hafi verið getið í fundarboði og dagskrá fundarins og að hún hljóti samþykki minnst [^2^]/3 hluta greiddra atkvæða á fundinum. Ákvörðun skal að öðru leyti uppfylla frekari fyrirmæli er félagssamþykktir kunna að kveða á um, auk hinna sérstöku ákvæða [71. gr.][^2)^]
  □ Samþykkt um breytingu á samþykktum samvinnufélags skal tilkynnt til samvinnufélagaskár þegar í stað og breytingin öðlast eigi gildi fyrr en hún hefur verið skráð.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
  ■ *[71. gr.][^1)^]* Breyting á félagssamþykktum þarf samþykki tveggja lögmætra félagsfunda í röð og stuðning eigi færri en [^2^]/3 atkvæðisbærra félagsaðila á fundinum ef í henni felst röskun á því réttarsambandi, sem er milli félagsaðila, eða ef í henni felast auknar skuldbindingar félagsaðila gagnvart félaginu. Sé um deildaskipt félag að ræða skal bera breytinguna undir deildarfundi milli félagsfunda og hún hljóta þar samþykkt með meiri hluta atkvæða.
  □ Breyting á félagssamþykktum, sem raskar réttarsambandinu milli eigenda í A- og B-deild stofnsjóðs eða rýrir hag eigenda hluta í B-deild stofnsjóðs, er því aðeins gild að eigi færri en [^3^]/4 eigenda í A-deild stofnsjóðs og allir eigendur í B-deild stofnsjóðs gjaldi breytingunni jáyrði.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html
  ■ *[72. gr.][^1)^]* Félagsfundur má ekki taka ákvörðun sem bersýnilega er fallin til þess að afla ákveðnum félagsaðilum eða öðrum ótilhlýðilegra hagsmuna á kostnað annarra félagsaðila eða félagsins.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html
  ■ *[73. gr.][^1)^]* Félagsaðili, stjórnarmaður, framkvæmdastjóri eða eigendur minnst 10% hluta í B-deild stofnsjóðs geta höfðað mál vegna ákvörðunar félagsfundar sem hefur verið tekin með ólögmætum hætti eða brýtur í bága við lög þessi eða samþykktir félagsins.
  □ Mál skal höfða innan þriggja mánaða frá því að ákvörðunin var tekin, ella telst hún gild.
  □ Ákvæði 2. mgr. eiga ekki við:
@@ -376,48 +376,48 @@ h2. Lög um samvinnufélög
     c. Þegar boðun til félagsfundar hefur ekki farið fram eða reglna þeirra, sem um fundarboðun gilda, hefur í verulegum atriðum ekki verið gætt.
     d. Þegar aðili, sem höfðað hefur mál eftir að sá frestur sem tiltekinn er í 2. mgr. er útrunninn, en þó innan tveggja ára eftir að ákvörðun var tekin, hefur haft frambærilega ástæðu til að draga málshöfðun og beiting ákvæða 2. mgr. yrði bersýnilega ósanngjörn.
  □ Nú verða úrslit í dómsmáli þau að ákvörðun félagsfundar telst ógild og skal þá ómerkja ákvörðunina eða breyta henni. Breytingu á ákvörðun félagsfundar er þó einungis unnt að gera sé þess krafist og sé það á færi dómsins að ákveða hvers efnis ákvörðunin hefði réttilega átt að vera. Dómur í slíku máli bindur einnig þá aðila er ekki hafa staðið að málshöfðun. Endurrit dóma í slíkum málum skal senda til samvinnufélagaskrár og þar skráð niðurstaða þeirra ef ástæða þykir til.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html
 
  *[XIV. kafli.][^1)^]* *Skaðabóta- og refsiákvæði.*
-    _[^1)^]"L. 144/1994, 85. gr.":1994144.html#g85_
+    _[^1)^]"L. 144/1994, 85. gr.":1994144.html_
  ■ *[74. gr.][^1)^]* Stofnendur, stjórnarmenn, framkvæmdastjórar (kaupfélagsstjóri), [endurskoðendur og skoðunarmenn][^2)^] samvinnufélags eru skyldir að bæta félaginu það tjón sem þeir hafa valdið því í störfum sínum hvort sem er af ásetningi eða gáleysi. Sama gildir þegar félagsaðili eða aðrir verða fyrir tjóni vegna brota á ákvæðum laga þessara eða samþykktum félags.
  □ Bótafjárhæð má færa niður með hæfilegu tilliti til þess hve mikil sökin var og tjónið, efnahags tjónvalds og annarra atvika.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 10. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 10. gr.":/altext/stjt/2001.022.html
  ■ *[75. gr.][^1)^]* Ákvörðun um að félag skuli hafa uppi skaðabótakröfu, sbr. [74. gr.],[^2)^] skal tekin á félagsfundi.
  □ Ákvörðun félagsfundar um ábyrgðarleysi eða um að beita ekki fébótaábyrgð er ekki bindandi fyrir þrotabú félagsins ef félagið telst hafa verið ógjaldfært þegar ákvörðunin var tekin eða gjaldþrotaskipti hefjast innan árs frá ákvörðuninni.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
  ■ *[76. gr.][^1)^]* Skaðabótamál þau sem um ræðir í [75. gr.][^2)^] skal höfða nema krafan byggist á refsiverðum verknaði:
     a. Gegn stofnendum innan þriggja ára frá því að ákvörðun um stofnun félags var tekin.
     b. Gegn stjórnarmönnum og framkvæmdastjórum (kaupfélagsstjóra) innan þriggja ára frá lokum þess reikningsárs þar sem ákvörðunin eða athöfnin, sem málið byggist á, var samþykkt eða gerð.
     c. Gegn [endurskoðendum og skoðunarmönnum][^3)^] innan tveggja ára frá því að endurskoðun lauk og endurskoðunarskýrsla eða yfirlýsing var lögð fram.
  □ Mál skv. 2. mgr. [75. gr.][^2)^] skal höfða síðast þremur mánuðum eftir að félagið hefur verið úrskurðað gjaldþrota.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html [^3)^]"L. 22/2001, 10. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html [^3)^]"L. 22/2001, 10. gr.":/altext/stjt/2001.022.html
  ■ *[77. gr.][^1)^]* Nú vanrækja stofnendur, stjórnarmenn, framkvæmdastjóri (kaupfélagsstjóri), [endurskoðendur, skoðunarmenn][^2)^] eða skilanefndarmenn skyldur sínar samkvæmt lögum þessum, félagssamþykktum eða ályktunum félagsfundar og getur þá [samvinnufélagaskrá][^3)^] boðið þeim, að viðlagðri ákveðinni dagsekt eða vikusekt, að inna skylduverk af hendi. Bera má lögmæti úrskurðar undir dómstóla innan mánaðar frá birtingu hans.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 22/2001, 10. gr.":/altext/stjt/2001.022.html [^3)^]"L. 44/1997, 9. gr.":/altext/stjt/1997.044.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 22/2001, 10. gr.":/altext/stjt/2001.022.html [^3)^]"L. 44/1997, 9. gr.":/altext/stjt/1997.044.html
  ■ *[78. gr.][^1)^]* Það varðar sektum ...[^2)^] eða fangelsi allt að tveimur árum:
     1. Að skýra vísvitandi rangt eða villandi frá högum samvinnufélags eða öðru, er það varðar, í opinberri auglýsingu eða tilkynningu, í opinberu boði til þátttöku í stofnun félags eða í útboði hluta í B-deild stofnsjóðs, í skýrslum, ársreikningi eða yfirlýsingum til félagsfundar eða forráðamanna félags eða í tilkynningum til samvinnufélagaskrár.
     2. Að brjóta vísvitandi ákvæði laga þessara um sölu hluta í B-deild stofnsjóðs og útgáfu samvinnuhlutabréfa, um hlutaskrá, tillög í varasjóð, úthlutun arðs og um greiðslu til félagsaðila og eigenda hluta í B-deild stofnsjóðs við slit félags og í öðrum tilvikum þegar slíkt er heimilt.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 82/1998, 200. gr.":/altext/stjt/1998.082.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 82/1998, 200. gr.":/altext/stjt/1998.082.html
  ■ *[79. gr.][^1)^]* Hver sá, sem vísvitandi ber út rangar frásagnir eða með öðrum samsvarandi hætti skapar rangar hugmyndir um hag samvinnufélags eða annað er það varðar þannig að áhrif geti haft á sölu eða söluverð hluta í félaginu, skal sæta sektum ...[^2)^] eða fangelsi allt að tveimur árum.
  □ Ef sá sem stjórnar samvinnufélagi eða kemur að öðru leyti fram fyrir hönd þess hermir vísvitandi rangt eða villandi um efnahag félags eða eignir í skjölum, bréfum til viðskiptamanna, umburðarbréfum eða tilkynningum eða skýrslum til opinberra aðila þá varðar það sektum eða [fangelsi allt að einu ári],[^2)^] enda taki ákvæði [78. gr.][^3)^] eða 1. mgr. þessarar greinar eigi þar til.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 82/1998, 200. gr.":/altext/stjt/1998.082.html [^3)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 82/1998, 200. gr.":/altext/stjt/1998.082.html [^3)^]"L. 22/2001, 11. gr.":/altext/stjt/2001.022.html
  ■ *[80. gr.][^1)^]* Sá maður skal sæta sektum ...[^2)^] eða fangelsi allt að tveimur árum sem gerist sekur um eftirgreindar athafnir að því er varðar atkvæðagreiðslu á félagsfundi:
     1. Aflar sér eða öðrum ólöglegs færis á að taka þátt í atkvæðagreiðslu eða ruglar atkvæðagreiðslu með öðrum hætti.
     2. Leitast við með ólögmætri nauðung, frelsisskerðingu eða misneytingu aðstöðu yfirboðara að fá félagsaðila eða umboðsmann hans til þess að greiða atkvæði á ákveðinn hátt eða til þess að greiða ekki atkvæði.
     3. Kemur því til leiðar með sviksamlegu atferli að félagsaðili eða umboðsmaður hans greiði ekki atkvæði, þó að hann hafi ætlað sér það, eða að atkvæði hans ónýtist eða hafi önnur áhrif en til var ætlast.
     4. Greiðir, lofar að greiða eða býður félagsaðila eða umboðsmanni hans fé eða annan hagnað til þess að neyta ekki atkvæðisréttar síns eða til að greiða atkvæði félaginu í óhag.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 82/1998, 200. gr.":/altext/stjt/1998.082.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 82/1998, 200. gr.":/altext/stjt/1998.082.html
  ■ *[81. gr.][^1)^]* Sá sem vanrækir tilkynningar til samvinnufélagaskrár samkvæmt lögum þessum skal sæta sektum eða [fangelsi allt að einu ári].[^2)^]
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 82/1998, 200. gr.":/altext/stjt/1998.082.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 82/1998, 200. gr.":/altext/stjt/1998.082.html
  ■ *[82. gr.][^1)^]* Nú hefur stjórnanda félags eða öðrum, sem komið hefur fram fyrir hönd þess, verið dæmd sekt vegna brots í starfi sínu fyrir félagið og ber félagið þá ábyrgð á greiðslu sektar ef innheimta hefur orðið árangurslaus hjá sökunaut sjálfum. Ef ekki eru ákvæði í refsidómi um ábyrgð félagsins verður sektin því aðeins innheimt með aðför hjá því að dæmt sé um skyldu þess í sérstöku opinberu máli.
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html
 
  *[XV. kafli.][^1)^]* *Gildistaka o.fl.*
-    _[^1)^]"L. 144/1994, 85. gr.":1994144.html#g85_
+    _[^1)^]"L. 144/1994, 85. gr.":1994144.html_
  ■ *[83. gr.][^1)^]* [Ráðherra er heimilt að setja með reglugerð nánari reglur um framkvæmd laga þessara, sbr. þó 2. mgr. 10. gr.][^2)^]
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85 [^2)^]"L. 44/1997, 10. gr.":/altext/stjt/1997.044.html
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html [^2)^]"L. 44/1997, 10. gr.":/altext/stjt/1997.044.html
  ■ *[84. gr.][^1)^]* Lög þessi öðlast gildi 1. janúar 1992. ...
-    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html#g85
+    _[^1)^]_"L. 144/1994, 85. gr.":1994144.html
 
  *Ákvæði til bráðabirgða.*
  ■ *[I.* Ríkissjóður skal endurgreiða álagða tekjuskatta og eignarskatta á Tryggingarsjóð innlánsdeilda.

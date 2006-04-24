@@ -7,7 +7,7 @@ h2. Lög um húsaleigubætur
 <hr />
 
 
- *Tóku gildi 1. janúar 1998.* _Breytt með_ "l. 52/2001":/altext/stjt/2001.052.html (tóku gildi 13. júní 2001), "l. 168/2002":/altext/stjt/2002.168.html (tóku gildi 1. jan. 2003) og "l. 129/2004":/altext/stjt/2004.129.html (taka gildi 31. des. 2005).
+ *Tóku gildi 1. janúar 1998.* _Breytt með_ "l. 52/2001":/altext/stjt/2001.052.html (tóku gildi 13. júní 2001), "l. 168/2002":/altext/stjt/2002.168.html (tóku gildi 1. jan. 2003) og "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005).
 
  ■ *1. gr.* _Markmið laganna._
  □ Markmið laganna er að lækka húsnæðiskostnað tekjulágra leigjenda og draga úr aðstöðumun á húsnæðismarkaðnum.
@@ -48,10 +48,10 @@ h2. Lög um húsaleigubætur
  □ Leigufjárhæð íbúða félagasamtaka, sem lögð er til grundvallar útreikningi bóta, skal aldrei vera hærri en viðmið [Íbúðalánasjóðs][^1)^] um leigu félagslegra íbúða.
     _[^1)^]_"L. 168/2002, 3. gr.":/altext/stjt/2002.168.html
  ■ *9. gr.* _Tekjur og eignir._
- □ Með tekjum í lögum þessum er átt við allar tekjur skv. "II. kafla laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, með áorðnum breytingum. Reikna skal samanlagðar tekjur allra þeirra sem lögheimili eiga eða hafa skráð eða fast aðsetur í viðkomandi leiguhúsnæði og eru þá tekjur barna umsækjenda sem eru 20 ára og eldri meðtaldar. Þó eru hér undanskildar tekjur barna umsækjenda sem stunda skólanám í sex mánuði eða lengur á árinu.
+ □ Með tekjum í lögum þessum er átt við allar tekjur skv. II. kafla ["laga nr. 90/2003":2003090.html, um tekjuskatt].[^1)^] Reikna skal samanlagðar tekjur allra þeirra sem lögheimili eiga eða hafa skráð eða fast aðsetur í viðkomandi leiguhúsnæði og eru þá tekjur barna umsækjenda sem eru 20 ára og eldri meðtaldar. Þó eru hér undanskildar tekjur barna umsækjenda sem stunda skólanám í sex mánuði eða lengur á árinu.
  □ Bætur almannatrygginga og húsaleigubætur fyrra árs teljast ekki til tekna skv. 1. mgr.
- □ Ef samanlagðar eignir þeirra er 1. mgr. tilgreinir að frádregnum skuldum með vísan til "73":/altext/stjtnr.html#1981075?g73. og "76. gr. laga nr. 75/1981":1981075.html fara yfir þrjár milljónir króna, miðað við vísitölu neysluverðs, skulu 25% þeirrar fjárhæðar sem umfram er bætast við þær tekjur sem liggja til grundvallar ákvörðun um fjárhæðir húsaleigubóta. Hámarksfjárhæð samkvæmt þessari málsgrein breytist 1. janúar ár hvert í samræmi við breytingar á vísitölu neysluverðs miðað við grunnvísitölu. Félagsmálaráðherra skal láta reikna út og birta[^1)^] nýjar fjárhæðir samkvæmt ákvæði þessu.
-    _[^1)^]"Rg. 118/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/118-2003._
+ □ Ef samanlagðar eignir þeirra er 1. mgr. tilgreinir að frádregnum skuldum með vísan til ["72":2003090.html#g72. og "75. gr. laga nr. 90/2003":2003090.html#g75, um tekjuskatt],[^1)^] fara yfir þrjár milljónir króna, miðað við vísitölu neysluverðs, skulu 25% þeirrar fjárhæðar sem umfram er bætast við þær tekjur sem liggja til grundvallar ákvörðun um fjárhæðir húsaleigubóta. Hámarksfjárhæð samkvæmt þessari málsgrein breytist 1. janúar ár hvert í samræmi við breytingar á vísitölu neysluverðs miðað við grunnvísitölu. Félagsmálaráðherra skal láta reikna út og birta[^2)^] nýjar fjárhæðir samkvæmt ákvæði þessu.
+    _[^1)^]"L. 129/2004, 128. gr.":/altext/stjt/2004.129.html [^2)^]"Rg. 118/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/118-2003._
  ■ *10. gr.* _Umsókn um húsaleigubætur._
  □ Umsóknum um húsaleigubætur skal skilað til viðkomandi sveitarfélags sem annast afgreiðslu og útborgun bóta.
  □ Sækja skal um húsaleigubætur fyrir hvert almanaksár og gildir umsóknin til ársloka.
@@ -95,10 +95,11 @@ h2. Lög um húsaleigubætur
  □ Sveitarfélag skal þó fella álag niður ef ofgreitt var vegna mistaka hjá sveitarfélagi og telja má víst að bótaþegi hafi verið í góðri trú.
  □ Úrskurðir úrskurðarnefndar félagsþjónustu um kröfu sveitarfélags á hendur bótaþega skv. 2. mgr. eru aðfararhæfir.
 ■ *18. gr.* _Skuldajöfnuður._
- □ Komi í ljós að bótaþegi hafi fengið of háar bætur er sveitarfélagi heimilt að beina yfirlýsingu til þess aðila sem sér um innheimtu fyrir ríkissjóð um skuldajöfnun við inneign bótaþega hjá ríkinu vegna endurgreiðslna barnabóta, barnabótaauka og vaxtabóta samkvæmt "lögum nr. 75/1981":1981075.html að því leyti sem greiðslur þessar koma til útborgunar, þó þannig að áður hafi verið dregin frá öll þinggjöld og sveitarsjóðsgjöld í samræmi við áðurgreind lög. Hið sama á við um inneign bótaþega vegna endurgreiðslna skatta við álagningu eftir að samanburður á álagningarskrá og staðgreiðsluskrá hefur farið fram samkvæmt "lögum nr. 45/1987":1987045.html, með áorðnum breytingum.
+ □ Komi í ljós að bótaþegi hafi fengið of háar bætur er sveitarfélagi heimilt að beina yfirlýsingu til þess aðila sem sér um innheimtu fyrir ríkissjóð um skuldajöfnun við inneign bótaþega hjá ríkinu vegna endurgreiðslna barnabóta, barnabótaauka og vaxtabóta samkvæmt ["lögum nr. 90/2003":2003090.html, um tekjuskatt],[^1)^] að því leyti sem greiðslur þessar koma til útborgunar, þó þannig að áður hafi verið dregin frá öll þinggjöld og sveitarsjóðsgjöld í samræmi við áðurgreind lög. Hið sama á við um inneign bótaþega vegna endurgreiðslna skatta við álagningu eftir að samanburður á álagningarskrá og staðgreiðsluskrá hefur farið fram samkvæmt "lögum nr. 45/1987":1987045.html, með áorðnum breytingum.
  □ Komi sveitarfélag fram með yfirlýsingu um skuldajöfnuð skv. 1. mgr. er innheimtumanni ríkissjóðs skylt að verða við þeirri kröfu.
  □ Áður en skuldajafnaðaryfirlýsingu er beitt skal sveitarstjórn tilkynna bótaþega um hana og gefa honum tækifæri á að koma að andmælum sínum. Tilkynning skal fylgja skuldajafnaðaryfirlýsingu til innheimtumanns ríkissjóðs.
-■ *19. gr.* _Húsnæðismál sveitarfélaga._
+    _[^1)^]_"L. 129/2004, 129. gr.":/altext/stjt/2004.129.html
+ ■ *19. gr.* _Húsnæðismál sveitarfélaga._
  □ Lög þessi breyta á engan hátt þeirri ábyrgð er á sveitarfélögum hvílir varðandi húsnæðismál samkvæmt ákvæðum annarra laga, sbr. einkum "XII. kafla laga nr. 40/1991":1991040.html, um félagsþjónustu sveitarfélaga.
  ■ *20. gr.* _Kynning laganna._
  □ Félagsmálaráðuneytið annast kynningu á lögum þessum og reglugerðum settum samkvæmt þeim. Kostnaður vegna þessa greiðist úr ríkissjóði. Ráðherra getur falið öðrum aðilum þessa kynningu samkvæmt nánari ákvæðum í reglugerð.

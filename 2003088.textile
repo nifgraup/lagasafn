@@ -7,7 +7,7 @@ h2. Lög um Ábyrgðasjóð launa
 <hr />
 
 
- *Tóku gildi 10. apríl 2003, sjá þó 28. gr.* _EES-samningurinn:_ XVIII. viðauki tilskipun 80/987/EBE. _Breytt með_ "l. 129/2004":/altext/stjt/2004.129.html (taka gildi 31. des. 2005).
+ *Tóku gildi 10. apríl 2003, sjá þó 28. gr.* _EES-samningurinn:_ XVIII. viðauki tilskipun 80/987/EBE. _Breytt með_ "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005) og "l. 131/2005":/altext/stjt/2005.131.html (tóku gildi 1. jan. 2006).
 
 
  *I. kafli.* *Markmið og gildissvið.*
@@ -76,11 +76,14 @@ h2. Lög um Ábyrgðasjóð launa
 ■ *15. gr.* _Tilkynningar._
  □ Ábyrgðasjóður launa skal með sannanlegum hætti tilkynna þeim er kröfu gerir og skiptastjóra í búi vinnuveitandans niðurstöðu sína um greiðsluskyldu sjóðsins. Í tilkynningu skal sundurliða þá fjárhæð sem ábyrgðar nýtur skv. II. og III. kafla.
  □ Áður en greiðsla á kröfu verður innt af hendi úr Ábyrgðasjóði launa skal staðreyna hvort greiðsla hafi fengist á henni að einhverju eða öllu leyti úr búi vinnuveitandans og skulu þær greiðslur dragast að fullu frá greiðslu úr sjóðnum eftir þeim reglum sem kveðið er á um í 6. gr.
-■ *16. gr.* _Málskot._
- □ Afgreiðslu Ábyrgðasjóðs launa má skjóta til stjórnar sjóðsins innan mánaðar frá móttöku tilkynningar skv. 15. gr.
- □ Stjórnin skal að jafnaði taka afstöðu til framkominnar kæru innan tveggja mánaða frá því að kæra berst. Skorti gögn eða nánari skýringar til að unnt sé að taka afstöðu til kröfu skal miða upphaf frests við þann dag sem þessar upplýsingar berast.
- □ Heimilt er að kæra ákvarðanir stjórnar samkvæmt lögum þessum til félagsmálaráðuneytis innan tveggja mánaða frá því að aðila barst tilkynning um ákvörðunina. Þetta skerðir þó ekki rétt aðila til að höfða mál fyrir dómstólum.
-■ *17. gr.* _Innlausn kröfu og fyrirsvar._
+■ *16. gr.* _[Kæruheimild._
+ □ Heimilt er að kæra ákvarðanir Ábyrgðasjóðs launa sem teknar eru á grundvelli laga þessara til félagsmálaráðuneytisins.
+ □ Kæra skal berast ráðuneytinu skriflega innan tveggja mánaða frá því að aðila máls var tilkynnt um ákvörðun. Kæra telst nægilega snemma fram komin ef bréf sem hefur hana að geyma hefur borist ráðuneytinu eða verið afhent pósti áður en fresturinn er liðinn.
+ □ Félagsmálaráðuneytið skal leitast við að kveða upp úrskurð innan tveggja mánaða frá því að ráðuneytinu berst mál til úrskurðar.
+ □ Að öðru leyti fer um málsmeðferð samkvæmt ákvæðum stjórnsýslulaga.
+ □ Ákvæði þetta skerðir ekki rétt aðila til að höfða mál fyrir dómstólum.][^1)^]
+    _[^1)^]_"L. 131/2005, 1. gr.":/altext/stjt/2005.131.html
+ ■ *17. gr.* _Innlausn kröfu og fyrirsvar._
  □ Frá því að skiptastjóra berst tilkynning Ábyrgðasjóðs launa skv. 15. gr. fer sjóðurinn með fyrirsvar fyrir kröfunni gagnvart búi vinnuveitanda að því leyti sem hann leysir kröfuna til sín. Nýtur krafa sjóðsins sömu stöðu í skuldaröð í búinu og hún hefði ella notið.
  □ Sá sem gerir kröfu á hendur Ábyrgðasjóði launa á grundvelli laga þessara má ekki aðhafast neitt það sem rýrt gæti endurkröfurétt sjóðsins á hendur búi vinnuveitanda. Er honum óheimilt að samþykkja, án sérstaks leyfis stjórnar sjóðsins, að kröfur fái komist að við gjaldþrotaskipti sem ekki hefur verið lýst fyrir lok kröfulýsingarfrests. Brjóti kröfuhafi eða umboðsmaður hans gegn þessu ákvæði hefur það í för með sér að ábyrgð samkvæmt lögum þessum fellur niður.
 ■ *18. gr.* _Staðgreiðsla opinberra gjalda._
@@ -105,14 +108,15 @@ h2. Lög um Ábyrgðasjóð launa
  □ Stjórn sjóðsins skal fyrir lok september ár hvert gera ráðherra grein fyrir fjárhagsstöðu sjóðsins og áætlun um þróun útgjalda. Jafnframt skal stjórnin fyrir sama tíma gera tillögu til ráðherra um hámarksfjárhæðir skv. 1. mgr. 6. gr.
 ■ *23. gr.* _Fjármögnun._
  □ Ábyrgðasjóður launa skal fjármagnaður með sérstöku ábyrgðargjaldi af greiddum vinnulaunum, þóknun og reiknuðu endurgjaldi, hvaða nafni sem nefnist, sem skattskylt er. Ákvæði laga um tryggingagjald eiga við um gjaldstofn, gjaldskyldu, greiðslutímabil, álagningu og innheimtu ábyrgðargjalds.
- □ Ábyrgðargjaldið skal vera 0,04% af gjaldstofni.
+ □ Ábyrgðargjaldið skal vera [0,1%][^1)^] af gjaldstofni.
  □ Skorti sjóðinn reiðufé til að standa við skuldbindingar sínar samkvæmt lögum þessum skal stjórn sjóðsins þegar tilkynna það ráðherra. Ríkissjóður skal þá leggja sjóðnum til þá fjármuni sem til þarf og skoðast það sem lántaka.
- □ Ábyrgðargjald telst rekstrarkostnaður skv. 1. tölul. "31. gr. laga um tekjuskatt og eignarskatt, nr. 75/1981":1981075.html, að því leyti sem það er ákvarðað af launum sem teljast rekstrarkostnaður samkvæmt sömu grein.
+ □ Ábyrgðargjald telst rekstrarkostnaður skv. 1. tölul. 31. gr. ["laga nr. 90/2003":2003090.html, um tekjuskatt],[^2)^] að því leyti sem það er ákvarðað af launum sem teljast rekstrarkostnaður samkvæmt sömu grein.
  □ Kostnaður af rekstri Ábyrgðasjóðs launa greiðist af tekjum hans.
  □ Ársreikningur sjóðsins skal endurskoðaður af Ríkisendurskoðun.
+    _[^1)^]_"L. 131/2005, 2. gr.":/altext/stjt/2005.131.html [^2)^]"L. 129/2004, 147. gr.":/altext/stjt/2004.129.html
 
  *IX. kafli.* *Ýmis ákvæði.*
-■ *24. gr.* _Framsal._
+ ■ *24. gr.* _Framsal._
  □ Hafi launamaður framselt launakröfu sína á hendur vinnuveitanda áður en bú vinnuveitanda var tekið til gjaldþrotaskipta nýtur krafan ekki ábyrgðar samkvæmt lögum þessum. Þetta á þó ekki við ef krafan hefur verið framseld stéttarfélagi launamannsins, né heldur ef krafan hefur að fullu eða að hluta verið framseld Atvinnuleysistryggingasjóði.
  □ Ákvæði 1. mgr. gildir einnig í þeim tilvikum sem kveðið er á um í 7. gr. og VII. kafla.
 ■ *25. gr.* _Upplýsingar._

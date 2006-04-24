@@ -7,7 +7,7 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
 <hr />
 
 
- *Tóku gildi 29. apríl 1998.* _Breytt með_ "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 16/1999":/altext/stjt/1999.016.html (tóku gildi 24. mars 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000), "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002), "l. 33/2003":2003033.html (tóku gildi 1. júlí 2003), "l. 31/2005":2005031.html (tóku gildi 1. júlí 2005) og "l. 66/2005":/altext/stjt/2005.066.html (tóku gildi 1. júlí 2005).
+ *Tóku gildi 29. apríl 1998.* _Breytt með_ "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 16/1999":/altext/stjt/1999.016.html (tóku gildi 24. mars 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000), "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002), "l. 33/2003":2003033.html (tóku gildi 1. júlí 2003), "l. 31/2005":/altext/stjt/2005.031.html (tóku gildi 1. júlí 2005) og "l. 66/2005":/altext/stjt/2005.066.html (tóku gildi 1. júlí 2005).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -94,21 +94,8 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
  □ Brjóti aðili að kauphöll ítrekað eða með vítaverðum hætti þau skilyrði sem sett eru í aðildarsamningi er kauphöllinni heimilt að fella samninginn einhliða úr gildi eða beita vægari ráðstöfunum, svo sem tímabundinni stöðvun aðildar að kauphöllinni. Grípi kauphöll til ráðstafana samkvæmt þessari málsgrein skal hún án tafar gera [Fjármálaeftirlitinu][^1)^] grein fyrir þeim.
     _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html
 
- *IV. kafli.* *Reglur um opinbera skráningu verðbréfa í kauphöll.[^1)^]*
-    _[^1)^]IV. kafli fellur úr gildi 1. jan. 2006 skv. "l. 31/2005, 27. gr.":2005031.html_
- ■ *17. gr.* Kauphallaraðilar sækja um opinbera skráningu verðbréfa í viðskiptakerfi kauphallarinnar fyrir hönd útgefenda nema stjórn hennar samþykki annað. Skráning er háð samþykki stjórnar kauphallar sem setur nánari reglur um verðbréf sem tekin eru til opinberrar skráningar. Áður en stjórn kauphallar samþykkir fyrir sitt leyti reglur um opinbera skráningu verðbréfa skal hún leita umsagnar um þær hjá [Fjármálaeftirlitinu].[^1)^] [Reglur, sem kauphöll setur um opinbera skráningu verðbréfa, skulu uppfylla ákvæði laga þessara og reglugerðar sem ráðherra setur á grundvelli þeirra.][^2)^] Reglur um opinbera skráningu verðbréfa skulu fela í sér skilyrði fyrir upptöku viðskipta og skráningar, svo sem:
-    1. að lögð sé fram skráningarlýsing útgefanda,
-    2. um stærð og dreifingu hvers flokks, svo og önnur atriði sem stjórn telur að geti skipt máli fyrir markaðshæfi verðbréfa,
-    3. að birtar séu við skráningu og eftirleiðis upplýsingar um hvern verðbréfaflokk og útgefanda hans sem máli skipta varðandi mat á verðmæti bréfanna samkvæmt reglum sem stjórnin setur.
- □ Umsækjanda skal tilkynnt ákvörðun stjórnar um umsókn um skráningu að jafnaði eigi síðar en tveimur mánuðum eftir að fullbúin umsókn barst. Ákvörðun stjórnar skal þó ávallt liggja fyrir innan sex mánaða.
- □ Stjórnin tryggir að nauðsynlegar upplýsingar um opinberlega skráð verðbréf séu aðgengilegar almenningi.
- □ ...[^2)^]
-    _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html [^2)^]"L. 16/1999, 2. gr.":/altext/stjt/1999.016.html
- _Niðurfelling skráningar og tímabundin stöðvun viðskipta._
- ■ *18. gr.* Stjórninni er skylt að fella af skrá þau verðbréf sem að hennar mati uppfylla ekki skilyrði laga þessara og reglna settra af stjórninni eða skilyrða skráningu verðbréfanna. Jafnframt er henni heimilt að fella tímabundið niður skráningu einstakra verðbréfaflokka ef ástæða þykir til.
- □ Útgefandi opinberlega skráðra verðbréfa eða kauphallaraðili fyrir hans hönd getur óskað eftir því skriflega að þau verði felld af skrá kauphallarinnar. Skal stjórn kauphallarinnar verða við því að fenginni skriflegri greinargerð fyrir þeirri ósk. Stjórnin getur ákveðið að bréfin verði ekki tekin af skrá fyrr en allt að eitt ár er liðið frá því að fullbúin greinargerð berst kauphöllinni. Hún getur einnig ákveðið að birta greinargerðina í heild eða að hluta.
- □ Heimilt er að stöðva tímabundið viðskipti í kauphöll þegar sérstakar aðstæður krefjast þess. Tilkynna skal um slíka tímabundna stöðvun til [Fjármálaeftirlitsins].[^1)^]
-    _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html
+ *IV. kafli.* *...[^1)^]*
+    _[^1)^]"L. 31/2005, 27. gr.":/altext/stjt/2005.031.html_
 
  *V. kafli.* *Yfirtökutilboð.*
  ■ *19. gr.* ...[^1)^]
@@ -140,7 +127,7 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
     10. samninga sem félagið er aðili að og taka gildi, breytast eða falla úr gildi ef breytingar verða á stjórnun eða yfirráðum í félagi í kjölfar yfirtökutilboðs og áhrif þess á félagið, nema um sé að ræða upplýsingar sem haft geta skaðleg áhrif á starfsemi félagsins eða hafa óveruleg áhrif á starfsemi félagsins; þær undantekningar eiga þó ekki við ef um er að ræða upplýsingar sem félagi er skylt að birta á grundvelli laga,
     11. samninga félagsins við stjórnarmenn eða starfsmenn um greiðslur eða bætur ef þeir segja upp eða ef þeim er sagt upp án gildrar ástæðu eða ef starfi þeirra lýkur vegna yfirtökutilboðs.
  □ Stjórn félags sem skráð hefur einn eða fleiri hlutabréfaflokka á skipulegum verðbréfamarkaði skal á aðalfundi hvert ár kynna greinargerð með skýringum varðandi þau atriði sem tiltekin eru í 1. mgr.][^1)^]
-    _[^1)^]_"L. 31/2005, 28. gr.":2005031.html
+    _[^1)^]_"L. 31/2005, 28. gr.":/altext/stjt/2005.031.html
  _Flöggunarreglur._
  ■ *26. gr.* ...[^1)^]
     _[^1)^]_"L. 33/2003, 61. gr.":2003033.html#g61

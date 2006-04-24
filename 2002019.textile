@@ -7,7 +7,7 @@ h2. Lög um póstþjónustu
 <hr />
 
 
- *Tóku gildi 3. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 97/67/EB. _Breytt með_ "l. 136/2002":/altext/stjt/2002.136.html (tóku gildi 1. jan. 2003; _EES-samningurinn:_ XI. viðauki tilskipun 97/39/EB) og "l. 129/2004":/altext/stjt/2004.129.html (taka gildi 31. des. 2005).
+ *Tóku gildi 3. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 97/67/EB. _Breytt með_ "l. 136/2002":/altext/stjt/2002.136.html (tóku gildi 1. jan. 2003; _EES-samningurinn:_ XI. viðauki tilskipun 97/39/EB) og "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005).
 
 
  *I. kafli.* *Gildissvið laganna og markmið.*
@@ -157,11 +157,12 @@ h2. Lög um póstþjónustu
  □ Til að standa straum af greiðslu fjárframlaga samkvæmt þessum kafla skal innheimta jöfnunargjald sem rennur í jöfnunarsjóð í vörslu Póst- og fjarskiptastofnunar.
  □ Jöfnunargjaldið skal innheimt af rekstrarleyfishöfum í hlutfalli við bókfærða veltu þeirra á sviði alþjónustu. Með bókfærðri veltu er átt við heildarrekstrartekjur sem viðkomandi rekstrarleyfishafi hefur af póststarfsemi sem fellur undir ákvæði um alþjónustu.
  □ Jöfnunargjald skal ákveðið með lögum. Á grundvelli fenginna umsókna skal fjárþörf vegna alþjónustu endurskoðuð árlega af Póst- og fjarskiptastofnun og niðurstaða þeirrar endurskoðunar ásamt tillögu um breytt gjaldhlutfall, ef þörf þykir, lögð fyrir samgönguráðherra.
- □ Um álagningu og innheimtu jöfnunargjalds fer samkvæmt ákvæðum "VIII":/altext/stjtnr.html#1981075?k8. - "XIV. kafla laga nr. 75/1981":1981075.html, um tekjuskatt og eignarskatt, með síðari breytingum, eftir því sem við á og skulu innheimtuaðilar standa jöfnunarsjóði Póst- og fjarskiptastofnunar skil á innheimtum gjöldum mánaðarlega.
+ □ Um álagningu og innheimtu jöfnunargjalds fer samkvæmt ákvæðum VIII. - XIV. kafla ["laga nr. 90/2003":2003090.html, um tekjuskatt],[^1)^] eftir því sem við á og skulu innheimtuaðilar standa jöfnunarsjóði Póst- og fjarskiptastofnunar skil á innheimtum gjöldum mánaðarlega.
  □ Jöfnunargjald má draga frá tekjum greiðanda á því rekstrarári þegar stofn þess myndaðist.
+    _[^1)^]_"L. 129/2004, 142. gr.":/altext/stjt/2004.129.html
 
  *XI. kafli.* *Samningar um sértæka póstþjónustu.*
-■ *29. gr.* _Sértæk póstþjónusta._
+ ■ *29. gr.* _Sértæk póstþjónusta._
  □ Óski samgönguráðherra eftir að lagt sé í framkvæmdir eða sértæka póstþjónustu sem ekki fellur undir alþjónustu en er til almenningsheilla, í öryggisskyni, af umhverfisástæðum eða samkvæmt byggðasjónarmiðum, og ætla má að skili ekki arði skal Póst- og fjarskiptastofnun falið að gera samninga þessu viðkomandi við póstrekanda í kjölfar útboðs.
 ■ *30. gr.* _Fjármögnun sértækrar póstþjónustu._
  □ Kostnaður vegna sértækra framkvæmda eða póstþjónustu skv. 29. gr. skal að jafnaði greiddur úr ríkissjóði eftir því sem kveðið er á um í fjárlögum.

@@ -7,7 +7,7 @@ h2. Lög um fjarskipti
 <hr />
 
 
- *Tóku gildi 25. júlí 2003, sjá þó ákvæði 76. gr.* _EES-samningurinn:_ XI. viðauki tilskipun 1999/5/EB, reglugerð 2887/2000/EB, tilskipun 2002/19/EB, 2002/20/EB, 2002/21/EB, 2002/22/EB, 2002/58/EB og 2002/77/EB. _Breytt með_ "l. 129/2004":/altext/stjt/2004.129.html (taka gildi 31. des. 2005) og "l. 78/2005":/altext/stjt/2005.078.html (tóku gildi 9. júní 2005).
+ *Tóku gildi 25. júlí 2003, sjá þó ákvæði 76. gr.* _EES-samningurinn:_ XI. viðauki tilskipun 1999/5/EB, reglugerð 2887/2000/EB, tilskipun 2002/19/EB, 2002/20/EB, 2002/21/EB, 2002/22/EB, 2002/58/EB og 2002/77/EB. _Breytt með_ "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005) og "l. 78/2005":/altext/stjt/2005.078.html (tóku gildi 9. júní 2005).
 
 
  *I. kafli.* *Markmið og gildissvið. Stjórn fjarskiptamála.*
@@ -20,7 +20,7 @@ h2. Lög um fjarskipti
 ■ *2. gr.* _Stjórn fjarskiptamála._
  □ Samgönguráðherra fer með yfirstjórn fjarskipta.
  □ Póst- og fjarskiptastofnun skal hafa umsjón með fjarskiptum innan lögsögu íslenska ríkisins og hafa eftirlit með framkvæmd laga þessara.
- □ [Samgönguráðherra leggur á þriggja ára fresti fram á Alþingi tillögu til þingsályktunar um fjarskiptaáætlun sem leggur grunn að framþróun íslensks samfélags með því að bjóða bestu, ódýrustu og öruggustu rafrænu samskiptin með beitingu fjarskipta- og upplýsingatækni. Í fjarskiptaáætlun skal skilgreina markmið stjórnvalda sem stefna skuli að og gera grein fyrir ástandi og horfum í fjarskiptamálum í landinu. Jafnframt skal mörkuð stefna fyrir næstu sex ár. Þá skal í fjarskiptaáætlun meta og taka tillit til þarfa annarra þátta samfélagsins fyrir bætt fjarskipti.
+ □ [Samgönguráðherra leggur á þriggja ára fresti fram á Alþingi tillögu til þingsályktunar[^1)^] um fjarskiptaáætlun sem leggur grunn að framþróun íslensks samfélags með því að bjóða bestu, ódýrustu og öruggustu rafrænu samskiptin með beitingu fjarskipta- og upplýsingatækni. Í fjarskiptaáætlun skal skilgreina markmið stjórnvalda sem stefna skuli að og gera grein fyrir ástandi og horfum í fjarskiptamálum í landinu. Jafnframt skal mörkuð stefna fyrir næstu sex ár. Þá skal í fjarskiptaáætlun meta og taka tillit til þarfa annarra þátta samfélagsins fyrir bætt fjarskipti.
  □ Í fjarskiptaáætlun skal leggja áherslu á að:
     a. ná fram víðtæku samstarfi markaðarins, neytenda, opinberra stofnana og samgönguráðuneytisins um stefnumótun í fjarskiptamálum,
     b. auka samkeppnishæfni Íslands og samkeppni á fjarskiptamarkaði,
@@ -35,8 +35,8 @@ h2. Lög um fjarskipti
     c. að veita ráðuneytinu umsagnir um fjarskiptamál, breytingar á löggjöf, stefnumarkandi ákvarðanir stjórnvalda og fjarskiptaáætlun,
     d. að beita sér fyrir samvinnu við þá aðila, félög og samtök er um fjarskiptamál og öryggi fjalla,
     e. annað sem ráðherra felur því.
- □ Samgönguráðherra skipar tvo fulltrúa í fjarskiptaráð án tilnefningar. Skal annar vera formaður en hinn varaformaður. Aðra fulltrúa í ráðinu skipar ráðherra úr hópi helstu hagsmunaaðila eftir tilnefningu í samræmi við reglur sem hann setur þar um.][^1)^]
-    _[^1)^]_"L. 78/2005, 1. gr.":/altext/stjt/2005.078.html
+ □ Samgönguráðherra skipar tvo fulltrúa í fjarskiptaráð án tilnefningar. Skal annar vera formaður en hinn varaformaður. Aðra fulltrúa í ráðinu skipar ráðherra úr hópi helstu hagsmunaaðila eftir tilnefningu í samræmi við reglur sem hann setur þar um.][^2)^]
+    _[^1)^]Augl. A 89/2005_. [^2)^]"L. 78/2005, 1. gr.":/altext/stjt/2005.078.html
 
  *II. kafli.* *Orðskýringar.*
  ■ *3. gr.* Merking orða í lögum þessum er sem hér segir:
@@ -475,7 +475,7 @@ h2. Lög um fjarskipti
  *XVII. kafli.* *Gildistaka o.fl.*
 ■ *75. gr.* _Almenn reglugerðarheimild._
  □ Samgönguráðherra setur í reglugerð[^1)^] nánari fyrirmæli um framkvæmd fjarskiptamála.
-    _[^1)^]_"Rg. 866/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2000, "rg. 532/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001, "rg. 348/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/348-2004.
+    _[^1)^]_"Rg. 866/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2000, sbr. "700/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/700-2005; "rg. 532/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001, "rg. 348/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/348-2004.
  ■ *76. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 25. júlí 2003. Ákvæði 22. gr. tekur gildi 1. janúar 2004 og kemur fyrst til framkvæmda á árinu 2005 vegna bókfærðrar veltu á árinu 2004. ...
 

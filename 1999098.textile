@@ -7,7 +7,7 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
 <hr />
 
 
- *Tóku gildi 1. janúar 2000.* _EES-samningurinn:_ IX. viðauki tilskipun 94/19/EB og 97/9/EB. _Breytt með_ "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002), "l. 139/2002":/altext/stjt/2002.139.html (tóku gildi 30. des. 2002; _EES-samningurinn:_ IX. viðauki tilskipun 97/9/EB) og "l. 129/2004":/altext/stjt/2004.129.html (taka gildi 31. des. 2005).
+ *Tóku gildi 1. janúar 2000.* _EES-samningurinn:_ IX. viðauki tilskipun 94/19/EB og 97/9/EB. _Breytt með_ "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002), "l. 139/2002":/altext/stjt/2002.139.html (tóku gildi 30. des. 2002; _EES-samningurinn:_ IX. viðauki tilskipun 97/9/EB) og "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005).
 
 
  *I. kafli.* *Markmið og skipulag.*
@@ -88,9 +88,10 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
  □ Aðildarfyrirtæki skulu á afgreiðslustöðum sínum hafa til reiðu skriflegar upplýsingar um aðild sína að sjóðnum, umfang tryggingar, hvaða eignir eru ekki tryggðar og hvert kröfuhafi geti snúið sér neiti aðildarfyrirtæki kröfuhafa um greiðslu. Skulu upplýsingar vera á íslensku og ávallt til reiðu þannig að auðvelt sé að nálgast þær.
  □ Auglýsingar aðildarfyrirtækja um aðild að sjóðnum skulu takmarkaðar við beina tilvísun til hlutaðeigandi deildar hans.
 ■ *17. gr.* _Undanþága frá skatti og gjaldþrotalögum._
- □ Sjóðurinn er undanþeginn tekjuskatti og eignarskatti samkvæmt lögum um tekjuskatt og eignarskatt.
+ □ Sjóðurinn er undanþeginn tekjuskatti ...[^1)^] samkvæmt lögum um tekjuskatt ...[^1)^]
  □ Sjóðurinn verður hvorki tekinn til gjaldþrotaskipta né er heimilt að gera aðför í eignum hans.
-■ *18. gr.* _Reglugerð._
+    _[^1)^]_"L. 129/2004, 134. gr.":/altext/stjt/2004.129.html
+ ■ *18. gr.* _Reglugerð._
  □ Ráðherra setur í reglugerð[^1)^] nánari ákvæði um starfsemi sjóðsins, m.a. um tilhögun á greiðslum úr sjóðnum, tryggingu á innstæðu, verðbréfum eða reiðufé þegar um sameiginlegan reikning er að ræða eða þegar viðskiptavinur aðildarfyrirtækis á ekki ótvíræðan rétt til innstæðu, verðbréfa og reiðufjár og um ávöxtun á eignum sjóðsins.
     _[^1)^]_"Rg. 120/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/120-2000, sbr. "864/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/864-2002.
 
@@ -100,9 +101,9 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
  □ Öryggissjóði er enn fremur heimilt að veita viðskiptabanka eða sparisjóði víkjandi lán í því skyni að efla eiginfjárstöðu hans. Stjórn sjóðsins getur sett skilyrði fyrir veitingu víkjandi láns. Henni er heimilt að láta rannsaka rekstur og efnahag viðskiptabanka eða sparisjóðs sem veitt er víkjandi lán. Getur stjórnin í því sambandi krafist nauðsynlegra upplýsinga frá hlutaðeigandi viðskiptabanka eða sparisjóði.
  □ Aðalfundur fer með æðsta vald í málefnum öryggissjóðs. Sérhver aðili að sjóðnum fer á aðalfundi með atkvæðisrétt í samræmi við hlut sinn í heildareignum viðskiptabanka eða sparisjóða. Stjórn sjóðsins fer með málefni hans á milli aðal- og aukafunda. Hún skal skipuð fimm mönnum og skulu fjórir stjórnarmenn og jafnmargir til vara kjörnir á aðalfundi til eins árs í senn, hlutbundinni kosningu ef óskað er. Ráðherra tilnefnir einn mann og skal hann tilnefndur til þriggja ára í senn. Nánar skal kveðið á um skipan og verkefni stjórnar í samþykktum.
  □ Stjórnarmenn og starfsmenn öryggissjóða eru bundnir þagnarskyldu í samræmi við ákvæði laga um viðskiptabanka og sparisjóði.
- □ Öryggissjóður er undanþeginn tekjuskatti og eignarskatti samkvæmt lögum um tekjuskatt og eignarskatt. Sjóðurinn verður hvorki tekinn til gjaldþrotaskipta né er heimilt að gera aðför í eignum hans.
- □ Aðalfundur setur öryggissjóði samþykktir[^1)^] sem háðar skulu staðfestingu ráðherra að fenginni umsögn Fjármálaeftirlitsins. Fjármálaeftirlitið hefur eftirlit með starfsemi öryggissjóða. Um eftirlitið gilda að öðru leyti lög um opinbert eftirlit með fjármálastarfsemi.
-    _[^1)^]Augl. 16/2002_, augl. 204/2005.
+ □ Öryggissjóður er undanþeginn tekjuskatti ...[^1)^] samkvæmt lögum um tekjuskatt ...[^1)^] Sjóðurinn verður hvorki tekinn til gjaldþrotaskipta né er heimilt að gera aðför í eignum hans.
+ □ Aðalfundur setur öryggissjóði samþykktir[^2)^] sem háðar skulu staðfestingu ráðherra að fenginni umsögn Fjármálaeftirlitsins. Fjármálaeftirlitið hefur eftirlit með starfsemi öryggissjóða. Um eftirlitið gilda að öðru leyti lög um opinbert eftirlit með fjármálastarfsemi.
+    _[^1)^]_"L. 129/2004, 135. gr.":/altext/stjt/2004.129.html [^2)^]Augl. 16/2002, augl. 204/2005.
 
  *VII. kafli.* *Gildistaka o.fl.*
  ■ *20. gr.* Lög þessi öðlast gildi 1. janúar 2000. Sjóðurinn yfirtekur þá eignir og skuldir Tryggingarsjóðs viðskiptabanka og innstæðudeildar Tryggingarsjóðs sparisjóða. Tryggingarsjóður viðskiptabanka og innstæðudeild Tryggingarsjóðs sparisjóða verða hvor tveggja lögð niður frá sama tíma.
