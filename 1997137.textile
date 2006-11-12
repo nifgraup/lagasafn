@@ -7,7 +7,7 @@ h2. Lög um Kennaraháskóla Íslands
 <hr />
 
 
- *Tóku gildi 1. janúar 1998.* _Breytt með_ "l. 42/1999":/altext/stjt/1999.042.html (tóku gildi 30. mars 1999), "l. 148/2001":/altext/stjt/2001.148.html (tóku gildi 1. jan. 2002), "l. 42/2004":/altext/stjt/2004.042.html (tóku gildi 26. maí 2004) og "l. 133/2004":/altext/stjt/2004.133.html (tóku gildi 1. jan. 2005).
+ *Tóku gildi 1. janúar 1998.* _Breytt með_ "l. 42/1999":/altext/stjt/1999.042.html (tóku gildi 30. mars 1999), "l. 148/2001":/altext/stjt/2001.148.html (tóku gildi 1. jan. 2002), "l. 42/2004":/altext/stjt/2004.042.html (tóku gildi 26. maí 2004), "l. 133/2004":/altext/stjt/2004.133.html (tóku gildi 1. jan. 2005) og "l. 63/2006":2006063.html (tóku gildi 1. júlí 2006).
 
 
  *I. kafli.* *Hlutverk.*
@@ -50,7 +50,10 @@ h2. Lög um Kennaraháskóla Íslands
  □ Háskólaráðsfundur er ályktunarbær ef tveir þriðju hlutar atkvæðisbærra manna sækja fund hið fæsta. Afl atkvæða ræður úrslitum mála. Ef atkvæði falla jöfn sker atkvæði forseta úr.
  □ Varamenn sitja fundi háskólaráðs í forföllum aðalmanna.
 ■ *7. gr.* Menntamálaráðherra skipar rektor til fimm ára samkvæmt tilnefningu háskólaráðs. Skal staðan auglýst laus til umsóknar. Háskólaráð setur reglur[^1)^] um hvernig staðið skuli að tilnefningu rektors.
-    _[^1)^]_"Rgl. 843/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/843.pdf.
+ □ [Þann einan má skipa í stöðu rektors sem lokið hefur æðri prófgráðu við háskóla og öðlast hefur stjórnunarreynslu. Óheimilt er að framlengja skipunartíma rektors án auglýsingar.
+ □ Rektor verður ekki leystur frá störfum án þess að það sé borið undir háskólaráð og hljóti samþykki meiri hluta þess.
+ □ Rektor er yfirmaður stjórnsýslu háskólans og æðsti fulltrúi hans gagnvart mönnum og stofnunum innan hans og utan. Hann hefur almennt eftirlit með starfsemi háskólans og hefur frumkvæði að því að háskólaráð marki sér heildarstefnu í málefnum skólans. Rektor hefur ráðningarvald yfir öllum starfsmönnum skólans nema annað sé berum orðum tekið fram í lögum. Á milli funda háskólaráðs hefur rektor ákvörðunarvald í umboði ráðsins í öllum málum háskólans sem ekki varða veruleg fjárhagsmálefni skólans eða hafa í för með sér breytingar á skipulagi hans.][^2)^]
+    _[^1)^]_"Rgl. 843/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/843.pdf. [^2)^]"L. 63/2006, 28. gr.":2006063.html#g28
  ■ *8. gr.* Háskólaráð ákvarðar deildarskipan skólans og afmarkar aðrar stjórnunareiningar.
  □ Deildarfundir og deildarráð, í umboði háskólaráðs og rektors, stjórna málefnum hverrar deildar og fer deildarforseti með framkvæmdarvald í málefnum deildarinnar.
  □ Háskólaráð setur reglur[^1)^] um skipan deildarráða og val á deildarforsetum. Háskólaráð setur reglur[^1)^] um deildarfundi, hverjir hafi rétt til setu á deildarfundum og hvert skuli vera verksvið þeirra, vald og ábyrgð. Háskólaráð setur deildarráðum starfsreglur. Háskólaráð setur jafnframt reglur um skipan annarra stjórnunareininga.
@@ -75,7 +78,8 @@ h2. Lög um Kennaraháskóla Íslands
  □ Háskólaráð skal setja reglur, sem menntamálaráðherra staðfestir, um starfsemi rannsóknarstofnunarinnar og þar með talið um gjaldtöku fyrir þjónustu sem stofnunin veitir.
  □ Reglurnar skulu birtar í Stjórnartíðindum.
  □ Heimilt er háskólaráði að stofna sérstaka rannsóknarsjóði. Skal um þá sett skipulagsskrá sem menntamálaráðherra staðfestir. Skipulagsskráin skal birt í Stjórnartíðindum.
-    _[^1)^]_"L. 42/1999, 3. gr.":/altext/stjt/1999.042.html
+ □ [Kennaraháskóla Íslands er heimilt með samþykki menntamálaráðherra að eiga aðild að rannsóknar- og þróunarfyrirtækjum sem eru hlutafélög, sjálfseignarstofnanir eða félög með takmarkaða ábyrgð og stunda framleiðslu og sölu í því skyni að hagnýta og þróa niðurstöður rannsókna sem háskólinn vinnur að hverju sinni. Háskólaráð fer með eignarhlut skólans í slíkum fyrirtækjum.][^2)^]
+    _[^1)^]_"L. 42/1999, 3. gr.":/altext/stjt/1999.042.html [^2)^]"L. 63/2006, 28. gr.":2006063.html#g28
  ■ *[14. gr.* Kennaraháskóla Íslands skal heimilt að taka gjald fyrir þjónustu sem telst utan þeirrar lögmæltu þjónustu sem háskólanum er skylt að veita. Honum er enn fremur heimilt að taka gjöld fyrir endurmenntun og fræðslu fyrir almenning. Háskólaráð setur nánari reglur um gjaldtöku og ráðstöfun gjaldanna.
  □ Háskólaráði er heimilt að semja við félög stúdenta, hollvinasamtök, einstaklinga, samtök þeirra og fyrirtæki eða opinberar stofnanir um að taka að sér þjónustu fyrir hönd Kennaraháskóla Íslands enda sé farið að ákvæðum í 30. gr. laga um fjárreiður ríkisins.][^1)^]
     _[^1)^]_"L. 42/1999, 4. gr.":/altext/stjt/1999.042.html

@@ -7,7 +7,8 @@ h2. Lög um varnir gegn landbroti
 <hr />
 
 
- *Tóku gildi 31. maí 2002.*
+ *Tóku gildi 31. maí 2002.* _Breytt með_ "l. 61/2006":2006061.html (tóku gildi 1. júlí 2006).
+
 
  *I. kafli.* *Tilgangur, skilgreiningar og yfirstjórn.*
  ■ *1. gr.* _Tilgangur._
@@ -30,10 +31,11 @@ h2. Lög um varnir gegn landbroti
 ■ *5. gr.* _Hlutverk umráðahafa lands og skráning Landgræðslu ríkisins._
  □ Verði umráðahafi lands var við landbrot eða telji hættu á landbroti yfirvofandi skal hann tilkynna það til Landgræðslu ríkisins. Hún heldur skrá yfir landbrot eða staði þar sem hætta er á landbroti og metur hvar þörf á fyrirhleðslum er brýnust.
 ■ *6. gr.* _Samráð um fyrirhleðslur._
- □ Landgræðsla ríkisins skal hafa samráð við eiganda/umráðahafa mannvirkja eða lands sem fyrirhleðslu er ætlað að verja. Ef framkvæmd kann að hafa áhrif á veiði eða fiskrækt skal tilkynna það stjórn viðkomandi veiðifélags, sbr. "lög nr. 76/1970":1970076.html, um lax- og silungsveiði.
+ □ Landgræðsla ríkisins skal hafa samráð við eiganda/umráðahafa mannvirkja eða lands sem fyrirhleðslu er ætlað að verja. Ef framkvæmd kann að hafa áhrif á veiði eða fiskrækt skal tilkynna það stjórn viðkomandi veiðifélags [eða Landbúnaðarstofnun ef ekki er starfandi veiðifélag, sbr. lög um lax- og silungsveiði og lög um fiskrækt].[^1)^]
  □ Vilji landeigandi eða veiðifélag gera athugasemd við fyrirhugaða framkvæmd skal hún vera skrifleg og berast Landgræðslu ríkisins innan fjögurra vikna frá dagsetningu tilkynningar.
  □ Landgræðsla ríkisins skal hafa samráð við viðkomandi búnaðarsamband eða héraðsráðunauta um forgangsröðun fyrirhleðsluverkefna. Hún getur einnig haft samráð við þessa aðila um eftirlit með framkvæmdum og viðhald fyrirhleðslna.
-■ *7. gr.* _Framkvæmdir við fyrirhleðslur._
+    _[^1)^]_"L. 61/2006, 57. gr.":2006061.html#g57
+ ■ *7. gr.* _Framkvæmdir við fyrirhleðslur._
  □ Þegar fyrirhugaðar eru umfangsmiklar framkvæmdir við fyrirhleðslur skal Vegagerðin hafa umsjón með verkfræðilegum undirbúningi og framkvæmdum í samráði við Landgræðslu ríkisins. Landgræðsla ríkisins telst þó ávallt framkvæmdaraðili fyrirhleðslna samkvæmt lögunum, sbr. 4. gr.
 ■ *8. gr.* _Kostnaður við fyrirhleðslur._
  □ Landgræðsla ríkisins greiðir kostnað við varnir gegn landbroti, svo sem ákveðið er árlega í fjárlögum. Nú þarf með fyrirhleðslum eða á annan hátt að stöðva landbrot sem stofnar í hættu mannvirkjum í eigu ríkis eða sveitarfélaga, stofnana þeirra eða fyrirtækja sem eru að hálfu eða meiri hluta í eigu ríkis eða sveitarfélaga, svo sem samgöngumannvirkjum, raflínum eða öðrum dreifikerfum, og greiðir þá viðkomandi aðili allan kostnað, enda þótt í landi einstaklinga sé. Á sama hátt greiðir viðkomandi aðili að fullu kostnað við framkvæmdir sem vinna þarf til þess að hindra landbrot eða ágang vatns sem rekja má til framkvæmda opinberra aðila, t.d. þar sem þrengt er að ám við vega- og brúargerð, straumrennsli breytist vegna efnistöku úr farvegi o.s.frv.

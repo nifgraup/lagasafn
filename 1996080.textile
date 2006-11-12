@@ -7,12 +7,12 @@ h2. Lög um framhaldsskóla
 <hr />
 
 
- *Tóku gildi 1. ágúst 1996.* _Breytt með_ "l. 140/1996":/altext/stjt/1996.140.html (tóku gildi 1. jan. 1997 nema 1. gr. sem tók gildi 30. des. 1996), "l. 9/1998":/altext/stjt/1998.009.html (tóku gildi 24. mars 1998), "l. 100/1999":/altext/stjt/1999.100.html (tóku gildi 30. des. 1999), "l. 133/1999":/altext/stjt/1999.133.html (tóku gildi 11. jan. 2000), "l. 51/2001":/altext/stjt/2001.051.html (tóku gildi 13. júní 2001), "l. 148/2001":/altext/stjt/2001.148.html (tóku gildi 1. jan. 2002) og "l. 93/2002":/altext/stjt/2002.093.html (tóku gildi 31. maí 2002).
+ *Tóku gildi 1. ágúst 1996.* _Breytt með_ "l. 140/1996":/altext/stjt/1996.140.html (tóku gildi 1. jan. 1997 nema 1. gr. sem tók gildi 30. des. 1996), "l. 9/1998":/altext/stjt/1998.009.html (tóku gildi 24. mars 1998), "l. 100/1999":/altext/stjt/1999.100.html (tóku gildi 30. des. 1999), "l. 133/1999":/altext/stjt/1999.133.html (tóku gildi 11. jan. 2000), "l. 51/2001":/altext/stjt/2001.051.html (tóku gildi 13. júní 2001), "l. 148/2001":/altext/stjt/2001.148.html (tóku gildi 1. jan. 2002), "l. 93/2002":/altext/stjt/2002.093.html (tóku gildi 31. maí 2002) og "l. 33/2006":/altext/stjt/2006.033.html (tóku gildi 13. maí 2006).
 
 
  *I. kafli.* *Gildissvið.*
  ■ *1. gr.* Lög þessi taka til skólastarfs á framhaldsskólastigi er tekur við af skyldunámsstigi og allt til háskólastigs, sbr. "2. gr. laga nr. 55/1974":1974055.html,[^1)^] um skólakerfi. Framhaldsskólar er samnefni þeirra skóla er undir lög þessi falla. Þeir eru: fjölbrautaskólar, iðn- og verkmenntaskólar og menntaskólar, svo og skólar sem veita sérhæft nám á framhaldsskólastigi. Einstakar skólastofnanir geta borið sérstakt nafn, t.d. tengt stað, hefð eða sérstöku hlutverki. Setja skal reglugerð um sérskóla sem starfa samkvæmt lögum þessum.
-    _[^1)^]Felld úr gildi með "l. 136/1997, 15. gr.":1997136.html#g15_
+    _[^1)^]Felld úr gildi með "l. 136/1997, 15. gr.":1997136.html_
 
  *II. kafli.* *Hlutverk.*
  ■ *2. gr.* Hlutverk framhaldsskóla er að stuðla að alhliða þroska allra nemenda svo að þeir verði sem best búnir undir að taka virkan þátt í lýðræðisþjóðfélagi. Framhaldsskólinn býr nemendur undir störf í atvinnulífinu og frekara nám.
@@ -72,12 +72,12 @@ h2. Lög um framhaldsskóla
  *VII. kafli.* *Námsskipan.*
  ■ *16. gr.* Námsbrautir framhaldsskóla skiptast í starfsnámsbrautir, bóknámsbrautir, listnámsbrautir og almenna námsbraut. Af öllum námsbrautum skulu vera leiðir til frekara náms, annaðhvort beinar eða með skilgreindri viðbót náms.
  □ Á starfsnámsbrautum er nám í löggiltum iðngreinum og annað starfsnám. Nemendur á starfsnámsbrautum skulu einnig eiga kost á viðbótarnámi til undirbúnings námi á háskólastigi. ...[^1)^]
- □ Bóknámsbrautir veita undirbúning að námi á háskólastigi. Bóknámsbrautir eru þrjár: tungumálabraut, félagsfræðabraut og náttúrufræðabraut.
+ □ Bóknámsbrautir veita undirbúning að námi á háskólastigi. [Bóknámsbrautir eru fjórar: félagsfræðabraut, viðskipta- og hagfræðibraut, náttúrufræðabraut og tungumálabraut.][^2)^]
  □ Listnámsbrautir veita undirbúning að frekara námi í listgreinum í sérskólum eða í skólum á háskólastigi.
- □ [Almenn námsbraut er ætluð nemendum sem ekki hafa gert upp hug sinn varðandi áframhaldandi nám og nemendum sem uppfylla ekki skilyrði til inngöngu á lengri námsbrautir framhaldsskólans. Nám á brautinni getur veitt undirbúning fyrir nám á bók-, list- eða starfsnámsbrautum og getur jafnframt verið hluti af því.][^2)^]
+ □ [Almenn námsbraut er ætluð nemendum sem ekki hafa gert upp hug sinn varðandi áframhaldandi nám og nemendum sem uppfylla ekki skilyrði til inngöngu á lengri námsbrautir framhaldsskólans. Nám á brautinni getur veitt undirbúning fyrir nám á bók-, list- eða starfsnámsbrautum og getur jafnframt verið hluti af því.][^3)^]
  □ Stofnun nýrra námsbrauta er háð samþykki menntamálaráðherra.
  □ Menntamálaráðherra setur reglugerð um framkvæmd ákvæða þessarar greinar.
-    _[^1)^]_"L. 133/1999, 5. gr.":/altext/stjt/1999.133.html [^2)^]"L. 100/1999, 2. gr.":/altext/stjt/1999.100.html
+    _[^1)^]_"L. 133/1999, 5. gr.":/altext/stjt/1999.133.html [^2)^]"L. 33/2006, 1. gr.":/altext/stjt/2006.033.html [^3)^]"L. 100/1999, 2. gr.":/altext/stjt/1999.100.html
  ■ *17. gr.* Námsbrautir framhaldsskóla skulu skipulagðar í samræmi við lokamarkmið námsins. Þær skiptast í brautarkjarna, kjörsvið og frjálst val. Hlutfall milli þessara þátta er ákveðið í aðalnámskrá og getur verið mismunandi eftir brautum.
  □ Brautarkjarni er skyldunám brautar. Þar eru sérgreinar brautarinnar og námsgreinar sem stuðla að almennri menntun og búa nemendur undir þátttöku í samfélaginu.
  □ Kjörsvið er frekari sérhæfing á brautinni. Það er skipulagt sem heild, ýmist með samröðun námsáfanga eða í stórum heildstæðum áföngum með áherslu á fræðileg viðfangsefni. Starfsnám og viðurkennt listnám á framhaldsskólastigi má meta til kjörsviðs í námi á bóknámsbrautum að uppfylltum skilyrðum sem tilgreind eru í aðalnámskrá.
@@ -96,16 +96,16 @@ h2. Lög um framhaldsskóla
  □ Í aðalnámskrá skal mælt fyrir um námsmat, þar með talin próf og vitnisburð. Þar komi fram hvaða kröfur nemandi þarf að uppfylla til þess að hann teljist hafa lokið einstökum áföngum náms með fullnægjandi árangri og lágmarkskröfur til þess að standast tiltekin lokapróf. Þar skal kveðið á um hversu oft nemandi má endurtaka próf og birtar reglur um rétt nemenda til að sjá prófúrlausnir sínar.
  □ Í aðalnámskrá eru ákvæði um mat á starfsþjálfun sé hún hluti námsins, mat á námi þegar nemendur flytjast milli skóla og skilyrði þess að flytjast milli námsbrauta. Í aðalnámskrá skal setja viðmiðunarreglur um skólanámskrár og mat á skólastarfi.
  □ Tilkynning um gildistöku aðalnámskrár eða hluta hennar skal birt í Stjórnartíðindum.[^1)^]
-    _[^1)^]Augl. 274/1999_, sbr. 138/2004, 661/2004 og 689/2005.
+    _[^1)^]Augl. 274/1999_, sbr. 138/2004, 661/2004, 689/2005, 364/2006, 408/2006, 514/2006 og 515/2006.
  ■ *22. gr.* Í hverjum skóla skal gefa út skólanámskrá þar sem gerð er grein fyrir námsframboði, lengd og innihaldi námsáfanga og skiptingu námsgreina á námsannir og/eða námsár. Þar skal einnig gerð grein fyrir áherslum í starfi skólans, kennsluháttum, námsmati og stjórnunarháttum, svo sem gæðastjórnun.
  □ Í skólanámskrá geri skólar grein fyrir hvernig ná skuli því markmiði framhaldsskóla að námið stuðli að alhliða þroska nemenda svo að þeir verði sem best búnir undir að taka virkan þátt í lýðræðisþjóðfélagi. Skólanámskrá skal samþykkt af skólanefnd að fenginni umsögn almenns kennarafundar. Skólanefnd fylgist með framkvæmd skólanámskrár.
 ■ *23. gr.* Sérhver framhaldsskóli skal innleiða aðferðir til að meta skólastarfið, þar á meðal kennslu- og stjórnunarhætti, samskipti innan skólans og tengsl við aðila utan skólans.[^1)^] Á fimm ára fresti skal utanaðkomandi aðili gera úttekt á sjálfsmatsaðferðum skóla.
     _[^1)^]_"Rg. 139/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/139-1997.
  ■ *24. gr.* [Almennt námsmat í framhaldsskóla er í höndum kennara.][^1)^] Matið byggist á markmiðum skólastarfs sem kveðið er á um í aðalnámskrá og skólanámskrá.
- □ [Námi á framhaldsskólastigi er veitir undirbúning til náms á háskólastigi lýkur með stúdentsprófi. Stúdentspróf skulu vera samræmd í tilteknum greinum. Í reglugerð[^2)^] skulu sett ákvæði um samræmingu stúdentsprófa og framkvæmd þeirra.
+ □ [Námi á framhaldsskólastigi er veitir undirbúning til náms á háskólastigi lýkur með stúdentsprófi. ...[^2)^]
  □ Námi í löggiltum iðngreinum lýkur með sveinsprófi. Ráðherra kveður á um samræmingu sveinsprófa með reglugerð[^3)^] að fenginni umsögn viðkomandi starfsgreinaráðs.
- □ Menntamálaráðherra er heimilt að ákveða með reglugerð að lokapróf í tilteknum greinum af öðrum námsbrautum skuli samræmd að fenginni umsögn viðkomandi starfsgreinaráðs ef um starfsnám er að ræða.][^4)^]
-    _[^1)^]_"L. 51/2001, 2. gr.":/altext/stjt/2001.051.html [^2)^]"Rg. 196/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/196-2003, sbr. "453/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/453-2005. [^3)^]"Rg. 525/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/525-2000. [^4)^]"L. 100/1999, 4. gr.":/altext/stjt/1999.100.html
+ □ ...[^2)^]][^4)^]
+    _[^1)^]_"L. 51/2001, 2. gr.":/altext/stjt/2001.051.html [^2)^]"L. 33/2006, 2. gr.":/altext/stjt/2006.033.html [^3)^]"Rg. 525/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/525-2000. [^4)^]"L. 100/1999, 4. gr.":/altext/stjt/1999.100.html
 
  *IX. kafli.* *Starfsnám.*
  ■ *25. gr.* Starfsnám skal stuðla að almennri menntun nemenda, veita þeim undirbúning til tiltekinna starfa og innsýn í hlutverk fyrirtækja og starfsfólks í atvinnulífi. Náminu er jafnframt ætlað að hvetja nemendur til að viðhalda þekkingu sinni og bæta við hana með endurmenntun eða áframhaldandi námi.
@@ -115,7 +115,7 @@ h2. Lög um framhaldsskóla
 ■ *27. gr.* Samstarfsnefnd um starfsnám á framhaldsskólastigi stuðlar að tengslum skóla og atvinnulífs og er menntamálaráðherra til ráðuneytis um stefnumótun í starfsnámi og setningu almennra reglna um skipan og framkvæmd starfsnáms. Nefndin gerir tillögur um skipan starfsgreina í starfsgreinaflokka í samráði við samtök atvinnurekenda og launþega í viðkomandi greinum, forgangsröðun verkefna í starfsnámi, svo og sérstakar tilraunir og þróunarverkefni. Nefndin setur sér starfsreglur sem öðlast gildi við staðfestingu menntamálaráðherra.
 ■ *28. gr.* [Menntamálaráðherra skipar til fjögurra ára í senn starfsgreinaráð fyrir starfsgreinaflokka eða starfsgreinar. Í starfsgreinaráði skulu eiga sæti fulltrúar tilnefndir af samtökum atvinnurekenda og launþega í viðkomandi starfsgreinum og einn fulltrúi menntamálaráðherra. Varamenn skulu skipaðir með sama hætti. Við skipun fulltrúa í starfsgreinaráð skal gætt jafnræðis milli fulltrúa atvinnurekenda og launþega. Formaður skal kjörinn úr hópi fulltrúa til tveggja ára í senn. Ef ekki tekst að skipa starfsgreinaráð er menntamálaráðherra heimilt að skipa tímabundið sérstaka starfshópa til að sinna verkefnum starfsgreinaráðs. Menntamálaráðherra setur með reglugerð[^1)^] nánari ákvæði um skipan starfsgreinaráða að fengnum tillögum frá samstarfsnefnd um starfsnám á framhaldsskólastigi.][^2)^]
  □ Samtök atvinnurekenda og launþega greiða kostnað af störfum fulltrúa sinna í starfsgreinaráði og menntamálaráðuneytið greiðir kostnað af störfum fulltrúa menntamálaráðherra og af sérfræðilegri vinnu við námskrárgerð.
-    _[^1)^]_"Rg. 475/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/475-2001, sbr. "746/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/746-2003. [^2)^]"L. 100/1999, 5. gr.":/altext/stjt/1999.100.html
+    _[^1)^]_"Rg. 475/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/475-2001, sbr. "746/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/746-2003 og "730/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/730-2006. [^2)^]"L. 100/1999, 5. gr.":/altext/stjt/1999.100.html
  ■ *29. gr.* Starfsgreinaráð skilgreinir þarfir starfsgreina fyrir kunnáttu og hæfni starfsmanna og setur fram markmið starfsnáms.
  □ Starfsgreinaráð gerir tillögur um uppbyggingu starfsnáms og námskrá í sérgreinum viðkomandi starfsnáms, svo og um tilhögun námsmats, þar með talin sveinspróf og eftirlit með gæðum kennslu og námsefnis. Það gerir einnig tillögur að skiptingu náms í skóla og á vinnustað, svo og reglum um vinnustaðanám, viðurkenningu á vinnustöðum til að taka nema í starfsþjálfun eða á námssamning og aðstöðu, búnað og kennarakost skóla sem annast starfsnám.
  □ Starfsgreinaráð skal hafa frumkvæði að tillögugerð um breytta skipan náms og vera stjórnvöldum til ráðuneytis í málum er varða menntun í starfsgreinum er undir ráðið heyra.

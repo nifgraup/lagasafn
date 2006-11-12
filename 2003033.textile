@@ -7,7 +7,7 @@ h2. Lög um verðbréfaviðskipti
 <hr />
 
 
- *Tóku gildi 1. júlí 2003.* _EES-samningurinn:_ IX. viðauki tilskipun 89/298/EBE, 89/592/EBE, 93/22/EBE og 2001/34/EB. _Breytt með_ "l. 31/2005":/altext/stjt/2005.031.html (tóku gildi 1. júlí 2005, nema 5. gr. og c-liður 23. gr. sem tóku gildi 1. jan. 2006) og "l. 82/2005":/altext/stjt/2005.082.html (tóku gildi 1. júlí 2005).
+ *Tóku gildi 1. júlí 2003.* _EES-samningurinn:_ IX. viðauki tilskipun 89/298/EBE, 89/592/EBE, 93/22/EBE og 2001/34/EB. _Breytt með_ "l. 31/2005":/altext/stjt/2005.031.html (tóku gildi 1. júlí 2005, nema 5. gr. og c-liður 23. gr. sem tóku gildi 1. jan. 2006), "l. 82/2005":/altext/stjt/2005.082.html (tóku gildi 1. júlí 2005), "l. 67/2006":/altext/stjt/2006.067.html (tóku gildi 24. júní 2006) og "l. 94/2006":/altext/stjt/2006.094.html (tóku gildi 30. júní 2006).
 
 
  *I. kafli.* *Gildissvið og orðskýringar.*
@@ -43,20 +43,26 @@ h2. Lög um verðbréfaviðskipti
     4. _Skipulegur verðbréfamarkaður:_ Markaður með verðbréf samkvæmt skilgreiningu laga um starfsemi kauphalla og skipulegra tilboðsmarkaða.
     5. _Kauphöll:_ Markaður samkvæmt skilgreiningu laga um starfsemi kauphalla og skipulegra tilboðsmarkaða.
     6. _Skipulegur tilboðsmarkaður:_ Markaður samkvæmt skilgreiningu laga um starfsemi kauphalla og skipulegra tilboðsmarkaða.
-    7. _Fagfjárfestar:_
-    a. Eftirtaldir opinberir aðilar:
-    i. ríkissjóður,
-    ii. Seðlabanki Íslands og
-    iii. Íbúðalánasjóður.
-    b. Eftirtaldir aðilar með starfsleyfi á fjármálamarkaði:
-    i. fjármálafyrirtæki,
-    ii. verðbréfasjóðir og fjárfestingarsjóðir,
-    iii. vátryggingafélög og
-    iv. lífeyrissjóðir.
-    c. Einstaklingar og lögaðilar óski þeir skriflega eftir því við fjármálafyrirtæki sem hefur heimild til verðbréfaviðskipta, enda uppfylli þeir skilyrði um faglega þekkingu, regluleg viðskipti og verulegan fjárhagslegan styrk, eins og nánar er mælt fyrir um í reglugerð.
+    7. _[Fagfjárfestar:_
+    a. Lögaðilar sem hafa starfsleyfi eða sinna lögbundinni starfsemi á fjármálamörkuðum, þ.m.t. lánastofnanir, verðbréfafyrirtæki, önnur fjármálafyrirtæki sem hafa starfsleyfi eða sinna lögbundinni starfsemi, vátryggingafélög, sjóðir um sameiginlega fjárfestingu og rekstrarfélög þeirra, lífeyrissjóðir og rekstrarfélög þeirra eftir því sem við á og hrávörumiðlanir.
+    b. Lögaðilar sem hvorki hafa starfsleyfi né sinna lögbundinni starfsemi á fjármálamörkuðum, en hafa einungis þann tilgang að fjárfesta í verðbréfum.
+    c. Ríkisstjórnir og sveitarstjórnir, seðlabankar, alþjóðastofnanir, svo sem Alþjóðagjaldeyrissjóðurinn, Seðlabanki Evrópu, Fjárfestingarbanki Evrópu og aðrar sambærilegar alþjóðastofnanir.
+    d. Aðrir lögaðilar sem uppfylla ekki tvö af þeim þremur skilyrðum sem sett eru fram í f-lið.
+    e. Einstaklingar búsettir á Íslandi, óski þeir skriflega eftir því við Fjármálaeftirlitið að vera viðurkenndir sem fagfjárfestar og uppfylla a.m.k. tvö af eftirfarandi þremur skilyrðum:
+    i. fjárfestir hefur átt umtalsverð viðskipti á verðbréfamörkuðum næstliðna fjóra ársfjórðunga, að meðaltali a.m.k. tíu sinnum á hverjum ársfjórðungi,
+    ii. verðgildi verðbréfaeignar fjárfestis nemur meira en 41,8 millj. kr.,
+    iii. fjárfestir gegnir eða hefur gegnt í að minnsta kosti eitt ár stöðu á fjármálamarkaði sem krefst sérþekkingar á fjárfestingum í verðbréfum.
+    f. Lítil og meðalstór fyrirtæki með skráða skrifstofu á Íslandi, óski þau skriflega eftir því við Fjármálaeftirlitið að vera viðurkennd sem fagfjárfestar. Með litlum og meðalstórum fyrirtækjum er átt við félög sem samkvæmt síðasta ársreikningi eða samstæðureikningi sínum uppfylla a.m.k. tvö af eftirfarandi þremur skilyrðum:
+    i. meðalfjöldi starfsmanna á fjárhagsárinu var innan við 250,
+    ii. niðurstöðutala efnahagsreiknings fór ekki yfir 3,6 milljarða króna,
+    iii. hrein ársvelta fór ekki yfir 4,2 milljarða króna.][^1)^]
     [8. _Opinber fjárfestingarráðgjöf:_ Greining eða samantekt upplýsinga sem felur í sér ráðleggingu um kaup eða sölu á fjármálagerningum eða leggur til fjárfestingarstefnu, með beinum eða óbeinum hætti, sem varðar einn eða fleiri fjármálagerninga eða útgefendur þeirra og ætluð er almenningi eða er líkleg til að verða aðgengileg almenningi, svo sem ef henni er dreift til stórs hóps manna.
-    9. _Viðurkennd markaðsframkvæmd:_ Framkvæmd sem eðlilegt er að gera ráð fyrir að sé viðhöfð á einum eða fleiri fjármálamörkuðum og Fjármálaeftirlitið hefur viðurkennt með þeim hætti sem kveðið er á um í reglugerð sem sett skal á grundvelli 73. gr.][^1)^]
-    _[^1)^]_"L. 31/2005, 1. gr.":/altext/stjt/2005.031.html
+    9. _Viðurkennd markaðsframkvæmd:_ Framkvæmd sem eðlilegt er að gera ráð fyrir að sé viðhöfð á einum eða fleiri fjármálamörkuðum og Fjármálaeftirlitið hefur viðurkennt með þeim hætti sem kveðið er á um í reglugerð sem sett skal á grundvelli 73. gr.][^2)^]
+ □ [Fjármálaeftirlitið skal halda skrá yfir þá einstaklinga og þau litlu og meðalstóru fyrirtæki sem það hefur viðurkennt sem fagfjárfesta. Skráin skal vera aðgengileg útgefendum verðbréfa.
+ □ Einstaklingum og litlum og meðalstórum fyrirtækjum sem skráð eru sem fagfjárfestar hjá Fjármálaeftirlitinu er hvenær sem er heimilt að láta taka sig af skránni.
+ □ Einstaklingar og lítil og meðalstór fyrirtæki sem eru á skrá sem fagfjárfestar hjá lögbærum yfirvöldum á Evrópska efnahagssvæðinu teljast einnig fagfjárfestar á Íslandi.
+ □ Fjárhæðir í 7. tölul. 1. mgr. eru bundnar við gengi evru (EUR) miðað við gengi hennar 4. janúar 2005 (83,54 kr.).][^1)^]
+    _[^1)^]_"L. 94/2006, 1. gr.":/altext/stjt/2006.094.html [^2)^]"L. 31/2005, 1. gr.":/altext/stjt/2005.031.html
 
  *II. kafli.* *Réttindi og skyldur.*
  ■ *3. gr.* _Gildissvið kaflans._
@@ -75,8 +81,8 @@ h2. Lög um verðbréfaviðskipti
  □ Taki fjármálafyrirtæki að sér þjónustu á sviði verðbréfaviðskipta sem felur í sér viðvarandi viðskiptasamband, svo sem eignastýringu, skal gerður skriflegur samningur milli fjármálafyrirtækisins og viðskiptavinar þess, þar sem m.a. skal kveðið á um réttindi og skyldur samningsaðila.
  □ Nú tekur fjármálafyrirtæki að sér eignastýringu og skal það þá senda viðskiptavinum sínum yfirlit tvisvar á ári þar sem fram koma upplýsingar um hvernig fjármunum viðskiptavinar hefur verið varið frá því fyrra yfirlit var gefið út, eignastöðu og áætlað verðmæti eigna við dagsetningu yfirlits. Fjármálafyrirtæki er ætíð skylt að senda viðskiptavinum sínum slíkt yfirlit án tafar fari viðskiptavinur fram á það.
 ■ *8. gr.* _Sala óskráðra verðbréfa._
- □ Sala fjármálafyrirtækis eða milliganga þess um sölu á óskráðum verðbréfum til annarra en fagfjárfesta, sem hvorki hafa verið seld í almennu útboði né falla undir [24. gr.],[^1)^] er háð því að lagt hafi verið mat á faglega þekkingu, fjárhag og reynslu viðskiptavinar, enda sé ekki um að ræða sölu eða milligöngu í almennu útboði verðbréfa. Sama gildir um sölu fjármálafyrirtækis eða milligöngu þess um sölu á afleiðum sem tengdar eru einu eða fleiri óskráðum verðbréfum. Í slíkum tilfellum er fjármálafyrirtæki heimilt að synja um milligöngu með slíka fjármálagerninga ef það telur viðskiptavin ekki búa yfir nægjanlegri þekkingu, reynslu eða fjárhagslegum styrk.
-    _[^1)^]_"L. 82/2005, 1. gr.":/altext/stjt/2005.082.html
+ □ Sala fjármálafyrirtækis eða milliganga þess um sölu á óskráðum verðbréfum til annarra en fagfjárfesta, sem hvorki hafa verið seld í almennu útboði né falla undir [28. gr.],[^1)^] er háð því að lagt hafi verið mat á faglega þekkingu, fjárhag og reynslu viðskiptavinar, enda sé ekki um að ræða sölu eða milligöngu í almennu útboði verðbréfa. Sama gildir um sölu fjármálafyrirtækis eða milligöngu þess um sölu á afleiðum sem tengdar eru einu eða fleiri óskráðum verðbréfum. Í slíkum tilfellum er fjármálafyrirtæki heimilt að synja um milligöngu með slíka fjármálagerninga ef það telur viðskiptavin ekki búa yfir nægjanlegri þekkingu, reynslu eða fjárhagslegum styrk.
+    _[^1)^]_"L. 94/2006, 2. gr.":/altext/stjt/2006.094.html
  ■ *9. gr.* _Besta framkvæmd._
  □ Við framkvæmd viðskiptafyrirmæla skal fjármálafyrirtæki tryggja besta mögulega verð fyrir viðskiptavini sína og bestu framkvæmd að öðru leyti, eins og við á hverju sinni.
 ■ *10. gr.* _Sérgreining fjármuna og fjármálagerninga._
@@ -117,36 +123,36 @@ h2. Lög um verðbréfaviðskipti
  *IV. kafli.* *[Útboð og skráning verðbréfa.][^1)^]*
     _[^1)^]"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html_
  ■ *[20. gr.* _Gildissvið kaflans._
- □ Ákvæði kafla þessa taka til almennra útboða og skráningar verðbréfa.
+ □ [Ákvæði kafla þessa taka til almennra útboða verðbréfa og skráningar verðbréfa á skipulegan verðbréfamarkað.][^1)^]
  □ Ákvæði kafla þessa eiga ekki við um:
     1. sjóði um sameiginlega fjárfestingu sem hafa það eingöngu að markmiði að veita viðtöku fé frá almenningi til sameiginlegrar fjárfestingar í fjármálagerningum og öðrum eignum á grundvelli áhættudreifingar samkvæmt fyrirframkunngerðri fjárfestingarstefnu og gefa út hlutdeildarskírteini eða hluti sem eru innleysanlegir að kröfu eigenda af eignum sjóðsins,
-    2. verðbréf sem ekki eru hlutabréfatengd og gefin eru út af ríkjum á Evrópska efnahagssvæðinu, héraðs- eða sveitarstjórnum, alþjóðastofnunum sem eitt eða fleiri ríkjanna eiga aðild að, af Seðlabanka Evrópu eða seðlabönkum ríkjanna,
+    2. verðbréf sem ekki eru hlutabréfatengd og gefin eru út af ríkjum á Evrópska efnahagssvæðinu, [svæðis- eða staðaryfirvöldum ríkja á Evrópska efnahagssvæðinu],[^1)^] alþjóðastofnunum sem eitt eða fleiri ríkjanna eiga aðild að, af Seðlabanka Evrópu eða seðlabönkum ríkjanna,
     3. seðlabanka á Evrópska efnahagssvæðinu,
-    4. verðbréf með skilyrðislausri og óafturkallanlegri ábyrgð ríkja á Evrópska efnahagssvæðinu, héraðs- eða sveitarstjórna,
+    4. verðbréf með skilyrðislausri og óafturkallanlegri ábyrgð ríkja á Evrópska efnahagssvæðinu, [svæðis- eða staðaryfirvalda ríkja á Evrópska efnahagssvæðinu],[^1)^]
     5. verðbréf sem gefin eru út af lögaðilum sem ekki eru reknir í hagnaðarskyni í þeim tilgangi að afla fjár til framdráttar markmiðum sínum og lúta ekki að hag sjálfra lögaðilanna,
     6. verðbréf sem ekki eru hlutabréfatengd og gefin eru út samfellt eða með endurteknum hætti af lánastofnunum svo fremi sem þessi verðbréf:
     a. eru ekki víkjanleg, breytanleg eða skiptanleg,
     b. fela ekki í sér rétt til áskriftar eða rétt til að öðlast aðrar tegundir verðbréfa og eru ekki tengd afleiðum,
-    c. fela í sér að réttur stofnist til endurgreiðslu,
+    c. fela í sér að réttur stofnist til endurgreiðslu [innborgunar],[^1)^]
     d. falla undir "lög nr. 98/1999":1999098.html, um innstæðutryggingar og tryggingakerfi fyrir fjárfesta,
-    7. útboð verðbréfa undir 210 millj. kr., sbr. þó 73. gr. laga þessara; fjárhæð útboðsins skal miðuð við 12 mánaða tímabil,
+    7. [verðbréf boðin í útboði þar sem heildarfjárhæð útboðsins er lægri en 210 millj. kr., sbr. þó 73. gr. laga þessara; heildarfjárhæð útboðsins skal miðuð við 12 mánaða tímabil],[^1)^]
     8. verðbréf sem ekki eru hlutabréfatengd og eru gefin út samfellt eða með endurteknum hætti af lánastofnunum, og heildarfjárhæð útboðs er lægri en 4,2 milljarðar króna, miðað við 12 mánaða tímabil, svo fremi sem þessi verðbréf:
     a. eru ekki víkjanleg, breytanleg eða skiptanleg,
     b. fela ekki í sér rétt til áskriftar eða rétt til að öðlast aðrar tegundir verðbréfa og eru ekki tengd afleiðum.
- □ Útgefanda, tilboðsgjafa eða aðila sem óskar eftir skráningu verðbréfa á skipulegan verðbréfamarkað, sem fellur undir ákvæði 2., 4., 6. eða 7. tölul. 2. mgr., er heimilt að útbúa lýsingu í samræmi við þennan kafla.
- □ Fjárhæðir í þessum kafla eru bundnar við gengi evru (EUR) miðað við gengi hennar 4. janúar 2005 (83,54 kr.).][^1)^]
-    _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
+ □ Útgefanda, tilboðsgjafa eða aðila sem óskar eftir skráningu verðbréfa á skipulegan verðbréfamarkað, sem fellur undir ákvæði [2., 4., 7. eða 8. tölul. 2. mgr.],[^1)^] er heimilt að útbúa lýsingu í samræmi við þennan kafla.
+ □ Fjárhæðir í þessum kafla eru bundnar við gengi evru (EUR) miðað við gengi hennar 4. janúar 2005 (83,54 kr.).][^2)^]
+    _[^1)^]_"L. 94/2006, 3. gr.":/altext/stjt/2006.094.html [^2)^]"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
  ■ *[21. gr.* _Orðskýringar._
 
-    1. _Almennt útboð:_ Með almennu útboði verðbréfa, hvort heldur er í upphaflegri sölu eða síðari sölu, er átt við hvers konar boð til almennings um kaup á verðbréfum, með hvaða hætti sem er, þar sem fram koma nægjanlegar upplýsingar um skilmála útboðs og verðbréfin sem eru boðin til kaups til að fjárfesti sé kleift að ákveða að kaupa eða láta skrá sig fyrir kaupum á þessum verðbréfum. Undir þetta falla einnig verðbréf sem sett eru á markað fyrir tilstilli milligönguaðila á fjármálamarkaði.
+    1. _Almennt útboð:_ Með almennu útboði verðbréfa, hvort heldur er í upphaflegri sölu eða síðari sölu, er átt við hvers konar boð til almennings um kaup á verðbréfum, með hvaða hætti sem er, þar sem fram koma nægjanlegar upplýsingar um skilmála útboðs og verðbréfin sem eru boðin til kaups til að fjárfesti sé kleift að ákveða að kaupa eða láta skrá sig fyrir kaupum á þessum verðbréfum. Undir þetta falla einnig verðbréf sem [eru markaðsett og/eða seld][^1)^] fyrir tilstilli milligönguaðila á fjármálamarkaði.
     2. _Lýsing:_ Lýsing er samheiti yfir skjal eða skjöl sem gefa þarf út vegna almenns útboðs verðbréfa eða skráningar verðbréfa á skipulegan verðbréfamarkað.
-    3. _Grunnlýsing:_ Lýsing sem inniheldur nauðsynlegar upplýsingar um útgefanda og verðbréf sem boðin eru almenningi eða ætlunin er að skrá á skipulegan verðbréfamarkað skv. 2. tölul.
+    3. _[Grunnlýsing:_ Lýsing sem inniheldur allar nauðsynlegar upplýsingar um útgefanda og verðbréf sem boðin eru almenningi eða sem ætlunin er að skrá á skipulegan verðbréfamarkað, og að vali útgefanda, endanlega skilmála útboðs.][^1)^]
     4. _Útgefandalýsing:_ Sá hluti lýsingar, þegar lýsing er gefin út sem þrjú aðskilin skjöl, sem veitir upplýsingar um útgefandann.
     5. _Verðbréfalýsing:_ Sá hluti lýsingar, þegar lýsing er gefin út sem þrjú aðskilin skjöl, sem veitir upplýsingar um verðbréfin sjálf.
-    6. _Samantekt:_ Sá hluti lýsingar sem veitir upplýsingar um megineinkenni og áhættur sem tengd eru útgefanda, umsjónaraðila og verðbréfunum sjálfum. Samantektin skal sett fram í stuttu máli og með skýrum hætti.
+    6. _Samantekt:_ Sá hluti lýsingar sem veitir upplýsingar um megineinkenni og áhættur sem tengd eru útgefanda, [ábyrgðaraðilum][^1)^] og verðbréfunum sjálfum. Samantektin skal sett fram í stuttu máli og með skýrum hætti.
     7. _Hlutabréfatengd verðbréf:_ Hlutabréf og önnur framseljanleg verðbréf sem eru jafngild hlutabréfum í félögum ásamt hvers kyns öðrum tegundum framseljanlegra verðbréfa sem veita rétt til að eignast einhver hinna framangreindu verðbréfa með því að breyta þeim eða nýta þann rétt sem þau veita, að því tilskildu að verðbréf af síðarnefndu tegundinni séu gefin út af útgefanda hinna undirliggjandi hlutabréfa eða aðila sem tilheyrir samstæðu útgefandans.
-    8. _Útboðsáætlun:_ Áætlun sem mundi heimila útgáfu verðbréfa, sem ekki eru hlutabréfatengd, þ.m.t. áskriftarréttinda í hvaða formi sem er, af svipaðri gerð og/eða í svipuðum flokki, samfellt eða með endurteknum hætti á tilteknu útgáfutímabili.][^1)^]
-    _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
+    8. _Útboðsáætlun:_ Áætlun sem mundi heimila útgáfu verðbréfa, sem ekki eru hlutabréfatengd, þ.m.t. áskriftarréttinda í hvaða formi sem er, af svipaðri gerð og/eða í svipuðum flokki, samfellt eða með endurteknum hætti á tilteknu útgáfutímabili.][^2)^]
+    _[^1)^]_"L. 94/2006, 4. gr.":/altext/stjt/2006.094.html [^2)^]"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
  ■ *[22. gr.* _Skilyrði almenns útboðs og skráningar verðbréfa._
  □ Almennt útboð verðbréfa er háð því að lýsing hafi verið gefin út í samræmi við ákvæði laga þessara.
  □ Skráning verðbréfa á skipulegan verðbréfamarkað er háð útgáfu lýsingar í samræmi við ákvæði laga þessara.][^1)^]
@@ -154,7 +160,7 @@ h2. Lög um verðbréfaviðskipti
  ■ *[23. gr.* _Upplýsingar í lýsingu._
  □ Lýsing skal innihalda þær upplýsingar sem með hliðsjón af eðli útgefandans og verðbréfanna eru nauðsynlegar fjárfestum til þess að þeir geti metið eignir og skuldir, fjárhagsstöðu, afkomu og framtíðarhorfur útgefanda og ábyrgðaraðila, ef við á, sem og þau réttindi sem fylgja verðbréfunum. Upplýsingarnar skulu settar fram á skýran og greinargóðan hátt.
  □ Auk upplýsinga um útgefandann og verðbréfin skal lýsing innihalda stutta og greinargóða samantekt sem lýsir grundvallareinkennum og áhættu hvað varðar útgefandann, ábyrgðaraðila, ef við á, og verðbréfin sjálf.
- □ Þegar um er að ræða lýsingu á verðbréfum sem eru ekki hlutabréfatengd, vegna skráningar á skipulegan verðbréfamarkað, og verðbréfin eru í einingum sem nema að lágmarki 4,2 millj. kr. er ekki skylda að útbúa samantekt.
+ □ [Þegar um er að ræða lýsingu vegna skráningar á skipulegan verðbréfamarkað á verðbréfum sem eru ekki hlutabréfatengd og sem eru í einingum sem nema að lágmarki 4,2 millj. kr. að nafnverði er ekki skylda að útbúa samantekt.][^1)^]
  □ Fjármálaeftirlitið getur veitt undanþágu frá birtingu tiltekinna upplýsinga í lýsingu samkvæmt lögum þessum ef það telur:
     a. að birting slíkra upplýsinga mundi stríða gegn almannahagsmunum,
     b. að birting slíkra upplýsinga væri verulega skaðleg fyrir útgefandann, að því tilskildu að ekki sé líklegt að sú staðreynd að upplýsingunum sé sleppt villi um fyrir almenningi að því er varðar nauðsynlegar staðreyndir og aðstæður til að hægt sé að meta, á grundvelli upplýsinganna, útgefandann, tilboðsgjafann eða ábyrgðaraðilann, ef einhver er, og réttindin sem fylgja verðbréfunum sem lýsingin varðar,
@@ -165,12 +171,12 @@ h2. Lög um verðbréfaviðskipti
     3. samantekt.
  □ Í eftirfarandi tilvikum getur útgefandi, tilboðsgjafi eða aðili sem óskar eftir skráningu á skipulegan verðbréfamarkað útbúið grunnlýsingu:
     a. þegar um er að ræða verðbréf sem eru ekki hlutabréfatengd og gefin eru út sem hluti af útboðsáætlun, þ.m.t. áskriftarréttindi í hvaða formi sem er,
-    b. þegar verðbréf sem eru ekki hlutabréfatengd eru gefin út með samfelldum og endurteknum hætti af lánastofnunum og eftirfarandi skilyrði eru uppfyllt:
-    i. andvirði útgáfu verðbréfanna er samkvæmt landslögum bundið í eignum sem veita nægjanlega tryggingu fram að gjalddaga vegna skuldbindinga samkvæmt verðbréfunum,
-    ii. andvirði bréfanna er fyrst og fremst ætlað að greiða upp gjaldfallinn höfuðstól og vexti ef fjármálafyrirtæki verður ógjaldfært, sbr. þó "XII. kafla laga nr. 161/2002":2002161.html, um fjármálafyrirtæki.
+    b. [þegar verðbréf sem eru ekki hlutabréfatengd eru gefin út með samfelldum og endurteknum hætti af lánastofnunum,
+    i. þar sem andvirði útgáfu verðbréfanna er samkvæmt landslögum bundið í eignum sem veita nægjanlega tryggingu fram að gjalddaga vegna skuldbindinga samkvæmt verðbréfunum,
+    ii. þar sem andvirði bréfanna er fyrst og fremst ætlað að greiða upp gjaldfallinn höfuðstól og vexti ef lánastofnun verður ógjaldfær, sbr. þó "XII. kafla laga nr. 161/2002":2002161.html, um fjármálafyrirtæki.][^1)^]
  Gefinn skal út viðauki við grunnlýsingu ef nauðsynlegt þykir, sbr. ákvæði 24. gr. Viðaukinn skal innihalda uppfærðar upplýsingar um útgefandann og verðbréfin sem boðin eru almenningi eða ætlunin er að skrá á skipulegan verðbréfamarkað.
- □ Ef endanlegir skilmálar útboðs koma ekki fram í grunnlýsingu eða viðauka við hana skulu þeir látnir fjárfestum í té og skráðir hjá Fjármálaeftirlitinu við hvert almennt útboð. Skal þetta gert eins fljótt og auðið er og, ef hægt er, áður en útboð hefst.][^1)^]
-    _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
+ □ Ef endanlegir skilmálar útboðs koma ekki fram í grunnlýsingu eða viðauka við hana skulu þeir látnir fjárfestum í té og skráðir hjá Fjármálaeftirlitinu við hvert almennt útboð. Skal þetta gert eins fljótt og auðið er og, ef hægt er, áður en útboð hefst.][^2)^]
+    _[^1)^]_"L. 94/2006, 5. gr.":/altext/stjt/2006.094.html [^2)^]"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
  ■ *[24. gr.* _Viðauki við lýsingu._
  □ Komi fram mikilvægar nýjar upplýsingar, veigamikil mistök eða ónákvæmni er varða upplýsingar í lýsingu, sem máli geta skipt við mat á verðbréfunum og koma fram á tímabilinu frá því að lýsingin var staðfest, sbr. 30. gr., og þar til útboði lýkur eða, ef við á, þegar viðskipti á skipulegum verðbréfamarkaði hefjast, skal útbúa viðauka við lýsingu þar sem greint er frá viðkomandi atriðum. Viðaukinn skal staðfestur innan sjö virkra daga og birtur á sama hátt og upprunalega lýsingin. Einnig skal, ef nauðsyn krefur, gera viðauka við samantektina og þýðingu hennar og skal þar tekið mið af viðbótarupplýsingum þeim sem fram koma í viðaukanum.
  □ Fjárfestar sem þegar hafa samþykkt að kaupa eða skrá sig fyrir verðbréfum áður en viðaukinn er birtur skulu hafa rétt til að falla frá fyrrgreindu samþykki að lágmarki í tvo virka daga frá birtingu viðaukans.][^1)^]
@@ -179,8 +185,8 @@ h2. Lög um verðbréfaviðskipti
  □ Lýsing skal vera gild í 12 mánuði frá opinberri birtingu að því er varðar almennt útboð eða skráningu á skipulegan verðbréfamarkað, að því tilskildu að við lýsinguna sé bætt þeim viðbótarupplýsingum sem krafist er skv. 24. gr.
  □ Ef um er að ræða útboðsáætlun skal grunnlýsing, sem hefur verið skráð hjá Fjármálaeftirlitinu, vera í gildi í allt að 12 mánuði.
  □ Ef um er að ræða verðbréf sem eru ekki hlutabréfatengd, sem um getur í b-lið 6. mgr. 23. gr., skal lýsingin vera í gildi þar til hætt er að gefa út viðkomandi verðbréf samfellt eða með endurteknum hætti.
- □ Útgefandalýsing eins og um getur í 5. mgr. 23. gr., sem áður hefur verið skráð hjá Fjármálaeftirlitinu, skal vera í gildi í allt að 12 mánuði, að því tilskildu að hún hafi verið uppfærð í samræmi við ákvæði 1. mgr. 26. gr. Útgefandalýsing ásamt verðbréfalýsingu, uppfærð í samræmi við 27. gr., ef við á, og samantekt teljast vera gild lýsing.][^1)^]
-    _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
+ □ Útgefandalýsing eins og um getur í 5. mgr. 23. gr., sem áður hefur verið skráð hjá Fjármálaeftirlitinu, skal vera í gildi í allt að 12 mánuði, að því tilskildu að hún hafi verið uppfærð í samræmi við ákvæði [1. mgr. 24. gr.][^1)^] Útgefandalýsing ásamt verðbréfalýsingu, uppfærð í samræmi við 27. gr., ef við á, og samantekt teljast vera gild lýsing.][^2)^]
+    _[^1)^]_"L. 94/2006, 6. gr.":/altext/stjt/2006.094.html [^2)^]"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
  ■ *[26. gr.* _Árleg upplýsingagjöf._
  □ Útgefendur verðbréfa sem eru skráð á skipulegan verðbréfamarkað skulu a.m.k. árlega útbúa skjal sem inniheldur eða vísar til allra upplýsinga sem þeir hafa gefið út eða gert aðgengilegar almenningi á síðustu 12 mánuðum á Evrópska efnahagssvæðinu og í löndum utan Evrópska efnahagssvæðisins í samræmi við skuldbindingar útgefandans samkvæmt lögum og reglum um verðbréf, útgefendur verðbréfa og verðbréfamarkað. Skjalið skal sent Fjármálaeftirlitinu í kjölfar birtingar ársreiknings, til skráningar. Ef vísað er til upplýsinga í skjalinu skal tilgreina hvar hægt sé að nálgast þær.
  □ Ákvæði 1. mgr. eiga ekki við þegar um er að ræða útgefendur verðbréfa sem eru ekki hlutabréfatengd, í einingum sem nema að minnsta kosti 4,2 millj. kr.][^1)^]
@@ -193,34 +199,34 @@ h2. Lög um verðbréfaviðskipti
  □ Undanþegin ákvæðum 22. gr. eru:
     1. Útboð þar sem eitt eða fleiri eftirtalinna tilvika eiga við:
     a. verðbréf eru eingöngu boðin fagfjárfestum,
-    b. verðbréf eru boðin tilgreindum afmörkuðum hópi aðila enda séu ekki fleiri en 100 aðilar í hópnum sem ekki teljast fagfjárfestar,
+    b. [verðbréf eru boðin færri en 100 aðilum, öðrum en fagfjárfestum, í hverju ríki á Evrópska efnahagssvæðinu],[^1)^]
     c. hver fjárfestir reiðir af hendi a.m.k. 4,2 millj. kr. til kaupa á verðbréfunum í hverju útboði,
-    d. verðbréfin sem gefin eru út eru að nafnverði a.m.k. 4,2 millj. kr.,
-    e. áætlað heildarsöluverð verðbréfanna er undir 8,4 millj. kr.
- Ef verðbréf eru seld fyrir milligöngu fjármálafyrirtækis og undanþáguákvæði a - e-liðar þessa töluliðar eiga ekki við skal birta útboðslýsingu.
-    2. Útboð verðbréfa af eftirfarandi gerðum:
+    d. verðbréfin sem gefin eru út eru að nafnverði a.m.k. 4,2 millj. kr. [hver eining],[^1)^]
+    e. áætlað heildarsöluverð verðbréfanna er undir 8,4 millj. kr. [og miðast útreikningurinn á þeim mörkum við 12 mánaða tímabil].[^1)^]
+ Ef verðbréf eru [markaðssett og/eða][^1)^] seld fyrir milligöngu fjármálafyrirtækis og undanþáguákvæði a - e-liðar þessa töluliðar eiga ekki við skal birta útboðslýsingu.
+    2. [Almenn útboð][^1)^] verðbréfa af eftirfarandi gerðum:
     a. hlutir ef þeir eru gefnir út í staðinn fyrir áður útgefna hluti í sama flokki hafi útgáfa hinna nýju hluta ekki í för með sér hækkun á útgefnu hlutafé,
     b. verðbréf sem boðin eru í tengslum við yfirtöku að því gefnu að fyrirliggjandi sé skjal sem telst sambærilegt lýsingu að mati Fjármálaeftirlitsins,
     c. verðbréf sem boðin eru, er úthlutað eða verður úthlutað í tengslum við samruna fyrirtækja að því gefnu að fyrirliggjandi sé skjal sem telst sambærilegt lýsingu að mati Fjármálaeftirlitsins,
     d. hlutir sem boðnir eru, er úthlutað eða verður úthlutað til núverandi hluthafa án endurgjalds og arðgreiðslur í formi hluta að því gefnu að hlutirnir séu í sama flokki og þeir hlutir sem arðgreiðslurnar stafa af; skjal skal vera fyrirliggjandi þar sem fram koma upplýsingar um fjölda og eðli fyrrgreindra hluta ásamt ástæðum fyrir útboðinu og upplýsingum um útboðið sjálft,
-    e. verðbréf sem vinnuveitandi eða félag tengt honum býður, úthlutar eða mun úthluta núverandi eða fyrrverandi fastráðnum starfsmönnum eða stjórnarmönnum félaganna; útgefandi verðbréfanna skal þegar hafa skráð verðbréf á skipulegum verðbréfamarkaði; skjal skal vera fyrirliggjandi þar sem fram koma upplýsingar um fjölda og eðli fyrrgreindra hluta ásamt ástæðum fyrir útboðinu og upplýsingum um útboðið sjálft.
+    e. [verðbréf sem vinnuveitandi eða félag tengt honum býður, úthlutar eða mun úthluta núverandi eða fyrrverandi starfsmönnum eða stjórnarmönnum félaganna; að því gefnu að verðbréfin sem boðin eru séu í sama flokki og þau verðbréf sem þegar hafa verið skráð á skipulegum verðbréfamarkaði; skjal skal vera fyrirliggjandi þar sem fram koma upplýsingar um fjölda og eðli fyrrgreindra verðbréfa ásamt ástæðum fyrir útboðinu og upplýsingum um útboðið sjálft].[^1)^]
     3. Skráning verðbréfa af eftirfarandi gerðum:
-    a. hlutir sem nema minna en 10% af fjölda hluta sama flokks sem þegar er skráður á skipulegum verðbréfamarkaði, miðað við 12 mánaða tímabil,
+    a. hlutir sem nema minna en 10% af fjölda hluta sama flokks sem þegar er [skráður á sama skipulega verðbréfamarkaði],[^1)^] miðað við 12 mánaða tímabil,
     b. hlutir ef þeir eru gefnir út í staðinn fyrir áður útgefna hluti í sama flokki, sem þegar eru skráðir á sama skipulega verðbréfamarkaði, hafi útgáfa hinna nýju hluta ekki í för með sér hækkun á útgefnu hlutafé,
     c. verðbréf sem boðin eru í tengslum við yfirtöku að því gefnu að fyrirliggjandi sé skjal sem telst sambærilegt lýsingu að mati Fjármálaeftirlitsins,
     d. verðbréf sem boðin eru, er úthlutað eða verður úthlutað í tengslum við samruna fyrirtækja að því gefnu að fyrirliggjandi sé skjal sem telst sambærilegt lýsingu að mati Fjármálaeftirlitsins,
     e. hlutir sem boðnir eru, er úthlutað eða verður úthlutað til núverandi hluthafa án endurgjalds og arðgreiðslur í formi hluta að því gefnu að hlutirnir séu í sama flokki og þeir hlutir sem arðgreiðslurnar stafa af og skráðir eru á sama skipulega verðbréfamarkaði; skjal skal vera fyrirliggjandi þar sem fram koma upplýsingar um fjölda og eðli fyrrgreindra hluta ásamt ástæðum fyrir útboðinu og upplýsingum um útboðið sjálft,
-    f. verðbréf sem vinnuveitandi eða félag tengt honum býður, úthlutar eða mun úthluta núverandi eða fyrrverandi fastráðnum starfsmönnum eða stjórnarmönnum félaganna að því gefnu að verðbréfin sem boðin eru séu í sama flokki og þau verðbréf sem þegar hafa verið skráð á skipulegum verðbréfamarkaði; skjal skal vera fyrirliggjandi með upplýsingum um fjölda og eðli hlutanna ásamt ástæðum fyrir útboðinu og upplýsingum um það,
+    f. verðbréf sem vinnuveitandi eða félag tengt honum býður, úthlutar eða mun úthluta núverandi eða fyrrverandi ...[^1)^] starfsmönnum eða stjórnarmönnum félaganna að því gefnu að verðbréfin sem boðin eru séu í sama flokki og þau verðbréf sem þegar hafa verið skráð á skipulegum verðbréfamarkaði; skjal skal vera fyrirliggjandi með upplýsingum um fjölda og [eðli verðbréfanna][^1)^] ásamt ástæðum fyrir útboðinu og upplýsingum um það,
     g. hlutir sem gefnir eru út við skiptingu á breytanlegum eða skiptanlegum verðbréfum eða vegna nýtingar áskriftarréttinda á öðrum verðbréfum að því gefnu að hlutirnir séu í sama flokki og skráðir á sama skipulega verðbréfamarkaði og áður útgefnir hlutir,
     h. verðbréf sem þegar eru skráð á öðrum skipulegum verðbréfamarkaði og uppfylla eftirfarandi skilyrði:
-    i. verðbréfin eða verðbréf í sama flokki hafa verið skráð í að minnsta kosti 18 mánuði á skipulegum verðbréfamarkaði,
-    ii. þegar um er að ræða verðbréf sem fyrst eru skráð á skipulegan verðbréfamarkað eftir gildistöku þessara laga skal staðfest skráningarlýsing hafa verið birt í samræmi við reglugerð þess efnis, sbr. 73. gr.,
+    i. verðbréfin eða verðbréf í sama flokki hafa verið skráð í að minnsta kosti 18 mánuði á [viðkomandi][^1)^] skipulegum verðbréfamarkaði,
+    ii. [þegar um er að ræða verðbréf sem fyrst eru skráð á skipulegan verðbréfamarkað eftir gildistöku þessara laga skulu verðbréfin hafa verið skráð á viðkomandi skipulegan verðbréfamarkað á grundvelli staðfestrar lýsingar sem birt hefur verið í samræmi við sambærilegar reglur og eru í lögum þessum og reglugerð, sbr. 73. gr.],[^1)^]
     iii. þegar ii-liður á ekki við en verðbréf hafa verið skráð eftir 30. júní 1983 skal staðfest skráningarlýsing hafa legið fyrir í samræmi við þágildandi reglur,
-    iv. viðvarandi upplýsingaskyldu á skipulegum verðbréfamarkaði hefur verið fullnægt,
+    iv. [viðvarandi skyldum fyrir viðskiptum með bréfin á viðkomandi skipulegum verðbréfamarkaði hefur verið fullnægt],[^1)^]
     v. aðili sem óskar eftir skráningu verðbréfa á skipulegum verðbréfamarkaði, samkvæmt þessari undanþágu, gerir ágrip sem er aðgengilegt almenningi,
     vi. ágripið sem vísað er til í v. lið er gert aðgengilegt almenningi með þeim hætti sem lýst er í reglugerð um lýsingar,
-    vii. ágripið uppfyllir tilskilin skilyrði um efni og innihald samantektar samkvæmt lögum þessum og ákvæðum reglugerðar um lýsingar; í ágripinu skal enn fremur koma fram hvar hægt er að nálgast nýjustu lýsingu vegna verðbréfanna og fjárhagsupplýsingar þær sem útgefandi hefur birt í samræmi við viðvarandi upplýsingaskyldu.][^1)^]
-    _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
+    vii. ágripið uppfyllir tilskilin skilyrði um efni og innihald samantektar samkvæmt lögum þessum og ákvæðum reglugerðar um lýsingar; í ágripinu skal enn fremur koma fram hvar hægt er að nálgast nýjustu lýsingu vegna verðbréfanna og fjárhagsupplýsingar þær sem útgefandi hefur birt í samræmi við viðvarandi upplýsingaskyldu.][^2)^]
+    _[^1)^]_"L. 94/2006, 7. gr.":/altext/stjt/2006.094.html [^2)^]"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
  ■ *[29. gr.* _Sölutrygging._
  □ Með sölutryggingu er átt við samning milli fjármálafyrirtækis og útgefanda eða eiganda verðbréfa þar sem fjármálafyrirtækið skuldbindur sig til þess að kaupa, innan tiltekins tímamarks og á fyrirframákveðnu verði, þann hluta verðbréfa sem áskrift næst ekki fyrir í almennu útboði.
  □ Nú tekur fjármálafyrirtæki að sér sölutryggingu í tengslum við almennt útboð og skal þá litið svo á að það ábyrgist einungis að fullnægjandi áskrift fáist til að útboðið takist, nema um annað sé sérstaklega samið.][^1)^]
@@ -237,9 +243,9 @@ h2. Lög um verðbréfaviðskipti
     _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
  ■ *[32. gr.][^1)^]* _Flöggunarskylda._
  □ Með verulegum hlut í lögum þessum er átt við 5% atkvæðisréttar eða nafnverðs hlutafjár, og margfeldi þar af, allt að 90%.
- □ Þegar aðili nær verulegum hlut, eða hækkar upp fyrir eða lækkar niður fyrir slíkan hlut, ber honum að tilkynna það til viðkomandi skipulegs verðbréfamarkaðar og hlutafélags þegar í stað. Tilkynning á grundvelli 8. tölul. [29. gr.][^2)^] skal fara fram á samningsdegi.
- □ Í tilkynningu skv. 2. mgr. skulu koma fram upplýsingar um nafn og heimilisfang flöggunarskylds aðila, nafnverð hlutafjár og hlutfall þess af heildarhlutafé félagsins, hlutabréfaflokk ef það á við, fyrir og eftir hin tilkynningarskyldu viðskipti, og á hvaða grundvelli viðkomandi varð tilkynningarskyldur skv. [29. gr.],[^2)^] ásamt öðrum þeim upplýsingum sem viðkomandi skipulegur verðbréfamarkaður metur nauðsynlegar.
-    _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html [^2)^]"L. 82/2005, 3. gr.":/altext/stjt/2005.082.html
+ □ Þegar aðili nær verulegum hlut, eða hækkar upp fyrir eða lækkar niður fyrir slíkan hlut, ber honum að tilkynna það til viðkomandi skipulegs verðbréfamarkaðar og hlutafélags þegar í stað. Tilkynning á grundvelli 8. tölul. [33. gr.][^2)^] skal fara fram á samningsdegi.
+ □ Í tilkynningu skv. 2. mgr. skulu koma fram upplýsingar um nafn og heimilisfang flöggunarskylds aðila, nafnverð hlutafjár og hlutfall þess af heildarhlutafé félagsins, hlutabréfaflokk ef það á við, fyrir og eftir hin tilkynningarskyldu viðskipti, og á hvaða grundvelli viðkomandi varð tilkynningarskyldur skv. [33. gr.],[^2)^] ásamt öðrum þeim upplýsingum sem viðkomandi skipulegur verðbréfamarkaður metur nauðsynlegar.
+    _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html [^2)^]"L. 94/2006, 8. gr.":/altext/stjt/2006.094.html
  ■ *[33. gr.][^1)^]* _Afmörkun verulegs hlutar._
  □ Þegar ákvarðað er hvort um verulegan hlut sé að ræða skal litið til hlutabréfa sem:
     1. viðkomandi aðili á sjálfur eða aðili sem hann er í fjárfélagi við,
@@ -253,17 +259,17 @@ h2. Lög um verðbréfaviðskipti
     9. viðkomandi aðili varðveitir og getur neytt atkvæðisréttar yfir án sérstakra fyrirmæla eiganda.
     _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html
  ■ *[34. gr.][^1)^]* _Undanþága frá flöggunarskyldu._
- □ Undanþegin tilkynningarskyldu skv. [28. gr.][^2)^] eru fjármálafyrirtæki, enda sé eftirfarandi skilyrðum fullnægt:
+ □ Undanþegin tilkynningarskyldu skv. [32. gr.][^2)^] eru fjármálafyrirtæki, enda sé eftirfarandi skilyrðum fullnægt:
     1. um er að ræða veltubókarviðskipti,
     2. ekki er farið yfir 10% af hlutafé eða samsvarandi hluta atkvæðisréttar,
     3. ekki er ætlunin að hafa afskipti af stjórn félagsins,
     4. viðskiptin eru innan venjubundinnar starfsemi fjármálafyrirtækis og
-    5. eignarhald fjármálafyrirtækis stendur ekki lengur en fimm viðskiptadaga frá því að tilkynningarskylda stofnast skv. [28. gr.][^2)^]
-    _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html [^2)^]"L. 82/2005, 4. gr.":/altext/stjt/2005.082.html
+    5. eignarhald fjármálafyrirtækis stendur ekki lengur en fimm viðskiptadaga frá því að tilkynningarskylda stofnast skv. [32. gr.][^2)^]
+    _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html [^2)^]"L. 94/2006, 9. gr.":/altext/stjt/2006.094.html
  ■ *[35. gr.][^1)^]* _Birting upplýsinga um verulegan hlut._
- □ Skipulegur verðbréfamarkaður skal miðla upplýsingunum um tilkynningar skv. [28. gr.][^2)^] í upplýsingakerfi sínu.
+ □ Skipulegur verðbréfamarkaður skal miðla upplýsingunum um tilkynningar skv. [32. gr.][^2)^] í upplýsingakerfi sínu.
  □ Félag, sem hefur hlutabréf sín skráð í kauphöll í öðru ríki á Evrópska efnahagssvæðinu eða í ríki sem gerður hefur verið samstarfssamningur við, skal sjá til þess að upplýsingar um verulegan hlut séu birtar þar samkvæmt þeim reglum sem þar gilda.
-    _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html [^2)^]"L. 82/2005, 4. gr.":/altext/stjt/2005.082.html
+    _[^1)^]_"L. 31/2005, 5. gr.":/altext/stjt/2005.031.html [^2)^]"L. 94/2006, 9. gr.":/altext/stjt/2006.094.html
 
  *VI. kafli.* *Yfirtökutilboð.*
  ■ *[36. gr.][^1)^]* _Gildissvið kaflans._
@@ -425,7 +431,7 @@ h2. Lög um verðbréfaviðskipti
  *IX. kafli.* *Meðferð innherjaupplýsinga og viðskipti innherja.*
  ■ *[56. gr.][^1)^]* _Gildissvið kaflans._
  □ Fjármálagerningar sem ákvæði kafla þessa taka til eru eftirfarandi:
-    1. [1. tölul. orðast svo: verðbréf sem skráð hafa verið eða óskað hefur verið eftir að verði skráð á skipulegum verðbréfamarkaði og][^2)^]
+    1. [verðbréf sem skráð hafa verið eða óskað hefur verið eftir að verði skráð á skipulegum verðbréfamarkaði og][^2)^]
     2. [fjármálagerningar sem tengdir eru einu eða fleiri verðbréfum skv. 1. tölul.][^2)^]
  □ [Ákvæði 60. gr. eiga ekki við þegar um er að ræða viðskipti með eigin hluti í endurkaupaáætlunum eða við verðjöfnun fjármálagerninga, enda hafi viðskiptin farið fram í samræmi við reglugerð sem sett er á grundvelli 73. gr. Önnur ákvæði kafla þessa skulu gilda eftir atvikum.][^2)^]
     _[^1)^]_"L. 31/2005, 6. gr.":/altext/stjt/2005.031.html [^2)^]"L. 31/2005, 14. gr.":/altext/stjt/2005.031.html
@@ -561,8 +567,8 @@ h2. Lög um verðbréfaviðskipti
     13. tungumál sem notuð eru í lýsingum,
     14. skilgreiningu á heimaríki í skilningi IV. kafla laganna,
     15. útboð verðbréfa í þeim tilvikum þegar verðmæti þeirra er á bilinu 8,4 til 210 millj. kr.
- □ Að öðru leyti er ráðherra heimilt að setja ákvæði í reglugerð sem samræmast ákvæðum tilskipunar 2003/71/EBE um útboðs- og skráningarlýsingar og undirgerð hennar.
- □ Þá skal ráðherra setja reglugerð[^3)^] um nánari skilgreiningar á:
+ □ Að öðru leyti er ráðherra heimilt að setja ákvæði í reglugerð[^3)^] sem samræmast ákvæðum tilskipunar 2003/71/EBE um útboðs- og skráningarlýsingar og undirgerð hennar.
+ □ Þá skal ráðherra setja reglugerð[^4)^] um nánari skilgreiningar á:
     1. innherjaupplýsingum,
     2. innherjaupplýsingum þegar um er að ræða hrávöruafleiður,
     3. markaðsmisnotkun,
@@ -574,7 +580,7 @@ h2. Lög um verðbréfaviðskipti
  □ Ráðherra er einnig heimilt að setja nánari ákvæði í reglugerð um:
     1. upplýsingaskyldu þegar útgefandi hefur fengið fjármálagerninga sína skráða í fleiri en einni kauphöll,
     2. safnskráningu, m.a. um sviptingu heimildar til að skrá fjármálagerninga á safnreikning skv. 1. mgr. 11. gr. og auðkenningu safnreiknings, þar á meðal upplýsingar um fjölda eigenda á safnreikningi.
- □ Fjármálaeftirlitið skal setja reglur[^4)^] um:
+ □ Fjármálaeftirlitið skal setja reglur[^5)^] um:
     1. opinbera fjárfestingarráðgjöf, þar á meðal um óhlutdræga framsetningu ráðgjafar og birtingu, tilgreiningu á þeim sem setur fjárfestingarráðgjöfina fram eða gerir hana opinbera og hagsmunum og hagsmunaárekstrum og skilgreiningu hugtaksins greining,
     2. meðferð innherjaupplýsinga, þ.m.t. með hvaða hætti komið skuli í veg fyrir að innherjaupplýsingar berist til annarra en þeirra er þarfnast þeirra vegna starfa sinna,
     3. viðskipti innherja, þ.m.t. hvernig rannsóknarskyldu fruminnherja skv. 62. gr. skuli háttað,
@@ -583,31 +589,31 @@ h2. Lög um verðbréfaviðskipti
     6. skilgreiningu fjárhagslega tengdra aðila,
     7. innherjalista,
     8. tilkynningar um viðskipti fruminnherja, stjórnenda og fjárhagslega tengdra aðila.][^1)^]
-    _[^1)^]_"L. 31/2005, 23. gr.":/altext/stjt/2005.031.html [^2)^]"Rg. 506/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/506-2002, "630/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/630-2003. [^3)^]"Rg. 630/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/630-2005. [^4)^]"Rgl. 670/2005":http://stjornartidindi.is/servlet/stjrtid/B/2005/670.pdf.
+    _[^1)^]_"L. 31/2005, 23. gr.":/altext/stjt/2005.031.html [^2)^]"Rg. 506/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/506-2002, "rg. 242/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/242-2006, "rg. 244/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/244-2006. [^3)^]"Rg. 243/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/243-2006. [^4)^]"Rg. 630/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/630-2005. [^5)^]"Rgl. 670/2005":http://stjornartidindi.is/servlet/stjrtid/B/2005/670.pdf.
 
  *XI. kafli.* *Viðurlög.*
  ■ *[74. gr.][^1)^]* _Stjórnvaldssektir._
  □ Fjármálaeftirlitið getur lagt stjórnvaldssektir á hvern þann sem brýtur gegn ákvæðum [59. og 62. - 67. gr.][^2)^] um innherjaviðskipti.
  □ Stjórnvaldssektir geta numið frá 10 þús. kr. til 2 millj. kr. og skulu þær renna í ríkissjóð. Við ákvörðun sekta skal tekið tillit til alvarleika brots. Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar.
- □ Ákvörðun Fjármálaeftirlitsins um stjórnvaldssektir má skjóta til kærunefndar samkvæmt lögum um opinbert eftirlit með fjármálastarfsemi innan þriggja mánaða frá því að aðila var tilkynnt um ákvörðunina. Málskot til kærunefndarinnar frestar aðför en úrskurðir nefndarinnar um stjórnvaldssektir eru aðfararhæfir.
-    _[^1)^]_"L. 31/2005, 23. gr.":/altext/stjt/2005.031.html [^2)^]"L. 31/2005, 24. gr.":/altext/stjt/2005.031.html
+ □ ...[^3)^]
+    _[^1)^]_"L. 31/2005, 23. gr.":/altext/stjt/2005.031.html [^2)^]"L. 31/2005, 24. gr.":/altext/stjt/2005.031.html [^3)^]"L. 67/2006, 15. gr.":/altext/stjt/2006.067.html
  ■ *[75. gr.][^1)^]* _Sektir._
  □ [Það varðar sektum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn ákvæðum laga þessara um:
-    1. flöggunarskyldu skv. [28. gr.],[^2)^]
+    1. flöggunarskyldu skv. [32. gr.],[^2)^]
     2. tilboðsskyldu skv. 37. gr.,
     3. tilboðsyfirlit skv. 6. mgr. 37. gr. og VII. kafla,
     4. skyldur stjórnar skv. 41. gr.
     5. upplýsingaskyldu, frestun upplýsingaskyldu og lögmæta miðlun innherjaupplýsinga skv. 59. gr. og
     6. innherjaviðskipti skv. 62. - 67. gr.][^3)^]
  □ Það varðar sektum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gróflega eða ítrekað gegn ákvæðum laga þessara um réttindi og skyldur skv. II. kafla.
-    _[^1)^]_"L. 31/2005, 23. gr.":/altext/stjt/2005.031.html [^2)^]"L. 82/2005, 7. gr.":/altext/stjt/2005.082.html [^3)^]"L. 31/2005, 25. gr.":/altext/stjt/2005.031.html
+    _[^1)^]_"L. 31/2005, 23. gr.":/altext/stjt/2005.031.html [^2)^]"L. 94/2006, 9. gr.":/altext/stjt/2006.094.html [^3)^]"L. 31/2005, 25. gr.":/altext/stjt/2005.031.html
  ■ *[76. gr.][^1)^]* _Fangelsi allt að einu ári._
  □ Það varðar sektum eða fangelsi allt að einu ári, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn ákvæðum laga þessara um:
-    1. almennt útboð skv. 2. mgr. [21. gr.],[^2)^]
-    2. upplýsingar í útboðslýsingu skv. [22. gr.][^2)^] og
-    3. umsjón með almennu útboði verðbréfa skv. 1. mgr. [26. gr.][^2)^]
- □ Það varðar sektum eða fangelsi allt að einu ári, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn ákvæðum laga þessara um rannsóknarskyldu fruminnherja skv. [62. gr.],[^2)^] enda hafi innherjaupplýsingar legið fyrir hjá þeim útgefanda sem þeir eru fruminnherjar í.
-    _[^1)^]_"L. 31/2005, 23. gr.":/altext/stjt/2005.031.html [^2)^]"L. 82/2005, 8. gr.":/altext/stjt/2005.082.html
+    1. almennt útboð skv. [1. mgr. 22. gr.],[^2)^]
+    2. [upplýsingar í lýsingu skv. 23. gr. og][^2)^]
+    3. umsjón með almennu útboði verðbréfa skv. 1. mgr. [30. gr.][^2)^]
+ □ Það varðar sektum eða fangelsi allt að einu ári, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn ákvæðum laga þessara um rannsóknarskyldu fruminnherja skv. [62. gr.],[^3)^] enda hafi innherjaupplýsingar legið fyrir hjá þeim útgefanda sem þeir eru fruminnherjar í.
+    _[^1)^]_"L. 31/2005, 23. gr.":/altext/stjt/2005.031.html [^2)^]"L. 94/2006, 10. gr.":/altext/stjt/2006.094.html [^3)^]"L. 82/2005, 8. gr.":/altext/stjt/2005.082.html
  ■ *[77. gr.][^1)^]* _Fangelsi allt að tveimur árum._
  □ Það varðar sektum eða fangelsi allt að tveimur árum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn ákvæðum laga þessara um:
     1. markaðsmisnotkun skv. 1. mgr. [55. gr.],[^2)^]

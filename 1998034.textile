@@ -7,23 +7,23 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
 <hr />
 
 
- *Tóku gildi 29. apríl 1998.* _Breytt með_ "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 16/1999":/altext/stjt/1999.016.html (tóku gildi 24. mars 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000), "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002), "l. 33/2003":2003033.html (tóku gildi 1. júlí 2003), "l. 31/2005":/altext/stjt/2005.031.html (tóku gildi 1. júlí 2005) og "l. 66/2005":/altext/stjt/2005.066.html (tóku gildi 1. júlí 2005).
+ *Tóku gildi 29. apríl 1998.* _Breytt með_ "l. 84/1998":/altext/stjt/1998.084.html (tóku gildi 1. jan. 1999), "l. 16/1999":/altext/stjt/1999.016.html (tóku gildi 24. mars 1999), "l. 11/2000":/altext/stjt/2000.011.html (tóku gildi 28. apríl 2000), "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002), "l. 33/2003":2003033.html (tóku gildi 1. júlí 2003), "l. 31/2005":/altext/stjt/2005.031.html (tóku gildi 1. júlí 2005), "l. 66/2005":/altext/stjt/2005.066.html (tóku gildi 1. júlí 2005), "l. 67/2006":/altext/stjt/2006.067.html (tóku gildi 24. júní 2006), "l. 85/2006":/altext/stjt/2006.085.html (tóku gildi 30. júní 2006) og "l. 108/2006":/altext/stjt/2006.108.html (taka gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar, sem undirritaður var í Hoyvík í Færeyjum 31. ágúst 2005, hefur gengið í gildi).
 
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* Lög þessi gilda um starfsemi kauphalla og skipulegra tilboðsmarkaða sem starfa hér á landi.
  □ Starfsemi, sem kveðið er á um í lögum þessum, er einungis heimil kauphöll og skipulegum tilboðsmarkaði sem hlotið hefur starfsleyfi samkvæmt lögum þessum.
 ■ *2. gr.* Í lögum þessum merkir:
-    [_skipulegur verðbréfamarkaður:_
+    [_skipulegur verðbréfamarkaður:_[^1)^]
     1. kauphöll: markað þar sem opinber skráning fjármálagerninga og viðskipti með þá fara fram og sem hlotið hefur starfsleyfi, sbr. 3. og 10. gr. laga þessara,
     2. skipulegan tilboðsmarkað: markað með fjármálagerninga sem ekki eru opinberlega skráðir í kauphöll og sem hlotið hefur starfsleyfi, sbr. 3. og 10. gr. laga þessara,
     3. kauphallir innan Evrópska efnahagssvæðisins og aðra verðbréfamarkaði innan Evrópska efnahagssvæðisins þar sem fjármálagerningar ganga kaupum og sölum og sem eru opnir almenningi, starfa reglulega og eru viðurkenndir með þeim hætti sem Fjármálaeftirlitið metur gildan,
-    4. markaði skv. 3. tölul. sem eru í ríkjum utan Evrópska efnahagssvæðisins og eru viðurkenndir með þeim hætti sem Fjármálaeftirlitið metur gildan],[^1)^]
+    4. markaði skv. 3. tölul. sem eru í ríkjum utan Evrópska efnahagssvæðisins og eru viðurkenndir með þeim hætti sem Fjármálaeftirlitið metur gildan],[^2)^]
     _verðbréf:_ verðbréf samkvæmt skilgreiningu laga um verðbréfaviðskipti,
     _fyrirtæki í verðbréfaþjónustu:_ fyrirtæki í verðbréfaþjónustu samkvæmt skilgreiningu laga um verðbréfaviðskipti,
     _opinber skráning:_ skráningu til opinberra viðskipta og verðskráningar í kauphöll á grundvelli samræmdra skilmála um verðbréf og útgefendur þeirra sem staðfestir hafa verið af stjórnvöldum,
     _markaðsaðili:_ þann sem rétt hefur til að setja fram tilboð og eiga viðskipti á hlutaðeigandi markaði.
-    _[^1)^]_"L. 33/2003, 61. gr.":2003033.html#g61
+    _[^1)^]Skilgreiningunni var breytt með_ "l. 108/2006, 85. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi. [^2)^]"L. 33/2003, 61. gr.":2003033.html#g61
  _Starfsleyfi._
  ■ *3. gr.* Viðskiptaráðherra veitir starfsleyfi samkvæmt lögum þessum að fenginni umsögn [Fjármálaeftirlitsins].[^1)^] Umsókn um starfsleyfi skal vera skrifleg.
  □ Ákvörðun ráðherra um starfsleyfi skal tilkynna umsækjanda skriflega svo fljótt sem unnt er og eigi síðar en sex mánuðum eftir að fullbúin umsókn barst ráðherra. Synjun ráðherra á umsókn skal rökstudd.
@@ -58,10 +58,10 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
  *II. kafli.* *Kauphöll og hlutverk hennar.*
  ■ *10. gr.* Undir starfsemi kauphallar fellur skipulegur verðbréfamarkaður þar sem opinber skráning verðbréfa á sér stað, einnig sú skipulega starfsemi að viðskipti eiga sér stað milli kauphallaraðila með verðbréf sem eru opinberlega skráð hjá:
     1. kauphöll sem stofnuð er og skráð á Íslandi og hlotið hefur starfsleyfi í samræmi við ákvæði þessara laga,
-    2. kauphöll eða samsvarandi skipulegum verðbréfamarkaði á Evrópska efnahagssvæðinu [og í aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu],[^1)^]
-    3. kauphöll eða samsvarandi skipulegum verðbréfamarkaði sem aðildarríki að Evrópska efnahagssvæðinu [eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] hafa gert samstarfssamning við,
-    4. öðrum sambærilegum skipulegum verðbréfamörkuðum utan aðildarríkja Evrópska efnahagssvæðisins [og aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] sem [Fjármálaeftirlitið][^2)^] metur gilda.
-    _[^1)^]_"L. 76/2002, 87. gr.":/altext/stjt/2002.076.html [^2)^]"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html
+    2. kauphöll eða samsvarandi skipulegum verðbréfamarkaði á Evrópska efnahagssvæðinu [og í aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu],[^1)2)^]
+    3. kauphöll eða samsvarandi skipulegum verðbréfamarkaði sem aðildarríki að Evrópska efnahagssvæðinu [eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] hafa gert samstarfssamning við,[^2)^]
+    4. öðrum sambærilegum skipulegum verðbréfamörkuðum utan aðildarríkja Evrópska efnahagssvæðisins [og aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] sem [Fjármálaeftirlitið][^3)^] metur gilda.[^2)^]
+    _[^1)^]_"L. 76/2002, 87. gr.":/altext/stjt/2002.076.html [^2)^]Liðnum var breytt með "l. 108/2006, 86. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi. [^3)^]"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html
  _Hlutverk._
  ■ *11. gr.* Hlutverk kauphallar er:
     1. að annast opinbera skráningu verðbréfa og að setja reglur um skráningarhæfi þeirra,
@@ -94,8 +94,21 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
  □ Brjóti aðili að kauphöll ítrekað eða með vítaverðum hætti þau skilyrði sem sett eru í aðildarsamningi er kauphöllinni heimilt að fella samninginn einhliða úr gildi eða beita vægari ráðstöfunum, svo sem tímabundinni stöðvun aðildar að kauphöllinni. Grípi kauphöll til ráðstafana samkvæmt þessari málsgrein skal hún án tafar gera [Fjármálaeftirlitinu][^1)^] grein fyrir þeim.
     _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html
 
- *IV. kafli.* *...[^1)^]*
-    _[^1)^]"L. 31/2005, 27. gr.":/altext/stjt/2005.031.html_
+ *[IV. kafli.* *Reglur um opinbera skráningu verðbréfa í kauphöll.][^1)^]*
+    _[^1)^]"L. 85/2006, 1. gr.":/altext/stjt/2006.085.html_
+ ■ *[17. gr.* Kauphallaraðilar sækja um opinbera skráningu verðbréfa í viðskiptakerfi kauphallarinnar fyrir hönd útgefenda nema stjórn hennar samþykki annað. Skráning er háð samþykki stjórnar kauphallar sem setur nánari reglur um verðbréf sem tekin eru til opinberrar skráningar. Áður en stjórn kauphallar samþykkir fyrir sitt leyti reglur um opinbera skráningu verðbréfa skal hún leita umsagnar um þær hjá Fjármálaeftirlitinu. Reglur, sem kauphöll setur um opinbera skráningu verðbréfa, skulu uppfylla ákvæði laga þessara og reglugerðar sem ráðherra setur á grundvelli þeirra. Reglur um opinbera skráningu verðbréfa skulu fela í sér skilyrði fyrir upptöku viðskipta og skráningar, svo sem:
+    1. að lögð sé fram skráningarlýsing útgefanda,
+    2. um stærð og dreifingu hvers flokks, svo og önnur atriði sem stjórn telur að geti skipt máli fyrir markaðshæfi verðbréfa,
+    3. að birtar séu við skráningu og eftirleiðis upplýsingar um hvern verðbréfaflokk og útgefanda hans sem máli skipta varðandi mat á verðmæti bréfanna samkvæmt reglum sem stjórnin setur.
+ □ Umsækjanda skal tilkynnt ákvörðun stjórnar um umsókn um skráningu að jafnaði eigi síðar en tveimur mánuðum eftir að fullbúin umsókn barst. Ákvörðun stjórnar skal þó ávallt liggja fyrir innan sex mánaða.
+ □ Stjórnin tryggir að nauðsynlegar upplýsingar um opinberlega skráð verðbréf séu aðgengilegar almenningi.][^1)^]
+    _[^1)^]_"L. 85/2006, 1. gr.":/altext/stjt/2006.085.html
+ _[Niðurfelling skráningar og tímabundin stöðvun viðskipta.][^1)^]_
+    _[^1)^]"L. 85/2006, 1. gr.":/altext/stjt/2006.085.html_
+ ■ *[18. gr.* Stjórninni er skylt að fella af skrá þau verðbréf sem að hennar mati uppfylla ekki skilyrði laga þessara og reglna settra af stjórninni eða skilyrða skráningu verðbréfanna. Jafnframt er henni heimilt að fella tímabundið niður skráningu einstakra verðbréfaflokka ef ástæða þykir til.
+ □ Útgefandi opinberlega skráðra verðbréfa eða kauphallaraðili fyrir hans hönd getur óskað eftir því skriflega að þau verði felld af skrá kauphallarinnar. Skal stjórn kauphallarinnar verða við því að fenginni skriflegri greinargerð fyrir þeirri ósk. Stjórnin getur ákveðið að bréfin verði ekki tekin af skrá fyrr en allt að eitt ár er liðið frá því að fullbúin greinargerð barst kauphöllinni. Hún getur einnig ákveðið að birta greinargerðina í heild eða að hluta.
+ □ Heimilt er að stöðva tímabundið viðskipti í kauphöll þegar sérstakar aðstæður krefjast þess. Tilkynna skal um slíka tímabundna stöðvun til Fjármálaeftirlitsins.][^1)^]
+    _[^1)^]_"L. 85/2006, 1. gr.":/altext/stjt/2006.085.html
 
  *V. kafli.* *Yfirtökutilboð.*
  ■ *19. gr.* ...[^1)^]
@@ -192,11 +205,11 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
 
  *XI. kafli.* *Eftirlit.*
  ■ *35. gr.* [Fjármálaeftirlitið][^1)^] hefur eftirlit með því að starfsemi kauphalla og skipulegra tilboðsmarkaða sé í samræmi við lög þessi, reglur eða reglugerðir settar samkvæmt þeim, svo og önnur fyrirmæli eða samþykktir sem um starfsemina gilda. Skal [Fjármálaeftirlitinu][^1)^] þess vegna heimill aðgangur að öllum gögnum og upplýsingum um starfsemi sem fram fer samkvæmt lögum þessum sem það telur nauðsyn á. Telji [Fjármálaeftirlitið][^1)^] að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa skal það eiga sambærilegan aðgang að upplýsingum og gögnum hjá viðkomandi aðila. ...[^2)^]
- □ [Fjármálaeftirlitið getur krafist hvers konar gagna og upplýsinga frá einstaklingum eða lögaðilum sem eiga eða hyggjast eignast eða fara með eignarhlut í hlutafélagi sem starfar samkvæmt lögum þessum í því skyni að meta hvort þeir falli undir tilkynningarskyldu skv. 6. gr. og hvort þeir teljist hæfir til að fara með virkan eignarhlut.
- □ ...[^3)^]
+ □ [[Fjármálaeftirlitið getur krafist hvers konar gagna og upplýsinga frá einstaklingum eða lögaðilum sem eiga eða hyggjast eignast eða fara með eignarhlut í hlutafélagi sem starfar samkvæmt lögum þessum í því skyni að meta hvort þeir falli undir tilkynningarskyldu skv. 6. gr. og hvort þeir teljist hæfir til að fara með virkan eignarhlut. Fjármálaeftirlitið getur krafist sömu upplýsinga frá einstaklingum eða lögaðilum sem hafa selt eignarhlut eða haft milligöngu um viðskipti með eignarhlut. Lagaákvæði um þagnarskyldu takmarka ekki skyldu til þess að veita upplýsingar og aðgang að gögnum.][^3)^]
+ □ ...[^4)^]
  □ Telji Fjármálaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa getur það krafist gagna og upplýsinga hjá viðkomandi aðilum sem nauðsynleg eru til að ganga úr skugga um hvort svo sé. Getur það krafist þess að slíkri starfsemi sé hætt þegar í stað. Jafnframt er því heimilt að birta opinberlega nöfn aðila sem taldir eru bjóða þjónustu án tilskilinna leyfa.
  □ Um eftirlit samkvæmt þessum lögum gilda að öðru leyti ákvæði laga um opinbert eftirlit með fjármálastarfsemi. Heimilt er að beita ákvæðum þeirra laga um dagsektir, stjórnvaldssektir og leit og hald á gögnum við upplýsingaöflun og eftirlit samkvæmt þessum lögum.][^2)^]
-    _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html [^2)^]"L. 11/2000, 15. gr.":/altext/stjt/2000.011.html [^3)^]"L. 33/2003, 61. gr.":2003033.html#g61
+    _[^1)^]_"L. 84/1998, 22. gr.":/altext/stjt/1998.084.html [^2)^]"L. 11/2000, 15. gr.":/altext/stjt/2000.011.html [^3)^]"L. 67/2006, 16. gr.":/altext/stjt/2006.067.html [^4)^]"L. 33/2003, 61. gr.":2003033.html#g61
  ■ *36. gr.* Telji [Fjármálaeftirlitið][^1)^] að kauphöll eða skipulegur tilboðsmarkaður, sem starfar samkvæmt lögum þessum, hafi brotið gegn ákvæðum laga þessara, laga um verðbréfaviðskipti eða reglum og reglugerðum settum samkvæmt þeim eða að háttsemi félaga eða stofnana sé að öðru leyti óeðlileg, óheilbrigð eða ótraust skal það veita hlutaðeigandi hæfilegan frest til úrbóta nema brot séu alvarleg.
  □ Í tilefni af brotum samkvæmt lögum þessum er [Fjármálaeftirlitinu][^1)^] jafnframt heimilt að krefjast úrbóta án tafar, svo og að leggja tímabundið bann við frekari starfsemi ef sérstakar aðstæður krefjast þess.
  □ Hafi kauphöll eða skipulegur tilboðsmarkaður ekki sinnt ítrekuðum tilmælum [Fjármálaeftirlitsins][^1)^] um úrbætur samkvæmt þessari grein er því heimilt að gera tillögu um afturköllun starfsleyfis, sbr. 37. gr. þessara laga.
@@ -228,7 +241,7 @@ h2. Lög um starfsemi kauphalla og skipulegra tilboðsmarkaða
 
  *XIV. kafli.* *Gildistaka o.fl.*
  ■ *[42. gr.* Í reglugerð[^1)^] er ráðherra heimilt að setja nánari reglur um opinbera skráningu verðbréfa og framkvæmd laga þessara.][^2)^]
-    _[^1)^]_"Rg. 432/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/432-1999. "Rg. 433/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/433-1999. "Rg. 434/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/434-1999. [^2)^]"L. 16/1999, 4. gr.":/altext/stjt/1999.016.html
+    _[^1)^]_"Rg. 432/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/432-1999. "Rg. 433/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/433-1999. "Rg. 245/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/245-2006. [^2)^]"L. 16/1999, 4. gr.":/altext/stjt/1999.016.html
  ■ *[43. gr.][^1)^]* Lög þessi öðlast þegar gildi. ...
     _[^1)^]_"L. 16/1999, 4. gr.":/altext/stjt/1999.016.html
  ■ *Ákvæði til bráðabirgða.* ...

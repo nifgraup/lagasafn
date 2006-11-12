@@ -6,13 +6,14 @@ h2. Lög um skráningu og mat fasteigna
 
 <hr />
 
-*Upphaflega "l. 94/1976":1976094.html. Tóku gildi 23. júlí 1976. Endurútgefin, sbr. "17. gr. l. 47/2000":/altext/stjt/2000.047.html, sem "l. 6/2001":2001006.html.* _Breytt með_ "l. 61/2001":/altext/stjt/2001.061.html (tóku gildi 13. júní 2001) og "l. 139/2004":/altext/stjt/2004.139.html (tóku gildi 1. jan. 2005).
+*Upphaflega "l. 94/1976":1976094.html. Tóku gildi 23. júlí 1976. Endurútgefin, sbr. "17. gr. l. 47/2000":/altext/stjt/2000.047.html, sem "l. 6/2001":2001006.html.* _Breytt með_ "l. 61/2001":/altext/stjt/2001.061.html (tóku gildi 13. júní 2001), "l. 139/2004":/altext/stjt/2004.139.html (tóku gildi 1. jan. 2005) og "l. 50/2006":/altext/stjt/2006.050.html (tóku gildi 1. júlí 2006).
 
 
  *I. kafli.* *Markmið, skilgreiningar og söfnun skráningaratriða.*
  ■ *1. gr.* Fasteignamat ríkisins annast fasteignaskráningu samkvæmt lögum þessum og rekstur gagna- og upplýsingakerfis er nefnist Landskrá fasteigna sem er á tölvutæku formi.
- □ Í Landskrá fasteigna skal skrá allar fasteignir í landinu og er hún grundvöllur skráningar fasteigna, þinglýsingabókar fasteigna, mats fasteigna og húsaskrár Hagstofu Íslands, þjóðskrár, og þannig úr garði gerð að hún nýtist sem stoðgagn í landupplýsingakerfum.
-■ *2. gr.* Hverja fasteign skal meta til verðs eftir því sem næst verður komist á hverjum tíma og nánar er kveðið á um í lögum þessum.
+ □ Í Landskrá fasteigna skal skrá allar fasteignir í landinu og er hún grundvöllur skráningar fasteigna, þinglýsingabókar fasteigna, mats fasteigna og húsaskrár [Þjóðskrár][^1)^] og þannig úr garði gerð að hún nýtist sem stoðgagn í landupplýsingakerfum.
+    _[^1)^]_"L. 50/2006, 24. gr.":/altext/stjt/2006.050.html
+ ■ *2. gr.* Hverja fasteign skal meta til verðs eftir því sem næst verður komist á hverjum tíma og nánar er kveðið á um í lögum þessum.
 ■ *3. gr.* Fasteign samkvæmt lögum þessum er afmarkaður hluti lands, ásamt lífrænum og ólífrænum hlutum þess, réttindum sem því fylgja og þeim mannvirkjum sem varanlega eru við landið skeytt.
  □ Fasteignir, hluta þeirra og einstök mannvirki skal skrá sem sérstakar eindir í Landskrá fasteigna svo sem hér segir:
     a. land, þ.e. hver sá skiki lands sem vegna sérgreinds eignar- eða afnotaréttar, hagnýtingar, auðkenna eða landamerkja getur talist sjálfstæð eind,
@@ -66,9 +67,10 @@ h2. Lög um skráningu og mat fasteigna
  □ Fasteignir í fjöleignarhúsum skulu afmarkaðar á grunnteikningum. Um skráningu fasteigna í fjöleignarhúsum fer samkvæmt lögum um fjöleignarhús.
  □ Ráðherra er heimilt að setja nánari reglur um skráningu fasteigna.
 ■ *16. gr.* Sveitarstjórn skal tilkynna Fasteignamati ríkisins um breytingar á heiti fasteignar. Fasteignamat ríkisins skal framsenda viðkomandi þinglýsingarstjóra tilkynningu sveitarfélags.
- □ Breyting skv. 1. mgr. tekur gildi í Landskrá fasteigna við staðfestingu þinglýsingarstjóra og skal Fasteignamat ríkisins tilkynna hana til Hagstofu Íslands, þjóðskrár, að staðfestingu lokinni.
+ □ Breyting skv. 1. mgr. tekur gildi í Landskrá fasteigna við staðfestingu þinglýsingarstjóra og skal Fasteignamat ríkisins tilkynna hana til [Þjóðskrár][^1)^] að staðfestingu lokinni.
  □ Í Landskrá fasteigna skal halda ferilskrá yfir breytingar á fasteignum þar sem fyrri heiti og auðkenni og tengsl þeirra við gildandi heiti og auðkenni eru varðveitt.
-■ *17. gr.* Landeiganda er skylt að þinglýsa stofnskjali er ný fasteign verður til við skiptingu lands.
+    _[^1)^]_"L. 50/2006, 24. gr.":/altext/stjt/2006.050.html
+ ■ *17. gr.* Landeiganda er skylt að þinglýsa stofnskjali er ný fasteign verður til við skiptingu lands.
  □ Áður en heimild er veitt til veðsetningar eða mannvirkjagerðar á leigulóð eða landi í eigu sveitarfélags skal sveitarstjórn hlutast til um að fasteign verði skráð með þinglýsingu stofnskjals.
  □ Áður en heimild er veitt til mannvirkjagerðar á eignarlóð skal sveitarstjórn hlutast til um að fasteign verði skráð með þinglýsingu stofnskjals.
 ■ *18. gr.* Að gerð Landskrár fasteigna skal starfa samráðsnefnd fimm manna sem ráðherra skipar. Einn nefndarmaður skal tilnefndur af fjármálaráðherra og skal hann vera formaður nefndarinnar, einn af dómsmálaráðherra, einn af Hagstofu Íslands, einn af umhverfisráðherra og einn af Sambandi íslenskra sveitarfélaga. Hlutverk nefndarinnar er að samræma skráningu fasteigna og vera viðkomandi aðilum til ráðgjafar um myndun og þróun Landskrár fasteigna og framkvæmd laga þessara.

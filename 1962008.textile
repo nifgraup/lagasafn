@@ -7,16 +7,17 @@ h2. Erfðalög
 <hr />
 
 
- *Tóku gildi 28. september 1962.* _Breytt með_ "l. 29/1985":/altext/stjtnr.html#1985029 (tóku gildi 14. júní 1985), "l. 48/1989":/altext/stjt/1989.048.html (tóku gildi 1. júní 1989), "l. 86/1989":1989086.html (tóku gildi 14. júní 1989), "l. 20/1991":1991020.html (tóku gildi 1. júlí 1992), "l. 91/1991":1991091.html (tóku gildi 1. júlí 1992) og "l. 174/2000":/altext/stjt/2000.174.html (tóku gildi 1. jan. 2001).
+ *Tóku gildi 28. september 1962.* _Breytt með_ "l. 29/1985":/altext/stjtnr.html#1985029 (tóku gildi 14. júní 1985), "l. 48/1989":/altext/stjt/1989.048.html (tóku gildi 1. júní 1989), "l. 86/1989":1989086.html (tóku gildi 14. júní 1989), "l. 20/1991":1991020.html (tóku gildi 1. júlí 1992), "l. 91/1991":1991091.html (tóku gildi 1. júlí 1992), "l. 174/2000":/altext/stjt/2000.174.html (tóku gildi 1. jan. 2001) og "l. 65/2006":/altext/stjt/2006.065.html (tóku gildi 27. júní 2006).
 
 
  *I. kafli.* *Um lögarf.*
  ■ *1. gr.* Lögerfingjar eru þessir:
     1. Börn arfleifanda og aðrir niðjar. Óskilgetið barn erfir föður og föðurfrændur og þeir það, ef það er feðrað með þeim hætti, sem segir í löggjöf um óskilgetin börn. Um erfðarétt kjörbarns og arf eftir það fer samkvæmt 5. gr.
     2. Foreldrar arfleifanda og niðjar þeirra.
-    3. Föðurforeldrar og móðurforeldrar arfleifanda og börn þeirra.
+    3. [Foreldrar hvors foreldris arfleifanda um sig og börn þeirra.][^1)^]
     4. Maki arfleifanda.
-■ *2. gr.* _I. erfð._
+    _[^1)^]_"L. 65/2006, 30. gr.":/altext/stjt/2006.065.html
+ ■ *2. gr.* _I. erfð._
  □ Maki erfir [^1^]/3 hluta eigna, þegar börn eru á lífi, en [^2^]/3 hluta erfa börnin að jöfnu. Ef maka er ekki til að dreifa, taka börn og aðrir niðjar allan arf.
  □ Nú hefur barn andast á undan arfleifanda, og erfa börn þess þá þann hluta, er því hefði borið. Firnari niðjar taka arf með sama hætti.
 ■ *3. gr.* _II. erfð._
@@ -26,7 +27,9 @@ h2. Erfðalög
     _[^1)^]_"L. 48/1989, 1. gr.":/altext/stjt/1989.048.html
  ■ *4. gr.* _III. erfð._
  □ Ef enginn erfingi skv. 2. eða 3. gr. er á lífi, taka föðurforeldrar og móðurforeldrar sinn helming arfs hvort. Nú er afi arfleifanda eða amma látin, og erfa þá börn þess, sem látið er, þann erfðahlut, sem því hefði borið. Ef móðurforeldrar arfleifanda eru dánir og börn þeirra, taka föðurforeldrar og börn þeirra allan arf og gagnkvæmt.
-■ *5. gr.* Kjörbarn og niðjar þess, þar á meðal kjörniðjar, erfa kjörforeldra og ættingja þeirra og gagnkvæmt eftir ákvæðum 2. - 4. gr.
+ □ [Sömu reglur og kveðið er á um í 1. mgr. gilda að breyttu breytanda þegar foreldrar hvors foreldris arfláta eru af sama kyni.][^1)^]
+    _[^1)^]_"L. 65/2006, 31. gr.":/altext/stjt/2006.065.html
+ ■ *5. gr.* Kjörbarn og niðjar þess, þar á meðal kjörniðjar, erfa kjörforeldra og ættingja þeirra og gagnkvæmt eftir ákvæðum 2. - 4. gr.
  □ Lögerfðatengsl milli kjörbarns og ættingja þess falla niður við ættleiðingu.
 ■ *6. gr.* Nú hefur það hjóna, sem lengur lifir, verið einkalögerfingi þess, sem fyrr lést, og það andast án þess að hafa gengið í hjónaband að nýju eða látið eftir sig arfgenga niðja, og skulu þá eignir þess skiptast milli erfingja beggja hjóna að jöfnu, enda hafi maki ekki ráðstafað eignum sínum með erfðaskrá á annan hátt.
  □ Nú á sá maki, sem lengur lifir, enga erfingja á lífi, er hann andast, og ganga eigur hans þá til erfingja skammlífara makans.

@@ -7,31 +7,31 @@ h2. Lög um opinber innkaup
 <hr />
 
 
- *Tóku gildi 15. júní 2001.* _EES-samningurinn:_ XVI. viðauki tilskipun 89/665/EBE, 92/13/EBE, 92/50/EBE, 93/36/EBE, 93/37/EBE og 93/38/EBE. _Breytt með_ "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003).
+ *Tóku gildi 15. júní 2001.* _EES-samningurinn:_ XVI. viðauki tilskipun 89/665/EBE, 92/13/EBE, 92/50/EBE, 93/36/EBE, 93/37/EBE og 93/38/EBE. _Breytt með_ "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003) og "l. 108/2006":/altext/stjt/2006.108.html (taka gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar, sem undirritaður var í Hoyvík í Færeyjum 31. ágúst 2005, hefur gengið í gildi).
 
 
  *1. þáttur.* *Almenn ákvæði.*
  *I. kafli.* *Tilgangur og orðskýringar.*
  ■ *1. gr.* _Tilgangur laganna._
  □ Tilgangur laga þessara er að tryggja jafnræði bjóðenda við opinber innkaup og stuðla að virkri samkeppni og hagkvæmni í opinberum rekstri.
-■ *2. gr.* _Orðskýringar._
+■ *2. gr.[^1)^]* _Orðskýringar._
  □ Merking orða í lögum þessum er sem hér segir:
     _Almennt útboð:_ Útboð þar sem ótilteknum fjölda er með auglýsingu gefinn kostur á að gera tilboð.
     _Bjóðandi:_ Einstaklingur eða lögaðili sem býður fram þá vöru, verk eða þjónustu sem aflað er samkvæmt lögum þessum.
     _Evrópskur staðall:_ Staðall sem samþykktur er af Staðlastofnun Evrópu (CEN) eða Rafstaðlastofnun Evrópu (CENELEC) sem evrópskur staðall (EN) eða samræmingarskjal (HD) samkvæmt sameiginlegum reglum þessara stofnana eða af Fjarskiptastaðlastofnun Evrópu (ETSI) sem evrópskur fjarskiptastaðall (ETS).
-    _Evrópskt tæknisamþykki:_ Jákvæður dómur um nothæfi vöru með hliðsjón af grunnkröfum til byggingarframkvæmda sem byggist á eðliseiginleikum vöru og skilgreindri notkun og notkunarsviði hennar. Evrópskt tæknisamþykki skal gefið út af stofnun sem ríki Evrópska efnahagssvæðisins [eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] samþykkja í þessu skyni.
+    _Evrópskt tæknisamþykki:_ Jákvæður dómur um nothæfi vöru með hliðsjón af grunnkröfum til byggingarframkvæmda sem byggist á eðliseiginleikum vöru og skilgreindri notkun og notkunarsviði hennar. Evrópskt tæknisamþykki skal gefið út af stofnun sem ríki Evrópska efnahagssvæðisins [eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^2)^] samþykkja í þessu skyni.
     _Forval:_ Aðferð við val á þátttakendum í lokuðu útboði eða samningskaupum.
     _Frávikstilboð:_ Tilboð sem leysir þarfir kaupandans á annan hátt en gert er ráð fyrir í tæknilegri lýsingu útboðsgagna og uppfyllir jafnframt lágmarkskröfur þeirra.
     _Kaupandi:_ Ríki, sveitarfélög, stofnanir þeirra og samtök og aðrir opinberir aðilar skv. 2. mgr. 3. gr.
     _Lokað útboð:_ Útboð þar sem tilteknum aðilum er einum gefinn kostur á að gera tilboð.
     _Rammasamningur:_ Samningar við einn eða fleiri bjóðendur þar sem magn og umfang samnings er að meira eða minna leyti ótilgreint, en kaupendur, einn eða fleiri, skuldbinda sig til að kaupa af þeim þá vöru, þjónustu eða verk sem samningurinn kveður á um, m.a. hvað varðar gæði, tækni, þjónustu, afhendingartíma og verð á samningstímanum.
-    _Sameiginleg tækniforskrift:_ Tækniforskrift sem samin er samkvæmt sameiginlegum reglum ríkja Evrópska efnahagssvæðisins [eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] í því skyni að tryggja einsleita beitingu í öllum ríkjunum og birt hefur verið í EES-viðbæti Stjórnartíðinda Evrópubandalagsins.
+    _Sameiginleg tækniforskrift:_ Tækniforskrift sem samin er samkvæmt sameiginlegum reglum ríkja Evrópska efnahagssvæðisins [eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^2)^] í því skyni að tryggja einsleita beitingu í öllum ríkjunum og birt hefur verið í EES-viðbæti Stjórnartíðinda Evrópubandalagsins.
     _Samningskaup:_ Þegar kaupandi ræðir við seljendur samkvæmt fyrir fram ákveðnu ferli, sem þeim hefur áður verið kynnt, og semur við einn eða fleiri þeirra.
     _Sérleyfissamningur um verk:_ Verksamningur þar sem greiðsla fyrir verk felst að hluta eða í heild í rétti til að nýta sér afrakstur verksins.
     _Staðall:_ Forskrift sem samþykkt er af viðurkenndri staðlastofnun og beita má endurtekið og að staðaldri án þess að skylt sé að fara eftir henni. Staðall er opinbert skjal og ætlaður til frjálsra afnota.
     _Tækniforskrift:_ Allar tæknilegar kröfur sem gerðar eru í útboði og skilgreina einkenni verks, efnis, vöru eða aðfanga og gefa hlutlæga lýsingu á verki, efni, vöru eða aðföngum á þann hátt að þau komi að þeim notum sem kaupandi ætlast til. Þessar kröfur geta varðað gæðastig, notkunareiginleika, öryggi og stærð, þar á meðal kröfur um ábyrgðir fyrir gæðum, merkingar, prófanir og pökkun. Tækniforskrift getur einnig varðað reglur um hönnun, ákvörðun kostnaðar, skilmála um prófun, skoðun og samþykki verka og aðferða eða tækni við byggingar ásamt öllum öðrum tæknilegum skilyrðum sem kaupandi getur áskilið samkvæmt almennum eða sérstökum reglum um fullbúin verk og um efni og hluta sem til þeirra teljast.
     _Útboð:_ Þegar kaupandi leitar skriflegra, bindandi tilboða í vöru, þjónustu eða verk frá fleiri en einum aðila á grundvelli sömu upplýsinga og innan sama frests.
-    _[^1)^]_"L. 72/2003, 19. gr.":/altext/stjt/2003.072.html
+    _[^1)^]Greininni var breytt með_ "l. 108/2006, 19. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi. [^2)^]"L. 72/2003, 19. gr.":/altext/stjt/2003.072.html
 
  *II. kafli.* *Gildissvið.*
  ■ *3. gr.* _Til hverra lögin taka._
@@ -65,14 +65,14 @@ h2. Lög um opinber innkaup
  □ Lög þessi taka ekki til:
     a. Þjónustusamninga sem gerðir eru við aðila, sem sjálfir teljast kaupendur skv. 3. gr., á grundvelli einkaréttar sem þeir njóta samkvæmt lögum eða stjórnvaldsfyrirmælum.
     b. Vöru-, þjónustu- eða verksamninga sem lýstir eru leynilegir eða ef sérstökum öryggisráðstöfunum verður að beita við framkvæmd þeirra í samræmi við gildandi lög og stjórnvaldsfyrirmæli eða ef grundvallarhagsmunir ríkisins krefjast þess.
-    c. Samninga sem lúta öðrum reglum um opinber innkaup og gerðir eru á grundvelli milliríkjasamnings íslenska ríkisins við ríki utan Evrópska efnahagssvæðisins [eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] um kaup á þjónustu til sameiginlegra framkvæmda eða hagnýtingar verkefna, enda sé slíkur samningur tilkynntur Eftirlitsstofnun EFTA (ESA).
+    c. Samninga sem lúta öðrum reglum um opinber innkaup og gerðir eru á grundvelli milliríkjasamnings íslenska ríkisins við ríki utan Evrópska efnahagssvæðisins [eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] um kaup á þjónustu til sameiginlegra framkvæmda eða hagnýtingar verkefna, enda sé slíkur samningur tilkynntur Eftirlitsstofnun EFTA (ESA).[^2)^]
     d. Samninga á grundvelli milliríkjasamnings um setu herliðs.
     e. Samninga samkvæmt sérstökum reglum alþjóðlegra stofnana.
-    _[^1)^]_"L. 72/2003, 20. gr.":/altext/stjt/2003.072.html
+    _[^1)^]_"L. 72/2003, 20. gr.":/altext/stjt/2003.072.html [^2)^]Liðnum var breytt með "l. 108/2006, 20. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
  ■ *8. gr.* _Þeir sem njóta réttar samkvæmt lögunum._
- □ Réttar samkvæmt lögum þessum njóta einstaklingar og lögaðilar með staðfestu í einhverju ríkja Evrópska efnahagssvæðisins [eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu].[^1)^] Sama gildir um aðra einstaklinga og lögaðila sem eiga að njóta slíkra réttinda á grundvelli milliríkjasamninga sem íslenska ríkið er aðili að.
- □ Í reglugerð[^2)^] er heimilt að setja nánari fyrirmæli um opinber innkaup samkvæmt samningi Alþjóðaviðskiptastofnunarinnar (WTO) um opinber innkaup og öðrum samningum um opinber innkaup sem íslenska ríkið kann að gerast aðili að.
-    _[^1)^]_"L. 72/2003, 21. gr.":/altext/stjt/2003.072.html [^2)^]"Rg. 1012/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1012-2003, sbr. "429/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/429-2004.
+ □ Réttar samkvæmt lögum þessum njóta einstaklingar og lögaðilar með staðfestu í einhverju ríkja Evrópska efnahagssvæðisins [eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu].[^1)^] Sama gildir um aðra einstaklinga og lögaðila sem eiga að njóta slíkra réttinda á grundvelli milliríkjasamninga sem íslenska ríkið er aðili að.[^2)^]
+ □ Í reglugerð[^3)^] er heimilt að setja nánari fyrirmæli um opinber innkaup samkvæmt samningi Alþjóðaviðskiptastofnunarinnar (WTO) um opinber innkaup og öðrum samningum um opinber innkaup sem íslenska ríkið kann að gerast aðili að.
+    _[^1)^]_"L. 72/2003, 21. gr.":/altext/stjt/2003.072.html [^2)^]Málsgreininni var breytt með "l. 108/2006, 21. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi. [^3)^]"Rg. 1012/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1012-2003, sbr. "429/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/429-2004.
 
  *2. þáttur.* *Opinber innkaup undir viðmiðunarfjárhæðum Evrópska efnahagssvæðisins.*
  *III. kafli.* *Gildissvið þessa þáttar.*
@@ -89,7 +89,7 @@ h2. Lög um opinber innkaup
  □ Öll innkaup á vörum yfir 5.000.000 kr. og kaup á þjónustu og verkum yfir 10.000.000 kr. skal bjóða út. Sérleyfissamninga um verk er þó ekki skylt að bjóða út. Sama á við um innkaup á þeirri þjónustu sem talin er upp í I. viðauka B.
  □ Þrátt fyrir ákvæði 1. mgr. skulu ríkisstofnanir og ríkisfyrirtæki einungis gera sérleyfissamninga og samninga um kaup á þeirri þjónustu sem talin er upp í I. viðauka B í samræmi við reglur sem ráðherra setur með reglugerð.[^1)^]
  □ Fjárhæðir skv. 1. mgr. skulu breytast annað hvert ár í samræmi við breytingar á vísitölu neysluverðs, í fyrsta sinn 1. janúar 2002. Heimilt skal að færa fjárhæðir þessar upp þannig að þær standi á heilu þúsundi. Ráðherra skal með hæfilegum fyrirvara auglýsa opinberlega þær breytingar sem verða á viðmiðunarfjárhæðum samkvæmt þessari grein.
-    _[^1)^]_"Rg. 655/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/655-2003, sbr. "428/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/428-2004.
+    _[^1)^]_"Rg. 655/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/655-2003, sbr. "428/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/428-2004; "rg. 343/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/343-2006.
  ■ *13. gr.* _Innkaup undir viðmiðunarfjárhæðum._
  □ Við innkaup undir viðmiðunarfjárhæðum 1. mgr. 12. gr. skal kaupandi ávallt gæta hagkvæmni og gera samanburð meðal sem flestra seljenda.
 ■ *14. gr.* _Áætlun fjárhæða samninga._
@@ -417,7 +417,7 @@ h2. Lög um opinber innkaup
 
  *XV. kafli.* *Gildistaka, brottfall laga o.fl.*
 ■ *85. gr.* Fjármálaráðherra er heimilt að setja reglugerð[^1)^] um nánari framkvæmd laga þessara.
-    _[^1)^]_"Rg. 206/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/206-2003, "rg. 655/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/655-2003, sbr. "428/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/428-2004.
+    _[^1)^]_"Rg. 206/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/206-2003, "rg. 655/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/655-2003, sbr. "428/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/428-2004; "rg. 343/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/343-2006.
  ■ *86. gr.* Lög þessi öðlast þegar gildi.
 ■ *87. gr.* ...
 

@@ -7,7 +7,7 @@ h2. Hjúskaparlög
 <hr />
 
 
- *Tóku gildi 1. júlí 1993.* _Breytt með_ "l. 150/1998":/altext/stjt/1998.150.html (tóku gildi 30. des. 1998) og "l. 65/2001":/altext/stjt/2001.065.html (tóku gildi 1. okt. 2001).
+ *Tóku gildi 1. júlí 1993.* _Breytt með_ "l. 150/1998":/altext/stjt/1998.150.html (tóku gildi 30. des. 1998), "l. 65/2001":/altext/stjt/2001.065.html (tóku gildi 1. okt. 2001) og "l. 69/2006":/altext/stjt/2006.069.html (tóku gildi 30. júní 2006).
 
 
  *I. kafli.* *Efnissvið laganna og almenn ákvæði.*
@@ -187,10 +187,14 @@ h2. Hjúskaparlög
  _3. Breyting á samningi um lífeyri._
 ■ *52. gr.* Nú hafa hjón komið sér saman um skyldu til greiðslu lífeyris eða fjárhæð hans og er þá unnt að breyta samningi með dómi, enda sé sýnilega ósanngjarnt vegna breyttra aðstæðna að halda samningnum til streitu.
  □ Dómsmál skal höfða innan eins árs frá fullnaðardómi til skilnaðar eða frá útgáfu leyfisbréfs. Þessir tímafrestir gilda þó ekki ef freistað er að hnekkja samningi með stoð í almennum reglum um fjármunaréttarsamninga.
+ _[C. Fjárnámsheimild.][^1)^]_
+    _[^1)^]_"L. 69/2006, 10. gr.":/altext/stjt/2006.069.html
+ ■ *[52. gr. a.* Gera má fjárnám fyrir fjárframlögum til framfærslu skv. 49. gr. og lífeyri skv. 51. gr. á grundvelli úrskurðar sýslumanns. Sýslumaður getur staðfest samning milli hjóna um fjárframlag til framfærslu. Fyrir slíkum fjárframlögum og lífeyri, sem samningur staðfestur af sýslumanni tekur til, má einnig gera fjárnám.][^1)^]
+    _[^1)^]_"L. 69/2006, 10. gr.":/altext/stjt/2006.069.html
 
  *VIII. kafli.* *Eignir hjóna.*
  _Yfirlit yfir eignadeildir í hjúskap._
-■ *53. gr.* Eignir hjóna skiptast í hjúskapareignir og séreignir sem geta verið samningsbundnar eða lögmæltar.
+ ■ *53. gr.* Eignir hjóna skiptast í hjúskapareignir og séreignir sem geta verið samningsbundnar eða lögmæltar.
  □ Hjón geta átt eign í sameign. Enn fremur getur hvort þeirra fyrir sig átt persónubundin réttindi.
  _A. Hjúskapareign._
 ■ *54. gr.* Eign maka verður hjúskapareign nema sérstakar heimildir standi til annars. Á þetta við um eignir sem maki flytur í búið við hjúskaparstofnun eða öðlast síðar og gegnir einu með hverjum hætti eignar er aflað að lögum.
@@ -431,12 +435,13 @@ h2. Hjúskaparlög
  _I. Tilkynning um úrskurð._
 ■ *131. gr.* Úrskurð stjórnvalds skal senda aðilum máls með ábyrgðarbréfi, hann birtur af einum stefnuvotti eða kynntur með öðrum sannanlegum hætti.
  _J. Stjórnsýslukæra._
-■ *132. gr.* Kæra má úrlausn sýslumanns til dóms- og kirkjumálaráðuneytis innan tveggja mánaða frá dagsetningu hennar.
+■ *132. gr.* Kæra má úrlausn sýslumanns til dóms- og kirkjumálaráðuneytis innan tveggja mánaða frá dagsetningu hennar. [Útgáfa skilnaðarleyfis, hvort sem um er að ræða leyfi til skilnaðar að borði og sæng eða lögskilnaðar, verður þó ekki kærð til ráðuneytisins.][^1)^]
  □ Sýslumaður getur ákveðið í úrskurði að kæra fresti réttaráhrifum hans.
- □ Málsaðilum, sem fengið hafa leyfi til lögskilnaðar, er ekki heimilt að ganga í hjúskap að nýju fyrr en eftir lok kærufrests nema þeir hafi fallið bréflega frá kæru.
+ □ ...[^1)^]
+    _[^1)^]_"L. 69/2006, 11. gr.":/altext/stjt/2006.069.html
 
  *XVII. kafli.* *Gildistaka, lagaskil og brottfallin lög.*
-■ *133. gr.* Lög þessi taka gildi 1. júlí 1993.
+ ■ *133. gr.* Lög þessi taka gildi 1. júlí 1993.
  □ Dóms- og kirkjumálaráðuneytið setur reglugerð og önnur fyrirmæli um einstök atriði er varða framkvæmd laganna.
  □ Ráðuneytið skal gera sérstakar ráðstafanir til að kynna almenningi efni laga þessara.
 ■ *134. gr.* Ákvæði 2. mgr. 25. gr. gilda einnig um hjónabönd sem til er stofnað fyrir gildistöku laga þessara.

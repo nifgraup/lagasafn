@@ -7,18 +7,20 @@ h2. Lög um ættleiðingar
 <hr />
 
 
- *Tóku gildi 11. júlí 2000.*
+ *Tóku gildi 11. júlí 2000.* _Breytt með_ "l. 65/2006":/altext/stjt/2006.065.html (tóku gildi 27. júní 2006) og "l. 69/2006":/altext/stjt/2006.069.html (tóku gildi 30. júní 2006).
+
 
  *I. kafli.* *Ættleiðingar og lagaskilyrði fyrir þeim.*
  ■ *1. gr.* _Leyfi til ættleiðingar._
  □ Dómsmálaráðherra veitir leyfi til ættleiðingar.
 ■ *2. gr.* _Hverjir geta verið ættleiðendur._
- □ Hjón eða karl og kona sem hafa verið í óvígðri sambúð í a.m.k. fimm ár skulu bæði standa að ættleiðingu, enda þeim einum heimilt að ættleiða saman með þeim frávikum sem í grein þessari getur.
- □ Öðru hjóna eða karli eða konu í óvígðri sambúð má þó með samþykki hins veita leyfi til að ættleiða barn þess eða kjörbarn.
- □ Öðru hjóna eða karli eða konu í óvígðri sambúð má og veita leyfi til ættleiðingar ef hitt er horfið eða geðrænum högum þess svo háttað að það beri ekki skyn á gildi ættleiðingar.
+ □ [Hjón, einstaklingar í staðfestri samvist eða einstaklingar sem hafa verið í óvígðri sambúð í a.m.k. fimm ár skulu standa saman][^1)^] að ættleiðingu, enda þeim einum heimilt að ættleiða saman með þeim frávikum sem í grein þessari getur.
+ □ [Öðru hjóna eða einstaklingi í staðfestri samvist eða óvígðri sambúð][^1)^] má þó með samþykki hins veita leyfi til að ættleiða barn þess eða kjörbarn.
+ □ [Öðru hjóna eða einstaklingi í staðfestri samvist eða óvígðri sambúð][^1)^] má og veita leyfi til ættleiðingar ef hitt er horfið eða geðrænum högum þess svo háttað að það beri ekki skyn á gildi ættleiðingar.
  □ Heimilt er að leyfa einhleypum manni að ættleiða barn ef sérstaklega stendur á og ættleiðing er ótvírætt talin barninu til hagsbóta.
- □ Með óvígðri sambúð í lögum þessum er átt við sambúð karls og konu sem skráð er í þjóðskrá eða sem ráða má af öðrum ótvíræðum gögnum.
-■ *3. gr.* _Hverja má ættleiða._
+ □ Með óvígðri sambúð í lögum þessum er átt við [sambúð tveggja einstaklinga][^1)^] sem skráð er í þjóðskrá eða sem ráða má af öðrum ótvíræðum gögnum.
+    _[^1)^]_"L. 65/2006, 16. gr.":/altext/stjt/2006.065.html
+ ■ *3. gr.* _Hverja má ættleiða._
  □ Lög þessi taka til ættleiðinga barna innan 18 ára aldurs. Sama er um ættleiðingar þeirra sem eldri eru, nema annars sé getið og eftir því sem við á. Með orðinu barn samkvæmt lögum þessum er átt við barn eða ungmenni allt til 18 ára aldurs.
  □ Eigi er manni heimilt að ættleiða kynbarn sitt, nema það hafi verið ættleitt áður og ættleiðing af hálfu kynforeldris þyki bæta hag barnsins.
 ■ *4. gr.* _Almenn skilyrði ættleiðingar._
@@ -57,18 +59,20 @@ h2. Lög um ættleiðingar
 ■ *15. gr.* _Umsókn um ættleiðingarleyfi._
  □ Umsókn um leyfi til ættleiðingar og yfirlýsing um samþykki til ættleiðingar skulu rituð á eyðublöð sem dómsmálaráðuneytið lætur í té.
 ■ *16. gr.* _Umsögn varðandi umsókn um leyfi til ættleiðingar._
+ □ [Leita skal umsagnar barnaverndarnefndar um umsókn um leyfi til að ættleiða barn nema augljóst sé að skilyrði fyrir útgáfu ættleiðingarleyfis séu ekki uppfyllt.][^1)^]
  □ Leita skal umsagnar barnaverndarnefnda varðandi umsókn um leyfi til ættleiðingar í umdæmi þar sem barn býr og þar sem umsækjendur búa, svo og þeirrar barnaverndarnefndar sem ráðstafað hefur barni í fóstur ef því er að skipta.
  □ Enn fremur má leita umsagnar ættleiðingarnefndar til viðbótar umsögn barnaverndarnefndar ef ástæða þykir til, sbr. 17. gr.
- □ Dómsmálaráðuneytið skal setja reglugerð[^1)^] um gerð umsagna barnaverndarnefnda.
-    _[^1)^]_"Rg. 238/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-2005.
+ □ Dómsmálaráðuneytið skal setja reglugerð[^2)^] um gerð umsagna barnaverndarnefnda.
+    _[^1)^]_"L. 69/2006, 5. gr.":/altext/stjt/2006.069.html [^2)^]"Rg. 238/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-2005.
  ■ *17. gr.* _Ættleiðingarnefnd._
  □ Dómsmálaráðherra skal skipa nefnd sem veitir umsagnir í ættleiðingarmálum sem ráðuneytið leggur fyrir hana. Ráðherra getur falið nefndinni fleiri verkefni og sett nánari reglur um störf hennar.
  □ Nefndarmenn skulu vera þrír og jafnmargir til vara. Þeir skulu skipaðir til fjögurra ára í senn. Skal einn nefndarmanna vera lögfræðingur og skal hann vera formaður nefndarinnar, annar læknir og þriðji sálfræðingur eða félagsráðgjafi.
  □ Kostnaður af störfum nefndarinnar greiðist úr ríkissjóði samkvæmt ákvörðun dómsmálaráðherra.
 ■ *18. gr.* _Útgáfa ættleiðingarleyfis._
- □ Að fenginni umsögn barnaverndarnefndar og ættleiðingarnefndar, ef því er að skipta, og að fullnægðum öðrum lögmæltum skilyrðum leysir dómsmálaráðherra svo fljótt sem auðið er úr því hvort ættleiðingarleyfi verður veitt.
+ □ Að fenginni umsögn barnaverndarnefndar og ættleiðingarnefndar, ef því er að skipta, og að fullnægðum ...[^1)^] lögmæltum skilyrðum leysir dómsmálaráðherra svo fljótt sem auðið er úr því hvort ættleiðingarleyfi verður veitt.
  □ Ef ráðherra ákveður að veita leyfi til ættleiðingar gefur hann út leyfisbréf til umsækjenda um ættleiðinguna.
-■ *19. gr.* _Ákvörðun um fyrirhugaða veitingu ættleiðingarleyfis._
+    _[^1)^]_"L. 69/2006, 6. gr.":/altext/stjt/2006.069.html
+ ■ *19. gr.* _Ákvörðun um fyrirhugaða veitingu ættleiðingarleyfis._
  □ Ef dómsmálaráðherra ákveður að veita leyfi til ættleiðingar þótt samþykki skv. 7. gr. liggi ekki fyrir eða samþykki hafi verið afturkallað, sbr. 10. gr., skal með sannanlegum hætti tilkynna þeim sem fer með forsjá barns eða sérstökum lögráðamanni það með rökstuddri ákvörðun. Þar skal greina úrlausnarefni, helstu gögn málsins, niðurstöðu og rökstuðning fyrir henni, þar á meðal lagaatriði er niðurstaðan byggist á, og önnur atriði er máli skipta. Enn fremur skal þar greina heimild til að bera ákvörðunina undir dómstóla og málshöfðunarfrest.
 ■ *20. gr.* _Synjun umsóknar um ættleiðingu._
  □ Ef synjað er um ættleiðingu skal það gert með úrskurði. Í úrskurði skal greina úrlausnarefni, helstu gögn málsins, niðurstöðu og rökstuðning fyrir henni, þar á meðal lagaatriði er niðurstaða byggist á, og önnur atriði er máli skipta.
@@ -110,14 +114,17 @@ h2. Lög um ættleiðingar
  □ Dómsmálaráðherra getur mælt fyrir um að með umsókn skv. 1. mgr., eða áður en forsamþykki er gefið út, skuli umsækjendur leggja fram staðfestingu á að þeir hafi sótt námskeið um ættleiðingar erlendra barna. Ráðherra getur sett nánari reglur[^1)^] um inntak þess, skipulagningu og gjaldtöku.
     _[^1)^]_"Rg. 238/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-2005.
  ■ *31. gr.* _Umsögn varðandi umsókn um forsamþykki._
+ □ [Leita skal umsagnar barnaverndarnefndar um umsókn um forsamþykki til að ættleiða erlent barn nema augljóst sé að skilyrði fyrir útgáfu forsamþykkis séu ekki uppfyllt.][^1)^]
  □ Leita skal umsagnar barnaverndarnefndar varðandi umsókn um forsamþykki í umdæmi þar sem umsækjendur búa.
  □ Enn fremur má leita umsagnar ættleiðingarnefndar til viðbótar umsögn barnaverndarnefndar ef ástæða þykir til, sbr. 17. gr.
-■ *32. gr.* _Útgáfa forsamþykkis._
- □ Að fenginni umsögn barnaverndarnefndar og ættleiðingarnefndar, ef því er að skipta, og að uppfylltum öðrum lögmæltum skilyrðum tekur dómsmálaráðherra afstöðu til umsóknar um forsamþykki svo fljótt sem föng eru á.
+    _[^1)^]_"L. 69/2006, 7. gr.":/altext/stjt/2006.069.html
+ ■ *32. gr.* _Útgáfa forsamþykkis._
+ □ Að fenginni umsögn barnaverndarnefndar og ættleiðingarnefndar, ef því er að skipta, og að uppfylltum ... lögmæltum skilyrðum tekur dómsmálaráðherra afstöðu til umsóknar um forsamþykki svo fljótt sem föng eru á.
  □ Í forsamþykki skal m.a. koma fram að væntanlegir kjörforeldrar teljist hæfir til að ættleiða barn frá tilteknu erlendu ríki, að væntanlegt kjörbarn fái landvist hér á landi til frambúðar og að íslensk stjórnvöld taki ábyrgð á barninu frá þeim tíma sem það yfirgefur heimaland sitt eins og væri það íslenskur ríkisborgari.
- □ Forsamþykki skal ekki gilda lengur en í tvö ár frá útgáfudegi.
+ □ Forsamþykki skal ekki gilda lengur en í tvö ár frá útgáfudegi. [Heimilt er þó að framlengja gildistíma forsamþykkis einu sinni í allt að 12 mánuði ef sérstaklega stendur á.][^1)^]
  □ Ráðherra er heimilt að afturkalla forsamþykki, enda telji hann að aðstæður umsækjenda hafi breyst verulega frá útgáfu þess eða upplýsingar er máli skipta hafi reynst rangar.
-■ *33. gr.* _Synjun um forsamþykki._
+    _[^1)^]_"L. 69/2006, 8. gr.":/altext/stjt/2006.069.html
+ ■ *33. gr.* _Synjun um forsamþykki._
  □ Ef synjað er um forsamþykki skal það gert með úrskurði á sama hátt og greinir í 20. gr.
 ■ *34. gr.* _Ættleiðingarfélög._
  □ Dómsmálaráðherra löggildir félög til að hafa milligöngu um ættleiðingar barna erlendis.
@@ -147,8 +154,8 @@ h2. Lög um ættleiðingar
 
  *VIII. kafli.* *Stjórnvaldsreglur, gildistaka, brottfall laga og lagaskil.*
 ■ *41. gr.* _Stjórnvaldsreglur._
- □ Dómsmálaráðherra getur sett nánari ákvæði um framkvæmd laga þessara í reglugerð.[^1)^]
-    _[^1)^]_"Rg. 238/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-2005.
+ □ Dómsmálaráðherra getur sett nánari ákvæði um framkvæmd laga þessara í reglugerð,[^1)^] [þar á meðal um þau skilyrði sem umsækjendur þurfa að uppfylla].[^2)^]
+    _[^1)^]_"Rg. 238/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-2005. [^2)^]"L. 69/2006, 9. gr.":/altext/stjt/2006.069.html
  ■ *42. gr.* _Gildistaka og brottfallin lög._
  □ Lög þessi taka gildi þegar sex mánuðir eru liðnir frá birtingu þeirra.
  □ ...

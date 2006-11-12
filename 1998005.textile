@@ -7,7 +7,7 @@ h2. Lög um kosningar til sveitarstjórna
 <hr />
 
 
- *Tóku gildi 13. mars 1998, sjá þó 106. gr.* _Breytt með_ "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998) og "l. 27/2002":/altext/stjt/2002.027.html (tóku gildi 8. apríl 2002).
+ *Tóku gildi 13. mars 1998, sjá þó 106. gr.* _Breytt með_ "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 27/2002":/altext/stjt/2002.027.html (tóku gildi 8. apríl 2002) og "l. 50/2006":/altext/stjt/2006.050.html (tóku gildi 1. júlí 2006).
 
 
  *I. kafli.* *Kjördagur.*
@@ -23,10 +23,12 @@ h2. Lög um kosningar til sveitarstjórna
  ■ *3. gr.* Kjörgengur í sveitarstjórn er hver sá sem á kosningarrétt í sveitarfélaginu skv. 2. gr. og hefur ekki verið sviptur lögræði.
 
  *III. kafli.* *Kjörskrár.*
-■ *4. gr.* Sveitarstjórnir gera kjörskrár til sveitarstjórnarkosninga á grundvelli kjörskrárstofna sem Hagstofa Íslands (þjóðskrá) lætur þeim í té.
-■ *5. gr.* Á kjörskrá skal taka þá sem uppfylla skilyrði 2. gr. og skráðir voru með lögheimili í sveitarfélaginu samkvæmt íbúaskrá þjóðskrár þremur vikum fyrir kjördag.
-■ *6. gr.* Kjörskrá skal rita á eyðublöð er Hagstofa Íslands (þjóðskrá) lætur í té og skal farið nákvæmlega eftir þeim leiðbeiningum sem hún lætur skrá á þau.
-■ *7. gr.* Þegar kjörskrá hefur verið samin ...[^1)^] skal hún undirrituð af oddvita sveitarstjórnar eða framkvæmdastjóra hennar.
+■ *4. gr.* Sveitarstjórnir gera kjörskrár til sveitarstjórnarkosninga á grundvelli kjörskrárstofna sem [Þjóðskrá][^1)^] lætur þeim í té.
+    _[^1)^]_"L. 50/2006, 18. gr.":/altext/stjt/2006.050.html
+ ■ *5. gr.* Á kjörskrá skal taka þá sem uppfylla skilyrði 2. gr. og skráðir voru með lögheimili í sveitarfélaginu samkvæmt íbúaskrá þjóðskrár þremur vikum fyrir kjördag.
+■ *6. gr.* Kjörskrá skal rita á eyðublöð er [Þjóðskrá][^1)^] lætur í té og skal farið nákvæmlega eftir þeim leiðbeiningum sem hún lætur skrá á þau.
+    _[^1)^]_"L. 50/2006, 18. gr.":/altext/stjt/2006.050.html
+ ■ *7. gr.* Þegar kjörskrá hefur verið samin ...[^1)^] skal hún undirrituð af oddvita sveitarstjórnar eða framkvæmdastjóra hennar.
     _[^1)^]_"L. 27/2002, 2. gr.":/altext/stjt/2002.027.html
  ■ *8. gr.* Félagsmálaráðuneytið skal eigi síðar en 12 dögum fyrir kjördag birta í útvarpi og dagblöðum auglýsingu um framlagningu kjörskráa. Í auglýsingunni skal tekið fram hvar kærum skuli komið á framfæri og hver kærufrestur er.
 ■ *9. gr.* Kjörskrá skal leggja fram almenningi til sýnis á skrifstofu sveitarstjórnar eða öðrum hentugum stað eigi síðar en tíu dögum fyrir kjördag.

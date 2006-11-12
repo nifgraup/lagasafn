@@ -6,7 +6,8 @@ h2. Reglugerð um Stjórnarráð Íslands
 
 <hr />
 
-*Tók gildi 2. febrúar 2004.*
+*Tók gildi 2. febrúar 2004.* _Breytt með_ rg. A 118/2006 (tók gildi 2. sept. 2006) og rg. A 123/2006 (tók gildi 30. sept. 2006).
+
  ■ *1. gr.* Stjórnarmálefni ber undir ráðuneyti eftir ákvæðum reglugerðar þessarar.
 ■ *2. gr.* _Forsætisráðuneyti_ fer með mál, er varða:
     1. Stjórnskipan lýðveldisins og stjórnarfar almennt.
@@ -50,7 +51,9 @@ h2. Reglugerð um Stjórnarráð Íslands
     22. Kirkjumál og safnaða, þar á meðal embætti biskups og skipan prestakalla.
     23. Grafreiti og útfararstofnanir, þar á meðal bálstofur.
     24. Skaðabætur utan samninga.
-■ *4. gr.* _Félagsmálaráðuneyti_ fer með mál, er varða:
+    [25. Þjóðskrá og almannaskráningu.][^1)^]
+    _[^1)^]_"Rg. A 118/2006, 1. gr.":http://stjornartidindi.is/servlet/stjrtid/A/2006/118.pdf
+ ■ *4. gr.* _Félagsmálaráðuneyti_ fer með mál, er varða:
     A. Sveitarfélög, þar á meðal:
     1. Stjórnsýslu og verkefni sveitarfélaga sem ekki eru lögð til annars ráðuneytis.
     2. Tekjustofna og fjármál sveitarfélaga.
@@ -101,8 +104,9 @@ h2. Reglugerð um Stjórnarráð Íslands
     3. Gerð þjóðhagsreikninga.
     4. Vísitölur.
     5. Samskipti við alþjóðastofnanir um hagskýrslu- og tölfræðimál.
-    6. Þjóðskrá og almannaskráningu.
-■ *7. gr.* _Heilbrigðis- og tryggingamálaráðuneyti_ fer með mál, er varða:
+    6. ...[^1)^]
+    _[^1)^]_"Rg. A 118/2006, 2. gr.":http://stjornartidindi.is/servlet/stjrtid/A/2006/118.pdf
+ ■ *7. gr.* _Heilbrigðis- og tryggingamálaráðuneyti_ fer með mál, er varða:
     A. Heilbrigðisþjónustu, þar á meðal:
     1. Lýðheilsu og forvarnir, þ.m.t. geislavarnir.
     2. Heilsugæslu.
@@ -191,13 +195,14 @@ h2. Reglugerð um Stjórnarráð Íslands
     7. Aðild Íslands að alþjóðlegum samtökum, stofnunum, ráðstefnum og fundum, er varða opinbera hagsmuni og eigi ber undir annað ráðuneyti, samkvæmt ákvæðum þessarar reglugerðar eða eðli máls.
     8. Diplómatísk vegabréf, þjónustuvegabréf og áritun vegabréfa.
     9. Kynningu Íslands og íslenskra efna með öðrum þjóðum, nema slík mál séu lögð til annars ráðuneytis.
-    10. Framkvæmd varnarsamnings Íslands og Bandaríkjanna, þar á meðal innan marka varnarsvæðanna, lögreglumál, dómsmál, tollamál, póst- og símamál, flugmál, radarstöðvamál, heilbrigðismál, félagsmál og önnur þau mál, er leiðir af dvöl hins erlenda varnarliðs í landinu, sbr. lög um yfirstjórn mála á varnarsvæðunum.
+    10. [Framkvæmd varnarsamnings Íslands og Bandaríkjanna, þar á meðal innan marka varnarsvæðanna, lögreglumál, dómsmál, tollamál, póst- og símamál, flugmál, radarstöðvamál, heilbrigðismál, félagsmál og önnur þau mál, er leiðir af dvöl hins erlenda varnarliðs í landinu, sbr. lög um yfirstjórn mála á varnarsvæðunum. Sama gildir um varnarsvæði sem skilað hefur verið til íslenskra ríkisins, þar til íslensk stjórnvöld birta auglýsingu um að slíkt landsvæði, að hluta eða í heild, hafi verið tekið til annarra nota.][^1)^]
     11. Útflutningsverslun.
     12. Undirbúning og framkvæmd viðskiptasamninga.
     13. Skipti Íslands við alþjóðleg viðskiptasamtök.
     14. Vörusýningar erlendis.
     15. Þróunarsamvinnu, friðargæslu og neyðarhjálp.
-■ *15. gr.* _Viðskiptaráðuneyti_ fer með mál, er varða:
+    _[^1)^]_"Rg. A 123/2006, 1. gr.":http://stjornartidindi.is/servlet/stjrtid/A/2006/123.pdf
+ ■ *15. gr.* _Viðskiptaráðuneyti_ fer með mál, er varða:
     1. Verslun og viðskipti með vöru og þjónustu, aðra en útflutningsverslun.
     2. Fjármálamarkað. Vátryggingar og vátryggingastarfsemi.
     3. Vexti og verðtryggingu.

@@ -7,7 +7,8 @@ h2. Lög um dómstóla
 <hr />
 
 
- *Tóku gildi 1. júlí 1998, sjá þó 34. gr.*
+ *Tóku gildi 1. júlí 1998, sjá þó 34. gr.* _Breytt með_ "l. 47/2006":2006047.html (tóku gildi 1. júlí 2006).
+
 
  *I. kafli.* *Dómstólaskipanin.*
  ■ *1. gr.* Hæstiréttur Íslands er æðsti dómstóll ríkisins. Hann er áfrýjunardómstóll og hefur aðsetur í Reykjavík.
@@ -76,8 +77,9 @@ h2. Lög um dómstóla
  ■ *13. gr.* Í dómstólaráði eiga sæti fimm menn sem dómsmálaráðherra skipar. Tveir þeirra skulu kjörnir af héraðsdómurum úr þeirra röðum, tveir kjörnir af dómstjórum við héraðsdómstóla úr þeirra hópi, en ráðherra skipar einn án tilnefningar og skal hann ekki vera starfandi dómari. Skipunartími í dómstólaráð er fimm ár, en þó þannig að skipunartími eins manns rennur út hvert ár. Hver þessara fimm manna skal hafa varamann sem skipaður er og eftir atvikum tilnefndur á sama hátt og aðalmaður. Sami maður verður ekki skipaður í sæti aðalmanns í dómstólaráði oftar en tvisvar samfleytt.
  □ Láti héraðsdómari eða dómstjóri, sem sæti á í dómstólaráði, af embætti eða starfi dómstjóra áður en skipunartími hans er á enda eða fái hann lausn frá setu í ráðinu skal annar kjörinn og skipaður í hans stað til loka skipunartímans. Ráðherra skipar til sama tíma nýjan mann í dómstólaráð ef sá sem hann skipar án tilnefningar hverfur frá starfinu áður en skipunartíma lýkur.
  □ Dómstólaráð kýs sér formann frá byrjun hvers árs að telja. Það ákveður hvar starfsemi þess fer fram.
- □ Kjaradómur ákveður þóknun fyrir setu í dómstólaráði.
-■ *14. gr.* Auk þess sem mælt er fyrir um í öðrum ákvæðum þessara laga er hlutverk dómstólaráðs sem hér segir:
+ □ [Kjararáð][^1)^] ákveður þóknun fyrir setu í dómstólaráði.
+    _[^1)^]_"L. 47/2006, 13. gr.":2006047.html#g13
+ ■ *14. gr.* Auk þess sem mælt er fyrir um í öðrum ákvæðum þessara laga er hlutverk dómstólaráðs sem hér segir:
     1. Að fara með á sína ábyrgð fjárreiður héraðsdómstóla, gera tillögur til dómsmálaráðherra um sameiginlega fjárveitingu til þeirra og skipta á milli þeirra fé sem skal veitt þeim í einu lagi með fjárlögum.
     2. Að ákveða fjölda dómara og annarra starfsmanna við hvern héraðsdómstól, svo og að setja almennar reglur um flutning dómara á milli þeirra.
     3. Að skipuleggja endurmenntun héraðsdómara og annarra lögfræðinga í þjónustu héraðsdómstóla.
@@ -122,12 +124,14 @@ h2. Lög um dómstóla
 ■ *23. gr.* Ákvæði þessa kafla taka jafnt til dómara við Hæstarétt og héraðsdómara nema annars sé sérstaklega getið.
  □ Til að gegna störfum sem mælt er nánar fyrir um í þessum kafla skipar dómsmálaráðherra þrjá menn til að sitja í nefnd um dómarastörf, svo og jafnmarga til vara. Einn nefndarmaður skal skipaður samkvæmt tilnefningu Dómarafélags Íslands, einn samkvæmt tilnefningu lagadeildar Háskóla Íslands og einn skipar ráðherra án tilnefningar. Skal sá síðastnefndi vera formaður nefndarinnar og fullnægja skilyrðum til að verða skipaður í embætti hæstaréttardómara. Skipunartími nefndarmanna er sex ár en þó þannig að skipunartími eins þeirra rennur út annað hvert ár. Sömu reglur gilda um skipun varamanna. Sami maður verður ekki skipaður í sæti aðalmanns í nefndinni oftar en tvisvar samfleytt.
  □ Úrlausnum nefndar um dómarastörf verður ekki skotið til annars stjórnvalds.
- □ Nefnd um dómarastörf skal hafa eftir þörfum samvinnu við dómstólaráð um starfsemi sína. Kjaradómur ákveður þóknun fyrir setu í nefndinni.
-■ *24. gr.* Dómarar eru sjálfstæðir í dómstörfum og leysa þau af hendi á eigin ábyrgð. Við úrlausn máls fara þeir eingöngu eftir lögum og lúta þar aldrei boðvaldi annarra. Dómsathöfn verður ekki endurskoðuð af öðrum nema með málskoti til æðra dóms.
+ □ Nefnd um dómarastörf skal hafa eftir þörfum samvinnu við dómstólaráð um starfsemi sína. [Kjararáð][^1)^] ákveður þóknun fyrir setu í nefndinni.
+    _[^1)^]_"L. 47/2006, 13. gr.":2006047.html#g13
+ ■ *24. gr.* Dómarar eru sjálfstæðir í dómstörfum og leysa þau af hendi á eigin ábyrgð. Við úrlausn máls fara þeir eingöngu eftir lögum og lúta þar aldrei boðvaldi annarra. Dómsathöfn verður ekki endurskoðuð af öðrum nema með málskoti til æðra dóms.
  □ Dómara er skylt að ljúka á eðlilegum tíma þeim málum sem hann fær úthlutað til meðferðar og rækja störf sín af alúð og samviskusemi. Dómara ber að hlíta boði forstöðumanns dómstóls um önnur atriði varðandi störf sín en meðferð og úrlausn máls. Héraðsdómurum ber og að hlíta lögmætum ákvörðunum dómstólaráðs.
  □ Dómurum ber að leitast við að halda við þekkingu sinni í lögum. Þeim skal eftir föngum gefinn kostur á leyfi og stuðningi til endurmenntunar.
-■ *25. gr.* Kjaradómur ákveður laun dómara fyrir embættisstörf þeirra.
-■ *26. gr.* Dómara er óheimilt að taka að sér starf eða eiga hlut í félagi eða atvinnufyrirtæki ef slíkt fær ekki samrýmst stöðu hans eða leiðir af sér hættu á að hann geti ekki sinnt embættisstarfi sínu sem skyldi.
+■ *25. gr.* [Kjararáð][^1)^] ákveður laun dómara fyrir embættisstörf þeirra.
+    _[^1)^]_"L. 47/2006, 13. gr.":2006047.html#g13
+ ■ *26. gr.* Dómara er óheimilt að taka að sér starf eða eiga hlut í félagi eða atvinnufyrirtæki ef slíkt fær ekki samrýmst stöðu hans eða leiðir af sér hættu á að hann geti ekki sinnt embættisstarfi sínu sem skyldi.
  □ Nefnd um dómarastörf setur almennar reglur[^1)^] um hvers konar aukastörf geti samrýmst embættisstörfum dómara. Dómari skal tilkynna nefndinni um aukastarf áður en hann tekur við því. Sé ekki getið um heimild til að gegna starfinu í almennum reglum nefndarinnar skal dómari þó fyrir fram leita leyfis hennar til þess.
  □ Nefnd um dómarastörf setur almennar reglur[^1)^] um að hvaða marki samrýmanlegt sé embætti dómara að hann eigi hlut í félagi eða atvinnufyrirtæki. Dómari skal tilkynna nefndinni um hlut sem hann eignast í félagi eða fyrirtæki. Sé ekki getið um heimild til að eiga slíkan hlut í almennum reglum nefndarinnar skal dómari þó fyrir fram leita leyfis hennar til þess.
  □ Með rökstuddri ákvörðun getur nefnd um dómarastörf meinað dómara að gegna aukastarfi eða eiga hlut í félagi eða atvinnufyrirtæki. Dómara ber að hlíta slíku banni, en heimilt er að leita úrlausnar dómstóla um lögmæti þess.

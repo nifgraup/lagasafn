@@ -7,7 +7,7 @@ h2. Lög um fjarskipti
 <hr />
 
 
- *Tóku gildi 25. júlí 2003, sjá þó ákvæði 76. gr.* _EES-samningurinn:_ XI. viðauki tilskipun 1999/5/EB, reglugerð 2887/2000/EB, tilskipun 2002/19/EB, 2002/20/EB, 2002/21/EB, 2002/22/EB, 2002/58/EB og 2002/77/EB. _Breytt með_ "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005) og "l. 78/2005":/altext/stjt/2005.078.html (tóku gildi 9. júní 2005).
+ *Tóku gildi 25. júlí 2003, sjá þó ákvæði 76. gr.* _EES-samningurinn:_ XI. viðauki tilskipun 1999/5/EB, reglugerð 2887/2000/EB, tilskipun 2002/19/EB, 2002/20/EB, 2002/21/EB, 2002/22/EB, 2002/58/EB og 2002/77/EB. _Breytt með_ "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005), "l. 78/2005":/altext/stjt/2005.078.html (tóku gildi 9. júní 2005) og "l. 74/2006":/altext/stjt/2006.074.html (tóku gildi 30. júní 2006).
 
 
  *I. kafli.* *Markmið og gildissvið. Stjórn fjarskiptamála.*
@@ -35,8 +35,8 @@ h2. Lög um fjarskipti
     c. að veita ráðuneytinu umsagnir um fjarskiptamál, breytingar á löggjöf, stefnumarkandi ákvarðanir stjórnvalda og fjarskiptaáætlun,
     d. að beita sér fyrir samvinnu við þá aðila, félög og samtök er um fjarskiptamál og öryggi fjalla,
     e. annað sem ráðherra felur því.
- □ Samgönguráðherra skipar tvo fulltrúa í fjarskiptaráð án tilnefningar. Skal annar vera formaður en hinn varaformaður. Aðra fulltrúa í ráðinu skipar ráðherra úr hópi helstu hagsmunaaðila eftir tilnefningu í samræmi við reglur sem hann setur þar um.][^2)^]
-    _[^1)^]Augl. A 89/2005_. [^2)^]"L. 78/2005, 1. gr.":/altext/stjt/2005.078.html
+ □ Samgönguráðherra skipar tvo fulltrúa í fjarskiptaráð án tilnefningar. Skal annar vera formaður en hinn varaformaður. Aðra fulltrúa í ráðinu skipar ráðherra úr hópi helstu hagsmunaaðila eftir tilnefningu í samræmi við reglur[^2)^] sem hann setur þar um.][^3)^]
+    _[^1)^]Augl. A 89/2005_. [^2)^]"Rg. 464/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/464-2006. [^3)^]"L. 78/2005, 1. gr.":/altext/stjt/2005.078.html
 
  *II. kafli.* *Orðskýringar.*
  ■ *3. gr.* Merking orða í lögum þessum er sem hér segir:
@@ -341,7 +341,9 @@ h2. Lög um fjarskipti
  □ Ekki má án undangengins dómsúrskurðar heimila óviðkomandi aðilum að sjá skeyti, önnur skjöl eða annála um sendingar sem um fjarskiptavirkin fara eða hlusta á fjarskiptasamtöl eða hljóðrita þau. [Fjarskiptafyrirtæki er þó rétt og skylt að veita lögreglu, í þágu rannsóknar opinbers máls, upplýsingar um hver sé skráður eigandi ákveðins símanúmers og/eða eigandi eða notandi vistfangs (IP-tölu).][^1)^] Um aðgang lögreglu að upplýsingum um fjarskipti skal [að öðru leyti][^1)^] fara samkvæmt lögum um meðferð opinberra mála.
  □ Enginn sem starfar við fjarskiptavirki, net eða þjónustu má skjóta undan skeytum, gögnum, myndum eða öðrum merkjum sem afhent eru til fjarskiptaflutnings eða liðsinna öðrum við þess konar athæfi.
  □ Sá sem fyrir tilviljun, mistök eða án sérstakrar heimildar tekur við símskeytum, myndum eða öðrum fjarskiptamerkjum og táknum eða hlustar á símtöl má ekki skrá neitt slíkt hjá sér eða notfæra sér það á nokkurn hátt. Jafnframt ber honum að tilkynna sendanda að upplýsingar hafi ranglega borist sér. Skylt er að gæta fyllsta trúnaðar í slíkum tilfellum.
-    _[^1)^]_"L. 78/2005, 9. gr.":/altext/stjt/2005.078.html
+ □ [Þeim sem rekur fjarskiptaþjónustu eða fjarskiptanet er skylt að verða við tilmælum lögreglu um aðstoð við rannsókn sakamáls, enda styðjist þau tilmæli við dómsúrskurð eða lagaheimild.
+ □ Starfsmenn fjarskiptafyrirtækis bera þagnarskyldu um allar aðgerðir sem gripið er til skv. 6. mgr.][^2)^]
+    _[^1)^]_"L. 78/2005, 9. gr.":/altext/stjt/2005.078.html [^2)^]"L. 74/2006, 6. gr.":/altext/stjt/2006.074.html
  ■ *48. gr.* _Hljóðritun símtala._
  □ Sá aðili að símtali sem vill hljóðrita símtal skal í upphafi þess tilkynna viðmælanda sínum um fyrirætlun sína.
  □ Aðili þarf þó ekki að tilkynna sérstaklega um upptöku símtals þegar ótvírætt má ætla að viðmælanda sé kunnugt um hljóðritunina.
@@ -375,8 +377,9 @@ h2. Lög um fjarskipti
 ■ *55. gr.* _Skylda til að flytja útvarpsdagskrá._
  □ Leggja má á aðila, sem bjóða fjarskiptanet til dreifingar hljóð- og sjónvarpssendinga til almennings, skyldur til að flytja ákveðna útvarpsdagskrá þegar umtalsverður hluti notenda nýtir sér netin til að taka á móti hljóð- og sjónvarpssendingum. Slíkar skyldur skulu einungis lagðar á þegar sérstaklega ríkar ástæður mæla með því.
 ■ *56. gr.* _Skilyrt aðgangskerfi._
- □ Skilyrtur aðgangur að stafrænni hljóð- og sjónvarpsþjónustu skal fullnægja reglum sem Póst- og fjarskiptastofnun setur á grundvelli skuldbindinga samkvæmt samningnum um Evrópska efnahagssvæðið. Þær kveði m.a. á um tæknilega eiginleika og skyldur til þess að veita aðgang.
-■ *57. gr.* _Staðlar í gagnvirkri sjónvarpsþjónustu._
+ □ Skilyrtur aðgangur að stafrænni hljóð- og sjónvarpsþjónustu skal fullnægja reglum[^1)^] sem Póst- og fjarskiptastofnun setur á grundvelli skuldbindinga samkvæmt samningnum um Evrópska efnahagssvæðið. Þær kveði m.a. á um tæknilega eiginleika og skyldur til þess að veita aðgang.
+    _[^1)^]_"Rgl. 570/2006":http://stjornartidindi.is/servlet/stjrtid/B/2006/570.pdf.
+ ■ *57. gr.* _Staðlar í gagnvirkri sjónvarpsþjónustu._
  □ Póst- og fjarskiptastofnun skal beina því til fyrirtækja sem starfrækja stafræna gagnvirka sjónvarpsþjónustu fyrir almenning eða selja þróaðan stafrænan sjónvarpsbúnað að þau noti opna staðla fyrir forritatengsl í samræmi við skuldbindingar samkvæmt samningnum um Evrópska efnahagssvæðið.
 ■ *58. gr.* _Kröfur vegna stafræns útvarps í almennum fjarskiptanetum._
  □ Almenn fjarskiptanet sem sett eru upp til þess að dreifa stafrænni sjónvarpsþjónustu skulu vera fær um að dreifa breiðskjársjónvarpsþjónustu og dagskrám. Fjarskiptafyrirtæki sem taka við og dreifa breiðskjárþjónustu eða dagskrám skulu viðhalda breiðskjárforminu.
@@ -399,10 +402,11 @@ h2. Lög um fjarskipti
     d. hafi möguleika á útfærslu sem hindrar svik,
     e. hafi möguleika á útfærslu sem tryggir aðgang að neyðarþjónustu,
     f. hafi möguleika sem auðvelda fötluðum notkun þeirra.
- □ Notendabúnaður fyrir stafrænt sjónvarp skal uppfylla kröfur um samvirkni í samræmi við reglur sem Póst- og fjarskiptastofnun setur um:
+ □ Notendabúnaður fyrir stafrænt sjónvarp skal uppfylla kröfur um samvirkni í samræmi við reglur[^1)^] sem Póst- og fjarskiptastofnun setur um:
     a. sameiginlegt brenglunaralgrími og gjaldfrjálsa viðtöku,
     b. samvirkni hliðrænna og stafrænna sjónvarpstækja.
-■ *62. gr.* _Þráðlaus sendibúnaður._
+    _[^1)^]_"Rgl. 570/2006":http://stjornartidindi.is/servlet/stjrtid/B/2006/570.pdf.
+ ■ *62. gr.* _Þráðlaus sendibúnaður._
  □ Sendibúnað fyrir þráðlaus fjarskipti má aðeins hafa undir höndum, setja upp eða nota að fengnu leyfi Póst- og fjarskiptastofnunar. Þó má starfrækja þráðlausan búnað án sérstaks leyfis þegar hann er eingöngu notaður við almenna fjarskiptaþjónustu í tilteknu tíðnisviði. Póst- og fjarskiptastofnun gefur út leyfisbréf fyrir notkun þráðlauss sendibúnaðar og skal leyfisbréfið [að jafnaði][^1)^] vera tímabundið. Binda má leyfið skilyrðum, svo sem um sendiafl, staðsetningu, bandbreidd, útbreiðslusvæði og tengingu við almenn fjarskiptanet. Leyfisbréf skulu gefin út á nafn eiganda búnaðarins og eru þau ekki framseljanleg. Leyfishafi sem selur þráðlausan búnað, sem hann hefur fengið leyfisbréf fyrir, eða afhendir hann öðrum varanlega ber ábyrgð á því að tilkynna Póst- og fjarskiptastofnun um nýjan eiganda. Póst- og fjarskiptastofnun skal þegar í stað gera ráðstafanir til að stöðva starfrækslu þráðlausra senda, þ.m.t. útvarpssenda, sem ekki er leyfisbréf fyrir og ekki eru undanþegnir leyfisskyldu. Óheimilt er að hindra eftirlitsmenn Póst- og fjarskiptastofnunar í slíkum aðgerðum, enda hafi þeir framvísað starfsskírteini sínu. Póst- og fjarskiptastofnun getur veitt undanþágur frá ákvæðum um leyfisbréf fyrir ákveðnar tegundir sendibúnaðar. [Ekki þarf leyfisbréf fyrir lágaflsbúnaði sem vinnur á samræmdum tíðnisviðum sem Póst- og fjarskiptastofnun hefur tilkynnt að nota megi fyrir slíkan búnað.][^1)^]
  □ [Seljendum leyfisskylds þráðlauss búnaðar ber að tilkynna Póst- og fjarskiptastofnun hver sé kaupandi búnaðarins á því formi og með þeim hætti sem stofnunin samþykkir.][^1)^]
     _[^1)^]_"L. 78/2005, 10. gr.":/altext/stjt/2005.078.html
@@ -466,14 +470,15 @@ h2. Lög um fjarskipti
  □ Við alvarleg og endurtekin brot á skilmálum almennrar heimildar eða skilyrðum sem tengjast réttindum eða sérstökum kvöðum þegar ráðstafanir til að tryggja að farið verði að lögum hafa mistekist getur Póst- og fjarskiptastofnun stöðvað netrekstur eða þjónustu fjarskiptafyrirtækis eða afturkallað réttindi tímabundið eða varanlega.
  □ Póst- og fjarskiptastofnun getur, ef sannanir liggja fyrir um brot á skilmálum almennrar heimildar eða skilyrðum sem tengjast réttindum eða sérstökum kvöðum sem leiðir til yfirvofandi hættu fyrir öryggi og heilsu almennings eða getur skapað alvarleg fjárhagsleg eða rekstrarleg vandamál fyrir önnur fjarskiptafyrirtæki eða notendur fjarskiptaneta eða þjónustu, tekið bráðabirgðaákvarðanir til að bæta úr ástandinu áður en endanleg ákvörðun er tekin. Fjarskiptafyrirtækinu sem í hlut á skal að lokinni bráðabirgðaákvörðun veitt tækifæri til þess að koma skoðunum sínum á framfæri og leggja til úrbætur. Þegar við á getur Póst- og fjarskiptastofnun staðfest bráðabirgðaákvörðun sína.
 ■ *74. gr.* _Viðurlög._
- □ Brot á lögum þessum og reglugerðum settum samkvæmt þeim varða sektum, en fangelsi allt að sex mánuðum ef sakir eru miklar eða brot ítrekuð.
+ □ Brot á lögum þessum og reglugerðum settum samkvæmt þeim varða sektum, en [fangelsi allt að tveimur árum][^1)^] ef sakir eru miklar eða brot ítrekuð.
  □ Gáleysisbrot skulu eingöngu varða sektum.
  □ Brot gegn IX. kafla laganna um vernd persónuupplýsinga og friðhelgi einkalífs varða refsingu svo sem mælt er fyrir um í 1. mgr. Sé slíkt brot framið í ávinningsskyni, hvort sem er í eigin þágu eða annarra, má refsa með fangelsi allt að þremur árum.
  □ Fjarskiptabúnað sem hefur verið starfræktur í heimildarleysi má gera upptækan, sbr. 69. gr. almennra hegningarlaga, með síðari breytingum.
  □ Þegar fjarskiptafyrirtæki fer ekki að ákvæðum laga, skilyrðum almennrar heimildar, skilyrðum sérstakra réttinda eða einstökum ákvörðunum Póst- og fjarskiptastofnunar getur stofnunin ákveðið í samræmi við ákvæði 73. gr. að fella niður skráningu fyrirtækisins, afturkalla réttindi, bæta við skilyrðum eða beita dagsektum sem nemi 50.000 - 500.000 kr. á dag til að tryggja að eftir fyrirmælum stofnunarinnar sé farið.
+    _[^1)^]_"L. 74/2006, 7. gr.":/altext/stjt/2006.074.html
 
  *XVII. kafli.* *Gildistaka o.fl.*
-■ *75. gr.* _Almenn reglugerðarheimild._
+ ■ *75. gr.* _Almenn reglugerðarheimild._
  □ Samgönguráðherra setur í reglugerð[^1)^] nánari fyrirmæli um framkvæmd fjarskiptamála.
     _[^1)^]_"Rg. 866/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2000, sbr. "700/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/700-2005; "rg. 532/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001, "rg. 348/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/348-2004.
  ■ *76. gr.* _Gildistaka._

@@ -7,7 +7,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
 <hr />
 
 
- *Tóku gildi 1. júlí 2003.* _EES-samningurinn:_ IX. viðauki tilskipun 85/611/EBE.
+ *Tóku gildi 1. júlí 2003.* _EES-samningurinn:_ IX. viðauki tilskipun 85/611/EBE. _Breytt með_ "l. 108/2006":/altext/stjt/2006.108.html (taka gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar, sem undirritaður var í Hoyvík í Færeyjum 31. ágúst 2005, hefur gengið í gildi)
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -211,11 +211,12 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
     3. Útboðslýsing og útdráttur úr útboðslýsingu. Útboðslýsing skal hafa að geyma upplýsingar skv. 6. tölul. þessarar málsgreinar.
     4. Endurskoðaður ársreikningur næstliðins árs, sé hann fyrirliggjandi, og síðari hálfsársuppgjör.
     5. Lýsing á framkvæmd fyrirhugaðrar starfsemi eða markaðssetningar hlutdeildarskírteina verðbréfasjóðsins.
-    6. Upplýsingar um fyrirhugaðar ráðstafanir verðbréfasjóðsins til að tryggja rétt eigenda skírteina til útgreiðslu hagnaðar, innlausnar hlutdeildarskírteina og þeirra upplýsinga sem sjóðnum er skylt að miðla.
+    6. Upplýsingar um fyrirhugaðar ráðstafanir verðbréfasjóðsins til að tryggja rétt eigenda skírteina til útgreiðslu hagnaðar, innlausnar hlutdeildarskírteina og þeirra upplýsinga sem sjóðnum er skylt að miðla.[^1)^]
  □ Fjármálaeftirlitið getur hafnað því að verðbréfasjóður skv. 1. mgr. hefji markaðssetningu hér á landi ef hann uppfyllir ekki þau skilyrði sem gerð eru til verðbréfasjóða samkvæmt lögum þessum og reglum settum samkvæmt þeim eða markaðssetningin stríðir að öðru leyti gegn ákvæðum laga. Fjármálaeftirlitið skal rökstyðja synjun skriflega til verðbréfasjóðsins áður en frestur skv. 1. mgr. rennur út.
  □ Fjármálaeftirlitið gengur úr skugga um eftirlit með verðbréfasjóðnum í heimaríkinu, starfsheimildir þess og starfsemi.
  □ Breytingar á áður tilkynntum atriðum samkvæmt þessari grein skulu þegar tilkynntar Fjármálaeftirlitinu.
-■ *44. gr.* _Heimild til að banna starfsemi erlendra verðbréfasjóða._
+    _[^1)^]Málsgreininni var breytt með_ "l. 108/2006, 87. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
+ ■ *44. gr.* _Heimild til að banna starfsemi erlendra verðbréfasjóða._
  □ Fjármálaeftirlitinu er heimilt að banna erlendum verðbréfasjóði að markaðssetja skírteini sín hér á landi hafi hlutaðeigandi verðbréfasjóður brotið gróflega eða ítrekað gegn ákvæðum laga þessara eða reglum settum samkvæmt þeim eða gegn ákvæðum annarra laga um fjármálafyrirtæki, enda hafi ekki tekist að binda enda á framangreind brot samkvæmt tilmælum eða viðurlögum þessara laga.
 ■ *45. gr.* _Markaðssetning íslenskra verðbréfasjóða utan Íslands._
  □ Hyggist verðbréfasjóður markaðssetja hlutdeildarskírteini sín utan Íslands skal það tilkynnt Fjármálaeftirlitinu og eftirlitsaðila í því landi þar sem markaðssetning er fyrirhuguð.
@@ -350,14 +351,15 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
     3. óhæði rekstrarfélaga og vörslufyrirtækja verðbréfasjóða í störfum sínum og skyldu þeirra til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi (2. mgr. 15. gr.),
     4. starfsemi vörslufyrirtækis verðbréfasjóða (20. gr.),
     5. fjárfestingarheimildir verðbréfasjóða (II. kafli F),
-    6. markaðssetningu verðbréfasjóða hér á landi með staðfestu í öðru ríki innan Evrópska efnahagssvæðisins (1. mgr. 43. gr.),
+    6. markaðssetningu verðbréfasjóða hér á landi með staðfestu í öðru ríki innan Evrópska efnahagssvæðisins (1. mgr. 43. gr.),[^1)^]
     7. breytingu á fjárfestingarsjóðum í sjóði sem lögin taka ekki til (1. mgr. 52. gr., sbr. 2. mgr. 5. gr.),
     8. óhæði rekstrarfélaga og vörslufyrirtækja fjárfestingarsjóða í störfum sínum og skyldu þeirra til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi (1. mgr. 52. gr., sbr. 2. mgr. 15. gr.),
     9. starfsemi vörslufyrirtækis fjárfestingarsjóða (1. mgr. 52. gr., sbr. 20. gr.),
     10. fjárfestingarheimildir fjárfestingarsjóða (54. gr. og 65. gr.) og
     11. þagnarskyldu (1. mgr. 63. gr., sbr. 58. gr. laga um fjármálafyrirtæki).
  □ Hver sá sem vísvitandi gefur rangar eða villandi upplýsingar um hagi verðbréfasjóðs eða fjárfestingarsjóðs eða annað er þá varðar opinberlega eða til Fjármálaeftirlitsins, annarra opinberra aðila eða viðskiptamanna sinna skal sæta sektum eða fangelsi allt að einu ári, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum.
-■ *70. gr.* _Refsiábyrgð lögaðila. Tilraun og hlutdeild. Fyrning sakar._
+    _[^1)^]Liðnum var breytt með_ "l. 108/2006, 88. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
+ ■ *70. gr.* _Refsiábyrgð lögaðila. Tilraun og hlutdeild. Fyrning sakar._
  □ Nú er brot framið í starfsemi fjárfestingarsjóðs sem gefur út hlutabréf og er þá heimilt að gera fjárfestingarsjóðnum fésekt. Um refsiábyrgðina fer eftir II. kafla A almennra hegningarlaga.
  □ Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð eftir því sem segir í almennum hegningarlögum.
  □ Brot á lögum þessum varða refsingu hvort sem þau eru framin af ásetningi eða gáleysi.
