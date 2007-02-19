@@ -26,7 +26,7 @@ h2. Lög um nauðungarsölu
 ■ *4. gr.* Sýslumenn færa málaskrár og gerðabækur um nauðungarsölur eftir því sem er nánar mælt í lögum þessum. Dómsmálaráðherra setur reglur[^1)^] um form og efni málaskráa og form gerðabóka.
  □ Um varðveislu sýslumanna á gögnum um nauðungarsölur og heimildir til aðgangs að þeim eða afhendingar þeirra fer eftir reglum um dómskjöl í einkamálum eftir því sem átt getur við.
  □ Við héraðsdómstóla skal halda skrá um þau mál sem þeir fá til meðferðar eftir ákvæðum þessara laga. Dómsmálaráðherra setur reglur[^1)^] um form og efni þeirra málaskráa.
-    _[^1)^]_"Rg. 227/1992":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/227-1992.
+    _[^1)^]_"Rg. 227/1992":ekkitil/ekkitil.html?REGL/1992227.
  ■ *5. gr.* Ekki er þörf á votti við athafnir eftir lögum þessum.
  □ Að því leyti sem þarf að virða eign við nauðungarsölu verður það gert af einum manni eða tveimur sem sýslumaður kveður til í því skyni með bókun í gerðabók. Þá eina má kveðja til að leysa slík störf af hendi sem hafa nægilega sérþekkingu og yrðu taldir hæfir til að gegna matsstörfum í einkamáli þar sem sömu aðilar ættu í hlut. Sýslumaður ákveður þóknun virðingarmanna.
 
@@ -138,7 +138,7 @@ h2. Lög um nauðungarsölu
     11. að kaupanda beri að hlíta kvöðum og höftum á eigninni að því leyti sem söluverð hennar hrekkur til greiðslu upp í réttindi sem standa að baki þeim kvöðum og höftum í réttindaröð,
     12. að kaupandi geti ekki krafist riftunar kaupanna, afsláttar af söluverði eða greiðslu skaðabóta af því eftir að greiðslum er lokið samkvæmt úthlutunargerð.
  □ Auglýsing um almenna uppboðsskilmála skal birt í Stjórnartíðindum.[^1)^] Teljast þeir alltaf gilda ef annað er ekki ákveðið sérstaklega vegna uppboðs á tiltekinni eign.
-    _[^1)^]Augl. 41/1992_.
+    _[^1)^]_"Augl. 41/1992":ekkitil/ekkitil.html?AUGL/1992041.
  ■ *29. gr.* Eftir kröfu aðila að nauðungarsölunni getur sýslumaður ákveðið með bókun í gerðabók að víkja í tilteknum atriðum frá almennum uppboðsskilmálum. Krafa um slíka breytingu skal að jafnaði koma fram við fyrirtöku skv. 21. gr. Breytingu má þó gera allt þar til lokið er að leita boða í eignina, en raski hún þá forsendum fyrir þegar framkomnum boðum verða bjóðendur ekki bundnir við þau.
  □ Ef um uppboð er að ræða á eign, sem almennir uppboðsskilmálar hæfa ekki, ákveður sýslumaður ótilkvaddur í hverjum atriðum verði vikið frá þeim svo viðeigandi sé. Ákvörðun um þetta skal bókuð í gerðabók.
  □ Ekki verður vikið frá almennum uppboðsskilmálum ef telja má hættu á að það torveldi að mun sölu á eigninni, horfi aðila að nauðungarsölunni eða þriðja manni ólöglega til tjóns, leiði til mismununar á rétthöfum yfir eigninni eða tefji óhæfilega að gerðarbeiðendur fái fullnustu, nema hlutaðeigendur lýsi sig samþykka því.
@@ -303,7 +303,7 @@ h2. Lög um nauðungarsölu
     6. að kaupanda sé rétt og skylt að taka munina í sínar vörslur um leið og söluverðið sé greitt, en sé ekki annað ákveðið verði þeir varðveittir fram að því á hans kostnað ef gjaldfrestur er veittur,
     7. að engin ábyrgð sé tekin á ástandi munanna eða heimild yfir þeim og geti kaupandi ekki krafist riftunar kaupanna, afsláttar eða skaðabóta eftir að söluverðinu hefur verið ráðstafað.
  □ Sýslumaður getur ákveðið að víkja frá almennum uppboðsskilmálum við sölu á tilteknum munum eða uppboðið í heild sinni eftir ákvæðum 29. gr., en að öðrum kosti teljast almennir skilmálar gilda.
-    _[^1)^]Augl. 42/1992_.
+    _[^1)^]_"Augl. 42/1992":ekkitil/ekkitil.html?AUGL/1992042.
  ■ *66. gr.* Ef gerðarbeiðendur æskja þess og gerðarþoli mótmælir því ekki skal frestað að selja munina á uppboði. Verður þá ekki af fyrirtöku á uppboði nema tilefni sé til hennar vegna ákvæða 62. eða 63. gr. Það sama á við ef ekki reynist unnt að koma mununum á uppboðsstað í tæka tíð.
  □ Ef uppboði er frestað skv. 1. mgr. ákveður sýslumaður nýjan tíma til þess. Ákvörðunin skal tilkynnt gerðarþola bréflega en gerðarbeiðanda með þeim hætti sem sýslumanni þykir til hlýða. Uppboðið skal auglýst á ný skv. 1. og 2. mgr. 64. gr.
  □ Hafi munir ekki verið seldir innan eins árs frá þeim degi sem sýslumanni barst beiðni um nauðungarsöluna telst hún sjálfkrafa fallin niður. Þetta gildir þó ekki ef uppboðinu hefur verið frestað vegna meðferðar dómsmáls eða varnað með heimild til greiðslustöðvunar eða til að leita nauðasamnings og uppboðið fer fram svo fljótt sem verða má frá því slík hindrun er úr vegi.

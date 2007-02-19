@@ -7,7 +7,7 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
 <hr />
 
 
- *Tóku gildi 1. janúar 2000.* _EES-samningurinn:_ IX. viðauki tilskipun 94/19/EB og 97/9/EB. _Breytt með_ "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002), "l. 139/2002":/altext/stjt/2002.139.html (tóku gildi 30. des. 2002; _EES-samningurinn:_ IX. viðauki tilskipun 97/9/EB), "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005) og "l. 108/2006":/altext/stjt/2006.108.html (taka gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar, sem undirritaður var í Hoyvík í Færeyjum 31. ágúst 2005, hefur gengið í gildi).
+ *Tóku gildi 1. janúar 2000.* _EES-samningurinn:_ IX. viðauki tilskipun 94/19/EB og 97/9/EB. _Breytt með_ "l. 76/2002":/altext/stjt/2002.076.html (tóku gildi 17. maí 2002), "l. 139/2002":/altext/stjt/2002.139.html (tóku gildi 30. des. 2002; _EES-samningurinn:_ IX. viðauki tilskipun 97/9/EB), "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005) og "l. 108/2006":/altext/stjt/2006.108.html (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006).
 
 
  *I. kafli.* *Markmið og skipulag.*
@@ -16,8 +16,8 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
 ■ *2. gr.* _Stofnun._
  □ Með tryggingar samkvæmt lögum þessum fer sérstök stofnun er nefnist Tryggingarsjóður innstæðueigenda og fjárfesta, hér eftir nefndur sjóðurinn. Sjóðurinn er sjálfseignarstofnun og starfar í tveimur sjálfstæðum deildum með aðskilinn fjárhag og reikningshald, innstæðudeild og verðbréfadeild, sbr. þó ákvæði 12. gr.
 ■ *3. gr.* _Aðilar að sjóðnum._
- □ Viðskiptabankar, sparisjóðir, fyrirtæki í verðbréfaþjónustu og aðrir sem nýta sér heimildir laga til að stunda viðskipti með verðbréf í samræmi við lög um verðbréfaviðskipti, sem hafa staðfestu hér á landi, skulu eiga aðild að sjóðnum. Hið sama gildir um útibú þessara aðila á Evrópska efnahagssvæðinu [og í aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu].[^1)^] Þessi fyrirtæki, hér eftir nefnd aðildarfyrirtæki, bera ekki ábyrgð á skuldbindingum hans umfram lögbundin framlög til sjóðsins, sbr. ákvæði 6. og 7. gr. Fjármálaeftirlitið skal halda sérstaka skrá um aðildarfyrirtæki.[^2)^]
-    _[^1)^]_"L. 76/2002, 89. gr.":/altext/stjt/2002.076.html [^2)^]Málsgreininni var breytt með "l. 108/2006, 92. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
+ □ Viðskiptabankar, sparisjóðir, fyrirtæki í verðbréfaþjónustu og aðrir sem nýta sér heimildir laga til að stunda viðskipti með verðbréf í samræmi við lög um verðbréfaviðskipti, sem hafa staðfestu hér á landi, skulu eiga aðild að sjóðnum. [Hið sama gildir um útibú þessara aðila á Evrópska efnahagssvæðinu, í aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu og í Færeyjum.][^1)^] Þessi fyrirtæki, hér eftir nefnd aðildarfyrirtæki, bera ekki ábyrgð á skuldbindingum hans umfram lögbundin framlög til sjóðsins, sbr. ákvæði 6. og 7. gr. Fjármálaeftirlitið skal halda sérstaka skrá um aðildarfyrirtæki.
+    _[^1)^]_"L. 108/2006, 92. gr.":/altext/stjt/2006.108.html
  ■ *4. gr.* _Stjórn og framkvæmdastjóri._
  □ Stjórn sjóðsins skal skipuð sex mönnum til tveggja ára í senn. Viðskiptabankar tilnefna tvo menn í stjórn sjóðsins, sparisjóðir einn mann, fyrirtæki í verðbréfaþjónustu og aðrir sem nýta sér heimildir laga til að stunda viðskipti með verðbréf sameiginlega einn mann og viðskiptaráðherra tvo menn. Viðskiptaráðherra tilnefnir jafnframt fulltrúa innstæðueigenda og fjárfesta sem áheyrnaraðila með málfrelsi og tillögurétt í stjórn sjóðsins og skal hann uppfylla sömu kröfur og stjórnarmenn. Viðskiptaráðherra skipar formann stjórnar. Varamenn skulu tilnefndir á sama hátt.
  □ Stjórn sjóðsins er heimilt að ráða framkvæmdastjóra við sjóðinn eða semja við lögaðila um rekstur og vörslu hans. Lögaðilinn getur verið Seðlabanki Íslands og vörslufyrirtæki samkvæmt lögum um verðbréfasjóði.
@@ -50,9 +50,9 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
  □ Nú uppfyllir aðildarfyrirtæki ekki skyldur sínar gagnvart sjóðnum samkvæmt lögum þessum og reglugerð og skal þá stjórn hans tilkynna það ráðherra og Fjármálaeftirlitinu án tafar. Ráðherra veitir hlutaðeigandi aðildarfyrirtæki þá allt að þriggja mánaða frest til úrbóta að fengnu áliti Fjármálaeftirlitsins. Hafi aðildarfyrirtækið ekki uppfyllt skyldur sínar að þeim fresti liðnum getur stjórn sjóðsins, að fengnu áliti Fjármálaeftirlitsins, lagt dagsektir á fyrirtækið. Greiðast þær þangað til aðildarfyrirtækið hefur uppfyllt skyldur sínar gagnvart sjóðnum. Sektirnar geta numið 50 - 500 þús. kr. á dag.
  □ Hafi aðildarfyrirtæki ekki uppfyllt skyldur sínar gagnvart sjóðnum innan eins mánaðar frá álagningu dagsekta getur ráðherra tilkynnt því að hann hyggist afturkalla starfsleyfi þess hafi fyrirtækið ekki uppfyllt skyldur sínar að tólf mánuðum liðnum.
  □ Nú rennur frestur skv. 2. mgr. út án þess að hlutaðeigandi aðildarfyrirtæki hafi uppfyllt skyldur sínar gagnvart sjóðnum og getur þá ráðherra afturkallað starfsleyfi þess að fengnu áliti Fjármálaeftirlitsins. [Skuldbindingar sem stofnað er til áður en leyfi er afturkallað skulu njóta tryggingaverndar í samræmi við ákvæði III. kafla.][^1)^]
- □ Nú rennur frestur skv. 1. og 2. mgr. út þegar um er að ræða útibú aðildarfyrirtækis með staðfestu í öðru ríki innan Evrópska efnahagssvæðisins [eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^2)^] og getur stjórn sjóðsins þá tilkynnt útibúinu að hún hyggist útiloka það frá sjóðnum hafi það ekki uppfyllt skyldur sínar að tólf mánuðum liðnum. Ef frestur skv. 1. málsl. rennur út án þess að útibúið hafi uppfyllt skyldur sínar getur sjóðurinn útilokað það frá aðild að sjóðnum að fengnu áliti Fjármálaeftirlitsins. [Skuldbindingar sem stofnað er til áður en útibú er útilokað frá aðild að sjóðnum skulu njóta tryggingaverndar í samræmi við ákvæði III. kafla.][^1)3)^]
+ □ [Nú rennur frestur skv. 1. og 2. mgr. út þegar um er að ræða útibú aðildarfyrirtækis með staðfestu í öðru ríki innan Evrópska efnahagssvæðisins, í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum og getur stjórn sjóðsins þá tilkynnt útibúinu að hún hyggist útiloka það frá sjóðnum hafi það ekki uppfyllt skyldur sínar að tólf mánuðum liðnum.][^2)^] Ef frestur skv. 1. málsl. rennur út án þess að útibúið hafi uppfyllt skyldur sínar getur sjóðurinn útilokað það frá aðild að sjóðnum að fengnu áliti Fjármálaeftirlitsins. [Skuldbindingar sem stofnað er til áður en útibú er útilokað frá aðild að sjóðnum skulu njóta tryggingaverndar í samræmi við ákvæði III. kafla.][^1)^]
  □ Ákvæði 1. - 3. mgr. eiga einnig við um útibú aðildarfyrirtækja með staðfestu í ríki utan Evrópska efnahagssvæðisins.
-    _[^1)^]_"L. 139/2002, 1. gr.":/altext/stjt/2002.139.html [^2)^]"L. 76/2002, 90. gr.":/altext/stjt/2002.076.html [^3)^]Málsgreininni var breytt með "l. 108/2006, 93. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
+    _[^1)^]_"L. 139/2002, 1. gr.":/altext/stjt/2002.139.html [^2)^]"L. 108/2006, 93. gr.":/altext/stjt/2006.108.html
 
  *III. kafli.* *Greiðslur úr sjóðnum.*
  ■ *9. gr.* _Greiðslur úr sjóðnum._
@@ -74,10 +74,10 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
  □ Stjórn sjóðsins er heimilt að láta rannsaka rekstur og efnahag aðildarfyrirtækja sem veitt er víkjandi lán. Stjórn sjóðsins getur í þessu sambandi krafist nauðsynlegra upplýsinga frá hlutaðeigandi aðildarfyrirtæki.
 
  *IV. kafli.* *Erlend útibú.*
-■ *13. gr.* [Útibúum erlendra viðskiptabanka, sparisjóða, fyrirtækja í verðbréfaþjónustu og lánastofnana annarra en viðskiptabanka og sparisjóða, sem starfa hér á landi en hafa staðfestu í öðru ríki á Evrópska efnahagssvæðinu eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu, er heimil aðild að sjóðnum vegna innstæðna, verðbréfa og reiðufjár sem ekki er tryggt á sambærilegan hátt á Evrópska efnahagssvæðinu eða innan aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu.[^1)^]][^2)^]
+■ *13. gr.* [Útibúum erlendra viðskiptabanka, sparisjóða, fyrirtækja í verðbréfaþjónustu og lánastofnana annarra en viðskiptabanka og sparisjóða, sem starfa hér á landi en hafa staðfestu í öðru ríki á Evrópska efnahagssvæðinu, í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum, er heimil aðild að sjóðnum vegna innstæðna, verðbréfa og reiðufjár sem ekki er tryggt á sambærilegan hátt á Evrópska efnahagssvæðinu, í aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum.][^1)^]
  □ Erlend útibú skv. 1. mgr. sem hafa staðfestu utan Evrópska efnahagssvæðisins og starfa hér á landi skulu vera aðilar að sjóðnum, enda sé slíkt útibú ekki aðili að sambærilegu tryggingakerfi í heimaríki sínu.
  □ Ráðherra getur í reglugerð kveðið nánar á um aðild erlendra útibúa samkvæmt þessari grein að sjóðnum, svo og um þær viðbótartryggingar sem útibú þurfa til þess að geta starfað hér á landi. Um iðgjöld og greiðslur vegna trygginga samkvæmt þessari grein skal nánar kveðið á í reglugerð.
-    _[^1)^]Málsgreininni var breytt með_ "l. 108/2006, 94. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi. [^2)^]"L. 76/2002, 91. gr.":/altext/stjt/2002.076.html
+    _[^1)^]_"L. 108/2006, 94. gr.":/altext/stjt/2006.108.html
 
  *V. kafli.* *Ýmis ákvæði.*
  ■ *14. gr.* _Ársreikningur og endurskoðun._
@@ -93,7 +93,7 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
     _[^1)^]_"L. 129/2004, 134. gr.":/altext/stjt/2004.129.html
  ■ *18. gr.* _Reglugerð._
  □ Ráðherra setur í reglugerð[^1)^] nánari ákvæði um starfsemi sjóðsins, m.a. um tilhögun á greiðslum úr sjóðnum, tryggingu á innstæðu, verðbréfum eða reiðufé þegar um sameiginlegan reikning er að ræða eða þegar viðskiptavinur aðildarfyrirtækis á ekki ótvíræðan rétt til innstæðu, verðbréfa og reiðufjár og um ávöxtun á eignum sjóðsins.
-    _[^1)^]_"Rg. 120/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/120-2000, sbr. "864/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/864-2002.
+    _[^1)^]_"Rg. 120/2000":ekkitil/ekkitil.html?REGL/2000120, sbr. "864/2002":ekkitil/ekkitil.html?REGL/2002864.
 
  *VI. kafli.* *Öryggissjóðir.*
  ■ *19. gr.* Viðskiptabönkum annars vegar og sparisjóðum hins vegar, með staðfestu hér á landi, er heimilt að stofna sjálfseignarstofnanir, öryggissjóði, sem allir viðskiptabankar eða allir sparisjóðir skulu vera aðilar að í því skyni að tryggja hagsmuni viðskiptamanna og fjárhagslegt öryggi viðskiptabanka eða sparisjóða.
@@ -103,7 +103,7 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
  □ Stjórnarmenn og starfsmenn öryggissjóða eru bundnir þagnarskyldu í samræmi við ákvæði laga um viðskiptabanka og sparisjóði.
  □ Öryggissjóður er undanþeginn tekjuskatti ...[^1)^] samkvæmt lögum um tekjuskatt ...[^1)^] Sjóðurinn verður hvorki tekinn til gjaldþrotaskipta né er heimilt að gera aðför í eignum hans.
  □ Aðalfundur setur öryggissjóði samþykktir[^2)^] sem háðar skulu staðfestingu ráðherra að fenginni umsögn Fjármálaeftirlitsins. Fjármálaeftirlitið hefur eftirlit með starfsemi öryggissjóða. Um eftirlitið gilda að öðru leyti lög um opinbert eftirlit með fjármálastarfsemi.
-    _[^1)^]_"L. 129/2004, 135. gr.":/altext/stjt/2004.129.html [^2)^]Augl. 16/2002, augl. 204/2005.
+    _[^1)^]_"L. 129/2004, 135. gr.":/altext/stjt/2004.129.html [^2)^]"Augl. 16/2002":ekkitil/ekkitil.html?AUGL/2002016, "augl. 204/2005":ekkitil/ekkitil.html?AUGL/2005204.
 
  *VII. kafli.* *Gildistaka o.fl.*
  ■ *20. gr.* Lög þessi öðlast gildi 1. janúar 2000. Sjóðurinn yfirtekur þá eignir og skuldir Tryggingarsjóðs viðskiptabanka og innstæðudeildar Tryggingarsjóðs sparisjóða. Tryggingarsjóður viðskiptabanka og innstæðudeild Tryggingarsjóðs sparisjóða verða hvor tveggja lögð niður frá sama tíma.

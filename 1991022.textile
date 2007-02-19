@@ -27,7 +27,7 @@ h2. Lög um samvinnufélög
  □ Óheimilt er innlánsdeild að veita lán í eigin nafni eða reka aðra fjármálastarfsemi en um getur í 1. mgr. og hún telst hvorki innláns- né lánastofnun í skilningi laga um Seðlabanka Íslands.
  □ Fjármálaeftirlitið hefur eftirlit með starfsemi innlánsdeilda samvinnufélaga samkvæmt þessari grein. Hver innlánsdeild skal senda Fjármálaeftirlitinu endurskoðaðan ársreikning eigi síðar en þremur mánuðum eftir lok reikningstímabils og sex mánaða árshlutareikning eigi síðar en tveimur mánuðum eftir lok reikningstímabils. Sex mánaða árshlutareikningur skal vera áritaður af endurskoðanda sem endurskoðaður eða kannaður. Um eftirlitið gilda að öðru leyti ákvæði laga um opinbert eftirlit með fjármálastarfsemi.
  □ Tryggingarsjóður innlánsdeilda er undanþeginn tekjuskatti ...[^2)^]][^3)^]][^4)^]
-    _[^1)^]Augl. 760/2001_. [^2)^]"L. 129/2004, 92. gr.":/altext/stjt/2004.129.html [^3)^]"L. 23/2001, 1. gr.":/altext/stjt/2001.023.html [^4)^]"L. 84/1993, 1. gr.":/altext/stjt/1993.084.html
+    _[^1)^]_"Augl. 760/2001":ekkitil/ekkitil.html?AUGL/2001760. [^2)^]"L. 129/2004, 92. gr.":/altext/stjt/2004.129.html [^3)^]"L. 23/2001, 1. gr.":/altext/stjt/2001.023.html [^4)^]"L. 84/1993, 1. gr.":/altext/stjt/1993.084.html
  ■ *3. gr.* Félögum, sem skrásett eru eftir lögum þessum, er einum rétt og skylt að hafa í nafni sínu orðin kaupfélag (skammstafað kf.), samvinnufélag (skammstafað svf.), pöntunarfélag (skammstafað pf.) eða framleiðslusamvinnufélag (skammstafað fsf.). [Þó mega hlutafélög, sem stofnuð verða skv. XII. kafla laganna, halda orðinu kaupfélagi óstyttu í nafni sínu.][^1)^]
  □ Um heiti samvinnufélags fer að öðru leyti eftir ákvæðum firmalaga.
     _[^1)^]_"L. 22/2001, 1. gr.":/altext/stjt/2001.022.html
@@ -66,7 +66,7 @@ h2. Lög um samvinnufélög
  □ Ef löggerningur er gerður fyrir hönd óskrásetts félags bera þeir, sem átt hafa þátt í gerningnum eða ákvörðunum um hann, óskipta persónulega ábyrgð á efndum. Við skráninguna tekur félag við þeim skyldum sem leiddi af stofnsamningi eða sem félag hefur tekið á sig eftir stofnfund.
 ■ *10. gr.* [[Ríkisskattstjóri][^1)^] annast skráningu samvinnufélaga og starfrækir samvinnufélagaskrá í því skyni.
  □ [Fjármálaráðherra][^1)^] er heimilt að setja með reglugerð[^2)^] nánari ákvæði um skráningu samvinnufélaga, þar með talið um skipulag skráningarinnar, rekstur samvinnufélagaskrár, aðgang að skránni og gjaldtöku, m.a. fyrir útgáfu vottorða og afnot af þeim upplýsingum sem samvinnufélagaskrá hefur á tölvutæku formi.][^3)^]
-    _[^1)^]_"L. 35/2003, 6. gr.":/altext/stjt/2003.035.html [^2)^]"Rg. 162/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/162-2006. [^3)^]"L. 44/1997, 2. gr.":/altext/stjt/1997.044.html
+    _[^1)^]_"L. 35/2003, 6. gr.":/altext/stjt/2003.035.html [^2)^]"Rg. 162/2006":ekkitil/ekkitil.html?REGL/2006162. [^3)^]"L. 44/1997, 2. gr.":/altext/stjt/1997.044.html
  ■ *11. gr.* Innan mánaðar frá því að félag er stofnað skal stjórn tilkynna það til skráningar. Í tilkynningu skal greina:
     1. Heiti félagsins, heimili og varnarþing.
     2. Tilgang félagsins, starfssvæði eða starfssvið.

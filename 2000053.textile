@@ -71,7 +71,7 @@ h2. Útvarpslög
  □ Útvarpsstöðvar skulu stuðla að almennri menningarþróun og efla íslenska tungu. Þó skal heimilt, ef sérstaklega stendur á, að veita leyfi til útvarps á öðrum tungumálum en íslensku.
  □ Sjónvarpsstöðvar skulu kosta kapps um að meiri hluta útsendingartíma sé varið í íslenskt dagskrárefni og annað dagskrárefni frá Evrópu. Með útsendingartíma er í þessu sambandi átt við heildarútsendingartíma sjónvarpsstöðva að frádregnum þeim tíma sem varið er til frétta, íþróttaviðburða, leikja, auglýsinga, textavarpsþjónustu og fjarsölu.
  □ Í reglugerð[^1)^] skal það nánar skilgreint hvað telst vera evrópskt efni.
-    _[^1)^]_"Rg. 911/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/911-2000.
+    _[^1)^]_"Rg. 911/2000":ekkitil/ekkitil.html?REGL/2000911.
  ■ *8. gr.* _Tal og texti á íslensku._
  □ Efni á erlendu máli, sem sýnt er á sjónvarpsstöð, skal jafnan fylgja íslenskt tal eða texti á íslensku eftir því sem við á hverju sinni. Það á þó ekki við þegar fluttir eru erlendir söngtextar eða þegar dreift er viðstöðulaust um gervitungl og móttökustöð fréttum eða fréttatengdu efni sem sýnir að verulegu leyti atburði sem gerast í sömu andrá. Við þær aðstæður skal sjónvarpsstöð, eftir því sem kostur er, láta fylgja endursögn eða kynningu á íslensku á þeim atburðum sem orðið hafa. Skal lögð áhersla á að allt tal og texti sé á lýtalausu íslensku máli.
  □ Ákvæði greinar þessarar eiga ekki við þegar um er að ræða endurvarp frá erlendum sjónvarpsstöðvum, enda sé um að ræða viðstöðulaust, óstytt og óbreytt endurvarp heildardagskrár sjónvarpsstöðva. Þau eiga ekki heldur við þegar útvarpsstöð hefur fengið leyfi til útvarps á öðrum tungumálum en íslensku, sbr. 1. mgr. 7. gr.
@@ -80,7 +80,7 @@ h2. Útvarpslög
 ■ *10. gr.* _Dagskrárefni frá sjálfstæðum framleiðendum._
  □ Sjónvarpsstöðvar skulu, eftir því sem unnt er, sjá til þess að minnst 10% af útsendingartíma, sbr. 2. mgr. 7. gr., á ári hverju eða minnst 10% af árlegu dagskrárfé sé varið til evrópskra verka sem framleidd eru af sjálfstæðum framleiðendum. Sjónvarpsstöðvar skulu leggja áherslu á að svo stór hluti af verkum sjálfstæðra framleiðenda sem unnt er sé sýndur innan fimm ára frá því að gerð þeirra lauk.
  □ Í reglugerð[^1)^] skal það nánar skilgreint hverjir teljast vera sjálfstæðir framleiðendur samkvæmt þessari grein.
-    _[^1)^]_"Rg. 50/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/050-2002.
+    _[^1)^]_"Rg. 50/2002":ekkitil/ekkitil.html?REGL/2002050.
  ■ *11. gr.* _Andsvarsréttur._
  □ Þeir aðilar, einstaklingar, félög eða stofnanir, sem telja að lögmætir hagsmunir þeirra, einkum orðspor og mannorð, hafi beðið tjón af því að rangt hafi verið farið með staðreyndir í útvarpsdagskrá, hafa rétt til andsvara á viðkomandi útvarpsstöð eða til annarra jafngildra úrræða. Andsvör skulu send út innan hæfilegs tíma frá því að rök voru færð fyrir beiðninni og á þeim tíma og með þeim hætti sem hæfir þeirri útsendingu er beiðnin tekur til.
 ■ *12. gr.* _Kærur vegna 9. og 11. gr._
@@ -91,7 +91,7 @@ h2. Útvarpslög
  □ Sjónvarpsstöðvum er óheimilt að senda út dagskrárefni, þar á meðal auglýsingar, sem gæti haft alvarleg skaðvænleg áhrif á líkamlegan, andlegan eða siðferðilegan þroska barna, einkum og sér í lagi dagskrárefni sem felur í sér klám eða tilefnislaust ofbeldi, á þeim dagskrártíma sem hætta er á að börn sjái viðkomandi efni.
  □ Dagskrárefni, sem ekki er talið við hæfi barna, sbr. 1. mgr., skal jafnframt einungis sýnt á þann hátt að tryggt sé með tæknilegum ráðstöfunum að börn á því svæði er útsendingin nær til muni ekki að öðru jöfnu heyra eða sjá slíkar útsendingar. Þegar slíkt dagskrárefni er sent út skal fara á undan því munnleg viðvörun eða það auðkennt með sjónrænu merki allan þann tíma sem útsendingin stendur yfir.
  □ Ráðherra setur nánari reglur[^1)^] um framkvæmd þessarar greinar.
-    _[^1)^]_"Rg. 50/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/050-2002.
+    _[^1)^]_"Rg. 50/2002":ekkitil/ekkitil.html?REGL/2002050.
 
  *V. kafli.* *Tekjustofnar útvarpsstöðva.*
  ■ *15. gr.* _Tekjustofnar._
@@ -205,7 +205,7 @@ h2. Útvarpslög
  □ Við útgáfu allra nýrra útvarpsleyfa samkvæmt lögum þessum og við endurnýjun annarra útvarpsleyfa skal sett að skilyrði að með reglugerð megi mæla fyrir um breytingu á merkjum útvarpsstöðvar í stafrænt form, enda verði slík breyting ákveðin með eðlilegum fyrirvara að teknu tilliti til tæknilegra og fjárhagslegra ástæðna. Ákvæði þetta gildir einnig um lögbundið leyfi Ríkisútvarpsins.
 ■ *35. gr.* _Setning reglugerðar._
  □ Menntamálaráðherra setur með reglugerð[^1)^] nánari ákvæði um framkvæmd laganna í heild eða einstakra kafla þeirra.
-    _[^1)^]_"Rg. 50/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/050-2002.
+    _[^1)^]_"Rg. 50/2002":ekkitil/ekkitil.html?REGL/2002050.
  ■ *36. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi. ...
 
@@ -215,6 +215,6 @@ h2. Útvarpslög
  □ Núverandi stjórn Menningarsjóðs útvarpsstöðva skal sitja áfram eftir gildistöku laga þessara þar til hún hefur lokið starfi sínu, þó ekki lengur en til 31. desember 2001. Hlutverk hennar skal þá einvörðungu vera það að hafa eftirlit með framvindu þegar styrktra verkefna, að framvinda og framkvæmd sé í samræmi við umsóknir og forsendur styrkveitinga, að innheimta ógreidd menningarsjóðsgjöld og að koma að öðru leyti fram fyrir hönd sjóðsins.
  □ Þar til sett hefur verið reglugerð eða reglugerðir um framkvæmd laga þessara skulu reglugerðir samkvæmt ú"tvarpslögum, nr. 68/1985":1985068.html, með síðari breytingum, halda gildi sínu að svo miklu leyti sem við getur átt.[^1)^]
  □ Lög þessi skal endurskoða innan þriggja ára frá setningu þeirra.
-    _[^1)^]Hér_ "mun vísað til rg. 69/1986":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/069-1986, sbr. "166/1991":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/166-1991 (Menningarsjóður útvarpsstöðva) og "41/1991":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/041-1991 (útvarpsdreifikerfi).
+    _[^1)^]Hér_ "mun vísað til rg. 69/1986":ekkitil/ekkitil.html?REGL/1986069, sbr. "166/1991":ekkitil/ekkitil.html?REGL/1991166 (Menningarsjóður útvarpsstöðva) og "41/1991":ekkitil/ekkitil.html?REGL/1991041 (útvarpsdreifikerfi).
 
 

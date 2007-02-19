@@ -7,7 +7,7 @@ h2. Lög um endurskoðendur
 <hr />
 
 
- *Tóku gildi 1. júlí 1997.* _Breytt með_ "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 17/2002":/altext/stjt/2002.017.html (tóku gildi 3. apríl 2002; _EES-samningurinn:_ XXII. viðauki tilskipun 84/253/EBE), "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003) og "l. 108/2006":/altext/stjt/2006.108.html (taka gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar, sem undirritaður var í Hoyvík í Færeyjum 31. ágúst 2005, hefur gengið í gildi).
+ *Tóku gildi 1. júlí 1997.* _Breytt með_ "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 17/2002":/altext/stjt/2002.017.html (tóku gildi 3. apríl 2002; _EES-samningurinn:_ XXII. viðauki tilskipun 84/253/EBE), "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003) og "l. 108/2006":/altext/stjt/2006.108.html (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -28,13 +28,13 @@ h2. Lög um endurskoðendur
  □ Heimilt er að synja manni um löggildingu ef ákvæði 2. mgr. 68. gr. almennra hegningarlaga eiga við hagi hans.
  □ Þegar endurskoðandi tekur að sér þjálfun starfsmanns skv. 5. tölul. 1. mgr. skal hann tilkynna það Félagi löggiltra endurskoðenda. Hann skal jafnframt ábyrgjast að nemandinn hljóti tilhlýðilega starfsþjálfun.
  □ Ráðherra er heimilt að fengnum tillögum endurskoðendaráðs að setja í reglugerð[^1)^] fyrirmæli um undanþágu frá skilyrðum 4., 5. og 6. tölul. 1. mgr. handa þeim sem öðlast hafa sambærilega reynslu og menntun eða eftir atvikum löggildingu í öðru ríki.
-    _[^1)^]_"Rg. 355/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/355-2003.
+    _[^1)^]_"Rg. 355/2003":ekkitil/ekkitil.html?REGL/2003355.
  _Próf og prófnefnd._
  ■ *3. gr.* Sá sem öðlast vill löggildingu til endurskoðunar verður að standast próf sem þriggja manna prófnefnd annast. Ráðherra skipar nefndina til fjögurra ára í senn. Skal skipa einn nefndarmann eftir tilnefningu Félags löggiltra endurskoðenda, annan eftir tilnefningu viðskiptadeildar Háskóla Íslands og þann þriðja án tilnefningar og skal hann vera formaður nefndarinnar. Jafnmargir varamenn skulu skipaðir á sama hátt.
  □ Prófin skulu ná til þeirra greina bóknáms og verkmenntunar sem helst varða endurskoðendur og störf þeirra. Í reglugerð,[^1)^] sem ráðherra setur að fengnum tillögum prófnefndar, skal meðal annars kveðið nánar á um námsgreinar, framkvæmd prófa og lágmarksárangur til að standast þau.
  □ Próf skulu að jafnaði haldin einu sinni ár hvert.
  □ Ráðherra getur ákveðið gjald sem greitt skal fyrir að þreyta próf. Fjárhæð gjalds skal eigi vera hærra en sem nemur kostnaði við þóknun prófdómara og þeirra er próf semja.
-    _[^1)^]_"Rg. 475/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/475-1998, sbr. "938/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/938-2001.
+    _[^1)^]_"Rg. 475/1998":ekkitil/ekkitil.html?REGL/1998475, sbr. "938/2001":ekkitil/ekkitil.html?REGL/2001938.
  _Löggilding._
  ■ *4. gr.* Eftir því sem þörf er á skal sá sem staðist hefur próf skv. 3. gr. leggja fram gögn til stuðnings því að hann fullnægi skilyrðum skv. 2. gr. Hann skal að auki vinna að því skriflegt heit að viðlögðum drengskap að hann muni rækja af trúmennsku og samviskusemi öll þau störf sem honum kunna að verða falin sem endurskoðanda og að hann muni viðhalda menntun sinni. Fjármálaráðherra skal að fengnum tillögum prófnefndar skv. 3. gr. setja reglugerð um endurmenntunarnámskeið fyrir endurskoðendur. Skal þar m.a. kveðið á um lágmarksendurmenntun, námskeiðsgreinar, gjaldtöku og annað er að framkvæmd námskeiða lýtur.
  □ Ráðherra gefur út löggildingarskírteini handa endurskoðanda.
@@ -48,14 +48,14 @@ h2. Lög um endurskoðendur
  □ Í sameignarfélagi skulu allir félagsmenn vera endurskoðendur.
  □ Í hlutafélagi og einkahlutafélagi skal meiri hluti stjórnarmanna vera endurskoðendur.
  □ Hlutir og einkahlutir mega aðeins vera í eigu:
-    1. endurskoðenda og/eða endurskoðunarfyrirtækja sem starfa á Evrópska efnahagssvæðinu [eða í aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu],[^1)2)^]
+    1. endurskoðenda og/eða endurskoðunarfyrirtækja sem starfa á Evrópska efnahagssvæðinu [eða í aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] [eða í Færeyjum],[^2)^]
     2. manna sem gegna fullu starfi hjá endurskoðunarfyrirtæki,
     3. manna sem gegna hlutastarfi hjá endurskoðunarfyrirtæki og gegna ekki öðru launuðu starfi sem ósamrýmanlegt er ákvæði 1. mgr. 7. gr.,
     4. starfsmannafélaga hjá hlutaðeigandi endurskoðunarfyrirtæki sem eru óháð stjórn þess og eiga eingöngu hlut í því og þar sem félagsmenn eru aðeins úr hópi þeirra manna sem nefndir eru undir 2. og 3. tölul.
  □ Þeir menn sem nefndir eru í 2. og 3. tölul. 5. mgr. og ekki eru endurskoðendur og þau félög sem nefnd eru í 4. tölul. 5. mgr. mega að hámarki samanlagt eiga 30% af hlutafénu og sameiginlega í mesta lagi ráða yfir 30% atkvæða í félaginu.
  □ Ráðherra getur heimilað, að fenginni umsögn endurskoðendaráðs, að aðrir en þeir sem nefndir eru í þessari grein geti átt eigendahagsmuni í endurskoðunarfyrirtæki svo fremi að ástæður mæli með því.
  □ [Endurskoðunarfyrirtæki skal tryggja að nöfn og heimilisföng félagsmanna eða hluthafa fyrirtækisins séu aðgengileg almenningi.][^3)^]
-    _[^1)^]_"L. 72/2003, 17. gr.":/altext/stjt/2003.072.html [^2)^]Liðnum var breytt með "l. 108/2006, 15. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi. [^3)^]"L. 17/2002, 1. gr.":/altext/stjt/2002.017.html
+    _[^1)^]_"L. 72/2003, 17. gr.":/altext/stjt/2003.072.html [^2)^]"L. 108/2006, 15. gr.":/altext/stjt/2006.108.html [^3)^]"L. 17/2002, 1. gr.":/altext/stjt/2002.017.html
 
  *III. kafli.* *Störf endurskoðenda.*
  _Almenn ákvæði._
@@ -78,7 +78,7 @@ h2. Lög um endurskoðendur
  □ Endurskoðandi má ekki eiga hlut í fyrirtæki sem hann endurskoðar. Verði ytri atvik, svo sem arfur, gjöf eða samruni fyrirtækja, til þess að endurskoðandi eignist hlut í fyrirtæki umbjóðanda ber honum eins fljótt og auðið er og í síðasta lagi innan eins árs að losa sig við þann hlut eða vísa endurskoðunarverkefninu frá sér ella.
  □ Endurskoðandi eða endurskoðunarfyrirtæki má ekki í þrjú ár samfellt eiga stærri hluta en 20% af veltu sinni undir einum viðskiptavini sem hann eða það endurskoðar fyrir. Endurskoðendaráð getur veitt undanþágu frá þessari reglu.
  _Starfsábyrgðartrygging.[^1)^]_
-    _[^1)^]_"Rg. 673/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/673-1997.
+    _[^1)^]_"Rg. 673/1997":ekkitil/ekkitil.html?REGL/1997673.
  ■ *10. gr.* Endurskoðanda er skylt að hafa í gildi starfsábyrgðartryggingu hjá vátryggingafélagi sem hefur starfsleyfi hér á landi vegna fjárhagstjóns sem leitt getur af gáleysi í störfum hans eða starfsmanna hans. Tryggingarskyldan fellur niður ef endurskoðandi leggur inn réttindi sín, sbr. 6. mgr. 7. gr.
  □ Ráðherra skal að fengnum tillögum Félags löggiltra endurskoðenda ákveða lágmark fjárhæðar tryggingar skv. 1. mgr. og hámark eigin áhættu vátryggingartaka. Skal þá höfð hliðsjón af góðum venjum á sviði vátrygginga og hagsmunum viðskiptamanna endurskoðenda.
  □ Endurskoðanda er heimilt með samningi um ákveðið verk að takmarka hámark bótaskyldu sinnar vegna rækslu þess við tiltekna fjárhæð sem nemi að minnsta kosti lágmarki starfsábyrgðartryggingar skv. 2. mgr. Slík takmörkun bindur aðeins viðsemjanda endurskoðanda og getur ekki náð til annars tjóns en þess sem stafar af gáleysi.
@@ -129,7 +129,7 @@ h2. Lög um endurskoðendur
  *IX. kafli.* *Gildistaka o.fl.*
  ■ *21. gr.* Hafi endurskoðandi verið sviptur réttindum eða lagt þau inn fyrir 1. júlí 1997 eða svo hefur annars orðið ástatt fyrir honum að hann hafi fyrirgert réttindum sínum um sinn gilda ákvæði þessara laga um það hvort, hvernig og hvenær hann geti öðlast réttindin á ný. Lög þessi raska eigi réttindum sem maður hefur öðlast á grundvelli eldri laga, enda þótt hann fullnægi ekki þeim skilyrðum sem sett eru í 2. gr.
 ■ *22. gr.* Ráðherra setur í reglugerð[^1)^] nánari ákvæði um framkvæmd laga þessara.
-    _[^1)^]_"Rg. 673/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/673-1997, "rg. 949/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/949-2003.
+    _[^1)^]_"Rg. 673/1997":ekkitil/ekkitil.html?REGL/1997673, "rg. 949/2003":ekkitil/ekkitil.html?REGL/2003949.
  ■ *23. gr.* Lög þessi öðlast gildi 1. júlí 1997. ...
  ■ *Ákvæði til bráðabirgða.* Ákvæði 4. gr. um endurnýjun löggildingar og viðhald menntunar skulu einnig gilda um þá endurskoðendur sem öðlast hafa löggildingu fyrir gildistöku laga þessara.
 

@@ -1,13 +1,14 @@
 <hr />
 
-h2. Lög um búnaðarfræðslu
+h2. Lög um búnaðarfræðslu[^1)^]
 
 *1999 nr. 57 19. mars*
 
 <hr />
 
+   _[^1)^]Breytingar voru gerðar á lögunum með "l. 173/2006":/altext/stjt/2006.173.html og taka þær gildi 1. júlí 2007 skv. 13. gr. s.l. Þau lög eru birt aftan við "l. 57/1999":1999057.html._
 
- *Tóku gildi 1. júlí 1999.* _Breytt með_ "l. 71/2004":/altext/stjt/2004.071.html (tóku gildi 1. jan. 2005).
+ *Tóku gildi 1. júlí 1999.* _Breytt með_ "l. 71/2004":/altext/stjt/2004.071.html (tóku gildi 1. jan. 2005) og "l. 173/2006":/altext/stjt/2006.173.html (taka gildi 1. júlí 2007).
 
 
  *I. kafli.* *Gildissvið, hlutverk og yfirstjórn.*
@@ -42,7 +43,7 @@ h2. Lög um búnaðarfræðslu
 ■ *12. gr.* Almennt háskólanám skal miðast við þriggja til fjögurra ára nám. Heimilt er að bjóða upp á sérhæfðar styttri námsbrautir. Kennsla skal fara fram í námskeiðum sem metin eru í einingum. Fullt nám telst 30 einingar á námsári. Háskólanáminu skal ljúka með prófgráðu sem veitt er þegar nemandi hefur staðist próf í öllum námskeiðum og skilað með fullnægjandi árangri verkefnum sem tilheyra námi til prófgráðunnar.
 ■ *13. gr.* Fyrir hverja skilgreinda námsbraut skal setja námskrá sem kveður á um markmið, inntak og meginviðfangsefni námsins, þar með talda starfsþjálfun á vettvangi þar sem það á við. Á grundvelli námskrár skal árlega gefin út kennsluskrá þar sem m.a. er gerð grein fyrir tilhögun náms, kennsluháttum og námsmati. Í kennsluskrá eða öðrum starfsáætlunum skal enn fremur kveðið á um missira- eða annaskiptingu, kennslutíma, próftímabil, leyfi og önnur atriði sem varða skipulag náms.
  □ Landbúnaðarráðherra skal að fengnum tillögum búfræðsluráðs staðfesta námskrár og gefa út skrá[^1)^] um viðurkenndar prófgráður.
-    _[^1)^]Augl. 530/2001_, augl. 707/2004, augl. 497/2006.
+    _[^1)^]_"Augl. 530/2001":ekkitil/ekkitil.html?AUGL/2001530, "augl. 707/2004":ekkitil/ekkitil.html?AUGL/2004707, "augl. 497/2006":ekkitil/ekkitil.html?AUGL/2006497.
  ■ *14. gr.* Nú er í almennum framhaldsskóla stofnað til búnaðarnámsbrautar, og skal þá námskrá slíkrar kennslu, fyrirkomulag á verknámi og námsmat hljóta samþykki búfræðsluráðs. Búfræðsluráð ákveður hvort eða hvenær slíkur skóli getur veitt prófgráðu búnaðarnáms.
 ■ *15. gr.* Yfirstjórn hverrar stofnunar skal staðfesta reglur um skráningu nemenda í einstakar námsbrautir þar sem nánar er kveðið á um inntökuskilyrði í viðkomandi námsbraut.
  □ Yfirstjórn hverrar stofnunar tekur ákvörðun um fjárhæð skrásetningar- og kennslugjalda sem nemendum er gert að greiða við upphaf skólaárs. Skrásetningar- og kennslugjöld skulu taka mið af sannanlegum kostnaði vegna innritunar, pappírsvara og kennsluefnis sem skólinn lætur nemendum í té og nauðsynlegt er vegna starfsemi hans.
@@ -132,7 +133,7 @@ h2. Lög um búnaðarfræðslu
  *VIII. kafli.* *Ýmis ákvæði.*
 ■ *37. gr.* Landbúnaðarráðherra setur nánari reglur um framkvæmd laga þessara með reglugerðum,[^1)^] starfsreglum og samþykktum.
  □ [Landbúnaðarráðherra setur með reglugerð nánari ákvæði um skipulag og starfsemi rannsóknasviðs Landbúnaðarháskóla Íslands.][^2)^]
-    _[^1)^]_"Rg. 244/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/244-2003, "rg. 320/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/320-2003. [^2)^]"L. 71/2004, 14. gr.":/altext/stjt/2004.071.html
+    _[^1)^]_"Rg. 244/2003":ekkitil/ekkitil.html?REGL/2003244, "rg. 320/2003":ekkitil/ekkitil.html?REGL/2003320. [^2)^]"L. 71/2004, 14. gr.":/altext/stjt/2004.071.html
  ■ *38. gr.* Lög þessi öðlast gildi 1. júlí 1999. ...
 ■ *39. gr.* ...[^1)^]
     _[^1)^]_"L. 71/2004, 15. gr.":/altext/stjt/2004.071.html
@@ -149,5 +150,69 @@ h2. Lög um búnaðarfræðslu
  □ Við gildistöku laga þessara tekur Landbúnaðarháskóli Íslands við öllum eignum og skuldbindingum Landbúnaðarháskólans á Hvanneyri, Garðyrkjuskóla ríkisins og Rannsóknastofnunar landbúnaðarins.
  □ Nemendur sem við gildistöku laga þessara stunda nám í Landbúnaðarháskólanum á Hvanneyri og Garðyrkjuskóla ríkisins eiga rétt á að ljúka námi samkvæmt gildandi námsskipulagi skólanna við gildistöku laganna. Nemendur geta þó lokið prófum samkvæmt nýju skipulagi ef þeir kjósa svo.][^2)^]
     _[^1)^]Ákvæðið fylgdi_ "l. 71/2004":/altext/stjt/2004.071.html. [^2)^]"L. 71/2004, brbákv.":/altext/stjt/2004.071.html
+ *"Lög um breytingu á lögum um búnaðarfræðslu, nr. 57/1999":1999057.html, með síðari breytingum, nr. 173 20. desember 2006.*
+ ■ *1. gr.* 1. gr. laganna orðast svo:
+    Lög þessi taka til menntastofnana landbúnaðarins sem eru Landbúnaðarháskóli Íslands og Hólaskóli  -  Háskólinn á Hólum.
+■ *2. gr.* Í stað „nr. 136/1997“ í 2. mgr. 2. gr. laganna kemur: nr. 63/2006.
+■ *3. gr.* 4. gr. laganna fellur brott.
+■ *4. gr.* 7. gr. laganna orðast svo:
+    Yfirstjórn hverrar stofnunar tekur ákvörðun um fyrirkomulag kennslu, náms, námsmats og rannsókna og aðra þætti er lúta að málefnum hennar, enda sé ákvörðunin í samræmi við markmið laga þessara skv. 3. gr.
+■ *5. gr.* 10. gr. laganna orðast svo:
+    Nemendur sem hefja háskólanám við menntastofnanir landbúnaðarins skulu hafa lokið stúdentsprófi, öðru sambærilegu námi eða búa yfir jafngildum þroska og þekkingu að mati stjórnar háskólans. Háskólaráð getur ákveðið sérstök viðbótarinntökuskilyrði fyrir hverja skilgreinda námsbraut háskólanámsins.
+    Inntökuskilyrði í háskólanám við menntastofnanir landbúnaðarins og námskröfur svari til þess sem krafist er í viðurkenndum háskólum á sambærilegu sviði erlendis.
+■ *6. gr.* 2. mgr. 13. gr. laganna orðast svo:
+    Landbúnaðarráðherra gefur út skrá um prófgráður.
+■ *7. gr.* 14. gr. laganna orðast svo:
+    Nú er í almennum framhaldsskóla stofnað til búnaðarnámsbrautar, og skal þá námskrá slíkrar kennslu, fyrirkomulag á verknámi og námsmat hljóta samþykki menntamálaráðherra að fenginni umsögn landbúnaðarráðherra.
+■ *8. gr.* Á eftir 2. mgr. 15. gr. laganna kemur ný málsgrein er orðast svo:
+    Menntastofnunum landbúnaðarins er heimilt að taka gjald fyrir þjónustu sem telst utan þeirrar þjónustu sem þeim er skylt að veita. Þeim er enn fremur heimilt að taka gjöld fyrir endurmenntun og fræðslu fyrir almenning. Háskólaráð hvors skóla skal setja nánari reglur um gjaldtöku og ráðstöfun gjalda samkvæmt ákvæði þessu.
+■ *9. gr.* Orðin „svo og um fjárhæð námskeiðsgjalda“ í 2. mgr. 19. gr. laganna falla brott.
+■ *10. gr.* 2. mgr. 23 gr. laganna orðast svo:
+    Tilnefna skal og skipa bæði aðal- og varamenn í háskólaráð. Landbúnaðarráðherra skipar háskólaráð til þriggja ára í senn.
+■ *11. gr.* VI. kafli laganna, er hefur fyrirsögnina *Hólaskóli  -  Háskólinn á Hólum. Stjórn og starfslið*, orðast svo:
+    a. (29. gr.)
+    Hólaskóli er vísindaleg fræðslu- og rannsóknastofnun á háskólastigi sem veitir nemendum sínum fræðslu og vísindalega þjálfun er miðast við að þeir geti tekið að sér sérfræði- og rannsóknastörf á sérsviðum skólans.
+    Hólaskóli er miðstöð fyrir kennslu og rannsóknir í hrossarækt og hestamennsku, fiskeldi og ferðaþjónustu í dreifbýli.
+    Við skólann er heimilt að starfrækja alþjóðlega deild í hrossarækt og hestamennsku þar sem innheimta má skólagjöld.
+    Stjórn Hólaskóla skv. 30. gr. er heimilt að stofna til kennslu eða rannsókna á öðrum fræðasviðum, enda uppfylli starfsemin skilyrði til viðurkenningar samkvæmt "lögum nr. 63/2006":2006063.html, um háskóla.
+    b. (30. gr.)
+    Stjórn Hólaskóla er falin háskólaráði og rektor. Háskólaráð markar stefnu í kennslu og rannsóknum og mótar skipulag skólans.
+    Rektor er yfirmaður stjórnsýslu háskólans og ber ábyrgð á rekstri hans. Hann ber ábyrgð á gerð starfs- og rekstraráætlana og að þær séu samþykktar af háskólaráði. Rektor er æðsti fulltrúi Hólaskóla gagnvart mönnum og stofnunum innan skólans og utan. Hann stýrir starfsemi háskólans og hefur frumkvæði að því að háskólaráð marki sér heildarstefnu í málefnum skólans. Rektor hefur ráðningarvald yfir öllum starfsmönnum skólans. Verkefni rektors skulu skilgreind í erindisbréfi hans.
+    c. (31. gr.)
+    Í háskólaráði eiga sæti:
+    1. Rektor sem jafnframt er formaður ráðsins.
+    2. Einn fulltrúi tilnefndur af landbúnaðarráðherra.
+    3. Einn fulltrúi tilnefndur af menntamálaráðherra.
+    4. Einn fulltrúi tilnefndur af háskólaráði Háskóla Íslands.
+    5. Einn fulltrúi tilnefndur af sjávarútvegsráðherra.
+    6. Einn fulltrúi tilnefndur af samgönguráðherra.
+    7. Einn fulltrúi tilnefndur af Félagi tamningamanna.
+    8. Einn fulltrúi tilnefndur af starfsmönnum stofnunarinnar.
+    9. Einn fulltrúi tilnefndur af nemendum.
+    Tilnefna skal og skipa bæði aðal- og varamenn í háskólaráð. Landbúnaðarráðherra skipar háskólaráð til þriggja ára í senn.
+    d. (31. gr. a.)
+    Rektor boðar til funda í háskólaráði. Óski þrír háskólaráðsmenn eftir fundi er rektor skylt að boða til hans. Rektor stýrir fundum háskólaráðs. Fundur háskólaráðs er ályktunarbær ef tveir þriðju hlutar atkvæðisbærra manna sækja fund hið fæsta. Afl atkvæða ræður úrslitum mála. Ef atkvæði falla jöfn sker atkvæði rektors úr. Varamenn sitja fundi háskólaráðs í forföllum aðalmanna.
+    e. (32. gr.)
+    Landbúnaðarráðherra skipar í stöðu rektors Hólaskóla til fimm ára að fenginni umsögn háskólaráðs. Skal staðan auglýst laus til umsóknar. Þann einan má skipa í stöðu rektors sem lokið hefur æðri prófgráðu við háskóla og öðlast stjórnunarreynslu.
+    f. (33. gr.)
+    Kennarar við Hólaskóla eru prófessorar, dósentar, lektorar, aðjunktar og stundakennarar.
+    Prófessorar, dósentar og lektorar skulu vera þeir einir sem hafa kennslu og rannsóknir að aðalstarfi. Um kröfur til menntunar kennara sem kenna á framhaldsskólastigi fer samkvæmt ákvæðum "laga um framhaldsskóla, nr. 80/1996":1996080.html.
+    Háskólaráð setur nánari reglur um starfsskyldur fastráðinna kennara.
+    g. (34. gr.)
+    Rektor ræður prófessora, dósenta, lektora, aðjunkta og stundakennara. Umsækjendur um prófessors-, dósents- og lektorsstörf skulu láta fylgja umsókn sinni upplýsingar um háskólamenntun sína, vísindastörf og önnur störf, svo og ritsmíðar og rannsóknir.
+    Kennarar við Hólaskóla skulu hafa lokið meistaraprófi hið minnsta eða hafa jafngilda þekkingu og reynslu að mati dómnefndar. Þeir skulu jafnframt hafa sýnt þann árangur í starfi að þeir njóti viðurkenningar á starfssviði sínu.
+    Þrátt fyrir ákvæði 1. og 2. mgr. 33. gr. er heimilt að ráða kennara í verklegum greinum sem hafa aflað sér fullnægjandi þekkingar og starfsþjálfunar á viðkomandi sviði að mati rektors og háskólaráðs.
+    Skipa skal þriggja manna dómnefnd til þess að dæma um hæfi umsækjenda til að gegna starfi prófessors, dósents eða lektors. Rektor skipar dómnefnd, einn mann eftir tilnefningu landbúnaðarráðherra, og tvo menn eftir tilnefningu háskólaráðs og skipar rektor annan þeirra formann nefndarinnar. Skal hann hafa sama eða æðra hæfi og um er fjallað, verði því við komið. Í dómnefnd má skipa þá eina sem lokið hafa a.m.k. meistaraprófi úr háskóla og skulu a.m.k. tveir nefndarmanna starfa utan skólans.
+    Dómnefnd skal láta uppi rökstutt álit um það hvort ráða megi af vísindagildi rita og rannsókna umsækjanda, svo og af námsferli hans og störfum, að hann sé hæfur til að gegna starfinu.
+    Engum manni má veita prófessors-, dósents- eða lektorsstöðu nema meiri hluti dómnefndar hafi látið það álit í ljós að hann sé til þess hæfur.
+ ■ *12. gr.* Eftirfarandi breytingar verða á 36. gr. laganna:
+    a. Í stað orðsins „skólagjöldum“ í a-lið kemur: gjöldum
+    b. Við bætist nýr liður sem verður d-liður, svohljóðandi: skólagjöldum, sbr. 3. mgr. 29. gr.
+■ *13. gr.* Lög þessi öðlast gildi 1. júlí 2007.
+ ■ *Ákvæði til bráðabirgða.* Störf hjá Hólaskóla eru lögð niður við gildistöku laga þessara. Starfsfólki stofnunarinnar skulu boðin störf hjá Hólaskóla  -  Háskólanum á Hólum.
+ □ Þrátt fyrir ákvæði 13. gr. laga þessara skal skipa rektor Hólaskóla og háskólaráð frá 1. janúar 2007 og skal háskólarektor og háskólaráð frá þeim tíma undirbúa framkvæmd laga þessara.
+ □ Við gildistöku laga þessara tekur Hólaskóli  -  Háskólinn á Hólum við öllum eignum og skuldbindingum Hólaskóla, Hólum í Hjaltadal.
+ □ Ákvæði 2. gr. kemur til framkvæmda þegar menntastofnanir landbúnaðarins hafa hlotið viðurkenningu, sbr. "1":2006063.html#g1. og "3. gr. laga um háskóla, nr. 63/2006":2006063.html#g3. Nemendur sem við gildistöku laganna stunda nám í Hólaskóla eiga rétt á því að ljúka námi samkvæmt gildandi námsskipulagi skólans við gildistöku laganna. Nemendur geta þó lokið prófum samkvæmt nýju skipulagi ef þeir kjósa svo.
+ □ Fyrir 1. júní 2008 skulu lög þessi endurskoðuð til að samræma og auka samvinnu við gæðaeftirlit og námsframboð á háskólastigi, sbr. ákvæði til bráðabirgða í "lögum um háskóla, nr. 63/2006":2006063.html.
 
 

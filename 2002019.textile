@@ -56,7 +56,7 @@ h2. Lög um póstþjónustu
  □ Að lágmarki skal í alþjónustu vera innifalinn aðgangur að póstafgreiðslu og póstþjónustu vegna bréfa og orðsendinga með utanáskrift, annarra sendinga með utanáskrift, markpósts og dagblaða, vikublaða, tímarita, bóka og verðlista með utanáskrift, ábyrgðarsendinga, tryggðra sendinga, fjármunasendinga og blindrasendinga allt að tveimur kílóum og bögglasendinga allt að tuttugu kílóum. Alþjónusta nær til bæði póstsendinga innan lands og til annarra landa. Skylt er þeim sem veita alþjónustu að afhenda innan lands póstsendingar allt að tuttugu kílóum sem berast frá útlöndum.
  □ Samgönguráðherra skal setja reglugerð[^1)^] um nánari útfærslu alþjónustu.
  □ Póst- og fjarskiptastofnun skal tryggja að staðið verði við skyldur ríkisins um póstþjónustu sem alþjóðlegir samningar kveða á um.
-    _[^1)^]_"Rg. 364/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/364-2003.
+    _[^1)^]_"Rg. 364/2003":ekkitil/ekkitil.html?REGL/2003364.
 
  *V. kafli.* *Einkaréttur ríkisins.*
  ■ *7. gr.* _Einkaréttur á póstþjónustu._
@@ -100,7 +100,7 @@ h2. Lög um póstþjónustu
     j. að greitt sé leyfisgjald og rekstrargjald í samræmi við lög um Póst- og fjarskiptastofnun og lög um aukatekjur ríkissjóðs.
  □ Póst- og fjarskiptastofnun getur sett skilyrði til viðbótar ef nauðsynlegt þykir. Slík skilyrði skal rökstyðja þegar þau eru sett. Breyta má skilyrðum rekstrarleyfa ef forsendur hafa breyst. Einnig má bæta við skilyrðum eða breyta til samræmis við breytingar á lögum og reglum settum samkvæmt þeim og þegar alþjóðasamningar gefa tilefni til slíks.
  □ Póst- og fjarskiptastofnun getur einnig gert að skilyrði að rekstrarleyfishafi, sem falin er alþjónusta, tryggi að almenningi á ákveðnum stöðum sé veittur aðgangur að póstþjónustu í samræmi við reglur[^1)^] um staðsetningu og fyrirkomulag afgreiðslustaða sem Póst- og fjarskiptastofnun skal setja með hliðsjón af þörfum almennings.
-    _[^1)^]_"Rgl. 504/2003":http://stjornartidindi.is/servlet/stjrtid/B/2003/504.pdf.
+    _[^1)^]_"Rgl. 504/2003":ekkitil/ekkitil.html?REGL/2003504.
 
  *VII. kafli.* *Viðskiptaskilmálar, gjaldskrár og bókhald.*
  ■ *16. gr.* _Viðskiptaskilmálar og gjaldskrá._
@@ -121,7 +121,7 @@ h2. Lög um póstþjónustu
  □ Rekstrarleyfishafar skulu í bókhaldi greina kostnað og tekjur vegna alþjónustu frá annarri þjónustu. Rekstrarleyfishafi, sem falinn er einkaréttur ríkisins, sbr. 11. gr., skal í bókhaldi sínu aðgreina annars vegar tekjur og kostnað fyrir sérhverja tegund þjónustu sem fellur undir einkaréttinn og hins vegar aðra alþjónustu. Póstrekendur sem stunda einnig leyfisskylda starfsemi á öðru sviði skulu greina kostnað og tekjur vegna póststarfsemi sinnar frá öðrum kostnaði og tekjum.
  □ Samgönguráðherra skal setja reglugerð[^1)^] um bókhald póstrekenda, sundurgreiningu kostnaðar og fjárhagslegan aðskilnað milli póstþjónustu og annars reksturs og milli einkaréttarþjónustu, alþjónustu og annarrar þjónustu.
  □ Póst- og fjarskiptastofnun skal tryggja að bókhald rekstrarleyfishafa samræmist reglugerðinni og skal það staðfest opinberlega.
-    _[^1)^]_"Rg. 313/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/313-2005.
+    _[^1)^]_"Rg. 313/2005":ekkitil/ekkitil.html?REGL/2005313.
  ■ *19. gr.* _Gerð og birting ársreikninga._
  □ Ársreikningar rekstrarleyfishafa skulu gerðir í samræmi við lög um bókhald og lög um ársreikninga og birtir opinberlega.
 
@@ -138,7 +138,7 @@ h2. Lög um póstþjónustu
  □ Rekstrarleyfishafar skulu hafa að leiðarljósi tæknistaðla um póstmál sem staðfestir eru af Staðlaráði Íslands. Heimilt er að áskilja hið sama um staðla sem birtir eru í Stjórnartíðindum ESB, einkum þegar efni þeirra fellur undir ákvæði 22. gr.
 ■ *24. gr.* _Öryggi póstsendinga._
  □ Póstrekendur skulu tryggja örugga meðferð allra póstsendinga. Þegar um er að ræða ábyrgðarsendingar og tryggðar sendingar skulu póstrekendur gera sérstakar ráðstafanir til þess að geyma þær á öruggum stað meðan þær eru í vörslu þeirra og verktaka þeirra. Póst- og fjarskiptastofnun skal setja reglur[^1)^] um öryggismál á póstafgreiðslum.
-    _[^1)^]_"Rgl. 504/2003":http://stjornartidindi.is/servlet/stjrtid/B/2003/504.pdf.
+    _[^1)^]_"Rgl. 504/2003":ekkitil/ekkitil.html?REGL/2003504.
 
  *IX. kafli.* *Póstflutningar.*
  ■ *25. gr.* _Skylda til að flytja póstsendingar._
@@ -189,7 +189,7 @@ h2. Lög um póstþjónustu
  □ Ganga skal tryggilega frá póstsendingum sem afhentar eru póstrekendum í umbúðum. Póstrekendur geta hafnað því að veita póstsendingum móttöku ef hætta er talin á því að umbúðir muni skemmast í höndum póstrekandans. Móttaka póstsendinga í alþjónustu með innihaldi sem getur valdið skaða, smiti eða veikindum er skilyrt því að rétt sé búið um sendinguna og hún merkt í samræmi við innihald. Dæmi um slíkt innihald eru lífræn, auðskemmd efni, smitefni og geislavirk efni. Í reglugerð sem samgönguráðherra setur um framkvæmd póstþjónustu, sbr. 35. gr., skulu vera reglur um frágang, umbúðir og merkingu slíkra sendinga. Rekstrarleyfishafar skulu framvísa reglunum á afgreiðslustöðum að ósk notenda og kynna starfsmönnum sínum þær. Póst- og fjarskiptastofnun skal upplýsa erlendar eftirlitsstofnanir um reglurnar og skal safna upplýsingum um reglur sem gilda í nágrannalöndunum um samsvarandi hluti.
 ■ *35. gr.* _Nánari reglur um framkvæmd póstþjónustu._
  □ Nánari reglur um framkvæmd póstþjónustu, svo sem um minnstu og stærstu mál póstsendinga, skal samgönguráðherra setja í reglugerð[^1)^] um alþjónustu.
-    _[^1)^]_"Rg. 364/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/364-2003.
+    _[^1)^]_"Rg. 364/2003":ekkitil/ekkitil.html?REGL/2003364.
 
  *XIII. kafli.* *Upplýsingaskylda póstrekenda.*
  ■ *36. gr.* _Upplýsingar um rekstur._

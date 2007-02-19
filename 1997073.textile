@@ -7,7 +7,7 @@ h2. Skipulags- og byggingarlög
 <hr />
 
 
- *Tóku gildi 1. janúar 1998.* _Breytt með_ "l. 135/1997":/altext/stjt/1997.135.html (tóku gildi 1. jan. 1998), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 58/1999":/altext/stjt/1999.058.html (tóku gildi 30. mars 1999), "l. 117/1999":/altext/stjt/1999.117.html (tóku gildi 1. jan. 2000), "l. 4/2000":/altext/stjt/2000.004.html (tóku gildi 7. apríl 2000), "l. 170/2000":/altext/stjt/2000.170.html (tóku gildi 1. jan. 2001), "l. 74/2001":/altext/stjt/2001.074.html (tóku gildi 13. júní 2001) og "l. 74/2005":/altext/stjt/2005.074.html (tóku gildi 1. okt. 2005).
+ *Tóku gildi 1. janúar 1998.* _Breytt með_ "l. 135/1997":/altext/stjt/1997.135.html (tóku gildi 1. jan. 1998), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 58/1999":/altext/stjt/1999.058.html (tóku gildi 30. mars 1999), "l. 117/1999":/altext/stjt/1999.117.html (tóku gildi 1. jan. 2000), "l. 4/2000":/altext/stjt/2000.004.html (tóku gildi 7. apríl 2000), "l. 170/2000":/altext/stjt/2000.170.html (tóku gildi 1. jan. 2001), "l. 74/2001":/altext/stjt/2001.074.html (tóku gildi 13. júní 2001), "l. 74/2005":/altext/stjt/2005.074.html (tóku gildi 1. okt. 2005) og "l. 149/2006":/altext/stjt/2006.149.html (tóku gildi 30. des. 2006).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -22,17 +22,18 @@ h2. Skipulags- og byggingarlög
  □ _Byggingarleyfi:_ Leyfi sveitarstjórnar til að byggja, breyta eða rífa hús eða önnur mannvirki eða breyta notkun þeirra. Leyfið felur í sér samþykkt aðaluppdrátta og framkvæmdaáforma og heimild til að hefja framkvæmdir að uppfylltum skilyrðum, sbr. 44. gr.
  □ _Deiliskipulag:_ Skipulagsáætlun fyrir afmarkaða reiti innan sveitarfélags sem byggð er á aðalskipulagi og kveður nánar á um útfærslu þess. Ákvæði um deiliskipulag eiga jafnt við um þéttbýli og dreifbýli.
  □ _Framkvæmdaleyfi:_ Leyfi til framkvæmda í samræmi við skipulag og sem ekki eru háðar ákvæðum IV. kafla laga þessara um mannvirki.
+ □ [_Frístundabyggð:_ Svæði fyrir frístundahús, þ.e. byggð sem ekki er ætluð til fastrar búsetu.][^1)^]
  □ _Hverfisvernd:_ Ákvæði í svæðis-, aðal- eða deiliskipulagi um verndun sérkenna eldri byggðar eða annarra menningarsögulegra minja.
- □ _Landnotkun:_ Ráðstöfun lands til mismunandi nota, svo sem undir íbúðir, iðnað, verslun, útivist og landbúnað.
+ □ _Landnotkun:_ Ráðstöfun lands til mismunandi nota, svo sem undir íbúðir, [frístundahús],[^1)^] iðnað, verslun, útivist og landbúnað.
  □ _Landnýting:_ Samheiti yfir mælikvarða á það hversu mikil nýting lands er, svo sem nýtingarhlutfall, þéttleika byggðar og ítölu.
- □ _Nýtingarhlutfall:_ [Hlutfall milli brúttóflatarmáls bygginga á lóð eða reit og flatarmáls lóðar eða reits.][^1)^]
+ □ _Nýtingarhlutfall:_ [Hlutfall milli brúttóflatarmáls bygginga á lóð eða reit og flatarmáls lóðar eða reits.][^2)^]
  □ _Skipulagsáætlun:_ Áætlun sem gerir grein fyrir markmiðum viðkomandi stjórnvalda og ákvörðunum um framtíðarnotkun lands og fyrirkomulag byggðar og lýsir forsendum þeirra ákvarðana. Skipulagsáætlanir skiptast í þrjá flokka: Svæðisskipulag, aðalskipulag og deiliskipulag. Skipulagsáætlun er sett fram í greinargerð og á uppdrætti.
  □ _Skipulagskvaðir:_ Kvaðir sem lagðar eru á einstakar lóðir í skipulagi, svo sem um fjölda bílastæða, umferðarrétt eða legu lagna.
  □ _Skipulagsskilmálar:_ Ákvæði í skipulagsáætlun um nánari útfærslu skipulags um samsetningu byggðar, byggingarlínur, hæð húsa o.fl.
  □ _Svæðisskipulag:_ Skipulagsáætlun sem tekur yfir fleiri en eitt sveitarfélag. Hlutverk svæðisskipulags er að samræma stefnu um landnotkun, samgöngu- og þjónustukerfi, umhverfismál og þróun byggðar á svæðinu á minnst 12 ára tímabili.
  □ _Þéttbýli:_ Þyrping húsa þar sem búa a.m.k. 50 manns og fjarlægð milli húsa fer að jafnaði ekki yfir 200 metra.
  □ _Þéttleiki byggðar:_ Landnýting innan þéttbýlis miðað við brúttóflatarmál lands sem m.a. er lýst með hlutfalli milli samanlagðs gólfflatar á tilteknu svæði og flatarmáls svæðisins eða reikningsstærðum eins og íbúar/ha eða íbúðir/ha.
-    _[^1)^]_"L. 170/2000, 1. gr.":/altext/stjt/2000.170.html
+    _[^1)^]_"L. 149/2006, 3. gr.":/altext/stjt/2006.149.html [^2)^]"L. 170/2000, 1. gr.":/altext/stjt/2000.170.html
 
  *II. kafli.* *Stjórnvöld skipulags- og byggingarmála.*
  ■ *3. gr.* _Stjórn skipulags- og byggingarmála._
@@ -76,25 +77,26 @@ h2. Skipulags- og byggingarlög
  □ Kærandi getur krafist úrskurðar um stöðvun framkvæmda til bráðabirgða séu þær hafnar eða yfirvofandi. Komi fram krafa um slíkt skal úrskurðarnefnd svo fljótt sem verða má kveða upp úrskurð um það atriði. Úrskurði um stöðvun framkvæmda ber sveitarstjórn að framfylgja þegar í stað, með aðstoð lögreglu ef með þarf.
  □ Um málsmeðferð fer að öðru leyti samkvæmt "stjórnsýslulögum, nr. 37/1993":1993037.html.
  □ Kostnaður vegna úrskurðarnefndar greiðist úr ríkissjóði.][^2)^]
-    _[^1)^]_"Rg. 621/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/621-1997. [^2)^]"L. 74/2005, 21. gr.":/altext/stjt/2005.074.html
+    _[^1)^]_"Rg. 621/1997":ekkitil/ekkitil.html?REGL/1997621. [^2)^]"L. 74/2005, 21. gr.":/altext/stjt/2005.074.html
 
  *III. kafli.* *Gerð og framkvæmd skipulags.*
  ■ *9. gr.* _Skipulagsskylda._
  □ Landið allt er skipulagsskylt. Bygging húsa og annarra mannvirkja ofan jarðar og neðan og aðrar framkvæmdir og aðgerðir sem hafa áhrif á umhverfið og breyta ásýnd þess skulu vera í samræmi við skipulagsáætlanir, sbr. ákvæði 43. gr. þessara laga um veitingu byggingarleyfis og ákvæði 27. gr. um veitingu framkvæmdaleyfis.
- □ Í skipulagsáætlunum er mörkuð stefna um landnotkun og þróun byggðar. Þar eru sett fram markmið um einstaka þætti varðandi íbúðarbyggð, atvinnusvæði, náttúruvernd, samgöngur o.fl., í samræmi við 1. gr. laga þessara.
+ □ Í skipulagsáætlunum er mörkuð stefna um landnotkun og þróun byggðar. Þar eru sett fram markmið um einstaka þætti varðandi íbúðarbyggð, [frístundabyggð],[^1)^] atvinnusvæði, náttúruvernd, samgöngur o.fl., í samræmi við 1. gr. laga þessara.
  □ Í skipulagsáætlunum skal m.a. lýsa náttúru og aðstæðum öllum á skipulagssvæðinu við upphaf áætlunarinnar og forsendum þeirrar stefnu sem hún felur í sér.
  □ Við gerð skipulagsáætlana skal eftir föngum leita eftir sjónarmiðum og tillögum íbúa og annarra þeirra sem hagsmuna eiga að gæta um mörkun stefnu og skipulagsmarkmið.
  □ Í skipulagsáætlunum skal gera grein fyrir áhrifum áætlunarinnar, einstakra markmiða hennar og ráðgerðra framkvæmda á umhverfi, náttúruauðlindir og samfélag, m.a. með samanburði þeirra kosta sem til greina koma.
  □ Ef innan marka skipulagssvæðis eru einstakar byggingar, mannvirki, húsaþyrpingar, náttúruminjar eða trjágróður sem æskilegt er talið að varðveita vegna sögulegs, náttúrulegs eða menningarlegs gildis, án þess að um lögformlega friðun sé að ræða, skal setja í viðkomandi skipulagsáætlun ákvæði um hverfisvernd.
  □ Svæðis-, aðal- og deiliskipulagsáætlanir skulu vera í innbyrðis samræmi.
-■ *10. gr.* _Skipulagsreglugerð.[^1)^]_
+    _[^1)^]_"L. 149/2006, 4. gr.":/altext/stjt/2006.149.html
+ ■ *10. gr.* _Skipulagsreglugerð.[^1)^]_
  □ Umhverfisráðherra setur reglugerð, er nær til alls landsins, um gerð skipulagsáætlana að fengnum tillögum Skipulagsstofnunar og umsögn Sambands íslenskra sveitarfélaga.
  □ Í skipulagsreglugerð skal kveðið nánar á um gerð skipulagsáætlana, svo sem um innihald skipulagsgreinargerða, framsetningu skipulagsuppdrátta, skipulagskvaðir og skipulagsskilmála, um samráð og kynningu tillagna og afgreiðslu skipulagsáætlana.
  □ Í skipulagsreglugerð skal skilgreina landnotkunarflokka og [hverfisvernd],[^2)^] svo og önnur hugtök sem fyrir koma í reglugerðinni og þarfnast skýringa.
  □ Í skipulagsreglugerð skal kveðið á um öryggisforsendur og takmarkanir á landnotkun, t.d. vegna náttúruvár eða mengunar. Þá skal sérstaklega kveðið á um aðgengi og þarfir barna, fatlaðra og aldraðra.
  □ Í skipulagsreglugerð skulu vera ákvæði um starfshætti skipulagsnefnda, skipulagsfulltrúa og samvinnunefnda um svæðisskipulag og um menntun og starfsreynslu skipulagsfulltrúa og annarra þeirra sem falin er gerð skipulagsáætlana.
  □ [Þegar sérstaklega stendur á getur ráðherra að fenginni umsögn Skipulagsstofnunar og hlutaðeigandi sveitarstjórnar veitt undanþágu frá einstökum greinum skipulagsreglugerðar.][^3)^]
-    _[^1)^]_"Rg. 400/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/400-1998, sbr. "47/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/047-2001 og "420/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/420-2002. [^2)^]"L. 135/1997, 1. gr.":/altext/stjt/1997.135.html [^3)^]"L. 170/2000, 3. gr.":/altext/stjt/2000.170.html
+    _[^1)^]_"Rg. 400/1998":ekkitil/ekkitil.html?REGL/1998400, sbr. "47/2001":ekkitil/ekkitil.html?REGL/2001047 og "420/2002":ekkitil/ekkitil.html?REGL/2002420. [^2)^]"L. 135/1997, 1. gr.":/altext/stjt/1997.135.html [^3)^]"L. 170/2000, 3. gr.":/altext/stjt/2000.170.html
  ■ *11. gr.* _Áætlanir um landnotkun á landsvísu._
  □ Skipulagsstofnun skal afla gagna, hafa aðgang að og varðveita áætlanir annarra opinberra aðila um landnotkun er varða landið allt, svo sem um samgöngur, fjarskipti, orkumannvirki og náttúruvernd.
  □ Komi í ljós ósamræmi eða aðrir hagsmunaárekstrar um landnotkun milli einstakra áætlana getur umhverfisráðherra að höfðu samráði við forsætisráðherra og Samband íslenskra sveitarfélaga ákveðið að skipa sérstaka nefnd til að gera tillögur um samræmingu viðkomandi áætlana. Að fenginni niðurstöðu nefndarinnar getur umhverfisráðherra lagt fyrir sveitarstjórnir að þær niðurstöður verði felldar að skipulagsáætlunum, sbr. 12. og 16. gr.
@@ -113,7 +115,7 @@ h2. Skipulags- og byggingarlög
  □ Samvinnunefnd miðhálendis annast gerð svæðisskipulags miðhálendisins og gætir þess að samræmi sé innbyrðis með aðalskipulagstillögum einstakra sveitarfélaga á svæðinu og að samræmi sé milli þeirra og svæðisskipulags miðhálendisins. Nefndin skal leita eftir tillögum hlutaðeigandi sveitarfélaga við mótun tillögu að svæðisskipulagi. Þegar ný samvinnunefnd miðhálendis tekur til starfa skal hún meta hvort nauðsynlegt sé að endurskoða svæðisskipulag miðhálendisins.
  □ Kostnaður við gerð svæðisskipulags miðhálendisins greiðist úr ríkissjóði.
  □ Umhverfisráðherra setur samvinnunefnd miðhálendis starfsreglur[^1)^] að fenginni umsögn hennar og Skipulagsstofnunar.][^2)^]
-    _[^1)^]Augl. 847/2000_. [^2)^]"L. 58/1999, 2. gr.":/altext/stjt/1999.058.html
+    _[^1)^]_"Augl. 847/2000":ekkitil/ekkitil.html?AUGL/2000847. [^2)^]"L. 58/1999, 2. gr.":/altext/stjt/1999.058.html
  ■ *13. gr.* _Kynning, auglýsing, samþykkt og staðfesting svæðisskipulags._
  □ Áður en tillaga að svæðisskipulagi er tekin til formlegrar afgreiðslu í samvinnunefnd skulu tillagan, markmið hennar og forsendur kynnt á almennum fundi eða fundum eða á annan fullnægjandi hátt og skal kynningin auglýst með áberandi hætti.
  □ Þegar samvinnunefnd hefur gert tillögu að svæðisskipulagi skal hún auglýst í Lögbirtingablaði og með áberandi hætti í viðkomandi sveitarfélögum og höfð þar til sýnis ásamt fylgigögnum í a.m.k. fjórar vikur. Einnig skal tillagan auglýst utan sveitarfélaganna.
@@ -251,7 +253,7 @@ h2. Skipulags- og byggingarlög
  □ Skipulagsgjald fellur í gjalddaga þegar virðingargjörð hefur farið fram og Fasteignamat ríkisins hefur tilkynnt hana til innheimtumanns ríkissjóðs. Því fylgir lögveð í eigninni og gengur það fyrir öllum öðrum veðkröfum er á henni hvíla. Innheimta má gjaldið með fjárnámi. [Sýslumaður skal innheimta skipulagsgjald af húsbyggingum í lögsagnarumdæmi sínu og af öðrum gjaldskyldum mannvirkjum, sbr. 3. málsl. 2. mgr., í eigu lögaðila sem hafa lögheimili í umdæminu. Í Reykjavík skal tollstjóri annast innheimtuna. Skipulagsgjald innheimtist samkvæmt fyrirmælum frá Fasteignamati ríkisins.][^1)^]
  □ ...[^1)^]
  □ Ráðherra setur í reglugerð[^2)^] nánari ákvæði um álagningu, innheimtu og ráðstöfun gjalds þessa.
-    _[^1)^]_"L. 170/2000, 7. gr.":/altext/stjt/2000.170.html [^2)^]"Rg. 737/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/737-1997.
+    _[^1)^]_"L. 170/2000, 7. gr.":/altext/stjt/2000.170.html [^2)^]"Rg. 737/1997":ekkitil/ekkitil.html?REGL/1997737.
 
  *IV. kafli.* *Mannvirki.*
  ■ *36. gr.* _Gildissvið._
@@ -267,7 +269,7 @@ h2. Skipulags- og byggingarlög
  □ [Þegar sérstaklega stendur á getur ráðherra að fenginni umsögn Skipulagsstofnunar og hlutaðeigandi sveitarstjórnar veitt undanþágu frá einstökum greinum byggingarreglugerðar.][^2)^]
  □ Sveitarstjórn getur sett staðbundna samþykkt með viðbótarreglum við þær reglur sem byggingarreglugerð hefur að geyma. Þar skal m.a. fjalla um sérstakar kröfur til bygginga vegna flóða, ofanflóða- eða jarðskjálftahættu, friðunar eldri byggðar og trjágróðurs, girðingar umhverfis lóðir og um uppsetningu auglýsingaskilta og um önnur atriði er ráðast af staðbundnum aðstæðum eða viðhorfum. Einnig má þar setja sérstök ákvæði um atriði er varða staðbundna stjórn byggingarmála í sveitarfélaginu. Hafi sveitarfélög myndað svæðisbyggingarnefnd geta þau sameiginlega sett samþykkt samkvæmt þessari málsgrein.
  □ Staðbundnar byggingarsamþykktir skal senda til staðfestingar ráðuneytisins og birta í B-deild Stjórnartíðinda.
-    _[^1)^]_"Rg. 441/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/441-1998, sbr. "563/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/563-2000, "996/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/996-2001, "133/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/133-2002 og "425/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/425-2002. [^2)^]"L. 170/2000, 8. gr.":/altext/stjt/2000.170.html
+    _[^1)^]_"Rg. 441/1998":ekkitil/ekkitil.html?REGL/1998441, sbr. "563/2000":ekkitil/ekkitil.html?REGL/2000563, "996/2001":ekkitil/ekkitil.html?REGL/2001996, "133/2002":ekkitil/ekkitil.html?REGL/2002133, "425/2002":ekkitil/ekkitil.html?REGL/2002425 og "1163/2006":ekkitil/ekkitil.html?REGL/20061163. [^2)^]"L. 170/2000, 8. gr.":/altext/stjt/2000.170.html
  ■ *38. gr.* _Hlutverk byggingarnefnda._
  □ Byggingarnefndir, skipulags- og byggingarnefndir þar sem það á við, fara með byggingarmál undir yfirstjórn sveitarstjórna.
  □ Byggingarnefnd fjallar um byggingarleyfisumsóknir sem berast og ályktar um úrlausn þeirra til viðkomandi sveitarstjórnar. Nefndin skal hafa eftirlit með því að hvarvetna í umdæmi hennar sé byggt í samræmi við gildandi skipulag, lagaákvæði og reglugerðir um skipulags- og byggingarmál.
@@ -344,14 +346,14 @@ h2. Skipulags- og byggingarlög
  □ Byggingarfræðingar þurfa, auk þess að standast próf skv. 3. mgr., að hafa lokið 20 mánaða starfsreynslutíma.
  □ Umsækjendur, aðrir en arkitektar og byggingarfræðingar, skulu hafa sérhæft sig á viðkomandi löggildingarsviði og öðlast starfsreynslu hjá löggiltum aðila á sviðinu. Starfsreynslutíminn skal ekki vera skemmri en þrjú ár, þar af minnst eitt ár hér á landi. Í vottorði um starfsreynslu skal gerð grein fyrir þeim verkefnum sem umsækjandi hefur unnið að á starfsreynslutímanum. Að starfsreynslutímanum loknum skulu umsækjendur sækja námskeið og undirgangast próf það sem mælt er fyrir um í 3. mgr. [Ráðherra leitar umsagnar viðkomandi fagfélags og prófnefndar áður en löggilding er veitt.][^1)^]
  □ Ráðherra sendir árlega lista yfir löggilta hönnuði til Skipulagsstofnunar og byggingarfulltrúa.
-    _[^1)^]_"L. 135/1997, 8. gr.":/altext/stjt/1997.135.html [^2)^]"L. 4/2000, 2. gr.":/altext/stjt/2000.004.html [^3)^]"L. 170/2000, 13. gr.":/altext/stjt/2000.170.html [^4)^]"Rg. 747/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/747-1997, sbr. "354/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/354-2004.
+    _[^1)^]_"L. 135/1997, 8. gr.":/altext/stjt/1997.135.html [^2)^]"L. 4/2000, 2. gr.":/altext/stjt/2000.004.html [^3)^]"L. 170/2000, 13. gr.":/altext/stjt/2000.170.html [^4)^]"Rg. 747/1997":ekkitil/ekkitil.html?REGL/1997747, sbr. "354/2004":ekkitil/ekkitil.html?REGL/2004354.
  ■ *49. gr.* _Löggilding á sérsviði._
  □ Arkitektar og byggingarfræðingar geta hlotið löggildingu ráðherra til að gera aðal- og byggingaruppdrætti, uppdrætti að skipulagi lóða og tilheyrandi deiliuppdrætti.
  □ Verkfræðingar og tæknifræðingar með viðkomandi sérmenntun geta fengið löggildingu ráðherra til að hanna og gera séruppdrætti að burðarvirkjum, boðveitum, rafkerfum og raflögnum í mannvirkjum, vatns-, hita- og fráveitukerfum, loftræsikerfum og lýsingarkerfum.
  □ Byggingarverkfræðingar og byggingartæknifræðingar geta hlotið löggildingu ráðherra til að gera aðal- og byggingaruppdrætti og tilheyrandi deiliuppdrætti, enda hafi þeir öðlast a.m.k. fimm ára starfsreynslu hjá löggiltum aðila á því sviði.
  □ [Innanhússarkitektar og landslagsarkitektar (landslagshönnuðir)][^1)^] geta fengið löggildingu ráðherra sem hönnuðir séruppdrátta, hver á sínu sviði.
  □ Rafiðnfræðingar geta fengið löggildingu ráðherra sem hönnuðir séruppdrátta á sínu sviði. Ráðherra setur stærðartakmarkanir veitna í reglugerð.[^2)^]
-    _[^1)^]_"L. 4/2000, 3. gr.":/altext/stjt/2000.004.html [^2)^]"Rg. 730/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/730-2000.
+    _[^1)^]_"L. 4/2000, 3. gr.":/altext/stjt/2000.004.html [^2)^]"Rg. 730/2000":ekkitil/ekkitil.html?REGL/2000730.
  ■ *50. gr.* _Löggilding prófhönnuða._
  □ Verkfræðingar með sérmenntun og löggildinu á viðkomandi hönnunarsviði geta hlotið sérstaka löggildingu ráðherra sem prófhönnuðir, sbr. 6. mgr. 42. gr., enda hafi þeir minnst sex ára starfsreynslu á þessu sviði, þar af minnst eitt ár við eftirlit með framkvæmdum.
  □ Ráðherra setur nánari reglur um hæfnisskilyrði prófhönnuða, störf þeirra og starfshætti. Setja má það skilyrði að umsækjandi gangist undir próf.
@@ -422,7 +424,7 @@ h2. Skipulags- og byggingarlög
  □ Utanríkisráðherra fer með yfirstjórn skipulags- og byggingarmála á auglýstum varnarsvæðum í samræmi við ákvæði "laga nr. 106/1954":1954106.html, sbr. og "lög nr. 110/1951":1951110.html.
  □ Ákvæði skipulags- og byggingarlaga og reglugerða settra samkvæmt þeim eiga við um skipulags- og byggingarmál á varnarsvæðum eftir því sem við getur átt, þar á meðal um gjaldheimtu. Utanríkisráðherra skipar skipulags- og byggingarnefnd sem fer með þessi mál og getur hann falið nefndinni að sinna öðrum skyldum verkefnum á varnarsvæðunum.
  □ Nefndin skal í starfi sínu hafa náið samráð við Skipulagsstofnun og sveitarfélög sem hlut geta átt að máli, svo sem á Suðurnesjum. Utanríkisráðherra setur nánari ákvæði um framkvæmd þessarar greinar í reglugerð[^1)^] að höfðu samráði við umhverfisráðherra.
-    _[^1)^]_"Rg. 471/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/471-1999.
+    _[^1)^]_"Rg. 471/1999":ekkitil/ekkitil.html?REGL/1999471.
  ■ *62. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. janúar 1998. ...
  ■ *Ákvæði til bráðabirgða.*
@@ -440,6 +442,6 @@ h2. Skipulags- og byggingarlög
     12. Samþykktir sem reynslusveitarfélög hafa sett sér með heimild í "16. gr. laga um reynslusveitarfélög, nr. 82/1994":1994082.html, halda gildi sínu til 1. mars 2000.][^6)^]
     [13. Þar sem ekki er fyrir hendi aðalskipulag er heimilt að gera deiliskipulag á grundvelli svæðisskipulags fyrir einstök svæði eða reiti þar sem framkvæmdir eru fyrirhugaðar, ef í svæðisskipulagi er mörkuð stefna um viðkomandi málaflokka.
     14. Á meðan ekki eru til samhæfðir staðlar og/eða tæknisamþykki til þess að ákvæði 2. mgr. 42. gr. verði virk skulu byggingarvörur á markaði hafa vottun eða umsögn um að þær uppfylli kröfur byggingarreglugerðar, standist staðla og falli að verklagi og séríslenskum aðstæðum. Hliðsjón skal höfð af kröfum sem settar eru fram í ákvörðunum framkvæmdastjórnar Evrópusambandsins varðandi hlutverk framleiðanda og tilnefnds aðila við staðfestingu á samræmi við kröfur. Ef ekki liggja fyrir samþykktir frá framkvæmdastjórn Evrópusambandsins varðandi einstaka vöruflokka skal höfð hliðsjón af ákvörðunum um hliðstæðar vörur. Rannsóknastofnun byggingariðnaðarins, Brunamálastofnun eða aðrir þar til bærir aðilar sem umhverfisráðuneytið viðurkennir skulu gegna samsvarandi hlutverki og tilnefndur aðili vegna ákvæða þessarar greinar. Þessir aðilar annast staðfestingu á samræmi og gefa út vottorð eða umsögn þar að lútandi.][^2)^]
-    _[^1)^]_"L. 135/1997, 13. gr.":/altext/stjt/1997.135.html [^2)^]"L. 170/2000, 19. gr.":/altext/stjt/2000.170.html [^3)^]"L. 58/1999, 8. gr.":/altext/stjt/1999.058.html [^4)^]"Rg. 168/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/168-2000, sbr. "188/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/188-2001. [^5)^]"L. 74/2001, 1. gr.":/altext/stjt/2001.074.html [^6)^]"L. 117/1999, 2. gr.":/altext/stjt/1999.117.html
+    _[^1)^]_"L. 135/1997, 13. gr.":/altext/stjt/1997.135.html [^2)^]"L. 170/2000, 19. gr.":/altext/stjt/2000.170.html [^3)^]"L. 58/1999, 8. gr.":/altext/stjt/1999.058.html [^4)^]"Rg. 168/2000":ekkitil/ekkitil.html?REGL/2000168, sbr. "188/2001":ekkitil/ekkitil.html?REGL/2001188. [^5)^]"L. 74/2001, 1. gr.":/altext/stjt/2001.074.html [^6)^]"L. 117/1999, 2. gr.":/altext/stjt/1999.117.html
 
 

@@ -18,7 +18,7 @@ h2. Lög um háskóla
  *II. kafli.* *Viðurkenning háskóla.*
 ■ *3. gr.* Háskóla má reka sem ríkisstofnun, sjálfseignarstofnun, hlutafélag eða samkvæmt öðru viðurkenndu rekstrarformi. Ríkisrekinn háskóli er sjálfstæð ríkisstofnun sem heyrir undir menntamálaráðherra nema yfirstjórn hennar sé falin öðrum ráðherra að lögum.
  □ Menntamálaráðherra veitir háskólum viðurkenningu að uppfylltum skilyrðum laga þessara.
- □ Menntamálaráðherra gefur út reglur um viðurkenningu háskóla sem byggjast á alþjóðlegum viðmiðum um háskólastarfsemi. Í þeim skulu tilgreind skilyrði sem háskólar skulu fullnægja til að öðlast viðurkenningu. Skilyrðin lúta að eftirtöldum þáttum:
+ □ Menntamálaráðherra gefur út reglur[^1)^] um viðurkenningu háskóla sem byggjast á alþjóðlegum viðmiðum um háskólastarfsemi. Í þeim skulu tilgreind skilyrði sem háskólar skulu fullnægja til að öðlast viðurkenningu. Skilyrðin lúta að eftirtöldum þáttum:
     a. hlutverki og markmiðum háskóla,
     b. stjórnskipan og skipulagi,
     c. fyrirkomulagi kennslu og rannsókna,
@@ -34,7 +34,8 @@ h2. Lög um háskóla
  □ Hyggist háskóli láta af kennslu eða rannsóknum á tilteknu fræðasviði skal menntamálaráðuneyti tilkynnt um það. Hafi ekki verið stunduð kennsla eða rannsóknir í tvö ár samfleytt á fræðasviði, sem viðurkenning háskóla nær til, fellur viðurkenning háskólans á því fræðasviði úr gildi.
  □ Í viðurkenningu háskóla felst staðfesting á því að starfsemi viðkomandi háskóla sé í samræmi við lög þessi og reglur sem settar kunna að vera með stoð í þeim. Viðurkenning felur ekki í sér að stjórnvöld séu skuldbundin til að veita fé til viðkomandi háskóla.
  □ Menntamálaráðherra skal setja reglur um erlendar þýðingar á heitum þeirra háskóla sem hann veitir viðurkenningu.
-■ *4. gr.* Uppfylli háskóli, sem fengið hefur viðurkenningu, ekki ákvæði laga þessara og reglur og skilyrði sem sett eru á grundvelli þeirra eða þær kröfur sem gerðar eru til kennslu og rannsókna getur menntamálaráðherra afturkallað viðurkenningu á einstökum fræðasviðum eða að fullu.
+    _[^1)^]_"Rgl. 1067/2006":ekkitil/ekkitil.html?REGL/20061067.
+ ■ *4. gr.* Uppfylli háskóli, sem fengið hefur viðurkenningu, ekki ákvæði laga þessara og reglur og skilyrði sem sett eru á grundvelli þeirra eða þær kröfur sem gerðar eru til kennslu og rannsókna getur menntamálaráðherra afturkallað viðurkenningu á einstökum fræðasviðum eða að fullu.
 ■ *5. gr.* Menntamálaráðherra gefur út formleg viðmið um æðri menntun og prófgráður. Viðmið um æðri menntun og prófgráður eru kerfisbundin lýsing á prófgráðum og lokaprófum þar sem lögð er áhersla á almenna lýsingu á þeirri þekkingu, hæfni og færni sem námsmenn eiga að ráða yfir við námslok. Í þeim skulu koma fram þau skilyrði sem háskólum ber að uppfylla á hverju námsstigi. Háskólum ber að birta sambærilegar lýsingar fyrir hverja námsleið á þeirri þekkingu, hæfni og færni sem námsmenn eiga að ráða yfir við námslok. Birta skal viðmiðin á íslensku og ensku.
 
  *III. kafli.* *Námsframboð og prófgráður.*
@@ -89,10 +90,11 @@ h2. Lög um háskóla
  □ Um málskot til áfrýjunarnefndar gilda ákvæði VII. kafla stjórnsýslulaga. Máli háskólanema verður þannig ekki skotið til nefndarinnar nema fyrir liggi endanleg ákvörðun háskóla um rétt eða skyldu nemandans. Þó er nemanda heimilt að bera undir nefndina hvort málsmeðferð háskóla á skriflegu erindi hans hafi verið í samræmi við lög og góða stjórnsýsluhætti, og skal nefndin þá veita álit sitt um það efni.
  □ Áfrýjunarnefndin endurmetur ekki prófúrlausnir eða faglega niðurstöðu kennara, dómnefnda eða prófdómara.
  □ Úrskurðir áfrýjunarnefndar eru endanlegir á stjórnsýslustigi og verður þeim ekki skotið til ráðherra.
- □ Menntamálaráðherra er heimilt að setja nánari reglur um störf áfrýjunarnefndar.
+ □ Menntamálaráðherra er heimilt að setja nánari reglur[^1)^] um störf áfrýjunarnefndar.
+    _[^1)^]_"Rgl. 1152/2006":ekkitil/ekkitil.html?REGL/20061152.
 
  *VIII. kafli.* *Fjárhagsmálefni.*
-■ *21. gr.* Menntamálaráðherra er heimilt að gera samninga til 3 - 5 ára í senn um fjárframlög til kennslu og rannsókna í háskólum sem hlotið hafa viðurkenningu menntamálaráðuneytis samkvæmt lögum þessum. Slíkir samningar eru skilyrði fyrir veitingu fjárframlaga til viðkomandi háskóla.
+ ■ *21. gr.* Menntamálaráðherra er heimilt að gera samninga til 3 - 5 ára í senn um fjárframlög til kennslu og rannsókna í háskólum sem hlotið hafa viðurkenningu menntamálaráðuneytis samkvæmt lögum þessum. Slíkir samningar eru skilyrði fyrir veitingu fjárframlaga til viðkomandi háskóla.
  □ Í samningum skal kveðið á um eftirfarandi:
     a. skilmála sem menntamálaráðuneyti setur fyrir veitingu fjárframlaga til háskólans,
     b. skilgreiningu á þeirri kennslu- og rannsóknastarfsemi sem ríkissjóður greiðir fyrir,

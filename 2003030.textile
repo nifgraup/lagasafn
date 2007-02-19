@@ -7,7 +7,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
 <hr />
 
 
- *Tóku gildi 1. júlí 2003.* _EES-samningurinn:_ IX. viðauki tilskipun 85/611/EBE. _Breytt með_ "l. 108/2006":/altext/stjt/2006.108.html (taka gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar, sem undirritaður var í Hoyvík í Færeyjum 31. ágúst 2005, hefur gengið í gildi)
+ *Tóku gildi 1. júlí 2003.* _EES-samningurinn:_ IX. viðauki tilskipun 85/611/EBE. _Breytt með_ "l. 108/2006":/altext/stjt/2006.108.html (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006)
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -99,7 +99,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  □ Rekstrarfélagi er heimilt að fela öðrum aðilum verkefni þau sem kveðið er á um í 17. gr. að fengnu samþykki Fjármálaeftirlitsins. Rekstrarfélagi er þó aldrei heimilt að útvista öll verkefni skv. 17. gr. Verkefni skv. 1. tölul. 17. gr. er ekki heimilt að fela vörslufyrirtæki eða öðru félagi fari hagsmunir þess ekki saman við hagsmuni rekstrarfélags og eigenda hlutdeildarskírteina.
  □ Nú felur rekstrarfélag öðru fyrirtæki hluta af verkefnum sínum skv. 17. gr. og hefur það engin áhrif á ábyrgð rekstrarfélags gagnvart eigendum hlutdeildarskírteina.
  □ Í reglugerð[^1)^] skal setja nánari reglur um útvistun verkefna rekstrarfélaga.
-    _[^1)^]_"Rg. 792/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2003.
+    _[^1)^]_"Rg. 792/2003":ekkitil/ekkitil.html?REGL/2003792.
  ■ *19. gr.* _Góðir viðskiptahættir og venjur._
  □ Rekstrarfélag skal starfrækja verðbréfasjóð í samræmi við góða viðskiptahætti og venjur með trúverðugleika markaðarins og hagsmuni eigenda hlutdeildarskírteina að leiðarljósi.
  _C. Vörslufyrirtæki._
@@ -149,7 +149,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
 ■ *28. gr.* _Útreikningur innlausnarvirðis._
  □ Innlausnarvirði hlutdeildarskírteina verðbréfasjóða er markaðsvirði samanlagðra eigna að frádregnum skuldum sjóðsins við innlausn, svo sem skuldum hans við innlánsstofnanir, ógreiddum umsýslu- og stjórnunarkostnaði, innheimtukostnaði og áföllnum eða reiknuðum opinberum gjöldum, deilt niður á heildarfjölda útgefinna og óinnleystra hlutdeildarskírteina.
  □ Ráðherra getur í reglugerð[^1)^] sett nánari reglur um útreikning á innlausnarvirði hlutdeildarskírteina verðbréfasjóða og mat á markaðsvirði eigna.
-    _[^1)^]_"Rg. 792/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2003.
+    _[^1)^]_"Rg. 792/2003":ekkitil/ekkitil.html?REGL/2003792.
  ■ *29. gr.* _Auglýsing innlausnarvirðis._
  □ Innlausnarvirði hlutdeildarskírteina verðbréfasjóða skal reiknað daglega og auglýst opinberlega eigi sjaldnar en tvisvar í mánuði. Fjármálaeftirlitið getur ákveðið að opinber auglýsing innlausnarvirðis skuli fara fram oftar ef ástæða þykir til.
  _F. Fjárfestingarheimildir._
@@ -205,17 +205,17 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  □ Fari fjárfesting verðbréfasjóðs fram úr leyfilegum mörkum samkvæmt lögum þessum skulu þegar gerðar ráðstafanir til úrbóta og skal lögmæltu hámarki í síðasta lagi náð innan sex mánaða. Fjármálaeftirlitið getur þó í einstökum tilvikum mælt fyrir um lengri frest enda sé það augljóslega í þágu eigenda hlutdeildarskírteina.
  _G. Markaðssetning utan heimalands._
 ■ *43. gr.* _Markaðssetning verðbréfasjóða með staðfestu innan Evrópska efnahagssvæðisins hér á landi._
- □ Erlendur verðbréfasjóður með staðfestu og staðfestingu í öðru ríki innan Evrópska efnahagssvæðisins getur markaðssett skírteini sín hér á landi tveimur mánuðum eftir að Fjármálaeftirlitið hefur fengið tilkynningu um fyrirhugaða starfsemi frá verðbréfasjóðnum. Tilkynningu skulu fylgja eftirfarandi gögn:
+ □ Erlendur verðbréfasjóður með staðfestu og staðfestingu í öðru ríki innan Evrópska efnahagssvæðisins getur markaðssett skírteini sín hér á landi tveimur mánuðum eftir að Fjármálaeftirlitið hefur fengið tilkynningu um fyrirhugaða starfsemi frá verðbréfasjóðnum. [Hið sama gildir um starfsemi svissneskra og færeyskra verðbréfasjóða, enda séu sömu kröfur gerðar til þeirra og til verðbréfasjóða með staðfestu í ríki innan Evrópska efnahagssvæðisins og gerður hafi verið samstarfssamningur á milli Fjármálaeftirlitsins og lögbærra svissneskra eða færeyskra yfirvalda.][^1)^] Tilkynningu skulu fylgja eftirfarandi gögn:
     1. Yfirlýsing lögbærra eftirlitsaðila í heimaríki verðbréfasjóðsins um að hann hafi staðfestingu í því ríki og uppfylli að öðru leyti settar kröfur í tilskipunum Evrópubandalagsins um fyrirtæki um sameiginlega fjárfestingu í framseljanlegum verðbréfum.
     2. Reglur verðbréfasjóðsins.
     3. Útboðslýsing og útdráttur úr útboðslýsingu. Útboðslýsing skal hafa að geyma upplýsingar skv. 6. tölul. þessarar málsgreinar.
     4. Endurskoðaður ársreikningur næstliðins árs, sé hann fyrirliggjandi, og síðari hálfsársuppgjör.
     5. Lýsing á framkvæmd fyrirhugaðrar starfsemi eða markaðssetningar hlutdeildarskírteina verðbréfasjóðsins.
-    6. Upplýsingar um fyrirhugaðar ráðstafanir verðbréfasjóðsins til að tryggja rétt eigenda skírteina til útgreiðslu hagnaðar, innlausnar hlutdeildarskírteina og þeirra upplýsinga sem sjóðnum er skylt að miðla.[^1)^]
+    6. Upplýsingar um fyrirhugaðar ráðstafanir verðbréfasjóðsins til að tryggja rétt eigenda skírteina til útgreiðslu hagnaðar, innlausnar hlutdeildarskírteina og þeirra upplýsinga sem sjóðnum er skylt að miðla.
  □ Fjármálaeftirlitið getur hafnað því að verðbréfasjóður skv. 1. mgr. hefji markaðssetningu hér á landi ef hann uppfyllir ekki þau skilyrði sem gerð eru til verðbréfasjóða samkvæmt lögum þessum og reglum settum samkvæmt þeim eða markaðssetningin stríðir að öðru leyti gegn ákvæðum laga. Fjármálaeftirlitið skal rökstyðja synjun skriflega til verðbréfasjóðsins áður en frestur skv. 1. mgr. rennur út.
  □ Fjármálaeftirlitið gengur úr skugga um eftirlit með verðbréfasjóðnum í heimaríkinu, starfsheimildir þess og starfsemi.
  □ Breytingar á áður tilkynntum atriðum samkvæmt þessari grein skulu þegar tilkynntar Fjármálaeftirlitinu.
-    _[^1)^]Málsgreininni var breytt með_ "l. 108/2006, 87. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
+    _[^1)^]_"L. 108/2006, 87. gr.":/altext/stjt/2006.108.html
  ■ *44. gr.* _Heimild til að banna starfsemi erlendra verðbréfasjóða._
  □ Fjármálaeftirlitinu er heimilt að banna erlendum verðbréfasjóði að markaðssetja skírteini sín hér á landi hafi hlutaðeigandi verðbréfasjóður brotið gróflega eða ítrekað gegn ákvæðum laga þessara eða reglum settum samkvæmt þeim eða gegn ákvæðum annarra laga um fjármálafyrirtæki, enda hafi ekki tekist að binda enda á framangreind brot samkvæmt tilmælum eða viðurlögum þessara laga.
 ■ *45. gr.* _Markaðssetning íslenskra verðbréfasjóða utan Íslands._
@@ -223,13 +223,13 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  _H. Upplýsingagjöf._
 ■ *46. gr.* _Ársreikningur og árshlutauppgjör._
  □ Í ársreikningi og árshlutauppgjörum rekstrarfélags skulu sérgreindar upplýsingar um verðbréfasjóð eða sérhverja deild hans. Í reglugerð[^1)^] skal setja nánari reglur um sérgreindar upplýsingar um verðbréfasjóði í ársreikningum og árshlutauppgjörum. Þá skulu rekstrarfélög senda Fjármálaeftirlitinu ársfjórðungslegt efnahagsyfirlit verðbréfasjóða í því formi sem Fjármálaeftirlitið ákveður.
-    _[^1)^]Rg. 792/2003,_ "rgl. 97/2004":http://stjornartidindi.is/servlet/stjrtid/B/2004/97.pdf.
+    _[^1)^]Rg. 792/2003,_ "rgl. 97/2004":2004097.html.
  ■ *47. gr.* _Útboðslýsing og útdráttur úr útboðslýsingu._
  □ Rekstrarfélag skal gefa út útboðslýsingu og útdrátt úr útboðslýsingu fyrir verðbréfasjóð.
  □ Í útboðslýsingu skulu koma fram nauðsynlegar upplýsingar til að fjárfestum sé kleift að meta kosti fjárfestinga í viðkomandi verðbréfasjóði. Í útdrætti úr útboðslýsingu skal draga fram meginatriði útboðslýsingar.
  □ Rekstrarfélag skal senda Fjármálaeftirlitinu útboðslýsingu og útdrátt úr útboðslýsingu í kjölfar breytinga á þeim.
  □ Nánar skal kveðið á um útboðslýsingar og útdrætti úr útboðslýsingum vegna verðbréfasjóða í reglugerð,[^1)^] meðal annars um hvaða upplýsingar skuli birta í útboðslýsingum og útdráttum úr þeim.
-    _[^1)^]_"Rgl. 792/2003":http://stjornartidindi.is/servlet/stjrtid/B/2003/792.pdf.
+    _[^1)^]_"Rgl. 792/2003":ekkitil/ekkitil.html?REGL/2003792.
  ■ *48. gr.* _Nánari upplýsingar í útboðslýsingu._
  □ Í útboðslýsingu verðbréfasjóðs skal á ítarlegan hátt lýsa fjárfestingarstefnu sjóðsins og, ef við á, einstakra deilda hans og tilgreina þær tegundir fjárfestinga sem honum eru heimilar samkvæmt reglum sjóðsins.
  □ Í útboðslýsingu skal tilgreina hvort sjóði, eða einstakri deild hans, er heimilt að fjárfesta í afleiðum, og sé slíkt heimilt, hvort notkun þeirra takmarkist við tækni til að lágmarka áhættu og fastsetja hagnað vegna verðsveiflna.
@@ -330,7 +330,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  □ Telji Fjármálaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa getur það krafist gagna og upplýsinga hjá viðkomandi aðilum eða hjá eftirlitsskyldum aðilum sem nauðsynleg eru til að ganga úr skugga um hvort svo sé. Getur það krafist þess að slíkri starfsemi sé hætt þegar í stað. Jafnframt er því heimilt að birta opinberlega nöfn aðila sem taldir eru bjóða þjónustu án tilskilinna leyfa.
 ■ *67. gr.* _Reglugerð._
  □ Lög þessi heyra undir viðskiptaráðherra og skal hann kveða nánar á um framkvæmd þeirra með reglugerð.[^1)^] Í reglugerð er meðal annars heimilt að kveða á um fjárfestingarheimildir verðbréfasjóða og fjárfestingarsjóða, góða viðskiptahætti, útvistun verkefna rekstrarfélaga, innlausnarvirði, markaðssetningu utan heimalands, heimildir til markaðssetningar annarra sjóða en verðbréfasjóða utan heimalands og upplýsingagjöf verðbréfasjóða og fjárfestingarsjóða. Í reglugerðinni er einnig heimilt að kveða á um notkun afleiðusamninga verðbréfasjóða og fjárfestingarsjóða og aðferðir til að meta áhrif þeirra á áhættu eignasafns sjóðanna.
-    _[^1)^]_"Rg. 792/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2003.
+    _[^1)^]_"Rg. 792/2003":ekkitil/ekkitil.html?REGL/2003792.
 
  *V. kafli.* *Viðurlög.*
  ■ *68. gr.* _Sektir._
@@ -351,14 +351,14 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
     3. óhæði rekstrarfélaga og vörslufyrirtækja verðbréfasjóða í störfum sínum og skyldu þeirra til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi (2. mgr. 15. gr.),
     4. starfsemi vörslufyrirtækis verðbréfasjóða (20. gr.),
     5. fjárfestingarheimildir verðbréfasjóða (II. kafli F),
-    6. markaðssetningu verðbréfasjóða hér á landi með staðfestu í öðru ríki innan Evrópska efnahagssvæðisins (1. mgr. 43. gr.),[^1)^]
+    6. [markaðssetningu verðbréfasjóða hér á landi með staðfestu í öðru ríki innan Evrópska efnahagssvæðisins, í Sviss eða Færeyjum (1. mgr. 43. gr.)],[^1)^]
     7. breytingu á fjárfestingarsjóðum í sjóði sem lögin taka ekki til (1. mgr. 52. gr., sbr. 2. mgr. 5. gr.),
     8. óhæði rekstrarfélaga og vörslufyrirtækja fjárfestingarsjóða í störfum sínum og skyldu þeirra til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi (1. mgr. 52. gr., sbr. 2. mgr. 15. gr.),
     9. starfsemi vörslufyrirtækis fjárfestingarsjóða (1. mgr. 52. gr., sbr. 20. gr.),
     10. fjárfestingarheimildir fjárfestingarsjóða (54. gr. og 65. gr.) og
     11. þagnarskyldu (1. mgr. 63. gr., sbr. 58. gr. laga um fjármálafyrirtæki).
  □ Hver sá sem vísvitandi gefur rangar eða villandi upplýsingar um hagi verðbréfasjóðs eða fjárfestingarsjóðs eða annað er þá varðar opinberlega eða til Fjármálaeftirlitsins, annarra opinberra aðila eða viðskiptamanna sinna skal sæta sektum eða fangelsi allt að einu ári, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum.
-    _[^1)^]Liðnum var breytt með_ "l. 108/2006, 88. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
+    _[^1)^]_"L. 108/2006, 88. gr.":/altext/stjt/2006.108.html
  ■ *70. gr.* _Refsiábyrgð lögaðila. Tilraun og hlutdeild. Fyrning sakar._
  □ Nú er brot framið í starfsemi fjárfestingarsjóðs sem gefur út hlutabréf og er þá heimilt að gera fjárfestingarsjóðnum fésekt. Um refsiábyrgðina fer eftir II. kafla A almennra hegningarlaga.
  □ Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð eftir því sem segir í almennum hegningarlögum.

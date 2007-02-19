@@ -50,7 +50,7 @@ h2. Sjómannalög
  □ Sérhver skipverji skal hafa sjóferðabók sem samgönguráðuneytið lætur gera. Skipstjóri geymir sjóferðabók skipverja meðan skipverji er í skiprúminu.
  □ Samgönguráðherra setur nánari reglur[^1)^] um gerð sjóferðabóka.
  □ Lögskráningarstjóra er skylt að afhenda sjóferðabók hverjum skipstjóra og skipverja í fyrsta sinn sem hann er lögskráður á íslenskt skip eða síðar ef sjóferðabók hefur glatast eða er fullnotuð. Skal sjóferðabókin ávallt sýnd við lögskráningu og þegar sanna á siglingatíma.
-    _[^1)^]_"Rg. 162/1987":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/162-1987.
+    _[^1)^]_"Rg. 162/1987":ekkitil/ekkitil.html?REGL/1987162.
  ■ *7. gr.* Samgönguráðuneytið skal láta útbúa og kosta hentuga útgáfu af sjómannalögum eins og þau eru á hverjum tíma.
  □ Skipstjóri skal sjá til þess að um borð í skipi sé ætíð eintak af sjómannalögum, eins og þau eru á hverjum tíma, sem allir skipverjar geti kynnt sér.
 ■ *8. gr.* Við ráðningu nýliða skal skipstjóri sjá um að nýliðanum sé leiðbeint um störf þau sem hann á að sinna. Enn fremur skal honum sýndur björgunarbúnaður sá og viðvörunarbúnaður sem á skipinu er og leiðbeint um grundvallaratriði við notkun þeirra.
@@ -157,7 +157,7 @@ h2. Sjómannalög
  □ Greiðslur, sem skipverji fær af þessum sökum frá sjúkrasamlagi eða almannatryggingum eða vegna slysatryggingar sem keypt hefur verið honum til handa, skulu dregnar frá þeirri upphæð sem útgerðarmanni eða ríkissjóði er skylt að inna af hendi samkvæmt 2. og 3. mgr.
 ■ *38. gr.* Hafi skipstjóri, við fráför veiks eða slasaðs skipverja úr skiprúmi erlendis, orðið að reiða af hendi fé vegna heimferðar skipverja, umönnunar hans eða honum til aðstoðar á annan hátt, eftir lögum eða fyrirmælum sem gilda á þeim stað en útgerðarmanni ber ekki að greiða eftir íslenskum rétti, skal ríkissjóður bæta útgerðarmanni skipsins þau útgjöld sem óhjákvæmileg voru í þessu sambandi.
  □ Samgönguráðherra getur sett nánari reglur um umönnun sjúkra eða slasaðra skipverja og um heimsendingu þeirra.[^1)^]
-    _[^1)^]_"Rg. 163/1987":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/163-1987 (um umönnun sjúkra eða slasaðra skipverja og um ráðstafanir vegna andláts skipverja).
+    _[^1)^]_"Rg. 163/1987":ekkitil/ekkitil.html?REGL/1987163 (um umönnun sjúkra eða slasaðra skipverja og um ráðstafanir vegna andláts skipverja).
  _7. Andlát skipverja og greftrun._
  ■ *39. gr.* Ef skipverji deyr skal skipstjóri tilkynna einhverjum hinna nánustu vandamanna hins látna um andlátið svo skjótt sem við verður komið. Skipstjóri sér um útför hins látna eða líkbrennslu hafi venslamenn eigi gert aðrar ráðstafanir. Andist skipverji erlendis skal hinum næsta íslenska ræðismanni einnig tilkynnt um andlátið. Hafi líkbrennsla farið fram skal skipstjóri annast heimsendingu öskunnar.
  □ Svo skjótt sem við verður komið skal skipstjóri láta gera skrá yfir muni þá sem hinn látni hefur látið eftir sig í skipinu og skal skrá þessi staðfest af tveimur vottum. Hafi skipverji andast erlendis skal skipstjóri senda eða afhenda hinum næsta íslenska ræðismanni skrá þessa eða staðfest eftirrit hennar. Sé miklu óhagræði bundið að geyma muni hins látna um borð skulu þeir einnig afhentir hinum næsta íslenska ræðismanni.
@@ -168,7 +168,7 @@ h2. Sjómannalög
 ■ *41. gr.* Útgerðarmaður greiðir allan venjulegan kostnað við greftrun skipverja eða líkbrennslu, svo og þann kostnað er leiðir af heimsendingu ösku eða líkamsleifa ef því er að skipta, hafi skipverji andast meðan útgerðarmanni bar að kosta umönnun hans.
  □ Ríkissjóður greiðir þau útgjöld sem um ræðir í 1. mgr. ef skipverji hefur við andlát sitt átt rétt til umönnunar samkvæmt 5. mgr. 37. gr. Ákvæðum 6. mgr. 37. gr. og 38. gr. skal beitt eftir því sem við getur átt um útgjöld vegna andláts eða greftrunar skipverja.
  □ Samgönguráðherra getur sett nánari reglur um ráðstafanir vegna andláts skipverja.[^1)^]
-    _[^1)^]_"Rg. 163/1987":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/163-1987.
+    _[^1)^]_"Rg. 163/1987":ekkitil/ekkitil.html?REGL/1987163.
  _8. Ráðningarsamningur skipstjóra._
  ■ *42. gr.* Útgerðarmaður skal sjá um að gerður sé skriflegur ráðningarsamningur við skipstjóra þar sem kveðið sé á um ráðningarkjör hans.
 ■ *43. gr.* Ákvæði laga þessara um skiprúmssamninga skulu gilda eftir því sem við getur átt um ráðningarsamning við skipstjóra með þeim breytingum sem leiðir af 44. - 48. gr.
@@ -239,7 +239,7 @@ h2. Sjómannalög
  □ Heimilt er með reglugerð eða í kjarasamningum að víkja frá ákvæðum 1. og 2. mgr. vegna hlutlægra eða tæknilegra ástæðna eða ástæðna er varða skipulag vinnunnar enda sé slíkt í samræmi við almennar meginreglur um verndun öryggis og heilbrigðis sjómanna.
  □ Skipstjóri á fiskiskipi getur ávallt krafist þess að skipverji vinni þann fjölda vinnustunda sem nauðsynlegur er fyrir öryggi skipsins, allra um borð, farms og annarra fjármuna sem á skipi eru eða til að koma til hjálpar öðrum skipum eða mönnum í sjávarháska.
  □ Samgönguráðherra getur sett reglugerð[^1)^] um vinnu- og hvíldartíma sjómanna á fiskiskipum.][^2)^]
-    _[^1)^]_"Rg. 975/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/975-2004. [^2)^]"L. 31/2003, 2. gr.":/altext/stjt/2003.031.html
+    _[^1)^]_"Rg. 975/2004":ekkitil/ekkitil.html?REGL/2004975. [^2)^]"L. 31/2003, 2. gr.":/altext/stjt/2003.031.html
  ■ *65. gr.* Á sunnudögum eða öðrum helgidögum, sem lögteknir eru hér á landi, má eigi setja skipverja til vinnu við þau störf sem fresta má.
  □ Skipverjum skal, ef þess er kostur, gefið tækifæri til að halda guðsþjónustu á skipinu á helgidögum þessum.
  _9. Landgönguleyfi skipverja._
@@ -254,7 +254,7 @@ h2. Sjómannalög
 ■ *68. gr.* Skipstjóri skal taka í gæslu sína þá muni sem skipverji skilur eftir í skipinu við ráðningarslit. Skal hann, svo fljótt sem unnt er, gera skrá um muni þessa sem staðfest sé og undirrituð af tveimur vottum.
  □ Telji skipstjóri vandkvæðum bundið að geyma munina getur hann komið þeim í geymslu á kostnað eiganda eða selt þá fyrir reikning eiganda en að frádregnum kostnaði. Hið sama á við hafi skipverji eigi, áður en þrír mánuðir eru liðnir frá því að hann yfirgaf skip, snúið sér til skipstjóra eða útgerðarmanns með ósk um að fá munina afhenta sér.
 ■ *69. gr.* Útgerðarmaður bætir skipverjum þær eigur þeirra sem farist hafa eða skemmst við skiptapa, eldsvoða í skipi eða annað sjótjón eftir reglum sem samgönguráðherra setur.[^1)^]
-    _[^1)^]_"Rg. 224/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/224-1999.
+    _[^1)^]_"Rg. 224/1999":ekkitil/ekkitil.html?REGL/1999224.
  _11. Um agavald skipstjóra._
  ■ *70. gr.* Skipstjóri eða sá, sem gengur í hans stað í fjarveru hans eða forföllum, getur þröngvað skipverjum til hlýðni með valdi ef það er nauðsynlegt til að halda góðri reglu á skipinu.
  □ Þá er skip er í háska statt eða skipverjar gera samblástur eða önnur nauðsyn rekur til er leyft að grípa til hvers kyns nauðsynjaúrræða til að koma á hlýðni og góðri reglu og er hver af skipverjum skyldur til að veita yfirmanni sínum aðstoð sína, jafnvel ótilkvaddur.
@@ -265,7 +265,7 @@ h2. Sjómannalög
  *IV. kafli.* *Ágreiningur út af starfsskyldum eða réttarstöðu sjómanna.*
 ■ *72. gr.* Samgönguráðherra er heimilt að koma á fót föstum gerðardómi[^1)^] er skipaður sé einum eða fleiri óvilhöllum mönnum sem dæmi um ágreining út af reikningsgerð úgerðarmanns eða skipstjóra eða um ágreining sem rís af starfi skipverja ef báðir (eða allir) málsaðilar óska þess og verður þá úrskurður gerðardómsins um efnisatriði máls bindandi fyrir báða aðila eftir sömu reglum og almennt gilda um gerðardóma. Kostnaður við störf gerðardómsins greiðist úr ríkissjóði. Ef þinghöld fara fram utan Reykjavíkur skal [héraðsdómurum][^2)^] á hverjum stað skylt að aðstoða gerðardóminn varðandi aðstöðu til þinghalds, eftir því sem unnt er. Samgönguráðherra getur sett nánari reglur um starfsemi gerðardómsins og um kostnað við málsmeðferð.
  □ Ef skip er statt erlendis og ágreiningur rís út af reikningsgerð skipstjóra eða útgerðarmanns eða út af starfi skipverja má leggja þann ágreining undir úrskurð þess ræðismanns íslensks sem fyrst næst til. Er báðum aðilum þá skylt að hlíta úrskurði ræðismannsins þar til íslenskur dómstóll eða gerðardómur samkvæmt 1. mgr. hefur lagt dóm á málið.
-    _[^1)^]_"Rg. 384/1991":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/384-1991. [^2)^]"L. 92/1991, 83. gr.":/altext/stjt/1991.092.html
+    _[^1)^]_"Rg. 384/1991":ekkitil/ekkitil.html?REGL/1991384. [^2)^]"L. 92/1991, 83. gr.":/altext/stjt/1991.092.html
 
  *V. kafli.* *Um brot á lögum þessum og um refsingar.*
  _1. Almenn ákvæði._

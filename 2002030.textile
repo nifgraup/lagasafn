@@ -7,7 +7,7 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
 <hr />
 
 
- *Tóku gildi 16. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 2000/31/EB. _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005) og "l. 108/2006":/altext/stjt/2006.108.html (taka gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar, sem undirritaður var í Hoyvík í Færeyjum 31. ágúst 2005, hefur gengið í gildi).
+ *Tóku gildi 16. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 2000/31/EB. _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005) og "l. 108/2006":/altext/stjt/2006.108.html (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -24,9 +24,9 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
  *II. kafli.* *Regla upprunalands.*
 ■ *3. gr.* _Meginregla._
  □ Rafræn þjónusta sem þjónustuveitendur með staðfestu á Íslandi veita skal vera í samræmi við íslensk lög um stofnun og starfrækslu þjónustunnar.
- □ Engin höft skulu vera á frelsi þjónustuveitanda með staðfestu á Evrópska efnahagssvæðinu til að veita þjónustu hér á landi að því er varðar lagalegar kröfur um stofnun og starfrækslu þjónustunnar.[^1)^]
+ □ [Engin höft skulu vera á frelsi þjónustuveitanda með staðfestu á Evrópska efnahagssvæðinu, í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða Færeyjum til að veita þjónustu hér á landi að því er varðar lagalegar kröfur um stofnun og starfrækslu þjónustunnar.][^1)^]
  □ Þjónustuveitandi telst hafa staðfestu í tilteknu ríki ef hann stundar þar virka atvinnustarfsemi ótímabundið í fastri starfsstöð.
-    _[^1)^]Málsgreininni var breytt með_ "l. 108/2006, 90. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
+    _[^1)^]_"L. 108/2006, 90. gr.":/altext/stjt/2006.108.html
  ■ *4. gr.* _Almennar undantekningar frá meginreglu._
  □ Ákvæði 3. gr. gilda ekki um eftirfarandi:
     1. rétt aðila til að semja um hvaða lög gildi um samninga þeirra,
@@ -37,7 +37,7 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
     6. útgáfu rafeyris af hálfu fyrirtækja sem veitt hefur verið undanþága skv. 8. gr. tilskipunar 2000/46/EB,
     7. markaðssetningu bréfa í verðbréfasjóðum skv. 44. gr. tilskipunar 85/611/EBE, og
     8. staðfesturétt og rétt til að veita tryggingaþjónustu samkvæmt tilskipun 92/49/EBE, tilskipun 92/96/EBE, tilskipun 88/357/EBE og tilskipun 90/619/EBE.
-■ *5. gr.[^1)^]* _Einstakar undantekningar frá meginreglu._
+■ *5. gr.* _Einstakar undantekningar frá meginreglu._
  □ Stjórnvöld geta í einstökum tilfellum vikið frá ákvæðum 2. mgr. 3. gr. og takmarkað frjálst flæði rafrænnar þjónustu ef takmörkun er nauðsynleg til verndar:
     1. almennu siðferði, allsherjarreglu, almannaöryggi,
     2. lífi og heilsu manna, eða
@@ -45,7 +45,8 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
  □ Takmarkanir skv. 1. mgr. mega því aðeins beinast að þjónustuveitanda að hann brjóti gegn þeim verndarhagsmunum sem þar eru nefndir eða að veruleg hætta sé á að hann muni brjóta gegn þeim. Takmarkanirnar skulu ekki ganga lengra en nauðsyn ber til.
  □ Ekki er heimilt að grípa til sérstakra aðgerða skv. 1. mgr. gegn einstökum þjónustuveitendum nema aðildarríki þar sem þjónustuveitandi hefur staðfestu hafi vanrækt, þrátt fyrir beiðni íslenskra stjórnvalda, að grípa til aðgerða gegn brotum eða að úrræðin hafi verið ófullnægjandi. Tilkynna skal Eftirlitsstofnun EFTA og því ríki þar sem umræddur þjónustuveitandi hefur staðfestu um fyrirhugaðar aðgerðir. Þetta á þó ekki við um lögbann eða rannsókn sakamáls.
  □ Í áríðandi málum geta stjórnvöld vikið frá ákvæðum 3. mgr. Í þeim tilvikum skal tilkynna um aðgerðirnar svo skjótt sem kostur er til Eftirlitsstofnunar EFTA og til þess aðildarríkis þar sem þjónustuveitandi hefur staðfestu. Í tilkynningunni skal gefið til kynna hvers vegna málið er talið áríðandi.
-    _[^1)^]Greininni var breytt með_ "l. 108/2006, 91. gr.":/altext/stjt/2006.108.html Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
+ □ [Ákvæði 3. og 4. mgr. skulu eiga við um þjónustuveitendur með staðfestu í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu og í Færeyjum og um tilkynningar íslenskra stjórnvalda til þarlendra stjórnvalda eftir því sem við á.][^1)^]
+    _[^1)^]_"L. 108/2006, 91. gr.":/altext/stjt/2006.108.html
 
  *III. kafli.* *Upplýsingaskylda.*
  ■ *6. gr.* _Almennar upplýsingar._

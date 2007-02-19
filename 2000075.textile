@@ -54,7 +54,7 @@ h2. Lög um brunavarnir
  □ Brunamálastofnun starfrækir Brunamálaskóla sem ætlaður er slökkviliðsmönnum, þ.m.t. slökkviliðsstjórum og eldvarnaeftirlitsmönnum. Skólinn skal vera sérstök deild innan stofnunarinnar og annast umsjón með menntun, fræðslu og þjálfun slökkviliðsmanna sem fram fer á vegum Brunamálastofnunar og hafa sérstakt viðfangsefni í fjárlögum. Við ráðningu skólastjóra Brunamálaskólans skal brunamálastjóri leita eftir tillögu skólaráðs.
  □ Ráðherra skipar þriggja manna skólaráð til fjögurra ára í senn, og jafnmarga menn til vara, sem er Brunamálastofnun til ráðgjafar um fagleg og rekstrarleg málefni skólans og ber ábyrgð gagnvart brunamálastjóra á framkvæmd og starfsemi Brunamálaskólans. Skólaráð skal í upphafi árs leggja fyrir brunamálastjóra til samþykktar starfsáætlun fyrir skólann. Samband íslenskra sveitarfélaga og Landssamband slökkviliðs- og sjúkraflutningamanna tilnefna hvort sinn fulltrúa í skólaráð og skal ráðherra skipa formann.
  □ Ráðherra setur reglugerð[^1)^] um starfsemi Brunamálaskólans og hlutverk skólaráðs.
-    _[^1)^]_"Rg. 792/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2001.
+    _[^1)^]_"Rg. 792/2001":ekkitil/ekkitil.html?REGL/2001792.
  ■ *10. gr.* _Ábyrgð sveitarstjórna._
  □ Sveitarstjórn hver í sínu umdæmi ber ábyrgð á starfsemi slökkviliðs og framkvæmd eldvarnaeftirlits. Sveitarfélag ber kostnað af þessari starfsemi.
 
@@ -93,7 +93,7 @@ h2. Lög um brunavarnir
 ■ *17. gr.* _Hæfi og löggilding slökkviliðsmanna._
  □ Slökkviliðsmenn sem sækja um löggildingu til að starfa sem slökkviliðsmenn skulu hafa lokið námi fyrir slökkviliðsmenn við Brunamálaskólann eða hlotið sambærilega menntun. Jafnframt skulu þeir hafa gegnt slökkvistarfi eða starfað við brunavarnir að aðalstarfi að lágmarki í eitt ár samfellt eða starfað í hlutastarfi í slökkviliði að lágmarki í fjögur ár. Ráðherra veitir slíka löggildingu.
  □ Ráðherra skal að fenginni tillögu Brunamálastofnunar setja reglugerð[^1)^] um menntun og önnur skilyrði til að öðlast löggildingu, svo og um réttindi og skyldur slökkviliðsstjóra og slökkviliðsmanna.
-    _[^1)^]_"Rg. 792/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2001.
+    _[^1)^]_"Rg. 792/2001":ekkitil/ekkitil.html?REGL/2001792.
  ■ *18. gr.* _Slysatrygging slökkviliðsmanna._
  □ Slökkviliðsmenn og aðrir sem vinna að brunavörnum eftir kvaðningu slökkviliðsstjóra eða lögreglustjóra skulu tryggðir við æfingar og önnur störf í þágu brunavarna eða vegna mengunaróhappa á landi í samræmi við áhættu starfsins. Lágmarkstrygging þeirra skal vera í samræmi við skilmála um slysatryggingar starfsmanna sveitarfélaga samkvæmt kjarasamningum. Þeir sem verða fyrir tjóni við störf samkvæmt lögum þessum eiga rétt á að fá tjónið bætt úr sveitarsjóði, enda verði tjónið ekki bætt af vátryggingafélagi. Náist ekki samkomulag um bætur skal tjónið metið af dómkvöddum mönnum.
 ■ *19. gr.* _Þjónustuskylda í slökkviliði._
@@ -175,20 +175,20 @@ h2. Lög um brunavarnir
 ■ *38. gr.* _Námsstyrkir._
  □ Heimilt er Brunamálastofnun að veita þeim sem starfa að brunamálum styrki til náms á sviði brunamála í samræmi við fjárlög hverju sinni.
  □ Brunamálastofnun annast úthlutun styrkja að fenginni umsögn brunamálaráðs. Ráðherra setur ákvæði um styrki og úthlutun þeirra í reglugerð.[^1)^]
-    _[^1)^]_"Rg. 266/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/266-2001.
+    _[^1)^]_"Rg. 266/2001":ekkitil/ekkitil.html?REGL/2001266.
  ■ *39. gr.* _Reglugerðarheimild._
  □ Ráðherra setur með reglugerð nánari ákvæði um framkvæmd laga þessara að fenginni tillögu Brunamálastofnunar.
  □ Reglugerð[^1)^] um brunavarnir í samgöngumannvirkjum setur ráðherra að fengnum tillögum Brunamálastofnunar og að fenginni umsögn samgönguráðherra.
  □ Við setningu reglugerða samkvæmt lögum þessum skal hafa samráð við Samband íslenskra sveitarfélaga um atriði sem varða skyldur sveitarfélaga.
-    _[^1)^]_"Rg. 614/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/614-2004.
+    _[^1)^]_"Rg. 614/2004":ekkitil/ekkitil.html?REGL/2004614.
  ■ *40. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. janúar 2001 ...
  □ Reglugerðir og önnur stjórnvaldsfyrirmæli sem sett eru samkvæmt eldri lögum skulu halda gildi sínu að svo miklu leyti sem þau fara ekki í bága við lög þessi.[^1)^]
-    _[^1)^]_"Rg. 196/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/196-1994, "rg. 198/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/198-1994, "rg. 200/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/200-1994, "rg. 245/1994":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/245-1994 og "rg. 441/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/441-1998.
+    _[^1)^]_"Rg. 196/1994":ekkitil/ekkitil.html?REGL/1994196, "rg. 198/1994":ekkitil/ekkitil.html?REGL/1994198, "rg. 200/1994":ekkitil/ekkitil.html?REGL/1994200, "rg. 245/1994":ekkitil/ekkitil.html?REGL/1994245 og "rg. 441/1998":ekkitil/ekkitil.html?REGL/1998441.
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Á árunum 2001 til og með 2005 er Brunamálastofnun heimilt að veita þeim sveitarfélögum tímabundinn fjárstuðning sem sameinast um rekstur eldvarnaeftirlits og/eða slökkviliðs, sbr. 14. gr., eftir reglum[^1)^] sem ráðherra setur að fenginni umsögn brunamálaráðs. Heildarfjárstuðningur skal ákveðinn í fjárlögum hvers árs og skal hann ekki vera lægri ár hvert en sem nemur mismun á innheimtu brunavarnagjaldi annars vegar og kostnaði við rekstur Brunamálastofnunar hins vegar.
-    _[^1)^]_"Rgl. 739/2001":http://stjornartidindi.is/servlet/stjrtid/B/2001/739.pdf.
+    _[^1)^]_"Rgl. 739/2001":ekkitil/ekkitil.html?REGL/2001739.
  ■ *II.* Í sveitarfélögum skal liggja fyrir brunavarnaáætlun, sbr. 13. gr., innan tveggja ára frá gildistöku laga þessara. Brunamálastofnun gefur út leiðbeiningar um efni og gerð slíkra áætlana innan sex mánaða frá gildistöku laga þessara.
  ■ *III.* Ákvæði 15. gr. um hæfisskilyrði slökkviliðsstjóra gilda ekki um þá slökkviliðsstjóra sem ráðnir hafa verið til starfa fyrir gildistöku laga þessara.
  ■ *IV.* Endurskoða skal ákvæði laga þessara og annarra laga sem fjalla um byggingarefni og öryggi bygginga, sem og ákvæði reglugerða á þeim byggðum, með það fyrir augum að sameina réttarheimildir um byggingar og önnur mannvirki og einfalda framkvæmd þeirra, þar með að heimila notkun skoðunarstofa í eftirliti með gerð og viðhaldi bygginga og annarra mannvirkja.

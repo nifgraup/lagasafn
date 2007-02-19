@@ -64,7 +64,7 @@ h2. Lög um neytendalán
 ■ *9. gr.* Þó að í lögum þessum sé kveðið á um að neytandi skuli fá upplýsingar um vexti eða fjárhæðir þar sem vextir eru meðtaldir, sbr. 6. gr., kemur það ekki í veg fyrir að aðilar geti samið um að vextir séu að nokkru eða öllu leyti breytilegir. Skal þá greint frá vöxtum eins og þeir eru á þeim tíma sem upplýsingarnar eru gefnar, tilgreint skal með hvaða hætti vextirnir eru breytilegir og við hvaða aðstæður þeir breytast.
  _Útreikningur árlegrar hlutfallstölu kostnaðar._
 ■ *10. gr.* Árleg hlutfallstala kostnaðar er það vaxtaígildi sem jafnar núvirðið af greiðsluskuldbindingum lánveitanda annars vegar og neytanda hins vegar samkvæmt lánssamningi þeirra. Árlegri hlutfallstölu kostnaðar skal lýst sem árlegri prósentu af upphæð höfuðstóls lánsins. Hún skal reiknuð út í samræmi við stærðfræðilíkingu sem nánar skal mælt fyrir um í reglugerð[^1)^] er ráðherra setur.
-    _[^1)^]_"Rg. 377/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/377-1993, sbr. "491/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1993 og "236/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-2000.
+    _[^1)^]_"Rg. 377/1993":ekkitil/ekkitil.html?REGL/1993377, sbr. "491/1993":ekkitil/ekkitil.html?REGL/1993491 og "236/2000":ekkitil/ekkitil.html?REGL/2000236.
  ■ *11. gr.* Árleg hlutfallstala kostnaðar skal reiknuð út á þeim tíma sem lánssamningur er gerður. Við útreikning árlegrar hlutfallstölu skal gengið út frá því að lánssamningur gildi umsaminn tíma og að lánveitandi og neytandi standi við skuldbindingar sínar samkvæmt skilmálum samningsins.
 ■ *12. gr.* Ef lánssamningur heimilar verðtryggingu eða breytingu á vöxtum eða öðrum gjöldum sem teljast hluti árlegrar hlutfallstölu kostnaðar, en ekki er unnt að meta hverju nemi á þeim tíma sem útreikningur er gerður, skal reikna út árlega hlutfallstölu kostnaðar miðað við þá forsendu að verðlag, vextir og önnur gjöld verði óbreytt til loka lánstímans.
  □ Þegar reiknuð er út árleg hlutfallstala kostnaðar skal gera ráð fyrir eftirfarandi:
@@ -104,9 +104,9 @@ h2. Lög um neytendalán
 
  *VI. kafli.* *Ýmis ákvæði.*
 ■ *21. gr.* Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt að kveða nánar á um framkvæmd þeirra með reglugerð.[^1)^]
-    _[^1)^]_"Rg. 377/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/377-1993, sbr. "491/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1993 og "236/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-2000.
+    _[^1)^]_"Rg. 377/1993":ekkitil/ekkitil.html?REGL/1993377, sbr. "491/1993":ekkitil/ekkitil.html?REGL/1993491 og "236/2000":ekkitil/ekkitil.html?REGL/2000236.
  ■ *22. gr.* Viðskiptaráðherra getur sett reglur[^1)^] um hvernig prenta skuli leiðbeiningar um réttarstöðu neytanda á skriflega samninga og skjöl sem lögin taka til.
-    _[^1)^]_"Rg. 377/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/377-1993, sbr. "491/1993":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1993 og "236/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-2000.
+    _[^1)^]_"Rg. 377/1993":ekkitil/ekkitil.html?REGL/1993377, sbr. "491/1993":ekkitil/ekkitil.html?REGL/1993491 og "236/2000":ekkitil/ekkitil.html?REGL/2000236.
  ■ *23. gr.* Viðskiptaráðherra getur breytt fjárhæðum í lögum þessum eftir því sem verðlagsþróun gefur tilefni til.
 ■ *24. gr.* Eigi má með samningi víkja frá ákvæðum laga þessara né reglugerða, sem settar kunna að verða samkvæmt lögunum, neytanda í óhag.
 

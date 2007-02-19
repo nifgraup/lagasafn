@@ -137,10 +137,11 @@ h2. Lög um miðlun vátrygginga
  □ Viðskiptaráðherra getur sett nánari reglur um hæfisskilyrði starfsmanna vátryggingamiðlara, m.a. um lágmarksþekkingu.
 ■ *18. gr.* _Próf í miðlun vátrygginga._
  □ Prófnefnd hefur umsjón með prófi í miðlun vátrygginga sem að jafnaði skal haldið einu sinni á ári. Viðskiptaráðherra skipar þriggja manna prófnefnd til fjögurra ára í senn. Til að standa straum af kostnaði við framkvæmd prófa skulu próftakar greiða gjald sem ráðherra ákveður. Ákvarðanir prófnefndar eru endanlegar á stjórnsýslustigi.
- □ Prófnefnd er heimilt að fela óháðum aðilum að gefa einkunn fyrir prófúrlausn. Þá getur prófnefnd skipað prófdómara til að endurskoða úrlausn próftaka. Í reglugerð skal kveða nánar á um framkvæmd prófs, þar á meðal prófkröfur og prófsefnislýsingu, og heimildir til að veita undanþágur frá einstökum hlutum slíks prófs eða prófi í heild.
+ □ Prófnefnd er heimilt að fela óháðum aðilum að gefa einkunn fyrir prófúrlausn. Þá getur prófnefnd skipað prófdómara til að endurskoða úrlausn próftaka. Í reglugerð[^1)^] skal kveða nánar á um framkvæmd prófs, þar á meðal prófkröfur og prófsefnislýsingu, og heimildir til að veita undanþágur frá einstökum hlutum slíks prófs eða prófi í heild.
+    _[^1)^]_"Rg. 972/2006":ekkitil/ekkitil.html?REGL/2006972.
 
  *IV. kafli.* *Fjárhagslegar kröfur vátryggingamiðlara.*
-■ *19. gr.* _Fjárhagsleg staða. Áætlun._
+ ■ *19. gr.* _Fjárhagsleg staða. Áætlun._
  □ Vátryggingamiðlari skal á hverjum tíma geta staðið við fjárhagslegar skuldbindingar sínar. Ef líkur eru á því að vátryggingamiðlari eigi ekki fyrir fjárhagslegum skuldbindingum sínum skal hann gera Fjármálaeftirlitinu grein fyrir stöðu sinni og leggja fyrir það áætlun um endurreisn fjárhags. Fjármálaeftirlitið ákveður hvort þær ráðstafanir teljast fullnægjandi.
  □ Áætlun skv. 1. mgr. skal m.a. innihalda áætlaðan rekstrarkostnað, sundurliðaða áætlun um tekjur og gjöld og áætlaðan efnahagsreikning.
  □ Gefi ársreikningur vátryggingamiðlara Fjármálaeftirlitinu vísbendingu um að vátryggingamiðlari eigi ekki fyrir fjárhagslegum skuldbindingum getur Fjármálaeftirlitið gert vátryggingamiðlara að skila áætlun skv. 1. mgr.
@@ -148,13 +149,13 @@ h2. Lög um miðlun vátrygginga
 ■ *20. gr.* _Starfsábyrgðartrygging._
  □ Vátryggingamiðlurum er skylt að hafa í gildi ábyrgðartryggingu vegna fjárhagstjóns sem leitt getur af gáleysi í störfum þeirra eða starfsmanna þeirra. Slík trygging getur verið vátrygging tekin hjá vátryggingafélagi sem hefur starfsleyfi hér á landi eða önnur trygging jafngild að mati Fjármálaeftirlitsins. Nánari ákvæði um gildissvið vátryggingarinnar, þ.m.t. vátryggingarfjárhæðir, skal setja í reglugerð.[^1)^]
  □ Vátryggingamiðlari skal senda Fjármálaeftirlitinu staðfestingu á endurnýjun starfsábyrgðartryggingar.
-    _[^1)^]_"Rg. 592/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/592-2005.
+    _[^1)^]_"Rg. 592/2005":ekkitil/ekkitil.html?REGL/2005592.
  ■ *21. gr.* _Viðtaka fjármuna._
  □ Vátryggingamiðlari má ekki taka við iðgjöldum, vátryggingarbótum eða öðrum fjármunum fyrir hönd vátryggingafélags eða viðskiptamanns nema samkvæmt skriflegri heimild.
 ■ *22. gr.* _Vörslufjárreikningar._
  □ Vátryggingamiðlara er skylt að halda fjármunum sem hann tekur við í þágu annarra aðgreindum frá eigin fé. Skulu slíkir fjármunir varðveittir á sérstökum vörslufjárreikningi. Vextir, sem á vörslufé kunna að falla, renna til eiganda þess. Vátryggingamiðlari er ekki eigandi innstæðu á vörslufjárreikningi samkvæmt þessari grein og innstæðan er ekki hæft andlag aðfarargerða hjá honum og stendur utan skuldaraðar við skipti á búi hans.
  □ Viðskiptaráðherra setur nánari reglur[^1)^] um vörslufjárreikninga.
-    _[^1)^]_"Rg. 590/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2005.
+    _[^1)^]_"Rg. 590/2005":ekkitil/ekkitil.html?REGL/2005590.
 
  *V. kafli.* *Starfshættir vátryggingamiðlara.*
  ■ *23. gr.* _Yfirsýn yfir starfsemina og sérstakar ráðstafanir._
@@ -253,7 +254,7 @@ h2. Lög um miðlun vátrygginga
 ■ *44. gr.* _Vörslufjárreikningur._
  □ Vátryggingaumboðsmanni er skylt að halda fjármunum sem hann tekur við í þágu annarra aðgreindum frá eigin fé. Skulu slíkir fjármunir varðveittir á sérstökum vörslufjárreikningi. Vextir, sem á vörslufé kunna að falla, renna til eiganda þess. Vátryggingaumboðsmaður er ekki eigandi innstæðu á vörslufjárreikningi samkvæmt þessari grein og innstæðan er ekki hæft andlag aðfarargerða hjá honum og stendur utan skuldaraðar við skipti á búi hans.
  □ Viðskiptaráðherra setur nánari reglur[^1)^] um vörslufjárreikninga.
-    _[^1)^]_"Rg. 590/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2005.
+    _[^1)^]_"Rg. 590/2005":ekkitil/ekkitil.html?REGL/2005590.
 
  *X. kafli.* *Starfshættir vátryggingaumboðmanns.*
  ■ *45. gr.* _Yfirsýn yfir starfsemina og sérstakar ráðstafanir._
