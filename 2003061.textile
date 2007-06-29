@@ -7,7 +7,7 @@ h2. Hafnalög
 <hr />
 
 
- *Tóku gildi 1. júlí 2003.* _Breytt með_ "l. 11/2006":/altext/stjt/2006.011.html (tóku gildi 28. mars 2006).
+ *Tóku gildi 1. júlí 2003.* _Breytt með_ l. 11/2006 (tóku gildi 28. mars 2006) og l. 28/2007 (tóku gildi 29. mars 2007).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -36,9 +36,10 @@ h2. Hafnalög
 
  *II. kafli.* *Skipulag hafnarsvæða og hafnarmannvirki.*
  ■ *5. gr.* _Skipulag hafnarsvæðis og leyfi til mannvirkjagerðar._
- □ Skipulag hafnarsvæðis skal miðast við þarfir hafnar og er skylt að hafa samráð við hafnarstjórn og Siglingastofnun Íslands við gerð þess. Viðkomandi sveitarstjórn veitir framkvæmdaleyfi fyrir nýjum hafnarmannvirkjum.
+ □ [Skipulag hafnarsvæðis skal miðast við þarfir hafnar. Hafnarstjórn gerir tillögu um skipulag hafnarsvæðis til skipulagsnefndar eða sveitarstjórnar að höfðu samráði við Siglingastofnun Íslands um gerð þess. Viðkomandi sveitarstjórn veitir framkvæmdaleyfi fyrir nýjum hafnarmannvirkjum.][^1)^]
  □ Engin mannvirkjagerð má fara fram á hafnarsvæði nema með samþykki viðkomandi hafnarstjórnar. Ef leyfi til mannvirkjagerðar er eigi notað innan tveggja ára frá veitingu þess fellur það úr gildi.
-■ *6. gr.* _Lágmarkskröfur um hafnarmannvirki, slysavarnir og staðfesting á fjármögnun._
+    _[^1)^]L. 28/2007, 1. gr._
+ ■ *6. gr.* _Lágmarkskröfur um hafnarmannvirki, slysavarnir og staðfesting á fjármögnun._
  □ Öll mannvirkjagerð í höfnum skal vera í samræmi við gildandi skipulag fyrir viðkomandi sveitarfélag. Siglingastofnun Íslands skal fylgjast með að við hönnun og byggingu hafnarmannvirkja sé fylgt að minnsta kosti lágmarkskröfum um styrkleika mannvirkja og öryggi notenda hafnanna. Hafnir skulu tilkynna Siglingastofnun Íslands um fyrirhugaðar framkvæmdir og leggja fyrir stofnunina gögn um gerð mannvirkjanna til samþykktar áður en framkvæmdir eru hafnar. Siglingastofnun Íslands er heimilt að veita einstökum höfnum undanþágu frá þessu byggingareftirliti, enda geti þær sýnt fram á að starfsmenn þeirra hafi yfir nægri tækniþekkingu að ráða og fyrir hendi sé vel skilgreint innra eftirlit. Hafnir sem njóta opinberra framlaga til framkvæmda skulu að auki leggja fram staðfesta fjármögnun fyrirhugaðra framkvæmda til samþykktar Siglingastofnunar Íslands. Samgönguráðherra getur sett reglugerð[^1)^] er kveður á um lágmarkskröfur um hafnarmannvirki að fenginni tillögu Siglingastofnunar Íslands.
  □ Ráðherra skal setja reglur um slysavarnir í höfnum.
     _[^1)^]_"Rg. 326/2004":ekkitil/ekkitil.html?REGL/2004326.
@@ -54,14 +55,17 @@ h2. Hafnalög
 ■ *9. gr.* _Upplýsingar um hafnir._
  □ Hafnir skulu á hverjum tíma miðla upplýsingum um lengd, breidd og djúpristu þeirra skipa sem þær geta tekið á móti. Siglingastofnun Íslands skal starfrækja gagnagrunn á heimasíðu sinni þar sem þessar upplýsingar koma fram.
  □ Höfn sem nýtur ríkisstyrks er skylt að senda endurskoðaða ársreikninga sína árlega til Siglingastofnunar sem og aðrar upplýsingar sem Siglingastofnun kann að óska eftir og snerta rekstur hafnarinnar. Öðrum höfnum er skylt að veita Siglingastofnun þær upplýsingar sem hún óskar eftir og snerta rekstur hafnanna, enda séu þær nauðsynlegar vegna eftirlitshlutverks Siglingastofnunar samkvæmt lögunum. Þá er höfn skylt að veita Siglingastofnun upplýsingar um farþega og vörumagn sem um höfnina fer.
+ □ [Hafnir skulu birta gjaldskrár sínar með skýrum og aðgengilegum hætti, svo sem á netinu. Höfnum sem reknar eru skv. 1. og 2. tölul. 8. gr. er heimilt að birta gjaldskrár sínar í B-deild Stjórnartíðinda.][^1)^]
+    _[^1)^]L. 28/2007, 2. gr._
 
  *IV. kafli.* *Höfn án sérstakrar hafnarstjórnar í eigu sveitarfélags.*
-■ *10. gr.* _Stjórnun, rekstur og starfsheimildir._
+ ■ *10. gr.* _Stjórnun, rekstur og starfsheimildir._
  □ Höfn samkvæmt kafla þessum skal rekin sem sérstakur málaflokkur undir stjórn sveitarstjórnar í því sveitarfélagi þar sem höfnin er. Sveitarstjórn fer með stjórn hafnarinnar. Sveitarstjórn er heimilt að kjósa sérstaka hafnarnefnd.
  □ Hafnir samkvæmt þessum kafla hafa starfsheimildir í samræmi við 5. tölul. 3. gr.
 ■ *11. gr.* _Gjöld._
- □ Höfn samkvæmt kafla þessum er heimilt að innheimta gjöld skv. 17. gr. Notendur hafna geta krafið hafnarstjórn upplýsinga um kostnað við þjónustu og eðlilega sundurliðun gjalda.
-■ *12. gr.* _Breyting á rekstrarformi._
+ □ Höfn samkvæmt kafla þessum er heimilt að innheimta gjöld skv. 17. gr. [Notendur hafnar geta krafið hafnarstjórn upplýsinga um kostnað sem almennt hlýst af að veita viðkomandi þjónustu og eðlilega sundurliðun gjalda.][^1)^]
+    _[^1)^]L. 28/2007, 3. gr._
+ ■ *12. gr.* _Breyting á rekstrarformi._
  □ Sveitarstjórn getur ákveðið að breyta skuli rekstrarformi hafnar í höfn með hafnarstjórn í eigu sveitarfélags, sbr. 2. tölul. 8. gr., eða í félag, sbr. 3. tölul. 8. gr., og skal þá taka mið af hagrænu verðmæti hafnarmannvirkja, sbr. 1. mgr. 18. gr.
 
  *V. kafli.* *Höfn með hafnarstjórn í eigu sveitarfélags.*
@@ -75,26 +79,30 @@ h2. Hafnalög
 ■ *16. gr.* _Skattskylda, rekstur og endurskoðun._
  □ Tekjum og eignum hafnar sem rekin er skv. 1. og 2. tölul. 8. gr. má einungis verja í þágu hafnarinnar. Hafnarsjóðir skulu undanþegnir hvers konar sköttum af hafnarmannvirkjum. Eigendur hafnar bera ábyrgð á skuldbindingum hafnarsjóðs.
 ■ *17. gr.* _Gjöld._
- □ Heimilt er að innheimta eftirtalin gjöld fyrir rekstur hafna samkvæmt kafla þessum:
-    1. Skipagjöld á skip þau og báta er nota viðkomandi höfn; bryggjugjöld og lestargjöld sem eru miðuð við stærð skipa, dvalartíma á hafnarsvæðinu og veitta aðstöðu. Gjald þetta skal standa undir kostnaði við að reka, viðhalda og endurnýja viðlegumannvirki, dýpkanir og legu í höfn.
-    2. Vörugjöld af vörum sem umskipað er, lestaðar eru eða losaðar í höfn, þar á meðal aflagjald sem er vörugjald af sjávarafla sem lagður er á land á hafnarsvæðinu. Gjald þetta skal standa undir kostnaði af aðstöðu við bryggju og á hafnarbakka.
-    3. Farþegagjald og gjald fyrir bifreiðar sem ekið er um borð eða frá borði í ferju til þess að standa straum af kostnaði við aðstöðu og búnað fyrir farþega og bíla.
-    4. Leigugjald fyrir svæði til lestunar og losunar á vöru.
-    5. Gjald fyrir geymslu vöru á hafnarsvæði til að standa straum af kostnaði við rekstur vöruaðstöðu.
-    6. Leigugjöld fyrir afnot af mannvirkjum eða tækjum hafnarinnar, þ.m.t. upptökumannvirkjum og löndunarkrönum. Gjaldið skal standa undir kostnaði við rekstur, viðhald og endurnýjun mannvirkjanna.
-    7. Leyfisgjöld fyrir bryggjur og önnur mannvirki sem gerð hafa verið skv. 5. gr. Gjaldið skal standa straum af undirbúningskostnaði veittra leyfa.
-    8. Lóðargjöld og lóðarleigu.
-    9. Hafnsögugjöld sem skulu standa straum af kostnaði við hafnsöguþjónustu.
-    10. Gjöld fyrir þjónustu dráttarbáta sem skulu standa straum af kostnaði við rekstur dráttarbáta.
-    11. Festargjöld sem nota skal til að greiða kostnað við festarþjónustu sem höfnin veitir.
-    12. Gjöld fyrir sölu á vatni og rafmagni.
-    13. Sorpgjöld sem skulu standa straum af kostnaði við sorphirðu frá skipum og fyrirtækjum á hafnarsvæði.
-    14. Vigtargjald sem standa skal straum af kostnaði við rekstur, viðhald og endurnýjun hafnarvogar.
-    15. Umsýslugjald til þess að standa straum af kostnaði vegna umsýslu og yfirstjórnar, t.d. launum og skrifstofukostnaði.
+ □ [Höfnum er heimilt samkvæmt kafla þessum að innheimta eftirtalin gjöld sem renna til hvers kyns uppbyggingar hafna og reksturs þeirra, sbr. 5. tölul. 3. gr.:
+
+    1. Hafnargjald sem nánar sundurliðast á eftirfarandi hátt:
+    a. Skipagjöld sem skiptast í bryggjugjöld og lestargjöld og eru lögð á skip og báta er nota viðkomandi höfn og miðast við stærð skipa, dvalartíma á hafnarsvæðinu og veitta aðstöðu.
+    b. Vörugjöld, þ.m.t. aflagjald, af vörum sem umskipað er, lestaðar eru eða losaðar í höfn.
+    c. Hafnsögugjöld og gjöld fyrir þjónustu hafnarbáta.
+    d. Leigugjald fyrir svæði til lestunar og losunar á vöru.
+ Hafnargjald samkvæmt þessum tölulið skal standa undir kostnaði við að byggja, reka, viðhalda og endurnýja viðlegumannvirki, dýpkanir og legu í höfn, aðstöðu við bryggjur og á hafnarbakka, hafnarbáta og hafnsögu þar sem það á við. Skipstjóra, útgerðarmanni og eiganda skips ber að greiða til hafnar gjöld skv. a-, c- og d-lið en móttakandi vöru sem kemur til hafnar og sendandi vöru sem flutt er úr höfn greiða gjöld skv. b-lið. Ef margir eiga vörur sem fluttar eru með sama skipi skal farmflytjandi sjá um innheimtu á gjöldum skv. b-lið hjá sendanda og móttakanda, eftir því sem við á, og standa höfn skil á þeim.
+    2. Farþegagjald og gjald fyrir bifreiðar sem ekið er um borð eða frá borði í ferju og skal gjald þetta standa straum af kostnaði við uppbyggingu á aðstöðu og búnaði fyrir farþega og bifreiðar, sem og kostnaði við rekstur og viðhald.
+    3. Geymslugjald fyrir geymslu vöru og gáma innan húss á hafnarsvæði og skal gjald þetta standa straum af kostnaði við uppbyggingu, viðhald, endurnýjun og rekstur á geymsluaðstöðunni.
+    4. Leigugjald fyrir afnot af mannvirkjum eða tækjum hafnarinnar, þ.m.t. upptökumannvirkjum og löndunarkrönum. Gjaldið skal standa undir kostnaði við uppbyggingu, rekstur, viðhald og endurnýjun mannvirkjanna.
+    5. Leyfisgjald fyrir bryggjur og önnur mannvirki sem gerð hafa verið skv. 5. gr. Gjaldið skal standa straum af undirbúningskostnaði veittra leyfa.
+    6. Lóðargjald og lóðarleigu fyrir leigu á svæðum innan hafnarinnar.
+    7. Festargjald sem nota skal til að greiða kostnað við festarþjónustu sem höfnin veitir.
+    8. Gjöld fyrir endursölu á vatni og rafmagni og kostnaði er því fylgir.
+    9. Sorpgjöld sem skulu standa straum af kostnaði við sorphirðu frá skipum og fyrirtækjum á hafnarsvæði, sem og eyðingu sorpsins.
+    10. Vigtar- og skráningargjald sem skal standa straum af kostnaði við rekstur, viðhald og endurnýjun hafnarvogar.
+    11. Umsýslugjald til þess að standa straum af kostnaði við umsýslu og yfirstjórn, t.d. laun og skrifstofuhald. Heimilt er að láta umsýslugjaldið samkvæmt þessum tölulið vera innifalið í gjaldtöku skv. 1. - 10. tölul. með sérstöku álagi á viðkomandi gjald.][^1)^]
  □ Gjaldtaka hafnar skal miðuð við að hún standi undir kostnaði við þá þjónustu sem veitt er.
  □ Nú á annar aðili en hafnarsjóður viðlegumannvirki innan hafnarsvæðis og skal þá semja um hversu hátt gjald skal greiða til hafnar til þess að standa straum af sameiginlegum rekstri hennar.
  □ Höfn er heimilt að gera langtímasamning við notendur um gjöld skv. 1. og 2. tölul. 1. mgr. fyrir afnot af bryggjum.
-■ *18. gr.* _Breyting á rekstrarformi._
+ □ [Notendur hafnar geta krafið hafnarstjórn upplýsinga um kostnað sem almennt hlýst af að veita viðkomandi þjónustu og eðlilega sundurliðum gjalda.][^1)^]
+    _[^1)^]L. 28/2007, 4. gr._
+ ■ *18. gr.* _Breyting á rekstrarformi._
  □ Sveitarstjórn getur ákveðið að breyta skuli rekstrarformi hafnar í félag skv. 3. tölul. 8. gr. og skal þá taka mið af hagrænu verðmæti hafnarmannvirkja við eignfærslu þeirra í efnahagsreikning félagsins. Hafi viðkomandi mannvirki notið ríkisframlags skal leita samþykkis ráðherra fyrir framsali þeirra.
  □ Höfn getur samkvæmt ákvörðun sveitarstjórnar orðið að höfn án sérstakrar hafnarstjórnar í eigu sveitarfélags, sbr. 1. tölul. 8. gr.
  □ Rekstrarformi hafnar skal breytt í höfn í eigu sveitarfélags án sérstakrar hafnarstjórnar þegar hún hefur haft neikvæðan rekstrarafgang í þrjú ár í röð að teknu tilliti til vaxta, en fyrir afskriftir. Sveitarstjórn er þó heimilt með samþykki samgönguráðherra að veita aukið fjármagn til hafnar til þess að bæta eiginfjárstöðu hennar.
@@ -104,15 +112,21 @@ h2. Hafnalög
  □ Rekstrarform hafnar samkvæmt þessum kafla fer eftir ákvæðum 3. tölul. 8. gr. Stjórnir hlutafélaga og einkahlutafélaga fara með valdsvið hafnarstjórna. Höfn sem rekin er skv. 3. tölul. 8. gr. er aðeins heimilt að greiða arð til eigenda sinna eftir að fé hefur verið lagt til hliðar í fullnægjandi viðhald og endurnýjun hafnarinnar samkvæmt nánari ákvæðum í reglugerð hennar sem sett er skv. 4. gr.
 ■ *20. gr.* _Starfsheimildir og gjöld vegna reksturs hafnar._
  □ Höfn sem rekin er skv. 3. tölul. 8. gr. hefur starfsheimildir án takmarkana.
- □ Gjaldtaka hafnar samkvæmt þessum kafla skal miðuð við að hún standi undir kostnaði við þá þjónustu sem veitt er ásamt hlutdeild í sameiginlegum rekstri hafnarinnar. Notendur hafnar geta krafið hafnarstjórn upplýsinga um kostnað við þjónustu og eðlilega sundurliðun gjalda.
+ □ [Gjaldtaka hafnar samkvæmt þessum kafla skal miðuð við að hún standi undir kostnaði við þá þjónustu sem veitt er ásamt hlutdeild í sameiginlegum rekstri hafnarinnar, stofnkostnaði og kostnaði við viðhald hennar, auk þess sem heimilt er að taka tillit til arðsemi á endurmetnu eigin fé. Notendur hafnar geta krafið hafnarstjórn upplýsinga um kostnað sem almennt hlýst af að veita viðkomandi þjónustu og eðlilega sundurliðun gjalda.][^1)^]
+    _[^1)^]L. 28/2007, 5. gr._
 
  *VII. kafli.* *Móttökuskylda hafnar.*
-■ *21. gr.* _Móttökuskylda og ábyrgð eigenda skipa._
- □ Skylt er að taka á móti skipum í höfn eftir því sem rými og aðstaða leyfir. Hafnarstjórn er heimilt að synja skipi um aðgang að höfn ef mönnum og umhverfi er talin stafa hætta af komu þess til hafnar.
- □ Skipagjöld eru tryggð með lögveði í viðkomandi skipi eða vátryggingarfé. Gengur það veð í tvö ár fyrir samningsveðskuldum. Höfn er heimilt að krefjast frekari trygginga fyrir greiðslu hafnargjalda og fyrir förgunarkostnaði skips séu taldar verulegar líkur á að það lendi í reiðileysi innan hafnar. Höfn er heimilt að láta fjarlægja skip á kostnað eiganda þegar rými hafnarinnar er takmarkað. Ef skip, bátar, flutningatæki á landi eða annar búnaður er í hirðuleysi á hafnarsvæðinu og veldur óþrifnaði eða hættu getur hafnarstjóri fyrirskipað úrbætur innan ákveðins frests. Sé slíkum fyrirmælum ekki sinnt er heimilt að láta fjarlægja viðkomandi hlut á kostnað eiganda.
+ ■ *21. gr.* _Móttökuskylda og ábyrgð eigenda skipa._
+ □ [Skylt er að taka á móti skipum í höfn eftir því sem rými og aðstaða leyfir. Hafnarstjórn er þó heimilt að synja skipi um aðgang að höfn ef mönnum og umhverfi er talin stafa hætta af komu þess til hafnar. Höfn, sem telst neyðarhöfn í samræmi við áætlun um að liðsinna nauðstöddum skipum á hafsvæðum í lögsögu Íslands, sem Siglingastofnun Íslands gerir að höfðu samráði við viðkomandi höfn, Landhelgisgæslu Íslands og Umhverfisstofnun, er skylt að taka á móti skipum í sjávarháska eftir því sem nánar er kveðið á um í áætluninni. Ráðherra getur sett nánari ákvæði um áætlunina og neyðarhafnir í reglugerð.
+ □ Skipagjöld eru tryggð með lögveði í viðkomandi skipi eða vátryggingarfé. Gengur það veð í tvö ár fyrir samningsveðskuldum. Heimilt er að krefjast nauðungarsölu á skipum vegna vanefnda á skipagjöldum án undangengins dóms, sáttar eða fjárnáms og án þess að þörf sé á undangenginni áskorun til eiganda.
+ □ Höfn er heimilt að krefjast frekari trygginga fyrir greiðslu skipagjalda og fyrir kostnaði við að fjarlægja og/eða farga skipi séu taldar verulegar líkur á að það lendi í reiðileysi innan hafnar.
+ □ Eigandi eða umráðamaður skips, báts, flutningstækja á landi eða annars búnaðar á hafnarsvæði ber ábyrgð á að viðkomandi eign sé ávallt í lagi og valdi ekki óþrifnaði og/eða hættu á hafnarsvæðinu. Verði um slíkt að ræða, að mati hafnar, getur hún fyrirskipað að úrbætur skuli gerðar innan ákveðins frests. Sinni eigandi eða umráðamaður ekki slíkum fyrirmælum er höfn heimilt að láta fjarlægja hlutinn á kostnað og ábyrgð eiganda eða umráðamanns og færa hann í vörslur viðkomandi eða selja hlut á nauðungaruppboði án þess að þörf sé á undangenginni áskorun til eiganda eða umráðamanns.
+ □ Höfn skal birta auglýsingu um uppboð skv. 4. mgr. með mest fjögurra vikna og minnst viku fyrirvara í dagblaði eða á annan samsvarandi hátt. Jafnframt skal höfn tilkynna eiganda eða umráðamanni bréflega um fyrirhugað uppboð og hvar og hvenær það fer fram. Það stendur ekki í vegi fyrir nauðungarsölu þótt tilkynningu verði ekki við komið vegna þess að eigandi eða umráðamaður er ekki þekktur eða finnst ekki. Skipagjöld sem njóta lögveðsréttar greiðast af söluandvirði með forgangsrétti næst á eftir kostnaði við nauðungarsölu. Um úthlutun söluandvirðis og framkvæmd uppboðs fer að öðru leyti eftir ákvæðum laga um nauðungarsölu eftir því sem við á.
+ □ Vitji eigandi eða umráðamaður ekki þess sem afgangs er við nauðungarsölu skv. 4. mgr. eða ráðstöfun skv. 5. mgr. innan árs frá sölu eða ráðstöfunardegi rennur andvirðið í ríkissjóð.][^1)^]
+    _[^1)^]L. 28/2007, 6. gr._
 
  *VIII. kafli.* *Framlög ríkisins til hafnamála og framkvæmdir í höfnum.*
-■ *22. gr.* _Frumrannsóknir._
+ ■ *22. gr.* _Frumrannsóknir._
  □ Ríkissjóður greiðir allt að fullu kostnað við frumrannsóknir samkvæmt nánari ákvæðum í reglugerð.[^1)^] Siglingastofnun Íslands skal hafa umsjón með frumrannsóknum sem kostaðar eru af ríkissjóði og hafa samráð við viðkomandi hafnarstjórn þar sem við á.
     _[^1)^]_"Rg. 326/2004":ekkitil/ekkitil.html?REGL/2004326.
  ■ *23. gr.* _Samgönguáætlun._
@@ -136,12 +150,13 @@ h2. Hafnalög
  □ Hafnabótasjóði er heimilt að taka lán vegna starfsemi sinnar samkvæmt ákvörðun Alþingis hverju sinni. Hafnaráð ráðstafar fé Hafnabótasjóðs að fengnum tillögum Siglingastofnunar Íslands með samþykki ráðherra á eftirgreindan hátt:
     1. Fjármagnar framkvæmdir ríkisins samkvæmt samgönguáætlun sem samþykkt hefur verið á Alþingi.
     2. Hafnabótasjóði er heimilt að starfrækja þróunardeild hafna samkvæmt reglugerð sem ráðherra setur að fengnu sérstöku fjárframlagi samkvæmt samþykkt Alþingis. Markmið þróunardeildarinnar er að styðja minni hafnir á landsbyggðinni sem eru mikilvægar fyrir byggðarlagið og atvinnuuppbyggingu þess.
-    3. Hafnabótasjóði er heimilt að bæta tjón á hafnarmannvirkjum sem eru styrkhæf skv. a-lið og b-lið 2. mgr. 24. gr., þ.m.t. tjón sem ekki fæst að fullu bætt úr Viðlagasjóði eða vegna ákvæða IX. kafla siglingalaga um takmarkaða ábyrgð útgerðarmanna.
+    3. Hafnabótasjóði er heimilt að bæta tjón á hafnarmannvirkjum sem eru styrkhæf skv. a-lið og b-lið 2. mgr. 24. gr. [eða tjón á upptökumannvirkjum],[^1)^] þ.m.t. tjón sem ekki fæst að fullu bætt úr Viðlagasjóði eða vegna ákvæða IX. kafla siglingalaga um takmarkaða ábyrgð útgerðarmanna.
  □ Siglingastofnun Íslands annast vörslu, daglega afgreiðslu og bókhald Hafnabótasjóðs. Lánasýsla ríkisins veitir sjóðnum aðstoð við öflun lánsfjár.
  □ Heimilt er með samþykki ráðherra að fela lánastofnun umsýslu lána sjóðsins.
+    _[^1)^]L. 28/2007, 7. gr._
 
  *IX. kafli.* *Kæruheimild.*
-■ *27. gr.* _Kæruheimild._
+ ■ *27. gr.* _Kæruheimild._
  □ Notendum hafna er heimilt að skjóta ákvörðunum hafnarstjórna samkvæmt lögum þessum og reglugerðum settum samkvæmt þeim, öðrum en gjaldskrárákvörðunum, til Siglingastofnunar Íslands.
  □ Ákvörðunum Siglingastofnunar samkvæmt lögum þessum og reglugerðum settum samkvæmt þeim má skjóta til samgönguráðherra. Um málsmeðferð fer samkvæmt ákvæðum stjórnsýslulaga.
 
@@ -162,10 +177,13 @@ h2. Hafnalög
  ■ *II.* _Ríkisstyrkir._
  □ [Þrátt fyrir 24. gr. þessara laga er ríkissjóði heimilt að styrkja framkvæmdir í höfnum, sbr. ákvæði um greiðsluþátttöku í eldri "hafnalögum, nr. 23/1994":1994023.html, með síðari breytingum, til ársloka 2008. Þetta á við um framkvæmdir sem skilgreindar eru í siglingamálakafla samgönguáætlunar 2005 - 2008 og þær framkvæmdir sem koma inn í siglingamálakafla samgönguáætlunar 2007 - 2010 vegna endurskoðunar á áformum samgönguyfirvalda um að hafnir skuli jafnsettar á aðlögunartíma nýrra hafnalaga.
  □ Þrátt fyrir 26. gr. þessara laga er Hafnabótasjóði heimilt að veita styrk skv. 3. tölul. 1. mgr. "28. gr. laga nr. 23/1994":1994023.html fram til 1. janúar 2009.][^1)^]
-    _[^1)^]"L. 11/2006, 1. gr.":/altext/stjt/2006.011.html_
+    _[^1)^]L. 11/2006, 1. gr._
  ■ *III.* _Sérstakt vörugjald._
  □ Innheimt skal sérstakt vörugjald fram til júníloka 2004 sem renna skal í ríkissjóð. Gjaldið skal vera sem svarar 25% álagi á vörugjöld, önnur en aflagjöld, eins og þau verða ákveðin í gjaldskrá samkvæmt ákvæði til bráðabirgða I.
  ■ *IV.* _Endurskoðunarnefnd._
- □ Ráðherra skal í síðasta lagi að þremur árum liðnum frá gildistöku laganna, en fyrr ef nauðsyn krefur, skipa sérstaka endurskoðunarnefnd sem hafi það hlutverk að meta hvernig til hafi tekist við framkvæmd laganna og gera tillögur til ráðherra um nauðsynlegar breytingar ef við á. Nefndin skal sérstaklega kanna hvort töluleg viðmið 24. gr. þurfi breytinga við í ljósi reynslunnar. Þá skal nefndin kanna hvort og að hvaða marki raunveruleg samkeppni ríki á milli hafna og jafnframt hvort ástæða sé til þess að skilgreina og skilja á milli hafna í samkeppni og hafna sem eru það ekki. Nefndin skal sérstaklega skoða hag þeirra hafna sem teljast mikilvægar í samgöngukerfi landsins og koma með tillögur til úrbóta ef þörf krefur. Jafnframt ber nefndinni að skoða sérstaklega stöðu skuldugustu hafnanna og koma með tillögur til úrbóta telji hún ástæðu til.
+ □ [Ráðherra skal í síðasta lagi árið 2010, eða fyrr ef nauðsyn krefur, skipa sérstaka skoðunarnefnd sem hafi það hlutverk að meta hvort töluleg viðmið 24. gr. þurfi breytinga við í ljósi reynslunnar.][^1)^]
+    _[^1)^]L. 28/2007, 8. gr._
+ ■ *[V.* Þrátt fyrir ákvæði 1. málsl. 3. mgr. 18. gr. skal ekki gripið til aðgerða á grundvelli þessa ákvæðis fyrr en 1. janúar 2012.][^1)^]
+    _[^1)^]L. 28/2007, 9. gr._
 
 

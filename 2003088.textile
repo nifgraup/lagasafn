@@ -7,7 +7,7 @@ h2. Lög um Ábyrgðasjóð launa
 <hr />
 
 
- *Tóku gildi 10. apríl 2003, sjá þó 28. gr.* _EES-samningurinn:_ XVIII. viðauki tilskipun 80/987/EBE. _Breytt með_ "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005), "l. 131/2005":/altext/stjt/2005.131.html (tóku gildi 1. jan. 2006) og "l. 167/2006":/altext/stjt/2006.167.html (tóku gildi 1. jan. 2007).
+ *Tóku gildi 10. apríl 2003, sjá þó 28. gr.* _EES-samningurinn:_ XVIII. viðauki tilskipun 80/987/EBE. _Breytt með_ l. 129/2004 (tóku gildi 31. des. 2005), l. 131/2005 (tóku gildi 1. jan. 2006) og l. 167/2006 (tóku gildi 1. jan. 2007).
 
 
  *I. kafli.* *Markmið og gildissvið.*
@@ -33,7 +33,7 @@ h2. Lög um Ábyrgðasjóð launa
     c. Kröfu um orlofslaun sem réttur hefur unnist til á ábyrgðartímabili, sbr. 4. gr.
     d. Kröfu lífeyrissjóðs um lífeyrisiðgjöld sem fallið hafa í gjalddaga á ábyrgðartímabili, sbr. 4. gr. Ábyrgðin takmarkast við [12%][^1)^] lágmarksiðgjald og allt að 4% af iðgjaldsstofni samkvæmt samningi um viðbótartryggingavernd, sbr. "2":1997129.html#g2. og "9. gr. laga um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða, nr. 129/1997":1997129.html#g9, og ákvæði í kjarasamningum. Ráðherra skal í reglugerð kveða nánar á um skilyrði fyrir ábyrgð sjóðsins á iðgjöldum, þar á meðal um eftirlit með skilum og innheimtu þeirra.
     e. Kröfu launamanns um bætur vegna tjóns af völdum vinnuslyss og kröfu þess sem tilkall á til bóta vegna dauðsfalls launamanns, enda taki tryggingar vinnuveitanda ekki til bótakröfunnar.
-    _[^1)^]_"L. 167/2006, 14. gr.":/altext/stjt/2006.167.html
+    _[^1)^]L. 167/2006, 14. gr._
  ■ *6. gr.* _Hámark ábyrgðar._
  □ Hámarksábyrgð á kröfum launamanna skv. a- og b-lið 5. gr. skal vera 250.000 kr. miðað við hvern mánuð. Hámarksábyrgð á kröfum skv. c-lið 5. gr. skal vera 400.000 kr. Fjárhæðir þessar skulu endurskoðaðar árlega með reglugerð[^1)^] sem ráðherra setur að fengnum tillögum stjórnar Ábyrgðasjóðs launa.
  □ Greiðslur vinnuveitanda upp í kröfur skv. 5. gr. sem hann innir af hendi fyrir uppkvaðningu úrskurðar um gjaldþrotaskipti skulu koma til frádráttar hámarksábyrgð sjóðsins eða þeirri fjárhæð sem nýtur ábyrgðar sé hún lægri. Með sama hætti skulu atvinnuleysisbætur og atvinnutekjur í uppsagnarfresti koma til frádráttar kröfum skv. b-lið 5. gr. Skal greiðsla sjóðsins til launamanns nema þeirri fjárhæð sem eftir stendur.
@@ -84,7 +84,7 @@ h2. Lög um Ábyrgðasjóð launa
  □ Félagsmálaráðuneytið skal leitast við að kveða upp úrskurð innan tveggja mánaða frá því að ráðuneytinu berst mál til úrskurðar.
  □ Að öðru leyti fer um málsmeðferð samkvæmt ákvæðum stjórnsýslulaga.
  □ Ákvæði þetta skerðir ekki rétt aðila til að höfða mál fyrir dómstólum.][^1)^]
-    _[^1)^]_"L. 131/2005, 1. gr.":/altext/stjt/2005.131.html
+    _[^1)^]L. 131/2005, 1. gr._
  ■ *17. gr.* _Innlausn kröfu og fyrirsvar._
  □ Frá því að skiptastjóra berst tilkynning Ábyrgðasjóðs launa skv. 15. gr. fer sjóðurinn með fyrirsvar fyrir kröfunni gagnvart búi vinnuveitanda að því leyti sem hann leysir kröfuna til sín. Nýtur krafa sjóðsins sömu stöðu í skuldaröð í búinu og hún hefði ella notið.
  □ Sá sem gerir kröfu á hendur Ábyrgðasjóði launa á grundvelli laga þessara má ekki aðhafast neitt það sem rýrt gæti endurkröfurétt sjóðsins á hendur búi vinnuveitanda. Er honum óheimilt að samþykkja, án sérstaks leyfis stjórnar sjóðsins, að kröfur fái komist að við gjaldþrotaskipti sem ekki hefur verið lýst fyrir lok kröfulýsingarfrests. Brjóti kröfuhafi eða umboðsmaður hans gegn þessu ákvæði hefur það í för með sér að ábyrgð samkvæmt lögum þessum fellur niður.
@@ -115,7 +115,7 @@ h2. Lög um Ábyrgðasjóð launa
  □ Ábyrgðargjald telst rekstrarkostnaður skv. 1. tölul. 31. gr. ["laga nr. 90/2003":2003090.html, um tekjuskatt],[^2)^] að því leyti sem það er ákvarðað af launum sem teljast rekstrarkostnaður samkvæmt sömu grein.
  □ Kostnaður af rekstri Ábyrgðasjóðs launa greiðist af tekjum hans.
  □ Ársreikningur sjóðsins skal endurskoðaður af Ríkisendurskoðun.
-    _[^1)^]_"L. 131/2005, 2. gr.":/altext/stjt/2005.131.html [^2)^]"L. 129/2004, 147. gr.":/altext/stjt/2004.129.html
+    _[^1)^]L. 131/2005, 2. gr._ [^2)^]L. 129/2004, 147. gr.
 
  *IX. kafli.* *Ýmis ákvæði.*
  ■ *24. gr.* _Framsal._

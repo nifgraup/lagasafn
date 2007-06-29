@@ -7,7 +7,7 @@ h2. Sjómannalög
 <hr />
 
 
- *Tóku gildi 1. júlí 1985.* _Breytt með_ "l. 53/1990":/altext/stjt/1990.053.html (tóku gildi 31. maí 1990), "l. 92/1991":/altext/stjt/1991.092.html (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992), "l. 50/1993":1993050.html (tóku gildi 1. júlí 1993), "l. 7/1996":/altext/stjt/1996.007.html (tóku gildi 1. okt. 1996), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), 31/2003 (tóku gildi skv. fyrirmælum í 4. gr.; _EES-samningurinn:_ XVIII. viðauki tilskipun 93/104/EB og 1999/63/EB) og "l. 59/2003":/altext/stjt/2003.059.html (tóku gildi 7. apríl 2003).
+ *Tóku gildi 1. júlí 1985.* _Breytt með_ l. 53/1990 (tóku gildi 31. maí 1990), l. 92/1991 (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992), "l. 50/1993":1993050.html (tóku gildi 1. júlí 1993), l. 7/1996 (tóku gildi 1. okt. 1996), l. 82/1998 (tóku gildi 1. okt. 1998), 31/2003 (tóku gildi skv. fyrirmælum í 4. gr.; _EES-samningurinn:_ XVIII. viðauki tilskipun 93/104/EB og 1999/63/EB) og l. 59/2003 (tóku gildi 7. apríl 2003).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -57,7 +57,7 @@ h2. Sjómannalög
  □ [Eigi má hafa yngri mann, karl eða konu, en 15 ára við vinnu á skipi nema um skólaskip eða æfingaskip sé að ræða. Samgönguráðherra getur sett reglur um hærra aldurslágmark skipverja við tiltekin störf allt upp að 18 ára aldri.
  □ Eigi má hafa yngri mann, karl eða konu, en 18 ára við vinnu á farþegaskipum og flutningaskipum að nóttu til, þ.e. tímabil sem varir í a.m.k. níu samfelldar klukkustundir, þ.m.t. tímabilið frá miðnætti til klukkan fimm að morgni. Þetta á þó ekki við ef um er að ræða menntun og þjálfun ungra sjómanna 16 - 18 ára að því er varðar fyrirframákveðin verkefni og áætlanir.][^1)^]
  □ ...[^1)^]
-    _[^1)^]_"L. 31/2003, 1. gr.":/altext/stjt/2003.031.html
+    _[^1)^]L. 31/2003, 1. gr._
  _2. Um ráðningartímann._
  ■ *9. gr.* Sé eigi á annan veg samið skal uppsagnarfrestur á skiprúmssamningum vera einn mánuður nema á íslenskum fiskiskipum sjö dagar. Uppsagnarfrestur er gagnkvæmur.
  □ Uppsagnarfrestur á skiprúmssamningi yfirmanns skal vera þrír mánuðir nema um annað hafi sérstaklega verið samið og á það einnig við um skipverja sem starfað hefur sem afleysingamaður í yfirmannsstöðu í níu mánuði samfleytt hjá sama útgerðarmanni.
@@ -117,7 +117,7 @@ h2. Sjómannalög
 ■ *26. gr.* Farist skip eða verði það fyrir sjótjóni og sé dæmt óbætandi eða verði af óviðráðanlegum ástæðum tekið úr þjónustu útgerðarmanns um ófyrirsjáanlegan tíma, þó ekki skemmri tíma en þrjá mánuði, er skiprúmssamningi slitið nema öðruvísi sé um samið. Skipverja er þó skylt að taka þátt í björguninni og að vera viðstaddur er sjóferðaskýrsla er tekin og á hann rétt á kaupi og dvalarkostnaði þann tíma er hann þarf að bíða á staðnum þess vegna eða hann þarf að bíða eftir ferð heimleiðis.
  □ Ef skiprúmssamningi er slitið af þeim sökum sem segir í 1. mgr. á skipverji rétt á ferðakostnaði, nauðsynlegum klæðnaði og fæðispeningum til heimilis síns og greiðir ríkissjóður þann kostnað.
  □ [Verði skiprúmssamningi slitið af þeim ástæðum sem greinir í 1. mgr. á skipverji rétt til launa á meðan hann er atvinnulaus af þessum sökum, þó ekki lengur en í tvo mánuði frá ráðningarslitum ef hann er stýrimaður, vélstjóri eða bryti, en í einn mánuð frá sama tíma ef hann gegnir annarri stöðu á skipi.][^1)^]
-    _[^1)^]_"L. 59/2003, 1. gr.":/altext/stjt/2003.059.html
+    _[^1)^]L. 59/2003, 1. gr._
  _5. Um kaup skipverja._
  ■ *27. gr.* Skipverji tekur kaup frá og með þeim degi sem hann kemur til vinnu á skipinu. Þurfi hann að ferðast frá ráðningarstað til skips tekur hann kaup frá og með þeim degi er sú ferð hefst.
  □ Skipverji tekur kaup til þess dags og að honum meðtöldum er ráðningu hans lýkur samkvæmt ráðningar- eða kjarasamningi og skiptir þá ekki máli þótt hann hafi áður verið afskráður. Um vinnu skipverja fer sem segir í kjarasamningum og lögum þessum.
@@ -229,9 +229,9 @@ h2. Sjómannalög
  □ Ákvæði 1. mgr. eiga einnig við ef kvörtun, sem þar segir, er borin fram af yfirvélstjóra eða fyrsta stýrimanni og hún lýtur að þeim hluta skips, áhalda þess eða útbúnaðar er viðkomandi yfirmaður hefur umsjón með.
  □ Komi fram við skoðunina að umkvartanir um óhaffæri skipsins höfðu eigi við skynsamleg rök að styðjast skulu þeir sem kærðu greiða kostnaðinn við skoðunina og skaðabætur svo sem segir í 60. gr.
  □ Ef skoðunargerð fer fram erlendis samkvæmt grein þessari skal ræðismaður sá, er málið hefur haft með höndum, en ella skipstjóri, tafarlaust senda [Siglingastofnun Íslands][^1)^] skýrslu um skoðunina.
-    _[^1)^]_"L. 7/1996, 16. gr.":/altext/stjt/1996.007.html
+    _[^1)^]L. 7/1996, 16. gr._
  _8. [Vinnu- og hvíldartími skipverja á fiskiskipum.][^1)^]_
-    _[^1)^]"L. 31/2003, 2. gr.":/altext/stjt/2003.031.html_
+    _[^1)^]L. 31/2003, 2. gr._
  ■ *64. gr.* [Sérhver skipverji skal eiga rétt á nægilegri hvíld og skal hámarksfjöldi vinnustunda á viku takmarkaður við 48 klukkustundir að meðaltali reiknað yfir viðmiðunartímabil sem ekki er lengra en 12 mánuðir.
  □ Miða skal við að mörk vinnu- eða hvíldartíma séu annaðhvort:
     1. hámarksvinnutími sem ekki má vera lengri en 14 klukkustundir á hverju 24 klukkustunda tímabili og 72 klukkustundir á hverju 7 daga tímabili, eða
@@ -239,7 +239,7 @@ h2. Sjómannalög
  □ Heimilt er með reglugerð eða í kjarasamningum að víkja frá ákvæðum 1. og 2. mgr. vegna hlutlægra eða tæknilegra ástæðna eða ástæðna er varða skipulag vinnunnar enda sé slíkt í samræmi við almennar meginreglur um verndun öryggis og heilbrigðis sjómanna.
  □ Skipstjóri á fiskiskipi getur ávallt krafist þess að skipverji vinni þann fjölda vinnustunda sem nauðsynlegur er fyrir öryggi skipsins, allra um borð, farms og annarra fjármuna sem á skipi eru eða til að koma til hjálpar öðrum skipum eða mönnum í sjávarháska.
  □ Samgönguráðherra getur sett reglugerð[^1)^] um vinnu- og hvíldartíma sjómanna á fiskiskipum.][^2)^]
-    _[^1)^]_"Rg. 975/2004":ekkitil/ekkitil.html?REGL/2004975. [^2)^]"L. 31/2003, 2. gr.":/altext/stjt/2003.031.html
+    _[^1)^]_"Rg. 975/2004":ekkitil/ekkitil.html?REGL/2004975. [^2)^]L. 31/2003, 2. gr.
  ■ *65. gr.* Á sunnudögum eða öðrum helgidögum, sem lögteknir eru hér á landi, má eigi setja skipverja til vinnu við þau störf sem fresta má.
  □ Skipverjum skal, ef þess er kostur, gefið tækifæri til að halda guðsþjónustu á skipinu á helgidögum þessum.
  _9. Landgönguleyfi skipverja._
@@ -265,7 +265,7 @@ h2. Sjómannalög
  *IV. kafli.* *Ágreiningur út af starfsskyldum eða réttarstöðu sjómanna.*
 ■ *72. gr.* Samgönguráðherra er heimilt að koma á fót föstum gerðardómi[^1)^] er skipaður sé einum eða fleiri óvilhöllum mönnum sem dæmi um ágreining út af reikningsgerð úgerðarmanns eða skipstjóra eða um ágreining sem rís af starfi skipverja ef báðir (eða allir) málsaðilar óska þess og verður þá úrskurður gerðardómsins um efnisatriði máls bindandi fyrir báða aðila eftir sömu reglum og almennt gilda um gerðardóma. Kostnaður við störf gerðardómsins greiðist úr ríkissjóði. Ef þinghöld fara fram utan Reykjavíkur skal [héraðsdómurum][^2)^] á hverjum stað skylt að aðstoða gerðardóminn varðandi aðstöðu til þinghalds, eftir því sem unnt er. Samgönguráðherra getur sett nánari reglur um starfsemi gerðardómsins og um kostnað við málsmeðferð.
  □ Ef skip er statt erlendis og ágreiningur rís út af reikningsgerð skipstjóra eða útgerðarmanns eða út af starfi skipverja má leggja þann ágreining undir úrskurð þess ræðismanns íslensks sem fyrst næst til. Er báðum aðilum þá skylt að hlíta úrskurði ræðismannsins þar til íslenskur dómstóll eða gerðardómur samkvæmt 1. mgr. hefur lagt dóm á málið.
-    _[^1)^]_"Rg. 384/1991":ekkitil/ekkitil.html?REGL/1991384. [^2)^]"L. 92/1991, 83. gr.":/altext/stjt/1991.092.html
+    _[^1)^]_"Rg. 384/1991":ekkitil/ekkitil.html?REGL/1991384. [^2)^]L. 92/1991, 83. gr.
 
  *V. kafli.* *Um brot á lögum þessum og um refsingar.*
  _1. Almenn ákvæði._
@@ -274,14 +274,14 @@ h2. Sjómannalög
  ■ *74. gr.* [Yfirsjónir þær, sem ræðir um í 1. mgr. 80. gr., skulu eigi sæta opinberri málssókn nema skipstjóri eða útgerðarmaður krefjist þess.][^1)^] Krafa um málssókn skal gerð svo fljótt sem unnt er og í síðasta lagi áður en ár er liðið frá því að yfirsjónin var drýgð.
  □ Mál út af brotum gegn 76., 77., 79. og 85. gr. skulu lögð fyrir samgönguráðuneytið til umsagnar áður en málshöfðun er ákveðin. Sé um algeran skiptapa að ræða, hafi skip steytt á grunni og orðið að leita hjálpar annarra eða hafi annað sjóslys orðið er manntjón hlaust af eða annað verulegt tjón má eigi fella niður málssókn fyrr en leitað hefur verið umsagnar samgönguráðuneytisins.
  □ Um rannsókn og málsmeðferð út af brotum samkvæmt ákvæðum þessa kafla fer annars að hætti opinberra mála.
-    _[^1)^]_"L. 53/1990, 1. gr.":/altext/stjt/1990.053.html
+    _[^1)^]L. 53/1990, 1. gr._
  ■ *75. gr.* Skipstjóri eða sá, sem kemur í hans stað, framkvæmir ef nauðsyn ber til og eftir því sem við verður komið frumrannsókn á meintum brotum skipverja. Ef unnt er skulu tveir óvilhallir vottar vera viðstaddir rannsóknina og sé annar þeirra úr hópi yfirmanna. Skyldir eru skipverjar að aðstoða skipstjóra við rannsókn þessa.
  □ Við rannsóknina skal yfirheyra skipverja þann er fyrir sök er hafður, svo og vitni þau er með þarf til sönnunar í málinu, en einnig skulu önnur sönnunargögn könnuð eftir því sem ástæða þykir til og er þá einnig heimilt að leggja hald á muni ef óhjákvæmilegt er vegna sönnunar. Rannsóknarvottar geta látið skipstjóra leggja spurningar fyrir þá sem yfirheyrðir eru.
  □ Framburður hinna yfirheyrðu skal ritaður í leiðarbók skipsins eða dagbók eða í sérstaka prófbók og skal lesa það sem bókað var upp fyrir þeim sem hlut eiga að máli. Skipstjóri og vottarnir staðfesta með undirskrift sinni að rétt sé bókað og geta vottarnir látið bóka þær athugasemdir er þeim þykir rannsóknin gefa tilefni til.
  □ Er íslensk rannsóknaryfirvöld eða erlend rannsóknaryfirvöld, sem til þess hafa lögsögu og heimild, æskja þess skal skipstjóra skylt að leggja fram þær prófanir sem um getur í 1. - 3. mgr. og veita aðra aðstoð við framhaldsrannsókn málsins.
  _2. Refsiákvæði._
 ■ *76. gr.* Ef skipstjóri misbeitir agavaldi sínu eða beiti hann ónauðsynlegri harðneskju við skipverja, vanræki skyldur sínar við veika eða slasaða skipverja eða láti hann skipverja eigi fá lögboðið viðurværi varðar það sektum, [fangelsi allt að tveimur árum eða fangelsi allt að fjórum árum ef miklar sakir eru].[^1)^]
-    _[^1)^]_"L. 82/1998, 176. gr.":/altext/stjt/1998.082.html
+    _[^1)^]L. 82/1998, 176. gr._
  ■ *77. gr.* Í refsidómi samkvæmt 76. gr. má enn fremur, ef sérstaklega miklar sakir eru, ákveða að dómfelldi skuli sviptur rétti til skipstjórnar ákveðinn tíma eða ævilangt. Skal þá jafnframt tekið fram í dóminum hvort dómfelldi megi gegna stýrimannsstöðu meðan hann er sviptur skipstjóraréttindum.
  □ Dómstóll sá, er dæmir slíkan dóm, skal, svo fljótt sem unnt er, senda samgönguráðuneytinu eftirrit af dóminum, svo og skipstjóraskírteini dómfellda. Ef dómurinn heimilar dómfellda að gegna stýrimannsstöðu lætur ráðuneytið honum í té stýrimannsskírteini þar að lútandi.
  □ Þegar tvö ár að minnsta kosti eru liðin frá dómsuppsögn og sérstakar ástæður mæla með því getur samgönguráðherra veitt dómfellda aftur rétt til skipstjórnar enda þótt sá tími, sem tilgreindur er í dóminum, sé eigi liðinn.
@@ -290,23 +290,23 @@ h2. Sjómannalög
 ■ *80. gr.* Ef skipverji annaðhvort vanrækir að koma til skips á ákveðnum tíma eða hverfur frá skipi í þeim tilgangi að koma sér hjá vinnu skal hann sæta sektum.
  □ Strjúki skipverji eða fari frá skipi þegar svo er ástatt að skipi eða mönnum er með því stefnt í voða eða séu að öðru leyti miklar sakir getur refsingin orðið ...[^1)^] fangelsi allt að einu ári.
  □ Strjúki skipverji með kaup er hann hefur eigi unnið fyrir skal honum refsað fyrir svik hvort sem hann er kominn í skiprúmið eða eigi nema ætla megi að tilgangur hans hafi eigi verið sá að draga sér kaup það sem hann hafði fengið greitt en hafði eigi enn unnið fyrir.
-    _[^1)^]_"L. 82/1998, 176. gr.":/altext/stjt/1998.082.html
+    _[^1)^]L. 82/1998, 176. gr._
  ■ *81. gr.* ...[^1)^]
-    _[^1)^]_"L. 53/1990, 2. gr.":/altext/stjt/1990.053.html
+    _[^1)^]L. 53/1990, 2. gr._
  ■ *82. gr.* Ef skipverji ræðst á skipstjóra eða annan yfirmann með ofbeldi eða hótunum um ofbeldi varðar það [fangelsi allt að einu ári][^1)^] eða fangelsi allt að tveimur árum ef miklar sakir eru. Séu málsbætur má beita sektum.
-    _[^1)^]_"L. 82/1998, 176. gr.":/altext/stjt/1998.082.html
+    _[^1)^]L. 82/1998, 176. gr._
  ■ *83. gr.* Ef skipverjar eða nokkur hluti þeirra gerir samblástur þá varðar það [fangelsi allt að tveimur árum][^1)^] eða sektum ef málsbætur eru. Þó getur refsing hvatamanns eða foringja samblástursins orðið fangelsi allt að 6 árum, svo og refsing annarra samblástursmanna, ef þeir hafa beitt líkamlegu ofbeldi eða mikið fjártjón hefur hlotist af samblæstrinum.
-    _[^1)^]_"L. 82/1998, 176. gr.":/altext/stjt/1998.082.html
+    _[^1)^]L. 82/1998, 176. gr._
  ■ *84. gr.* Ef skipverjar krefjast skoðunargerðar á skipi samkvæmt 63. gr. og það reynist við skoðunargerðina að engin skynsamleg rök voru til að telja skipið óhaffært varðar það sektum.
 ■ *85. gr.* Verði skipverji valdur að sjóslysi með hirðuleysi sínu, óvarkárni eða vanrækslu á skyldustörfum sínum varðar það sektum [eða fangelsi allt að fjórum árum].[^1)^]
  □ Sé hinn seki stýrimaður eða vélstjóri má enn fremur ákveða í dóminum að hann skuli sviptur rétti til stýrimennsku eða vélstjórnar um ákveðinn tíma eða ævilangt. Í dóminum má þó heimila honum að gegna lægri stýrimanns- eða vélstjórastöðu en þeirri er hann áður hafði þann tíma sem tiltekinn er í dóminum. Um eftirrit af dóminum og um atvinnuskírteini dómfellda fer svo sem segir í 77. gr.
  □ Þegar eitt ár að minnsta kosti er liðið frá dómsuppsögn getur samgönguráðherra, ef ástæða þykir til þess, veitt stýrimanni eða vélstjóra, sem sviptur hefur verið rétti til stýrimennsku eða vélstjórnar, heimild til að gegna nánar tiltekinni lægri stýrimanns- eða vélstjórastöðu eða jafnvel, ef sérstakar ástæður mæla með því, veitt honum aftur að fullu atvinnuréttindi þau er hann var sviptur, hvort tveggja enda þótt sá tími, sem til var greindur í dóminum, sé eigi liðinn.
  □ Ákvæði 2. og 3. mgr. eiga einnig eftir atvikum við um aðra yfirmenn.
-    _[^1)^]_"L. 82/1998, 176. gr.":/altext/stjt/1998.082.html
+    _[^1)^]L. 82/1998, 176. gr._
  ■ *86. gr.* Hafi skipverji óleyfilegan varning með sér á skip og skipi eða farmi stendur háski eða áhætta af varningi þessum þá varðar það sektum eða [fangelsi allt að tveimur árum][^1)^] ef sakir eru miklar.
-    _[^1)^]_"L. 82/1998, 176. gr.":/altext/stjt/1998.082.html
+    _[^1)^]L. 82/1998, 176. gr._
  ■ *87. gr.* Verði sjómaður, sem ákvæði þessara laga taka til, sekur um yfirsjón í skyldustörfum sínum með öðrum hætti en áður var sagt eða raski hann góðri háttsemi eða reglu varðar það sektum eða [fangelsi allt að tveimur árum][^1)^] ef sakir eru miklar.
-    _[^1)^]_"L. 82/1998, 176. gr.":/altext/stjt/1998.082.html
+    _[^1)^]L. 82/1998, 176. gr._
  ■ *88. gr.* Sektir samkvæmt lögum þessum renna í ríkissjóð.
 
  *VI. kafli.* *Gildistaka o.fl.*

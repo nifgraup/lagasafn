@@ -7,7 +7,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
 <hr />
 
 
- *Tóku gildi 1. júlí 2003.* _EES-samningurinn:_ IX. viðauki tilskipun 85/611/EBE. _Breytt með_ "l. 108/2006":/altext/stjt/2006.108.html (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006)
+ *Tóku gildi 1. júlí 2003.* _EES-samningurinn:_ IX. viðauki tilskipun 85/611/EBE. _Breytt með_ l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006) og l. 55/2007 (tóku gildi 3. apríl 2007).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -215,7 +215,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  □ Fjármálaeftirlitið getur hafnað því að verðbréfasjóður skv. 1. mgr. hefji markaðssetningu hér á landi ef hann uppfyllir ekki þau skilyrði sem gerð eru til verðbréfasjóða samkvæmt lögum þessum og reglum settum samkvæmt þeim eða markaðssetningin stríðir að öðru leyti gegn ákvæðum laga. Fjármálaeftirlitið skal rökstyðja synjun skriflega til verðbréfasjóðsins áður en frestur skv. 1. mgr. rennur út.
  □ Fjármálaeftirlitið gengur úr skugga um eftirlit með verðbréfasjóðnum í heimaríkinu, starfsheimildir þess og starfsemi.
  □ Breytingar á áður tilkynntum atriðum samkvæmt þessari grein skulu þegar tilkynntar Fjármálaeftirlitinu.
-    _[^1)^]_"L. 108/2006, 87. gr.":/altext/stjt/2006.108.html
+    _[^1)^]L. 108/2006, 87. gr._
  ■ *44. gr.* _Heimild til að banna starfsemi erlendra verðbréfasjóða._
  □ Fjármálaeftirlitinu er heimilt að banna erlendum verðbréfasjóði að markaðssetja skírteini sín hér á landi hafi hlutaðeigandi verðbréfasjóður brotið gróflega eða ítrekað gegn ákvæðum laga þessara eða reglum settum samkvæmt þeim eða gegn ákvæðum annarra laga um fjármálafyrirtæki, enda hafi ekki tekist að binda enda á framangreind brot samkvæmt tilmælum eða viðurlögum þessara laga.
 ■ *45. gr.* _Markaðssetning íslenskra verðbréfasjóða utan Íslands._
@@ -333,40 +333,80 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
     _[^1)^]_"Rg. 792/2003":ekkitil/ekkitil.html?REGL/2003792.
 
  *V. kafli.* *Viðurlög.*
- ■ *68. gr.* _Sektir._
- □ Það varðar sektum liggi þyngri refsing ekki við broti samkvæmt öðrum lögum að brjóta gegn ákvæðum laga þessara um:
-    1. einkarétt verðbréfasjóða til að nota til nánari skýringar á starfsemi sinni orðið verðbréfasjóður (11. gr.),
-    2. útvistun verkefna rekstrarfélags verðbréfasjóðs (1. mgr. 18. gr.),
-    3. markaðssetningu íslenskra verðbréfasjóða utan Íslands (45. gr.),
-    4. upplýsingagjöf verðbréfasjóða (II. kafli H),
-    5. einkarétt fjárfestingarsjóða til að nota til nánari skýringar á starfsemi sinni orðið fjárfestingarsjóður (2. mgr. 52. gr. og 3. mgr. 62. gr.),
-    6. útvistun verkefna rekstrarfélags fjárfestingarsjóðs (1. mgr. 52. gr., sbr. 1. mgr. 18. gr.),
-    7. upplýsingagjöf fjárfestingarsjóða (1. mgr. 52. gr., sbr. II. kafla H, og 5. mgr. 62. gr.),
-    8. tilkynningu um áhættu (55. gr. og 65. gr.) og
-    9. virka eignarhluta (2. mgr. 63. gr., sbr. 1. mgr. 40. gr., 47. gr. og 1. mgr. 48. gr. laga um fjármálafyrirtæki).
-■ *69. gr.* _Sektir eða fangelsi._
- □ Það varðar sektum eða fangelsi allt að einu ári liggi þyngri refsing ekki við broti samkvæmt öðrum lögum að brjóta gegn ákvæðum laga þessara um:
-    1. að leyfisskyld starfsemi skuli ekki stunduð án staðfestingar eða starfsleyfis (3. mgr. 1. gr.),
-    2. breytingu á verðbréfasjóðum í sjóði sem lögin taka ekki til (2. mgr. 5. gr.),
-    3. óhæði rekstrarfélaga og vörslufyrirtækja verðbréfasjóða í störfum sínum og skyldu þeirra til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi (2. mgr. 15. gr.),
-    4. starfsemi vörslufyrirtækis verðbréfasjóða (20. gr.),
-    5. fjárfestingarheimildir verðbréfasjóða (II. kafli F),
-    6. [markaðssetningu verðbréfasjóða hér á landi með staðfestu í öðru ríki innan Evrópska efnahagssvæðisins, í Sviss eða Færeyjum (1. mgr. 43. gr.)],[^1)^]
-    7. breytingu á fjárfestingarsjóðum í sjóði sem lögin taka ekki til (1. mgr. 52. gr., sbr. 2. mgr. 5. gr.),
-    8. óhæði rekstrarfélaga og vörslufyrirtækja fjárfestingarsjóða í störfum sínum og skyldu þeirra til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi (1. mgr. 52. gr., sbr. 2. mgr. 15. gr.),
-    9. starfsemi vörslufyrirtækis fjárfestingarsjóða (1. mgr. 52. gr., sbr. 20. gr.),
-    10. fjárfestingarheimildir fjárfestingarsjóða (54. gr. og 65. gr.) og
-    11. þagnarskyldu (1. mgr. 63. gr., sbr. 58. gr. laga um fjármálafyrirtæki).
- □ Hver sá sem vísvitandi gefur rangar eða villandi upplýsingar um hagi verðbréfasjóðs eða fjárfestingarsjóðs eða annað er þá varðar opinberlega eða til Fjármálaeftirlitsins, annarra opinberra aðila eða viðskiptamanna sinna skal sæta sektum eða fangelsi allt að einu ári, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum.
-    _[^1)^]_"L. 108/2006, 88. gr.":/altext/stjt/2006.108.html
- ■ *70. gr.* _Refsiábyrgð lögaðila. Tilraun og hlutdeild. Fyrning sakar._
- □ Nú er brot framið í starfsemi fjárfestingarsjóðs sem gefur út hlutabréf og er þá heimilt að gera fjárfestingarsjóðnum fésekt. Um refsiábyrgðina fer eftir II. kafla A almennra hegningarlaga.
- □ Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð eftir því sem segir í almennum hegningarlögum.
- □ Brot á lögum þessum varða refsingu hvort sem þau eru framin af ásetningi eða gáleysi.
- □ Sök samkvæmt ákvæðum þessa kafla fyrnist á fimm árum.
+ ■ *68. gr.* _[Stjórnvaldssektir._
+ □ Fjármálaeftirlitið getur lagt stjórnvaldssektir á hvern þann sem brýtur gegn:
+    1. 3. mgr. 1. gr. og 3. málsl. 1. mgr. 5. gr. um að leyfisskyld starfsemi skuli ekki stunduð án staðfestingar eða starfsleyfis,
+    2. 1. mgr. 4. gr. um stofnun fagfjárfestasjóða og tilkynningu um stofnun sjóðanna til Fjármálaeftirlitsins,
+    3. 2. mgr. 5. gr. um bann við því að breyta verðbréfasjóðum í sjóði sem lög þessi taka ekki til,
+    4. 11. gr. um einkarétt verðbréfasjóða til að nota til nánari skýringar á starfsemi sinni orðið verðbréfasjóður,
+    5. 15. gr. um aðskilnað reksturs og vörslu og óhæði rekstrarfélaga og vörslufyrirtækja verðbréfasjóða og skyldu þeirra til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi,
+    6. 1. mgr. 18. gr. um útvistun verkefna rekstrarfélags verðbréfasjóðs,
+    7. 20. gr. um starfsemi vörslufyrirtækis verðbréfasjóða,
+    8. 29. gr. um auglýsingu innlausnarvirðis,
+    9. 30. - 42. gr. um fjárfestingarheimildir verðbréfasjóða,
+    10. 1. mgr. 43. gr. um markaðssetningu verðbréfasjóðs með staðfestu innan Evrópska efnahagssvæðisins hér á landi,
+    11. 45. gr. um markaðssetningu íslenskra verðbréfasjóða utan Íslands,
+    12. 46. - 51. gr. um upplýsingagjöf verðbréfasjóða,
+    13. 2. málsl. 1. mgr. 52. gr., sbr. 2. mgr. 5. gr., um breytingu á fjárfestingarsjóðum í sjóði sem lög þessi taka ekki til,
+    14. 2. málsl. 1. mgr. 52. gr., sbr. 2. mgr. 15. gr., um óhæði rekstrarfélaga og vörslufyrirtækja fjárfestingarsjóða í störfum sínum og skyldu þeirra til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi,
+    15. 2. málsl. 1. mgr. 52. gr., sbr. 1. mgr. 18. gr., um útvistun verkefna rekstrarfélags fjárfestingarsjóðs,
+    16. 2. málsl. 1. mgr. 52. gr., sbr. 20. gr., um starfsemi vörslufyrirtækis fjárfestingarsjóða,
+    17. 2. málsl. 1. mgr. 52. gr., sbr. 46. - 51. gr. og 5. mgr. 62. gr. um upplýsingagjöf fjárfestingarsjóða,
+    18. 2. mgr. 52. gr. og 3. mgr. 62. gr. um einkarétt fjárfestingarsjóða til að nota til nánari skýringar á starfsemi sinni orðið fjárfestingarsjóður,
+    19. 54. og 65. gr. um fjárfestingarheimildir fjárfestingarsjóða,
+    20. 55. og 65. gr. um tilkynningu um áhættu,
+    21. 1. mgr. 62. gr. um að hlutabréfasjóðum sé einungis heimilt að hafa með höndum rekstur fjárfestingarsjóðs,
+    22. 7. mgr. 62. gr. um skyldu hlutabréfasjóðs til að vekja athygli á reglum um innlausnarskyldu sjóðsins,
+    23. 1. mgr. 63. gr., sbr. 58. gr. laga um fjármálafyrirtæki, um þagnarskyldu,
+    24. 2. mgr. 63. gr., sbr. 1. mgr. 40. gr., 47. gr. og 1. mgr. 48. gr. laga um fjármálafyrirtæki, um virka eignarhluti,
+    25. 3. mgr. 63. gr. um að framkvæmdastjóri hlutabréfasjóðs skuli hafa lokið prófi í verðbréfaviðskiptum,
+    26. sátt milli Fjármálaeftirlitsins og aðila, sbr. 69. gr.
+ □ Þá getur Fjármálaeftirlitið lagt stjórnvaldssektir á hvern þann sem brýtur gróflega eða ítrekað gegn 19. gr. um góða viðskiptahætti eða 2. mgr. 62. gr. um að hlutabréfasjóður skuli rekinn í samræmi við góða viðskiptahætti.
+ □ Sektir sem lagðar eru á einstaklinga geta numið frá 10 þús. kr. til 20 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 50 þús. kr. til 50 millj. kr. Við ákvörðun sekta skal m.a. tekið tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila og hvort um ítrekað brot er að ræða. Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar. Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
+ □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.][^1)^]
+    _[^1)^]L. 55/2007, 14. gr._
+ ■ *69. gr.* [Hafi aðili gerst brotlegur við ákvæði laga þessara eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur um framkvæmd ákvæðisins.][^1)^]
+    _[^1)^]L. 55/2007, 15. gr._
+ ■ *70. gr.* [Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.][^1)^]
+    _[^1)^]L. 55/2007, 16. gr._
+ ■ *[70. gr. a.* Heimild Fjármálaeftirlitsins til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar fimm ár eru liðin frá því að háttsemi lauk.
+ □ Frestur skv. 1. mgr. rofnar þegar Fjármálaeftirlitið tilkynnir aðila um upphaf rannsóknar á meintu broti. Rof frests hefur réttaráhrif gagnvart öllum sem staðið hafa að broti.][^1)^]
+    _[^1)^]L. 55/2007, 17. gr._
+ ■ *[70. gr. b.* _Sektir eða fangelsi._
+ □ Það varðar sektum eða fangelsi allt að tveimur árum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn ákvæðum:
+    1. 3. mgr. 1. gr. og 3. málsl. 1. mgr. 5. gr. um að leyfisskyld starfsemi skuli ekki stunduð án staðfestingar eða starfsleyfis,
+    2. 2. mgr. 5. gr. um bann við því að breyta verðbréfasjóðum í sjóði sem lög þessi taka ekki til,
+    3. 15. gr. um aðskilnað reksturs og vörslu og óhæði rekstrarfélaga og vörslufyrirtækja verðbréfasjóða og skyldu þeirra til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi,
+    4. 1. mgr. 18. gr. um útvistun verkefna rekstrarfélags verðbréfasjóðs,
+    5. 20. gr. um starfsemi vörslufyrirtækis verðbréfasjóða,
+    6. 30. - 42. gr. um fjárfestingarheimildir verðbréfasjóða,
+    7. 1. mgr. 43. gr. um markaðssetningu verðbréfasjóðs með staðfestu innan Evrópska efnahagssvæðisins hér á landi,
+    8. 46. - 51. gr. um upplýsingagjöf verðbréfasjóða,
+    9. 2. málsl. 1. mgr. 52. gr., sbr. 2. mgr. 5. gr., um breytingu á fjárfestingarsjóðum í sjóði sem lögin taka ekki til,
+    10. 2. málsl. 1. mgr. 52. gr., sbr. 2. mgr. 15. gr., um óhæði rekstrarfélaga og vörslufyrirtækja fjárfestingarsjóða í störfum sínum og skyldu þeirra til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi,
+    11. 2. málsl. 1. mgr. 52. gr., sbr. 1. mgr. 18. gr., um útvistun verkefna rekstrarfélags fjárfestingarsjóðs,
+    12. 2. málsl. 1. mgr. 52. gr., sbr. 20. gr., um starfsemi vörslufyrirtækis fjárfestingarsjóða,
+    13. 2. málsl. 1. mgr. 52. gr., sbr. 46. - 51. gr. og 5. mgr. 62. gr. um upplýsingagjöf fjárfestingarsjóða,
+    14. 54. og 65. gr. um fjárfestingarheimildir fjárfestingarsjóða,
+    15. 55. og 65. gr. um tilkynningu um áhættu,
+    16. 1. mgr. 62. gr. um að hlutabréfasjóðum sé einungis heimilt að hafa með höndum rekstur fjárfestingarsjóðs,
+    17. 1. mgr. 63. gr., sbr. 58. gr. laga um fjármálafyrirtæki, um þagnarskyldu,
+    18. 2. mgr. 63. gr., sbr. 1. mgr. 40. gr., 47. gr. og 1. mgr. 48. gr. laga um fjármálafyrirtæki, um virka eignarhluti.][^1)^]
+    _[^1)^]L. 55/2007, 17. gr._
+ ■ *[70. gr. c.* Brot gegn lögum þessum er varða sektum eða fangelsi varða refsingu hvort sem þau eru framin af ásetningi eða gáleysi.
+ □ Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotist hefur af broti gegn ákvæðum laga þessara er varða sektum eða fangelsi.
+ □ Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð eftir því sem segir í almennum hegningarlögum.][^1)^]
+    _[^1)^]L. 55/2007, 17. gr._
+ ■ *[70. gr. d.* Brot gegn lögum þessum sæta aðeins opinberri rannsókn að undangenginni kæru Fjármálaeftirlitsins til lögreglu.
+ □ Varði meint brot á lögum þessum bæði stjórnvaldssektum og refsingu metur Fjármálaeftirlitið hvort mál skuli kært til lögreglu eða því lokið með stjórnvaldsákvörðun hjá stofnuninni. Ef brot eru meiri háttar ber Fjármálaeftirlitinu að vísa þeim til lögreglu. Brot telst meiri háttar ef það lýtur að verulegum fjárhæðum, ef verknaður er framinn með sérstaklega vítaverðum hætti eða við aðstæður sem auka mjög á saknæmi brotsins. Jafnframt getur Fjármálaeftirlitið á hvaða stigi rannsóknar sem er vísað máli vegna brota á lögum þessum til opinberrar rannsóknar. Gæta skal samræmis við úrlausn sambærilegra mála.
+ □ Með kæru Fjármálaeftirlitsins skulu fylgja afrit þeirra gagna sem grunur um brot er studdur við. Ákvæði IV. - VII. kafla stjórnsýslulaga gilda ekki um ákvörðun Fjármálaeftirlitsins um að kæra mál til lögreglu.
+ □ Fjármálaeftirlitinu er heimilt að láta lögreglu og ákæruvaldi í té upplýsingar og gögn sem stofnunin hefur aflað og tengjast þeim brotum sem tilgreind eru í 2. mgr. Fjármálaeftirlitinu er heimilt að taka þátt í aðgerðum lögreglu sem varða rannsókn þeirra brota sem tilgreind eru í 2. mgr.
+ □ Lögreglu og ákæruvaldi er heimilt að láta Fjármálaeftirlitinu í té upplýsingar og gögn sem hún hefur aflað og tengjast þeim brotum sem tilgreind eru í 2. mgr. Lögreglu er heimilt að taka þátt í aðgerðum Fjármálaeftirlitsins sem varða rannsókn þeirra brota sem tilgreind eru í 2. mgr.
+ □ Telji ákærandi að ekki séu efni til málshöfðunar vegna ætlaðrar refsiverðrar háttsemi sem jafnframt varðar stjórnsýsluviðurlögum getur hann sent eða endursent málið til Fjármálaeftirlitsins til meðferðar og ákvörðunar.][^1)^]
+    _[^1)^]L. 55/2007, 17. gr._
 
  *VI. kafli.* *Gildistaka o.fl.*
-■ *71. gr.* Lög þessi öðlast gildi 1. júlí 2003. ...
+ ■ *71. gr.* Lög þessi öðlast gildi 1. júlí 2003. ...
 ■ *72. gr.* Með lögum þessum eru tekin upp ákvæði tilskipunar Evrópuþingsins og ráðsins nr. 85/611/EBE um sameiginlega fjárfestingu í framseljanlegum verðbréfum, með síðari breytingum.
 
  *Ákvæði til bráðabirgða.*

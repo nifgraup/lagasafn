@@ -7,7 +7,7 @@ h2. Lög um Stjórnarráð Íslands
 <hr />
 
 
- *Tóku gildi 1. janúar 1970.* _Breytt með_ "l. 12/1986":1986012.html (tóku gildi 1. jan. 1987), "l. 3/1990":/altext/stjt/1990.003.html (tóku gildi 23. febr. 1990), "l. 14/1991":/altext/stjt/1991.014.html (tóku gildi 4. apríl 1991), "l. 83/1997":/altext/stjt/1997.083.html (tóku gildi 6. júní 1997) og "l. 121/1999":/altext/stjt/1999.121.html (tóku gildi 30. des. 1999).
+ *Tóku gildi 1. janúar 1970.* _Breytt með_ "l. 12/1986":1986012.html (tóku gildi 1. jan. 1987), l. 3/1990 (tóku gildi 23. febr. 1990), l. 14/1991 (tóku gildi 4. apríl 1991), l. 83/1997 (tóku gildi 6. júní 1997) og l. 121/1999 (tóku gildi 30. des. 1999).
 
 
  *I. kafli.*
@@ -18,21 +18,21 @@ h2. Lög um Stjórnarráð Íslands
  □ Forsætisráðherra stjórnar ráðherrafundum.
 ■ *3. gr.* [Forsætisráðherra felur starfsmanni forsætisráðuneytis að gegna störfum ritara ráðherrafunda.][^1)^]
  □ Ritari skráir fundargerð ráðherrafundar í gerðabók, er ráðherrar hafa staðfest fundargerðina.
-    _[^1)^]_"L. 83/1997, 1. gr.":/altext/stjt/1997.083.html
+    _[^1)^]L. 83/1997, 1. gr._
  ■ *4. gr.* Stjórnarráð Íslands greinist í ráðuneyti, og skulu þau vera þessi: Forsætisráðuneyti, dóms- og kirkjumálaráðuneyti, félagsmálaráðuneyti, fjármálaráðuneyti, Hagstofa Íslands, heilbrigðis- og tryggingarmálaráðuneyti, iðnaðarráðuneyti, landbúnaðarráðuneyti, menntamálaráðuneyti, samgönguráðuneyti, sjávarútvegsráðuneyti, [umhverfisráðuneyti],[^1)^] utanríkisráðuneyti og viðskiptaráðuneyti.
  □ Ráðuneyti má eigi á stofn setja né af leggja nema með lögum.
-    _[^1)^]_"L. 3/1990, 1. gr.":/altext/stjt/1990.003.html
+    _[^1)^]L. 3/1990, 1. gr._
  ■ *5. gr.* Þegar skipt er störfum með ráðherrum, skal hvert ráðuneyti óskipt lagt til eins og sama ráðherra.
 ■ *6. gr.* ...[^1)^]
-    _[^1)^]_"L. 14/1991, 1. gr.":/altext/stjt/1991.014.html
+    _[^1)^]L. 14/1991, 1. gr._
  ■ *7. gr.* [Ráðherra kveður á[^1)^] um skiptingu ráðuneytis í skrifstofur og starfsdeildir eftir verkefnum.][^2)^]
-    _[^1)^]_"Augl. 251/2006":ekkitil/ekkitil.html?AUGL/2006251 (um skipulag menntamálaráðuneytisins). [^2)^]"L. 83/1997, 2. gr.":/altext/stjt/1997.083.html
+    _[^1)^]_"Augl. 181/2007":ekkitil/ekkitil.html?AUGL/2007181 (um skipulag menntamálaráðuneytisins). [^2)^]L. 83/1997, 2. gr.
  ■ *8. gr.* Stjórnarmálefni ber undir ráðuneyti eftir ákvæðum reglugerðar,[^1)^] er forseti Íslands setur samkvæmt tillögum forsætisráðherra, enda sé þess jafnan gætt, að ráðuneyti lúti málefni, sem eðli sínu samkvæmt eiga þar heima, sbr. 4. gr.
  □ Nú þykir vafi á leika, undir hvert ráðuneyti málefni heyri, og sker forsætisráðherra þá úr.
     _[^1)^]_"Rg. A 3/2004":ekkitil/ekkitil.html?REGL/A/2004003, sbr. "rg. A 118/2006":ekkitil/ekkitil.html?REGL/A/2006118, "rg. A 123/2006":ekkitil/ekkitil.html?REGL/A/2006123 og "rg. A 125/2006":ekkitil/ekkitil.html?REGL/A/2006125.
  ■ *9. gr.* Ráðuneyti hefur eftirlit með starfrækslu stofnana, sem undir það ber, og eignum á vegum þeirra stofnana.
  □ [Ráðherra kveður á um aðsetur stofnunar sem undir hann heyrir, nema á annan veg sé mælt í lögum.][^1)^]
-    _[^1)^]_"L. 121/1999, 1. gr.":/altext/stjt/1999.121.html
+    _[^1)^]L. 121/1999, 1. gr._
 
  *II. kafli.*
  ■ *10. gr.* Ráðuneytisstjórar og hagstofustjóri stýra ráðuneytum undir yfirstjórn ráðherra.
@@ -40,21 +40,21 @@ h2. Lög um Stjórnarráð Íslands
  □ Ráðuneytisstjóri forsætisráðuneytis skal jafnframt því embætti sínu gegna störfum ritara ríkisráðs Íslands.
  □ Heimilt er forsætisráðherra að kveða á um, að ráðuneytisstjóri veiti fleiri en einu ráðuneyti forstöðu og að fleiri en eitt ráðuneyti hafi, eftir því sem við verður komið, sameiginlegt starfslið og húsnæði.
  □ Slíka skipan sem í 5. mgr.[^2)^] greinir getur forsætisráðherra afnumið, er nauðsyn krefur, og þá jafnframt ákveðið, hverju þeirra ráðuneyta, sem um er að tefla, ráðuneytisstjóri skuli áfram stýra.
-    _[^1)^]_"L. 14/1991, 2. gr.":/altext/stjt/1991.014.html [^2)^]Hér er vísað til 3. mgr.
+    _[^1)^]L. 14/1991, 2. gr._ [^2)^]Hér er vísað til 3. mgr.
  ■ *11. gr.* [Skrifstofu ráðuneytis stýrir skrifstofustjóri og starfsdeild deildarstjóri undir umsjón ráðuneytisstjóra.][^1)^]
  □ ...[^1)^]
  □ [Nú er starfsmaður ráðuneytis ráðinn deildarstjóri og þarf þá eigi að auglýsa stöðuna sem hann er fluttur í.][^1)^]
  □ Ráðherra setur deildarstjórum og skrifstofustjórum erindisbréf, þar sem meðal annars skal kveðið á um starfssvið þeirra og starfsskyldur.
-    _[^1)^]_"L. 83/1997, 3. gr.":/altext/stjt/1997.083.html
+    _[^1)^]L. 83/1997, 3. gr._
  ■ *12. gr.* Auk ráðuneytisstjóra, skrifstofustjóra og deildarstjóra eru starfsmenn ráðuneyta fulltrúar, bókarar og ritarar eftir ákvörðun ráðherra. [Heimilt er þó ráðherra að ráða starfsmenn í ráðuneyti undir öðrum starfsheitum.][^1)^]
-    _[^1)^]_"L. 83/1997, 4. gr.":/altext/stjt/1997.083.html
+    _[^1)^]L. 83/1997, 4. gr._
  ■ *13. gr.* [Ráðherra skipar ráðuneytisstjóra og skrifstofustjóra til fimm ára í senn.
  □ Aðrir starfsmenn ráðuneytis eru ráðnir.][^1)^]
-    _[^1)^]_"L. 83/1997, 5. gr.":/altext/stjt/1997.083.html
+    _[^1)^]L. 83/1997, 5. gr._
  ■ *14. gr.* Ráðherra er heimilt að kveðja sér til aðstoðar, meðan hann gegnir embætti, mann utan ráðuneytis, sem starfi þar sem [skrifstofustjóri],[^1)^] enda hverfi hann úr starfi jafnskjótt sem ráðherra, en njóti þá launa þrjá mánuði, hafi hann ekki áður verið ríkisstarfsmaður, en ella eigi hann rétt á að hverfa til fyrra starfs síns eða annars starfs eigi lakara að föstum launum í þjónustu ríkisins.
-    _[^1)^]_"L. 83/1997, 6. gr.":/altext/stjt/1997.083.html
+    _[^1)^]L. 83/1997, 6. gr._
  ■ *15. gr.* Með úrskurði forseta Íslands má samkvæmt tillögum forsætisráðherra setja nánari ákvæði um framkvæmd laga þessara.
  ■ *[Ákvæði til bráðabirgða.* ...][^1)^]
-    _[^1)^]_"L. 3/1990, brbákv.":/altext/stjt/1990.003.html
+    _[^1)^]L. 3/1990, brbákv._
 
 

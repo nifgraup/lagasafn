@@ -6,13 +6,13 @@ h2. Lög um skráningu og mat fasteigna
 
 <hr />
 
-*Upphaflega "l. 94/1976":1976094.html. Tóku gildi 23. júlí 1976. Endurútgefin, sbr. "17. gr. l. 47/2000":/altext/stjt/2000.047.html, sem "l. 6/2001":2001006.html.* _Breytt með_ "l. 61/2001":/altext/stjt/2001.061.html (tóku gildi 13. júní 2001), "l. 139/2004":/altext/stjt/2004.139.html (tóku gildi 1. jan. 2005), "l. 50/2006":/altext/stjt/2006.050.html (tóku gildi 1. júlí 2006) og "l. 178/2006":/altext/stjt/2006.178.html (tóku gildi 1. jan. 2007).
+*Upphaflega "l. 94/1976":1976094.html. Tóku gildi 23. júlí 1976. Endurútgefin, sbr. 17. gr. l. 47/2000, sem "l. 6/2001":2001006.html.* _Breytt með_ l. 61/2001 (tóku gildi 13. júní 2001), l. 139/2004 (tóku gildi 1. jan. 2005), l. 50/2006 (tóku gildi 1. júlí 2006) og l. 178/2006 (tóku gildi 1. jan. 2007).
 
 
  *I. kafli.* *Markmið, skilgreiningar og söfnun skráningaratriða.*
  ■ *1. gr.* Fasteignamat ríkisins annast fasteignaskráningu samkvæmt lögum þessum og rekstur gagna- og upplýsingakerfis er nefnist Landskrá fasteigna sem er á tölvutæku formi.
  □ Í Landskrá fasteigna skal skrá allar fasteignir í landinu og er hún grundvöllur skráningar fasteigna, þinglýsingabókar fasteigna, mats fasteigna og húsaskrár [Þjóðskrár][^1)^] og þannig úr garði gerð að hún nýtist sem stoðgagn í landupplýsingakerfum.
-    _[^1)^]_"L. 50/2006, 24. gr.":/altext/stjt/2006.050.html
+    _[^1)^]L. 50/2006, 24. gr._
  ■ *2. gr.* Hverja fasteign skal meta til verðs eftir því sem næst verður komist á hverjum tíma og nánar er kveðið á um í lögum þessum.
 ■ *3. gr.* Fasteign samkvæmt lögum þessum er afmarkaður hluti lands, ásamt lífrænum og ólífrænum hlutum þess, réttindum sem því fylgja og þeim mannvirkjum sem varanlega eru við landið skeytt.
  □ Fasteignir, hluta þeirra og einstök mannvirki skal skrá sem sérstakar eindir í Landskrá fasteigna svo sem hér segir:
@@ -53,9 +53,9 @@ h2. Lög um skráningu og mat fasteigna
     3. _Fastanúmer,_ sem er auðkenni eignarhluta í mannvirki eða mannvirkja í heild sinni, ásamt lóðarréttindum.
  □ Auk fasteignanúmers ber hver fasteign heiti samkvæmt ákvörðun sveitarstjórnar eða samkvæmt lögum um bæjanöfn o.fl.
  □ Ráðherra er heimilt að setja nánari reglur um heiti fasteigna, annarra en þeirra sem falla undir lög um bæjanöfn o.fl.][^1)^]
-    _[^1)^]_"L. 139/2004, 1. gr.":/altext/stjt/2004.139.html
+    _[^1)^]L. 139/2004, 1. gr._
  ■ *13. gr.* ...[^1)^]
-    _[^1)^]_"L. 139/2004, 2. gr.":/altext/stjt/2004.139.html
+    _[^1)^]L. 139/2004, 2. gr._
  ■ *14. gr.* Eigandi skal gefa út stofnskjal fyrir hverja lóð eða heildarsafn lóða sem myndaðar eru í Landskrá fasteigna. Í stofnskjali skal koma fram:
     a. heiti landeignar samkvæmt ákvörðun sveitarfélags eða lögum um bæjanöfn, eftir því sem við á,
     b. landnúmer lóðar, eitt eða fleiri,
@@ -69,7 +69,7 @@ h2. Lög um skráningu og mat fasteigna
 ■ *16. gr.* Sveitarstjórn skal tilkynna Fasteignamati ríkisins um breytingar á heiti fasteignar. Fasteignamat ríkisins skal framsenda viðkomandi þinglýsingarstjóra tilkynningu sveitarfélags.
  □ Breyting skv. 1. mgr. tekur gildi í Landskrá fasteigna við staðfestingu þinglýsingarstjóra og skal Fasteignamat ríkisins tilkynna hana til [Þjóðskrár][^1)^] að staðfestingu lokinni.
  □ Í Landskrá fasteigna skal halda ferilskrá yfir breytingar á fasteignum þar sem fyrri heiti og auðkenni og tengsl þeirra við gildandi heiti og auðkenni eru varðveitt.
-    _[^1)^]_"L. 50/2006, 24. gr.":/altext/stjt/2006.050.html
+    _[^1)^]L. 50/2006, 24. gr._
  ■ *17. gr.* Landeiganda er skylt að þinglýsa stofnskjali er ný fasteign verður til við skiptingu lands.
  □ Áður en heimild er veitt til veðsetningar eða mannvirkjagerðar á leigulóð eða landi í eigu sveitarfélags skal sveitarstjórn hlutast til um að fasteign verði skráð með þinglýsingu stofnskjals.
  □ Áður en heimild er veitt til mannvirkjagerðar á eignarlóð skal sveitarstjórn hlutast til um að fasteign verði skráð með þinglýsingu stofnskjals.
@@ -124,15 +124,15 @@ h2. Lög um skráningu og mat fasteigna
 ■ *30. gr.* Fasteignamat ríkisins skal hlutast til um að allar nýjar eða breyttar eignir, sem upplýsingar berast um skv. 19. gr., skuli metnar frummati innan tveggja mánaða frá því að upplýsingar um þær bárust Fasteignamati ríkisins nema sérstakar ástæður hamli.
  □ Fasteignamati ríkisins er heimilt að höfðu samráði við hlutaðeigandi stjórnvöld að meta ásláttarmati eignir sem eru þess eðlis að venjulegt mat er erfitt og/eða þjónar ekki opinberum hagsmunum.
  □ [Nýtt matsverð skal þegar skrá í Landskrá fasteigna og gildir það með þeim almennu breytingum sem á því geta orðið eða þar til því er hrundið með nýju mati.][^1)^]
-    _[^1)^]_"L. 139/2004, 3. gr.":/altext/stjt/2004.139.html
+    _[^1)^]L. 139/2004, 3. gr._
  ■ *31. gr.* Aðili, sem verulega hagsmuni getur átt í matsverði eignar og sættir sig ekki við skráð mat skv. 29. og 30. gr., getur krafist nýs úrskurðar Fasteignamats ríkisins um matið. Krafa um endurmat skal vera skrifleg og studd rökum og nauðsynlegum gögnum.
  □ [Fasteignamat ríkisins getur að eigin frumkvæði endurmetið einstakar eignir í því skyni að tryggja samræmt mat hliðstæðra eigna.
  □ Berist beiðni um endurmat fasteignar frá öðrum en eiganda og Fasteignamat ríkisins telur ástæðu til breytinga skal eiganda tilkynnt um þá breytingu sem fyrirhugað er að gera á fasteignamati. Vilji eigandi ekki una þeirri breytingu skal veita honum a.m.k. fjögurra vikna frest til að tilkynna það með sannanlegum hætti til Fasteignamats ríkisins. Að öðrum kosti tekur breytt fasteignamat gildi að liðnum fresti.][^1)^]
  □ Nýtt matsverð skal þegar skráð í Landskrá fasteigna og gildir með þeim almennu breytingum sem á því geta orðið, sbr. 32. gr., þar til því er hrundið með nýju mati eða yfirmati.
  □ Ráðherra getur með reglugerð ákveðið að sá sem krefst endurmats beri kostnað af því mati ef krafan er bersýnilega tilefnislaus.
-    _[^1)^]_"L. 61/2001, 1. gr.":/altext/stjt/2001.061.html
+    _[^1)^]L. 61/2001, 1. gr._
  ■ *32. gr.* Fasteignamati ríkisins er heimilt, sé þess krafist af hálfu fjármálaráðuneytisins eða sveitarfélags, að taka til endurmats einstakar tegundir eigna eða eignir í tilteknum hverfum, sveitarfélögum eða landshlutum, með gildistöku frá þeim tíma sem Fasteignamat ríkisins ákveður, ef það telur matsverð ekki í samræmi við gangverð eins og til er ætlast samkvæmt lögum þessum. [Málsmeðferð samkvæmt þessari grein og endurmat einstakra eigna skal fara eftir 31. gr. laganna.][^1)^]
-    _[^1)^]_"L. 61/2001, 2. gr.":/altext/stjt/2001.061.html
+    _[^1)^]L. 61/2001, 2. gr._
  ■ *33. gr.* Yfirmat fasteigna annast yfirfasteignamatsnefnd fyrir landið allt.
  □ Nefndina skipar fjármálaráðherra þremur mönnum og þremur til vara úr hópi tíu manna, sem Hæstiréttur tilnefnir. Skipunartími nefndarinnar skal vera frá 15. maí til jafnlengdar að þremur árum liðnum.
  □ Kostnaður við yfirmat greiðist úr ríkissjóði. Yfirfasteignamatsnefnd getur þó gert eiganda fasteignar að greiða kostnað vegna tilefnislausrar kæru til nefndarinnar.
@@ -142,15 +142,15 @@ h2. Lög um skráningu og mat fasteigna
 ■ *35. gr.* Yfirfasteignamatsnefnd ber í nóvembermánuði ár hvert að ákveða framreikningsstuðla fyrir skráð matsverð fasteigna með hliðsjón af breytingu verðlags fasteigna við kaup og sölu frá síðasta viðmiðunartíma matsins á grundvelli gagna sem Fasteignamat ríkisins safnar og vinnur úr, sbr. 23. gr. Gerir Fasteignamat ríkisins tillögur um slíka framreikningsstuðla eftir því sem yfirfasteignamatsnefnd óskar eftir. Stuðlar þessir geta verið misjafnir, til hækkunar eða lækkunar fyrir mismunandi tegundir eigna, byggðahverfi, sveitarfélög eða landshluta, eftir mati nefndarinnar.
  □ Ef eignir í einstökum sveitarfélögum verða fyrir verulegum og óvenjulegum verðbreytingum hefur hlutaðeigandi sveitarstjórn umsagnarrétt áður en yfirfasteignamatsnefnd tekur ákvörðun skv. 1. mgr.
  □ [Skráðu matsverði fasteigna skal breytt í Landskrá fasteigna í samræmi við framangreinda stuðla og skal það verð talið fasteignamatsverð frá og með 31. desember til jafnlengdar næsta ár nema sérstakt endurmat komi til.][^1)^]
-    _[^1)^]_"L. 61/2001, 3. gr.":/altext/stjt/2001.061.html
+    _[^1)^]L. 61/2001, 3. gr._
  ■ *36. gr.* Ráðherra getur með reglugerð[^1)^] sett nánari ákvæði um framkvæmd laga þessara. Áður en slík reglugerð er sett skal um hana leitað umsagnar Sambands íslenskra sveitarfélaga.
     _[^1)^]_"Rg. 406/1978":ekkitil/ekkitil.html?REGL/1978406, sbr. "95/1986":ekkitil/ekkitil.html?REGL/1986095 og "458/1998":ekkitil/ekkitil.html?REGL/1998458 (um fasteignaskráningu og fasteignamat).
  ■ *37. gr.* Um brot gegn ákvæðum laga þessara skal farið að hætti opinberra mála og varða brot sektum nema þyngri refsing komi til samkvæmt öðrum lögum.
 
  *[Ákvæði til bráðabirgða.*
  ■ *I.* Til þess að standa straum af kostnaði Fasteignamats ríkisins við að halda og þróa Landskrá fasteigna skulu húseigendur greiða til þess sérstakt umsýslugjald á árunum 2005 og 2006. Skal gjald þetta nema 0,1‰ (prómilli) af brunabótamati hverrar húseignar. Skal vátryggingafélag innheimta gjaldið samhliða innheimtu brunatryggingariðgjalda og skila umsýslugjaldi til Fasteignamats ríkisins eigi síðar en 45 dögum eftir gjalddaga.][^1)^]
-    _[^1)^]_"L. 139/2004, 4. gr.":/altext/stjt/2004.139.html
+    _[^1)^]L. 139/2004, 4. gr._
  ■ *[II.* Til þess að standa straum af kostnaði Fasteignamats ríkisins við að halda og þróa Landskrá fasteigna skulu húseigendur greiða til þess sérstakt umsýslugjald á árinu 2007. Skal gjald þetta nema 0,1‰ (prómilli) af brunabótamati hverrar húseignar. Skal vátryggingafélag innheimta gjaldið samhliða innheimtu brunatryggingariðgjalda og skila því til Fasteignamats ríkisins eigi síðar en 45 dögum eftir gjalddaga.][^1)^]
-    _[^1)^]_"L. 178/2006, 1. gr.":/altext/stjt/2006.178.html
+    _[^1)^]L. 178/2006, 1. gr._
 
 

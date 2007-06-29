@@ -7,7 +7,7 @@ h2. Lög um fjárreiður ríkisins
 <hr />
 
 
- *Tóku gildi 6. júní 1997; komu til framkvæmda skv. fyrirmælum í 52. gr.* _Breytt með_ "l. 51/2002":/altext/stjt/2002.051.html (tóku gildi 1. júlí 2002), "l. 95/2002":/altext/stjt/2002.095.html (tóku gildi 31. maí 2002) og "l. 23/2006":2006023.html (tóku gildi 3. maí 2006; _EES-samningurinn:_ XX. viðauki tilskipun 2003/4/EB).
+ *Tóku gildi 6. júní 1997; komu til framkvæmda skv. fyrirmælum í 52. gr.* _Breytt með_ l. 51/2002 (tóku gildi 1. júlí 2002), l. 95/2002 (tóku gildi 31. maí 2002) og "l. 23/2006":2006023.html (tóku gildi 3. maí 2006; _EES-samningurinn:_ XX. viðauki tilskipun 2003/4/EB).
 
 
  *I. kafli.* *Ríkisreikningur.*
@@ -26,7 +26,7 @@ h2. Lög um fjárreiður ríkisins
 ■ *4. gr.* Reikningsár ríkisaðila skal vera almanaksárið.
  _Áritun ríkisreiknings._
 ■ *5. gr.* Með ríkisreikningi skal fylgja áritun fjármálaráðherra og [fjársýslustjóra][^1)^] þar sem m.a. komi fram að reikningurinn nái til allra ríkisaðila og að hann sé gerður í samræmi við lög og þær venjur sem gilda um reikningsskil ríkisins.
-    _[^1)^]_"L. 95/2002, 1. gr.":/altext/stjt/2002.095.html
+    _[^1)^]L. 95/2002, 1. gr._
  _Endurskoðun._
  ■ *6. gr.* Ríkisendurskoðandi er endurskoðandi ríkisreiknings og ársreikninga ríkisaðila, sbr. lög um Ríkisendurskoðun.
  _Framlagning ríkisreiknings._
@@ -93,7 +93,7 @@ h2. Lög um fjárreiður ríkisins
  □ Ríkisaðilar utan A-hluta skulu eigi síðar en 31. mars ár hvert hafa sent Fjársýslu ríkisins og viðkomandi ráðuneyti ársreikninga sína. Fjársýsla ríkisins getur framlengt skilafrestinn um allt að 30 daga.
  □ Einnig skulu þeir sem ekki eru ríkisaðilar og um getur í 3. málsl. 1. tölul. 3. gr. senda ársreikninga sína til Fjársýslu ríkisins, viðkomandi ráðuneytis og Ríkisendurskoðunar innan þess frests sem um getur í 1. mgr.
  □ Hverju ráðuneyti ber að sjá til þess að stofnanir, sem undir það heyra samkvæmt stjórnarráðslögum og reglugerð, uppfylli ákvæði laga um skilafrest ársreikninga.][^1)^]
-    _[^1)^]_"L. 95/2002, 2. gr.":/altext/stjt/2002.095.html
+    _[^1)^]L. 95/2002, 2. gr._
 
  *III. kafli.* *Frumvarp til fjárlaga.*
  _Almennt._
@@ -188,19 +188,19 @@ h2. Lög um fjárreiður ríkisins
  □ Ef vafi leikur á um túlkun laga þessara eða framkvæmd þeirra að öðru leyti skal leitað álits ríkisreikningsnefndar áður en ákvörðun er tekin eða reglur settar.
  _Skipun ríkisreikningsnefndar._
 ■ *47. gr.* Ríkisreikningsnefnd skal skipuð [fimm][^1)^] mönnum. Í henni skulu sitja ráðuneytisstjóri fjármálaráðuneytis, [fjársýslustjóri],[^2)^] ríkisendurskoðandi og hagstofustjóri, auk [eins fulltrúa][^1)^] sem fjármálaráðherra skipar eftir tilnefningu Seðlabanka Íslands ...[^1)^] Ráðherra skipar formann nefndarinnar úr hópi nefndarmanna.
-    _[^1)^]_"L. 51/2002, 2. gr.":/altext/stjt/2002.051.html [^2)^]"L. 95/2002, 3. gr.":/altext/stjt/2002.095.html
+    _[^1)^]L. 51/2002, 2. gr._ [^2)^]L. 95/2002, 3. gr.
  _[Fjársýsla ríkisins.][^1)^]_
-    _[^1)^]"L. 95/2002, 4. gr.":/altext/stjt/2002.095.html_
+    _[^1)^]L. 95/2002, 4. gr._
  ■ *48. gr.* [Fjársýsla ríkisins er sérstök stofnun sem heyrir undir fjármálaráðherra. Fjársýslustjóri veitir Fjársýslu ríkisins forstöðu og er skipaður af fjármálaráðherra til fimm ára í senn.
  □ Fjársýsla ríkisins hefur yfirumsjón með bókhaldi og ársreikningum ríkisaðila í A-, B- og C-hluta ríkisreiknings. Hún skal gæta þess að samræmi sé við færslu bókhalds og gerð reikningsskila hjá þeim.
  □ Fjársýsla ríkisins skal veita ríkisaðilum aðstoð og ráðgjöf um bókhald og reikningsskil og setja ríkisaðilum í A-, B- og C-hluta ríkisreiknings framkvæmdar- og verklagsreglur ásamt leiðbeiningum sem þýðingu geta haft við færslu bókhalds og gerð ársreikninga.
  □ Fjársýsla ríkisins annast féhirslu ríkisins og greiðsluþjónustu fyrir ríkissjóð og þær ríkisstofnanir sem þess óska, svo og móttöku innheimtufjár frá innheimtustofnunum ríkisins ásamt innheimtu á skuldabréfum og kröfum.
  □ Fjársýsla ríkisins skal annast gerð ríkisreiknings.][^1)^]
-    _[^1)^]_"L. 95/2002, 4. gr.":/altext/stjt/2002.095.html
+    _[^1)^]L. 95/2002, 4. gr._
  _Ábyrgð á fjárreiðum._
  ■ *49. gr.* Forstöðumenn og stjórnir ríkisaðila bera ábyrgð á því að fjárhagsráðstafanir þeirra séu í samræmi við heimildir. Þessir aðilar bera jafnframt ábyrgð á því að ársreikningar séu gerðir í samræmi við lög þessi og staðið sé við skilaskyldu á þeim til [Fjársýslu ríkisins].[^1)^]
  □ Brot á ákvæðum laga þessara varða skyldur opinberra starfsmanna samkvæmt lögum um réttindi og skyldur starfsmanna ríkisins.
-    _[^1)^]_"L. 95/2002, 5. gr.":/altext/stjt/2002.095.html
+    _[^1)^]L. 95/2002, 5. gr._
  ■ *50. gr.* Að öðru leyti en mælt er fyrir um í lögum þessum gilda þau um fjárreiður Alþingis eftir því sem við á. Forsætisnefnd skal, að höfðu samráði við fjármálaráðherra, taka ákvarðanir skv. 2. mgr. 29. gr., 32. gr., 2. mgr. 37. gr. og 39. gr.
 
  *VII. kafli.* *Reglugerðir og gildistaka.*

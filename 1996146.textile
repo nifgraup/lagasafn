@@ -7,7 +7,7 @@ h2. Lög um öryggi raforkuvirkja, neysluveitna og raffanga
 <hr />
 
 
- *Tóku gildi 30. desember 1996.* _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005).
+ *Tóku gildi 30. desember 1996.* _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005) og l. 34/2007 (tóku gildi 30. mars 2007).
 
 
  *I. kafli.* *Gildissvið og skilgreiningar.*
@@ -66,8 +66,10 @@ h2. Lög um öryggi raforkuvirkja, neysluveitna og raffanga
  □ Leiki rökstuddur grunur á því að rafmagnsbúnaður uppfylli ekki skilyrði laga þessara eða reglugerða á grundvelli þeirra getur [Neytendastofa][^1)^] tímabundið bannað sölu eða notkun á meðan rannsókn fer fram í málinu.
  □ Leiði rannsókn [Neytendastofu][^1)^] í ljós að rafmagnsbúnaður uppfylli ekki skilyrði laga þessara eða reglugerða á grundvelli þeirra getur [Neytendastofa][^1)^] bannað sölu hans, stöðvað notkun, bannað uppsetningu og krafist niðurtöku og innköllunar.
  □ Telji [Neytendastofa][^1)^] að einstaklingur eða lögaðili sem starfar samkvæmt leyfi eða löggildingu hennar hafi brotið ákvæði leyfisins eða löggildingarinnar skal stofnunin, áður en gripið er til leyfissviptingar, senda viðkomandi fyrirmæli þar sem tilgreina skal ávirðingar, benda á leiðir til úrbóta og tilgreina fyrir hvaða tíma framkvæma skuli úrbætur.
- □ Ákvörðunum og fyrirmælum [Neytendastofu][^1)^] má skjóta til úrskurðar ráðherra en málskot frestar ekki framkvæmd ákvörðunar.
-    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
+ □ [Ákvörðunum Neytendastofu má skjóta til áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um Neytendastofu og talsmann neytenda að undanskildum ákvörðunum um dagsektir. Málskot frestar ekki framkvæmd ákvörðunar.][^2)^]
+ □ [Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður áfrýjunarnefndar neytendamála liggur fyrir.
+ □ Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.][^2)^]
+    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]L. 34/2007, 3. gr.
  ■ *12. gr.* Starfsmenn [Neytendastofu][^1)^] og rafskoðunarstofa eru bundnir þagnarskyldu um atriði er þeir fá vitneskju um í starfi sínu og atvinnuleynd hvílir yfir. Það skal þó ekki vera því til fyrirstöðu að [Neytendastofa][^1)^] birti opinberlega upplýsingar um hættuleg raforkuvirki, neysluveitur og rafföng ef brýna nauðsyn ber til sökum þess að af hlutum þessum stafar hætta.
     _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
  ■ *13. gr.* Ráðherra setur í reglugerð[^1)^] um raforkuvirki ákvæði til varnar hættu og tjóni af rafmagni og til varnar truflunum á starfrækslu raforkuvirkja, neysluveitna og raffanga sem fyrir eru eða síðar kunna að koma. Jafnframt setur ráðherra nánari ákvæði um framkvæmd laganna.

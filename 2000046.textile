@@ -7,7 +7,7 @@ h2. Lög um húsgöngu- og fjarsölusamninga
 <hr />
 
 
- *Tóku gildi 1. júní 2000.* _EES-samningurinn:_ XIX. viðauki tilskipun 85/577/EBE og 97/7/EB. _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005) og "l. 50/2006":/altext/stjt/2006.050.html (tóku gildi 1. júlí 2006).
+ *Tóku gildi 1. júní 2000.* _EES-samningurinn:_ XIX. viðauki tilskipun 85/577/EBE og 97/7/EB. _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), l. 50/2006 (tóku gildi 1. júlí 2006) og l. 34/2007 (tóku gildi 30. mars 2007).
 
 
  *I. kafli.* *Gildissvið og skilgreiningar.*
@@ -92,14 +92,18 @@ h2. Lög um húsgöngu- og fjarsölusamninga
  □ Óheimilt er að nota símbréf eða sjálfvirk upphringingatæki við sölustarfemi sem lög þessi taka til nema neytandi hafi sérstaklega veitt samþykki sitt fyrir notkun slíkra fjarskiptaaðferða.
  □ Seljendum vöru og þjónustu sem lög þessi taka til ber, áður en bein markaðssókn er skipulögð, að kanna [bannskrá Þjóðskrár][^1)^] yfir þá sem vilja ekki að nöfn þeirra séu notuð við markaðssetningu, sbr. ákvæði laga um persónuvernd og meðferð persónuupplýsinga. Hafi neytandi óskað eftir því að vera færður í skrána er bein markaðssókn til hans óheimil.
  □ Hafi neytandi ekki tilkynnt sig til [bannskrár Þjóðskrár],[^1)^] sbr. 2. mgr., eða áskrifandi fjarskiptaþjónustu óskað eftir sérmerkingu í símaskrá í samræmi við ákvæði fjarskiptalaga og seljandi sendir honum í beinni markaðssókn tölvupóst ber að gefa neytanda kost á að veita samþykki sitt fyrir áframhaldandi notkun á þeirri fjarskiptaaðferð. Samþykki neytandi ekki sérstaklega áframhaldandi sendingar með tölvupósti eru þær framvegis óheimilar.
-    _[^1)^]_"L. 50/2006, 22. gr.":/altext/stjt/2006.050.html
+    _[^1)^]L. 50/2006, 22. gr._
  ■ *15. gr.* _Réttarvernd neytenda._
  □ Samtökum neytenda er heimilt að gæta hagsmuna neytenda innan sem utan dómstóla samkvæmt ákvæðum laga þessara.
 ■ *16. gr.* _Lagaval._
  □ Hafi í samningi sem lög þessi taka til verið vísað til þess að um samninginn skuli gilda lög í ríki sem er utan Evrópska efnahagssvæðisins skal slíkum lögum ekki beitt um samninga sem lög þessi taka til nema neytandinn njóti betri verndar samkvæmt þeim.
 ■ *17. gr.* _Eftirlit._
  □ [Neytendastofa][^1)^] hefur eftirlit með viðskiptaháttum samkvæmt lögum þessum.
-    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
+ □ [Ákvæði laga um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðarins gilda um úrræði Neytendastofu og málsmeðferð.
+ □ Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um Neytendastofu og talsmann neytenda.
+ □ Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður áfrýjunarnefndar neytendamála liggur fyrir.
+ □ Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.][^2)^]
+    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]L. 34/2007, 4. gr.
  ■ *18. gr.* Nýti neytandi sér rétt til að falla frá samningi er lög þessi taka til skal um réttaráhrif þess fara eftir lögum um lausafjárkaup, einkum með tilliti til endurgreiðslu vöru eða þjónustu sem látin var í té og skila á móttekinni vöru, nema annað sé ákveðið í lögum þessum.
 
  *IV. kafli.* *Gildistaka, viðurlög o.fl.*

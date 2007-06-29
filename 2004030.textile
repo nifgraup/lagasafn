@@ -7,7 +7,7 @@ h2. Lög um vátryggingarsamninga
 <hr />
 
 
- *Tóku gildi 1. janúar 2006.* _Breytt með_ "l. 118/2005":/altext/stjt/2005.118.html (tóku gildi 1. jan. 2006).
+ *Tóku gildi 1. janúar 2006.* _Breytt með_ l. 118/2005 (tóku gildi 1. jan. 2006).
 
 
  *I. hluti.* *Skaðatryggingar.*
@@ -41,7 +41,7 @@ h2. Lög um vátryggingarsamninga
     b. starfsemin fer að mestu leyti fram erlendis,
     c. vátrygging er tekin vegna skráðs loftfars,
     d. vátryggðar eru vörur í flutningi á milli landa.][^1)^]
-    _[^1)^]_"L. 118/2005, 1. gr.":/altext/stjt/2005.118.html
+    _[^1)^]L. 118/2005, 1. gr._
 
  *II. kafli.* *Upplýsingaskylda félagsins.*
  ■ *4. gr.* _Upplýsingar við töku vátryggingar._
@@ -272,7 +272,7 @@ h2. Lög um vátryggingarsamninga
  □ Með persónutryggingu er í lögum þessum átt við líftryggingu, slysatryggingu og sjúkratryggingu. Vátryggingu má taka vegna lífs eða heilsu vátryggingartakans eða annarra.
  □ Þegar rætt er um líftryggingu í þessum hluta laganna er einnig átt við heilsutryggingu án uppsagnarréttar nema annað sé tekið fram.
  □ Ákvæði þessa hluta laganna gilda ekki um endurtryggingar og ekki heldur um tryggingar lífeyrissjóða, samkvæmt lögum sem um þá gilda, né tryggingar samkvæmt lögum um almannatryggingar. [Þá gilda ákvæði um hópvátryggingar í þessum hluta laganna ekki um persónutryggingar launþega samkvæmt kjarasamningum.][^1)^]
-    _[^1)^]_"L. 118/2005, 2. gr.":/altext/stjt/2005.118.html
+    _[^1)^]L. 118/2005, 2. gr._
  ■ *62. gr.* _Skilgreiningar._
  □ Í þessum hluta laganna hafa eftirtalin hugtök eftirfarandi merkingu:
     a. _félagið,_ sá sem með samningi skuldbindur sig til þess að veita vátryggingu,
@@ -397,7 +397,7 @@ h2. Lög um vátryggingarsamninga
 ■ *85. gr.* _Takmarkanir á heimildum félagsins til þess að bera fyrir sig upplýsingaskort._
  □ Félagið getur ekki borið fyrir sig að það hafi fengið rangar eða ófullnægjandi upplýsingar ef það vissi eða mátti vita að svo var þegar það fékk þær. Sama gildir ef atvik þau er upplýsingarnar varða skiptu ekki máli fyrir félagið eða gera það ekki lengur. Ef háttsemi vátryggingartaka eða vátryggðs er sviksamleg á framangreind takmörkun í 1. málsl. því aðeins við að félagið hafi vitað að upplýsingarnar sem það fékk voru rangar eða ófullnægjandi.
  □ Í [hreinum áhættulíftryggingum][^1)^] getur félagið aðeins borið fyrir sig að upplýsingaskyldu hafi ekki verið fullnægt ef vátryggingaratburður hefur orðið eða félagið hefur veitt viðvörun skv. 94. gr. innan tveggja ára frá því að ábyrgð þess hófst. Þessi takmörkun gildir þó ekki ef svikum hefur verið beitt.
-    _[^1)^]_"L. 118/2005, 3. gr.":/altext/stjt/2005.118.html
+    _[^1)^]L. 118/2005, 3. gr._
  ■ *86. gr.* _Ábyrgðartakmörkun vegna heilsufars vátryggðs._
  □ Taki vátrygging til afleiðinga sjúkdóms eða meins getur félagið ekki gert fyrirvara um að það sé laust úr ábyrgð vegna þeirra tilvika að sjúkdómurinn eða meinið hafi verið fyrir hendi þegar ábyrgð þess hófst. Slíkur fyrirvari er þó gildur ef:
     a. hann byggist á upplýsingum sem félagið hefur fengið með lögmætum hætti um hinn vátryggða,
@@ -405,7 +405,7 @@ h2. Lög um vátryggingarsamninga
     c. samið er um að félagið afli ekki upplýsinga um heilsufar vátryggðs við töku vátryggingar; í slíkum tilvikum getur félagið gert fyrirvara um að það sé laust úr ábyrgð vegna sjúkdóms eða meins sem hinn vátryggði vissi eða mátti vita um.
  □ [Í öðrum persónutryggingum en hreinum áhættulíftryggingum getur félagið í skilmálum gert fyrirvara um að það beri einungis ábyrgð á sjúkdómi eða öðru tjónsatviki, að einkenni eða atvik hafi komið fram eftir ákveðið tímamark. Hið sama á við um vátryggingu á örorku í tengslum við líftryggingu.][^1)^]
  □ Hafi tímabundin vátrygging verið endurnýjuð getur fyrirvarinn einungis átt við um sjúkdóm eða mein sem hinn vátryggði var með er vátryggingin var tekin í upphafi.
-    _[^1)^]_"L. 118/2005, 4. gr.":/altext/stjt/2005.118.html
+    _[^1)^]L. 118/2005, 4. gr._
  ■ *87. gr.* _Ábyrgðartakmörkun vegna hættulegrar starfsemi._
  □ Nú hefur félagið gert þann fyrirvara um ábyrgð sína að vátryggður taki ekki þátt í tiltekinni starfsemi eða athöfnum eða setji sig ekki í tilgreinda hættu og er það samt ábyrgt fyrir vátryggingartilvikum ef vátryggingaratburður verður ekki vegna þessara ástæðna.
 ■ *88. gr.* _Fyrirvari um að samræma iðgjald aðstæðum vátryggðs._
@@ -455,7 +455,7 @@ h2. Lög um vátryggingarsamninga
  □ Sé greiðsla vátryggingarfjárhæðar í heild eða að hluta háð því að tilteknir menn séu á lífi fellur greiðslan til þeirra.
  □ Hafi fleiri en einn tekið vátryggingu sameiginlega og vátryggingarfjárhæðin kemur til greiðslu þegar sá fyrsti þeirra deyr fellur vátryggingarfjárhæðin til þess eða þeirra vátryggingartaka sem eru á lífi. Séu fleiri en einn á lífi skiptist fjárhæðin jafnt á milli þeirra sé ekki um annað samið.
  □ Vátryggingarfjárhæð, sem kemur til greiðslu af öðru tilefni en við andlát vátryggingartakans, fellur til hans.
-    _[^1)^]_"L. 118/2005, 5. gr.":/altext/stjt/2005.118.html
+    _[^1)^]L. 118/2005, 5. gr._
  ■ *101. gr.* _Tilnefning rétthafa._
  □ Vátryggingartaki getur tilnefnt einn eða fleiri rétthafa að vátryggingarfjárhæð ásamt ágóðahlutdeild, sem kann að verða, eða hluta af vátryggingarfjárhæðinni, þegar hún kemur til greiðslu. Sé vátryggingartaki í hjúskap ber að tilkynna maka hans um tilnefningu rétthafa, sbr. 105. gr.
  □ Tilnefningu rétthafa má afturkalla nema vátryggingartaki hafi lýst því yfir við hann að hún sé óafturkallanleg.
@@ -543,7 +543,7 @@ h2. Lög um vátryggingarsamninga
  □ Sá sem hyggst hafa uppi kröfu gegn félaginu skal veita því upplýsingar og afhenda gögn sem hann á aðgang að og félagið þarf til þess að geta metið ábyrgð sína og greitt út vátryggingarfjárhæðina.
  □ Sá sem við tjónsuppgjör veitir rangar eða ófullnægjandi upplýsingar sem hann veit eða má vita að geta leitt til þess að greiddar verði út bætur sem hann á ekki rétt til glatar öllum rétti til krafna á hendur félaginu samkvæmt þessum og öðrum vátryggingarsamningum vegna sömu atvika. Sé háttsemin ekki alvarleg, hún varði einungis lítinn hluta kröfunnar eða ef sérstakar ástæður mæla með því getur hann þó fengið bætur að hluta. Ákvæði [94. gr.][^1)^] gildir eftir því sem við getur átt.
  □ Í þeim tilvikum sem greinir í 2. mgr. getur félagið sagt upp öllum vátryggingarsamningum við viðkomandi með viku fyrirvara. Ákvæði 3. mgr. 76. gr. gilda eftir því sem við getur átt.
-    _[^1)^]_"L. 118/2005, 6. gr.":/altext/stjt/2005.118.html
+    _[^1)^]L. 118/2005, 6. gr._
  ■ *121. gr.* _Greiðsla bóta eða vátryggingarfjárhæðar._
  □ Krafa um bætur eða vátryggingarfjárhæð fellur í gjalddaga 14 dögum eftir að félagið átti þess kost að afla þeirra gagna sem þörf var á til þess að kanna ábyrgð sína og reikna út endanlega fjárhæð bóta. Eigi félagið að bæta örorku er heimilt í vátryggingarskilmálum að kveða nánar á um mat á örorkunni.
  □ Ef augljóst er áður en endanlegt uppgjör fer fram að félaginu ber að greiða að minnsta kosti hluta af bótum þeim sem gerð er krafa um skal það inna af hendi hlutagreiðslu sem því nemur.

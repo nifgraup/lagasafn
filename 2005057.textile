@@ -7,7 +7,8 @@ h2. Lög um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðari
 <hr />
 
 
- *Tóku gildi 1. júlí 2005.*
+ *Tóku gildi 1. júlí 2005.* _Breytt með_ l. 34/2007 (tóku gildi 30. mars 2007) og l. 57/2007 (tóku gildi 3. apríl 2007).
+
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* Lög þessi taka til hvers konar atvinnustarfsemi, svo sem framleiðslu, verslunar og þjónustu, án tillits til þess hvort hún er rekin af einstaklingum, félögum, opinberum aðilum eða öðrum.
@@ -76,10 +77,19 @@ h2. Lög um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðari
  □ Neytendastofa getur með sömu skilyrðum og í 1. mgr. krafist þess að fá gögn afhent til athugunar. Skulu þau afhent innan hæfilegs frests sem stofnunin setur.
  □ Neytendastofa getur í starfi sínu krafist upplýsinga og gagna frá öðrum stjórnvöldum, þar á meðal frá skattyfirvöldum og tollyfirvöldum, óháð þagnarskyldu þeirra.
  □ Neytendastofa getur einnig lagt skyldu á þá aðila sem um getur í 1. mgr. að upplýsa stofnunina reglulega um atriði sem máli skipta við framkvæmd laga þessara. Neytendastofa getur gefið slík fyrirmæli með opinberri tilkynningu.
-■ *21. gr.* Þeim sem starfa af hálfu stjórnvalda að framkvæmd laga þessara er óheimilt að skýra frá þeim atriðum sem þeir verða áskynja um í starfi sínu og leynt eiga að fara. Þagnarskylda helst þótt látið sé af starfi.
+■ *[20. gr. a.* Neytendastofa getur við rannsókn máls gert nauðsynlegar athuganir á starfsstöðvum þeirra sem lög þessi taka til og lagt hald á gögn þegar ríkar ástæður eru til að ætla að brotið hafi verið gegn lögum þessum eða ákvörðunum Neytendastofu.
+ □ Við framkvæmd aðgerða skal fylgja ákvæðum laga um meðferð opinberra mála um leit og hald á munum.][^1)^]
+    _[^1)^]L. 57/2007, 1. gr._
+ ■ *21. gr.* Þeim sem starfa af hálfu stjórnvalda að framkvæmd laga þessara er óheimilt að skýra frá þeim atriðum sem þeir verða áskynja um í starfi sínu og leynt eiga að fara. Þagnarskylda helst þótt látið sé af starfi.
+■ *[21. gr. a.* Neytendastofu er heimilt að afhenda stjórnvöldum annarra ríkja upplýsingar og gögn sem nauðsynleg þykja við framkvæmd laga í samræmi við skuldbindingar Íslands samkvæmt milliríkjasamningum.
+ □ Við afhendingu upplýsinga og gagna skal setja sem skilyrði að:
+    1. farið verði með upplýsingarnar og gögnin sem trúnaðarmál hjá þeim sem við þeim tekur,
+    2. upplýsingarnar og gögnin verði aðeins notuð í því skyni sem kveðið er á um í viðkomandi milliríkjasamningi og
+    3. upplýsingarnar og gögnin verði aðeins afhent öðrum með samþykki Neytendastofu og í þeim tilgangi sem samþykkið kveður á um.][^1)^]
+    _[^1)^]L. 57/2007, 2. gr._
 
  *V. kafli.* *Viðurlög.*
-■ *22. gr.* Neytendastofa getur lagt stjórnvaldssektir á fyrirtæki sem brjóta gegn:
+ ■ *22. gr.* Neytendastofa getur lagt stjórnvaldssektir á fyrirtæki sem brjóta gegn:
     a. ákvæðum laga þessara um efni upplýsinga, sem veittar eru í auglýsingum eða í tengslum við aðrar viðskiptaaðferðir, sbr. 6. og 7. gr.,
     b. stjórnvaldsreglum og ákvörðunum Neytendastofu sem stemma eiga stigu við ólögmætum viðskiptaháttum, sbr. 16. gr.,
     c. ákvæðum laga þessara um verðmerkingar eða stjórnvaldsreglum settum á grundvelli þeirra, sbr. 17. gr.,
@@ -88,7 +98,9 @@ h2. Lög um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðari
 ■ *23. gr.* Ef ekki er farið að ákvörðun sem tekin hefur verið samkvæmt þessum lögum getur Neytendastofa ákveðið að sá eða þeir sem ákvörðunin beinist gegn greiði dagsektir þar til farið verður að henni. Ákvörðun um dagsektir skal tilkynnt bréflega á sannanlegan hátt þeim sem hún beinist að.
 ■ *24. gr.* Ákvörðun um dagsektir má skjóta til áfrýjunarnefndar neytendamála innan fjórtán daga frá því að hún er kynnt þeim er hún beinist að. Dagsektir reiknast ekki fyrr en frestur er liðinn. Ef ákvörðun er skotið til áfrýjunarnefndar neytendamála falla dagsektir ekki á fyrr en niðurstaða hennar liggur fyrir.
 ■ *25. gr.* Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður áfrýjunarnefndar neytendamála liggur fyrir.
-■ *26. gr.* Brot gegn lögum þessum, reglum og fyrirmælum settum samkvæmt þeim varða fésektum eða fangelsi allt að sex mánuðum ef sakir eru miklar. Dæma má sviptingu réttinda skv. 68. gr. almennra hegningarlaga og fésekt jafnframt fangelsi ef skilyrði 49. gr. almennra hegningarlaga eru fyrir hendi.
+ □ [Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.][^1)^]
+    _[^1)^]L. 34/2007, 11. gr._
+ ■ *26. gr.* Brot gegn lögum þessum, reglum og fyrirmælum settum samkvæmt þeim varða fésektum eða fangelsi allt að sex mánuðum ef sakir eru miklar. Dæma má sviptingu réttinda skv. 68. gr. almennra hegningarlaga og fésekt jafnframt fangelsi ef skilyrði 49. gr. almennra hegningarlaga eru fyrir hendi.
  □ Sá sem gefur aðilum, sem annast framkvæmd laga þessara, rangar skýrslur skal sæta refsingu skv. XV. kafla almennra hegningarlaga.
  □ Sektir samkvæmt lögum þessum má gera jafnt lögaðila sem einstaklingi. Lögaðila má ákvarða sekt án tillits til þess hvort sök verður sönnuð á starfsmann lögaðilans. Hafi starfsmaður lögaðilans framið brot á lögum þessum eða reglum settum samkvæmt þeim má einnig gera lögaðila þessum sekt og sviptingu starfsréttinda, enda sé brotið drýgt til hagsbóta fyrir lögaðilann eða hann hefur notið hagnaðar af brotinu. Lögaðili ber ábyrgð á greiðslu sektar sem starfsmaður hans er dæmdur til að greiða vegna brota á lögum þessum enda séu brot tengd starfi hans hjá lögaðilanum.
  □ Dæma má sviptingu réttinda skv. 68. gr. almennra hegningarlaga og upptöku eigna skv. 69. gr. sömu laga í máli er rís vegna brota á lögum þessum eða reglum settum samkvæmt þeim.
