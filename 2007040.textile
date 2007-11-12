@@ -7,7 +7,7 @@ h2. Lög um heilbrigðisþjónustu
 <hr />
 
 
- *Taka gildi 1. september 2007.*
+ *Tóku gildi 1. september 2007.*
 
  *I. kafli.* *Gildissvið, stefnumörkun og skilgreiningar.*
  ■ *1. gr.* _Gildissvið og markmið._
@@ -34,12 +34,14 @@ h2. Lög um heilbrigðisþjónustu
 
  *II. kafli.* *Skipulag heilbrigðisþjónustu.*
 ■ *5. gr.* _Heilbrigðisumdæmi._
- □ Landinu skal skipt í heilbrigðisumdæmi og skal kveðið á um skiptinguna í reglugerð. Heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu í hverju umdæmi skulu hafa með sér samstarf um skipulag heilbrigðisþjónustu á svæðinu. Ráðherra getur, að höfðu samráði við hlutaðeigandi sveitarfélög og Samband íslenskra sveitarfélaga, ákveðið að sameina heilbrigðisstofnanir innan heilbrigðisumdæmis með reglugerð.
+ □ Landinu skal skipt í heilbrigðisumdæmi og skal kveðið á um skiptinguna í reglugerð.[^1)^] Heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu í hverju umdæmi skulu hafa með sér samstarf um skipulag heilbrigðisþjónustu á svæðinu. Ráðherra getur, að höfðu samráði við hlutaðeigandi sveitarfélög og Samband íslenskra sveitarfélaga, ákveðið að sameina heilbrigðisstofnanir innan heilbrigðisumdæmis með reglugerð.
  □ Þrátt fyrir skiptingu landsins í heilbrigðisumdæmi skulu sjúklingar jafnan eiga rétt á að leita til þeirrar heilsugæslustöðvar eða heilbrigðisstofnunar sem þeir eiga auðveldast með að ná til hverju sinni.
-■ *6. gr.* _Almenn heilbrigðisþjónusta._
+    _[^1)^]Rg. 785/2007_.
+ ■ *6. gr.* _Almenn heilbrigðisþjónusta._
  □ Í hverju heilbrigðisumdæmi skal starfrækt heilbrigðisstofnun eða heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu í umdæminu.
- □ Ráðherra getur í reglugerð kveðið nánar á um starfsemi heilbrigðisstofnana í hverju umdæmi og þá heilbrigðisþjónustu sem þar er veitt.
-■ *7. gr.* _Sérhæfð heilbrigðisþjónusta._
+ □ Ráðherra getur í reglugerð[^1)^] kveðið nánar á um starfsemi heilbrigðisstofnana í hverju umdæmi og þá heilbrigðisþjónustu sem þar er veitt.
+    _[^1)^]Rg. 785/2007_.
+ ■ *7. gr.* _Sérhæfð heilbrigðisþjónusta._
  □ Sérhæfð sjúkrahúsþjónusta skal veitt á Landspítala og Sjúkrahúsinu á Akureyri og öðrum sjúkrahúsum og heilbrigðisstofnunum samkvæmt ákvörðun ráðherra eða samningum sem gerðir eru í samræmi við ákvæði VII. kafla.
  □ Önnur sérhæfð heilbrigðisþjónusta skal veitt á sérhæfðum heilbrigðisstofnunum og öðrum heilbrigðisstofnunum samkvæmt ákvörðun ráðherra eða á grundvelli samninga skv. VII. kafla.
  □ Á starfsstofum heilbrigðisstarfsmanna er veitt sérhæfð heilbrigðisþjónusta eftir atvikum í samræmi við samninga sem gerðir hafa verið samkvæmt ákvæðum VII. kafla.
@@ -83,8 +85,9 @@ h2. Lög um heilbrigðisþjónustu
 ■ *17. gr.* _Heilsugæslustöðvar._
  □ Heilsugæslustöðvar sinna heilsugæslu.
  □ Forstjórar og framkvæmdastjórnir heilbrigðisstofnana skulu hafa samráð við yfirlækni og yfirhjúkrunarfræðing heilsugæslustöðvar þegar sérmál hennar er til ákvörðunar.
- □ Ráðherra skal í reglugerð kveða nánar á um starfsemi heilsugæslustöðva og þá þjónustu sem þeim ber að veita.
-■ *18. gr.* _Umdæmissjúkrahús._
+ □ Ráðherra skal í reglugerð[^1)^] kveða nánar á um starfsemi heilsugæslustöðva og þá þjónustu sem þeim ber að veita.
+    _[^1)^]Rg. 787/2007_.
+ ■ *18. gr.* _Umdæmissjúkrahús._
  □ Á umdæmissjúkrahúsum skal veitt almenn sjúkrahúsþjónusta, m.a. á göngu- og dagdeildum eftir því sem við á. Í tengslum við þau skulu einnig að jafnaði vera hjúkrunarrými. Á umdæmissjúkrahúsum skal að jafnaði vera fæðingarhjálp, séu faglegar kröfur uppfylltar, og önnur heilbrigðisþjónusta sem sjúkrahúsinu er falið að veita eða samið hefur verið um samkvæmt ákvæðum VII. kafla, enda uppfylli sjúkrahúsið faglegar kröfur til að veita þá þjónustu.
  □ Á heilbrigðisstofnunum sem veita bæði almenna sjúkrahúsþjónustu og sinna heilsugæslu skal starfsemi samtvinnuð og starfsmenn ráðnir til að sinna báðum þáttum eftir því sem við á.
  □ Ráðherra getur í reglugerð kveðið nánar á um starfsemi og þjónustu umdæmissjúkrahúsa.
@@ -123,18 +126,20 @@ h2. Lög um heilbrigðisþjónustu
 ■ *23. gr.* _Gildissvið._
  □ Ákvæði þessa kafla um faglegar kröfur til heilbrigðisþjónustu og eftirlit með henni gilda um heilbrigðisþjónustu sem veitt er hér á landi án tillits til þess hvort hún er veitt af ríkinu eða öðrum aðilum með eða án greiðsluþátttöku ríkisins. Um eftirlit landlæknis með heilbrigðisþjónustu gilda jafnframt ákvæði laga um landlækni.
 ■ *24. gr.* _Faglegar kröfur til reksturs heilbrigðisþjónustu._
- □ Ráðherra skal, að fengnum tillögum landlæknis og að höfðu samráði við viðkomandi heilbrigðisstéttir, kveða í reglugerð á um faglegar lágmarkskröfur til reksturs heilbrigðisþjónustu á einstökum sviðum. Reglugerðin skal byggð á þekkingu og aðstæðum á hverjum tíma og skal hún endurskoðuð reglulega. Í reglugerðinni skal m.a. kveða á um lágmarkskröfur um mönnun, húsnæði, aðstöðu, tæki og búnað til reksturs heilbrigðisþjónustu.
-■ *25. gr.* _Eftirlit með faglegum rekstri heilbrigðisþjónustu._
+ □ Ráðherra skal, að fengnum tillögum landlæknis og að höfðu samráði við viðkomandi heilbrigðisstéttir, kveða í reglugerð[^1)^] á um faglegar lágmarkskröfur til reksturs heilbrigðisþjónustu á einstökum sviðum. Reglugerðin skal byggð á þekkingu og aðstæðum á hverjum tíma og skal hún endurskoðuð reglulega. Í reglugerðinni skal m.a. kveða á um lágmarkskröfur um mönnun, húsnæði, aðstöðu, tæki og búnað til reksturs heilbrigðisþjónustu.
+    _[^1)^]Rg. 786/2007_.
+ ■ *25. gr.* _Eftirlit með faglegum rekstri heilbrigðisþjónustu._
  □ Landlæknir hefur eftirlit með að heilbrigðisþjónusta uppfylli faglegar kröfur til reksturs heilbrigðisþjónustu og ákvæði heilbrigðislöggjafar á hverjum tíma. Telji landlæknir að heilbrigðisþjónusta uppfylli ekki faglegar kröfur skv. 24. gr. eða önnur skilyrði í heilbrigðislöggjöf skal hann beina tilmælum um úrbætur til rekstraraðila. Verði rekstraraðili ekki við slíkum tilmælum ber landlækni að skýra ráðherra frá málinu og gera tillögur um hvað gera skuli. Getur ráðherra þá tekið ákvörðun um að stöðva rekstur tímabundið, þar til bætt hefur verið úr annmörkum, eða að fullu.
 ■ *26. gr.* _Skilyrði fyrir starfrækslu heilbrigðisþjónustu._
  □ Þeir sem hyggjast hefja rekstur heilbrigðisþjónustu, þ.m.t. ríkið og sveitarfélög, skulu tilkynna fyrirhugaðan rekstur til landlæknis. Með tilkynningunni skulu fylgja fullnægjandi upplýsingar um starfsemina, svo sem um tegund heilbrigðisþjónustu, starfsmenn, búnað, tæki og húsnæði. Landlæknir getur óskað eftir frekari upplýsingum og gert úttekt á væntanlegri starfsemi telji hann þörf á því. Með sama hætti skal tilkynna landlækni ef meiri háttar breytingar verða á mönnun, búnaði, starfsemi og þjónustu rekstraraðila. Sé rekstri heilbrigðisþjónustu hætt skal tilkynna landlækni um það.
  □ Landlæknir staðfestir hvort fyrirhugaður rekstur heilbrigðisþjónustu uppfylli faglegar kröfur og önnur skilyrði í heilbrigðislöggjöf. Hið sama gildir þegar ráðherra endurnýjar samninga við heilbrigðisstofnanir. Óheimilt er að hefja starfsemi á sviði heilbrigðisþjónustu nema staðfesting landlæknis liggi fyrir. Landlækni er heimilt að gera frekari kröfur sé það talið nauðsynlegt vegna eðlis þeirrar starfsemi sem um er að ræða. Staðfesting landlæknis verður jafnframt að liggja fyrir við meiri háttar breytingar skv. 1. mgr.
  □ Heimilt er að skjóta synjun landlæknis um staðfestingu skv. 2. mgr. til ráðherra. Sama á við um ákvörðun landlæknis um að gera frekari kröfur skv. 2. mgr. Sé um að ræða heilbrigðisþjónustu sem ríkið hyggst reka hefur ráðherra þó ávallt úrskurðarvald um það hvort skilyrði laga og faglegar kröfur séu uppfylltar.
  □ Landlæknir heldur skrá yfir rekstraraðila í heilbrigðisþjónustu og skal hann tilkynna ráðherra um allar breytingar sem verða á skránni.
- □ Ráðherra er heimilt að kveða nánar á um skilyrði fyrir rekstri heilbrigðisþjónustu á einstökum sviðum, framkvæmd eftirlits o.fl. í reglugerð.
+ □ Ráðherra er heimilt að kveða nánar á um skilyrði fyrir rekstri heilbrigðisþjónustu á einstökum sviðum, framkvæmd eftirlits o.fl. í reglugerð.[^1)^]
  □ Fyrir úttekt landlæknis skv. 1. mgr. og staðfestingu hans á því að faglegar kröfur séu uppfylltar, sbr. 2. mgr., er heimilt að taka gjald samkvæmt nánari ákvæðum í reglugerð sem ráðherra setur.
  □ Greiðsluþátttaka ríkisins í kostnaði við heilbrigðisþjónustu sem veitt er utan heilbrigðisstofnana sem ríkið rekur er háð því að um hana hafi tekist samningur milli rekstraraðila og ríkisins samkvæmt ákvæðum VII. kafla, nema fyrir liggi einhliða ákvörðun ráðherra um greiðsluþátttöku á grundvelli sérstakrar heimildar í öðrum lögum.
-■ *27. gr.* _Skráning óvæntra atvika._
+    _[^1)^]Rg. 786/2007_.
+ ■ *27. gr.* _Skráning óvæntra atvika._
  □ Heilbrigðisstofnanir, sjálfstætt starfandi heilbrigðisstarfsmenn og aðrir sem veita heilbrigðisþjónustu skulu halda skrá um óvænt atvik í þeim tilgangi að finna skýringar á þeim og leita leiða til að tryggja að þau endurtaki sig ekki. Með óvæntu atviki er átt við óhappatilvik, mistök, vanrækslu eða önnur atvik sem valdið hafa sjúklingi tjóni eða hefðu getað valdið sjúklingi tjóni. Um nánari framkvæmd slíkrar skráningar fer samkvæmt lögum um landlækni.
 
  *VII. kafli.* *Samningar um heilbrigðisþjónustu.*

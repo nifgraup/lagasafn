@@ -197,7 +197,7 @@ h2. Tollalög
 ■ *16. gr.* _Reglugerðarheimild._
  □ Ráðherra getur með reglugerð[^1)^] eða öðrum fyrirmælum sett nánari reglur um ákvörðun tollverðs er taki mið af samningnum um framkvæmd VII. gr. hins almenna samnings um tolla og viðskipti 1994. Reglurnar skulu m.a. tilgreina hvernig tollverð skal ákvarðað í þeim tilvikum sem ekki er hægt að ákvarða tollverð innflutningsvöru skv. 14. gr. og það sem bæta skal við tollverð samkvæmt ákvæðum 15. gr.
  □ Ráðherra er með sama hætti heimilt að setja reglur um mat á vörum til tollverðs og málsmeðferðarreglur þegar ástæða þykir til að draga í efa sannleiksgildi vörureiknings og annarra þeirra atriða sem um ræðir í 14. gr. og þess sem bæta skal við tollverð samkvæmt ákvæðum 15. gr.
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
  ■ *17. gr.* _Skipting kostnaðar._
  □ Kostnaði, gjöldum og öðrum útgjöldum, sbr. 15. gr., sem til verða þegar vörur eru sendar í einu farmskrárnúmeri sem flokkast í mismunandi tollskrárnúmer, skal jafnað hlutfallslega niður á einstakar vörur í sendingu miðað við verð þeirra á innkaupsstað.
  □ Ef vara er send lengra en til fyrstu tollhafnar, sem unnt hefði verið að afferma hana á, má draga frá flutningsgjaldsauka þann og sendingarkostnað sem sá framhaldsflutningur hefur haft í för með sér, enda sé gerð fullnægjandi grein fyrir kostnaðaraukanum. Þá skal og heimilt að draga frá þann hluta flutningsgjalds sem greiddur er vegna slæmrar aðstöðu við affermingu eða vegna þess að far affermir á fleiri stöðum en einum, enda sé gerð fullnægjandi grein fyrir þeim kostnaðarauka.
@@ -206,7 +206,7 @@ h2. Tollalög
  □ Tollafgreiðslugengi skal miða við opinbert viðmiðunargengi sem skráð er af Seðlabanka Íslands 28. hvers mánaðar. Tollafgreiðslugengi þeirra gjaldmiðla sem Seðlabanki Íslands tekur ekki til opinberrar skráningar skal ákvarðað af tollstjóranum í Reykjavík á sama degi að höfðu samráði við Seðlabanka Íslands.
  □ Við tollafgreiðslu sendinga í sérhverjum almanaksmánuði skal ákvörðun tollverðs byggð á tollafgreiðslugengi eins og það er ákveðið skv. 1. mgr. á 28. degi undanfarandi mánaðar.
  □ Ráðherra skal kveða nánar á[^1)^] um ákvörðun tollafgreiðslugengis sem nota skal við umreikning tollverðs vöru eða hluta þess yfir í íslenskar krónur. Jafnframt skal kveðið nánar á um gildistíma, fresti, bráðabirgðatollafgreiðslu, tollafgreiðslu þegar engrar skráningar gengis nýtur við og annað er lýtur að gengisviðmiðun við tollafgreiðslu.
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
 
  *VI. kafli.* *Tollflokkun.*
  ■ *20. gr.* _Tollflokkun vöru._
@@ -223,7 +223,7 @@ h2. Tollalög
 ■ *22. gr.* _Skilafrestur aðflutningsskjala._
  □ Innflytjandi skal láta tollstjóra í té aðflutningsskýrslu og önnur tollskjöl vegna innfluttrar vöru, sbr. 23. og 25. gr., áður en vara er afhent til notkunar innan lands eða sett í tollfrjálsa verslun eða tollfrjálsa forðageymslu. Tollskjöl skulu þó látin tollstjóra í té ekki síðar en sex mánuðum frá komudegi flutningsfars vöru til landsins nema vöru hafi verið ráðstafað í tollvörugeymslu eða á frísvæði.
  □ [Þrátt fyrir ákvæði 1. mgr. er heimilt að afhenda hraðsendingar til notkunar innan lands áður en tollskjöl eru látin tollstjóra í té. Ráðherra ákveður frest til að skila tollskjölum vegna hraðsendinga með reglugerð.[^1)^]][^2)^]
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100. [^2)^]L. 80/2006, 2. gr.
+    _[^1)^]Rg. 1100/2006_. [^2)^]L. 80/2006, 2. gr.
  ■ *23. gr.* _Rafrænar aðflutningsskýrslur._
  □ Tollmiðlarar skulu senda viðkomandi tollstjóra með skjalasendingum á milli tölva þær upplýsingar sem láta ber í té við tollafgreiðslu vara (SMT-tollafgreiðsla).
  □ Þrátt fyrir ákvæði 1. mgr. getur tollstjórinn í Reykjavík gefið fyrirmæli um að skriflegar aðflutningsskýrslur skuli látnar tollstjórum í té vegna vara sem þarfnast sérstaks eftirlits.
@@ -232,7 +232,7 @@ h2. Tollalög
  □ Innflytjendum samkvæmt þessari grein er heimilt að veita tollmiðlara umboð til þess að koma fram fyrir þeirra hönd gagnvart tollyfirvöldum með skjalasendingum á milli tölva (SMT-tollafgreiðslu).
  □ [Tollstjórinn í Reykjavík ákveður form rammaskeytis fyrir aðflutningsskýrslu og hvernig tæknilegri útfærslu SMT- og VEF-tollafgreiðslu skuli háttað að öðru leyti.][^2)^]
  □ ...[^2)^]
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100. [^2)^]L. 146/2006, 3. gr.
+    _[^1)^]Rg. 1100/2006_. [^2)^]L. 146/2006, 3. gr.
  ■ *24. gr.* _Leyfi til SMT- og VEF-tollafgreiðslu._
  □ SMT- og VEF-tollafgreiðsla er háð leyfi frá tollstjóra í því umdæmi þar sem umsækjandi á lögheimili.
  □ Leyfi til SMT- eða VEF-tollafgreiðslu er veitt þeim aðilum sem um getur í 1. og 3. mgr. 23. gr., enda uppfylli þeir eftirtalin skilyrði:
@@ -250,7 +250,7 @@ h2. Tollalög
 ■ *26. gr.* _Einfaldaðar aðflutningsskýrslur._
  □ Ráðherra getur í reglugerð[^1)^] heimilað einfaldaðar skýrslugjafir vegna póstsendinga, smásendinga og vara sem ekki eru á farmskrá. Ráðherra getur jafnframt heimilað einfaldari skýrslugjafir vegna vara sem njóta tollfríðinda við innflutning skv. 4., 6. og 7. gr.
  □ Tollstjórinn í Reykjavík ákveður form aðflutningsskýrslna skv. 1. mgr.
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
  ■ *27. gr.* _Skýrslugjafir ferðamanna og farmanna._
  □ Ferðamenn og farmenn, sem koma til landsins frá útlöndum, skulu ótilkvaddir gera tollstjóra grein fyrir tollskyldum varningi sem þeir hafa meðferðis. Sama gildir um varning sem er háður sérstökum innflutningsskilyrðum eða óheimilt er að flytja til landsins.
  □ Ferðamenn og farmenn, sem koma til landsins frá útlöndum eða fara frá landinu til útlanda, skulu ótilkvaddir gera grein fyrir hærri fjárhæð en sem nemur 15.000 evrum, miðað við opinbert viðmiðunargengi eins og það er skráð hverju sinni, sem þeir hafa meðferðis í reiðufé.
@@ -275,7 +275,7 @@ h2. Tollalög
  □ Öllum öðrum aðilum, bæði tollskyldum og öðrum, er skylt að láta tollstjóra í té ókeypis og í því formi sem óskað er allar nauðsynlegar upplýsingar og gögn, til nota við almennt tolleftirlit og áhættugreiningu, er hann fer fram á og snerta innflutning vöru eða sendingar sem og flutning farþega til og frá landinu. Í því sambandi skiptir ekki máli hvort upplýsingarnar varða þann aðila sem beiðninni er beint til eða aðra aðila sem hann getur veitt upplýsingar um.
 ■ *31. gr.* _Reglugerðarheimild._
  □ Ráðherra getur með reglugerð[^1)^] sett almenn skilyrði sem innflytjendur og aðrir þurfa að uppfylla vegna skýrslugjafar samkvæmt þessum kafla. Þar skal m.a. kveðið á um skilyrði fyrir leyfum til SMT- og VEF-tollafgreiðslu, tryggingar fyrir aðflutningsgjöldum á greiðslufresti, uppgjörstímabil, gjalddaga og skil aðflutningsgjalda, varðveislu gagna sem snerta tollmeðferð og innflutning vara, endurskoðun aðflutningsgjalda, tolleftirlit og önnur atriði eftir því sem nauðsyn ber til.
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
 
  *VIII. kafli.* *Ábyrgð á upplýsingum sem gefnar eru með aðflutningsskýrslu og öðrum tollskjölum.*
  ■ *32. gr.* _Ábyrgð innflytjanda._
@@ -301,7 +301,7 @@ h2. Tollalög
  □ [Bráðabirgðatollafgreiðsla gegn fjártryggingu, sbr. 1. mgr., er enn fremur heimil þegar nauðsynlegt reynist að fresta lokaákvörðun um tollverð vöru skv. 14. - 17. gr. eða um önnur atriði sem lög þessi taka til, enda þyki að mati tollstjóra ekkert því til fyrirstöðu að innflytjandi leysi vöruna til sín.][^1)^]
  □ [Tollmiðlara er heimilt að afhenda hraðsendingu til notkunar innan lands án greiðslu aðflutningsgjalda, enda láti hann tollstjóra í té upplýsingar um verðmæti, tegund og þyngd sendingar og setji tryggingu fyrir greiðslu aðflutningsgjalda. Ráðherra getur heimilað að trygging taki mið af þeim aðflutningsgjöldum sem ætla má að tollmiðlari verði ábyrgur fyrir vegna hraðsendingaþjónustu, í stað þess að trygging sé sett fyrir hverja sendingu.][^2)^]
  □ [Ráðherra setur nánari reglur[^3)^] um bráðabirgðatollafgreiðslur og hraðsendingar samkvæmt þessari grein.][^2)^]
-    _[^1)^]L. 146/2006, 5. gr._ [^2)^]L. 80/2006, 4. gr. [^3)^]"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]L. 146/2006, 5. gr._ [^2)^]L. 80/2006, 4. gr. [^3)^]Rg. 1100/2006.
  ■ *37. gr.* _Neyðarleyfi._
  □ Heimila má farmflytjendum eða öðrum aðilum, sem geyma ótollafgreiddar vörur, að afhenda á eigin ábyrgð vörusendingar, enda sé afhending þeirra brýn. Handhafi neyðarleyfis er ábyrgur fyrir greiðslu aðflutningsgjalda vegna vörusendingar ef innflytjandi stendur ekki sjálfur í skilum.
  □ Ráðherra setur nánari reglur um útgáfu neyðarleyfa samkvæmt þessari grein.
@@ -336,7 +336,7 @@ h2. Tollalög
     3. Í tollhöfn skulu vera fullnægjandi geymsluhús, geymslusvæði og önnur aðstaða til vörslu á ótollafgreiddum vörum.
  □ Ráðherra getur með sama hætti afturkallað ákvörðun um að tiltekin höfn skuli vera tollhöfn ef ekki er talin þörf á tollhöfn á viðkomandi stað eða skilyrði 3. mgr. eru ekki lengur uppfyllt.
  □ Við ráðstöfun á hafnarsvæðum, hafnarlóðum og öðrum svæðum sem ætluð eru til uppskipunar eða geymslu á ótollafgreiddum vörum skulu sveitarfélög og hafnarstjórnir hafa samráð við viðkomandi tollstjóra.
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
  ■ *42. gr.* _Hlutverk tollstjóra._
  □ Hlutverk tollstjóra í sínu umdæmi er:
     1. Álagning og innheimta tolla og annarra skatta og gjalda sem greiða ber við tollafgreiðslu samkvæmt lögum þessum eða öðrum lögum.
@@ -360,7 +360,7 @@ h2. Tollalög
     10. Skipulag áhættugreiningar á sviði tollamála á landsvísu og gerð eftirlitsáætlunar á grundvelli hennar fyrir landið allt.
     11. Stjórn einstakra verkefna tollstjóra sem krefjast viðamikils undirbúnings eða þátttöku starfsmanna tollstjóra úr fleiri en einu umdæmi að fengnu samþykki ráðherra. Tollstjóri skal tilkynna hlutaðeigandi tollstjóra eða tollstjórum ákvörðun sína varðandi stjórn verkefnis með hæfilegum fyrirvara.
     12. Starfræksla Tollskóla ríkisins sem sér um menntun tollstarfsmanna og annarra eftir því sem nánar er kveðið á um í lögum eða reglugerðum.[^1)^]
-    _[^1)^]_"Rg. 345/2006":ekkitil/ekkitil.html?REGL/2006345.
+    _[^1)^]Rg. 345/2006_.
  ■ *44. gr.* _Ríkistollanefnd._
  □ Ríkistollanefnd skal vera óháður úrskurðaraðili í ágreiningsmálum sem til hennar er skotið um ákvörðun tolla og annarra skatta og gjalda sem greiða ber við tollafgreiðslu, tollverð, tollflokkun og annað sem lög þessi mæla fyrir um.
  □ Ráðherra skipar ríkistollanefnd. Nefndin skal skipuð þremur mönnum og þremur til vara til fjögurra ára í senn. Skal einn þeirra vera formaður og skal hann fullnægja sömu hæfisskilyrðum og héraðsdómarar til skipunar í embætti. Aðrir nefndarmenn skulu hafa staðgóða þekkingu á tollamálum. Við skipun í nefndina skal þess gætt að nefndarmenn séu óháðir tollyfirvöldum og hagsmunaaðilum.
@@ -431,7 +431,7 @@ h2. Tollalög
  □ Allar vörur, sem far flytur frá útlöndum eða til útlanda, skulu færðar á farmskrá. Þó er ekki áskilið að upplýsingar um vörur í forða fars og farangur farþega og áhafnar séu skráðar á farmskrá. Óheimilt er að flytja úr fari ótollafgreidda vöru sem ekki er á farmskrá, nema henni sé samtímis framvísað við tollgæslu og leyfi fengið fyrir flutningi hennar úr farinu.
  □ Tilgreina skal í farmskrá tollhöfn sem er ákvörðunarstaður vöru.
  □ Ráðherra skal með reglugerð[^1)^] setja nánari reglur um farmskrá samkvæmt þessari grein, m.a. þær vörur sem færðar skulu í skrána, breytingar og leiðréttingar skrárinnar og ábyrgð á þeim upplýsingum sem þar koma fram.
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
  ■ *59. gr.* _Hættuleg efni._
  □ Ráðherra er heimilt að mæla svo fyrir í reglugerð að tilteknar hættulegar vörur, svo sem eiturefni og aðrar slíkar vörur, skuli tollafgreiddar á einum stað fyrir allt landið.
 ■ *60. gr.* _Geymsla bannvöru._
@@ -475,7 +475,7 @@ h2. Tollalög
  □ Heimilt er að geyma ótollafgreiddar vörur á geymslusvæðum skv. 2. - 5. tölul. 1. mgr. 69. gr. án tímatakmarkana.
 ■ *71. gr.* _Reglugerðarheimild._
  □ Ráðherra setur með reglugerð[^1)^] nánari ákvæði um meðferð og vörslu ótollafgreiddra vara samkvæmt þessum kafla.
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
  ■ *72. gr.* _Athafnasvæði og húsnæði til geymslu ótollafgreiddra vara._
  □ Geymslusvæði fyrir ótollafgreiddar vörur skal vera afmarkað rými, hús eða afgirt svæði eftir eðli vörunnar og undir lás leyfishafa. Skal það vera að öllu leyti með þeim hætti að það henti til tryggrar vörslu þeirra vara sem þar eiga að vera.
  □ Tollstjóri skal viðurkenna athafnasvæði og húsnæði sem ætlað er til geymslu ótollafgreiddra vara og eru breytingar á því óheimilar nema að fengnu leyfi hans.
@@ -556,7 +556,7 @@ h2. Tollalög
  □ Ráðherra skal halda skrá yfir leyfishafa samkvæmt þessari grein. Öðrum fyrirtækjum en þeim sem tekin hafa verið á skrá er óheimilt að starfrækja tollvörugeymslu.
  □ Hefji leyfishafi ekki starfsemi innan tólf mánaða frá því að tilkynnt er um veitingu starfsleyfis fellur leyfið niður. Starfsleyfi fellur jafnframt niður hafi leyfishafi ekki veitt þjónustu sem honum er heimilt samkvæmt lögum þessum samfellt í tólf mánuði.
  □ Ráðherra getur með reglugerð[^2)^] sett nánari fyrirmæli um skilyrði fyrir veitingu starfsleyfis til reksturs geymslusvæða fyrir ótollafgreiddar vörur.
-    _[^1)^]L. 108/2006, 27. gr._ [^2)^]"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]L. 108/2006, 27. gr._ [^2)^]Rg. 1100/2006.
  ■ *92. gr.* _Afturköllun starfsleyfis._
  □ Ráðherra getur að fenginni tillögu tollstjórans í Reykjavík afturkallað starfsleyfi skv. 91. gr. uppfylli leyfishafi ekki lengur skilyrði fyrir starfsleyfinu eða vanræki gróflega skyldur sínar samkvæmt lögum þessum.
 ■ *93. gr.* _Vörur sem heimilt er að flytja í tollvörugeymslu._
@@ -569,7 +569,7 @@ h2. Tollalög
     2. Ráðherra getur bundið leyfi samkvæmt þessari grein þeim skilyrðum sem hann telur nauðsynleg til þess að tryggja fullnægjandi tolleftirlit.
  □ Ráðherra getur að fenginni tillögu tollstjórans í Reykjavík afturkallað leyfi samkvæmt þessari grein uppfylli leyfishafi ekki lengur skilyrði 1. mgr.
  □ Ráðherra getur kveðið nánar á um skilyrði heimildar skv. 1. mgr. með reglugerð.[^1)^]
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
  ■ *95. gr.* _Aðvinnsla í tollvörugeymslu._
  □ Iðnaðarframleiðsla og önnur aðvinnsla vöru er óheimil í tollvörugeymslu.
  □ [Þrátt fyrir ákvæði 1. mgr. er óveruleg aðvinnsla á vörum heimil í tollvörugeymslu, svo sem einföld umpökkun, merking, samsetning, prófun og þrif, enda leiði aðvinnslan ekki til breyttrar tollflokkunar vöru.][^1)^]
@@ -592,7 +592,7 @@ h2. Tollalög
  □ Úr tollfrjálsri forðageymslu má aðeins selja og flytja vörur sem hæfilegan birgðaforða í far sem er í utanlandsferðum, enda verði vörurnar einungis til neyslu eða sölu í því fari. Ef sérstaklega stendur á, t.d. ef vörur liggja undir skemmdum, má tollstjóri heimila tollafgreiðslu á þeim til neyslu eða sölu innan lands, að fullnægðum lögboðnum innflutningsskilyrðum.
  □ Við mat á því hvað telst hæfilegur forði skal tollstjóri taka mið af stærð fars og gerð þess, fjölda farþega og stærð áhafnar og lengd ferðar.
  □ Ráðherra getur með reglugerð[^1)^] sett nánari reglur samkvæmt þessari grein.
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
  ■ *100. gr.* _Forði sendur í veg fyrir far._
  □ Vörur úr tollfrjálsri forðageymslu má senda til annarra tollhafna í veg fyrir skip og önnur farartæki í utanlandsferðum ef fylgt er þeim skilyrðum sem tollstjóri setur um flutninginn. Tollstjóri getur undanskilið tiltekna vöruflokka slíkum flutningi.
  *Tollfrjálsar verslanir.*
@@ -612,7 +612,7 @@ h2. Tollalög
  □ Eingöngu er heimilt að selja farþegum og áhöfnum millilandafara á leið úr landi vörur úr tollfrjálsri verslun. Sala skal eingöngu heimil gegn framvísun brottfararspjalds.
  □ Þrátt fyrir ákvæði 1. mgr. getur ráðherra heimilað leyfishafa að selja farþegum og áhöfnum millilandafara við komu til landsins vörur úr tollfrjálsri verslun. Slík verslun skal sérstaklega afmörkuð og eingöngu aðgengileg fyrir farþega og áhafnir sem koma til landsins.
  □ Ráðherra ákveður með reglugerð[^1)^] hvaða vörur er heimilt að selja í tollfrjálsri verslun skv. 2. mgr.
-    _[^1)^]_"Rg. 641/2006":ekkitil/ekkitil.html?REGL/2006641.
+    _[^1)^]Rg. 641/2006_.
  *Frísvæði.*
  ■ *105. gr.* _Frísvæði._
  □ Að fenginni skriflegri umsókn og að uppfylltum skilyrðum 1. mgr. 91. gr. getur ráðherra heimilað lögaðilum að reka frísvæði þar sem ótollafgreiddar vörur og innlendar framleiðsluvörur hljóta aðvinnslu umfram þá aðvinnslu sem heimil er í tollvörugeymslu, sbr. 95. gr.
@@ -783,7 +783,7 @@ h2. Tollalög
 ■ *141. gr.* _Einfaldaðar útflutningsskýrslur vegna póstverslunar._
  □ Einstaklingar og lögaðilar sem stunda í atvinnuskyni útflutning smásendinga í póstverslun til einstaklinga geta sótt um leyfi tollstjórans í Reykjavík til að skila einfölduðum útflutningsskýrslum sem láta má tollstjóra í té eftir að útflutningur hefur átt sér stað.
  □ Ráðherra getur með reglugerð[^1)^] kveðið á um skilyrði fyrir heimild til einfaldaðrar skýrslugjafar við útflutning skv. 1. mgr.
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
  ■ *142. gr.* Útflutningsskilyrðum skal fullnægt og útflutningsgjöld skulu greidd í því tollumdæmi þar sem útflutningsvara er flutt í far sem flytja á vöruna til útlanda. Ráðherra getur með reglugerð vikið frá þessu ákvæði.
 ■ *143. gr.* _Aflaskýrslur íslenskra veiðiskipa._
  □ Skýrslu um afla íslenskra veiðiskipa, sem fluttur er út með þeim sjálfum til sölu á erlendum markaði, skal skipstjóri gefa í fyrstu höfn sem skipið tekur hér á landi á leið sinni frá útlöndum eða næst þegar það leitar hafnar hér á landi taki skipið ekki höfn áður en það flytur afla á erlendan markað. Taki veiðiskipið ekki fyrstu höfn á þeim stað þar sem það er gert út ber að senda skýrslu þessa til tollstjóra í því tollumdæmi þar sem útgerðarstaður skipsins er.
@@ -943,12 +943,12 @@ h2. Tollalög
  □ Breytingar á tollskrá skv. 1. mgr. skulu birtar í A-deild Stjórnartíðinda og hafa ekki afturvirkt gildi. Breytingarnar skulu ekki hafa áhrif á tolla eins og þeir hafa verið ákveðnir í tollskrá, gjöld eða gjaldfrelsi, heimildir, takmarkanir og annað sem kveðið er á um í öðrum lögum.
  □ Ráðherra er heimilt að sameina í eitt tollskrárnúmer vörur sem koma til landsins eða fara frá landinu með hraðsendingum eða póstsendingum í einu sendingarnúmeri og eru að tollverðmæti 25.000 kr. eða minna. Slík breyting skal þó ekki hafa áhrif á fjárhæð tolls af viðkomandi vörum.
 ■ *190. gr.* Ráðherra setur reglur[^1)^] um almennan tollafgreiðslutíma. Tollstjóri getur heimilað að afgreiðsla fari fram á öðrum tímum, enda greiði viðkomandi þann kostnað sem af því leiðir.
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
  ■ *191. gr.* Ráðherra setur reglur um skil tollstjóra á upplýsingum til Hagstofu Íslands úr aðflutnings- eða útflutningsskjölum og öðrum gögnum, að höfðu samráði við Hagstofu Íslands.
 ■ *192. gr.* Ráðherra skal hrinda í framkvæmd ákvæðum í fríverslunar- og milliríkjasamningum sem Ísland er aðili að, svo og bókunum og viðaukum við slíka samninga sem teljast óaðskiljanlegur hluti þeirra.
  □ Ráðherra getur samið við önnur ríki um samstarf á sviði tollmála, m.a. til að samræma og einfalda tollmeðferð vegna gagnkvæmra upplýsingaskipta og innheimtu vangreiddra gjalda og til að vinna gegn ólöglegum innflutningi og útflutningi.
 ■ *193. gr.* Ráðherra setur með reglugerð[^1)^] eða öðrum fyrirmælum nánari ákvæði um framkvæmd laga þessara.
-    _[^1)^]_"Rg. 1100/2006":ekkitil/ekkitil.html?REGL/20061100.
+    _[^1)^]Rg. 1100/2006_.
  ■ *194. gr.* Ákvæði laga þessara um flokkun vara, álagningu, innheimtu, lögveð, tilhögun bókhalds, aðflutnings- og útflutningsskýrslur og önnur skjöl, eftirlit, stöðvun tollafgreiðslu, viðurlög, sektir, refsingar og aðra framkvæmd varðandi toll skulu gilda eftir því sem við getur átt um aðflutningsgjöld og útflutningsgjöld sem ákveðin eru samkvæmt öðrum lögum, nema annað sé þar ákveðið.
 
  *XXIV. kafli.* *Gjaldtökuheimildir.*

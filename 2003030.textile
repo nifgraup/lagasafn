@@ -99,7 +99,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  □ Rekstrarfélagi er heimilt að fela öðrum aðilum verkefni þau sem kveðið er á um í 17. gr. að fengnu samþykki Fjármálaeftirlitsins. Rekstrarfélagi er þó aldrei heimilt að útvista öll verkefni skv. 17. gr. Verkefni skv. 1. tölul. 17. gr. er ekki heimilt að fela vörslufyrirtæki eða öðru félagi fari hagsmunir þess ekki saman við hagsmuni rekstrarfélags og eigenda hlutdeildarskírteina.
  □ Nú felur rekstrarfélag öðru fyrirtæki hluta af verkefnum sínum skv. 17. gr. og hefur það engin áhrif á ábyrgð rekstrarfélags gagnvart eigendum hlutdeildarskírteina.
  □ Í reglugerð[^1)^] skal setja nánari reglur um útvistun verkefna rekstrarfélaga.
-    _[^1)^]_"Rg. 792/2003":ekkitil/ekkitil.html?REGL/2003792.
+    _[^1)^]Rg. 792/2003_.
  ■ *19. gr.* _Góðir viðskiptahættir og venjur._
  □ Rekstrarfélag skal starfrækja verðbréfasjóð í samræmi við góða viðskiptahætti og venjur með trúverðugleika markaðarins og hagsmuni eigenda hlutdeildarskírteina að leiðarljósi.
  _C. Vörslufyrirtæki._
@@ -149,7 +149,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
 ■ *28. gr.* _Útreikningur innlausnarvirðis._
  □ Innlausnarvirði hlutdeildarskírteina verðbréfasjóða er markaðsvirði samanlagðra eigna að frádregnum skuldum sjóðsins við innlausn, svo sem skuldum hans við innlánsstofnanir, ógreiddum umsýslu- og stjórnunarkostnaði, innheimtukostnaði og áföllnum eða reiknuðum opinberum gjöldum, deilt niður á heildarfjölda útgefinna og óinnleystra hlutdeildarskírteina.
  □ Ráðherra getur í reglugerð[^1)^] sett nánari reglur um útreikning á innlausnarvirði hlutdeildarskírteina verðbréfasjóða og mat á markaðsvirði eigna.
-    _[^1)^]_"Rg. 792/2003":ekkitil/ekkitil.html?REGL/2003792.
+    _[^1)^]Rg. 792/2003_.
  ■ *29. gr.* _Auglýsing innlausnarvirðis._
  □ Innlausnarvirði hlutdeildarskírteina verðbréfasjóða skal reiknað daglega og auglýst opinberlega eigi sjaldnar en tvisvar í mánuði. Fjármálaeftirlitið getur ákveðið að opinber auglýsing innlausnarvirðis skuli fara fram oftar ef ástæða þykir til.
  _F. Fjárfestingarheimildir._
@@ -223,13 +223,13 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  _H. Upplýsingagjöf._
 ■ *46. gr.* _Ársreikningur og árshlutauppgjör._
  □ Í ársreikningi og árshlutauppgjörum rekstrarfélags skulu sérgreindar upplýsingar um verðbréfasjóð eða sérhverja deild hans. Í reglugerð[^1)^] skal setja nánari reglur um sérgreindar upplýsingar um verðbréfasjóði í ársreikningum og árshlutauppgjörum. Þá skulu rekstrarfélög senda Fjármálaeftirlitinu ársfjórðungslegt efnahagsyfirlit verðbréfasjóða í því formi sem Fjármálaeftirlitið ákveður.
-    _[^1)^]Rg. 792/2003,_ "rgl. 97/2004":2004097.html.
+    _[^1)^]Rg. 792/2003, rgl. 97/2004_.
  ■ *47. gr.* _Útboðslýsing og útdráttur úr útboðslýsingu._
  □ Rekstrarfélag skal gefa út útboðslýsingu og útdrátt úr útboðslýsingu fyrir verðbréfasjóð.
  □ Í útboðslýsingu skulu koma fram nauðsynlegar upplýsingar til að fjárfestum sé kleift að meta kosti fjárfestinga í viðkomandi verðbréfasjóði. Í útdrætti úr útboðslýsingu skal draga fram meginatriði útboðslýsingar.
  □ Rekstrarfélag skal senda Fjármálaeftirlitinu útboðslýsingu og útdrátt úr útboðslýsingu í kjölfar breytinga á þeim.
  □ Nánar skal kveðið á um útboðslýsingar og útdrætti úr útboðslýsingum vegna verðbréfasjóða í reglugerð,[^1)^] meðal annars um hvaða upplýsingar skuli birta í útboðslýsingum og útdráttum úr þeim.
-    _[^1)^]_"Rgl. 792/2003":ekkitil/ekkitil.html?REGL/2003792.
+    _[^1)^]Rgl. 792/2003_.
  ■ *48. gr.* _Nánari upplýsingar í útboðslýsingu._
  □ Í útboðslýsingu verðbréfasjóðs skal á ítarlegan hátt lýsa fjárfestingarstefnu sjóðsins og, ef við á, einstakra deilda hans og tilgreina þær tegundir fjárfestinga sem honum eru heimilar samkvæmt reglum sjóðsins.
  □ Í útboðslýsingu skal tilgreina hvort sjóði, eða einstakri deild hans, er heimilt að fjárfesta í afleiðum, og sé slíkt heimilt, hvort notkun þeirra takmarkist við tækni til að lágmarka áhættu og fastsetja hagnað vegna verðsveiflna.
@@ -330,7 +330,7 @@ h2. Lög um verðbréfasjóði og fjárfestingarsjóði
  □ Telji Fjármálaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa getur það krafist gagna og upplýsinga hjá viðkomandi aðilum eða hjá eftirlitsskyldum aðilum sem nauðsynleg eru til að ganga úr skugga um hvort svo sé. Getur það krafist þess að slíkri starfsemi sé hætt þegar í stað. Jafnframt er því heimilt að birta opinberlega nöfn aðila sem taldir eru bjóða þjónustu án tilskilinna leyfa.
 ■ *67. gr.* _Reglugerð._
  □ Lög þessi heyra undir viðskiptaráðherra og skal hann kveða nánar á um framkvæmd þeirra með reglugerð.[^1)^] Í reglugerð er meðal annars heimilt að kveða á um fjárfestingarheimildir verðbréfasjóða og fjárfestingarsjóða, góða viðskiptahætti, útvistun verkefna rekstrarfélaga, innlausnarvirði, markaðssetningu utan heimalands, heimildir til markaðssetningar annarra sjóða en verðbréfasjóða utan heimalands og upplýsingagjöf verðbréfasjóða og fjárfestingarsjóða. Í reglugerðinni er einnig heimilt að kveða á um notkun afleiðusamninga verðbréfasjóða og fjárfestingarsjóða og aðferðir til að meta áhrif þeirra á áhættu eignasafns sjóðanna.
-    _[^1)^]_"Rg. 792/2003":ekkitil/ekkitil.html?REGL/2003792.
+    _[^1)^]Rg. 792/2003_.
 
  *V. kafli.* *Viðurlög.*
  ■ *68. gr.* _[Stjórnvaldssektir._

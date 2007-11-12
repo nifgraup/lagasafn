@@ -7,7 +7,7 @@ h2. Lög um þingsköp Alþingis
 <hr />
 
 
- *Tóku gildi 31. maí 1991.* _Breytt með_ l. 74/1992 (tóku gildi 19. ágúst 1992), l. 102/1993 (tóku gildi 6. okt. 1993) og l. 68/2007 (tóku gildi 4. apríl 2007).
+ *Tóku gildi 31. maí 1991.* _Breytt með_ l. 74/1992 (tóku gildi 19. ágúst 1992), l. 102/1993 (tóku gildi 6. okt. 1993), l. 68/2007 (tóku gildi 4. apríl 2007) og l. 102/2007 (tóku gildi 7. júní 2007).
 
 
  *I. Þingskipun.*
@@ -58,19 +58,19 @@ h2. Lög um þingsköp Alþingis
  *II. Nefndir.*
  ■ *13. gr.* Á Alþingi starfa þessar fastanefndir:
     1. Allsherjarnefnd.
-    2. Efnahags- og viðskiptanefnd.
-    3. Félagsmálanefnd.
+    2. [Efnahags- og skattanefnd.][^1)^]
+    3. [Félags- og tryggingamálanefnd.][^1)^]
     4. Fjárlaganefnd.
-    5. Heilbrigðis- og trygginganefnd.
+    5. [Heilbrigðisnefnd.][^1)^]
     6. Iðnaðarnefnd.
-    7. Landbúnaðarnefnd.
-    8. Menntamálanefnd.
-    9. Samgöngunefnd.
-    10. Sjávarútvegsnefnd.
-    11. Umhverfisnefnd.
-    12. Utanríkismálanefnd.
- □ [Fastanefndir skal kjósa á fyrsta fundi Alþingis að afloknum alþingiskosningum, sbr. 68. gr.][^1)^]
-    _[^1)^]L. 68/2007, 8. gr._
+    [7. ][^1)^] Menntamálanefnd.
+    [8. ][^1)^] Samgöngunefnd.
+    [9. ][^1)^] [Sjávarútvegs- og landbúnaðarnefnd.][^1)^]
+    [10. ][^1)^] Umhverfisnefnd.
+    [11. ][^1)^] Utanríkismálanefnd.
+    [12. Viðskiptanefnd.][^1)^]
+ □ [Fastanefndir skal kjósa á fyrsta fundi Alþingis að afloknum alþingiskosningum, sbr. 68. gr.][^2)^]
+    _[^1)^]L. 102/2007, 1. gr._ [^2)^]L. 68/2007, 8. gr.
  ■ *14. gr.* Í fjárlaganefnd skulu kosnir ellefu þingmenn en í aðrar fastanefndir níu þingmenn. Til utanríkismálanefndar skal að auki kjósa níu varamenn. Þingflokki, sem ekki á fulltrúa í fastanefnd skv. 13. gr., er heimilt, með samþykki nefndarinnar, að tilnefna áheyrnarfulltrúa til setu á fundum hennar.
  □ Fastanefnd kýs sér formann og varaformann er gegnir störfum formanns í forföllum hans. Skulu þeir kosnir á fyrsta fundi nefndarinnar er boða skal til innan viku frá kosningu hennar.
  □ Sá kveður þingnefnd saman til fyrsta fundar er fyrstur var kosinn og lætur hann kjósa formann og varaformann nefndarinnar. Forseti skal tilkynna kjör þeirra á þingfundi.
@@ -96,9 +96,9 @@ h2. Lög um þingsköp Alþingis
     _[^1)^]L. 68/2007, 11. gr._
  ■ *24. gr.* Utanríkismálanefnd skal vera ríkisstjórninni til ráðuneytis um meiri háttar utanríkismál enda skal ríkisstjórnin ávallt bera undir hana slík mál jafnt á þingtíma sem í þinghléum. Nefndarmenn eru bundnir þagnarskyldu um þá vitneskju sem þeir fá í nefndinni ef formaður eða ráðherra kveður svo á.
 ■ *25. gr.* Til fjárlaganefndar skal m.a. vísa frumvarpi til fjárlaga, fjáraukalaga, lánsfjárlaga og laga um samþykkt á ríkisreikningi er 1. umræðu um þau er lokið. Frumvarpi til fjárlaga skal að nýju vísað til fjárlaganefndar að lokinni 2. umræðu.
- □ Fjárlaganefnd getur vísað til annarra fastanefnda þeim þáttum fjárlagafrumvarpsins sem fjalla um málefnasvið þeirra. Með sama hætti geta aðrar fastanefndir ákveðið að fjalla um einstaka þætti fjárlagafrumvarpsins. Til efnahags- og viðskiptanefndar vísar fjárlaganefnd frumvarpi til lánsfjárlaga og tekjugrein fjárlagafrumvarps. Nefndirnar skila fjárlaganefnd áliti og tillögum svo tímanlega fyrir 2. umræðu fjárlaga sem fjárlaganefnd ákveður. Efnahags- og viðskiptanefnd skal gera grein fyrir áhrifum skattalagabreytinga á tekjur ríkissjóðs fyrir 3. umræðu. Álit og tillögur nefndanna skal prenta sem fylgiskjöl með nefndaráliti fjárlaganefndar eða meiri hluta hennar. 3. umræða um frumvarp til fjárlaga skal hefjast eigi síðar en 15. desember.
- □ Fjárlaganefnd á rétt á að fá þær upplýsingar sem hún telur nauðsynlegar um rekstur og fjárhagsáætlanir fyrirtækja og stofnana sem óska eftir framlögum úr ríkissjóði. Enn fremur er þeim stofnunum ríkisins, er fást við efnahagsmál, skylt að veita nefndinni upplýsingar og aðstoð sem hún þarf á að halda við afgreiðslu þingmála. [Þá skal fjárlaganefnd fjalla um starfsskýrslu Ríkisendurskoðunar áður en hún kemur á dagskrá þingsins og skila áliti um hana.][^1)^]
-    _[^1)^]L. 68/2007, 12. gr._
+ □ Fjárlaganefnd getur vísað til annarra fastanefnda þeim þáttum fjárlagafrumvarpsins sem fjalla um málefnasvið þeirra. Með sama hætti geta aðrar fastanefndir ákveðið að fjalla um einstaka þætti fjárlagafrumvarpsins. Til [efnahags- og skattanefndar][^1)^] vísar fjárlaganefnd frumvarpi til lánsfjárlaga og tekjugrein fjárlagafrumvarps. Nefndirnar skila fjárlaganefnd áliti og tillögum svo tímanlega fyrir 2. umræðu fjárlaga sem fjárlaganefnd ákveður. [Efnahags- og skattanefnd][^1)^] skal gera grein fyrir áhrifum skattalagabreytinga á tekjur ríkissjóðs fyrir 3. umræðu. Álit og tillögur nefndanna skal prenta sem fylgiskjöl með nefndaráliti fjárlaganefndar eða meiri hluta hennar. 3. umræða um frumvarp til fjárlaga skal hefjast eigi síðar en 15. desember.
+ □ Fjárlaganefnd á rétt á að fá þær upplýsingar sem hún telur nauðsynlegar um rekstur og fjárhagsáætlanir fyrirtækja og stofnana sem óska eftir framlögum úr ríkissjóði. Enn fremur er þeim stofnunum ríkisins, er fást við efnahagsmál, skylt að veita nefndinni upplýsingar og aðstoð sem hún þarf á að halda við afgreiðslu þingmála. [Þá skal fjárlaganefnd fjalla um starfsskýrslu Ríkisendurskoðunar áður en hún kemur á dagskrá þingsins og skila áliti um hana.][^2)^]
+    _[^1)^]L. 102/2007, 2. gr._ [^2)^]L. 68/2007, 12. gr.
  ■ *26. gr.* Heimilt er nefnd að eigin frumkvæði að fjalla um önnur mál en þau sem þingið vísar til hennar. Um slík mál getur nefnd gefið þinginu skýrslu, sbr. 31. gr.
  □ [Í skýrslu frá nefnd má og gera tillögu til þingsályktunar og kemur tillagan til afgreiðslu við lok umræðunnar um skýrsluna, sbr. 2. málsl. 2. mgr. 44. gr.][^1)^]
     _[^1)^]L. 68/2007, 13. gr._
@@ -229,7 +229,8 @@ h2. Lög um þingsköp Alþingis
  □ Ef atkvæðagreiðsla getur eigi farið fram með rafeindabúnaði skal hún fara fram á þann hátt að hver þingmaður réttir upp hönd þegar forseti leitar atkvæða með eða móti máli eða hvaða þingmenn greiði ekki atkvæði. Forseti lætur telja atkvæðin, svo og þá sem greiða ekki atkvæði, og skýrir frá úrslitum.
  □ Forseti getur látið fara fram nafnakall í stað atkvæðagreiðslu skv. 2. eða 3. mgr. Honum er það og heimilt þótt atkvæðagreiðsla hafi áður farið fram ef hún hefur verið óglögg eða verið hreyft athugasemdum við hana, enda fari hin síðari atkvæðagreiðsla fram þegar í stað. Komi fram ósk um nafnakall skal við henni orðið. Við nafnakall skal farið eftir tölusettri nafnaskrá í stafrófsröð og hlutað um í hvert sinn á hverri raðtölunni skuli byrja nafnakallið. Við nafnakall greiðir forseti atkvæði síðastur.
  □ Atkvæðagreiðslu skv. 2. mgr. má endurtaka þótt úrslitum hennar hafi verið lýst ef forseti telur ástæðu til þess eða ósk berst um það frá þingmanni. Hin nýja atkvæðagreiðsla skal þá fara fram þegar í stað og áður en nokkur önnur ályktun er gerð eða nýtt mál tekið fyrir. Vilji þingmaður á fundi gera leiðréttingu eftir að atkvæði hafa verið greidd skv. 2. mgr. er honum heimilt að láta skrá hana í þingtíðindin en þó því aðeins að hann hafi tekið þátt í atkvæðagreiðslunni. Leiðréttingin breytir ekki úrslitum atkvæðagreiðslunnar.][^1)^]
-    _[^1)^]L. 68/2007, 25. gr._
+ □ [Við atkvæðagreiðslu með rafeindabúnaði, svo og nafnakall, er þingmanni heimilt að gera stutta grein fyrir atkvæði sínu. Slík greinargerð má þó eigi taka lengri tíma en eina mínútu.][^2)^]
+    _[^1)^]L. 68/2007, 25. gr._ [^2)^]L. 102/2007, 3. gr.
  ■ *67. gr.* Afl atkvæða ræður um úrslit mála og málsatriða nema öðruvísi sé ákveðið í stjórnarskránni eða þingsköpum. [Skal þá telja atkvæði með og móti máli.][^1)^]
     _[^1)^]L. 68/2007, 26. gr._
  ■ *68. gr.* Um kosningar fer eftir því sem fyrir er mælt í 2. mgr. 3. gr. að því viðbættu að þegar kjósa á um tvo menn eða fleiri, hvort heldur er til starfa innan þings eða utan, skal forseti beita hlutfallskosningu með aðferð þeirri er kennd er við d'Hondt (listakosning). Aðferðin er svo sem greinir í 2. - 4. mgr.

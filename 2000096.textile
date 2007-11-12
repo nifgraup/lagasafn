@@ -38,7 +38,7 @@ h2. Lög um jafna stöðu og jafnan rétt kvenna og karla
     h. vinna önnur verkefni í samræmi við markmið og gildissvið laganna samkvæmt nánari ákvörðun ráðherra.
  □ Opinberum stofnunum, atvinnurekendum og félagasamtökum er skylt að veita Jafnréttisstofu hvers konar almennar upplýsingar sem nauðsynlegar eru starfsemi hennar.
  □ Þegar sérstaklega stendur á og ætla má að úrskurður dómstóla geti haft víðtæk áhrif í átt til jafnréttis eða hagsmunir kæranda eru metnir þess eðlis að mikilvægt þykir að fá úrlausn dómstóla getur Jafnréttisstofa höfðað mál til viðurkenningar á rétti kæranda á grundvelli álitsgerða kærunefndar jafnréttismála skv. 4. gr. Ráðherra setur í reglugerð[^1)^] nánari fyrirmæli um skilyrði fyrir málshöfðunarheimild Jafnréttisstofu.
-    _[^1)^]_"Rg. 47/2003":ekkitil/ekkitil.html?REGL/2003047, "rg. 923/2006":ekkitil/ekkitil.html?REGL/2006923.
+    _[^1)^]Rg. 47/2003_, rg. 923/2006.
  ■ *4. gr.* _Kærunefnd jafnréttismála._
  □ Félagsmálaráðherra skipar kærunefnd jafnréttismála. Nefndarmenn skulu skipaðir til þriggja ára í senn. Ráðherra skipar einn án tilnefningar en Hæstiréttur tilnefnir tvo, formann og varaformann nefndarinnar. Varamenn skulu skipaðir á sama hátt. Nefndarmenn skulu vera lögfræðingar.
  □ Verkefni kærunefndar jafnréttismála er að taka til meðferðar og gefa skriflegt rökstutt álit um hvort ákvæði laganna hafi verið brotin. Niðurstöður kærunefndar sæta ekki kæru til æðra stjórnvalds.
@@ -46,7 +46,7 @@ h2. Lög um jafna stöðu og jafnan rétt kvenna og karla
  □ Nú telur kærunefnd jafnréttismála að ákvæði laga þessara séu brotin og skal hún þá beina rökstuddum tilmælum um úrbætur til hlutaðeigandi aðila.
  □ Kærunefnd jafnréttismála skal árlega gefa út álit sín.
  □ Kostnaður við starfsemi nefndarinnar greiðist úr ríkissjóði. Félagsmálaráðherra getur með reglugerð[^1)^] sett nánari ákvæði um störf kærunefndar og skrifstofuhald.
-    _[^1)^]_"Rg. 50/2003":ekkitil/ekkitil.html?REGL/2003050.
+    _[^1)^]Rg. 50/2003_.
  ■ *5. gr.* _Málsmeðferð fyrir kærunefnd jafnréttismála._
  □ Einstaklingar og félagasamtök, í eigin nafni eða fyrir hönd félagsmanna, sem telja að ákvæði laga þessara hafi verið brotin á sér, geta leitað atbeina kærunefndar jafnréttismála. Kærunefnd getur enn fremur þegar sérstaklega stendur á tekið mál til meðferðar samkvæmt ábendingum annarra.
  □ Erindi skulu berast nefndinni skriflega innan eins árs frá því að ætlað brot á lögum þessum lá fyrir eða frá því að sá er málið varðar fékk vitneskju um ætlað brot. Sé leitað rökstuðnings á grundvelli ákvæða stjórnsýslulaga tekur fresturinn að líða þegar sá rökstuðningur liggur fyrir. Erindi telst nægjanlega snemma fram komið ef bréf sem hefur það að geyma hefur borist nefndinni eða verið póstlagt áður en fresturinn er liðinn.
@@ -61,7 +61,7 @@ h2. Lög um jafna stöðu og jafnan rétt kvenna og karla
  □ Eftir hverjar alþingiskosningar skipar félagsmálaráðherra níu manna Jafnréttisráð. Ráðherra skipar formann án tilnefningar, einn nefndarmann tilnefndan af Alþýðusambandi Íslands, einn tilnefndan af Bandalagi starfsmanna ríkis og bæja, einn tilnefndan af fjármálaráðuneyti, einn tilnefndan af Háskóla Íslands, einn tilnefndan af Kvenfélagasambandi Íslands, einn tilnefndan af Kvenréttindafélagi Íslands, einn tilnefndan af Samtökum atvinnulífsins og einn tilnefndan af Sambandi íslenskra sveitarfélaga.
  □ Tilnefningaraðilar skulu tilnefna einn karl og eina konu til setu í Jafnréttisráði. Við skipun í ráðið skal þess gætt að hlutfall kynjanna verði sem jafnast.
  □ Kostnaður við starfsemi ráðsins greiðist úr ríkissjóði. Félagsmálaráðherra getur með reglugerð[^1)^] sett nánari ákvæði um störf Jafnréttisráðs og skrifstofuhald.
-    _[^1)^]_"Rg. 48/2003":ekkitil/ekkitil.html?REGL/2003048.
+    _[^1)^]Rg. 48/2003_.
  ■ *8. gr.* _Hlutverk Jafnréttisráðs._
  □ Jafnréttisráð skal stuðla markvisst að jafnri stöðu og jöfnum rétti kvenna og karla á vinnumarkaðinum. Ráðið skal gera tillögur til félagsmálaráðherra um aðgerðir á þessu sviði.
  □ Jafnréttisráð er stjórnvöldum til ráðgjafar um jafnréttismál í vinnumarkaðsmálum og getur jafnframt gert tillögur um úrbætur í jafnréttismálum á öðrum sviðum samfélagsins.
@@ -137,7 +137,7 @@ h2. Lög um jafna stöðu og jafnan rétt kvenna og karla
 
  *VI. kafli.* *Önnur ákvæði.*
 ■ *30. gr.* Félagsmálaráðherra er heimilt að setja reglugerð[^1)^] um nánari framkvæmd laga þessara.
-    _[^1)^]_"Rg. 47/2003":ekkitil/ekkitil.html?REGL/2003047, "rg. 48/2003":ekkitil/ekkitil.html?REGL/2003048, "rg. 50/2003":ekkitil/ekkitil.html?REGL/2003050, "rg. 923/2006":ekkitil/ekkitil.html?REGL/2006923.
+    _[^1)^]Rg. 47/2003_, rg. 48/2003, rg. 50/2003, rg. 923/2006.
  ■ *31. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi. ...
  ■ *Ákvæði til bráðabirgða.* Við gildistöku laga þessara fellur niður umboð núverandi Jafnréttisráðs og skal skipa nýtt Jafnréttisráð sem starfar fram að næstu alþingiskosningum.

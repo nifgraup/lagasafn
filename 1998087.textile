@@ -7,7 +7,7 @@ h2. Lög um opinbert eftirlit með fjármálastarfsemi
 <hr />
 
 
- *Tóku gildi 1. janúar 1999.* _Breytt með_ "l. 99/1999":1999099.html (tóku gildi 30. des. 1999), l. 11/2000 (tóku gildi 28. apríl 2000), "l. 37/2002":2002037.html (tóku gildi 7. maí 2002), l. 50/2003 (tóku gildi 7. apríl 2003), l. 67/2006 (tóku gildi 24. júní 2006), l. 55/2007 (tóku gildi 3. apríl 2007) og l. 57/2007 (tóku gildi 3. apríl 2007).
+ *Tóku gildi 1. janúar 1999.* _Breytt með_ "l. 99/1999":1999099.html (tóku gildi 30. des. 1999), l. 11/2000 (tóku gildi 28. apríl 2000), "l. 37/2002":2002037.html (tóku gildi 7. maí 2002), l. 50/2003 (tóku gildi 7. apríl 2003), l. 67/2006 (tóku gildi 24. júní 2006), l. 55/2007 (tóku gildi 3. apríl 2007), l. 57/2007 (tóku gildi 3. apríl 2007) og l. 111/2007 (taka gildi 1. nóv. 2007; _EES-samningurinn:_ IX. viðauki tilskipun 2004/39/EB).
 
 
  *I. kafli.* *Markmið og gildissvið.*
@@ -24,15 +24,15 @@ h2. Lög um opinbert eftirlit með fjármálastarfsemi
     [5. ][^1)^] félaga og einstaklinga sem stunda vátryggingamiðlun,
     [6. ][^1)^] fyrirtækja í verðbréfaþjónustu,
     [7. ][^1)^] verðbréfasjóða og rekstrarfélaga verðbréfasjóða,
-    [8. ][^1)^] [kauphalla og skipulegra tilboðsmarkaða],[^2)^]
+    [8. ][^1)^] [kauphalla og skipulegra tilboðsmarkaða],[^2)3)^]
     [9. ][^1)^] verðbréfamiðstöðva,
     [10. ][^1)^] lífeyrissjóða,
     [11. ][^1)^] aðila, annarra en greinir í 1. tölul., sem heimild hafa lögum samkvæmt til þess að taka við innlánum.
  □ Lögin taka einnig til eftirlits með annarri starfsemi en greinir í 1. mgr. sem Fjármálaeftirlitinu er falið samkvæmt sérstökum lögum.
- □ [Lögin taka jafnframt til eftirlits og annarra verkefna gagnvart einstaklingum og lögaðilum sem Fjármálaeftirlitinu er falið að framkvæma samkvæmt ákvæðum sérlaga.][^3)^]
+ □ [Lögin taka jafnframt til eftirlits og annarra verkefna gagnvart einstaklingum og lögaðilum sem Fjármálaeftirlitinu er falið að framkvæma samkvæmt ákvæðum sérlaga.][^4)^]
  □ Um eftirlit með starfsemi innlendra aðila erlendis og erlendra aðila hér á landi fer samkvæmt ákvæðum sérlaga og alþjóðasamningum sem Ísland er aðili að.
  □ Þegar vafi leikur á um hvort starfsemi fellur undir þessa grein sker stjórn Fjármálaeftirlitsins úr.
-    _[^1)^]_"L. 37/2002, 19. gr.":2002037.html [^2)^]L. 11/2000, 1. gr. [^3)^]L. 67/2006, 1. gr.
+    _[^1)^]_"L. 37/2002, 19. gr.":2002037.html [^2)^]L. 11/2000, 1. gr. [^3)^]Töluliðnum var breytt með l. 111/2007, 13. gr. Breytingin tekur gildi 1. nóv. 2007 skv. 15. gr. s.l. [^4)^]L. 67/2006, 1. gr.
 
  *II. kafli.* *Stjórnsýsla.*
  ■ *3. gr.* _Stofnun._
@@ -50,12 +50,12 @@ h2. Lög um opinbert eftirlit með fjármálastarfsemi
  □ Stjórnarmenn, forstjóri og starfsmenn mega ekki vera stjórnendur, starfsmenn, endurskoðendur, lögmenn eða tryggingastærðfræðingar eftirlitsskyldra aðila.
  □ Stjórnarmenn, forstjóri og starfsmenn skulu ekki taka þátt í meðferð máls er varðar viðskipti þeirra sjálfra eða fyrirtækja sem þeir eiga hlut í, sitja í stjórn hjá, eru fyrirsvarsmenn fyrir eða eiga að öðru leyti verulegra hagsmuna að gæta í og snerta hina eftirlitsskyldu aðila. Sama gildir um þátttöku í meðferð máls er varðar aðila sem eru þeim tengdir persónulega eða fjárhagslega.
  □ Ráðherra setur reglur[^1)^] um viðskipti stjórnarmanna, forstjóra og starfsmanna við eftirlitsskylda aðila. Þar skal meðal annars kveðið á um takmarkanir á heimildum til að vera í fjárhagslegum skuldbindingum gagnvart eftirlitsskyldum aðilum eða eiga hlut í þeim.
-    _[^1)^]_"Rgl. 704/2001":ekkitil/ekkitil.html?REGL/2001704.
+    _[^1)^]Rgl. 704/2001_.
  ■ *7. gr.* _Samráðsnefnd eftirlitsskyldra aðila._
  □ Sérstök samráðsnefnd sem skipuð er fulltrúum eftirlitsskyldra aðila skal starfa í tengslum við stofnunina.
  □ Stjórnendur Fjármálaeftirlitsins skulu eiga reglulega fundi með samráðsnefndinni. Samráðsnefndin hefur ekki ákvörðunarvald í málefnum Fjármálaeftirlitsins.
  □ Nánar skal kveðið á um samráðsnefndina í reglugerð,[^1)^] meðal annars um skipan hennar.
-    _[^1)^]_"Rg. 562/2001":ekkitil/ekkitil.html?REGL/2001562.
+    _[^1)^]Rg. 562/2001_.
 
  *III. kafli.* *Starfsemi.*
  ■ *8. gr.* _Eftirlit._
@@ -83,7 +83,7 @@ h2. Lög um opinbert eftirlit með fjármálastarfsemi
  □ Ákvarðanir um févíti og dagsektir samkvæmt þessari grein eru aðfararhæfar.
  □ Innheimt févíti og innheimtar dagsektir renna til ríkissjóðs að frádregnum kostnaði við innheimtuna.
  □ Heimilt er að kveða nánar á um ákvörðun og innheimtu févítis og dagsekta í reglugerð.[^1)^]][^2)^]][^3)^]
-    _[^1)^]_"Rg. 560/2001":ekkitil/ekkitil.html?REGL/2001560. [^2)^]L. 67/2006, 5. gr. [^3)^]L. 11/2000, 5. gr.
+    _[^1)^]Rg. 560/2001_. [^2)^]L. 67/2006, 5. gr. [^3)^]L. 11/2000, 5. gr.
  ■ *[12. gr.* _Tilkynningarskylda._
  □ [[Ef eftirlitsskyldur aðili eða einstaklingar og lögaðilar hafa að mati Fjármálaeftirlitsins með refsiverðum hætti gerst brotlegir við lög eða reglur sem Fjármálaeftirlitinu er falið að framfylgja og brot eru meiri háttar ber Fjármálaeftirlitinu að vísa þeim til lögreglu. Aðgerðum Fjármálaeftirlitsins samkvæmt þessari grein verður ekki skotið til dómstóla.][^1)^]
  □ Kröfur, athugasemdir og fyrirhugaðar aðgerðir Fjármálaeftirlitsins skv. 4. mgr. 9. gr. og 11. gr. skulu þegar í stað tilkynntar stjórn aðilans eða viðkomandi aðila ef stjórn er ekki til að dreifa nema ástæða sé til að ætla að fyrirhugaðar aðgerðir nái að öðrum kosti ekki tilætluðum árangri.][^2)^]][^3)^]
@@ -133,7 +133,7 @@ h2. Lög um opinbert eftirlit með fjármálastarfsemi
  □ Ákvörðunum Fjármálaeftirlitsins verður ekki skotið til ráðherra.][^2)^]   _[^1)^]L. 11/2000, 5. gr._ [^2)^]L. 67/2006, 9. gr.
  ■ *[19. gr.][^1)^]* _Reglugerð._
  □ Ráðherra setur nánari ákvæði um starfsemi Fjármálaeftirlitsins í reglugerð.[^2)^] Þar skal m.a. kveðið á um ákvörðun og innheimtu dagsekta.
-    _[^1)^]L. 11/2000, 5. gr._ [^2)^]"Rg. 560/2001":ekkitil/ekkitil.html?REGL/2001560, "rg. 244/2004":ekkitil/ekkitil.html?REGL/2004244.
+    _[^1)^]L. 11/2000, 5. gr._ [^2)^]Rg. 560/2001, rg. 244/2004.
  ■ *[20. gr.][^1)^]* _Viðurlög._
  □ Fyrir brot á lögum þessum skal refsað með sektum eða fangelsi allt að einu ári liggi ekki þyngri refsing við broti samkvæmt öðrum lögum.
     _[^1)^]L. 11/2000, 5. gr._

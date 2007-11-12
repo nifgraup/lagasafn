@@ -126,7 +126,7 @@ h2. Barnaverndarlög
  □ Ákvörðun barnaverndarnefndar um að hefja könnun máls eða láta mál niður falla er hvorki kæranleg til kærunefndar barnaverndarmála né annars stjórnvalds. Barnaverndarnefnd skal tilkynna foreldrum um að tilkynning hafi borist og um ákvörðun sína í tilefni af henni. Heimilt er að fresta tilkynningu til foreldra vegna ríkra rannsóknarhagsmuna.
  □ Ákvörðun um að hefja könnun skal ekki tekin nema rökstuddur grunur sé um að tilefni sé til. Mál telst barnaverndarmál þegar barnaverndarnefnd hefur tekið formlega ákvörðun um að hefja könnun.
  □ Nánari ákvæði um málsmeðferð vegna tilkynninga, svo sem um skráningu þeirra, eyðublöð o.fl., skulu sett í reglugerð[^1)^] sem félagsmálaráðherra setur að fengnum tillögum Barnaverndarstofu.
-    _[^1)^]_"Rg. 56/2004":ekkitil/ekkitil.html?REGL/2004056.
+    _[^1)^]Rg. 56/2004_.
  ■ *22. gr.* _Markmið könnunar máls._
  □ Markmið könnunar máls er að afla nauðsynlegra upplýsinga um aðstæður barns og meta þörf fyrir úrræði samkvæmt ákvæðum laga þessara, allt í samræmi við hagsmuni og þarfir barns. Í þessu skyni skal nefndin kappkosta að afla sem gleggstra upplýsinga um hagi barns, svo sem andlegt og líkamlegt ásigkomulag, tengsl við foreldra eða aðra, hagi foreldra, aðbúnað barns á heimili, skólagöngu, hegðun og líðan þess. Leita skal aðstoðar sérfræðinga eftir því sem þörf krefur.
  □ Um könnun máls, rannsóknarheimildir barnaverndarnefnda, um skyldu til að láta barnaverndarnefndum í té upplýsingar og málsmeðferð fyrir barnaverndarnefnd almennt gilda ákvæði VIII. kafla laga þessara.
@@ -213,7 +213,7 @@ h2. Barnaverndarlög
 ■ *38. gr.* _Gildissvið stjórnsýslulaga._
  □ Um könnun barnaverndarmáls og málsmeðferð fyrir barnaverndarnefnd gilda ákvæði stjórnsýslulaga með þeim frávikum sem greinir í lögum þessum. Málsmeðferðarreglur þessar gilda einnig, eftir því sem við á, þegar barnaverndarnefnd undirbýr og tekur ákvörðun um málshöfðun fyrir dómi til að koma fram ráðstöfunum skv. 28., 29. og 37. gr. laga þessara.
  □ Ráðherra setur nánari ákvæði í reglugerð[^1)^] um meðferð mála hjá barnaverndarnefnd, svo sem um tilkynningar, gerð áætlana og um stuðningsúrræði, að fengnum tillögum Barnaverndarstofu.
-    _[^1)^]_"Rg. 56/2004":ekkitil/ekkitil.html?REGL/2004056, sbr. "652/2004":ekkitil/ekkitil.html?REGL/2004652.
+    _[^1)^]Rg. 56/2004_, sbr. 652/2004.
  ■ *39. gr.* _Skráning mála._
  □ Barnaverndarnefndum ber á kerfisbundinn hátt að skrá mál sem koma til meðferðar hjá þeim. Varðveita skal öll gögn með tryggilegum hætti.
 ■ *40. gr.* _Leiðbeiningarskylda._
@@ -242,7 +242,7 @@ h2. Barnaverndarlög
  □ Barn sem náð hefur 15 ára aldri er aðili barnaverndarmáls samkvæmt ákvæðum 25., 27., 2. mgr. 34., 74. og 81. gr. Um aðild barns að barnaverndarmálum sem rekin eru fyrir dómi gilda ákvæði X. og XI. kafla.
  □ Gefa skal barni kost á að tjá sig um mál sem það varðar í samræmi við aldur þess og þroska og taka skal réttmætt tillit til skoðana þess við úrlausn málsins. Ávallt skal gefa barni sem náð hefur 12 ára aldri kost á að tjá sig um mál.
  □ Þegar barnaverndarnefnd hefur tekið ákvörðun um að hefja könnun máls skal hún þegar taka afstöðu til þess hvort þörf sé á að skipa barni talsmann. Jafnan skal skipa barni talsmann áður en gripið er til ráðstafana skv. 25., 27. eða 28. gr. og áður en sett er fram krafa um sviptingu forsjár skv. 29. gr. nema barn njóti aðstoðar lögmanns, sbr. 2. mgr. 47. gr. Ráðherra skal kveða nánar á um hæfi og hlutverk talsmanna í barnaverndarmálum í reglugerð[^1)^] að fengnum tillögum Barnaverndarstofu.
-    _[^1)^]_"Rg. 56/2004":ekkitil/ekkitil.html?REGL/2004056.
+    _[^1)^]Rg. 56/2004_.
  ■ *47. gr.* _Andmælaregla._
  □ Aðilar barnaverndarmáls skulu eiga þess kost að tjá sig munnlega eða skriflega, þar með talið með aðstoð lögmanns, um efni máls og annað sem lýtur að málsmeðferðinni áður en barnaverndarnefnd kveður upp úrskurð.
  □ Barnaverndarnefnd skal veita foreldrum og barni sem er aðili máls fjárstyrk til að greiða fyrir lögmannsaðstoð skv. 1. mgr. og í tengslum við rekstur máls fyrir kærunefnd barnaverndarmála eftir reglum sem nefndin setur. Í reglunum skal taka tillit til efnahags foreldra, eðlis og umfangs málsins.
@@ -326,7 +326,7 @@ h2. Barnaverndarlög
  □ Þeir sem óska eftir að taka barn í fóstur skulu beina umsókn sinni til Barnaverndarstofu. Barnaverndarnefnd í heimilisumdæmi umsækjenda veitir umsögn um hæfi þeirra til að taka barn í fóstur samkvæmt nánari reglum sem fram koma í reglugerð.
  □ Barnaverndarstofa veitir leyfi til að taka börn í fóstur. Barnaverndarstofa veitir væntanlegum fósturforeldrum fræðslu, leiðbeiningar og annan faglegan stuðning.
  □ Félagsmálaráðherra setur reglugerð,[^1)^] að fengnum tillögum Barnaverndarstofu, um hæfi fólks til að taka börn í fóstur.
-    _[^1)^]_"Rg. 804/2004":ekkitil/ekkitil.html?REGL/2004804.
+    _[^1)^]Rg. 804/2004_.
  ■ *67. gr.* _Val á fósturforeldrum._
  □ Barnaverndarstofa veitir barnaverndarnefndum fulltingi við öflun hæfra fósturforeldra. Í því skyni heldur Barnaverndarstofa skrá yfir þá sem hafa leyfi til að taka börn í fóstur.
  □ Barnaverndarnefnd sem ráðstafar barni í fóstur sendir beiðni um fósturheimili til Barnaverndarstofu og velur fósturforeldra úr hópi þeirra sem eru á skrá skv. 1. mgr. í samráði við stofuna. Barnaverndarnefnd ber að velja fósturforeldra af kostgæfni og með tilliti til þarfa og hagsmuna barnsins sem í hlut á. Telji barnaverndarnefnd það falla best að hagsmunum barns að ráðstafa því í fóstur til ættingja fer um það skv. 66. gr. Við val á fósturforeldrum skal miða að því að tryggja stöðugleika í lífi barns og að röskun á högum þess verði sem minnst. Ávallt skal leitast við að finna systkinum sameiginlegt fósturheimili nema sérstakar ástæður hamli.
@@ -369,7 +369,7 @@ h2. Barnaverndarlög
  □ Úrskurðir samkvæmt þessari grein eru kæranlegir til kærunefndar barnaverndarmála.
 ■ *75. gr.* _Framfærsla og annar kostnaður vegna barns í fóstri._
  □ Þegar barni er ráðstafað í fóstur skal ákveða í fóstursamningi hver skuli vera greiðsla með því, fósturlaun og annar kostnaður. Sveitarfélag sem ráðstafar barni greiðir kostnað við fóstur. Jafnframt skal endurgreiða því sveitarfélagi þar sem barn dvelst annan kostnað sem til fellur samkvæmt reglum settum af ráðherra. Um skiptingu kostnaðar milli ríkis og sveitarfélaga vegna umönnunar og þjálfunar skv. 4. mgr. 65. gr. fer samkvæmt ákvæðum 2. mgr. 88. gr.[^1)^]
-    _[^1)^]_"Rg. 804/2004":ekkitil/ekkitil.html?REGL/2004804.
+    _[^1)^]Rg. 804/2004_.
  ■ *76. gr.* _Eftirlit með fóstri._
  □ Barnaverndarnefnd sem ráðstafar barni í fóstur skal fylgjast með aðbúnaði og líðan barnsins og því að ráðstöfun nái tilgangi sínum. Barnaverndarnefnd skal heimsækja fósturheimili eigi sjaldnar en einu sinni á ári og oftar ef ástæða þykir til.
 ■ *77. gr.* _Endurskoðun fóstursamnings._
@@ -378,7 +378,7 @@ h2. Barnaverndarlög
  □ Ef ekki næst samkomulag við fósturforeldra um breytingu á fóstursamningi getur barnaverndarnefnd með rökstuddum úrskurði breytt fóstursamningi eða fellt hann úr gildi. Úrskurður er kæranlegur til kærunefndar barnaverndarmála.
 ■ *78. gr.* _Reglugerð._
  □ Ráðherra setur með reglugerð[^1)^] nánari reglur um fóstur og framkvæmd ákvæða þessa kafla að fengnum tillögum Barnaverndarstofu.
-    _[^1)^]_"Rg. 804/2004":ekkitil/ekkitil.html?REGL/2004804.
+    _[^1)^]Rg. 804/2004_.
 
  *XIII. kafli.* *Heimili og stofnanir á ábyrgð ríkisins.*
  ■ *79. gr.* _Heimili og stofnanir sem ríkið skal sjá um að séu tiltæk._
@@ -433,15 +433,15 @@ h2. Barnaverndarlög
  □ Barnaverndarstofa skal hafa yfirlit yfir þörf á heimilum og öðrum úrræðum skv. 1. mgr. um land allt, hvetja sveitarfélög til að hafa tiltæk nauðsynleg úrræði og liðsinna þeim í því efni eftir því sem þörf er á. Um leyfisveitingar Barnaverndarstofu til starfsemi skv. 1. og 2. mgr. fer eftir 83. gr.
  □ Ákvæði 80., 81. og 82. gr. eiga við um dvöl barna á heimilum skv. 1. og 2. mgr. eftir því sem við á.
  □ Um stofnun og rekstur heimila samkvæmt ákvæði þessu fer að öðru leyti eftir reglugerð[^1)^] sem félagsmálaráðherra setur að fengnum tillögum Barnaverndarstofu.
-    _[^1)^]_"Rg. 652/2004":ekkitil/ekkitil.html?REGL/2004652.
+    _[^1)^]Rg. 652/2004_.
  ■ *85. gr.* _Stuðningsfjölskyldur._
  □ Barnaverndarnefndir skulu hafa tiltækar stuðningsfjölskyldur. Þeir sem óska eftir að taka að sér hlutverk stuðningsfjölskyldu skulu sækja um leyfi barnaverndarnefndar í sínu heimilisumdæmi.
  □ Ráðherra setur reglugerð[^1)^] að fengnum tillögum Barnaverndarstofu um stuðningsfjölskyldur þar sem m.a. skal kveðið á um hámarksvistunartíma, skilyrði fyrir leyfisveitingu og samninga við stuðningsfjölskyldur.
-    _[^1)^]_"Rg. 652/2004":ekkitil/ekkitil.html?REGL/2004652.
+    _[^1)^]Rg. 652/2004_.
  ■ *86. gr.* _Sumardvöl á vegum barnaverndarnefnda._
  □ Þeir sem óska eftir að taka barn á vegum barnaverndarnefndar til dvalar á einkaheimili í allt að þrjá mánuði yfir sumartíma skulu sækja um leyfi til barnaverndarnefndar í sínu heimilisumdæmi. Barnaverndarnefnd skal tilkynna Barnaverndarstofu um þá sem fengið hafa leyfi.
  □ Ráðherra setur reglugerð[^1)^] að fengnum tillögum Barnaverndarstofu um sumardvalir þar sem m.a. skal kveðið á um skilyrði fyrir leyfisveitingu, samninga um vistun, stuðning og eftirlit.
-    _[^1)^]_"Rg. 652/2004":ekkitil/ekkitil.html?REGL/2004652.
+    _[^1)^]Rg. 652/2004_.
 
  *XV. kafli.* *Skipting kostnaðar af barnaverndarstarfi.*
  ■ *87. gr.* _Fjárhagsleg ábyrgð sveitarfélags._
@@ -465,7 +465,7 @@ h2. Barnaverndarlög
  □ Þeir sem óska eftir því að taka barn til sumardvalar á einkaheimili gegn gjaldi í allt að þrjá mánuði yfir sumartíma skulu sækja um leyfi til barnaverndarnefndar í heimilisumdæmi sínu.
  □ Heimilt er félagasamtökum eða öðrum aðilum að setja á stofn og reka heimili til að veita börnum viðtöku til umönnunar, stuðnings, afþreyingar eða hollra tómstunda að fengnu leyfi Barnaverndarstofu.
  □ Ráðherra setur reglugerð[^1)^] að fengnum tillögum Barnaverndarstofu um framkvæmd 1. og 2. mgr. þar sem m.a. skal kveðið á um skilyrði fyrir leyfisveitingu, réttindi barna, samninga um vistun, stuðning og eftirlit.
-    _[^1)^]_"Rg. 366/2005":ekkitil/ekkitil.html?REGL/2005366.
+    _[^1)^]Rg. 366/2005_.
 
  *XVII. kafli.* *Almenn verndarákvæði.*
  ■ *92. gr.* _Útivistartími barna._
