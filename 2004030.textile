@@ -7,7 +7,7 @@ h2. Lög um vátryggingarsamninga
 <hr />
 
 
- *Tóku gildi 1. janúar 2006.* _Breytt með_ l. 118/2005 (tóku gildi 1. jan. 2006).
+ *Tóku gildi 1. janúar 2006.* _Breytt með_ l. 118/2005 (tóku gildi 1. jan. 2006) og l. 156/2007 (tóku gildi 29. des. 2007).
 
 
  *I. hluti.* *Skaðatryggingar.*
@@ -383,10 +383,12 @@ h2. Lög um vátryggingarsamninga
 
  *XIII. kafli.* *Almennar forsendur fyrir ábyrgð félagsins.*
 ■ *82. gr.* _Skylda vátryggingartaka og vátryggðs til þess að veita upplýsingar um áhættu. Takmarkanir á upplýsingagjöf._
- □ Á meðan félagið hefur ekki samþykkt að veita vátryggingu getur það óskað eftir upplýsingum sem hafa þýðingu fyrir mat þess á áhættunni. Slíkra upplýsinga skal aflað beint hjá vátryggingartaka, eða eftir atvikum vátryggðum, sem skal veita rétt og tæmandi svör við spurningum félagsins. Sama á við þegar vátryggingartaki veitir upplýsingar fyrir hönd vátryggðs. Sé upplýsinganna aflað hjá öðrum en vátryggingartaka eða vátryggðum skal áður en þeirra er aflað liggja fyrir skriflegt, upplýst samþykki þess sem aflað er upplýsinga um. Vátryggingartaki, og eftir atvikum vátryggður, skal einnig að eigin frumkvæði veita upplýsingar um sérstök atvik sem hann veit, eða má vita, að hafa verulega þýðingu fyrir mat félagsins á áhættu.
- □ Þrátt fyrir ákvæði 1. mgr. er félaginu óheimilt, fyrir eða eftir gerð samnings um persónutryggingu, að óska eftir, afla með einhverjum öðrum hætti, taka við eða hagnýta sér upplýsingar um erfðaeiginleika manns og áhættu á því að hann þrói með sér eða fái sjúkdóma. Félaginu er einnig óheimilt að óska eftir rannsóknum sem teljast nauðsynlegar til þess að kostur sé á að fá slíkar upplýsingar. Framangreint bann gildir þó ekki um athugun á núverandi eða fyrra heilsufari mannsins eða annarra einstaklinga.
+ □ [Á meðan félagið hefur ekki samþykkt að veita vátryggingu getur það óskað eftir upplýsingum sem hafa þýðingu fyrir mat þess á áhættunni. Í þeim tilgangi er félaginu heimilt að óska upplýsinga um sjúkdóma sem vátryggingartaki eða vátryggður, foreldri hans eða systkini eru haldin eða hafa verið haldin óháð því hvernig sjúkdómur hefur greinst. Slíkra upplýsinga skal aflað beint hjá vátryggingartaka, eða eftir atvikum vátryggðum, sem skal veita rétt og tæmandi svör eftir bestu vitund við spurningum félagsins. Vátryggingartaki, eða eftir atvikum vátryggður, skal staðfesta að þær upplýsingar sem hann veitir um sjúkdóma foreldra eða systkina sinna séu veittar með þeirra samþykki, enda sé með sanngirni hægt að ætlast til að hann hafi getað aflað slíks samþykkis. Afli vátryggingafélag upplýsinga um sjúkdóma vátryggingartaka eða vátryggðs frá öðrum en honum skal, áður en þeirra er aflað, liggja fyrir skriflegt upplýst samþykki hans. Vátryggingartaki, og eftir atvikum vátryggður, skal að eigin frumkvæði veita upplýsingar um sérstök atvik sem hann veit, eða má vita, að hafa verulega þýðingu fyrir mat félagsins á áhættu.
+ □ Þrátt fyrir ákvæði 1. mgr. er félaginu óheimilt fyrir eða eftir gerð samnings um persónutryggingu að óska eftir, afla með einhverjum öðrum hætti, taka við eða hagnýta sér upplýsingar sem fengnar eru úr niðurstöðu erfðarannsóknar á einstaklingi og geta gefið til kynna hættu á að hann þrói með sér eða fái tiltekinn sjúkdóm. Félaginu er einnig óheimilt að óska eftir rannsóknum sem teljast nauðsynlegar til þess að kostur sé á að fá slíkar upplýsingar.
  □ Synji félagið að veita persónutryggingu skal það rökstyðja synjunina sé eftir því leitað.
-■ *83. gr.* _Ábyrgð félagsins þegar upplýsingaskylda er vanrækt._
+ □ Félagið skal halda saman upplýsingum um fjölda þeirra sem er synjað um töku tryggingar eða er gert að greiða hærri iðgjöld vegna áhættumats sem byggist á lagagrein þessari.][^1)^]
+    _[^1)^]L. 156/2007, 1. gr._
+ ■ *83. gr.* _Ábyrgð félagsins þegar upplýsingaskylda er vanrækt._
  □ Hafi vátryggingartaki eða vátryggður sviksamlega vanrækt upplýsingaskyldu sína skv. 1. mgr. 82. gr. og vátryggingaratburður hefur orðið ber félagið ekki ábyrgð.
  □ Hafi vátryggingartaki eða vátryggður ella vanrækt upplýsingaskyldu sína í þeim mæli að ekki telst óverulegt má fella ábyrgð félagsins niður í heild eða að hluta.
  □ Við mat á ábyrgð félagsins skv. 2. mgr. skal litið til þess hvaða þýðingu vanrækslan hefur haft fyrir mat þess á áhættu, til þess hve sökin var mikil, með hvaða hætti vátryggingaratburður hefur orðið og til atvika að öðru leyti.
@@ -563,7 +565,7 @@ h2. Lög um vátryggingarsamninga
  ■ *125. gr.* _Fyrning._
  □ Krafa um vátryggingarfjárhæð samkvæmt höfuðstólstryggingum fyrnist á tíu árum og aðrar kröfur um bætur á fjórum árum. Fresturinn hefst við lok þess almanaksárs þegar sá er kröfuna á fékk nauðsynlegar upplýsingar um þau atvik sem krafa hans er reist á. Krafan fyrnist þó í síðasta lagi á 20 árum, en aðrar kröfur á 10 árum, eftir lok þess almanaksárs sem vátryggingaratburður varð. Hafi félagið vegna vátrygginga sem tilgreindar eru í 1. mgr. 124. gr. sent tilkynningu skv. 2. mgr. sömu greinar fyrnist krafan fyrst þegar sá frestur líður sem þar er tilgreindur.
  □ Krafa samkvæmt lífeyristryggingu fyrnist þegar liðin eru tíu ár frá þeim degi sem síðasta lífeyrisgreiðsla var innt af hendi. Hafi ekki verið inntar af hendi neinar greiðslur hefst fresturinn á þeim degi er rétthafinn gat krafist fyrstu greiðslu. Krafa um gjaldfallnar greiðslur fyrnist auk þess að liðnum fjórum árum frá gjalddaga.
- □ Að öðru leyti gilda reglur "laga um fyrning skulda og annarra kröfuréttinda, nr. 14/1905":1905014.html. Frestur sá sem tilgreindur er í 3. málsl. 1. mgr. framlengist þó ekki skv. "15. gr. þeirra laga":1905014.html#g15.
+ □ Að öðru leyti gilda reglur "laga um fyrning skulda og annarra kröfuréttinda, nr. 14/1905":1905014.html. Frestur sá sem tilgreindur er í 3. málsl. 1. mgr. framlengist þó ekki skv. "15. gr. þeirra laga":1905014.html.
 
  *XIX. kafli.* *Sérstakar reglur um hópvátryggingar.*
  ■ *126. gr.* _Tengsl við önnur ákvæði laganna._

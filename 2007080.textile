@@ -7,7 +7,7 @@ h2. Vegalög
 <hr />
 
 
- *Taka gildi 1. janúar 2008.*
+ *Tóku gildi 1. janúar 2008.*
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Markmið._
@@ -191,8 +191,9 @@ h2. Vegalög
 ■ *41. gr.* _Almennt._
  □ Við lagningu og viðhald vega skal þess gætt að ekki sé valdið meiri áhrifum á umhverfi en nauðsynlegt er til að unnt sé að ná markmiðum vegalagningarinnar á sem hagkvæmastan hátt og þannig að öryggi umferðar verði sem mest.
 ■ *42. gr.* _Lágmarkskröfur um vegi._
- □ Ráðherra er heimilt að setja almennar reglur um hönnun vega sem opnir eru almenningi til frjálsrar umferðar og eftirlit með gerð þeirra. Veghaldari ber ábyrgð á að kröfur þessar séu uppfylltar.
-■ *43. gr.* _Viðhald vega. Vegskemmdir._
+ □ Ráðherra er heimilt að setja almennar reglur[^1)^] um hönnun vega sem opnir eru almenningi til frjálsrar umferðar og eftirlit með gerð þeirra. Veghaldari ber ábyrgð á að kröfur þessar séu uppfylltar.
+    _[^1)^]Rg. 992/2007_.
+ ■ *43. gr.* _Viðhald vega. Vegskemmdir._
  □ Veghaldari ber ábyrgð á því að vegi, sem opinn er almenningi til frjálsrar umferðar, sé við haldið með eðlilegum hætti miðað við þá umferð sem um veginn fer.
  □ Veghaldari skal svo fljótt sem við verður komið eftir að hann hefur fengið vitneskju um skemmdir á vegi, sem hættulegar eru umferð, láta gera við þær eða merkja hina hættulegu staði þar til viðgerð hefur farið fram og skulu merkingar vera í samræmi við ákvæði umferðarlaga.
  □ Ráðherra getur með reglugerð sett nánari kröfur um viðhald vega.
@@ -205,8 +206,9 @@ h2. Vegalög
  *IX. kafli.* *Ákvæði um öryggi vega og umferðar.*
 ■ *46. gr.* _Almennt._
  □ Vegir sem opnir eru almenningi til frjálsrar umferðar skulu uppfylla kröfur sem gerðar eru með tilliti til öryggis umferðar, ástands vega, merkinga og annarra þátta sem kveðið er á um í lögum þessum og ber veghaldari ábyrgð á því.
- □ Ráðherra er heimilt að setja reglur um umferðaröryggisstjórnun vega.
-■ *47. gr.* _Bann við því að raska öryggi umferðar._
+ □ Ráðherra er heimilt að setja reglur[^1)^] um umferðaröryggisstjórnun vega.
+    _[^1)^]Rg. 992/2007_.
+ ■ *47. gr.* _Bann við því að raska öryggi umferðar._
  □ Óheimilt er að aðhafast nokkuð það sem getur raskað öryggi umferðar, svo sem að valda skemmdum á vegi og mannvirkjum hans eða skilja eftir muni á eða við vegsvæði sem valdið geta hættu á slysum.
  □ Veghaldara er heimilt að fjarlægja óviðkomandi hluti eða muni af vegi eða vegsvæði á kostnað eigenda.
  □ Skemmist eitthvert mannvirki sem til vegarins telst við árekstur ökutækis er ökumanni skylt að tilkynna það þegar í stað til lögreglu.

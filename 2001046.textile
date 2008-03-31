@@ -7,7 +7,7 @@ h2. Lög um hönnun
 <hr />
 
 
- *Tóku gildi 1. október 2001, sjá þó 60. gr.* _EES-samningurinn:_ XVII. viðauki tilskipun 98/71/EB. _Breytt með_ l. 76/2002 (tóku gildi 17. maí 2002), l. 54/2004 (tóku gildi 14. júní 2004) og l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006).
+ *Tóku gildi 1. október 2001, sjá þó 60. gr.* _EES-samningurinn:_ XVII. viðauki tilskipun 98/71/EB. _Breytt með_ l. 76/2002 (tóku gildi 17. maí 2002), l. 54/2004 (tóku gildi 14. júní 2004), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006) og l. 167/2007 (tóku gildi 1. jan. 2008).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -135,11 +135,12 @@ h2. Lög um hönnun
 
  *VI. kafli.* *Áfrýjun.*
 ■ *35. gr.* Umsækjandi eða eigandi hönnunarréttar getur skotið endanlegri ákvörðun Einkaleyfastofunnar til áfrýjunarnefndar hugverkaréttinda á sviði iðnaðar. Sá sem lagt hefur fram beiðni um að skráning hönnunar verði felld úr gildi getur skotið til áfrýjunarnefndar ákvörðun um að skráningin skuli standa í breyttri eða óbreyttri mynd. Sé fallið frá áfrýjun getur áfrýjunarnefnd þó tekið málið til úrskurðar ef sérstakar ástæður mæla með því.
-■ *36. gr.* Áfrýjun skal berast iðnaðarráðuneyti innan tveggja mánaða frá því að viðkomandi var tilkynnt um ákvörðun. Innan sama frests skal greiða ráðuneytinu tilskilið áfrýjunargjald. Áfrýjunargjaldið skal ákveðið sem hámarksgjald vegna kostnaðar eða hluta kostnaðar við áfrýjunarnefnd hugverkaréttinda á sviði iðnaðar, m.a. þóknunar til nefndarmanna í einstökum málum, póstburðargjalda, ljósritunarkostnaðar og annars umsýslukostnaðar er til fellur við störf nefndarinnar. Sé áfrýjunargjald ekki greitt innan frestsins skal vísa áfrýjun frá. Áfrýjun frestar frekari meðferð málsins hjá Einkaleyfastofunni.
+■ *36. gr.* Áfrýjun skal berast [viðskiptaráðuneyti][^1)^] innan tveggja mánaða frá því að viðkomandi var tilkynnt um ákvörðun. Innan sama frests skal greiða ráðuneytinu tilskilið áfrýjunargjald. Áfrýjunargjaldið skal ákveðið sem hámarksgjald vegna kostnaðar eða hluta kostnaðar við áfrýjunarnefnd hugverkaréttinda á sviði iðnaðar, m.a. þóknunar til nefndarmanna í einstökum málum, póstburðargjalda, ljósritunarkostnaðar og annars umsýslukostnaðar er til fellur við störf nefndarinnar. Sé áfrýjunargjald ekki greitt innan frestsins skal vísa áfrýjun frá. Áfrýjun frestar frekari meðferð málsins hjá Einkaleyfastofunni.
  □ Ákvarðanir áfrýjunarnefndar verða ekki bornar undir annað stjórnvald.
+    _[^1)^]L. 167/2007, 88. gr._
 
  *VII. kafli.* *Refsi- og bótaábyrgð o.fl.*
-■ *37. gr.* Sá sem af ásetningi brýtur gegn hönnunarrétti skal sæta sektum. Sé brot alvarlegt, einkum ef ætlunin er að afla verulegs og augljóslega ólögmæts ávinnings með brotinu, getur refsing verið fangelsi allt að einu ári.
+ ■ *37. gr.* Sá sem af ásetningi brýtur gegn hönnunarrétti skal sæta sektum. Sé brot alvarlegt, einkum ef ætlunin er að afla verulegs og augljóslega ólögmæts ávinnings með brotinu, getur refsing verið fangelsi allt að einu ári.
  □ Sektir samkvæmt lögum þessum má gera jafnt lögaðila sem einstaklingi. Lögaðila má ákvarða sekt án tillits til þess hvort sök verður sönnuð á starfsmann lögaðilans. Hafi starfsmaður lögaðilans framið brot á lögum þessum eða reglum, settum samkvæmt þeim, má einnig gera lögaðilanum sekt og sviptingu starfsréttinda enda sé brotið drýgt til hagsbóta fyrir lögaðilann eða hann hefur notið hagnaðar af brotinu. Lögaðili ber ábyrgð á greiðslu sektar sem starfsmaður hans er dæmdur til að greiða vegna brota á lögum þessum enda séu brot tengd starfi hjá lögaðilanum.
  □ Sókn sakar á sá sem misgert er við. Þó sæta brot skv. 2. málsl. 1. mgr. opinberri ákæru ef sá krefst þess sem misgert er við. Skulu slík mál rekin í samræmi við lög um meðferð opinberra mála.
 ■ *38. gr.* Sá sem af ásetningi eða gáleysi brýtur gegn hönnunarrétti skal greiða hæfilegt endurgjald fyrir hagnýtingu hönnunar og skaðabætur fyrir annað tjón sem brot hans hefur haft í för með sér.
@@ -174,11 +175,12 @@ h2. Lög um hönnun
  □ Sé um samskráningu að ræða verða aðilaskipti ekki færð í hönnunarskrá nema þau nái til hönnunarsamstæðu í heild.
  □ Mál varðandi hönnun má ætíð höfða gegn þeim sem er skráður eigandi í hönnunarskrá og skulu tilkynningar Einkaleyfastofunnar sendar honum.
 ■ *52. gr.* Einkaleyfastofunni er eftir beiðni heimilt að taka að sér sérstök verkefni á sviði hönnunar og hönnunarréttar.
- □ Iðnaðarráðherra setur reglur um slíka þjónustu og greiðslu fyrir hana, sbr. 53. gr.
-■ *53. gr.* Iðnaðarráðherra setur nánari reglur[^1)^] um framkvæmd laga þessara, m.a. um hönnunarumsóknir og meðferð þeirra, meðferð andmælamála, endurnýjun og brottfall hönnunarskráningar, færslu í hönnunarskrá, efni og útgáfu ELS-tíðinda og verklag Einkaleyfastofunnar. Þá skal ráðherra ákveða gjöld samkvæmt lögunum, sbr. 36. gr.
+ □ [Viðskiptaráðherra][^1)^] setur reglur um slíka þjónustu og greiðslu fyrir hana, sbr. 53. gr.
+    _[^1)^]L. 167/2007, 88. gr._
+ ■ *53. gr.* [Viðskiptaráðherra][^1)^] setur nánari reglur[^2)^] um framkvæmd laga þessara, m.a. um hönnunarumsóknir og meðferð þeirra, meðferð andmælamála, endurnýjun og brottfall hönnunarskráningar, færslu í hönnunarskrá, efni og útgáfu ELS-tíðinda og verklag Einkaleyfastofunnar. Þá skal ráðherra ákveða gjöld samkvæmt lögunum, sbr. 36. gr.
  □ Gjöld skulu standa straum af kostnaði við rekstur Einkaleyfastofunnar vegna hönnunarmálefna og við þjónustu sem veitt er, m.a. könnun Einkaleyfastofunnar á formskilyrðum og jafnvel efnisskilyrðum venjulegra umsókna, alþjóðlegra umsókna og endurupptekinna umsókna, þjónustu vegna samskráningar, birtingu, m.a. á myndum, yfirfærslu alþjóðlegra umsókna, umsýslu vegna endurnýjunar umsókna, könnun vegna ógildingar skráningar, útskriftir úr hönnunarskrám og þjónustuverkefni.
  □ Gjöld samkvæmt lögum þessum renna beint til Einkaleyfastofunnar og innheimtir hún gjöldin.
-    _[^1)^]Rg. 41/2000_, sbr. 110/2003; rg. 706/2001, sbr. 531/2004; rg. 916/2001, sbr. 15/2003, 898/2003 og 540/2004.
+    _[^1)^]L. 167/2007, 88. gr._ [^2)^]Rg. 41/2000, sbr. 110/2003; rg. 706/2001, sbr. 531/2004; rg. 916/2001, sbr. 15/2003, 898/2003 og 540/2004.
 
  *X. kafli.* *Alþjóðleg skráning hönnunar.*
  ■ *54. gr.* Með alþjóðlegri skráningu hönnunar er átt við skráningu hönnunar samkvæmt Genfarsamningnum frá 2. júlí 1999 um breytingu á Haag-samningnum um alþjóðlega skráningu hönnunar á sviði iðnaðar.

@@ -7,7 +7,7 @@ h2. Lög um verðbréfaviðskipti
 <hr />
 
 
- *Taka gildi 1. nóvember 2007.* _EES-samningurinn:_ IX. viðauki tilskipun 89/298/EBE, 89/592/EBE, 2001/34/EB, 2003/6/EB, 2003/71/EBE, 2003/124/EB og 2003/125/EB, reglugerð 2273/2003, tilskipun 2004/25/EB, 2004/39/EB, 2004/72/EB og 2004/109/EB.
+ *Tóku gildi 1. nóvember 2007.* _EES-samningurinn:_ IX. viðauki tilskipun 89/298/EBE, 89/592/EBE, 2001/34/EB, 2003/6/EB, 2003/71/EBE, 2003/124/EB og 2003/125/EB, reglugerð 2273/2003, tilskipun 2004/25/EB, 2004/39/EB, 2004/72/EB og 2004/109/EB.
 
 
  *I. kafli.* *Gildissvið og orðskýringar.*
@@ -65,8 +65,9 @@ h2. Lög um verðbréfaviðskipti
     12. _Opinber fjárfestingarráðgjöf:_ Greining eða samantekt upplýsinga sem felur í sér ráðleggingu um kaup eða sölu á fjármálagerningum eða leggur til fjárfestingarstefnu, með beinum eða óbeinum hætti, sem varðar einn eða fleiri fjármálagerninga eða útgefendur þeirra og ætluð er almenningi eða er líkleg til að verða aðgengileg almenningi, svo sem ef henni er dreift til stórs hóps manna.
     13. _Viðurkennd markaðsframkvæmd:_ Framkvæmd sem eðlilegt er að gera ráð fyrir að sé viðhöfð á einum eða fleiri fjármálamörkuðum og Fjármálaeftirlitið hefur viðurkennt með þeim hætti sem kveðið er á um í reglugerð sem sett skal á grundvelli 118. gr.
     14. _Innmiðlari:_ Fjármálafyrirtæki sem skipulega, reglulega og kerfisbundið á í viðskiptum fyrir eigin reikning með því að framkvæma fyrirmæli viðskiptavina utan við skipulega verðbréfamarkaði og markaðstorg fjármálagerninga (MTF).
- □ Ráðherra skal í reglugerð setja nánari ákvæði um skilgreiningu hugtakanna fjármálagerningur, fjárfestingarráðgjöf og innmiðlari.
-■ *3. gr.* _Heimaríki og gistiríki á Íslandi._
+ □ Ráðherra skal í reglugerð[^1)^] setja nánari ákvæði um skilgreiningu hugtakanna fjármálagerningur, fjárfestingarráðgjöf og innmiðlari.
+    _[^1)^]Rg. 994/2007_.
+ ■ *3. gr.* _Heimaríki og gistiríki á Íslandi._
  □ Ísland er heimaríki útgefanda með skráða skrifstofu á Íslandi ef viðkomandi er útgefandi hlutabréfa, eða skuldabréfa þar sem nafnverð eininga skuldabréfanna er lægri fjárhæð en 92.400 kr., og viðkomandi verðbréf hafa verið tekin til viðskipta á skipulegum verðbréfamarkaði. Fjárhæðir samkvæmt þessari málsgrein eru grunnfjárhæðir sem eru bundnar gengi evru (EUR) 3. janúar 2007 (92,37).
  □ Ísland er heimaríki útgefanda með skráða skrifstofu í ríki utan Evrópska efnahagssvæðisins ef viðkomandi er útgefandi hlutabréfa, eða skuldabréfa þar sem nafnverð eininga skuldabréfanna er lægri fjárhæð en 92.400 kr., viðkomandi verðbréf hafa verið tekin til viðskipta á skipulegum verðbréfamarkaði og útgefanda ber skylda til að senda árlega skýrslu vegna útgáfunnar til Fjármálaeftirlitsins, sbr. 48. gr. Fjárhæðir samkvæmt þessari málsgrein eru grunnfjárhæðir sem eru bundnar gengi evru (EUR) 3. janúar 2007 (92,37).
  □ Ísland er heimaríki útgefanda í öðrum tilvikum en kveðið er á um í 1. og 2. mgr. ef aðili er útgefandi verðbréfa sem tekin hafa verið til viðskipta á skipulegum verðbréfamarkaði og hann velur að hafa Ísland sem heimaríki. Útgefanda er aðeins heimilt að velja Ísland sem heimaríki ef hann er með skráða skrifstofu á Íslandi eða verðbréf hans hafa verið tekin til viðskipta á skipulegum verðbréfamarkaði á Íslandi. Útgefandi sem valið hefur Ísland sem heimaríki samkvæmt þessari málsgrein getur fyrst breytt því vali sínu þegar þrjú ár eru liðin frá opinberri birtingu á vali heimaríkis, sbr. 7. mgr., nema áður komi til þess að ekki séu lengur viðskipti með verðbréf hans á skipulegum verðbréfamarkaði.
@@ -165,7 +166,7 @@ h2. Lög um verðbréfaviðskipti
  □ Hver sá sem setur fram eða birtir opinbera fjárfestingarráðgjöf skal gæta þess að slíkar upplýsingar séu settar fram af sanngirni og uppfylli skilyrði reglna sem Fjármálaeftirlitið skal setja á grundvelli 26. gr. Þá skal tilgreina hagsmuni eða hugsanlega hagsmunaárekstra viðkomandi aðila vegna þeirra fjármálagerninga sem upplýsingarnar varða.
  □ Opinberir aðilar sem miðla tölfræðilegum upplýsingum, sem líklegar eru til að hafa marktæk áhrif á fjármálamörkuðum, skulu miðla þeim af sanngirni og á gagnsæjan hátt.
 ■ *26. gr.* _Reglugerð og reglur Fjármálaeftirlitsins._
- □ Ráðherra skal setja reglugerð um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
+ □ Ráðherra skal setja reglugerð[^1)^] um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
     1. Góða viðskiptavenju skv. 5. gr.
     2. Skipulag fjármálafyrirtækja, þ.m.t. regluvörslu, áhættustjórnun, innri endurskoðun, ábyrgð yfirstjórnar, meðferð á kvörtunum og eigin viðskipti, skv. 6. gr.
     3. Útvistun verkefna skv. 7. gr.
@@ -183,10 +184,11 @@ h2. Lög um verðbréfaviðskipti
     15. Viðskipti við viðurkennda gagnaðila skv. 22. gr.
     16. Fagfjárfesta skv. 23. og 24. gr.
  □ Reglur skv. 1. mgr. skulu taka mið af því hvort fjármálafyrirtæki á í viðskiptum við fagfjárfesti eða almennan fjárfesti.
- □ Fjármálaeftirlitið skal setja reglur um opinbera fjárfestingarráðgjöf, þar á meðal um óhlutdræga framsetningu ráðgjafar og birtingu, tilgreiningu á þeim sem setur fjárfestingarráðgjöfina fram eða gerir hana opinbera og hagsmunum og hagsmunaárekstrum, og skilgreiningu hugtaksins greining.
+ □ Fjármálaeftirlitið skal setja reglur[^2)^] um opinbera fjárfestingarráðgjöf, þar á meðal um óhlutdræga framsetningu ráðgjafar og birtingu, tilgreiningu á þeim sem setur fjárfestingarráðgjöfina fram eða gerir hana opinbera og hagsmunum og hagsmunaárekstrum, og skilgreiningu hugtaksins greining.
+    _[^1)^]Rg. 994/2007_, rg. 995/2007. [^2)^]Rgl. 1013/2007.
 
  *III. kafli.* *Gagnsæi viðskipta.*
-■ *27. gr.* _Gildissvið kaflans._
+ ■ *27. gr.* _Gildissvið kaflans._
  □ Ákvæði kafla þessa taka til fjármálafyrirtækja sem hafa heimild til verðbréfaviðskipta.
 ■ *28. gr.* _Upplýsingagjöf innmiðlara um tilboð._
  □ Innmiðlarar skulu birta bindandi verðtilboð fyrir þau hlutabréf sem þeir eru innmiðlarar fyrir og tekin hafa verið til viðskipta á skipulegum verðbréfamarkaði enda teljist hlutabréfin seljanleg. Teljist hlutabréfin ekki seljanleg skulu innmiðlarar birta verðtilboð ef viðskiptavinur óskar þess.
@@ -200,7 +202,7 @@ h2. Lög um verðbréfaviðskipti
     b. Tilkynning er send í gegnum tilkynningakerfi sem Fjármálaeftirlitið hefur samþykkt.
     c. Skipulegur verðbréfamarkaður eða markaðstorg fjármálagerninga (MTF), þar sem viðskiptin fóru fram, sendir tilkynningu.
 ■ *31. gr.* _Reglugerð._
- □ Ráðherra skal setja reglugerð um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
+ □ Ráðherra skal setja reglugerð[^1)^] um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
     1. Upplýsingagjöf innmiðlara skv. 28. gr.
     2. Upplýsingagjöf fjármálafyrirtækja um viðskipti skv. 29. gr., þ.m.t. skyldu til birtingar upplýsinga og skilyrði fyrir undanþágu frá birtingu upplýsinga.
     3. Tilkynningarskyldu um viðskipti skv. 30. gr., þ.m.t. um skyldu Fjármálaeftirlitsins til að framsenda tilkynningar um viðskipti til eftirlitsaðila aðildarríkis þar sem seljanleiki viðkomandi fjármálagernings er mestur, um þær kröfur sem gerðar eru til tilkynninga, um innihald tilkynninga og um samskipti eftirlitsaðila.
@@ -209,9 +211,10 @@ h2. Lög um verðbréfaviðskipti
     2. Skyldu fjármálafyrirtækis til að birta upplýsingar um verð, umfang og tímasetningu viðskipta sem fram fara utan skipulegra verðbréfamarkaða eða markaðstorga fjármálagerninga (MTF) með aðra fjármálagerninga en hlutabréf skv. 29. gr.
     3. Að tilkynningar fjármálafyrirtækja á grundvelli 30. gr. skuli innihalda upplýsingar um auðkenni viðskiptavina fjármálafyrirtækja.
     4. Að tilkynningarskylda fjármálafyrirtækja á grundvelli 30. gr. nái einnig til viðskipta með fjármálagerninga sem tengjast fjármálagerningum sem teknir hafa verið til viðskipta á skipulegum verðbréfamarkaði.
+    _[^1)^]Rg. 994/2007_.
 
  *IV. kafli.* *Markaðstorg fjármálagerninga (MTF).*
-■ *32. gr.* _Gildissvið kaflans._
+ ■ *32. gr.* _Gildissvið kaflans._
  □ Ákvæði kafla þessa taka til fjármálafyrirtækja og kauphalla sem hafa heimild til að reka markaðstorg fjármálagerninga (MTF).
 ■ *33. gr.* _Skipulag markaðstorgs fjármálagerninga (MTF)._
  □ Rekstur markaðstorgs fjármálagerninga (MTF) skal vera í samræmi við eðlilega og heilbrigða viðskiptahætti og venjur í verðbréfaviðskiptum, með trúverðugleika fjármálamarkaðarins og hagsmuni viðskiptavina að leiðarljósi.
@@ -239,15 +242,16 @@ h2. Lög um verðbréfaviðskipti
  □ Fjármálafyrirtæki eða kauphöll sem rekur markaðstorg fjármálagerninga (MTF) skal birta opinberlega upplýsingar um verð, umfang og tímasetningu viðskipta sem framkvæmd eru í viðskiptakerfi þess með hlutabréf sem tekin hafa verið til viðskipta á skipulegum verðbréfamarkaði. Upplýsingarnar skulu birtar á sanngjörnum viðskiptakjörum og eins nálægt rauntíma viðskiptanna og mögulegt er. Ákvæði þetta á ekki við ef upplýsingar um viðskiptin eru birt í viðskiptakerfi skipulegs verðbréfamarkaðar.
  □ Fjármálafyrirtæki eða kauphöll er heimilt að setja sér reglur um að tefja skuli birtingu upplýsinga vegna stærðar eða tegundar viðskipta. Reglurnar skulu uppfylla skilyrði reglugerðar skv. 38. gr. og vera samþykktar fyrir fram af Fjármálaeftirlitinu. Fjármálafyrirtæki eða kauphöll skal sjá til þess að aðilar að markaðstorginu og fjárfestar séu upplýstir um töfina.
 ■ *38. gr.* _Reglugerð._
- □ Ráðherra skal setja reglugerð um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
+ □ Ráðherra skal setja reglugerð[^1)^] um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
     1. Upplýsingagjöf um tilboð og undanþágur frá upplýsingaskyldu skv. 36. gr.
     2. Upplýsingagjöf um viðskipti og tafir á henni skv. 37. gr.
  □ Ráðherra er heimilt að setja í reglugerð nánari ákvæði um:
     1. Skyldur fjármálafyrirtækis eða kauphallar til að birta upplýsingar um kaup- og sölutilboð og dýpt tilboða sem sett eru fram á markaðstorgi fjármálagerninga (MTF) fyrir aðra fjármálagerninga en hlutabréf skv. 36. gr.
     2. Skyldu fjármálafyrirtækis eða kauphallar til að birta upplýsingar um verð, umfang og tímasetningu viðskipta sem fram fara á markaðstorgi fjármálagerninga (MTF) með aðra fjármálagerninga en hlutabréf skv. 37. gr.
+    _[^1)^]Rg. 994/2007_.
 
  *V. kafli.* *Samningsbundið uppgjör afleiðna.*
-■ *39. gr.* _Gildissvið kaflans._
+ ■ *39. gr.* _Gildissvið kaflans._
  □ Ákvæði þessa kafla taka til skuldajafnaðar og tryggingarréttinda í tengslum við afleiður.
 ■ *40. gr.* _Skuldajöfnuður._
  □ Skriflegur samningur, einn eða fleiri, milli tveggja aðila um að skyldur þeirra samkvæmt afleiðu skuli jafnast hver á móti annarri, með skuldajöfnuði, við endurnýjun eða við vanefnd, greiðslustöðvun, nauðasamninga eða gjaldþrotaskipti, skal halda gildi sínu að fullu þrátt fyrir ákvæði 91. og 100. gr. laga um gjaldþrotaskipti o.fl.
@@ -891,8 +895,9 @@ h2. Lög um verðbréfaviðskipti
  □ Þá getur Fjármálaeftirlitið lagt stjórnvaldssektir á hvern þann sem brýtur gróflega eða ítrekað gegn 5. - 21. og 25. gr. um réttindi og skyldur fjármálafyrirtækja.
  □ Sektir sem lagðar eru á einstaklinga geta numið frá 10 þús. kr. til 20 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 50 þús. kr. til 50 millj. kr. Við ákvörðun sekta skal m.a. tekið tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila og hvort um ítrekað brot er að ræða. Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar. Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
  □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.
-■ *142. gr.* Hafi aðili gerst brotlegur við ákvæði laga þessara eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur um framkvæmd ákvæðisins.
-■ *143. gr.* Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.
+■ *142. gr.* Hafi aðili gerst brotlegur við ákvæði laga þessara eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur[^1)^] um framkvæmd ákvæðisins.
+    _[^1)^]Rgl. 1245/2007_.
+ ■ *143. gr.* Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.
 ■ *144. gr.* Heimild Fjármálaeftirlitsins til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar sjö ár eru liðin frá því að háttsemi lauk.
  □ Frestur skv. 1. mgr. rofnar þegar Fjármálaeftirlitið tilkynnir aðila um rannsókn á meintu broti. Rof frests hefur réttaráhrif gagnvart öllum sem staðið hafa að brotinu.
 ■ *145. gr.* _Sektir eða fangelsi allt að tveimur árum._
@@ -941,10 +946,10 @@ h2. Lög um verðbréfaviðskipti
  □ Lög þessi öðlast gildi 1. nóvember 2007. ...
 
  *Ákvæði til bráðabirgða.*
- ■ *I.* Þeir aðilar sem hafa leyfi til reksturs markaðstorgs skv. "34. gr. a laga nr. 34/1998":1998034.html#g34a, um starfsemi kauphalla og skipulegra tilboðsmarkaða, skulu við gildistöku laga þessara fá leyfi til reksturs markaðstorgs fjármálagerninga (MTF) samkvæmt lögum þessum.
+ ■ *I.* Þeir aðilar sem hafa leyfi til reksturs markaðstorgs skv. "34. gr. a laga nr. 34/1998":1998034.html, um starfsemi kauphalla og skipulegra tilboðsmarkaða, skulu við gildistöku laga þessara fá leyfi til reksturs markaðstorgs fjármálagerninga (MTF) samkvæmt lögum þessum.
  ■ *II.* Eigi fjármálafyrirtæki við gildistöku laga þessara í viðskiptum við aðila sem telst vera fagfjárfestir og byggi það á faglegu mati á að viðkomandi hafi nægjanlega þekkingu og reynslu til að taka eigin ákvarðanir um fjárfestingar, þá er því heimilt að flokka viðkomandi áfram sem fagfjárfesti. Fjármálafyrirtækið skal gera viðkomandi fagfjárfesti grein fyrir slíkri ákvörðun.
  ■ *III.* Birting ársreiknings, eða samstæðureiknings ef við á, vegna reikningsársins 2007 skal fara fram í samræmi við ákvæði 57. gr. Fyrsta reikningsárið sem ákvæði 58. og 59. gr. taka til er reikningsárið 2008.
  ■ *IV.* Nú átti eigandi hlutafjár meira en 40% atkvæðisréttar í félagi sem var skráð á skipulegum verðbréfamarkaði 1. júlí 2003 og er hann þá ekki tilboðsskyldur skv. 100. gr. laga þessara, enda auki hann ekki atkvæðisrétt sinn í félaginu umfram næsta margfeldi af fimm. Sama gildir hafi aðili á grundvelli samnings við aðra hluthafa rétt til að ráða yfir sem nemur 40% atkvæða í félaginu 1. júlí 2003.
- ■ *V.* Nú fór aðili 1. júlí 2005 með yfirráð í félagi á grundvelli samstarfs skv. "37. gr. laga nr. 33/2003":2003033.html#g37, sbr. lög nr. 31/2005, og er hann þá ekki tilboðsskyldur við gildistöku laga þessara, enda auki hann ekki atkvæðisrétt sinn í félaginu umfram næsta margfeldi af fimm.
+ ■ *V.* Nú fór aðili 1. júlí 2005 með yfirráð í félagi á grundvelli samstarfs skv. "37. gr. laga nr. 33/2003":2003033.html, sbr. lög nr. 31/2005, og er hann þá ekki tilboðsskyldur við gildistöku laga þessara, enda auki hann ekki atkvæðisrétt sinn í félaginu umfram næsta margfeldi af fimm.
 
 

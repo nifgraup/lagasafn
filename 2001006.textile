@@ -6,7 +6,7 @@ h2. Lög um skráningu og mat fasteigna
 
 <hr />
 
-*Upphaflega "l. 94/1976":1976094.html. Tóku gildi 23. júlí 1976. Endurútgefin, sbr. 17. gr. l. 47/2000, sem "l. 6/2001":2001006.html.* _Breytt með_ l. 61/2001 (tóku gildi 13. júní 2001), l. 139/2004 (tóku gildi 1. jan. 2005), l. 50/2006 (tóku gildi 1. júlí 2006) og l. 178/2006 (tóku gildi 1. jan. 2007).
+*Upphaflega "l. 94/1976":1976094.html. Tóku gildi 23. júlí 1976. Endurútgefin, sbr. 17. gr. l. 47/2000, sem "l. 6/2001":2001006.html.* _Breytt með_ l. 61/2001 (tóku gildi 13. júní 2001), l. 139/2004 (tóku gildi 1. jan. 2005), l. 50/2006 (tóku gildi 1. júlí 2006), l. 178/2006 (tóku gildi 1. jan. 2007) og l. 165/2007 (tóku gildi 1. jan. 2008).
 
 
  *I. kafli.* *Markmið, skilgreiningar og söfnun skráningaratriða.*
@@ -94,9 +94,8 @@ h2. Lög um skráningu og mat fasteigna
  □ Þinglýsingardómurum er við þinglýsingu afsala skylt að ganga úr skugga um að tilkynningarskyldu hafi verið fullnægt og hlutast til um gerð tilkynningar og sendingu ef þess gerist þörf. Fasteignasölum er einnig skylt í starfi sínu að stuðla að gerð slíkra tilkynninga og sendingu. Fasteignamati ríkisins er heimill aðgangur að skattframtölum til að sannreyna upplýsingar um fasteignir eða afla þeirra.
  □ Fasteignamati ríkisins er heimilt að undirbúa og gefa út staðlaðar gerðir afsala, kaupsamninga og leigusamninga um fasteignir og fasteignaréttindi þar sem samrit viðkomandi skjals er sjálfkrafa fullnægjandi tilkynning til fasteignamatsins.
 ■ *23. gr.* Fasteignamati ríkisins ber að safna gögnum eftir föngum og vinna úr þeim yfirlitsupplýsingar um gangverð fasteigna við kaup og sölu og breytingar á því. Eftir því sem við verður komið skulu niðurstöður þessara rannsókna birtar almenningi jafnóðum.
-■ *24. gr.* Fasteignamat ríkisins aflar og lætur í té upplýsingar og veitir þjónustu við úrvinnslu á þeim gegn gjaldi.
- □ Gjaldskrá skv. 1. mgr. skal taka mið af því umfangi upplýsinga sem keyptar eru og þeim tekjum sem notendur hafa af þeim. Fjármálaráðherra staðfestir gjaldskrána.[^1)^]
-    _[^1)^]Gjaldskrá 596/1996_.
+■ *24. gr.* [Fasteignamati ríkisins er heimilt að vinna úr og láta í té upplýsingar úr Landskrá fasteigna gegn gjaldi sem rennur til stofnunarinnar samkvæmt gjaldskrá[^1)^] sem fjármálaráðherra staðfestir.][^2)^]
+    _[^1)^]Gjaldskrá 596/1996_. [^2)^]L. 165/2007, 1. gr.
  ■ *25. gr.* Opinberir aðilar, ríkisstofnanir, ríkisfyrirtæki, sveitarfélög og allar stofnanir þeirra skulu í öllum viðskiptum og í hvers konar verðmætisviðmiðunum nota upplýsingar Landskrár fasteigna sem grundvöll viðskipta sinna eftir því sem við getur átt.
 
  *V. kafli.* *Fasteignamat og framkvæmd þess.*
@@ -152,5 +151,9 @@ h2. Lög um skráningu og mat fasteigna
     _[^1)^]L. 139/2004, 4. gr._
  ■ *[II.* Til þess að standa straum af kostnaði Fasteignamats ríkisins við að halda og þróa Landskrá fasteigna skulu húseigendur greiða til þess sérstakt umsýslugjald á árinu 2007. Skal gjald þetta nema 0,1‰ (prómilli) af brunabótamati hverrar húseignar. Skal vátryggingafélag innheimta gjaldið samhliða innheimtu brunatryggingariðgjalda og skila því til Fasteignamats ríkisins eigi síðar en 45 dögum eftir gjalddaga.][^1)^]
     _[^1)^]L. 178/2006, 1. gr._
+ ■ *[III.* Eftirgreindir aðilar skulu á árinu 2008 greiða Fasteignamati ríkisins gjald fyrir afnot af mati stofnunarinnar:
+    a. Sveitarfélög skulu greiða fasteignamatsgjald fyrir afnot af fasteignamati og kerfi til álagningar fasteignaskatta og fasteignagjalda. Skal gjald þetta nema 0,007% af heildarfasteignamati í sveitarfélaginu 31. desember 2008.
+    b. Húseigendur skulu greiða brunabótamatsgjald vegna notkunar brunabótamats til vátrygginga og annarra trygginga í þágu húseigenda. Skal gjald þetta nema 0,0037% af brunabótamati hverrar húseignar. Skal vátryggingafélag innheimta gjaldið samhliða innheimtu brunatryggingariðgjalda og skila því til Fasteignamats ríkisins eigi síðar en 45 dögum eftir gjalddaga.][^1)^]
+    _[^1)^]L. 165/2007, 2. gr._
 
 
