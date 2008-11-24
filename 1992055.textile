@@ -7,7 +7,7 @@ h2. Lög um Viðlagatryggingu Íslands
 <hr />
 
 
- *Tóku gildi 1. janúar 1993.* _Breytt með_ l. 10/1995 (tóku gildi 1. mars 1995), l. 35/1995 (tóku gildi 9. mars 1995), l. 36/1995 (tóku gildi 9. mars 1995), l. 84/1998 (tóku gildi 1. jan. 1999), l. 44/2003 (tóku gildi 3. apríl 2003) og l. 129/2004 (tóku gildi 31. des. 2005).
+ *Tóku gildi 1. janúar 1993.* _Breytt með_ l. 10/1995 (tóku gildi 1. mars 1995), l. 35/1995 (tóku gildi 9. mars 1995), l. 36/1995 (tóku gildi 9. mars 1995), l. 84/1998 (tóku gildi 1. jan. 1999), l. 44/2003 (tóku gildi 3. apríl 2003), l. 129/2004 (tóku gildi 31. des. 2005), bbl. 62/2008 (tóku gildi 11. júní 2008) og l. 119/2008 (tóku gildi 1. okt. 2008).
 
  _Hlutverk og stjórn._
  ■ *1. gr.* Hlutverk Viðlagatryggingar Íslands er að vátryggja gegn tjóni af völdum náttúruhamfara sem nefndar eru í 4. gr. laga þessara.
@@ -41,13 +41,13 @@ h2. Lög um Viðlagatryggingu Íslands
     1. Allir munir, sem brunatryggðir eru, skulu viðlagatryggðir fyrir sömu fjárhæð og brunatryggingin nemur á hverjum tíma.
     2. Ráðherra setur að fengnum tillögum stjórnar stofnunarinnar reglur um ákvörðun vátryggingarfjárhæðar fyrir aðra muni, sbr. 2. mgr. 5. gr. ...[^1)^]
     _[^1)^]L. 35/1995, 4. gr._
- _Eigin áhætta vátryggðs._
- ■ *10. gr.* Eigin áhætta vátryggðs skal vera 5% af hverju tjóni, þó eigi lægri fjárhæð en hér segir:
-    1. Lágmark eigin áhættu vegna muna, sem vátryggðir eru skv. 1. mgr. 5. gr., er 40.000 kr.
-    2. Lágmark eigin áhættu vegna muna, sem vátryggðir eru skv. 2. mgr. 5. gr., er 400.000 kr.
-    3. ...[^1)^]
- □ Ofangreindar lágmarksfjárhæðir skulu umreiknast til samræmis við gildandi vísitölu byggingarkostnaðar á hverjum tíma.
-    _[^1)^]L. 35/1995, 5. gr._
+ _[Eigin áhætta vátryggðs.][^1)^]_
+    _[^1)^]L. 119/2008, 1. gr._
+ ■ *10. gr.* [Eigin áhætta vátryggðs skal vera 5% af hverju tjóni, þó eigi lægri fjárhæð en hér segir:
+    1. Vegna lausafjár, sem vátryggt er skv. 1. mgr. 5. gr., 20.000 kr.
+    2. Vegna húseigna, sem vátryggðar eru skv. 1. mgr. 5. gr., 85.000 kr.
+    3. Vegna mannvirkja, sem vátryggð eru skv. 2. mgr. 5. gr., 850.000 kr.][^1)^]
+    _[^1)^]L. 119/2008, 1. gr._ Ákvæðin taka til tjóna sem verða frá 25. maí 2008 skv. 2. gr. s.l.
  _Iðgjöld._
  ■ *11. gr.* Árleg iðgjöld skal reikna sem hér segir:
     1. Af munum, sem vátryggðir eru skv. 1. mgr. 5. gr., 0,25‰.

@@ -7,7 +7,7 @@ h2. Lög um meðhöndlun úrgangs
 <hr />
 
 
- *Tóku gildi 7. apríl 2003.* _EES-samningurinn:_ XX. viðauki tilskipun 75/442/EBE, 1999/31/EB, 2000/53/EB og 2000/76/EB. _Breytt með_ l. 150/2004 (tóku gildi 30. des. 2004).
+ *Tóku gildi 7. apríl 2003.* _EES-samningurinn:_ XX. viðauki tilskipun 75/442/EBE, 1999/31/EB, 2000/53/EB og 2000/76/EB. _Breytt með_ l. 150/2004 (tóku gildi 30. des. 2004) og l. 73/2008 (tóku gildi 14. júní 2008; _EES-samningurinn:_ XX. viðauki tilskipun 2002/96/EB, tilskipun 2003/108/EB).
 
 
  *I. kafli.* *Markmið, gildissvið og skilgreiningar.*
@@ -26,6 +26,10 @@ h2. Lög um meðhöndlun úrgangs
     _Flokkun:_ aðgreining úrgangstegunda til þess að hægt sé að endurnýta úrgangsefni og koma þeim úrgangi sem ekki nýtist til viðeigandi förgunar.
     _Flokkunarmiðstöð:_ staður þar sem tekið er við úrgangi sem er safnað saman kerfisbundið til flokkunar, til endurnýtingar og/eða til förgunar.
     _Flutningur:_ ferli þegar úrgangur er fluttur í atvinnuskyni til endurnotkunar, endurnýtingar eða förgunar.
+    [_Framleiðandi og innflytjandi:_ aðili sem, óháð þeirri sölutækni sem er notuð,
+    i. framleiðir og selur raf- og rafeindatæki undir eigin vörumerki,
+    ii. endurselur raf- og rafeindatæki, undir eigin vörumerki, sem aðrir birgjar framleiða; endursöluaðilinn telst þó ekki vera framleiðandi ef vörumerki framleiðandans er á tækjabúnaðinum eins og kveðið er á um í i. lið, eða
+    iii. flytur raf- og rafeindatæki inn eða út úr landinu í atvinnuskyni.][^1)^]
     _Förgunarstaður:_ staður þar sem förgun úrgangs fer fram, m.a. urðunarstaðir og brennslustöðvar.
     _Förgun úrgangs:_ aðgerð eða ferli þegar úrgangi er umbreytt og/eða komið fyrir varanlega, svo sem urðun og sorpbrennsla.
     _Grunnvatn:_ vatn í gegnmettuðum jarðlögum undir yfirborði jarðar.
@@ -35,9 +39,13 @@ h2. Lög um meðhöndlun úrgangs
     _Mengun:_ þegar örverur, efni og efnasambönd og eðlisfræðilegir þættir valda óæskilegum og skaðlegum áhrifum á heilsufar almennings, röskun lífríkis eða óhreinkun lofts, láðs eða lagar. Mengun tekur einnig til ólyktar, hávaða, titrings, geislunar og varmaflæðis og ýmissa óæskilegra eðlisfræðilegra þátta.
     _Móttökustöð:_ staður og aðstaða þar sem tekið er við úrgangi til geymslu til lengri eða skemmri tíma, til umhleðslu, flokkunar eða annarrar meðhöndlunar. Þaðan fer úrgangurinn til förgunar eða nýtingar, eða honum er fargað á staðnum. Undir móttökustöð falla flokkunarmiðstöðvar og förgunarstaðir.
     _Óvirkur úrgangur:_ úrgangur sem breytist ekki verulega líf-, efna- eða eðlisfræðilega.
+    [_Raf- og rafeindatæki:_ búnaður sem þarf rafstraum eða rafsegulsvið til að geta starfað á réttan hátt og búnaður til að framleiða, flytja og mæla slíkan rafstraum og rafsegulsvið, sbr. viðauka I.
+    _Raf- og rafeindatækjaúrgangur:_ raf- eða rafeindatæki sem er úrgangur, þ.m.t. allir íhlutir, undireiningar og aukahlutir sem eru hluti af búnaðinum.
+    _Raf- og rafeindatækjaúrgangur frá heimilum:_ raf- og rafeindatækjaúrgangur sem kemur frá heimilum, einnig raf- og rafeindatækjaúrgangur frá verslun, iðnaði, stofnunum og annars staðar frá sem er að eðli og umfangi svipaður þeim sem kemur frá heimilum.][^1)^]
     _Rekstraraðili:_ einstaklingur eða lögaðili sem ber ábyrgð á meðhöndlun úrgangs í samræmi við ákvæði starfsleyfis.
     _Rekstrarúrgangur:_ úrgangur frá framleiðslu, þjónustu og verslun, t.d. matarleifar, pappír, pappi, plast, gler, timbur, málmar, leifar frá framleiðslu o.þ.h.
     _Samþættar mengunarvarnir:_ aðferð þar sem samþættum aðgerðum er beitt til að draga sem mest úr losun mengunarefna út í andrúmsloft, vatn eða jarðveg og stuðla að víðtækri umhverfisvernd með því að lágmarka neikvæð áhrif á umhverfið ef mengun færist á milli lofts, láðs og lagar.
+    [_Skilakerfi:_ fyrirtæki eða aðili sem tekur að sér ábyrgð framleiðanda og innflytjanda á raf- og rafeindatækjaúrgangi.][^1)^]
     _Spilliefni:_ úrgangur sem inniheldur efni sem haft geta mengandi eða óæskileg áhrif á umhverfið hvort sem þau eru óblönduð eða hluti af öðrum efnum, vörum eða umbúðum sem komist hafa í snertingu við spilliefni og skráð eru á lista í reglugerð um úrgang, sbr. 13. gr.
     _Söfnunarstöð (gámastöð):_ staður og aðstaða þar sem tekið er við úrgangi frá almenningi og/eða smærri fyrirtækjum. Þaðan fer hann til endurnotkunar og endurnýtingar eða er fluttur til móttökustöðva.
     _Umflutningur:_ flutningur úrgangs í íslenska höfn og þaðan út aftur án tollafgreiðslu.
@@ -47,9 +55,10 @@ h2. Lög um meðhöndlun úrgangs
     _Vatn:_ grunnvatn og yfirborðsvatn.
     _Vöktun:_ kerfisbundin og síendurtekin skráning einstakra breytilegra þátta í umhverfinu.
     _Yfirborðsvatn:_ kyrrstætt eða rennandi vatn á yfirborði jarðar, straumvötn, stöðuvötn og jöklar, svo og strandsjór.
+    _[^1)^]L. 73/2008, 1. gr._
 
  *II. kafli.* *Almenn ákvæði.*
-■ *4. gr.* _Stjórnvöld._
+ ■ *4. gr.* _Stjórnvöld._
  □ Umhverfisráðherra fer með yfirstjórn mála samkvæmt lögum þessum. Á varnarsvæðum fer utanríkisráðherra með lögsögu samkvæmt lögum um yfirstjórn mála á varnarsvæðum.
  □ Umhverfisstofnun annast eftirlit með framkvæmd laga þessara. Heilbrigðisnefndir annast eftirlit með meðhöndlun á úrgangi sem fellur ekki undir eftirlit með starfsleyfi og fjallað er um í 10. gr.
  □ Umhverfisstofnun skal gefa út almenna áætlun um meðhöndlun úrgangs sem gildir fyrir landið allt að fenginni umsögn Sambands íslenskra sveitarfélaga. Áætlunin skal taka mið af lögum þessum og reglugerðum settum samkvæmt þeim og hafa að markmiði að draga markvisst úr myndun úrgangs og auka endurnotkun og endurnýtingu. Endurskoða skal áætlunina á þriggja ára fresti.
@@ -94,11 +103,11 @@ h2. Lög um meðhöndlun úrgangs
 ■ *12. gr.* _Trygging vegna flutnings úrgangs._
  □ Umhverfisstofnun er heimilt að setja sem skilyrði fyrir leyfi til útflutnings, innflutnings og umflutnings spilliefna og annars úrgangs að framleiðandi úrgangs eða sá sem hefur úrgang í vörslu sinni framvísi bankaábyrgð, vátryggingu eða annarri tryggingu, sem stofnunin metur fullnægjandi, fyrir kostnaði við förgun eða endurnýtingu úrgangsins og flutningskostnaði, þ.m.t. kostnaði við að flytja úrganginn á annan endurnýtingar- eða förgunarstað.
 ■ *13. gr.* _Reglugerðir um úrgang og móttökustöðvar fyrir úrgang._
- □ Umhverfisráðherra setur, að fengnum tillögum Umhverfisstofnunar og að höfðu samráði við Samband íslenskra sveitarfélaga, reglugerð um eftirtalin atriði varðandi framkvæmd laga þessara:
+ □ Umhverfisráðherra setur, að fengnum tillögum Umhverfisstofnunar og að höfðu samráði við Samband íslenskra sveitarfélaga, reglugerð[^1)^] um eftirtalin atriði varðandi framkvæmd laga þessara:
     a. nánari skilgreiningar á spilliefnum og öðrum úrgangi, svo og lista yfir úrgang,
     b. að hvaða leyti blöndun, móttaka og förgun einstakra tegunda úrgangs eða úrgangsflokka er takmörkuð eða bönnuð,
-    c. aðferðir við móttöku og meðhöndlun úrgangs, þ.m.t. förgunarleiðir,[^1)^]
-    d. hvaða úrgang heimilt er að meðhöndla í hverjum flokki móttökustöðva,[^1)^]
+    c. aðferðir við móttöku og meðhöndlun úrgangs, þ.m.t. förgunarleiðir,
+    d. hvaða úrgang heimilt er að meðhöndla í hverjum flokki móttökustöðva,
     e. nánari atriði varðandi innihald áætlana sveitarstjórna skv. 4. gr.,
     f. starfsleyfistryggingu skv. 15. gr.,
     g. nánari atriði sem varða skilyrði starfsleyfis, þ.m.t. meðhöndlun á hauggasi og sigvatni frá urðunarstöðum,
@@ -107,18 +116,90 @@ h2. Lög um meðhöndlun úrgangs
     j. hvernig staðið skal að lokun móttökustöðvar,
     k. eftirlit með útflutningi, umflutningi og innflutningi úrgangs, þ.m.t. tryggingu skv. 12. gr.,
     l. önnur atriði sem samræmast lögum þessum.
-    _[^1)^]Rg. 737/2003_ (um meðhöndlun úrgangs). Rg. 738/2003 (um urðun úrgangs). Rg. 739/2003 (um brennslu úrgangs).
+    _[^1)^]Rg. 737/2003_ (um meðhöndlun úrgangs). Rg. 738/2003 (um urðun úrgangs). Rg. 739/2003 (um brennslu úrgangs). Rg. 303/2008 (um úrvinnslu ökutækja).
 
- *III. kafli.* *Sérákvæði um urðunarstaði.*
- ■ *14. gr.* _Umsókn um starfsleyfi fyrir urðunarstað._
+ *[III. kafli.* *Raf- og rafeindatækjaúrgangur.][^1)^]*
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[14. gr.* _Skyldur sveitarfélaga varðandi raf- og rafeindatækjaúrgang._
+ □ Söfnunarstöðvar sveitarfélaga skulu hafa aðstöðu fyrir móttöku á raf- og rafeindatækjaúrgangi frá heimilum eins og nánar er kveðið á um í reglugerð. Ber þeim að taka við slíkum úrgangi frá heimilum gjaldfrjálst. Sveitarfélögum er heimilt að innheimta gjald fyrir afnot skilakerfa af slíkri aðstöðu í samræmi við gjaldskrá sem ráðherra setur að fenginni tillögu stýrinefndar og umsögn Sambands íslenskra sveitarfélaga.
+ □ Söfnunarstöðvum sveitarfélaga ber einnig að taka við öðrum raf- og rafeindatækjaúrgangi en frá heimilum og er heimilt að taka gjald til að standa undir kostnaði við móttöku og geymslu hans.
+ □ Sveitarfélögin skulu veita leiðbeiningar um hvernig beri að flokka og skila raf- og rafeindatækjaúrgangi til söfnunarstöðva sveitarfélaga.][^1)^]
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[15. gr.* _Ábyrgð framleiðanda og innflytjanda á raf- og rafeindatækjaúrgangi._
+ □ Framleiðandi og innflytjandi skulu bera ábyrgð á þeim raf- og rafeindatækjum sem framleidd eru hér á landi eða flutt inn og falla undir viðauka I. Í ábyrgð framleiðanda og innflytjanda felst að þeir skulu fjármagna og tryggja meðhöndlun raf- og rafeindatækjaúrgangs að frátalinni söfnun til söfnunarstöðvar sveitarfélaga. Skulu framleiðendur og innflytjendur uppfylla skyldur sínar með rekstri eigin skilakerfis eða með aðild að sameiginlegu skilakerfi fleiri framleiðenda og innflytjenda. Ábyrgð framleiðenda og innflytjenda á geymslu og söfnun frá söfnunarstöð sveitarfélaga nær til landsins alls án tillits til hvar varan er seld og skal allur raf- og rafeindatækjaúrgangur sem fellur undir lög þessi fara til meðhöndlunar. Seljandi raf- og rafeindatækja sem falla undir lög þessi og seld eru í tollfrjálsri verslun hér á landi og ætluð til innlendra nota ber ábyrgð framleiðanda og innflytjanda samkvæmt lögum þessum.
+ □ Umhverfisráðherra getur, að fengnum tillögum Umhverfisstofnunar, kveðið á um í reglugerð að framleiðanda og innflytjanda annarra raf- og rafeindatækja en raf- og rafeindatækja fyrir heimili sé heimilt að gera samkomulag um að kaupandi raf- og rafeindatækis yfirtaki ábyrgð skv. 1. mgr. Tilkynna ber stýrinefnd raf- og rafeindatækjaúrgangs um gerð slíkra samninga. Umhverfisstofnun skal leita umsagnar stýrinefndar og skilakerfa við gerð tillagna að reglugerð.][^1)^]
+    _[^1)^]L. 73/2008, 2. gr._ Ábyrgð framleiðenda og innflytjenda á raf- og rafeindatækjum og úrvinnslu þess úrgangs sem af þeim hlýst samkvæmt lögunum tekur gildi 1. janúar 2009 skv. 6. gr. s.l.
+ ■ *[16. gr.* _Upplýsingaskylda framleiðenda og innflytjenda._
+ □ Framleiðandi og innflytjandi skulu í upplýsingum sem ætlaðar eru til dreifingar til kaupanda upplýsa um hvar sé heimilt að skila raf- og rafeindatækjaúrgangi, að hægt sé að skila raf- og rafeindatækjaúrgangi frá heimilum án greiðslu og að ábyrgst sé að hann verði meðhöndlaður í samræmi við gildandi reglur.][^1)^]
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[17. gr.* _Upplýsingar til þeirra er meðhöndla úrgang._
+ □ Framleiðendur og innflytjendur skulu veita upplýsingar um rétta meðhöndlun raf- og rafeindatækjaúrgangs til þeirra sem hafa starfsleyfi til að meðhöndla raf- og rafeindatækjaúrgang. Slíkar upplýsingar skulu veittar eigi síðar en ári frá því að raf- og rafeindatæki var markaðssett.][^1)^]
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[18. gr.* _Skilakerfi._
+ □ Hlutverk skilakerfis er að:
+    a. kosta geymslu raf- og rafeindatækjaúrgangs frá heimilum á söfnunarstöðvum sveitarfélaga,
+    b. tryggja söfnun og móttöku á raf- og rafeindatækjaúrgangi frá söfnunarstöðvum sveitarfélaga og í samráði við sveitarfélögin, alls staðar á landinu,
+    c. tryggja að raf- og rafeindatækjaúrgangur sé meðhöndlaður af atvinnurekstri sem hefur gilt starfsleyfi.
+ □ Skilakerfi skal hafa nægt fjármagn frá framleiðendum og innflytjendum til að tryggja að það geti staðið undir skuldbindingum fyrir hönd viðskiptavina sinna.
+ □ Skilakerfi skal kosta geymslu, safna og taka á móti og koma til meðhöndlunar því heildarmagni raf- og rafeindatækjaúrgangs sem jafngildir markaðshlutdeild þeirra framleiðenda og innflytjenda sem samning hafa við skilakerfið hvort sem um er að ræða sameiginlegt skilakerfi eða skilakerfi sem er fjármagnað af einum framleiðanda eða innflytjanda.
+ □ Skilakerfi ber að leggja fram tryggingu um fjárhagslega ábyrgð vegna starfsemi sinnar. Umhverfisráðherra setur að fengnum tillögum Umhverfisstofnunar reglugerð um upphæð og form hinnar fjárhagslegu ábyrgðar. Heimilt er í reglugerðinni að undanþiggja skilakerfi, sem hefur innan sinna vébanda ákveðinn fjölda framleiðenda og innflytjenda og eru með tiltekna lágmarksmarkaðshlutdeild, tryggingu um fjárhagslega ábyrgð. Umhverfisstofnun skal leita umsagnar stýrinefndar og skilakerfa, svo og annarra hagsmunaaðila, við gerð tillagna að reglugerð.
+ □ Áður en skilakerfi hefur starfsemi skal það afla leyfis Umhverfisstofnunar. Með umsókn um leyfi til rekstrar skilakerfis ber að fylgja trygging um fjárhagslega ábyrgð, sbr. þó 2. málsl. 4. mgr., ásamt umsögn stýrinefndar. Umsóknargjald er 100.000 kr. og skal það standa undir kostnaði við yfirferð umsóknar og útgáfu leyfis.
+ □ Skilakerfi ber að leggja fram upplýsingar til stýrinefndar um að það uppfylli kröfur samkvæmt ákvæðum greinar þessarar.][^1)^]
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[19. gr.* _Stýrinefnd raf- og rafeindatækjaúrgangs._
+ □ Sérstök stýrinefnd raf- og rafeindatækjaúrgangs skal hafa umsjón með starfsemi skilakerfa.
+ □ Umhverfisráðherra skipar fimm manna stýrinefnd raf- og rafeindatækjaúrgangs. Skulu fjórir skipaðir samkvæmt tilnefningum frá Félagi íslenskra stórkaupmanna, Samtökum atvinnulífsins, Samtökum iðnaðarins og Samtökum verslunar og þjónustu og einn án tilnefningar sem er formaður nefndarinnar og skal hafa sérþekkingu á samkeppnismálum.
+ □ Stýrinefnd getur leitað hagkvæmra leiða til þess að söfnun, móttaka og meðhöndlun raf- og rafeindatækjaúrgangs frá heimilum fari fram með landfræðilega skynsömum hætti. Ber henni að leita eftir áliti Samkeppniseftirlits.
+ □ Hlutverk stýrinefndar er að:
+    a. halda skrá yfir framleiðendur og innflytjendur raf- og rafeindatækja og hafa eftirlit með því að þeir séu skráðir í skráningarkerfið,
+    b. reka skráningarkerfi framleiðenda og innflytjenda,
+    c. safna upplýsingum frá skilakerfum um magn raf- og rafeindatækjaúrgangs og ráðstöfun hans og vinnslu þeirra upplýsinga og skila þeim til Umhverfisstofnunar,
+    d. reikna hlutfall þess raf- og rafeindatækjaúrgangs sem einstökum skilakerfum ber að safna eftir flokkun sem fram kemur í viðauka I í samræmi við markaðshlutdeild,
+    e. meta hvort skilakerfi uppfylli skyldur sínar,
+    f. meta hvort skilakerfi geti staðið undir fjárhagslegum skuldbindingum sínum,
+    g. móta stefnu um starfsemi sína, svo sem helstu áherslur, verkefni og starfshætti, og leggja fyrir ráðherra til staðfestingar.
+ □ Telji stýrinefnd að skilakerfi uppfylli ekki skyldur sínar ber henni að tilkynna það til Umhverfisstofnunar. Stofnuninni er þá heimilt að beita skilakerfi þvingunarúrræðum samkvæmt lögum þessum og ef brot eru alvarleg að svipta skilakerfi leyfi til að starfa.
+ □ Stýrinefnd skal innheimta gjald af skilakerfum til að standa undir kostnaði við uppbyggingu og rekstur stýrinefndar sem hlýst af ákvæðum laga þessara, svo sem stofnkostnaði, rekstri skráningarkerfis, sbr. 20. gr., og kostnaði við störf stýrinefndar. Skal gjaldið vera í samræmi við markaðshlutdeild þeirra innflytjenda og framleiðenda sem aðild eiga að viðkomandi skilakerfi. Skilakerfi geta óskað eftir upplýsingum frá stýrinefnd um samsetningu gjalda. Gjöld mega ekki vera hærri en sem nemur rökstuddum kostnaði við veitta þjónustu.][^1)^]
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[20. gr.* _Skráningarkerfi framleiðenda og innflytjenda._
+ □ Framleiðanda og innflytjanda raf- og rafeindatækja ber að skrá sig hjá skráningarkerfi framleiðenda og innflytjenda a.m.k. 15 dögum áður en vara sem fellur undir viðauka I er markaðssett hér á landi.
+ □ Stýrinefnd getur falið öðrum aðila að annast hlutverk stýrinefndar skv. a - d-lið 4. mgr. 19. gr. með samningi. Skulu ákvæði laganna um heimildir og skyldur stýrinefndarinnar einnig gilda um samningsaðilann, svo sem um þagnarskyldu, sbr. 3. mgr. 21. gr.
+ □ Umhverfisráðherra skal að fengnum tillögum Umhverfisstofnunar setja reglugerð um skráningarkerfi framleiðenda og innflytjenda. Í henni skal fjallað um skyldu framleiðanda og innflytjanda raf- og rafeindatækja til að skrá sig og skila upplýsingum um innflutning eða framleiðslu á raf- og rafeindatækjum til stýrinefndar og á hvaða hátt það skuli gert. Umhverfisstofnun skal leita umsagnar stýrinefndar og skilakerfa, svo og annarra hagsmunaaðila, við gerð tillagna að reglugerð.][^1)^]
+    _[^1)^]L. 73/2008, 2. gr._ Framleiðendur og innflytjendur raf- og rafeindatækja skulu skrá sig hjá skráningarkerfi framleiðenda og innflytjenda fyrir 1. október 2008 og eiga aðild að skilakerfi frá sama tíma skv. 6. gr. s.l.
+ ■ *[21. gr.* _Eftirlit með framleiðendum og innflytjendum._
+ □ Telji stýrinefnd að framleiðandi eða innflytjandi hafi ekki skráð sig í skráningarkerfi framleiðenda og innflytjenda og að hann framleiði eða flytji inn raf- eða rafeindatæki sem falla undir viðauka I skal stýrinefnd tilkynna það til Umhverfisstofnunar. Stofnunin skal að fenginni tilkynningu stýrinefndar gefa hugsanlegum framleiðanda og innflytjanda kost á að tjá sig um hvort hann framleiði eða flytji inn raf- eða rafeindatæki sem falla undir viðauka I. Umhverfisstofnun sker úr um hvaða raf- og rafeindatæki falla undir lög þessi. Umhverfisstofnun skal taka ákvörðun um hvort leggja skuli fyrir viðkomandi framleiðanda eða innflytjanda að skrá sig í samræmi við lög þessi. Ef aðili verður ekki við tilmælum Umhverfisstofnunar um skráningu er stofnuninni heimilt að beita þvingunarúrræðum samkvæmt lögum þessum.
+ □ Stýrinefnd er heimilt að óska eftir upplýsingum frá toll- og skattyfirvöldum um heildarmagn, magn í einstökum flokkum, sbr. viðauka I, og magn frá einstökum framleiðendum og innflytjendum vegna framleiðslu og innflutnings á raf- og rafeindatækjum sem falla undir lögin. Ákvæði "188. gr. tollalaga, nr. 88/2005":2005088.html#g188, og "117. gr. laga um tekjuskatt, nr. 90/2003":2003090.html#g117, með síðari breytingum, skulu ekki vera því til fyrirstöðu að starfsmenn toll- og skattyfirvalda veiti stýrinefnd upplýsingar samkvæmt þessari grein.
+ □ Stýrinefnd er bundin þagnarskyldu um atriði er varða framleiðslu- og verslunarleynd. Sama gildir um atriði sem þeir fá vitneskju um og leynt skulu fara samkvæmt lögum og eðli máls.][^1)^]
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[22. gr.* _Reglugerðir um raf- og rafeindatæki._
+ □ Ráðherra er heimilt, að fengnum tillögum Umhverfisstofnunar sem leita skal umsagnar um tillögurnar hjá stýrinefnd, skilakerfum og Sambandi íslenskra sveitarfélaga, að setja reglugerð um eftirtalin atriði:
+    a. fjölda gámastæða sem til staðar skulu vera fyrir skilakerfi á söfnunarstöðvum sveitarfélaga, sbr. 14. gr.,
+    b. bann við sölu á raf- og rafeindatækjum sem ekki er unnt eða erfitt er að endurnota eða endurnýta,
+    c. takmörkun eða bann á sölu á raf- og rafeindatækjum til annarra landa á Evrópska efnahagssvæðinu og utan þess, svo og reglur um söluna,
+    d. lágmarkskröfur um meðhöndlun raf- og rafeindatækjaúrgangs,
+    e. nánari ákvæði um skyldu framleiðenda, innflytjenda, sveitarfélaga og seljenda til að upplýsa kaupendur raf- og rafeindatækja, sbr. ákvæði 16., 17. og 18. gr.,
+    f. skyldu framleiðanda og innflytjanda til að merkja raf- og rafeindatæki sem falla undir viðauka I,
+    g. skyldur innflytjanda sem selur raf- og rafeindatæki í atvinnuskyni í póstverslun, netverslun eða á sambærilegan hátt beint til heimila hér á landi,
+    h. þau markmið sem framleiðanda og innflytjanda ber að ná árlega um söfnun, endurnýtingu og endurnotkun og hlutverk Umhverfisstofnunar til að hafa eftirlit með því að þau markmið náist,
+    i. ítarlegri skrá yfir þau raf- og rafeindatæki sem falla undir yfirflokka í viðauka I,
+    j. nánari útfærslu á hvenær og hvernig skilakerfi sækja raf- og rafeindatækjaúrgang frá söfnunarstöðvum sveitarfélaga,
+    k. nánari útfærslu á skyldu stýrinefndar til að safna upplýsingum frá skilakerfum um magn raf- og rafeindatækjaúrgangs og ráðstöfun hans, vinnslu þeirra upplýsinga og skil á þeim til Umhverfisstofnunar.][^1)^]
+    _[^1)^]L. 73/2008, 2. gr._
+
+ *[IV. kafli.][^1)^]* *Sérákvæði um urðunarstaði.*
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[23. gr.][^1)^]* _Umsókn um starfsleyfi fyrir urðunarstað._
  □ Í umsókn um starfsleyfi fyrir urðunarstað skal auk þess sem fram kemur í 6. gr. lýsa fyrirhuguðum urðunarstað sérstaklega með tilliti til vatnafars og jarðfræði. Í slíkri umsókn skal einnig gera grein fyrir sérstakri fjárhagslegri tryggingu eða ábyrgð umsækjanda fyrir því að fylgt verði ákvæðum starfsleyfisins, þar á meðal ákvæðum um vöktun og umsjón eftir að urðunarstað hefur verið lokað. Ekki þarf þó að leggja fram slíka tryggingu ef eingöngu er urðaður óvirkur úrgangur á viðkomandi urðunarstað.
-■ *15. gr.* _Starfsleyfistrygging._
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[24. gr.][^1)^]* _Starfsleyfistrygging._
  □ Auk almennra skilyrða sem tilgreind eru í 8. gr. er það skilyrði starfsleyfis fyrir urðunarstað að rekstraraðili hafi lagt fram fullnægjandi fjárhagslega tryggingu eða ábyrgð fyrir því að uppfylltar verði þær skyldur sem starfsleyfinu fylgja, þar á meðal um lokunar- og eftirlitsaðgerðir í kjölfar lokunar urðunarstaðarins. Ákvæði þetta gildir þó ekki um urðunarstaði fyrir óvirkan úrgang.
  □ Starfsleyfistrygging skal gilda í 30 ár eftir að urðunarstað er lokað. Fjárhæð tryggingar skal tiltekin í starfsleyfi. Fjárhæð tryggingar skal samræmast kostnaði við lokun urðunarstaðarins og þá tíðni vöktunar og sýnatöku, skv. 17. gr., sem Umhverfisstofnun telur fullnægjandi og miðast við 30 ára vöktunartímabil.
  □ Aðför má ekki gera í tryggingunni nema til fullnustu skyldu rekstraraðila til aðgerða í samræmi við starfsleyfi samkvæmt lögum þessum. Tryggingin skal jafnframt undanskilin þrotabúi rekstraraðila verði bú hans tekið til gjaldþrotaskipta innan 30 ára frá lokun urðunarstaðarins.
-■ *16. gr.* _Vöktun og aðgerðir._
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[25. gr.][^1)^]* _Vöktun og aðgerðir._
  □ Rekstraraðili skal fylgja áætlun um eftirlit og vöktun með urðunarstaðnum, sbr. ákvæði laga þessara, reglugerða sem um reksturinn gilda og starfsleyfi. Rekstraraðili skal tilkynna Umhverfisstofnun eða viðkomandi eftirlitsaðila um hvers konar skaðleg áhrif á umhverfið sem teljast veruleg og koma í ljós við eftirlit og vöktun. Hann skal einnig hlíta ákvörðun Umhverfisstofnunar eða viðkomandi eftirlitsaðila um eðli og tímasetningu aðgerða til úrbóta sem grípa ber til.
-■ *17. gr.* _Lokun urðunarstaðar._
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[26. gr.][^1)^]* _Lokun urðunarstaðar._
  □ Urðunarstað telst ekki endanlega lokað fyrr en eftirlitsaðili hefur skoðað vettvang og metið upplýsingar rekstraraðila varðandi lokun og Umhverfisstofnun hefur veitt samþykki fyrir lokun.
  □ Rekstraraðili urðunarstaðar ber ábyrgð á viðhaldi urðunarstaðarins, vöktun og greiningu á hauggasi og sigvatni sem berst frá urðunarstaðnum og greiningu grunnvatns í nágrenni staðarins, eftir því sem nánar greinir í starfsleyfi, svo lengi sem telja má að mengunarhætta stafi af urðunarstaðnum, að jafnaði í 30 ár frá lokun hans. Umhverfisstofnun er heimilt að veita rekstraraðila undanþágu frá sýnatöku, eftir því sem aðstæður á viðkomandi urðunarstað mæla með, vegna vöktunar á sigvatni, grunnvatni og mælingum á breytingum á umfangi úrgangs sem urðaður hefur verið, hafi eingöngu verið tekið við heimilis- og rekstrarúrgangi eða óvirkum úrgangi á viðkomandi urðunarstað og um er að ræða urðunarstað í afskekktri byggð sem tekur eingöngu til urðunar úrgang sem fellur til í þeirri afskekktu byggð. Áður en starfsleyfi er gefið út skal afmarkað það svæði þar sem sýnataka fer fram samkvæmt ákvæði þessu.
  □ Umhverfisstofnun skal endurskoða fyrirkomulag vöktunar á þriggja ára fresti frá lokun urðunarstaðar.
@@ -127,25 +208,31 @@ h2. Lög um meðhöndlun úrgangs
  □ Heimilt er Umhverfisstofnun eða viðkomandi eftirlitsaðila að gefa rekstraraðila fyrirmæli um lokunaraðgerðir, vöktun og umsjón með því svæði þar sem rekinn hefur verið urðunarstaður þótt rekstraraðili hafi ekki umráð viðkomandi landsvæðis. Eigandi eða umráðamaður lands þar sem eftirlit fer fram skal hlíta því að rekstraraðili framkvæmi lokunar-, vöktunar- og eftir atvikum hreinsunaraðgerðir eftir lokun urðunarstaðar samkvæmt lögum þessum og reglum settum samkvæmt þeim. Veiti eigandi eða umráðamaður lands ekki aðgang að landi sínu til að unnt sé að framkvæma nauðsynlegar aðgerðir samkvæmt fyrirmælum Umhverfisstofnunar er heimilt að leita aðstoðar lögreglu ef með þarf svo að aðgerðirnar nái fram að ganga.
  □ Verði eigandi eða umráðamaður lands sannanlega fyrir tjóni við framkvæmd þessa ákvæðis, svo sem vegna jarðrasks og átroðnings, skal rekstraraðili bæta það tjón. Náist ekki samkomulag um bætur skal ákveða þær með eignarnámsmati samkvæmt lögum um framkvæmd eignarnáms.
  □ Umhverfisstofnun skal láta þinglýsa fyrirmælum um vöktun og umsjón með urðunarstað og nágrenni hans eftir lokun hans og láta aflýsa henni þegar vöktunartímabili telst lokið. Rekstraraðili skal bera kostnað af þinglýsingu og aflýsingu.
+    _[^1)^]L. 73/2008, 2. gr._
 
- *IV. kafli.* *Sérákvæði um brennslustöðvar.*
-■ *18. gr.* _Umsókn um starfsleyfi fyrir brennslustöð._
+ *[V. kafli.][^1)^]* *Sérákvæði um brennslustöðvar.*
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[27. gr.][^1)^]* _Umsókn um starfsleyfi fyrir brennslustöð._
  □ Í umsókn um starfsleyfi fyrir brennslustöð skal auk þess sem fram kemur í 6. gr. gera grein fyrir tæknibúnaði til að framfylgja kröfum um loftgæði og förgun ösku.
-■ *19. gr.* _Skilyrði starfsleyfis fyrir brennslustöð._
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[28. gr.][^1)^]* _Skilyrði starfsleyfis fyrir brennslustöð._
  □ Í starfsleyfi fyrir brennslustöð skulu auk almennra skilyrða sem tilgreind eru í II. kafla vera ákvæði um losunarmörk fyrir mengunarefni eftir því sem við á með tilliti til samsetningar þess úrgangs sem brenna á og gerðar brennslustöðvarinnar. Þegar sett eru útblástursmörk skal taka tillit til hugsanlegra skaðlegra áhrifa þeirra mengunarefna sem um ræðir á umhverfi og heilsu manna.
-■ *20. gr.* _Losunarmörk._
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[29. gr.][^1)^]* _Losunarmörk._
  □ Mæla skal styrk mengandi efna í útblásturslofti frá brennslu og brennsluaðstæður eftir því sem nánar er mælt fyrir um í reglugerð og starfsleyfi stöðvarinnar.
  □ Sýni mælingar að farið hafi verið yfir losunarmörk sem tilgreind eru í starfsleyfi skal rekstraraðili gera viðeigandi ráðstafanir til að tryggja að brennslustöðin fullnægi kröfum um losunarmörk, ella skal starfsemi stöðvarinnar hætt.
+    _[^1)^]L. 73/2008, 2. gr._
 
- *V. kafli.* *Eftirlit, þvingunarúrræði, málsmeðferð og viðurlög.*
-■ *21. gr.* _Eftirlit._
+ *[VI. kafli.][^1)^]* *Eftirlit, þvingunarúrræði, málsmeðferð og viðurlög.*
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[30. gr.][^1)^]* _Eftirlit._
  □ Umhverfisstofnun annast eftirlit með því að starfsleyfishafi sem hún veitir starfsleyfi fari að ákvæðum starfsleyfis samkvæmt lögum þessum. Heimilt er stofnuninni að fela heilbrigðisnefnd eftirlit og framkvæmd þvingunarúrræða samkvæmt lögum þessum í umboði stofnunarinnar. Umhverfisstofnun er einnig heimilt að fela tiltekna þætti heilbrigðiseftirlitsins faggiltum skoðunaraðilum. Skal í slíkum tilvikum gerður sérstakur samningur við hinn faggilta skoðunaraðila, sbr. "30. gr. laga um fjárreiður ríkisins, nr. 88/1997":1997088.html#g30.
  □ Starfsmönnum Umhverfisstofnunar og öðrum eftirlitsaðilum samkvæmt lögum þessum skal heimill aðgangur til skoðunar og eftirlits, þar á meðal töku sýna og myndatöku, að öllum þeim stöðum sem lög þessi, reglugerðir og samþykktir settar samkvæmt þeim ná yfir.
  □ Eftirlitsskyldum aðilum er skylt að veita allar upplýsingar sem eru nauðsynlegar til eftirlits með framkvæmd laganna og ber þeim að afhenda nauðsynleg sýni endurgjaldslaust.
  □ Ráðherra setur, að fengnum tillögum Umhverfisstofnunar, gjaldskrá fyrir veitta þjónustu, eftirlit og verkefni sem stofnuninni er falið að annast eða stofnunin tekur að sér samkvæmt lögum þessum. Upphæð gjalds skal taka mið af kostnaði við þjónustu og framkvæmd einstakra verkefna og skal byggð á rekstraráætlun þar sem rökstudd eru þau atriði sem ákvörðun gjalds byggist á. Gjaldið má ekki vera hærra en sá kostnaður. Gjaldskrá skal birt í B-deild Stjórnartíðinda. Gjöld má innheimta með fjárnámi. Heimilt er utanríkisráðherra að setja gjaldskrá og innheimta gjald á varnarsvæðum.
- □ Heimilt er sveitarfélögum að setja gjaldskrá og innheimta gjald fyrir eftirlitsskylda starfsemi, svo sem fyrir eftirlit, sé eftirlitið á vegum sveitarfélaga. Leita skal umsagnar hlutaðeigandi heilbrigðisnefndar ...[^1)^] áður en gjaldskrá er sett. Upphæð gjaldsins skal byggð á rekstraráætlun þar sem rökstudd eru þau atriði sem ákvörðun gjalds við viðkomandi eftirlit byggist á og má gjaldið ekki vera hærra en sá kostnaður. Hvert eftirlitssvæði skal hafa sameiginlega gjaldskrá og skal hlutaðeigandi heilbrigðisnefnd láta birta hana í B-deild Stjórnartíðinda. Gjöld má innheimta með fjárnámi. Gjöld skulu tryggð með lögveðsrétti í viðkomandi fasteign tvö ár eftir gjalddaga þegar leyfi eða þjónusta er tengd notkun fasteignar. Umhverfisráðherra skal gefa út leiðbeinandi reglur um uppbyggingu gjaldskráa sveitarfélaga.
-    _[^1)^]L. 150/2004, 3. gr._
- ■ *22. gr.* _Þvingunarúrræði._
+ □ Heimilt er sveitarfélögum að setja gjaldskrá og innheimta gjald fyrir eftirlitsskylda starfsemi, svo sem fyrir eftirlit, sé eftirlitið á vegum sveitarfélaga. Leita skal umsagnar hlutaðeigandi heilbrigðisnefndar ...[^2)^] áður en gjaldskrá er sett. Upphæð gjaldsins skal byggð á rekstraráætlun þar sem rökstudd eru þau atriði sem ákvörðun gjalds við viðkomandi eftirlit byggist á og má gjaldið ekki vera hærra en sá kostnaður. Hvert eftirlitssvæði skal hafa sameiginlega gjaldskrá og skal hlutaðeigandi heilbrigðisnefnd láta birta hana í B-deild Stjórnartíðinda. Gjöld má innheimta með fjárnámi. Gjöld skulu tryggð með lögveðsrétti í viðkomandi fasteign tvö ár eftir gjalddaga þegar leyfi eða þjónusta er tengd notkun fasteignar. Umhverfisráðherra skal gefa út leiðbeinandi reglur um uppbyggingu gjaldskráa sveitarfélaga.
+    _[^1)^]L. 73/2008, 2. gr._ [^2)^]L. 150/2004, 3. gr.
+ ■ *[31. gr.][^1)^]* _Þvingunarúrræði._
  □ Umhverfisstofnun og heilbrigðisnefnd þar sem hún fer með eftirlit er heimilt að beita úrræðum samkvæmt grein þessari.
  □ Til að knýja á um framkvæmd ráðstöfunar samkvæmt lögum þessum er heimilt að veita viðkomandi aðila áminningu. Jafnframt skal veita hæfilegan frest til úrbóta ef þeirra er þörf.
  □ Ef aðili verður ekki við tilmælum um úrbætur innan tiltekins frests er heimilt að ákveða aðila dagsektir þar til úr er bætt. Dagsektir renna til ríkissjóðs og skal hámark þeirra vera 500.000 kr. á dag.
@@ -153,15 +240,21 @@ h2. Lög um meðhöndlun úrgangs
  □ Ef svo alvarleg hætta stafar af tiltekinni starfrækslu eða notkun að aðgerð þoli enga bið er henni heimilt til bráðabirgða að stöðva starfsemi eða notkun þegar í stað.
  □ Sinni rekstraraðili ekki úrbótum og um alvarlegt eða ítrekað tilvik er að ræða getur Umhverfisstofnun svipt rekstraraðila starfsleyfi.
  □ Leita skal aðstoðar lögreglu ef með þarf við framkvæmd þvingunarúrræða.
-■ *23. gr.* _Málsmeðferð og úrskurðir._
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[32. gr.][^1)^]* _Málsmeðferð og úrskurðir._
  □ Rísi ágreiningur um framkvæmd laganna, reglugerða settra samkvæmt þeim eða samþykkta sveitarfélaga eða um ákvarðanir yfirvalda er heimilt að vísa málinu til úrskurðarnefndar samkvæmt lögum um hollustuhætti og mengunarvarnir.
  □ Ákvarðanir Umhverfisstofnunar um útgáfu starfsleyfa samkvæmt lögum þessum má kæra til fullnaðarúrskurðar ráðherra innan sex vikna frá ákvörðun Umhverfisstofnunar. Rísi ágreiningur milli Umhverfisstofnunar og heilbrigðisnefnda um framkvæmd laga þessara skal vísa málinu til fullnaðarúrskurðar ráðherra. Sama gildir um ágreining milli heilbrigðisnefndar og sveitarstjórna um framkvæmd laganna.
-■ *24. gr.* _Viðurlög._
+ □ [Rísi ágreiningur milli stýrinefndar, skilakerfa eða sveitarfélaga vegna söfnunarstöðva sveitarfélaga um framkvæmd laga þessara skal vísa málinu til úrskurðar ráðherra.][^2)^]
+    _[^1)^]L. 73/2008, 2. gr._ [^2)^]L. 73/2008, 3. gr.
+ ■ *[33. gr.][^1)^]* _Viðurlög._
  □ Brot gegn ákvæðum laga þessara, reglugerðum settum samkvæmt þeim og samþykktum sveitarfélaga varða sektum hvort sem þau eru framin af ásetningi eða stórfelldu gáleysi. Sé um stórfelld eða ítrekuð ásetningsbrot að ræða varða brot á lögum þessum og reglugerðum settum samkvæmt þeim fangelsi allt að fjórum árum. Tilraun til brota gegn lögum þessum, reglugerðum og samþykktum sem settar eru á grundvelli þeirra varðar refsingu sem fullframið brot, sbr. III. kafla almennra hegningarlaga. Sama gildir um hlutdeild í brotum.
  □ Sektir má ákvarða lögaðila þó að sök verði ekki sönnuð á fyrirsvarsmenn eða starfsmenn hans eða aðra þá einstaklinga sem í þágu hans starfa, enda hafi brotið orðið eða getað orðið til hagsbóta fyrir lögaðilann. Einnig má, með sama skilorði, gera lögaðila sekt ef fyrirsvarsmenn eða starfsmenn hans eða aðrir einstaklingar sem í þágu hans starfa gerast sekir um brot.
+    _[^1)^]L. 73/2008, 2. gr._
 
- *VI. kafli.* *Gildistaka.*
-■ *25. gr.* Lög þessi öðlast þegar gildi. Reglugerðir sem settar hafa verið á grundvelli laga um hollustuhætti og mengunarvarnir og eiturefni og hættuleg efni og varða úrgang halda gildi sínu að svo miklu leyti sem þær samræmast lögum þessum.
+ *[VII. kafli.][^1)^]* *Gildistaka.*
+    _[^1)^]L. 73/2008, 2. gr._
+ ■ *[34. gr.][^1)^]* Lög þessi öðlast þegar gildi. Reglugerðir sem settar hafa verið á grundvelli laga um hollustuhætti og mengunarvarnir og eiturefni og hættuleg efni og varða úrgang halda gildi sínu að svo miklu leyti sem þær samræmast lögum þessum.
+    _[^1)^]L. 73/2008, 2. gr._
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Rekstraraðilar urðunarstaða sem eru í rekstri við gildistöku laga þessara skulu fyrir 31. desember 2003 senda Umhverfisstofnun áætlun um hvernig unnt sé að laga rekstur urðunarstaðarins að ákvæðum laga þessara.
@@ -169,5 +262,19 @@ h2. Lög um meðhöndlun úrgangs
  □ Ef urðunarstaður er í rekstri í eyju hér við land við gildistöku laga þessara og er lokað eftir gildistöku laganna getur Umhverfisstofnun veitt undanþágu frá sýnatöku eftir því sem aðstæður á viðkomandi urðunarstað mæla með vegna vöktunar á sigvatni, grunnvatni og mælingum á breytingum á umfangi þess úrgangs sem urðaður hefur verið. Slík undanþága er þó einungis heimil hafi eingöngu verið tekið við heimilis- og rekstrarúrgangi eða óvirkum úrgangi á viðkomandi urðunarstað og um er að ræða urðunarstað sem getur að hámarki tekið við 15.000 tonnum af úrgangi eða að hámarki 1.000 tonnum á ári og er eini urðunarstaðurinn í eyjunni og þjónar henni einni.
  □ Í reglugerð skal kveðið nánar á um aðlögun starfandi urðunarstaða.
  ■ *II.* Frá gildistöku laga þessara til ársins 2010 skal starfa samráðsnefnd umhverfisráðuneytis og Sambands íslenskra sveitarfélaga um framkvæmd laganna. Nefndin skal skipuð sex mönnum, þremur samkvæmt tilnefningu Sambands íslenskra sveitarfélaga og þremur samkvæmt tilnefningu umhverfisráðherra. Nefndin skal fylgjast með þróun meðhöndlunar úrgangs hérlendis og á Evrópska efnahagssvæðinu. Sérstaklega skal nefndin fylgjast með hvernig markmiðum laganna er náð og meta þann kostnað sem hlýst af því. Nefndin skal skila árlegri skýrslu til umhverfisráðherra og Sambands íslenskra sveitarfélaga og setja fram eftir því sem þörf krefur tillögur um hvernig kostnaðinum verði mætt. Tilnefningaraðilar skulu bera kostnað vegna fulltrúa sinna í nefndinni.
+
+ *[Viðauki I.* *Flokkar raf- og rafeindatækja.*
+ □ Raf- og rafeindatæki sem hönnuð eru til notkunar við rafspennu sem fer ekki yfir 1.000 volt þegar um er að ræða riðstraum og ekki yfir 1.500 volt þegar um er að ræða jafnstraum:
+    1. Stór heimilistæki.
+    2. Lítil heimilistæki.
+    3. Upplýsingatækni- og fjarskiptabúnaður.
+    4. Neytendabúnaður.
+    5. Ljósabúnaður.
+    6. Raf- og rafeindatæki (að frátöldum stórum, föstum tækjum til iðnaðar).
+    7. Leikföng og tómstunda-, íþrótta- og útivistarbúnaður.
+    8. Lækningatæki (að frátöldum ígræðsluvörum og vörum sem bera smit).
+    9. Vöktunar- og eftirlitstæki.
+    10. Sjálfsalar.][^1)^]
+    _[^1)^]L. 73/2008, 4. gr._
 
 

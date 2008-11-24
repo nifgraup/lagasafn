@@ -7,7 +7,7 @@ h2. Lög um verðbréfaviðskipti
 <hr />
 
 
- *Tóku gildi 1. nóvember 2007.* _EES-samningurinn:_ IX. viðauki tilskipun 89/298/EBE, 89/592/EBE, 2001/34/EB, 2003/6/EB, 2003/71/EBE, 2003/124/EB og 2003/125/EB, reglugerð 2273/2003, tilskipun 2004/25/EB, 2004/39/EB, 2004/72/EB og 2004/109/EB.
+ *Tóku gildi 1. nóvember 2007.* _EES-samningurinn:_ IX. viðauki tilskipun 89/298/EBE, 89/592/EBE, 2001/34/EB, 2003/6/EB, 2003/71/EBE, 2003/124/EB og 2003/125/EB, reglugerð 2273/2003, tilskipun 2004/25/EB, 2004/39/EB, 2004/72/EB og 2004/109/EB. _Breytt með_ "l. 88/2008":2008088.html (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 96/2008 (tóku gildi 24. júní 2008).
 
 
  *I. kafli.* *Gildissvið og orðskýringar.*
@@ -145,9 +145,10 @@ h2. Lög um verðbréfaviðskipti
  □ Fjármálafyrirtæki er heimilt að fela einkaumboðsmanni með skriflegum samningi að markaðssetja þjónustu þess, taka við fyrirmælum viðskiptavina og framkvæma þau, hafa milligöngu um sölu fjármálagerninga og veita fjárfestingarráðgjöf.
  □ Einkaumboðsmenn geta aðeins starfað fyrir eitt fjármálafyrirtæki. Fjármálafyrirtæki sem veitir þjónustu fyrir milligöngu einkaumboðsmanna ber fulla og ótakmarkaða ábyrgð á aðgerðum og vanrækslu þeirra þegar þeir starfa á vegum þess. Einkaumboðsmönnum er skylt að gera viðskiptavinum grein fyrir í umboði hvers þeir starfa. Einkaumboðsmönnum er óheimilt að taka við fjármunum frá viðskiptavinum.
  □ Fjármálafyrirtæki skulu hafa eftirlit með starfsemi einkaumboðsmanna til þess að tryggja að þeir fari að lögum. Þau skulu stuðla að heilbrigðum og eðlilegum viðskiptaháttum þeirra. Einkaumboðsmaður skal hafa staðist próf í verðbréfaviðskiptum. Ef einkaumboðsmaður er lögaðili skal framkvæmdastjóri fyrirtækisins hafa staðist próf í verðbréfaviðskiptum.
- □ Einkaumboðsmanni skal því aðeins heimilt að starfa í þágu fjármálafyrirtækis að hann hafi fengið til þess leyfi hjá Fjármálaeftirlitinu. Fjármálafyrirtæki sem hyggst fela einkaumboðsmanni að starfa í sína þágu skal beina umsókn um það til Fjármálaeftirlitsins. Fjármálaeftirlitið setur nánari reglur um hvaða skilyrðum einkaumboðsmenn skulu fullnægja.
+ □ Einkaumboðsmanni skal því aðeins heimilt að starfa í þágu fjármálafyrirtækis að hann hafi fengið til þess leyfi hjá Fjármálaeftirlitinu. Fjármálafyrirtæki sem hyggst fela einkaumboðsmanni að starfa í sína þágu skal beina umsókn um það til Fjármálaeftirlitsins. Fjármálaeftirlitið setur nánari reglur[^1)^] um hvaða skilyrðum einkaumboðsmenn skulu fullnægja.
  □ Fjármálaeftirlitið heldur skrá yfir einkaumboðsmenn sem birt skal opinberlega.
-■ *21. gr.* _Flokkun viðskiptavina o.fl._
+    _[^1)^]Rgl. 572/2008_.
+ ■ *21. gr.* _Flokkun viðskiptavina o.fl._
  □ Fjármálafyrirtæki skal flokka viðskiptavini sína í viðurkennda gagnaðila, fagfjárfesta og almenna fjárfesta. Fjármálafyrirtæki skal gera viðskiptavinum sínum grein fyrir til hvaða flokks þeir teljast, upplýsa þá um rétt þeirra til að óska eftir að falla í annan flokk og afleiðingar þess. Fjármálafyrirtæki skal setja sér verklagsreglur um flokkun viðskiptavina.
  □ Fagfjárfestar bera ábyrgð á því að tilkynna fjármálafyrirtækjum um breytingar sem haft geta áhrif á flokkun þeirra sem fagfjárfesta. Þá ber fjármálafyrirtækjum að grípa til viðeigandi aðgerða verði þeim kunnugt um að viðskiptavinur uppfylli ekki lengur skilyrði fyrir því að farið verði með hann sem fagfjárfesti.
 ■ *22. gr.* _Viðskipti við viðurkennda gagnaðila._
@@ -174,7 +175,7 @@ h2. Lög um verðbréfaviðskipti
     5. Skriflega samninga, skráningu og yfirlit skv. 9. gr.
     6. Skráningu þjónustu og varðveislu gagna skv. 10. gr.
     7. Varðveislu fjármálagerninga og fjár sem tilheyrir viðskiptavinum og notkun á fjármálagerningum viðskiptavina skv. 11. gr. og skýrslur endurskoðenda varðveislunnar.
-    8. Safnskráningu, m.a. um skilyrði heimildar til að skrá fjármálagerninga á safnreikning skv. 1. mgr. 12. gr., auðkenningu safnreiknings, þar á meðal upplýsingar um fjölda eigenda að safnreikningi og um upplýsingagjöf til Fjármálaeftirlitsins, svo sem um auðkenni viðskiptamanna að baki safnreikningum.
+    8. Safnskráningu, m.a. um skilyrði heimildar til að skrá fjármálagerninga á safnreikning skv. 1. mgr. 12. gr., auðkenningu safnreiknings, þar á meðal upplýsingar um fjölda eigenda að safnreikningi og um upplýsingagjöf til Fjármálaeftirlitsins, svo sem um auðkenni viðskiptamanna að baki safnreikningum.[^2)^]
     9. Upplýsingagjöf til viðskiptavina skv. 14. gr.
     10. Öflun upplýsinga og ráðleggingar vegna eignastýringar og fjárfestingarráðgjafar skv. 15. gr.
     11. Öflun upplýsinga og mat vegna annarra verðbréfaviðskipta skv. 16. gr.
@@ -184,8 +185,8 @@ h2. Lög um verðbréfaviðskipti
     15. Viðskipti við viðurkennda gagnaðila skv. 22. gr.
     16. Fagfjárfesta skv. 23. og 24. gr.
  □ Reglur skv. 1. mgr. skulu taka mið af því hvort fjármálafyrirtæki á í viðskiptum við fagfjárfesti eða almennan fjárfesti.
- □ Fjármálaeftirlitið skal setja reglur[^2)^] um opinbera fjárfestingarráðgjöf, þar á meðal um óhlutdræga framsetningu ráðgjafar og birtingu, tilgreiningu á þeim sem setur fjárfestingarráðgjöfina fram eða gerir hana opinbera og hagsmunum og hagsmunaárekstrum, og skilgreiningu hugtaksins greining.
-    _[^1)^]Rg. 994/2007_, rg. 995/2007. [^2)^]Rgl. 1013/2007.
+ □ Fjármálaeftirlitið skal setja reglur[^3)^] um opinbera fjárfestingarráðgjöf, þar á meðal um óhlutdræga framsetningu ráðgjafar og birtingu, tilgreiningu á þeim sem setur fjárfestingarráðgjöfina fram eða gerir hana opinbera og hagsmunum og hagsmunaárekstrum, og skilgreiningu hugtaksins greining.
+    _[^1)^]Rg. 994/2007_, rg. 995/2007. [^2)^]Rg. 706/2008. [^3)^]Rgl. 1013/2007.
 
  *III. kafli.* *Gagnsæi viðskipta.*
  ■ *27. gr.* _Gildissvið kaflans._
@@ -211,7 +212,7 @@ h2. Lög um verðbréfaviðskipti
     2. Skyldu fjármálafyrirtækis til að birta upplýsingar um verð, umfang og tímasetningu viðskipta sem fram fara utan skipulegra verðbréfamarkaða eða markaðstorga fjármálagerninga (MTF) með aðra fjármálagerninga en hlutabréf skv. 29. gr.
     3. Að tilkynningar fjármálafyrirtækja á grundvelli 30. gr. skuli innihalda upplýsingar um auðkenni viðskiptavina fjármálafyrirtækja.
     4. Að tilkynningarskylda fjármálafyrirtækja á grundvelli 30. gr. nái einnig til viðskipta með fjármálagerninga sem tengjast fjármálagerningum sem teknir hafa verið til viðskipta á skipulegum verðbréfamarkaði.
-    _[^1)^]Rg. 994/2007_.
+    _[^1)^]Rg. 994/2007_, rg. 191/2008.
 
  *IV. kafli.* *Markaðstorg fjármálagerninga (MTF).*
  ■ *32. gr.* _Gildissvið kaflans._
@@ -396,10 +397,11 @@ h2. Lög um verðbréfaviðskipti
     13. tungumál sem notuð eru í lýsingum,
     14. skilgreiningu á heimaríki samkvæmt þessum kafla,
     15. útboð verðbréfa í þeim tilvikum þegar verðmæti þeirra er á bilinu 8,4 til 210 millj. kr.
- □ Að öðru leyti er ráðherra heimilt að setja ákvæði í reglugerð sem samræmast ákvæðum tilskipunar 2003/71/EBE um útboðs- og skráningarlýsingar og undirgerð hennar.
+ □ Að öðru leyti er ráðherra heimilt að setja ákvæði í reglugerð[^1)^] sem samræmast ákvæðum tilskipunar 2003/71/EBE um útboðs- og skráningarlýsingar og undirgerð hennar.
+    _[^1)^]Rg. 243/2006_, sbr. 169/2007 og 324/2008.
 
  *VII. kafli.* *Reglulegar upplýsingar útgefanda.*
-■ *55. gr.* _Gildissvið._
+ ■ *55. gr.* _Gildissvið._
  □ Ákvæði kafla þessa gilda um útgefendur verðbréfa, sem tekin hafa verið til viðskipta á skipulegum verðbréfamarkaði, með Ísland sem heimaríki skv. 3. gr.
  □ Útgefandi verðbréfa, sem tekin hafa verið til viðskipta á skipulegum verðbréfamarkaði á Íslandi, með heimaríki í öðru ríki á Evrópska efnahagssvæðinu en Íslandi, skal veita hliðstæðar reglulegar upplýsingar og kafli þessi mælir fyrir um í samræmi við bindandi opinber fyrirmæli heimaríkis síns.
 ■ *56. gr.* _Undanþágur._
@@ -434,10 +436,11 @@ h2. Lög um verðbréfaviðskipti
  □ Ef verðbréf útgefanda hafa verið tekin til viðskipta á skipulegum verðbréfamarkaði í einu eða fleiri ríkjum á Evrópska efnahagssvæðinu en ekki á Íslandi skal útgefandi birta upplýsingar samkvæmt kafla þessum á ensku eða öðru því tungumáli sem lögbær stjórnvöld gistiríkjanna samþykkja, að vali útgefanda. Ef Fjármálaeftirlitið óskar eftir því skal útgefandi jafnframt birta upplýsingarnar á ensku eða öðru því tungumáli sem Fjármálaeftirlitið samþykkir, að vali útgefanda.
  □ Ef verðbréf útgefanda eru tekin til viðskipta á skipulegum verðbréfamarkaði án samþykkis útgefanda hvíla skyldur 1. - 3. mgr. ekki á útgefanda heldur þeim aðila sem óskað hefur eftir töku bréfanna til viðskipta án samþykkis útgefanda.
 ■ *65. gr.* _Reglugerð._
- □ Ráðherra er heimilt að setja nánari ákvæði vegna kafla þessa í reglugerð, þar á meðal um með hvaða hætti ársreikningur og árshlutareikningur skulu vera aðgengilegir almenningi, sbr. 57. og 58. gr., hvaða kröfur samkvæmt ákvæðum ríkis utan Evrópska efnahagssvæðisins eru hliðstæðar ákvæðum laga um ársreikninga, sbr. 61. gr., og um framkvæmd opinberrar birtingar, sbr. 62. gr.
+ □ Ráðherra er heimilt að setja nánari ákvæði vegna kafla þessa í reglugerð,[^1)^] þar á meðal um með hvaða hætti ársreikningur og árshlutareikningur skulu vera aðgengilegir almenningi, sbr. 57. og 58. gr., hvaða kröfur samkvæmt ákvæðum ríkis utan Evrópska efnahagssvæðisins eru hliðstæðar ákvæðum laga um ársreikninga, sbr. 61. gr., og um framkvæmd opinberrar birtingar, sbr. 62. gr.
+    _[^1)^]Rg. 707/2008_.
 
  *VIII. kafli.* *Aðrar skyldur útgefanda um veitingu upplýsinga.*
-■ *66. gr.* _Gildissvið._
+ ■ *66. gr.* _Gildissvið._
  □ Ákvæði kafla þessa gilda um útgefendur verðbréfa, sem tekin hafa verið til viðskipta á skipulegum verðbréfamarkaði, með Ísland sem heimaríki skv. 3. gr.
  □ Útgefandi verðbréfa, sem tekin hafa verið til viðskipta á skipulegum verðbréfamarkaði á Íslandi, með heimaríki í öðru ríki á Evrópska efnahagssvæðinu en Íslandi, skal veita hliðstæðar upplýsingar og kafli þessi mælir fyrir um í samræmi við bindandi opinber fyrirmæli heimaríkis síns.
 ■ *67. gr.* _Undanþágur._
@@ -482,10 +485,11 @@ h2. Lög um verðbréfaviðskipti
  □ Ef verðbréf útgefanda eru tekin til viðskipta á skipulegum verðbréfamarkaði án samþykkis útgefanda hvíla skyldur 1. - 3. mgr. ekki á útgefanda heldur þeim aðila sem óskað hefur eftir töku bréfanna til viðskipta án samþykkis útgefanda.
  □ Ef nafnverð eininga verðbréfa var a.m.k. jafngilt 4,6 millj. kr. þegar þau voru tekin til viðskipta á skipulegum verðbréfamarkaði, eða í tilviki skuldabréfa ef nafnverð eininga þeirra var að minnsta kosti jafngilt 4,6 millj. kr. á útgáfudegi bréfanna, er útgefanda, þrátt fyrir ákvæði 1. - 4. mgr., heimilt að birta upplýsingar samkvæmt kafla þessum á ensku eða öðru því tungumáli sem lögbær stjórnvöld heimaríkis og gistiríkja samþykkja, að vali útgefanda eða þess aðila sem óskað hefur eftir töku bréfanna til viðskipta án samþykkis útgefanda. Fjárhæðir samkvæmt þessari málsgrein eru grunnfjárhæðir sem eru bundnar gengi evru (EUR) 3. janúar 2007 (92,37).
 ■ *76. gr.* _Reglugerð._
- □ Ráðherra er heimilt að setja nánari ákvæði vegna kafla þessa í reglugerð, þar á meðal um fjármálastofnanir sem hafa milligöngu um að eigendur hluta eða handhafar skuldabréfa geti neytt fjárhagslegra réttinda sinna í útgefanda, sbr. 70. og 71. gr., um undanþáguheimildir 72. gr. og um opinbera birtingu, sbr. 73. gr.
+ □ Ráðherra er heimilt að setja nánari ákvæði vegna kafla þessa í reglugerð,[^1)^] þar á meðal um fjármálastofnanir sem hafa milligöngu um að eigendur hluta eða handhafar skuldabréfa geti neytt fjárhagslegra réttinda sinna í útgefanda, sbr. 70. og 71. gr., um undanþáguheimildir 72. gr. og um opinbera birtingu, sbr. 73. gr.
+    _[^1)^]Rg. 707/2008_.
 
  *IX. kafli.* *Breyting á verulegum hlut atkvæðisréttar (flöggun).*
-■ *77. gr.* _Gildissvið._
+ ■ *77. gr.* _Gildissvið._
  □ Ákvæði kafla þessa gilda um hluti í hlutafélögum með skráða skrifstofu á Íslandi sem gefa út hlutabréf sem tekin hafa verið til viðskipta á skipulegum verðbréfamarkaði.
  □ Ákvæði kafla þessa gilda einnig um hluti í útgefendum með skráða skrifstofu í ríki utan Evrópska efnahagssvæðisins sem gefa út hlutabréf sem tekin hafa verið til viðskipta á skipulegum verðbréfamarkaði í ríki á Evrópska efnahagssvæðinu, ef viðkomandi útgefanda ber skylda til að senda árlega skýrslu vegna hlutabréfanna til Fjármálaeftirlitsins skv. 48. gr. laga þessara.
  □ Ef hlutabréf í útgefanda með skráða skrifstofu í ríki á Evrópska efnahagssvæðinu öðru en Íslandi hafa verið tekin til viðskipta á skipulegum verðbréfamarkaði á Íslandi skal veita hliðstæðar upplýsingar um hlutina og kafli þessi mælir fyrir um í samræmi við bindandi opinber fyrirmæli heimaríkis útgefanda.
@@ -565,10 +569,11 @@ h2. Lög um verðbréfaviðskipti
  □ Ef hlutabréf útgefanda eru tekin til viðskipta á skipulegum verðbréfamarkaði án samþykkis útgefanda hvíla skyldur skv. 1. - 3. mgr. ekki á útgefanda heldur þeim aðila sem óskað hefur eftir töku hlutabréfanna til viðskipta án samþykkis útgefanda.
  □ Tilkynning skv. 78., 79. og 80. gr. má vera á íslensku eða ensku.
 ■ *98. gr.* _Reglugerð._
- □ Ráðherra er heimilt að setja nánari ákvæði vegna kafla þessa í reglugerð, þar á meðal um efni tilkynningar vegna fjármálagerninga skv. 80. gr., hvers konar samkomulag telst formlegt samkomulag skv. 80. gr., nánar um efni tilkynningar skv. 85. gr., um hámarkslengd venjulegs stutts greiðslutímabils skv. 88. gr., hvaða skilyrði fyrirtæki skv. 91. og 92. gr. verða að uppfylla til að þau teljist nýta atkvæðisrétt sinn óháð móðurfélögum sínum og um framkvæmd opinberrar birtingar, sbr. 95. gr.
+ □ Ráðherra er heimilt að setja nánari ákvæði vegna kafla þessa í reglugerð,[^1)^] þar á meðal um efni tilkynningar vegna fjármálagerninga skv. 80. gr., hvers konar samkomulag telst formlegt samkomulag skv. 80. gr., nánar um efni tilkynningar skv. 85. gr., um hámarkslengd venjulegs stutts greiðslutímabils skv. 88. gr., hvaða skilyrði fyrirtæki skv. 91. og 92. gr. verða að uppfylla til að þau teljist nýta atkvæðisrétt sinn óháð móðurfélögum sínum og um framkvæmd opinberrar birtingar, sbr. 95. gr.
+    _[^1)^]Rg. 707/2008_.
 
  *X. kafli.* *Yfirtökutilboð.*
-■ *99. gr.* _Gildissvið kaflans._
+ ■ *99. gr.* _Gildissvið kaflans._
  □ Ákvæði þessa kafla gilda um yfirtöku í hlutafélagi sem fengið hefur einn eða fleiri flokka hlutabréfa tekna til viðskipta á skipulegum verðbréfamarkaði á Íslandi.
  □ Ráðherra er heimilt í reglugerð að kveða á um undanþágur frá ákvæðum þessa kafla varðandi erlend hlutafélög.
 ■ *100. gr.* _Tilboðsskylda._
@@ -705,31 +710,34 @@ h2. Lög um verðbréfaviðskipti
  □ Fjármálafyrirtæki sem heimild hefur til verðbréfaviðskipta er óheimilt að hafa milligöngu um verðbréfaviðskipti hafi starfsmenn þess vitneskju eða grun um að viðskiptin brjóti í bága við 1. mgr.
  □ Vakni grunur hjá starfsmanni fjármálafyrirtækis um brot gegn ákvæðum 1. mgr. skal hann þegar í stað tilkynna það til næsta yfirmanns eða regluvarðar. Viðkomandi fyrirtæki er skylt að tilkynna slíkan grun þegar í stað til Fjármálaeftirlitsins en starfsmanni er það einnig heimilt. Upplýsingagjöf fjármálafyrirtækis eða starfsmanns þess sem veitt er í góðri trú samkvæmt þessari málsgrein telst ekki brot á þagnarskyldu sem viðkomandi er bundinn af samkvæmt lögum eða með öðrum hætti. Slík upplýsingagjöf leggur hvorki refsi- né skaðabótaábyrgð á herðar hlutaðeigandi aðilum. Óheimilt er að upplýsa viðskiptamann eða annan utanaðkomandi aðila um að Fjármálaeftirlitinu hafi verið veittar upplýsingar skv. 1. málsl.
 ■ *118. gr.* _Reglugerð._
- □ Ráðherra skal setja reglugerð um nánari skilgreiningar á:
+ □ Ráðherra skal setja reglugerð[^1)^] um nánari skilgreiningar á:
     1. markaðsmisnotkun,
     2. viðurkenndri markaðsframkvæmd,
     3. tilkynningum fjármálafyrirtækja eða starfsmanna þeirra um grun um brot, sbr. 3. mgr. 117. gr.,
     4. undanþágum frá ákvæðum um markaðsmisnotkun vegna endurkaupaáætlana og verðjöfnunar.
+    _[^1)^]Rg. 630/2005_, sbr. 887/2008.
 
  *XIII. kafli.* *Meðferð innherjaupplýsinga og viðskipti innherja.*
-■ *119. gr.* _Gildissvið kaflans._
+ ■ *119. gr.* _Gildissvið kaflans._
  □ Ákvæði þessa kafla taka til eftirfarandi fjármálagerninga:
     1. fjármálagerninga sem teknir hafa verið til viðskipta eða óskað hefur verið eftir að teknir verði til viðskipta á skipulegum verðbréfamarkaði hér á landi, á Evrópska efnahagssvæðinu eða á sambærilegum erlendum mörkuðum og fjármálagerninga sem verslað er með á markaðstorgi fjármálagerninga (MTF) hér á landi og
     2. fjármálagerninga sem tengdir eru einum eða fleiri fjármálagerningum skv. 1. tölul.
  □ Ákvæði 123. gr. eiga ekki við þegar um er að ræða viðskipti með eigin hluti í endurkaupaáætlunum eða við verðjöfnun fjármálagerninga, enda hafi viðskiptin farið fram í samræmi við reglugerð sem sett er á grundvelli 131. gr. Önnur ákvæði kafla þessa skulu gilda eftir atvikum.
 ■ *120. gr.* _Innherjaupplýsingar._
- □ Með innherjaupplýsingum er átt við nægjanlega tilgreindar upplýsingar sem ekki hafa verið gerðar opinberar og varða beint eða óbeint útgefendur fjármálagerninga, fjármálagerningana sjálfa eða önnur atriði og eru líklegar til að hafa marktæk áhrif á markaðsverð fjármálagerninganna ef opinberar væru, eins og nánar er kveðið á um í reglugerð sem sett er skv. 131. gr. Tilkynningar til skipulegra verðbréfamarkaða eða markaðstorga fjármálagerninga (MTF) teljast opinberar upplýsingar þegar þeim hefur verið miðlað þaðan. Aðrar upplýsingar teljast opinberar þegar þeim hefur verið miðlað á verðbréfamarkaðnum með opinberum og viðurkenndum hætti.
-■ *121. gr.* _Innherji._
+ □ Með innherjaupplýsingum er átt við nægjanlega tilgreindar upplýsingar sem ekki hafa verið gerðar opinberar og varða beint eða óbeint útgefendur fjármálagerninga, fjármálagerningana sjálfa eða önnur atriði og eru líklegar til að hafa marktæk áhrif á markaðsverð fjármálagerninganna ef opinberar væru, eins og nánar er kveðið á um í reglugerð sem sett er skv. 131. gr. [Upplýsingar teljast opinberar þegar útgefandi fjármálagerninga hefur birt almenningi á Evrópska efnahagssvæðinu þær, sbr. 122. og 127. gr.][^1)^] ...[^1)^]
+    _[^1)^]L. 96/2008, 1. gr._
+ ■ *121. gr.* _Innherji._
  □ Með innherja er átt við:
     1. fruminnherja, þ.e. aðila sem hefur að jafnaði aðgang að innherjaupplýsingum vegna aðildar að stjórn, rekstri eða eftirliti eða vegna annarra starfa á vegum útgefanda fjármálagerninga,
     2. tímabundinn innherja, þ.e. aðila sem telst ekki fruminnherji en býr yfir innherjaupplýsingum vegna eignaraðildar, starfs síns, stöðu eða skyldna, og
     3. annan innherja, þ.e. aðila sem hvorki telst fruminnherji né tímabundinn innherji en hefur fengið vitneskju um innherjaupplýsingar, enda hafi viðkomandi vitað eða mátt vita hvers eðlis upplýsingarnar voru.
 ■ *122. gr.* _Upplýsingaskylda, frestun upplýsingaskyldu og lögmæt miðlun innherjaupplýsinga._
- □ Útgefanda fjármálagerninga, sem teknir hafa verið til viðskipta á skipulegum verðbréfamarkaði eða verslað er með á markaðstorgi fjármálagerninga (MTF), ber að tilkynna þegar í stað allar þær innherjaupplýsingar sem varða hann til viðkomandi skipulegs verðbréfamarkaðar eða markaðstorgs fjármálagerninga (MTF) þar sem fjármálagerningar hans hafa verið teknir til viðskipta. Skipulegur verðbréfamarkaður eða markaðstorg fjármálagerninga (MTF) skal miðla upplýsingum skv. 1. málsl. í upplýsingakerfi sínu og teljast upplýsingarnar opinberar þegar þeim hefur verið miðlað þaðan.
- □ Þegar innherjaupplýsingum hefur verið miðlað með opinberum hætti samkvæmt þessari grein skal viðkomandi útgefandi birta innherjaupplýsingarnar á heimasíðu sinni.
+ □ [Útgefanda fjármálagerninga, sem teknir hafa verið til viðskipta á skipulegum verðbréfamarkaði eða verslað er með á markaðstorgi fjármálagerninga (MTF), ber að birta almenningi á Evrópska efnahagssvæðinu allar þær innherjaupplýsingar sem varða hann eins fljótt og auðið er og á jafnræðisgrundvelli.][^1)^]
+ □ [Samhliða opinberri birtingu skv. 1. mgr. skal útgefandi senda upplýsingarnar til Fjármálaeftirlitsins. Fjármálaeftirlitinu er heimilt að birta upplýsingar sem gerðar hafa verið opinberar á heimasíðu sinni. Fjármálaeftirlitið, eða aðili sem Fjármálaeftirlitið tilnefnir, skal varðveita upplýsingar sem gerðar hafa verið opinberar í miðlægu geymslukerfi, sbr. 136. gr.][^1)^]
  □ Útgefanda fjármálagerninga er á eigin ábyrgð heimilt að fresta birtingu upplýsinga skv. 1. mgr. til að vernda lögmæta hagsmuni útgefandans, svo framarlega sem frestunin er ekki líkleg til að villa um fyrir almenningi og útgefandi getur tryggt trúnað um upplýsingarnar eins og kveðið er á um í reglugerð sem setja skal skv. 131. gr.
  □ Nýti útgefandi heimild til frestunar skv. 3. mgr. er honum, eða aðila í umboði hans, aðeins heimilt að láta þriðja aðila innherjaupplýsingarnar í té, enda sé það gert í eðlilegu sambandi við starf, stöðu eða skyldur þess sem upplýsingarnar veitir og móttakandi upplýsinganna er bundinn trúnaði um þær, svo sem samkvæmt lögum, reglugerð eða samningi.
-■ *123. gr.* _Innherjasvik._
+    _[^1)^]L. 96/2008, 2. gr._
+ ■ *123. gr.* _Innherjasvik._
  □ Innherja er óheimilt að:
     1. afla eða ráðstafa fjármálagerningum með beinum eða óbeinum hætti, fyrir eigin reikning eða annarra, búi hann yfir innherjaupplýsingum,
     2. láta þriðja aðila innherjaupplýsingar í té, nema það sé gert í eðlilegu sambandi við starf, stöðu eða skyldur þess sem upplýsingarnar veitir,
@@ -750,7 +758,7 @@ h2. Lög um verðbréfaviðskipti
  □ Fruminnherji skal áður en hann, eða aðili fjárhagslega tengdur honum, á viðskipti með fjármálagerninga útgefandans, tilkynna það aðila sem tilnefndur hefur verið í samræmi við reglur sem útgefnar eru skv. 130. gr. (regluverði). Fruminnherji skal með sama hætti tilkynna án tafar hafi hann eða aðili fjárhagslega tengdur honum átt viðskipti með fjármálagerninga útgefandans. Viðkomandi útgefandi skal samdægurs tilkynna um viðskiptin til Fjármálaeftirlitsins.
  □ Ákvæði 1. mgr. gildir einnig um fyrirhuguð viðskipti með fjármálagerninga sem tengdir eru fjármálagerningum skv. 1. mgr.
 ■ *127. gr.* _Birting upplýsinga um viðskipti stjórnenda._
- □ Auk tilkynninga um viðskipti innherja skv. 126. gr. ber útgefanda þegar í stað að senda upplýsingar um viðskipti stjórnenda útgefanda með hluti í útgefandanum, og aðra fjármálagerninga tengda þeim, til skipulegs verðbréfamarkaðar þar sem viðkomandi fjármálagerningar hafa verið teknir til viðskipta eða óskað hefur verið eftir að þeir séu teknir til viðskipta eða markaðstorgs fjármálagerninga (MTF) þar sem verslað er með viðkomandi fjármálagerninga. Viðkomandi skipulegur verðbréfamarkaður eða markaðstorg fjármálagerninga (MTF) skal birta upplýsingarnar opinberlega, enda nemi markaðsvirði viðskiptanna a.m.k. 500.000 kr. eða samanlögð eignabreyting viðkomandi stjórnanda á hlutum í útgefandanum á næstliðnum fjórum vikum nemi a.m.k. 1.000.000 kr.
+ □ [Auk tilkynninga um viðskipti innherja skv. 126. gr. ber útgefanda þegar í stað að birta almenningi á Evrópska efnahagssvæðinu upplýsingar um viðskipti stjórnenda útgefanda með hluti í útgefandanum, og aðra fjármálagerninga tengda þeim, eins fljótt og auðið er og á jafnræðisgrundvelli, enda nemi markaðsvirði viðskiptanna a.m.k. 500.000 kr. eða samanlögð eignabreyting viðkomandi stjórnanda á hlutum í útgefandanum á næstliðnum fjórum vikum nemi a.m.k. 1.000.000 kr. Samhliða opinberri birtingu skal útgefandi senda upplýsingarnar til Fjármálaeftirlitsins. Fjármálaeftirlitinu er heimilt að birta upplýsingar sem gerðar hafa verið opinberar á heimasíðu sinni. Fjármálaeftirlitið, eða aðili sem Fjármálaeftirlitið tilnefnir, skal varðveita upplýsingar sem gerðar hafa verið opinberar í miðlægu geymslukerfi, sbr. 136. gr.][^1)^]
  □ Í tilkynningu skv. 1. mgr. skal tilgreina:
     1. nafn útgefanda fjármálagerninga,
     2. dagsetningu tilkynningar,
@@ -763,7 +771,8 @@ h2. Lög um verðbréfaviðskipti
     9. nafnverð hlutar fruminnherja annars vegar og fjárhagslega tengdra aðila hins vegar eftir viðskipti, og
     10. dagsetningu lokauppgjörs viðskiptanna, ef við á.
  □ Með stjórnendum í lögum þessum er átt við stjórnarmenn, forstjóra, framkvæmdastjóra, eftirlitsnefndir og aðra stjórnendur sem eru fruminnherjar hjá útgefanda og hafa umboð til að taka ákvarðanir sem geta haft áhrif á framtíðarþróun og afkomu útgefandans. Hið sama á við um aðila fjárhagslega tengda framangreindum stjórnendum.
-■ *128. gr.* _Innherjaskrá._
+    _[^1)^]L. 96/2008, 3. gr._
+ ■ *128. gr.* _Innherjaskrá._
  □ Útgefandi skal senda Fjármálaeftirlitinu, í því formi sem eftirlitið ákveður, eftirfarandi upplýsingar um fruminnherja og tímabundna innherja:
     1. heiti útgefanda,
     2. skipulegan verðbréfamarkað þar sem fjármálagerningar útgefanda hafa verið teknir til viðskipta eða þar sem óskað hefur verið eftir að þeir yrðu teknir til viðskipta eða markaðstorg fjármálagerninga (MTF) þar sem verslað er með viðkomandi fjármálagerninga,
@@ -780,15 +789,23 @@ h2. Lög um verðbréfaviðskipti
 ■ *130. gr.* _Eftirlit með meðferð innherjaupplýsinga og viðskiptum innherja._
  □ Stjórn útgefanda fjármálagerninga sem teknir hafa verið til viðskipta á skipulegum verðbréfamarkaði eða verslað er með á markaðstorgi fjármálagerninga (MTF) ber ábyrgð á eftirliti með því að reglum útgefnum af Fjármálaeftirlitinu á grundvelli 132. gr., um meðferð innherjaupplýsinga og viðskipti innherja, sé fylgt. Stjórn skal ráða regluvörð eða staðfesta formlega ráðningu hans. Með sama hætti skal ráða staðgengil regluvarðar. Regluvörður hefur umsjón með að framangreindum reglum sé framfylgt innan útgefandans og honum ber að leggja fyrir stjórn útgefanda skýrslu um framkvæmd regluvörslu svo oft sem þurfa þykir, þó eigi sjaldnar en árlega.
  □ Stjórnvöld og aðrir aðilar sem fá reglulega innherjaupplýsingar í starfsemi sinni skulu fylgja reglum Fjármálaeftirlitsins um meðferð innherjaupplýsinga og viðskipti innherja eftir því sem við getur átt.
-■ *131. gr.* _Reglugerð._
- □ Ráðherra skal setja reglugerð um nánari skilgreiningar á:
+■ *[130. gr. a.* _Tungumál._
+ □ Ef verðbréf útgefanda hafa einungis verið tekin til viðskipta á skipulegum verðbréfamarkaði á Íslandi skal útgefandi birta upplýsingar samkvæmt kafla þessum á íslensku eða öðru því tungumáli sem Fjármálaeftirlitið samþykkir.
+ □ Ef verðbréf útgefanda hafa verið tekin til viðskipta á skipulegum verðbréfamarkaði á Íslandi og í einu eða fleiri aðildarríkjum Evrópska efnahagssvæðisins skal útgefandi birta upplýsingar samkvæmt kafla þessum á íslensku, eða öðru því tungumáli sem Fjármálaeftirlitið samþykkir, og annaðhvort á ensku eða öðru því tungumáli sem lögbær stjórnvöld gistiríkjanna samþykkja, að vali útgefanda.
+ □ Ef verðbréf útgefanda hafa verið tekin til viðskipta á skipulegum verðbréfamarkaði í einu eða fleiri ríkjum á Evrópska efnahagssvæðinu en ekki á Íslandi skal útgefandi birta upplýsingar samkvæmt kafla þessum á ensku eða öðru því tungumáli sem lögbær stjórnvöld gistiríkjanna samþykkja, að vali útgefanda. Ef Fjármálaeftirlitið óskar eftir því skal útgefandi jafnframt birta upplýsingarnar á ensku eða öðru því tungumáli sem Fjármálaeftirlitið samþykkir, að vali útgefanda.
+ □ Ef verðbréf útgefanda eru tekin til viðskipta á skipulegum verðbréfamarkaði án samþykkis útgefanda hvíla skyldur 1. - 3. mgr. ekki á útgefanda heldur þeim aðila sem óskað hefur eftir töku bréfanna til viðskipta án samþykkis útgefanda.][^1)^]
+    _[^1)^]L. 96/2008, 4. gr._
+ ■ *131. gr.* _Reglugerð._
+ □ Ráðherra skal setja reglugerð[^1)^] um nánari skilgreiningar á:
     1. innherjaupplýsingum,
     2. innherjaupplýsingum þegar um er að ræða hrávöruafleiður,
     3. formi og efni opinberrar birtingar innherjaupplýsinga,
     4. lögmætum hagsmunum til frestunar opinberrar birtingar innherjaupplýsinga,
     5. tilkynningum fjármálafyrirtækja eða starfsmanna þeirra um grun um brot, sbr. 2. mgr. 124. gr.,
     6. undanþágum frá ákvæðum um innherjasvik vegna endurkaupaáætlana og verðjöfnunar.
-■ *132. gr.* _Reglur Fjármálaeftirlitsins._
+ □ [Ráðherra er heimilt að setja nánari ákvæði í reglugerð um framkvæmd opinberrar birtingar upplýsinga, sbr. 120., 122. og 127. gr.][^2)^]
+    _[^1)^]Rg. 707/2008_. [^2)^]L. 96/2008, 5. gr.
+ ■ *132. gr.* _Reglur Fjármálaeftirlitsins._
  □ Fjármálaeftirlitið skal setja reglur um:
     1. meðferð innherjaupplýsinga, þ.m.t. með hvaða hætti komið skuli í veg fyrir að innherjaupplýsingar berist til annarra en þeirra er þarfnast þeirra vegna starfa sinna,
     2. viðskipti innherja, þ.m.t. hvernig rannsóknarskyldu fruminnherja skv. 125. gr. skuli háttað,
@@ -802,14 +819,15 @@ h2. Lög um verðbréfaviðskipti
 ■ *133. gr.* _Almennt eftirlit._
  □ Fjármálaeftirlitið hefur eftirlit með framkvæmd laga þessara og reglna settra samkvæmt þeim. Um heimildir þess fer samkvæmt ákvæðum kafla þessa og ákvæðum laga um opinbert eftirlit með fjármálastarfsemi. Ársreikningaskrá kannar hvort upplýsingar skv. VII. kafla eru samdar í samræmi við viðeigandi reikningsskilareglur.
  □ Í tengslum við athugun tiltekins máls er Fjármálaeftirlitinu heimilt að krefja einstaklinga og lögaðila um allar upplýsingar og gögn sem það telur nauðsynleg. Fjármálaeftirlitið getur kallað til skýrslugjafar einstaklinga sem það telur búa yfir upplýsingum um tiltekið mál. Lagaákvæði um þagnarskyldu takmarka ekki skyldu til þess að veita upplýsingar og aðgang að gögnum samkvæmt þessari grein.
- □ Síma- eða fjarskiptafyrirtæki er skylt að veita Fjármálaeftirlitinu aðgang að fyrirliggjandi gögnum um símtöl eða fjarskipti við tiltekinn síma eða fjarskiptatæki enda liggi fyrir samþykki umráðamanns og eiginlegs notanda. Ef samþykki umráðamanns og eiginlegs notanda síma eða fjarskiptatækis liggur ekki fyrir er Fjármálaeftirlitinu heimilt að krefjast fyrir dómi aðgangs að gögnum skv. 1. málsl. þessarar málsgreinar hjá síma- eða fjarskiptafyrirtæki. Um skilyrði og meðferð slíkrar kröfu fer eftir 87. gr. laga um meðferð opinberra mála, að undanskildum b-lið 2. mgr. greinarinnar sem á ekki við um aðgerð samkvæmt þessari málsgrein.
+ □ Síma- eða fjarskiptafyrirtæki er skylt að veita Fjármálaeftirlitinu aðgang að fyrirliggjandi gögnum um símtöl eða fjarskipti við tiltekinn síma eða fjarskiptatæki enda liggi fyrir samþykki umráðamanns og eiginlegs notanda. Ef samþykki umráðamanns og eiginlegs notanda síma eða fjarskiptatækis liggur ekki fyrir er Fjármálaeftirlitinu heimilt að krefjast fyrir dómi aðgangs að gögnum skv. 1. málsl. þessarar málsgreinar hjá síma- eða fjarskiptafyrirtæki. Um skilyrði og meðferð slíkrar kröfu fer eftir 87. gr. laga um meðferð opinberra mála, að undanskildum b-lið 2. mgr. greinarinnar sem á ekki við um aðgerð samkvæmt þessari málsgrein.[^1)^]
  □ Telji Fjármálaeftirlitið að ekki hafi verið farið að reglum um almennt útboð verðbréfa getur það stöðvað útboð og veitt frest til úrbóta sé þess kostur. Fjármálaeftirlitið getur birt opinberlega yfirlýsingu um umrætt mál og lagt dagsektir eða févíti á þá sem tengjast almennu útboði samkvæmt lögum um opinbert eftirlit með fjármálastarfsemi.
  □ Telji Fjármálaeftirlitið að ekki hafi verið farið að reglum um viðskiptavaka getur það veitt viðskiptavaka viðvörun eða áminningu eða birt opinberlega tilkynningu um vanefndir hans.
  □ Telji Fjármálaeftirlitið að ekki hafi verið farið að reglum um opinbera birtingu upplýsinga skv. 25. gr. og VII., VIII. og IX. kafla er því heimilt að grípa til nauðsynlegra ráðstafana til að almenningur sé réttilega upplýstur.
  □ Telji Fjármálaeftirlitið háttsemi andstæða ákvæðum laga þessara getur stofnunin krafist þess að háttseminni verði hætt þegar í stað. Fjármálaeftirlitið getur jafnframt krafist þess að atvinnustarfsemi verði stöðvuð tímabundið í því skyni að koma í veg fyrir háttsemi sem talin er andstæð ákvæðum laga þessara. Þá getur Fjármálaeftirlitið krafist þess að viðskipti með tiltekna fjármálagerninga verði stöðvuð tímabundið á meðan athugun þess á tilteknu máli stendur yfir. Fjármálaeftirlitið getur jafnframt krafist þess að viðskiptum með tiltekna fjármálagerninga verði hætt fyrir fullt og allt, hvort sem viðskiptin fara fram á skipulegum verðbréfamarkaði, markaðstorgi fjármálagerninga (MTF) eða með öðrum hætti, leiði athugun þess í ljós að viðskiptin séu í andstöðu við lög.
- □ Fjármálaeftirlitið getur krafist kyrrsetningar eigna einstaklings eða lögaðila þegar fyrir liggur rökstuddur grunur um að háttsemi hans fari í bága við ákvæði laga þessara. Um skilyrði og meðferð slíkrar kröfu fer eftir 85. gr. laga um meðferð opinberra mála, eftir því sem við getur átt.
+ □ Fjármálaeftirlitið getur krafist kyrrsetningar eigna einstaklings eða lögaðila þegar fyrir liggur rökstuddur grunur um að háttsemi hans fari í bága við ákvæði laga þessara. Um skilyrði og meðferð slíkrar kröfu fer eftir 85. gr. laga um meðferð opinberra mála, eftir því sem við getur átt.[^1)^]
  □ Um eftirlit með framkvæmd laga þessara gilda að öðru leyti ákvæði laga um opinbert eftirlit með fjármálastarfsemi, þar á meðal þær eftirlitsheimildir og úrræði sem fram koma í 9. - 11. gr. laganna.
-■ *134. gr.* _Eftirlit með almennu útboði og lýsingum._
+    _[^1)^]Málsliðnum var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html
+ ■ *134. gr.* _Eftirlit með almennu útboði og lýsingum._
  □ Um eftirlit með almennu útboði og lýsingum og heimildir til framsals fer skv. 133. gr.
  □ Eftir að Fjármálaeftirlitið hefur tekið við umsókn um staðfestingu á lýsingu er því heimilt:
     1. að krefjast þess að útgefendur, tilboðsgjafar eða aðilar sem sækja um töku til viðskipta á skipulegum verðbréfamarkaði birti viðbótarupplýsingar í lýsingu, ef þörf er á, í því skyni að vernda fjárfesta,
@@ -826,17 +844,20 @@ h2. Lög um verðbréfaviðskipti
     2. að stöðva eða óska eftir því við viðkomandi skipulegan verðbréfamarkað að viðskiptin verði stöðvuð tímabundið eða ótímabundið eftir atvikum, ef eftirlitið telur að aðstæður útgefandans séu þannig að viðskiptin mundu skaða hagsmuni fjárfesta,
     3. að láta fara fram athugun hjá útgefanda innan lögráðasvæðis síns til að sannreyna hvort farið sé eftir ákvæðum VI. kafla.
 ■ *135. gr.* _Eftirlit með opinberri birtingu upplýsinga._
- □ Fjármálaeftirlitið skal fylgjast með því að útgefendur birti upplýsingar vegna VII., VIII. og IX. kafla tímanlega með það að markmiði að sjá til þess að almenningur á Evrópska efnahagssvæðinu hafi virkan og jafnan aðgang að þeim.
- □ Fjármálaeftirlitið skal jafnframt fylgjast með því að útgefendur verðbréfa, sem tekin hafa verið til viðskipta á skipulegum verðbréfamarkaði á Íslandi en ekki í heimaríki útgefandans, birti upplýsingar vegna VII., VIII. og IX. kafla tímanlega með það að markmiði að sjá til þess að almenningur á Evrópska efnahagssvæðinu hafi virkan og jafnan aðgang að þeim.
- □ Afli Fjármálaeftirlitið upplýsinga skv. 2. mgr. 133. gr. frá endurskoðendum, útgefendum, eigendum hluta og annarra fjármálagerninga eða aðilum sem nefndir eru í 79. og 80. gr., auk aðila sem hafa framangreinda aðila undir yfirráðum sínum eða framangreindir aðilar hafa yfirráð yfir, í tengslum við tiltekið mál vegna VII., VIII. og IX. kafla, er því heimilt að fara fram á að útgefandi birti upplýsingarnar opinberlega með þeim aðferðum og innan þess frests sem Fjármálaeftirlitið telur nauðsynlegt. Sinni útgefandi ekki beiðni Fjármálaeftirlitsins getur það birt viðkomandi upplýsingar að eigin frumkvæði hafi eftirlitið áður veitt viðkomandi útgefanda tækifæri til andmæla.
+ □ Fjármálaeftirlitið skal fylgjast með því að útgefendur birti upplýsingar vegna [VII., VIII., IX. og XIII. kafla][^1)^] tímanlega með það að markmiði að sjá til þess að almenningur á Evrópska efnahagssvæðinu hafi virkan og jafnan aðgang að þeim.
+ □ Fjármálaeftirlitið skal jafnframt fylgjast með því að útgefendur verðbréfa, sem tekin hafa verið til viðskipta á skipulegum verðbréfamarkaði á Íslandi en ekki í heimaríki útgefandans, birti upplýsingar vegna [VII., VIII., IX. og XIII. kafla][^1)^] tímanlega með það að markmiði að sjá til þess að almenningur á Evrópska efnahagssvæðinu hafi virkan og jafnan aðgang að þeim.
+ □ Afli Fjármálaeftirlitið upplýsinga skv. 2. mgr. 133. gr. frá endurskoðendum, útgefendum, eigendum hluta og annarra fjármálagerninga eða aðilum sem nefndir eru í 79. og 80. gr., auk aðila sem hafa framangreinda aðila undir yfirráðum sínum eða framangreindir aðilar hafa yfirráð yfir, í tengslum við tiltekið mál vegna [VII., VIII., IX. og XIII. kafla],[^1)^] er því heimilt að fara fram á að útgefandi birti upplýsingarnar opinberlega með þeim aðferðum og innan þess frests sem Fjármálaeftirlitið telur nauðsynlegt. Sinni útgefandi ekki beiðni Fjármálaeftirlitsins getur það birt viðkomandi upplýsingar að eigin frumkvæði hafi eftirlitið áður veitt viðkomandi útgefanda tækifæri til andmæla.
  □ Ef útgefandi með skráða skrifstofu í ríki utan Evrópska efnahagssvæðisins en heimaríki á Íslandi birtir upplýsingar í því ríki þar sem hann er með skráða skrifstofu getur Fjármálaeftirlitið farið fram á að útgefandinn birti þær opinberlega á Evrópska efnahagssvæðinu ef það telur að þær gætu reynst mikilvægar fyrir almenning þar. Sinni útgefandi ekki beiðni Fjármálaeftirlitsins getur það birt viðkomandi upplýsingar að eigin frumkvæði hafi það áður veitt viðkomandi útgefanda tækifæri til andmæla.
-■ *136. gr.* _Miðlæg varðveisla._
- □ Fjármálaeftirlitið, eða aðili sem Fjármálaeftirlitið tilnefnir, skal varðveita upplýsingar sem birtar eru opinberlega í samræmi við ákvæði VII., VIII. og IX. kafla með rafrænum hætti í miðlægu geymslukerfi.
+    _[^1)^]L. 96/2008, 6. gr._
+ ■ *136. gr.* _Miðlæg varðveisla._
+ □ Fjármálaeftirlitið, eða aðili sem Fjármálaeftirlitið tilnefnir, skal varðveita upplýsingar sem birtar eru opinberlega í samræmi við ákvæði [VII., VIII., IX. og XIII. kafla][^1)^] með rafrænum hætti í miðlægu geymslukerfi.
  □ Miðlæga geymslukerfið skal uppfylla kröfur um öryggi, áreiðanleika um hvaðan upplýsingar eru upprunnar, tímaskráningu og auðveldan aðgang fyrir notendur.
-■ *137. gr.* _Varúðarráðstafanir ef Ísland er gistiríki._
- □ Ef Ísland er gistiríki og Fjármálaeftirlitið kemst að því að útgefandi eða flöggunarskyldur aðili skv. 78., 79. eða 80. gr. hefur sýnt af sér háttsemi sem bryti gegn ákvæðum VII., VIII. eða IX. kafla laga þessara eða skyldum samkvæmt þeim, væri viðkomandi aðili með heimaríki á Íslandi, skal Fjármálaeftirlitið vísa málinu til lögbærs stjórnvalds í heimaríki útgefanda. Ákvæði 1. málsl. á ekki við um fresti skv. 86. eða 87. gr. Í þeim tilvikum skal Fjármálaeftirlitið vísa máli til lögbærs stjórnvalds í heimaríki útgefanda ef flöggunarskyldur aðili skv. 78., 79. eða 80. gr. hefur ekki sent tilkynningu að fjórum viðskiptadögum liðnum frá stofnun flöggunarskyldu eða ef útgefandi hefur ekki birt upplýsingar í tilkynningu opinberlega að þremur viðskiptadögum liðnum frá því að honum barst tilkynningin.
+    _[^1)^]L. 96/2008, 6. gr._
+ ■ *137. gr.* _Varúðarráðstafanir ef Ísland er gistiríki._
+ □ Ef Ísland er gistiríki og Fjármálaeftirlitið kemst að því að útgefandi eða flöggunarskyldur aðili skv. 78., 79. eða 80. gr. hefur sýnt af sér háttsemi sem bryti gegn ákvæðum [VII., VIII., IX. eða XIII. kafla][^1)^] laga þessara eða skyldum samkvæmt þeim, væri viðkomandi aðili með heimaríki á Íslandi, skal Fjármálaeftirlitið vísa málinu til lögbærs stjórnvalds í heimaríki útgefanda. Ákvæði 1. málsl. á ekki við um fresti skv. 86. eða 87. gr. Í þeim tilvikum skal Fjármálaeftirlitið vísa máli til lögbærs stjórnvalds í heimaríki útgefanda ef flöggunarskyldur aðili skv. 78., 79. eða 80. gr. hefur ekki sent tilkynningu að fjórum viðskiptadögum liðnum frá stofnun flöggunarskyldu eða ef útgefandi hefur ekki birt upplýsingar í tilkynningu opinberlega að þremur viðskiptadögum liðnum frá því að honum barst tilkynningin.
  □ Ef útgefandi eða flöggunarskyldur aðili skv. 78., 79. eða 80. gr. heldur áfram að brjóta viðkomandi lög eða reglur, þrátt fyrir ráðstafanir lögbærs stjórnvalds heimaríkisins eða vegna þess að slíkar ráðstafanir bera ekki árangur, skal Fjármálaeftirlitið, eftir að hafa tilkynnt það lögbæru yfirvaldi heimaríkis, gera allar viðeigandi ráðstafanir til að vernda fjárfesta.
-■ *138. gr.* _Eftirlit skipulegs verðbréfamarkaðar._
+    _[^1)^]L. 96/2008, 6. gr._ Sú grein hljóðar svo: „Í stað orðanna „VII., VIII. og IX. kafla“ í 1. - 3. mgr. 135. gr., 1. mgr. 136. gr. og 1. mgr. 137. gr. laganna kemur: VII., VIII., IX. og XIII. kafla.“ Í 1. mgr. 137. gr. stóð hins vegar „VII., VIII. *eða* IX. kafla“, þ.e. með samtengingunni „eða“ en ekki „og“. Þar sem ætlunin er augljóslega að bæta XIII. kafla við upptalninguna í 1. mgr. 137. gr. er breytingin færð inn, en þó með samtengingunni „eða“ í stað „og“.
+ ■ *138. gr.* _Eftirlit skipulegs verðbréfamarkaðar._
  □ Fjármálaeftirlitinu er heimilt að fela skipulegum verðbréfamarkaði eftirlitsverkefni samkvæmt lögum þessum. Fjármálaeftirlitinu er heimilt að veita skipulegum verðbréfamarkaði upplýsingar er varða slík eftirlitsverkefni. Skipulegum verðbréfamarkaði er heimilt að afla upplýsinga hjá aðilum viðkomandi markaðar vegna eftirlitsverkefna sem honum eru falin samkvæmt þessari málsgrein. Heimild til gjaldtöku vegna einstakra verkefna sem Fjármálaeftirlitinu er veitt í lögum þessum á við um skipulegan verðbréfamarkað hafi honum verið falin viðkomandi verkefni.
  □ Gera skal grein fyrir eftirliti skv. 1. mgr. í yfirlýsingu undirritaðri af Fjármálaeftirlitinu og skipulegum verðbréfamarkaði. Yfirlýsingin skal birt opinberlega. Í yfirlýsingunni skal kveðið á um forsendur eftirlits sem skipulegur verðbréfamarkaður sinnir, framkvæmd þess og verkaskipti Fjármálaeftirlitsins og hins skipulega verðbréfamarkaðar. Einnig skal kveðið á um fyrirkomulag upplýsingamiðlunar skv. 1. mgr.
 ■ *139. gr.* _Gagnsæi í störfum Fjármálaeftirlitsins._
@@ -931,15 +952,16 @@ h2. Lög um verðbréfaviðskipti
 ■ *147. gr.* Brot gegn lögum þessum er varða sektum eða fangelsi varða refsingu hvort sem þau eru framin af ásetningi eða gáleysi.
  □ Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotist hefur af broti gegn ákvæðum laga þessara er varða sektum eða fangelsi.
  □ Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð eftir því sem segir í almennum hegningarlögum.
-■ *148. gr.* Brot gegn lögum þessum sæta aðeins opinberri rannsókn að undangenginni kæru Fjármálaeftirlitsins til lögreglu.
- □ Varði meint brot á lögum þessum bæði stjórnvaldssektum og refsingu metur Fjármálaeftirlitið hvort mál skuli kært til lögreglu eða því lokið með stjórnvaldsákvörðun hjá stofnuninni. Ef brot eru meiri háttar ber Fjármálaeftirlitinu að vísa þeim til lögreglu. Brot telst meiri háttar ef það lýtur að verulegum fjárhæðum, ef verknaður er framinn með sérstaklega vítaverðum hætti eða við aðstæður sem auka mjög á saknæmi brotsins. Jafnframt getur Fjármálaeftirlitið á hvaða stigi rannsóknar sem er vísað máli vegna brota á lögum þessum til opinberrar rannsóknar. Gæta skal samræmis við úrlausn sambærilegra mála.
+■ *148. gr.* Brot gegn lögum þessum sæta aðeins opinberri rannsókn að undangenginni kæru Fjármálaeftirlitsins til lögreglu.[^1)^]
+ □ Varði meint brot á lögum þessum bæði stjórnvaldssektum og refsingu metur Fjármálaeftirlitið hvort mál skuli kært til lögreglu eða því lokið með stjórnvaldsákvörðun hjá stofnuninni. Ef brot eru meiri háttar ber Fjármálaeftirlitinu að vísa þeim til lögreglu. Brot telst meiri háttar ef það lýtur að verulegum fjárhæðum, ef verknaður er framinn með sérstaklega vítaverðum hætti eða við aðstæður sem auka mjög á saknæmi brotsins. Jafnframt getur Fjármálaeftirlitið á hvaða stigi rannsóknar sem er vísað máli vegna brota á lögum þessum til opinberrar rannsóknar. Gæta skal samræmis við úrlausn sambærilegra mála.[^1)^]
  □ Með kæru Fjármálaeftirlitsins skulu fylgja afrit þeirra gagna sem grunur um brot er studdur við. Ákvæði IV. - VII. kafla stjórnsýslulaga gilda ekki um ákvörðun Fjármálaeftirlitsins um að kæra mál til lögreglu.
  □ Fjármálaeftirlitinu er heimilt að láta lögreglu og ákæruvaldi í té upplýsingar og gögn sem stofnunin hefur aflað og tengjast þeim brotum sem tilgreind eru í 2. mgr. Fjármálaeftirlitinu er heimilt að taka þátt í aðgerðum lögreglu sem varða rannsókn þeirra brota sem tilgreind eru í 2. mgr.
  □ Lögreglu og ákæruvaldi er heimilt að láta Fjármálaeftirlitinu í té upplýsingar og gögn sem hún hefur aflað og tengjast þeim brotum sem tilgreind eru í 2. mgr. Lögreglu er heimilt að taka þátt í aðgerðum Fjármálaeftirlitsins sem varða rannsókn þeirra brota sem tilgreind eru í 2. mgr.
  □ Telji ákærandi að ekki séu efni til málshöfðunar vegna meintrar refsiverðrar háttsemi sem jafnframt varðar stjórnsýsluviðurlögum getur hann sent eða endursent málið til Fjármálaeftirlitsins til meðferðar og ákvörðunar.
+    _[^1)^]Málsgreininni var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html
 
  *XVI. kafli.* *Gildistaka o.fl.*
-■ *149. gr.* _Innleiðing._
+ ■ *149. gr.* _Innleiðing._
  □ Lög þessi eru sett til þess að taka upp í innlendan rétt ákvæði tilskipana ráðsins 89/298/EBE um samræmingu á kröfum við gerð, athugun og dreifingu á útboðslýsingu sem birta skal við almennt útboð framseljanlegra verðbréfa, 89/592/EBE um samræmingu á reglum um innherjaviðskipti, 2001/34/EB um samræmingu á skráningarkröfum sem gerðar eru til verðbréfa í kauphöllum og upplýsingaskyldu vegna slíkra verðbréfa, tilskipunar Evrópuþingsins og ráðsins 2004/39/EB frá 21. apríl 2004 um markaði fyrir fjármálagerninga og um breytingu á tilskipunum ráðsins 85/611/EBE og 93/6/EBE og tilskipun Evrópuþingsins og ráðsins 2000/12/EB og um niðurfellingu á tilskipun ráðsins 93/22/EBE, og tilskipunar Evrópuþingsins og ráðsins 2004/109/EB um samræmingu krafna um gagnsæi í tengslum við upplýsingar um útgefendur verðbréfa sem eru skráð á skipulegan markað og um breytingu á tilskipun 2001/34/EB.
  □ Þá taka ákvæði laga þessara upp í innlendan rétt ákvæði tilskipunar Evrópuþingsins og ráðsins 2003/6/EB um innherjaviðskipti og markaðsmisnotkun (markaðssvik), tilskipunar framkvæmdastjórnarinnar 2003/124/EB um skilgreiningu og birtingu á innherjaupplýsingum og skilgreiningu á markaðsmisnotkun, tilskipunar 2003/125/EB um framsetningu og birtingu greininga og hvernig ráðleggingum um fjárfestingu í verðbréfum skuli hagað, ásamt ákvæðum um hvenær skylt sé að upplýsa um hagsmuni og hagsmunaárekstra, tilskipunar 2004/72/EB um viðurkennda markaðsframkvæmd, skilgreiningu á innherjaupplýsingum í tengslum við hrávöruafleiður, samningu innherjalista, tilkynningu um viðskipti stjórnenda og tilkynningu um grunsamleg viðskipti, reglugerðar (EB) nr. 2273/2003 um undanþágur fyrir endurkaupaáætlanir og verðjöfnun fjármálagerninga, tilskipunar Evrópuþingsins og ráðsins 2004/25/EB um yfirtökutilboð og tilskipunar ráðsins 2003/71/EBE um útboðs- og skráningarlýsingar sem birta skal við almennt útboð verðbréfa eða þegar þau eru tekin til skráningar.
 ■ *150. gr.* _Gildistaka._

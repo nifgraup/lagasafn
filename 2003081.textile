@@ -7,7 +7,7 @@ h2. Lög um fjarskipti
 <hr />
 
 
- *Tóku gildi 25. júlí 2003, sjá þó ákvæði 76. gr.* _EES-samningurinn:_ XI. viðauki tilskipun 1999/5/EB, reglugerð 2887/2000/EB, tilskipun 2002/19/EB, 2002/20/EB, 2002/21/EB, 2002/22/EB, 2002/58/EB og 2002/77/EB. _Breytt með_ l. 129/2004 (tóku gildi 31. des. 2005), l. 78/2005 (tóku gildi 9. júní 2005), l. 74/2006 (tóku gildi 30. júní 2006), l. 39/2007 (tóku gildi 31. mars 2007) og l. 143/2007 (tóku gildi 29. des. 2007).
+ *Tóku gildi 25. júlí 2003, sjá þó ákvæði 76. gr.* _EES-samningurinn:_ XI. viðauki tilskipun 1999/5/EB, reglugerð 2887/2000/EB, tilskipun 2002/19/EB, 2002/20/EB, 2002/21/EB, 2002/22/EB, 2002/58/EB og 2002/77/EB. _Breytt með_ l. 129/2004 (tóku gildi 31. des. 2005), l. 78/2005 (tóku gildi 9. júní 2005), l. 74/2006 (tóku gildi 30. júní 2006), l. 39/2007 (tóku gildi 31. mars 2007), l. 143/2007 (tóku gildi 29. des. 2007), "l. 82/2008":2008082.html (tóku gildi 1. júní 2008, birt í Stjtíð. 19. júní 2008), "l. 88/2008":2008088.html (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 118/2008 (tóku gildi 1. okt. 2008).
 
 
  *I. kafli.* *Markmið og gildissvið. Stjórn fjarskiptamála.*
@@ -36,7 +36,7 @@ h2. Lög um fjarskipti
     d. að beita sér fyrir samvinnu við þá aðila, félög og samtök er um fjarskiptamál og öryggi fjalla,
     e. annað sem ráðherra felur því.
  □ Samgönguráðherra skipar tvo fulltrúa í fjarskiptaráð án tilnefningar. Skal annar vera formaður en hinn varaformaður. Aðra fulltrúa í ráðinu skipar ráðherra úr hópi helstu hagsmunaaðila eftir tilnefningu í samræmi við reglur[^2)^] sem hann setur þar um.][^3)^]
-    _[^1)^]Augl. A 89/2005_. [^2)^]Rg. 464/2006. [^3)^]L. 78/2005, 1. gr.
+    _[^1)^]Augl. A 89/2005_. [^2)^]Rg. 464/2006, sbr. 368/2008. [^3)^]L. 78/2005, 1. gr.
 
  *II. kafli.* *Orðskýringar.*
  ■ *3. gr.* Merking orða í lögum þessum er sem hér segir:
@@ -48,28 +48,30 @@ h2. Lög um fjarskipti
     6. _Alþjónusta:_ Afmarkaðir þættir fjarskipta af tilteknum lágmarksgæðum sem boðnir eru öllum notendum á viðráðanlegu verði, óháð landfræðilegri staðsetningu þeirra.
     7. _Áskrifandi:_ Einstaklingur eða lögaðili sem er aðili að samningi við seljanda almennrar fjarskiptaþjónustu um afhendingu slíkrar þjónustu.
     8. _Breiðskjársjónvarpsþjónusta:_ Sjónvarpsþjónusta sem samanstendur að öllu leyti eða hluta til af dagskrárefni sem er framleitt til þess að sýna í breiðskjárformi með mynd í fullri hæð.
-    9. _Fast forval:_ Möguleiki sem áskrifendum í talsímaþjónustu er boðinn og gefur þeim kost á að velja að ákveðnum flokkum símtala sé beint til ákveðins þjónustuveitanda, sem valinn er fyrir fram, án þess að nota þurfi forskeyti viðkomandi þjónustuveitanda.
-    10. _Fjarskiptafyrirtæki:_ Einstaklingur eða lögaðili sem hefur tilkynnt Póst- og fjarskiptastofnun um fyrirhugaðan rekstur fjarskiptaþjónustu eða fjarskiptanets.
-    11. _Fjarskiptafyrirtæki með [umtalsverðan markaðsstyrk]:[^1)^]_ Fjarskiptafyrirtæki sem Póst- og fjarskiptastofnun hefur skilgreint með [umtalsverðan markaðsstyrk.][^1)^]
-    12. _Fjarskiptanet:_ Sendikerfi og þar sem það á við skiptistöðvar, beinar og önnur úrræði sem gera mögulegt að miðla merkjum eftir þræði, þráðlaust, með ljósbylgjum, rafdreifikerfi, háspennulínum eða með öðrum rafsegulaðferðum, þ.m.t. net fyrir hljóð- og sjónvarp og kapalsjónvarp.
-    13. _Fjarskiptavirki:_ Hvers konar tæki, tækjahlutar, leiðslur, búnaður og því um líkt sem sérstaklega er ætlað að koma á fjarskiptum eða reka þau hvort heldur er til sendingar eða móttöku.
-    14. _Fjarskiptaþjónusta:_ Þjónusta sem að nokkru eða öllu leyti felst í því að beina merkjum um fjarskiptanet, [þ.m.t. tölvupóstþjónusta og netaðgangur].[^2)^]
-    15. _Fjarskipti:_ Hvers konar sending og móttaka tákna, merkja, skriftar, mynda og hljóða eða hvers konar boðmiðlun eftir leiðslum, með þráðlausri útbreiðslu eða öðrum rafsegulkerfum.
-    16. _Forritatengsl:_ Hugbúnaðartengsl milli forrita, sem eru gerð aðgengileg af útvarpsstöðvum eða þjónustuveitendum, og úrræða í þróuðum stafrænum sjónvarpsbúnaði fyrir stafræna sjón- og hljóðvarpsþjónustu.
-    17. _Forskeyti:_ Númer sem notandi verður að velja á undan símanúmeri til að fá aðgang að þjónustuaðila.
-    18. _Heimtaug:_ Koparlína sem tengir nettengipunkt í húsnæði áskrifanda við tengigrind eða samsvarandi aðstöðu í hinu almenna talsímaneti.
-    19. _Nettengipunktur:_ Efnislegur tengipunktur þar sem áskrifanda er veittur aðgangur að almennu fjarskiptaneti.
-    20. _Notandi:_ Einstaklingur eða lögaðili sem notar eða sækir um að nota almenna fjarskiptaþjónustu.
-    21. _Númer og vistföng:_ Röð tákna sem eru notuð til að auðkenna einstaka áskrifendur í fjarskiptavirkjum.
-    22. _Samhýsing:_ Aðgangur að rými og tækniþjónustu sem er nauðsynlegur til að koma viðeigandi búnaði rétthafa fyrir með góðu móti og tengja hann.
-    23. _Samruni:_ Um skilgreiningu á samruna fer eftir samkeppnislögum.
-    24. _Samtenging:_ Efnisleg og rökvís tenging fjarskiptaneta sem gerir notendum kleift að eiga samskipti við aðra notendur eða fá aðgang að þjónustu sem er veitt af öðru fjarskiptafyrirtæki. Ekki skiptir máli hvort þjónustan er veitt af eigendum netsins eða öðrum aðilum sem kunna að hafa aðgang að fjarskiptanetinu.
-    25. _Skaðleg truflun:_ Truflun sem setur í hættu, rýrir alvarlega, hindrar eða truflar endurtekið þráðlausa fjarskiptaþjónustu.
-    26. _Skilyrt aðgangskerfi:_ Sérhver tæknileg ráðstöfun eða fyrirkomulag sem veitir aðgang að lokaðri hljóð- eða sjónvarpsþjónustu.
-    27. _Virðisaukandi þjónusta:_ Þjónusta þar sem virðisaukandi þáttum er bætt við fjarskiptaþjónustu.
-    28. _Yfirgjald:_ Gjald fyrir virðisaukandi þjónustu sem er hærra en almennt símtalagjald.
-    29. _Þróaður stafrænn sjónvarpsbúnaður:_ Aðgangskassi sem tengist sjónvarpstæki eða stafrænt sjónvarpstæki sem getur tekið á móti stafrænni gagnvirkri sjónvarpsþjónustu.
-    _[^1)^]L. 78/2005, 12. gr._ [^2)^]L. 39/2007, 1. gr.
+    [9. _Evrópugjaldskrá:_ Gjaldskrá sem er ekki hærri en samræmist hámarksgjaldi samkvæmt reglugerð Evrópuþingsins og ráðsins um reiki á almennum farsímanetum innan bandalagsins.][^1)^]
+    [10. ][^1)^] _Fast forval:_ Möguleiki sem áskrifendum í talsímaþjónustu er boðinn og gefur þeim kost á að velja að ákveðnum flokkum símtala sé beint til ákveðins þjónustuveitanda, sem valinn er fyrir fram, án þess að nota þurfi forskeyti viðkomandi þjónustuveitanda.
+    [11. ][^1)^] _Fjarskiptafyrirtæki:_ Einstaklingur eða lögaðili sem hefur tilkynnt Póst- og fjarskiptastofnun um fyrirhugaðan rekstur fjarskiptaþjónustu eða fjarskiptanets.
+    [12. ][^1)^] _Fjarskiptafyrirtæki með [umtalsverðan markaðsstyrk]:[^2)^]_ Fjarskiptafyrirtæki sem Póst- og fjarskiptastofnun hefur skilgreint með [umtalsverðan markaðsstyrk.][^2)^]
+    [13. ][^1)^] _Fjarskiptanet:_ Sendikerfi og þar sem það á við skiptistöðvar, beinar og önnur úrræði sem gera mögulegt að miðla merkjum eftir þræði, þráðlaust, með ljósbylgjum, rafdreifikerfi, háspennulínum eða með öðrum rafsegulaðferðum, þ.m.t. net fyrir hljóð- og sjónvarp og kapalsjónvarp.
+    [14. ][^1)^] _Fjarskiptavirki:_ Hvers konar tæki, tækjahlutar, leiðslur, búnaður og því um líkt sem sérstaklega er ætlað að koma á fjarskiptum eða reka þau hvort heldur er til sendingar eða móttöku.
+    [15. ][^1)^] _Fjarskiptaþjónusta:_ Þjónusta sem að nokkru eða öllu leyti felst í því að beina merkjum um fjarskiptanet, [þ.m.t. tölvupóstþjónusta og netaðgangur].[^3)^]
+    [16. ][^1)^] _Fjarskipti:_ Hvers konar sending og móttaka tákna, merkja, skriftar, mynda og hljóða eða hvers konar boðmiðlun eftir leiðslum, með þráðlausri útbreiðslu eða öðrum rafsegulkerfum.
+    [17. ][^1)^] _Forritatengsl:_ Hugbúnaðartengsl milli forrita, sem eru gerð aðgengileg af útvarpsstöðvum eða þjónustuveitendum, og úrræða í þróuðum stafrænum sjónvarpsbúnaði fyrir stafræna sjón- og hljóðvarpsþjónustu.
+    [18. ][^1)^] _Forskeyti:_ Númer sem notandi verður að velja á undan símanúmeri til að fá aðgang að þjónustuaðila.
+    [19. ][^1)^] _Heimtaug:_ Koparlína sem tengir nettengipunkt í húsnæði áskrifanda við tengigrind eða samsvarandi aðstöðu í hinu almenna talsímaneti.
+    [20. ][^1)^] _Nettengipunktur:_ Efnislegur tengipunktur þar sem áskrifanda er veittur aðgangur að almennu fjarskiptaneti.
+    [21. ][^1)^] _Notandi:_ Einstaklingur eða lögaðili sem notar eða sækir um að nota almenna fjarskiptaþjónustu.
+    [22. ][^1)^] _Númer og vistföng:_ Röð tákna sem eru notuð til að auðkenna einstaka áskrifendur í fjarskiptavirkjum.
+    [23. _Reikisímtal í farsímaneti:_ Símtal úr farsíma sem reikiviðskiptavinur hringir frá farsímaneti rekstraraðila hér á landi og lýkur í farsímaneti rekstraraðila í öðru ríki eða er móttekið af reikiviðskiptavini með upphaf í almennu símaneti í öðru ríki og lýkur í farsímaneti rekstraraðila hér á landi.][^1)^]
+    [24. ][^1)^] _Samhýsing:_ Aðgangur að rými og tækniþjónustu sem er nauðsynlegur til að koma viðeigandi búnaði rétthafa fyrir með góðu móti og tengja hann.
+    [25. ][^1)^] _Samruni:_ Um skilgreiningu á samruna fer eftir samkeppnislögum.
+    [26. ][^1)^] _Samtenging:_ Efnisleg og rökvís tenging fjarskiptaneta sem gerir notendum kleift að eiga samskipti við aðra notendur eða fá aðgang að þjónustu sem er veitt af öðru fjarskiptafyrirtæki. Ekki skiptir máli hvort þjónustan er veitt af eigendum netsins eða öðrum aðilum sem kunna að hafa aðgang að fjarskiptanetinu.
+    [27. ][^1)^] _Skaðleg truflun:_ Truflun sem setur í hættu, rýrir alvarlega, hindrar eða truflar endurtekið þráðlausa fjarskiptaþjónustu.
+    [28. ][^1)^] _Skilyrt aðgangskerfi:_ Sérhver tæknileg ráðstöfun eða fyrirkomulag sem veitir aðgang að lokaðri hljóð- eða sjónvarpsþjónustu.
+    [29. ][^1)^] _Virðisaukandi þjónusta:_ Þjónusta þar sem virðisaukandi þáttum er bætt við fjarskiptaþjónustu.
+    [30. ][^1)^] _Yfirgjald:_ Gjald fyrir virðisaukandi þjónustu sem er hærra en almennt símtalagjald.
+    [31. ][^1)^] _Þróaður stafrænn sjónvarpsbúnaður:_ Aðgangskassi sem tengist sjónvarpstæki eða stafrænt sjónvarpstæki sem getur tekið á móti stafrænni gagnvirkri sjónvarpsþjónustu.
+    _[^1)^]L. 118/2008, 1. gr._ [^2)^]L. 78/2005, 12. gr. [^3)^]L. 39/2007, 1. gr.
 
  *III. kafli.* *Heimild til fjarskiptastarfsemi.*
  ■ *4. gr.* _Heimildir._
@@ -154,7 +156,7 @@ h2. Lög um fjarskipti
  □ Póst- og fjarskiptastofnun skal viðhalda skipulagi númera sem nota má fyrir hvers konar fjarskiptaþjónustu, þ.m.t. númerakóða fyrir net. Upplýsingar um númeraskipulag og allar breytingar á því skulu birtar opinberlega.
  □ Póst- og fjarskiptastofnun skal setja reglur[^1)^] um númer, númeraraðir og vistföng.
  □ Samgönguráðherra getur sett reglugerð um hlutverk Póst- og fjarskiptastofnunar við útgáfu vistfanga.
-    _[^1)^]Rgl. 318/2003_.
+    _[^1)^]Rgl. 450/2008_.
 
  *V. kafli.* *Markaðir.*
  ■ *16. gr.* _Skilgreining markaða._
@@ -181,7 +183,7 @@ h2. Lög um fjarskipti
  □ Póst- og fjarskiptastofnun getur falið einu eða fleiri fjarskiptafyrirtækjum að bjóða alþjónustu, sbr. 19. gr., á ákveðnum svæðum eða eftir þjónustutegundum.
  □ Póst- og fjarskiptastofnun skal hafa eftirlit með gjaldskrá fyrir alþjónustu og getur ákveðið hámarksverð. Sama gjaldskrá skal gilda fyrir alþjónustu alls staðar á landinu.
  □ Samgönguráðherra setur reglugerð[^1)^] um alþjónustu.
-    _[^1)^]Rg. 641/2000_, sbr. 813/2000.
+    _[^1)^]Rg. 1356/2007_.
  ■ *21. gr.* _Fjárframlög til alþjónustu._
  □ [Ef fjarskiptafyrirtæki telur að alþjónusta sem því er gert skylt að veita, sbr. 20. gr., sé rekin með tapi og því ósanngjörn byrði á fyrirtækinu getur það sótt um til Póst- og fjarskiptastofnunar að því verði með fjárframlögum tryggt eðlilegt endurgjald fyrir þá starfsemi sem um ræðir. Við útreikninga á kostnaði við alþjónustu skal m.a. taka mið af markaðsávinningi af því að veita þjónustuna. Nánar skal kveðið á um útreikninga á kostnaði við alþjónustu í reglugerð um alþjónustu, sbr. 20. gr.][^1)^]
  □ Nú berst Póst- og fjarskiptastofnun beiðni um fjárframlög skv. 1. mgr., og ekki verður talið að þjónustan verði tryggð með öðrum hagkvæmari hætti en jafnframt talið að þjónustan sé óhjákvæmileg og verði ekki aflögð, og skal stofnunin þá ákvarða kostnað vegna alþjónustukvaða.
@@ -197,8 +199,8 @@ h2. Lög um fjarskipti
  □ Jöfnunargjald má draga frá tekjum greiðanda á því rekstrarári þegar stofn þess myndaðist.
  □ [Um álagningu og innheimtu, þ.m.t. fyrirframgreiðslu, jöfnunargjalds fer samkvæmt ákvæðum VIII. - "XIV. kafla laga nr. 90/2003":2003090.html, en varðandi viðurlög er sérstaklega vísað til XII. kafla þeirra laga.][^2)^]
  □ Póst- og fjarskiptastofnun skal árlega birta upplýsingar um útreikning kostnaðar vegna alþjónustukvaða, sundurliðaðan lista yfir einstakar greiðslur fyrirtækja í jöfnunarsjóð og greinargerð um þann ávinning sem stofnunin telur að fjarskiptafyrirtæki sem veita alþjónustu hafi haft.
- □ Samgönguráðherra setur í reglugerð um alþjónustu nánari fyrirmæli um fjárframlög og jöfnunargjöld í fjarskiptaþjónustu, þar á meðal um útreikning á kostnaði við að reka almenn fjarskiptanet eða veita almenna fjarskiptaþjónustu og um útreikning rekstrartaps.
-    _[^1)^]L. 143/2007, 1. gr._ [^2)^]L. 78/2005, 4. gr.
+ □ Samgönguráðherra setur í reglugerð[^3)^] um alþjónustu nánari fyrirmæli um fjárframlög og jöfnunargjöld í fjarskiptaþjónustu, þar á meðal um útreikning á kostnaði við að reka almenn fjarskiptanet eða veita almenna fjarskiptaþjónustu og um útreikning rekstrartaps.
+    _[^1)^]L. 143/2007, 1. gr._ [^2)^]L. 78/2005, 4. gr. [^3)^]Rg. 1356/2007.
  ■ *23. gr.* _Sértæk fjarskiptaþjónusta._
  □ Nú óskar samgönguráðherra eftir því að lagt sé í framkvæmdir, rekstur eða þjónustu sem er til almannaheilla, í öryggisskyni, af umhverfisástæðum eða samkvæmt byggðasjónarmiðum, og ætla má að skili ekki arði, án þess þó að um alþjónustu sé að ræða, og skal Póst- og fjarskiptastofnun þá falið að gera um slíkt samning við fjarskiptafyrirtæki í kjölfar útboðs.
  □ Kostnaður sem rekja má til ákvarðana samgönguráðherra skv. 1. mgr. skal að jafnaði greiddur úr ríkissjóði, eftir því sem kveðið er á um í fjárlögum.
@@ -220,7 +222,8 @@ h2. Lög um fjarskipti
  □ Fjarskiptafyrirtæki sem öðlast upplýsingar frá öðru fyrirtæki við gerð samninga um aðgang eða samtengingu eða að loknum samningum skulu eingöngu nota upplýsingarnar í þeim tilgangi sem þær voru veittar og skulu á öllum stigum halda trúnað. Óheimilt er að afhenda upplýsingarnar öðrum, þar á meðal öðrum deildum fyrirtækis, dótturfyrirtækjum eða samstarfsaðilum.
 ■ *27. gr.* _Kvaðir á fjarskiptafyrirtæki._
  □ Þegar fjarskiptafyrirtæki er talið hafa [umtalsverðan markaðsstyrk][^1)^] er Póst- og fjarskiptastofnun heimilt að leggja á það kvaðir um gagnsæi, jafnræði, bókhaldslegan aðskilnað, opinn aðgang að sérstakri netaðstöðu, eftirlit með gjaldskrá og kostnaðarbókhald eins og með þarf í þeim tilgangi að efla virka samkeppni.
-    _[^1)^]L. 78/2005, 12. gr._
+ □ [Telji Póst- og fjarskiptastofnun í kjölfar markaðsgreiningar skv. 17. gr. að heildsölukvaðir eða ráðstafanir varðandi forval eða fast forval muni ekki skila tilætluðum árangri við að efla virka samkeppni og tryggja hagsmuni notenda fjarskiptaþjónustu er stofnuninni heimilt að leggja smásölukvaðir á fyrirtæki með umtalsverðan markaðsstyrk. Slíkar kvaðir geta m.a. falist í að leggja skyldur á fyrirtæki um þak á smásöluverð, kostnaðartengda gjaldskrá og kostnaðarbókhald, að verð miðist við verð á sambærilegum mörkuðum, banni við mismunun milli notenda og banni við að binda mismunandi tegundir fjarskiptaþjónustu í einn heildarpakka skaði það samkeppni.][^2)^]
+    _[^1)^]L. 78/2005, 12. gr._ [^2)^]L. 118/2008, 2. gr.
  ■ *28. gr.* _Aðgangur að netum og þjónustu._
  □ Póst- og fjarskiptastofnun getur mælt fyrir um að fjarskiptafyrirtæki með [umtalsverðan markaðsstyrk][^1)^] verði við eðlilegum og sanngjörnum beiðnum um opinn aðgang að almennum fjarskiptanetum, nethlutum og tengdri aðstöðu með ákveðnum skilmálum sem stofnunin setur, sbr. þó 3. mgr.
  □ Meðal annars má krefjast af fjarskiptafyrirtækjum að þau:
@@ -267,12 +270,18 @@ h2. Lög um fjarskipti
  □ Beiðnum um aðgang að heimtaugum skal aðeins hafnað á grundvelli hlutlægra viðmiðana, nauðsynjar þess að viðhalda heildstæði neta eða af tæknilegum ástæðum. Náist ekki samkomulag um aðgang getur aðili vísað málinu til Póst- og fjarskiptastofnunar.
  □ Samgönguráðherra er heimilt að setja reglugerð[^2)^] um sundurgreindan aðgang að heimtaugum.
     _[^1)^]L. 78/2005, 12. gr._ [^2)^]Rg. 199/2002.
- ■ *35. gr.* _Reikisamningar._
- □ Þar sem ekki verður ráðist í uppsetningu og rekstur farsímastöðva eða farsímanets, vegna eðlis eða umfangs fjárfestingar, eða þar sem aðstæður til uppsetningar og rekstrar farsímastöðva og farsímanets eru sérstaklega erfiðar, svo sem vegna náttúrulegra aðstæðna, eða þegar nauðsynlegt er að stuðla að virkri samkeppni, skulu farsímafyrirtæki sem veita almenna farsímaþjónustu eiga aðgang að almennum farsímanetum annarra farsímafyrirtækja.
- □ Fjarskiptafyrirtæki skulu leitast við að semja sín á milli um skilmála aðgangs.
- □ Náist ekki samkomulag skal Póst- og fjarskiptastofnun ákveða hvort reikisamningur skuli gerður og skilmála hans á milli þess aðila er ræður farsímanetinu skv. 1. mgr. og annarra fjarskiptafyrirtækja, enda hafi þau þegar yfir að ráða eigin almennum farsímanetum þar sem þeim verður við komið að mati Póst- og fjarskiptastofnunar.
- □ [Ákvörðun um reikisamning skv. 3. mgr. verður ekki beitt til aðgangs að GSM-farsímastöð sem sett er upp til viðbótar útbreiðslu farsímanets fyrr en tveimur árum eftir að hún er tekin í notkun.][^1)^]
-    _[^1)^]L. 78/2005, 5. gr._ Ákvæðið gildir aðeins um GSM-farsímastöðvar sem settar eru upp eftir gildistöku þeirra laga, sbr. l. 78/2005, brbákv.
+ ■ *35. gr.* _[Hámarksverð í heild- og smásölu fyrir reikisímtöl í farsímanetum._
+ □ Fjarskiptafyrirtæki, sem veita reikiþjónustu hér á landi, skulu sjá til þess að heild- og smásöluverð fyrir reikisímtal í farsímaneti, sem á sér upphaf eða lýkur innan Evrópska efnahagssvæðisins, sé ekki hærra en hámarksverð sem þar gildir.
+ □ Samgönguráðherra setur reglugerð um reiki í almennum farsímanetum, þar sem m.a. er heimilt að kveða á um eftirfarandi:
+    a. Hámarksverð í heildsölu fyrir reikisímtöl í farsímanetum.
+    b. Hámarksverð í smásölu fyrir reikisímtöl í farsímanetum.
+    c. Hámarksverð fyrir SMS-, MMS-þjónustu og aðra gagnaflutningsþjónustu í farsímanetum.
+    d. Evrópugjaldskrá.
+    e. Gagnsæi smásölu- og Evrópugjaldskrár.
+    f. Viðmiðunargengi og uppgjörsaðferðir sem fjarskiptafyrirtækjum er skylt að nota við myntbreytingar vegna reikiþjónustu í farsímanetum.
+    g. Skyldur fjarskiptafyrirtækja til þess að verða við óskum reikiviðskiptavina um skipti milli reikigjaldskráa.
+    h. Upplýsingaskyldu fjarskiptafyrirtækja um viðeigandi reikigjöld.][^1)^]
+    _[^1)^]L. 118/2008, 3. gr._
  ■ *36. gr.* _Aðskilnaður sérleyfisstarfsemi frá fjarskiptastarfsemi._
  □ Fjarskiptafyrirtæki eða fyrirtækjasamstæður sem reka almenn fjarskiptanet eða veita almenna fjarskiptaþjónustu og njóta einka- eða sérréttinda á öðru sviði en fjarskiptum skulu halda fjarskiptastarfsemi sinni fjárhagslega aðskilinni frá annarri starfsemi eins og um óskyld fyrirtæki væri að ræða. Skal þess gætt að samkeppnisrekstur sé ekki niðurgreiddur af einkaleyfisstarfsemi eða verndaðri starfsemi.
  □ Ákvæði þetta gildir án tillits til [markaðsstyrks][^1)^] fyrirtækis.
@@ -293,18 +302,20 @@ h2. Lög um fjarskipti
  □ Fjarskiptafyrirtæki skal fyrir gildistöku nýrra eða breyttra skilmála eða gjaldskrár senda Póst- og fjarskiptastofnun skilmála eða gjaldskrá til upplýsingar á því formi sem stofnunin ákveður. Stofnuninni er heimilt að krefjast breytinga á skilmálum eða gjaldskrá fyrirtækis ef efni þeirra þykir brjóta í bága við lög þessi.
  □ Fjarskiptafyrirtæki skulu birta viðskiptaskilmála og gjaldskrá fyrir alla þjónustu sína á aðgengilegan hátt.
  □ [Fjarskiptafyrirtæki sem býður internetþjónustu er skylt að gera áskrifendum sínum, þeim að kostnaðarlausu og ef þeir þess óska, sýnilegt hvenær þeir eru að greiða fyrir gagnaflutning erlendis frá.][^2)^]
-    _[^1)^]L. 39/2007, 4. gr._ [^2)^]L. 78/2005, 6. gr.
+ □ [Fjarskiptafyrirtækjum er skylt að upplýsa notendur sína um þann kostnað sem hlýst af því að hringja úr tal- og farsímaneti þeirra í net annarra fjarskiptafyrirtækja hér á landi. Slíkar upplýsingar skulu uppfærðar eins og þörf krefur.][^3)^]
+    _[^1)^]L. 39/2007, 4. gr._ [^2)^]L. 78/2005, 6. gr. [^3)^]L. 118/2008, 4. gr.
  ■ *38. gr.* _Reikningar áskrifenda o.fl._
- □ Áskrifendur talsímaþjónustu eiga rétt á að fá reikninga fyrir fjarskiptanotkun sína sundurliðaða ...[^1)^] og skulu áskrifendur alþjónustu eiga rétt á slíkum reikningum án þess að greiðsla komi fyrir.
+ □ Áskrifendur [tal- og farsímaþjónustu][^1)^] eiga rétt á að fá reikninga fyrir fjarskiptanotkun sína sundurliðaða ...[^2)^] og skulu áskrifendur alþjónustu eiga rétt á slíkum reikningum án þess að greiðsla komi fyrir.
  □ Fjarskiptafyrirtækjum er heimilt að bjóða áskrifendum ítarlegri reikninga gegn hæfilegu gjaldi.
  □ Símtöl sem eru gjaldfrjáls, þ.m.t. símtöl vegna ráðgjafar á vegum félagslegrar þjónustu, mega ekki vera sundurliðuð á reikningi, enda hafi þeir sem veita slíka ráðgjöf tilkynnt fjarskiptafyrirtækjum um starfsemi sína fyrir fram. Við gerð sundurliðaðra reikninga skal hafa hliðsjón af löggjöf um persónuvernd.
  □ Samgönguráðherra er heimilt að setja reglugerð um meðferð upplýsinga sem nauðsynlegar eru fyrir gerð reikninga, sundurliðun þeirra og málsmeðferð vegna kvartana.
- □ Ef símtöl bera yfirgjald skal þjónustuaðili ávallt geta þess í upphafi símtals hver fjárhæð gjaldsins sé. Áskrifandi skal eiga þess kost að læsa fyrir símtöl í númer þar sem tekið er yfirgjald. Nánar skal kveðið á um símtöl og aðra virðisaukandi þjónustu í talsímanetum með yfirgjaldi í reglugerð.
+ □ Ef símtöl bera yfirgjald skal þjónustuaðili ávallt geta þess í upphafi símtals hver fjárhæð gjaldsins sé. Áskrifandi skal eiga þess kost að læsa fyrir símtöl í númer þar sem tekið er yfirgjald. Nánar skal kveðið á um símtöl og aðra virðisaukandi þjónustu í [tal- og farsímanetum][^1)^] með yfirgjaldi í reglugerð.
  □ Póst- og fjarskiptastofnun er heimilt að veita undanþágu frá upplýsingaskyldu um yfirgjald skv. 5. mgr.
-    _[^1)^]L. 39/2007, 5. gr._
+    _[^1)^]L. 118/2008, 5. gr._ [^2)^]L. 39/2007, 5. gr.
  ■ *39. gr.* _Vanskil áskrifenda._
- □ Heimilt er að loka fyrir talsímaþjónustu vegna vanskila fyrir símtöl önnur en þau sem bera yfirgjald, enda hafi áskrifanda verið gefin skrifleg aðvörun a.m.k. mánuði fyrir lokun. Fyrsta mánuð eftir lokun skal þó vera mögulegt að hringja í áskrifandann. Einnig skal áskrifandi geta haft samband við neyðarnúmerið 112 í jafnlangan tíma. Ef gerð hefur verið tilraun til að komast hjá gjaldtöku á ólögmætan hátt eða reynt að koma gjaldskyldu yfir á óskyldan aðila er fjarskiptafyrirtæki heimilt að loka viðkomandi þjónustu án viðvörunar.
-■ *40. gr.* _Ábyrgðartakmarkanir._
+ □ Heimilt er að loka fyrir [tal- og farsímaþjónustu][^1)^] vegna vanskila fyrir símtöl önnur en þau sem bera yfirgjald, enda hafi áskrifanda verið gefin skrifleg aðvörun a.m.k. mánuði fyrir lokun. Fyrsta mánuð eftir lokun skal þó vera mögulegt að hringja í áskrifandann. Einnig skal áskrifandi geta haft samband við neyðarnúmerið 112 í jafnlangan tíma. Ef gerð hefur verið tilraun til að komast hjá gjaldtöku á ólögmætan hátt eða reynt að koma gjaldskyldu yfir á óskyldan aðila er fjarskiptafyrirtæki heimilt að loka viðkomandi þjónustu án viðvörunar.
+    _[^1)^]L. 118/2008, 6. gr._
+ ■ *40. gr.* _Ábyrgðartakmarkanir._
  □ Fjarskiptafyrirtækjum er heimilt í viðskiptaskilmálum sínum að undanþiggja sig bótaábyrgð á tjóni sem rekja má til sambandsleysis, rofs á fjarskiptum eða annarra truflana sem kunna að verða á rekstri fjarskiptanetsins hvort sem slíkt má rekja til línubilana, bilana í stöðvum eða annarra ástæðna. Ábyrgðartakmörkun er þó bundin við að tjónið verði ekki rakið til stórfelldra mistaka starfsmanna fyrirtækisins.
 ■ *41. gr.* _Gæði þjónustu._
  □ Póst- og fjarskiptastofnun getur gefið út reglur um gæði fjarskiptaþjónustu og framsetningu upplýsinga sem birtar eru svo að notendur hafi aðgang að ítarlegum, samanburðarhæfum og auðskiljanlegum upplýsingum.
@@ -322,12 +333,12 @@ h2. Lög um fjarskipti
  ■ *42. gr.* _Gögn um fjarskipti._
  □ Gögnum um fjarskiptaumferð notenda sem geymd eru og fjarskiptafyrirtæki vinnur úr skal eyða eða gera nafnlaus þegar þeirra er ekki lengur þörf við afgreiðslu ákveðinnar fjarskiptasendingar.
  □ Gögn um fjarskiptanotkun sem nauðsynleg eru til reikningsgerðar fyrir áskrifendur og uppgjörs fyrir samtengingu má geyma þar til ekki er lengur hægt að vefengja reikning eða hann fyrnist.
- □ [Þrátt fyrir ákvæði 1. og 2. mgr. skulu fjarskiptafyrirtæki, í þágu rannsókna opinberra mála og almannaöryggis, varðveita lágmarksskráningu gagna um fjarskiptaumferð notenda í sex mánuði. Lágmarksskráningin skal tryggja að fjarskiptafyrirtæki geti upplýst hver af viðskiptavinum þess var notandi tiltekins símanúmers, IP-tölu eða notandanafns, jafnframt því að upplýsa um allar tengingar sem notandinn hefur gert, dagsetningar þeirra, hverjum var tengst og magn gagnaflutnings til viðkomandi notanda. Fjarskiptafyrirtæki skal tryggja vörslu framangreindra gagna og er óheimilt að nota eða afhenda umræddar upplýsingar öðrum en lögreglu eða ákæruvaldi í samræmi við ákvæði 3. mgr. 47. gr. Eyða ber umferðargögnunum að þessum tíma liðnum enda sé ekki þörf fyrir þau á grundvelli 2. mgr.][^1)^]
+ □ [Þrátt fyrir ákvæði 1. og 2. mgr. skulu fjarskiptafyrirtæki, í þágu rannsókna opinberra mála og almannaöryggis, varðveita lágmarksskráningu gagna um fjarskiptaumferð notenda í sex mánuði.[^1)^] Lágmarksskráningin skal tryggja að fjarskiptafyrirtæki geti upplýst hver af viðskiptavinum þess var notandi tiltekins símanúmers, IP-tölu eða notandanafns, jafnframt því að upplýsa um allar tengingar sem notandinn hefur gert, dagsetningar þeirra, hverjum var tengst og magn gagnaflutnings til viðkomandi notanda. Fjarskiptafyrirtæki skal tryggja vörslu framangreindra gagna og er óheimilt að nota eða afhenda umræddar upplýsingar öðrum en lögreglu eða ákæruvaldi í samræmi við ákvæði 3. mgr. 47. gr. Eyða ber umferðargögnunum að þessum tíma liðnum enda sé ekki þörf fyrir þau á grundvelli 2. mgr.][^2)^]
  □ Með samþykki áskrifanda er fjarskiptafyrirtæki heimilt að vinna úr gögnum skv. 1. mgr. vegna markaðssetningar fjarskiptaþjónustu eða framboðs á virðisaukandi þjónustu að því leyti sem nauðsynlegt er fyrir slíka þjónustu eða markaðssetningu. Samþykki má afturkalla hvenær sem er.
  □ Þjónustuveitandi skal upplýsa áskrifendur fyrir fram um hvaða gögn um fjarskiptanotkun eru tekin til úrvinnslu og hversu lengi úrvinnsla mun standa.
  □ Úrvinnslu gagna samkvæmt þessari grein skulu þeir einir sinna sem eru undir stjórn fjarskiptafyrirtækja og sjá um gerð reikninga eða stjórnun fjarskiptaumferðar, fyrirspurnir notenda, uppljóstrun misferlis, markaðssetningu fjarskiptaþjónustu eða virðisaukandi þjónustu og skal úrvinnslan einskorðast við það sem er nauðsynlegt í þágu slíkrar starfsemi.
- □ [Fjarskiptafyrirtæki skulu setja sér verklagsreglur um meðferð persónuupplýsinga og eyðingu gagna í samræmi við ákvæði þessarar greinar og skilyrði sem Persónuvernd kann að setja.][^1)^]
-    _[^1)^]L. 78/2005, 7. gr._
+ □ [Fjarskiptafyrirtæki skulu setja sér verklagsreglur um meðferð persónuupplýsinga og eyðingu gagna í samræmi við ákvæði þessarar greinar og skilyrði sem Persónuvernd kann að setja.][^2)^]
+    _[^1)^]Málsliðnum var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html [^2)^]L. 78/2005, 7. gr.
  ■ *43. gr.* _Upplýsingar um staðsetningu búnaðar._
  □ Því aðeins má vinna úr upplýsingum um staðsetningu búnaðar í almennum fjarskiptanetum eða almennri fjarskiptaþjónustu að ekki sé hægt að tengja þær við einstaka notendur eða að fengnu samþykki þeirra.
  □ [Þrátt fyrir ákvæði 1. mgr. skulu fjarskiptafyrirtæki án samþykkis notanda senda, án endurgjalds, upplýsingar samkvæmt þessari grein, að því marki sem er tæknilega gerlegt, til félaga og stofnana sem annast neyðarþjónustu og eru opinberlega viðurkennd sem slík, þ.m.t. löggæslu-, sjúkraflutninga- og slökkvilið. Notkun upplýsinganna er einungis heimil í þeim tilgangi að staðsetja neyðarsímtöl.][^1)^]
@@ -349,16 +360,16 @@ h2. Lög um fjarskipti
  □ Óheimilt er að senda tölvupóst sem þátt í beinni markaðssetningu þar sem nafn og heimilisfang þess sem stendur að markaðssetningu kemur ekki skýrt fram.
  □ [Þeir sem nota almenna tal- og farsímaþjónustu sem lið í markaðssetningu skulu virða merkingu í símaskrá sem gefur til kynna að viðkomandi áskrifandi vilji ekki slíkar símhringingar í símanúmer sitt. Áskrifandi á rétt á að fá vitneskju um hvaðan þær upplýsingar koma sem liggja úthringingu til grundvallar.][^1)^]
     _[^1)^]L. 39/2007, 8. gr._
- ■ *47. gr.* _Öryggi og þagnarskylda._
- □ Fjarskiptafyrirtæki sem veita almenna fjarskiptaþjónustu skulu gera viðeigandi ráðstafanir til þess að tryggja öryggi þjónustunnar í samráði við rekstraraðila fjarskiptaneta ef við á. [Verja skal upplýsingar sem fara um fjarskiptanet gegn því að þær glatist, skemmist eða breytist fyrir slysni eða að óviðkomandi fái aðgang að þeim.][^1)^] Ef sérstök hætta er á að leynd fjarskipta á tilteknu neti verði rofin skal þjónustuveitandinn upplýsa áskrifendur um hættuna.
- □ [Fjarskiptafyrirtæki skulu skjalfesta skipulag upplýsingaöryggis með því að setja sér öryggisstefnu, gera áhættumat og ákveða öryggisráðstafanir á grundvelli þess. Póst- og fjarskiptastofnun setur reglur[^2)^] um vernd upplýsinga í almennum fjarskiptanetum þar sem nánar er mælt fyrir um þær kröfur sem gerðar eru til skipulags upplýsingaöryggis. Skulu reglurnar m.a. kveða á um:
+ ■ *47. gr.* _Öryggi og þagnarskylda.[^1)^]_
+ □ Fjarskiptafyrirtæki sem veita almenna fjarskiptaþjónustu skulu gera viðeigandi ráðstafanir til þess að tryggja öryggi þjónustunnar í samráði við rekstraraðila fjarskiptaneta ef við á. [Verja skal upplýsingar sem fara um fjarskiptanet gegn því að þær glatist, skemmist eða breytist fyrir slysni eða að óviðkomandi fái aðgang að þeim.][^2)^] Ef sérstök hætta er á að leynd fjarskipta á tilteknu neti verði rofin skal þjónustuveitandinn upplýsa áskrifendur um hættuna.
+ □ [Fjarskiptafyrirtæki skulu skjalfesta skipulag upplýsingaöryggis með því að setja sér öryggisstefnu, gera áhættumat og ákveða öryggisráðstafanir á grundvelli þess. Póst- og fjarskiptastofnun setur reglur[^3)^] um vernd upplýsinga í almennum fjarskiptanetum þar sem nánar er mælt fyrir um þær kröfur sem gerðar eru til skipulags upplýsingaöryggis. Skulu reglurnar m.a. kveða á um:
     a. hvernig skjalfesta skuli skipulag upplýsingaöryggis,
     b. hlítingu við tiltekna staðla,
     c. framkvæmd innra eftirlits,
     d. helstu öryggisráðstafanir sem viðhafa skal,
     e. tilkynningar vegna öryggisrofs,
     f. eftirlitsúrræði Póst- og fjarskiptastofnunar.
- □ Gerðar skulu sérstakar ráðstafanir til að tryggja samfelldan og órofinn rekstur almennra fjarskiptaneta. Póst- og fjarskiptastofnun setur sérstakar reglur[^3)^] um virkni almennra fjarskiptaneta. Skulu reglurnar m.a. kveða á um:
+ □ Gerðar skulu sérstakar ráðstafanir til að tryggja samfelldan og órofinn rekstur almennra fjarskiptaneta. Póst- og fjarskiptastofnun setur sérstakar reglur[^4)^] um virkni almennra fjarskiptaneta. Skulu reglurnar m.a. kveða á um:
     a. gerð skriflegrar neyðaráætlunar,
     b. hlítingu við tiltekna staðla,
     c. raunlæga vernd almennra fjarskiptaneta,
@@ -368,14 +379,14 @@ h2. Lög um fjarskipti
     g. tilkynningar vegna þjónusturofs,
     h. eftirlitsúrræði Póst- og fjarskiptastofnunar.
  □ Óheimil er hlustun, upptaka, geymsla eða hlerun fjarskipta með öðrum hætti nema hún fari fram með samþykki notanda eða samkvæmt heimild í lögum.
- □ Notkun njósnahugbúnaðar, vefhlerunarbúnaðar eða annars slíks búnaðar sem komið er fyrir í endabúnaði notanda til þess að fá aðgang að upplýsingum, safna földum upplýsingum eða fylgjast með athöfnum hans er einungis heimil í lögmætum tilgangi og með vitund hlutaðeigandi notanda. Notanda er rétt að hafna notkun slíks búnaðar.][^1)^]
+ □ Notkun njósnahugbúnaðar, vefhlerunarbúnaðar eða annars slíks búnaðar sem komið er fyrir í endabúnaði notanda til þess að fá aðgang að upplýsingum, safna földum upplýsingum eða fylgjast með athöfnum hans er einungis heimil í lögmætum tilgangi og með vitund hlutaðeigandi notanda. Notanda er rétt að hafna notkun slíks búnaðar.][^2)^]
  □ Öllum sem starfa við fjarskiptavirki, hvort sem um er að ræða starfsmenn fjarskiptafyrirtækja eða aðra, er skylt, bæði meðan þeir gegna starfi og eftir að þeir hafa látið af því, að halda leyndu fyrir óviðkomandi aðilum öllu því sem um fjarskiptavirkin fer, hvort sem um er að ræða efni skeyta eða samtala eða hvort fjarskipti hafa átt sér stað og á milli hverra.
- □ Ekki má án undangengins dómsúrskurðar heimila óviðkomandi aðilum að sjá skeyti, önnur skjöl eða annála um sendingar sem um fjarskiptavirkin fara eða hlusta á fjarskiptasamtöl eða hljóðrita þau. [Fjarskiptafyrirtæki er þó rétt og skylt að veita lögreglu, í þágu rannsóknar opinbers máls, upplýsingar um hver sé skráður eigandi ákveðins símanúmers og/eða eigandi eða notandi vistfangs (IP-tölu).][^4)^] Um aðgang lögreglu að upplýsingum um fjarskipti skal [að öðru leyti][^4)^] fara samkvæmt lögum um meðferð opinberra mála.
+ □ Ekki má án undangengins dómsúrskurðar heimila óviðkomandi aðilum að sjá skeyti, önnur skjöl eða annála um sendingar sem um fjarskiptavirkin fara eða hlusta á fjarskiptasamtöl eða hljóðrita þau. [Fjarskiptafyrirtæki er þó rétt og skylt að veita lögreglu, í þágu rannsóknar opinbers máls, upplýsingar um hver sé skráður eigandi ákveðins símanúmers og/eða eigandi eða notandi vistfangs (IP-tölu).][^5)^] Um aðgang lögreglu að upplýsingum um fjarskipti skal [að öðru leyti][^5)^] fara samkvæmt lögum um meðferð opinberra mála.
  □ Enginn sem starfar við fjarskiptavirki, net eða þjónustu má skjóta undan skeytum, gögnum, myndum eða öðrum merkjum sem afhent eru til fjarskiptaflutnings eða liðsinna öðrum við þess konar athæfi.
  □ Sá sem fyrir tilviljun, mistök eða án sérstakrar heimildar tekur við símskeytum, myndum eða öðrum fjarskiptamerkjum og táknum eða hlustar á símtöl má ekki skrá neitt slíkt hjá sér eða notfæra sér það á nokkurn hátt. Jafnframt ber honum að tilkynna sendanda að upplýsingar hafi ranglega borist sér. Skylt er að gæta fyllsta trúnaðar í slíkum tilfellum.
  □ [Þeim sem rekur fjarskiptaþjónustu eða fjarskiptanet er skylt að verða við tilmælum lögreglu um aðstoð við rannsókn sakamáls, enda styðjist þau tilmæli við dómsúrskurð eða lagaheimild.
- □ Starfsmenn fjarskiptafyrirtækis bera þagnarskyldu um allar aðgerðir sem gripið er til skv. 6. mgr.][^5)^]
-    _[^1)^]L. 39/2007, 9. gr._ [^2)^]Rgl. 1221/2007. [^3)^]Rgl. 1222/2007. [^4)^]L. 78/2005, 9. gr. [^5)^]L. 74/2006, 6. gr.
+ □ Starfsmenn fjarskiptafyrirtækis bera þagnarskyldu um allar aðgerðir sem gripið er til skv. 6. mgr.][^6)^]
+    _[^1)^]Greininni var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html [^2)^]L. 39/2007, 9. gr. [^3)^]Rgl. 1221/2007. [^4)^]Rgl. 1222/2007. [^5)^]L. 78/2005, 9. gr. [^6)^]L. 74/2006, 6. gr.
  ■ *48. gr.* _Hljóðritun símtala._
  □ Sá aðili að símtali sem vill hljóðrita símtal skal í upphafi þess tilkynna viðmælanda sínum um fyrirætlun sína.
  □ Aðili þarf þó ekki að tilkynna sérstaklega um upptöku símtals þegar ótvírætt má ætla að viðmælanda sé kunnugt um hljóðritunina.
@@ -383,14 +394,16 @@ h2. Lög um fjarskipti
  □ Um fyrirkomulag hljóðritunar og kynningu hennar fyrir almenningi og starfsmönnum stofnunar skal fara eftir skilyrðum sem Persónuvernd kann að setja.
  □ Úrvinnsla hljóðritana samkvæmt þessari grein skal vera í samræmi við lagaákvæði um persónuvernd og meðferð persónuupplýsinga.
 
- *X. kafli.* *Talsímaþjónusta.*
-■ *49. gr.* _Neyðarhringingar._
+ *X. kafli.* *[Tal- og farsímaþjónusta.][^1)^]*
+    _[^1)^]L. 118/2008, 9. gr._
+ ■ *49. gr.* _Neyðarhringingar._
  □ Stuttnúmerið 112 skal vera frátekið fyrir neyðar- og öryggisþjónustu og er óheimilt að nota það í öðrum tilgangi. Óheimilt er að gjaldfæra símtöl í neyðarnúmerið 112.
 ■ *50. gr.* _Læsingar á aðgangi._
  □ Fjarskiptafyrirtæki sem falin hefur verið alþjónusta skulu að beiðni áskrifanda læsa fyrir ákveðnar tegundir símtala eða fyrir símtöl í ákveðnar númeraraðir, honum að kostnaðarlausu.
 ■ *51. gr.* _Númerabirting._
- □ Fjarskiptafyrirtæki sem reka almenna talsímaþjónustu skulu bjóða notendum númerabirtingu í samræmi við ákvæði laga um persónuvernd. Póst- og fjarskiptastofnun skal setja reglur um fyrirkomulag númerabirtingar.
-■ *52. gr.* _Númeraflutningur._
+ □ Fjarskiptafyrirtæki sem reka almenna [tal- og farsímaþjónustu][^1)^] skulu bjóða notendum númerabirtingu í samræmi við ákvæði laga um persónuvernd. Póst- og fjarskiptastofnun skal setja reglur[^2)^] um fyrirkomulag númerabirtingar.
+    _[^1)^]L. 118/2008, 7. gr._ [^2)^]Rgl. 629/2008.
+ ■ *52. gr.* _Númeraflutningur._
  □ Notendum almennrar talsímaþjónustu, að meðtalinni farsímaþjónustu, skal vera unnt að halda símanúmerum sínum óháð því hvaða fjarskiptafyrirtæki veitir þjónustuna. Þetta gildir þó ekki um númeraflutning milli fastaneta og farsímaneta.
  □ Póst- og fjarskiptastofnun skal tryggja að gjöld fyrir númeraflutning taki mið af kostnaði ásamt hæfilegri álagningu.
  □ Póst- og fjarskiptastofnun getur sett nánari reglur[^1)^] um númeraflutning og tímasetningar í því sambandi og sker úr ágreiningi um framkvæmd hans.
@@ -402,11 +415,12 @@ h2. Lög um fjarskipti
  □ Póst- og fjarskiptastofnun er heimilt að setja reglur[^2)^] um forval og fast forval.
     _[^1)^]L. 78/2005, 12. gr._ [^2)^]Rgl. 280/2002.
  ■ *54. gr.* _Verndun talsímanetsins._
- □ Fyrirtæki sem bjóða almenna talsímaþjónustu skulu gera nauðsynlegar ráðstafanir sem miða að því að almenna talsímanetið og almenna talsímaþjónustan, þ.m.t. neyðarþjónusta, rofni ekki.
- □ Óheimilt er notendum að valda truflunum eða ónæði í talsímanetinu.
+ □ Fyrirtæki sem bjóða [almenna tal- og farsímaþjónustu][^1)^] skulu gera nauðsynlegar ráðstafanir sem miða að því að [almenna tal- og farsímanetið og almenna tal- og farsímaþjónustan],[^1)^] þ.m.t. neyðarþjónusta, rofni ekki.
+ □ Óheimilt er notendum að valda truflunum eða ónæði í [tal- eða farsímanetum].[^1)^]
+    _[^1)^]L. 118/2008, 8. gr._
 
  *XI. kafli.* *Stafrænt útvarp.*
-■ *55. gr.* _Skylda til að flytja útvarpsdagskrá._
+ ■ *55. gr.* _Skylda til að flytja útvarpsdagskrá._
  □ Leggja má á aðila, sem bjóða fjarskiptanet til dreifingar hljóð- og sjónvarpssendinga til almennings, skyldur til að flytja ákveðna útvarpsdagskrá þegar umtalsverður hluti notenda nýtir sér netin til að taka á móti hljóð- og sjónvarpssendingum. Slíkar skyldur skulu einungis lagðar á þegar sérstaklega ríkar ástæður mæla með því.
 ■ *56. gr.* _Skilyrt aðgangskerfi._
  □ Skilyrtur aðgangur að stafrænni hljóð- og sjónvarpsþjónustu skal fullnægja reglum[^1)^] sem Póst- og fjarskiptastofnun setur á grundvelli skuldbindinga samkvæmt samningnum um Evrópska efnahagssvæðið. Þær kveði m.a. á um tæknilega eiginleika og skyldur til þess að veita aðgang.
@@ -452,10 +466,11 @@ h2. Lög um fjarskipti
  ■ *64. gr.* _Takmörkun fjarskipta vegna truflana._
  □ Póst- og fjarskiptastofnun getur látið innsigla fjarskiptavirki eða hluta þeirra eða bannað notkun þeirra og eftir atvikum fyrirskipað að fá þau afhent til geymslu undir innsigli ef fjarskiptavirkin trufla önnur fjarskipti eða hætta er á að öryggi fjarskipta sé raskað.
 ■ *65. gr.* _Viðurkenning búnaðar._
- □ Óheimilt er að setja á markað annan notendabúnað en þann sem uppfyllir grunnkröfur skv. 61. gr. og ber CE-merkingu því til staðfestingar.
+ □ Óheimilt er að setja á markað annan notendabúnað en þann sem uppfyllir grunnkröfur skv. 61. gr. og ber CE-merkingu því til staðfestingar. [Innflutningur einstaklinga eða lögaðila á notendabúnaði til eigin nota eða í öðrum tilgangi telst markaðssetning í þessu sambandi.][^1)^]
  □ Framleiðandi eða umboðsmaður hans hér á landi skal tryggja að öllum búnaði sem settur er á markað hér á landi fylgi upplýsingar fyrir notendur á íslensku um tilætlaða notkun, helstu eiginleika búnaðarins og skyldu kaupenda til að sækja um leyfisbréf fyrir þráðlausan búnað.
  □ Framleiðandi eða umboðsmaður hans sem hyggst setja á markað þráðlausan búnað í tíðnisviðum þar sem notkun hefur ekki verið samræmd á Evrópska efnahagssvæðinu skal tilkynna Póst- og fjarskiptastofnun um þessa fyrirætlun með minnst fjögurra vikna fyrirvara. Einnig skal senda stofnuninni upplýsingar um eiginleika búnaðarins, þ.m.t. tíðnisvið hans, bil milli rása, mótunaraðferð og hátíðniafl. Telji Póst- og fjarskiptastofnun hættu á því að búnaðurinn geti truflað aðra þjónustu í viðkomandi tíðnisviði getur stofnunin bannað sölu og notkun hans.
-■ *66. gr.* _Markaðseftirlit._
+    _[^1)^]L. 118/2008, 10. gr._
+ ■ *66. gr.* _Markaðseftirlit._
  □ Póst- og fjarskiptastofnun hefur markaðseftirlit með búnaði skv. 61. gr. Í því skyni skal stofnunin hafa ótakmarkaðan aðgang að sölustöðum slíks búnaðar. Ef búnaður sem uppfyllir ekki grunnkröfur samkvæmt lögum þessum er settur á markað getur stofnunin krafist að sala hans og notkun verði þegar í stað stöðvuð og búnaðurinn kyrrsettur.
  □ Póst- og fjarskiptastofnun getur gert kröfu um að framleiðandi eða umboðsmaður hans afhendi stofnuninni sundurliðaðar upplýsingar og teikningar um búnað sem ráðgert er að setja á markað. Með slíkar upplýsingar skal farið sem trúnaðarmál.
  □ Samgönguráðherra setur reglugerð[^1)^] um markaðseftirlit með notendabúnaði og þráðlausum búnaði.
@@ -466,11 +481,11 @@ h2. Lög um fjarskipti
  □ Fjarskiptafyrirtæki skulu tryggja að starfsmenn þeirra sem vinna við uppsetningu og viðhald fjarskiptavirkja hafi fengið nauðsynlega þjálfun. Fjarskiptafyrirtæki skulu upplýsa starfsmenn sína um þær skyldur sem á þeim hvíla samkvæmt lögum þessum. Samgönguráðherra getur sett reglugerð um hæfniskröfur til þeirra sem starfa við almenn fjarskiptavirki.
 ■ *68. gr.* _Heimildir til starfrækslu þráðlauss búnaðar._
  □ Póst- og fjarskiptastofnun gefur út skírteini sem heimila einstaklingum að starfrækja ákveðnar tegundir þráðlauss búnaðar.
- □ Ekki er gerð krafa um sérstaka þjálfun þeirra sem starfrækja þráðlausan búnað nema í þeim tilfellum að búnaður gegni öryggishlutverki eða þegar sendiafl er umfram 100 wött. Póst- og fjarskiptastofnun gefur út skírteini talstöðvavarðar sem heimilar handhafa að starfrækja fjarskiptabúnað í skipum og flugvélum. Skírteinin veita alþjóðleg réttindi og skulu vera í samræmi við alþjóðasamþykktir. Í skírteininu sem skal vera tímabundið skal kveða á um hvaða búnað handhafa er heimilt að starfrækja. Umsækjandi skírteinis skal leggja fram gögn sem sýna fram á að hann hafi fengið þjálfun í notkun þráðlauss búnaðar í viðurkenndum skóla.
+ □ [Ekki er gerð krafa um sérstaka þjálfun þeirra sem starfrækja þráðlausan búnað nema í þeim tilfellum að búnaðurinn gegni öryggishlutverki eða þegar sendiafl er umfram 100 W. Heimilt er að gefa út skírteini talstöðvavarðar sem heimilar handhafa að starfrækja fjarskiptabúnað í skipum. Ráðherra er heimilt að kveða nánar á um útgáfu skírteinis talstöðvavarðar og hæfniskröfur í reglugerð.][^1)^]
  □ Póst- og fjarskiptastofnun getur veitt útlendingum sem hér dvelja í takmarkaðan tíma undanþágu til að starfrækja fjarskiptabúnað, enda hafi þeir til þess réttindi í sínu heimalandi.
  □ Póst- og fjarskiptastofnun getur sett nánari reglur um heimildir einstaklinga til að starfrækja fjarskiptabúnað.
- □ Póst- og fjarskiptastofnun gefur út leyfi til radíóáhugamanna að fengnum umsóknum þeirra og umsögn hagsmunasamtaka áhugamanna. Erlendir ríkisborgarar geta sótt um leyfi til bráðabirgða eða til lengri tíma. Samgönguráðherra setur reglugerð[^1)^] um starfsemi radíóáhugamanna.
-    _[^1)^]Rg. 348/2004_.
+ □ Póst- og fjarskiptastofnun gefur út leyfi til radíóáhugamanna að fengnum umsóknum þeirra og umsögn hagsmunasamtaka áhugamanna. Erlendir ríkisborgarar geta sótt um leyfi til bráðabirgða eða til lengri tíma. Samgönguráðherra setur reglugerð[^2)^] um starfsemi radíóáhugamanna.
+    _[^1)^]L. 118/2008, 11. gr._ [^2)^]Rg. 348/2004.
 
  *XIV. kafli.* *Uppsetning og vernd fjarskiptavirkja.*
  ■ *69. gr.* _Aðgangur að landi._
@@ -493,10 +508,11 @@ h2. Lög um fjarskipti
  *XV. kafli.* *Fjarskipti á hættutímum.*
  ■ *72. gr.* _Stöðvun fjarskipta._
  □ Á ófriðartímum getur samgönguráðherra samkvæmt ákvörðun ríkisstjórnar mælt fyrir um stöðvun fjarskipta sem teljast hættuleg öryggi ríkisins.
- □ Í neyðartilvikum, svo sem við eldgos, jarðskjálfta, snjóflóð o.s.frv., getur samgönguráðherra að beiðni ríkislögreglustjóra, að höfðu samráði við almannavarnaráð, mælt fyrir um takmörkun fjarskipta sem truflað geta neyðar- og öryggisfjarskipti. Á sama hátt skal heimilt að mæla fyrir um að tiltekin fjarskiptavirki skuli notuð í þágu björgunaraðgerða og að sett skuli upp ný fjarskiptavirki. Komi endurgjald til greina greiðist það úr ríkissjóði samkvæmt mati Póst- og fjarskiptastofnunar.
+ □ Í neyðartilvikum, svo sem við eldgos, jarðskjálfta, snjóflóð o.s.frv., getur samgönguráðherra að beiðni ríkislögreglustjóra ...[^1)^] mælt fyrir um takmörkun fjarskipta sem truflað geta neyðar- og öryggisfjarskipti. Á sama hátt skal heimilt að mæla fyrir um að tiltekin fjarskiptavirki skuli notuð í þágu björgunaraðgerða og að sett skuli upp ný fjarskiptavirki. Komi endurgjald til greina greiðist það úr ríkissjóði samkvæmt mati Póst- og fjarskiptastofnunar.
+    _[^1)^]_"L. 82/2008, 35. gr.":2008082.html#g35
 
  *XVI. kafli.* *Viðurlög o.fl.*
-■ *73. gr.* _Heimild til rekstrarstöðvunar._
+ ■ *73. gr.* _Heimild til rekstrarstöðvunar._
  □ Fjarskiptafyrirtæki sem reka fjarskiptanet eða þjónustu samkvæmt almennri heimild eða hafa réttindi til að nota tíðnir og númer skulu að beiðni Póst- og fjarskiptastofnunar veita stofnuninni upplýsingar samkvæmt lögum um Póst- og fjarskiptastofnun sem nauðsynlegar eru til þess að ganga úr skugga um að farið sé eftir skilyrðum almennra heimilda eða sérstakra kvaða, sbr. 5. mgr. 6. gr.
  □ Komist Póst- og fjarskiptastofnun að þeirri niðurstöðu að fjarskiptafyrirtæki fari ekki að skilmálum almennra heimilda, skilyrðum sem tengjast réttindum eða sérstökum kvöðum skal stofnunin tilkynna fjarskiptafyrirtækinu um þessa niðurstöðu og gefa fyrirtækinu tækifæri að koma skoðun sinni á framfæri eða lagfæra brot sitt innan eins mánaðar frá dagsetningu tilkynningar, skemmri tíma sem fyrirtækið samþykkir eða Póst- og fjarskiptastofnun kveður á um þegar um endurtekið brot er að ræða eða lengri tíma sem Póst- og fjarskiptastofnun samþykkir.
  □ Láti fjarskiptafyrirtæki ekki af broti sínu innan settra tímamarka skal Póst- og fjarskiptastofnun grípa til viðeigandi ráðstafana [skv. 5. mgr. 74. gr.][^1)^] ...[^1)^] Tilkynna skal fjarskiptafyrirtæki um ákvörðun stofnunarinnar ásamt rökstuðningi við hana og skal veita því hæfilegan frest til þess að verða við ákvörðun.

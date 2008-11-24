@@ -7,7 +7,7 @@ h2. Lög um öryggi raforkuvirkja, neysluveitna og raffanga
 <hr />
 
 
- *Tóku gildi 30. desember 1996.* _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005) og l. 34/2007 (tóku gildi 30. mars 2007).
+ *Tóku gildi 30. desember 1996.* _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), l. 34/2007 (tóku gildi 30. mars 2007), l. 46/2008 (tóku gildi 6. júní 2008) og "l. 88/2008":2008088.html (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
 
 
  *I. kafli.* *Gildissvið og skilgreiningar.*
@@ -83,12 +83,40 @@ h2. Lög um öryggi raforkuvirkja, neysluveitna og raffanga
     7. innra öryggisstjórnunarkerfi og viðurkenningu [Neytendastofu][^2)^] á því, svo og um skyldur ábyrgðarmanna, sbr. 5. gr.;
     8. tíðni, umfang og framkvæmd skoðana sem skulu vera í samræmi við þá hættu sem stafar af gerð raforkuvirkis, neysluveitu eða raffangs, sbr. 7. gr.;
     9. eftirlit með raforkuvirkjum, neysluveitum og rafföngum, innfluttum eða smíðuðum innan lands;
-    10. starfsleyfi tilnefndra ábyrgðarmanna rafveitna, starfsleyfi rafskoðunarstofa, löggildingu rafverktaka og um skilyrði sem fullnægja þarf;
+    10. starfsleyfi tilnefndra ábyrgðarmanna rafveitna, starfsleyfi rafskoðunarstofa, [tímabundna löggildingu rafverktaka][^3)^] og um skilyrði sem fullnægja þarf;
     11. fræðslu og upplýsingar um hættu af rafmagni og leiðir til að verjast henni;
     12. birtingu niðurstaðna skoðana, upplýsinga um slys og tjón og annarra upplýsinga um rafmagnsöryggismál;
     13. heimildir [Neytendastofu][^2)^] til að setja nánari reglur um tæknilega útfærslu á gerð, tilhögun, eftirliti og starfrækslu raforkuvirkja, neysluveitna og raffanga, svo og á skoðunaraðferðum rafskoðunarstofa og rafverktaka.
  □ Í reglugerð er ráðherra heimilt að setja ákvæði um raforkuvirki eða rafföng sem falla ekki undir ákvæði samningsins um Evrópska efnahagssvæðið, þar með taldar bókanir hans og viðauka.
-    _[^1)^]Rg. 264/1971_, sbr. 94/1997, 458/1997, 285/1998, 121/1999, 254/2004, 586/2004, 1127/2005 og 1160/2007; rg. 144/1994, sbr. 104/2001. [^2)^]"L. 62/2005, 13. gr.":2005062.html#g13
+    _[^1)^]Rg. 264/1971_, sbr. 94/1997, 458/1997, 285/1998, 121/1999, 254/2004, 586/2004, 1127/2005 og 1160/2007; rg. 144/1994, sbr. 104/2001; rg. 270/2008. [^2)^]"L. 62/2005, 13. gr.":2005062.html#g13 [^3)^]L. 46/2008, 1. gr.
+ ■ *[13. gr. a.* Sá sem vill öðlast A-löggildingu, sem er löggilding til rafvirkjunarstarfa við háspennuvirki, verður að:
+    1. hafa lokið fullnaðarprófi frá rafmagnsdeild viðurkennds verkfræðiháskóla (sterkstraumssviði) og hafa að auki tveggja ára reynslu við störf sem lúta að hönnun og/eða setningu háspennuvirkja; eða
+    2. hafa lokið fullnaðarprófi frá rafmagnsdeild viðurkennds tæknifræðiháskóla (sterkstraumssviði) og hafa að auki tveggja ára reynslu við störf sem lúta að hönnun og/eða setningu háspennuvirkja; eða
+    3. hafa sveinsbréf í rafvirkjun og hafa lokið prófi í rafmagnsiðnfræði (sterkstraumssviði) frá Háskólanum í Reykjavík eða öðrum viðurkenndum skóla og hafa að auki tveggja ára reynslu að loknu sveinsprófi við störf sem lúta að hönnun og/eða setningu háspennuvirkja; eða
+    4. hafa sveinsbréf í rafvirkjun og hafa lokið prófi í meistaranámi í rafvirkjun (sterkstraumssviði) frá viðurkenndum skóla eða hafa jafngilda menntun að mati menntamálaráðuneytis og hafa að auki tveggja ára reynslu að loknu sveinsprófi við störf sem lúta að hönnun og/eða setningu háspennuvirkja.][^1)^]
+    _[^1)^]L. 46/2008, 2. gr._
+ ■ *[13. gr. b.* Sá sem vill öðlast B-löggildingu, sem er löggilding til rafvirkjunarstarfa við lágspennuvirki, verður að:
+    1. hafa lokið fullnaðarprófi frá rafmagnsdeild viðurkennds verkfræðiháskóla (sterkstraumssviði) og hafa að auki tveggja ára reynslu við störf sem lúta að hönnun og/eða setningu lágspennuvirkja; eða
+    2. hafa lokið fullnaðarprófi frá rafmagnsdeild viðurkennds tæknifræðiháskóla (sterkstraumssviði) og hafa að auki tveggja ára reynslu við störf sem lúta að hönnun og/eða setningu lágspennuvirkja; eða
+    3. hafa sveinsbréf í rafvirkjun og hafa lokið prófi í rafmagnsiðnfræði (sterkstraumssviði) frá Háskólanum í Reykjavík eða öðrum viðurkenndum skóla og hafa að auki tveggja ára reynslu að loknu sveinsprófi við störf sem lúta að hönnun og/eða setningu lágspennuvirkja; eða
+    4. hafa sveinsbréf í rafvirkjun og hafa lokið prófi í meistaranámi í rafvirkjun (sterkstraumssviði) frá viðurkenndum skóla eða hafa jafngilda menntun að mati menntamálaráðuneytis og hafa að auki tveggja ára reynslu að loknu sveinsprófi við störf sem lúta að hönnun og/eða setningu lágspennuvirkja.][^1)^]
+    _[^1)^]L. 46/2008, 2. gr._
+ ■ *[13. gr. c.* Sá sem vill öðlast CA-löggildingu, sem er takmörkuð löggilding til rafvirkjunarstarfa við háspennuvirki, verður að:
+    1. hafa lokið fullnaðarprófi frá rafmagnsdeild viðurkennds verkfræðiháskóla (sterkstraumssviði) og hafa að auki tveggja ára reynslu við störf sem lúta að hönnun og/eða setningu háspennuvirkja; eða
+    2. hafa lokið fullnaðarprófi frá rafmagnsdeild viðurkennds tæknifræðiháskóla (sterkstraumssviði) og hafa að auki tveggja ára reynslu við störf sem lúta að hönnun og/eða setningu háspennuvirkja; eða
+    3. hafa sveinsbréf í rafvirkjun og hafa lokið prófi í rafmagnsiðnfræði (sterkstraumssviði) frá Háskólanum í Reykjavík eða öðrum viðurkenndum skóla og hafa að auki tveggja ára reynslu að loknu sveinsprófi við störf sem lúta að hönnun og/eða setningu háspennuvirkja; eða
+    4. hafa sveinsbréf í rafvirkjun og hafa lokið prófi í meistaranámi í rafvirkjun (sterkstraumssviði) frá viðurkenndum skóla eða hafa jafngilda menntun að mati menntamálaráðuneytis og hafa að auki tveggja ára reynslu að loknu sveinsprófi við störf sem lúta að hönnun og/eða setningu háspennuvirkja.
+ □ Sá sem öðlast hefur CA-löggildingu má einungis starfa við þau raforkuvirki sem heyra undir fyrirtækið sem hann starfar hjá. Fyrirtækið sér honum fyrir búnaði og aðstöðu.][^1)^]
+    _[^1)^]L. 46/2008, 2. gr._
+ ■ *[13. gr. d.* Sá sem vill öðlast CB-löggildingu, sem er takmörkuð löggilding til rafvirkjunarstarfa við lágspennuvirki, verður að:
+    1. hafa lokið fullnaðarprófi frá rafmagnsdeild viðurkennds verkfræðiháskóla (sterkstraumssviði) og hafa að auki tveggja ára reynslu við störf sem lúta að hönnun og/eða setningu lágspennuvirkja; eða
+    2. hafa lokið fullnaðarprófi frá rafmagnsdeild viðurkennds tæknifræðiháskóla (sterkstraumssviði) og hafa að auki tveggja ára reynslu við störf sem lúta að hönnun og/eða setningu lágspennuvirkja; eða
+    3. hafa sveinsbréf í rafvirkjun og hafa lokið prófi í rafmagnsiðnfræði (sterkstraumssviði) frá Háskólanum í Reykjavík eða öðrum viðurkenndum skóla og hafa að auki tveggja ára reynslu að loknu sveinsprófi við störf sem lúta að hönnun og/eða setningu lágspennuvirkja; eða
+    4. hafa sveinsbréf í rafvirkjun og hafa lokið prófi í meistaranámi í rafvirkjun (sterkstraumssviði) frá viðurkenndum skóla eða hafa jafngilda menntun að mati menntamálaráðuneytis og hafa að auki tveggja ára reynslu að loknu sveinsprófi við störf sem lúta að hönnun og/eða setningu lágspennuvirkja.
+ □ Sá sem öðlast hefur CB-löggildingu má einungis starfa við þau raforkuvirki sem heyra undir fyrirtækið sem hann starfar hjá. Fyrirtækið sér honum fyrir búnaði og aðstöðu.][^1)^]
+    _[^1)^]L. 46/2008, 2. gr._
+ ■ *[13. gr. e.* Þeir einir sem hlotið hafa löggildingu Neytendastofu til rafvirkjunarstarfa skv. 13. gr. a  -  13. gr. d mega bera ábyrgð á setningu, breytingu og viðgerðum virkja.][^1)^]
+    _[^1)^]L. 46/2008, 2. gr._
 
  *IV. kafli.* *Gjaldtaka.*
  ■ *14. gr.* Til reksturs rafmagnsöryggismála sem [Neytendastofu][^1)^] eru falin samkvæmt lögum þessum skal aflað fjár á eftirfarandi hátt:
@@ -113,8 +141,9 @@ h2. Lög um öryggi raforkuvirkja, neysluveitna og raffanga
     _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
  ■ *16. gr.* Með dómi er heimilt að gera upptæk raforkuvirki og rafföng sem framleidd eru, seld, afhent eða notuð andstætt ákvæðum laga þessara, reglugerða og öryggisfyrirmælum [Neytendastofu].[^1)^]
     _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
- ■ *17. gr.* Brot gegn lögum þessum varða sektum. Með mál út af brotum á lögum þessum og reglugerðum á grundvelli þeirra skal farið að hætti opinberra mála.
-■ *18. gr.* Rafveitur geta óskað eftir allt að tólf mánaða aðlögunartíma frá gildistöku laga þessara til að hverfa frá eftirliti með rafmagnslögnum og tækjum sem notuð eru í sambandi við veitur þeirra. Rafveitur skulu hafa samráð við [Neytendastofu][^1)^] um þá aðlögun. Á aðlögunartíma skal skoðun rafveitna fylgja reglum [Neytendastofu][^1)^] sem eru þær sömu fyrir landið allt. Grein þessi frestar ekki gildistöku ákvæða 14. gr. laga þessara.
+ ■ *17. gr.* Brot gegn lögum þessum varða sektum. Með mál út af brotum á lögum þessum og reglugerðum á grundvelli þeirra skal farið að hætti opinberra mála.[^1)^]
+    _[^1)^]Málsliðurinn var felldur brott með_ "l. 88/2008, 233. gr.":2008088.html#g233 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html
+ ■ *18. gr.* Rafveitur geta óskað eftir allt að tólf mánaða aðlögunartíma frá gildistöku laga þessara til að hverfa frá eftirliti með rafmagnslögnum og tækjum sem notuð eru í sambandi við veitur þeirra. Rafveitur skulu hafa samráð við [Neytendastofu][^1)^] um þá aðlögun. Á aðlögunartíma skal skoðun rafveitna fylgja reglum [Neytendastofu][^1)^] sem eru þær sömu fyrir landið allt. Grein þessi frestar ekki gildistöku ákvæða 14. gr. laga þessara.
     _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
  ■ *19. gr.* Lög þessi öðlast þegar gildi. ...
 

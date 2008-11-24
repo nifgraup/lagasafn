@@ -7,7 +7,7 @@ h2. Lög um réttindi sjúklinga
 <hr />
 
 
- *Tóku gildi 1. júlí 1997.* _Breytt með_ "l. 77/2000":2000077.html (tóku gildi 1. jan. 2001), "l. 40/2007":2007040.html (tóku gildi 1. sept. 2007) og "l. 41/2007":2007041.html (tóku gildi 1. sept. 2007).
+ *Tóku gildi 1. júlí 1997.* _Breytt með_ "l. 77/2000":2000077.html (tóku gildi 1. jan. 2001), "l. 40/2007":2007040.html (tóku gildi 1. sept. 2007), "l. 41/2007":2007041.html (tóku gildi 1. sept. 2007) og "l. 112/2008":2008112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; koma til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.).
 
 
  *I. kafli.* *Inngangur.*
@@ -16,20 +16,21 @@ h2. Lög um réttindi sjúklinga
  □ Óheimilt er að mismuna sjúklingum á grundvelli kynferðis, trúarbragða, skoðana, þjóðernisuppruna, kynþáttar, litarháttar, efnahags, ætternis og stöðu að öðru leyti.
  _Skilgreiningar._
 ■ *2. gr.* _Sjúklingur:_ Notandi heilbrigðisþjónustu.
- □ [_Heilbrigðisstarfsmaður:_ Einstaklingur sem starfar við heilbrigðisþjónustu og hefur hlotið leyfi heilbrigðis- og tryggingamálaráðherra til að nota starfsheiti löggiltrar heilbrigðisstéttar.][^1)^]
+ □ [_Heilbrigðisstarfsmaður:_ Einstaklingur sem starfar við heilbrigðisþjónustu og hefur hlotið leyfi [landlæknis][^1)^] til að nota starfsheiti löggiltrar heilbrigðisstéttar.][^2)^]
  □ _Meðferð:_ Rannsókn, aðgerð eða önnur þjónusta sem læknir eða annar heilbrigðisstarfsmaður veitir til að greina, lækna, endurhæfa, hjúkra eða annast sjúkling.
  □ _Vísindarannsókn:_ Rannsókn sem gerð er til að auka við þekkingu sem m.a. gerir kleift að bæta heilsu og lækna sjúkdóma. Mat vísindasiðanefndar eða siðanefndar skv. 29. gr. á rannsókninni verður að hafa leitt í ljós að vísindaleg og siðfræðileg sjónarmið mæli ekki gegn framkvæmd hennar.
-    _[^1)^]_"L. 41/2007, 24. gr.":2007041.html#g24
+    _[^1)^]_"L. 112/2008, 63. gr.":2008112.html [^2)^]"L. 41/2007, 24. gr.":2007041.html#g24
  _Gæði heilbrigðisþjónustu._
  ■ *3. gr.* Sjúklingur á rétt á fullkomnustu heilbrigðisþjónustu sem á hverjum tíma er völ á að veita.
  □ Sjúklingur á rétt á þjónustu sem miðast við ástand hans og horfur á hverjum tíma og bestu þekkingu sem völ er á. Heilbrigðisstarfsmaður skal leitast við að koma á traustu sambandi milli sín og sjúklings.
  □ Sjúklingur á rétt á samfelldri þjónustu og að samstarf ríki milli allra heilbrigðisstarfsmanna og stofnana sem hana veita.
  _Aðgangur að upplýsingum um réttindi sjúklinga._
-■ *4. gr.* Heilbrigðis- og tryggingamálaráðuneytið skal sjá til þess að til séu upplýsingar um réttindi sjúklinga, sjúklingafélög og almannatryggingar. Heilbrigðisstofnanir og sjálfstætt starfandi heilbrigðisstarfsmenn skulu hafa þessar upplýsingar aðgengilegar sjúklingum í húsakynnum sínum og á starfsstofum. Jafnframt skal leitast við að veita almenningi upplýsingar um orsakir og afleiðingar sjúkdóma hjá börnum og fullorðnum.
+■ *4. gr.* [Heilbrigðisráðuneytið][^1)^] skal sjá til þess að til séu upplýsingar um réttindi sjúklinga, sjúklingafélög og [sjúkratryggingar].[^1)^] Heilbrigðisstofnanir og sjálfstætt starfandi heilbrigðisstarfsmenn skulu hafa þessar upplýsingar aðgengilegar sjúklingum í húsakynnum sínum og á starfsstofum. Jafnframt skal leitast við að veita almenningi upplýsingar um orsakir og afleiðingar sjúkdóma hjá börnum og fullorðnum.
+    _[^1)^]_"L. 112/2008, 63. gr.":2008112.html
 
  *II. kafli.* *Upplýsingar og samþykki.*
  _Upplýsingar um heilsufar og meðferð._
-■ *5. gr.* Sjúklingur á rétt á upplýsingum um:
+ ■ *5. gr.* Sjúklingur á rétt á upplýsingum um:
     a. heilsufar, þar á meðal læknisfræðilegar upplýsingar um ástand og batahorfur,
     b. fyrirhugaða meðferð ásamt upplýsingum um framgang hennar, áhættu og gagnsemi,
     c. önnur hugsanleg úrræði en fyrirhugaða meðferð og afleiðingar þess ef ekkert verður aðhafst,
@@ -135,7 +136,7 @@ h2. Lög um réttindi sjúklinga
  *VIII. kafli.* *Gildistökuákvæði o.fl.*
  _Heimild ráðherra til að setja reglugerð._
  ■ *29. gr.* Ráðherra skal setja reglugerð[^1)^] um vísindarannsóknir á heilbrigðissviði. Þar skulu m.a. vera ákvæði um vísindasiðanefnd og siðanefndir skv. 4. mgr. 2. gr. Þá er ráðherra heimilt að setja reglugerð um framkvæmd laga þessara.
-    _[^1)^]Rg. 552/1999_.
+    _[^1)^]Rg. 286/2008_.
  _Gildistaka._
  ■ *30. gr.* Lög þessi öðlast gildi 1. júlí 1997.
 

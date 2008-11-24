@@ -7,13 +7,14 @@ h2. Lög um heilbrigðisþjónustu
 <hr />
 
 
- *Tóku gildi 1. september 2007.* _Breytt með_ l. 160/2007 (tóku gildi 1. jan. 2008).
+ *Tóku gildi 1. september 2007.* _Breytt með_ l. 160/2007 (tóku gildi 1. jan. 2008), l. 12/2008 (tóku gildi 1. apríl 2008) og "l. 112/2008":2008112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; koma til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.).
 
 
  *I. kafli.* *Gildissvið, stefnumörkun og skilgreiningar.*
  ■ *1. gr.* _Gildissvið og markmið._
- □ Lög þessi taka til skipulags heilbrigðisþjónustu. Markmið þeirra er að allir landsmenn eigi kost á fullkomnustu heilbrigðisþjónustu sem á hverjum tíma eru tök á að veita til verndar andlegri, líkamlegri og félagslegri heilbrigði í samræmi við ákvæði laga þessara, lög um almannatryggingar, lög um réttindi sjúklinga og önnur lög eftir því sem við á.
-■ *2. gr.* _Yfirstjórn._
+ □ Lög þessi taka til skipulags heilbrigðisþjónustu. Markmið þeirra er að allir landsmenn eigi kost á fullkomnustu heilbrigðisþjónustu sem á hverjum tíma eru tök á að veita til verndar andlegri, líkamlegri og félagslegri heilbrigði í samræmi við ákvæði laga þessara, [lög um sjúkratryggingar],[^1)^] lög um réttindi sjúklinga og önnur lög eftir því sem við á.
+    _[^1)^]_"L. 112/2008, 59. gr.":2008112.html
+ ■ *2. gr.* _Yfirstjórn._
  □ Ráðherra [heilbrigðismála][^1)^] fer með yfirstjórn heilbrigðismála.
     _[^1)^]L. 160/2007, 16. gr._
  ■ *3. gr.* _Stefnumörkun._
@@ -27,32 +28,34 @@ h2. Lög um heilbrigðisþjónustu
     4. _Heilsugæsla:_ Almennar lækningar, hjúkrun, heilsuvernd og forvarnir, bráða- og slysamóttaka og önnur heilbrigðisþjónusta sem veitt er á vegum heilsugæslustöðva.
     5. _Almenn sjúkrahúsþjónusta:_ Almennar lyflækningar, hjúkrun, slysamóttaka, endurhæfing og nauðsynleg stoðdeildarþjónusta.
     6. _Sérhæfð sjúkrahúsþjónusta:_ Sjúkrahúsþjónusta sem fellur ekki undir almenna sjúkrahúsþjónustu skv. 5. tölul.
-    7. _Heilbrigðisstarfsmaður:_ Einstaklingur sem starfar við heilbrigðisþjónustu og hefur hlotið leyfi [heilbrigðisráðherra][^1)^] til að nota starfsheiti löggiltrar heilbrigðisstéttar.
+    7. _Heilbrigðisstarfsmaður:_ Einstaklingur sem starfar við heilbrigðisþjónustu og hefur hlotið leyfi [landlæknis][^1)^] til að nota starfsheiti löggiltrar heilbrigðisstéttar.
     8. _Heilbrigðisstofnun:_ Stofnun þar sem heilbrigðisþjónusta er veitt.
     9. _Hjúkrunarrými:_ Rými á hjúkrunarheimili eða sjúkrahúsi þar sem hjúkrað er þeim sem þarfnast umönnunar og meðferðar sem hægt er að veita utan sjúkrahúsa.
     10. _Háskólasjúkrahús:_ Sjúkrahús sem veitir þjónustu í nær öllum viðurkenndum sérgreinum læknisfræði og hjúkrunarfræði, með áherslu á rannsóknir, þróun og kennslu. Sjúkrahúsið er í nánu samstarfi við háskóla sem sinnir kennslu og rannsóknum í læknisfræði og flestum öðrum greinum heilbrigðisvísinda, svo og eftir atvikum framhaldsskóla. Starfsmenn sjúkrahússins, sem uppfylla tilteknar hæfiskröfur háskóla, gegna störfum bæði á sjúkrahúsinu og við háskólann eða hafa önnur starfstengsl við háskólann. Meðferð sjúklinga, kennsla og rannsóknir eru samþætt í daglegum störfum á sjúkrahúsinu.
     11. _Kennslusjúkrahús:_ Sjúkrahús sem veitir þjónustu í helstu sérgreinum læknisfræði og hjúkrunarfræði og hefur tengsl við háskóla sem sinnir kennslu og rannsóknum í læknisfræði og fleiri greinum heilbrigðisvísinda, svo og eftir atvikum framhaldsskóla. Starfsmenn sjúkrahússins, sem sinna kennslu og rannsóknum, starfa náið með þeim háskóladeildum er sjúkrahúsinu tengjast.
     12. _Starfsstofur heilbrigðisstarfsmanna:_ Starfsstöðvar sjálfstætt starfandi heilbrigðisstarfsmanna þar sem heilbrigðisþjónusta er veitt með eða án greiðsluþátttöku ríkisins.
-    _[^1)^]L. 160/2007, 17. gr._
+    _[^1)^]L. 12/2008, 12. gr._
 
  *II. kafli.* *Skipulag heilbrigðisþjónustu.*
  ■ *5. gr.* _Heilbrigðisumdæmi._
- □ Landinu skal skipt í heilbrigðisumdæmi og skal kveðið á um skiptinguna í reglugerð.[^1)^] Heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu í hverju umdæmi skulu hafa með sér samstarf um skipulag heilbrigðisþjónustu á svæðinu. Ráðherra getur, að höfðu samráði við hlutaðeigandi sveitarfélög og Samband íslenskra sveitarfélaga, ákveðið að sameina heilbrigðisstofnanir innan heilbrigðisumdæmis með reglugerð.
+ □ Landinu skal skipt í heilbrigðisumdæmi og skal kveðið á um skiptinguna í reglugerð.[^1)^] Heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu í hverju umdæmi skulu hafa með sér samstarf um skipulag heilbrigðisþjónustu á svæðinu. Ráðherra getur, að höfðu samráði við hlutaðeigandi sveitarfélög og Samband íslenskra sveitarfélaga, ákveðið að sameina heilbrigðisstofnanir innan heilbrigðisumdæmis með reglugerð.[^2)^]
  □ Þrátt fyrir skiptingu landsins í heilbrigðisumdæmi skulu sjúklingar jafnan eiga rétt á að leita til þeirrar heilsugæslustöðvar eða heilbrigðisstofnunar sem þeir eiga auðveldast með að ná til hverju sinni.
-    _[^1)^]Rg. 785/2007_.
+    _[^1)^]Rg. 785/2007_, sbr. 765/2008. [^2)^]Rg. 764/2008.
  ■ *6. gr.* _Almenn heilbrigðisþjónusta._
  □ Í hverju heilbrigðisumdæmi skal starfrækt heilbrigðisstofnun eða heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu í umdæminu.
  □ Ráðherra getur í reglugerð[^1)^] kveðið nánar á um starfsemi heilbrigðisstofnana í hverju umdæmi og þá heilbrigðisþjónustu sem þar er veitt.
-    _[^1)^]Rg. 785/2007_.
+    _[^1)^]Rg. 785/2007_, sbr. 765/2008.
  ■ *7. gr.* _Sérhæfð heilbrigðisþjónusta._
- □ Sérhæfð sjúkrahúsþjónusta skal veitt á Landspítala og Sjúkrahúsinu á Akureyri og öðrum sjúkrahúsum og heilbrigðisstofnunum samkvæmt ákvörðun ráðherra eða samningum sem gerðir eru í samræmi við ákvæði VII. kafla.
- □ Önnur sérhæfð heilbrigðisþjónusta skal veitt á sérhæfðum heilbrigðisstofnunum og öðrum heilbrigðisstofnunum samkvæmt ákvörðun ráðherra eða á grundvelli samninga skv. VII. kafla.
- □ Á starfsstofum heilbrigðisstarfsmanna er veitt sérhæfð heilbrigðisþjónusta eftir atvikum í samræmi við samninga sem gerðir hafa verið samkvæmt ákvæðum VII. kafla.
+ □ Sérhæfð sjúkrahúsþjónusta skal veitt á Landspítala og Sjúkrahúsinu á Akureyri og öðrum sjúkrahúsum og heilbrigðisstofnunum samkvæmt ákvörðun ráðherra eða samningum sem gerðir eru í samræmi við ákvæði VII. kafla [og lög um sjúkratryggingar].[^1)^]
+ □ Önnur sérhæfð heilbrigðisþjónusta skal veitt á sérhæfðum heilbrigðisstofnunum og öðrum heilbrigðisstofnunum samkvæmt ákvörðun ráðherra eða á grundvelli samninga skv. VII. kafla [og lögum um sjúkratryggingar].[^1)^]
+ □ Á starfsstofum heilbrigðisstarfsmanna er veitt sérhæfð heilbrigðisþjónusta eftir atvikum í samræmi við samninga sem gerðir hafa verið samkvæmt ákvæðum VII. kafla [og lögum um sjúkratryggingar].[^1)^]
+    _[^1)^]_"L. 112/2008, 59. gr.":2008112.html
 
  *III. kafli.* *Stjórn heilbrigðisstofnana.*
-■ *8. gr.* _Gildissvið._
- □ Ákvæði þessa kafla eiga við um heilbrigðisstofnanir sem ríkið rekur. Ákvæði 10. og 12. gr. eiga þó einnig við um heilbrigðisstofnanir sem reknar eru á grundvelli samnings skv. VII. kafla eftir því sem við getur átt.
-■ *9. gr.* _Forstjórar heilbrigðisstofnana._
+ ■ *8. gr.* _Gildissvið._
+ □ Ákvæði þessa kafla eiga við um heilbrigðisstofnanir sem ríkið rekur. Ákvæði 10. og 12. gr. eiga þó einnig við um heilbrigðisstofnanir sem reknar eru á grundvelli samnings skv. VII. kafla [og lögum um sjúkratryggingar][^1)^] eftir því sem við getur átt.
+    _[^1)^]_"L. 112/2008, 59. gr.":2008112.html
+ ■ *9. gr.* _Forstjórar heilbrigðisstofnana._
  □ Forstjórar heilbrigðisstofnana eru skipaðir af ráðherra til fimm ára í senn. Forstjóri skal hafa háskólamenntun og/eða reynslu af rekstri og stjórnun sem nýtist honum í starfi.
  □ Ráðherra skal skipa þriggja manna nefnd til fjögurra ára í senn til að meta hæfni umsækjenda um stöður forstjóra heilbrigðisstofnana. Fulltrúar í nefndinni skulu hafa þekkingu á rekstri, starfsmannamálum, stjórnsýslu og heilbrigðisþjónustu. Engan má skipa til starfa nema nefndin hafi talið hann hæfan.
  □ Ráðherra setur forstjóra heilbrigðisstofnunar erindisbréf þar sem tilgreind skulu helstu markmið í þjónustu og rekstri stofnunar og verkefni hennar til lengri og skemmri tíma.
@@ -84,19 +87,23 @@ h2. Lög um heilbrigðisþjónustu
  □ Heilsugæsla höfuðborgarsvæðisins sinnir heilsugæslu í heilbrigðisumdæmi höfuðborgarsvæðisins.
  □ Heilsugæsla höfuðborgarsvæðisins skal taka að sér kennslu heilbrigðisstétta á grundvelli samninga við háskóla og aðrar menntastofnanir, háskólasjúkrahús eða kennslusjúkrahús og stunda vísindarannsóknir á sviði heilsugæslu.
 ■ *16. gr.* _Hjúkrunarheimili og hjúkrunarrými._
- □ Í hjúkrunarrýmum umdæmissjúkrahúsa skv. 1. mgr. 14. gr. og á hjúkrunarheimilum, eða hjúkrunarrýmum dvalarheimila, skal veitt hjúkrunarþjónusta fyrir þá sem metnir hafa verið í þörf fyrir vistun í hjúkrunarrými, sbr. ákvæði laga um málefni aldraðra.
-■ *17. gr.* _Heilsugæslustöðvar._
+ □ [Í hjúkrunarrýmum umdæmissjúkrahúsa og hjúkrunar- og dvalarheimila skal veitt hjúkrunarþjónusta fyrir sjúkratryggða einstaklinga sem metnir hafa verið í þörf fyrir þjónustu í hjúkrunarrými. Engan má vista til langdvalar í hjúkrunarrými nema að undangengnu mati á þörf fyrir hjúkrunarrými.
+ □ Ráðherra skipar þriggja manna nefndir til að meta þörf sjúkratryggðra einstaklinga fyrir hjúkrunarrými. Nefndirnar skulu skipaðar lækni með sérmenntun á sviði öldrunar- eða heimilislækninga, hjúkrunarfræðingi með þekkingu á öldrunarþjónustu og félagsráðgjafa með þekkingu á félagslegri þjónustu við aldraða sem tilnefndur er af félags- og tryggingamálaráðherra. Skipa skal þrjá varamenn sem uppfylla sömu menntunarskilyrði og aðalmenn.
+ □ Ráðherra kveður nánar á um vistunarmat, fjölda nefnda og starfssvæði þeirra í reglugerð.][^1)^]
+    _[^1)^]_"L. 112/2008, 59. gr.":2008112.html
+ ■ *17. gr.* _Heilsugæslustöðvar._
  □ Heilsugæslustöðvar sinna heilsugæslu.
  □ Forstjórar og framkvæmdastjórnir heilbrigðisstofnana skulu hafa samráð við yfirlækni og yfirhjúkrunarfræðing heilsugæslustöðvar þegar sérmál hennar er til ákvörðunar.
  □ Ráðherra skal í reglugerð[^1)^] kveða nánar á um starfsemi heilsugæslustöðva og þá þjónustu sem þeim ber að veita.
     _[^1)^]Rg. 787/2007_.
  ■ *18. gr.* _Umdæmissjúkrahús._
- □ Á umdæmissjúkrahúsum skal veitt almenn sjúkrahúsþjónusta, m.a. á göngu- og dagdeildum eftir því sem við á. Í tengslum við þau skulu einnig að jafnaði vera hjúkrunarrými. Á umdæmissjúkrahúsum skal að jafnaði vera fæðingarhjálp, séu faglegar kröfur uppfylltar, og önnur heilbrigðisþjónusta sem sjúkrahúsinu er falið að veita eða samið hefur verið um samkvæmt ákvæðum VII. kafla, enda uppfylli sjúkrahúsið faglegar kröfur til að veita þá þjónustu.
+ □ Á umdæmissjúkrahúsum skal veitt almenn sjúkrahúsþjónusta, m.a. á göngu- og dagdeildum eftir því sem við á. Í tengslum við þau skulu einnig að jafnaði vera hjúkrunarrými. Á umdæmissjúkrahúsum skal að jafnaði vera fæðingarhjálp, séu faglegar kröfur uppfylltar, og önnur heilbrigðisþjónusta sem sjúkrahúsinu er falið að veita eða samið hefur verið um samkvæmt ákvæðum VII. kafla [og lögum um sjúkratryggingar],[^1)^] enda uppfylli sjúkrahúsið faglegar kröfur til að veita þá þjónustu.
  □ Á heilbrigðisstofnunum sem veita bæði almenna sjúkrahúsþjónustu og sinna heilsugæslu skal starfsemi samtvinnuð og starfsmenn ráðnir til að sinna báðum þáttum eftir því sem við á.
  □ Ráðherra getur í reglugerð kveðið nánar á um starfsemi og þjónustu umdæmissjúkrahúsa.
+    _[^1)^]_"L. 112/2008, 59. gr.":2008112.html
 
  *V. kafli.* *Sérhæfð heilbrigðisþjónusta.*
-■ *19. gr.* _Veitendur sérhæfðrar heilbrigðisþjónustu._
+ ■ *19. gr.* _Veitendur sérhæfðrar heilbrigðisþjónustu._
  □ Sérhæfð heilbrigðisþjónusta er veitt á Landspítala, Sjúkrahúsinu á Akureyri, sérhæfðum heilbrigðisstofnunum, öðrum heilbrigðisstofnunum og starfsstofum heilbrigðisstarfsmanna, sbr. 7. gr.
 ■ *20. gr.* _Landspítali._
  □ Landspítali er aðalsjúkrahús landsins og háskólasjúkrahús. Hann veitir sérhæfða sjúkrahúsþjónustu, m.a. á göngu- og dagdeildum, fyrir alla landsmenn og almenna sjúkrahúsþjónustu fyrir íbúa heilbrigðisumdæmis höfuðborgarsvæðisins. Hlutverk hans er að:
@@ -121,12 +128,13 @@ h2. Lög um heilbrigðisþjónustu
  □ Sjúkrahúsinu á Akureyri er heimilt með samþykki ráðherra að eiga aðild að rannsóknar- og þróunarfyrirtækjum sem eru hlutafélög, sjálfseignarstofnanir eða félög með takmarkaða ábyrgð og stunda framleiðslu og sölu í því skyni að hagnýta og þróa niðurstöður rannsókna sem sjúkrahúsið vinnur að hverju sinni. Forstjóri sjúkrahússins fer með eignarhlut þess í slíkum fyrirtækjum.
  □ Ráðherra getur í reglugerð kveðið nánar á um starfsemi Sjúkrahússins á Akureyri, m.a. hvaða sérhæfða þjónusta skuli veitt á sjúkrahúsinu.
 ■ *22. gr.* _Sérhæfðar heilbrigðisstofnanir._
- □ Til sérhæfðra heilbrigðisstofnana teljast heilbrigðisstofnanir sem veita sérhæfða heilbrigðisþjónustu og reknar eru samkvæmt ákvæðum sérlaga, ákvörðun ráðherra eða samningi skv. VII. kafla.
- □ Ráðherra getur í reglugerð kveðið nánar á um starfsemi sérhæfðra heilbrigðisstofnana sem reknar eru af ríkinu eða á grundvelli samnings skv. VII. kafla.
- □ Ráðherra getur veitt sjúkrahúsum og öðrum sérhæfðum heilbrigðisstofnunum, sem reknar eru af ríkinu, heimild til að skipuleggja heilbrigðisþjónustu á einkaréttarlegum grundvelli fyrir ósjúkratryggða einstaklinga sem koma til landsins gagngert í því skyni að gangast undir tiltekna aðgerð eða meðferð, enda skerði það ekki lögbundna þjónustu stofnunarinnar. Um gjaldtöku af ósjúkratryggðum einstaklingum fyrir heilbrigðisþjónustu samkvæmt ákvæði þessu fer skv. 3. mgr. 34. gr.
+ □ Til sérhæfðra heilbrigðisstofnana teljast heilbrigðisstofnanir sem veita sérhæfða heilbrigðisþjónustu og reknar eru samkvæmt ákvæðum sérlaga, ákvörðun ráðherra eða samningi skv. VII. kafla [og lögum um sjúkratryggingar].[^1)^]
+ □ Ráðherra getur í reglugerð kveðið nánar á um starfsemi sérhæfðra heilbrigðisstofnana sem reknar eru af ríkinu eða á grundvelli samnings skv. VII. kafla [og lögum um sjúkratryggingar].[^1)^]
+ □ Ráðherra getur veitt sjúkrahúsum og öðrum sérhæfðum heilbrigðisstofnunum, sem reknar eru af ríkinu, heimild til að skipuleggja heilbrigðisþjónustu á einkaréttarlegum grundvelli fyrir ósjúkratryggða einstaklinga sem koma til landsins gagngert í því skyni að gangast undir tiltekna aðgerð eða meðferð, enda skerði það ekki lögbundna þjónustu stofnunarinnar. Um gjaldtöku af ósjúkratryggðum einstaklingum fyrir heilbrigðisþjónustu samkvæmt ákvæði þessu fer skv. [ákvæðum laga um sjúkratryggingar].[^1)^]
+    _[^1)^]_"L. 112/2008, 59. gr.":2008112.html
 
  *VI. kafli.* *Gæði heilbrigðisþjónustu.*
-■ *23. gr.* _Gildissvið._
+ ■ *23. gr.* _Gildissvið._
  □ Ákvæði þessa kafla um faglegar kröfur til heilbrigðisþjónustu og eftirlit með henni gilda um heilbrigðisþjónustu sem veitt er hér á landi án tillits til þess hvort hún er veitt af ríkinu eða öðrum aðilum með eða án greiðsluþátttöku ríkisins. Um eftirlit landlæknis með heilbrigðisþjónustu gilda jafnframt ákvæði laga um landlækni.
 ■ *24. gr.* _Faglegar kröfur til reksturs heilbrigðisþjónustu._
  □ Ráðherra skal, að fengnum tillögum landlæknis og að höfðu samráði við viðkomandi heilbrigðisstéttir, kveða í reglugerð[^1)^] á um faglegar lágmarkskröfur til reksturs heilbrigðisþjónustu á einstökum sviðum. Reglugerðin skal byggð á þekkingu og aðstæðum á hverjum tíma og skal hún endurskoðuð reglulega. Í reglugerðinni skal m.a. kveða á um lágmarkskröfur um mönnun, húsnæði, aðstöðu, tæki og búnað til reksturs heilbrigðisþjónustu.
@@ -140,23 +148,21 @@ h2. Lög um heilbrigðisþjónustu
  □ Landlæknir heldur skrá yfir rekstraraðila í heilbrigðisþjónustu og skal hann tilkynna ráðherra um allar breytingar sem verða á skránni.
  □ Ráðherra er heimilt að kveða nánar á um skilyrði fyrir rekstri heilbrigðisþjónustu á einstökum sviðum, framkvæmd eftirlits o.fl. í reglugerð.[^1)^]
  □ Fyrir úttekt landlæknis skv. 1. mgr. og staðfestingu hans á því að faglegar kröfur séu uppfylltar, sbr. 2. mgr., er heimilt að taka gjald samkvæmt nánari ákvæðum í reglugerð sem ráðherra setur.
- □ Greiðsluþátttaka ríkisins í kostnaði við heilbrigðisþjónustu sem veitt er utan heilbrigðisstofnana sem ríkið rekur er háð því að um hana hafi tekist samningur milli rekstraraðila og ríkisins samkvæmt ákvæðum VII. kafla, nema fyrir liggi einhliða ákvörðun ráðherra um greiðsluþátttöku á grundvelli sérstakrar heimildar í öðrum lögum.
-    _[^1)^]Rg. 786/2007_.
+ □ Greiðsluþátttaka ríkisins í kostnaði við heilbrigðisþjónustu sem veitt er utan heilbrigðisstofnana sem ríkið rekur er háð því að um hana hafi tekist samningur milli rekstraraðila og ríkisins samkvæmt ákvæðum VII. kafla [og lögum um sjúkratryggingar],[^2)^] nema fyrir liggi einhliða ákvörðun ráðherra um greiðsluþátttöku á grundvelli sérstakrar heimildar í öðrum lögum.
+    _[^1)^]Rg. 786/2007_. [^2)^]"L. 112/2008, 59. gr.":2008112.html
  ■ *27. gr.* _Skráning óvæntra atvika._
  □ Heilbrigðisstofnanir, sjálfstætt starfandi heilbrigðisstarfsmenn og aðrir sem veita heilbrigðisþjónustu skulu halda skrá um óvænt atvik í þeim tilgangi að finna skýringar á þeim og leita leiða til að tryggja að þau endurtaki sig ekki. Með óvæntu atviki er átt við óhappatilvik, mistök, vanrækslu eða önnur atvik sem valdið hafa sjúklingi tjóni eða hefðu getað valdið sjúklingi tjóni. Um nánari framkvæmd slíkrar skráningar fer samkvæmt lögum um landlækni.
 
  *VII. kafli.* *Samningar um heilbrigðisþjónustu.*
 ■ *28. gr.* _Samningsumboð ráðherra._
- □ Ráðherra fer með umboð ríkisins til samningsgerðar um veitingu heilbrigðisþjónustu og greiðsluþátttöku ríkisins vegna hennar. Ráðherra skipar nefnd sem annast samningsgerð um heilbrigðisþjónustu fyrir hans hönd samkvæmt nánari ákvörðun hans.
-■ *29. gr.* _Samningar um heilbrigðisþjónustu og greiðsluþátttöku vegna hennar._
- □ Samningar um heilbrigðisþjónustu skulu gerðir í samræmi við stefnumörkun skv. 3. gr., m.a. um skipulag heilbrigðisþjónustu, forgangsröðun verkefna innan hennar, hagkvæmni og gæði þjónustunnar og aðgengi að henni. Samningarnir skulu m.a. kveða á um magn og tegund þjónustu, hvar hún skuli veitt og af hverjum. Um mat á hagkvæmni þjónustu stofnana, fyrirtækja og sjálfstætt starfandi heilbrigðisstarfsmanna skal taka tillit til alls þess kostnaðar sem til fellur vegna þeirrar starfsemi sem samið er um. Við samningsgerð skal leitast við að tryggja aðgengi allra landsmanna að þeirri heilbrigðisþjónustu sem samið er um óháð búsetu.
- □ Reynist framboð af tiltekinni heilbrigðisþjónustu meira en þörf er á eða unnt er að semja um með hliðsjón af fjárheimildum er ráðherra heimilt á grundvelli hlutlægra og málefnalegra sjónarmiða, m.a. um hagkvæmni og gæði þjónustunnar, að takmarka samningsgerð við hluta þeirra aðila sem veitt geta þjónustuna.
- □ Aðili sem hyggst hefja sjálfstæðan rekstur heilbrigðisþjónustu þar sem gert er ráð fyrir að ríkið greiði kostnað sjúklings að hluta eða öllu leyti skal hafa gert samning við ráðherra eða samninganefnd hans áður en hann hefur rekstur, nema fyrir liggi einhliða ákvörðun ráðherra um greiðsluþátttöku á grundvelli sérstakrar heimildar í öðrum lögum.
- □ Ráðherra er heimilt að ákveða nánar í reglugerð forsendur fyrir samningsgerð um greiðsluþátttöku ríkisins í kostnaði við heilbrigðisþjónustu, sem veitt er utan heilbrigðisstofnana sem ríkið rekur, í samræmi við stefnumörkun skv. 3. gr. og að hún skuli takmarkast við gagnreynda meðferð á sviði heilbrigðisþjónustu.
-■ *30. gr.* _Samningar um framkvæmdir eða rekstur._
- □ Ráðherra getur samið við sveitarfélög, eða aðra aðila en þá sem falinn er rekstur heilbrigðisþjónustu samkvæmt lögum þessum, um framkvæmdir og rekstur ákveðinna þátta þeirrar heilbrigðisþjónustu sem veita ber samkvæmt lögum þessum. Ráðherra gerir jafnframt verksamninga og samninga um rekstrarverkefni samkvæmt ákvæðum laga um fjárreiður ríkisins.
- □ Ráðherra er heimilt að bjóða út rekstur heilbrigðisþjónustu og kaup á heilbrigðisþjónustu samkvæmt lögum þessum.
-■ *31. gr.* _Samningar stofnana._
+ □ Ráðherra fer með umboð ríkisins til samningsgerðar um veitingu heilbrigðisþjónustu og greiðsluþátttöku ríkisins vegna hennar. [Sjúkratryggingastofnunin annast samningsgerð um heilbrigðisþjónustu samkvæmt lögum um sjúkratryggingar.][^1)^]
+    _[^1)^]_"L. 112/2008, 59. gr.":2008112.html
+ ■ *29. gr.* _[Samningar um heilbrigðisþjónustu, framkvæmdir og rekstur._
+ □ Um samninga um heilbrigðisþjónustu og greiðsluþátttöku vegna hennar, svo og samninga um framkvæmdir og rekstur, fer samkvæmt lögum um sjúkratryggingar.][^1)^]
+    _[^1)^]_"L. 112/2008, 59. gr.":2008112.html
+ ■ *30. gr.* ...[^1)^]
+    _[^1)^]_"L. 112/2008, 59. gr.":2008112.html
+ ■ *31. gr.* _Samningar stofnana._
  □ Heilbrigðisstofnunum sem ríkið rekur er heimilt að gera samninga um afmörkuð rekstrarverkefni samkvæmt ákvæðum laga um fjárreiður ríkisins.
  □ Heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu og reknar eru af ríkinu geta, með leyfi ráðherra, falið öðrum heilbrigðisstofnunum eða heilbrigðisstarfsmönnum með samningum að sinna ákveðnum þáttum þeirrar heilbrigðisþjónustu sem þeim ber að veita samkvæmt lögum þessum.
  □ Landspítala, Sjúkrahúsinu á Akureyri og öðrum sérhæfðum heilbrigðisstofnunum sem ríkið rekur er heimilt, með leyfi ráðherra, að semja við aðrar heilbrigðisstofnanir eða heilbrigðisstarfsmenn um að ákveðnir þættir þeirrar sérhæfðu heilbrigðisþjónustu sem þeim er ætlað að veita séu veittir á viðkomandi heilbrigðisstofnun eða starfsstofu heilbrigðisstarfsmanna.
@@ -170,19 +176,8 @@ h2. Lög um heilbrigðisþjónustu
 ■ *33. gr.* _Sjúkraflutningar._
  □ Ráðherra setur reglugerð um framkvæmd og skipulagningu sjúkraflutninga.
 ■ *34. gr.* _Gjaldtaka fyrir heilbrigðisþjónustu._
- □ Fyrir eftirtalda heilbrigðisþjónustu sem sjúkratryggðir einstaklingar samkvæmt lögum um almannatryggingar eiga rétt á á grundvelli laga eða samninga skv. VII. kafla er heimilt að taka gjald samkvæmt reglugerð[^1)^] sem ráðherra setur:
-    1. Heilsugæslu sem sinnt er á heilsugæslustöðvum. Ekki er þó heimilt að taka gjald fyrir mæðra- og ungbarnavernd á heilsugæslustöðvum og heilsugæslu í skólum.
-    2. Almenna og sérhæfða heilbrigðisþjónustu á göngudeild, dagdeild, slysadeild og bráðamóttöku sjúkrahúsa sem veitt er án þess að um innlögn á sjúkrahús sé að ræða.
-    3. Vitjun heilsugæslulæknis. Gjald fyrir vitjun skal vera hærra fyrir vitjanir utan dagvinnutíma.
-    4. Krabbameinsleit.
-    5. Læknisvottorð.
-    6. Þjónustu sjálfstætt starfandi heilbrigðisstarfsmanna sem samið hefur verið við samkvæmt ákvæðum VII. kafla. Gjald fyrir þjónustu sjálfstætt starfandi heilbrigðisstarfsmanna getur verið hlutfallsgjald og má tiltaka hámark þess í reglugerð.
-    7. Rannsóknir.
-    8. Sjúkraflutninga.
- □ Þeir sem ekki eru sjúkratryggðir hér á landi samkvæmt lögum um almannatryggingar skulu greiða gjald sem nemur kostnaði við veitta heilbrigðisþjónustu í samræmi við gjaldskrá sem ráðherra setur, nema í gildi sé samningur um þjónustuna við það ríki sem þeir koma frá.
- □ Þeim heilbrigðisstofnunum sem fengið hafa heimild ráðherra til að veita ósjúkratryggðum einstaklingum heilbrigðisþjónustu á einkaréttarlegum grundvelli skv. 3. mgr. 22. gr. er heimilt að taka hærra gjald fyrir þjónustuna en nemur kostnaði af veitingu hennar. Þetta á við nema annað leiði af samningum sem í gildi eru um þjónustuna við það ríki sem hinn ósjúkratryggði einstaklingur kemur frá.
- □ Um gjaldtöku fyrir heilbrigðisþjónustu fer að öðru leyti eftir ákvæðum sérlaga og laga um almannatryggingar eftir því sem við á.
-    _[^1)^]Rg. 1265/2007_.
+ □ [Um gjaldtöku fyrir heilbrigðisþjónustu fer samkvæmt ákvæðum laga um sjúkratryggingar og ákvæðum sérlaga eftir því sem við á.][^1)^]
+    _[^1)^]_"L. 112/2008, 59. gr.":2008112.html
  ■ *35. gr.* _Stöðunefnd lækna._
  □ Ráðherra skipar þrjá lækna í nefnd, samkvæmt tilnefningu Læknafélags Íslands, Háskóla Íslands og landlæknis, er metur faglega hæfni umsækjenda um stöður framkvæmdastjóra lækninga og annarra stjórnenda lækninga á heilbrigðisstofnunum sem ríkið rekur. Nefndarmaður sem skipaður er samkvæmt tilnefningu landlæknis skal vera formaður nefndarinnar. Varamenn skulu skipaðir með sama hætti. Nefndin skal skipuð til þriggja ára.
  □ Nefndin skal skila rökstuddu áliti til þess sem ræður í stöðuna innan sex vikna frá því að umsóknarfresti lýkur.
@@ -195,13 +190,13 @@ h2. Lög um heilbrigðisþjónustu
  □ Ráðherra setur stöðunefndinni starfsreglur að fengnum tillögum hennar.
 ■ *37. gr.* _Reglugerð._
  □ Ráðherra getur með reglugerð[^1)^] kveðið nánar á um framkvæmd laga þessara.
-    _[^1)^]Rg. 441/2006_, sbr. 1024/2007; rg. 990/2007.
+    _[^1)^]Rg. 441/2006_, sbr. 1024/2007; rg. 1118/2006, sbr. 147/2007 og 703/2008; rg. 990/2007, rg. 544/2008.
  ■ *38. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. september 2007. ...
 ■ *39. gr.* ...
- ■ *[Ákvæði til bráðabirgða.* Starfrækja skal stofnun undir yfirstjórn heilbrigðisráðherra sem hefur m.a. það hlutverk að annast kaup, greiðslur og samninga um heilbrigðisþjónustu og framkvæmd þeirra málaflokka almannatrygginga sem heyra undir heilbrigðisráðherra.
- □ Ráðherra skipar forstjóra stofnunarinnar til fimm ára í senn. Forstjóri skal hafa lokið námi á háskólastigi. Forstjóri ræður aðra starfsmenn stofnunarinnar og annast daglegan rekstur hennar.
- □ Ráðherra skipar fimm menn í stjórn stofnunarinnar og skal einn skipaður formaður stjórnar og annar varaformaður. Ráðherra setur stjórninni erindisbréf.][^1)^]
-    _[^1)^]L. 160/2007, 18. gr._
+ ■ *[Ákvæði til bráðabirgða.* Meðan tímabundnir samningar, sbr. 28. gr., við sveitarfélög um rekstur heilbrigðisþjónustu gilda teljast hlutaðeigandi starfsmenn heilbrigðisstofnana sem reknar eru af ríkinu og eru í starfi þegar samningarnir taka gildi vera í þjónustu viðkomandi sveitarfélags. Í slíkum samningum er heilbrigðisráðherra heimilt að framselja viðkomandi sveitarfélagi allar þær valdheimildir sem forstjórar heilbrigðisstofnana fara með samkvæmt lögum um réttindi og skyldur starfsmanna ríkisins, svo fremi að starfsmönnum sé tilkynnt hver fari með það vald. Engin formbreyting verður á ráðningarstöðu starfsmanna, þeir eru áfram ríkisstarfsmenn og um laun þeirra og önnur starfskjör fer eftir sömu kjarasamningum og fyrr.
+ □ Nýir starfsmenn, sem ráðnir verða til verkefna er samningur aðila tekur til, skulu ráðnir sem starfsmenn viðkomandi sveitarfélags.
+ □ Heilbrigðisráðherra og fjármálaráðherra annars vegar og sveitarfélag hins vegar skulu semja um ábyrgðir sínar og greiðslur varðandi réttindi og kjör starfsmanna.][^1)^]
+    _[^1)^]_"L. 112/2008, 59. gr.":2008112.html
 
 

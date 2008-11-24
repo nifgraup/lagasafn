@@ -99,7 +99,7 @@ h2. Lög um húsnæðismál
  ■ *16. gr.* _Aðrir lánaflokkar._
  □ Stjórn Íbúðalánasjóðs er heimilt, að fengnu samþykki félagsmálaráðherra, að stofna til nýrra lánaflokka. Gert skal ráð fyrir öllum lánaflokkum í fjárhagsáætlun sjóðsins fyrir það ár sem veiting láns fer fram.
  □ Um nánari skilyrði lánveitinga samkvæmt þessari grein fer eftir því sem ákveðið er í lögum þessum og reglugerð[^1)^] sem félagsmálaráðherra setur að fenginni umsögn stjórnar Íbúðalánasjóðs.
-    _[^1)^]Rg. 458/1999_, sbr. 1000/2001, 333/2003, 151/2004, 1100/2004, 558/2006 og 475/2007; rg. 584/2001.
+    _[^1)^]Rg. 458/1999_, sbr. 1000/2001, 333/2003, 151/2004, 1100/2004, 558/2006, 475/2007, 503/2008, 576/2008 og 715/2008; rg. 584/2001.
  ■ *17. gr.* _[Aðskilnaður lánaflokka._
  □ Íbúðalánasjóður skal halda mismunandi lánaflokkum sjóðsins aðgreindum í bókhaldi og gefa út flokka markaðshæfra íbúðabréfa í nafni sjóðsins með þeim kjörum og skilmálum sem ákveðin eru með lögum þessum eða reglugerð.][^1)^]
     _[^1)^]L. 57/2004, 7. gr._
@@ -113,7 +113,7 @@ h2. Lög um húsnæðismál
  ■ *19. gr.* _[ÍLS-veðbréf.][^1)^]_
  □ [Lán Íbúðalánasjóðs eru greidd út í peningum. Áður en kemur til útgreiðslu láns skal lántaki gefa út ÍLS-veðbréf og þinglýsa því. ÍLS-veðbréf skal vera verðtryggt með vísitölu neysluverðs, sbr. lög um vísitölu neysluverðs, og bera vexti skv. 21. gr.][^1)^]
  □ [Lánveiting samkvæmt ÍLS-veðbréfi getur numið allt að 90% af matsverði íbúðar. Taka ber tillit til framar áhvílandi lána þannig að ÍLS-veðbréfið sé innan þessara marka. Ráðherra getur með reglugerð[^2)^] ákveðið hámarksfjárhæð ÍLS-veðbréfa sem miðast við að veðbréfið hvíli á fyrsta veðrétti. Ella skulu uppfærð, framar áhvílandi lán koma til frádráttar hámarksfjárhæð.][^3)^]
-    _[^1)^]L. 57/2004, 9. gr._ [^2)^]Rg. 522/2004, sbr. 824/2004, 958/2004 og 300/2006; rg. 540/2006, sbr. 156/2007 og 587/2007. [^3)^]L. 120/2004, 3. gr.
+    _[^1)^]L. 57/2004, 9. gr._ [^2)^]Rg. 522/2004, sbr. 824/2004, 958/2004, 300/2006 og 574/2008; rg. 540/2006, sbr. 156/2007, 587/2007 og 575/2008. [^3)^]L. 120/2004, 3. gr.
  ■ *20. gr.* _Matsverð._
  □ Stjórn Íbúðalánasjóðs setur reglur, sem félagsmálaráðherra staðfestir, um eðlilegt matsverð fasteigna sem skulu byggjast á viðmiðun við markaðsverð, brunabótamat, byggingarkostnað og samþykktan kostnað við meiri háttar endurnýjun eða endurbætur á íbúðarhúsnæði.
 ■ *21. gr.* _Lánstími og lánskjör._
@@ -149,7 +149,7 @@ h2. Lög um húsnæðismál
     _[^1)^]L. 57/2004, 17. gr._
  ■ *29. gr.* _Reglugerð._
  □ [Félagsmálaráðherra getur sett frekari fyrirmæli í reglugerð[^1)^] um lánveitingar Íbúðalánasjóðs, tilhögun viðskipta og útgáfu íbúðabréfa.][^2)^]
-    _[^1)^]Rg. 6/1996_, sbr. 169/1997 og 744/2001; rg. 688/2001, rg. 522/2004, sbr. 824/2004, 958/2004, 1017/2005, 300/2006 og 539/2006; rg. 540/2006, sbr. 156/2007 og 587/2007. [^2)^]L. 57/2004, 18. gr.
+    _[^1)^]Rg. 6/1996_, sbr. 169/1997 og 744/2001; rg. 458/1999, sbr. 1000/2001, 333/2003, 151/2004, 1100/2004, 558/2006, 475/2007, 503/2008, 576/2008 og 715/2008; rg. 688/2001, rg. 522/2004, sbr. 824/2004, 958/2004, 1017/2005, 300/2006, 539/2006 og 574/2008; rg. 540/2006, sbr. 156/2007, 587/2007 og 575/2008. [^2)^]L. 57/2004, 18. gr.
 
  *VII. kafli.* *...[^1)^]*
     _[^1)^]L. 120/2004, 6. gr._
@@ -253,13 +253,13 @@ h2. Lög um húsnæðismál
  □ Stjórn varasjóðs viðbótarlána skal samþykkja aðstoð Íbúðalánasjóðs skv. 1. - 4. mgr. vegna lána sjóðsins sem eru með veði í íbúð sem viðbótarlán hvílir á.
  □ Stjórn Íbúðalánasjóðs er heimilt að fresta greiðslum hjá lántakendum lána til byggingar eða kaupa á leiguhúsnæði og lánþegum eldri lána sem Íbúðalánasjóður hefur yfirtekið, sbr. 53. gr., vegna tímabundinna greiðsluerfiðleika. Skilyrði er að greiðsluvandi sé tilkominn vegna ófyrirséðra atvika eða endurskipulagningar á fjárhag félaga eða félagasamtaka, enda þyki slík aðstoð líkleg til að koma í veg fyrir greiðsluvanda.
  □ Ráðherra setur nánari reglur[^1)^] um framkvæmd þessa ákvæðis að fengnum tillögum stjórnar Íbúðalánasjóðs.][^2)^]
-    _[^1)^]Rg. 584/2001_. [^2)^]L. 77/2001, 4. gr.
+    _[^1)^]Rg. 584/2001, rgl. 585/2008_. [^2)^]L. 77/2001, 4. gr.
  ■ *49. gr.* _Gjaldtaka._
  □ Félagsmálaráðherra ákvarðar með reglugerð,[^1)^] að fengnum tillögum stjórnar Íbúðalánasjóðs, lántökugjöld, gjöld vegna innheimtu af lánum stofnunarinnar sem eru í vanskilum og gjöld vegna skuldbreytinga, veðleyfa og veðbandslausna, svo og gjöld vegna annarrar sambærilegrar þjónustu. Heimilt er að jafna kostnaði niður á skuldara þannig að búseta hafi ekki áhrif á kostnaðinn.
-    _[^1)^]Rg. 1016/2005_.
+    _[^1)^]Rg. 1016/2005_, sbr. 504/2008.
  ■ *50. gr.* _Reglugerð._
  □ Félagsmálaráðherra setur með reglugerð[^1)^] nánari ákvæði um framkvæmd laga þessara.
-    _[^1)^]Rg. 783/1998_, sbr. 395/2001; rg. 459/1999, rg. 584/2001, rg. 873/2001, rg. 656/2002, sbr. 1180/2005 og 476/2007; rg. 119/2003, rg. 1016/2005.
+    _[^1)^]Rg. 783/1998_, sbr. 395/2001; rg. 459/1999, rg. 584/2001, rg. 873/2001, rg. 656/2002, sbr. 1180/2005 og 476/2007; rg. 119/2003, rg. 1016/2005, sbr. 504/2008.
  ■ *51. gr.* _Viðurlög._
  □ Brot gegn lögum þessum og reglugerðum settum samkvæmt þeim geta varðað sektum.
 

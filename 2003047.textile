@@ -7,7 +7,7 @@ h2. Lög um eftirlit með skipum
 <hr />
 
 
- *Tóku gildi 1. janúar 2004.* _EES-samningurinn:_ VIII. viðauki tilskipun 97/70/EB, 98/18/EB og 1999/35/EB.
+ *Tóku gildi 1. janúar 2004.* _EES-samningurinn:_ VIII. viðauki tilskipun 97/70/EB, 98/18/EB og 1999/35/EB. _Breytt með_ "l. 88/2008":2008088.html (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
 
 
  *I. kafli.* *Gildissvið og orðskýringar.*
@@ -19,7 +19,7 @@ h2. Lög um eftirlit með skipum
  □ Farþegaflutningar í atvinnuskyni, þ.m.t. skoðunar- og veiðiferðir ferðamanna, með skipum sem lög þessi gilda um eru háðir leyfi Siglingastofnunar Íslands. Skal slíkt leyfi gefið út þegar leitt er í ljós að fullnægt er ákvæðum laga þessara og reglugerða settra samkvæmt þeim, svo og ákvæðum annarra laga og reglugerða sem gilda um skip í farþegaflutningum. Ráðherra er heimilt að setja reglugerð um útgáfu og skilyrði leyfis samkvæmt þessari málsgrein, svo og um gjald fyrir útgáfu leyfisins.
  □ Markmið þessara laga er að tryggja öryggi íslenskra skipa, áhafna þeirra og farþega og efla varnir gegn mengun frá skipum. Þessu markmiði skal náð með því að gera tilteknar kröfur um gerð og búnað skipa, skoðun skipa og eftirlit með þeim.
  □ Tilgangur laga þessara og reglugerða settra samkvæmt þeim er að laga íslenskan rétt að þjóðréttarlegum skuldbindingum íslenska ríkisins samkvæmt ákvæðum alþjóðasamninga og samnings um Evrópska efnahagssvæðið.
-    _[^1)^]Rg. 1120/2007_. [^2)^]Rg. 659/2000, sbr. 597/2004; rg. 666/2001, sbr. 983/2004; rg. 743/2001, sbr. 595/2004; rg. 122/2004, rg. 204/2004, rg. 589/2004, rg. 594/2004, rg. 775/2004, rg. 672/2006, rg. 698/2006, rg. 200/2007, rg. 474/2007.
+    _[^1)^]Rg. 1120/2007_. [^2)^]Rg. 659/2000, sbr. 597/2004; rg. 666/2001, sbr. 983/2004; rg. 743/2001, sbr. 595/2004; rg. 122/2004, rg. 204/2004, rg. 589/2004, rg. 594/2004, rg. 775/2004, rg. 672/2006, rg. 698/2006, rg. 200/2007, rg. 474/2007, sbr. 104/2008; rg. 265/2008.
  ■ *2. gr.* _Orðskýringar._
  □ Í lögum þessum hafa eftirfarandi orð og orðasambönd þá merkingu sem hér greinir:
     1. Skip er sérhvert fljótandi far nema annars sé getið.
@@ -121,10 +121,11 @@ h2. Lög um eftirlit með skipum
 
  *V. kafli.* *Málsmeðferð fyrir dómi.*
 ■ *26. gr.* _Refsingar o.fl._
- □ Um refsimál sem höfðað er út af brotum á lögum þessum fer að hætti opinberra mála. Sé þörf sérkunnáttu við úrlausn máls skulu tveir sérfróðir meðdómendur skipa dóm, auk eins héraðsdómara.
- □ Áður en ákærandi höfðar opinbert mál út af brotum á lögunum getur hann leitað umsagnar siglingamálastjóra liggi hún ekki þegar fyrir. Ber siglingamálastjóra að láta í té rökstudda umsögn svo fljótt sem verða má.
+ □ Um refsimál sem höfðað er út af brotum á lögum þessum fer að hætti opinberra mála. Sé þörf sérkunnáttu við úrlausn máls skulu tveir sérfróðir meðdómendur skipa dóm, auk eins héraðsdómara.[^1)^]
+ □ Áður en ákærandi höfðar opinbert mál út af brotum á lögunum getur hann leitað umsagnar siglingamálastjóra liggi hún ekki þegar fyrir. Ber siglingamálastjóra að láta í té rökstudda umsögn svo fljótt sem verða má.[^1)^]
  □ Ákærandi skal útvega samgönguráðuneyti og Siglingastofnun Íslands eftirrit dóma í málum út af brotum á lögum þessum.
-■ *27. gr.* _Málsmeðferð._
+    _[^1)^]Málsgreininni var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html
+ ■ *27. gr.* _Málsmeðferð._
  □ Málum sem höfðuð eru til ógildingar á úrskurðum farbannsnefndar skv. 24. og 25. gr. skal hraða svo sem kostur er. Um mál þessi fer eftir almennri meðferð einkamála.
 
  *VI. kafli.* *Gjöld.*
@@ -146,8 +147,9 @@ h2. Lög um eftirlit með skipum
 
  *VII. kafli.* *Refsingar, svipting réttinda o.fl.*
  ■ *29. gr.* _Brot._
- □ Brot gegn lögum þessum eða reglum settum samkvæmt þeim varða sektum eða fangelsi allt að tveimur árum og lúta meðferð opinberra mála.
-■ *30. gr.* _Hlutdeild._
+ □ Brot gegn lögum þessum eða reglum settum samkvæmt þeim varða sektum eða fangelsi allt að tveimur árum og lúta meðferð opinberra mála.[^1)^]
+    _[^1)^]Greininni var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html
+ ■ *30. gr.* _Hlutdeild._
  □ Um brot skv. 29. gr. skal beitt reglum almennra hegningarlaga um hlutdeild.
  □ Nú er brot framið með verknaði sem refsiverður er samkvæmt almennum hegningarlögum og skal þá einnig beita viðeigandi ákvæðum þeirra.
 ■ *31. gr.* _Svipting réttinda._

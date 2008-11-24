@@ -7,15 +7,15 @@ h2. Lög um áhafnir íslenskra farþegaskipa og flutningaskipa
 <hr />
 
 
- *Tóku gildi 1. júlí 2001.* _EES-samningurinn:_ VII. viðauki tilskipun 92/51/EBE og XII. viðauki tilskipun 94/58/EB. _Breytt með_ l. 31/2003 (tóku gildi 3. apríl 2003; _EES-samningurinn:_ XVIII. viðauki tilskipun 93/104/EB, XIII. viðauki tilskipun 1999/63/EB, 1999/95/EB og 1999/130/EB), l. 72/2003 (tóku gildi 10. apríl 2003), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006) og "l. 30/2007":2007030.html (tóku gildi 1. jan. 2008).
+ *Tóku gildi 1. júlí 2001.* _EES-samningurinn:_ VII. viðauki tilskipun 92/51/EBE og XII. viðauki tilskipun 94/58/EB. _Breytt með_ l. 31/2003 (tóku gildi 3. apríl 2003; _EES-samningurinn:_ XVIII. viðauki tilskipun 93/104/EB, XIII. viðauki tilskipun 1999/63/EB, 1999/95/EB og 1999/130/EB), l. 72/2003 (tóku gildi 10. apríl 2003), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), "l. 30/2007":2007030.html (tóku gildi 1. jan. 2008), l. 39/2008 (tóku gildi 5. júní 2008; _EES-samningurinn:_ XIII. viðauki reglugerð 336/2006) og "l. 88/2008":2008088.html (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
 
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Gildissvið, markmið og tilgangur._
  □ Lög þessi taka til áhafna allra íslenskra farþegaskipa og flutningaskipa sem skráð eru hér á landi samkvæmt lögum um skráningu skipa.
  □ Markmið þessara laga er að tryggja öryggi áhafna, farþega og íslenskra farþegaskipa og flutningaskipa og efla varnir gegn mengun sjávar. Þessu markmiði skal náð með því að gera tilteknar kröfur um menntun og þjálfun, aldur, siglingatíma, heilbrigði, sjón og heyrn þeirra sem starfa um borð og tryggja með því faglega hæfni áhafna miðað við stærð skips, verkefni og farsvið.
- □ [Tilgangur laga þessara og reglugerða settra samkvæmt þeim er að laga íslenskan rétt að þjóðréttarlegum skuldbindingum íslenska ríkisins samkvæmt alþjóðasamþykkt um menntun og þjálfun, skírteini og vaktstöður sjómanna (STCW) frá 1978 með síðari breytingum, EES-samningnum, sbr. tilskipun ráðsins nr. 94/58/EB frá 22. nóvember 1994, um lágmarksþjálfun sjómanna, sbr. tilskipun ráðsins nr. 98/35/EB frá 25. maí 1998, og stofnsamningi Fríverslunarsamtaka Evrópu [og efnahagssamningi Íslands og Færeyja].[^1)^]][^2)^]
-    _[^1)^]L. 108/2006, 52. gr._ [^2)^]L. 72/2003, 47. gr.
+ □ [Tilgangur laga þessara og reglugerða settra samkvæmt þeim er að laga íslenskan rétt að þjóðréttarlegum skuldbindingum íslenska ríkisins samkvæmt alþjóðasamþykkt um menntun og þjálfun, skírteini og vaktstöður sjómanna (STCW) frá 1978 með síðari breytingum, EES-samningnum, sbr. [tilskipun Evrópuþingsins og ráðsins 2001/25/EB um lágmarksþjálfun sjómanna, með síðari breytingum, og tilskipun Evrópuþingsins og ráðsins 2005/45/EB um gagnkvæma viðurkenningu á skírteinum sjómanna sem aðildarríkin gefa út og um breytingu á tilskipun 2001/25/EB][^1)^] og stofnsamningi Fríverslunarsamtaka Evrópu [og efnahagssamningi Íslands og Færeyja].[^2)^]][^3)^]
+    _[^1)^]L. 39/2008, 1. gr._ [^2)^]L. 108/2006, 52. gr. [^3)^]L. 72/2003, 47. gr.
  ■ *2. gr.* _Orðskýringar._
  □ Í lögum þessum er merking eftirfarandi hugtaka sem hér segir:
     1. _Alþjóðasamþykktin_ er alþjóðasamþykkt um menntun og þjálfun, skírteini og vaktstöður sjómanna (STCW) frá 1978 með síðari breytingum.
@@ -40,21 +40,24 @@ h2. Lög um áhafnir íslenskra farþegaskipa og flutningaskipa
     c. Á _stoðsviði_ starfa þeir sem öðlast hafa skírteini samkvæmt lögum þessum og reglum alþjóðasamþykktarinnar og starfa hvorki á stjórnunar- né rekstrarsviði.
     18. _Vélarafl_ er mesta samfellda heildarhámark ásafls allra aðalvéla skipsins í kílóvöttum (kW) eins og það er skráð í skráningarskírteini skipsins eða öðrum opinberum skjölum.
     19. _Útgerðarmaður_ er sá sem mannar skipið, ræður ferðum þess, ber kostnaðinn af þeim og nýtur arðsins af þeim.
-■ *3. gr.* _Menntun og þjálfun._
+    [20. _ISM-kóðinn_ er alþjóðlegur kóði um öryggisstjórnun skipa og mengunarvarnir, sem samþykktur var af Alþjóðasiglingamálastofnuninni (IMO) með ályktun þingsins A.741(18) frá 4. nóvember 1993, með áorðnum breytingum.
+    21. _Viðurkennd stofnun_ er aðili sem er viðurkenndur í samræmi við reglugerð um viðurkenningu flokkunarfélaga, sbr. tilskipun 94/57/EB.][^1)^]
+    _[^1)^]L. 39/2008, 2. gr._
+ ■ *3. gr.* _Menntun og þjálfun._
  □ Sjómannaskólar annast menntun og þjálfun áhafna íslenskra skipa. Um inntökuskilyrði sjómannaskóla, námskrá, nám, námstilhögun, námsmat og námsstig til öflunar tiltekinna skírteina samkvæmt lögum þessum fer eftir lögum um framhaldsskóla og reglugerðum settum samkvæmt þeim. Nám og kennsla í sjómannaskólum skal vera samkvæmt viðurkenndu gæðastjórnunarkerfi.
  □ Starfsgreinaráð um sjávarútvegsgreinar og siglingar, sem starfar samkvæmt lögum um framhaldsskóla, gerir tillögu til menntamálaráðherra, að fenginni umsögn Siglingastofnunar Íslands, um námskrár sjómannaskóla.
  □ Um Slysavarnaskóla sjómanna gilda "lög nr. 33/1991":1991033.html og staðfestir samgönguráðherra námskrá skólans.
  □ Menntamálaráðuneytið hefur eftirlit með að námskrár sjómannaskóla uppfylli kröfur alþjóðasamninga og Siglingastofnun Íslands hefur eftirlit með að nám við sjómannaskóla uppfylli kröfur alþjóðasamninga.
 ■ *4. gr.* _Skírteini._
- □ Sýslumenn úti á landi og tollstjórinn í Reykjavík gefa út íslensk atvinnuskírteini samkvæmt lögum þessum og reglugerðum settum samkvæmt þeim. Áður en atvinnuskírteini er gefið út skal leita staðfestingar Siglingastofnunar Íslands um réttindi umsækjanda um atvinnuskírteini. Siglingastofnun Íslands gefur út alþjóðleg skírteini og áritanir samkvæmt lögum þessum. Skírteini skulu rituð á þar til gerð eyðublöð eftir fyrirmynd sem samgönguráðuneytið ákveður og skulu þau vera bæði á íslensku og ensku. Útgáfa alþjóðlegra skírteina og áritana skal vera samkvæmt viðurkenndu gæðastjórnunarkerfi.
- □ Íslenskur ríkisborgari sem fullnægir skilyrðum laga þessara og reglugerða settra samkvæmt þeim um menntun og þjálfun, aldur, siglingatíma, heilbrigði, sjón og heyrn á rétt á því að fá útgefið viðeigandi skírteini sér til handa skv. 11. gr. laganna og starfa samkvæmt því um borð í skipum. Þennan rétt hafa einnig ríkisborgarar annarra ríkja Evrópska efnahagssvæðisins [og ríkisborgarar aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu],[^1)^] sbr. 2. mgr. 6. gr. laganna, [sem og Færeyingar].[^2)^]
+ □ ...[^1)^] Siglingastofnun Íslands gefur út alþjóðleg skírteini og áritanir samkvæmt lögum þessum. Skírteini skulu rituð á þar til gerð eyðublöð eftir fyrirmynd sem samgönguráðuneytið ákveður og skulu þau vera bæði á íslensku og ensku. Útgáfa alþjóðlegra skírteina og áritana skal vera samkvæmt viðurkenndu gæðastjórnunarkerfi.
+ □ Íslenskur ríkisborgari sem fullnægir skilyrðum laga þessara og reglugerða settra samkvæmt þeim um menntun og þjálfun, aldur, siglingatíma, heilbrigði, sjón og heyrn á rétt á því að fá útgefið viðeigandi skírteini sér til handa skv. 11. gr. laganna og starfa samkvæmt því um borð í skipum. Þennan rétt hafa einnig ríkisborgarar annarra ríkja Evrópska efnahagssvæðisins [og ríkisborgarar aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu],[^2)^] sbr. 2. mgr. 6. gr. laganna, [sem og Færeyingar].[^3)^]
  □ Umsækjandi skírteinis skal hafa að baki siglingatíma skv. 11. gr. laganna. Ráðherra getur með reglugerð vikið frá kröfum 11. gr. og gert vægari kröfur um siglingatíma. Umsækjanda er skylt að færa sönnur á siglingatíma sem hann telur sig hafa að baki. Unnt er að færa sönnur á þann siglingatíma með staðfestingu lögskráningarstjóra eða rétt útfylltri sjóferðabók. Umsækjandi skírteinis sem kveðst hafa að baki siglingatíma á skipi sem ekki er skráð á Íslandi skal færa sönnur á þann siglingatíma á fullnægjandi hátt að mati Siglingastofnunar Íslands. Ef vafi leikur á um réttmæti þeirrar sönnunar skal Siglingastofnun Íslands í því tilviki skera úr um siglingatíma.
  □ Umsækjandi um skírteini skipstjórnarmanns eða vélstjórnarmanns skal vera svo heill heilsu að hann geti rækt störf sín af öryggi. Skal umsækjandi leggja fram vottorð læknis um að hann uppfylli skilyrði um sjón, heyrn og aðrar heilbrigðiskröfur sem ráðherra mælir nánar fyrir um í reglugerð til samræmis við skuldbindingar íslenska ríkisins í þeim samningum sem um er getið í 3. mgr. 1. gr. laganna.
- □ Skipstjóri á íslensku skipi skal ávallt vera íslenskur ríkisborgari. Þó geta ríkisborgarar annarra ríkja á Evrópska efnahagssvæðinu [og aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] [sem og Færeyingar][^2)^] starfað sem skipstjórar á íslenskum skipum hafi þeir staðist sérstakt próf um kunnáttu og færni í íslensku og þekkingu á íslenskum lögum og reglum er varða þau störf sem þeir fá réttindi til að gegna.
+ □ Skipstjóri á íslensku skipi skal ávallt vera íslenskur ríkisborgari. Þó geta ríkisborgarar annarra ríkja á Evrópska efnahagssvæðinu [og aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^2)^] [sem og Færeyingar][^3)^] starfað sem skipstjórar á íslenskum skipum hafi þeir staðist sérstakt próf um kunnáttu og færni í íslensku og þekkingu á íslenskum lögum og reglum er varða þau störf sem þeir fá réttindi til að gegna.
  □ Yfirmenn á stjórnunarsviði, þ.e. skipstjóri, yfirstýrimaður, yfirvélstjóri og 1. vélstjóri, skulu hafa þekkingu á íslenskum lögum og reglum sem varða störf þeirra og tryggt skal að þeir geti tjáð sig á íslensku eða ensku um ábyrgðarsvið sitt.
  □ Frumrit skírteinis sem krafist er skal ávallt vera um borð í því skipi sem skírteinishafi er skráður eða ráðinn á.
  □ Siglingastofnun Íslands heldur skrá yfir útgefin skírteini.
-    _[^1)^]L. 72/2003, 48. gr._ [^2)^]L. 108/2006, 53. gr.
+    _[^1)^]L. 39/2008, 3. gr._ [^2)^]L. 72/2003, 48. gr. [^3)^]L. 108/2006, 53. gr.
  ■ *5. gr.* _Gildistími og endurnýjun skírteina._
  □ Skírteini sem gefin eru út samkvæmt lögum þessum skulu gilda í fimm ár frá útgáfudegi. Endurnýjun skal veitt til fimm ára í senn. Við endurnýjun skírteina skal umsækjandi sem hefur skírteini og starfar á sjó eða ætlar að hverfa aftur til starfa á sjó eftir nokkurn tíma í landi:
     1. fullnægja sömu heilbrigðiskröfum og áður þurfti til að öðlast skírteini og
@@ -66,10 +69,10 @@ h2. Lög um áhafnir íslenskra farþegaskipa og flutningaskipa
  □ Endurmenntunarnámskeið samkvæmt þessari grein skulu samþykkt af Siglingastofnun Íslands og skal á þeim m.a. farið yfir nýlegar breytingar á alþjóðareglum um öryggi mannslífa á sjó og varnir gegn mengun sjávar.
 ■ *6. gr.* _Viðurkenning erlendra skírteina._
  □ Siglingastofnun Íslands viðurkennir erlend skírteini í samræmi við lög þessi og reglugerðir settar samkvæmt þeim. Skírteini gefin út af ríki sem er ekki aðili að alþjóðasamþykktinni eða af ríki sem er aðili að alþjóðasamþykktinni en hefur ekki fullnægt kröfum hennar skulu ekki viðurkennd. Siglingastofnun Íslands er heimilt að veita í allt að þrjá mánuði lögmætum handhöfum erlendra skírteina leyfi til að gegna tilteknu starfi á tilteknu skipi, þar sem krafist er skírteinis, ef lögð eru fram fullgild vottorð eða skírteini á meðan eða þar til Siglingastofnun Íslands hefur sannreynt viðkomandi gögn og viðurkennt erlenda skírteinið, enda geti viðkomandi skilið fyrirmæli yfirmanna skipsins og stjórnað verkum í þeirra umboði.
- □ Um umsóknir frá ríkisborgurum Evrópska efnahagssvæðisins um viðurkenningu á réttindum til starfa á skipum sem lög þessi taka til skal fara eftir ákvæðum tilskipunar ráðsins 92/51/EBE, sbr. "lög um viðurkenningu á menntun og prófskírteinum, nr. 83/1993":1993083.html, með síðari breytingum. [Hið sama gildir um umsóknir frá ríkisborgurum aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu [og frá Færeyingum].[^1)^]][^2)^]
- □ Um umsóknir frá ríkisborgurum utan Evrópska efnahagssvæðisins [og aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu][^2)^] [eða utan Færeyja][^1)^] um viðurkenningu á réttindum til starfa á skipum sem lög þessi taka til skal fara eftir ákvæðum reglugerðar sem ráðherra setur í samræmi við skyldur íslenska ríkisins samkvæmt EES-samningnum, sbr. tilskipun ráðsins nr. 94/58/EB, um lágmarksþjálfun sjómanna, með síðari breytingum.
+ □ [Um umsóknir um viðurkenningu á réttindum sem lögbært yfirvald í aðildarríki Evrópska efnahagssvæðisins og aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu gefur út til starfa á skipum sem lög þessi taka til skal fara eftir ákvæðum tilskipunar Evrópuþingsins og ráðsins 2005/45/EB um gagnkvæma viðurkenningu á skírteinum sjómanna sem aðildarríkin gefa út og um breytingu á tilskipun 2001/25/EB, eins og nánar er kveðið á um í reglugerð.
+ □ Um umsóknir um viðurkenningu á réttindum sem gefin eru út af ríkjum öðrum en ríkjum Evrópska efnahagssvæðisins og aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu til starfa á skipum sem lög þessi taka til skal fara eftir ákvæðum tilskipunar Evrópuþingsins og ráðsins 2001/25/EB, eins og nánar er kveðið á um í reglugerð.][^1)^]
  □ Siglingastofnun Íslands heldur skrá yfir viðurkennd erlend skírteini.
-    _[^1)^]L. 108/2006, 54. gr._ [^2)^]L. 72/2003, 49. gr.
+    _[^2)^]L. 39/2008, 4. gr._
  ■ *7. gr.* _Vaktstaða._
  □ Skipstjóri skal tryggja að fyrirkomulag vakta sé á þann veg að ávallt sé staðin örugg vakt um borð, hvort sem skipið er á siglingu, í höfn, á legu eða við akkeri. Undir yfirumsjón skipstjóra eru stýrimenn ábyrgir fyrir öruggri siglingu skipsins á sinni vakt og ber þeim sérstaklega að varast árekstur og strand.
  □ Yfirvélstjóri er ábyrgur fyrir öruggri vakt í vélarrúmi og skal tryggja að vélstjóri sé tiltækur til að gegna vakt í ómönnuðu vélarrúmi og standa þar vaktir ef þörf krefur.
@@ -96,7 +99,15 @@ h2. Lög um áhafnir íslenskra farþegaskipa og flutningaskipa
  □ Sá sem er lögmætur handhafi skírteinis til að vera skipstjóri í innanlandssiglingum á skipi sem er 30 rúmlestir eða minna skal öðlast rétt til að vera skipstjóri eða stýrimaður á skipi 65 brúttótonn eða minna í innanlandssiglingum.
  □ Til að öðlast skírteini til starfa á farþegaskipum samkvæmt lögum þessum skal viðkomandi gangast undir sérstakt námskeið um farþegaflutninga með skipum og stjórnun mannfjölda á neyðarstundu sem sjómannaskóli skipuleggur í samráði við Siglingastofnun Íslands.
  □ Nú hefur skipstjórnarmaður skírteini til skipstjórnarstarfa samkvæmt brúttórúmlesta- viðmiðun á skipi sem vegna breytinga á mælingum skipa mælist stærra en eldra skírteini hans veitti réttindi til eða aðrar hliðstæðar ástæður eru fyrir hendi og er þá heimilt að veita honum skírteini til starfa á sama skipi eða skipi sem eins háttar um að uppfylltum öðrum skilyrðum laganna.
-■ *10. gr.* _Ábyrgð útgerðarmanns og skipstjóra._
+■ *[9. gr. A.* _Alþjóðlegt öryggisstjórnunarkerfi._
+ □ Á flutningaskipum sem eru 500 brúttótonn eða stærri og farþegaskipum sem lög þessi taka til skal fylgt ákvæðum A-hluta ISM-kóðans um öryggisstjórnun skipa og mengunarvarnir. Skal Siglingastofnun eða viðurkenndur aðili gefa út samræmisskjal og öryggisstjórnunarskírteini í samræmi við ISM-kóðann.
+ □ Siglingastofnun er heimilt að veita undanþágu frá ákvæðum 6., 7., 9., 11. og 12. gr. kóðans, enda séu teknar upp ráðstafanir sem veiti sambærilega vernd og kveðið er á um í kóðanum.
+ □ Ákvæði þessarar greinar gilda ekki um:
+    1. skip sem eru nýtt eingöngu í þágu hins opinbera en ekki í atvinnuskyni,
+    2. skip sem ekki eru knúin áfram með vélrænum hætti, tréskip með frumstæðu byggingarlagi, skemmtisnekkjur og skemmtibátar nema þau séu eða verði mönnuð og látin flytja fleiri en 12 farþega í atvinnuskyni,
+    3. farþegaskip í flokki C og D eins og þeir eru skilgreindir í reglugerð um öryggi farþegaskipa í innanlandssiglingum nr. 666/2001, með síðari breytingum, nema þau séu ekjufarþegaskip.][^1)^]
+    _[^1)^]L. 39/2008, 5. gr._
+ ■ *10. gr.* _Ábyrgð útgerðarmanns og skipstjóra._
  □ Útgerðarmaður og skipstjóri viðkomandi skips bera ábyrgð á því að ákvæðum þessara laga sé framfylgt við útgerð skips. Þeim ber að sjá til þess að eftirfarandi sé gætt:
     1. að allir þeir sem ráðnir eru um borð í skip séu lögmætir handhafar skírteina fyrir þá stöðu sem þeir gegna og að frumrit skírteina skipverja sé varðveitt um borð,
     2. að uppfærð og aðgengileg skrá sé haldin yfir alla skipverja og stöður þeirra um borð,
@@ -311,11 +322,12 @@ F.
  □ Leiði brot á lögum þessum eða reglum settum samkvæmt þeim til skipsstrands, áreksturs skipa eða annarra sjóslysa skal viðkomandi sæta refsingu og eftir atvikum réttindasviptingu til skipstjórnar eða vélstjórnar, skv. "238. gr. siglingalaga, nr. 34/1985":1985034.html#g238, með síðari breytingum.
  ■ *16. gr.* Siglingastofnun Íslands er heimilt að afturkalla skírteini ef lögmætur handhafi þess fullnægir ekki lengur skilyrðum laganna til að öðlast slíkt skírteini eða vera skírteinishafi.
  □ Nú telur Siglingastofnun Íslands að skilyrði, sbr. 2. mgr. 15. gr., séu fyrir hendi til sviptingar starfsréttinda og er stofnuninni þá heimilt að svipta viðkomandi aðila starfsréttindum til bráðabirgða. Skal slík svipting vera tímabundin eða ákvörðuð til þess tíma þegar endanleg ákvörðun dómstóls um sviptinguna liggur fyrir. Bráðabirgðasvipting samkvæmt ákvæði þessu skal dragast frá endanlegum sviptingartíma samkvæmt dómi.
- □ Bera má ákvörðun Siglingastofnunar Íslands undir dómstóla samkvæmt reglum um meðferð opinberra mála og skal stofnunin leiðbeina viðkomandi um þann rétt.
-■ *17. gr.* _Reglugerð._
- □ Samgönguráðherra skal setja í reglugerð[^1)^] nánari ákvæði um framkvæmd laga þessara, þar á meðal um menntun og þjálfun áhafna íslenskra skipa samkvæmt lögum þessum, bæði um borð í skipi og í landi, öryggisfræðslu, próf, skírteini og skilyrði þeirra, heilbrigðiskröfur, viðurkenningu erlendra skírteina, ábyrgð útgerðarmanna, vaktstöður og mönnun skipa. Ákvæði reglugerðarinnar skulu vera í samræmi við skuldbindingar íslenska ríkisins samkvæmt þeim samningum sem um er getið í 3. mgr. 1. gr. laganna.
+ □ Bera má ákvörðun Siglingastofnunar Íslands undir dómstóla samkvæmt reglum um meðferð opinberra mála og skal stofnunin leiðbeina viðkomandi um þann rétt.[^1)^]
+    _[^1)^]Málsgreininni var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html
+ ■ *17. gr.* _Reglugerð._
+ □ Samgönguráðherra skal setja í reglugerð[^1)^] nánari ákvæði um framkvæmd laga þessara, þar á meðal um menntun og þjálfun áhafna íslenskra skipa samkvæmt lögum þessum, bæði um borð í skipi og í landi, öryggisfræðslu, próf, skírteini og skilyrði þeirra, heilbrigðiskröfur, viðurkenningu erlendra skírteina, ábyrgð útgerðarmanna, vaktstöður, [mönnun skipa og alþjóðlegt öryggisstjórnunarkerfi].[^2)^] [Ákvæðin][^2)^] skulu vera í samræmi við skuldbindingar íslenska ríkisins samkvæmt þeim samningum sem um er getið í 3. mgr. 1. gr. laganna.
  □ Samgönguráðherra skal, í samráði við menntamálaráðherra, setja reglur um eftirlit með menntun og þjálfun áhafna íslenskra skipa.
-    _[^1)^]Rg. 599/2001_, rg. 416/2003, sbr. 430/2005 og 693/2006; rg. 680/2004, sbr. 1019/2006.
+    _[^1)^]Rg. 599/2001_, rg. 416/2003, sbr. 430/2005, 693/2006 og 438/2008; rg. 680/2004, sbr. 1019/2006. [^2)^]L. 39/2008, 6. gr.
  ■ *18. gr.* _Gildistaka o.fl._
  □ Lög þessi öðlast gildi 1. júlí 2001.
  □ ...

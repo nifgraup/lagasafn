@@ -7,7 +7,7 @@ h2. Lög um hönnun
 <hr />
 
 
- *Tóku gildi 1. október 2001, sjá þó 60. gr.* _EES-samningurinn:_ XVII. viðauki tilskipun 98/71/EB. _Breytt með_ l. 76/2002 (tóku gildi 17. maí 2002), l. 54/2004 (tóku gildi 14. júní 2004), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006) og l. 167/2007 (tóku gildi 1. jan. 2008).
+ *Tóku gildi 1. október 2001, sjá þó 60. gr.* _EES-samningurinn:_ XVII. viðauki tilskipun 98/71/EB. _Breytt með_ l. 76/2002 (tóku gildi 17. maí 2002), l. 54/2004 (tóku gildi 14. júní 2004), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 167/2007 (tóku gildi 1. jan. 2008) og "l. 88/2008":2008088.html (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -142,8 +142,9 @@ h2. Lög um hönnun
  *VII. kafli.* *Refsi- og bótaábyrgð o.fl.*
  ■ *37. gr.* Sá sem af ásetningi brýtur gegn hönnunarrétti skal sæta sektum. Sé brot alvarlegt, einkum ef ætlunin er að afla verulegs og augljóslega ólögmæts ávinnings með brotinu, getur refsing verið fangelsi allt að einu ári.
  □ Sektir samkvæmt lögum þessum má gera jafnt lögaðila sem einstaklingi. Lögaðila má ákvarða sekt án tillits til þess hvort sök verður sönnuð á starfsmann lögaðilans. Hafi starfsmaður lögaðilans framið brot á lögum þessum eða reglum, settum samkvæmt þeim, má einnig gera lögaðilanum sekt og sviptingu starfsréttinda enda sé brotið drýgt til hagsbóta fyrir lögaðilann eða hann hefur notið hagnaðar af brotinu. Lögaðili ber ábyrgð á greiðslu sektar sem starfsmaður hans er dæmdur til að greiða vegna brota á lögum þessum enda séu brot tengd starfi hjá lögaðilanum.
- □ Sókn sakar á sá sem misgert er við. Þó sæta brot skv. 2. málsl. 1. mgr. opinberri ákæru ef sá krefst þess sem misgert er við. Skulu slík mál rekin í samræmi við lög um meðferð opinberra mála.
-■ *38. gr.* Sá sem af ásetningi eða gáleysi brýtur gegn hönnunarrétti skal greiða hæfilegt endurgjald fyrir hagnýtingu hönnunar og skaðabætur fyrir annað tjón sem brot hans hefur haft í för með sér.
+ □ Sókn sakar á sá sem misgert er við. Þó sæta brot skv. 2. málsl. 1. mgr. opinberri ákæru ef sá krefst þess sem misgert er við. Skulu slík mál rekin í samræmi við lög um meðferð opinberra mála.[^1)^]
+    _[^1)^]Málsgreininni var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html
+ ■ *38. gr.* Sá sem af ásetningi eða gáleysi brýtur gegn hönnunarrétti skal greiða hæfilegt endurgjald fyrir hagnýtingu hönnunar og skaðabætur fyrir annað tjón sem brot hans hefur haft í för með sér.
  □ Hagnist einhver af broti gegn hönnunarrétti án þess að um ásetning eða gáleysi hafi verið að ræða skal hann, ef og að því marki sem það telst sanngjarnt, greiða endurgjald og skaðabætur skv. 1. mgr. Bætur þessar skulu þó ekki vera hærri en ætla má að nemi hagnaði hins bótaskylda af brotinu.
 ■ *39. gr.* Hafi verið brotið gegn hönnunarrétti getur dómstóll ákveðið í þeim tilgangi að girða fyrir frekari brot, að kröfu þess sem misgert er við og að svo miklu leyti sem það telst sanngjarnt, að vörum, sem hafa verið framleiddar eða fluttar inn ólöglega, skuli breyta á tiltekinn hátt, þær skuli ónýta eða þær afhentar brotaþola gegn endurgjaldi. Sama gildir um hluti ef notkun þeirra felur í sér brot á hönnunarrétti. Ákvæðum 1. og 2. málsl. skal þó ekki beita gagnvart þeim sem hefur í góðri trú eignast viðkomandi vörur eða öðlast réttindi yfir þeim og hefur ekki sjálfur brotið gegn hönnunarrétti.
  □ Þegar mjög sérstakar ástæður eru fyrir hendi og þess er krafist getur dómstóll, þrátt fyrir ákvæði 1. mgr., leyft yfirráð yfir ólöglega framleiddum eða innfluttum vörum á verndartíma hönnunar eða hluta þess tíma gegn hæfilegu endurgjaldi og sanngjörnum kjörum að öðru leyti.
@@ -180,7 +181,7 @@ h2. Lög um hönnun
  ■ *53. gr.* [Viðskiptaráðherra][^1)^] setur nánari reglur[^2)^] um framkvæmd laga þessara, m.a. um hönnunarumsóknir og meðferð þeirra, meðferð andmælamála, endurnýjun og brottfall hönnunarskráningar, færslu í hönnunarskrá, efni og útgáfu ELS-tíðinda og verklag Einkaleyfastofunnar. Þá skal ráðherra ákveða gjöld samkvæmt lögunum, sbr. 36. gr.
  □ Gjöld skulu standa straum af kostnaði við rekstur Einkaleyfastofunnar vegna hönnunarmálefna og við þjónustu sem veitt er, m.a. könnun Einkaleyfastofunnar á formskilyrðum og jafnvel efnisskilyrðum venjulegra umsókna, alþjóðlegra umsókna og endurupptekinna umsókna, þjónustu vegna samskráningar, birtingu, m.a. á myndum, yfirfærslu alþjóðlegra umsókna, umsýslu vegna endurnýjunar umsókna, könnun vegna ógildingar skráningar, útskriftir úr hönnunarskrám og þjónustuverkefni.
  □ Gjöld samkvæmt lögum þessum renna beint til Einkaleyfastofunnar og innheimtir hún gjöldin.
-    _[^1)^]L. 167/2007, 88. gr._ [^2)^]Rg. 41/2000, sbr. 110/2003; rg. 706/2001, sbr. 531/2004; rg. 916/2001, sbr. 15/2003, 898/2003 og 540/2004.
+    _[^1)^]L. 167/2007, 88. gr._ [^2)^]Rg. 706/2001, sbr. 531/2004; rg. 916/2001, sbr. 15/2003, 898/2003 og 540/2004; rg. 275/2008.
 
  *X. kafli.* *Alþjóðleg skráning hönnunar.*
  ■ *54. gr.* Með alþjóðlegri skráningu hönnunar er átt við skráningu hönnunar samkvæmt Genfarsamningnum frá 2. júlí 1999 um breytingu á Haag-samningnum um alþjóðlega skráningu hönnunar á sviði iðnaðar.
