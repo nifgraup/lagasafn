@@ -7,7 +7,7 @@ h2. Lög um húsnæðismál
 <hr />
 
 
- *Tóku gildi 1. janúar 1999, sjá þó 52. gr.* _Breytt með_ l. 84/1998 (tóku gildi 1. jan. 1999), l. 157/1998 (tóku gildi 1. jan. 1999), l. 121/1999 (tóku gildi 30. des. 1999), 32/2000 (tóku gildi 26. maí 2000), l. 77/2001 (tóku gildi 15. júní 2001), l. 155/2001 (tóku gildi 31. des. 2001), l. 86/2002 (tóku gildi 23. maí 2002), l. 163/2002 (tóku gildi 30. des. 2002), l. 57/2004 (tóku gildi 1. júlí 2004 nema brbákv. I sem tók gildi 14. júní 2004), l. 120/2004 (tóku gildi 3. des. 2004) og l. 137/2005 (tóku gildi 30. des. 2005).
+ *Tóku gildi 1. janúar 1999, sjá þó 52. gr.* _Breytt með_ l. 84/1998 (tóku gildi 1. jan. 1999), l. 157/1998 (tóku gildi 1. jan. 1999), l. 121/1999 (tóku gildi 30. des. 1999), 32/2000 (tóku gildi 26. maí 2000), l. 77/2001 (tóku gildi 15. júní 2001), l. 155/2001 (tóku gildi 31. des. 2001), l. 86/2002 (tóku gildi 23. maí 2002), l. 163/2002 (tóku gildi 30. des. 2002), l. 57/2004 (tóku gildi 1. júlí 2004 nema brbákv. I sem tók gildi 14. júní 2004), l. 120/2004 (tóku gildi 3. des. 2004), l. 137/2005 (tóku gildi 30. des. 2005), "l. 125/2008":2008125.html (tóku gildi 7. okt. 2008) og l. 138/2008 (tóku gildi 13. des. 2008).
 
 
  *1. þáttur.* *Almenn ákvæði.*
@@ -52,13 +52,15 @@ h2. Lög um húsnæðismál
  □ Verkefni Íbúðalánasjóðs eru:
     1. Að annast lánveitingar og sinna [viðskiptum með skuldabréf sem sjóðurinn gefur út][^1)^] í samræmi við ákvæði laga þessara.
     2. Að annast lánveitingar til sveitarfélaga, félaga og félagasamtaka til byggingar eða kaupa á leiguhúsnæði.
-    3. Að hafa umsjón með fjárhag, rekstri og annarri starfsemi Íbúðalánasjóðs og gæta þess að sjóðurinn starfi í samræmi við gildandi lög og reglugerðir.
-    4. Að gera fjárhagsáætlun fyrir sjóðinn í samræmi við ákvæði fjárlaga þar sem fram komi sundurliðaður áætlaður rekstrarkostnaður.
-    5. Að koma á framfæri við almenning upplýsingum um hlutverk og þjónustu Íbúðalánasjóðs.
-    6. Að stuðla að tækninýjungum og öðrum umbótum í byggingariðnaði, m.a. með veitingu lána eða styrkja samkvæmt nánari ákvæðum í reglugerð sem ráðherra setur.
-    7. Að fylgjast með íbúðaþörf í landinu og áætlanagerð sveitarfélaga um þörf á íbúðarhúsnæði.
-    8. Að sinna öðrum verkefnum sem ráðherra felur sjóðnum með reglugerð á sviði húsnæðismála.
-    _[^1)^]L. 57/2004, 3. gr._
+    [3. Að kaupa eða endurfjármagna skuldabréf fjármálafyrirtækja sem tryggð eru með veði í íbúðarhúsnæði.][^2)^]
+    [4. ][^2)^] Að hafa umsjón með fjárhag, rekstri og annarri starfsemi Íbúðalánasjóðs og gæta þess að sjóðurinn starfi í samræmi við gildandi lög og reglugerðir.
+    [5. ][^2)^] Að gera fjárhagsáætlun fyrir sjóðinn í samræmi við ákvæði fjárlaga þar sem fram komi sundurliðaður áætlaður rekstrarkostnaður.
+    [6. ][^2)^] Að koma á framfæri við almenning upplýsingum um hlutverk og þjónustu Íbúðalánasjóðs.
+    [7. ][^2)^] Að stuðla að tækninýjungum og öðrum umbótum í byggingariðnaði, m.a. með veitingu lána eða styrkja samkvæmt nánari ákvæðum í reglugerð sem ráðherra setur.
+    [8. Að leigja eða fela öðrum með samningi að annast leigumiðlun með íbúðarhúsnæði sem Íbúðalánasjóður hefur yfirtekið á nauðungaruppboði samkvæmt nánari ákvæðum í reglugerð sem ráðherra setur.][^3)^]
+    [9. ][^3)^] Að fylgjast með íbúðaþörf í landinu og áætlanagerð sveitarfélaga um þörf á íbúðarhúsnæði.
+    [10. ][^3)^] Að sinna öðrum verkefnum sem ráðherra felur sjóðnum með reglugerð á sviði húsnæðismála.
+    _[^1)^]L. 57/2004, 3. gr._ [^2)^]"L. 125/2008, 10. gr.":2008125.html#g10 [^3)^]L. 138/2008, 1. gr.
  ■ *10. gr.* _Tekjur._
  □ Íbúðalánasjóður fjármagnar þau verkefni sem honum eru falin samkvæmt lögum þessum með þeim hætti sem hér segir:
     1. Með tekjum af eigin fé sjóðsins, þ.e. afborgunum, vöxtum og verðtryggingu af veittum lánum.
@@ -90,16 +92,17 @@ h2. Lög um húsnæðismál
 
  *3. þáttur.* *Húsnæðislán.*
  *V. kafli.* *Almenn ákvæði.*
- ■ *15. gr.* _Lánveitingar Íbúðalánasjóðs._
+ ■ *15. gr.* _[Lánveitingar Íbúðalánasjóðs. Kaup skuldabréfa af fjármálafyrirtækjum.][^1)^]_
  □ Íbúðalánasjóður annast lánveitingar samkvæmt eftirfarandi lánaflokkum:
-    1. _Almenn lán_ skv. VI. kafla laga þessara til [endurbóta],[^1)^] byggingar eða kaupa á íbúðarhúsnæði.
+    1. _Almenn lán_ skv. VI. kafla laga þessara til [endurbóta],[^2)^] byggingar eða kaupa á íbúðarhúsnæði.
     2. _Viðbótarlán_ til einstaklinga skv. VII. kafla laga þessara til byggingar eða kaupa á eigin íbúðarhúsnæði.
     3. _Lán til leiguíbúða_ til sveitarfélaga, félagasamtaka og félaga skv. VIII. kafla laga þessara til byggingar eða kaupa á íbúðarhúsnæði til útleigu.
-    _[^1)^]L. 57/2004, 6. gr._
+ □ [Íbúðalánasjóði er heimilt að kaupa skuldabréf fjármálafyrirtækja sem tryggð eru með veði í íbúðarhúsnæði. Ekki þarf að leita samþykkis skuldara fyrir slíkri yfirfærslu. Ráðherra er heimilt að mæla nánar fyrir um slíka yfirfærslu í reglugerð.[^3)^]][^1)^]
+    _[^1)^]_"L. 125/2008, 11. gr.":2008125.html [^2)^]L. 57/2004, 6. gr. [^3)^]Rg. 1081/2008.
  ■ *16. gr.* _Aðrir lánaflokkar._
  □ Stjórn Íbúðalánasjóðs er heimilt, að fengnu samþykki félagsmálaráðherra, að stofna til nýrra lánaflokka. Gert skal ráð fyrir öllum lánaflokkum í fjárhagsáætlun sjóðsins fyrir það ár sem veiting láns fer fram.
  □ Um nánari skilyrði lánveitinga samkvæmt þessari grein fer eftir því sem ákveðið er í lögum þessum og reglugerð[^1)^] sem félagsmálaráðherra setur að fenginni umsögn stjórnar Íbúðalánasjóðs.
-    _[^1)^]Rg. 458/1999_, sbr. 1000/2001, 333/2003, 151/2004, 1100/2004, 558/2006, 475/2007, 503/2008, 576/2008 og 715/2008; rg. 584/2001.
+    _[^1)^]Rg. 458/1999_, sbr. 1000/2001, 333/2003, 151/2004, 1100/2004, 558/2006, 475/2007, 503/2008, 576/2008, 715/2008 og 1161/2008; rg. 584/2001.
  ■ *17. gr.* _[Aðskilnaður lánaflokka._
  □ Íbúðalánasjóður skal halda mismunandi lánaflokkum sjóðsins aðgreindum í bókhaldi og gefa út flokka markaðshæfra íbúðabréfa í nafni sjóðsins með þeim kjörum og skilmálum sem ákveðin eru með lögum þessum eða reglugerð.][^1)^]
     _[^1)^]L. 57/2004, 7. gr._
@@ -148,8 +151,8 @@ h2. Lög um húsnæðismál
  □ [Íbúðalánasjóði er heimilt að áskilja sér vaxtaálag til að mæta rekstrarkostnaði, áætluðum útlánatöpum og vaxtaáhættu sjóðsins. Félagsmálaráðherra ákveður vaxtaálag þetta að fengnum tillögum stjórnar Íbúðalánasjóðs.][^1)^]
     _[^1)^]L. 57/2004, 17. gr._
  ■ *29. gr.* _Reglugerð._
- □ [Félagsmálaráðherra getur sett frekari fyrirmæli í reglugerð[^1)^] um lánveitingar Íbúðalánasjóðs, tilhögun viðskipta og útgáfu íbúðabréfa.][^2)^]
-    _[^1)^]Rg. 6/1996_, sbr. 169/1997 og 744/2001; rg. 458/1999, sbr. 1000/2001, 333/2003, 151/2004, 1100/2004, 558/2006, 475/2007, 503/2008, 576/2008 og 715/2008; rg. 688/2001, rg. 522/2004, sbr. 824/2004, 958/2004, 1017/2005, 300/2006, 539/2006 og 574/2008; rg. 540/2006, sbr. 156/2007, 587/2007 og 575/2008. [^2)^]L. 57/2004, 18. gr.
+ □ [Félagsmálaráðherra getur sett frekari fyrirmæli í reglugerð[^1)^] um lánveitingar Íbúðalánasjóðs, [kaup skuldabréfa af fjármálafyrirtækjum sem tryggð eru með veði í íbúðarhúsnæði],[^2)^] tilhögun viðskipta og útgáfu íbúðabréfa.][^3)^]
+    _[^1)^]Rg. 6/1996_, sbr. 169/1997 og 744/2001; rg. 458/1999, sbr. 1000/2001, 333/2003, 151/2004, 1100/2004, 558/2006, 475/2007, 503/2008, 576/2008, 715/2008 og 1161/2008; rg. 688/2001, rg. 522/2004, sbr. 824/2004, 958/2004, 1017/2005, 300/2006, 539/2006 og 574/2008; rg. 540/2006, sbr. 156/2007, 587/2007 og 575/2008. [^2)^]"L. 125/2008, 12. gr.":2008125.html [^3)^]L. 57/2004, 18. gr.
 
  *VII. kafli.* *...[^1)^]*
     _[^1)^]L. 120/2004, 6. gr._
@@ -246,14 +249,14 @@ h2. Lög um húsnæðismál
  □ Félagsmálaráðherra setur, að fenginni umsögn stjórnar Íbúðalánasjóðs, reglugerð[^6)^] um nánari framkvæmd innheimtu krafna skv. 1. mgr. og um skilyrði fyrir afskriftum samkvæmt þessari grein.
     _[^1)^]L. 57/2004, 21. gr._ [^2)^]L. 86/2002, 2. gr. [^3)^]L. 155/2001, 1. gr. [^4)^]L. 163/2002, 1. gr. [^5)^]L. 77/2001, 3. gr. [^6)^]Rg. 119/2003.
  ■ *48. gr.* _Greiðsluvandi._
- □ [Stjórn Íbúðalánasjóðs er heimilt að veita skuldbreytingarlán til allt að 15 ára í því skyni að leysa úr tímabundnum greiðsluerfiðleikum hjá lánþegum vegna almennra lána, viðbótarlána og lána sem sjóðurinn hefur yfirtekið, sbr. 53. gr. Skilyrði er að greiðsluvandi stafi af óvæntum tímabundnum erfiðleikum vegna veikinda, slysa, minni atvinnu eða atvinnuleysis eða af öðrum ófyrirséðum atvikum.
- □ Stjórn Íbúðalánasjóðs er heimilt, með sömu skilyrðum og um getur í 1. mgr., að fresta greiðslum hjá einstökum lánþegum vegna almennra lána, viðbótarlána og lána sem sjóðurinn hefur yfirtekið, sbr. 53. gr., í allt að þrjú ár og leggja þær greiðslur við höfuðstól skuldarinnar, enda þyki slík aðstoð líkleg til að koma í veg fyrir greiðsluvanda. Upphaflegur lánstími lengist sem nemur frestunartíma.
+ □ [Stjórn Íbúðalánasjóðs er heimilt að veita skuldbreytingarlán til allt að [30 ára][^1)^] í því skyni að leysa úr tímabundnum greiðsluerfiðleikum hjá lánþegum vegna almennra lána, viðbótarlána og lána sem sjóðurinn hefur yfirtekið, sbr. [2. mgr. 15. gr. og][^2)^] 53. gr. Skilyrði er að greiðsluvandi stafi af óvæntum tímabundnum erfiðleikum vegna veikinda, slysa, minni atvinnu eða atvinnuleysis eða af öðrum ófyrirséðum atvikum.
+ □ Stjórn Íbúðalánasjóðs er heimilt, með sömu skilyrðum og um getur í 1. mgr., að fresta greiðslum hjá einstökum lánþegum vegna almennra lána, viðbótarlána og lána sem sjóðurinn hefur yfirtekið, sbr. [2. mgr. 15. gr. og][^2)^] 53. gr., í allt að þrjú ár og leggja þær greiðslur við höfuðstól skuldarinnar, enda þyki slík aðstoð líkleg til að koma í veg fyrir greiðsluvanda. Upphaflegur lánstími lengist sem nemur frestunartíma.
  □ Skuldbreytingarlán skv. 1. mgr. og frestun á greiðslum skv. 2. mgr. geta farið saman.
- □ Stjórn Íbúðalánasjóðs er heimilt að lengja upphaflegan lánstíma lána sjóðsins hjá hverjum lántaka um allt að 15 ár með sömu skilyrðum og nefnd eru í 1. mgr. Hámarkslánstími hvers láns má ekki vera lengri en 55 ár.
+ □ Stjórn Íbúðalánasjóðs er heimilt að lengja upphaflegan lánstíma lána sjóðsins hjá hverjum lántaka um allt að [30 ár][^1)^] með sömu skilyrðum og nefnd eru í 1. mgr. Hámarkslánstími hvers láns má ekki vera lengri en [70 ár].[^1)^]
  □ Stjórn varasjóðs viðbótarlána skal samþykkja aðstoð Íbúðalánasjóðs skv. 1. - 4. mgr. vegna lána sjóðsins sem eru með veði í íbúð sem viðbótarlán hvílir á.
- □ Stjórn Íbúðalánasjóðs er heimilt að fresta greiðslum hjá lántakendum lána til byggingar eða kaupa á leiguhúsnæði og lánþegum eldri lána sem Íbúðalánasjóður hefur yfirtekið, sbr. 53. gr., vegna tímabundinna greiðsluerfiðleika. Skilyrði er að greiðsluvandi sé tilkominn vegna ófyrirséðra atvika eða endurskipulagningar á fjárhag félaga eða félagasamtaka, enda þyki slík aðstoð líkleg til að koma í veg fyrir greiðsluvanda.
- □ Ráðherra setur nánari reglur[^1)^] um framkvæmd þessa ákvæðis að fengnum tillögum stjórnar Íbúðalánasjóðs.][^2)^]
-    _[^1)^]Rg. 584/2001, rgl. 585/2008_. [^2)^]L. 77/2001, 4. gr.
+ □ Stjórn Íbúðalánasjóðs er heimilt að fresta greiðslum hjá lántakendum lána til byggingar eða kaupa á leiguhúsnæði og lánþegum eldri lána sem Íbúðalánasjóður hefur yfirtekið, sbr. [2. mgr. 15. gr. og][^2)^] 53. gr., vegna tímabundinna greiðsluerfiðleika. Skilyrði er að greiðsluvandi sé tilkominn vegna ófyrirséðra atvika eða endurskipulagningar á fjárhag félaga eða félagasamtaka, enda þyki slík aðstoð líkleg til að koma í veg fyrir greiðsluvanda.
+ □ Ráðherra setur nánari reglur[^3)^] um framkvæmd þessa ákvæðis að fengnum tillögum stjórnar Íbúðalánasjóðs.][^4)^]
+    _[^1)^]L. 138/2008, 2. gr._ [^2)^]"L. 125/2008, 13. gr.":2008125.html [^3)^]Rg. 584/2001, sbr. 954/2008; rgl. 585/2008. [^4)^]L. 77/2001, 4. gr.
  ■ *49. gr.* _Gjaldtaka._
  □ Félagsmálaráðherra ákvarðar með reglugerð,[^1)^] að fengnum tillögum stjórnar Íbúðalánasjóðs, lántökugjöld, gjöld vegna innheimtu af lánum stofnunarinnar sem eru í vanskilum og gjöld vegna skuldbreytinga, veðleyfa og veðbandslausna, svo og gjöld vegna annarrar sambærilegrar þjónustu. Heimilt er að jafna kostnaði niður á skuldara þannig að búseta hafi ekki áhrif á kostnaðinn.
     _[^1)^]Rg. 1016/2005_, sbr. 504/2008.

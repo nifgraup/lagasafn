@@ -7,7 +7,7 @@ h2. Lög um eftirlit með skipum
 <hr />
 
 
- *Tóku gildi 1. janúar 2004.* _EES-samningurinn:_ VIII. viðauki tilskipun 97/70/EB, 98/18/EB og 1999/35/EB. _Breytt með_ "l. 88/2008":2008088.html (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
+ *Tóku gildi 1. janúar 2004.* _EES-samningurinn:_ VIII. viðauki tilskipun 97/70/EB, 98/18/EB og 1999/35/EB. _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 139/2008 (tóku gildi 13. des. 2008).
 
 
  *I. kafli.* *Gildissvið og orðskýringar.*
@@ -36,7 +36,7 @@ h2. Lög um eftirlit með skipum
  □ Ráðherra ákveður nánar í reglugerð[^1)^] um smíði, stöðugleika, hleðslumerki og búnað skipa.
  □ Ráðherra ákveður í reglum hvaða lög, stjórnvaldsfyrirmæli, skírteini og skipsbækur skuli vera um borð í skipum.
  □ Skip skulu smíðuð og búin í samræmi við lög og reglur um varnir gegn mengun sjávar og stranda.
-    _[^1)^]Rgl. 189/1994_, sbr. rg. 714/1995, augl. 359/1996, rgl. 337/1997, augl. 2/1998, rgl. 314/1998, augl. 522/1999, rgl. 891/1999, rg. 26/2000, rgl. 147/2000, rg. 667/2001, 122/2004, rgl. 603/2004 og rg. 377/2007. Rg. 666/2001, sbr. 17/2005 og 423/2005. Rg. 310/2003, sbr. 507/2005 og 388/2006; rg. 122/2004, rg. 589/2004, rg. 677/2004, rg. 551/2005, sbr. 879/2006; rg. 520/2006, rg. 131/2007, rg. 200/2007, rg. 377/2007, rg. 1120/2007.
+    _[^1)^]Rgl. 189/1994_, sbr. rg. 714/1995, augl. 359/1996, rgl. 337/1997, augl. 2/1998, rgl. 314/1998, augl. 522/1999, rgl. 891/1999, rg. 26/2000, rgl. 147/2000, rg. 667/2001, 122/2004, rgl. 603/2004 og rg. 377/2007; rg. 53/2000, sbr. 122/2004 og 956/2008. Rg. 666/2001, sbr. 17/2005 og 423/2005; rg. 122/2004, sbr. 955/2008; rg. 589/2004, rg. 677/2004, rg. 551/2005, sbr. 879/2006; rg. 520/2006, rg. 131/2007, rg. 200/2007, rg. 377/2007, rg. 1120/2007, rg. 1110/2008.
  ■ *4. gr.* _Aðbúnaður og vinnuskilyrði._
  □ Ráðherra setur reglur[^1)^] um aðbúnað og vinnuskilyrði skipverja, svo sem hönnun og merkingar vinnusvæða, öryggisbúnað, notkun og viðhald vinnutækja og öryggisbúnaðar og heilbrigðis- og hollustuhætti í skipum.
     _[^1)^]Rg. 588/2002_, rg. 200/2007.
@@ -111,25 +111,23 @@ h2. Lög um eftirlit með skipum
 ■ *23. gr.* _Brottfall farbanns._
  □ Ef ástæður farbanns eru ekki lengur fyrir hendi skal farbanni aflétt þegar í stað.
  □ Telji siglingamálastjóri að farbann, sem starfsmenn hans hafa lagt á, sé ekki á rökum reist skal hann þegar í stað fella það úr gildi.
-■ *24. gr.* _Farbannsnefnd._
- □ Útgerðarmaður skips og skipstjóri geta kært farbann til farbannsnefndar.
- □ Samgönguráðherra skipar farbannsnefnd til þriggja ára í senn. Farbannsnefnd skipa fimm menn og jafnmargir til vara. Formaður skal fullnægja almennum dómaraskilyrðum. Hinir fjórir nefndarmennirnir skulu búa yfir sérþekkingu á sviði siglinga eða skipatækni í samræmi við verksvið nefndarinnar. Ráðherra setur nefndinni starfsreglur.
- □ Úrskurði nefndarinnar verður ekki skotið til æðra stjórnvalds.
-■ *25. gr.* _Verkefni farbannsnefndar._
- □ Verkefni farbannsnefndar er að úrskurða um gildi farbanns.
- □ Málshöfðun til ógildingar á úrskurði farbannsnefndar frestar ekki réttaráhrifum hans.
+■ *24. gr.* [Útgerðarmaður og skipstjóri geta kært farbann til samgönguráðherra. Telji ráðherra að sérkunnáttu þurfi til að skera úr um málið getur hann kvatt til einn eða tvo ráðgjafa sem hafa slíka sérkunnáttu. Um málsmeðferð að öðru leyti fer samkvæmt stjórnsýslulögum. Málshöfðun til ógildingar á úrskurði ráðuneytis frestar ekki réttaráhrifum hans.][^1)^]
+    _[^1)^]L. 139/2008, 2. gr._ Þar er ekki kveðið á um að fyrirsögn greinarinnar „Farbannsnefnd“ falli brott en efnislegar breytingar fela það í sér að hún á ekki lengur við.
+ ■ *25. gr.* ...[^1)^]
+    _[^1)^]L. 139/2008, 3. gr._
 
  *V. kafli.* *Málsmeðferð fyrir dómi.*
-■ *26. gr.* _Refsingar o.fl._
- □ Um refsimál sem höfðað er út af brotum á lögum þessum fer að hætti opinberra mála. Sé þörf sérkunnáttu við úrlausn máls skulu tveir sérfróðir meðdómendur skipa dóm, auk eins héraðsdómara.[^1)^]
- □ Áður en ákærandi höfðar opinbert mál út af brotum á lögunum getur hann leitað umsagnar siglingamálastjóra liggi hún ekki þegar fyrir. Ber siglingamálastjóra að láta í té rökstudda umsögn svo fljótt sem verða má.[^1)^]
+ ■ *26. gr.* _Refsingar o.fl._
+ □ ...[^1)^]
+ □ Áður en ákærandi [gefur út ákæru vegna brota][^1)^] á lögunum getur hann leitað umsagnar siglingamálastjóra liggi hún ekki þegar fyrir. Ber siglingamálastjóra að láta í té rökstudda umsögn svo fljótt sem verða má.
  □ Ákærandi skal útvega samgönguráðuneyti og Siglingastofnun Íslands eftirrit dóma í málum út af brotum á lögum þessum.
-    _[^1)^]Málsgreininni var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html
+    _[^1)^]_"L. 88/2008, 234. gr.":2008088.html#g234
  ■ *27. gr.* _Málsmeðferð._
- □ Málum sem höfðuð eru til ógildingar á úrskurðum farbannsnefndar skv. 24. og 25. gr. skal hraða svo sem kostur er. Um mál þessi fer eftir almennri meðferð einkamála.
+ □ Málum sem höfðuð eru til ógildingar á úrskurðum [ráðuneytis][^1)^] skal hraða svo sem kostur er. Um mál þessi fer eftir almennri meðferð einkamála.
+    _[^1)^]L. 139/2008, 4. gr._
 
  *VI. kafli.* *Gjöld.*
-■ *28. gr.* _Gjöld._
+ ■ *28. gr.* _Gjöld._
  □ Eigandi skips skal greiða árlega í ríkissjóð sérstakt gjald, skipagjald, af hverju skipi sem skráð er á aðalskipaskrá eins og hér segir:    _Skráningarlengd skips [hfill] Árlegt gjald (í kr.)_
     [lt] 8 metrar 6.250
     8 - 15 metrar 11.200
@@ -147,8 +145,8 @@ h2. Lög um eftirlit með skipum
 
  *VII. kafli.* *Refsingar, svipting réttinda o.fl.*
  ■ *29. gr.* _Brot._
- □ Brot gegn lögum þessum eða reglum settum samkvæmt þeim varða sektum eða fangelsi allt að tveimur árum og lúta meðferð opinberra mála.[^1)^]
-    _[^1)^]Greininni var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html
+ □ Brot gegn lögum þessum eða reglum settum samkvæmt þeim varða sektum eða fangelsi allt að tveimur árum ...[^1)^]
+    _[^1)^]_"L. 88/2008, 234. gr.":2008088.html#g234
  ■ *30. gr.* _Hlutdeild._
  □ Um brot skv. 29. gr. skal beitt reglum almennra hegningarlaga um hlutdeild.
  □ Nú er brot framið með verknaði sem refsiverður er samkvæmt almennum hegningarlögum og skal þá einnig beita viðeigandi ákvæðum þeirra.
@@ -166,7 +164,7 @@ h2. Lög um eftirlit með skipum
 
  *VIII. kafli.* *Gildistaka.*
 ■ *35. gr.* Lög þessi öðlast gildi 1. janúar 2004. ... Reglugerðir settar samkvæmt ákvæðum ["laga nr. 35/1993":1993035.html] halda gildi sínu að svo miklu leyti sem þær fara ekki í bága við ákvæði þessara laga.[^1)^]
-    _[^1)^]Rg. 153/1994 (um viðurkenningu flokkunarfélaga vegna eftirlits með skipum), sbr. 364/1999. Rg. 189/1994 (um björgunar- og öryggisbúnað íslenskra skipa), sbr. rg. 714/1995, augl. 359/1996, rgl. 337/1997, augl. 2/1998, rgl. 314/1998, augl. 522/1999, rgl. 891/1999, rg. 26/2000, rgl. 147/2000, rg. 667/2001, 122/2004, rgl. 603/2004 og rg. 377/2007. Rg. 592/1994 (um smíði og búnað báta með mesta lengd allt að 15 metrum), sbr. 210/1995, 55/1998, 693/1998, 720/2000, 778/2006 og 779/2006. Augl. 574/1996. Rg. 661/1996 (um smíði báta styttri en 6 metrar). Rg. 168/1997 (um skemmtibáta), sbr. 708/2000 og 1045/2005. Rg. 365/1998 (um lyf og læknisáhöld í íslenskum skipum), sbr. 921/2003. Rg. 463/1998 (um farþegaflutninga). Rg. 53/2000 (um fjarskiptabúnað og fjarskipti íslenskra skipa), sbr. 122/2004._
+    _[^1)^]Rg. 153/1994 (um viðurkenningu flokkunarfélaga vegna eftirlits með skipum), sbr. 364/1999. Rg. 189/1994 (um björgunar- og öryggisbúnað íslenskra skipa), sbr. rg. 714/1995, augl. 359/1996, rgl. 337/1997, augl. 2/1998, rgl. 314/1998, augl. 522/1999, rgl. 891/1999, rg. 26/2000, rgl. 147/2000, rg. 667/2001, 122/2004, rgl. 603/2004 og rg. 377/2007. Rg. 592/1994 (um smíði og búnað báta með mesta lengd allt að 15 metrum), sbr. 210/1995, 55/1998, 693/1998, 720/2000, 778/2006 og 779/2006. Augl. 574/1996. Rg. 661/1996 (um smíði báta styttri en 6 metrar). Rg. 168/1997 (um skemmtibáta), sbr. 708/2000 og 1045/2005. Rg. 365/1998 (um lyf og læknisáhöld í íslenskum skipum), sbr. 921/2003. Rg. 463/1998 (um farþegaflutninga)._
 
 
 

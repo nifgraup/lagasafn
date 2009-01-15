@@ -7,7 +7,7 @@ h2. Lög um varnir gegn mengun hafs og stranda
 <hr />
 
 
- *Tóku gildi 1. október 2004, sjá þó 29. gr.* _Breytt með_ l. 114/2004 (tóku gildi 13. nóv. 2004) og "l. 68/2006":2006068.html (tóku gildi 30. júní 2006).
+ *Tóku gildi 1. október 2004, sjá þó 29. gr.* _Breytt með_ l. 114/2004 (tóku gildi 13. nóv. 2004), "l. 68/2006":2006068.html (tóku gildi 30. júní 2006) og l. 166/2008 (tóku gildi 1. jan. 2009).
 
 
  *I. kafli.* *Markmið, gildissvið og skilgreiningar.*
@@ -29,11 +29,11 @@ h2. Lög um varnir gegn mengun hafs og stranda
     6. _Kjölfestuvatn:_ Vatn, ásamt uppleysanlegum efnum og gruggi, sem er tekið um borð í skip í því skyni að stjórna styrk, halla, kjölristu, stöðugleika eða álagi skips.
     7. _Losun:_ Þegar vísvitandi eða af stórfelldu gáleysi er hleypt í sjóinn fljótandi eða föstum efnum sem tengjast eðlilegri starfsemi. Eftirfarandi telst ekki losun:
     a. að koma fyrir efnum eða hlutum í hafinu í öðrum lögmætum tilgangi en að farga þeim,
-    b. þegar úrgangsefni eða önnur efni, sem beinlínis stafa frá rannsóknum eða nýtingu jarðefna í eða á hafsbotni, berast í hafið,
+    b. þegar úrgangsefni eða önnur efni, sem beinlínis stafa frá rannsóknum eða nýtingu jarðefna í eða á hafsbotni, berast í hafið [nema um sé að ræða efni frá kolvetnisvinnslu eða borunum tengdum henni],[^1)^]
     c. að kasta í hafið óunnum fiski og fiskúrgangi og öðrum sjávarlífverum vegna veiða og vinnslu.
     8. _Lýsi og grútur:_ Allar tegundir feitmetis sem unnið er eða kemur úr sjávarlífverum og niðurbrotsefni þeirra.
     9. _Mengun:_ Þegar örverur, efni og efnasambönd og eðlisfræðilegir þættir valda óæskilegum og skaðlegum áhrifum á heilsufar almennings, röskun lífríkis eða óhreinkun lofts, láðs eða lagar. Mengun tekur einnig til ólyktar, hávaða, titrings, geislunar og varmaflæðis og ýmissa óæskilegra eðlisfræðilegra þátta.
-    10. [_Mengunarlögsaga Íslands:_ Hafsvæðið sem nær yfir innsævi að meðtalinni strönd að efstu flóðmörkum á stórstraumsflóði, landhelgi og efnahagslögsögu, landgrunn Íslands og efstu jarðlög, sbr. lög um landhelgi, efnahagslögsögu og landgrunn.][^1)^]
+    10. [_Mengunarlögsaga Íslands:_ Hafsvæðið sem nær yfir innsævi að meðtalinni strönd að efstu flóðmörkum á stórstraumsflóði, landhelgi og efnahagslögsögu, landgrunn Íslands og efstu jarðlög, sbr. lög um landhelgi, efnahagslögsögu og landgrunn.][^2)^]
     11. _Mengunartjón:_ Tjón eða skaði sem hlýst af mengun hafs og stranda hvar sem slík mengun kann að eiga sér stað og af hvers konar völdum sem hún er. Mengunartjón tekur einnig til kostnaðar vegna ráðstafana til að koma í veg fyrir tjón, frekara tjón eða skaða sem hlýst af slíkum ráðstöfunum.
     12. _Netlög:_ Sjávarbelti 115 m frá stórstraumsfjöruborði.
     13. _Olía:_ Vökvakennd olíuefni í hvaða formi sem er, þ.m.t. hráolía, svartolía, smurolía, jurtaolía, olíuúrgangur og unnin olía.
@@ -52,7 +52,7 @@ h2. Lög um varnir gegn mengun hafs og stranda
     b. þegar úrgangsefni eða önnur efni, sem beinlínis stafa frá rannsóknum eða nýtingu jarðefna í eða á hafsbotni, berast í hafið,
     c. að kasta óunnum fiski og fiskúrgangi og öðrum sjávarlífverum vegna veiða og vinnslu í hafið.
     25. _Vöktun:_ Kerfisbundin og síendurtekin skráning einstakra breytilegra þátta í umhverfinu.
-    _[^1)^]L. 114/2004, 2. gr._
+    _[^1)^]L. 114/2004, 2. gr._ [^2)^]L. 166/2008, 21. gr.
 
  *II. kafli.* *Stjórn og skipan.*
  ■ *4. gr.* _Yfirstjórn og eftirlitsaðilar._
@@ -249,12 +249,14 @@ h2. Lög um varnir gegn mengun hafs og stranda
     35. Skolphreinsistöðvar, útrásardælustöðvar og fráveitur.
     36. Flugvellir.
     37. Annar sambærilegur atvinnurekstur.
+    [38. Rannsóknir og vinnsla kolvetnis innan mengunarlögsögunnar.][^1)^]
  *B. Þættir sem taka ber tillit til við mat á mögulegri áhættu af starfseminni fyrir umhverfi hafs og strandar.*
     1. Magn hættulegra efna sem notuð eru í starfseminni.
     2. Eðli og verkan þeirra hættulegu efna sem notuð eru í starfseminni.
     3. Fjarlægð starfseminnar frá sjó.
     4. Hugsanleg áhrif bráðamengunar, m.a. með tilliti til viðtaka.
     5. Aðrar ábyrgðartryggingar og umfang þeirra.
+    _[^1)^]L. 166/2008, 22. gr._
 
  *Viðauki II.*
  *Listi yfir olíur og önnur efni sem hægt er að banna eða takmarka losun á í hafið.*

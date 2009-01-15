@@ -7,15 +7,16 @@ h2. Lög um brunavarnir
 <hr />
 
 
- *Tóku gildi 1. janúar 2001.* _Breytt með_ l. 164/2002 (tóku gildi 1. jan. 2003), l. 67/2007 (tóku gildi 4. apríl 2007) og "l. 88/2008":2008088.html (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
+ *Tóku gildi 1. janúar 2001.* _Breytt með_ l. 164/2002 (tóku gildi 1. jan. 2003), l. 67/2007 (tóku gildi 4. apríl 2007), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 166/2008 (tóku gildi 1. jan. 2009).
 
 
  *I. kafli.* *Markmið, gildissvið og skilgreiningar.*
  ■ *1. gr.* _Markmið._
  □ Markmið laga þessara er að vernda líf, heilsu fólks, umhverfi og eignir með því að tryggja fullnægjandi eldvarnaeftirlit og viðbúnað við eldsvoðum og mengunaróhöppum á landi.
 ■ *2. gr.* _Gildissvið._
- □ Lögin gilda um eldvarnir og slökkvistörf vegna eldsvoða og viðbúnað við mengunaróhöppum á landi. Lögin taka ekki til eldvarna í skipum, loftförum, almennum vinnuvélum, bifreiðum eða öðrum vélknúnum ökutækjum.
-■ *3. gr.* _Skilgreiningar._
+ □ Lögin gilda um eldvarnir og slökkvistörf vegna eldsvoða og viðbúnað við mengunaróhöppum á landi [nema kveðið sé á um annað í lögum þessum].[^1)^] Lögin taka ekki til eldvarna í skipum, loftförum, almennum vinnuvélum, bifreiðum eða öðrum vélknúnum ökutækjum.
+    _[^1)^]L. 166/2008, 23. gr._
+ ■ *3. gr.* _Skilgreiningar._
  □ Merking orða í lögum þessum er sem hér segir:
     _Atvinnuhúsnæði:_ Húsnæði þar sem almenningur kemur saman, dvelur, sækir þjónustu og þar sem hvers konar atvinnustarfsemi fer fram.
     _Bráð hætta:_ Þegar ætla má að fólk geti ekki forðað sér til öruggs staðar við eldsvoða eða mengunaróhapp.
@@ -41,8 +42,10 @@ h2. Lög um brunavarnir
     g. fylgjast með og eftir atvikum stunda sjálfstæðar rannsóknir á sviði brunavarna og semja árlega skýrslu um orsakir og afleiðingar eldsvoða,
     h. eiga samstarf við hliðstæðar stofnanir í nágrannalöndunum og fylgjast með framförum og nýjungum á sviði brunavarna,
     i. gera tillögur til ráðuneytis um breytingar á reglum um brunamál eftir því sem tilefni gefst til.
+ □ [Um eldvarnaeftirlit varðandi mannvirki vegna rannsókna og vinnslu kolvetnis í íslenskri efnahagslögsögu og innan landgrunnsmarka fer samkvæmt ákvæðum þessarar greinar eftir því sem við getur átt. Brunamálastofnun annast framkvæmd eldvarnaeftirlits og setur um það reglur sem hljóta skulu staðfestingu ráðherra.][^1)^]
  □ Ráðherra getur með reglugerð kveðið nánar á um verkefni og starfsemi Brunamálastofnunar.
-■ *6. gr.* _Samræming brunavarna._
+    _[^1)^]L. 166/2008, 24. gr._
+ ■ *6. gr.* _Samræming brunavarna._
  □ Brunamálastofnun vinnur að samræmingu brunavarna í landinu og stuðlar að samvinnu þeirra sem starfa að brunavörnum. Stofnunin skal með sjálfstæðum athugunum og úttektum leiðbeina sveitarstjórnum um kröfur sem gerðar eru til eldvarnaeftirlits og slökkviliða. Við úttektir og athuganir skal Brunamálastofnun leita umsagnar slökkviliðsstjóra áður en niðurstaða stofnunarinnar er send viðkomandi sveitarfélagi.
 ■ *7. gr.* _Brunamálaráð._
  □ Ráðherra skipar brunamálaráð til fjögurra ára í senn að afloknum alþingiskosningum. Í brunamálaráði skulu sitja sjö fulltrúar og tilnefna Brunatæknifélag Íslands, Félag slökkviliðsstjóra, Landssamband slökkviliðs- og sjúkraflutningamanna, Samband íslenskra tryggingafélaga, Samband íslenskra sveitarfélaga og Samtök atvinnulífsins einn fulltrúa hvert í ráðið. Ráðherra skipar formann brunamálaráðs án tilnefningar. Varamenn eru skipaðir á sama hátt.
@@ -77,7 +80,10 @@ h2. Lög um brunavarnir
  ■ *13. gr.* _Brunavarnaáætlun._
  □ Á hverju starfssvæði slökkviliðs skal liggja fyrir brunavarnaáætlun sem fengið hefur umsögn Brunamálastofnunar og samþykki sveitarstjórnar. Brunavarnaáætlun skal endurskoða eigi síðar en að fimm árum liðnum frá því að hún hlaut samþykki. Markmið brunavarnaáætlunar er að tryggja að slökkvilið sé þannig mannað, skipulagt, útbúið tækjum, menntað og þjálfað að það ráði við þau verkefni sem því eru falin með lögum þessum og reglugerðum settum samkvæmt þeim.
  □ Brunamálastofnun gefur út leiðbeiningar um efni og gerð brunavarnaáætlunar.
-■ *14. gr.* _Samstarf sveitarfélaga._
+■ *[13. gr. a.* Mannvirki innan efnahagslögsögu og landgrunnsmarka sem eru fyrirhuguð eða tilkomin vegna rannsókna og vinnslu kolvetnis skulu háð sérstöku öryggismati sem framkvæmt er af notanda mannvirkis og staðfest af Brunamálastofnun. Öryggismat þetta skal endurskoða að jafnaði á fimm ára fresti. Umhverfisráðherra setur að fengnum tillögum Brunamálastofnunar reglugerð um útfærslu og framkvæmd öryggismats, svo og þau gögn og upplýsingar sem nauðsynlegar verður að telja til að matið byggist á öruggum forsendum. Í reglugerð þessari skal einnig kveðið á um hlutverk slökkviliða vegna eld- eða sprengihættu í þessu sambandi.
+ □ Brunamálastofnun er heimil gjaldtaka vegna eldvarnaeftirlits, öryggismats og endurskoðunar öryggismats. Gjaldið má þó ekki vera hærra en nemur rökstuddum kostnaði við gerð eða endurskoðun öryggismats og framkvæmd eldvarnaeftirlits.][^1)^]
+    _[^1)^]L. 166/2008, 25. gr._
+ ■ *14. gr.* _Samstarf sveitarfélaga._
  □ Sveitarfélög geta haft samvinnu sín á milli um brunavarnir.
  □ Tvö sveitarfélög eða fleiri geta samið um sameiginlegt slökkvilið. Sveitarfélagi er einnig heimilt að semja við annað sveitarfélag um að hafa með höndum verkefni og stjórn slökkviliðs að hluta. Um slíkt skal gera skriflegan samning sem skal tilkynna til Brunamálastofnunar.
 
@@ -137,9 +143,9 @@ h2. Lög um brunavarnir
  ■ *26. gr.* _Tilkynningarskylda._
  □ Þeim sem verður fyrir brunatjóni er skylt að tilkynna það til hlutaðeigandi lögreglustjóra svo fljótt sem unnt er.
 ■ *27. gr.* _Lögreglurannsókn._
- □ Lögregla rannsakar eldsvoða þegar eftir brunatjón samkvæmt ákvæðum laga um meðferð opinberra mála og kveður til sérfróða menn eftir því sem hún telur þörf á.[^1)^] Hún tilkynnir Brunamálastofnun og Löggildingarstofu um eldsvoðann og rannsókn sína.
+ □ Lögregla rannsakar eldsvoða þegar eftir brunatjón samkvæmt ákvæðum laga um meðferð [sakamála][^1)^] og kveður til sérfróða menn eftir því sem hún telur þörf á. Hún tilkynnir Brunamálastofnun og Löggildingarstofu um eldsvoðann og rannsókn sína.
  □ Að lokinni rannsókn sendir lögreglan afrit af rannsóknargögnum til Brunamálastofnunar, hlutaðeigandi slökkviliðsstjóra og vátryggingafélags nema öðruvísi sé mælt fyrir um í lögum.
-    _[^1)^]Málsliðnum var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html
+    _[^1)^]_"L. 88/2008, 234. gr.":2008088.html#g234
  ■ *28. gr.* _Rannsókn Brunamálastofnunar._
  □ Verði manntjón eða mikið eignatjón í eldsvoða skal Brunamálastofnun, óháð lögreglurannsókn, rannsaka eldsvoðann, kröfur eldvarnaeftirlits og hvernig að slökkvistarfi hafi verið staðið.
  □ Vátryggingafélög skulu senda Brunamálastofnun upplýsingar ár hvert um bætt tjón af völdum bruna og mengunaróhappa á landi.

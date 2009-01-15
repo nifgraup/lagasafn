@@ -8,14 +8,14 @@ h2. [Lög um olíugjald og kílómetragjald][^1)^]
 
    _[^1)^]L. 169/2006, 14. gr._
 
- *Tóku gildi 1. júlí 2005.* _Breytt með_ l. 70/2005 (tóku gildi 1. júlí 2005), l. 126/2005 (tóku gildi 30. des. 2005), l. 136/2005 (tóku gildi 30. des. 2005), l. 81/2006 (tóku gildi 30. júní 2006), l. 169/2006 (tóku gildi 30. des. 2006), l. 162/2007 (tóku gildi 1. jan. 2008) og "l. 88/2008":2008088.html (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
+ *Tóku gildi 1. júlí 2005.* _Breytt með_ l. 70/2005 (tóku gildi 1. júlí 2005), l. 126/2005 (tóku gildi 30. des. 2005), l. 136/2005 (tóku gildi 30. des. 2005), l. 81/2006 (tóku gildi 30. júní 2006), l. 169/2006 (tóku gildi 30. des. 2006), l. 162/2007 (tóku gildi 1. jan. 2008), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 137/2008 (tóku gildi 12. des. 2008).
 
 
  *I. kafli.* *Vörugjald af olíu, gjaldskylda og fjárhæð gjalds.*
  ■ *1. gr.* Greiða skal í ríkissjóð vörugjald af gas- og dísilolíu sem flokkast í tollskrárnúmer 2710.1930 og nothæf er sem eldsneyti á ökutæki. Í lögum þessum er vörugjald á olíu nefnt olíugjald.
  □ Gjaldskylda skv. 1. mgr. nær einnig til olíu í öðrum tollskrárnúmerum sem blönduð hefur verið gjaldskyldri olíu, enda séu blöndurnar nothæfar sem eldsneyti á ökutæki.
- □ Fjárhæð olíugjalds skal vera [41 kr.][^1)^] á hvern lítra af olíu.
-    _[^1)^]L. 162/2007, 1. gr._
+ □ Fjárhæð olíugjalds skal vera [46,12 kr.][^1)^] á hvern lítra af olíu.
+    _[^1)^]L. 137/2008, 1. gr._
  ■ *2. gr.* Tollstjóri annast álagningu og innheimtu olíugjalds af gjaldskyldri olíu sem aðrir en þeir sem skráðir hafa verið skv. 3. gr. flytja til landsins. Ríkisskattstjóri annast álagningu olíugjalds á þá sem skráningarskyldir eru skv. 3. gr. vegna sölu þeirra og eigin nota á gjaldskyldri olíu. Ríkisskattstjóra er heimilt að fela skattstjórum framkvæmd einstakra verkefna sem honum eru falin í lögunum.
  *Gjaldskyldir aðilar.*
 ■ *3. gr.* Gjaldskyldir aðilar samkvæmt lögum þessum eru:
@@ -92,24 +92,23 @@ h2. [Lög um olíugjald og kílómetragjald][^1)^]
     1. bifreiðum sem skráðar eru hér á landi, eru 5.000 kg eða meira að leyfðri heildarþyngd og skráðar eru í ökutækjaskrá sem ökutæki til sérstakra nota skv. [7. tölul.][^2)^] 1. mgr. 4. gr.,
     2. eftirvögnum sem skráðir eru hér á landi, eru 5.000 kg eða meira að leyfðri heildarþyngd og dregnir eru af dráttarvélum. Skrá ber umrædda eftirvagna sem dregnir eru af dráttarvélum hjá Umferðarstofu. Undanþegnir gjaldskyldu eru eftirvagnar sem taldir eru upp í 3. málsl. 1. mgr. "63. gr. umferðarlaga, nr. 50/1987":1987050.html#g63, með síðari breytingum.][^1)^]
  □ Gjaldskylda samkvæmt þessu ákvæði hvílir á skráðum eiganda ökutækis á álestrardegi eða afskráningardegi hafi ökutæki verið afskráð. Hafi orðið eigendaskipti á ökutæki án þess að það hafi verið tilkynnt til skráningar hvílir gjaldskyldan jafnframt á nýjum eiganda. Ef annar aðili en skráður eigandi hefur umráðarétt yfir skráningarskyldu ökutæki ber hann óskipta ábyrgð með skráðum eiganda á greiðslu kílómetragjalds [og sérstaks kílómetragjalds].[^1)^] Skylda til greiðslu kílómetragjalds [og sérstaks kílómetragjalds][^1)^] af ökutæki sem skráð er erlendis hvílir á innflytjanda þess.
- □ Kílómetragjald af gjaldskyldum bifreiðum skv. 1. tölul. 1. mgr., sbr. 3. tölul., skal vera sem hér segir:
-
+ □ [Kílómetragjald af gjaldskyldum bifreiðum skv. 1. tölul. 1. mgr., sbr. 3. tölul., skal vera sem hér segir:
 
 |_Leyfð heildar-_|_Kíló-_|_Leyfð heildar-_|_Kíló-_|
 |_þyngd öku-_|_metra-_|_þyngd öku-_|_metra-_|
 |_tækis, kg_|_gjald, kr._|_tækis, kg_|_gjald, kr._|
 
-|10.000 - 11.000|0,29|21.001 - 22.000|6,89|
-|11.001 - 12.000|0,89|22.001 - 23.000|7,49|
-|12.001 - 13.000|1,49|23.001 - 24.000|8,09|
-|13.001 - 14.000|2,09|24.001 - 25.000|8,69|
-|14.001 - 15.000|2,69|25.001 - 26.000|9,29|
-|15.001 - 16.000|3,29|26.001 - 27.000|9,89|
-|16.001 - 17.000|3,89|27.001 - 28.000|10,49|
-|17.001 - 18.000|4,49|28.001 - 29.000|11,09|
-|18.001 - 19.000|5,09|29.001 - 30.000|11,69|
-|19.001 - 20.000|5,69|30.001 - 31.000|12,29|
-|20.001 - 21.000|6,29|31.001 og yfir|12,89|
+|10.000 - 11.000|0,33|21.001.22.000|7,75|
+|11.001 - 12.000|1,00|22.001 - 23.000|8,43|
+|12.001 - 13.000|1,68|23.001 - 24.000|9,10|
+|13.001 - 14.000|2,35|24.001 - 25.000|9,78|
+|14.001 - 15.000|3,03|25.001 - 26.000|10,45|
+|15.001 - 16.000|3,70|26.001 - 27.000|11,13|
+|16.001 - 17.000|4,38|27.001 - 28.000|11,80|
+|17.001 - 18.000|5,05|28.001 - 29.000|12,48|
+|18.001 - 19.000|5,73|29.001 - 30.000|13,15|
+|19.001 - 20.000|6,40|30.001 - 31.000|13,83|
+|20.001 - 21.000|7,08|31.000 og yfir|14,50][^3)^]|
 
 □ Kílómetragjald af gjaldskyldum eftirvögnum skv. 2. tölul. 1. mgr., sbr. 3. tölul., skal vera sama fjárhæð kílómetragjaldsins og kveðið er á um í [4. mgr.][^1)^]
  □ [Sérstakt kílómetragjald af gjaldskyldum bifreiðum skv. 2. mgr. skal vera sem hér segir:
@@ -126,96 +125,96 @@ h2. [Lög um olíugjald og kílómetragjald][^1)^]
 <tbody>
 <tr class="odd">
 <td align="left">5.000 - 6.000</td>
-<td align="left">8,45</td>
+<td align="left">9,51</td>
 <td align="left">18.001 - 19.000</td>
-<td align="left">22,31</td>
+<td align="left">25,10</td>
 </tr>
 <tr class="even">
 <td align="left">6.001 - 7.000</td>
-<td align="left">9,14</td>
+<td align="left">10,28</td>
 <td align="left">19.001 - 20.000</td>
-<td align="left">23,32</td>
+<td align="left">26,23</td>
 </tr>
 <tr class="odd">
 <td align="left">7.001 - 8.000</td>
-<td align="left">9,84</td>
+<td align="left">11,07</td>
 <td align="left">20.001 - 21.000</td>
-<td align="left">24,33</td>
+<td align="left">27,37</td>
 </tr>
 <tr class="even">
 <td align="left">8.001 - 9.000</td>
-<td align="left">10,54</td>
+<td align="left">11,86</td>
 <td align="left">21.001 - 22.000</td>
-<td align="left">25,34</td>
+<td align="left">28,51</td>
 </tr>
 <tr class="odd">
 <td align="left">9.001 - 10.000</td>
-<td align="left">11,23</td>
+<td align="left">12,63</td>
 <td align="left">22.001 - 23.000</td>
-<td align="left">26,35</td>
+<td align="left">29,64</td>
 </tr>
 <tr class="even">
 <td align="left">10.001 - 11.000</td>
-<td align="left">12,22</td>
+<td align="left">13,75</td>
 <td align="left">23.001 - 24.000</td>
-<td align="left">27,36</td>
+<td align="left">30,78</td>
 </tr>
 <tr class="odd">
 <td align="left">11.001 - 12.000</td>
-<td align="left">13,52</td>
+<td align="left">15,21</td>
 <td align="left">24.001 - 25.000</td>
-<td align="left">28,37</td>
+<td align="left">31,92</td>
 </tr>
 <tr class="even">
 <td align="left">12.001 - 13.000</td>
-<td align="left">14,82</td>
+<td align="left">16,67</td>
 <td align="left">25.001 - 26.000</td>
-<td align="left">29,38</td>
+<td align="left">33,05</td>
 </tr>
 <tr class="odd">
 <td align="left">13.001 - 14.000</td>
-<td align="left">16,11</td>
+<td align="left">18,12</td>
 <td align="left">26.001 - 27.000</td>
-<td align="left">30,39</td>
+<td align="left">34,19</td>
 </tr>
 <tr class="even">
 <td align="left">14.001 - 15.000</td>
-<td align="left">17,41</td>
+<td align="left">19,59</td>
 <td align="left">27.001 - 28.000</td>
-<td align="left">31,40</td>
+<td align="left">35,32</td>
 </tr>
 <tr class="odd">
 <td align="left">15.001 - 16.000</td>
-<td align="left">18,71</td>
+<td align="left">21,05</td>
 <td align="left">28.001 - 29.000</td>
-<td align="left">32,41</td>
+<td align="left">36,46</td>
 </tr>
 <tr class="even">
 <td align="left">16.001 - 17.000</td>
-<td align="left">20,00</td>
+<td align="left">22,50</td>
 <td align="left">29.001 - 30.000</td>
-<td align="left">33,42</td>
+<td align="left">37,60</td>
 </tr>
 <tr class="odd">
 <td align="left">17.001 - 18.000</td>
-<td align="left">21,30</td>
+<td align="left">23,96</td>
 <td align="left">30.001 - 31.000</td>
-<td align="left">34,43</td>
+<td align="left">38,73</td>
 </tr>
 <tr class="even">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left">31.001 og yfir</td>
-<td align="left">35,44][^2)^]</td>
+<td align="left">39,87][^3)^]</td>
 </tr>
 </tbody>
 </table>
 
-□ Upphæð kílómetragjalds [og sérstaks kílómetragjalds][^1)^] ræðst af gjaldþyngd ökutækis. Gjaldþyngd ökutækis skal vera leyfð heildarþyngd þess, sbr. ákvæði reglugerðar [nr. 155/2007],[^2)^] um stærð og þyngd ökutækja. [Heildarþyngd ökutækis með farmi má ekki vera umfram gjaldþyngd þess.][^3)^]
- □ Ökumælar skulu settir í bifreiðar og eftirvagna á kostnað eigenda. Í reglugerð[^4)^] skal kveðið á um tegundir og útbúnað mæla, ísetningu þeirra, álestur, viðgerðir og eftirlit. Ef skylt er að búa ökutæki ökurita til eftirlits með aksturs- og hvíldartíma ökumanna samkvæmt reglugerð nr. 136/1995 skal ökuritinn notaður sem ökumælir. Nú er ökuriti notaður sem ökumælir og er ökumanni þá skylt að hafa skráningarblað (skífu) í ökuritanum.
+□ Upphæð kílómetragjalds [og sérstaks kílómetragjalds][^1)^] ræðst af gjaldþyngd ökutækis. Gjaldþyngd ökutækis skal vera leyfð heildarþyngd þess, sbr. ákvæði reglugerðar [nr. 155/2007],[^2)^] um stærð og þyngd ökutækja. [Heildarþyngd ökutækis með farmi má ekki vera umfram gjaldþyngd þess.][^4)^]
+ □ Ökumælar skulu settir í bifreiðar og eftirvagna á kostnað eigenda. Í reglugerð[^5)^] skal kveðið á um tegundir og útbúnað mæla, ísetningu þeirra, álestur, viðgerðir og eftirlit. Ef skylt er að búa ökutæki ökurita til eftirlits með aksturs- og hvíldartíma ökumanna samkvæmt reglugerð nr. 136/1995 skal ökuritinn notaður sem ökumælir. Nú er ökuriti notaður sem ökumælir og er ökumanni þá skylt að hafa skráningarblað (skífu) í ökuritanum.
  □ Ríkisskattstjóri getur, ef sérstaklega stendur á, veitt undanþágu frá því að ökumælisskyld bifreið eða eftirvagn sé útbúin ökumæli, enda fari ákvörðun kílómetragjalds [og sérstaks kílómetragjalds][^1)^] fram á annan jafntryggan hátt.
  □ Kílómetragjald skv. 3. tölul. 1. mgr. [og sérstakt kílómetragjald skv. 6. mgr.][^1)^] skal greiða við brottför bifreiðar eða vagns úr landi.
-    _[^1)^]L. 136/2005, 4. gr._ [^2)^]L. 162/2007, 3. gr. [^3)^]L. 169/2006, 2. gr. [^4)^]Rg. 599/2005.
+    _[^1)^]L. 136/2005, 4. gr._ [^2)^]L. 162/2007, 3. gr. [^3)^]L. 137/2008, 2. gr. [^4)^]L. 169/2006, 2. gr. [^5)^]Rg. 599/2005.
  ■ *[14. gr.][^1)^]* _Ákvörðun kílómetragjalds [og sérstaks kílómetragjalds].[^2)^]_
  □ Álestrartímabil eru frá 1. desember til 15. desember og frá 1. júní til 15. júní ár hvert. Eigandi eða umráðamaður ökutækis sem kílómetragjald [og sérstakt kílómetragjald][^2)^] er greitt af skv. 13. gr. skal án sérstakrar tilkynningar koma með ökutæki til álestraraðila á álestrartímabili og láta lesa á og skrá stöðu ökumælis. Ríkisskattstjóri ákvarðar að loknu hverju álestrartímabili kílómetragjald [og sérstakt kílómetragjald][^2)^] ökutækja, sem færð hafa verið til álestrar, vegna aksturs þeirra frá síðasta álestrartímabili þar á undan til álestrardags. Ríkisskattstjóri skal jafnframt, sé lesið af ökumæli ökutækis utan álestrartímabils, ákvarða kílómetragjald [og sérstakt kílómetragjald][^2)^] vegna aksturs frá síðasta álestri til álestrardags. [Ríkisskattstjóra er heimilt við ákvörðun kílómetragjalds og/eða sérstaks kílómetragjalds að fella gjaldið niður sé það lægra en 200 kr.][^3)^]
  □ Gjalddagi kílómetragjalds [og sérstaks kílómetragjalds][^2)^] fyrir álestrartímabilið 1. desember til 15. desember er 1. janúar þar á eftir og gjalddagi kílómetragjalds [og sérstaks kílómetragjalds][^2)^] fyrir álestrartímabilið 1. júní til 15. júní er 1. júlí þar á eftir. Við eigendaskipti ökutækis er gjalddagi og álestrardagur sá sami, sbr. 21. gr. Eindagar skattsins eru 15. febrúar og 15. ágúst.
@@ -266,16 +265,16 @@ Sektarfjárhæðina skal lækka hlutfallslega þegar fyrir liggur að ekki hafi 
  □ Gera má lögaðila sekt fyrir brot á lögum þessum óháð því hvort brotið megi rekja til saknæms verknaðar fyrirsvarsmanns eða starfsmanns lögaðilans.
  □ ...[^2)^]
     _[^1)^]L. 169/2006, 3. gr._ [^2)^]L. 169/2006, 8. gr.
- ■ *[20. gr.* _Málsmeðferð.[^1)^]_
- □ Yfirskattanefnd úrskurðar sektir skv. 19. gr. nema máli sé vísað til opinberrar rannsóknar og dómsmeðferðar skv. 2. mgr. Um meðferð mála hjá nefndinni fer eftir "lögum nr. 30/1992":1992030.html, um yfirskattanefnd, með síðari breytingum. Skattrannsóknarstjóri ríkisins kemur fram af hálfu hins opinbera þegar nefndin úrskurðar sektir. Úrskurðir nefndarinnar eru fullnaðarúrskurðir.
- □ Skattrannsóknarstjóri ríkisins getur vísað máli til opinberrar rannsóknar af sjálfsdáðum, svo og eftir ósk sökunauts ef hann vill eigi hlíta því að mál verði afgreidd af yfirskattanefnd skv. 1. mgr.
+ ■ *[20. gr.* _Málsmeðferð._
+ □ Yfirskattanefnd úrskurðar sektir skv. 19. gr. nema máli sé vísað til ...[^1)^] rannsóknar og dómsmeðferðar skv. 2. mgr. Um meðferð mála hjá nefndinni fer eftir "lögum nr. 30/1992":1992030.html, um yfirskattanefnd, með síðari breytingum. Skattrannsóknarstjóri ríkisins kemur fram af hálfu hins opinbera þegar nefndin úrskurðar sektir. Úrskurðir nefndarinnar eru fullnaðarúrskurðir.
+ □ Skattrannsóknarstjóri ríkisins getur vísað máli til [rannsóknar lögreglu][^1)^] af sjálfsdáðum, svo og eftir ósk sökunauts ef hann vill eigi hlíta því að mál verði afgreidd af yfirskattanefnd skv. 1. mgr.
  □ Þrátt fyrir ákvæði 1. mgr. er skattrannsóknarstjóra ríkisins eða löglærðum fulltrúa hans heimilt að gefa sökunaut kost á að ljúka refsimeðferð máls með því að greiða sekt til ríkissjóðs, enda verður brot ekki talið varða þyngri refsingu en sekt, og verður máli þá hvorki vísað til opinberrar meðferðar né sektarmeðferðar hjá yfirskattanefnd. Aðila skulu veittar upplýsingar um fyrirhugaða sektarfjárhæð áður en hann fellst á að ljúka máli með þessum hætti. Sektarákvörðun samkvæmt ákvæði þessu skal lokið innan sex mánaða frá því að rannsókn skattrannsóknarstjóra lauk.
  □ Þrátt fyrir ákvæði 1. mgr. er ríkisskattstjóra heimilt að ljúka refsimeðferð með ákvörðun sektar við brotum er varða refsingu skv. 4. eða 5. mgr. 19. gr. enda hafi málinu ekki verið vísað til skattrannsóknarstjóra ríkisins til meðferðar. Sé sekt skv. 1. málsl. greidd innan 14 daga frá ákvörðun hennar lækkar sektarfjárhæðin um 20 af hundraði. Sektarákvörðun ríkisskattstjóra er kæranleg til yfirskattanefndar innan þriggja mánaða frá póstlagningu ákvörðunar. Ríkisskattstjóri kemur fram af hálfu hins opinbera fyrir nefndinni vegna kæru á úrskurði hans.
- □ Skattkröfu má hafa uppi í opinberu máli sem kann að vera höfðað vegna brota gegn lögum þessum.
+ □ Skattkröfu má hafa uppi í [sakamáli][^1)^] sem kann að vera höfðað vegna brota gegn lögum þessum.
  □ Sektir fyrir brot gegn lögum þessum renna í ríkissjóð.
  □ Vararefsing fylgir ekki sektarákvörðunum skattyfirvalda. Um innheimtu sekta skattyfirvalda gilda sömu reglur og um innheimtu virðisaukaskatts samkvæmt "lögum nr. 50/1988":1988050.html, um virðisaukaskatt, með síðari breytingum.
  □ Sök skv. 19. gr. fyrnist á sex árum. Fari fram rannsókn af hálfu skattrannsóknarstjóra ríkisins eða ríkislögreglustjóra gegn aðila sem sökunaut miðast fyrningarfrestur við upphaf rannsóknar enda verði ekki óeðlilegar tafir á rannsókn máls eða ákvörðun refsingar.][^2)^]
-    _[^1)^]Greininni var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html [^2)^]L. 169/2006, 9. gr.
+    _[^1)^]_"L. 88/2008, 234. gr.":2008088.html#g234 [^2)^]L. 169/2006, 9. gr.
  ■ *21. gr.* Við aðalskoðun bifreiðar ár hvert skal eigandi hennar eða umráðamaður færa sönnur á að greitt hafi verið af henni kílómetragjald [og sérstakt kílómetragjald][^1)^] sem fallið er í eindaga á skoðunardegi. Að öðrum kosti skal skoðunarmaður neita um skoðun á henni og tilkynna lögreglu um það þegar í stað. Eiganda eða umráðamanni bifreiðar er þó ekki skylt að færa sönnur á að hafa greitt gjaldfallið kílómetragjald [og sérstakt kílómetragjald][^1)^] fyrr en eftir eindaga.
  □ Óheimilt er að skrá eigendaskipti að ökutæki nema gjaldfallið kílómetragjald [og sérstakt kílómetragjald][^1)^] hafi verið greitt og lesið hafi verið af ökumæli og kílómetragjald [og sérstakt kílómetragjald][^1)^] vegna þess álestrar greitt.
  □ Hafi gjöld samkvæmt lögum þessum ekki verið greidd á gjalddaga skal lögreglustjóri að kröfu innheimtumanns ríkissjóðs stöðva ökutækið hvar sem það fer og taka skráningarmerki þess til geymslu.

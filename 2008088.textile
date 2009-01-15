@@ -1,14 +1,14 @@
 <hr />
 
-h2. Lög um meðferð sakamála[^1)^]
+h2. Lög um meðferð sakamála
 
 *2008 nr. 88 12. júní*
 
 <hr />
 
-   _[^1)^]Taka gildi 1. janúar 2009 skv. 232. gr._
 
- *Taka gildi 1. janúar 2009 nema brbákv. VII sem tók gildi 21. júní 2008.*
+ *Tóku gildi 1. janúar 2009, sbr. þó ákvæði til bráðabirgða VII og VIII.* _Breytt með_ l. 156/2008 (tóku gildi 31. des. 2008).
+
 
  *1. þáttur.* *Almennar reglur um meðferð sakamála.*
  *I. kafli.* *Gildissvið laganna og dómendur í héraði.*
@@ -927,8 +927,9 @@ h2. Lög um meðferð sakamála[^1)^]
 ■ *231. gr.* Maður sem hefur orðið fyrir þeim aðgerðum sem taldar eru í 228. gr. getur í stað bóta krafist vottorðs ríkissaksóknara um að í ljós hafi komið að hann hafi verið órétti beittur. Telji ríkissaksóknari að maður eigi rétt á slíku vottorði ber að láta honum það í té.
 
  *XXXVIII. kafli.* *Gildistaka, brottfall laga o.fl.*
-■ *232. gr.* Lög þessi taka gildi 1. janúar 2009. Þó öðlast ákvæði til bráðabirgða VII þegar gildi.
-■ *233. gr.* ...
+■ *232. gr.* [Lög þessi öðlast gildi 1. janúar 2009, sbr. þó ákvæði til bráðabirgða VII og VIII.][^1)^]
+    _[^1)^]L. 156/2008, 1. gr._
+ ■ *233. gr.* ...
 ■ *234. gr.* ...
 
  *Ákvæði til bráðabirgða.*
@@ -936,10 +937,11 @@ h2. Lög um meðferð sakamála[^1)^]
  □ Nú hefur fyrir gildistöku laga þessara verið lagt fyrir héraðsdómara mál sem eftir þann tíma ætti að sæta meðferð eftir XXVII. kafla og skal þá farið svo með það eftir því sem átt getur við.
  □ Mál sem réttilega hefur verið höfðað fyrir gildistöku laga þessara skal rekið áfram fyrir sama dómstóli þótt fara ætti með það á öðru varnarþingi eftir reglum VI. kafla.
  ■ *II.* Önnur mál en þau sem um ræðir í 1. og 2. mgr. ákvæðis til bráðabirgða I og höfðuð hafa verið fyrir gildistöku laga þessara skulu eftir því sem átt getur við rekin áfram fyrir dómi eftir reglum þeirra að öðru leyti en því sem hér segir:
-    a. Héraðssaksóknari skal taka við sókn máls sem höfðað hefur verið af lögreglustjóra, þar með talið ríkislögreglustjóra, fyrir gildistöku laga þessara ef ekki er lengur heimild fyrir ákæruvaldi lögreglustjórans í ákvæðum III. kafla.
+    a. ...[^1)^]
     b. Hafi mál verið úthlutað einum dómara til meðferðar eftir fyrirmælum eldri laga skal sú skipan standa þrátt fyrir ákvæði 3. gr.
     c. Ákærða skal ekki gefinn kostur á að leggja fram greinargerð skv. 165. gr. ef tími til aðalmeðferðar máls hefur þegar verið ákveðinn fyrir gildistöku laga þessara.
     d. Leyst skal úr einkaréttarkröfu, sem réttilega hefur verið höfð uppi samkvæmt eldri lögum, þótt hún fullnægi ekki skilyrðum XXVI. kafla.
+    _[^1)^]L. 156/2008, 2. gr._
  ■ *III.* Hafi verið krafist atbeina dómara til rannsóknaraðgerðar fyrir gildistöku laga þessara en því máli hefur ekki verið lokið skal eftir því sem átt getur við farið með kröfu um hana eftir ákvæðum XV. kafla upp frá því.
  ■ *IV.* Lögreglurannsókn sem stendur yfir við gildistöku laga þessara skal upp frá því fara eftir ákvæðum þeirra en ekki haggar það gildi þess sem þegar hefur verið gert.
  □ Eftir gildistöku laga þessara má framkvæma rannsóknaraðgerð eftir reglum 2. þáttar þótt úrskurður dómara eða ákvörðun hans um heimild til hennar hafi verið kveðinn upp eða tekin eftir eldri lögum.
@@ -950,6 +952,20 @@ h2. Lög um meðferð sakamála[^1)^]
  □ Reglur XXXII. og XXXIII. kafla gilda um endurupptöku máls þótt það hafi verið dæmt fyrir gildistöku laga þessara.
  ■ *VI.* Ákvæði 16. gr. um aðgang að gögnum taka aðeins til mála sem ólokið er við gildistöku laga þessara. Um gögn mála sem lokið hefur verið fyrir þann tíma skal beitt reglum eldri laga.
  □ Fyrirmæli XXXVII. kafla gilda um skaðabætur vegna atvika sem gerast eftir gildistöku laga þessara. Reglum eldri laga skal beitt um bætur fyrir það sem gerst hefur fyrir þann tíma.
- ■ *VII.* Þegar ákvæði þetta hefur tekið gildi, sbr. 232. gr., skal dómsmálaráðherra auglýsa laus til umsóknar embætti héraðssaksóknara, varahéraðssaksóknara og saksóknara við embætti héraðssaksóknara og skipa í þessi embætti. Jafnframt skal hafinn undirbúningur að því að embætti héraðssaksóknara taki til starfa.
+ ■ *VII.* [Þrátt fyrir fyrirmæli 232. gr. koma ákvæði laga þessara um héraðssaksóknara, embætti hans og verksvið ekki til framkvæmdar fyrr en 1. janúar 2010. Fyrir þann tíma skal þó dómsmálaráðherra auglýsa laus til umsóknar embætti héraðssaksóknara, varahéraðssaksóknara og saksóknara og skipa í þau, svo og hefja undirbúning að því að embætti héraðssaksóknara taki til starfa.
+ □ Fram til 1. janúar 2010 eru ákærendur ríkissaksóknari og lögreglustjórar, þar á meðal ríkislögreglustjóri, og að auki, í umboði þeirra, vararíkissaksóknari, saksóknarar, aðstoðarsaksóknarar, saksóknarfulltrúar og löglærðir aðstoðarlögreglustjórar. Um verkaskiptingu milli ríkissaksóknara og lögreglustjóra fer samkvæmt því sem í 3. - 5. mgr. segir.
+ □ Ríkissaksóknari höfðar sakamál ef um er að ræða eftirgreind brot á almennum hegningarlögum:
+    a. brot á ákvæðum X. - XVI. kafla laganna,
+    b. brot á ákvæðum XVII. kafla laganna, öðrum en 155. - 158. gr.,
+    c. brot á ákvæðum XVIII. - XXII. kafla laganna,
+    d. brot á ákvæðum XXIII. kafla laganna, öðrum en 215. og 219. gr., ef brot tengist broti á umferðarlögum, og 217. gr. og 1. mgr. 218. gr.,
+    e. brot á ákvæðum XXIV. og XXV. kafla laganna, öðrum en 231., 232. og 233. gr.,
+    f. brot á 251. og 252. gr. laganna.
+ □ Ef háttsemi felur í sér annað eða önnur brot en tilgreind eru í 3. mgr., auk brots eða brota sem þar eru greind, tekur ríkissaksóknari ákvörðun um það hvort hann höfðar málið sjálfur eða hvort lögreglustjóri gerir það.
+ □ Lögreglustjórar, þar á meðal ríkislögreglustjóri, höfða önnur sakamál en þau sem ríkissaksóknari höfðar skv. 3. og 4. mgr.
+ □ Fram til 1. janúar 2010 gegnir ríkissaksóknari því hlutverki sem héraðssaksóknara er ætlað í 2. málsl. 3. mgr. 23. gr., 2. - 4. mgr. 24. gr., 2. - 4. mgr. 26. gr., 2. mgr. 40. gr., 5. og 6. mgr. 52. gr., 2. mgr. 85. gr., 1. mgr. 92. gr., 5. mgr. 146. gr., 2. mgr. og 1. málsl. 4. mgr. 147. gr., 3. mgr. 148. gr., 4. mgr. 149. gr., 6. mgr. 150. gr. og 3. mgr. 163. gr.][^1)^]
+    _[^1)^]L. 156/2008, 3. gr._
+ ■ *[VIII.* Héraðssaksóknari skal taka við sókn máls sem höfðað hefur verið fyrir 1. janúar 2010 af lögreglustjóra, þar með talið ríkislögreglustjóra, ef þá er ekki lengur heimild fyrir ákæruvaldi lögreglustjórans í ákvæðum III. kafla, sbr. ákvæði til bráðabirgða VII.][^1)^]
+    _[^1)^]L. 156/2008, 4. gr._
 
 

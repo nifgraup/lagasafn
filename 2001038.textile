@@ -7,7 +7,7 @@ h2. Lög um vexti og verðtryggingu
 <hr />
 
 
- *Tóku gildi 1. júlí 2001.* _EES-samningurinn:_ tilskipun 2000/35/EB. _Breytt með_ l. 51/2007 (tóku gildi 1. jan. 2008).
+ *Tóku gildi 1. júlí 2001.* _EES-samningurinn:_ tilskipun 2000/35/EB. _Breytt með_ l. 51/2007 (tóku gildi 1. jan. 2008) og l. 159/2008 (tóku gildi 1. jan. 2009).
 
 
  *I. kafli.* *Gildissvið.*
@@ -24,9 +24,10 @@ h2. Lög um vexti og verðtryggingu
  □ Dráttarvextir skulu ætíð reiknast sem dagvextir nema á annan veg sé sérstaklega mælt í lögum.
  □ Nú er ekki samið um gjalddaga kröfu og er þá heimilt að reikna dráttarvexti frá og með þeim degi þegar liðinn er mánuður frá því að kröfuhafi sannanlega krafði skuldara með réttu um greiðslu. Sé greiðslukrafan sett fram á mánaðardegi sem ekki er til í næsta mánuði skal skuldari greiða dráttarvexti frá og með síðasta degi þess mánaðar.
  □ Þrátt fyrir ákvæði 3. mgr. er ætíð heimilt að reikna dráttarvexti frá og með þeim degi er dómsmál er höfðað um kröfu, sbr. þó 9. gr.
-■ *6. gr.* Dráttarvextir skulu vera samtala gildandi vaxta algengustu skammtímalána Seðlabanka Íslands til lánastofnana (grunnur dráttarvaxta) auk ellefu hundraðshluta álags (vanefndaálag), nema um annað sé samið skv. 2. mgr. þessarar greinar. Seðlabankanum er þó heimilt að ákveða annað vanefndaálag að lágmarki sjö hundraðshlutar og að hámarki fimmtán hundraðshlutar. Seðlabankinn skal birta dráttarvexti samkvæmt þessari málsgrein eigi skemur en viku fyrir gildistökudaga dráttarvaxta sem eru 1. janúar og 1. júlí ár hvert.
+■ *6. gr.* Dráttarvextir skulu vera samtala gildandi vaxta algengustu skammtímalána Seðlabanka Íslands til lánastofnana (grunnur dráttarvaxta) auk [sjö hundraðshluta álags][^1)^] (vanefndaálag), nema um annað sé samið skv. 2. mgr. þessarar greinar. ...[^1)^] Seðlabankinn skal birta dráttarvexti samkvæmt þessari málsgrein eigi skemur en viku fyrir gildistökudaga dráttarvaxta sem eru [fyrsta dag hvers mánaðar].[^1)^]
  □ Heimilt er að semja um fastan hundraðshluta vanefndaálags ofan á grunn dráttarvaxta skv. 1. mgr., að undanskildum neytendalánum. Einnig er heimilt að semja um fastan hundraðshluta dráttarvaxta, að undanskildum neytendalánum.
-■ *7. gr.* Ef atvik sem varða kröfuhafa og skuldara verður ekki um kennt valda því að greiðsla fer ekki fram skal ekki reikna dráttarvexti þann tíma sem greiðsludráttur verður af þessum sökum. Sama á við ef greiðsla fer ekki fram vegna þess að skuldari neytir vanefndaúrræða gagnvart kröfuhafa eða heldur af öðrum lögmætum ástæðum eftir greiðslu eða hluta hennar.
+    _[^1)^]L. 159/2008, 1. gr._
+ ■ *7. gr.* Ef atvik sem varða kröfuhafa og skuldara verður ekki um kennt valda því að greiðsla fer ekki fram skal ekki reikna dráttarvexti þann tíma sem greiðsludráttur verður af þessum sökum. Sama á við ef greiðsla fer ekki fram vegna þess að skuldari neytir vanefndaúrræða gagnvart kröfuhafa eða heldur af öðrum lögmætum ástæðum eftir greiðslu eða hluta hennar.
 
  *IV. kafli.* *Vextir af skaðabótakröfum.*
 ■ *8. gr.* Kröfur um skaðabætur skulu bera vexti frá og með þeim degi er hið bótaskylda atvik átti sér stað. Þeir skulu á hverjum tíma vera jafnháir tveimur þriðju hlutum vaxta sem Seðlabanki Íslands ákveður og birtir skv. 1. málsl. 4. gr.

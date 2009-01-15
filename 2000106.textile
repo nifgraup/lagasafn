@@ -7,7 +7,7 @@ h2. Lög um mat á umhverfisáhrifum
 <hr />
 
 
- *Tóku gildi 6. júní 2000.* _EES-samningurinn:_ XX. viðauki tilskipun 85/337/EBE og 97/11/EB. _Breytt með_ l. 74/2005 (tóku gildi 1. okt. 2005).
+ *Tóku gildi 6. júní 2000.* _EES-samningurinn:_ XX. viðauki tilskipun 85/337/EBE og 97/11/EB. _Breytt með_ l. 74/2005 (tóku gildi 1. okt. 2005) og l. 166/2008 (tóku gildi 1. jan. 2009).
 
 
  *I. kafli.* *Markmið, gildissvið og skilgreiningar.*
@@ -224,7 +224,8 @@ h2. Lög um mat á umhverfisáhrifum
     ii. borun eftir jarðhita á lághitasvæðum þar sem ölkeldur, laugar eða hverir eru á yfirborði eða í næsta nágrenni,
     iii. borun fyrir geymslu kjarnorkuúrgangs,
     iv. borun eftir neysluvatni miðað við 2 milljóna m[^3^] ársnotkun eða meiri,
-    v. að frátalinni borun til að kanna stöðugleika jarðvegs.
+    v. að frátalinni borun til að kanna stöðugleika jarðvegs,
+    [vi. vinnsla og rannsóknarboranir vegna kolvetnis utan netlaga og innan efnahagslögsögu og landgrunnsmarka].[^2)^]
     d. Jarðvarmavirkjanir ofan jarðar til að nema kol, jarðolíu, jarðgas og málmgrýti, svo og jarðbiksleir.
     3. Orkuiðnaður:
     a. Iðjuver til framleiðslu á rafmagni, gufu og heitu vatni, vatnsorkuver með uppsett rafafl [200 kW][^1)^] eða meira og varmavinnsla úr jarðhitasvæðum sem nemur 2.500 kW hráafli eða meira.
@@ -312,7 +313,7 @@ h2. Lög um mat á umhverfisáhrifum
     13. Breytingar og viðbætur við framkvæmdir, sbr. 1. og 2. viðauka.
     a. Allar breytingar eða viðbætur við framkvæmdir skv. 1. eða 2. viðauka sem hafa þegar verið leyfðar, framkvæmdar eða eru í framkvæmd og kunna að hafa umtalsverð umhverfisáhrif.
     b. Framkvæmdir skv. 1. viðauka sem ráðist er í eingöngu eða aðallega til að þróa og prófa nýjar aðferðir eða vörur en eru ekki notaðar lengur en í tvö ár.
-    _[^1)^]L. 74/2005, 19. gr._
+    _[^1)^]L. 74/2005, 19. gr._ [^2)^]L. 166/2008, 20. gr.
 
  *3. viðauki.*
     Viðmiðanir við mat á framkvæmdum tilgreindum í 2. viðauka.

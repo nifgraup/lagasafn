@@ -7,7 +7,7 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
 <hr />
 
 
- *Tóku gildi 1. janúar 2000.* _EES-samningurinn:_ IX. viðauki tilskipun 94/19/EB og 97/9/EB. _Breytt með_ l. 76/2002 (tóku gildi 17. maí 2002), l. 139/2002 (tóku gildi 30. des. 2002; _EES-samningurinn:_ IX. viðauki tilskipun 97/9/EB), l. 129/2004 (tóku gildi 31. des. 2005) og l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006).
+ *Tóku gildi 1. janúar 2000.* _EES-samningurinn:_ IX. viðauki tilskipun 94/19/EB og 97/9/EB. _Breytt með_ l. 76/2002 (tóku gildi 17. maí 2002), l. 139/2002 (tóku gildi 30. des. 2002; _EES-samningurinn:_ IX. viðauki tilskipun 97/9/EB), l. 129/2004 (tóku gildi 31. des. 2005), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006) og "l. 125/2008":2008125.html (tóku gildi 7. okt. 2008).
 
 
  *I. kafli.* *Markmið og skipulag.*
@@ -56,18 +56,20 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
 
  *III. kafli.* *Greiðslur úr sjóðnum.*
  ■ *9. gr.* _Greiðslur úr sjóðnum._
- □ Nú er aðildarfyrirtæki að áliti Fjármálaeftirlitsins ekki fært um að inna af hendi greiðslu á andvirði innstæðu, verðbréfa eða reiðufjár sem viðskiptavinur hefur krafið aðildarfyrirtæki um endurgreiðslu eða skil á í samræmi við þá skilmála er gilda. Er þá sjóðnum skylt að greiða viðskiptavini aðildarfyrirtækis andvirði innstæðu úr innstæðudeild og andvirði verðbréfa og reiðufjár í tengslum við viðskipti með verðbréf úr verðbréfadeild. Greiðsluskylda sjóðsins verður einnig virk ef bú aðildarfyrirtækis er tekið til gjaldþrotaskipta í samræmi við lög um viðskiptabanka og sparisjóði og lög um verðbréfaviðskipti.
+ □ Nú er aðildarfyrirtæki að áliti Fjármálaeftirlitsins ekki fært um að inna af hendi greiðslu á andvirði innstæðu, verðbréfa eða reiðufjár sem viðskiptavinur hefur krafið aðildarfyrirtæki um endurgreiðslu eða skil á í samræmi við þá skilmála er gilda. Er þá sjóðnum skylt að greiða viðskiptavini aðildarfyrirtækis andvirði innstæðu úr innstæðudeild og andvirði verðbréfa og reiðufjár í tengslum við viðskipti með verðbréf úr verðbréfadeild. Greiðsluskylda sjóðsins verður einnig virk ef bú aðildarfyrirtækis er tekið til gjaldþrotaskipta í samræmi við lög um viðskiptabanka og sparisjóði og lög um verðbréfaviðskipti. [Sjóðnum er heimilt við endurgreiðslu andvirðis innstæðu úr innstæðudeild að inna greiðsluna af hendi í samræmi við skilmála er gilda um innstæðu eða verðbréf, t.d. hvað varðar binditíma, uppsögn og þess háttar. Ávallt skal heimilt að endurgreiða andvirði innstæðu, verðbréfa eða reiðufjár í íslenskum krónum, óháð því hvort það hefur í öndverðu verið í annarri mynt. Sjóðnum er heimilt að nýta sér kröfur viðkomandi fjármálafyrirtækis á hendur viðskiptamanni til skuldajafnaðar gegn kröfu viðskiptamanns á greiðslu andvirðis innstæðu.][^1)^]
  □ Álit Fjármálaeftirlitsins skal liggja fyrir eigi síðar en þremur vikum eftir að það fær fyrst staðfestingu á því að hlutaðeigandi aðildarfyrirtæki hafi ekki greitt viðskiptavini sínum eða staðið skil á verðbréfum eins og því bar að gera.
  □ Með innstæðu skv. 1. mgr. er átt við innstæðu sem tilkomin er vegna innláns eða millifærslu í hefðbundinni almennri bankastarfsemi og viðskiptabanka eða sparisjóði ber að endurgreiða samkvæmt skilmálum er gilda samkvæmt lögum eða samningum. Tryggingin nær hins vegar ekki til skuldabréfa, víxla eða annarra krafna sem útgefnar eru af viðskiptabanka eða sparisjóði í formi verðbréfa.
  □ Með verðbréfum skv. 1. mgr. er átt við verðbréf sem eru í vörslu, umsjón eða umsýslu aðildarfyrirtækis og því ber að endurgreiða eða standa skil á samkvæmt skilmálum er gilda um samskipti aðildarfyrirtækis og fjárfestis samkvæmt lögum eða samningum.
  □ Með reiðufé skv. 1. mgr. er átt við innborgað reiðufé fjárfestis til aðildarfyrirtækis í tengslum við viðskipti með verðbréf.
- □ Undanskilin tryggingu skv. 1. mgr. eru innstæður, verðbréf og reiðufé í eigu aðildarfyrirtækja, svo og móður- og dótturfyrirtækja þeirra, fyrir þeirra eigin reikning og innstæður, verðbréf og reiðufé sem tengist málum þar sem sakfellt hefur verið fyrir peningaþvætti.
+ □ Undanskilin tryggingu skv. 1. mgr. eru innstæður, verðbréf og reiðufé í eigu aðildarfyrirtækja, svo og móður- og dótturfyrirtækja þeirra, fyrir þeirra eigin reikning og innstæður, verðbréf og reiðufé sem tengist málum þar sem sakfellt hefur verið fyrir peningaþvætti. [Þó skulu innstæður sem aðildarfyrirtæki eða móður- og dótturfyrirtæki þeirra hafa í vörslu sinni fyrir hönd viðskiptavina ekki undanskildar tryggingu skv. 1. mgr. Þá skulu innstæður verðbréfasjóða, fjárfestingarsjóða, fagfjárfestasjóða, lífeyrissjóða eða annarra sjóða um sameiginlega fjárfestingu ekki undanskildar tryggingu skv. 1. mgr., jafnvel þótt vörsluaðili eða rekstrarfélag slíkra sjóða sé aðildarfyrirtæki eða móður- eða dótturfyrirtæki aðildarfyrirtækja.][^1)^]
  □ Nánar skal kveða á um tilhögun greiðslna úr sjóðnum í reglugerð.
-■ *10. gr.* _Fjárhæð til greiðslu._
+    _[^1)^]_"L. 125/2008, 8. gr.":2008125.html#g8
+ ■ *10. gr.* _Fjárhæð til greiðslu._
  □ Nú hrökkva eignir viðkomandi deildar sjóðsins ekki til þess að greiða heildarfjárhæð tryggðra innstæðna, verðbréfa og reiðufjár í hlutaðeigandi aðildarfyrirtækjum og skal þá greiðslu úr hvorri deild skipt þannig milli kröfuhafa að krafa hvers þeirra allt að 1,7 millj. kr. er bætt að fullu en allt sem umfram er þessa fjárhæð skal bætt hlutfallslega jafnt eftir því sem eignir hvorrar deildar hrökkva til. Fjárhæð þessi er bundin við gengi evru (EUR) miðað við kaupgengi hennar 5. janúar 1999. Sjóðurinn verður ekki síðar krafinn um frekari greiðslu þótt tjón kröfuhafa hafi ekki verið bætt að fullu.
  □ Hrökkvi eignir sjóðsins ekki til og stjórn hans telur til þess brýna ástæðu er henni heimilt að taka lán til að greiða kröfuhöfum.
- □ Komi til greiðslu úr sjóðnum yfirtekur hann kröfu kröfuhafa á hendur hlutaðeigandi aðildarfyrirtæki eða þrotabúi.
-■ *11. gr.* _Lán á milli deilda._
+ □ Komi til greiðslu úr sjóðnum yfirtekur hann kröfu kröfuhafa á hendur hlutaðeigandi aðildarfyrirtæki eða þrotabúi. [Krafa sjóðsins nýtur rétthæðar í samræmi við 1. mgr. 112. gr. laga um gjaldþrotaskipti o.fl. við gjaldþrotaskipti, en ella er hún aðfararhæf án undangengins dóms eða sáttar.][^1)^]
+    _[^1)^]_"L. 125/2008, 9. gr.":2008125.html
+ ■ *11. gr.* _Lán á milli deilda._
  □ Stjórn sjóðsins er heimilt að lána allt að 50 millj. kr. á milli innstæðudeildar og verðbréfadeildar. Lánið skal endurgreiðast innan 36 mánaða. Ráðherra er heimilt að setja nánari ákvæði um lán á milli deilda í reglugerð.
 ■ *12. gr.* _Víkjandi lán._
  □ Sjóðnum er heimilt að veita aðildarfyrirtæki víkjandi lán í sérstakri deild fyrir slík lán, í því skyni að efla eiginfjárstöðu þess, enda verði fjár til þess aflað sérstaklega með lántöku. Stjórn sjóðsins getur sett skilyrði fyrir lánveitingu, svo sem að lántaki afli aukins eiginfjár eða geri aðrar ráðstafanir til að styrkja rekstur sinn.
@@ -93,7 +95,7 @@ h2. Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
     _[^1)^]L. 129/2004, 134. gr._
  ■ *18. gr.* _Reglugerð._
  □ Ráðherra setur í reglugerð[^1)^] nánari ákvæði um starfsemi sjóðsins, m.a. um tilhögun á greiðslum úr sjóðnum, tryggingu á innstæðu, verðbréfum eða reiðufé þegar um sameiginlegan reikning er að ræða eða þegar viðskiptavinur aðildarfyrirtækis á ekki ótvíræðan rétt til innstæðu, verðbréfa og reiðufjár og um ávöxtun á eignum sjóðsins.
-    _[^1)^]Rg. 120/2000_, sbr. 864/2002.
+    _[^1)^]Rg. 120/2000_, sbr. 864/2002 og 983/2008.
 
  *VI. kafli.* *Öryggissjóðir.*
  ■ *19. gr.* Viðskiptabönkum annars vegar og sparisjóðum hins vegar, með staðfestu hér á landi, er heimilt að stofna sjálfseignarstofnanir, öryggissjóði, sem allir viðskiptabankar eða allir sparisjóðir skulu vera aðilar að í því skyni að tryggja hagsmuni viðskiptamanna og fjárhagslegt öryggi viðskiptabanka eða sparisjóða.

@@ -7,7 +7,7 @@ h2. Lög um umboðsmann Alþingis
 <hr />
 
 
- *Tóku gildi 6. júní 1997.* _Breytt með_ "l. 88/2008":2008088.html (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
+ *Tóku gildi 6. júní 1997.* _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og "l. 142/2008":2008142.html (tóku gildi 18. des. 2008).
 
  ■ *1. gr.* _Kosning umboðsmanns Alþingis._
  □ Alþingi kýs umboðsmann Alþingis til fjögurra ára. Hann skal uppfylla skilyrði laga til að mega gegna embætti hæstaréttardómara og má ekki vera alþingismaður.
@@ -38,9 +38,9 @@ h2. Lög um umboðsmann Alþingis
  □ Umboðsmaður getur kvatt starfsmenn stjórnsýslu ríkis og sveitarfélaga á sinn fund til viðræðna um málefni sem eru á starfssviði umboðsmanns, svo og til þess að veita munnlega upplýsingar og skýringar er varða einstök mál.
  □ Umboðsmaður á frjálsan aðgang að öllum starfsstöðvum stjórnvalda til athugana í þágu starfs síns og skulu starfsmenn láta honum í té alla nauðsynlega aðstoð af því tilefni.
  □ Umboðsmaður getur ekki krafist upplýsinga er varða öryggi ríkisins eða utanríkismál sem leynt skulu fara nema með leyfi ráðherra þess sem í hlut á.
- □ Umboðsmaður getur óskað þess að héraðsdómari kveðji mann fyrir dóm til að bera vitni um atvik sem máli skipta að dómi umboðsmanns. Við þá skýrslugjöf skal fara eftir ákvæðum laga um meðferð opinberra mála, eftir því sem við á.[^1)^] Ákveða má að skýrsla sé gefin fyrir luktum dyrum.
+ □ Umboðsmaður getur óskað þess að héraðsdómari kveðji mann fyrir dóm til að bera vitni um atvik sem máli skipta að dómi umboðsmanns. Við þá skýrslugjöf skal fara eftir ákvæðum laga um meðferð [sakamála],[^1)^] eftir því sem við á. Ákveða má að skýrsla sé gefin fyrir luktum dyrum.
  □ Umboðsmanni er heimilt að leita aðstoðar sérfræðinga þegar sérstaklega stendur á og afla nauðsynlegra sérfræðilegra gagna.
-    _[^1)^]Málsliðnum var breytt með_ "l. 88/2008, 234. gr.":2008088.html#g234 Breytingin tekur gildi 1. jan. 2009 skv. "232. gr. s.l.":2008088.html
+    _[^1)^]_"L. 88/2008, 234. gr.":2008088.html#g234
  ■ *8. gr.* _Þagnarskylda._
  □ Umboðsmanni ber að gæta þagnarskyldu um þau atvik sem honum verða kunn í starfinu og leynt eiga að fara vegna lögmætra almanna- eða einkahagsmuna. Sama gildir um starfsmenn umboðsmanns. Þagnarskyldan helst þótt látið sé af starfi.
 ■ *9. gr.* _Skýringar stjórnvalda._
@@ -68,7 +68,9 @@ h2. Lög um umboðsmann Alþingis
 ■ *14. gr.* _Hæfisreglur og staðgenglar._
  □ Umboðsmanni er óheimilt að hafa með höndum launuð störf í þágu opinberra stofnana eða einkafyrirtækja nema með samþykki forseta Alþingis.
  □ Þegar umboðsmaður víkur sæti við meðferð máls setur forseti Alþingis mann til þess að fara með málið. Skal hann uppfylla sömu hæfisskilyrði og umboðsmaður að undanskildum þeim skilyrðum sem fram koma í 1. mgr. þessarar geinar.
-■ *15. gr.* _Endurskoðun._
+ □ [Ef kjörnum umboðsmanni eru falin sérstök tímabundin verkefni af hálfu Alþingis getur forsætisnefnd Alþingis, að beiðni kjörins umboðsmanns, samþykkt að setja annan mann til að sinna starfi umboðsmanns þann tíma eða samhliða með kjörnum umboðsmanni. Sá sem settur er til starfsins skal uppfylla sömu hæfisskilyrði og umboðsmaður. Ef sá sem settur er starfar samhliða kjörnum umboðsmanni skulu þeir ákveða verkaskiptingu sín í milli og skulu upplýsingar þar um birtar á vefsíðu embættis umboðsmanns. Verði ágreiningur um verkaskiptinguna ákveður kjörinn umboðsmaður hana.][^1)^]
+    _[^1)^]_"L. 142/2008, 19. gr.":2008142.html#g19
+ ■ *15. gr.* _Endurskoðun._
  □ Reikningar umboðsmanns skulu endurskoðaðir af óháðum löggiltum endurskoðanda sem tilnefndur er af forseta Alþingis.
 ■ *16. gr.* _Málssókn gegn umboðsmanni._
  □ Dómari skal vísa frá dómi einkamáli sem höfðað er gegn umboðsmanni vegna ákvarðana sem hann tekur á grundvelli 10. gr., komi fram krafa um það frá umboðsmanni.
