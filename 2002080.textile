@@ -7,14 +7,15 @@ h2. Barnaverndarlög
 <hr />
 
 
- *Tóku gildi 1. júní 2002, sjá þó 101. gr.* _Breytt með_ "l. 62/2006":2006062.html (tóku gildi 1. júlí 2006) og "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
+ *Tóku gildi 1. júní 2002, sjá þó 101. gr.* _Breytt með_ "l. 62/2006":2006062.html (tóku gildi 1. júlí 2006), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 52/2009 (tóku gildi 1. maí 2009).
 
 
  *I. kafli.* *Markmið barnaverndarlaga o.fl.*
  ■ *1. gr.* _Réttindi barna og skyldur foreldra._
  □ Börn eiga rétt á vernd og umönnun. Þau skulu njóta réttinda í samræmi við aldur sinn og þroska.
- □ Foreldrum ber að sýna börnum sínum umhyggju og nærfærni og gegna forsjár- og uppeldisskyldum við börn sín svo sem best hentar hag og þörfum þeirra. Þeim ber að búa börnum sínum viðunandi uppeldisaðstæður og gæta velfarnaðar þeirra í hvívetna. Aðrir sem koma að uppeldi barna skulu sýna þeim virðingu og umhyggju.
-■ *2. gr.* _Markmið og lögsaga._
+ □ [Allir sem hafa uppeldi og umönnun barna með höndum skulu sýna þeim virðingu og umhyggju og óheimilt er með öllu að beita börn ofbeldi eða annarri vanvirðandi háttsemi. Foreldrum ber að sýna börnum sínum umhyggju og nærfærni og gegna forsjár- og uppeldisskyldum við börn sín svo sem best hentar hag og þörfum þeirra. Þeim ber að búa börnum sínum viðunandi uppeldisaðstæður og gæta velfarnaðar þeirra í hvívetna.][^1)^]
+    _[^1)^]L. 52/2009, 1. gr._
+ ■ *2. gr.* _Markmið og lögsaga._
  □ Markmið laga þessara er að tryggja að börn sem búa við óviðunandi aðstæður eða börn sem stofna heilsu sinni og þroska í hættu fái nauðsynlega aðstoð. Leitast skal við að ná markmiðum laganna með því að styrkja fjölskyldur í uppeldishlutverki sínu og beita úrræðum til verndar einstökum börnum þegar það á við.
  □ Lögin taka til allra barna sem eru á yfirráðasvæði íslenska ríkisins.
 ■ *3. gr.* _Skýring hugtaka._
@@ -107,8 +108,8 @@ h2. Barnaverndarlög
  □ Tilkynningarskylda samkvæmt þessari grein gengur framar ákvæðum laga eða siðareglna um þagnarskyldu viðkomandi starfsstétta.
 ■ *18. gr.* _Tilkynningarskylda lögreglu og skýrslutaka af börnum._
  □ Ef lögregla verður þess vör að barn búi við óviðunandi uppeldisskilyrði, verði fyrir áreitni eða ofbeldi eða að barn stofni heilsu sinni og þroska í alvarlega hættu skal hún tilkynna barnaverndarnefnd um það. Þegar grunur leikur á að refsiverður verknaður hafi verið framinn annaðhvort af barni eða gegn því skal lögregla, þegar hún fær slíkt mál til meðferðar, tilkynna það barnaverndarnefnd og gefa henni kost á að fylgjast með rannsókn málsins. Barnaverndarnefnd skal tilkynna foreldri barns um slíkt mál mæli hagsmunir barnsins ekki gegn því.
- □ Um skýrslutökur af börnum sem brotaþolum, sakborningum eða vitnum í [sakamálum],[^1)^] hvort heldur sem er á rannsóknarstigi eða við meðferð máls fyrir dómi, gilda ákvæði laga um meðferð [sakamála][^1)^] og reglugerða sem settar hafa verið með stoð í þeim.
-    _[^1)^]_"L. 88/2008, 234. gr.":2008088.html#g234
+ □ [Gefa skal fulltrúa barnaverndarnefndar kost á að vera viðstaddur skýrslutöku af barni sem sakborningi í samræmi við ákvæði laga um meðferð sakamála, svo og skýrslutöku af barni sem brotaþola og sem vitni. Á þetta við hvort sem skýrslutaka fer fram hjá lögreglu eða fyrir dómi. Um skýrslutöku af barni gilda að öðru leyti ákvæði laga um meðferð sakamála og reglugerða sem settar hafa verið með stoð í þeim.][^1)^]
+    _[^1)^]L. 52/2009, 2. gr._
  ■ *19. gr.* _Nafnleynd tilkynnanda._
  □ Hver sá sem tilkynnir til barnaverndarnefndar skal segja á sér deili.
  □ Ef tilkynnandi skv. 16. gr. óskar nafnleyndar gagnvart öðrum en nefndinni skal það virt nema sérstakar ástæður mæli gegn því. Ákvörðun barnaverndarnefndar um nafnleynd er heimilt að skjóta til kærunefndar barnaverndarmála. Leiðbeina skal tilkynnanda um rétt hans til að kæra ákvörðun barnaverndarnefndar.
@@ -495,10 +496,11 @@ h2. Barnaverndarlög
 ■ *98. gr.* _Brot umsjáraðila gagnvart barni._
  □ Ef þeir sem hafa barn í sinni umsjá misþyrma því andlega eða líkamlega, misbjóða því kynferðislega eða á annan hátt, vanrækja það andlega eða líkamlega þannig að lífi eða heilsu þess er hætta búin þá varðar það fangelsi allt að fimm árum nema þyngri refsing liggi við samkvæmt öðrum lögum.
 ■ *99. gr.* _Brot gagnvart börnum._
- □ Hver sem beitir barn refsingum, hótunum eða ógnunum og ætla má að slíkt skaði barnið andlega eða líkamlega skal sæta sektum eða fangelsi allt að þremur árum.
+ □ [Hver sem beitir barn andlegum eða líkamlegum refsingum, hótunum eða ógnunum eða sýnir af sér aðra vanvirðandi háttsemi gagnvart barni skal sæta sektum eða fangelsi allt að þremur árum.][^1)^]
  □ Ef maður hvetur barn til lögbrota, lauslætis, áfengis- eða fíkniefnaneyslu eða leiðir það með öðrum hætti á glapstigu þá varðar það sektum eða fangelsi allt að fjórum árum.
  □ Hver sem sýnir barni yfirgang, ruddalegt eða ósiðlegt athæfi, særir það eða móðgar skal sæta sektum eða fangelsi allt að tveimur árum.
-■ *100. gr.* _Lagaskil._
+    _[^1)^]L. 52/2009, 3. gr._
+ ■ *100. gr.* _Lagaskil._
  □ Ef málsmeðferð fyrir barnaverndarnefnd hefur hafist í tíð eldri laga gilda ákvæði laga þessara um meðferð máls eftir gildistöku þeirra. Gildir það þótt atvik þau sem mál er sprottið af hafi gerst að einhverju eða öllu leyti í tíð eldri laga.
  □ Kærunefnd barnaverndarmála tekur við meðferð allra mála sem skotið hefur verið til barnaverndarráðs og eru þar til meðferðar þegar lög þessi taka gildi, enda eigi ágreiningsefnið undir kærunefnd samkvæmt lögum þessum. Rekstur málsins fyrir kærunefnd barnaverndarmála skal þó aldrei leiða til lakari réttarstöðu aðila en leiða mundi af eldri lögum.
  □ Hafi barnaverndarnefnd kveðið upp úrskurð um sviptingu forsjár, en úrskurðinum hefur ekki verið skotið til barnaverndarráðs eða úrskurðinum hefur verið skotið þangað en meðferð málsins er ekki lokið, fer um meðferð þess samkvæmt eldri lögum.

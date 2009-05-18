@@ -7,7 +7,7 @@ h2. Lög um réttindi sjúklinga
 <hr />
 
 
- *Tóku gildi 1. júlí 1997.* _Breytt með_ "l. 77/2000":2000077.html (tóku gildi 1. jan. 2001), "l. 40/2007":2007040.html (tóku gildi 1. sept. 2007), "l. 41/2007":2007041.html (tóku gildi 1. sept. 2007) og "l. 112/2008":2008112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; koma til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.).
+ *Tóku gildi 1. júlí 1997.* _Breytt með_ "l. 77/2000":2000077.html (tóku gildi 1. jan. 2001), "l. 40/2007":2007040.html (tóku gildi 1. sept. 2007), "l. 41/2007":2007041.html (tóku gildi 1. sept. 2007), "l. 112/2008":2008112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; koma til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.) og "l. 55/2009":2009055.html (tóku gildi 1. maí 2009).
 
 
  *I. kafli.* *Inngangur.*
@@ -17,9 +17,9 @@ h2. Lög um réttindi sjúklinga
  _Skilgreiningar._
 ■ *2. gr.* _Sjúklingur:_ Notandi heilbrigðisþjónustu.
  □ [_Heilbrigðisstarfsmaður:_ Einstaklingur sem starfar við heilbrigðisþjónustu og hefur hlotið leyfi [landlæknis][^1)^] til að nota starfsheiti löggiltrar heilbrigðisstéttar.][^2)^]
- □ _Meðferð:_ Rannsókn, aðgerð eða önnur þjónusta sem læknir eða annar heilbrigðisstarfsmaður veitir til að greina, lækna, endurhæfa, hjúkra eða annast sjúkling.
+ □ _Meðferð:_ Rannsókn, aðgerð eða önnur [heilbrigðisþjónusta][^3)^] sem læknir eða annar heilbrigðisstarfsmaður veitir til að greina, lækna, endurhæfa, hjúkra eða annast sjúkling.
  □ _Vísindarannsókn:_ Rannsókn sem gerð er til að auka við þekkingu sem m.a. gerir kleift að bæta heilsu og lækna sjúkdóma. Mat vísindasiðanefndar eða siðanefndar skv. 29. gr. á rannsókninni verður að hafa leitt í ljós að vísindaleg og siðfræðileg sjónarmið mæli ekki gegn framkvæmd hennar.
-    _[^1)^]_"L. 112/2008, 63. gr.":2008112.html [^2)^]"L. 41/2007, 24. gr.":2007041.html#g24
+    _[^1)^]_"L. 112/2008, 63. gr.":2008112.html [^2)^]"L. 41/2007, 24. gr.":2007041.html#g24 [^3)^]"L. 55/2009, 26. gr.":2009055.html#g26
  _Gæði heilbrigðisþjónustu._
  ■ *3. gr.* Sjúklingur á rétt á fullkomnustu heilbrigðisþjónustu sem á hverjum tíma er völ á að veita.
  □ Sjúklingur á rétt á þjónustu sem miðast við ástand hans og horfur á hverjum tíma og bestu þekkingu sem völ er á. Heilbrigðisstarfsmaður skal leitast við að koma á traustu sambandi milli sín og sjúklings.
@@ -52,10 +52,11 @@ h2. Lög um réttindi sjúklinga
  _Undanþága frá meginreglu um samþykki fyrir meðferð._
 ■ *9. gr.* Nú er sjúklingur meðvitundarlaus eða ástand hans að öðru leyti þannig að hann er ófær um að gefa til kynna vilja sinn varðandi meðferð sem telst bráðnauðsynleg. Í því tilviki skal taka samþykki hans sem gefið nema fyrir liggi örugg vitneskja um að hann hefði hafnað meðferðinni.
  _Samþykki fyrir vísindarannsóknum._
-■ *10. gr.* Sjúklingur skal fyrir fram samþykkja með formlegum hætti þátttöku í vísindarannsókn. Áður en slíkt samþykki er veitt skal gefa honum ítarlegar upplýsingar um vísindarannsóknina, áhættu sem henni kann að fylgja og hugsanlegan ávinning og í hverju þátttakan er fólgin. Sjúklingi skal gerð grein fyrir því að hann geti hafnað þátttöku í vísindarannsókn og hann geti hvenær sem er hætt þátttöku eftir að hún er hafin. Um aðgang að upplýsingum úr sjúkraskrám, þar með töldum lífsýnum, vegna vísindarannsókna gilda ákvæði 15. gr.
+■ *10. gr.* Sjúklingur skal fyrir fram samþykkja með formlegum hætti þátttöku í vísindarannsókn. Áður en slíkt samþykki er veitt skal gefa honum ítarlegar upplýsingar um vísindarannsóknina, áhættu sem henni kann að fylgja og hugsanlegan ávinning og í hverju þátttakan er fólgin. Sjúklingi skal gerð grein fyrir því að hann geti hafnað þátttöku í vísindarannsókn og hann geti hvenær sem er hætt þátttöku eftir að hún er hafin. Um aðgang að upplýsingum úr sjúkraskrám, þar með töldum lífsýnum, vegna vísindarannsókna gilda ákvæði 15. gr. [og ákvæði laga um sjúkraskrár].[^1)^]
  □ Óheimilt er að framkvæma á sjúklingi vísindarannsókn sem uppfyllir ekki skilyrði 4. mgr. 2. gr.
+    _[^1)^]_"L. 55/2009, 26. gr.":2009055.html#g26
  _Þátttaka í þjálfun og kennslu nemenda._
-■ *11. gr.* Skýra ber sjúklingi frá því ef fyrirhugað er að nemendur á heilbrigðissviði verði viðstaddir meðferð á honum vegna þjálfunar og kennslu þeirra. Sjúklingur getur neitað að taka þátt í slíkri þjálfun og kennslu.
+ ■ *11. gr.* Skýra ber sjúklingi frá því ef fyrirhugað er að nemendur á heilbrigðissviði verði viðstaddir meðferð á honum vegna þjálfunar og kennslu þeirra. Sjúklingur getur neitað að taka þátt í slíkri þjálfun og kennslu.
 
  *III. kafli.* *Trúnaðar- og þagnarskylda.*
  _Þagnarskylda starfsmanns í heilbrigðisþjónustu._
@@ -67,24 +68,19 @@ h2. Lög um réttindi sjúklinga
 
  *IV. kafli.* *Meðferð upplýsinga í sjúkraskrá.*
  _Aðgangur að sjúkraskrá._
-■ *14. gr.* Sjúkraskrá skal varðveita á heilbrigðisstofnun þar sem hún er færð eða hjá lækni eða öðrum heilbrigðisstarfsmanni sem hana færir á eigin starfsstofu.
- □ Skylt er lækni og öðrum sem færa sjúkraskrá að sýna hana sjúklingi eða umboðsmanni hans, í heild eða að hluta, og afhenda þeim afrit skrárinnar sé þess óskað. Sama gildir gagnvart opinberum aðilum sem lögum samkvæmt athuga kæru sjúklings eða umboðsmanns vegna meðferðar. Heimilt er að taka gjald fyrir afrit af sjúkraská samkvæmt ákvæðum 12. gr. upplýsingalaga.
- □ Upplýsingar í sjúkraskrá, sem hafðar eru eftir öðrum en sjúklingi sjálfum eða heilbrigðisstarfsmönnum, skal ekki sýna honum nema með samþykki þess sem upplýsingarnar gaf. Ef sá sem þannig hefur veitt upplýsingar um sjúkling er látinn eða horfinn eða neitar á óréttmætum grundvelli að veita samþykki sitt getur landlæknir ákveðið að sjúklingi eða umboðsmanni hans skuli veittur aðgangur að umræddum upplýsingum, í heild eða að hluta.
- □ Telji læknir að það þjóni ekki hagsmunum sjúklings að afhenda framangreindum aðilum afrit sjúkraskrár skal án tafar framsenda landlækni afrit sjúkraskrárinnar til frekari afgreiðslu.
- □ Landlæknir skal innan átta vikna ákveða hvort viðkomandi fái afrit sjúkraskrárinnar. Synjun landlæknis má skjóta til úrskurðar heilbrigðisráðherra.
- □ Ráðherra setur nánari reglur[^1)^] um afhendingu og varðveislu sjúkraskráa, að fengum tillögum landlæknis og Læknafélags Íslands.
-    _[^1)^]Rg. 227/1991_, sbr. 545/1995.
- ■ *15. gr.* Þess skal gætt við aðgang að sjúkraskrám að þær hafa að geyma viðkvæmar persónuupplýsingar og að upplýsingar í þeim eru trúnaðarmál, sbr. 12. gr.
- □ Sjúkraskrár skulu geymdar á tryggum stað og þess gætt að einungis þeir starfsmenn sem nauðsynlega þurfa hafi aðgang að þeim.
- □ [Persónuvernd][^1)^] er heimilt samkvæmt lögum um skráningu og meðferð persónuupplýsinga að veita aðgang að upplýsingum úr sjúkraskrám, þar með töldum lífsýnum, vegna vísindarannsókna, enda uppfylli rannsókn skilyrði vísindarannsóknar, sbr. 4. mgr. 2. gr. laga þessara. Unnt er að binda slíkt leyfi þeim skilyrðum sem metin eru nauðsynleg hverju sinni.
+■ *14. gr.* [Um meðferð upplýsinga í sjúkraskrá gilda ákvæði laga um sjúkraskrár.][^1)^]
+    _[^1)^]_"L. 55/2009, 26. gr.":2009055.html#g26
+ ■ *15. gr.* ...[^1)^]
+ □ ...[^1)^]
+ □ [Persónuvernd][^2)^] er heimilt samkvæmt lögum um skráningu og meðferð persónuupplýsinga að veita aðgang að upplýsingum úr sjúkraskrám, þar með töldum lífsýnum, vegna vísindarannsókna, enda uppfylli rannsókn skilyrði vísindarannsóknar, sbr. 4. mgr. 2. gr. laga þessara. Unnt er að binda slíkt leyfi þeim skilyrðum sem metin eru nauðsynleg hverju sinni.
  □ Í hvert sinn sem sjúkraskrá er skoðuð vegna vísindarannsóknar skal það skráð í hana og ákvæða 1. og 2. mgr. gætt.
-    _[^1)^]_"L. 77/2000, 46. gr.":2000077.html#g46
- _Athugasemdir við upplýsingar í sjúkraskrá._
- ■ *16. gr.* Nú telur sjúklingur eða umboðsmaður hans að upplýsingar í sjúkraskrá séu rangar eða villandi og skulu þá athugasemdir hans lagðar í skrána.
+    _[^1)^]_"L. 55/2009, 26. gr.":2009055.html#g26 [^2)^]"L. 77/2000, 46. gr.":2000077.html#g46
+ ■ *16. gr.* ...[^1)^]
+    _[^1)^]_"L. 55/2009, 26. gr.":2009055.html#g26
 
  *V. kafli.* *Meðferð.*
  _Virðing fyrir mannhelgi sjúklings._
-■ *17. gr.* Heilbrigðisstarfsmenn og aðrir sem starfs síns vegna hafa samskipti við sjúkling skulu koma fram við hann af virðingu.
+ ■ *17. gr.* Heilbrigðisstarfsmenn og aðrir sem starfs síns vegna hafa samskipti við sjúkling skulu koma fram við hann af virðingu.
  □ Að meðferð sjúklings skulu ekki koma aðrir en þeir sem nauðsynlega þurfa. Heilbrigðisstarfsmaður skal gæta þess að framkvæma nauðsynlega meðferð með þeim hætti að utanaðkomandi aðilar sjái ekki til og að upplýsingar um meðferð einstaklinga séu ekki aðgengilegar öðrum en viðkomandi heilbrigðisstarfsmönnum.
  _Bið eftir meðferð._
 ■ *18. gr.* Þurfi sjúklingur að bíða eftir meðferð skal læknir, sem hann leitar til, gefa skýringar á biðinni ásamt upplýsingum um áætlaðan biðtíma.

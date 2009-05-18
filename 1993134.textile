@@ -7,7 +7,7 @@ h2. Lög um iðnaðarmálagjald
 <hr />
 
 
- *Tóku gildi 7. janúar 1994; komu til framkvæmda skv. fyrirmælum í 4. gr.* _Breytt með_ l. 81/1996 (tóku gildi 19. júní 1996) og l. 129/2004 (tóku gildi 31. des. 2005).
+ *Tóku gildi 7. janúar 1994; komu til framkvæmda skv. fyrirmælum í 4. gr.* _Breytt með_ l. 81/1996 (tóku gildi 19. júní 1996), l. 129/2004 (tóku gildi 31. des. 2005) og l. 21/2009 (tóku gildi 27. mars 2009).
 
  ■ *1. gr.* Leggja skal 0,08% gjald, iðnaðarmálagjald, á allan iðnað í landinu eins og hann er skilgreindur í 2. gr. Skal gjaldstofn þess vera velta skv. 11. gr. laga um virðisaukaskatt að meðtalinni veltu sem undanþegin er virðisaukaskatti skv. 12. gr. þeirra laga.
  □ ...[^1)^]
@@ -20,5 +20,65 @@ h2. Lög um iðnaðarmálagjald
     _[^1)^]Sjá Stjtíð. A 1996, bls. 263 - 264. [^2)^]L. 81/1996, 2. gr._
  ■ *3. gr.* Tekjur af iðnaðarmálagjaldi renna til Samtaka iðnaðarins. Tekjunum skal varið til þess að vinna að eflingu iðnaðar og iðnþróunar í landinu. Þau skulu senda iðnaðarráðuneytinu árlega skýrslu um ráðstöfun andvirðis teknanna.
 ■ *4. gr.* Lög þessi öðlast þegar gildi. ...
+
+ *[Viðauki.*
+ □ Til iðnaðar skv. 1. mgr. 2. gr. skulu teljast eftirtaldar atvinnugreinar samkvæmt Íslenskri atvinnugreinaflokkun, ÍSAT2008:
+
+|05|Kolanám.|
+|06|Vinnsla á hráolíu og jarðgasi.|
+|07|Málmnám og málmvinnsla.|
+|08|Nám og vinnsla annarra hráefna úr jörðu.|
+|09|Þjónustustarfsemi við námuvinnslu.|
+|_Úr 10_|_Matvælaframleiðsla._|
+|10.20.4|Framleiðsla lagmetis úr fiskafurðum, krabbadýrum og lindýrum.|
+|10.3|Vinnsla ávaxta og grænmetis.|
+|10.42|Framleiðsla á smjörlíki og svipaðri feiti til manneldis.|
+|10.6|Framleiðsla á kornvöru, mjölva og mjölvavöru.|
+|10.7|Framleiðsla á bakarís- og mjölkenndum vörum.|
+|10.8|Framleiðsla á öðrum matvælum.|
+|10.9|Fóðurframleiðsla.|
+|11|Framleiðsla á drykkjarvörum.|
+|12|Framleiðsla á tóbaksvörum.|
+|13|Framleiðsla á textílvörum.|
+|14|Fatagerð.|
+|15|Framleiðsla á leðri og leðurvörum.|
+|16|Framleiðsla á viði, viðarvörum og korki, önnur en húsgagnagerð; framleiðsla á vörum úr hálmi og fléttuefnum.|
+|17|Framleiðsla á pappír og pappírsvöru.|
+|18|Prentun og fjölföldun upptekins efnis. Þó ekki 18.20.0, fjölföldun upptekins efnis.|
+
+|19|Framleiðsla á koksi og hreinsuðum olíuvörum.|
+|20|Framleiðsla á efnum og efnavörum.|
+|21|Framleiðsla á lyfjum og efnum til lyfjagerðar.|
+|22|Framleiðsla á gúmmí- og plastvörum.|
+|23|Framleiðsla á vörum úr málmlausum steinefnum.|
+|24|Framleiðsla málma.|
+|25|Framleiðsla á málmvörum, að undanskildum vélum og búnaði.|
+|26|Framleiðsla á tölvu-, rafeinda- og optískum vörum.|
+|27|Framleiðsla á rafbúnaði og heimilistækjum.|
+|28|Framleiðsla á öðrum ótöldum vélum og tækjum.|
+|29|Framleiðsla á vélknúnum ökutækjum og tengivögnum.|
+|30|Framleiðsla annarra farartækja.|
+|31|Framleiðsla á húsgögnum og innréttingum.|
+|32|Framleiðsla, ót.a.|
+|33|Viðgerðir og uppsetning vélbúnaðar og tækja.|
+|_Úr 38_|_Sorphirða, meðhöndlun og förgun sorps; endurnýting efnis._|
+|38.3|Endurnýting efnis.|
+|41|Bygging húsnæðis; þróun byggingarverkefna. Þó ekki 41.10.0, þróun byggingarverkefna.|
+|42|Mannvirkjagerð.|
+|43|Sérhæfð byggingarstarfsemi.|
+|_Úr 45_|_Sala, viðgerðir og viðhald á vélknúnum ökutækjum og tengivögnum._|
+|45.2|Bílaviðgerðir og viðhald.|
+|_Úr 58_|_Útgáfustarfsemi._|
+|58.2|Hugbúnaðarútgáfa.|
+|62|Þjónustustarfsemi á sviði upplýsingatækni.|
+|_Úr 63_|_Starfsemi á sviði upplýsingaþjónustu._|
+|63.1|Gagnavinnsla, hýsing og tengd starfsemi, vefgáttir.|
+|_Úr 74_|_Önnur sérfræðileg, vísindaleg og tæknileg starfsemi._|
+|74.2|Ljósmyndaþjónusta.|
+|95|Viðgerðir á tölvum og hlutum til einka- og heimilisnota.|
+|_Úr 96_|_Önnur þjónustustarfsemi._|
+|96.02|Hárgreiðslu- og snyrtistofur.][^1)^]|
+
+   _[^1)^]L. 21/2009, 1. gr._
 
 
