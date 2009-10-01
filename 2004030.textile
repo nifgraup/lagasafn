@@ -7,7 +7,7 @@ h2. Lög um vátryggingarsamninga
 <hr />
 
 
- *Tóku gildi 1. janúar 2006.* _Breytt með_ l. 118/2005 (tóku gildi 1. jan. 2006) og l. 156/2007 (tóku gildi 29. des. 2007).
+ *Tóku gildi 1. janúar 2006.* _Breytt með_ l. 118/2005 (tóku gildi 1. jan. 2006), l. 156/2007 (tóku gildi 29. des. 2007) og l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem taka gildi 1. jan. 2010).
 
 
  *I. hluti.* *Skaðatryggingar.*
@@ -74,10 +74,11 @@ h2. Lög um vátryggingarsamninga
  □ Við endurnýjun vátryggingar skal félagið upplýsa um nýja valkosti í vátryggingum þeim sem um ræðir eða viðbótarvernd sem það getur veitt og er tilkomin eftir að vátrygging var tekin eða endurnýjuð síðast.
 ■ *12. gr.* _Eftirlitsskylda Fjármálaeftirlitsins. Reglugerðarheimild._
  □ Fjármálaeftirlitið skal fylgjast með því að upplýsingaskyldu samkvæmt þessum hluta laganna sé fullnægt.
- □ Viðskiptaráðherra getur sett reglugerð með nánari reglum um upplýsingaskylduna.
+ □ [Efnahags- og viðskiptaráðherra][^1)^] getur sett reglugerð með nánari reglum um upplýsingaskylduna.
+    _[^1)^]L. 98/2009, 35. gr._
 
  *III. kafli.* *Vátryggingarsamningurinn o.fl.*
-■ *13. gr.* _Ábyrgðartíminn._
+ ■ *13. gr.* _Ábyrgðartíminn._
  □ Nú er annað ekki ákveðið í lögum eða samningi og hefst þá ábyrgð félagsins þegar það eða vátryggingartakinn hefur samþykkt tilboð hins.
  □ Hafi félagið sent skriflegt samþykki til vátryggingartaka hefst ábyrgð þess kl. 0.00 þann dag sem samþykkið var sent, að því tilskildu að beiðni um vátryggingu hafi komið til félagsins í síðasta lagi deginum áður.
  □ Hafi vátryggingartaki sent skriflega beiðni um tiltekna vátryggingu og ljóst er að félagið hefði þegar samþykkt beiðnina ber það ábyrgð við móttöku hennar.
@@ -340,10 +341,11 @@ h2. Lög um vátryggingarsamninga
  □ Ef vátrygging á að gilda í eitt ár eða skemur skulu upplýsingar skv. 1. mgr. veittar við endurnýjun hennar.
 ■ *72. gr.* _Eftirlitsskylda Fjármálaeftirlitsins. Reglugerðarheimild._
  □ Fjármálaeftirlitið skal fylgjast með því að upplýsingaskyldu samkvæmt þessum hluta laganna sé fullnægt.
- □ Viðskiptaráðherra getur sett reglugerð með nánari reglum um upplýsingaskylduna.
+ □ [Efnahags- og viðskiptaráðherra][^1)^] getur sett reglugerð með nánari reglum um upplýsingaskylduna.
+    _[^1)^]L. 98/2009, 35. gr._
 
  *XII. kafli.* *Vátryggingarsamningurinn o.fl.*
-■ *73. gr.* _Grundvöllur mats félagsins._
+ ■ *73. gr.* _Grundvöllur mats félagsins._
  □ Þegar félagið tekur ákvörðun um hvort það veitir vátryggingu og metur áhættu sína skal það leggja til grundvallar heilsu hins vátryggða á því tímamarki er vátryggingartaki afhenti fullbúna umsókn um tiltekna vátryggingu. Félagið getur einnig tekið tillit til þess að heilsu vátryggðs hefur hrakað eftir að umsókn var afhent ef það tengist aðstæðum sem voru fyrir hendi við afhendingu hennar og skýrt er frá við athuganir þess.
 ■ *74. gr.* _Ábyrgðartíminn._
  □ Nú er annað ekki ákveðið í lögum eða samningi og hefst þá ábyrgð félagsins þegar það eða vátryggingartakinn hefur samþykkt tilboð hins.
@@ -522,8 +524,9 @@ h2. Lög um vátryggingarsamninga
 ■ *113. gr.* _Endurrit._
  □ Vátryggingartaki, maki hans, vátryggður, rétthafi samkvæmt óafturkallanlegri tilnefningu, veðhafi í vátryggingu eða í framveðrétti í vátryggingu, skiptastjóri eða tilsjónarmaður með nauðasamningsumleitunum getur krafist endurrits af því sem skráð er í líftryggingarskrá.
  □ Endurrit skv. 1. mgr. skal aðeins hafa að geyma upplýsingar sem þýðingu hafa fyrir þann sem krefst þess. Að öðru leyti hefur félagið þagnarskyldu um efni líftryggingarskrár.
- □ Viðskiptaráðherra skal setja nánari reglur um efni endurrits samkvæmt þessari grein.
-■ *114. gr.* _Ósamþýðanleg réttindi._
+ □ [Efnahags- og viðskiptaráðherra][^1)^] skal setja nánari reglur um efni endurrits samkvæmt þessari grein.
+    _[^1)^]L. 98/2009, 35. gr._
+ ■ *114. gr.* _Ósamþýðanleg réttindi._
  □ Skráð réttindi yfir vátryggingu ganga framar réttindum sem ekki eru skráð í dagbók í síðasta lagi sama dag ef þau eru ósamþýðanleg. Séu fleiri réttindi skráð í dagbók sama dag eru þau jafnrétthá.
  □ Þrátt fyrir það sem segir í 1. mgr. ganga eldri réttindi framar yngri ef til hinna yngri er stofnað með frjálsri ráðstöfun og framsalshafi vissi eða mátti vita um hinn eldri rétt þegar réttur hans var skráður í dagbók.
 ■ *115. gr.* _Staða grandlauss eiganda réttinda gagnvart félaginu._
@@ -538,10 +541,11 @@ h2. Lög um vátryggingarsamninga
 ■ *118. gr.* _Ráðstafanir vátryggingartaka._
  □ Það sem segir í þessum kafla um ráðstafanir vátryggingartaka gildir einnig um ráðstafanir sem gerðar eru af þeim er eiga takmörkuð réttindi í vátryggingunni.
 ■ *119. gr.* _Reglugerðarheimild._
- □ Viðskiptaráðherra getur með reglugerð sett nánari reglur um líftryggingarskrá.
+ □ [Efnahags- og viðskiptaráðherra][^1)^] getur með reglugerð sett nánari reglur um líftryggingarskrá.
+    _[^1)^]L. 98/2009, 35. gr._
 
  *XVIII. kafli.* *Bótauppgjör, fyrning o.fl.*
-■ *120. gr.* _Upplýsingaskylda við uppgjör bóta._
+ ■ *120. gr.* _Upplýsingaskylda við uppgjör bóta._
  □ Sá sem hyggst hafa uppi kröfu gegn félaginu skal veita því upplýsingar og afhenda gögn sem hann á aðgang að og félagið þarf til þess að geta metið ábyrgð sína og greitt út vátryggingarfjárhæðina.
  □ Sá sem við tjónsuppgjör veitir rangar eða ófullnægjandi upplýsingar sem hann veit eða má vita að geta leitt til þess að greiddar verði út bætur sem hann á ekki rétt til glatar öllum rétti til krafna á hendur félaginu samkvæmt þessum og öðrum vátryggingarsamningum vegna sömu atvika. Sé háttsemin ekki alvarleg, hún varði einungis lítinn hluta kröfunnar eða ef sérstakar ástæður mæla með því getur hann þó fengið bætur að hluta. Ákvæði [94. gr.][^1)^] gildir eftir því sem við getur átt.
  □ Í þeim tilvikum sem greinir í 2. mgr. getur félagið sagt upp öllum vátryggingarsamningum við viðkomandi með viku fyrirvara. Ákvæði 3. mgr. 76. gr. gilda eftir því sem við getur átt.
@@ -621,16 +625,18 @@ h2. Lög um vátryggingarsamninga
 ■ *140. gr.* _Skráning vátryggingar._
  □ Við hópvátryggingu er félaginu ekki skylt að skrá þá sem eru þátttakendur í hópnum í líftryggingarskrá nema um það sé samið.
  □ Nú sýnir maður fram á þátttöku í hópi sem nýtur hópvátryggingar þar sem þátttakendur eru ekki skráðir og getur hann þá krafist endurrits úr skránni.
- □ Viðskiptaráðherra getur með reglugerð ákveðið að ákvæðum 113. - 115. gr. skuli beitt um skrá yfir þátttakendur hópvátryggingar sem haldin er af vátryggingartakanum.
+ □ [Efnahags- og viðskiptaráðherra][^1)^] getur með reglugerð ákveðið að ákvæðum 113. - 115. gr. skuli beitt um skrá yfir þátttakendur hópvátryggingar sem haldin er af vátryggingartakanum.
+    _[^1)^]L. 98/2009, 35. gr._
 
  *III. hluti.* *Almenn ákvæði.*
  *XX. kafli.* *Ágreiningur o.fl.*
-■ *141. gr.* _Úrskurðarnefnd í vátryggingamálum._
- □ Nú er í lögum þessum tekið fram að skjóta megi ágreiningi til úrskurðarnefndar og er með því átt við úrskurðarnefnd í vátryggingamálum sem starfar samkvæmt samningi milli viðskiptaráðherra, Neytendasamtakanna og Sambands íslenskra tryggingafélaga, svo og samþykktum fyrir hana. Formaður nefndarinnar skal fullnægja skilyrðum til þess að vera dómari skv. 2. mgr. "12. gr. laga um dómstóla, nr. 15/1998":1998015.html#g12.
+ ■ *141. gr.* _Úrskurðarnefnd í vátryggingamálum._
+ □ Nú er í lögum þessum tekið fram að skjóta megi ágreiningi til úrskurðarnefndar og er með því átt við úrskurðarnefnd í vátryggingamálum sem starfar samkvæmt samningi milli [efnahags- og viðskiptaráðherra],[^1)^] Neytendasamtakanna og Sambands íslenskra tryggingafélaga, svo og samþykktum fyrir hana. Formaður nefndarinnar skal fullnægja skilyrðum til þess að vera dómari skv. 2. mgr. "12. gr. laga um dómstóla, nr. 15/1998":1998015.html#g12.
  □ Úrskurðarnefnd í vátryggingamálum skal kveða upp rökstudda úrskurði og verður þeim ekki skotið til stjórnvalda, en heimilt er aðilum máls að leggja ágreining sinn fyrir dómstóla með venjulegum hætti.
- □ Viðskiptaráðherra skal annast birtingu samþykkta fyrir úrskurðarnefnd í vátryggingamálum í B-deild Stjórnartíðinda.
+ □ [Efnahags- og viðskiptaráðherra][^1)^] skal annast birtingu samþykkta fyrir úrskurðarnefnd í vátryggingamálum í B-deild Stjórnartíðinda.
  □ Úrskurðarnefnd í vátryggingamálum skal vistuð hjá Fjármálaeftirlitinu.
-■ *142. gr.* _Útreikningur frests._
+    _[^1)^]L. 98/2009, 35. gr._
+ ■ *142. gr.* _Útreikningur frests._
  □ Við útreikning á fresti, sem talinn er í dögum, skal ekki telja með þann dag er fresturinn byrjar að líða. Þó skal telja með þann dag sem ráðstöfun er fresturinn varðar fyrst verður gerð eða má síðast vera gerð.
  □ Frestur, sem reiknaður er í vikum, mánuðum eða árum, rennur út á þeim degi í síðustu viku, mánuði eða ári sem eftir nafni sínu eða tölu svarar til þess dags sem hann byrjaði að líða. Ef sá dagur er ekki í þeim mánuði sem um ræðir skal fresturinn renna út á síðasta degi mánaðarins.
  □ Ef frestur til aðgerða rennur út á laugardegi, helgidegi eða degi þegar samkvæmt lögum er frídagur framlengist hann til næsta virka dags þar á eftir.

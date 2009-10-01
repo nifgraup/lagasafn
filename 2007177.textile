@@ -6,28 +6,32 @@ h2. Reglugerð um Stjórnarráð Íslands
 
 <hr />
 
-*Tók gildi 1. janúar 2008, birt í Stjtíð 2. janúar 2008.*
+*Tók gildi 1. janúar 2008, birt í Stjtíð 2. janúar 2008.* _Breytt með_ rg. A 101/2009 (tók gildi 1. okt. 2009).
+
  ■ *1. gr.* Stjórnarmálefni ber undir ráðuneyti eftir ákvæðum reglugerðar þessarar.
 ■ *2. gr.* _Forsætisráðuneyti_ fer með mál, er varða:
     1. Stjórnskipan lýðveldisins og stjórnarfar almennt.
     2. Embætti forseta Íslands og embættisbústað.
     3. Ríkisráð Íslands.
     4. Alþingi.
-    5. Skipun ráðherra og lausn.
-    6. Skiptingu starfa milli ráðherra og ráðuneyta.
-    7. Ríkisstjórn og Stjórnarráð Íslands í heild, þar á meðal ráðstöfun skrifstofuhúsa og gestahúsa ríkisstjórnarinnar.
-    8. Fána Íslands, ríkisskjaldarmerki og þjóðsöng Íslendinga.
-    9. Hina íslensku fálkaorðu og önnur heiðursmerki.
-    10. Þjóðlendur.
-    11. Þingvelli og Þingvallaþjóðgarð.
-    12. Hagstjórn almennt.
-    13. Vísinda- og tækniráð.
-    14. Seðlabanka Íslands og Alþjóðagjaldeyrissjóðinn (IMF).
-    15. Embætti ríkislögmanns.
-    16. Umboðsmann barna.
-    17. Hagstofu Íslands.
-    18. Þróunarfélag Keflavíkurflugvallar.
-■ *3. gr.* _Dóms- og kirkjumálaráðuneyti_ fer með mál, er varða:
+    [5. Forustu og verkstjórn innan Stjórnarráðs Íslands.][^1)^]
+    [6. ][^1)^] Skipun ráðherra og lausn.
+    [7. ][^1)^] Skiptingu starfa [og samhæfingu þeirra][^1)^] milli ráðherra og ráðuneyta.
+    [8. ][^1)^] Ríkisstjórn og Stjórnarráð Íslands í heild, þar á meðal ráðstöfun skrifstofuhúsa og gestahúsa ríkisstjórnarinnar.
+    [9. Umbætur í löggjöf og stjórnsýslu.][^1)^]
+    [10. ][^1)^] Fána Íslands, ríkisskjaldarmerki og þjóðsöng Íslendinga.
+    [11. ][^1)^] Hina íslensku fálkaorðu og önnur heiðursmerki.
+    [12. ][^1)^] Þjóðlendur.
+    [13. ][^1)^] Þingvelli og Þingvallaþjóðgarð.
+    [14. ][^1)^] ...[^1)^]
+    [15. ][^1)^] Vísinda- og tækniráð.
+    [16. ][^1)^] ...[^1)^]
+    [17. ][^1)^] Embætti ríkislögmanns.
+    [18. ][^1)^] Umboðsmann barna.
+    [19. ][^1)^] ...[^1)^]
+    [20. ][^1)^] ...[^1)^]
+    _[^1)^]Rg. A 101/2009, 1. gr._
+ ■ *3. gr.* _[Dómsmála- og mannréttindaráðuneyti][^1)^]_ fer með mál, er varða:
     1. Lögsagnarumdæmi, dómaskipan, dómstóla, aðra en Félagsdóm, réttarfar og málflutningsmenn.
     2. Meðferð ákæruvalds, er það ber undir dómsmálaráðherra að lögum, og eftirlit með framkvæmd ákæruvalds annars.
     3. Fullnustu refsingar, fangelsi og fangavist, reynslulausn refsifanga, samfélagsþjónustu, náðun, sakaruppgjöf, uppreist æru og framsal sakamanna.
@@ -41,9 +45,9 @@ h2. Reglugerð um Stjórnarráð Íslands
     11. Sifjarétt, erfðarétt, persónurétt og yfirfjárráð.
     12. Eignarrétt og afnotarétt fasteigna og framkvæmd eignarnáms, sem eigi ber undir annað ráðuneyti.
     13. Ríkisborgararétt.
-    14. Prentfrelsi og prentrétt.
+    14. ...[^1)^]
     15. Mannréttindi.
-    16. Kjör forseta Íslands, kosningar til Alþingis, þjóðaratkvæði og aðrar almannakosningar, sem eigi ber undir annað ráðuneyti.
+    16. Kjör forseta Íslands, kosningar til Alþingis, [kosningar til sveitarstjórna],[^1)^] þjóðaratkvæði og aðrar almannakosningar, sem eigi ber undir annað ráðuneyti.
     17. Birtingu laga og stjórnvaldserinda, útgáfu Stjórnartíðinda, Lagasafns og Lögbirtingablaðs.
     18. Staðfestingu á skipulagsskrám sjóða og stofnana.
     19. Happdrætti, veðmálastarfsemi, hlutaveltur, getraunir og almennar fjársafnanir.
@@ -52,8 +56,12 @@ h2. Reglugerð um Stjórnarráð Íslands
     22. Kirkjumál og safnaða, þar á meðal embætti biskups og skipan prestakalla.
     23. Grafreiti og útfararstofnanir, þar á meðal bálstofur.
     24. Skaðabætur utan samninga.
-    25. Þjóðskrá, lögheimilismál og almannaskráningu.
-■ *4. gr.* _Félags- og tryggingamálaráðuneyti_ fer með mál, er varða:
+    [25. Fasteignaskráningu og fasteignamat.
+    26. Neytendavernd, þar á meðal alferðir.
+    27. Vog, mál og faggildingu. Vöruöryggi.][^1)^]
+    [28. ][^1)^] Þjóðskrá, lögheimilismál og almannaskráningu.
+    _[^1)^]Rg. A 101/2009, 2. gr._
+ ■ *4. gr.* _Félags- og tryggingamálaráðuneyti_ fer með mál, er varða:
     A. Velferðar- og fjölskyldumál, þar á meðal:
     1. Félagsþjónustu sveitarfélaga.
     2. Málefni fatlaðra.
@@ -87,16 +95,17 @@ h2. Reglugerð um Stjórnarráð Íslands
     6. Áfengis- og tóbaksverslun ríkisins.
     7. Launa-, kjara- og lífeyrismál starfsmanna ríkisins, réttindi þeirra og skyldur.
     8. Lífeyrissjóði.
-    9. Endurskoðendur og framkvæmd bókhalds- og ársreikningalaga.
+    9. ...[^1)^]
     10. Skráningu fyrirtækja. Norræna fjárfestingarbankann.
     11. Undirbúning og samning frumvarps til fjárlaga.
-    12. Mat á þróun og horfum í efnahagsmálum.
-    13. Fasteignaskráningu og fasteignamat.
+    12. ...[^1)^]
+    13. ...[^1)^]
     14. Húsnæðis- og bifreiðamál ríkisins.
     15. Opinberar framkvæmdir ríkisins.
     16. Opinber innkaup.
     17. Almennar umbætur í ríkisrekstri.
-■ *6. gr.* _Heilbrigðisráðuneyti_ fer með mál, er varða:
+    _[^1)^]Rg. A 101/2009, 3. gr._
+ ■ *6. gr.* _Heilbrigðisráðuneyti_ fer með mál, er varða:
     A. Heilbrigðisþjónustu, þar á meðal:
     1. Lýðheilsu og forvarnir, þ.m.t. geislavarnir.
     2. Heilsugæslu.
@@ -114,7 +123,7 @@ h2. Reglugerð um Stjórnarráð Íslands
     5. Svæða- og byggðamál, svæða- og byggðarannsóknir, atvinnuþróun og atvinnuþróunar-félög.
     6. Staðla.
     7. Ferðaþjónustu.
-■ *8. gr.* _Menntamálaráðuneyti_ fer með mál, er varða:
+■ *8. gr.* _[Mennta- og menningarmálaráðuneyti][^1)^]_ fer með mál, er varða:
     1. Kennslu og skóla á leikskóla-, grunnskóla-, framhaldsskóla- og háskólastigi, auk sérskóla, sem eigi ber undir annað ráðuneyti.
     2. Símenntun, almenna fræðslustarfsemi og námsefnisgerð.
     3. Námslán og námsstyrki.
@@ -124,9 +133,10 @@ h2. Reglugerð um Stjórnarráð Íslands
     7. Menningarstarfsemi hvers konar, stuðning við hana og kynningu innan lands og utan.
     8. Höfundarétt.
     9. Íslenska tungu, örnefni og bæjanöfn.
-    10. Útvarp og aðra fjölmiðla.
+    10. Útvarp og aðra fjölmiðla, [þ.m.t. prentmiðla].[^1)^]
     11. Íþrótta- og æskulýðsstarfsemi.
-■ *9. gr.* _Samgönguráðuneyti_ fer með mál, er varða:
+    _[^1)^]Rg. A 101/2009, 4. gr._
+ ■ *9. gr.* _[Samgöngu- og sveitarstjórnarráðuneyti][^1)^]_ fer með mál, er varða:
     1. Skipulag samgangna og flutninga á landi, í lofti og á sjó.
     2. Vegi og vegagerð.
     3. Umferð og eftirlit með ökutækjum.
@@ -136,8 +146,9 @@ h2. Reglugerð um Stjórnarráð Íslands
     7. Öryggi í samgöngum og slysarannsóknir þeim tengdar.
     8. Fjarskipti.
     9. Póstþjónustu.
-    10. Sveitarstjórnarmál, þar á meðal stjórnsýslu og verkefni sveitarfélaga, tekjustofna og fjármál þeirra, sveitarstjórnarkosningar og mörk sveitarfélaga.
-■ *10. gr.* _Sjávarútvegs- og landbúnaðarráðuneyti_ fer með mál, er varða:
+    10. Sveitarstjórnarmál, þar á meðal stjórnsýslu og verkefni sveitarfélaga, tekjustofna og fjármál þeirra ...[^1)^] og mörk sveitarfélaga.
+    _[^1)^]Rg. A 101/2009, 5. gr._
+ ■ *10. gr.* _Sjávarútvegs- og landbúnaðarráðuneyti_ fer með mál, er varða:
     A. Sjávarútveg, þar á meðal:
     1. Rannsókn, verndun og nýtingu fiskistofna og annarra lifandi auðlinda hafsins og hafsbotnsins, sem og stjórnun svæða þar sem þær eru nýtanlegar.
     2. Eftirlit með verndun og nýtingu fiskistofna og annarra lifandi auðlinda hafsins og hafsbotnsins, sem og stjórnun svæða þar sem þær eru nýtanlegar.
@@ -174,31 +185,38 @@ h2. Reglugerð um Stjórnarráð Íslands
     1. Skipti forseta Íslands og annarra þjóðhöfðingja.
     2. Sendiráð, fastanefndir og ræðisskrifstofur Íslands erlendis.
     3. Sendiráð og ræðisskrifstofur erlendra ríkja á Íslandi.
-    4. Skipti við erlend ríki.
+    4. Skipti við erlend ríki, [þ.m.t. norræna samvinnu].[^1)^]
     5. Réttindi Íslendinga og íslenska hagsmuni erlendis.
     6. Samninga við önnur ríki og gerð þeirra.
     7. Aðild Íslands að alþjóðlegum samtökum, stofnunum, ráðstefnum og fundum, er varða opinbera hagsmuni og eigi ber undir annað ráðuneyti, samkvæmt ákvæðum þessarar reglugerðar eða eðli máls.
     8. Diplómatísk vegabréf, þjónustuvegabréf og áritun vegabréfa.
     9. Kynningu Íslands og íslenskra efna með öðrum þjóðum, nema slík mál séu lögð til annars ráðuneytis.
-    10. Varnarmál, aðild að Atlantshafsbandalaginu (NATO), varnarsamning Íslands og Banda-ríkjanna, samskipti og samstarf við erlend ríki, hermálayfirvöld og alþjóðastofnanir á sviði öryggis- og varnarmála, varnarsvæði, öryggissvæðið á Keflavíkurflugvelli og önnur öryggissvæði, rekstur mannvirkja og eigna Atlantshafsbandalagsins á Íslandi, þ.m.t. íslenska ratsjár- og loftvarnakerfið (IADS).
+    10. Varnarmál, aðild að Atlantshafsbandalaginu (NATO), varnarsamning Íslands og Bandaríkjanna, samskipti og samstarf við erlend ríki, hermálayfirvöld og alþjóðastofnanir á sviði öryggis- og varnarmála, varnarsvæði, öryggissvæðið á Keflavíkurflugvelli og önnur öryggissvæði, rekstur mannvirkja og eigna Atlantshafsbandalagsins á Íslandi, þ.m.t. íslenska ratsjár- og loftvarnakerfið (IADS).
     11. Útflutningsverslun.
     12. Undirbúning og framkvæmd viðskiptasamninga.
     13. Skipti Íslands við alþjóðleg viðskiptasamtök.
     14. Vörusýningar erlendis.
     15. Þróunarsamvinnu, friðargæslu og neyðarhjálp.
-■ *13. gr.* _Viðskiptaráðuneyti_ fer með mál, er varða:
+    _[^1)^]Rg. A 101/2009, 6. gr._
+ ■ *13. gr.* _[Efnahags- og viðskiptaráðuneyti][^1)^]_ fer með mál, er varða:
     1. Verslun og viðskipti með vöru og þjónustu, aðra en útflutningsverslun.
     2. Fjármálamarkað. Vátryggingar og vátryggingastarfsemi.
     3. Vexti og verðtryggingu.
     4. Fjárfestingar erlendra aðila. Gjaldeyri.
     5. Samkeppnismál og óréttmæta viðskiptahætti.
-    6. Neytendavernd, þ. á m. alferðir.
-    7. Vog, mál og faggildingu. Vöruöryggi.
+    6. ...[^1)^]
+    7. ...[^1)^]
     8. Hlutafélög, einkahlutafélög, samvinnufélög og önnur félög og sjálfseignarstofnanir, sem stunda atvinnurekstur, þó ekki skráningu þeirra. Firmu.
     9. Endurreisnar- og þróunarbanka Evrópu (EBRD).
-    10. Fasteignakaup og sölu fasteigna, fyrirtækja og skipa.
-    11. Hugverkaréttindi á sviði iðnaðar, m.a. einkaleyfi, vörumerki og hönnun.
-■ *14. gr.* Málefni, sem eigi er getið í 2. - 13. gr., skulu lögð til ráðuneytis, þar sem þau eðli sínu samkvæmt eiga heima, sbr. 1. mgr. "8. gr. laga nr. 73/1969":1969073.html#g8.
+    [10. Seðlabanka Íslands og Alþjóðagjaldeyrissjóðinn (IMF).
+    11. Hagstjórn almennt.
+    12. Mat á þróun og horfum í efnahagsmálum.
+    13. Hagstofu Íslands.
+    14. Endurskoðendur og framkvæmd bókhalds- og ársreikningalaga.][^1)^]
+    [15. ][^1)^] Fasteignakaup og sölu fasteigna, fyrirtækja og skipa.
+    [16. ][^1)^] Hugverkaréttindi á sviði iðnaðar, m.a. einkaleyfi, vörumerki og hönnun.
+    _[^1)^]Rg. A 101/2009, 7. gr._
+ ■ *14. gr.* Málefni, sem eigi er getið í 2. - 13. gr., skulu lögð til ráðuneytis, þar sem þau eðli sínu samkvæmt eiga heima, sbr. 1. mgr. "8. gr. laga nr. 73/1969":1969073.html#g8.
  ■ *15. gr.* Nú leikur vafi á, hvaða ráðuneyti skuli með mál fara, og sker forsætisráðherra þá úr.
 ■ *16. gr.* Reglugerð þessi, sem sett er samkvæmt "8. gr. laga nr. 73/1969":1969073.html#g8, öðlast gildi 1. janúar 2008. ...
  *Ákvæði til bráðabirgða.*

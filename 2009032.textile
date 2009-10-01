@@ -7,22 +7,25 @@ h2. Lög um ábyrgðarmenn
 <hr />
 
 
- *Tóku gildi 4. apríl 2009.*
+ *Tóku gildi 4. apríl 2009.* _Breytt með_ l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem taka gildi 1. jan. 2010).
+
 
  *I. kafli.* *Markmið, gildissvið og framsal.*
  ■ *1. gr.* Markmið þessara laga er að setja reglur um ábyrgðir einstaklinga, draga úr vægi ábyrgða og að stuðla að því að lánveitingar verði miðaðar við greiðslugetu lántaka og hans eigin tryggingar.
 ■ *2. gr.* Lög þessi gilda um lánveitingar stofnana og fyrirtækja þar sem ábyrgðarmaður gengst í ábyrgð til tryggingar efndum lántaka. Stofnanir og fyrirtæki geta m.a. verið viðskiptabankar, sparisjóðir, greiðslukortafyrirtæki, lánafyrirtæki, verðbréfafyrirtæki, vátryggingafélög, lífeyrissjóðir, Íbúðalánasjóður og Lánasjóður íslenskra námsmanna.
  □ Með ábyrgðarmanni er átt við einstakling sem gengst persónulega í ábyrgð eða veðsetur tilgreinda eign sína til tryggingar efndum lántaka enda sé ábyrgðin ekki í þágu atvinnurekstrar ábyrgðarmanns eða í þágu fjárhagslegs ávinnings hans.
  □ Persónuleg ábyrgð er annaðhvort einföld ábyrgð eða sjálfskuldarábyrgð. Sé í ábyrgðarsamningi ekkert tekið fram um hvers konar ábyrgð sé að ræða skal hún álitin einföld.
- □ Viðskiptaráðherra er heimilt með reglugerð að undanskilja tiltekin form ábyrgða gildissviði laganna.
-■ *3. gr.* Lánveitandi skal tilkynna ábyrgðarmanni um framsal réttinda sem reist eru á ábyrgðinni eða láni því sem ábyrgðin stendur til tryggingar á.
+ □ [Efnahags- og viðskiptaráðherra][^1)^] er heimilt með reglugerð að undanskilja tiltekin form ábyrgða gildissviði laganna.
+    _[^1)^]L. 98/2009, 44. gr._
+ ■ *3. gr.* Lánveitandi skal tilkynna ábyrgðarmanni um framsal réttinda sem reist eru á ábyrgðinni eða láni því sem ábyrgðin stendur til tryggingar á.
  □ Lög þessi gilda um framsalshafa eftir því sem við á.
 
  *II. kafli.* *Stofnun, efni og form ábyrgðarsamninga.*
-■ *4. gr.* Lánveitandi skal meta hæfi lántaka til að standa í skilum með lán þar sem ábyrgðarmaður gengst í ábyrgð til tryggingar efndum lántaka. Greiðslumat skal byggt á viðurkenndum viðmiðum. Viðskiptaráðherra er heimilt að setja reglugerð um framkvæmd greiðslumats.
+■ *4. gr.* Lánveitandi skal meta hæfi lántaka til að standa í skilum með lán þar sem ábyrgðarmaður gengst í ábyrgð til tryggingar efndum lántaka. Greiðslumat skal byggt á viðurkenndum viðmiðum. [Efnahags- og viðskiptaráðherra][^1)^] er heimilt að setja reglugerð um framkvæmd greiðslumats.
  □ Lánveitandi skal með skriflegum hætti ráða ábyrgðarmanni frá því að gangast í ábyrgð ef greiðslumat bendir til þess að lántaki geti ekki efnt skuldbindingar sínar.
  □ Með sama hætti skal lánveitandi ráða ábyrgðarmanni frá því að undirgangast ábyrgð ef aðstæður ábyrgðarmanns gefa tilefni til.
-■ *5. gr.* Fyrir gerð ábyrgðarsamnings skal lánveitandi upplýsa ábyrgðarmann skriflega um þá áhættu sem ábyrgð er samfara. Í því felst meðal annars að veita upplýsingar um:
+    _[^1)^]L. 98/2009, 44. gr._
+ ■ *5. gr.* Fyrir gerð ábyrgðarsamnings skal lánveitandi upplýsa ábyrgðarmann skriflega um þá áhættu sem ábyrgð er samfara. Í því felst meðal annars að veita upplýsingar um:
     a. almennar reglur sem um ábyrgðir gilda, þ.m.t. um muninn á sjálfskuldarábyrgð og einfaldri ábyrgð,
     b. greiðslugetu lántaka,
     c. lán það sem ábyrgð er ætlað að tryggja,
@@ -58,10 +61,11 @@ h2. Lög um ábyrgðarmenn
  □ Ef lánveitandi samþykkir að veð eða aðrar tryggingarráðstafanir sem gerðar voru til að tryggja efndir samnings skuli ekki lengur standa til tryggingar, og breytingin hefur í för með sér að staða ábyrgðarmanns er þá mun verri en hún var, er ábyrgðarmaður ekki lengur bundinn af samningi sínum.
 
  *VI. kafli.* *Reglugerðarheimild.*
-■ *11. gr.* Viðskiptaráðherra er heimilt að setja reglugerð um framkvæmd laga þessara.
+■ *11. gr.* [Efnahags- og viðskiptaráðherra][^1)^] er heimilt að setja reglugerð um framkvæmd laga þessara.
+    _[^1)^]L. 98/2009, 44. gr._
 
  *VII. kafli.* *Gildistaka.*
-■ *12. gr.* Lög þessi öðlast þegar gildi. Lögin taka til ábyrgða sem stofnað hefur verið til fyrir gildistöku þeirra að frátöldum 4. gr., 5. gr., 1. mgr. 6. gr. og 8. gr.
+ ■ *12. gr.* Lög þessi öðlast þegar gildi. Lögin taka til ábyrgða sem stofnað hefur verið til fyrir gildistöku þeirra að frátöldum 4. gr., 5. gr., 1. mgr. 6. gr. og 8. gr.
  ■ *Ákvæði til bráðabirgða.* Heimilt er að víkja ábyrgð til hliðar í heild eða að hluta á grundvelli 36. gr. laga um samningsgerð, umboð og ógilda löggerninga, nr. 7/1936, og að teknu tilliti til þeirra atvika er leiddu til setningar laga um heimild til fjárveitingar úr ríkissjóði vegna sérstakra aðstæðna á fjármálamarkaði o."fl., nr. 125/2008":2008125.html.
 
 

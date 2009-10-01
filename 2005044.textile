@@ -7,7 +7,7 @@ h2. Samkeppnislög
 <hr />
 
 
- *Tóku gildi 1. júlí 2005, nema ákvæði til bráðabirgða sem tók gildi 20. maí 2005.* _Breytt með_ l. 52/2007 (tóku gildi 3. apríl 2007), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 94/2008 (tóku gildi 24. júní 2008).
+ *Tóku gildi 1. júlí 2005, nema ákvæði til bráðabirgða sem tók gildi 20. maí 2005.* _Breytt með_ l. 52/2007 (tóku gildi 3. apríl 2007), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 94/2008 (tóku gildi 24. júní 2008), l. 87/2009 (tóku gildi 20. ágúst 2009) og l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem taka gildi 1. jan. 2010).
 
 
  *I. kafli.* *Markmið og gildissvið.*
@@ -39,13 +39,14 @@ h2. Samkeppnislög
     _[^1)^]L. 94/2008, 1. gr._
 
  *III. kafli.* *Stjórnsýsla.*
- ■ *5. gr.* Viðskiptaráðherra fer með framkvæmd laga þessara en í umboði hans annast sérstök stofnun, Samkeppniseftirlitið, eftirlit samkvæmt lögum þessum og daglega stjórnsýslu á því sviði sem lögin ná til.
+ ■ *5. gr.* [Efnahags- og viðskiptaráðherra][^1)^] fer með framkvæmd laga þessara en í umboði hans annast sérstök stofnun, Samkeppniseftirlitið, eftirlit samkvæmt lögum þessum og daglega stjórnsýslu á því sviði sem lögin ná til.
  □ Með yfirstjórn Samkeppniseftirlitsins fer þriggja manna stjórn sem ráðherra skipar til fjögurra ára í senn. Þrír varamenn skulu skipaðir með sama hætti. Ráðherra skipar formann stjórnar og ákveður þóknun stjórnarmanna.
- □ Hlutverk stjórnar er að móta áherslur í starfi og fylgjast með starfsemi og rekstri Samkeppniseftirlitsins. Meiri háttar efnislegar ákvarðanir skal bera undir stjórn til samþykktar eða synjunar. Stjórnin skal setja sér starfsreglur[^1)^] þar sem m.a. skal kveðið á um hvað teljist til meiri háttar ákvarðana. Reglurnar skulu birtar í B-deild Stjórnartíðinda.
-    _[^1)^]Rgl. 759/2005_.
- ■ *6. gr.* Forstjóri Samkeppniseftirlitsins skal ráðinn af stjórn stofnunarinnar. Forstjóri annast daglega stjórnun á starfsemi og rekstri stofnunarinnar. Stjórn stofnunarinnar ákveður starfskjör forstjóra og setur honum starfslýsingu.
+ □ Hlutverk stjórnar er að móta áherslur í starfi og fylgjast með starfsemi og rekstri Samkeppniseftirlitsins. Meiri háttar efnislegar ákvarðanir skal bera undir stjórn til samþykktar eða synjunar. Stjórnin skal setja sér starfsreglur[^2)^] þar sem m.a. skal kveðið á um hvað teljist til meiri háttar ákvarðana. Reglurnar skulu birtar í B-deild Stjórnartíðinda.
+    _[^1)^]L. 98/2009, 39. gr._ [^2)^]Rgl. 759/2005.
+ ■ *6. gr.* [Forstjóri Samkeppniseftirlitsins skal ráðinn af stjórn stofnunarinnar og setur hún honum starfslýsingu. Kjararáð ákveður starfskjör forstjóra. Forstjóri annast daglega stjórnun á starfsemi og rekstri stofnunarinnar.][^1)^]
  □ Forstjóri ræður starfsmenn stofnunarinnar.
-■ *7. gr.* Stjórnarmenn skulu hafa sérþekkingu á samkeppnis- og viðskiptamálum og menntun sem nýtist á þessu sviði.
+    _[^1)^]L. 87/2009, 5. gr._
+ ■ *7. gr.* Stjórnarmenn skulu hafa sérþekkingu á samkeppnis- og viðskiptamálum og menntun sem nýtist á þessu sviði.
  □ Forstjóri skal hafa menntun á háskólastigi og búa yfir víðtækri þekkingu og reynslu á sviði samkeppnismála.
  □ Stjórnarmenn og forstjóri skulu vera lögráða og mega aldrei hafa verið sviptir forræði á búi sínu. Þeir skulu hafa óflekkað mannorð og mega ekki í tengslum við atvinnurekstur hafa hlotið dóm fyrir refsiverðan verknað samkvæmt almennum hegningarlögum, lögum um hlutafélög, einkahlutafélög, bókhald, ársreikninga eða gjaldþrot eða samkeppnislögum.
  □ Stjórnarmenn og forstjóri skulu hvorki taka þátt í meðferð mála þar sem þeir eiga verulegra hagsmuna að gæta né mála er varða aðila sem eru þeim tengdir persónulega eða fjárhagslega.
@@ -56,7 +57,7 @@ h2. Samkeppnislög
     d. að fylgjast með þróun á samkeppnis- og viðskiptaháttum á einstökum mörkuðum í íslensku viðskiptalífi og kanna stjórnunar- og eignatengsl á milli fyrirtækja; skal þetta gert m.a. í því skyni að meta hvort í íslensku viðskiptalífi sé að finna einkenni hringamyndunar, óæskilegra tengsla eða valdasamþjöppunar sem takmarkað geta samkeppni; stofnunin skal birta skýrslur um athuganir sínar og grípa til aðgerða til að stuðla að virkri samkeppni þar sem það er nauðsynlegt.
  □ Samkeppniseftirlitið setur sér reglur[^1)^] um málsmeðferð.
  □ Samkeppniseftirlitið tekur ákvörðun um það hvort erindi sem berst stofnuninni gefi nægar ástæður til rannsóknar. Við afgreiðslu mála samkvæmt lögum þessum er Samkeppniseftirlitinu heimilt að raða málum í forgangsröð.
-    _[^1)^]Rgl. 880/2005_, sbr. rgl. 924/2007; rgl. 890/2005, rgl. 684/2008, sbr. rgl. 854/2008.
+    _[^1)^]Rgl. 880/2005_, sbr. rgl. 924/2007. Rgl. 890/2005. Rgl. 684/2008, sbr. rgl. 854/2008.
  ■ *9. gr.* Ákvarðanir Samkeppniseftirlitsins sæta kæru til sérstakrar nefndar, áfrýjunarnefndar samkeppnismála. Skrifleg kæra skal berast innan fjögurra vikna frá því að aðila máls var tilkynnt um ákvörðunina. Úrskurður áfrýjunarnefndar samkeppnismála skal liggja fyrir innan sex vikna frá málskoti.
  □ Í áfrýjunarnefnd samkeppnismála sitja þrír menn og jafnmargir til vara, skipaðir af ráðherra eftir tilnefningu Hæstaréttar. Formaður og varamaður hans, sem jafnframt er varaformaður, skulu uppfylla hæfisskilyrði hæstaréttardómara, en aðrir nefndarmenn skulu hafa faglega kunnáttu á sviði samkeppnis- og viðskiptamála.
  □ Skipunartími áfrýjunarnefndar er hinn sami og skipunartími stjórnar Samkeppniseftirlitsins.
@@ -97,7 +98,7 @@ h2. Samkeppnislög
     b. undanþágan hefur verið veitt á grundvelli rangra eða villandi upplýsinga eða
     c. fyrirtæki brýtur þau skilyrði sem sett voru fyrir undanþágunni.
  □ Samkeppniseftirlitið setur reglur[^1)^] þar sem tilteknum tegundum samninga sem uppfylla skilyrði 1. mgr. er veitt undanþága frá ákvæðum 10. og 12. gr. (hópundanþága).
-    _[^1)^]Rgl. 256/2002_, sbr. rgl. 898/2005; rgl. 257/2002, sbr. rgl. 898/2005; rgl. 259/2002, sbr. rgl. 898/2005; rgl. 260/2002, sbr. rgl. 898/2005.
+    _[^1)^]Rgl. 256/2002_, sbr. rgl. 898/2005. Rgl. 257/2002, sbr. rgl. 898/2005. Rgl. 259/2002, sbr. rgl. 898/2005. Rgl. 260/2002, sbr. rgl. 898/2005.
 
  *V. kafli.* *Eftirlit með samkeppnishömlum.*
  ■ *16. gr.* Samkeppniseftirlitið getur gripið til aðgerða gegn:
@@ -205,7 +206,7 @@ h2. Samkeppnislög
  □ Telji Eftirlitsstofnun EFTA að aðstoð, sem sveitarstjórn hefur tekið ákvörðun um að veita, brjóti gegn 61. gr. EES-samningsins skal Samkeppniseftirlitið tilkynna það sveitarstjórn. Samkeppniseftirlitið getur fylgt eftir framkvæmd slíks úrskurðar með álagningu févítis, sbr. 3. mgr. 24. gr.
  □ Verði að afturkalla ákvörðun um ríkisaðstoð eða annan fjárhagsstuðning úr opinberum sjóðum vegna ákvæða samningsins um Evrópska efnahagssvæðið skulu stjórnvöld, að undangenginni ákvörðun Eftirlitsstofnunar EFTA um endurgreiðslu, gera ráðstafanir til þess að endurheimta aðstoðina frá þiggjanda hennar. Þiggjanda aðstoðar ber að greiða vexti, sem Eftirlitsstofnun EFTA ákveður, af fjárhæð þeirri sem hann er endurkrafinn um. Vextir skulu reiknaðir frá þeim degi er þiggjanda var fengin aðstoðin til umráða og fram til þess dags að hún er endurgreidd. Afturköllun samkvæmt málsgrein þessari skapar sveitarfélagi eða ríkissjóði ekki skaðabótaskyldu gagnvart þeim sem ákvörðun beinist að eða telja sig að öðru leyti bíða tjón af afturkölluninni.
 ■ *32. gr.* Ráðherra er heimilt að fenginni umsögn Samkeppniseftirlitsins að setja reglugerð um nánari framkvæmd samkeppnisreglna samningsins um Evrópska efnahagssvæðið og samningsins um eftirlitsstofnun og dómstól EFTA. Fjármálaráðherra er heimilt að setja nánari reglur um framkvæmd reglna EES-samningsins um ríkisaðstoð til aðila hér á landi.[^1)^]
-    _[^1)^]Rg. 593/1993_, sbr. 338/1996, 230/1997, 358/1998, 245/1999, 584/2000, 282/2001, 652/2005, 653/2005, 654/2005 og 655/2005; rg. 904/2002, rg. 811/2006, rg. 812/2006, rg. 813/2006, rg. 814/2006, rg. 815/2006, rg. 816/2006, rg. 817/2006, rg. 818/2006, rg. 819/2006, rg. 820/2006, rg. 821/2006, rg. 822/2006, rg. 823/2006, rg. 824/2006, rg. 825/2006, rg. 826/2006, rg. 430/2008.
+    _[^1)^]Rg. 593/1993_, sbr. 338/1996, 230/1997, 358/1998, 245/1999, 584/2000, 282/2001, 652/2005, 653/2005, 654/2005 og 655/2005. Rg. 904/2002. Rg. 811/2006. Rg. 812/2006. Rg. 813/2006. Rg. 814/2006. Rg. 815/2006. Rg. 816/2006. Rg. 817/2006. Rg. 818/2006. Rg. 819/2006. Rg. 820/2006. Rg. 821/2006. Rg. 822/2006. Rg. 823/2006. Rg. 824/2006. Rg. 825/2006. Rg. 826/2006. Rg. 430/2008.
 
  *VIII. kafli.* *Almenn ákvæði.*
  ■ *33. gr.* Samningar, sem brjóta í bága við bannákvæði laga þessara, eru ógildir.
@@ -216,8 +217,9 @@ h2. Samkeppnislög
     a. farið verði með upplýsingarnar og gögnin sem trúnaðarmál hjá þeim sem við þeim tekur,
     b. upplýsingarnar og gögnin megi aðeins nota í því skyni sem kveðið er á um í viðkomandi milliríkjasamningi og
     c. upplýsingarnar og gögnin megi aðeins afhenda öðrum með samþykki Samkeppniseftirlitsins og í þeim tilgangi sem samþykkið kveður á um.
- □ Viðskiptaráðherra getur sett nánari reglur um afhendingu Samkeppniseftirlitsins á gögnum og upplýsingum til yfirvalda og stofnana skv. 1. mgr.
-■ *36. gr.* Við framkvæmd þessara laga getur Samkeppniseftirlitið birt opinberlega upplýsingar um samninga, skilmála og athafnir sem hafa eða er ætlað að hafa þau áhrif að hamla samkeppni.
+ □ [Efnahags- og viðskiptaráðherra][^1)^] getur sett nánari reglur um afhendingu Samkeppniseftirlitsins á gögnum og upplýsingum til yfirvalda og stofnana skv. 1. mgr.
+    _[^1)^]L. 98/2009, 39. gr._
+ ■ *36. gr.* Við framkvæmd þessara laga getur Samkeppniseftirlitið birt opinberlega upplýsingar um samninga, skilmála og athafnir sem hafa eða er ætlað að hafa þau áhrif að hamla samkeppni.
  □ Tillit skal þó tekið til réttmætra hagsmuna fyrirtækja til að halda leyndum viðskiptalegum og tæknilegum upplýsingum.
 
  *IX. kafli.* *Viðurlög.*
@@ -279,7 +281,7 @@ h2. Samkeppnislög
 
  *X. kafli.* *Gildistaka.*
  ■ *44. gr.* Lög þessi öðlast gildi 1. júlí 2005. ...
- ■ *Ákvæði til bráðabirgða.* Starfsmönnum Samkeppnisstofnunar skal boðið annað starf hjá þeim stofnunum er taka við verkefnum Samkeppnisstofnunar 1. júlí 2005, þ.e. Samkeppniseftirliti og Neytendastofu. Við ráðstöfun þeirra starfa þarf ekki að gæta "7. gr. laga nr. 70/1996":1996070.html#g7, um réttindi og skyldur starfsmanna ríkisins.
- □ Viðskiptaráðherra er heimilt að skipa þegar stjórn Samkeppniseftirlitsins og skal stjórnin hafa heimild til að undirbúa gildistöku laganna, þ.m.t. að bjóða starfsmönnum Samkeppnisstofnunar annað starf hjá Samkeppniseftirlitinu, sbr. 1. mgr., eftir 1. júlí 2005.
+ ■ *Ákvæði til bráðabirgða.* ...[^1)^]
+    _[^1)^]L. 98/2009, 39. gr._
 
 

@@ -7,7 +7,7 @@ h2. Lög um fjármálafyrirtæki
 <hr />
 
 
- *Tóku gildi 1. janúar 2003.* _EES-samningurinn:_ IX. viðauki tilskipun 85/611/EBE, 86/635/EBE, 93/22/EBE, 95/26/EB, 2000/12/EB og 2000/43/EB. _Breytt með_ l. 4/2004 (tóku gildi 6. febr. 2004), l. 129/2004 (tóku gildi 31. des. 2005), l. 130/2004 (tóku gildi 1. jan. 2005, sjá nánar um lagaskil í 21. gr.; _EES-samningurinn:_ IX. viðauki tilskipun 2002/87/EB og 2001/24/EB), l. 67/2006 (tóku gildi 24. júní 2006), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 170/2006 (tóku gildi 1. jan. 2007), l. 55/2007 (tóku gildi 3. apríl 2007), l. 111/2007 (tóku gildi 1. nóv. 2007; _EES-samningurinn:_ IX. viðauki tilskipun 2004/39/EB), l. 144/2007 (tóku gildi 29. des. 2007), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 96/2008 (tóku gildi 24. júní 2008), "l. 125/2008":2008125.html (tóku gildi 7. okt. 2008), l. 129/2008 (tóku gildi 15. nóv. 2008) og l. 44/2009 (tóku gildi 22. apríl 2009).
+ *Tóku gildi 1. janúar 2003.* _EES-samningurinn:_ IX. viðauki tilskipun 85/611/EBE, 86/635/EBE, 93/22/EBE, 95/26/EB, 2000/12/EB og 2000/43/EB. _Breytt með_ l. 4/2004 (tóku gildi 6. febr. 2004), l. 129/2004 (tóku gildi 31. des. 2005), l. 130/2004 (tóku gildi 1. jan. 2005, sjá nánar um lagaskil í 21. gr.; _EES-samningurinn:_ IX. viðauki tilskipun 2002/87/EB og 2001/24/EB), l. 67/2006 (tóku gildi 24. júní 2006), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 170/2006 (tóku gildi 1. jan. 2007), l. 55/2007 (tóku gildi 3. apríl 2007), l. 111/2007 (tóku gildi 1. nóv. 2007; _EES-samningurinn:_ IX. viðauki tilskipun 2004/39/EB), l. 144/2007 (tóku gildi 29. des. 2007), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 96/2008 (tóku gildi 24. júní 2008), "l. 125/2008":2008125.html (tóku gildi 7. okt. 2008), l. 129/2008 (tóku gildi 15. nóv. 2008), l. 44/2009 (tóku gildi 22. apríl 2009), l. 61/2009 (tóku gildi 31. maí 2009), l. 74/2009 (tóku gildi 14. júlí 2009), l. 76/2009 (tóku gildi 16. júlí 2009) og l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem taka gildi 1. jan. 2010).
 
 
  *I. kafli.* *Gildissvið.*
@@ -113,8 +113,8 @@ h2. Lög um fjármálafyrirtæki
  *III. kafli.* *Stofnun og starfsemi.*
 ■ *11. gr.* _Búsetuskilyrði stofnenda._
  □ Einungis einstaklingar og lögaðilar búsettir hér á landi geta verið stofnendur fjármálafyrirtækja.
- □ [Ríkisborgarar og lögaðilar annarra ríkja innan Evrópska efnahagssvæðisins og aðildarríkja Fríverslunarsamtaka Evrópu svo og Færeyingar og lögaðilar í Færeyjum eru undanþegnir búsetuskilyrðum 1. mgr.][^1)^] Viðskiptaráðherra er heimilt að veita ríkisborgurum annarra ríkja sömu undanþágu.
-    _[^1)^]L. 108/2006, 75. gr._
+ □ [Ríkisborgarar og lögaðilar annarra ríkja innan Evrópska efnahagssvæðisins og aðildarríkja Fríverslunarsamtaka Evrópu svo og Færeyingar og lögaðilar í Færeyjum eru undanþegnir búsetuskilyrðum 1. mgr.][^1)^] [Efnahags- og viðskiptaráðherra][^2)^] er heimilt að veita ríkisborgurum annarra ríkja sömu undanþágu.
+    _[^1)^]L. 108/2006, 75. gr._ [^2)^]L. 98/2009, 33. gr.
  ■ *12. gr.* _Heiti._
  □ Fjármálafyrirtækjum er einum heimilt að nota í firma sínu eða til nánari skýringar á starfsemi sinni orðin „banki“, „viðskiptabanki“, „fjárfestingarbanki“, „sparisjóður“, „rafeyrisfyrirtæki“, „verðbréfafyrirtæki“, „verðbréfamiðlun“ og „rekstrarfélag verðbréfasjóðs“, ein sér eða samtengd öðrum orðum, í samræmi við starfsleyfi sitt.
  □ Sé hætta á að villst verði á nöfnum erlends og innlends fjármálafyrirtækis sem starfa hér á landi getur Fjármálaeftirlitið krafist þess að annað fyrirtækjanna verði auðkennt sérstaklega.
@@ -184,8 +184,9 @@ h2. Lög um fjármálafyrirtæki
 ■ *21. gr.* _Önnur þjónustustarfsemi og hliðarstarfsemi._
  □ Viðskiptabönkum, sparisjóðum og lánafyrirtækjum er heimilt að sinna annarri þjónustustarfsemi sem er í eðlilegum tengslum við heimildir þeirra skv. 20. gr.
  □ Auk þjónustu skv. 20. gr. er viðskiptabönkum, sparisjóðum og lánafyrirtækjum heimilt að stunda hliðarstarfsemi, enda sé hún í eðlilegu framhaldi af fjármálaþjónustu fyrirtækisins. Ákvæði 1. málsl. þessarar málsgreinar tekur einnig til þess þegar fjármálafyrirtæki á eignarhlut í eða er þátttakandi í annarri atvinnustarfsemi. Senda skal tilkynningu til Fjármálaeftirlitsins ef fyrirhugað er að stunda starfsemi samkvæmt þessari málsgrein. Með slíkri tilkynningu skulu fylgja upplýsingar um hina fyrirhuguðu starfsemi sem Fjármálaeftirlitið metur fullnægjandi. Hafi Fjármálaeftirlitið ekki gert athugasemd við hina fyrirhuguðu starfsemi innan eins mánaðar frá því að fullnægjandi tilkynning berst skal litið svo á að heimilt sé að hefja starfsemina. Fjármálaeftirlitið getur krafist þess að starfsemin sé stunduð í sérstöku félagi, en skal þá tilkynna viðkomandi aðila um þá ákvörðun sína innan fyrrgreinds frests. Sé vanrækt að senda tilkynningu samkvæmt þessari málsgrein getur Fjármálaeftirlitið bannað starfsemina eða krafist þess að hún sé stunduð í sérstöku félagi.
- □ Viðskiptabönkum, sparisjóðum og lánafyrirtækjum er heimilt samkvæmt sérstökum samningi að fengnu samþykki Fjármálaeftirlitsins að taka að sér að veita póstþjónustu fyrir hönd aðila sem leyfi hefur til að veita slíka þjónustu.
-■ *22. gr.* _Tímabundin starfsemi og yfirtaka eigna._
+ □ Viðskiptabönkum, sparisjóðum og lánafyrirtækjum er heimilt samkvæmt sérstökum samningi að fengnu samþykki Fjármálaeftirlitsins að taka að sér að veita póstþjónustu fyrir hönd aðila sem leyfi hefur til að veita slíka þjónustu. [Þeim er enn fremur heimilt að veita þjónustu í umboði annarra, svo sem vátryggingafélaga, lífeyrissjóða og annarra fjármálafyrirtækja, enda telji Fjármálaeftirlitið þá starfsemi hvorki skerða möguleika þeirra til þess að veita þjónustu samkvæmt starfsleyfi sínu né skerða möguleika þess til að hafa eftirlit með starfseminni. Skal Fjármálaeftirlitinu tilkynnt fyrir fram um áform viðkomandi svo að mat þess geti legið fyrir áður en veiting þjónustunnar hefst.][^1)^]
+    _[^1)^]L. 76/2009, 1. gr._
+ ■ *22. gr.* _Tímabundin starfsemi og yfirtaka eigna._
  □ Viðskiptabönkum, sparisjóðum og lánafyrirtækjum er því aðeins heimilt að stunda aðra starfsemi en þá sem um getur í þessum kafla að það sé tímabundið og í þeim tilgangi að ljúka viðskiptum eða til að endurskipuleggja starfsemi viðskiptaaðila. Tilkynning hér að lútandi skal send Fjármálaeftirlitinu.
  □ Viðskiptabönkum, sparisjóðum og lánafyrirtækjum er heimilt að yfirtaka eignir til að tryggja fullnustu kröfu. Eignirnar skulu seldar jafnskjótt og hagkvæmt er.
 ■ *23. gr.* _Heimildir til vátryggingastarfsemi._
@@ -238,10 +239,10 @@ h2. Lög um fjármálafyrirtæki
  □ Fjármálafyrirtæki mega ekki eiga virka eignarhluti í einstökum fyrirtækjum, sem ekki eru fjármálafyrirtæki eða fyrirtæki tengd fjármálasviði, sem nema hærri fjárhæð en 15% af [eiginfjárgrunni][^1)^] hlutaðeigandi fjármálafyrirtækis áður en tekið hefur verið tillit til frádráttar skv. 5. mgr. 85. gr. Með fyrirtæki tengdu fjármálasviði er átt við fyrirtæki sem ekki er lánastofnun og starfar einkum að öflun eignarhluta eða stundar einhverja þá starfsemi sem um getur í 2. - 12. tölul. 1. mgr. 20. gr.
  □ Samtala virkra eignarhluta skv. 1. mgr. má ekki nema hærri fjárhæð en 60% af [eiginfjárgrunni][^1)^] fjármálafyrirtækis áður en tekið hefur verið tillit til frádráttar skv. 5. mgr. 85. gr. Bókfært virði samanlagðra eignarhluta sem fjármálafyrirtæki hefur eignast má ekki nema hærri fjárhæð en 100% af [eiginfjárgrunni][^1)^] þess. Eignarhlutir sem dregnir skulu frá við útreikning á [eiginfjárgrunni][^1)^] og eignarhlutir í fyrirtækjum, sem mynda samstæðu, skulu ekki teknir með við útreikning hlutfalla skv. 1. mgr. og 1. og 2. málsl. þessarar málsgreinar. [Tímabundinn eignarhlutur fjármálafyrirtækis, þó ekki eignarhlutur í veltubók, í fyrirtæki í tengslum við fjárhagslega endurskipulagningu í þeim tilgangi að verja kröfur fjármálafyrirtækisins skal undanþeginn við útreikning skv. 1. mgr. og 1. og 2. málsl. þessarar málsgreinar.][^1)^]
  □ Heimilt er að eignarhlutir fjármálafyrirtækja fari fram yfir hlutföll skv. 1. mgr. eða 1. málsl. 2. mgr., enda sé sú fjárhæð sem umfram er dregin frá við útreikning [eiginfjárgrunns][^1)^] hlutaðeigandi fyrirtækis. Fari eignarhlutir samtímis fram yfir hlutföll skv. 1. mgr. og 1. málsl. 2. mgr. skal hærri fjárhæðin af þeim sem umfram eru dregin frá við útreikning [eiginfjárgrunns][^1)^] hlutaðeigandi fyrirtækis.
- □ Fjármálafyrirtæki skulu gefa Fjármálaeftirlitinu sundurliðað yfirlit yfir eignarhluti í öðrum fjármálafyrirtækjum sem þau hafa eignast eða tekið að veði, sbr. þó 64. gr.
+ □ Fjármálafyrirtæki skulu gefa Fjármálaeftirlitinu sundurliðað yfirlit yfir eignarhluti í öðrum fjármálafyrirtækjum sem þau hafa eignast eða tekið að veði ...[^2)^]
  □ Við útreikning á hlutföllum skv. 1. - 2. mgr. og 29. gr. skal taka tillit til framvirkra kaup- og sölusamninga og annarra afleiðusamninga sem fjármálafyrirtæki hefur gert um eigin hlutabréf. Fjármálaeftirlitinu er heimilt að setja nánari reglur um þetta atriði.
  □ ...[^1)^]
-    _[^1)^]L. 170/2006, 3. gr._
+    _[^1)^]L. 170/2006, 3. gr._ [^2)^]L. 76/2009, 2. gr.
  ■ *29. gr.* _Eigin hlutir._
  □ Fjármálafyrirtæki má ekki án samþykkis Fjármálaeftirlitsins eiga eða taka að veði eigin hlutabréf sem nemur hærri fjárhæð að nafnverði en 10% af nafnverði innborgaðs hlutafjár fyrirtækisins. Eignist fyrirtækið meira af hlutafénu, svo sem með kaupum eða fyrir annað framsal, skal það hafa selt hlutabréf þannig að lögmæltu marki sé náð innan þriggja mánaða. Um heimildir fjármálafyrirtækis til að eignast eigin hluti gilda að öðru leyti ákvæði VIII. kafla hlutafélagalaga.
  □ Veiti fjármálafyrirtæki í tengslum við hlutafjárútboð lán til kaupa á eigin hlutabréfum eða stofnfjárhlutum fyrir hærri fjárhæð en 5% af nafnverði heildarhlutafjár eða stofnfjár hlutaðeigandi fyrirtækis skulu settar traustar tryggingar fyrir lánum sem eru umfram framangreint hlutfall.
@@ -275,7 +276,7 @@ h2. Lög um fjármálafyrirtæki
     _[^1)^]L. 111/2007, 8. gr._
  ■ *35. gr.* _Reglugerð._
  □ Ráðherra skal setja reglugerð[^1)^] um heimildir erlendra fjármálafyrirtækja til starfsemi hér á landi og innlendra fjármálafyrirtækja erlendis. Í reglugerðinni skal m.a. kveðið á um eftirlit með og nánari kröfur til útibúa og umboðsskrifstofa erlendra fjármálafyrirtækja, um heimildir fyrirtækja sem tengjast fjármálasviði og dótturfélaga fjármálafyrirtækja til að stunda fjármálastarfsemi hér á landi og um heimildir innlendra fyrirtækja sem tengjast fjármálasviði til að stunda fjármálastarfsemi erlendis.
-    _[^1)^]Rg. 307/1994_, rg. 308/1994, sbr. 497/2004; rg. 244/2004.
+    _[^1)^]Rg. 307/1994_. Rg. 308/1994, sbr. 497/2004. Rg. 244/2004.
  _B. Starfsemi innlendra fjármálafyrirtækja erlendis._
  ■ *36. gr.* _Tilkynning um stofnun útibús._
  □ [Innlend fjármálafyrirtæki sem hyggjast starfrækja útibú í öðru ríki á Evrópska efnahagssvæðinu, í aðildarríki Fríverslunarsamtaka Evrópu eða Færeyjum skulu tilkynna það Fjármálaeftirlitinu fyrir fram.][^1)^]
@@ -335,9 +336,9 @@ h2. Lög um fjármálafyrirtæki
     5. Hvort ætla megi að eignarhald umsækjanda muni torvelda eftirlit með hlutaðeigandi fjármálafyrirtæki. Við mat á því skal m.a. horft til fyrri samskipta umsækjanda við Fjármálaeftirlitið eða önnur stjórnvöld, til þess hvort náin tengsl umsækjanda við einstaklinga eða lögaðila geta að mati Fjármálaeftirlitsins hindrað það í eðlilegum eftirlitsaðgerðum og hvort lög og reglur, sem gilda um umsækjanda, hindra eðlilegt eftirlit.
     6. Hvort umsækjandi hefur gefið Fjármálaeftirlitinu umbeðnar upplýsingar ásamt fylgigögnum og þær upplýsingar hafa reynst réttar.
     7. Refsingum sem umsækjandi hefur verið dæmdur til að sæta og hvort hann sæti ...[^1)^] rannsókn.
-    8. Ef um virkan eignarhlut í sparisjóði er að ræða skal Fjármálaeftirlitið að auki leggja mat á hvort eignarhaldið samrýmist skilyrðum 2. mgr. 70. gr.
- □ [Sé umsækjandi fjármálafyrirtæki eða vátryggingafélag með starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins, móðurfyrirtæki slíks aðila, einstaklingur eða lögaðili sem hefur yfirráð yfir aðilanum og ef slíkt eignarhald leiðir til þess að félagið sem fjárfest er í telst vera dótturfélag eða undir yfirráðum viðkomandi aðila skal Fjármálaeftirlitið við mat á hæfi umsækjanda um virkan eignarhlut hafa samráð við lögbær yfirvöld þess ríkis í samræmi við ákvæði um mat á umsókn um starfsleyfi, sbr. 2. og 3. mgr. 2. gr. Samráð samkvæmt framangreindu gildir jafnframt um viðvarandi eftirlit með því að hæfisskilyrði séu uppfyllt.][^2)^]
-    _[^1)^]_"L. 88/2008, 234. gr.":2008088.html#g234 [^2)^]L. 130/2004, 4. gr.
+    8. ...[^2)^]
+ □ [Sé umsækjandi fjármálafyrirtæki eða vátryggingafélag með starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins, móðurfyrirtæki slíks aðila, einstaklingur eða lögaðili sem hefur yfirráð yfir aðilanum og ef slíkt eignarhald leiðir til þess að félagið sem fjárfest er í telst vera dótturfélag eða undir yfirráðum viðkomandi aðila skal Fjármálaeftirlitið við mat á hæfi umsækjanda um virkan eignarhlut hafa samráð við lögbær yfirvöld þess ríkis í samræmi við ákvæði um mat á umsókn um starfsleyfi, sbr. 2. og 3. mgr. 2. gr. Samráð samkvæmt framangreindu gildir jafnframt um viðvarandi eftirlit með því að hæfisskilyrði séu uppfyllt.][^3)^]
+    _[^1)^]_"L. 88/2008, 234. gr.":2008088.html#g234 [^2)^]L. 76/2009, 3. gr. [^3)^]L. 130/2004, 4. gr.
  ■ *43. gr.* _Afgreiðsla umsóknar._
  □ Telji Fjármálaeftirlitið umsækjanda ekki hæfan til þess að eiga eignarhlutinn með tilliti til heilbrigðs og trausts reksturs fjármálafyrirtækis skal það synja umsækjanda um leyfi til þess. Fjármálaeftirlitinu er þó heimilt að fallast á umsókn, þrátt fyrir að umsækjandi teljist ekki hæfur til að eiga eignarhlutinn, gegn því að umsækjandinn grípi til ráðstafana í því skyni að takmarka skaðleg áhrif af eignarhaldi hans, t.d. að fela eignarhaldið sérstöku eignarhaldsfélagi sem hafi ekki aðra starfsemi með höndum eða tilnefna einstaklinga sem Fjármálaeftirlitið metur hæfa sem fulltrúa sína í félagsstjórn.
  □ Ákvörðun Fjármálaeftirlitsins skv. 1. mgr. skal vera skrifleg og hafa borist umsækjanda innan eins mánaðar frá þeim degi er því bárust fullnægjandi upplýsingar ásamt fylgigögnum. Berist ákvörðun Fjármálaeftirlitsins umsækjanda ekki innan þess tíma telst það hafa samþykkt umsóknina. Rökstuðningur skal fylgja synjun Fjármálaeftirlitsins á umsókn.
@@ -373,9 +374,9 @@ h2. Lög um fjármálafyrirtæki
     _[^1)^]L. 111/2007, 9. gr._
  ■ *53. gr.* _Hæfisskilyrði starfsmanna í verðbréfaviðskiptum._
  □ Starfsmenn fjármálafyrirtækis, sem hafa umsjón með daglegri starfsemi í tengslum við viðskipti með fjármálagerninga skv. 6. tölul. 1. mgr. 3. gr., skulu hafa staðist próf í verðbréfaviðskiptum. Í tengslum við veitingu starfsleyfis og jafnskjótt og breytingar verða ber fjármálafyrirtæki að tilkynna Fjármálaeftirlitinu um starfsmenn samkvæmt þessari málsgrein. Fjármálaeftirlitinu er heimilt að setja nánari reglur um framkvæmd þessa ákvæðis.
- □ Prófnefnd verðbréfaviðskipta hefur umsjón með prófi í verðbréfaviðskiptum sem að jafnaði skal haldið einu sinni á ári. Viðskiptaráðherra skipar prófnefnd til fjögurra ára í senn. Til að standa straum af kostnaði við framkvæmd prófa skulu próftakar greiða gjald sem ráðherra ákveður. Ákvarðanir prófnefndar eru endanlegar á stjórnsýslustigi.
- □ Prófnefnd verðbréfaviðskipta er heimilt að fela óháðum aðilum að gefa einkunn fyrir prófúrlausn. Þá getur prófnefnd verðbréfaviðskipta skipað prófdómara til að endurskoða úrlausn próftaka. Í reglugerð[^1)^] skal kveða nánar á um framkvæmd prófs í verðbréfaviðskiptum, þar á meðal prófkröfur, og heimildir til að veita undanþágur frá einstökum hlutum slíks prófs eða prófi í heild.
-    _[^1)^]Rg. 633/2003_, sbr. 521/2007.
+ □ Prófnefnd verðbréfaviðskipta hefur umsjón með prófi í verðbréfaviðskiptum sem að jafnaði skal haldið einu sinni á ári. [Efnahags- og viðskiptaráðherra][^1)^] skipar prófnefnd til fjögurra ára í senn. Til að standa straum af kostnaði við framkvæmd prófa skulu próftakar greiða gjald sem ráðherra ákveður. Ákvarðanir prófnefndar eru endanlegar á stjórnsýslustigi.
+ □ Prófnefnd verðbréfaviðskipta er heimilt að fela óháðum aðilum að gefa einkunn fyrir prófúrlausn. Þá getur prófnefnd verðbréfaviðskipta skipað prófdómara til að endurskoða úrlausn próftaka. Í reglugerð[^2)^] skal kveða nánar á um framkvæmd prófs í verðbréfaviðskiptum, þar á meðal prófkröfur, og heimildir til að veita undanþágur frá einstökum hlutum slíks prófs eða prófi í heild.
+    _[^1)^]L. 98/2009, 33. gr._ [^2)^]Rg. 633/2003, sbr. 521/2007.
  ■ *54. gr.* _Verkaskipting stjórnar og framkvæmdastjóra. Framkvæmd starfa stjórnar._
  □ Í samþykktum fjármálafyrirtækis skal kveðið á um verkaskiptingu stjórnar og framkvæmdastjóra sem skal taka mið af ákvæðum hlutafélagalaga.
  □ Stjórn skal setja sér starfsreglur þar sem nánar skal kveðið á um framkvæmd starfa stjórnarinnar. Í reglum þessum skal fjallað sérstaklega um heimildir stjórnar til að taka ákvarðanir um einstök viðskipti, framkvæmd reglna um sérstakt hæfi stjórnarmanna, meðferð stjórnar á upplýsingum um einstaka viðskiptamenn, setu stjórnarmanna í stjórnum dótturfyrirtækja og hlutdeildarfélaga, og framkvæmd reglna um meðferð viðskiptaerinda stjórnarmanna. Reglur þessar skal senda til Fjármálaeftirlitsins.
@@ -401,90 +402,68 @@ h2. Lög um fjármálafyrirtæki
  □ Heimilt er að miðla til utanaðkomandi aðila þeim upplýsingum um viðskiptamenn sem um getur í 58. gr. að fengnu skriflegu samþykki þess er í hlut á. Í samþykki skal koma fram til hvaða upplýsinga það tekur, til hvaða aðila er heimilt að miðla upplýsingum á grundvelli þess og í hvaða tilgangi upplýsingunum er miðlað.
 
  *VIII. kafli.* *Sparisjóðir.*
-■ *61. gr.* _Stofnun._
- □ Stofnfjáreigendur í sparisjóði skulu ekki vera færri en 30.
+■ *61. gr.* _[Skilgreining._
+ □ Sparisjóður er sjálfseignarstofnun sem starfar sem fjármálafyrirtæki samkvæmt lögum þessum. Honum er skylt að nota heitið „sparisjóður“ í firmanafni sínu og skilgreina í samþykktum sínum samfélagslegt hlutverk sitt. Stofnfjáreigendur í sparisjóði skulu vera a.m.k. 30. Ákvæði um lágmarksfjölda stofnfjáreigenda gildir þó ekki um sparisjóð sem er dótturfélag annars sparisjóðs eða að meiri hluta í eigu eins eða fleiri sveitarfélaga eða ríkissjóðs.
+ □ Stofnfjáreigendur bera ekki ábyrgð á skuldbindingum sparisjóðs umfram stofnfé sitt og eiga ekki hlutdeild í öðru eigin fé sparisjóðs en bókfærðu stofnfé eins og það er á hverjum tíma. Þeir eiga rétt á greiðslu arðs af stofnfé sínu í samræmi við reglur 68. gr.
+ □ Að því leyti sem ekki er kveðið á um annað í lögum þessum skal beita ákvæðum laga um "hlutafélög, nr. 2/1995":1995002.html, um sparisjóði, eftir því sem við getur átt. Ákvæði laga um sjálfseignarstofnanir sem stunda atvinnurekstur eiga ekki við um sparisjóði.][^1)^]
+    _[^1)^]L. 76/2009, 4. gr._
+ ■ *62. gr.* _[Stofnun. Stjórn._
  □ Á stofnfundi sparisjóðs fer hver stofnandi með eitt atkvæði. Stofnfundur setur sparisjóði samþykktir. Í þeim skulu vera ákvæði sem varða sérstaklega hlutaðeigandi sparisjóð, svo sem:
     1. heiti sparisjóðs,
-    2. heimili sparisjóðs og varnarþing,
-    3. heildarupphæð stofnfjár, skipting í stofnfjárhluti og atkvæðisréttur,
-    4. reglur um eigendaskipti að stofnfjárhlutum og aukningu stofnfjár,
-    5. kosning sparisjóðsstjórnar og störf hennar,
-    6. breytingar á samþykktum og
-    7. slit á sparisjóði og ráðstöfun eigin fjár í því sambandi.
- □ Þegar starfsemi sparisjóðs er bundin við ákveðið svæði skulu stofnfjáreigendur vera búsettir eða reka atvinnu eða aðra starfsemi á því svæði, sbr. þó 11. gr.
-■ *62. gr.* _Stofnfjárbréf._
- □ Gefin skulu út stofnfjárbréf fyrir skráðum stofnfjárhlutum og skulu þau undirrituð af sparisjóðsstjórn. Þau má ekki afhenda fyrr en hlutur er að fullu greiddur. Stofnfjárbréf skulu hljóða á nafn og verða þau ekki framseld til handhafa þannig að gildi hafi gagnvart sparisjóðnum. Í stofnfjárbréfi skal greina:
+    2. heimili sparisjóðs, varnarþing,
+    3. heildarupphæð stofnfjár, skipting í stofnfjárhluti,
+    4. kosning sparisjóðsstjórnar, störf hennar,
+    5. helstu áherslur sparisjóðs varðandi samfélagslegt hlutverk hans,
+    6. breytingar á samþykktum,
+    7. slit á sparisjóði, ráðstöfun eigin fjár í því sambandi.
+ □ Fundur stofnfjáreigenda er æðsta vald í málefnum sparisjóðsins og kýs honum stjórn. Stjórn ræður sparisjóðsstjóra sem er framkvæmdastjóri sparisjóðsins og ber ábyrgð á daglegum rekstri hans.][^1)^]
+    _[^1)^]L. 76/2009, 5. gr._
+ ■ *63. gr.* _[Stofnfjárbréf._
+ □ Sparisjóðsstjórn gefur út stofnfjárbréf til þeirra sem skráðir eru fyrir stofnfjárhlutum. Stofnfjárbréf má ekki afhenda fyrr en hlutur er að fullu greiddur.
+ □ Stofnfjárbréf skulu hljóða á nafn og tilgreina:
     1. heiti sparisjóðs og heimilisfang,
     2. númer og fjárhæð hlutar,
     3. nafn, heimilisfang og kennitölu stofnfjáreiganda,
     4. útgáfudag stofnfjárbréfs,
-    5. efni 64. og 65. gr. og
-    6. sérstök atriði er varða réttindi og skyldur stofnfjáreigenda.
- □ Færð skal skrá yfir stofnfjáreigendur og skulu þeir allir eiga aðgang að henni.
-■ *63. gr.* _Réttindi stofnfjáreigenda._
- □ Stofnfjáreigendur bera ekki persónulega ábyrgð á skuldbindingum sparisjóðs umfram stofnfé sitt.
- □ Stofnfjáreigendur hafa ekki rétt til ágóðahlutar af rekstrarafgangi sparisjóðs umfram það sem mælt er fyrir um í lögum þessum.
- □ Stofnfjáreigendur skulu einungis njóta arðs af innborguðu stofnfé sínu.
- □ Stofnfé verður ekki endurgreitt til stofnfjáreigenda nema samkvæmt ákvæðum 65. og [103. gr. a].[^1)^]
-    _[^1)^]L. 44/2009, 2. gr._
- ■ *64. gr.* _Sala og veðsetning stofnfjárhluta._
- □ Sala eða annað framsal stofnfjárhlutar í sparisjóði er óheimilt nema með samþykki sparisjóðsstjórnar. Telji sparisjóðsstjórn að væntanlegur kaupandi stofnfjár falist eftir virkum eignarhlut í sparisjóði skal stjórnin vísa málinu til Fjármálaeftirlitsins, sbr. VI. kafla. Veðsetning stofnfjárhlutar í sparisjóði er óheimil nema samþykktir sparisjóðsins heimili veðsetningu að fengnu samþykki stjórnar.
- □ Nú verða eigendaskipti að stofnfjárhlut við fullnustu veðréttar, sem heimilt var að stofna til samkvæmt lokamálslið 1. mgr., og skal þá nýr eigandi óska eftir samþykki sparisjóðsstjórnar á eigendaskiptunum innan tveggja vikna frá því að þau áttu sér stað. Um afgreiðslu sparisjóðsstjórnar á slíkri beiðni fer samkvæmt ákvæðum 1. mgr. þessarar greinar og ákvæðum 70. gr. eftir því sem við getur átt.
- □ Synji sparisjóðsstjórn um samþykki eða nýr eigandi óskar ekki eftir samþykki innan tilskilins frests skal sparisjóðsstjórn innleysa stofnfjárhlutinn eftir ákvæðum 65. gr.
-■ *65. gr.* _Innlausn stofnfjárhluta._
- □ [Stjórn sparisjóðs er heimilt að innleysa stofnfjárhlut í sparisjóði að beiðni stofnfjáreigenda.
- □ Nú synjar sparisjóður um heimild til sölu stofnfjárhlutar, sbr. 64. gr., eða neytir ekki heimildar til innlausnar hans skv. 1. mgr., og skal hann þá, ef óskað er, hafa milligöngu um sölu hlutarins eða innleysa hann innan árs frá því er skrifleg beiðni kom fram um sölu eða innlausn enda uppfylli sparisjóðurinn eiginfjárkröfur skv. 84. gr. þegar innlausn fer fram.
- □ Fari innlausn stofnfjárhlutar fram skal hlutur innleystur á nafnverði að viðbættri ónýttri heimild til endurmats stofnfjár skv. 67. gr.][^1)^]
-    _[^1)^]L. 170/2006, 5. gr._
- ■ *66. gr.* _Aukning stofnfjár._
- □ Fundur stofnfjáreigenda getur ákveðið að auka stofnfé í starfandi sparisjóði og sett reglur um áskrift nýrra stofnfjárhluta í samræmi við ákvæði í samþykktum.
- □ Það verð, sem nýr stofnfjáreigandi skal greiða fyrir hlut, skal vera nafnverð hans að viðbættri ónýttri heimild til endurmats stofnfjár skv. 67. gr.
-■ *67. gr.* _Endurmat stofnfjár._
- □ Sparisjóðum er heimilt að endurmeta stofnfé sjóðsins og greiða inn á stofnfjárreikninga stofnfjáreigenda. Við endurmat þetta skal hafa hliðsjón af verðlagsbreytingum miðað við vísitölu neysluverðs.
- □ Nýtt stofnfé nýtur hlutfallslega endurmats miðað við inngreiðslu þess innan ársins.
-■ *68. gr.* _Ráðstöfun hagnaðar._
- □ Hagnaði sparisjóðs skal ráðstafað sem hér segir:
-    1. Aðalfundur getur ákveðið, að fengnum tillögum sparisjóðsstjórnar, að greiða stofnfjáreigendum arð af stofnfé. Öryggissjóður samkvæmt lögum um innstæðutryggingar og tryggingakerfi fyrir fjárfesta, sem allir sparisjóðir stofna í þessu skyni, ákveður árlega hámarkshlutfall arðgreiðslu. Heimilt er að greiða arð þótt tap sé á rekstri sparisjóðs.
-    2. Til viðbótar arðgreiðslu skv. 1. tölul. getur aðalfundur ákveðið, að fengnum tillögum sparisjóðsstjórnar, að ráðstafa allt að 10% af hagnaði hvers árs til hækkunar á stofnfé sjóðsins, þó þannig að hækkun stofnfjár samkvæmt þessum tölulið verði aldrei meiri en 5% á ári. Heimild til endurmats samkvæmt þessum tölulið flyst ekki á milli ára. Endurmat samkvæmt þessum tölulið má ekki leiða til þess að bókfært eigið fé að frádregnu stofnfé verði lægra en það var í árslok 2000. Nýtt stofnfé nýtur hlutfallslega endurmats samkvæmt þessum tölulið miðað við inngreiðslu þess innan ársins. Arðurinn skal reiknaður af endurmetnu stofnfé eins og það er í lok reikningsárs.
-    3. Hagnað, sem ekki er ráðstafað skv. 1. og 2. tölul., skal leggja í varasjóð.
-■ *69. gr.* _Leiðbeinandi tillögur um vexti og þjónustugjöld._
- □ Sparisjóðum er heimilt að fela sameiginlegum aðila á þeirra vegum að leggja fyrir þá leiðbeinandi tillögur um vexti og þjónustugjöld, enda brjóti slíkt ekki í bága við ákvæði samkeppnislaga, sbr. IV. kafla þeirra laga.
-■ *70. gr.* _Skipting eignarhluta og atkvæða._
- □ Stofnfjáreigendur skulu eiga jafnan hlut nema samþykktir heimili annað.
- □ Nú leiðir framsal stofnfjárhlutar, eða aukning stofnfjár, til þess að einstakur stofnfjáraðili, eða stofnfjáreigandi og aðili sem hann er í [samstarfi við í skilningi 40. gr. a],[^1)^] eignist eða fari með virkan eignarhluta í sparisjóðnum í skilningi laga þessara, og skal þá sparisjóðsstjórn ekki samþykkja framsalið nema að fengnu samþykki Fjármálaeftirlitsins og að fullnægðu öðru hvoru eftirgreindra skilyrða:
-    a. að um sé að ræða lið í nauðsynlegri fjárhagslegri endurskipulagningu viðkomandi sparisjóðs og sýnt þyki að slíkri fjárhagslegri endurskipulagningu verði ekki komið við nema með því að stofnfjáreigandi eignist virkan eignarhlut,
-    b. [að sýnt sé fram á að öflun stofnfjárhlutarins sé liður í eflingu samvinnu milli sparisjóða í landinu eða sparisjóða innan Evrópska efnahagssvæðisins],[^2)^]
-    [c. að um sé að ræða aðkomu ríkissjóðs skv. 2. gr. laga um heimild til fjárveitingar úr ríkissjóði vegna sérstakra aðstæðna á fjármálamarkaði o.fl.][^3)^]
- □ Stofnfjáreigendur skulu eiga jafnan atkvæðisrétt nema öðruvísi sé ákveðið í samþykktum sparisjóðs. Þó er einstökum stofnfjáreigendum aldrei heimilt, fyrir sjálfs sín hönd eða annarra, að fara með meira en 5% af heildaratkvæðamagni í sparisjóði, hvort sem yfirráð yfir atkvæðisrétti byggjast á beinni eða óbeinni hlutdeild í stofnfé sparisjóðs. Um atkvæðisrétt ef sveitarfélag er eini stofnfjáreigandinn fer samkvæmt ákvæðum 71. gr. Óheimilt er að fara með atkvæðisrétt samkvæmt þeim stofnfjárbréfum sem sparisjóður á sjálfur. [Þegar ríkissjóður er stofnfjáreigandi í sparisjóði fer fjármálaráðherra fyrir hönd ríkissjóðs með atkvæði í samræmi við stofnfjáreign ríkissjóðs í sparisjóðnum. Sama gildir um atkvæðisrétt vegna hlutafjár í sparisjóði sem breytt hefur verið í hlutafélag.][^3)^]
- □ Stofnfjáreiganda er óheimilt að fela öðrum umboð sitt á fundum stofnfjáreigenda nema slíkt sé leyft í samþykktum sparisjóðs.
- □ Þar sem talað er um heildaratkvæðamagn í sparisjóði í lögum þessum er átt við heildaratkvæðamagn að frádregnum atkvæðum samkvæmt þeim stofnfjárbréfum sem sparisjóður á sjálfur.
-    _[^1)^]L. 67/2006, 13. gr._ [^2)^]L. 4/2004, 1. gr. [^3)^]"L. 125/2008, 4. gr.":2008125.html
- ■ *71. gr.* _Sveitarfélagssparisjóðir._
- □ Ákvæði 1. mgr. 61. gr. um fjölda stofnfjáreigenda og 3. mgr. 70. gr. um tilhögun atkvæðisréttar í sparisjóði taka hvorki til þeirra sparisjóða þar sem sveitarfélög og héraðsnefndir eru einir stofnfjáreigenda við gildistöku laga þessara né til samruna þeirra, sbr. [106. gr.][^1)^] Sé héraðsnefnd einn stofnfjáreigenda takmarkast atkvæðisréttur hvers aðila við [^1^]/5 hluta af atkvæðamagni í sparisjóði.
-    _[^1)^]L. 130/2004, 5. gr._
- ■ *72. gr.* _Stjórn._
- □ Í stjórn sparisjóðs skulu sitja fimm menn. Stofnfjáreigendur kjósa þrjá stjórnarmenn en hlutaðeigandi sveitarstjórnir eða héraðsnefndir tilnefna tvo stjórnarmenn samkvæmt nánari ákvæðum í samþykktum sjóðsins. Í samþykktum er heimilt að kveða á um að stofnfjáreigendur kjósi alla stjórnarmenn sparisjóðs. Stjórnin kýs sér formann úr sínum hópi. Heimilt er að kjósa varamenn, jafnmarga aðalmönnum, eftir sömu reglum og gilda um kosningu aðalmanna. Kosning stjórnar skal vera hlutbundin ef óskað er.
-■ *73. gr.* _Breyting sparisjóðs í hlutafélag._
- □ Að tillögu sparisjóðsstjórnar í sparisjóði sem starfandi var 31. desember 2000 getur fundur stofnfjáreigenda ákveðið með [^2^]/3 hlutum greiddra atkvæða, svo og samþykki stofnfjáreigenda sem ráða yfir minnst [^2^]/3 hlutum þess stofnfjár sem farið er með atkvæði fyrir á fundinum, að breyta sparisjóðnum í hlutafélag að fengnu samþykki Fjármálaeftirlitsins. Skal breyting sparisjóðs í hlutafélag þá framkvæmd þannig að sparisjóðurinn sameinist hlutafélagi sem sparisjóðurinn hefur áður stofnað í því skyni að taka við rekstri sparisjóðsins og öllum eignum hans og skuldum, réttindum og skuldbindingum.
- □ Ákvæði 1. málsl. 2. mgr. "3. gr. laga nr. 2/1995":1995002.html#g3, um hlutafélög, gilda ekki um fjölda stofnenda í hlutafélagi skv. 1. mgr. Ákvæði 1. mgr. "20. gr. sömu laga":1995002.html#g20 um lágmarksfjölda hluthafa gilda ekki um hlutafélag skv. 1. mgr. fram að því að breyting sparisjóðs í hlutafélag skv. 1. mgr. á sér stað.
- □ Við breytingu sparisjóðs í hlutafélag samkvæmt þessari grein heldur starfsleyfi sparisjóðsins gildi sínu.
- □ Sparisjóði, sem breytt er í hlutafélag samkvæmt ákvæðum þessarar greinar, er auk orðsins „sparisjóður“ skylt að hafa orðið hlutafélag í heiti sínu eða skammstöfunina hf.
- □ Sparisjóði, sem breytt er í hlutafélag samkvæmt ákvæðum þessarar greinar, er ekki skylt að gefa út innköllun til lánardrottna. Breyting á eignaskráningu í veðmálabókum sem leiðir af breytingu sparisjóðs í hlutafélag er undanþegin stimpilgjöldum.
- □ Nú fer um eigið fé sparisjóðs sem breytt er í hlutafélag samkvæmt ákvæðum 77. gr. og skulu nefnd ákvæði þá gilda áfram um sparisjóðinn eftir breytingu hans í hlutafélag.
- □ Sé sparisjóði breytt í hlutafélag skulu í stað ákvæða 61. - 68. gr. og 70. - 72. gr. gilda um hann ákvæði VII. kafla laga þessara og laga um hlutafélög eftir því sem við getur átt, enda sé ekki öðruvísi fyrir mælt í undanfarandi ákvæðum þessarar greinar.
-■ *74. gr.* _Skipting hlutafjár í sparisjóði._
- □ Við breytingu á sparisjóði í hlutafélag skv. 73. gr. skulu stofnfjáreigendur eingöngu fá hlutafé í hlutafélaginu sem gagngjald fyrir stofnfjárhluti sína. Skal samanlagt hlutafé sem stofnfjáreigendur fá í sparisjóðnum nema sama hlutfalli af hlutafé hans eftir breytinguna og stofnfé, endurmetið skv. 67. gr., nemur samtals af áætluðu markaðsvirði sparisjóðsins. Markaðsvirði sparisjóðsins sem og gagngjald fyrir stofnfjárhluti skal metið af óháðum aðila og miðast við sama tímamark og breytingin á rekstrarformi sparisjóðsins. Við mat á hlut stofnfjár skal hafa til hliðsjónar arðsvon stofnfjárhluta skv. 68. gr. annars vegar og arðsvon og áhættu hlutabréfa í sparisjóði hins vegar. Sá hluti hlutafjár sparisjóðsins eftir breytingu hans í hlutafélag sem ekki gengur til stofnfjáreigenda samkvæmt framansögðu skal verða eign sjálfseignarstofnunar sem sett er á stofn skv. 76. gr.
- □ Ákvæði 120. - 128. gr. og ákvæði "131. gr. laga nr. 2/1995":1995002.html#g131, um hlutafélög, skulu að öðru leyti og eftir því sem við getur átt gilda um breytingu sparisjóðs í hlutafélag samkvæmt undanfarandi ákvæðum þessarar greinar.
- ■ *75. gr.* _Atkvæðaréttur í sparisjóði sem breytt hefur verið í hlutafélag._
- □ Í samþykktum sparisjóðs sem breytt hefur verið í hlutafélag skv. 73. gr. skal kveðið á um atkvæðisrétt sem fylgir hlutum í sparisjóðnum og um meðferð hans. Einstökum hluthöfum er aldrei heimilt, fyrir sjálfs sín hönd eða annarra, að fara með meira en 5% af heildaratkvæðamagni í sparisjóði, hvort sem yfirráð yfir atkvæðisrétti byggjast á beinni eða óbeinni eignarhlutdeild.
- □ [Sjálfseignarstofnun fer þó með atkvæðisrétt í samræmi við hlutafjáreign sína.][^1)^]
-    _[^1)^]L. 4/2004, 2. gr._
- ■ *76. gr.* _Sjálfseignarstofnun sem hluthafi í sparisjóði._
- □ Sé ákveðið að breyta sparisjóði í hlutafélag samkvæmt ákvæðum 73. gr. skal sparisjóðurinn gangast fyrir stofnun sjálfseignarstofnunar sem við breytinguna verður eigandi þess hluta hlutafjár í sparisjóðnum sem kveðið er á um í 74. gr. Megintilgangur sjálfseignarstofnunarinnar skal vera að stuðla að viðgangi og vexti í starfsemi sparisjóðsins. Fjármálaeftirlitið skal staðfesta samþykktir stofnunarinnar. [Fyrir fund stofnfjáreigenda skv. 1. mgr. 73. gr. verða engar skuldbindandi ákvarðanir teknar fyrir hönd sjálfseignarstofnunarinnar.][^1)^]
- □ [Í stjórn sjálfseignarstofnunar skv. 1. mgr. skulu eiga sæti tveir fulltrúar sveitarfélags þar sem sparisjóðurinn á heimilisfesti við breytingu hans í hlutafélag, einn fulltrúi tilnefndur af fjármálaráðherra og tveir fulltrúar tilnefndir af viðskiptaráðherra. Stjórnin, þannig skipuð, velur sér formann og fer með hagsmuni sjálfseignarstofnunarinnar frá og með fundi stofnfjáreigenda skv. 1. mgr. 73. gr. Stjórnartími skal vera fjögur ár nema annað sé ákveðið í samþykktum. Minnst tveimur mánuðum fyrir lok stjórnartíma skal formaður stjórnar afla nýrra tilnefninga skv. 1. málsl.
- □ Fyrir fund stofnfjáreigenda skv. 1. mgr. 73. gr. skal sparisjóðurinn hafa aflað tilnefninga skv. 2. mgr. þessarar greinar.][^1)^]
- □ Einungis skal heimilt að úthluta af fjármunum sjálfseignarstofnunar skv. 1. mgr. eða ráðstafa eignum, sem eftir verða við slit hennar, til menningar- og líknarmála á starfssvæði viðkomandi sparisjóðs við breytingu hans í hlutafélag. Ákvæði laga um sjálfseignarstofnanir sem stunda atvinnurekstur skulu að öðru leyti gilda um sjálfseignarstofnun skv. 1. mgr. Sjálfseignarstofnun sem stofnuð er samkvæmt þessari grein er undanþegin tekjuskatti ...,[^2)^] enda sé farið eftir skilyrðum 1. málsl. um úthlutun til menningar- og líknarmála.
-    _[^1)^]L. 4/2004, 3. gr._ Breytingin tók gildi 6. febrúar 2004, en tekur þó ekki til sparisjóða þar sem stofnfjáreigendafundur hafði þegar tekið ákvörðun um hlutafélagavæðingu skv. 73. gr. laganna, sbr. 5. gr. l. 4/2004. [^2)^]L. 129/2004, 143. gr.
+    5. sérstök atriði er varða réttindi og skyldur stofnfjáreigenda.
+ □ Stjórn sparisjóðsins skal færa skrá yfir stofnfjáreigendur og skal hún aðgengileg öllum. Sparisjóðsstjórn skal uppfæra skrána þegar breytingar verða á eignarhaldi stofnfjárbréfa.][^1)^]
+    _[^1)^]L. 76/2009, 6. gr._
+ ■ *64. gr.* ...[^1)^]
+    _[^1)^]L. 76/2009, 7. gr._
+ ■ *65. gr.* ...[^1)^]
+    _[^1)^]L. 76/2009, 7. gr._
+ ■ *66. gr.* _[Útgáfa og viðskipti með stofnfjárhluti._
+ □ Fundur stofnfjáreigenda getur samþykkt aukningu stofnfjár í viðkomandi sparisjóði með útgáfu nýrra stofnfjárhluta. Til þess að heimilt sé að fjalla um aukningu stofnfjár á aðalfundi eða sérstökum fundi stofnfjáreigenda skal hafa verið boðað til fundarins með a.m.k. tveggja vikna fyrirvara. Í fundarboði skal gera grein fyrir tillögu stjórnar um útgáfu nýrra stofnfjárhluta, þ.m.t. um heildarfjölda hluta, nafnverð hluta og útboðsgengi, greiðslukjör, ef einhver eru, áskriftartíma og áskriftarrétt. Lágmarksverð nýrra stofnfjárhluta skal vera jafnhátt og nafnverð stofnfjárhluta í viðkomandi sparisjóði.
+ □ Í samþykktum sparisjóðs er heimilt að kveða á um forgangsrétt stofnfjáreigenda að aukningu.
+ □ Framsal og önnur ráðstöfun stofnfjárhlutar í sparisjóði er heimil án takmarkana, sbr. þó ákvæði VI. kafla. Sparisjóðir skulu setja sér reglur um viðskipti með stofnfé sem samþykktar skulu af Fjármálaeftirlitinu. Því er heimilt að gefa út leiðbeinandi tilmæli um slík viðskipti.
+ □ Nýr stofnfjáreigandi öðlast réttindi samkvæmt stofnfjárbréfinu þegar eigandabreyting hefur verið skráð skv. 3. mgr. 63. gr.
+ □ Ef sparisjóður hefur gefið út nýtt stofnfé og hafi verið greitt meira en nafnverð fyrir útgáfuna skal fé það sem greitt var umfram nafnverð fært á yfirverðsreikning stofnfjár að frádregnum kostnaði sparisjóðsins af útgáfunni. Hann telst með óráðstöfuðu eigin fé sparisjóðs.][^1)^]
+    _[^1)^]L. 76/2009, 8. gr._
+ ■ *67. gr.* _[Lækkun stofnfjár._
+ □ Að tillögu stjórnar sparisjóðs getur fundur stofnfjáreigenda tekið ákvörðun um lækkun stofnfjár til jöfnunar taps sem ekki verður jafnað á annan hátt. Til þess að heimilt sé að fjalla um lækkun stofnfjár á fundi stofnfjáreigenda skal hafa verið boðað til fundarins með a.m.k. tveggja vikna fyrirvara. Í fundarboði skal gera grein fyrir tillögu um lækkun stofnfjár. Fyrir slíkri ákvörðun þarf samþykki tveggja þriðju hluta atkvæða sem mætt er fyrir á fundi stofnfjáreigenda. Í fundarboði skal greina frá ástæðum fyrir lækkuninni og hvernig hún á að fara fram. Fjármálaeftirlitinu skal tilkynnt fyrir fram um fyrirhugaða lækkun stofnfjár.
+ □ Ákvörðun fundar stofnfjáreigenda um lækkun skv. 1. mgr. tekur gildi þegar Fjármálaeftirlitið hefur samþykkt hana.
+ □ Ekki þarf að innkalla kröfur vegna lækkunar stofnfjár samkvæmt þessari grein.][^1)^]
+    _[^1)^]L. 76/2009, 9. gr._
+ ■ *68. gr.* _[Ráðstöfun hagnaðar._
+ □ Aðalfundur sparisjóðs getur heimilað stjórn sparisjóðs að ráðstafa allt að 50% hagnaðar hans til hækkunar á nafnverði stofnfjár og arðgreiðslu til stofnfjáreigenda. Með hagnaði samkvæmt þessari grein er átt við hagnað eftir skatta samkvæmt samþykktum ársreikningi fyrir síðasta reikningsár. Aðalfundur má ekki ákveða að úthluta meiri arði en stjórn sparisjóðs leggur til eða samþykkir.
+ □ Heimild til ráðstöfunar hagnaðar skv. 1. mgr. er því aðeins fyrir hendi að um óráðstafað eigið fé sé að ræða í viðkomandi sparisjóði.][^1)^]
+    _[^1)^]L. 76/2009, 10. gr._
+ ■ *69. gr.* _[Samstarf sparisjóða._
+ □ Sparisjóðum er heimilt að hafa samstarf meðal annars um eftirfarandi verkefni, enda sé slíkt gert á almennum viðskiptalegum forsendum:
+    a. ráðgjöf um áhættustýringu,
+    b. rekstur upplýsingakerfa,
+    c. öryggiseftirlit,
+    d. starfsemi innri endurskoðunardeilda,
+    e. bakvinnsla, bókhald, greining og skýrslugerð til eftirlitsstofnana,
+    f. lögfræðiráðgjöf, samningar og samskipti við birgja,
+    g. vöruþróun og markaðssamstarf um sameiginleg vörumerki,
+    h. fræðsla og upplýsingagjöf,
+    i. innlend og erlend greiðslumiðlun og þjónusta við erlend viðskipti.
+ □ Í þeim tilfellum að fleiri en einn sparisjóður hafa falið einum og sama aðila verkefni skv. 1. mgr. skulu gerðir samningar á milli hvers einstaks sparisjóðs og þess sem veitir þjónustuna. Slíkir samningar víkja ekki til hliðar skyldum þeim sem hver einstakur sparisjóður ber gagnvart lögum og reglum, eftirlitsaðilum, stofnfjáreigendum eða öðrum.
+ □ Rísi ágreiningur um hvort starfsemi falli undir 1. mgr. sker Samkeppniseftirlitið úr.][^1)^]
+    _[^1)^]L. 76/2009, 11. gr._
+ ■ *70. - 76. gr.* ...[^1)^]
+    _[^1)^]L. 76/2009, 12. gr._
  ■ *77. gr.* _Lágmark stofnfjár._
  □ Sparisjóðum, sem starfandi eru við gildistöku laga þessara með eigið fé lægra en það stofnfé sem mælt er fyrir um í 14. gr., er heimilt að halda áfram starfsemi sinni, enda fari eigið fé þeirra ekki niður fyrir þá fjárhæð sem það nam við gildistöku "laga nr. 43/1993":1993043.html, um viðskiptabanka og sparisjóði. Fari eigið fé niður fyrir framangreind mörk er Fjármálaeftirlitinu heimilt að veita hlutaðeigandi sparisjóði hæfilegan frest til úrbóta. Uppfylli sparisjóðurinn ekki skilyrðin um eigið fé að liðnum veittum fresti skal starfsleyfi hans afturkallað samkvæmt ákvæðum II. kafla.
  □ Yfirtaki nýir aðilar starfsemi sparisjóðs sem starfar skv. 1. mgr. skal eigið fé sparisjóðsins hafa náð því lágmarki sem kveðið er á um í 14. gr. innan þriggja mánaða frá yfirtökunni.
@@ -533,17 +512,17 @@ h2. Lög um fjármálafyrirtæki
     1. Eiginfjárþáttur A skal nema að lágmarki helmingi eiginfjárgrunns fyrir frádrátt skv. 85. gr.
     2. Eiginfjárþáttur B má hæst nema 50% af eiginfjárþætti A.
     3. Eiginfjárþáttur C má hæst nema 50% af eiginfjárþætti A. Jafnframt má eiginfjárþáttur C hæst nema 4,8% af reiknuðum áhættugrunni vegna markaðsáhættu liða í veltubók skv. 28. gr. og gengisáhættu.][^4)^]
- □ Eiginfjárþáttur A telst vera innborgað hlutafé, varasjóðir, yfirverðsreikningur hlutafjár, endurmatsreikningur samkvæmt verðbólgureikningsskilum og óráðstafað eigið fé en að frádregnu bókfærðu virði eigin hlutabréfa/stofnfjárbréfa, viðskiptavild og öðrum óefnislegum eignum, svo og tapi og samþykktri arðsúthlutun. Enn fremur skal taka tillit til hlutdeildar minni hluta í [eigin fé][^4)^] dótturfélaga samkvæmt samstæðureikningsskilum.
+ □ Eiginfjárþáttur A telst vera innborgað hlutafé, varasjóðir, yfirverðsreikningur hlutafjár, [yfirverðsreikningur stofnfjár],[^5)^] endurmatsreikningur samkvæmt verðbólgureikningsskilum og óráðstafað eigið fé en að frádregnu bókfærðu virði eigin hlutabréfa/stofnfjárbréfa, viðskiptavild og öðrum óefnislegum eignum, svo og tapi og samþykktri arðsúthlutun. Enn fremur skal taka tillit til hlutdeildar minni hluta í [eigin fé][^4)^] dótturfélaga samkvæmt samstæðureikningsskilum.
  □ Eiginfjárþáttur B telst vera samtala 1. og 2. tölul.:
     1. Víkjandi lán sem fjármálafyrirtæki taka gegn útgáfu sérstakrar skuldaviðurkenningar þar sem skýrt er kveðið á um að endurgreiðslutími lánsins sé eigi skemmri en fimm ár og að við gjaldþrot hlutaðeigandi fjármálafyrirtækis eða slit þess fáist það endurgreitt á eftir öllum öðrum kröfum á hendur fjármálafyrirtækinu en endurgreiðslu hlutafjár eða stofnfjár. Þegar fimm ár eru eftir af lánstímanum skal lánið reiknast niður um 20% fyrir hvert ár eða hlutfallslega fyrir hluta úr ári sem líður af þessum fimm árum. Sé um að ræða lán sem greiðist niður með afborgunum á lánstímanum skal reikna eftirstöðvar hvers árs niður á sambærilegan hátt. Eingöngu er heimilt að telja með innborgaðar fjárhæðir.
     2. Endurmatsreikningur samkvæmt kostnaðarverðsreikningsskilum.
  □ Eiginfjárþáttur C telst vera víkjandi lán til skamms tíma sem fjármálafyrirtæki tekur gegn útgáfu sérstakrar skuldaviðurkenningar þar sem skýrt er kveðið á um að endurgreiðslutími lánsins sé eigi skemmri en tvö ár og að við gjaldþrot hlutaðeigandi fjármálafyrirtækis eða slit þess fáist það endurgreitt á eftir öllum öðrum kröfum á hendur fjármálafyrirtækinu en endurgreiðslu hlutafjár eða stofnfjár. [Jafnframt skal kveðið á um að óheimilt sé að greiða af láninu eða greiða af því vexti ef eiginfjárkrafa hlutaðeigandi fjármálafyrirtækis er undir lágmarkskröfu skv. 1. mgr. eða ef endurgreiðsla höfuðstóls eða greiðsla vaxta veldur því að eiginfjárkrafan fer undir tilvitnað lágmark. Tilkynna skal Fjármálaeftirlitinu ef slík greiðsla veldur því að eiginfjárgrunnur sem hlutfall af áhættugrunni fer niður fyrir mark sem er 2% stigum hærra en lágmarkið skv. 1. mgr.][^4)^] Fjármálaeftirlitið getur heimilað einstökum fjármálafyrirtækjum að til eiginfjárþáttar C teljist hagnaður af veltubókarviðskiptum á tímabilinu að frádreginni fyrirsjáanlegri gjaldfærslu og að frádregnu nettótapi af annarri starfsemi, enda sé engin þessara fjárhæða meðtalin í eiginfjárþætti A.
  □ Heimilt er að flýta endurgreiðslu víkjandi lána æski lántaki þess, enda liggi fyrir samþykki Fjármálaeftirlitsins og slík endurgreiðsla hafi ekki óviðunandi áhrif á eiginfjárstöðu að mati þess.
  □ Þrátt fyrir ákvæði 1. - 7. mgr. skal [eiginfjárgrunnur][^4)^] verðbréfafyrirtækis, verðbréfamiðlunar og rekstrarfélags verðbréfasjóðs aldrei nema lægri fjárhæð en sem svarar til 25% af föstum rekstrarkostnaði síðasta reikningsárs. Fjármálaeftirlitið getur heimilað undanþágu frá þessari kröfu ef grundvallarbreyting hefur orðið á starfsemi félagsins milli ára. Á fyrsta starfsári verðbréfafyrirtækis, verðbréfamiðlunar og rekstrarfélags verðbréfasjóðs skal [eiginfjárgrunnur][^4)^] þess ekki nema lægri fjárhæð en sem svarar til 25% af föstum rekstrarkostnaði samkvæmt rekstraráætlun starfsársins. Fjármálaeftirlitið getur krafist þess að gerð sé breyting á rekstraráætluninni ef það telur að hún gefi ekki rétta mynd af þeirri starfsemi sem fyrirhuguð er.
- □ Fjármálaeftirlitinu er heimilt að ákveða í reglum[^5)^] að aðrir liðir en greindir eru í 5. - 7. mgr. teljist með [eiginfjárgrunni][^4)^] fjármálafyrirtækis.
+ □ Fjármálaeftirlitinu er heimilt að ákveða í reglum[^6)^] að aðrir liðir en greindir eru í 5. - 7. mgr. teljist með [eiginfjárgrunni][^4)^] fjármálafyrirtækis.
  □ [Fjármálafyrirtæki skal upplýsa opinberlega um áhættur, áhættustýringu og eiginfjárstöðu fyrirtækisins. Fjármálaeftirlitið setur nánari reglur um slíka upplýsingagjöf.
  □ Fjármálaeftirlitinu er heimilt að setja reglur um upplýsingagjöf fjármálafyrirtækis til viðskiptamanns um lánshæfismat hans þegar ákvörðun um lánveitingu er á því byggð og lánshæfismatið jafnframt notað við mat á lánaáhættu í útreikningi á áhættugrunni samkvæmt innramatsaðferð.][^4)^]
-    _[^1)^]Rgl. 530/2004_, sbr. rgl. 177/2006. [^2)^]L. 111/2007, 10. gr. [^3)^]Rgl. 215/2007, sbr. rgl. 1167/2008; rgl. 920/2008. [^4)^]L. 170/2006, 6. gr. Fjármálafyrirtækjum, öðrum en þeim sem fengið hafa leyfi til að beita innramatsaðferð við mat á áhættuþáttum, er heimilt við útreikning á eigin fé og áhættugrunni á tímabilinu 1. janúar til 31. desember 2007 að beita þeim ákvæðum sem giltu um eigið fé og áhættugrunn í árslok 2006, sbr. l. 170/2006, brbákv. I. Eiginfjárkrafa fjármálafyrirtækis, sem fengið hefur leyfi til að beita innramatsaðferð við mat á lánaáhættu eða þróaðri aðferð við mat á rekstraráhættu, skal á árunum 2007, 2008 og 2009 að lágmarki nema, í sömu röð, 95%, 90% og 80% af þeirri eiginfjárkröfu sem ákvæðin um eigið fé og áhættugrunn, sem í gildi voru í árslok 2006, hefðu leitt af sér, sbr. l. 170/2006, brbákv. II. [^5)^]Rgl. 156/2005.
+    _[^1)^]Rgl. 530/2004_, sbr. rgl. 177/2006. [^2)^]L. 111/2007, 10. gr. [^3)^]Rgl. 215/2007, sbr. rgl. 1167/2008. Rgl. 920/2008. [^4)^]L. 170/2006, 6. gr., sbr. einnig brbákv. I s.l. Eiginfjárkrafa fjármálafyrirtækis, sem fengið hefur leyfi til að beita innramatsaðferð við mat á lánaáhættu eða þróaðri aðferð við mat á rekstraráhættu, skal á árunum 2007, 2008 og 2009 að lágmarki nema, í sömu röð, 95%, 90% og 80% af þeirri eiginfjárkröfu sem ákvæðin um eigið fé og áhættugrunn, sem í gildi voru í árslok 2006, hefðu leitt af sér, sbr. brbákv. II s.l. [^5)^]L. 76/2009, 13. gr. [^6)^]Rgl. 156/2005.
  ■ *85. gr.* _Frádráttur frá eigin fé._
  □ [Frá eiginfjárgrunni skv. 4. mgr. 84. gr. skal draga bókfært virði á eignarhlutum og víkjandi kröfum í öðrum fjármálafyrirtækjum eða fyrirtækjum tengdum fjármálasviði. Þegar um er að ræða eignarhluti sem nema allt að 10% af hlutafé í hverju einstöku fjármálafyrirtæki takmarkast frádrátturinn þó við þá heildarfjárhæð eignarhluta og víkjandi krafna sem er umfram 10% af eiginfjárgrunni eins og hann er reiknaður skv. 4. mgr. 84. gr. fyrir frádrátt samkvæmt þessari grein.][^1)^]
  □ [Þegar fjárfesting í hlutum í öðru fjármálafyrirtæki, fyrirtæki tengdu fjármálasviði, vátryggingafélagi eða eignarhaldsfélagi á vátryggingasviði er bráðabirgðaráðstöfun og ætluð sem fjárhagsaðstoð við endurskipulagningu eða til bjargar hlutaðeigandi fyrirtæki er Fjármálaeftirlitinu heimilt að veita undanþágu frá ákvæði 1. málsl. 1. mgr.
@@ -569,7 +548,7 @@ h2. Lög um fjármálafyrirtæki
  □ Ársreikningur skal gefa glögga mynd af fjárhagsstöðu og rekstrarafkomu fjármálafyrirtækis. Hann skal gerður í samræmi við lög, reglur og góða reikningsskilavenju og innihalda m.a. rekstrarreikning, efnahagsreikning og skýringar og upplýsingar um liði utan efnahagsreiknings.
  □ Fjármálaeftirlitið setur reglur[^1)^] að höfðu samráði við reikningsskilaráð um uppsetningu ársreiknings, innihald einstakra liða rekstrar- og efnahagsreiknings og liða utan efnahagsreiknings og skýringar og mat á einstökum liðum.
  □ Fjármálaeftirlitið skal sjá til þess í samráði við reikningsskilaráð að á hverjum tíma liggi fyrir skilgreining á góðri reikningsskilavenju við gerð ársreiknings og árshlutareiknings fjármálafyrirtækis.
-    _[^1)^]Rgl. 834/2003_, rgl. 97/2004, rgl. 102/2004.
+    _[^1)^]Rgl. 834/2003_. Rgl. 97/2004. Rgl. 102/2004.
  ■ *89. gr.* _Skýrsla stjórnar._
  □ Í skýrslu stjórnar skal koma fram yfirlit yfir starfsemi hlutaðeigandi fjármálafyrirtækis á árinu, svo og upplýsingar um atriði sem mikilvæg eru við mat á fjárhagslegri stöðu hlutaðeigandi fyrirtækis og afkomu þess á reikningsárinu er ekki koma fram í ársreikningnum.
  □ Í skýrslu stjórnar skal enn fremur upplýst um eftirfarandi:
@@ -699,12 +678,12 @@ h2. Lög um fjármálafyrirtæki
  ■ *[103. gr. a.* _Lok slitameðferðar._
  □ Hafi slitastjórn lokið greiðslu allra viðurkenndra krafna á hendur fjármálafyrirtæki og eftir atvikum tekið frá fé til greiðslu krafna sem ágreiningur stendur um og komið eignum þess eftir þörfum í verð lýkur hún slitameðferð með því annaðhvort:
     1. að láta fyrirtækið aftur í hendur hluthafa eða stofnfjáreigenda ef fundur þeirra sem slitastjórn hefur boðað til hefur samþykkt með atkvæðum þeirra sem ráða yfir að minnsta kosti [^2^]/3 hlutum hlutafjár eða stofnfjár að fyrirtækið taki upp starfsemi á ný og kjörin hefur verið ný stjórn til að taka við því úr höndum slitastjórnar, enda hafi Fjármálaeftirlitið veitt samþykki sitt til þess og fyrirtækið fullnægir öðrum skilyrðum laga til að hefja aftur starfsemi, eða
-    2. að greiða hluthöfum eða stofnfjáreigendum út eignarhlut þeirra af eftirstöðvum eigna samkvæmt frumvarpi til úthlutunar sem gert skal eftir ákvæðum XXII. kafla og 5. þáttar laga um gjaldþrotaskipti o.fl., en sé um sparisjóð að ræða skal þó eignum, sem standa eftir að lokinni greiðslu stofnfjárhluta, varið eftir samþykktum hans og er óheimilt að ráðstafa þeim til stofnfjáreigenda, sbr. 4. mgr. 63. gr.
+    2. að greiða hluthöfum eða stofnfjáreigendum út eignarhlut þeirra af eftirstöðvum eigna samkvæmt frumvarpi til úthlutunar sem gert skal eftir ákvæðum XXII. kafla og 5. þáttar laga um gjaldþrotaskipti o.fl., en sé um sparisjóð að ræða skal þó eignum, sem standa eftir að lokinni greiðslu stofnfjárhluta, varið eftir samþykktum hans og er óheimilt að ráðstafa þeim til stofnfjáreigenda ...[^1)^]
  □ Ljúka má slitameðferð samkvæmt því sem segir í 1. tölul. 1. mgr. þótt ekki sé lokið greiðslu allra viðurkenndra krafna ef þeir kröfuhafar sem hafa ekki enn fengið fullnustu samþykkja það.
  □ Nægi eignir fjármálafyrirtækis ekki til fullrar greiðslu krafna sem ekki hefur endanlega verið hafnað við slitameðferð getur slitastjórn þegar hún telur tímabært leitað nauðasamnings til að ljúka henni. Skal slitastjórn þá gera frumvarp að nauðasamningi eftir reglum 36. gr. laga um gjaldþrotaskipti o.fl. og boða til kröfuhafafundar til að bera það undir atkvæði. Eftir því sem átt getur við fara nauðasamningsumleitanir að öðru leyti eftir ákvæðum 2. mgr. 149. gr. og 151. - 153. gr. sömu laga, en slitastjórn gegnir þá því hlutverki sem skiptastjóri hefði annars á hendi og heldur hún kröfuhafafundi við þessar umleitanir. Fáist frumvarp að nauðasamningi samþykkt skal slitastjórn leita staðfestingar hans eftir reglum IX. kafla sömu laga. Ef nauðasamningur er staðfestur efnir slitastjórn eftir þörfum skuldbindingar við kröfuhafa samkvæmt honum og lýkur svo slitameðferð eftir því sem segir í 1. og 2. mgr.
  □ Nú liggur fyrir að eignir fjármálafyrirtækis nægi ekki til að standa að fullu við skuldbindingar þess og slitastjórn telur sýnt að ekki verði forsendur til að leita nauðasamnings skv. 3. mgr. eða frumvarp að honum hefur ekki fengist samþykkt eða hafnað hefur verið kröfu um staðfestingu hans og skal þá slitastjórn krefjast þess fyrir héraðsdómi, þar sem hún var skipuð til starfa, að bú fyrirtækisins verði tekið til gjaldþrotaskipta. Það sama getur kröfuhafi gert ef krafa hans hefur verið viðurkennd við slitameðferð og annaðhvort hafa nauðasamningsumleitanir slitastjórnar ekki borið árangur eða hann sýnir fram á að ekki séu lagaskilyrði til að leita nauðasamnings eða sá fjöldi kröfuhafa sé andvígur honum að útilokað sé að tekist geti að koma honum fram miðað við fyrirliggjandi upplýsingar um fjárhag fyrirtækisins. Til að hafa slíka kröfu uppi verður þó kröfuhafi að sýna fram á að hann hafi lögvarða hagsmuni af því að koma fram gjaldþrotaskiptum fremur en að fyrirtæki verði áfram í slitameðferð.
- □ Sé bú fjármálafyrirtækis tekið til gjaldþrotaskipta skal það standa óraskað sem gert hefur verið við slitameðferð varðandi kröfur á hendur fyrirtækinu, þar á meðal innköllun til kröfuhafa og meðferð lýstra krafna, en skiptastjóri skal fá birta auglýsingu í Lögbirtingablaði um að búið hafi verið tekið til gjaldþrotaskipta. Um gjaldþrotaskiptin fer annars eftir almennum reglum að öðru leyti en því að ákvæði 2. mgr. 103. gr. gilda þar að breyttu breytanda, auk þess sem sá dagur sem dómsúrlausn gekk um að fjármálafyrirtækið væri tekið til slita skal við gjaldþrotaskiptin svara að því er varðar réttaráhrif til þess dags sem úrskurður gekk um þau.][^1)^]
-    _[^1)^]L. 44/2009, 8. gr._
+ □ Sé bú fjármálafyrirtækis tekið til gjaldþrotaskipta skal það standa óraskað sem gert hefur verið við slitameðferð varðandi kröfur á hendur fyrirtækinu, þar á meðal innköllun til kröfuhafa og meðferð lýstra krafna, en skiptastjóri skal fá birta auglýsingu í Lögbirtingablaði um að búið hafi verið tekið til gjaldþrotaskipta. Um gjaldþrotaskiptin fer annars eftir almennum reglum að öðru leyti en því að ákvæði 2. mgr. 103. gr. gilda þar að breyttu breytanda, auk þess sem sá dagur sem dómsúrlausn gekk um að fjármálafyrirtækið væri tekið til slita skal við gjaldþrotaskiptin svara að því er varðar réttaráhrif til þess dags sem úrskurður gekk um þau.][^2)^]
+    _[^1)^]L. 76/2009, 14. gr._ [^2)^]L. 44/2009, 8. gr.
  ■ *[104. gr.* _Slit á lánastofnun með höfuðstöðvar á Íslandi og útibú í öðru EES-ríki._
  □ [Nú tekur dómstóll hér á landi ákvörðun um slit lánastofnunar sem hefur staðfestu og starfsleyfi hér á landi og skal þá sú heimild ná sjálfkrafa til allra útibúa sem lánastofnunin starfrækir í öðrum aðildarríkjum.][^1)^] Um réttaráhrif, málsmeðferð og framkvæmd ákvörðunarinnar skal fara að íslenskum lögum með þeim takmörkunum er greinir í 2. mgr. 99. gr.
  □ Dómstóll skal sjá til þess að Fjármálaeftirlitinu verði tilkynnt þegar í stað um ákvörðun um slit.
@@ -720,12 +699,12 @@ h2. Lög um fjármálafyrirtæki
     _[^1)^]L. 130/2004, 9. gr._
  ■ *[106. gr.][^1)^]* [Samruni fjármálafyrirtækis við annað fyrirtæki er aðeins heimill að fengnu samþykki Fjármálaeftirlitsins. Yfirfærsla einstaka rekstrarhluta fjármálafyrirtækis til annars fyrirtækis með öðrum hætti, svo sem sölu, er einnig háð samþykki Fjármálaeftirlitsins. Með rekstrarhluta er í ákvæði þessu átt við starfhæfa einingu innan fjármálafyrirtækis, t.d. útibú.
  □ Samruni fjármálafyrirtækis við annað fyrirtæki er aðeins heimill ef ákvörðun þar að lútandi hefur hlotið samþykki hluthafafundar eða fundar stofnfjáreigenda í yfirtekna fyrirtækinu með minnst [^2^]/3 hlutum greiddra atkvæða og samþykki hluthafa eða stofnfjáreigenda í yfirtekna fyrirtækinu sem ráða yfir minnst [^2^]/3 hlutum þess hlutafjár eða stofnfjár sem farið er með atkvæði fyrir á hluthafafundum eða fundum stofnfjáreigenda. Ef hið yfirtekna fyrirtæki er alfarið í eigu yfirtökufélags þarf ekki að koma til atkvæðagreiðslu skv. 1. málsl. þessarar málsgreinar í yfirtekna félaginu.][^2)^]
- □ [Samruni sparisjóðs við annað fyrirtæki er því aðeins heimill að sparisjóðnum hafi áður verið breytt í hlutafélag samkvæmt ákvæðum VIII. kafla, nema þegar um er að ræða samruna tveggja eða fleiri sparisjóða sem ekki hefur verið breytt í hlutafélag eða hlutafélög.][^2)^]
+ □ [Heimilt er að sameina sparisjóð við annað fjármálafyrirtæki sem hefur starfsleyfi skv. 1. tölul. 1. mgr. 4. gr. þannig að sparisjóði verði slitið. Við sameiningu fá stofnfjáreigendur hlutabréf í hinu sameinaða fjármálafyrirtæki í samræmi við hlutfall stofnfjár af eigin fé sparisjóðsins. Endurgjald fyrir óráðstafað eigið fé sparisjóðsins, sé það fyrir hendi, skal lagt í sérstaka sjálfseignarstofnun sem skal hafa þann tilgang að rækja og stuðla að framgangi þeirra samfélagslegu verkefna sem samþykktir sparisjóðsins kveða á um. Skal endurgjald til sjálfseignarstofnunarinnar vera í formi peningagreiðslu eða með skuldabréfi til ekki lengri tíma en 10 ára. Áður en til samruna kemur skal óháður aðili staðfesta hlutfallslega skiptingu stofnfjár og annars eigin fjár sparisjóðsins og leggja mat á verðmæti umsamins endurgjalds sem fara skal til sjálfseignarstofnunar, með tilliti til þess hvort það sé sanngjarnt, eðlilegt og í réttu hlutfalli miðað við verðmæti hlutabréfa sem koma í hlut stofnfjáreigenda. Skal Fjármálaeftirlitið staðfesta matið. Í stjórn sjálfseignarstofnunar samkvæmt þessari málsgrein skulu eiga sæti einn fulltrúi sveitarfélaga á starfssvæði sparisjóðsins, einn fulltrúi skipaður af félags- og tryggingamálaráðherra, sem skal vera formaður stjórnar, og einn fulltrúi tilnefndur af menntamálaráðherra. Samþykktir sjálfseignarstofnunarinnar skulu staðfestar sameiginlega af félags- og tryggingamálaráðherra og menntamálaráðherra.][^3)^]
  □ Um samruna fjármálafyrirtækja gilda að öðru leyti ákvæði laga um hlutafélög eftir því sem við getur átt og samningar hlutaðeigandi aðila.
  □ Fjármálafyrirtæki, sem er slitið vegna samruna, er ekki skylt að gefa út innköllun til lánardrottna eða halda eignum sínum aðgreindum. Breyting á eignaskráningu í veðmálabókum vegna samruna fjármálafyrirtækja er undanþegin stimpilgjöldum.
  □ [Fjármálaeftirlitið skal auglýsa samruna og yfirfærslu rekstrarhluta fjármálafyrirtækja í Lögbirtingablaði. Í auglýsingu skal tilgreina hvenær samruninn eða yfirfærslan tekur gildi, nöfn hlutaðeigandi fyrirtækja, frest til að gera athugasemdir við yfirfærslu innlánsreikninga, hugsanlegar breytingar á greiðslustöðum skuldaskjala og annað sem kunngera þarf viðskiptamönnum sérstaklega.][^2)^]
- □ Við samruna tveggja eða fleiri fjármálafyrirtækja skal eigið fé, sem verður til við samruna, ekki vera lægra en samanlagt eigið fé hlutaðeigandi fyrirtækja á þeim tíma sem samruni átti sér stað, enda hafi lágmarki skv. 14. gr. ekki verið náð.
-    _[^1)^]L. 130/2004, 11. gr._ [^2)^]L. 96/2008, 11. gr.
+ □ Við samruna tveggja eða fleiri fjármálafyrirtækja skal eigið fé, sem verður til við samruna, ekki vera lægra en samanlagt eigið fé hlutaðeigandi fyrirtækja á þeim tíma sem samruni átti sér stað, enda hafi lágmarki skv. 14. gr. ekki verið náð. [Við samruna sparisjóða má óráðstafað eigið fé sameinaðs sparisjóðs ekki verða lægra en samanlagt óráðstafað eigið fé þeirra sparisjóða var fyrir samruna.][^3)^]
+    _[^1)^]L. 130/2004, 11. gr._ [^2)^]L. 96/2008, 11. gr. [^3)^]L. 76/2009, 15. gr.
 
  *XIII. kafli.* *Eftirlit.*
  _A. Almennar eftirlitsheimildir._
@@ -775,11 +754,11 @@ h2. Lög um fjármálafyrirtæki
     16. 56. gr. um þátttöku starfsmanna í atvinnurekstri,
     17. 1. mgr. 57. gr. um viðskipti starfsmanna við fjármálafyrirtæki,
     18. 58. gr. um þagnarskyldu,
-    19. 4. mgr. 63. gr. um bann við endurgreiðslu stofnfjár til stofnfjáreigenda,
-    20. 1. mgr. 64. gr. um skyldu sparisjóðsstjórnar til að vísa málum til Fjármálaeftirlitsins telji hún að kaupandi stofnfjár falist eftir virkum eignarhlut í sparisjóði,
-    21. 2. mgr. 70. gr. um skilyrði fyrir samþykki sparisjóðsstjórnar ef virkur eignarhlutur í sparisjóði myndast við framsal stofnfjárhlutar eða aukningu stofnfjár,
-    22. 4. mgr. 73. gr. um skyldu sparisjóðs sem breytt hefur verið í hlutafélag til að nota orðið hlutafélag í heiti sínu,
-    23. 4. mgr. 76. gr. um ráðstöfun fjármuna sjálfseignarstofnunar,
+    19. [3. mgr. 63. gr. um að halda og uppfæra skrá yfir stofnfjáreigendur],[^2)^]
+    20. [3. mgr. 66. gr. um að setja og fylgja reglum um viðskipti með stofnfé],[^2)^]
+    21. [68. gr. um ráðstöfun arðs],[^2)^]
+    22. [2. mgr. 69. gr. um skyldur sparisjóðs],[^2)^]
+    23. ...,[^2)^]
     24. 3. mgr. 80. gr. um upplýsingaskyldu rafeyrisfyrirtækja,
     25. 81. gr. um takmörkun fjárfestinga rafeyrisfyrirtækja,
     26. 3. málsl. 7. mgr. 84. gr. um tilkynningar til Fjármálaeftirlitsins,
@@ -795,8 +774,8 @@ h2. Lög um fjármálafyrirtæki
     36. sátt milli Fjármálaeftirlitsins og aðila, sbr. 111. gr.
  □ Þá getur Fjármálaeftirlitið lagt stjórnvaldssektir á hvern þann sem brýtur gróflega eða ítrekað gegn 19. gr. um góða viðskiptahætti og venjur.
  □ Sektir sem lagðar eru á einstaklinga geta numið frá 10 þús. kr. til 20 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 50 þús. kr. til 50 millj. kr. Við ákvörðun sekta skal m.a. tekið tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila og hvort um ítrekað brot er að ræða. Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar. Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
- □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.][^2)^]
-    _[^1)^]L. 130/2004, 11. gr._ [^2)^]L. 55/2007, 7. gr.
+ □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.][^3)^]
+    _[^1)^]L. 130/2004, 11. gr._ [^2)^]L. 76/2009, 16. gr. [^3)^]L. 55/2007, 7. gr.
  ■ *[111. gr.][^1)^]* [Hafi aðili gerst brotlegur við ákvæði laga þessara eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur[^2)^] um framkvæmd ákvæðisins.][^3)^]
     _[^1)^]L. 130/2004, 11. gr._ [^2)^]Rgl. 1245/2007. [^3)^]L. 55/2007, 8. gr.
  ■ *[112. gr.][^1)^]* [Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.][^2)^]
@@ -819,16 +798,16 @@ h2. Lög um fjármálafyrirtæki
     11. 56. gr. um þátttöku starfsmanna í atvinnurekstri,
     12. 1. mgr. 57. gr. um viðskipti starfsmanna við fjármálafyrirtæki,
     13. 58. gr. um þagnarskyldu,
-    14. 1. mgr. 64. gr. um skyldu sparisjóðsstjórnar til að vísa málum til Fjármálaeftirlitsins telji hún að kaupandi stofnfjár falist eftir virkum eignarhlut í sparisjóði,
-    15. 2. mgr. 70. gr. um skilyrði fyrir samþykki sparisjóðsstjórnar ef virkur eignarhlutur í sparisjóði myndast við framsal stofnfjárhlutar eða aukningu stofnfjár,
+    14. [68. gr. um ráðstöfun arðs],[^1)^]
+    15. ...,[^1)^]
     16. 1., 2. og 4. mgr. 81. gr. um takmörkun fjárfestinga rafeyrisfyrirtækja,
     17. 1. mgr. 86. gr. um upphafsaðgerðir vegna ónógs eigin fjár,
     18. 87. gr. um samningu og undirritun ársreiknings,
     19. 1. mgr. 88. gr. um góða reikningsskilavenju,
     20. 89. gr. um skýrslu stjórnar,
     21. 91. og 92. gr. um hæfi endurskoðanda og skyldu hans til að tilkynna um ágalla í rekstri.
- □ Þá varðar það sömu refsingu að gefa vísvitandi rangar eða villandi upplýsingar um hagi fjármálafyrirtækis eða annað er það varðar, opinberlega eða til Fjármálaeftirlitsins, annarra opinberra aðila eða viðskiptamanna sinna.][^1)^]
-    _[^1)^]L. 55/2007, 10. gr._
+ □ Þá varðar það sömu refsingu að gefa vísvitandi rangar eða villandi upplýsingar um hagi fjármálafyrirtækis eða annað er það varðar, opinberlega eða til Fjármálaeftirlitsins, annarra opinberra aðila eða viðskiptamanna sinna.][^2)^]
+    _[^1)^]L. 76/2009, 17. gr._ [^2)^]L. 55/2007, 10. gr.
  ■ *[112. gr. c.* Brot gegn lögum þessum er varða sektum eða fangelsi varða refsingu hvort sem þau eru framin af ásetningi eða gáleysi.
  □ Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotist hefur af broti gegn ákvæðum laga þessara er varða sektum eða fangelsi.
  □ Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð eftir því sem segir í almennum hegningarlögum.][^1)^]
@@ -893,5 +872,7 @@ h2. Lög um fjármálafyrirtæki
  □ Ríkissjóður ber ábyrgð á kostnaði af framkvæmd aðgerða Fjármálaeftirlitsins á grundvelli þessa ákvæðis.
  □ Ákvæði þetta fellur úr gildi 1. júlí 2010.][^1)^]
     _[^1)^]L. 44/2009, brbákv. IV._
+ ■ *[VII.* Þrátt fyrir ákvæði 6. mgr. 102. gr. er skilanefnd fjármálafyrirtækis, sem naut heimildar til greiðslustöðvunar við gildistöku laga nr. 44/2009, um breyting á "lögum nr. 161/2002":2002161.html, um fjármálafyrirtæki, sbr. ákvæði til bráðabirgða II, heimilt, á tímabilinu frá gildistöku laga þessara og þar til skilyrði eru fyrir efndum krafna á grundvelli 6. mgr. 102. gr., að greiða skuldir vegna launa, þ.m.t. laun í uppsagnarfresti, og vegna innlána sem veittur var forgangsréttur með "6. gr. laga nr. 125/2008":2008125.html, sbr. 3. mgr. 102. gr. laga um fjármálafyrirtæki, ef víst er að nægilegt fé sé til að greiða að fullu eða í jöfnu hlutfalli kröfur sem gætu notið sömu eða hærri stöðu í skuldaröð. [Með sömu skilyrðum er slitastjórn fjármálafyrirtækis heimilt að greiða skuldir vegna launa, þ.m.t. laun í uppsagnarfresti, frá gildistöku laga þessara fram til 31. desember 2009.][^1)^]][^2)^]
+    _[^1)^]L. 74/2009, 1. gr. [^2)^]L. 61/2009, 1. gr._
 
 

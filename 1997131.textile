@@ -7,7 +7,7 @@ h2. Lög um rafræna eignarskráningu verðbréfa
 <hr />
 
 
- *Tóku gildi 1. janúar 1998.* _Breytt með_ l. 84/1998 (tóku gildi 1. jan. 1999), l. 32/2000 (tóku gildi 26. maí 2000), "l. 77/2000":2000077.html (tóku gildi 1. jan. 2001), l. 164/2000 (tóku gildi 29. des. 2000), l. 147/2001 (tóku gildi 31. des. 2001), l. 76/2002 (tóku gildi 17. maí 2002), l. 67/2006 (tóku gildi 24. júní 2006), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 55/2007 (tóku gildi 3. apríl 2007), l. 64/2008 (tóku gildi 12. júní 2008), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 96/2008 (tóku gildi 24. júní 2008).
+ *Tóku gildi 1. janúar 1998.* _Breytt með_ l. 84/1998 (tóku gildi 1. jan. 1999), l. 32/2000 (tóku gildi 26. maí 2000), "l. 77/2000":2000077.html (tóku gildi 1. jan. 2001), l. 164/2000 (tóku gildi 29. des. 2000), l. 147/2001 (tóku gildi 31. des. 2001), l. 76/2002 (tóku gildi 17. maí 2002), l. 67/2006 (tóku gildi 24. júní 2006), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 55/2007 (tóku gildi 3. apríl 2007), l. 64/2008 (tóku gildi 12. júní 2008), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 96/2008 (tóku gildi 24. júní 2008) og l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem taka gildi 1. jan. 2010).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -22,13 +22,13 @@ h2. Lög um rafræna eignarskráningu verðbréfa
     _reikningur:_ skrá um lokafærslur reikningseiganda yfir rafbréf í verðbréfamiðstöð,
     [_efndalok:_ fullnaðaruppgjör viðskipta reikningsstofnana með rafbréf og fullar efndir á þeim, svo sem með greiðslujöfnun eða peningagreiðslu, sem lagðar eru til grundvallar við lokafærslu á reikning í verðbréfamiðstöð.][^1)^]
     _[^1)^]L. 32/2000, 1. gr._
- ■ *3. gr.* Viðskiptaráðherra veitir verðbréfamiðstöð starfsleyfi að fenginni umsögn [Fjármálaeftirlitsins].[^1)^] Umsókn um starfsleyfi skal vera skrifleg. Slík leyfi verða aðeins veitt skráðum hlutafélögum sem fullnægja eftirfarandi skilyrðum:
+ ■ *3. gr.* [Efnahags- og viðskiptaráðherra][^1)^] veitir verðbréfamiðstöð starfsleyfi að fenginni umsögn [Fjármálaeftirlitsins].[^2)^] Umsókn um starfsleyfi skal vera skrifleg. Slík leyfi verða aðeins veitt skráðum hlutafélögum sem fullnægja eftirfarandi skilyrðum:
     1. innborgað hlutafé sé að lágmarki 65 milljónir króna, og er fjárhæð þess bundin gengi evrópsku mynteiningarinnar ECU miðað við opinbert kaupgengi hennar við gildistöku laga þessara,
     2. fyrir liggi fullnægjandi rekstraráætlun, byggð á traustum rekstrarforsendum, svo og öryggis- og skipulagslýsing,
     3. að uppfyllt sé skilyrði 30. gr. laga þessara um ábyrgðarsjóð.
  □ Ákvörðun ráðherra um umsókn um starfsleyfi skal tilkynna umsækjanda skriflega svo fljótt sem unnt er og eigi síðar en þremur mánuðum eftir að fullbúin umsókn barst ráðherra. Synjun ráðherra á umsókn skal rökstudd. Verðbréfamiðstöð er óheimilt að hefja starfsemi fyrr en hlutafé hefur verið að fullu greitt.
  □ Verðbréfamiðstöð er óheimilt að stunda aðra starfsemi en þá sem kveðið er á um í lögum þessum eða er í eðlilegum tengslum við hana.
-    _[^1)^]L. 84/1998, 20. gr._
+    _[^1)^]L. 98/2009, 23. gr._ [^2)^]L. 84/1998, 20. gr.
  ■ *4. gr.* Stjórnarmenn í verðbréfamiðstöð skulu vera þrír hið fæsta og skulu þeir vera búsettir hér á landi, vera lögráða, hafa óflekkað mannorð, vera fjár síns ráðandi og mega ekki á síðustu fimm árum í tengslum við atvinnurekstur hafa hlotið dóm fyrir refsiverðan verknað samkvæmt almennum hegningarlögum eða lögum um hlutafélög, einkahlutafélög, bókhald, ársreikninga, gjaldþrot eða opinber gjöld.
  □ Ríkisborgarar þeirra ríkja sem eru aðilar að samningnum um Evrópska efnahagssvæðið eru undanþegnir búsetuskilyrðum, enda séu viðkomandi ríkisborgarar búsettir í EES-ríki. [Búsetuskilyrðið gildir ekki heldur um ríkisborgara aðildarríkja að stofnsamningi Fríverslunarsamtaka Evrópu sem búsettir eru í aðildarríki stofnsamningsins eða Færeyinga sem búsettir eru í Færeyjum.][^1)^] Ráðherra er heimilt að veita þeim sem búsettir eru í öðrum ríkjum sömu undanþágu.
     _[^1)^]L. 108/2006, 89. gr._

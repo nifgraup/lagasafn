@@ -7,7 +7,7 @@ h2. Lög um rafrænar undirskriftir
 <hr />
 
 
- *Tóku gildi 16. maí 2001.* _EES-samningurinn:_ XI. viðauki tilskipun 99/93/EB. _Breytt með_ l. 72/2003 (tóku gildi 10. apríl 2003), "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005) og l. 34/2007 (tóku gildi 30. mars 2007).
+ *Tóku gildi 16. maí 2001.* _EES-samningurinn:_ XI. viðauki tilskipun 99/93/EB. _Breytt með_ l. 72/2003 (tóku gildi 10. apríl 2003), "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), l. 34/2007 (tóku gildi 30. mars 2007) og l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem taka gildi 1. jan. 2010).
 
 
  *I. kafli.* *Markmið og gildissvið.*
@@ -15,10 +15,11 @@ h2. Lög um rafrænar undirskriftir
  □ Markmið laga þessara er að kveða á um réttaráhrif rafrænna undirskrifta og stuðla að öruggri og árangursríkri notkun þeirra með því að mæla fyrir um kröfur til fullgildra rafrænna undirskrifta, fullgildra vottorða og starfsemi vottunaraðila sem gefa út slík vottorð.
 ■ *2. gr.* _Gildissvið._
  □ Lög þessi gilda um rafrænar undirskriftir og starfsemi vottunaraðila með staðfestu á Íslandi.
- □ Viðskiptaráðherra fer með yfirstjórn mála samkvæmt lögum þessum.
+ □ [Efnahags- og viðskiptaráðherra][^1)^] fer með yfirstjórn mála samkvæmt lögum þessum.
+    _[^1)^]L. 98/2009, 54. gr._
 
  *II. kafli.* *Skilgreiningar, réttaráhrif og vernd persónuupplýsinga.*
-■ *3. gr.* _Orðskýringar._
+ ■ *3. gr.* _Orðskýringar._
  □ Í lögum þessum merkir:
     1. _Rafræn undirskrift:_ Gögn í rafrænu formi sem fylgja eða tengjast rökrænt öðrum rafrænum gögnum og eru notuð til að sannprófa frá hverjum hin síðarnefndu gögn stafa.
     2. _Útfærð rafræn undirskrift:_ Rafræn undirskrift sem:
@@ -69,10 +70,10 @@ h2. Lög um rafrænar undirskriftir
  □ Ekki skal vera unnt að nota öruggan undirskriftarbúnað til að breyta þeim gögnum sem undirrita á eða hindra að undirritandi geti séð gögnin fyrir undirritun.
 ■ *9. gr.* _Viðurkenning._
  □ Kröfum til undirskriftarbúnaðar skv. 8. gr. skal teljast fullnægt þegar:
-    a. þar til bær aðili hefur staðfest að hann uppfylli kröfur 8. gr.; viðskiptaráðherra getur í reglugerð kveðið á um þá aðila sem veitt geta slíka staðfestingu, eða
-    b. þar til bær aðili á Evrópska efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] hefur viðurkennt hann.
+    a. þar til bær aðili hefur staðfest að hann uppfylli kröfur 8. gr.; [efnahags- og viðskiptaráðherra][^1)^] getur í reglugerð kveðið á um þá aðila sem veitt geta slíka staðfestingu, eða
+    b. þar til bær aðili á Evrópska efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^2)^] hefur viðurkennt hann.
  □ Líta skal svo á að undirskriftarbúnaður teljist öruggur skv. 8. gr. ef hann er í samræmi við staðla sem framkvæmdastjórn Evrópusambandsins hefur sett um slíkan búnað og birtir hafa verið í Stjórnartíðindum Evrópubandalagsins.
-    _[^1)^]L. 72/2003, 54. gr._
+    _[^1)^]L. 98/2009, 54. gr._ [^2)^]L. 72/2003, 54. gr.
 
  *V. kafli.* *Kröfur til vottunaraðila sem gefa út fullgild vottorð.*
  ■ *10. gr.* _Kröfur til starfseminnar._
@@ -106,10 +107,11 @@ h2. Lög um rafrænar undirskriftir
     c. meðferð kvartana og úrlausn deilumála.
  □ Upplýsingar skv. 1. mgr. má senda rafrænt, enda séu þær á læsilegu formi og á auðskiljanlegu máli. Þessar upplýsingar skulu, eftir því sem við á, vera aðgengilegar þriðja aðila sem treystir á vottorð og óskar eftir þeim.
 ■ *16. gr.* _Nánari reglur._
- □ Viðskiptaráðherra er heimilt að setja nánari fyrirmæli í reglugerð um kröfur til vottunaraðila sem gefa út fullgild vottorð skv. V. kafla laga þessara.
+ □ [Efnahags- og viðskiptaráðherra][^1)^] er heimilt að setja nánari fyrirmæli í reglugerð um kröfur til vottunaraðila sem gefa út fullgild vottorð skv. V. kafla laga þessara.
+    _[^1)^]L. 98/2009, 54. gr._
 
  *VI. kafli.* *Skaðabótaábyrgð.*
-■ *17. gr.* Vottunaraðili sem gefur út fullgilt vottorð til almennings eða ábyrgist gagnvart almenningi slíkt vottorð útgefið af öðrum er bótaskyldur vegna tjóns þess sem treystir á vottorð með eðlilegum hætti, að því er varðar:
+ ■ *17. gr.* Vottunaraðili sem gefur út fullgilt vottorð til almennings eða ábyrgist gagnvart almenningi slíkt vottorð útgefið af öðrum er bótaskyldur vegna tjóns þess sem treystir á vottorð með eðlilegum hætti, að því er varðar:
     a. að upplýsingar í vottorði hafi verið réttar þegar það var gefið út,
     b. að vottorð hafi að geyma allar þær upplýsingar sem kveðið er á um í 7. gr.,
     c. að undirritandi hafi við útgáfu vottorðs haft undir höndum undirskriftargögn sem svara til þeirra sannprófunargagna sem koma fram í vottorði,
