@@ -7,7 +7,7 @@ h2. Lög um endurskoðendur
 <hr />
 
 
- *Tóku gildi 1. janúar 2009.* _EES-samningurinn:_ XXII. viðauki tilskipun 2006/43/EB. _Breytt með_ l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem taka gildi 1. jan. 2010).
+ *Tóku gildi 1. janúar 2009.* _EES-samningurinn:_ XXII. viðauki tilskipun 2006/43/EB. _Breytt með_ l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -149,12 +149,13 @@ h2. Lög um endurskoðendur
  *VII. kafli.* *Gæðaeftirlit.*
 ■ *22. gr.* Endurskoðunarfyrirtækjum og endurskoðendum sem þar starfa og sjálfstætt starfandi endurskoðendum er skylt að sæta gæðaeftirliti eigi sjaldnar en á sex ára fresti í samræmi við ákvæði þessarar greinar.
  □ Endurskoðendur eða endurskoðunarfyrirtæki sem annast endurskoðun eininga tengdra almannahagsmunum skulu þó sæta gæðaeftirliti eigi sjaldnar en á þriggja ára fresti.
- □ Endurskoðendaráð setur reglur um framkvæmd gæðaeftirlits og val gæðaeftirlitsmanna svo að tryggt sé að þeir séu óháðir þeim sem eftirlitið beinist að.
+ □ Endurskoðendaráð setur reglur[^1)^] um framkvæmd gæðaeftirlits og val gæðaeftirlitsmanna svo að tryggt sé að þeir séu óháðir þeim sem eftirlitið beinist að.
  □ Endurskoðandi eða endurskoðunarfyrirtæki sem sætir gæðaeftirliti skal veita þeim sem sinnir gæðaeftirliti nauðsynlega aðstoð og aðgang að upplýsingum sem óskað er eftir við gæðaeftirlitið. Lagaákvæði um þagnarskyldu takmarka ekki skyldu til þess að veita upplýsingar og aðgang að gögnum.
  □ Endurskoðendaráð skal árlega birta upplýsingar um heildarniðurstöðu gæðaeftirlitsins.
+    _[^1)^]Rgl. 912/2009_.
 
  *VIII. kafli.* *Brottfall endurskoðunarréttinda.*
-■ *23. gr.* Sá sem hefur löggildingu til endurskoðunarstarfa og fullnægir ekki skilyrðum laga til þess að njóta hennar skal án tafar tilkynna það til endurskoðendaráðs.
+ ■ *23. gr.* Sá sem hefur löggildingu til endurskoðunarstarfa og fullnægir ekki skilyrðum laga til þess að njóta hennar skal án tafar tilkynna það til endurskoðendaráðs.
 ■ *24. gr.* Endurskoðandi getur lagt inn réttindi sín og falla þá niður réttindi og skyldur hans sem endurskoðanda nema annað leiði af lögum. Endurskoðandi getur ekki lagt inn réttindi sín ef mál hans er til meðferðar hjá endurskoðendaráði nema með heimild endurskoðendaráðs enda séu annmarkar óverulegir.
  □ Hafi endurskoðandi lagt inn réttindi sín skal veita honum þau á ný eftir umsókn hans án endurgjalds ef hann fullnægir orðið öllum skilyrðum til að njóta þeirra og sanni að hann hafi uppfyllt endurmenntunarkröfur þriggja ára tímabils.
 ■ *25. gr.* Réttindi endurskoðanda falla niður eftir ákvörðun ráðherra:

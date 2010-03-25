@@ -1,13 +1,14 @@
 <hr />
 
-h2. Lög um matvæli
+h2. Lög um matvæli[^1)^]
 
 *1995 nr. 93 28. júní*
 
 <hr />
 
+   _[^1)^]Lögunum var breytt með I. kafla l. 143/2009. Breytingarnar taka gildi 1. mars 2010._
 
- *Tóku gildi 30. júní 1995.* _Breytt með_ l. 169/2000 (tóku gildi 29. des. 2000), l. 164/2002 (tóku gildi 1. jan. 2003), "l. 17/2003":2003017.html (tóku gildi 1. júlí 2003), l. 76/2005 (tóku gildi 1. jan. 2006), "l. 68/2006":2006068.html (tóku gildi 30. júní 2006), l. 167/2007 (tóku gildi 1. jan. 2008) og l. 29/2008 (tóku gildi 19. apríl 2008).
+ *Tóku gildi 30. júní 1995.* _Breytt með_ l. 169/2000 (tóku gildi 29. des. 2000), l. 164/2002 (tóku gildi 1. jan. 2003), "l. 17/2003":2003017.html (tóku gildi 1. júlí 2003), l. 76/2005 (tóku gildi 1. jan. 2006), "l. 68/2006":2006068.html (tóku gildi 30. júní 2006), l. 167/2007 (tóku gildi 1. jan. 2008), l. 29/2008 (tóku gildi 19. apríl 2008) og l. 143/2009 (taka gildi 1. mars 2010 nema II. - IV. kafli sem taka gildi 1. nóv. 2011 (utan 43. gr. í IV. kafla sem tekur gildi 1. mars 2010) og 54. og 55. gr. og 9. efnismgr. 63. gr. sem taka gildi 1. mars 2011; _EES-samningurinn:_ I. og II. viðauki reglugerð 178/2002).
 
 
  *I. kafli.* *Tilgangur og gildissvið.*
@@ -18,21 +19,21 @@ h2. Lög um matvæli
 
  *II. kafli.* *Skilgreiningar.*
 ■ *4. gr.* Í lögum þessum hafa eftirtalin hugtök svofellda merkingu:
-    Matvæli eru hvers konar vörur sem ætlaðar eru mönnum til neyslu, þar með talið neysluvatn, sbr. þó einnig 2. mgr. 2. gr.
-    Framleiðsla er meðferð hráefnis, vinnsla, pökkun og matreiðsla. Hér er einnig átt við húsnæði, störf, hreinlæti og heilbrigði starfsfólks og annað sem tengist framleiðslu, svo og efni og hluti sem geta komist í snertingu við matvæli, sbr. ákvæði IV. kafla þessara laga.
-    Dreifing er hvers konar flutningur, framboð og afhending, þar með talið innflutningur, útflutningur og sala. Hér er einnig átt við geymslu og annað sem tengist dreifingu, sbr. ákvæði IV. kafla þessara laga.
-    Efni og hlutir eru allar umbúðir, ílát, áhöld, tækjabúnaður, borðbúnaður og öll efni sem slíkir hlutir eru samsettir úr og geta komist í snertingu við matvæli.
-    Umbúðir eru allar umbúðir sem umlykja eða hafa að geyma matvæli eða efni sem notuð eru við framleiðslu matvæla.
-    Örverur eru lífverur sem geta valdið skemmdum í matvælum eða verið heilsuspillandi vegna neyslu þeirra, en einnig eru tilteknar örverur notaðar við framleiðslu matvæla.
-    Hráefni eru öll efni, önnur en bætiefni, aukefni, bragðefni og varnarefni, sem notuð eru við framleiðslu matvæla.
-    Aukefni eru efni sem notuð eru við tilbúning matvæla til að hafa áhrif á geymsluþol, lit, lykt, bragð eða aðra eiginleika þeirra.
-    Bragðefni eru efni sem notuð eru til að hafa áhrif á bragðeiginleika matvæla og teljast ekki til aukefna.
-    Bætiefni eru vítamín, steinefni, þar með talin snefilefni, og lífsnauðsynlegar fitu- og amínósýrur.
-    Aðskotaefni eru efni sem sett eru í matvæli, berast í þau eða myndast í þeim og breyta eiginleikum, samsetningu, gæðum eða hollustu þeirra. Hér er m.a. átt við vaxtaraukandi efni og lyfjaleifar.
-    Varnarefni eru efni sem notuð eru m.a. gegn illgresi, sveppum og meindýrum við framleiðslu og við geymslu matvæla.
-    Opinbert eftirlit er eftirlit á vegum stjórnvalda í þeim tilgangi að tryggja að framfylgt sé ákvæðum laga og reglna um matvæli og stuðla að fræðslu og upplýsingamiðlun.
-    Innra eftirlit er eftirlit á vegum framleiðanda eða dreifanda í þeim tilgangi að tryggja gæði, öryggi og hollustu vörunnar.
-    Faggilding er formleg staðfesting á því að starfsemi rannsóknastofa (prófunarstofa), vottunarstofa og eftirlitsaðila fari fram samkvæmt settum reglum. Markmiðið er að sannreyna hæfni, kunnáttu og áreiðanleika viðkomandi.
+    _Matvæli_ eru hvers konar vörur sem ætlaðar eru mönnum til neyslu, þar með talið neysluvatn, sbr. þó einnig 2. mgr. 2. gr.
+    _Framleiðsla_ er meðferð hráefnis, vinnsla, pökkun og matreiðsla. Hér er einnig átt við húsnæði, störf, hreinlæti og heilbrigði starfsfólks og annað sem tengist framleiðslu, svo og efni og hluti sem geta komist í snertingu við matvæli, sbr. ákvæði IV. kafla þessara laga.
+    _Dreifing_ er hvers konar flutningur, framboð og afhending, þar með talið innflutningur, útflutningur og sala. Hér er einnig átt við geymslu og annað sem tengist dreifingu, sbr. ákvæði IV. kafla þessara laga.
+    _Efni og hlutir_ eru allar umbúðir, ílát, áhöld, tækjabúnaður, borðbúnaður og öll efni sem slíkir hlutir eru samsettir úr og geta komist í snertingu við matvæli.
+    _Umbúðir_ eru allar umbúðir sem umlykja eða hafa að geyma matvæli eða efni sem notuð eru við framleiðslu matvæla.
+    _Örverur_ eru lífverur sem geta valdið skemmdum í matvælum eða verið heilsuspillandi vegna neyslu þeirra, en einnig eru tilteknar örverur notaðar við framleiðslu matvæla.
+    _Hráefni_ eru öll efni, önnur en bætiefni, aukefni, bragðefni og varnarefni, sem notuð eru við framleiðslu matvæla.
+    _Aukefni_ eru efni sem notuð eru við tilbúning matvæla til að hafa áhrif á geymsluþol, lit, lykt, bragð eða aðra eiginleika þeirra.
+    _Bragðefni_ eru efni sem notuð eru til að hafa áhrif á bragðeiginleika matvæla og teljast ekki til aukefna.
+    _Bætiefni_ eru vítamín, steinefni, þar með talin snefilefni, og lífsnauðsynlegar fitu- og amínósýrur.
+    _Aðskotaefni_ eru efni sem sett eru í matvæli, berast í þau eða myndast í þeim og breyta eiginleikum, samsetningu, gæðum eða hollustu þeirra. Hér er m.a. átt við vaxtaraukandi efni og lyfjaleifar.
+    _Varnarefni_ eru efni sem notuð eru m.a. gegn illgresi, sveppum og meindýrum við framleiðslu og við geymslu matvæla.
+    _Opinbert eftirlit_ er eftirlit á vegum stjórnvalda í þeim tilgangi að tryggja að framfylgt sé ákvæðum laga og reglna um matvæli og stuðla að fræðslu og upplýsingamiðlun.
+    _Innra eftirlit_ er eftirlit á vegum framleiðanda eða dreifanda í þeim tilgangi að tryggja gæði, öryggi og hollustu vörunnar.
+    _Faggilding_ er formleg staðfesting á því að starfsemi rannsóknastofa (prófunarstofa), vottunarstofa og eftirlitsaðila fari fram samkvæmt settum reglum. Markmiðið er að sannreyna hæfni, kunnáttu og áreiðanleika viðkomandi.
 
  *III. kafli.* *Stjórn og skipan.*
 ■ *5. gr.* [Sjávarútvegs- og landbúnaðarráðherra, í lögum þessum nefndur ráðherra, fer með yfirstjórn mála samkvæmt lögum þessum. Matvælastofnun er ráðherra til ráðgjafar.][^1)^]
@@ -85,7 +86,7 @@ h2. Lög um matvæli
 
  *VII. kafli.* *Framkvæmd og fræðslustarfsemi.*
  ■ *18. gr.* Til þess að tryggja framkvæmd laga þessara setur [ráðherra][^1)^] reglugerð[^2)^] um atriði sem lög þessi ná til. Þar skal m.a. kveðið nánar á um framleiðslu og dreifingu matvæla, efnainnihald, viðmiðunarmörk fyrir örverur, umbúðir, matvælaeftirlit og matvælarannsóknir.
-    _[^1)^]L. 167/2007, 38. gr._ [^2)^]Rg. 405/2004 (um náttúrulegt ölkelduvatn og átappað lindarvatn), sbr. 1097/2004. Rg. 411/2004 (um ýmis aðskotaefni í matvælum), sbr. 56/2005. Rg. 425/2004 (um gildistöku tiltekinnar gerðar Evrópusambandsins um fyrirkomulag vöktunar á hámarksgildum varnarefnaleifa í tilteknum matvælum). Rg. 624/2004 (um fæðubótarefni), sbr. 684/2005 og 399/2007. Rg. 331/2005 (um kjöt og kjötvörur). Rg. 439/2005 (um gildistöku tiltekinna gerða Evrópusambandsins um aðskotaefni í matvælum). Rg. 503/2005 (um merkingu matvæla), sbr. 553/2006, 1303/2007 og 681/2009. Rg. 508/2005 (um gildistöku tiltekinnar gerðar Evrópusambandsins um aðskotaefni í matvælum). Rg. 681/2005 (um gildistöku tiltekinnar gerðar Evrópusambandsins um merkingu matvæla og innihaldsefna matvæla með viðbættum jurtasterólum, jurtasterólestrum, jurtastanólum og/eða jurtastanólestrum). Rg. 439/2006 (um leirhluti sem er ætlað að snerta matvæli). Rg. 526/2006 (um íblöndun bætiefna í matvæli), sbr. 566/2007 og 855/2007. Rg. 555/2006 (um gildistöku tiltekinna gerða Evrópusambandsins um aðskotaefni í matvælum). Rg. 237/2007 (um gildistöku tiltekinna gerða Evrópusambandsins um aðskotaefni í matvælum). Rg. 1289/2007 (um gildistöku tiltekinnar gerðar Evrópusambandsins um aðskotaefni í matvælum). Rg. 1307/2007 (um gildistöku tiltekinnar gerðar Evrópusambandsins um aðskotaefni í matvælum). Rg. 568/2008 (um góða framleiðsluhætti að því er varðar efni og hluti sem ætlað er að komast í snertingu við matvæli). Rg. 618/2008 (um reykbragðefni sem eru notuð eða eru ætluð til notkunar í eða á matvælum). Rg. 672/2008 (um hámarksgildi varnarefnaleifa í matvælum og fóðri), sbr. 1089/2008. Rg. 697/2008 (um gildistöku tiltekinna gerða Evrópusambandsins um aðskotaefni í matvælum). Rg. 698/2008 (um takmörkun á notkun tiltekinna epoxýafleiðna í efni og hluti sem ætlað er að komast í snertingu við matvæli). Rg. 790/2008 (um gildistöku tiltekinnar gerðar Evrópusambandsins um aðskotaefni í matvælum). Rg. 925/2008 (um markaðssetningu ungbarnablandna úr tilteknum mysupróteinum). Rg. 34/2009 (um efni og hluti úr sellulósafilmu sem er ætlað að snerta matvæli). Rg. 410/2009 (um merkingu næringargildis matvæla), sbr. 547/2009. Rg. 489/2009 (um vinnslu og heilbrigðiseftirlit með hvalaafurðum). Rg. 520/2009 (um ungbarnablöndur og stoðblöndur). Rg. 708/2009 (um barnamat fyrir ungbörn og smábörn).
+    _[^1)^]L. 167/2007, 38. gr._ [^2)^]Rg. 405/2004 (um náttúrulegt ölkelduvatn og átappað lindarvatn), sbr. 1097/2004. Rg. 411/2004 (um ýmis aðskotaefni í matvælum), sbr. 56/2005. Rg. 425/2004 (um gildistöku tiltekinnar gerðar Evrópusambandsins um fyrirkomulag vöktunar á hámarksgildum varnarefnaleifa í tilteknum matvælum). Rg. 624/2004 (um fæðubótarefni), sbr. 684/2005 og 399/2007. Rg. 331/2005 (um kjöt og kjötvörur). Rg. 439/2005 (um gildistöku tiltekinna gerða Evrópusambandsins um aðskotaefni í matvælum). Rg. 503/2005 (um merkingu matvæla), sbr. 553/2006, 1303/2007 og 681/2009. Rg. 508/2005 (um gildistöku tiltekinnar gerðar Evrópusambandsins um aðskotaefni í matvælum). Rg. 681/2005 (um gildistöku tiltekinnar gerðar Evrópusambandsins um merkingu matvæla og innihaldsefna matvæla með viðbættum jurtasterólum, jurtasterólestrum, jurtastanólum og/eða jurtastanólestrum). Rg. 439/2006 (um leirhluti sem er ætlað að snerta matvæli). Rg. 526/2006 (um íblöndun bætiefna í matvæli), sbr. 566/2007 og 855/2007. Rg. 555/2006 (um gildistöku tiltekinna gerða Evrópusambandsins um aðskotaefni í matvælum). Rg. 237/2007 (um gildistöku tiltekinna gerða Evrópusambandsins um aðskotaefni í matvælum). Rg. 1289/2007 (um gildistöku tiltekinnar gerðar Evrópusambandsins um aðskotaefni í matvælum). Rg. 1307/2007 (um gildistöku tiltekinnar gerðar Evrópusambandsins um aðskotaefni í matvælum). Rg. 568/2008 (um góða framleiðsluhætti að því er varðar efni og hluti sem ætlað er að komast í snertingu við matvæli). Rg. 618/2008 (um reykbragðefni sem eru notuð eða eru ætluð til notkunar í eða á matvælum). Rg. 672/2008 (um hámarksgildi varnarefnaleifa í matvælum og fóðri), sbr. 1089/2008. Rg. 697/2008 (um gildistöku tiltekinna gerða Evrópusambandsins um aðskotaefni í matvælum). Rg. 698/2008 (um takmörkun á notkun tiltekinna epoxýafleiðna í efni og hluti sem ætlað er að komast í snertingu við matvæli). Rg. 790/2008 (um gildistöku tiltekinnar gerðar Evrópusambandsins um aðskotaefni í matvælum). Rg. 925/2008 (um markaðssetningu ungbarnablandna úr tilteknum mysupróteinum). Rg. 34/2009 (um efni og hluti úr sellulósafilmu sem er ætlað að snerta matvæli). Rg. 410/2009 (um merkingu næringargildis matvæla), sbr. 547/2009. Rg. 489/2009 (um vinnslu og heilbrigðiseftirlit með hvalaafurðum). Rg. 520/2009 (um ungbarnablöndur og stoðblöndur), sbr. 1042/2009. Rg. 708/2009 (um barnamat fyrir ungbörn og smábörn).
  ■ *19. gr.* [Matvælastofnun skal sjá um að halda uppi fræðslu fyrir almenning um þau málefni sem lög þessi ná til. Jafnframt skal stofnunin vinna að eflingu fræðslustarfs fyrir þá sem starfa við framleiðslu og dreifingu matvæla og veita ráðgjöf við gerð námsefnis fyrir kennslu um matvæli og meðferð þeirra, sbr. 2. mgr.][^1)^]
  □ Menntamálaráðuneytið setur ákvæði í námskrá eftir því sem við á um kennslu í matreiðslu, örverufræði, matvælafræði, næringarfræði og um neytendamálefni, hefur eftirlit með fræðslunni og fylgist með því að fullnægjandi aðstaða sé fyrir hendi.
     _[^1)^]L. 167/2007, 39. gr._

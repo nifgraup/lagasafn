@@ -2,17 +2,17 @@ h2. !/myndir/althlit.gif!Kaflar lagasafns
 
 <hr />
 
-Íslensk lög 15. október 2009 (útgáfa 137).
+Íslensk lög 1. febrúar 2010 (útgáfa 138a).
 
-# "Stjórnskipunarlög o.fl.":1.html
-# "Mannréttindi":2.html
-# "Forseti Íslands":3.html
-# "Alþingi og lagasetning":4.html
-# "Dómstólar og réttarfar":5.html
-# "Framkvæmdarvaldið":6.html
-# "Sveitarfélög":7.html
-# "Opinberir starfsmenn":8.html
-# "Stjórnsýsla":9.html
+# "Stjórnskipunarlög o.fl.":01.html
+# "Mannréttindi":02.html
+# "Forseti Íslands":03.html
+# "Alþingi og lagasetning":04.html
+# "Dómstólar og réttarfar":05.html
+# "Framkvæmdarvaldið":06.html
+# "Sveitarfélög":07.html
+# "Opinberir starfsmenn":08.html
+# "Stjórnsýsla":09.html
 # "Almannaskráning, hagskýrslur o.fl.":10.html
 # "Ríkisfjármál og ríkisábyrgðir":11.html
 # "Eignir og framkvæmdir ríkisins":12.html

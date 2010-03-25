@@ -107,10 +107,10 @@ h2. Lög um grunnskóla
  *V. kafli.* *Foreldrar.*
 ■ *18. gr.* _Foreldrar og meðferð upplýsinga._
  □ Foreldrar skulu gæta hagsmuna barna sinna á skólaskyldualdri. Foreldrar eiga rétt á að velja grunnskóla innan sveitarfélags fyrir börn sín samkvæmt reglum sveitarfélagsins. Jafnframt skulu þeir eiga rétt á upplýsingum um skólastarfið og skólagöngu barna sinna.
- □ Foreldrum er skylt að veita grunnskóla upplýsingar um barn sitt sem nauðsynlegar eru fyrir skólastarfið og velferð barnsins. Um persónuupplýsingar sem þannig er aflað eða fylgt hafa barni úr leikskóla er krafist fullrar þagnarskyldu og málsmeðferðar í samræmi við gildandi lög um persónuvernd og meðferð persónuupplýsinga. Foreldrum skal gerð grein fyrir þessum upplýsingum. Meðferð upplýsinga skal vera á hendi skólastjóra eða annarra sérfræðinga á vegum sveitarfélagsins samkvæmt nánari ákvörðun þess. Ráðherra setur reglugerð um meðferð, eyðingu og miðlun upplýsinga og um rétt foreldra til aðgangs að upplýsingum um börn sín. [Um rétt foreldris sem ekki fer með forsjá barns til upplýsinga um barn sitt samkvæmt þessum lögum fer samkvæmt fyrirmælum "52. gr. barnalaga, nr. 76/2003":2003076.html#g52.][^1)^]
+ □ Foreldrum er skylt að veita grunnskóla upplýsingar um barn sitt sem nauðsynlegar eru fyrir skólastarfið og velferð barnsins. Um persónuupplýsingar sem þannig er aflað eða fylgt hafa barni úr leikskóla er krafist fullrar þagnarskyldu og málsmeðferðar í samræmi við gildandi lög um persónuvernd og meðferð persónuupplýsinga. Foreldrum skal gerð grein fyrir þessum upplýsingum. Meðferð upplýsinga skal vera á hendi skólastjóra eða annarra sérfræðinga á vegum sveitarfélagsins samkvæmt nánari ákvörðun þess. Ráðherra setur reglugerð[^1)^] um meðferð, eyðingu og miðlun upplýsinga og um rétt foreldra til aðgangs að upplýsingum um börn sín. [Um rétt foreldris sem ekki fer með forsjá barns til upplýsinga um barn sitt samkvæmt þessum lögum fer samkvæmt fyrirmælum "52. gr. barnalaga, nr. 76/2003":2003076.html#g52.][^2)^]
  □ Foreldrar skulu hafa samráð við skólann um skólagöngu barna sinna, fylgjast með og styðja við skólagöngu þeirra og námsframvindu og stuðla að því að börnin mæti úthvíld í skólann og fylgi skólareglum. Þeir skulu fá tækifæri til að taka þátt í námi barnsins, svo og í skólastarfinu almennt.
  □ Eigi í hlut foreldrar sem ekki tala íslensku eða nota táknmál skal skóli leitast við að tryggja túlkun á upplýsingum sem nauðsynlegar eru vegna samskipta foreldra og skóla samkvæmt þessari grein.
-    _[^1)^]L. 38/2009, 2. gr._
+    _[^1)^]Rg. 897/2009_. [^2)^]L. 38/2009, 2. gr.
  ■ *19. gr.* _Ábyrgð foreldra._
  □ Foreldrar bera ábyrgð á námi barna sinna og ber þeim að fylgjast með námsframvindu þeirra í samvinnu við þau og kennara þeirra. Foreldrar skólaskylds barns bera ábyrgð á að það innritist í skóla þegar það kemst á skólaskyldualdur og sæki skóla. Verði misbrestur á skólasókn skólaskylds barns, án þess að veikindi eða aðrar gildar ástæður hamli, skal skólastjóri leita lausna og taka ákvörðun um úrbætur. Jafnframt skal hann tilkynna barnaverndaryfirvöldum um málið. Skólastjóri skal fara að ákvæðum stjórnsýslulaga við meðferð málsins. Ákvörðun er kæranleg eftir fyrirmælum 47. gr.
  □ Í úrskurði getur menntamálaráðuneyti lagt fyrir sveitarfélag að tryggja nemanda tiltekin kennsluúrræði, þ.m.t. að veita honum aðgang að tilteknum skóla innan sveitarfélagsins.
@@ -127,7 +127,7 @@ h2. Lög um grunnskóla
  □ Sveitarstjórn getur í samráði við skólastjóra ráðstafað skólahúsnæði öllu eða hluta þess til annarrar starfsemi svo fremi sem það raskar ekki lögbundinni notkun húsnæðisins.
 ■ *22. gr.* _Skólaakstur._
  □ Sveitarfélög bera ábyrgð á skipulagi skólaaksturs þar sem hann á við og standa straum af kostnaðinum. Ráðherra setur nánari reglur[^1)^] um tilhögun skólaaksturs í samráði við Samband íslenskra sveitarfélaga. Skólaakstur skal vera nemendum að kostnaðarlausu.
-    _[^1)^]Rgl. 656/2009_.
+    _[^1)^]Rgl. 656/2009_, sbr. 882/2009.
  ■ *23. gr.* _Skólamálsverðir._
  □ Í grunnskóla skulu nemendur eiga kost á málsverði á skólatíma í samræmi við opinber manneldismarkmið. Sveitarfélögum er heimilt að taka gjald fyrir skólamáltíðir samkvæmt sérstakri gjaldskrá sem þau setja.
  □ Gjaldskrárákvarðanir samkvæmt þessari grein eru kæranlegar eftir fyrirmælum 47. gr.
@@ -163,8 +163,9 @@ h2. Lög um grunnskóla
  □ Mat á árangri og framförum nemenda er reglubundinn þáttur í skólastarfi. Tilgangur þess er að fylgjast með því hvernig nemendum tekst að mæta markmiðum aðalnámskrár og ná námsmarkmiðum sínum, örva nemendur til framfara og meta hverjir þurfa á sérstakri aðstoð að halda. Nánari ákvæði um námsmat skulu sett í aðalnámskrá grunnskóla.
  □ Óheimilt er að veita upplýsingar um vitnisburði einstakra nemenda öðrum en þeim sjálfum og foreldrum þeirra. Þó er heimilt að veita þessar upplýsingar vegna flutnings nemenda milli skóla og innritunar í framhaldsskóla, enda sé krafist fullrar þagnarskyldu og málsmeðferðar í samræmi við gildandi lög um persónuvernd og meðferð persónuupplýsinga.
  □ Nemendur og foreldrar þeirra eiga rétt á upplýsingum um niðurstöður mats, matsaðferðir og matstæki, þar með talið að skoða metin verkefni og prófúrlausnir. Þeir eiga jafnframt rétt á munnlegum skýringum á námsmati og að niðurstaða námsmats sæti endurskoðun innan grunnskólans. Slík endurskoðun telst ekki ígildi stjórnsýslukæru í skilningi stjórnsýslulaga.
- □ Ráðherra setur nánari ákvæði í reglugerð um meðferð niðurstöðu námsmats í grunnskólum og miðlun upplýsinga um námsmat vegna flutnings nemenda milli skóla og innritunar í framhaldsskóla og um rétt foreldra til þess að fá vitneskju um slíkar upplýsingar.
-■ *28. gr.* _Starfstími._
+ □ Ráðherra setur nánari ákvæði í reglugerð[^1)^] um meðferð niðurstöðu námsmats í grunnskólum og miðlun upplýsinga um námsmat vegna flutnings nemenda milli skóla og innritunar í framhaldsskóla og um rétt foreldra til þess að fá vitneskju um slíkar upplýsingar.
+    _[^1)^]Rg. 897/2009_.
+ ■ *28. gr.* _Starfstími._
  □ Starfstími nemenda í grunnskóla skal á hverju skólaári vera að lágmarki níu mánuðir. Skóladagar nemenda skulu eigi vera færri en 180. Skipting milli kennsludaga og annarra skóladaga nemenda er á ábyrgð skólastjóra að höfðu samráði við skólaráð og að fenginni staðfestingu skólanefndar.
  □ Vikulegur kennslutími hvers nemanda í grunnskóla skal að lágmarki vera:
     a. 1.200 mínútur í 1. - 4. bekk,
@@ -242,8 +243,9 @@ h2. Lög um grunnskóla
 ■ *43. gr.* _Viðurkenning grunnskóla sem reknir eru af öðrum en sveitarfélögum._
  □ Ráðherra er heimilt að viðurkenna grunnskóla eða hluta grunnskóla, sbr. 1. gr., sem reknir eru af öðrum en sveitarfélögum í formi sjálfseignarstofnunar eða hlutafélags eða samkvæmt öðru viðurkenndu rekstrarformi, enda liggi fyrir samþykki sveitarfélags um stofnun skólans. Heimilt er að binda samþykki sveitarfélags við ákveðinn hámarksfjölda nemenda. Um slíka grunnskóla gilda sömu lög og reglur og um grunnskóla skv. 1. gr., eftir því sem við á. Þar á meðal skal af hálfu viðkomandi skóla fylgt ákvæðum stjórnsýslulaga við töku ákvarðana sem kæranlegar eru skv. 47. gr. Það á þó ekki við um ákvarðanir um gjaldtöku.
  □ Grunnskólar sem hljóta viðurkenningu skv. 1. mgr. eiga rétt á framlagi úr sveitarsjóði til starfsemi sinnar vegna nemenda sem hafa lögheimili í því sveitarfélagi sem skólinn starfar í. Skal framlagið nema að lágmarki 75% af vegnu meðaltali heildarrekstrarkostnaðar allra grunnskóla sem reknir eru af sveitarfélögum í landinu á hvern nemanda samkvæmt árlegum útreikningi Hagstofu Íslands. Gildir þetta hlutfall fyrir skóla með allt að 200 nemendur, en framlagið skal vera að lágmarki 70% fyrir hvern nemanda umfram þann fjölda. Útreikningur Hagstofu Íslands á kostnaði samkvæmt þessari málsgrein skal taka mið af verðlagsbreytingum.
- □ Ráðherra er heimilt að setja reglugerð um framkvæmd þessarar greinar í samráði við Samband íslenskra sveitarfélaga og Hagstofu Íslands. Í reglugerð skal m.a. kveðið nánar á um skilyrði fyrir viðurkenningu, hvernig staðið verði að veitingu hennar, upplýsingagjöf til sveitarfélaga og ráðuneytis, eftirlit með starfsemi og afturköllun viðurkenningar.
-■ *44. gr.* _Þróunarskólar._
+ □ Ráðherra er heimilt að setja reglugerð[^1)^] um framkvæmd þessarar greinar í samráði við Samband íslenskra sveitarfélaga og Hagstofu Íslands. Í reglugerð skal m.a. kveðið nánar á um skilyrði fyrir viðurkenningu, hvernig staðið verði að veitingu hennar, upplýsingagjöf til sveitarfélaga og ráðuneytis, eftirlit með starfsemi og afturköllun viðurkenningar.
+    _[^1)^]Rg. 980/2009_.
+ ■ *44. gr.* _Þróunarskólar._
  □ Ráðherra getur veitt sveitarfélögum og sjálfstætt reknum grunnskólum heimild til að reka þróunarskóla eða gera tilraunir með ákveðna þætti skólastarfs með undanþágu frá ákvæðum laga þessara, reglugerða settra á grundvelli þeirra og aðalnámskrár grunnskóla. Slíkum tilraunum skulu ávallt sett eðlileg tímamörk og kveðið á um úttekt að tilraun lokinni.
  □ Heimilt er að styrkja þróunarskóla og sérstakar nýjungar eftir því sem fjárlög heimila hverju sinni.
 ■ *45. gr.* _Samrekstur._
@@ -272,7 +274,7 @@ h2. Lög um grunnskóla
  □ Þrátt fyrir ákvæði 1. mgr. er heimilt að ákveða að framlög vegna námsleyfa kennara og skólastjórnenda renni í sérstakan sjóð sem sveitarfélög og viðsemjendur þeirra hafa samið um í kjarasamningum. Jafnframt má ákveða að fjármunum sem ákveðnir eru í fjárlögum til símenntunar kennara og skólastjóra verði ráðstafað með sama hætti.
  □ Nú hafa sveitarfélög og viðsemjendur þeirra komið á fót sjóði, sbr. 2. mgr., og skal ráðherra þá birta auglýsingu í B-deild Stjórnartíðinda um að hann komi í stað sjóðs skv. 1. mgr.
  ■ *III.* Reglugerðir, auglýsingar og önnur fyrirmæli sett samkvæmt "lögum nr. 66/1995":1995066.html, með síðari breytingum, skulu halda gildi sínu að svo miklu leyti sem þau stangast ekki á við lög þessi þar til nýjar reglugerðir, auglýsingar eða önnur fyrirmæli hafa öðlast gildi.[^1)^]
-    _[^1)^]Sjá nú rg. 349/1995, rg. 386/1996, sbr. 905/2003; rg. 387/1996, rg. 388/1996, rg. 389/1996, rg. 391/1996, augl. 437/1996, rg. 709/1996, rg. 710/1996, augl. 163/1999, rg. 220/1999, rg. 270/2000, sjá og augl. 793/2000; augl. 1111/2006 og rg. 320/2007._
+    _[^1)^]Sjá nú rg. 349/1995, rg. 386/1996, sbr. 905/2003; rg. 387/1996, rg. 388/1996, rg. 389/1996, rg. 391/1996, augl. 437/1996, rg. 709/1996, rg. 710/1996, augl. 163/1999, rg. 220/1999, rg. 270/2000, sjá og augl. 793/2000; og augl. 1111/2006._
  ■ *IV.* Skólanefndir sem kosnar hafa verið samkvæmt "lögum nr. 66/1995":1995066.html, um grunnskóla, halda umboði sínu.
  ■ *V.* ...[^1)^]
     _[^1)^]L. 34/2009, 1. gr._

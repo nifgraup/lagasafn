@@ -229,14 +229,14 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
     [7. ef miðlun er nauðsynleg eða fyrirskipuð samkvæmt lögum vegna þess að brýnir almannahagsmunir krefjast þess eða til að unnt sé að stofna, hafa uppi eða verja réttarkröfur, eða
     8. um sé að ræða upplýsingar sem almennur aðgangur er að].[^1)^]
  □ Persónuvernd getur heimilað flutning upplýsinga til ríkis er greinir í 1. mgr. telji hún sérstök rök mæla með því, jafnvel þótt skilyrðum ákvæðisins sé ekki fullnægt. Í slíku tilviki skal m.a. taka tillit til eðlis upplýsinganna, fyrirhugaðs tilgangs vinnslunnar og hve lengi hún varir. [Persónuvernd getur heimilað miðlun persónuupplýsinga til þriðju landa þótt þau hafi ekki verið talin veita friðhelgi borgaranna nægilega einkalífsvernd. Slíkt er háð því að ábyrgðaraðili hafi, að mati stofnunarinnar, veitt nægilegar tryggingar fyrir slíku. Getur stofnunin t.d. áskilið að ábyrgðaraðili hafi gert við viðtökuaðila skriflegan samning sem hafi að geyma tiltekin stöðluð samningsákvæði í samræmi við ákvörðun sem Persónuvernd hefur auglýst í Stjórnartíðindum, að teknu tilliti til ákvarðana framkvæmdastjórnar Evrópubandalagsins, sbr. 2. mgr. 29. gr. laga þessara. Að öðru leyti getur Persónuvernd sett nánari fyrirmæli[^2)^] um flutning persónuupplýsinga úr landi.][^1)^]
-    _[^1)^]L. 90/2001, 10. gr._ [^2)^]Rgl. 712/2008. Rgl. 1100/2008.
+    _[^1)^]L. 90/2001, 10. gr._ [^2)^]Rgl. 712/2008, sbr. rgl. 927/2009. Rgl. 1100/2008.
 
  *VI. kafli.* *Tilkynningarskylda, leyfisskylda o.fl.*
  ■ *31. gr.* _Tilkynningarskylda._
  □ Sérhver ábyrgðaraðili sem beitir rafrænni tækni við vinnslu persónuupplýsinga, sbr. 8. gr. og 1. mgr. 9. gr., skal á þar til gerðu formi tilkynna Persónuvernd um vinnsluna tímanlega áður en hún hefst. Tilkynna skal allar breytingar sem verða frá því sem greinir í upphaflegri tilkynningu.
  □ Tilkynningarskyldan á ekki við ef einungis er unnið með upplýsingar sem gerðar hafa verið og eru aðgengilegar almenningi.
  □ Persónuvernd getur ákveðið[^1)^] að vissar tegundir vinnslu almennra upplýsinga skuli vera undanþegnar tilkynningarskyldu eða að um þær gildi einfaldari tilkynningarskylda. Persónuvernd getur jafnframt ákveðið[^1)^] að vissar tegundir vinnslu skuli vera leyfisskyldar. Um vinnslu sem undanþegin er tilkynningarskyldu getur Persónuvernd sett fyrirmæli, þar á meðal um þau atriði sem talin eru í 2. mgr. 35. gr. Persónuvernd getur einnig mælt fyrir um ráðstafanir til að draga úr óhagræði sem slík vinnsla persónuupplýsinga kann að hafa í för með sér fyrir hinn skráða.
-    _[^1)^]Rgl. 712/2008_.
+    _[^1)^]Rgl. 712/2008_, sbr. rgl. 927/2009.
  ■ *32. gr.* _Efni tilkynninga._
  □ Í tilkynningu til Persónuverndar skv. 31. gr. skal tilgreina eftirfarandi atriði:
     1. nafn og heimilisfang ábyrgðaraðila og eftir atvikum fulltrúa hans, sbr. 6. gr.;
@@ -253,10 +253,10 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
     [12. hvernig uppfyllt séu fyrirmæli 20. og 21. gr.][^1)^]
  □ Persónuvernd getur sett nánari fyrirmæli[^2)^] um form og efni tilkynninga og um framkvæmd tilkynningarskyldunnar að öðru leyti.
  □ Ábyrgðaraðili skal sjá til þess að Persónuvernd hafi á hverjum tíma undir höndum réttar upplýsingar um vinnsluna. Þegar liðin eru þrjú ár frá því að tilkynning var send Persónuvernd skal senda henni nýja tilkynningu með uppfærðum upplýsingum nema henni hafi áður verið tilkynnt um breytta vinnslu. Persónuvernd getur mælt fyrir um ráðstafanir til að tryggja gæði og áreiðanleika tilkynninga og ákveðið mismunandi tilkynningarfrest eftir tegund og eðli vinnslu.[^3)^]
-    _[^1)^]L. 81/2002, 4. gr._ [^2)^]Rgl. 712/2008. [^3)^]Rgl. 1100/2008.
+    _[^1)^]L. 81/2002, 4. gr._ [^2)^]Rgl. 712/2008, sbr. rgl. 927/2009. [^3)^]Rgl. 1100/2008.
  ■ *33. gr.* _Leyfisskyld vinnsla._
  □ Sé um að ræða vinnslu almennra eða viðkvæmra persónuupplýsinga sem getur falið í sér sérstaka hættu á að farið verði í bága við réttindi og frelsi skráðra aðila getur Persónuvernd ákveðið[^1)^] að vinnslan megi ekki hefjast fyrr en hún hefur verið athuguð af stofnuninni og samþykkt með útgáfu sérstakrar heimildar. Persónuvernd getur ákveðið[^2)^] að slík leyfisskylda falli brott þegar settar hafa verið almennar reglur og öryggisstaðlar sem fylgja skuli við slíka vinnslu.
-    _[^1)^]Rgl. 712/2008_. [^2)^]Rgl. 170/2001, sbr. rgl. 157/2003. Rgl. 1100/2008.
+    _[^1)^]Rgl. 712/2008_, sbr. rgl. 927/2009. [^2)^]Rgl. 170/2001, sbr. rgl. 157/2003. Rgl. 1100/2008.
  ■ *34. gr.* _Forsendur leyfisveitingar o.fl._
  □ Ábyrgðaraðila má aðeins veita leyfi skv. 33. gr., eða einstakar aðrar heimildir samkvæmt lögum þessum, ef líklegt er að hann geti fullnægt skyldum sínum samkvæmt lögunum eða fyrirmælum Persónuverndar.
  □ Við afgreiðslu mála er tengjast vinnslu viðkvæmra persónuupplýsinga skal Persónuvernd, innan þeirra marka sem greinir í II. kafla laganna, meta hvort vinnslan geti valdið hinum skráða slíku óhagræði að ekki verði úr því bætt með forsvaranlegum hætti með skilyrðum sem sett eru skv. 35. gr. Ef slíkt óhagræði getur orðið skal Persónuvernd meta hvort hagsmunir sem mæla með vinnslunni vegi þyngra en hagsmunir hins skráða.
