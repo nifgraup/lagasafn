@@ -7,7 +7,7 @@ h2. Lög um ábyrgðarmenn
 <hr />
 
 
- *Tóku gildi 4. apríl 2009.* _Breytt með_ l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010).
+ *Tóku gildi 4. apríl 2009.* _Breytt með_ l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og "l. 101/2010":2010101.html (tóku gildi 1. ágúst 2010).
 
 
  *I. kafli.* *Markmið, gildissvið og framsal.*
@@ -54,10 +54,11 @@ h2. Lög um ábyrgðarmenn
  *IV. kafli.* *Takmarkanir á ábyrgð.*
 ■ *9. gr.* Hafi lánveitandi keypt tryggingu vegna hugsanlegs greiðslufalls lántaka og greiðsluskylda fellur til samkvæmt skilmálum tryggingar takmarkar sú greiðsla ábyrgð ábyrgðarmanns sem nemur þeirri fjárhæð sem greidd er inn á lánið.
  □ Ef lánveitandi vanrækir að lýsa kröfu í gjaldþrota- eða dánarbú lántaka lækkar krafa á hendur ábyrgðarmanni sem nemur þeirri fjárhæð sem ella hefði fengist greidd úr þrota- eða dánarbúi lántaka.
- □ Þrátt fyrir ákvæði 4. mgr. 60. gr. laga um gjaldþrotaskipti o.fl. skal nauðasamningur eða önnur eftirgjöf, þ.m.t. nauðasamningur til greiðsluaðlögunar, sem kveður á um lækkun kröfu á hendur lántaka hafa sömu áhrif til lækkunar kröfu á hendur ábyrgðarmanni.
+ □ [Þrátt fyrir ákvæði 4. mgr. 60. gr. laga um gjaldþrotaskipti o.fl. skal nauðasamningur eða önnur eftirgjöf, þ.m.t. nauðasamningur til greiðsluaðlögunar og samningur um greiðsluaðlögun, sem kveður á um lækkun kröfu á hendur lántaka eða aðalskuldara hafa sömu áhrif til lækkunar kröfu á hendur ábyrgðarmanni.][^1)^]
+    _[^1)^]_"L. 101/2010, 36. gr.":2010101.html#g36
 
  *V. kafli.* *Brottfall ábyrgðar eða annarra tryggingarráðstafana.*
-■ *10. gr.* Ábyrgðarmaður verður ekki skuldbundinn af ábyrgðarsamningi hafi lántaki aldrei orðið skuldbundinn til að inna greiðslu af hendi samkvæmt samningi við lánveitanda.
+ ■ *10. gr.* Ábyrgðarmaður verður ekki skuldbundinn af ábyrgðarsamningi hafi lántaki aldrei orðið skuldbundinn til að inna greiðslu af hendi samkvæmt samningi við lánveitanda.
  □ Ef lánveitandi samþykkir að veð eða aðrar tryggingarráðstafanir sem gerðar voru til að tryggja efndir samnings skuli ekki lengur standa til tryggingar, og breytingin hefur í för með sér að staða ábyrgðarmanns er þá mun verri en hún var, er ábyrgðarmaður ekki lengur bundinn af samningi sínum.
 
  *VI. kafli.* *Reglugerðarheimild.*

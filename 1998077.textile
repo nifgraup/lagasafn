@@ -7,7 +7,7 @@ h2. Lög um lögmenn
 <hr />
 
 
- *Tóku gildi 1. janúar 1999.* _Breytt með_ l. 36/1999 (tóku gildi 1. maí 1999), l. 93/2004 (tóku gildi 1. nóv. 2004; _EES-samningurinn:_ VII. viðauki tilskipun 77/249/EBE og 98/5/EB), l. 33/2007 (tóku gildi 30. mars 2007), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og "l. 95/2008":2008095.html (tóku gildi 1. jan. 2009).
+ *Tóku gildi 1. janúar 1999.* _Breytt með_ l. 36/1999 (tóku gildi 1. maí 1999), l. 93/2004 (tóku gildi 1. nóv. 2004; _EES-samningurinn:_ VII. viðauki tilskipun 77/249/EBE og 98/5/EB), l. 33/2007 (tóku gildi 30. mars 2007), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 95/2008":2008095.html (tóku gildi 1. jan. 2009) og l. 60/2010 (tóku gildi 19. júní 2010).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -121,8 +121,12 @@ h2. Lög um lögmenn
     _[^1)^]Rg. 1192/2005_. [^2)^]L. 93/2004, 14. gr.
  ■ *24. gr.* Lögmanni er rétt að áskilja sér hæfilegt endurgjald fyrir störf sín og skal umbjóðanda hans eftir því sem unnt er gert ljóst hvert það gæti orðið í heild sinni. Þar á meðal getur lögmaður áskilið sér hluta af þeirri fjárhæð sem umbjóðandi fær greitt í máli, svo og hærra endurgjald ef mál vinnst en ef það tapast.
  □ Loforð um ósanngjarnt endurgjald fyrir starf lögmanns bindur ekki umbjóðanda hans.
- □ ...[^1)^]
-    _[^1)^]_"L. 95/2008, 22. gr.":2008095.html#g22
+ □ [Dómsmálaráðherra skal að fenginni umsögn Lögmannafélags Íslands gefa út leiðbeiningar handa lögmönnum um endurgjald sem þeim sé hæfilegt að áskilja umbjóðendum sínum úr hendi skuldara vegna kostnaðar af löginnheimtu peningakröfu, sbr. 24. gr. a. Lögmönnum er óheimilt að nota leiðbeiningar þessar í öðrum tilgangi.][^1)^]
+ □ ...[^2)^]
+    _[^1)^]L. 60/2010, 6. gr._ [^2)^]"L. 95/2008, 22. gr.":2008095.html#g22
+ ■ *[24. gr. a.* Lögmenn annast löginnheimtu. Með löginnheimtu er átt við innheimtumeðferð á grundvelli réttarfarslaga og markast upphaf hennar við aðgerðir sem byggðar eru á "lögum um aðför, nr. 90/1989":1989090.html, lögum um kyrrsetningu, lögbann o."fl., nr. 31/1990":1990031.html, "lögum um nauðungarsölu, nr. 90/1991":1991090.html, "lögum um meðferð einkamála, nr. 91/1991":1991091.html, lögum um gjaldþrotaskipti o."fl., nr. 21/1991":1991021.html, og lögum um skipti á dánarbúum o."fl., nr. 20/1991":1991020.html, eða tilkynningum sem samrýmast góðum lögmannsháttum.
+ □ Við löginnheimtu skv. 1. mgr. er lögmanni óheimilt að áskilja sér endurgjald skv. 3. mgr. 24. gr. af þeim hluta kröfu sem fallinn er í gjalddaga vegna gjaldfellingar eftirstöðva skuldar sökum vanefnda á greiðslu afborgunar eða vaxta.][^1)^]
+    _[^1)^]L. 60/2010, 7. gr._
  ■ *25. gr.* Lögmaður ber bótaábyrgð á störfum sínum og starfsmanna sinna eftir almennum reglum.
  □ Lögmönnum er skylt að hafa í gildi ábyrgðartryggingu[^1)^] hjá vátryggingafélagi sem hefur starfsleyfi hér á landi vegna fjárhagstjóns sem leitt getur af gáleysi í störfum þeirra eða starfsmanna þeirra. Að fengnum tillögum Lögmannafélags Íslands getur dómsmálaráðherra ákveðið með reglugerð að önnur jafngild trygging geti komið í stað ábyrgðartryggingar.
  □ Dómsmálaráðherra skal að fengnum tillögum Lögmannafélags Íslands og umsögn Fjármálaeftirlitsins ákveða lágmark fjárhæðar ábyrgðartryggingar skv. 2. mgr. og hámark eigin áhættu vátryggingartaka. Skal þá höfð hliðsjón af góðum venjum á sviði vátrygginga og hagsmunum viðskiptamanna lögmanna. Sjálfsáhætta vátryggingartaka samkvæmt tryggingarskilmálum hefur engin áhrif á stöðu þriðja manns.

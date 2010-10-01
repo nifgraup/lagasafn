@@ -37,7 +37,7 @@ h2. Lög um miðlun vátrygginga
     9. _Eftirlitsstjórnvöld:_ aðili sem samkvæmt lögum hlutaðeigandi ríkis fer með eftirlit með vátryggingamiðlurum, vátryggingafélögum og vátryggingastarfsemi, hér á landi Fjármálaeftirlitið.
     10. _Varanlegur miðill:_ tæki sem gerir viðskiptamanni kleift að geyma upplýsingar, sem beint er til hans, óbreyttar þannig að hann geti afritað þær og flett upp í þeim í ákveðinn tíma.
     11. _Virkur eignarhlutur:_ bein eða óbein hlutdeild í félagi sem nemur 10% eða meira af eigin fé eða atkvæðisrétti eða önnur hlutdeild sem gerir kleift að hafa veruleg áhrif á stjórn viðkomandi félags.
-    12. _Stóráhætta:_ greinaflokkar vátrygginga er tengjast atvinnurekstri og stærri fyrirtækjum sérstaklega, sbr. "7. gr. laga nr. 60/1994":1994060.html#g7, um vátryggingastarfsemi, með síðari breytingum.
+    12. _Stóráhætta:_ greinaflokkar vátrygginga er tengjast atvinnurekstri og stærri fyrirtækjum sérstaklega, sbr. "7. gr. laga nr. 60/1994":1994060.html, um vátryggingastarfsemi, með síðari breytingum.
  ■ *4. gr.* _Starfsemi undanþegin lögunum._
  □ Lögin taka ekki til:
     1. starfsemi vátryggingafélaga og starfsmanna þeirra, nema annars sé getið,

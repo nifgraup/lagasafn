@@ -286,7 +286,7 @@ h2. Lög um fjarskipti
     j. Gjaldtöku fyrir móttöku talhólfsskilaboða í reikiþjónustu.
     k. Skyldu fjarskiptafyrirtækja til að veita reikiviðskiptavinum sínum persónubundnar upplýsingar um verð og annað tengt gagnaflutningsþjónustu í reiki.
     l. Skyldu fjarskiptafyrirtækja til að gera reikiviðskiptavinum sínum kleift að fylgjast með gagnaflutningsnotkun sinni á grundvelli verðs og magns og veita þeim kost á að velja efstu mörk fyrir slíka þjónustu yfir ákveðið tímabil.][^1)^]][^3)^]
-    _[^1)^]L. 145/2009, 3. gr._ [^2)^]Rg. 1046/2008. [^3)^]L. 118/2008, 3. gr.
+    _[^1)^]L. 145/2009, 3. gr._ [^2)^]Rg. 1046/2008, sbr. 183/2010. [^3)^]L. 118/2008, 3. gr.
  ■ *36. gr.* _Aðskilnaður sérleyfisstarfsemi frá fjarskiptastarfsemi._
  □ Fjarskiptafyrirtæki eða fyrirtækjasamstæður sem reka almenn fjarskiptanet eða veita almenna fjarskiptaþjónustu og njóta einka- eða sérréttinda á öðru sviði en fjarskiptum skulu halda fjarskiptastarfsemi sinni fjárhagslega aðskilinni frá annarri starfsemi eins og um óskyld fyrirtæki væri að ræða. Skal þess gætt að samkeppnisrekstur sé ekki niðurgreiddur af einkaleyfisstarfsemi eða verndaðri starfsemi.
  □ Ákvæði þetta gildir án tillits til [markaðsstyrks][^1)^] fyrirtækis.
@@ -308,7 +308,7 @@ h2. Lög um fjarskipti
  □ Fjarskiptafyrirtæki skulu birta viðskiptaskilmála og gjaldskrá fyrir alla þjónustu sína á aðgengilegan hátt.
  □ [Fjarskiptafyrirtæki sem býður internetþjónustu er skylt að gera áskrifendum sínum, þeim að kostnaðarlausu og ef þeir þess óska, sýnilegt hvenær þeir eru að greiða fyrir gagnaflutning erlendis frá.][^3)^]
  □ [Fjarskiptafyrirtækjum er skylt að upplýsa notendur sína um þann kostnað sem hlýst af því að hringja úr tal- og farsímaneti þeirra í net annarra fjarskiptafyrirtækja hér á landi. Slíkar upplýsingar skulu uppfærðar eins og þörf krefur.][^4)^]
-    _[^1)^]Rgl. 949/2008_. [^2)^]L. 39/2007, 4. gr. [^3)^]L. 78/2005, 6. gr. [^4)^]L. 118/2008, 4. gr.
+    _[^1)^]Rgl. 617/2010_. [^2)^]L. 39/2007, 4. gr. [^3)^]L. 78/2005, 6. gr. [^4)^]L. 118/2008, 4. gr.
  ■ *38. gr.* _Reikningar áskrifenda o.fl._
  □ Áskrifendur [tal- og farsímaþjónustu][^1)^] eiga rétt á að fá reikninga fyrir fjarskiptanotkun sína sundurliðaða ...[^2)^] og skulu áskrifendur alþjónustu eiga rétt á slíkum reikningum án þess að greiðsla komi fyrir.
  □ Fjarskiptafyrirtækjum er heimilt að bjóða áskrifendum ítarlegri reikninga gegn hæfilegu gjaldi.
@@ -323,16 +323,16 @@ h2. Lög um fjarskipti
  ■ *40. gr.* _Ábyrgðartakmarkanir._
  □ Fjarskiptafyrirtækjum er heimilt í viðskiptaskilmálum sínum að undanþiggja sig bótaábyrgð á tjóni sem rekja má til sambandsleysis, rofs á fjarskiptum eða annarra truflana sem kunna að verða á rekstri fjarskiptanetsins hvort sem slíkt má rekja til línubilana, bilana í stöðvum eða annarra ástæðna. Ábyrgðartakmörkun er þó bundin við að tjónið verði ekki rakið til stórfelldra mistaka starfsmanna fyrirtækisins.
 ■ *41. gr.* _Gæði þjónustu._
- □ Póst- og fjarskiptastofnun getur gefið út reglur um gæði fjarskiptaþjónustu og framsetningu upplýsinga sem birtar eru svo að notendur hafi aðgang að ítarlegum, samanburðarhæfum og auðskiljanlegum upplýsingum.
- □ [Fjarskiptafyrirtæki skulu viðhafa ráðstafanir til að stuðla að bættri vernd, virkni og gæðum IP-fjarskiptaþjónustu. Er Póst- og fjarskiptastofnun heimilt að setja reglur[^1)^] um slíkar ráðstafanir þar sem nánar er mælt fyrir um:
+ □ Póst- og fjarskiptastofnun getur gefið út reglur[^1)^] um gæði fjarskiptaþjónustu og framsetningu upplýsinga sem birtar eru svo að notendur hafi aðgang að ítarlegum, samanburðarhæfum og auðskiljanlegum upplýsingum.
+ □ [Fjarskiptafyrirtæki skulu viðhafa ráðstafanir til að stuðla að bættri vernd, virkni og gæðum IP-fjarskiptaþjónustu. Er Póst- og fjarskiptastofnun heimilt að setja reglur[^2)^] um slíkar ráðstafanir þar sem nánar er mælt fyrir um:
     a. lágmarksgrunnþjónustu og mismunandi þjónustustig,
     b. ákvæði í þjónustusamningum,
     c. leiðir er auðvelda mat á gæðum þjónustunnar og verðsamanburð,
     d. viðeigandi ráðstafanir í tölvupóstþjónustu og annarri IP-fjarskiptaþjónustu,
     e. vernd og stjórnun IP-fjarskiptaneta og IP-umferðar,
     f. vernd notendatenginga,
-    g. ferli við meðhöndlun öryggisatvika og umbætur.][^2)^]
-    _[^1)^]Rgl. 1223/2007_. [^2)^]L. 39/2007, 6. gr.
+    g. ferli við meðhöndlun öryggisatvika og umbætur.][^3)^]
+    _[^1)^]Rgl. 220/2010_. [^2)^]Rgl. 1223/2007. [^3)^]L. 39/2007, 6. gr.
 
  *IX. kafli.* *Vernd persónuupplýsinga og friðhelgi einkalífs.*
  ■ *42. gr.* _Gögn um fjarskipti._
@@ -408,18 +408,18 @@ h2. Lög um fjarskipti
  □ Fjarskiptafyrirtæki sem falin hefur verið alþjónusta skulu að beiðni áskrifanda læsa fyrir ákveðnar tegundir símtala eða fyrir símtöl í ákveðnar númeraraðir, honum að kostnaðarlausu.
 ■ *51. gr.* _Númerabirting._
  □ Fjarskiptafyrirtæki sem reka almenna [tal- og farsímaþjónustu][^1)^] skulu bjóða notendum númerabirtingu í samræmi við ákvæði laga um persónuvernd. Póst- og fjarskiptastofnun skal setja reglur[^2)^] um fyrirkomulag númerabirtingar.
-    _[^1)^]L. 118/2008, 7. gr._ [^2)^]Rgl. 629/2008, sbr. 1068/2008.
+    _[^1)^]L. 118/2008, 7. gr._ [^2)^]Rgl. 629/2008, sbr. rgl. 1068/2008 og rgl. 463/2010.
  ■ *52. gr.* _Númeraflutningur._
  □ Notendum almennrar talsímaþjónustu, að meðtalinni farsímaþjónustu, skal vera unnt að halda símanúmerum sínum óháð því hvaða fjarskiptafyrirtæki veitir þjónustuna. Þetta gildir þó ekki um númeraflutning milli fastaneta og farsímaneta.
  □ Póst- og fjarskiptastofnun skal tryggja að gjöld fyrir númeraflutning taki mið af kostnaði ásamt hæfilegri álagningu.
  □ Póst- og fjarskiptastofnun getur sett nánari reglur[^1)^] um númeraflutning og tímasetningar í því sambandi og sker úr ágreiningi um framkvæmd hans.
-    _[^1)^]Rgl. 949/2008_.
+    _[^1)^]Rgl. 617/2010_.
  ■ *53. gr.* _Forval og fast forval._
  □ Fyrirtæki sem hafa [umtalsverðan markaðsstyrk][^1)^] í tengingum við almenna fasta talsímanetið skulu gera áskrifendum sínum mögulegt að fá aðgang að þjónustu allra samtengdra fyrirtækja sem veita almenna talsímaþjónustu. Fyrirkomulag þessa aðgangs getur verið annaðhvort þannig að notandi velji forskeyti á undan hverju símtali eða með föstu forvali sem hægt er að fara fram hjá í einstökum símtölum með því að velja forskeyti.
  □ Þörf notenda fyrir forval eða fast forval í öðrum netum eða á annan hátt en skv. 1. mgr. skal Póst- og fjarskiptastofnun meta á grundvelli markaðsgreiningar. Ef niðurstaða markaðsgreiningar er sú að samkeppni sé ekki virk getur stofnunin lagt á kvaðir í samræmi við 27. gr.
  □ Póst- og fjarskiptastofnun skal tryggja að gjöld fyrir aðgang og samtengingu sem tengjast framboði á forvali og föstu forvali taki mið af kostnaði ásamt hæfilegri álagningu.
  □ Póst- og fjarskiptastofnun er heimilt að setja reglur[^2)^] um forval og fast forval.
-    _[^1)^]L. 78/2005, 12. gr._ [^2)^]Rgl. 280/2002.
+    _[^1)^]L. 78/2005, 12. gr._ [^2)^]Rgl. 655/2010.
  ■ *54. gr.* _Verndun talsímanetsins._
  □ Fyrirtæki sem bjóða [almenna tal- og farsímaþjónustu][^1)^] skulu gera nauðsynlegar ráðstafanir sem miða að því að [almenna tal- og farsímanetið og almenna tal- og farsímaþjónustan],[^1)^] þ.m.t. neyðarþjónusta, rofni ekki.
  □ Óheimilt er notendum að valda truflunum eða ónæði í [tal- eða farsímanetum].[^1)^]

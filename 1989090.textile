@@ -7,7 +7,7 @@ h2. Lög um aðför
 <hr />
 
 
- *Tóku gildi 1. júlí 1992.* _Breytt með_ "l. 19/1991":1991019.html (tóku gildi 1. júlí 1992 nema 1. og 3. mgr. 29. gr. sem tóku gildi 17. apríl 1991), "l. 90/1991":1991090.html (tóku gildi 1. júlí 1992), "l. 91/1991":1991091.html (tóku gildi 1. júlí 1992), l. 92/1991 (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992), "l. 90/1996":1996090.html (tóku gildi 1. júlí 1997), "l. 15/1998":1998015.html (tóku gildi 1. júlí 1998 nema 38. gr. sem tók gildi 3. apríl 1998), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 23/2009 (tóku gildi 31. mars 2009).
+ *Tóku gildi 1. júlí 1992.* _Breytt með_ "l. 19/1991":1991019.html (tóku gildi 1. júlí 1992 nema 1. og 3. mgr. 29. gr. sem tóku gildi 17. apríl 1991), "l. 90/1991":1991090.html (tóku gildi 1. júlí 1992), "l. 91/1991":1991091.html (tóku gildi 1. júlí 1992), l. 92/1991 (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992), "l. 90/1996":1996090.html (tóku gildi 1. júlí 1997), "l. 15/1998":1998015.html (tóku gildi 1. júlí 1998 nema 38. gr. sem tók gildi 3. apríl 1998), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 23/2009 (tóku gildi 31. mars 2009) og l. 95/2010 (tóku gildi 3. júlí 2010).
 
 
  *I. þáttur.* *Almenn skilyrði fyrir aðför.*
@@ -222,8 +222,12 @@ h2. Lög um aðför
  ■ *61. gr.* Að því leyti, sem lög þessi kveða ekki sérstaklega á um annað, fer um nauðsyn tryggingarráðstafana fyrir rétti samkvæmt fjárnámi og um stöðu þess réttar gagnvart öðrum réttindum eftir almennum reglum laga.
 
  *8. kafli.* *Árangurslaust fjárnám.*
-■ *62. gr.* Fjárnámi skal ekki lokið án árangurs, nema gerðarþoli hafi sjálfur verið staddur við gerðina eða málsvari hans, eða hann hvorki finnst né neinn, sem málstað hans getur tekið.
-■ *63. gr.* Ekki er rétt að fjárnámi sé lokið án árangurs, ef bent er á eign gerðarþola, sem að nokkru gæti nægt til tryggingar kröfunni, nema staðreynt hafi verið með virðingu skv. 2. eða 3. mgr. 38. gr. að hún nægi ekki til fullrar tryggingar.
+■ *62. gr.* [Eftir kröfu gerðarbeiðanda verður fjárnámi lokið án árangurs ef:
+    1. gerðarþoli eða málsvari hans er staddur við gerðina og lýsir yfir að hann eigi engar eignir eða ekki nægar til fullnustu kröfu, sbr. 63. gr.,
+    2. enginn mætir til gerðarinnar af hálfu gerðarþola þótt hann hafi sannanlega verið boðaður til hennar og engin vitneskja liggur fyrir um eign sem gera mætti fjárnám í, eða
+    3. gerðarþoli hvorki finnst né nokkur sem málstað hans getur tekið.][^1)^]
+    _[^1)^]L. 95/2010, 1. gr._
+ ■ *63. gr.* Ekki er rétt að fjárnámi sé lokið án árangurs, ef bent er á eign gerðarþola, sem að nokkru gæti nægt til tryggingar kröfunni, nema staðreynt hafi verið með virðingu skv. 2. eða 3. mgr. 38. gr. að hún nægi ekki til fullrar tryggingar.
 ■ *64. gr.* Ef gerðarbeiðandi rökstyður að ástæða geti verið til að ætla, að gerðarþoli eigi tiltekna eign, sem taka má fjárnámi, en það fæst ekki staðfest af hálfu gerðarþola og skilyrði eru að öðru leyti til að ljúka gerðinni án árangurs að nokkru eða öllu, er sýslumanni rétt að kröfu gerðarbeiðanda að kanna frekar hag gerðarþola með eftirfarandi hætti:
     1. með því að taka við skýrslum annarra en gerðarþola, sem veitt geta vitneskju um eignina og reiðubúnir eru til að gefa slíka skýrslu að ósk gerðarbeiðanda;
     2. með því að leita upplýsinga um eignina hjá opinberum stofnunum, öðrum stjórnvöldum, viðskiptabönkum eða sparisjóðum.
@@ -240,10 +244,11 @@ h2. Lög um aðför
     5. ef söluandvirði hins fjárnumda við nauðungarsölu eða aðra lögmæta ráðstöfun hefur ekki hrokkið til fullrar greiðslu kröfu gerðarbeiðanda;
     6. ef gerð hefur verið lokið án árangurs að einhverju leyti eða öllu og gerðarbeiðandi telur unnt að vísa á frekari eignir til fjárnáms.
 ■ *67. gr.* Fjárnámsgerð verður endurupptekin að kröfu gerðarþola vegna eftirfarandi atvika:
-    1. ef gerðarþoli hefur ekki verið við gerðina og fjárnám hefur verið gert í eign, sem óheimilt var að taka fjárnámi eða mátti undanþiggja;
+    1. ef gerðarþoli hefur ekki verið við gerðina og fjárnám hefur verið gert í eign, sem óheimilt var að taka fjárnámi eða mátti undanþiggja, [eða gerðinni hefur verið lokið án árangurs];[^1)^]
     2. ef fjárnám hefur að einhverju leyti eða öllu fallið niður vegna atvika, sem komið hafa til eftir að gerðin fór fram, eða vegna dómsúrlausnar, sem hnekkt hefur gildi aðfararheimildar að nokkru eða öllu, og gerðarþoli þykir hafa hagsmuni af að gerðin verði endurupptekin af þeim sökum.
  □ Þriðja manni, sem telur fjárnámsgerð fara í bága við rétt sinn, er heimilt að krefjast endurupptöku fjárnámsgerðar, hafi hann ekki átt þess kost að koma mótmælum fram gegn gerðinni, meðan á henni stóð.
-■ *68. gr.* Beiðni um endurupptöku skal beint til þess sýslumanns, sem lauk fjárnámsgerð.
+    _[^1)^]L. 95/2010, 2. gr._
+ ■ *68. gr.* Beiðni um endurupptöku skal beint til þess sýslumanns, sem lauk fjárnámsgerð.
  □ Við endurupptöku skal farið eftir þeim reglum, sem gilda um framkvæmd fjárnámsgerðar, eftir því sem við getur átt.
  □ Sýslumaður er óbundinn af fyrri ákvörðunum sínum, að því leyti, sem þær geta komið til endurskoðunar við endurupptöku.
 

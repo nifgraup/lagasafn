@@ -7,7 +7,7 @@ h2. Lög um framhaldsskóla
 <hr />
 
 
- *Tóku gildi 1. ágúst 2008.* _Breytt með_ "l. 35/2009":2009035.html (tóku gildi 8. apríl 2009), l. 89/2009 (tóku gildi 20. ágúst 2009) og l. 133/2009 (tóku gildi 30. des. 2009).
+ *Tóku gildi 1. ágúst 2008.* _Breytt með_ "l. 35/2009":2009035.html (tóku gildi 8. apríl 2009), l. 89/2009 (tóku gildi 20. ágúst 2009), l. 133/2009 (tóku gildi 30. des. 2009) og l. 71/2010 (tóku gildi 25. júní 2010).
 
 
  *I. kafli.* *Gildissvið, hlutverk og yfirstjórn.*
@@ -44,7 +44,9 @@ h2. Lög um framhaldsskóla
 ■ *6. gr.* _Skólameistari._
  □ Ráðherra skipar skólameistara í framhaldsskólum til fimm ára í senn. Skólanefnd veitir umsögn um umsækjendur um starf skólameistara. Kennari, sem skipaður er skólameistari, skal fá leyfi frá kennarastarfi sínu þann tíma sem hann gegnir embætti skólameistara.
  □ Skólameistari veitir framhaldsskóla forstöðu. Hann stjórnar daglegum rekstri og starfi framhaldsskóla og gætir þess að skólastarfið sé í samræmi við lög, reglugerðir, aðalnámskrá og önnur gildandi fyrirmæli á hverjum tíma. Hann ber ábyrgð á gerð fjárhagsáætlunar og að henni sé fylgt og hefur frumkvæði að gerð skólanámskrár og umbótastarfi innan skólans.
-■ *7. gr.* _Skólaráð._
+ □ [Ráðherra er heimilt að fela skólameistara forstöðu í fleiri en einum framhaldsskóla.][^1)^]
+    _[^1)^]L. 71/2010, 1. gr._
+ ■ *7. gr.* _Skólaráð._
  □ Skólaráð skal vera skólameistara til samráðs og aðstoðar. Skólameistari er oddviti skólaráðs sem auk hans skal skipað staðgengli hans og fulltrúum kennara og nemenda. Heimilt er að setja í reglugerð nánari ákvæði um skipan skólaráðs, verksvið þess og starfshætti.
 ■ *8. gr.* _Starfsfólk framhaldsskóla._
  □ Skólameistari ræður stjórnendur, kennara og aðra starfsmenn skólans að höfðu samráði við skólanefnd.
@@ -83,8 +85,9 @@ h2. Lög um framhaldsskóla
  □ Í viðurkenningu felst ekki skuldbinding um fjárframlög úr ríkissjóði til viðkomandi skóla og eigi heldur ábyrgð á skuldbindingum hans.
  □ Skóli sem hlotið hefur viðurkenningu skal leitast við að leysa úr málum er varða réttindi og skyldur nemenda í samræmi við lög og góða stjórnsýsluhætti.
  □ Uppfylli skóli, sem fengið hefur viðurkenningu, ekki skilyrði laga þessara og reglur og skilyrði sem sett eru á grundvelli þeirra getur ráðherra afturkallað viðurkenninguna.
- □ Í reglugerð skal kveðið nánar á um skilyrði fyrir viðurkenningu og hvernig staðið er að veitingu viðurkenningar, eftirlit með starfsemi skóla, sbr. VII. kafla, og afturköllun viðurkenningar.
-■ *13. gr.* _Skólameistari, kennarar._
+ □ Í reglugerð[^1)^] skal kveðið nánar á um skilyrði fyrir viðurkenningu og hvernig staðið er að veitingu viðurkenningar, eftirlit með starfsemi skóla, sbr. VII. kafla, og afturköllun viðurkenningar.
+    _[^1)^]Rg. 426/2010_.
+ ■ *13. gr.* _Skólameistari, kennarar._
  □ Stjórn skóla, sem hlýtur viðurkenningu ráðherra á grundvelli 12. gr., ræður skólameistara til að stýra daglegri starfsemi skólans. Hann ber ábyrgð á starfsemi skólans í umboði stjórnar eða ábyrgðaraðila í samræmi við samþykktir, stofnskrá eða önnur stofnskjöl viðkomandi skóla.
  □ Um skilyrði þess að vera ráðinn skólameistari eða kennari fer eftir ákvæðum laga um menntun og ráðningu kennara og skólastjórnenda við leikskóla, grunnskóla og framhaldsskóla.
  □ Heimilt er ráðherra að víkja frá menntunarkröfum kennara í skólum sem hljóta viðurkenningu skv. 12. gr., enda sé þá ekki um að ræða nám sem byggist á aðalnámskrá framhaldsskóla heldur sérhæft starfsmiðað nám.
@@ -93,9 +96,10 @@ h2. Lög um framhaldsskóla
 
  *IV. kafli.* *Skipulag náms, námslok.*
 ■ *15. gr.* _Námseiningar._
- □ Öll vinna nemenda í framhaldsskóla skal metin í stöðluðum námseiningum og skal að baki hverri einingu liggja því sem næst jafnt vinnuframlag nemanda. Eitt námsár, sem mælir alla ársvinnu nemanda með fullnaðarárangri, veitir 60 einingar. Er þá miðað við að árlegur fjöldi vinnudaga nemenda sé að lágmarki 180 dagar.
+ □ Öll vinna nemenda í framhaldsskóla skal metin í stöðluðum námseiningum og skal að baki hverri einingu liggja því sem næst jafnt vinnuframlag nemanda. Eitt námsár, sem mælir alla ársvinnu nemanda með fullnaðarárangri, veitir 60 einingar. Er þá miðað við að árlegur fjöldi vinnudaga nemenda sé að lágmarki [175][^1)^] dagar.
  □ Ráðherra setur í aðalnámskrá nánari reglur um mat á námi til eininga og vinnu nemenda í framhaldsskólum.
-■ *16. gr.* _Framhaldsskólapróf._
+    _[^1)^]L. 71/2010, 2. gr._, sbr. einnig brbákv. í s.l.
+ ■ *16. gr.* _Framhaldsskólapróf._
  □ Til að útskrifast með framhaldsskólapróf skal nemandi hafa lagt stund á nám sem svarar til 90 - 120 eininga samkvæmt námskrá og námsbrautarlýsingu sem hlotið hefur staðfestingu ráðherra skv. 23. gr.
 ■ *17. gr.* _Próf til starfsréttinda._
  □ Til að útskrifast með starfsréttindapróf frá framhaldsskóla skal nemandi hafa lokið námi með fullnaðarárangri samkvæmt námskrá og námsbrautarlýsingu sem hlotið hefur staðfestingu ráðherra, sbr. einnig 23. gr.
@@ -160,12 +164,12 @@ h2. Lög um framhaldsskóla
  □ Starfsgreinaráð greiða kostnað af störfum fulltrúa sinna í nefndinni. Menntamálaráðuneytið greiðir kostnað af fulltrúum sem skipaðir eru án tilnefningar.
 ■ *28. gr.* _Vinnustaðanám._
  □ Verknám og starfsþjálfun á vinnustað byggist á almennum ákvæðum aðalnámskrár um nám á vinnustað.
- □ Skóli ber ábyrgð á gerð sérstaks starfsþjálfunarsamnings um vinnustaðanám við vinnustað, samtök eða aðila sem er hæfur til að veita nemanda tilskilda þjálfun og menntun. Starfsþjálfunarsamningar skulu kveða á um rétt og skyldur vinnuveitanda, skóla og nemanda, markmið vinnustaðanáms og gæðakröfur, gildistíma, meðferð ágreinings og samningsslit.
+ □ [Starfsþjálfunarsamningar skulu gerðir við upphaf vinnustaðanáms og kveða á um rétt og skyldur vinnuveitanda, skóla og nemanda, markmið vinnustaðanáms og gæðakröfur, gildistíma, meðferð ágreinings og samningsslit.][^1)^]
  □ Sé þörf á því að gera sérstakan ráðningarsamning milli nema og vinnuveitanda skal skóli staðfesta hann. Skulu slíkir samningar vera í samræmi við gildandi kjarasamninga um nema í viðkomandi starfsnámi.
  □ Starfsgreinaráð skulu halda skrá yfir fyrirtæki og vinnustaði sem uppfylla skilyrði til vinnustaðanáms.
- □ Skóli getur með samningi falið aðila utan hans umsýslu með gerð og skráningu samninga og um eftirlit með þeim. Jafnframt má fela fulltrúa á vegum slíks umsýsluaðila að staðfesta og eftir atvikum að slíta námssamningi, enda sé þá gætt málsmeðferðar samkvæmt stjórnsýslulögum og nánari fyrirmælum í starfsþjálfunar- eða ráðningarsamningi. Verði ágreiningur um réttindi eða skyldur nemenda vegna framkvæmdar umsýsluaðila sker skólameistari úr.
- □ Ráðherra er heimilt, að fenginni umsögn aðila vinnumarkaðar og samtaka nemenda, að setja reglugerð[^1)^] um vinnustaðanám, starfsþjálfun á vinnustað og um heimildir skóla til þess að fela aðila utan hans umsýslu með starfsþjálfunarsamningum, sbr. 5. mgr.
-    _[^1)^]Rg. 697/2009_, sbr. 1103/2009.
+ □ [Ráðherra getur með samningi falið skóla eða öðrum aðila umsýslu með gerð og skráningu samninga og eftirlit með þeim.][^1)^] Jafnframt má fela fulltrúa á vegum slíks umsýsluaðila að staðfesta og eftir atvikum að slíta námssamningi, enda sé þá gætt málsmeðferðar samkvæmt stjórnsýslulögum og nánari fyrirmælum í starfsþjálfunar- eða ráðningarsamningi. Verði ágreiningur um réttindi eða skyldur nemenda vegna framkvæmdar umsýsluaðila sker [ráðherra][^1)^] úr.
+ □ Ráðherra er heimilt, að fenginni umsögn aðila vinnumarkaðar og samtaka nemenda, að setja reglugerð[^2)^] um vinnustaðanám, starfsþjálfun á vinnustað og um heimildir skóla til þess að fela aðila utan hans umsýslu með starfsþjálfunarsamningum, sbr. 5. mgr.
+    _[^1)^]L. 71/2010, 3. gr._ [^2)^]Rg. 697/2009, sbr. 1103/2009.
  ■ *29. gr.* _Kjarnaskólar._
  □ Ráðherra getur gert framhaldsskóla að kjarnaskóla á tilteknu sviði um lengri eða skemmri tíma. Kjarnaskóli hefur forgöngu um að þróa námsefni, námsskipan og kennsluaðferðir og aðstoðar aðra skóla og fyrirtæki við umbætur í kennslu og þjálfun á viðkomandi sviði.
  □ Í samningi, er ráðherra gerir við skóla er tekur að sér hlutverk kjarnaskóla, skal verkefnið skilgreint, stjórnun þess, lengd samningstíma og hvernig úttekt þess skuli háttað. Hagsmunaaðilar á vinnumarkaði og starfsgreinaráð geta átt aðild að slíkum samningi.
@@ -225,8 +229,16 @@ h2. Lög um framhaldsskóla
  □ Í hverjum framhaldsskóla skal starfa nemendafélag. Nemendafélag vinnur m.a. að félags-, hagsmuna- og velferðarmálum nemenda. Það setur sér reglur um skipan, starfssvið og starfshætti. Nemendafélög starfa á ábyrgð skóla. Nemendafélögum skal búin aðstaða til starfsemi sinnar.
  □ Framhaldsskólum er heimilt að styrkja starfsemi nemendafélaga fjárhagslega og skal bókhald þeirra háð sömu endurskoðun og aðrar fjárreiður framhaldsskóla.
 
+ *[VI. kafli A.* *Skólasafn.][^1)^]*
+    _[^1)^]L. 71/2010, 4. gr._
+ ■ *[39. gr. a.* _Skólasafn._
+ □ Í öllum framhaldsskólum skal gera ráð fyrir skólasafni eða tryggja með öðrum hætti aðgang nemenda að þjónustu slíks safns.
+ □ Hlutverk skólasafns er að vera upplýsingamiðstöð fyrir nemendur og kennara. Það skal búið bókum og nýsigögnum auk annars safnkosts sem tengist kennslugreinum skóla. Í tengslum við starfsemi skólasafns skal vera lesaðstaða með aðgangi að upplýsingaritum á skólasafni.
+ □ Í starfsemi skólasafns skal leggja áherslu á að þjálfa nemendur í sjálfstæðri leit upplýsinga og notkun gagnabanka.][^1)^]
+    _[^1)^]L. 71/2010, 4. gr._
+
  *VII. kafli.* *Mat og eftirlit með gæðum.*
-■ *40. gr.* _Markmið._
+ ■ *40. gr.* _Markmið._
  □ Markmið mats og eftirlits með gæðum starfs í framhaldsskólum er að:
     a. veita upplýsingar um skólastarf, árangur þess og þróun til fræðsluyfirvalda, starfsfólks framhaldsskóla, viðtökuskóla, atvinnulífs, foreldra og nemenda,
     b. tryggja að starfsemi skóla sé í samræmi við ákvæði laga, reglugerða og aðalnámskrár framhaldsskóla,
@@ -240,10 +252,11 @@ h2. Lög um framhaldsskóla
  □ Ytra mat getur náð til framhaldsskóla í heild, aðferða við innra mat eða annarra skilgreindra þátta í starfsemi framhaldsskóla. Jafnframt getur ytra mat náð til nokkurra framhaldsskóla í senn. Framhaldsskólar skulu leggja fram þá aðstoð og þau gögn sem matið útheimtir, þ.m.t. niðurstöður innra mats. Matsskýrslur sem unnar eru samkvæmt lögum þessum skulu birtar opinberlega. Að loknu ytra mati skal framhaldsskóli gera grein fyrir því hvernig brugðist verður við niðurstöðum þess. Menntamálaráðuneyti skal leitast við að fylgja innra og ytra mati eftir með stuðningi, fræðslu og ráðgjöf til viðkomandi skóla þannig að slíkt mat leiði til umbóta í skólastarfi.
  □ Menntamálaráðuneyti gerir áætlun til þriggja ára um kannanir og úttektir sem miða að því að veita upplýsingar um framkvæmd laga þessara, aðalnámskrár framhaldsskóla og annarra þátta skólastarfs. Jafnframt getur ráðherra ákveðið að láta fara fram sérstakt ytra mat á framhaldsskóla eða einstökum þáttum skólastarfs ef ástæða þykir til. Úttekt á framhaldsskóla skal fara fram eigi sjaldnar en á fimm ára fresti og unnin af óháðum aðilum.
  □ Ytra mat nær eingöngu til framhaldsskóla sem hljóta fjárveitingar í fjárlögum og gerður hefur verið samningur við, sbr. 44. gr.
- □ Ráðherra setur reglugerð um innra og ytra mat.
+ □ Ráðherra setur reglugerð[^1)^] um innra og ytra mat.
+    _[^1)^]Rg. 700/2010_.
 
  *VIII. kafli.* *Rekstrar- og fjárhagsmálefni.*
-■ *43. gr.* _Rekstrarframlög._
+ ■ *43. gr.* _Rekstrarframlög._
  □ Ríkissjóður greiðir samkvæmt lögum þessum rekstrarframlög til þeirra framhaldsskóla sem njóta framlaga í fjárlögum. Skólar sem njóta framlaga í fjárlögum eru opinberir framhaldsskólar og aðrir framhaldsskólar sem ráðherra gerir þjónustusamninga við um kennslu á framhaldsskólastigi, enda hafi þeir hlotið viðurkenningu, sbr. 12. gr.
  □ Hver skóli hefur sérstaka fjárveitingu í fjárlögum. Ráðherra gerir tillögur um fjárveitingar í fjárlögum til hvers skóla, til kennslu og eftir atvikum annarra verkefna. Tillögurnar eru unnar á grundvelli reiknireglna sem ráðherra setur með reglugerð. Reiknireglurnar skulu m.a. styðjast við áætlun um fjölda nemenda, áætlaðan fjölda kennslustunda, námsframboð, kostnað sem leiðir af kjarasamningum kennara og annars starfsfólks, húsnæði og annað, sem ráðherra metur að máli skipti.
  □ Rekstrarframlagi skv. 1. mgr. er ekki ætlað að standa straum af námskeiðs-, skráningar- eða skólagjöldum sem innheimt kunna að vera af öðrum skólum, þ.m.t. tónlistarskólum, vegna náms sem metið verður til eininga í framhaldsskóla. Ráðherra getur í samningum við framhaldsskóla, sbr. 44. gr., heimilað framhaldsskóla að ganga til samninga um greiðslur vegna slíks náms.
@@ -307,10 +320,11 @@ h2. Lög um framhaldsskóla
  □ Lög þessi öðlast gildi 1. ágúst 2008. ...
 
  *Ákvæði til bráðabirgða.*
- ■ *I.* Þrátt fyrir ákvæði 57. gr. skulu framhaldsskólar, sem starfandi eru við gildistöku laga þessara, uppfylla ákvæði IV. og V. kafla eigi síðar en 1. ágúst 2011.
+ ■ *I.* Þrátt fyrir ákvæði 57. gr. skulu framhaldsskólar, sem starfandi eru við gildistöku laga þessara, uppfylla ákvæði IV. og V. kafla eigi síðar en 1. ágúst 2011. [Frestur framhaldsskóla til þess að setja sér námsbrautarlýsingar skv. 23. gr. er til 1. ágúst 2015.][^1)^]
+    _[^1)^]L. 71/2010, 5. gr._
  ■ *II.* Framhaldsskólar sem falla undir III. kafla skulu hafa aflað sér viðurkenningar ráðherra eigi síðar en 1. ágúst 2011, sbr. 12. gr.
  ■ *III.* Reglugerðir, auglýsingar og önnur fyrirmæli sett samkvæmt "lögum nr. 80/1996":1996080.html, með síðari breytingum, skulu halda gildi sínu að svo miklu leyti sem þau stangast ekki á við lög þessi þar til nýjar reglugerðir, auglýsingar eða önnur fyrirmæli hafa öðlast gildi.[^1)^]
-    _[^1)^]Sjá nú rg. 132/1997, rg. 138/1997, rg. 139/1997, rg. 140/1997, rg. 141/1997, rg. 279/1997; rg. 328/1997, rg. 331/1997, rg. 372/1998, rg. 108/1999, augl. 274/1999, sbr. 138/2004, 661/2004, 302/2005, 303/2005, 689/2005, 408/2006, 514/2006, 515/2006, 843/2006, 292/2007, 538/2007, 767/2007, 1182/2007, 1206/2007, 525/2008, 609/2008, 687/2008, 4/2009, 43/2009, 668/2009, 669/2009 og 853/2009; rg. 335/1999, sbr. augl. 4/2001; rg. 6/2001, rgl. 1150/2006 og rg. 1100/2007._
+    _[^1)^]Sjá nú rg. 132/1997, rg. 138/1997, rg. 139/1997, rg. 140/1997, rg. 141/1997, rg. 279/1997; rg. 328/1997, rg. 331/1997, rg. 372/1998, augl. 274/1999, sbr. 138/2004, 661/2004, 302/2005, 303/2005, 689/2005, 408/2006, 514/2006, 515/2006, 843/2006, 292/2007, 538/2007, 767/2007, 1182/2007, 1206/2007, 525/2008, 609/2008, 687/2008, 4/2009, 43/2009, 668/2009, 669/2009 og 853/2009; rg. 335/1999, sbr. augl. 4/2001; rg. 6/2001, rgl. 1150/2006 og rg. 1100/2007._
  ■ *IV.* Skólanefndir sem skipaðar hafa verið skv. "6. gr. laga nr. 80/1996":1996080.html, um framhaldsskóla, skulu starfa út skipunartíma sinn.
  ■ *[V.* Þrátt fyrir ákvæði b-liðar 1. mgr. 45. gr. er framhaldsskólum eftir sem áður heimilt skólaárin 2009 - 2010, 2010 - 2011 og 2011 - 2012 að innheimta af nemendum sem njóta verklegrar kennslu efnisgjald fyrir efni sem skóli lætur nemendum í té og þeir þurfa að nota í námi sínu. Skal það taka mið af raunverulegum efniskostnaði. Efnisgjald skal þó aldrei vera hærra en 50.000 kr. á skólaári eða 25.000 kr. á önn. Halda skal bókhald um fjárreiður þessar. Um endurskoðun gilda sömu reglur og um annan rekstur.][^1)^]
     _[^1)^]L. 89/2009, 1. gr._

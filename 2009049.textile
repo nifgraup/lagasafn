@@ -7,7 +7,8 @@ h2. Lög um Bjargráðasjóð
 <hr />
 
 
- *Tóku gildi 23. apríl 2009.*
+ *Tóku gildi 23. apríl 2009.* _Breytt með_ l. 46/2010 (tóku gildi 29. maí 2010) og "l. 77/2010":2010077.html (tóku gildi 1. júlí 2010).
+
  ■ *1. gr.* Bjargráðasjóður er sjálfstæð stofnun, að jöfnu í sameign ríkisins og Bændasamtaka Íslands. Eignaraðilar bera ekki ábyrgð á skuldbindingum sjóðsins umfram árleg, óafturkræf framlög sín til hans skv. 5. gr.
  □ Heimili og varnarþing Bjargráðasjóðs er í Reykjavík.
 ■ *2. gr.* Sjávarútvegs- og landbúnaðarráðherra skipar þriggja manna stjórn Bjargráðasjóðs til fjögurra ára í senn. Ráðherra skipar formann stjórnar en tveir fulltrúar skulu skipaðir samkvæmt tilnefningu Bændasamtaka Íslands. Varamenn eru jafnmargir og valdir af sömu aðilum.
@@ -16,23 +17,25 @@ h2. Lög um Bjargráðasjóð
 ■ *4. gr.* Bjargráðasjóður skiptist í tvær deildir, almenna deild og búnaðardeild. Halda skal bókhaldi hvorrar deildar um sig aðgreindu. Rekstrarkostnaður sjóðsins greiðist úr almennri deild hans.
 ■ *5. gr.* Árlegar tekjur Bjargráðasjóðs eru:
     a. tekjur af búnaðargjaldi skv. "6. gr. laga um búnaðargjald, nr. 84/1997":1997084.html#g6, með síðari breytingum, og viðauka með þeim lögum,
-    b. framlag ríkissjóðs allt að 80 millj. kr. á ári eftir því sem nánar er kveðið á um í fjárlögum,
+    b. framlag ríkissjóðs ...[^1)^] eftir því sem nánar er kveðið á um í fjárlögum,
     c. vextir af fé sjóðsins,
     d. aðrar tekjur.
-■ *6. gr.* Tekjur sjóðsins skiptast þannig milli deilda:
+    _[^1)^]L. 46/2010, 1. gr._
+ ■ *6. gr.* Tekjur sjóðsins skiptast þannig milli deilda:
     a. í almenna deild sjóðsins rennur framlag ríkissjóðs skv. b-lið 5. gr., svo og vaxtatekjur sjóðsins,
     b. í búnaðardeild rennur allt framlag skv. a-lið 5. gr.,
     c. stjórn sjóðsins ákveður í hvora deild tekjur skv. d-lið 5. gr. renna.
 ■ *7. gr.* Framlag ríkissjóðs greiðist með jöfnum, mánaðarlegum greiðslum.
  □ Fjármálaráðherra stendur skil á hlut Bjargráðasjóðs í búnaðargjaldi í samræmi við "6. gr. laga um búnaðargjald, nr. 84/1997":1997084.html#g6.
  ■ *8. gr.* Hlutverk almennrar deildar sjóðsins er að veita einstaklingum og félögum fjárhagsaðstoð til að bæta meiri háttar beint tjón af völdum náttúruhamfara:
-    a. á gjaldskyldum fasteignum samkvæmt skilgreiningu laga um tekjustofna sveitarfélaga, sbr. lög um Fasteignaskrá Íslands, og girðingum, túnum og rafmagnslínum er tengjast landbúnaði,
+    a. á gjaldskyldum fasteignum samkvæmt skilgreiningu laga um tekjustofna sveitarfélaga, sbr. lög um [Þjóðskrá Íslands],[^1)^] og girðingum, túnum og rafmagnslínum er tengjast landbúnaði,
     b. á heyi sem notað er við landbúnaðarframleiðslu,
     c. vegna uppskerubrests af völdum óvenjulegra kulda, þurrka, óþurrka og kals.
  □ Ekki er bætt tjón sem nýtur almennrar tryggingaverndar eða hægt er að fá bætt með öðrum hætti, sbr. ákvæði laga um Viðlagatryggingu Íslands.
  □ Ekki verður veitt fjárhagsaðstoð vegna tjóns ef ásetningi eða gáleysi eiganda eða umsjónarmanns verður um kennt, eðlilegar varnir ekki verið við hafðar og ef staðsetning hluta er óeðlileg með tilliti til tjónshættu.
  □ Ekki verður veitt fjárhagsaðstoð vegna tjóns á stærri mannvirkjum, svo sem orku- og hafnarmannvirkjum, sjóvarnargörðum, fiskeldismannvirkjum og skipasmíðastöðvum.
-■ *9. gr.* Hlutverk búnaðardeildar er að bæta meiri háttar tjón hjá einstaklingum og félögum vegna sjúkdóma, óvenjulegs veðurfars og slysa þegar ásetningi eða gáleysi eiganda eða umsjónarmanns verður eigi um kennt og eðlilegar varnir hafa verið við hafðar. Ekki er bætt tjón sem almennt er tryggt fyrir innan búgreinar eða hægt er að fá bætt með öðrum hætti, sbr. ákvæði laga um Viðlagatryggingu Íslands. Bætt er:
+    _[^1)^]_"L. 77/2010, 5. gr.":2010077.html#g5
+ ■ *9. gr.* Hlutverk búnaðardeildar er að bæta meiri háttar tjón hjá einstaklingum og félögum vegna sjúkdóma, óvenjulegs veðurfars og slysa þegar ásetningi eða gáleysi eiganda eða umsjónarmanns verður eigi um kennt og eðlilegar varnir hafa verið við hafðar. Ekki er bætt tjón sem almennt er tryggt fyrir innan búgreinar eða hægt er að fá bætt með öðrum hætti, sbr. ákvæði laga um Viðlagatryggingu Íslands. Bætt er:
     a. tjón á búfé og afurðum búfjár,
     b. uppskerutjón.
  □ Stjórn sjóðsins er enn fremur heimilt að styrkja fyrirbyggjandi aðgerðir til að koma í veg fyrir tjón sem Bjargráðasjóði ber að bæta. Hámark fyrirbyggjandi styrkja er 10% af ráðstöfunarfé hvers árs.
