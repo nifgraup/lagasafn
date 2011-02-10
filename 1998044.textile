@@ -7,7 +7,7 @@ h2. Lög um húsnæðismál
 <hr />
 
 
- *Tóku gildi 1. janúar 1999, sjá þó 52. gr.* _Breytt með_ l. 84/1998 (tóku gildi 1. jan. 1999), l. 157/1998 (tóku gildi 1. jan. 1999), l. 121/1999 (tóku gildi 30. des. 1999), 32/2000 (tóku gildi 26. maí 2000), l. 77/2001 (tóku gildi 15. júní 2001), l. 155/2001 (tóku gildi 31. des. 2001), l. 86/2002 (tóku gildi 23. maí 2002), l. 163/2002 (tóku gildi 30. des. 2002), l. 57/2004 (tóku gildi 1. júlí 2004 nema brbákv. I sem tók gildi 14. júní 2004), l. 120/2004 (tóku gildi 3. des. 2004), l. 137/2005 (tóku gildi 30. des. 2005), "l. 125/2008":2008125.html (tóku gildi 7. okt. 2008), l. 138/2008 (tóku gildi 13. des. 2008), l. 87/2009 (tóku gildi 20. ágúst 2009), "l. 107/2009":2009107.html (tóku gildi 31. okt. 2009), l. 120/2009 (tóku gildi 1. jan. 2010) og l. 66/2010 (tóku gildi 1. júlí 2010).
+ *Tóku gildi 1. janúar 1999, sjá þó 52. gr.* _Breytt með_ l. 84/1998 (tóku gildi 1. jan. 1999), l. 157/1998 (tóku gildi 1. jan. 1999), l. 121/1999 (tóku gildi 30. des. 1999), 32/2000 (tóku gildi 26. maí 2000), l. 77/2001 (tóku gildi 15. júní 2001), l. 155/2001 (tóku gildi 31. des. 2001), l. 86/2002 (tóku gildi 23. maí 2002), l. 163/2002 (tóku gildi 30. des. 2002), l. 57/2004 (tóku gildi 1. júlí 2004 nema brbákv. I sem tók gildi 14. júní 2004), l. 120/2004 (tóku gildi 3. des. 2004), l. 137/2005 (tóku gildi 30. des. 2005), "l. 125/2008":2008125.html (tóku gildi 7. okt. 2008), l. 138/2008 (tóku gildi 13. des. 2008), l. 87/2009 (tóku gildi 20. ágúst 2009), "l. 107/2009":2009107.html (tóku gildi 31. okt. 2009), l. 120/2009 (tóku gildi 1. jan. 2010), l. 66/2010 (tóku gildi 1. júlí 2010), l. 152/2010 (tóku gildi 1. jan. 2011) og l. 162/2010 (tóku gildi 1. jan. 2011).
 
 
  *1. þáttur.* *Almenn ákvæði.*
@@ -27,18 +27,18 @@ h2. Lög um húsnæðismál
     _[ÍLS-veðbréf_ eru skuldabréf sem kaupandi eða eigandi íbúðarhúsnæðis gefur út til Íbúðalánasjóðs með veði í íbúðarhúsnæði.][^1)^]
     _Lán til leiguíbúða_ eru lán sem Íbúðalánasjóður veitir sveitarfélögum, aðilum á þeirra vegum, félögum eða félagasamtökum til byggingar eða kaupa á leiguhúsnæði með veði í hlutaðeigandi eign.
     _Viðbótarlán_ eru lán sem Íbúðalánasjóður veitir einstaklingum til viðbótar almennu húsnæðisláni til öflunar eigin húsnæðis með veði í hlutaðeigandi eign, næst á eftir fasteignaveðbréfi, eftir tilvísun húsnæðisnefndar sveitarfélags, [eða ÍLS-veðbréfi].[^1)^]
-    [_Lán vegna hjúkrunarheimila_ eru lán sem Íbúðalánasjóður veitir sveitarfélögum til kaupa eða byggingar hjúkrunarheimila á grundvelli samnings um byggingu og leigu hjúkrunarheimila fyrir aldraða milli félags- og tryggingamálaráðuneytis og fjármálaráðuneytis annars vegar og viðkomandi sveitarfélags hins vegar með veði í hlutaðeigandi eign.][^2)^]
-    _[^1)^]L. 57/2004, 1. gr._ [^2)^]L. 120/2009, 20. gr.
+    [_Lán vegna hjúkrunarheimila_ eru lán sem Íbúðalánasjóður veitir sveitarfélögum til kaupa eða byggingar hjúkrunarheimila á grundvelli samnings um byggingu og leigu hjúkrunarheimila fyrir aldraða milli [ráðuneytisins][^2)^] og fjármálaráðuneytis annars vegar og viðkomandi sveitarfélags hins vegar með veði í hlutaðeigandi eign.][^3)^]
+    _[^1)^]L. 57/2004, 1. gr._ [^2)^]L. 162/2010, 19. gr. [^3)^]L. 120/2009, 20. gr.
 
  *2. þáttur.* *Stjórn húsnæðismála.*
  *II. kafli.* *Skipulag.*
  ■ *3. gr.* _Yfirstjórn._
- □ [Félags- og tryggingamálaráðherra][^1)^] fer með yfirstjórn þeirra mála sem lög þessi taka til.
-    _[^1)^]L. 66/2010, 15. gr._
+ □ [Velferðarráðherra][^1)^] fer með yfirstjórn þeirra mála sem lög þessi taka til.
+    _[^1)^]L. 162/2010, 19. gr._
  ■ *4. gr.* _Íbúðalánasjóður._
- □ Stofna skal sérstakan lánasjóð er nefnist Íbúðalánasjóður [og lánar til íbúðakaupa, nýbygginga eða endurbóta íbúðarhúsnæðis á Íslandi].[^1)^] Íbúðalánasjóður skal annast stjórn og framkvæmd húsnæðismála samkvæmt lögum þessum. Skal sjóðurinn vera ráðgefandi fyrir [félags- og tryggingamálaráðherra][^2)^] og önnur stjórnvöld í húsnæðismálum og fara með þau verkefni sem getið er í lögum þessum og ráðherra felur honum með reglugerð. [Félags- og tryggingamálaráðherra][^2)^] getur krafið stjórn Íbúðalánasjóðs um gögn og upplýsingar sem snerta málefni sjóðsins.
- □ Íbúðalánasjóður er sjálfstæð stofnun í eigu ríkisins er lýtur sérstakri stjórn og heyrir stjórnarfarslega undir [félags- og tryggingamálaráðherra].[^2)^] [Aðsetur stofnunarinnar er í Reykjavík, nema ráðherra ákveði annað.][^3)^]
-    _[^1)^]L. 57/2004, 2. gr._ [^2)^]L. 66/2010, 15. gr. [^3)^]L. 121/1999, 2. gr.
+ □ Stofna skal sérstakan lánasjóð er nefnist Íbúðalánasjóður [og lánar til íbúðakaupa, nýbygginga eða endurbóta íbúðarhúsnæðis á Íslandi].[^1)^] Íbúðalánasjóður skal annast stjórn og framkvæmd húsnæðismála samkvæmt lögum þessum. Skal sjóðurinn vera ráðgefandi fyrir [ráðherra][^2)^] og önnur stjórnvöld í húsnæðismálum og fara með þau verkefni sem getið er í lögum þessum og ráðherra felur honum með reglugerð. [Ráðherra][^2)^] getur krafið stjórn Íbúðalánasjóðs um gögn og upplýsingar sem snerta málefni sjóðsins.
+ □ Íbúðalánasjóður er sjálfstæð stofnun í eigu ríkisins er lýtur sérstakri stjórn og heyrir stjórnarfarslega undir [ráðherra].[^2)^] [Aðsetur stofnunarinnar er í Reykjavík, nema ráðherra ákveði annað.][^3)^]
+    _[^1)^]L. 57/2004, 2. gr._ [^2)^]L. 162/2010, 19. gr. [^3)^]L. 121/1999, 2. gr.
  ■ *5. gr.* _Sveitarstjórnir._
  □ Sveitarstjórn ber ábyrgð á og hefur frumkvæði að því að leysa húsnæðisþörf þess fólks í sveitarfélaginu sem þarfnast aðstoðar við húsnæðisöflun. Í því skyni skal sveitarstjórn fylgjast með þörf á húsnæði í sveitarfélaginu.
 ■ *6. gr.* _Húsnæðisnefndir._
@@ -47,8 +47,8 @@ h2. Lög um húsnæðismál
 
  *III. kafli.* *Íbúðalánasjóður.*
 ■ *7. gr.* _Stjórn._
- □ [Félags- og tryggingamálaráðherra][^1)^] skipar stjórn Íbúðalánasjóðs til fjögurra ára í senn. Stjórnina skipa fimm menn og jafnmargir til vara. [Félags- og tryggingamálaráðherra][^1)^] skipar formann og varaformann úr hópi stjórnarmanna, en stjórn sjóðsins skiptir að öðru leyti með sér verkum. Ráðherra ákveður þóknun stjórnarmanna.
-    _[^1)^]L. 66/2010, 15. gr._
+ □ [Ráðherra][^1)^] skipar stjórn Íbúðalánasjóðs til fjögurra ára í senn. Stjórnina skipa fimm menn og jafnmargir til vara. [Ráðherra][^1)^] skipar formann og varaformann úr hópi stjórnarmanna, en stjórn sjóðsins skiptir að öðru leyti með sér verkum. Ráðherra ákveður þóknun stjórnarmanna.
+    _[^1)^]L. 162/2010, 19. gr._
  ■ *8. gr.* _Framkvæmdastjóri._
  □ Stjórn Íbúðalánasjóðs ræður framkvæmdastjóra til fimm ára í senn. [Kjararáð ákveður starfskjör framkvæmdastjóra.][^1)^] Framkvæmdastjóri ræður annað starfsfólk. Hann annast daglegan rekstur skrifstofu sjóðsins, fjárreiður og reikningsskil. Framkvæmdastjóri framfylgir ákvörðunum stjórnar Íbúðalánasjóðs.
     _[^1)^]L. 87/2009, 9. gr._
@@ -72,11 +72,11 @@ h2. Lög um húsnæðismál
     3. [Með þjónustugjöldum skv. 49. gr.][^1)^]
     _[^1)^]L. 57/2004, 4. gr._
  ■ *11. gr.* _[Eigna- og skuldastýring.][^1)^]_
- □ Íbúðalánasjóður skal varðveita og ávaxta það fé sem hann hefur umsjón með. Stjórn Íbúðalánasjóðs getur, að fengnu samþykki [félags- og tryggingamálaráðherra],[^2)^] tekið ákvörðun um að fela öðrum varðveislu eigna sjóðsins, að nokkru leyti eða öllu. Þess skal gætt að sjóðurinn hafi jafnan nægilegt laust fé til að standa við skuldbindingar sínar.
- □ [Stjórn Íbúðalánasjóðs skal eftir því sem kostur er, og að fengnu samþykki [félags- og tryggingamálaráðherra],[^2)^] semja við aðila á markaði um afgreiðslu og innheimtu lána eða einstakra flokka þeirra.][^1)^]
+ □ Íbúðalánasjóður skal varðveita og ávaxta það fé sem hann hefur umsjón með. Stjórn Íbúðalánasjóðs getur, að fengnu samþykki [ráðherra],[^2)^] tekið ákvörðun um að fela öðrum varðveislu eigna sjóðsins, að nokkru leyti eða öllu. Þess skal gætt að sjóðurinn hafi jafnan nægilegt laust fé til að standa við skuldbindingar sínar.
+ □ [Stjórn Íbúðalánasjóðs skal eftir því sem kostur er, og að fengnu samþykki [ráðherra],[^2)^] semja við aðila á markaði um afgreiðslu og innheimtu lána eða einstakra flokka þeirra.][^1)^]
  □ [Íbúðalánasjóður skal halda jafnvægi milli inn- og útgreiðslna sjóðsins og gera áætlanir þar um. Sjóðurinn skal koma upp áhættustýringarkerfi í því skyni.
  □ Íbúðalánasjóði er heimilt að eiga viðskipti með fjármögnunarbréf sín og önnur verðbréf. Ráðherra setur í reglugerð[^3)^] ákvæði um áhættuviðmið, áhættustýringu, innra eftirlit og viðskipti sjóðsins með verðbréf að fenginni umsögn stjórnar Íbúðalánasjóðs og Fjármálaeftirlitsins.][^1)^]
-    _[^1)^]L. 57/2004, 5. gr._ [^2)^]L. 66/2010, 15. gr. [^3)^]Rg. 544/2004, sbr. 896/2005.
+    _[^1)^]L. 57/2004, 5. gr._ [^2)^]L. 162/2010, 19. gr. [^3)^]Rg. 544/2004, sbr. 896/2005.
  ■ *12. gr.* _Skipulag._
  □ Ráðherra er heimilt að ákveða með reglugerð, að fenginni tillögu stjórnar Íbúðalánasjóðs, frekari verkefni og skipulag sjóðsins, þar á meðal skiptingu hans í svið eða deildir að því leyti sem ekki er kveðið á um í lögum þessum.
 
@@ -104,9 +104,9 @@ h2. Lög um húsnæðismál
  □ [Íbúðalánasjóði er heimilt að kaupa skuldabréf fjármálafyrirtækja sem tryggð eru með veði í íbúðarhúsnæði. Ekki þarf að leita samþykkis skuldara fyrir slíkri yfirfærslu. Ráðherra er heimilt að mæla nánar fyrir um slíka yfirfærslu í reglugerð.[^3)^]][^1)^]
     _[^1)^]_"L. 125/2008, 11. gr.":2008125.html [^2)^]L. 57/2004, 6. gr. [^3)^]Rg. 1081/2008.
  ■ *16. gr.* _Aðrir lánaflokkar._
- □ Stjórn Íbúðalánasjóðs er heimilt, að fengnu samþykki [félags- og tryggingamálaráðherra],[^1)^] að stofna til nýrra lánaflokka. Gert skal ráð fyrir öllum lánaflokkum í fjárhagsáætlun sjóðsins fyrir það ár sem veiting láns fer fram.
- □ Um nánari skilyrði lánveitinga samkvæmt þessari grein fer eftir því sem ákveðið er í lögum þessum og reglugerð[^2)^] sem [félags- og tryggingamálaráðherra][^1)^] setur að fenginni umsögn stjórnar Íbúðalánasjóðs.
-    _[^1)^]L. 66/2010, 15. gr._ [^2)^]Rg. 584/2001. Rg. 57/2009.
+ □ Stjórn Íbúðalánasjóðs er heimilt, að fengnu samþykki [ráðherra],[^1)^] að stofna til nýrra lánaflokka. Gert skal ráð fyrir öllum lánaflokkum í fjárhagsáætlun sjóðsins fyrir það ár sem veiting láns fer fram.
+ □ Um nánari skilyrði lánveitinga samkvæmt þessari grein fer eftir því sem ákveðið er í lögum þessum og reglugerð[^2)^] sem [ráðherra][^1)^] setur að fenginni umsögn stjórnar Íbúðalánasjóðs.
+    _[^1)^]L. 162/2010, 19. gr._ [^2)^]Rg. 584/2001. Rg. 57/2009.
  ■ *17. gr.* _[Aðskilnaður lánaflokka._
  □ Íbúðalánasjóður skal halda mismunandi lánaflokkum sjóðsins aðgreindum í bókhaldi og gefa út flokka markaðshæfra íbúðabréfa í nafni sjóðsins með þeim kjörum og skilmálum sem ákveðin eru með lögum þessum eða reglugerð.][^1)^]
     _[^1)^]L. 57/2004, 7. gr._
@@ -122,8 +122,8 @@ h2. Lög um húsnæðismál
  □ [Lánveiting samkvæmt ÍLS-veðbréfi getur numið allt að 90% af matsverði íbúðar. Taka ber tillit til framar áhvílandi lána þannig að ÍLS-veðbréfið sé innan þessara marka. Ráðherra getur með reglugerð[^2)^] ákveðið hámarksfjárhæð ÍLS-veðbréfa sem miðast við að veðbréfið hvíli á fyrsta veðrétti. Ella skulu uppfærð, framar áhvílandi lán koma til frádráttar hámarksfjárhæð.][^3)^]
     _[^1)^]L. 57/2004, 9. gr._ [^2)^]Rg. 522/2004, sbr. 824/2004, 958/2004, 300/2006, 574/2008, 402/2009 og 1038/2009. Rg. 540/2006, sbr. 156/2007, 587/2007, 575/2008 og 552/2009. [^3)^]L. 120/2004, 3. gr.
  ■ *20. gr.* _Matsverð._
- □ Stjórn Íbúðalánasjóðs setur reglur, sem [félags- og tryggingamálaráðherra][^1)^] staðfestir, um eðlilegt matsverð fasteigna sem skulu byggjast á viðmiðun við markaðsverð, brunabótamat, byggingarkostnað og samþykktan kostnað við meiri háttar endurnýjun eða endurbætur á íbúðarhúsnæði.
-    _[^1)^]L. 66/2010, 15. gr._
+ □ Stjórn Íbúðalánasjóðs setur reglur, sem [ráðherra][^1)^] staðfestir, um eðlilegt matsverð fasteigna sem skulu byggjast á viðmiðun við markaðsverð, brunabótamat, byggingarkostnað og samþykktan kostnað við meiri háttar endurnýjun eða endurbætur á íbúðarhúsnæði.
+    _[^1)^]L. 162/2010, 19. gr._
  ■ *21. gr.* _Lánstími og lánskjör._
  □ [Lánstími almennra lána getur verið allt að 40 ár, sbr. þó 48. gr. Ráðherra skal kveða nánar á um lánstíma einstakra lánaflokka í reglugerð.
  □ Fyrsti vaxtadagur ÍLS-veðbréfs er fimm dögum eftir að bréfið er tilbúið til afhendingar hjá Íbúðalánasjóði. Frá og með þeim degi greiðir sjóðurinn út höfuðstól keypts ÍLS-veðbréfs án vaxta og verðbóta og að frádregnu lántökugjaldi.
@@ -136,11 +136,11 @@ h2. Lög um húsnæðismál
  ■ *23. gr.* _[Greiðslur lána._
  □ Íbúðalánasjóður innheimtir afborganir, verðbætur og vexti af ÍLS-veðbréfum og ráðstafar því fé sem þannig innheimtist til endurgreiðslu fjármögnunarbréfa sjóðsins. Skuldurum ÍLS-veðbréfa er heimilt að greiða aukaafborganir af skuldabréfum sínum eða að endurgreiða skuldina að fullu fyrir gjalddaga.
  □ Ráðherra er heimilt, við sérstakar aðstæður og að fenginni umsögn stjórnar Íbúðalánasjóðs, að ákveða að aukaafborganir og uppgreiðsla ÍLS-veðbréfa verði aðeins heimilar gegn greiðslu þóknunar sem jafni út að hluta eða að öllu leyti muninn á uppgreiðsluverði ÍLS-veðbréfs og markaðskjörum sambærilegs íbúðabréfs. Geta skal um þessa heimild í skilmálum ÍLS-veðbréfa.][^1)^]
- □ [Þrátt fyrir ákvæði 1. og 2. mgr. getur [félags- og tryggingamálaráðherra][^2)^] heimilað Íbúðalánasjóði með reglugerð, í samræmi við almennar lagaheimildir á hverjum tíma, að bjóða skuldurum ÍLS- veðbréfa að afsala sér rétti til þess að greiða án þóknunar upp lán eða greiða aukaafborganir, gegn lægra vaxtaálagi. Jafnframt skal í reglugerðinni kveðið á um hlutfall þóknunar sem Íbúðalánasjóður getur áskilið sér ef lántaki, sem afsalar sér umræddum rétti, hyggst greiða upp lán fyrir lok lánstíma. Slík þóknun skal aldrei nema hærri fjárhæð en nemur kostnaði Íbúðalánasjóðs vegna uppgreiðslu viðkomandi láns.][^3)^]
-    _[^1)^]L. 57/2004, 12. gr._ [^2)^]L. 66/2010, 15. gr. [^3)^]L. 120/2004, 5. gr.
+ □ [Þrátt fyrir ákvæði 1. og 2. mgr. getur [ráðherra][^2)^] heimilað Íbúðalánasjóði með reglugerð, í samræmi við almennar lagaheimildir á hverjum tíma, að bjóða skuldurum ÍLS- veðbréfa að afsala sér rétti til þess að greiða án þóknunar upp lán eða greiða aukaafborganir, gegn lægra vaxtaálagi. Jafnframt skal í reglugerðinni kveðið á um hlutfall þóknunar sem Íbúðalánasjóður getur áskilið sér ef lántaki, sem afsalar sér umræddum rétti, hyggst greiða upp lán fyrir lok lánstíma. Slík þóknun skal aldrei nema hærri fjárhæð en nemur kostnaði Íbúðalánasjóðs vegna uppgreiðslu viðkomandi láns.][^3)^]
+    _[^1)^]L. 57/2004, 12. gr._ [^2)^]L. 162/2010, 19. gr. [^3)^]L. 120/2004, 5. gr.
  ■ *24. gr.* _[Greiðslukjör íbúðabréfa._
- □ Íbúðabréf skulu gefin út í verðbréfaflokkum. Stjórn Íbúðalánasjóðs gerir tillögu til [félags- og tryggingamálaráðherra][^1)^] um vexti, verðtryggingarskilmála, endurgreiðsluform og lánstíma í hverjum flokki.][^2)^]
-    _[^1)^]L. 66/2010, 15. gr._ [^2)^]L. 57/2004, 13. gr.
+ □ Íbúðabréf skulu gefin út í verðbréfaflokkum. Stjórn Íbúðalánasjóðs gerir tillögu til [ráðherra][^1)^] um vexti, verðtryggingarskilmála, endurgreiðsluform og lánstíma í hverjum flokki.][^2)^]
+    _[^1)^]L. 162/2010, 19. gr._ [^2)^]L. 57/2004, 13. gr.
  ■ *25. gr.* _[Gjaldfallin fjármögnunarbréf._
  □ Endurgreiðslur höfuðstóls og vaxta af fjármögnunarbréfum, sem fallnar eru í gjalddaga, fyrnast sé þeirra ekki vitjað innan tíu ára frá gjalddaga. Endurgreiðslur fjármögnunarbréfa bera ekki vexti eða verðbætur eftir gjalddaga. Um ógildingu fjármögnunarbréfa fer eftir almennum lögum.][^1)^]
     _[^1)^]L. 57/2004, 14. gr._
@@ -153,39 +153,39 @@ h2. Lög um húsnæðismál
  □ [Fjármálaeftirlitið skal hafa eftirlit með því að starfsemi Íbúðalánasjóðs sé í samræmi við ákvæði laga þessara og reglugerða settra samkvæmt þeim. Um eftirlitið fer samkvæmt ákvæðum laga um opinbert eftirlit með fjármálastarfsemi eftir því sem við á.][^1)^]
     _[^1)^]L. 57/2004, 16. gr._
  ■ *28. gr.* _Vaxtaálag._
- □ [Íbúðalánasjóði er heimilt að áskilja sér vaxtaálag til að mæta rekstrarkostnaði, áætluðum útlánatöpum og vaxtaáhættu sjóðsins. [Félags- og tryggingamálaráðherra][^1)^] ákveður vaxtaálag þetta að fengnum tillögum stjórnar Íbúðalánasjóðs.][^2)^]
-    _[^1)^]L. 66/2010, 15. gr._ [^2)^]L. 57/2004, 17. gr.
+ □ [Íbúðalánasjóði er heimilt að áskilja sér vaxtaálag til að mæta rekstrarkostnaði, áætluðum útlánatöpum og vaxtaáhættu sjóðsins. [Ráðherra][^1)^] ákveður vaxtaálag þetta að fengnum tillögum stjórnar Íbúðalánasjóðs.][^2)^]
+    _[^1)^]L. 162/2010, 19. gr._ [^2)^]L. 57/2004, 17. gr.
  ■ *29. gr.* _Reglugerð._
- □ [[Félags- og tryggingamálaráðherra][^1)^] getur sett frekari fyrirmæli í reglugerð[^2)^] um lánveitingar Íbúðalánasjóðs, [kaup skuldabréfa af fjármálafyrirtækjum sem tryggð eru með veði í íbúðarhúsnæði],[^3)^] tilhögun viðskipta og útgáfu íbúðabréfa.][^4)^]
-    _[^1)^]L. 66/2010, 15. gr._ [^2)^]Rg. 6/1996, sbr. 169/1997 og 744/2001. Rg. 688/2001. Rg. 522/2004, sbr. 824/2004, 958/2004, 1017/2005, 300/2006, 539/2006, 574/2008, 402/2009, 1038/2009 og 439/2010. Rg. 540/2006, sbr. 156/2007, 587/2007, 575/2008 og 552/2009. [^3)^]"L. 125/2008, 12. gr.":2008125.html [^4)^]L. 57/2004, 18. gr.
+ □ [[Ráðherra][^1)^] getur sett frekari fyrirmæli í reglugerð[^2)^] um lánveitingar Íbúðalánasjóðs, [kaup skuldabréfa af fjármálafyrirtækjum sem tryggð eru með veði í íbúðarhúsnæði],[^3)^] tilhögun viðskipta og útgáfu íbúðabréfa.][^4)^]
+    _[^1)^]L. 162/2010, 19. gr._ [^2)^]Rg. 6/1996, sbr. 169/1997 og 744/2001. Rg. 688/2001. Rg. 522/2004, sbr. 824/2004, 958/2004, 1017/2005, 300/2006, 539/2006, 574/2008, 402/2009, 1038/2009 og 439/2010. Rg. 540/2006, sbr. 156/2007, 587/2007, 575/2008 og 552/2009. [^3)^]"L. 125/2008, 12. gr.":2008125.html [^4)^]L. 57/2004, 18. gr.
 
  *[VII. kafli.* *Lán vegna hjúkrunarheimila.][^1)^]*
     _[^1)^]L. 120/2009, 21. gr._
  ■ *[30. gr.* _Almennt._
- □ Íbúðalánasjóði er heimilt að veita sveitarfélögum lán vegna hjúkrunarheimila sem nemur allt að 100% af byggingarkostnaði eða kaupverði hjúkrunarheimilis fyrir aldraða á grundvelli samnings sem gerður hefur verið milli félags- og tryggingamálaráðuneytis og fjármálaráðuneytis annars vegar og viðkomandi sveitarfélags hins vegar um byggingu og leigu hjúkrunarheimilis.
+ □ Íbúðalánasjóði er heimilt að veita sveitarfélögum lán vegna hjúkrunarheimila sem nemur allt að 100% af byggingarkostnaði eða kaupverði hjúkrunarheimilis fyrir aldraða á grundvelli samnings sem gerður hefur verið milli [ráðuneytisins][^1)^] og fjármálaráðuneytis annars vegar og viðkomandi sveitarfélags hins vegar um byggingu og leigu hjúkrunarheimilis.
  □ Lán vegna hjúkrunarheimila skulu tryggð með veði á fyrsta veðrétti í hlutaðeigandi hjúkrunarheimili. Lánið er verðtryggt með föstum vöxtum án heimildar til uppgreiðslu þess. Lánstíminn má nema allt að 40 árum.
  □ Íbúðalánasjóði er heimilt að veita sveitarfélögum lán á framkvæmdatíma sem nemur allt að 100% byggingarkostnaðar eins og kostnaðurinn er við lánveitingu á grundvelli samningsins um byggingu og leigu hjúkrunarheimilis, sbr. 1. mgr., enda séu fullnægjandi tryggingar veittar að mati stjórnar Íbúðalánasjóðs.
- □ Félags- og tryggingamálaráðherra setur með reglugerð[^1)^] frekari ákvæði um skilyrði lána vegna hjúkrunarheimila, svo sem lánsumsóknir, lánskjör og lánveitingu, þar með talið lánveitingu á framkvæmdatíma.][^2)^]
-    _[^1)^]Rg. 355/2010_. [^2)^]L. 120/2009, 21. gr.
+ □ [Ráðherra][^1)^] setur með reglugerð[^2)^] frekari ákvæði um skilyrði lána vegna hjúkrunarheimila, svo sem lánsumsóknir, lánskjör og lánveitingu, þar með talið lánveitingu á framkvæmdatíma.][^3)^]
+    _[^1)^]L. 162/2010, 19. gr._ [^2)^]Rg. 355/2010. [^3)^]L. 120/2009, 21. gr.
     ...[^1)^]
     _[^1)^]L. 120/2004, 6. gr._
 
  *VIII. kafli.* *Lán til leiguíbúða.*
  ■ *33. gr.* _Almennt._
  □ Íbúðalánasjóður veitir sveitarfélögum, félögum og félagasamtökum, er hafa að markmiði að byggja, eiga og hafa umsjón með rekstri leiguhúsnæðis, lán til byggingar eða kaupa leiguíbúða.
- □ Samþykktir eða stofnskrár félaga og félagasamtaka skv. 1. mgr. skulu hafa hlotið staðfestingu [félags- og tryggingamálaráðherra][^1)^] áður en þau eru skráð og hefja starfsemi sína.
-    _[^1)^]L. 66/2010, 15. gr._
+ □ Samþykktir eða stofnskrár félaga og félagasamtaka skv. 1. mgr. skulu hafa hlotið staðfestingu [ráðherra][^1)^] áður en þau eru skráð og hefja starfsemi sína.
+    _[^1)^]L. 162/2010, 19. gr._
  ■ *34. gr.* _Samþykktir._
- □ Í samþykktum félaga og félagasamtaka skulu vera ákvæði um eigið fé, fjárhagslega ábyrgð, skipun stjórnar, fjölda stjórnarmanna, kjör stjórnarmanna, fundarboðun, hver geti skuldbundið félagið, reikningsár og endurskoðun og ráðstöfun eigin fjár við slit félags. Í reglugerð,[^1)^] sem [félags- og tryggingamálaráðherra][^2)^] setur, skal setja nánari fyrirmæli um efni samþykkta félaga og félagasamtaka, svo og skilyrði um eigið fé og fjárhagslega ábyrgð slíkra aðila.
- □ [Félags- og tryggingamálaráðherra][^2)^] lætur gera fyrirmyndir að samþykktum skv. 1. mgr.
- □ [Félags- og tryggingamálaráðuneytið][^3)^] heldur skrá yfir félög og félagasamtök sem hlotið hafa staðfestingu ráðherra. Allar breytingar á samþykktum slíkra aðila skulu tilkynntar [félags- og tryggingamálaráðuneytinu][^3)^] þegar í stað.
- □ Samþykktir, sem [félags- og tryggingamálaráðuneytið][^3)^] hefur þegar staðfest vegna félaga og félagasamtaka, sem undir lög þessi falla, halda gildi sínu.
-    _[^1)^]Rg. 873/2001_, sbr. 56/2009. [^2)^]L. 66/2010, 15. gr. [^3)^]L. 66/2010, 16. gr.
+ □ Í samþykktum félaga og félagasamtaka skulu vera ákvæði um eigið fé, fjárhagslega ábyrgð, skipun stjórnar, fjölda stjórnarmanna, kjör stjórnarmanna, fundarboðun, hver geti skuldbundið félagið, reikningsár og endurskoðun og ráðstöfun eigin fjár við slit félags. Í reglugerð,[^1)^] sem [ráðherra][^2)^] setur, skal setja nánari fyrirmæli um efni samþykkta félaga og félagasamtaka, svo og skilyrði um eigið fé og fjárhagslega ábyrgð slíkra aðila.
+ □ [Ráðherra][^2)^] lætur gera fyrirmyndir að samþykktum skv. 1. mgr.
+ □ [Ráðuneytið][^2)^] heldur skrá yfir félög og félagasamtök sem hlotið hafa staðfestingu ráðherra. Allar breytingar á samþykktum slíkra aðila skulu tilkynntar [ráðuneytinu][^2)^] þegar í stað.
+ □ Samþykktir, sem [ráðuneytið][^2)^] hefur þegar staðfest vegna félaga og félagasamtaka, sem undir lög þessi falla, halda gildi sínu.
+    _[^1)^]Rg. 873/2001_, sbr. 56/2009. [^2)^]L. 162/2010, 19. gr.
  ■ *35. gr.* _Lánsumsóknir._
  □ Þegar sótt er um lán til leiguíbúða skv. 33. gr. skal koma fram í lánsumsókn fjöldi, gerð og stærð fyrirhugaðra íbúða, framkvæmdatími, áætlaður byggingarkostnaður og annað það sem nauðsynlegt er til þess að unnt sé að taka afstöðu til umsóknar. Einnig skal fylgja greinargerð um útvegun nauðsynlegs viðbótarfjár. Að lokinni athugun tekur Íbúðalánasjóður ákvörðun um hvort framkvæmdin og lánveiting falli að settum skilyrðum fyrir láni.
  □ Stjórn Íbúðalánasjóðs er heimilt að hafna lánsumsókn ef íbúðarhúsnæði telst óvandað eða ófullnægjandi að mati stjórnar sjóðsins.
- □ [Félags- og tryggingamálaráðherra][^1)^] setur með reglugerð[^2)^] frekari ákvæði um skilyrði lána til leiguíbúða, þar á meðal um gerð íbúða, stærðir þeirra, hagkvæmni og byggingarkostnað, svo og úrræði til þess að tryggja sem lægst íbúðarverð.
-    _[^1)^]L. 66/2010, 15. gr._ [^2)^]Rg. 873/2001, sbr. 56/2009.
+ □ [Ráðherra][^1)^] setur með reglugerð[^2)^] frekari ákvæði um skilyrði lána til leiguíbúða, þar á meðal um gerð íbúða, stærðir þeirra, hagkvæmni og byggingarkostnað, svo og úrræði til þess að tryggja sem lægst íbúðarverð.
+    _[^1)^]L. 162/2010, 19. gr._ [^2)^]Rg. 873/2001, sbr. 56/2009.
  ■ *36. gr.* _Lánskjör._
  □ Lán til leiguíbúða sem veitt eru sveitarfélögum, félagasamtökum og félögum til byggingar eða kaupa á leiguhúsnæði skulu tryggð með veði í hlutaðeigandi íbúð. Lánin skulu vera að fullu verðtryggð og höfuðstóll þeirra miðast við vísitölu neysluverðs eins og hún er á hverjum tíma.
  □ Lán til leiguíbúða mega nema allt að 90% af byggingarkostnaði eða kaupverði íbúðar, þó aldrei meira en 90% af þeim kostnaðargrundvelli af lánveitingu sem stjórn Íbúðalánasjóðs hefur samþykkt.
@@ -193,21 +193,21 @@ h2. Lög um húsnæðismál
  □ [Vextir af lánum til leiguíbúða geta verið fastir eða breytilegir. Fastir vextir og vaxtaálag ákveðast á sama hátt og vextir ÍLS-veðbréfa, sbr. 21. og 28. gr., en stjórn Íbúðalánasjóðs skal við gerð fjárhagsáætlunar ár hvert ákveða breytilega vexti. Ráðherra getur heimilað Íbúðalánasjóði með reglugerð[^1)^] að bjóða lántakendum skv. 1. mgr. að afsala sér rétti til þess að greiða án þóknunar upp lán eða greiða aukaafborganir, gegn lægra vaxtaálagi. Jafnframt skal í reglugerðinni kveðið á um hlutfall þóknunar sem Íbúðalánasjóður getur áskilið sér ef lántaki sem afsalar sér umræddum rétti hyggst greiða upp lán fyrir lok lánstíma. Slík þóknun skal aldrei nema hærri fjárhæð en nemur kostnaði Íbúðalánasjóðs vegna uppgreiðslu viðkomandi láns.][^2)^]
     _[^1)^]Rg. 57/2009_. [^2)^]L. 120/2004, 7. gr.
  ■ *37. gr.* _Ráðstöfun leiguhúsnæðis._
- □ Um rétt til leiguhúsnæðis fer eftir félagslegum aðstæðum umsækjanda og því hvort tekjur hans og eignir eru innan tekju- og eignamarka sem nánar skulu ákveðin í reglugerð[^1)^] er [félags- og tryggingamálaráðherra][^2)^] setur að fenginni umsögn Sambands íslenskra sveitarfélaga.
+ □ Um rétt til leiguhúsnæðis fer eftir félagslegum aðstæðum umsækjanda og því hvort tekjur hans og eignir eru innan tekju- og eignamarka sem nánar skulu ákveðin í reglugerð[^1)^] er [ráðherra][^2)^] setur að fenginni umsögn Sambands íslenskra sveitarfélaga.
  □ Um ráðstöfun íbúðarhúsnæðis sem húsnæðissamvinnufélög hafa fengið lán til byggingar eða kaupa á samkvæmt ákvæðum þessa kafla fer að öðru leyti eftir lögum um byggingar- og húsnæðissamvinnufélög.
  □ Aðilum, sem byggja eða kaupa leiguíbúðir, er heimilt að selja leigutaka, sem uppfyllir skilyrði 1. mgr., eignarhlut í íbúð með þeim kvöðum að eignarhluti kaupanda standi óhreyfður í íbúðinni á meðan hann hefur afnot af henni en greiðist síðan með fullum verðbótum samkvæmt vísitölu neysluverðs, án vaxta. Nánari reglur um eignarhlut leigutaka skulu settar í reglugerð.[^1)^]
  □ Óheimilt er að hafa eigendaskipti á íbúð sem á hvílir lán til leiguhúsnæðis nema til komi annaðhvort uppgreiðsla lánsins eða samþykki stjórnar Íbúðalánasjóðs.
-    _[^1)^]Rg. 873/2001_, sbr. 56/2009. [^2)^]L. 66/2010, 15. gr.
+    _[^1)^]Rg. 873/2001_, sbr. 56/2009. [^2)^]L. 162/2010, 19. gr.
  ■ *38. gr.* _Leiguíbúðir sveitarfélaga._
  □ Sveitarfélagi er heimilt að stofna hlutafélag, sjálfseignarstofnun eða félag með ótakmarkaðri ábyrgð er annist útleigu íbúða í eigu sveitarfélagsins. Sveitarstjórn er heimilt að leggja slíku félagi til íbúðir í eigu sveitarfélags, ásamt þeim skuldbindingum sem þeim fylgja.
- □ Áður en skráning hlutafélags fer fram skulu samþykktir þess staðfestar af [félags- og tryggingamálaráðherra].[^1)^]
- □ Stofni sveitarfélag hlutafélag skv. 1. mgr. skal allt hlutafé þess vera í eigu sveitarfélags og skal sala þess óheimil án samþykkis [félags- og tryggingamálaráðherra].[^1)^] Að öðru leyti skulu ákvæði laga um hlutafélög gilda um slíkt félag eftir því sem við getur átt.
+ □ Áður en skráning hlutafélags fer fram skulu samþykktir þess staðfestar af [ráðherra].[^1)^]
+ □ Stofni sveitarfélag hlutafélag skv. 1. mgr. skal allt hlutafé þess vera í eigu sveitarfélags og skal sala þess óheimil án samþykkis [ráðherra].[^1)^] Að öðru leyti skulu ákvæði laga um hlutafélög gilda um slíkt félag eftir því sem við getur átt.
  □ Sveitarfélag er leggur félagi skv. 1. mgr. til íbúðir í eigu sveitarfélagsins ber áfram ábyrgð á þeim fjárhagsskuldbindingum sem til hefur verið stofnað vegna byggingar eða kaupa slíkra íbúða.
  □ Ráðherra setur nánari ákvæði í reglugerð[^2)^] um skilyrði þess að sveitarstjórn megi stofna félag skv. 1. mgr., hvað skuli koma fram í samþykktum þess og hvernig skuli hagað yfirfærslu eigna og skulda til slíks félags.
-    _[^1)^]L. 66/2010, 15. gr._ [^2)^]Rg. 873/2001, sbr. 56/2009.
+    _[^1)^]L. 162/2010, 19. gr._ [^2)^]Rg. 873/2001, sbr. 56/2009.
  ■ *39. gr.* _Leigufjárhæð._
- □ [Félags- og tryggingamálaráðherra][^1)^] er heimilt að ákveða í reglugerð[^2)^] að mánaðarlegt leigugjald íbúða sem njóta láns til leiguíbúða úr Íbúðalánasjóði skuli miðast við afborganir og vexti af slíku láni og vaxtakostnað af framlagi eiganda íbúðar auk almenns rekstrarkostnaðar. Víki lántakandi frá viðmiðunarleiguupphæð er stjórn Íbúðalánasjóðs heimilt að gjaldfella lán til leiguhúsnæðis sem veitt hefur verið.
-    _[^1)^]L. 66/2010, 15. gr._ [^2)^]Rg. 873/2001, sbr. 56/2009.
+ □ [Ráðherra][^1)^] er heimilt að ákveða í reglugerð[^2)^] að mánaðarlegt leigugjald íbúða sem njóta láns til leiguíbúða úr Íbúðalánasjóði skuli miðast við afborganir og vexti af slíku láni og vaxtakostnað af framlagi eiganda íbúðar auk almenns rekstrarkostnaðar. Víki lántakandi frá viðmiðunarleiguupphæð er stjórn Íbúðalánasjóðs heimilt að gjaldfella lán til leiguhúsnæðis sem veitt hefur verið.
+    _[^1)^]L. 162/2010, 19. gr._ [^2)^]Rg. 873/2001, sbr. 56/2009.
  ■ *40. gr.* _Eftirlit með félögum og félagasamtökum._
  □ Félög og félagasamtök samkvæmt lögum þessum skulu láta Íbúðalánasjóði í té bókhaldsgögn, ársskýrslur og upplýsingar um framkvæmdir, húsbyggingar, ráðstöfun leiguhúsnæðis og ákvörðun leigufjárhæðar óski Íbúðalánasjóður eftir því.
  □ Komi í ljós að félög eða félagasamtök hafi vikið frá skilyrðum lánveitinga eða um ráðstöfun leiguhúsnæðis er Íbúðalánasjóði heimilt að endurskoða lánskjör eða gjaldfella lán.
@@ -218,18 +218,18 @@ h2. Lög um húsnæðismál
  ■ *41. gr.* ...[^1)^]
     _[^1)^]L. 66/2010, 17. gr._
  ■ *42. gr.* _[[Málsmeðferð.][^1)^]_
- □ Málsaðili getur skotið ákvörðun Íbúðalánasjóðs, húsnæðisnefndar eða þeirrar nefndar á vegum sveitarfélags sem falið hefur verið verkefni húsnæðisnefndar til [úrskurðarnefndar félagsþjónustu og húsnæðismála, sbr. "lög nr. 40/1991":1991040.html, um félagsþjónustu sveitarfélaga, með síðari breytingum].[^1)^] Skal það gert innan fjögurra vikna frá því að viðkomandi barst vitneskja um ákvörðun. [Nefndin skal taka erindi til meðferðar án tafar og kveða upp úrskurð sinn innan tveggja mánaða frá því að erindi barst henni.][^1)^]
+ □ Málsaðili getur skotið ákvörðun Íbúðalánasjóðs, húsnæðisnefndar eða þeirrar nefndar á vegum sveitarfélags sem falið hefur verið verkefni húsnæðisnefndar til [úrskurðarnefndar félagsþjónustu og húsnæðismála, sbr. "lög nr. 40/1991":1991040.html, um félagsþjónustu sveitarfélaga, með síðari breytingum].[^1)^] Skal það gert innan [þriggja mánaða][^2)^] frá því að viðkomandi barst vitneskja um ákvörðun. [Nefndin skal taka erindi til meðferðar án tafar og kveða upp úrskurð sinn innan tveggja mánaða frá því að erindi barst henni.][^1)^]
  □ Málskot til nefndarinnar frestar ekki framkvæmd kærðrar ákvörðunar nema nefndin ákveði annað.
- □ Úrskurði [úrskurðarnefndar félagsþjónustu og húsnæðismála][^1)^] verður ekki skotið til [félags- og tryggingamálaráðherra].[^1)^]
- □ [Félags- og tryggingamálaráðherra][^1)^] getur með reglugerð[^2)^] sett nánari ákvæði um störf og starfshætti [úrskurðarnefndar][^1)^] og skrifstofuhald.][^3)^]
-    _[^1)^]L. 66/2010, 18. gr._ [^2)^]Rg. 459/1999. [^3)^]L. 77/2001, 2. gr.
+ □ Úrskurði [úrskurðarnefndar félagsþjónustu og húsnæðismála][^1)^] verður ekki skotið til [ráðherra].[^3)^]
+ □ [Ráðherra][^3)^] getur með reglugerð[^4)^] sett nánari ákvæði um störf og starfshætti [úrskurðarnefndar][^1)^] og skrifstofuhald.][^5)^]
+    _[^1)^]L. 66/2010, 18. gr._ [^2)^]L. 152/2010, 46. gr. [^3)^]L. 162/2010, 19. gr. [^4)^]Rg. 459/1999. [^5)^]L. 77/2001, 2. gr.
 
  *X. kafli.* *[Varasjóður húsnæðismála.][^1)^]*
     _[^1)^]L. 86/2002, 1. gr._
  ■ *43. gr.* _[Varasjóður húsnæðismála._
- □ Starfræktur skal sérstakur varasjóður húsnæðismála í eigu og á ábyrgð sveitarfélaga. Varasjóður húsnæðismála er sjálfstæð rekstrareining en [félags- og tryggingamálaráðherra][^1)^] hefur yfirumsjón með starfsemi sjóðsins og setur honum reglur samkvæmt lögum þessum.
- □ [Félags- og tryggingamálaráðherra][^1)^] skipar fimm manna ráðgjafarnefnd varasjóðs húsnæðismála til fjögurra ára í senn. Ráðgjafarnefnd skipa fimm menn og jafnmargir til vara. Þrír nefndarmenn ásamt varamönnum skulu skipaðir eftir tilnefningu Sambands íslenskra sveitarfélaga, einn ásamt varamanni eftir tilnefningu fjármálaráðherra og einn ásamt varamanni af [félags- og tryggingamálaráðherra].[^1)^] [Félags- og tryggingamálaráðherra][^1)^] skipar formann nefndarinnar og varamann hans úr hópi aðalmanna. Þóknun nefndarmanna greiðist úr sjóðnum samkvæmt ákvörðun ráðherra auk annars kostnaðar við störf nefndarinnar.][^2)^]
-    _[^1)^]L. 66/2010, 15. gr._ [^2)^]L. 86/2002, 1. gr.
+ □ Starfræktur skal sérstakur varasjóður húsnæðismála í eigu og á ábyrgð sveitarfélaga. Varasjóður húsnæðismála er sjálfstæð rekstrareining en [ráðherra][^1)^] hefur yfirumsjón með starfsemi sjóðsins og setur honum reglur samkvæmt lögum þessum.
+ □ [Ráðherra][^1)^] skipar fimm manna ráðgjafarnefnd varasjóðs húsnæðismála til fjögurra ára í senn. Ráðgjafarnefnd skipa fimm menn og jafnmargir til vara. Þrír nefndarmenn ásamt varamönnum skulu skipaðir eftir tilnefningu Sambands íslenskra sveitarfélaga, einn ásamt varamanni eftir tilnefningu fjármálaráðherra og einn ásamt varamanni af [ráðherra].[^1)^] [Ráðherra][^1)^] skipar formann nefndarinnar og varamann hans úr hópi aðalmanna. Þóknun nefndarmanna greiðist úr sjóðnum samkvæmt ákvörðun ráðherra auk annars kostnaðar við störf nefndarinnar.][^2)^]
+    _[^1)^]L. 162/2010, 19. gr._ [^2)^]L. 86/2002, 1. gr.
  ■ *44. gr.* _[Hlutverk ráðgjafarnefndar varasjóðs húsnæðismála._
  □ Hlutverk ráðgjafarnefndar er:
     1. Að veita rekstrarframlög til sveitarfélaga vegna hallareksturs félagslegra leiguíbúða eða íbúða sem hafa staðið auðar í lengri tíma. Rekstrarframlög til sveitarfélaga skulu reiknuð út [að teknu tilliti til tekjumöguleika þeirra og nýtingar tekjustofna][^1)^] í samræmi við sérstakt reiknilíkan sem nánar skal skilgreina í reglugerð.[^2)^]
@@ -243,8 +243,8 @@ h2. Lög um húsnæðismál
  ■ *45. gr.* _[Varasjóður viðbótarlána._
  □ Varasjóður viðbótarlána bætir einstök tjón sem Íbúðalánasjóður verður fyrir vegna útlánatapa á viðbótarlánum og vegna kostnaðar við uppboðsmeðferð eigna sem á hvíla viðbótarlán. Þegar fyrirsjáanlegt er að ábyrgð eða kostnaður muni falla á varasjóðinn skal Íbúðalánasjóður tilkynna stjórn varasjóðs slíkt.
  □ ...[^1)^]
- □ Nánari ákvæði um varasjóð viðbótarlána skulu sett í reglugerð[^2)^] um varasjóð húsnæðismála sem [félags- og tryggingamálaráðherra][^3)^] gefur út að höfðu samráði við ráðgjafarnefnd varasjóðs húsnæðismála.][^4)^]
-    _[^1)^]L. 120/2004, 9. gr._ [^2)^]Rg. 656/2002, sbr. 754/2003 og 1180/2005. [^3)^]L. 66/2010, 15. gr. [^4)^]L. 86/2002, 1. gr.
+ □ Nánari ákvæði um varasjóð viðbótarlána skulu sett í reglugerð[^2)^] um varasjóð húsnæðismála sem [ráðherra][^3)^] gefur út að höfðu samráði við ráðgjafarnefnd varasjóðs húsnæðismála.][^4)^]
+    _[^1)^]L. 120/2004, 9. gr._ [^2)^]Rg. 656/2002, sbr. 754/2003 og 1180/2005. [^3)^]L. 162/2010, 19. gr. [^4)^]L. 86/2002, 1. gr.
 
  *XI. kafli.* *Ýmis ákvæði.*
  ■ *46. gr.* ...[^1)^]
@@ -253,12 +253,12 @@ h2. Lög um húsnæðismál
  □ Stjórn Íbúðalánasjóðs er heimilt að afskrifa útistandandi veðkröfur sjóðsins sem glatað hafa veðtryggingu við nauðungarsölu íbúðar.
  □ [[Stjórn Íbúðalánasjóðs er einnig heimilt að afskrifa útistandandi veðkröfur sjóðsins þegar íbúð sem stóð að veði fyrir viðkomandi kröfu hefur eyðilagst af óviðráðanlegum orsökum. Afskriftaheimildin nær til veðkrafna sjóðsins að því leyti sem söluverð, afsláttur eða bætur duga ekki til að greiða þær upp miðað við veðröð áhvílandi lána. Skilyrði fyrir afskriftum samkvæmt þessari málsgrein er að fasteignareigandi hafi tekið venjubundnar fasteignatryggingar.][^1)^]
  □ [Íbúðalánasjóði er heimilt að semja við einstaklinga um niðurfellingu á hluta af skuldum þeirra við sjóðinn gegn greiðslu á eftirstöðvum vanskila, enda sé niðurfelling skulda liður í samræmdum aðgerðum kröfuhafa, þ.m.t. fjármálafyrirtækja, í tengslum við heildarendurskipulagningu á fjármálum viðkomandi. Þá er Íbúðalánasjóði heimilt að afskrifa útistandandi veðkröfur í samræmi við ákvæði "laga nr. 63/1985":1985063.html, um greiðslujöfnun fasteignaveðlána til einstaklinga, og ákvæði "laga nr. 50/2009":2009050.html, um tímabundna greiðsluaðlögun fasteignaveðkrafna á íbúðarhúsnæði.][^2)^]
- □ [Stjórn Íbúðalánasjóðs er heimilt að fengnum tillögum ráðgjafarnefndar varasjóðs húsnæðismála og í samráði við viðkomandi sveitarfélag að afskrifa að hluta eða að öllu leyti útistandandi veðkröfur sjóðsins á félagslegri leiguíbúð sveitarfélags. Skilyrði þessa er að eign sú sem stendur að veði fyrir viðkomandi kröfu verði ekki leigð út vegna slæms ástands og verði afskrifuð þar sem að mati sérfróðra matsmanna verður ekki talið hagkvæmt að endurbyggja hana í ljósi stöðu á fasteignamarkaði sveitarfélagsins. Viðkomandi sveitarfélag leggur fram a.m.k. jafnháa upphæð og Íbúðalánasjóður. [Félags- og tryggingamálaráðherra][^3)^] setur, að fenginni umsögn stjórnar Íbúðalánasjóðs og ráðgjafarnefndar varasjóðs húsnæðismála, reglugerð m.a. um nánari skilyrði fyrir afskriftum útistandandi veðkrafna Íbúðalánasjóðs á félagslegum leiguíbúðum sveitarfélags.][^4)^]
- □ [Stjórn Íbúðalánasjóðs er heimilt að fengnum tillögum eftirlitsnefndar með fjármálum sveitarfélaga, og með samþykki [félags- og tryggingamálaráðherra],[^3)^] að semja við sveitarfélag um afskrift á hluta af skuldum þess við sjóðinn gegn greiðslu á eftirstöðvum vanskila og hluta skulda, enda séu fjármál viðkomandi sveitarfélags til meðferðar hjá eftirlitsnefnd með fjármálum sveitarfélaga, sbr. 74. og 75. gr. sveitarstjórnarlaga. Einnig sé um að ræða lið í samræmdum aðgerðum kröfuhafa í tengslum við heildarendurskipulagningu á fjármálum sveitarfélagsins og ljóst að hagsmunum Íbúðalánasjóðs verði betur borgið með slíkum samningi.][^5)^]
- □ [Stjórn Íbúðalánasjóðs er heimilt að semja við félag eða félagasamtök um niðurfellingu á hluta af skuldum þeirra við sjóðinn gegn greiðslu á eftirstöðvum vanskila, enda sé niðurfelling skulda liður í samræmdum aðgerðum kröfuhafa í tengslum við heildarendurskipulagningu á fjármálum viðkomandi. Telji stjórn Íbúðalánasjóðs, m.a. með hliðsjón af 1. gr., að hagsmunum sjóðsins verði betur borgið með slíkum samningi sendir stjórnin tillögu þess efnis til umsagnar [félags- og tryggingamálaráðuneytis],[^6)^] fjármálaráðuneytis og Ríkisendurskoðunar. Skilyrði fyrir heimild Íbúðalánasjóðs til afskrifta er að þessir aðilar hafi fallist á tillöguna.][^7)^]
- □ Stjórn Íbúðalánasjóðs skal afla samþykkis varasjóðs viðbótarlána til að afskrifa útistandandi veðkröfur viðbótarlána.][^8)^]
- □ [Félags- og tryggingamálaráðherra][^3)^] setur, að fenginni umsögn stjórnar Íbúðalánasjóðs, reglugerð[^9)^] um nánari framkvæmd innheimtu krafna skv. 1. mgr. og um skilyrði fyrir afskriftum samkvæmt þessari grein.
-    _[^1)^]L. 57/2004, 21. gr._ [^2)^]"L. 107/2009, 8. gr.":2009107.html#g8 [^3)^]L. 66/2010, 15. gr. [^4)^]L. 86/2002, 2. gr. [^5)^]L. 155/2001, 1. gr. [^6)^]L. 66/2010, 16. gr. [^7)^]L. 163/2002, 1. gr. [^8)^]L. 77/2001, 3. gr. [^9)^]Rg. 359/2010.
+ □ [Stjórn Íbúðalánasjóðs er heimilt að fengnum tillögum ráðgjafarnefndar varasjóðs húsnæðismála og í samráði við viðkomandi sveitarfélag að afskrifa að hluta eða að öllu leyti útistandandi veðkröfur sjóðsins á félagslegri leiguíbúð sveitarfélags. Skilyrði þessa er að eign sú sem stendur að veði fyrir viðkomandi kröfu verði ekki leigð út vegna slæms ástands og verði afskrifuð þar sem að mati sérfróðra matsmanna verður ekki talið hagkvæmt að endurbyggja hana í ljósi stöðu á fasteignamarkaði sveitarfélagsins. Viðkomandi sveitarfélag leggur fram a.m.k. jafnháa upphæð og Íbúðalánasjóður. [Ráðherra][^3)^] setur, að fenginni umsögn stjórnar Íbúðalánasjóðs og ráðgjafarnefndar varasjóðs húsnæðismála, reglugerð m.a. um nánari skilyrði fyrir afskriftum útistandandi veðkrafna Íbúðalánasjóðs á félagslegum leiguíbúðum sveitarfélags.][^4)^]
+ □ [Stjórn Íbúðalánasjóðs er heimilt að fengnum tillögum eftirlitsnefndar með fjármálum sveitarfélaga, og með samþykki [ráðherra],[^3)^] að semja við sveitarfélag um afskrift á hluta af skuldum þess við sjóðinn gegn greiðslu á eftirstöðvum vanskila og hluta skulda, enda séu fjármál viðkomandi sveitarfélags til meðferðar hjá eftirlitsnefnd með fjármálum sveitarfélaga, sbr. 74. og 75. gr. sveitarstjórnarlaga. Einnig sé um að ræða lið í samræmdum aðgerðum kröfuhafa í tengslum við heildarendurskipulagningu á fjármálum sveitarfélagsins og ljóst að hagsmunum Íbúðalánasjóðs verði betur borgið með slíkum samningi.][^5)^]
+ □ [Stjórn Íbúðalánasjóðs er heimilt að semja við félag eða félagasamtök um niðurfellingu á hluta af skuldum þeirra við sjóðinn gegn greiðslu á eftirstöðvum vanskila, enda sé niðurfelling skulda liður í samræmdum aðgerðum kröfuhafa í tengslum við heildarendurskipulagningu á fjármálum viðkomandi. Telji stjórn Íbúðalánasjóðs, m.a. með hliðsjón af 1. gr., að hagsmunum sjóðsins verði betur borgið með slíkum samningi sendir stjórnin tillögu þess efnis til umsagnar [ráðuneytisins],[^3)^] fjármálaráðuneytis og Ríkisendurskoðunar. Skilyrði fyrir heimild Íbúðalánasjóðs til afskrifta er að þessir aðilar hafi fallist á tillöguna.][^6)^]
+ □ Stjórn Íbúðalánasjóðs skal afla samþykkis varasjóðs viðbótarlána til að afskrifa útistandandi veðkröfur viðbótarlána.][^7)^]
+ □ [Ráðherra][^3)^] setur, að fenginni umsögn stjórnar Íbúðalánasjóðs, reglugerð[^8)^] um nánari framkvæmd innheimtu krafna skv. 1. mgr. og um skilyrði fyrir afskriftum samkvæmt þessari grein.
+    _[^1)^]L. 57/2004, 21. gr._ [^2)^]"L. 107/2009, 8. gr.":2009107.html#g8 [^3)^]L. 162/2010, 19. gr. [^4)^]L. 86/2002, 2. gr. [^5)^]L. 155/2001, 1. gr. [^6)^]L. 163/2002, 1. gr. [^7)^]L. 77/2001, 3. gr. [^8)^]Rg. 359/2010.
  ■ *48. gr.* _Greiðsluvandi._
  □ [Stjórn Íbúðalánasjóðs er heimilt að veita skuldbreytingarlán til allt að [30 ára][^1)^] í því skyni að leysa úr tímabundnum greiðsluerfiðleikum hjá lánþegum vegna almennra lána, viðbótarlána og lána sem sjóðurinn hefur yfirtekið, sbr. [2. mgr. 15. gr. og][^2)^] 53. gr. [Stjórn Íbúðalánasjóðs er einnig heimilt að veita lántakendum lána til byggingar eða kaupa á leiguhúsnæði, sem og lánþegum eldri leiguíbúðalána sem Íbúðalánasjóður hefur yfirtekið, lán til skuldbreytingar á vanskilum til allt að 30 ára í því skyni að leysa úr tímabundnum greiðsluerfiðleikum.][^3)^] Skilyrði er að greiðsluvandi stafi af óvæntum tímabundnum erfiðleikum vegna veikinda, slysa, minni atvinnu eða atvinnuleysis eða af öðrum ófyrirséðum atvikum.
  □ Stjórn Íbúðalánasjóðs er heimilt, með sömu skilyrðum og um getur í 1. mgr., að fresta greiðslum hjá einstökum lánþegum vegna almennra lána, viðbótarlána og lána sem sjóðurinn hefur yfirtekið, sbr. [2. mgr. 15. gr. og][^2)^] 53. gr., í allt að þrjú ár og leggja þær greiðslur við höfuðstól skuldarinnar, enda þyki slík aðstoð líkleg til að koma í veg fyrir greiðsluvanda. Upphaflegur lánstími lengist sem nemur frestunartíma. [Heimilt er að fresta greiðslum tímabundið í heild eða að hluta, t.d. þannig að lánþegi greiði eingöngu vexti og verðbætur vegna vaxta. Þá er stjórn Íbúðalánasjóðs heimilt að fresta hluta greiðslunnar með þeim hætti að færa hluta eftirstöðva á jöfnunarreikning, sbr. "lög nr. 63/1985":1985063.html, og ákveða að endurgreiðsla lánsins fylgi greiðslumarki sem miðist við þann hluta eftirstöðvanna sem ekki var færður á jöfnunarreikning.][^3)^]
@@ -270,11 +270,11 @@ h2. Lög um húsnæðismál
  □ Ráðherra setur nánari reglur[^4)^] um framkvæmd þessa ákvæðis að fengnum tillögum stjórnar Íbúðalánasjóðs.][^5)^]
     _[^1)^]L. 138/2008, 2. gr._ [^2)^]"L. 125/2008, 13. gr.":2008125.html [^3)^]"L. 107/2009, 9. gr.":2009107.html [^4)^]Rg. 584/2001, sbr. 954/2008. Rgl. 585/2008. [^5)^]L. 77/2001, 4. gr.
  ■ *49. gr.* _Gjaldtaka._
- □ [Félags- og tryggingamálaráðherra][^1)^] ákvarðar með reglugerð,[^2)^] að fengnum tillögum stjórnar Íbúðalánasjóðs, lántökugjöld, gjöld vegna innheimtu af lánum stofnunarinnar sem eru í vanskilum og gjöld vegna skuldbreytinga, veðleyfa og veðbandslausna, svo og gjöld vegna annarrar sambærilegrar þjónustu. Heimilt er að jafna kostnaði niður á skuldara þannig að búseta hafi ekki áhrif á kostnaðinn.
-    _[^1)^]L. 66/2010, 15. gr._ [^2)^]Rg. 1016/2005, sbr. 504/2008.
+ □ [Ráðherra][^1)^] ákvarðar með reglugerð,[^2)^] að fengnum tillögum stjórnar Íbúðalánasjóðs, lántökugjöld, gjöld vegna innheimtu af lánum stofnunarinnar sem eru í vanskilum og gjöld vegna skuldbreytinga, veðleyfa og veðbandslausna, svo og gjöld vegna annarrar sambærilegrar þjónustu. Heimilt er að jafna kostnaði niður á skuldara þannig að búseta hafi ekki áhrif á kostnaðinn.
+    _[^1)^]L. 162/2010, 19. gr._ [^2)^]Rg. 1016/2005, sbr. 504/2008.
  ■ *50. gr.* _Reglugerð._
- □ [Félags- og tryggingamálaráðherra][^1)^] setur með reglugerð[^2)^] nánari ákvæði um framkvæmd laga þessara.
-    _[^1)^]L. 66/2010, 15. gr._ [^2)^]Rg. 783/1998, sbr. 395/2001. Rg. 459/1999. Rg. 584/2001. Rg. 873/2001, sbr. 56/2009. Rg. 656/2002, sbr. 1180/2005 og 476/2007. Rg. 1016/2005, sbr. 504/2008. Rg. 57/2009. Rg. 359/2010.
+ □ [Ráðherra][^1)^] setur með reglugerð[^2)^] nánari ákvæði um framkvæmd laga þessara.
+    _[^1)^]L. 162/2010, 19. gr._ [^2)^]Rg. 783/1998, sbr. 395/2001. Rg. 459/1999. Rg. 584/2001. Rg. 873/2001, sbr. 56/2009. Rg. 656/2002, sbr. 1180/2005 og 476/2007. Rg. 1016/2005, sbr. 504/2008. Rg. 57/2009. Rg. 359/2010.
  ■ *51. gr.* _Viðurlög._
  □ Brot gegn lögum þessum og reglugerðum settum samkvæmt þeim geta varðað sektum.
 
@@ -282,11 +282,11 @@ h2. Lög um húsnæðismál
 ■ *52. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. janúar 1999.
  □ Við gildistöku laganna falla úr gildi "lög nr. 97/1993":1993097.html, um Húsnæðisstofnun ríkisins. Þau ákvæði "laga nr. 97/1993":1993097.html sem vísað er til í ákvæði I til bráðabirgða skulu þó halda gildi sínu. Jafnframt skulu halda gildi sínu þau ákvæði "laga nr. 97/1993":1993097.html sem vísað er til í ákvæði II til bráðabirgða og snerta innlausn félagslegra íbúða og útreikning innlausnarverðs. Enn fremur halda gildi sínu þau ákvæði sem vísað er til í ákvæði IV til bráðabirgða og varða réttarstöðu eigenda félagslegra íbúða, svo og þær greinar sem vísað er til í ákvæði V til bráðabirgða og snerta réttarstöðu þeirra sem gert hafa samninga um leigu á félagslegum leiguíbúðum og kaupleiguíbúðum. Loks skulu þau ákvæði "laga nr. 97/1993":1993097.html, sem vísað er til í ákvæði til bráðabirgða VII um meðferð umsókna um félagslegar eignaríbúðir, halda gildi sínu.
- □ Við gildistöku laga þessara skal [félags- og tryggingamálaráðherra][^1)^] gefa út þau ákvæði "laga nr. 97/1993":1993097.html sem halda skulu gildi sínu skv. 2. mgr.
- □ Þrátt fyrir ákvæði 1. mgr. skulu ákvæði 13. gr. um skipan húsnæðisnefnda öðlast gildi þegar í stað. Frá sama tíma fellur úr gildi "39. gr. laga nr. 97/1993":1993097.html. Ákvæði 55. gr. um undirbúningsnefnd og 56. gr. um matsnefnd öðlast gildi þegar í stað. [Félags- og tryggingamálaráðherra][^1)^] skal skipa nefndir þessar eigi síðar en 1. júní 1998.
+ □ Við gildistöku laga þessara skal [ráðherra][^1)^] gefa út þau ákvæði "laga nr. 97/1993":1993097.html sem halda skulu gildi sínu skv. 2. mgr.
+ □ Þrátt fyrir ákvæði 1. mgr. skulu ákvæði 13. gr. um skipan húsnæðisnefnda öðlast gildi þegar í stað. Frá sama tíma fellur úr gildi "39. gr. laga nr. 97/1993":1993097.html. Ákvæði 55. gr. um undirbúningsnefnd og 56. gr. um matsnefnd öðlast gildi þegar í stað. [Ráðherra][^1)^] skal skipa nefndir þessar eigi síðar en 1. júní 1998.
  □ Ákvæði 1. mgr. í ákvæði til bráðabirgða VII öðlast gildi þegar í stað.
  □ Við gildistöku laganna skal Húsnæðisstofnun ríkisins lögð niður. Íbúðalánasjóður skal þá taka við hlutverki, réttindum, öllum eignum, skyldum og skuldbindingum Húsnæðisstofnunar ríkisins.
-    _[^1)^]L. 66/2010, 15. gr._
+    _[^1)^]L. 162/2010, 19. gr._
  ■ *53. gr.* _Sameining sjóða._
  □ Við gildistöku laga þessara skulu Byggingarsjóður ríkisins og Byggingarsjóður verkamanna lagðir niður og sameinaðir. Frá sama tíma tekur Íbúðalánasjóður við hlutverki, réttindum, eignum, skuldum og skuldbindingum Byggingarsjóðs ríkisins og Byggingarsjóðs verkamanna. Réttindi og undanþágur sem Byggingarsjóður ríkisins og Byggingarsjóður verkamanna njóta samkvæmt gildandi lögum skulu taka til Íbúðalánasjóðs.
  □ Greiðslu- og vistunarstaður skuldaskjala, sem eru í eigu eða til innheimtu hjá Byggingarsjóði ríkisins eða Byggingarsjóði verkamanna, verður hjá Íbúðalánasjóði þegar hann tekur til starfa. Íbúðalánasjóður tekur við öllum réttindum og öllum skyldum tengdum skuldaskjölum í eigu þeirra eða aðild að dómsmálum sem þeir reka eða rekin eru gegn þeim. Byggingarsjóður ríkisins og Byggingarsjóður verkamanna skulu birta tvær auglýsingar þessa efnis í Lögbirtingablaðinu. Skulu þær birtast með u.þ.b. tveggja vikna millibili, hin fyrri a.m.k. 30 dögum áður en Íbúðalánasjóður tekur til starfa. Ákvæði í veðskuldabréfum, sem gefin hafa verið út vegna lána úr Byggingarsjóði ríkisins og Byggingarsjóði verkamanna, skulu að öðru leyti halda gildi sínu.
@@ -295,15 +295,15 @@ h2. Lög um húsnæðismál
 ■ *54. gr.* _Skipun stjórnar._
  □ Stjórn Íbúðalánasjóðs skal skipuð í fyrsta sinn frá og með 1. janúar 1999. Á sama tíma lýkur skipunartíma núverandi húsnæðismálastjórnar og til starfa tekur stjórn Íbúðalánasjóðs samkvæmt þessum lögum.
 ■ *55. gr.* _Undirbúningsnefnd._
- □ [Félags- og tryggingamálaráðherra][^1)^] skipar fimm manna undirbúningsnefnd til þess að annast undirbúning og nauðsynlegar aðgerðir vegna stofnunar Íbúðalánasjóðs og yfirtöku réttinda og skyldna samkvæmt lögum þessum. Nefndin skal hafa heimild til þess að gera hvers kyns löggerninga, sem eru nauðsynlegir vegna fyrirhugaðrar starfrækslu Íbúðalánasjóðs. Við gildistöku laga þessara skal Íbúðalánasjóður bundinn við þá löggerninga. Ráðherra setur nefndinni erindisbréf.
+ □ [Ráðherra][^1)^] skipar fimm manna undirbúningsnefnd til þess að annast undirbúning og nauðsynlegar aðgerðir vegna stofnunar Íbúðalánasjóðs og yfirtöku réttinda og skyldna samkvæmt lögum þessum. Nefndin skal hafa heimild til þess að gera hvers kyns löggerninga, sem eru nauðsynlegir vegna fyrirhugaðrar starfrækslu Íbúðalánasjóðs. Við gildistöku laga þessara skal Íbúðalánasjóður bundinn við þá löggerninga. Ráðherra setur nefndinni erindisbréf.
  □ Undirbúningsnefndin skal hafa fullan aðgang að öllum gögnum Húsnæðisstofnunar ríkisins og sjóða sem hún fer með. Skulu stjórnendur og starfsmenn stofnunarinnar veita nefndinni alla nauðsynlega aðstoð sem hún óskar eftir.
  □ Kostnaður við störf undirbúningsnefndarinnar greiðist úr ríkissjóði.
-    _[^1)^]L. 66/2010, 15. gr._
+    _[^1)^]L. 162/2010, 19. gr._
  ■ *56. gr.* _Matsnefnd._
- □ [Félags- og tryggingamálaráðherra][^1)^] skipar nefnd þriggja óvilhallra manna til þess að leggja mat á allar eignir og skuldir Húnæðisstofnunar ríkisins, Byggingarsjóðs ríkisins, Byggingarsjóðs verkamanna og annarra sjóða sem Húsnæðisstofnun ríkisins fer með eða varðveitir. Niðurstöður nefndarinnar skulu liggja fyrir í síðasta lagi 1. mars 1999. Ráðherra setur nefndinni erindisbréf.
+ □ [Ráðherra][^1)^] skipar nefnd þriggja óvilhallra manna til þess að leggja mat á allar eignir og skuldir Húnæðisstofnunar ríkisins, Byggingarsjóðs ríkisins, Byggingarsjóðs verkamanna og annarra sjóða sem Húsnæðisstofnun ríkisins fer með eða varðveitir. Niðurstöður nefndarinnar skulu liggja fyrir í síðasta lagi 1. mars 1999. Ráðherra setur nefndinni erindisbréf.
  □ Matsnefndin skal hafa fullan aðgang að öllum gögnum Húsnæðisstofnunar ríkisins og sjóða sem hún fer með. Skulu stjórnendur og starfsmenn stofnunarinnar veita nefndinni nauðsynlega aðstoð.
  □ Kostnaður við störf nefndarinnar greiðist úr ríkissjóði.
-    _[^1)^]L. 66/2010, 15. gr._
+    _[^1)^]L. 162/2010, 19. gr._
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* _Ákvæði "laga nr. 97/1993":1993097.html._
@@ -325,11 +325,11 @@ h2. Lög um húsnæðismál
  □ Á næstu tveimur árum eftir gildistöku laga þessara er sveitarfélögum heimilt eftir tillögu húsnæðisnefnda sveitarfélaga að ákveða að tiltekinn hluti árlegra viðbótarlána skuli fara til að mæta endursölu innleystra íbúða, enda taki söluverð slíkra íbúða mið af markaðsverði íbúða á viðkomandi svæði.
     _[^1)^]L. 77/2001, 5. gr._
  ■ *IV.* _Sala og ráðstöfun eignaríbúða._
- □ [[Félags- og tryggingamálaráðherra][^1)^] er heimilt þrátt fyrir ákvæði til bráðabirgða I og II og gildandi ákvæði "laga um Húsnæðisstofnun ríkisins, nr. 97/1993":1993097.html, að staðfesta ósk sveitarfélags um að aflétt verði kaupskyldu og forkaupsrétti viðkomandi sveitarfélags. Slík framkomin ályktun sveitarfélagsins verður að taka til allra félagslegra eignaríbúða innan viðkomandi sveitarfélags. Hafi sveitarfélag fengið slíka staðfestingu ráðherra getur eigandi félagslegrar eignaríbúðar farið fram á að kaupskylda og forkaupsréttur sveitarfélags verði ekki virk og selt íbúð sína á almennum markaði.
+ □ [[Ráðherra][^1)^] er heimilt þrátt fyrir ákvæði til bráðabirgða I og II og gildandi ákvæði "laga um Húsnæðisstofnun ríkisins, nr. 97/1993":1993097.html, að staðfesta ósk sveitarfélags um að aflétt verði kaupskyldu og forkaupsrétti viðkomandi sveitarfélags. Slík framkomin ályktun sveitarfélagsins verður að taka til allra félagslegra eignaríbúða innan viðkomandi sveitarfélags. Hafi sveitarfélag fengið slíka staðfestingu ráðherra getur eigandi félagslegrar eignaríbúðar farið fram á að kaupskylda og forkaupsréttur sveitarfélags verði ekki virk og selt íbúð sína á almennum markaði.
  □ Heimildarákvæði þetta hefur ekki áhrif á rétt eigenda félagslegra eignaríbúða til að óska sérstaklega eftir því að sveitarfélög leysi til sín félagslegar eignaríbúðir sem kaupskylda samkvæmt ákvæðum til bráðabirgða I og II í lögum þessum hvílir á né þegar um nauðungarsölu á félagslegum eignaríbúðum er að ræða.
  □ Áður en íbúð er seld á almennum markaði skal eigandi íbúðarinnar greiða upp skuld við framkvæmdaraðila og þau lán sem veitt hafa verið af Byggingarsjóði verkamanna.
  □ Um réttarstöðu eigenda félagslegra eignaríbúða fer að öðru leyti eftir því sem mælt er fyrir um í "70":1993097.html#g70. - "71. gr. laga um Húsnæðisstofnun ríkisins, nr. 97/1993":1993097.html#g71, eftir því sem við getur átt og með þeim takmörkunum sem í lögum þessum greinir.][^2)^]
-    _[^1)^]L. 66/2010, 15. gr. [^2)^]L. 86/2002, 3. gr._
+    _[^1)^]L. 162/2010, 19. gr. [^2)^]L. 86/2002, 3. gr._
  ■ *V.* _Leigu- og kaupleiguíbúðir._
  □ Samningar, sem einstaklingar hafa gert um félagslegar leiguíbúðir, halda gildi sínu. Um samskipti leigutaka og framkvæmdaraðila gilda ákvæði laga um húsaleigusamninga. Um leigugjald gilda ákvæði "73. gr. laga nr. 97/1993":1993097.html#g73.
  □ Samningar, sem einstaklingar hafa gert um kaupleiguíbúðir, halda gildi sínu. Um réttarstöðu slíkra aðila og um samskipti við framkvæmdaraðila fer eftir því sem segir í 72. gr., 2., 3., 5. og 6. mgr. 73. gr. og "76. gr. laga nr. 97/1993":1993097.html#g76 með þeim takmörkunum þó sem í lögum þessum greinir.
@@ -349,12 +349,12 @@ h2. Lög um húsnæðismál
     1. Eignir, réttindi og skyldur eldri varasjóðs.
     2. Framlög sveitarfélaga til Tryggingarsjóðs vegna byggingargalla skv. 53. gr. laganna. Heimilt er varasjóði húsnæðismála að ráðstafa fyrirliggjandi fjármunum Tryggingarsjóðs vegna byggingargalla til verkefna varasjóðs húsnæðismála. Í staðinn ábyrgist hinn nýstofnaði sjóður samþykktar útgreiðslur vegna byggingargalla félagslegra íbúða til ársins 2013.
     3. Framlög ríkissjóðs. Samkvæmt sérstöku rammasamkomulagi ríkis og Sambands íslenskra sveitarfélaga leggur ríkið fram 60 milljónir króna á ári til verkefnis varasjóðs húsnæðismála skv. 44. gr. [Samkomulag þetta gildir til og með árinu 2009.][^1)^]
-    4. Framlög frá sveitarfélögum samkvæmt sérstöku rammasamkomulagi ríkis og Sambands íslenskra sveitarfélaga um verkefni varasjóðs húsnæðismála skv. 44. gr. Framlög sveitarfélaganna innheimtir [félags- og tryggingamálaráðuneytið][^2)^] með því að draga þau frá úthlutun til þeirra úr Jöfnunarsjóði sveitarfélaga. Varasjóður húsnæðismála annast innheimtu hjá þeim sveitarfélögum er ekki fá greiðslur úr Jöfnunarsjóði sveitarfélaga.][^3)^]
-    [5. Ráðgjafarnefnd varasjóðsins verði heimilt á árunum 2005, 2006 og 2007 að nýta 280 milljónir króna á ári af fjármunum skv. 3. tölul. 1. mgr. 44. gr. til verkefna skv. 1. og 2. tölul. sömu málsgreinar. Einnig verði varasjóðnum heimilt að nýta hluta þessara fjármuna til að aðstoða við úreldingu íbúða í eigu sveitarfélaga, á grundvelli reglugerðar[^4)^] sem [félags- og tryggingamálaráðherra][^5)^] setur að fenginni umsögn Íbúðalánasjóðs og Sambands íslenskra sveitarfélaga.][^1)^]
-    _[^1)^]L. 137/2005, 2. gr._, sbr. einnig 3. gr. s.l. [^2)^]L. 66/2010, 16. gr. [^3)^]L. 86/2002, 4. gr. [^4)^]Rg. 656/2002, sbr. 476/2007. [^5)^]L. 66/2010, 15. gr.
+    4. Framlög frá sveitarfélögum samkvæmt sérstöku rammasamkomulagi ríkis og Sambands íslenskra sveitarfélaga um verkefni varasjóðs húsnæðismála skv. 44. gr. Framlög sveitarfélaganna innheimtir [ráðuneytið][^2)^] með því að draga þau frá úthlutun til þeirra úr Jöfnunarsjóði sveitarfélaga. Varasjóður húsnæðismála annast innheimtu hjá þeim sveitarfélögum er ekki fá greiðslur úr Jöfnunarsjóði sveitarfélaga.][^3)^]
+    [5. Ráðgjafarnefnd varasjóðsins verði heimilt á árunum 2005, 2006 og 2007 að nýta 280 milljónir króna á ári af fjármunum skv. 3. tölul. 1. mgr. 44. gr. til verkefna skv. 1. og 2. tölul. sömu málsgreinar. Einnig verði varasjóðnum heimilt að nýta hluta þessara fjármuna til að aðstoða við úreldingu íbúða í eigu sveitarfélaga, á grundvelli reglugerðar[^4)^] sem [ráðherra][^2)^] setur að fenginni umsögn Íbúðalánasjóðs og Sambands íslenskra sveitarfélaga.][^1)^]
+    _[^1)^]L. 137/2005, 2. gr._, sbr. einnig 3. gr. s.l. [^2)^]L. 162/2010, 19. gr. [^3)^]L. 86/2002, 4. gr. [^4)^]Rg. 656/2002, sbr. 476/2007.
  ■ *IX.* _Könnun á leigumarkaði._
- □ Við samþykkt laga þessara skal [félags- og tryggingamálaráðherra][^1)^] í samráði við fulltrúa sveitarfélaga, aðra félagslega byggingaraðila, ASÍ og BSRB vinna að úttekt á leigumarkaði hér á landi og kanna þörf fyrir leiguíbúðir næstu ár. Á grundvelli samstarfs þessara aðila skal lögð fram framkvæmdaáætlun sem framlög ríkisins og sveitarfélaga skulu taka mið af í framtíðinni. Á meðan unnið er að áætlanagerð þessari og til ársloka 2000 er heimilt að veita lán til leiguíbúða, sbr. VIII. kafla laga þessara, með óbreyttum lánskjörum. Fjöldi og upphæð lána skal taka mið af framlagi ríkissjóðs á fjárlögum og áætluðum kostnaði.
-    _[^1)^]L. 66/2010, 15. gr._
+ □ Við samþykkt laga þessara skal [ráðherra][^1)^] í samráði við fulltrúa sveitarfélaga, aðra félagslega byggingaraðila, ASÍ og BSRB vinna að úttekt á leigumarkaði hér á landi og kanna þörf fyrir leiguíbúðir næstu ár. Á grundvelli samstarfs þessara aðila skal lögð fram framkvæmdaáætlun sem framlög ríkisins og sveitarfélaga skulu taka mið af í framtíðinni. Á meðan unnið er að áætlanagerð þessari og til ársloka 2000 er heimilt að veita lán til leiguíbúða, sbr. VIII. kafla laga þessara, með óbreyttum lánskjörum. Fjöldi og upphæð lána skal taka mið af framlagi ríkissjóðs á fjárlögum og áætluðum kostnaði.
+    _[^1)^]L. 162/2010, 19. gr._
  ■ *[X.* Frá 1. júlí 2004 til 15. september 2004 skiptir Íbúðalánasjóður fasteignaveðbréfum, sem skiptanleg eru fyrir húsbréf úr 1. eða 2. flokki 2001, fyrir peninga. Kröfuhafi fær greitt nafnverð fasteignaveðbréfsins auk áfallinna verðbóta og vaxta að frádregnu lántökugjaldi. Öll lán í húsbréfakerfinu sem ekki hafa hlotið lokaafgreiðslu fyrir 1. júlí 2004 verða afgreidd skv. VI. kafla laganna.
  □ Íbúðalánasjóði er heimilt að hefja útgáfu og sölu íbúðabréfa fyrir 1. júlí 2004 og skal þá við gerð skilmála, útgáfu og sölu bréfanna gætt ákvæða 11., 13. og 15. gr. laga þessara og verða bréfin hluti af heildarútgáfu íbúðabréfa. Þá er Íbúðalánasjóði þegar heimilt að bjóða eigendum húsbréfa og húsnæðisbréfa að skipta á þeim fyrir íbúðabréf. Stjórn Íbúðalánasjóðs ákveður á hvaða kjörum skipti verða boðin og tilkynnir það með hæfilegum fyrirvara.][^1)^]
     _[^1)^]L. 57/2004, brbákv. I._

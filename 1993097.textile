@@ -6,7 +6,7 @@ h2. Lög um Húsnæðisstofnun ríkisins
 
 <hr />
 
-*Upphaflega l. 60/1984. Tóku gildi 1. júlí 1984. Endurútgefin, sbr. 9. gr. l. 56/1988, sem l. 86/1988. Endurútgefin, sbr. 20. gr. l. 61/1993, sem "l. 97/1993":1993097.html.* _Breytt með_ l. 12/1994 (tóku gildi 30. mars 1994), l. 58/1995 (tóku gildi 13. mars 1995), l. 150/1995 (tóku gildi 1. jan. 1996), l. 76/1996 (tóku gildi 19. júní 1996), l. 83/1997 (tóku gildi 6. júní 1997), "l. 44/1998":1998044.html (tóku gildi 1. jan. 1999), l. 84/1998 (tóku gildi 1. jan. 1999) og l. 136/2009 (tóku gildi 1. jan. 2010).
+*Upphaflega l. 60/1984. Tóku gildi 1. júlí 1984. Endurútgefin, sbr. 9. gr. l. 56/1988, sem l. 86/1988. Endurútgefin, sbr. 20. gr. l. 61/1993, sem "l. 97/1993":1993097.html.* _Breytt með_ l. 12/1994 (tóku gildi 30. mars 1994), l. 58/1995 (tóku gildi 13. mars 1995), l. 150/1995 (tóku gildi 1. jan. 1996), l. 76/1996 (tóku gildi 19. júní 1996), l. 83/1997 (tóku gildi 6. júní 1997), "l. 44/1998":1998044.html (tóku gildi 1. jan. 1999), l. 84/1998 (tóku gildi 1. jan. 1999), l. 136/2009 (tóku gildi 1. jan. 2010) og l. 162/2010 (tóku gildi 1. jan. 2011).
 
     ...
 
@@ -52,12 +52,13 @@ h2. Lög um Húsnæðisstofnun ríkisins
  □ Nú selst eignaríbúð ekki og er sveitarfélagi þá heimilt að leigja hana tímabundið þar til kaupandi fæst. Um leigufjárhæð gildir viðmiðunarregla 73. gr. Í reglugerð skal nánar kveðið á um leigu samkvæmt grein þessari.
     ...
  _Skyldur, ábyrgð og verksvið félagasamtaka sem standa að félagslegum íbúðum._
-■ *46. gr.* Félagasamtök, sem fengið hafa staðfestingu félagsmálaráðherra um heimild til þess að koma á fót og reka félagslegar íbúðir, bera fulla ábyrgð á byggingu eða kaupum, á rekstri og ráðstöfun félagslegra íbúða á þeirra vegum.
- □ Verði byggingarkostnaður meiri eða kaupverð íbúðar á vegum félagasamtaka hærra en sá kostnaðargrundvöllur sem húsnæðismálastjórn hefur samþykkt að lánveitingu fjármagnar viðkomandi framkvæmdaraðili þann kostnað sem umfram er. Sama gildir ef fyrirtæki fær staðfestingu félagsmálaráðherra til að koma á fót og reka almennar kaupleiguíbúðir.
+■ *46. gr.* Félagasamtök, sem fengið hafa staðfestingu [velferðarráðherra][^1)^] um heimild til þess að koma á fót og reka félagslegar íbúðir, bera fulla ábyrgð á byggingu eða kaupum, á rekstri og ráðstöfun félagslegra íbúða á þeirra vegum.
+ □ Verði byggingarkostnaður meiri eða kaupverð íbúðar á vegum félagasamtaka hærra en sá kostnaðargrundvöllur sem húsnæðismálastjórn hefur samþykkt að lánveitingu fjármagnar viðkomandi framkvæmdaraðili þann kostnað sem umfram er. Sama gildir ef fyrirtæki fær staðfestingu [ráðherra][^1)^] til að koma á fót og reka almennar kaupleiguíbúðir.
+    _[^1)^]L. 162/2010, 11. gr._
     ...
  _Lánaflokkar._
     ...
-■ *51. gr.* [Auk lána til íbúða skv. 50. gr. er heimilt að veita lán í neðangreindan byggingarkostnað, enda fari samanlagður kostnaður við hann og íbúðina ekki fram úr þeim kostnaðargrundvelli um hámarksverð á íbúðum sem húsnæðismálastjórn hefur ákveðið.
+ ■ *51. gr.* [Auk lána til íbúða skv. 50. gr. er heimilt að veita lán í neðangreindan byggingarkostnað, enda fari samanlagður kostnaður við hann og íbúðina ekki fram úr þeim kostnaðargrundvelli um hámarksverð á íbúðum sem húsnæðismálastjórn hefur ákveðið.
     1. Til bílskýla í nýbyggingum.    Skilyrði er að nauðsynlegt sé að bílskýli fylgi íbúð af skipulagsástæðum og að skýlið sé hluti húss en ekki sjálfstæð bygging.
     2. Til bílskýla eða bílskúra í notuðu íbúðarhúsnæði í sérstökum undantekningartilfellum.    Skilyrði er að sveitarstjórn sýni fram á að annað húsnæði sé ekki fyrir hendi eða það sé sannanlega ódýrara að kaupa notað húsnæði, með bílskúr/bílskýli, en að byggja nýtt hús.
     3. Til upphitunar á gangstétt.
@@ -73,13 +74,13 @@ h2. Lög um Húsnæðisstofnun ríkisins
  □ Sé um lán til kaupa á notuðum íbúðum að ræða má lánið nema sama hlutfalli af kaupverði og lánað er til nýbygginga.
  □ Lán Byggingarsjóðs verkamanna skulu vera að fullu verðtryggð og skal höfuðstóll lánsins miðast við lánskjaravísitölu eins og hún er á hverjum tíma.
  □ Hvert lán skal tryggt með 1. veðrétti í hlutaðeigandi íbúð.
- □ [Vextir af lánum Byggingarsjóðs verkamanna, frá og með 1. júlí 1984, skulu vera breytilegir. Húsnæðismálastjórn skal við gerð fjárhagsáætlunar hvert ár gera tillögur til félagsmálaráðuneytis um vexti af lánum Byggingarsjóðs verkamanna. Ríkisstjórnin tekur ákvörðun um vexti af lánum (lánaflokkum) Byggingarsjóðs verkamanna að fenginni umsögn Seðlabankans.][^1)^]
+ □ [Vextir af lánum Byggingarsjóðs verkamanna, frá og með 1. júlí 1984, skulu vera breytilegir. Húsnæðismálastjórn skal við gerð fjárhagsáætlunar hvert ár gera tillögur til [ráðuneytisins][^2)^] um vexti af lánum Byggingarsjóðs verkamanna. Ríkisstjórnin tekur ákvörðun um vexti af lánum (lánaflokkum) Byggingarsjóðs verkamanna að fenginni umsögn Seðlabankans.][^1)^]
  □ [Lánin eru afborgunarlaus fyrsta árið þegar um er að ræða íbúðir sem seldar eru einstaklingum.][^1)^]
  □ Lánin endurgreiðast að fullu með jöfnum greiðslum vaxta og afborgana (annuitet) að viðbættum verðbótum samkvæmt lánskjaravísitölu Seðlabanka Íslands á eftirstöðvum lánstímans.
  □ Gjalddagar lána skulu eigi vera færri en fjórir á ári.
  □ Húsnæðisstofnun ríkisins er heimilt að fjölga gjalddögum ef það er talið æskilegt.
  □ ...
-    _[^1)^]L. 58/1995, 11. gr._
+    _[^1)^]L. 58/1995, 11. gr._ [^2)^]L. 162/2010, 11. gr.
     ...
  _Bygging eða kaup á félagslegum íbúðum._
  ■ *54. gr.* ...
@@ -145,8 +146,9 @@ h2. Lög um Húsnæðisstofnun ríkisins
  ■ *71. gr.* Eigendum er óheimilt að veðsetja íbúðir sínar fyrr en áhvílandi lán úr Byggingarsjóði verkamanna eru lægri en 75% af uppfærðu kostnaðarverði íbúða.
  _Leiga á kaupleiguíbúð. Kaupréttur._
 ■ *72. gr.* Í almennum og félagslegum kaupleiguíbúðum getur umsækjandi valið um þrjá kosti: kaup, leigu með kauprétti eða leigu með hlutareign.
- □ Ef félagsskapur er byggður um eitt ákveðið form kaupleiguíbúða og það komi skýrt fram í samþykktum félagsins sem staðfestar hafa verið af félagsmálaráðherra er heimilt að víkja frá ákvæði 1. mgr.
-■ *73. gr.* Í samningi um leigu með kauprétti felst að leigutaki á rétt á því að festa kaup á íbúðinni innan ákveðins tíma. Framkvæmdaraðili ákveður frest þann sem leigutaki hefur til að neyta kaupréttar og skal sá frestur kynntur leigjanda. Frestur sá skal þó eigi vera skemmri en fimm ár.
+ □ Ef félagsskapur er byggður um eitt ákveðið form kaupleiguíbúða og það komi skýrt fram í samþykktum félagsins sem staðfestar hafa verið af [ráðherra][^1)^] er heimilt að víkja frá ákvæði 1. mgr.
+    _[^1)^]L. 162/2010, 11. gr._
+ ■ *73. gr.* Í samningi um leigu með kauprétti felst að leigutaki á rétt á því að festa kaup á íbúðinni innan ákveðins tíma. Framkvæmdaraðili ákveður frest þann sem leigutaki hefur til að neyta kaupréttar og skal sá frestur kynntur leigjanda. Frestur sá skal þó eigi vera skemmri en fimm ár.
  □ Með leigusamningi með kauprétti stofnast persónulegur réttur leigutaka til afnota af íbúð og til kaupa á henni. Í samningum skal koma skýrt fram hvaða kjör eru í boði verði kaupréttarins neytt. Réttur þessi er ekki framseljanlegur og erfist ekki. Þó getur framkvæmdaraðili heimilað að maki yfirtaki íbúðina við andlát leigutaka, hjónaskilnað, kaupmála milli hjóna eða setu í óskiptu búi.
  □ Meðan leigutaki, sem á kauprétt á íbúð, stendur í skilum að sínu leyti eiga uppsagnarákvæði laga um húsaleigusamninga ekki við. Verði hins vegar vanefndir af hans hálfu má rifta leigusamningi í samræmi við ákvæði laga um húsaleigusamninga.
  □ Framkvæmdaraðili skal senda tilkynningu til leigutaka um lokafrest hans til að neyta kaupréttar þremur mánuðum áður en sá frestur rennur út. Neyti leigutaki ekki kaupréttar eiga ákvæði laga um húsaleigusamninga um uppsögn á leiguhúsnæði við frá þeim tíma er fyrrnefndur frestur rann út.
@@ -246,8 +248,8 @@ h2. Lög um Húsnæðisstofnun ríkisins
  _[Íbúðir á vegum Byggingarfélags verkamanna.][^1)^]_
     _[^1)^]L. 58/1995, 26. gr._
  ■ *[90. gr.* Nú innleysir sveitarfélag íbúð sem er þinglýst eign Byggingarfélags verkamanna og skal þá stjórn hlutaðeigandi byggingarfélags eða sveitarstjórn, hafi hún tekið við hlutverki þess, leysa íbúðina úr veðböndum, enda verði eftirstöðvar áhvílandi láns úr Byggingarsjóði verkamanna greiddar upp. Við sölu slíkrar íbúðar er heimilt að veita nýtt lán til kaupanda hennar skv. 88. gr. og skulu félagsmenn í hlutaðeigandi byggingarfélagi að öðru jöfnu ganga fyrir um kaup hennar.
- □ Heimilt er félagsmönnum í Byggingarfélagi verkamanna, sem annast sameiginlegt viðhald á íbúðum félagsmanna, að stofna húsfélög í samræmi við ákvæði laga um fjöleignarhús þannig að húsfélögin taki sameiginlegt viðhald í sínar hendur. Félagsmálaráðherra setur með reglugerð nánari ákvæði um framkvæmd þessarar greinar.][^1)^]
-    _[^1)^]L. 58/1995, 26. gr._
+ □ Heimilt er félagsmönnum í Byggingarfélagi verkamanna, sem annast sameiginlegt viðhald á íbúðum félagsmanna, að stofna húsfélög í samræmi við ákvæði laga um fjöleignarhús þannig að húsfélögin taki sameiginlegt viðhald í sínar hendur. [Ráðherra][^1)^] setur með reglugerð nánari ákvæði um framkvæmd þessarar greinar.][^2)^]
+    _[^1)^]L. 162/2010, 11. gr._ [^2)^]L. 58/1995, 26. gr.
     ...
  _[Sérstök úrræði ef íbúðir, sem koma til endursölu, standa auðar.][^1)^]_
     _[^1)^]L. 58/1995, 26. gr._

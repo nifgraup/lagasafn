@@ -7,7 +7,7 @@ h2. Húsaleigulög
 <hr />
 
 
- *Tóku gildi 1. janúar 1995.* _Breytt með_ l. 65/2006 (tóku gildi 27. júní 2006), l. 65/2010 (tóku gildi 27. júní 2010) og l. 66/2010 (tóku gildi 1. júlí 2010).
+ *Tóku gildi 1. janúar 1995.* _Breytt með_ l. 65/2006 (tóku gildi 27. júní 2006), l. 65/2010 (tóku gildi 27. júní 2010), l. 66/2010 (tóku gildi 1. júlí 2010) og l. 162/2010 (tóku gildi 1. jan. 2011).
 
 
  *I. kafli.* *Gildissvið laganna o.fl.*
@@ -30,8 +30,8 @@ h2. Húsaleigulög
  □ [Íbúðalánasjóður][^1)^] lætur gera sérstök eyðublöð, eitt fyrir leigusamning um íbúðarhúsnæði og annað fyrir leigusamning um atvinnuhúsnæði, svo og eyðublöð fyrir úttektaryfirlýsingar og sýnishorn af uppsögnum og öðrum tilkynningum sem samkvæmt lögum þessum skulu vera skriflegar. Eyðublöðin skulu liggja frammi almenningi til afnota á skrifstofum sveitarfélaga eða húsnæðisnefnda, hjá samtökum leigjenda og leigusala, [Íbúðalánasjóði][^1)^] og annars staðar þar sem ástæða þykir til.
  □ [Íbúðalánasjóður][^1)^] getur ákveðið hæfilegt endurgjald fyrir eyðublöðin sem dreifingaraðila er skylt að innheimta. Dreifingaraðila er heimilt að áskilja sér hæfilega þóknun úr hendi viðtakanda eyðublaða og sýnishorna.
     _[^1)^]L. 66/2010, 1. gr._
- ■ *5. gr.* Heimilt er [félags- og tryggingamálaráðuneyti][^1)^] að staðfesta eyðublöð skv. 4. gr. sem samtök leigjenda eða leigusala, sveitarstjórnir, félagasamtök eða aðrir þeir sem leigja út húsnæði kunna að láta gera, enda sé staðfesting ráðuneytisins skráð á þau.
-    _[^1)^]L. 66/2010, 2. gr._
+ ■ *5. gr.* Heimilt er [velferðarráðuneyti][^1)^] að staðfesta eyðublöð skv. 4. gr. sem samtök leigjenda eða leigusala, sveitarstjórnir, félagasamtök eða aðrir þeir sem leigja út húsnæði kunna að láta gera, enda sé staðfesting ráðuneytisins skráð á þau.
+    _[^1)^]L. 162/2010, 14. gr._
  ■ *6. gr.* Í leigusamningi skal m.a. koma fram:
     1. Nöfn, heimilisföng og kennitölur samningsaðila.
     2. Greinargóð lýsing á hinu leigða, sbr. m.a. 38. gr.
@@ -127,8 +127,8 @@ h2. Húsaleigulög
  □ Heimild leigusala til að bera réttmæti reiknings undir dómstóla fellur niður hafi mál eigi verið höfðað innan þriggja mánaða frá því að leigjandi framvísaði reikningnum eða matsgerð lýkur, ef ákvörðun byggingarfulltrúa hefur verið borin undir dómkvadda matsmenn.
 ■ *37. gr.* Aðilum er frjálst að semja um fjárhæð húsaleigu og hvort og þá með hvaða hætti hún skuli breytast á leigutímanum. Leigufjárhæðin skal þó jafnan vera sanngjörn og eðlileg í garð beggja aðila.
 ■ *38. gr.* Þegar leigufjárhæð er ákvörðuð miðað við fermetrafjölda hins leigða húsnæðis þá skal tilgreina í leigusamningi á hvaða forsendum stærðarútreikningur þess byggir. Sé það eigi gert og aðila greinir á skal til grundvallar leggja þær forsendur og þá aðferð sem venjulegust er. Getur sá aðili, sem telur á rétt sinn hallað, krafist endurútreiknings á stærðinni og leiðréttinga á leigugjaldinu sem af því leiðir.
- □ [Félags- og tryggingamálaráðherra][^1)^] getur með reglugerð sett fyrirmæli um stærðarútreikninga leiguhúsnæðis sem þá ber að byggja á og miða við nema skýr og ótvíræð samningsákvæði mæli á annan veg.
-    _[^1)^]L. 66/2010, 4. gr._
+ □ [Velferðarráðherra][^1)^] getur með reglugerð sett fyrirmæli um stærðarútreikninga leiguhúsnæðis sem þá ber að byggja á og miða við nema skýr og ótvíræð samningsákvæði mæli á annan veg.
+    _[^1)^]L. 162/2010, 14. gr._
  ■ *39. gr.* Áður en afhending hins leigða húsnæðis fer fram er leigusala rétt að krefjast þess að leigjandi setji honum tryggingu fyrir réttum efndum á leigusamningnum, þ.e. fyrir leigugreiðslum og skaðabótum vegna tjóns á hinu leigða sem leigjandi ber ábyrgð á samkvæmt ákvæðum laga þessara eða almennum reglum.
 ■ *40. gr.* Trygging skv. 39. gr. getur verið með einhverjum eftirfarandi hætti:
     1. Ábyrgðaryfirlýsing banka eða samsvarandi aðila (bankaábyrgð).
@@ -249,17 +249,17 @@ h2. Húsaleigulög
  □ Aðilar skulu láta byggingarfulltrúa í té afrit af leigusamningi sem hann varðveitir með úttektaryfirlýsingunni.
 
  *XV. kafli.* *Leigumiðlun.*
-■ *73. gr.* Þeim einum, sem hlotið hafa til þess sérstakt leyfi [félags- og tryggingamálaráðherra],[^1)^] er heimilt að reka miðlun með leiguhúsnæði, sem lög þessi taka til, í því skyni að koma á leigusamningi eða annast framleigu eða skipti á leiguhúsnæði. Starfsheiti þess sem rekur leigumiðlun er leigumiðlari.
- □ [Félags- og tryggingamálaráðherra][^1)^] gefur út leyfisbréf til leigumiðlara og skal hann greiða fyrir það gjald í ríkissjóð samkvæmt lögum um aukatekjur ríkissjóðs. Leyfið skal gefið út til fimm ára í senn.
-    _[^1)^]L. 66/2010, 4. gr._
- ■ *74. gr.* Hver sá, sem uppfyllir eftirgreind skilyrði, getur fengið leyfi [félags- og tryggingamálaráðherra][^1)^] til að reka leigumiðlun, sbr. 1. mgr. 73. gr.:
+■ *73. gr.* Þeim einum, sem hlotið hafa til þess sérstakt leyfi [ráðherra],[^1)^] er heimilt að reka miðlun með leiguhúsnæði, sem lög þessi taka til, í því skyni að koma á leigusamningi eða annast framleigu eða skipti á leiguhúsnæði. Starfsheiti þess sem rekur leigumiðlun er leigumiðlari.
+ □ [Ráðherra][^1)^] gefur út leyfisbréf til leigumiðlara og skal hann greiða fyrir það gjald í ríkissjóð samkvæmt lögum um aukatekjur ríkissjóðs. Leyfið skal gefið út til fimm ára í senn.
+    _[^1)^]L. 162/2010, 14. gr._
+ ■ *74. gr.* Hver sá, sem uppfyllir eftirgreind skilyrði, getur fengið leyfi [ráðherra][^1)^] til að reka leigumiðlun, sbr. 1. mgr. 73. gr.:
     1. Á lögheimili á Íslandi.
     2. Er lögráða og hefur forræði á búi sínu.
-    3. Sannar að hann hafi góða þekkingu á húsaleigulöggjöf og annarri löggjöf er máli skiptir og nauðsynlega kunnáttu í bókhaldi samkvæmt ákvæðum í reglugerð sem [félags- og tryggingamálaráðherra][^1)^] setur.
-    4. Leggur fram tryggingu, sem [félags- og tryggingamálaráðherra][^1)^] ákveður í reglugerð, fyrir greiðslu kostnaðar og tjóns sem aðilar leigusamnings kunna að verða fyrir af hans völdum.
+    3. Sannar að hann hafi góða þekkingu á húsaleigulöggjöf og annarri löggjöf er máli skiptir og nauðsynlega kunnáttu í bókhaldi samkvæmt ákvæðum í reglugerð sem [ráðherra][^1)^] setur.
+    4. Leggur fram tryggingu, sem [ráðherra][^1)^] ákveður í reglugerð, fyrir greiðslu kostnaðar og tjóns sem aðilar leigusamnings kunna að verða fyrir af hans völdum.
  □ Heimilt er að synja manni um leyfi þetta ef ákvæði 2. mgr. 68. gr. almennra hegningarlaga eiga við um hann.
  □ Birta skal auglýsingu um veitingu leyfis til leigumiðlunar í Lögbirtingablaði. Á sama hátt skal birta auglýsingu um sviptingu leyfis, sbr. 81. gr.
-    _[^1)^]L. 66/2010, 4. gr._
+    _[^1)^]L. 162/2010, 14. gr._
  ■ *75. gr.* Heimilt er samtökum leigusala eða húseigenda, samtökum leigjenda, sveitarstjórnum svo og félögum eða stofnunum að reka leigumiðlun í eðlilegum tengslum við aðra starfsemi sína, enda lúti leigumiðlun stjórn leigumiðlara skv. 74. gr.
 ■ *76. gr.* Leigumiðlari skal hafa opna skrifstofu þar sem hann rekur starfsemi sína.
  □ Leigumiðlari ber ábyrgð á að leigusamningur sé gerður í samræmi við lög þessi. Honum ber skylda til að upplýsa aðila um réttindi þau og skyldur sem þeir taka á sig með undirritun leigusamningsins, svo og um réttaráhrif hans almennt eftir því sem ástæða er til.
@@ -273,12 +273,12 @@ h2. Húsaleigulög
 ■ *79. gr.* Leigumiðlara er óheimilt að skýra frá því sem hann kemst að í starfi sínu um hagi viðskiptamanna sinna eða þeir hafa trúað honum fyrir.
 ■ *80. gr.* Leigumiðlari er bókhaldsskyldur samkvæmt lögum um bókhald.
  □ Leigumiðlari skal halda skrá um húsnæði það sem honum er falið að leigja út og varðveita eintak af öllum leigusamningum sem hann gerir.
- □ Leigumiðlara er skylt að veita [félags- og tryggingamálaráðuneytinu][^1)^] þær upplýsingar um starfsemi leigumiðlunarinnar sem óskað er eftir hverju sinni.
-    _[^1)^]L. 66/2010, 2. gr._
- ■ *81. gr.* Gerist leigumiðlari sekur í starfi sínu um vanrækslu eða brot gegn ákvæðum laga þessara eða hann missir eitthvert þeirra skilyrða sem sett eru fyrir leyfisveitingu getur [félags- og tryggingamálaráðherra][^1)^] svipt hann leyfi sínu tímabundið eða til loka leyfistímans. Við sviptingu leyfis skal leigumiðlari hætta leigustarfsemi sinni. Hlutaðeigandi lögreglustjóra ber að veita atbeina sinn til að stöðva starfsemina og innsigla ef þörf krefur.
-    _[^1)^]L. 66/2010, 4. gr._
- ■ *82. gr.* [Félags- og tryggingamálaráðherra][^1)^] setur í reglugerð[^2)^] nánari ákvæði um leigumiðlun, þar á meðal um skilyrði fyrir veitingu leyfis til leigumiðlunar og ákvæði um gjaldtöku er hafa skal til hliðsjónar við ákvörðun þóknunar til leigumiðlara.
-    _[^1)^]L. 66/2010, 4. gr._ [^2)^]Rg. 675/1994.
+ □ Leigumiðlara er skylt að veita [ráðuneytinu][^1)^] þær upplýsingar um starfsemi leigumiðlunarinnar sem óskað er eftir hverju sinni.
+    _[^1)^]L. 162/2010, 14. gr._
+ ■ *81. gr.* Gerist leigumiðlari sekur í starfi sínu um vanrækslu eða brot gegn ákvæðum laga þessara eða hann missir eitthvert þeirra skilyrða sem sett eru fyrir leyfisveitingu getur [ráðherra][^1)^] svipt hann leyfi sínu tímabundið eða til loka leyfistímans. Við sviptingu leyfis skal leigumiðlari hætta leigustarfsemi sinni. Hlutaðeigandi lögreglustjóra ber að veita atbeina sinn til að stöðva starfsemina og innsigla ef þörf krefur.
+    _[^1)^]L. 162/2010, 14. gr._
+ ■ *82. gr.* [Ráðherra][^1)^] setur í reglugerð[^2)^] nánari ákvæði um leigumiðlun, þar á meðal um skilyrði fyrir veitingu leyfis til leigumiðlunar og ákvæði um gjaldtöku er hafa skal til hliðsjónar við ákvörðun þóknunar til leigumiðlara.
+    _[^1)^]L. 162/2010, 14. gr._ [^2)^]Rg. 675/1994.
 
  *XVI. kafli.* *Húsnæðisnefndir.*
  ■ *83. gr.* Þar sem húsnæðisnefndir sveitarfélaga eru [skipaðar af sveitarstjórn skv. "13. gr. laga nr. 44/1998":1998044.html#g13, um húsnæðismál],[^1)^] skulu þær fylgjast með framkvæmd húsaleigumála samkvæmt lögum þessum og afla upplýsinga um þau mál í hlutaðeigandi sveitarfélagi eftir því sem kostur er. Þeim ber og að veita aðilum leigusamnings, sem þess óska, leiðbeiningar um ágreiningsefni og leitast við að sætta slíkan ágreining.
@@ -286,24 +286,24 @@ h2. Húsaleigulög
 
  *XVII. kafli.* *[Kærunefnd húsamála.][^1)^]*
     _[^1)^]L. 66/2010, 3. gr._
- ■ *84. gr.* [Félags- og tryggingamálaráðherra skipar þrjá fulltrúa í kærunefnd húsamála til þriggja ára í senn og skulu tveir þeirra vera lögfræðingar og einn verkfræðingur. Húseigendafélagið tilnefnir einn fulltrúa og skal hann vera lögfræðingur. Tveir skulu skipaðir án tilnefningar og skal annar þeirra vera verkfræðingur en hinn skal uppfylla skilyrði um embættisgengi héraðsdómara og skal hann jafnframt vera formaður. Varamenn skulu skipaðir með sama hætti og skal varaformaður uppfylla skilyrði um embættisgengi héraðsdómara. Nefndinni er heimilt að kalla til ráðgjafar og aðstoðar sérfróða aðila telji hún þörf á.
- □ Kostnaður við starfsemi kærunefndar húsamála greiðist úr ríkissjóði.][^1)^]
-    _[^1)^]L. 66/2010, 6. gr._
+ ■ *84. gr.* [[Ráðherra][^1)^] skipar þrjá fulltrúa í kærunefnd húsamála til þriggja ára í senn og skulu tveir þeirra vera lögfræðingar og einn verkfræðingur. Húseigendafélagið tilnefnir einn fulltrúa og skal hann vera lögfræðingur. Tveir skulu skipaðir án tilnefningar og skal annar þeirra vera verkfræðingur en hinn skal uppfylla skilyrði um embættisgengi héraðsdómara og skal hann jafnframt vera formaður. Varamenn skulu skipaðir með sama hætti og skal varaformaður uppfylla skilyrði um embættisgengi héraðsdómara. Nefndinni er heimilt að kalla til ráðgjafar og aðstoðar sérfróða aðila telji hún þörf á.
+ □ Kostnaður við starfsemi kærunefndar húsamála greiðist úr ríkissjóði.][^2)^]
+    _[^1)^]L. 162/2010, 14. gr._ [^2)^]L. 66/2010, 6. gr.
  ■ *85. gr.* Greini aðila leigusamnings á við gerð og/eða framkvæmd leigusamnings, geta þeir, einn eða fleiri, snúið sér til [kærunefndar húsamála][^1)^] og óskað eftir álitsgerð um ágreiningsefnið.
  □ Erindi til kærunefndar skal vera skriflegt og í því skal skilmerkilega greina hvert sé ágreiningsefnið, hver sé krafa aðila og rökstuðningur fyrir henni.
  □ Skal kærunefnd gefa gagnaðila kost á að tjá sig og koma sjónarmiðum sínum og kröfum á framfæri. Skal gefa honum stuttan frest í því skyni. Heimilt er kærunefnd að kalla eftir öllum nauðsynlegum upplýsingum og gögnum og óska umsagnar hlutaðeigandi húsnæðisnefndar og annarra er málið snertir gerist þess þörf.
  □ Kærunefnd skal láta í té rökstutt álit svo fljótt sem kostur er og jafnan innan tveggja mánaða frá því að erindi barst henni. Ágreiningsefnum verður eigi skotið til annars stjórnvalds.
  □ Telji kærunefndin að lög þessi hafi verið brotin og að á rétt aðila sé hallað beinir hún tilmælum til gagnaðila um úrbætur.
  □ Aðilar geta lagt ágreining sinn fyrir dómstóla með venjulegum hætti.
- □ Kærunefndin getur einnig tekið fyrir mál að eigin frumkvæði og eftir tilmælum og ábendingum frá öðrum, svo sem [félags- og tryggingamálaráðuneytinu],[^2)^] [Íbúðalánasjóði],[^3)^] byggingarfulltrúum, leigumiðlurum, Húseigendafélaginu og Leigjendasamtökunum. Í slíkum málum getur nefndin látið frá sér fara álit og tilmæli og gilda um málsmeðferð fyrirmæli þessarar greinar eftir því sem við getur átt.
- □ [Félags- og tryggingamálaráðherra][^4)^] skal með reglugerð[^5)^] setja nánari ákvæði um erindi til kærunefndar, störf hennar, verkefni, valdsvið, starfsskilyrði o.fl.
-    _[^1)^]L. 66/2010, 3. gr._ [^2)^]L. 66/2010, 2. gr. [^3)^]L. 66/2010, 1. gr. [^4)^]L. 66/2010, 4. gr. [^5)^]Rg. 878/2001.
+ □ Kærunefndin getur einnig tekið fyrir mál að eigin frumkvæði og eftir tilmælum og ábendingum frá öðrum, svo sem [ráðuneytinu],[^2)^] [Íbúðalánasjóði],[^3)^] byggingarfulltrúum, leigumiðlurum, Húseigendafélaginu og Leigjendasamtökunum. Í slíkum málum getur nefndin látið frá sér fara álit og tilmæli og gilda um málsmeðferð fyrirmæli þessarar greinar eftir því sem við getur átt.
+ □ [Ráðherra][^2)^] skal með reglugerð[^4)^] setja nánari ákvæði um erindi til kærunefndar, störf hennar, verkefni, valdsvið, starfsskilyrði o.fl.
+    _[^1)^]L. 66/2010, 3. gr._ [^2)^]L. 162/2010, 14. gr. [^3)^]L. 66/2010, 1. gr. [^4)^]Rg. 878/2001.
 
  *XVIII. kafli.* *Kynning laganna o.fl.*
  ■ *86. gr.* [Íbúðalánasjóður][^1)^] skal annast kynningu á lögum þessum og reglugerðum settum samkvæmt þeim.
  □ [Íbúðalánasjóður][^1)^] skal fylgjast með þróun og ástandi húsaleigumarkaðarins í samráði við húsnæðisnefndir sveitarfélaga.
- □ [Félags- og tryggingamálaráðherra][^2)^] getur með reglugerð sett nánari ákvæði um framkvæmd laga þessara.
-    _[^1)^]L. 66/2010, 1. gr._ [^2)^]L. 66/2010, 4. gr.
+ □ [Ráðherra][^2)^] getur með reglugerð sett nánari ákvæði um framkvæmd laga þessara.
+    _[^1)^]L. 66/2010, 1. gr._ [^2)^]L. 162/2010, 14. gr.
 
  *XIX. kafli.* *Gildistaka.*
  ■ *87. gr.* Lög þessi taka gildi 1. janúar 1995. Þeir samningar, sem gerðir hafa verið fyrir þann tíma, skulu endurskoðaðir til samræmis við ákvæði þessara laga fyrir 1. mars 1995.

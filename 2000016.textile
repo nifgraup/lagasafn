@@ -7,7 +7,7 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
 <hr />
 
 
- *Tóku gildi 28. apríl 2000.* _Breytt með_ "l. 77/2000":2000077.html (tóku gildi 1. jan. 2001), "l. 96/2002":2002096.html (tóku gildi 1. jan. 2003), l. 129/2005 (tóku gildi 30. des. 2005) og "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
+ *Tóku gildi 28. apríl 2000.* _Breytt með_ "l. 77/2000":2000077.html (tóku gildi 1. jan. 2001), "l. 96/2002":2002096.html (tóku gildi 1. jan. 2003), l. 129/2005 (tóku gildi 30. des. 2005), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 162/2010 (tóku gildi 1. jan. 2011).
 
  ■ *1. gr.* Lög þessi gilda um íslenska hluta Schengen-upplýsingakerfisins og persónuvernd við skráningu og meðferð upplýsinga í því kerfi.
  □ Með íslenska hluta Schengen-upplýsingakerfisins er átt við rafrænt gagnasafn sem starfrækt er hér á landi og tengt sameiginlegu upplýsingakerfi á Schengen-svæðinu.
@@ -74,8 +74,9 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
  ■ *11. gr.* Eftirtalin stjórnvöld skulu eftir beiðni hafa aðgang að upplýsingum úr upplýsingakerfinu að því marki sem þeim er nauðsynlegt til að sinna þessum verkefnum:
     a. tollgæslan við eftirlit á landamærum og þegar hún annast eða aðstoðar við löggæslu,
     b. Landhelgisgæslan þegar hún annast eða aðstoðar við löggæslu,
-    c. dómsmálaráðuneytið við beitingu heimilda sem æðra stjórnvald.
-■ *12. gr.* Hverjum sem í starfi sínu fær vitneskju um atriði sem skráð eru í upplýsingakerfið er skylt að gæta þess að skráðar upplýsingar berist ekki til óviðkomandi. Þagnarskylda helst þótt látið sé af starfi.
+    c. [innanríkisráðuneytið][^1)^] við beitingu heimilda sem æðra stjórnvald.
+    _[^1)^]L. 162/2010, 160. gr._
+ ■ *12. gr.* Hverjum sem í starfi sínu fær vitneskju um atriði sem skráð eru í upplýsingakerfið er skylt að gæta þess að skráðar upplýsingar berist ekki til óviðkomandi. Þagnarskylda helst þótt látið sé af starfi.
 ■ *13. gr.* Hver sem skráður er í upplýsingakerfið á rétt á að fá vitneskju um skráðar upplýsingar um sig í kerfinu.
  □ Réttur hins skráða til að fá vitneskju skv. 1. mgr. er ekki fyrir hendi ef nauðsynlegt er að halda upplýsingunum leyndum til að ná því markmiði sem stefnt er að með skráningu eða vegna hagsmuna annarra. Þegar eftirlit með leynd skv. 7. gr. stendur yfir á hinn skráði ekki rétt á að fá vitneskju um skráðar upplýsingar.
  □ Nú er óskað eftir vitneskju um upplýsingar sem skráðar eru af öðru ríki og skal þá gefa því kost á að gera athugasemdir áður en fallist er á þá beiðni.
@@ -97,8 +98,8 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
     _[^1)^]L. 129/2005, 6. gr._
  ■ *18. gr.* [Persónuvernd][^1)^] skal hafa eftirlit með því að skráning og meðferð persónuupplýsinga í upplýsingakerfinu sé í samræmi við lög þessi og reglur sem gilda um persónuvernd og friðhelgi einkalífs. [Persónuvernd][^1)^] skal einnig hafa eftirlit með því að öryggi upplýsingakerfisins sé tryggt þannig að óviðkomandi fái ekki aðgang að því eða geti haft áhrif á skráningu í það.
  □ [Persónuvernd][^1)^] hefur aðgang að skráðum upplýsingum og öðrum nauðsynlegum gögnum til að sinna eftirliti með upplýsingakerfinu skv. 1. mgr.
- □ Nú gerir [Persónuvernd][^1)^] athugasemdir við starfrækslu upplýsingakerfisins og skal hún þá koma þeim og tillögum um úrbætur á framfæri við ríkislögreglustjóra og dómsmálaráðuneytið.
-    _[^1)^]_"L. 77/2000, 46. gr.":2000077.html#g46
+ □ Nú gerir [Persónuvernd][^1)^] athugasemdir við starfrækslu upplýsingakerfisins og skal hún þá koma þeim og tillögum um úrbætur á framfæri við ríkislögreglustjóra og [ráðuneytið].[^2)^]
+    _[^1)^]_"L. 77/2000, 46. gr.":2000077.html#g46 [^2)^]L. 162/2010, 160. gr.
  ■ *19. gr.* Ráðherra setur nánari ákvæði í reglugerð[^1)^] um framkvæmd laganna, þar með talið um:
     a. öryggisþætti upplýsingakerfisins og innra eftirlit með því, sbr. 3. gr.,
     b. hæfis- og öryggiskröfur sem starfsmenn lögreglu eða [Útlendingastofnunar][^2)^] verða að fullnægja til að starfa við upplýsingakerfið, sbr. 2. mgr. 10. gr.,

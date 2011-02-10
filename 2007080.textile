@@ -7,7 +7,7 @@ h2. Vegalög
 <hr />
 
 
- *Tóku gildi 1. janúar 2008.* _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og "l. 123/2010":2010123.html (taka gildi 1. jan. 2011).
+ *Tóku gildi 1. janúar 2008.* _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 123/2010":2010123.html (tóku gildi 1. jan. 2011) og l. 162/2010 (tóku gildi 1. jan. 2011).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -29,8 +29,9 @@ h2. Vegalög
 
  *II. kafli.* *Stjórn vegamála.*
 ■ *4. gr.* _Yfirstjórn vegamála._
- □ Samgönguráðherra fer með yfirstjórn vegamála. Vegagerðin annast þátt ríkisins samkvæmt lögum þessum og hefur eftirlit með framkvæmd þeirra, nema annað sé ákveðið í lögunum. Til að stjórna framkvæmdum í vegamálum skipar ráðherra vegamálastjóra til fimm ára í senn og veitir hann Vegagerðinni forstöðu.
-■ *5. gr.* _Vegagerðin._
+ □ [Innanríkisráðherra][^1)^] fer með yfirstjórn vegamála. Vegagerðin annast þátt ríkisins samkvæmt lögum þessum og hefur eftirlit með framkvæmd þeirra, nema annað sé ákveðið í lögunum. Til að stjórna framkvæmdum í vegamálum skipar ráðherra vegamálastjóra til fimm ára í senn og veitir hann Vegagerðinni forstöðu.
+    _[^1)^]L. 162/2010, 253. gr._
+ ■ *5. gr.* _Vegagerðin._
  □ Helstu verkefni Vegagerðarinnar eru sem hér segir:
     a. Veghald þjóðvega.
     b. Aðstoð við ráðherra við mótun og framkvæmd stefnu stjórnvalda í samgöngumálum.
@@ -40,12 +41,13 @@ h2. Vegalög
     f. Rekstur ferja og flóabáta sem koma í stað þjóðvegasambands.
     g. Umsjón og eftirlit með útboðum á almenningssamgöngum sem njóta ríkisstyrkja.
     h. Umsjón með leyfisskyldri starfsemi samkvæmt öðrum lögum.
- □ Vegagerðinni er heimilt, með samþykki samgönguráðherra, að stofna félag eða félög sem hafa það hlutverk að sinna framkvæmda- og þjónustuverkefnum stofnunarinnar.
+ □ Vegagerðinni er heimilt, með samþykki [ráðherra],[^1)^] að stofna félag eða félög sem hafa það hlutverk að sinna framkvæmda- og þjónustuverkefnum stofnunarinnar.
  □ Vegagerðin fer með önnur verkefni sem leiðir af lögum þessum og öðrum lögum.
  □ Ráðherra skal kveða nánar á um verkefni og verksvið Vegagerðarinnar með reglugerð.
+    _[^1)^]L. 162/2010, 253. gr._
 
  *III. kafli.* *Flokkun vega.*
-■ *6. gr.* _Vegakerfi._
+ ■ *6. gr.* _Vegakerfi._
  □ Vegakerfi landsins skiptist í þjóðvegi, sveitarfélagsvegi, almenna stíga og einkavegi. Þjóðvegir og sveitarfélagsvegir skulu mynda eðlilegt, samfellt vegakerfi til tengingar byggða landsins.
 ■ *7. gr.* _Vegaskrá._
  □ Vegagerðin sér um gerð vegaskrár, sem er skrá yfir þjóðvegi.
@@ -107,8 +109,9 @@ h2. Vegalög
  □ Heildarfjárveitingar til héraðsvega skulu ákveðnar í vegáætlun. Vegagerðin skiptir fjárveitingum milli sveitarfélaga í samræmi við reglur sem ráðherra setur.
 ■ *20. gr.* _Kostnaðarhlutdeild við lagningu nýrra héraðsvega._
  □ Við lagningu nýs héraðsvegar að íbúðar- eða atvinnuhúsnæði skal skráður eigandi fasteignarinnar greiða helming kostnaðar við vegagerðina, þ.m.t. kaup á landi undir veginn, hönnun, byggingu vegarins og eftirlit með gerð hans, enda skal lega og gerð vegar ákveðin í samráði við hinn skráða eiganda fasteignarinnar.
- □ Ráðherra setur nánari ákvæði í reglugerð um innheimtu kostnaðar skv. 1. mgr.
-■ *21. gr.* _Fjárveitingar til landsvega._
+ □ Ráðherra setur nánari ákvæði í reglugerð[^1)^] um innheimtu kostnaðar skv. 1. mgr.
+    _[^1)^]Rg. 774/2010_.
+ ■ *21. gr.* _Fjárveitingar til landsvega._
  □ Ráðherra ákveður skiptingu framlags til landsvega að fengnum tillögum vegamálastjóra.
 ■ *22. gr.* _Ferjur sem kostaðar eru af fjárveitingum til vegamála._
  □ Í samgönguáætlun er heimilt að ákveða fjárveitingu vegna kostnaðar við ferjur til flutnings á fólki og bifreiðum yfir sund og firði enda komi ferjan í stað vegasambands um stofnveg eða tengiveg að minnsta kosti hluta úr ári. Á sama hátt er heimilt að ákveða fjárveitingu til greiðslu hluta kostnaðar við ferjur sem eru mikilvægar fyrir ferðaþjónustu.
@@ -133,10 +136,10 @@ h2. Vegalög
  *VI. kafli.* *Skipulag og veghelgunarsvæði.*
 ■ *28. gr.* _Vegir og skipulag._
  □ Vegir skulu lagðir í samræmi við gildandi skipulagsáætlun eins og nánar er kveðið á um í lögum um skipulag og í lögum þessum.
- □ Ákveða skal legu þjóðvega í skipulagi að fenginni tillögu Vegagerðarinnar að höfðu samráði Vegagerðarinnar og skipulagsyfirvalda. Fallist sveitarfélag ekki á tillögu Vegagerðarinnar skal það rökstyðja það sérstaklega. Þó er sveitarfélagi óheimilt að víkja frá tillögu Vegagerðarinnar ef það leiðir til minna umferðaröryggis en tillagan felur í sér. Að öðru leyti fer um málsmeðferð samkvæmt skipulags- og byggingarlögum.[^1)^]
+ □ Ákveða skal legu þjóðvega í skipulagi að fenginni tillögu Vegagerðarinnar að höfðu samráði Vegagerðarinnar og skipulagsyfirvalda. Fallist sveitarfélag ekki á tillögu Vegagerðarinnar skal það rökstyðja það sérstaklega. Þó er sveitarfélagi óheimilt að víkja frá tillögu Vegagerðarinnar ef það leiðir til minna umferðaröryggis en tillagan felur í sér. Að öðru leyti fer um málsmeðferð samkvæmt [skipulagslögum].[^1)^]
  □ Ef þjóðvegi er að ósk sveitarstjórnar valinn annar staður en sá sem Vegagerðin telur betri með tilliti til kostnaðar og tæknilegrar útfærslu og það leiðir til aukins kostnaðar er heimilt að krefja viðkomandi sveitarfélag um kostnaðarmuninn. Rísi ágreiningur um réttmæti slíkrar kröfu eða um fjárhæð skal málinu skotið til ráðherra til úrskurðar.
  □ Við gerð skipulags skal að öðru leyti haft samráð við Vegagerðina um legu vega eftir því sem þörf krefur. Ávallt skal leita umsagnar Vegagerðarinnar þegar líkur eru á að breytingar á skipulagi hafi áhrif á umferð um þjóðvegi, svo sem með auknum umferðarþunga.
-    _[^1)^]Málsgreininni var breytt með_ "l. 123/2010, 57. gr.":2010123.html#g57 Breytingarnar taka gildi 1. jan. 2011 skv. "56. gr. s.l.":2010123.html
+    _[^1)^]_"L. 123/2010, 57. gr.":2010123.html#g57
  ■ *29. gr.* _Tengingar við þjóðvegi._
  □ Óheimilt er að tengja vegi þjóðvegum nema í samræmi við skipulag og að fenginni heimild Vegagerðarinnar.
  □ Ráðherra getur með reglugerð kveðið nánar á um lágmarksfjarlægð milli tenginga við þjóðvegi og sett nánari ákvæði um gerð og frágang tenginga. Skal kveðið á um mismunandi reglur eftir vegflokkum og umferðarþunga og skal ávallt taka mið af umferðaröryggi.
@@ -253,7 +256,7 @@ h2. Vegalög
  □ Stjórnsýsluákvörðunum Vegagerðarinnar má skjóta til ráðherra. Um málsmeðferð fer samkvæmt ákvæðum stjórnsýslulaga.
 ■ *58. gr.* _Reglugerð._
  □ Ráðherra setur nánari ákvæði í reglugerð[^1)^] um framkvæmd laga þessara.
-    _[^1)^]Rg. 492/2009_.
+    _[^1)^]Rg. 492/2009_. Rg. 774/2010.
  ■ *59. gr.* _Refsing._
  □ Brot gegn lögum þessum og þeim reglugerðum sem settar verða samkvæmt þeim varða sektum nema þyngri refsing liggi við samkvæmt öðrum lögum. Bæta skal einnig á kostnað hins seka tjón það sem hann hefur unnið.
  □ ...[^1)^]

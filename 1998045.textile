@@ -7,7 +7,7 @@ h2. Sveitarstjórnarlög
 <hr />
 
 
- *Tóku gildi 1. júní 1998.* _Breytt með_ l. 100/1998 (tóku gildi 10. júlí 1998), l. 123/1998 (tóku gildi 3. des. 1998), l. 74/2003 (tóku gildi 10. apríl 2003), l. 69/2004 (tóku gildi 18. júní 2004), "l. 136/2004":2004136.html (tóku gildi 1. jan. 2005), l. 23/2005 (tóku gildi 25. maí 2005), "l. 150/2006":2006150.html (tóku gildi 30. des. 2006), l. 167/2007 (tóku gildi 1. jan. 2008), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og l. 37/2010 (tóku gildi 7. maí 2010).
+ *Tóku gildi 1. júní 1998.* _Breytt með_ l. 100/1998 (tóku gildi 10. júlí 1998), l. 123/1998 (tóku gildi 3. des. 1998), l. 74/2003 (tóku gildi 10. apríl 2003), l. 69/2004 (tóku gildi 18. júní 2004), "l. 136/2004":2004136.html (tóku gildi 1. jan. 2005), l. 23/2005 (tóku gildi 25. maí 2005), "l. 150/2006":2006150.html (tóku gildi 30. des. 2006), l. 167/2007 (tóku gildi 1. jan. 2008), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l. 37/2010 (tóku gildi 7. maí 2010) og l. 162/2010 (tóku gildi 1. jan. 2011).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -16,9 +16,9 @@ h2. Sveitarstjórnarlög
  □ Sveitarfélög eru lögaðilar.
  □ Hver maður telst íbúi þess sveitarfélags þar sem hann á lögheimili.
 ■ *2. gr.* _Yfirstjórn sveitarstjórnarmála._
- □ [Samgönguráðuneytið][^1)^] fer með málefni sveitarfélaga.
+ □ [Innanríkisráðuneytið][^1)^] fer með málefni sveitarfélaga.
  □ Engu málefni sem varðar sérstaklega hagsmuni sveitarfélags skal ráðið til lykta án umsagnar sveitarstjórnarinnar.
-    _[^1)^]L. 167/2007, 1. gr._
+    _[^1)^]L. 162/2010, 222. gr._
  ■ *3. gr.* _Staðarmörk sveitarfélaga._
  □ Sveitarfélag hefur ákveðin staðarmörk. Óheimilt er að breyta þeim nema með lögum.
  □ Þrátt fyrir ákvæði 1. mgr. getur ráðuneytið breytt mörkum sveitarfélaga í sambandi við sameiningu þeirra eða til staðfestingar á samkomulagi milli sveitarstjórna.
@@ -322,12 +322,12 @@ h2. Sveitarstjórnarlög
 ■ *73. gr.* _Tryggingar og ábyrgðir._
  □ Heildareignir sveitarfélags standa til tryggingar skuldbindingum þess.
  □ Eigi má sveitarfélag veðsetja öðrum tekjur sínar né heldur fasteignir sem nauðsynlegar eru til þess að sveitarfélagið geti rækt lögskyld verkefni sín. Aðrar eignir getur sveitarfélag veðsett í þágu sveitarsjóðs, stofnana sveitarfélagsins og fyrirtækja þess.
- □ Sveitarfélag getur veitt Lánasjóði sveitarfélaga [ohf.][^1)^] tryggingar í tekjum sínum vegna lána sem það tekur hjá sjóðnum [og vegna ábyrgða sem það veitir skv. 6. mgr.][^2)^] [Samgönguráðherra][^3)^] getur sett í reglugerð[^4)^] nánari ákvæði um tryggingar Lánasjóðs sveitarfélaga [ohf.][^1)^] í tekjum sveitarfélaga.
+ □ Sveitarfélag getur veitt Lánasjóði sveitarfélaga [ohf.][^1)^] tryggingar í tekjum sínum vegna lána sem það tekur hjá sjóðnum [og vegna ábyrgða sem það veitir skv. 6. mgr.][^2)^] [Ráðherra][^3)^] getur sett í reglugerð[^4)^] nánari ákvæði um tryggingar Lánasjóðs sveitarfélaga [ohf.][^1)^] í tekjum sveitarfélaga.
  □ Eigi má framkvæma aðför í þeim eignum sveitarfélaga sem nauðsynlegar eru til framkvæmda á lögskyldum verkefnum þeirra og sveitarfélög verða eigi tekin til gjaldþrotaskipta.
  □ Kröfur á hendur sveitarsjóði má eigi nota til skuldajafnaðar við kröfu sveitarfélags um lögboðin gjöld til sveitarsjóðs eða stofnana sveitarfélagsins.
  □ [Sveitarstjórn er heimilt að ábyrgjast með sjálfskuldarábyrgð lán til stofnana og fyrirtækja í eigu sveitarfélagsins sem falla undir b-lið 60. gr. Einnig getur sveitarstjórn veitt einfalda ábyrgð vegna lánveitinga til framkvæmda á vegum félaga sem sveitarfélagið á og rekur í samvinnu við önnur sveitarfélög eða aðra opinbera aðila til að veita lögákveðna þjónustu en innbyrðis skal ábyrgð eigenda skiptast í hlutfalli við eignarhluti. Skilyrði fyrir ábyrgðarveitingu er að viðkomandi lögaðili sé að fullu í eigu opinberra aðila og að allir eigendur ábyrgist lánið í samræmi við eignarhlut sinn. Ábyrgðin fellur úr gildi ef lögaðilinn færist að einhverju leyti í eigu einkaaðila.][^5)^]
  □ [Prókúruhafa sveitarsjóðs er heimilt fyrir hönd sveitarfélags að ábyrgjast með framsalsáritun greiðslu viðskiptaskjala sem sveitarfélagið hefur eignast á eðlilegan hátt í tengslum við daglegan rekstur þess.][^5)^]
-    _[^1)^]_"L. 150/2006, 5. gr.":2006150.html#g5 [^2)^]"L. 136/2004, 11. gr.":2004136.html [^3)^]L. 167/2007, 1. gr. [^4)^]Rg. 123/2006. [^5)^]L. 69/2004, 5. gr.
+    _[^1)^]_"L. 150/2006, 5. gr.":2006150.html#g5 [^2)^]"L. 136/2004, 11. gr.":2004136.html [^3)^]L. 162/2010, 222. gr. [^4)^]Rg. 123/2006. [^5)^]L. 69/2004, 5. gr.
 
  *[VII. kafli.* *Eftirlit með fjármálum sveitarfélaga.][^1)^]*
     _[^1)^]L. 74/2003, 8. gr._
@@ -416,8 +416,9 @@ h2. Sveitarstjórnarlög
  □ Hafi tillaga um sameiningu hlotið samþykki skv. 91. gr. er sveitarstjórnum viðkomandi sveitarfélaga óheimilt að skuldbinda sveitarsjóði eða samþykkja greiðslur úr sveitarsjóði sem ekki leiðir af lögum, fjárhagsáætlun eða fyrri samþykkt sveitarstjórnar nema allar hlutaðeigandi sveitarstjórnir samþykki slíka ráðstöfun.
 ■ *93. gr.* _Staðfesting ráðuneytisins._
  □ Hafi sameiningin hlotið samþykki skv. 91. gr. skulu sveitarstjórnir þær, sem hlut eiga að máli, taka ákvarðanir um fjárhagsmálefni sveitarfélaganna, fjölda fulltrúa í nýrri sveitarstjórn, nafn hins sameinaða sveitarfélags, hvenær sameiningin taki gildi og önnur atriði. Ákvarðanir þessar skulu sendar ráðuneytinu sem staðfestir sameininguna.
- □ Séu sveitarfélög þau sem sameinuð eru í umdæmi tveggja eða fleiri sýslumanna skal ráðuneytið leita umsagnar dómsmálaráðuneytisins áður en ákvörðun um sameiningu er tekin.
-■ *94. gr.* _Sameining yfir mörk kjördæma._
+ □ ...[^1)^]
+    _[^1)^]L. 162/2010, 152. gr._
+ ■ *94. gr.* _Sameining yfir mörk kjördæma._
  □ Heimilt er að sameina sveitarfélög yfir mörk kjördæma, en slík sameining hefur ekki áhrif á skipan kjördæma við alþingiskosningar.
 ■ *95. gr.* _Birting ákvörðunar um sameiningu._
  □ Þegar ráðuneytið hefur staðfest sameiningu sveitarfélaga samkvæmt framanskráðu skal það gefa út tilkynningu um sameininguna sem birta skal í B-deild Stjórnartíðinda. Þar skal greint frá nafni hins nýja sveitarfélags, hvaða sveitarfélög hafi verið sameinuð, frá hvaða tíma sameiningin taki gildi, tölu sveitarstjórnarmanna, svo og hvort kosning skv. 96. gr. skuli fram fara og hvenær.
@@ -465,9 +466,9 @@ h2. Sveitarstjórnarlög
  □ Eignarlandi skal skipað innan staðarmarka sama sveitarfélags og sú jörð sem það hefur áður tilheyrt nema fyrir liggi sérstakar heimildir um annað.
  □ Nú eiga íbúar tiltekins sveitarfélags upprekstrarrétt í afrétt sem ekki hefur verið skipað innan staðarmarka neins sveitarfélags og skal hann þá teljast til þess sveitarfélags. Ef íbúar fleiri en eins sveitarfélags eiga upprekstrarrétt í afréttinn og ekki næst samkomulag um til hvers þeirra hann skuli teljast sker úr um málið óbyggðanefnd, sem starfar samkvæmt lögum um þjóðlendur og ákvörðun marka eignarlanda, þjóðlendna og afrétta. Óbyggðanefnd skal einnig skera úr ágreiningi sem rís vegna 2. mgr.
  □ Þegar óbyggðanefnd úrskurðar að landsvæði skuli teljast þjóðlenda skal nefndin kveða á um hvernig þeim hluta þess sem ekki telst afréttur skuli skipað innan staðarmarka sveitarfélaga. Skal miðað við að framlengja staðarmörk aðliggjandi sveitarfélaga inn til landsins, þar með talið á jöklum, en þó þannig að fylgt sé náttúrulegum mörkum eða mörkum sem byggjast á sérstökum heimildum um mörkin, þar sem nefndin telur það betur eiga við. Óbyggðanefnd getur í þessu tilviki breytt mörkum frá því sem kann að hafa verið samið um milli sveitarfélaga, þar með talið samkvæmt heimild í 5. mgr. ákvæðis þessa og 2. mgr. 3. gr. laga þessara, eða þau ákveðin með öðrum hætti.
- □ Meðan óbyggðanefnd hefur ekki úrskurðað um einstök landsvæði, sem ekki hefur verið skipað innan staðarmarka sveitarfélaga, getur [samgönguráðherra][^1)^] staðfest samkomulag sem sveitarfélög hafa gert um staðarmörk sveitarfélaga á slíkum svæðum.
- □ [Samgönguráðuneytið][^1)^] skal birta auglýsingu[^2)^] um ákvörðun á staðarmörkum sveitarfélaga samkvæmt ákvæði þessu í Stjórnartíðindum.
-    _[^1)^]L. 167/2007, 1. gr._ [^2)^]Augl. 614/1999. Augl. 629/1999. Augl. 634/1999. Augl. 132/2000. Augl. 228/2000. Augl. 965/2000. Augl. 120/2002. Augl. 414/2004.
+ □ Meðan óbyggðanefnd hefur ekki úrskurðað um einstök landsvæði, sem ekki hefur verið skipað innan staðarmarka sveitarfélaga, getur [ráðherra][^1)^] staðfest samkomulag sem sveitarfélög hafa gert um staðarmörk sveitarfélaga á slíkum svæðum.
+ □ [Ráðuneytið][^1)^] skal birta auglýsingu[^2)^] um ákvörðun á staðarmörkum sveitarfélaga samkvæmt ákvæði þessu í Stjórnartíðindum.
+    _[^1)^]L. 162/2010, 222. gr._ [^2)^]Augl. 614/1999. Augl. 629/1999. Augl. 634/1999. Augl. 132/2000. Augl. 228/2000. Augl. 965/2000. Augl. 120/2002. Augl. 414/2004.
  ■ *[II.* Í tengslum við átaksverkefni ríkisstjórnarinnar og Sambands íslenskra sveitarfélaga um eflingu sveitarstjórnarstigsins skal sameiningarnefnd, sem skipuð er af félagsmálaráðherra, undirbúa og leggja fram tillögur um sameiningu sveitarfélaga.
  □ Við gerð tillagna sinna skal nefndin hafa hliðsjón af landfræðilegum og félagslegum aðstæðum og sjónarmiðum hlutaðeigandi sveitarstjórna og landshlutasamtaka sveitarfélaga. Tillögur skulu miða að því að hvert sveitarfélag verði heildstætt atvinnu- og þjónustusvæði.
  □ Nefndin skal kynna sveitarstjórnum og samtökum þeirra tillögur sínar og veita þeim hæfilegan frest til að gera athugasemdir við tillögurnar. Einnig skal gefa almenningi kost á að koma sjónarmiðum sínum á framfæri við nefndina.
