@@ -7,7 +7,7 @@ h2. Lög um fjárreiður ríkisins
 <hr />
 
 
- *Tóku gildi 6. júní 1997; komu til framkvæmda skv. fyrirmælum í 52. gr.* _Breytt með_ l. 51/2002 (tóku gildi 1. júlí 2002), l. 95/2002 (tóku gildi 31. maí 2002) og "l. 23/2006":2006023.html (tóku gildi 3. maí 2006; _EES-samningurinn:_ XX. viðauki tilskipun 2003/4/EB).
+ *Tóku gildi 6. júní 1997; komu til framkvæmda skv. fyrirmælum í 52. gr.* _Breytt með_ l. 51/2002 (tóku gildi 1. júlí 2002), l. 95/2002 (tóku gildi 31. maí 2002), "l. 23/2006":2006023.html (tóku gildi 3. maí 2006; _EES-samningurinn:_ XX. viðauki tilskipun 2003/4/EB) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
 
  *I. kafli.* *Ríkisreikningur.*
@@ -16,7 +16,7 @@ h2. Lög um fjárreiður ríkisins
  _Ríkisaðilar._
  ■ *2. gr.* Ríkisaðilar eru þeir sem fara með ríkisvald og þær stofnanir og fyrirtæki sem eru að hálfu eða meiri hluta í eigu ríkisins.
  _Flokkun í ríkisreikningi._
-■ *3. gr.* Ríkisreikningur skiptist í eftirfarandi hluta:
+ ■ *3. gr.* Ríkisreikningur skiptist í eftirfarandi hluta:
     1. A-hluti. Til hans teljast æðsta stjórn ríkisins, þ.e. embætti forseta Íslands, Alþingi, ríkisstjórn og Hæstiréttur, sem og ráðuneyti og ríkisstofnanir, þar með taldir sjóðir í eigu ríkisins sem sinna starfsemi er að stærstum hluta er fjármögnuð af almennum skatttekjum. Sama á við um verðmiðlunar- og verðjöfnunarsjóði, öryggis- og eftirlitsstofnanir og þjónustustofnanir við ríkisaðila sem starfa samkvæmt sérstökum lögum þótt kostnaður við starfsemi þeirra sé ekki greiddur af almennu skattfé. Í A-hluta skal jafnframt gerð grein fyrir fjárreiðum þeirra sem ekki eru ríkisaðilar ef ríkissjóður kostar að öllu eða að verulegu leyti starfsemi þeirra með framlögum eða ber rekstrarlega ábyrgð á starfseminni samkvæmt lögum eða samningi.
     2. B-hluti. Til hans teljast ríkisfyrirtæki er starfa á markaði og standa að öllu eða verulegu leyti undir kostnaði við starfsemi sína með tekjum af sölu á vöru eða þjónustu til almennings og fyrirtækja, hvort sem er í samkeppni eða í skjóli einkaréttar, enda séu þau hvorki sameignar- né hlutafélög.
     3. C-hluti. Til hans teljast lánastofnanir í eigu ríkisins aðrar en innlánsstofnanir, enda séu þær hvorki sameignar- né hlutafélög.
@@ -25,14 +25,15 @@ h2. Lög um fjárreiður ríkisins
  _Reikningsár ríkisins._
 ■ *4. gr.* Reikningsár ríkisaðila skal vera almanaksárið.
  _Áritun ríkisreiknings._
-■ *5. gr.* Með ríkisreikningi skal fylgja áritun fjármálaráðherra og [fjársýslustjóra][^1)^] þar sem m.a. komi fram að reikningurinn nái til allra ríkisaðila og að hann sé gerður í samræmi við lög og þær venjur sem gilda um reikningsskil ríkisins.
-    _[^1)^]L. 95/2002, 1. gr._
+ ■ *5. gr.* Með ríkisreikningi skal fylgja áritun [ráðherra][^1)^] og [fjársýslustjóra][^2)^] þar sem m.a. komi fram að reikningurinn nái til allra ríkisaðila og að hann sé gerður í samræmi við lög og þær venjur sem gilda um reikningsskil ríkisins.
+    _[^1)^]L. 126/2011, 251. gr. [^2)^]L. 95/2002, 1. gr._
  _Endurskoðun._
  ■ *6. gr.* Ríkisendurskoðandi er endurskoðandi ríkisreiknings og ársreikninga ríkisaðila, sbr. lög um Ríkisendurskoðun.
  _Framlagning ríkisreiknings._
-■ *7. gr.* Fjármálaráðherra skal leggja endurskoðaðan ríkisreikning næstliðins reikningsárs fyrir Alþingi eigi síðar en tveimur vikum eftir að þing kemur saman að hausti.
+ ■ *7. gr.* [Ráðherra][^1)^] skal leggja endurskoðaðan ríkisreikning næstliðins reikningsárs fyrir Alþingi eigi síðar en tveimur vikum eftir að þing kemur saman að hausti.
+    _[^1)^]L. 126/2011, 251. gr._
  *A-hluti ríkisreiknings.*
-■ *8. gr.* A-hluti ríkisreiknings skal gerður í samræmi við viðurkenndar reikningsskilavenjur, sbr. þó 1. gr., og skal m.a. geyma eftirfarandi upplýsingar:
+ ■ *8. gr.* A-hluti ríkisreiknings skal gerður í samræmi við viðurkenndar reikningsskilavenjur, sbr. þó 1. gr., og skal m.a. geyma eftirfarandi upplýsingar:
     a. Reikningsyfirlit er sýni:
     1. Rekstrarreikning.
     2. Efnahagsreikning.
@@ -61,13 +62,13 @@ h2. Lög um fjárreiður ríkisins
 ■ *10. gr.* Skattafslættir, sem ekki eru útborganlegir, skulu dregnir frá tekjum skv. 1. tölul. 9. gr. Þeir skulu þó sýndir sérstaklega í tekjuyfirliti ríkisreiknings.
  □ Útborganlega skattafslætti og bætur skal færa til gjalda.
  _Innheimta fyrir aðra._
-■ *11. gr.* Af sameiginlegum tekjustofni opinberra aðila sem ríkissjóður innheimtir og skiptist í föstum hlutföllum skal aðeins telja þann hluta meðal ríkistekna sem ríkissjóður hefur til eigin ráðstöfunar. Sé hins vegar sveitarfélögum ætluð föst fjárhæð af hinum sameiginlega tekjustofni skal færa tekjurnar að fullu hjá ríkissjóði og sýna ráðstöfun þeirra á gjaldahlið rekstrarreiknings.
+ ■ *11. gr.* Af sameiginlegum tekjustofni opinberra aðila sem ríkissjóður innheimtir og skiptist í föstum hlutföllum skal aðeins telja þann hluta meðal ríkistekna sem ríkissjóður hefur til eigin ráðstöfunar. Sé hins vegar sveitarfélögum ætluð föst fjárhæð af hinum sameiginlega tekjustofni skal færa tekjurnar að fullu hjá ríkissjóði og sýna ráðstöfun þeirra á gjaldahlið rekstrarreiknings.
  □ Sérgreindir tekjustofnar sveitarfélaga, sem ríkissjóður annast innheimtu á, teljast ekki með tekjum ríkissjóðs.
  □ Lögbundnir tekjustofnar sem ríkissjóður innheimtir, annarra en sveitarfélaga, skulu teljast meðal ríkistekna og ráðstöfun þeirra koma fram á gjaldahlið A-hluta ríkisreiknings.
  _Sértekjur._
-■ *12. gr.* Tekjur ríkisstofnana af sölu vöru og þjónustu sem seld er á markaðsforsendum skulu færast til lækkunar á gjöldum en jafnframt sýndar sérstaklega í reikningum þeirra.
+ ■ *12. gr.* Tekjur ríkisstofnana af sölu vöru og þjónustu sem seld er á markaðsforsendum skulu færast til lækkunar á gjöldum en jafnframt sýndar sérstaklega í reikningum þeirra.
  _Flokkun útgjalda._
-■ *13. gr.* Gjöldum skal skipt á æðstu stjórn ríkisins og ráðuneyti, en þó skal sýna fjármagnsgjöld sérstaklega. Í séryfirlitum skal sýna:
+ ■ *13. gr.* Gjöldum skal skipt á æðstu stjórn ríkisins og ráðuneyti, en þó skal sýna fjármagnsgjöld sérstaklega. Í séryfirlitum skal sýna:
     1. Skiptingu gjalda eftir málaflokkum.
     2. Hagræna skiptingu útgjalda.
     3. Skiptingu gjalda eftir stofnunum og viðfangsefnum.
@@ -75,21 +76,22 @@ h2. Lög um fjárreiður ríkisins
  _Varanlegir rekstrarfjármunir._
 ■ *14. gr.* Varanlega rekstrarfjármuni ríkisaðila í A-hluta skal færa til gjalda á því reikningsári þegar stofnað er til skuldbindandi samninga um kaup á þeim. Verksamninga skal gjaldfæra í samræmi við framvindu verksins ljúki því ekki á reikningsári.
  _Eignir utan efnahags._
-■ *15. gr.* Árlega skal halda sérstaka eignaskrá um varanlega rekstrarfjármuni ríkisins. Hún skal sundurliðuð eftir eignaflokkum og skulu niðurstöður hennar birtar með ríkisreikningi.
+ ■ *15. gr.* Árlega skal halda sérstaka eignaskrá um varanlega rekstrarfjármuni ríkisins. Hún skal sundurliðuð eftir eignaflokkum og skulu niðurstöður hennar birtar með ríkisreikningi.
  *B- og C-hluti ríkisreiknings.*
-■ *16. gr.* B- og C-hluti ríkisreiknings skulu a.m.k. hafa að geyma samandregna útgáfu af ársreikningum ríkisfyrirtækja og lánastofnana sem flokkast undir 2. og 3. tölul. 3. gr.
+ ■ *16. gr.* B- og C-hluti ríkisreiknings skulu a.m.k. hafa að geyma samandregna útgáfu af ársreikningum ríkisfyrirtækja og lánastofnana sem flokkast undir 2. og 3. tölul. 3. gr.
  □ Ráðherra setur með reglugerð nánari ákvæði um stytta útgáfu ársreikninga skv. 1. mgr.
  *D- og E-hluti ríkisreiknings.*
-■ *17. gr.* Í D- og E-hluta ríkisreiknings skulu sýndar lykiltölur eða samandregin útgáfa ársreikninga fjármálastofnana og félaga, sbr. 4. og 5. tölul. 3. gr.
+ ■ *17. gr.* Í D- og E-hluta ríkisreiknings skulu sýndar lykiltölur eða samandregin útgáfa ársreikninga fjármálastofnana og félaga, sbr. 4. og 5. tölul. 3. gr.
 
  *II. kafli.* *Ársreikningar.*
  _Gerð ársreikninga._
-■ *18. gr.* Ársreikningar aðila í A-hluta skulu hafa að geyma sömu upplýsingar og tilgreindar eru í 8. gr. eftir því sem við getur átt. Heimilt er hlutaðeigandi ráðherra og fjármálaráðherra að leita eftir kennitölum um umsvif og árangur af starfsemi stofnana til birtingar með ársreikningi umfram það sem kveðið er á um í 8. gr.
+ ■ *18. gr.* Ársreikningar aðila í A-hluta skulu hafa að geyma sömu upplýsingar og tilgreindar eru í 8. gr. eftir því sem við getur átt. Heimilt er [ráðherra og hlutaðeigandi ráðherra][^1)^] að leita eftir kennitölum um umsvif og árangur af starfsemi stofnana til birtingar með ársreikningi umfram það sem kveðið er á um í 8. gr.
  □ Um ársreikninga ríkisaðila utan A-hluta gilda ákvæði laga um ársreikninga eða ákvæði sérlaga ef þau kveða á um jafnmiklar eða meiri kröfur til ársreikningagerðar.
+    _[^1)^]L. 126/2011, 251. gr._
  _Undirritun ársreikninga aðila í A-hluta._
-■ *19. gr.* Ársreikningur aðila í A-hluta skal undirritaður af forstöðumanni hans og aðalbókara. Um ábyrgð fyrir gerð ársreikningsins gilda ákvæði 49. gr.
+ ■ *19. gr.* Ársreikningur aðila í A-hluta skal undirritaður af forstöðumanni hans og aðalbókara. Um ábyrgð fyrir gerð ársreikningsins gilda ákvæði 49. gr.
  _Skil á ársreikningum._
-■ *20. gr.* [Allir aðilar A-hluta skulu gera ársreikning og eignaskrá innan tveggja mánaða frá lokum reikningsárs og senda til Fjársýslu ríkisins, viðkomandi ráðuneytis og Ríkisendurskoðunar. Fjársýslu ríkisins er heimilt að lengja skilafrest um allt að 30 daga.
+ ■ *20. gr.* [Allir aðilar A-hluta skulu gera ársreikning og eignaskrá innan tveggja mánaða frá lokum reikningsárs og senda til Fjársýslu ríkisins, viðkomandi ráðuneytis og Ríkisendurskoðunar. Fjársýslu ríkisins er heimilt að lengja skilafrest um allt að 30 daga.
  □ Ríkisaðilar utan A-hluta skulu eigi síðar en 31. mars ár hvert hafa sent Fjársýslu ríkisins og viðkomandi ráðuneyti ársreikninga sína. Fjársýsla ríkisins getur framlengt skilafrestinn um allt að 30 daga.
  □ Einnig skulu þeir sem ekki eru ríkisaðilar og um getur í 3. málsl. 1. tölul. 3. gr. senda ársreikninga sína til Fjársýslu ríkisins, viðkomandi ráðuneytis og Ríkisendurskoðunar innan þess frests sem um getur í 1. mgr.
  □ Hverju ráðuneyti ber að sjá til þess að stofnanir, sem undir það heyra samkvæmt stjórnarráðslögum og reglugerð, uppfylli ákvæði laga um skilafrest ársreikninga.][^1)^]
@@ -97,116 +99,129 @@ h2. Lög um fjárreiður ríkisins
 
  *III. kafli.* *Frumvarp til fjárlaga.*
  _Almennt._
- ■ *21. gr.* Þegar er Alþingi kemur saman að hausti skal fjármálaráðherra leggja fram frumvarp til fjárlaga sem nái yfir fjárreiður aðila í A-, B- og C-hluta á næsta fjárlagaári. Frumvarpið skal vera á rekstrargrunni sbr. 1. gr., en einnig skal gerð grein fyrir áætluðum sjóðshreyfingum. Þannig skal fyrir fram leitað heimilda til greiðslna úr ríkissjóði, eftirgjafar krafna og til að gera hvers konar samninga um fjárhagslegar skuldbindingar fyrir ríkissjóð og ríkisstofnanir.
+ ■ *21. gr.* Þegar er Alþingi kemur saman að hausti skal [ráðherra][^1)^] leggja fram frumvarp til fjárlaga sem nái yfir fjárreiður aðila í A-, B- og C-hluta á næsta fjárlagaári. Frumvarpið skal vera á rekstrargrunni sbr. 1. gr., en einnig skal gerð grein fyrir áætluðum sjóðshreyfingum. Þannig skal fyrir fram leitað heimilda til greiðslna úr ríkissjóði, eftirgjafar krafna og til að gera hvers konar samninga um fjárhagslegar skuldbindingar fyrir ríkissjóð og ríkisstofnanir.
  □ Frumvarp til fjárlaga skal samið með hliðsjón af þjóðhagsáætlun ríkisstjórnarinnar. Skulu áætlanir um tekjur og gjöld í frumvarpinu gerðar á sömu meginforsendum og þjóðhagsáætlun.
- □ Fjárlagatillögum aðila í A-, B- og C-hluta skal skilað til viðkomandi ráðuneytis. Hvert ráðuneyti skal skila fjárlagatillögum til fjármálaráðuneytisins eftir nánari reglum sem settar eru í reglugerð.
- □ Forsætisnefnd Alþingis gerir ár hvert tillögu um fjárveitingar til Alþingis og stofnana þess, samkvæmt ákvæðum þingskapa, innan þess frests sem almennt gildir, sbr. 3. mgr., og í samræmi við 2. mgr., og sendir forsætisráðherra.
+ □ Fjárlagatillögum aðila í A-, B- og C-hluta skal skilað til viðkomandi ráðuneytis. Hvert ráðuneyti skal skila fjárlagatillögum til [ráðuneytisins][^1)^] eftir nánari reglum sem settar eru í reglugerð.
+ □ Forsætisnefnd Alþingis gerir ár hvert tillögu um fjárveitingar til Alþingis og stofnana þess, samkvæmt ákvæðum þingskapa, innan þess frests sem almennt gildir, sbr. 3. mgr., og í samræmi við 2. mgr., og sendir [ráðherra er fer með málefni er varða stjórnskipan lýðveldisins Íslands].[^1)^]
  □ Sama gildir um frumvarp til fjáraukalaga, sbr. 44. gr.
+    _[^1)^]L. 126/2011, 251. gr._
  _A-hluti frumvarps til fjárlaga._
-■ *22. gr.* Í frumvarpi til fjárlaga skal sýna áætlaðan rekstrarreikning fyrir ríkisaðila í A-hluta og jafnframt skal þar gerð grein fyrir áætluðu sjóðstreymi og lánahreyfingum ríkissjóðs.
+ ■ *22. gr.* Í frumvarpi til fjárlaga skal sýna áætlaðan rekstrarreikning fyrir ríkisaðila í A-hluta og jafnframt skal þar gerð grein fyrir áætluðu sjóðstreymi og lánahreyfingum ríkissjóðs.
  □ Tekjur ríkissjóðs skulu sýndar eftir meginflokkum tekna og helstu skattstofnum. Skulu þar bæði sýndir álagðir skattar og gjöld og innheimtar tekjur.
  □ Gjöld ríkissjóðs skulu sundurliðuð eftir ábyrgðarsviðum og viðfangsefnum. Gjöld skulu sýnd á rekstrargrunni, sbr. 1. mgr. 21. gr., þannig að þau sýni skuldbindingar að frádregnum sértekjum. Þá skal sýnd fjármögnun gjaldanna.
  □ Fjárveitingar skulu flokkaðar eftir viðfangsefnum og skiptast í almenn rekstrargjöld, viðhaldsgjöld og stofnkostnað.
  □ Lánahreyfingar ríkissjóðs skulu sundurgreindar í langtímalán eða skammtímalán.
  _Markaðir tekjustofnar og lögbundin framlög._
-■ *23. gr.* Sé í fjárlagafrumvarpi gert ráð fyrir breytingum á lögbundnum tekjustofnum eða lögbundnum framlögum úr ríkissjóði skulu breytingar á hlutaðeigandi sérlögum teknar upp í frumvarpið. Gildistími breytinga samkvæmt þessari grein skal vera hinn sami og fjárlaga. Í frumvarpi til fjárlaga skal vera sérstakt yfirlit um stöðu og ráðstöfun markaðra tekna og lögbundinna framlaga.
+ ■ *23. gr.* Sé í fjárlagafrumvarpi gert ráð fyrir breytingum á lögbundnum tekjustofnum eða lögbundnum framlögum úr ríkissjóði skulu breytingar á hlutaðeigandi sérlögum teknar upp í frumvarpið. Gildistími breytinga samkvæmt þessari grein skal vera hinn sami og fjárlaga. Í frumvarpi til fjárlaga skal vera sérstakt yfirlit um stöðu og ráðstöfun markaðra tekna og lögbundinna framlaga.
  _Skýringar við tekjur og útgjöld ríkissjóðs._
-■ *24. gr.* Í fjárlagafrumvarpi skal í athugasemdum gerð grein fyrir tekjuáætlun ríkissjóðs og útgjaldaáformum æðstu stjórnar ríkisins, ráðuneyta, ríkisstofnana, ríkisfyrirtækja og lánastofnana. Gerð skal grein fyrir ráðstöfun fjárveitinga og efnislegum breytingum frá einu ári til annars. Enn fremur komi fram lýsing á helstu verkefnum einstakra ríkisaðila, verðmæti fjárfestingar og tilgangur styrkja til einkaaðila.
- □ Æðstu stjórn ríkisins, ráðuneytum, ríkisstofnunum, ríkisfyrirtækjum og lánastofnunum er skylt að veita fjármálaráðherra þær upplýsingar sem hann telur nauðsynlegar við gerð frumvarpsins.
+ ■ *24. gr.* Í fjárlagafrumvarpi skal í athugasemdum gerð grein fyrir tekjuáætlun ríkissjóðs og útgjaldaáformum æðstu stjórnar ríkisins, ráðuneyta, ríkisstofnana, ríkisfyrirtækja og lánastofnana. Gerð skal grein fyrir ráðstöfun fjárveitinga og efnislegum breytingum frá einu ári til annars. Enn fremur komi fram lýsing á helstu verkefnum einstakra ríkisaðila, verðmæti fjárfestingar og tilgangur styrkja til einkaaðila.
+ □ Æðstu stjórn ríkisins, ráðuneytum, ríkisstofnunum, ríkisfyrirtækjum og lánastofnunum er skylt að veita [ráðherra][^1)^] þær upplýsingar sem hann telur nauðsynlegar við gerð frumvarpsins.
+    _[^1)^]L. 126/2011, 251. gr._
  _B- og C-hluti frumvarps til fjárlaga._
-■ *25. gr.* Í B- og C-hluta frumvarps til fjárlaga skal koma fram áætlun um rekstrarafkomu, arðgreiðslur, fjárfestingu, lántökur og lánveitingar einstakra aðila í B- og C-hluta ríkisreiknings.
+ ■ *25. gr.* Í B- og C-hluta frumvarps til fjárlaga skal koma fram áætlun um rekstrarafkomu, arðgreiðslur, fjárfestingu, lántökur og lánveitingar einstakra aðila í B- og C-hluta ríkisreiknings.
  □ Í séryfirlitum skal sýnd sundurliðun á rekstrarreikningi og sjóðstreymi.
  _Lántökur, endurlán og ábyrgðir._
-■ *26. gr.* Í frumvarpi til fjárlaga skal leitað heimilda til lántöku, lánveitinga og ríkisábyrgða á fjárlagaárinu. Í athugasemdum skal jafnframt vera yfirlit um heildarlántökur ríkisaðila, lánveitingar til einstakra aðila utan A-hluta og um veitingu ríkisábyrgða og skiptingu þeirra eftir helstu ábyrgðarflokkum.
+ ■ *26. gr.* Í frumvarpi til fjárlaga skal leitað heimilda til lántöku, lánveitinga og ríkisábyrgða á fjárlagaárinu. Í athugasemdum skal jafnframt vera yfirlit um heildarlántökur ríkisaðila, lánveitingar til einstakra aðila utan A-hluta og um veitingu ríkisábyrgða og skiptingu þeirra eftir helstu ábyrgðarflokkum.
  _Áætlun yfir fjárfestingar og lánsfjárþörf._
-■ *27. gr.* Frumvarp til fjárlaga skal geyma áætlun yfir fjárfestingu opinberra aðila og lánsfjárþörf. Undirbúningur þessarar áætlunar skal vera á vegum fjármálaráðuneytis og skal það hafa forgöngu um gerð hennar í samvinnu við hlutaðeigandi aðila. Í henni skulu m.a. eftirtalin atriði koma fram:
+ ■ *27. gr.* Frumvarp til fjárlaga skal geyma áætlun yfir fjárfestingu opinberra aðila og lánsfjárþörf. Undirbúningur þessarar áætlunar skal vera á vegum [ráðuneytisins][^1)^] og skal það hafa forgöngu um gerð hennar í samvinnu við hlutaðeigandi aðila. Í henni skulu m.a. eftirtalin atriði koma fram:
     1. Áætlun um opinberar framkvæmdir og spá um heildarfjárfestingu. Tekur þetta m.a. til fjármögnunar og fjárráðstafana ríkissjóðs, ríkisfyrirtækja og annarra opinberra aðila.
     2. Áætlun um lánveitingar og fjármögnun fjárfestingarlánasjóða og sjóðstreymi lífeyrissjóða.
     3. Heildaráætlun um lántökur opinberra aðila.
     4. Yfirlit um skuldbindingar þjóðarbúsins út á við og áætlaðar greiðslur afborgana og vaxta af erlendum lánum minnst þrjú ár fram í tímann.
     5. Yfirlit og spár um lána- og peningamarkaðinn í heild.
+    _[^1)^]L. 126/2011, 251. gr._
  _Langtímaáætlun._
-■ *28. gr.* Með fjárlagafrumvarpi ár hvert skal leggja fram áætlun fyrir ríkisbúskapinn til næstu þriggja ára eftir lok þess fjárhagsárs sem fjárlagafrumvarpið tekur til. Þar skal annars vegar gerð grein fyrir horfum í ríkisbúskapnum í ljósi almennra efnahagshorfa og hins vegar stefnu stjórnvalda í ríkisfjármálum. Fram komi mat á áhrifum ríkisbúskaparins á efnahags- og atvinnumál, áform um öflun tekna og skiptingu gjalda, fjárframlög til fjárfestingar og yfirlit um lánastarfsemi ríkisins og greiðslubyrði lána.
+ ■ *28. gr.* Með fjárlagafrumvarpi ár hvert skal leggja fram áætlun fyrir ríkisbúskapinn til næstu þriggja ára eftir lok þess fjárhagsárs sem fjárlagafrumvarpið tekur til. Þar skal annars vegar gerð grein fyrir horfum í ríkisbúskapnum í ljósi almennra efnahagshorfa og hins vegar stefnu stjórnvalda í ríkisfjármálum. Fram komi mat á áhrifum ríkisbúskaparins á efnahags- og atvinnumál, áform um öflun tekna og skiptingu gjalda, fjárframlög til fjárfestingar og yfirlit um lánastarfsemi ríkisins og greiðslubyrði lána.
  □ Þegar fjárlög hafa verið samþykkt á Alþingi skal langtímaáætlunin endurskoðuð og lögð fram á Alþingi ef verulegar breytingar hafa orðið á forsendum hennar.
 
  *IV. kafli.* *Framkvæmd fjárlaga.*
  _Ráðstöfun eigna og samningar hjá A-hluta._
-■ *29. gr.* Ríkisaðilar í A-hluta skulu hverju sinni afla heimilda í lögum til að kaupa, selja, skipta eða leigja til langs tíma eftirtaldar eignir:
+ ■ *29. gr.* Ríkisaðilar í A-hluta skulu hverju sinni afla heimilda í lögum til að kaupa, selja, skipta eða leigja til langs tíma eftirtaldar eignir:
     1. Fasteignir.
     2. Eignarhluta í félögum.
     3. Skip og flugvélar.
     4. Söfn og safnhluta sem hafa að geyma menningarverðmæti.
     5. Aðrar eignir sem verulegt verðgildi hafa og ekki falla undir 1. - 4. tölul. þessarar málsgreinar, nema annað leiði af ákvæðum þessa kafla.
- □ Þrátt fyrir ákvæði 1. mgr. skal heimilt að taka á leigu og leigja út eignir skv. 1. mgr. ef um er að ræða venjubundna rekstrarleigu, enda liggi fyrir samþykki viðkomandi ráðherra og fjármálaráðherra.
-■ *30. gr.* Einstökum ráðherrum er heimilt, með samþykki fjármálaráðherra, að gera verksamninga og samninga um rekstrarverkefni, sem undir ráðuneytið heyra, til lengri tíma en eins árs við þá ríkisstofnun sem sinnt hefur verkefninu, aðrar ríkisstofnanir, sveitarfélög eða einkaaðila, enda sé áætlað fyrir verkefninu í fjárlögum. Með rekstrarverkefni er átt við afmarkaða rekstrarþætti eða rekstur ríkisstofnunar í heild sinni vegna viðfangsefna eða þjónustu sem ýmist er kveðið á um í lögum að ríkið skuli veita og standa undir kostnaði af eða eru liðir í því að ríkisaðili geti rækt hlutverk sitt.
- □ Einkaaðila verður þó ekki með samningi skv. 1. mgr. falið opinbert vald til að taka ákvarðanir um réttindi og skyldur manna nema sérstök heimild sé til þess í lögum. Séu slíkir samningar gerðir skulu ákvæði stjórnsýslulaga og upplýsingalaga, sem og almennar meginreglur stjórnsýsluréttar, gilda um þá stjórnsýslu sem verktaki tekur að sér að annast. [Með sama hætti skulu ákvæði laga um upplýsingarétt um umhverfismál gilda um verktaka og upplýsingaskyldu hans.][^1)^]
+ □ Þrátt fyrir ákvæði 1. mgr. skal heimilt að taka á leigu og leigja út eignir skv. 1. mgr. ef um er að ræða venjubundna rekstrarleigu, enda liggi fyrir samþykki [ráðherra og viðkomandi ráðherra].[^1)^]
+    _[^1)^]L. 126/2011, 251. gr._
+ ■ *30. gr.* Einstökum ráðherrum er heimilt, með samþykki [ráðherra],[^1)^] að gera verksamninga og samninga um rekstrarverkefni, sem undir ráðuneytið heyra, til lengri tíma en eins árs við þá ríkisstofnun sem sinnt hefur verkefninu, aðrar ríkisstofnanir, sveitarfélög eða einkaaðila, enda sé áætlað fyrir verkefninu í fjárlögum. Með rekstrarverkefni er átt við afmarkaða rekstrarþætti eða rekstur ríkisstofnunar í heild sinni vegna viðfangsefna eða þjónustu sem ýmist er kveðið á um í lögum að ríkið skuli veita og standa undir kostnaði af eða eru liðir í því að ríkisaðili geti rækt hlutverk sitt.
+ □ Einkaaðila verður þó ekki með samningi skv. 1. mgr. falið opinbert vald til að taka ákvarðanir um réttindi og skyldur manna nema sérstök heimild sé til þess í lögum. Séu slíkir samningar gerðir skulu ákvæði stjórnsýslulaga og upplýsingalaga, sem og almennar meginreglur stjórnsýsluréttar, gilda um þá stjórnsýslu sem verktaki tekur að sér að annast. [Með sama hætti skulu ákvæði laga um upplýsingarétt um umhverfismál gilda um verktaka og upplýsingaskyldu hans.][^2)^]
  □ Ríkisstofnunum í A-hluta skal heimilt án atbeina ráðherra að gera samninga um afmörkuð rekstrarverkefni, enda sé ekki um að ræða starfsemi sem felur í sér vald til að taka ákvarðanir er lúta að réttindum og skyldum manna og kostnaður við verkefnið sé ekki umtalsverður hluti heildarútgjalda stofnunar.
  □ Verktaki og starfsmenn hans skulu bundnir þagnarskyldu um það sem þeir fá vitneskju um við framkvæmd rekstrarverkefnisins og leynt á að fara. Um þagnarskylduna gilda ákvæði "18. gr. laga um réttindi og skyldur starfsmanna ríkisins, nr. 70/1996":1996070.html#g18, og skal brot á henni varða refsingu skv. "136. gr. almennra hegningarlaga, nr. 19/1940":1940019.html#g136.
- □ Í samningi um rekstrarverkefni samkvæmt þessari grein skal m.a. skilgreina umfang og gæði þeirrar þjónustu sem ríkissjóður kaupir, samningstíma, greiðslur úr ríkissjóði, eftirlit með þjónustu og meðferð ágreiningsmála. Lög um opinber innkaup gilda um útboð rekstrarverkefna. Samningstími skal lengstur vera sex ár í senn, en þó er heimilt að semja til lengri tíma ef verkkaupi gerir kröfu um að verksali byggi upp kostnaðarsama aðstöðu eða búnað vegna verkefnisins. Uppsagnarfrestur samnings skal stystur vera þrír mánuðir. Fjármálaráðherra skal setja nánari reglur[^2)^] um undirbúning, gerð og eftirlit með samningum samkvæmt þessari grein og um þær almennu kröfur sem gera skal til samningsaðila, svo sem um fjárhagslegt bolmagn, faglega þekkingu og aðstöðu.
+ □ Í samningi um rekstrarverkefni samkvæmt þessari grein skal m.a. skilgreina umfang og gæði þeirrar þjónustu sem ríkissjóður kaupir, samningstíma, greiðslur úr ríkissjóði, eftirlit með þjónustu og meðferð ágreiningsmála. Lög um opinber innkaup gilda um útboð rekstrarverkefna. Samningstími skal lengstur vera sex ár í senn, en þó er heimilt að semja til lengri tíma ef verkkaupi gerir kröfu um að verksali byggi upp kostnaðarsama aðstöðu eða búnað vegna verkefnisins. Uppsagnarfrestur samnings skal stystur vera þrír mánuðir. [Ráðherra][^1)^] skal setja nánari reglur[^3)^] um undirbúning, gerð og eftirlit með samningum samkvæmt þessari grein og um þær almennu kröfur sem gera skal til samningsaðila, svo sem um fjárhagslegt bolmagn, faglega þekkingu og aðstöðu.
  □ Ákvæði þessarar greinar og reglna settra samkvæmt henni skulu gilda með sama hætti um samninga um rekstrarverkefni sem gerðir eru samkvæmt heimild í öðrum lögum, sbr. 2. mgr., nema ríkari kröfur séu gerðar til samninganna í sérlögum.
  □ Í athugasemdum með fjárlagafrumvarpi skal gera grein fyrir áformuðum samningum á fjárlagaárinu og áætlun um kostnað sem af þeim hlýst næstu þrjú fjárlagaár. Jafnframt skal gera grein fyrir markmiðum og ávinningi ríkisins af áformuðum samningum.
-    _[^1)^]_"L. 23/2006, 18. gr.":2006023.html#g18 [^2)^]Rg. 343/2006.
+    _[^1)^]L. 126/2011, 251. gr. [^2)^]"L. 23/2006, 18. gr.":2006023.html#g18 [^3)^]Rg. 343/2006._
  _Eignir keyptar nauðungarsölu og ráðstöfun þeirra hjá A-hluta._
  ■ *31. gr.* Ríkisaðilar í A-hluta geta án sérstakrar lagaheimildar keypt eignir við nauðungarsölu á grundvelli veðréttar eða skilmála að baki áfallinna ábyrgðarskuldbindinga.
  □ Eignir, sem keyptar eru skv. 1. mgr., skulu seldar jafnskjótt og það er talið hagkvæmt.
  _Viðskipti án staðgreiðslu í A- og B-hluta._
-■ *32. gr.* Ríkisaðilum í A- og B-hluta er heimilt að eiga viðskipti án staðgreiðslu, enda séu þau innan marka fjárheimilda, og skal jafnan um það samið hvenær greiða skuli fyrir þau viðskipti. Fjármálaráðherra setur reglur[^1)^] um láns- og reikningsviðskipti.
-    _[^1)^]Rgl. 83/2000_.
+ ■ *32. gr.* Ríkisaðilum í A- og B-hluta er heimilt að eiga viðskipti án staðgreiðslu, enda séu þau innan marka fjárheimilda, og skal jafnan um það samið hvenær greiða skuli fyrir þau viðskipti. [Ráðherra][^1)^] setur reglur[^2)^] um láns- og reikningsviðskipti.
+    _[^1)^]L. 126/2011, 251. gr. [^2)^]Rgl. 83/2000._
  _Ófyrirséð greiðsluskylda A-hluta._
- ■ *33. gr.* Valdi ófyrirséð atvik því að greiða þarf úr ríkissjóði án heimildar í fjárlögum er fjármálaráðherra að höfðu samráði við hlutaðeigandi ráðherra heimilt að inna greiðsluna af hendi enda þoli hún ekki bið. Fjármálaráðherra er skylt að gera fjárlaganefnd Alþingis grein fyrir slíkum ófyrirséðum greiðslum strax og ákvörðun hefur verið tekin um þær og leita heimilda til þeirra með frumvarpi til fjáraukalaga.
-■ *34. gr.* Séu gerðir kjarasamningar sem kveða á um frekari launaútgjöld ríkisins en fjárlög gerðu ráð fyrir skal svo fljótt sem kostur er leita heimilda Alþingis til slíkra útgjalda með frumvarpi til fjáraukalaga. Launagreiðslum skal þó haga í samræmi við hina nýju kjarasamninga.
+ ■ *33. gr.* Valdi ófyrirséð atvik því að greiða þarf úr ríkissjóði án heimildar í fjárlögum er [ráðherra][^1)^] að höfðu samráði við hlutaðeigandi ráðherra heimilt að inna greiðsluna af hendi enda þoli hún ekki bið. [Ráðherra][^1)^] er skylt að gera fjárlaganefnd Alþingis grein fyrir slíkum ófyrirséðum greiðslum strax og ákvörðun hefur verið tekin um þær og leita heimilda til þeirra með frumvarpi til fjáraukalaga.
+    _[^1)^]L. 126/2011, 251. gr._
+ ■ *34. gr.* Séu gerðir kjarasamningar sem kveða á um frekari launaútgjöld ríkisins en fjárlög gerðu ráð fyrir skal svo fljótt sem kostur er leita heimilda Alþingis til slíkra útgjalda með frumvarpi til fjáraukalaga. Launagreiðslum skal þó haga í samræmi við hina nýju kjarasamninga.
  _Ráðstöfun lausafjár A-hluta._
-■ *35. gr.* Ríkisaðilum í A-hluta er heimilt án sérstakrar lagaheimildar að selja lausafé sem þeir hafa notað við starfsemi sína, svo sem ökutæki, vélar, áhöld og annan búnað. Söluandvirði skal skilað í ríkissjóð nema fjármálaráðherra heimili ríkisstofnun að ráðstafa því til endurnýjunar á búnaði.
+ ■ *35. gr.* Ríkisaðilum í A-hluta er heimilt án sérstakrar lagaheimildar að selja lausafé sem þeir hafa notað við starfsemi sína, svo sem ökutæki, vélar, áhöld og annan búnað. Söluandvirði skal skilað í ríkissjóð nema [ráðherra][^1)^] heimili ríkisstofnun að ráðstafa því til endurnýjunar á búnaði.
+    _[^1)^]L. 126/2011, 251. gr._
  _Gjafir til A-hluta._
-■ *36. gr.* Ákveði ríkisaðili í A-hluta að þiggja gjöf sem gefin er með kvöðum eða skilyrðum sem óhjákvæmilega hafa í för með sér útgjöld fyrir ríkissjóð ber að taka við gjöfinni með fyrirvara um samþykki Alþingis, enda hafi ekki verið gert ráð fyrir útgjöldum þessum í fjárlögum. Á sama hátt er ríkisaðila í A-hluta óheimilt að gefa eða afhenda án endurgjalds eignir nema fyrir fram sé aflað heimilda í fjárlögum.
+ ■ *36. gr.* Ákveði ríkisaðili í A-hluta að þiggja gjöf sem gefin er með kvöðum eða skilyrðum sem óhjákvæmilega hafa í för með sér útgjöld fyrir ríkissjóð ber að taka við gjöfinni með fyrirvara um samþykki Alþingis, enda hafi ekki verið gert ráð fyrir útgjöldum þessum í fjárlögum. Á sama hátt er ríkisaðila í A-hluta óheimilt að gefa eða afhenda án endurgjalds eignir nema fyrir fram sé aflað heimilda í fjárlögum.
  _Yfirfærsla umframgjalda og ónýttra fjárveitinga A-hluta._
-■ *37. gr.* Heimilt er að flytja fjárheimildir milli einstakra rekstrarverkefna hvers ríkisaðila í A-hluta, enda séu verkefnin tilgreind í fjárlögum.
- □ Að fengnu samþykki hlutaðeigandi ráðherra og fjármálaráðherra er heimilt að geyma ónýttar fjárveitingar í lok reikningsárs. Með sama hætti er heimilt að draga skuldir frá fyrra ári frá fjárveitingum ársins.
+ ■ *37. gr.* Heimilt er að flytja fjárheimildir milli einstakra rekstrarverkefna hvers ríkisaðila í A-hluta, enda séu verkefnin tilgreind í fjárlögum.
+ □ Að fengnu samþykki [ráðherra og hlutaðeigandi ráðherra][^1)^] er heimilt að geyma ónýttar fjárveitingar í lok reikningsárs. Með sama hætti er heimilt að draga skuldir frá fyrra ári frá fjárveitingum ársins.
+    _[^1)^]L. 126/2011, 251. gr._
  _Yfirfærsla lántökuheimilda._
-■ *38. gr.* Heimilt er að geyma ónýttar lántökuheimildir yfir áramót. Lántökuheimildir skulu þó falla niður ef þær hafa eigi verið nýttar fyrir 1. apríl á næsta ári á eftir fjárlagaári því þegar þær voru veittar.
+ ■ *38. gr.* Heimilt er að geyma ónýttar lántökuheimildir yfir áramót. Lántökuheimildir skulu þó falla niður ef þær hafa eigi verið nýttar fyrir 1. apríl á næsta ári á eftir fjárlagaári því þegar þær voru veittar.
  _Fjárvarsla A-hluta._
-■ *39. gr.* Ríkisaðilum í A-hluta er heimilt að fengnu samþykki fjármálaráðherra og með þeim skilyrðum sem hann setur að halda eigin bankareikninga.
+ ■ *39. gr.* Ríkisaðilum í A-hluta er heimilt að fengnu samþykki [ráðherra][^1)^] og með þeim skilyrðum sem hann setur að halda eigin bankareikninga.
+    _[^1)^]L. 126/2011, 251. gr._
  _Mánaðar- og árshlutauppgjör A-hluta._
-■ *40. gr.* Gera skal mánaðarlega greiðsluuppgjör fyrir ríkissjóð. Jafnframt skal fjármálaráðuneytið einu sinni innan reikningsársins gera grein fyrir sérstökum fjárskuldbindingum og kröfum ríkissjóðs sem áfallnar eru á árinu og ekki hafa komið til greiðslu. Að minnsta kosti einu sinni innan reikningsársins skal fjármálaráðherra gera grein fyrir horfum í ríkisfjármálum og lánsfjármálum á árinu og helstu frávik frá fjárlögum í afkomu aðila í A-hluta.
+ ■ *40. gr.* Gera skal mánaðarlega greiðsluuppgjör fyrir ríkissjóð. Jafnframt skal [ráðuneytið][^1)^] einu sinni innan reikningsársins gera grein fyrir sérstökum fjárskuldbindingum og kröfum ríkissjóðs sem áfallnar eru á árinu og ekki hafa komið til greiðslu. Að minnsta kosti einu sinni innan reikningsársins skal [ráðherra][^1)^] gera grein fyrir horfum í ríkisfjármálum og lánsfjármálum á árinu og helstu frávik frá fjárlögum í afkomu aðila í A-hluta.
+    _[^1)^]L. 126/2011, 251. gr._
  _Fjárskuldbindingar B- og C-hluta._
-■ *41. gr.* Ríkisaðilum í B- og C-hluta er heimilt að fengnu samþykki fjármálaráðherra ásamt samþykki hlutaðeigandi ráðherra að stofna til frekari fjárskuldbindinga en fjárlög gera ráð fyrir, enda sé það nauðsynlegt til að tryggja eðlilegan rekstur fyrirtækisins.
+ ■ *41. gr.* Ríkisaðilum í B- og C-hluta er heimilt að fengnu samþykki [ráðherra][^1)^] ásamt samþykki hlutaðeigandi ráðherra að stofna til frekari fjárskuldbindinga en fjárlög gera ráð fyrir, enda sé það nauðsynlegt til að tryggja eðlilegan rekstur fyrirtækisins.
+    _[^1)^]L. 126/2011, 251. gr._
  _Ráðstöfun rekstrarhagnaðar B-, C- og D-hluta._
-■ *42. gr.* Ríkisaðilar í B-, C- og D-hluta skulu skila eðlilegum hluta af rekstrarhagnaði sínum sem arði í ríkissjóð eftir nánari reglum er fjármálaráðherra setur með reglugerð að höfðu samráði við hlutaðeigandi ráðherra, enda mæli lög ekki fyrir um annað.
+ ■ *42. gr.* Ríkisaðilar í B-, C- og D-hluta skulu skila eðlilegum hluta af rekstrarhagnaði sínum sem arði í ríkissjóð eftir nánari reglum er [ráðherra][^1)^] setur með reglugerð að höfðu samráði við hlutaðeigandi ráðherra, enda mæli lög ekki fyrir um annað.
+    _[^1)^]L. 126/2011, 251. gr._
 
  *V. kafli.* *Frumvarp til fjáraukalaga.*
  _Almennt um frumvarp til fjáraukalaga._
-■ *43. gr.* Ef þörf krefur skal í frumvarpi til fjáraukalaga leitað eftir heimildum til frekari fjárráðstafana en fjárlög ársins gera ráð fyrir.
+ ■ *43. gr.* Ef þörf krefur skal í frumvarpi til fjáraukalaga leitað eftir heimildum til frekari fjárráðstafana en fjárlög ársins gera ráð fyrir.
  _Frumvarp til fjáraukalaga innan fjárhagsárs._
-■ *44. gr.* Valdi ófyrirséð atvik, kjarasamningar eða ný löggjöf því að grípa þarf til sérstakra fjárráðstafana sem ekki var gert ráð fyrir í fjárlögum ársins skal leitað heimilda fyrir þeim í frumvarpi til fjáraukalaga. Heimilda fyrir fjárráðstöfunum af þessu tagi, sem grípa þarf til eftir samþykkt fjáraukalaga, skal leitað í lokafjárlögum, sbr. 45. gr.
+ ■ *44. gr.* Valdi ófyrirséð atvik, kjarasamningar eða ný löggjöf því að grípa þarf til sérstakra fjárráðstafana sem ekki var gert ráð fyrir í fjárlögum ársins skal leitað heimilda fyrir þeim í frumvarpi til fjáraukalaga. Heimilda fyrir fjárráðstöfunum af þessu tagi, sem grípa þarf til eftir samþykkt fjáraukalaga, skal leitað í lokafjárlögum, sbr. 45. gr.
  □ Öðrum óskum um breyttar heimildir til fjárráðstafana en getur í 1. mgr. skal jafnan vísað til ákvörðunar Alþingis í tengslum við afgreiðslu fjárlaga fyrir næsta ár.
  _Frumvarp til lokafjárlaga til staðfestingar á ríkisreikningi._
-■ *45. gr.* Með ríkisreikningi sem lagður er fram á Alþingi, sbr. 7. gr., skal fylgja frumvarp til lokafjárlaga honum til staðfestingar. Þar skal leitað heimilda til uppgjörs á skuldum eða ónotuðum fjárveitingum sem ekki eru fluttar milli ára. Jafnframt skal leggja fram sérstaka skrá ásamt skýringum yfir geymdar fjárheimildir og um þá aðila sem hafa farið fram úr fjárheimildum ársins. Heimilt er að greiða slíka umframgreiðslu af fjárveitingu næsta árs. Einnig skal gerð grein fyrir ónýttum lántökuheimildum liðins árs.
+ ■ *45. gr.* Með ríkisreikningi sem lagður er fram á Alþingi, sbr. 7. gr., skal fylgja frumvarp til lokafjárlaga honum til staðfestingar. Þar skal leitað heimilda til uppgjörs á skuldum eða ónotuðum fjárveitingum sem ekki eru fluttar milli ára. Jafnframt skal leggja fram sérstaka skrá ásamt skýringum yfir geymdar fjárheimildir og um þá aðila sem hafa farið fram úr fjárheimildum ársins. Heimilt er að greiða slíka umframgreiðslu af fjárveitingu næsta árs. Einnig skal gerð grein fyrir ónýttum lántökuheimildum liðins árs.
 
  *VI. kafli.* *Ýmis ákvæði.*
  _Ríkisreikningsnefnd._
-■ *46. gr.* Fjármálaráðherra skipar ríkisreikningsnefnd er skal vera honum til ráðuneytis um framsetningu fjárlaga og ríkisreiknings og annars er þýðingu hefur fyrir það reikningslega kerfi er lögum þessum er ætlað að tryggja.
+ ■ *46. gr.* [Ráðherra][^1)^] skipar ríkisreikningsnefnd er skal vera honum til ráðuneytis um framsetningu fjárlaga og ríkisreiknings og annars er þýðingu hefur fyrir það reikningslega kerfi er lögum þessum er ætlað að tryggja.
  □ Ef vafi leikur á um túlkun laga þessara eða framkvæmd þeirra að öðru leyti skal leitað álits ríkisreikningsnefndar áður en ákvörðun er tekin eða reglur settar.
+    _[^1)^]L. 126/2011, 251. gr._
  _Skipun ríkisreikningsnefndar._
-■ *47. gr.* Ríkisreikningsnefnd skal skipuð [fimm][^1)^] mönnum. Í henni skulu sitja ráðuneytisstjóri fjármálaráðuneytis, [fjársýslustjóri],[^2)^] ríkisendurskoðandi og hagstofustjóri, auk [eins fulltrúa][^1)^] sem fjármálaráðherra skipar eftir tilnefningu Seðlabanka Íslands ...[^1)^] Ráðherra skipar formann nefndarinnar úr hópi nefndarmanna.
-    _[^1)^]L. 51/2002, 2. gr._ [^2)^]L. 95/2002, 3. gr.
+ ■ *47. gr.* Ríkisreikningsnefnd skal skipuð [fimm][^1)^] mönnum. Í henni skulu sitja [ráðuneytisstjórinn],[^2)^] [fjársýslustjóri],[^3)^] ríkisendurskoðandi og hagstofustjóri, auk [eins fulltrúa][^1)^] sem [ráðherra][^2)^] skipar eftir tilnefningu Seðlabanka Íslands ...[^1)^] Ráðherra skipar formann nefndarinnar úr hópi nefndarmanna.
+    _[^1)^]L. 51/2002, 2. gr. [^2)^]L. 126/2011, 251. gr. [^3)^]L. 95/2002, 3. gr._
  _[Fjársýsla ríkisins.][^1)^]_
     _[^1)^]L. 95/2002, 4. gr._
- ■ *48. gr.* [Fjársýsla ríkisins er sérstök stofnun sem heyrir undir fjármálaráðherra. Fjársýslustjóri veitir Fjársýslu ríkisins forstöðu og er skipaður af fjármálaráðherra til fimm ára í senn.
+ ■ *48. gr.* [Fjársýsla ríkisins er sérstök stofnun sem heyrir undir [ráðherra].[^1)^] Fjársýslustjóri veitir Fjársýslu ríkisins forstöðu og er skipaður af [ráðherra][^1)^] til fimm ára í senn.
  □ Fjársýsla ríkisins hefur yfirumsjón með bókhaldi og ársreikningum ríkisaðila í A-, B- og C-hluta ríkisreiknings. Hún skal gæta þess að samræmi sé við færslu bókhalds og gerð reikningsskila hjá þeim.
  □ Fjársýsla ríkisins skal veita ríkisaðilum aðstoð og ráðgjöf um bókhald og reikningsskil og setja ríkisaðilum í A-, B- og C-hluta ríkisreiknings framkvæmdar- og verklagsreglur ásamt leiðbeiningum sem þýðingu geta haft við færslu bókhalds og gerð ársreikninga.
  □ Fjársýsla ríkisins annast féhirslu ríkisins og greiðsluþjónustu fyrir ríkissjóð og þær ríkisstofnanir sem þess óska, svo og móttöku innheimtufjár frá innheimtustofnunum ríkisins ásamt innheimtu á skuldabréfum og kröfum.
- □ Fjársýsla ríkisins skal annast gerð ríkisreiknings.][^1)^]
-    _[^1)^]L. 95/2002, 4. gr._
+ □ Fjársýsla ríkisins skal annast gerð ríkisreiknings.][^2)^]
+    _[^1)^]L. 126/2011, 251. gr. [^2)^]L. 95/2002, 4. gr._
  _Ábyrgð á fjárreiðum._
  ■ *49. gr.* Forstöðumenn og stjórnir ríkisaðila bera ábyrgð á því að fjárhagsráðstafanir þeirra séu í samræmi við heimildir. Þessir aðilar bera jafnframt ábyrgð á því að ársreikningar séu gerðir í samræmi við lög þessi og staðið sé við skilaskyldu á þeim til [Fjársýslu ríkisins].[^1)^]
  □ Brot á ákvæðum laga þessara varða skyldur opinberra starfsmanna samkvæmt lögum um réttindi og skyldur starfsmanna ríkisins.
     _[^1)^]L. 95/2002, 5. gr._
- ■ *50. gr.* Að öðru leyti en mælt er fyrir um í lögum þessum gilda þau um fjárreiður Alþingis eftir því sem við á. Forsætisnefnd skal, að höfðu samráði við fjármálaráðherra, taka ákvarðanir skv. 2. mgr. 29. gr., 32. gr., 2. mgr. 37. gr. og 39. gr.
+ ■ *50. gr.* Að öðru leyti en mælt er fyrir um í lögum þessum gilda þau um fjárreiður Alþingis eftir því sem við á. Forsætisnefnd skal, að höfðu samráði við [ráðherra],[^1)^] taka ákvarðanir skv. 2. mgr. 29. gr., 32. gr., 2. mgr. 37. gr. og 39. gr.
+    _[^1)^]L. 126/2011, 251. gr._
 
  *VII. kafli.* *Reglugerðir og gildistaka.*
  _Reglugerðarheimildir._
-■ *51. gr.* Fjármálaráðherra er heimilt með reglugerð[^1)^] að kveða nánar á um framkvæmd laga þessara.
-    _[^1)^]Rg. 530/1975_, sbr. 208/1987. Rg. 533/1975. Rg. 206/2003. Rg. 1061/2004. Rg. 430/2008.
+ ■ *51. gr.* [Ráðherra][^1)^] er heimilt með reglugerð[^2)^] að kveða nánar á um framkvæmd laga þessara.
+    _[^1)^]L. 126/2011, 251. gr. [^2)^]Rg. 530/1975, sbr. 208/1987. Rg. 533/1975. Rg. 206/2003. Rg. 1061/2004. Rg. 430/2008._
  _Gildistaka._
  ■ *52. gr.* Lög þessi öðlast þegar gildi og koma til framkvæmda við gerð frumvarps til fjárlaga fyrir árið 1998 og uppgjör ríkisreiknings fyrir það ár. ...
  ■ *Ákvæði til bráðabirgða.* ...

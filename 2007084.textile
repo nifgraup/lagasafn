@@ -7,14 +7,14 @@ h2. Lög um opinber innkaup
 <hr />
 
 
- *Tóku gildi 17. apríl 2007 nema 2. og 3. málsl. 2. mgr. 19. gr. sem tóku gildi 1. janúar 2008.* _EES-samningurinn:_ XVI. viðauki tilskipun 2004/18/EB.
+ *Tóku gildi 17. apríl 2007 nema 2. og 3. málsl. 2. mgr. 19. gr. sem tóku gildi 1. janúar 2008.* _EES-samningurinn:_ XVI. viðauki tilskipun 2004/18/EB. _Breytt með_ l. 56/2011 (tóku gildi 1. júní 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
 
  *1. þáttur.* *Almenn ákvæði.*
  *I. kafli.* *Tilgangur, orðskýringar og gildissvið.*
  ■ *1. gr.* _Tilgangur laganna._
  □ Tilgangur laga þessara er að tryggja jafnræði fyrirtækja við opinber innkaup, stuðla að hagkvæmni í opinberum rekstri með virkri samkeppni og efla nýsköpun og þróun við innkaup hins opinbera á vörum, verkum og þjónustu.
-■ *2. gr.* _Orðskýringar._
+ ■ *2. gr.* _Orðskýringar._
  □ Merking orða í lögum þessum er sem hér segir:
     1. _Almenn fjarskiptaþjónusta:_ Fjarskiptaþjónusta sem yfirvöld hafa sérstaklega falið einu eða fleiri fjarskiptafyrirtækjum að veita.
     2. _Almennt fjarskiptanet:_ Kerfi fyrir almenn fjarskipti sem gerir kleift að flytja merki milli skilgreindra nettengipunkta með rafþræði, örbylgjum, ljóstækniaðferðum eða öðrum rafsegulaðferðum.
@@ -53,14 +53,14 @@ h2. Lög um opinber innkaup
     b. Hann lýtur yfirstjórn ríkis eða sveitarfélaga, stofnana þeirra eða annarra opinberra aðila.
     c. Hann lýtur sérstakri stjórn sem ríki eða sveitarfélög, stofnanir þeirra eða aðrir opinberir aðilar skipa að meiri hluta.
  □ Þeir opinberu aðilar sem taldir eru upp í 1. viðbæti ákvörðunar sameiginlegu EES-nefndarinnar nr. 68/2006, sem birt var 7. september 2006 í EES-viðbæti Stjórnartíðinda ESB nr. 44/2006, skulu allir teljast opinberir aðilar í skilningi þessarar greinar.
-■ *4. gr.* _Samningar sem lögin taka til._
+ ■ *4. gr.* _Samningar sem lögin taka til._
  □ Lög þessi taka til skriflegra samninga um fjárhagslegt endurgjald sem einn eða fleiri kaupendur skv. 3. gr. gera við eitt eða fleiri fyrirtæki og hafa að markmiði framkvæmd verks, sölu vara eða veitingu þjónustu í skilningi laganna.
  □ Til verksamninga teljast samningar sem hafa að markmiði framkvæmd, eða framkvæmd og hönnun, á þeim verkum sem annars vegar greinir í I. viðauka tilskipunarinnar en hins vegar verkum, eða framkvæmd verks, með hvers konar aðferðum sem svara eiga til krafna sem kaupandi hefur sett fram. Með verki í þessum skilningi er átt við afrakstur mannvirkjagerðar eða verkfræðilegra aðferða sem getur, sem slíkur, þjónað efnahagslegu eða tæknilegu hlutverki.
  □ Til vörusamninga teljast aðrir samningar en ræðir um í 2. mgr. sem hafa að markmiði kaup, leigu eða fjármögnunarleigu, með eða án kaupréttar, á vörum. Samningur sem felur í sér tilfallandi ísetningu eða uppsetningu vöru telst vörusamningur.
  □ Til þjónustusamninga teljast samningar sem ekki eru verk- eða vörusamningar og hafa að markmiði veitingu þjónustu sem tilgreind er í II. viðauka tilskipunarinnar. Ef samningur nær bæði til kaupa á vöru og þjónustu í skilningi II. viðauka tilskipunarinnar skal hann teljast þjónustusamningur ef sá þáttur samningsins sem lýtur að þjónustu nemur hærri fjárhæð en vöruþátturinn. Samningur sem hefur að markmiði veitingu þjónustu í skilningi II. viðauka tilskipunarinnar og felur í sér tilfallandi verk í skilningi I. viðauka tilskipunarinnar, með hliðsjón af meginmarkmiði samningsins, skal teljast þjónustusamningur.
-■ *5. gr.* _Samningar á sviði varnarmála._
+ ■ *5. gr.* _Samningar á sviði varnarmála._
  □ Lög þessi gilda um samninga á sviði varnarmála skv. 123. gr. samningsins um Evrópska efnahagssvæðið ef ekki er kveðið á um annað í lögum.
-■ *6. gr.* _Samningar sem sérstaklega eru undanskildir gildissviði laganna._
+ ■ *6. gr.* _Samningar sem sérstaklega eru undanskildir gildissviði laganna._
  □ Lögin taka ekki til þjónustusamninga er varða:
     a. Kaup eða leigu, gegn hvers konar fjárhagslegu endurgjaldi, á jörð, byggingum sem þegar hafa verið reistar eða öðrum fasteignum eða réttindum yfir þeim. Samningar um fjármálaþjónustu sem gerðir eru fyrir, eftir eða samhliða samningnum um kaup eða leigu á fasteign falla þó undir gildissvið laganna.
     b. Kaup, þróun og framleiðslu á dagskrárefni fyrir útvarp og sjónvarp eða samninga um útsendingartíma.
@@ -69,70 +69,73 @@ h2. Lög um opinber innkaup
     e. Vinnusamninga.
     f. Rannsókn og þróun á þjónustu, að frátöldum samningum þar sem kaupendur bera allan kostnað af þjónustunni og hafa einkarétt á að njóta góðs af árangrinum í starfsemi sinni.
  □ Ráðherra getur með reglugerð ákveðið að ríkisstofnanir og ríkisfyrirtæki hagi innkaupum sínum samkvæmt lögum þessum einnig við gerð þeirra samninga sem greinir í 1. mgr.
-■ *7. gr.* _Samningar stofnana sem annast vatnsveitu, orkuveitu, flutninga og póstþjónustu._
+ ■ *7. gr.* _Samningar stofnana sem annast vatnsveitu, orkuveitu, flutninga og póstþjónustu._
  □ Lögin taka ekki til samninga sem undanþegnir eru tilskipun nr. 2004/17/EB um samræmingu reglna um innkaup stofnana sem annast vatnsveitu, orkuveitu, flutninga og póstþjónustu, sbr. 3. - 7. gr. þeirrar tilskipunar, eins og hún hefur verið tekin upp í samninginn um Evrópska efnahagssvæðið, sbr. ákvörðun sameiginlegu EES-nefndarinnar nr. 68/2006, sem birt var 7. september 2006 í EES-viðbæti Stjórnartíðinda ESB nr. 44/2006, sbr. 2. mgr. 5. gr., 19. gr., 26. gr. og 30. gr. sömu tilskipunar.
  □ Ákvæði XIV. og XV. kafla laga þessara gilda um samninga sem þeir kaupendur gera sem reka eina eða fleiri tegundir þeirrar starfsemi sem um getur í 3. - 7. gr. þeirrar tilskipunar sem um ræðir í 1. mgr. og eru gerðir vegna reksturs þeirrar starfsemi. Að öðru leyti taka lögin ekki til innkaupa þessara aðila.
- □ Ráðherra skal í reglugerð[^1)^] mæla fyrir um innkaup þeirra aðila sem greinir í 1. mgr., til samræmis við skuldbindingar íslenska ríkisins á sviði opinberra innkaupa samkvæmt samningnum um Evrópska efnahagssvæðið og öðrum milliríkjasamningum.
-    _[^1)^]Rg. 755/2007_, sbr. 916/2008.
+ □ Ráðherra skal í reglugerð[^1)^] mæla fyrir um innkaup þeirra aðila sem greinir í [2. mgr.],[^2)^] til samræmis við skuldbindingar íslenska ríkisins á sviði opinberra innkaupa samkvæmt samningnum um Evrópska efnahagssvæðið og öðrum milliríkjasamningum.
+    _[^1)^]Rg. 755/2007, sbr. 916/2008. [^2)^]L. 56/2011, 1. gr._
  ■ *8. gr.* _Samningar á sviði fjarskipta._
  □ Lögin taka ekki til samninga sem hafa það að meginmarkmiði að stofna til eða reka almennt fjarskiptanet eða bjóða almenningi eina eða fleiri tegundir fjarskiptaþjónustu.
-■ *9. gr.* _Leynilegir samningar og samningar sem krefjast sérstakra öryggisráðstafana._
+ ■ *9. gr.* _Leynilegir samningar og samningar sem krefjast sérstakra öryggisráðstafana._
  □ Lögin taka ekki til samninga sem lýstir eru leynilegir eða ef sérstökum öryggisráðstöfunum verður að beita við framkvæmd þeirra í samræmi við gildandi lög og stjórnvaldsfyrirmæli eða ef grundvallarhagsmunir ríkisins krefjast þess.
-■ *10. gr.* _Samningar sem gerðir eru á grundvelli milliríkjasamninga._
+ ■ *10. gr.* _Samningar sem gerðir eru á grundvelli milliríkjasamninga._
  □ Lögin taka ekki til samninga sem lúta öðrum reglum um opinber innkaup og gerðir eru á grundvelli milliríkjasamnings íslenska ríkisins við eitt eða fleiri ríki utan Evrópska efnahagssvæðisins, eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu, um kaup á vörum eða verkum til sameiginlegra framkvæmda eða hagnýtingar verka ríkjanna eða kaup á þjónustu sem ætluð er til sameiginlegra framkvæmda eða hagnýtingar áætlunar ríkjanna, enda sé slíkur samningur tilkynntur Eftirlitsstofnun EFTA.
  □ Lögin taka ekki til samninga á grundvelli milliríkjasamnings um setu herliðs þegar í hlut eiga fyrirtæki með staðfestu á Evrópska efnahagssvæðinu eða í öðrum ríkjum.
  □ Lögin taka ekki til samninga sem gerðir eru samkvæmt sérstökum reglum alþjóðlegra stofnana um innkaup.
-■ *11. gr.* _Sérleyfissamningar um þjónustu._
+ ■ *11. gr.* _Sérleyfissamningar um þjónustu._
  □ Að undanskilinni 14. gr. laganna gilda þau ekki um sérleyfissamninga um þjónustu. Ráðherra er þó heimilt með reglugerð að setja reglur um gerð sérleyfissamninga um þjónustu að því er varðar ríkið og ríkisstofnanir.
-■ *12. gr.* _Samningar sem gerðir eru á grundvelli einkaréttar._
+ ■ *12. gr.* _Samningar sem gerðir eru á grundvelli einkaréttar._
  □ Lögin taka ekki til þjónustusamninga sem gerðir eru við aðila eða félag aðila sem sjálfir teljast kaupendur eða á grundvelli einkaréttar sem þeir njóta samkvæmt lögum eða stjórnvaldsfyrirmælum sem eru í samræmi við reglur samningsins um Evrópska efnahagssvæðið.
-■ *13. gr.* _Kostnaðarþátttaka opinberra aðila._
+ ■ *13. gr.* _Kostnaðarþátttaka opinberra aðila._
  □ Fylgja skal ákvæðum laga þessara við gerð samninga að jafnvirði 6.242.000 evra eða meira, án virðisaukaskatts, sem kaupendur niðurgreiða meira en 50% þegar um er að ræða samninga um húsbyggingar og aðra mannvirkjagerð í skilningi I. viðauka tilskipunarinnar og einnig þegar samningur felur í sér byggingarframkvæmdir fyrir sjúkrahús, íþrótta- og tómstundaiðkun, skóla og háskóla og opinbera stjórnsýslu.
  □ Þegar um er að ræða þjónustusamninga að jafnvirði 249.000 evra eða meira, án virðisaukaskatts, sem kaupendur niðurgreiða meira en 50% og tengjast verksamningi sem fellur undir 1. mgr. skal einnig fylgja ákvæðum laga þessara.
  □ Hlutaðeigandi opinber aðili skal tryggja að farið sé að lögum þessum þegar annar aðili gerir samning sem fellur undir 1. eða 2. mgr. Sama á við ef opinber aðili gerir samning fyrir hönd slíks aðila eða hefur umsjón með gerð samnings.
 
  *II. kafli.* *Almennar reglur.*
-■ *14. gr.* _Jafnræði fyrirtækja við gerð samninga._
+ ■ *14. gr.* _Jafnræði fyrirtækja við gerð samninga._
  □ Gæta skal jafnræðis og gagnsæis við opinber innkaup. Óheimilt er að mismuna fyrirtækjum á grundvelli þjóðernis eða af öðrum sambærilegum ástæðum.
  □ Það telst ekki andstætt jafnræði að áskilja að vara sé afhent, þjónusta veitt eða verk unnið á tilteknum stað, enda byggist slíkur áskilnaður á málefnalegum ástæðum.
-■ *15. gr.* _Þeir sem njóta réttar samkvæmt lögunum._
+ ■ *15. gr.* _Þeir sem njóta réttar samkvæmt lögunum._
  □ Réttar samkvæmt lögum þessum njóta fyrirtæki með staðfestu í einhverju ríkja Evrópska efnahagssvæðisins eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu. Þessi fyrirtæki skulu þó aldrei njóta lakari réttar en fyrirtæki frá öðrum ríkjum. Réttar samkvæmt lögum þessum njóta einnig fyrirtæki frá öðrum ríkjum að því marki sem þau eiga að njóta slíkra réttinda á grundvelli milliríkjasamnings sem íslenska ríkið hefur gert.
  □ Í reglugerð er heimilt að setja reglur til innleiðingar samnings Alþjóðaviðskiptastofnunarinnar (WTO) um opinber innkaup og annarra milliríkjasamninga um opinber innkaup sem íslenska ríkið kann að gerast aðili að.
-■ *16. gr.* _Bann við mismunun við veitingu sérréttar._
+ ■ *16. gr.* _Bann við mismunun við veitingu sérréttar._
  □ Ef öðrum aðila en kaupanda í skilningi laga þessara er veittur sér- eða einkaréttur til að veita opinbera þjónustu skal tryggja með þeirri athöfn sem kveður á um réttinn, svo sem í viðkomandi lögum, stjórnvaldsfyrirmælum eða stjórnsýslusamningi, að aðilinn virði regluna um bann við mismunun á grundvelli þjóðernis við gerð vörusamninga í tengslum við starfrækslu þjónustunnar.
-■ *17. gr.* _Trúnaðarskylda._
+ ■ *17. gr.* _Trúnaðarskylda._
  □ Kaupanda er óheimilt að láta af hendi upplýsingar sem fyrirtæki hefur lagt fram sem trúnaðarupplýsingar. Til slíkra upplýsinga teljast einkum tækni- og viðskiptaleyndarmál auk þeirra atriða í tilboði sem leynt skulu fara.
  □ Ákvæði 1. mgr. á ekki við ef annað leiðir af fyrirmælum laganna, sbr. einkum þau ákvæði sem kveða á um skyldu til að birta opinberlega tilkynningu um gerð samnings á Evrópska efnahagssvæðinu, sbr. 4. mgr. 35. gr. tilskipunarinnar, og upplýsa þátttakendur og bjóðendur um tiltekin atriði, sbr. 41. og 71. gr. tilskipunarinnar, sem og skyldu til að veita kærunefnd útboðsmála upplýsingar, sbr. 5. mgr. 95. gr.
  □ Ákvæði 1. mgr. hefur ekki áhrif á skyldu opinbers aðila til að leggja fram upplýsingar á grundvelli upplýsingalaga.
-■ *18. gr.* _Samningar bundnir við ákveðna hópa._
+ ■ *18. gr.* _Samningar bundnir við ákveðna hópa._
  □ Heimilt er að takmarka rétt til þátttöku í útboði við verndaða vinnustaði eða miða samning við að framkvæmd hans fari fram samkvæmt áætlun um verndaða vinnustaði þar sem flestir starfsmenn eru fatlaðir þannig að þeir geta ekki sinnt starfi á venjulegum vinnumarkaði vegna starfsorkuskerðingar.
  □ Ef innkaup eru yfir viðmiðunarfjárhæðum Evrópska efnahagssvæðisins, sbr. 3. þátt, skal vísa til 19. gr. tilskipunarinnar í tilkynningu um innkaup.
+ ■ *[18. gr. a.* _Innkaup í öðru ríki Evrópska efnahagssvæðisins._
+ □ [Ráðherra][^1)^] getur heimilað miðlægri innkaupastofnun að bjóða út innkaup, sem falla undir lög þessi, í öðru ríki Evrópska efnahagssvæðisins, hvort sem er í samstarfi við erlenda kaupendur, samtök þeirra eða fulltrúa, og/eða miðlægar innkaupastofnanir eða sér. Heimildin skal veitt fyrir hvert útboð fyrir sig að undangenginni rökstuddri beiðni stofnunarinnar. Heimildin skal því aðeins veitt að fyrir liggi að reglur Evrópska efnahagssvæðisins um opinber innkaup hafi verið leiddar í lög í viðkomandi ríki og ástæða sé til að ætla að innkaup í ríkinu muni þjóna hagkvæmni eða virkri samkeppni og öðrum lögmætum sjónarmiðum við opinber innkaup. Um innkaup sem fram fara á grundvelli heimildar sem veitt er samkvæmt þessari grein gilda reglur viðkomandi ríkis, þar á meðal um kærur, gildi innkaupsákvarðana og skaðabætur. Í rökstuðningi fyrir beiðni innkaupastofnunar skal liggja fyrir sérstakt samkeppnismat. Við móttöku beiðni innkaupastofnunar skal [ráðuneytið][^1)^] leita eftir staðfestingu Samkeppniseftirlitsins á samkeppnismati innkaupastofnunar. Staðfesti Samkeppniseftirlitið ekki samkeppnismat innkaupastofnunar fara innkaup ekki fram samkvæmt ákvæði þessu.][^2)^]
+    _[^1)^]L. 126/2011, 466. gr. [^2)^]L. 56/2011, 2. gr. Ákvæðið skal endurskoðað innan fimm ára frá gildistöku þeirra laga skv. brbákv._
 
  *2. þáttur.* *Opinber innkaup undir viðmiðunarfjárhæðum Evrópska efnahagssvæðisins.*
  *III. kafli.* *Gildissvið þessa þáttar.*
-■ *19. gr.* Ákvæði þessa þáttar taka til opinberra innkaupa undir þeim viðmiðunarfjárhæðum Evrópska efnahagssvæðisins sem birtar eru í reglugerð skv. 78. gr.
+ ■ *19. gr.* Ákvæði þessa þáttar taka til opinberra innkaupa undir þeim viðmiðunarfjárhæðum Evrópska efnahagssvæðisins sem birtar eru í reglugerð skv. 78. gr.
  □ Ákvæði þessa þáttar taka ekki til innkaupa sveitarfélaga, stofnana þeirra, annarra opinberra aðila á þeirra vegum, sbr. 2. mgr. 3. gr., eða samtaka sem þessir aðilar kunna að hafa með sér. Þessum aðilum er þrátt fyrir þetta ávallt heimilt að beita reglum þessa þáttar í heild eða að hluta við innkaup sín. Sveitarfélög skulu setja sér reglur um innkaup sín, enda hafi þau ekki ákveðið að kaupa inn samkvæmt reglum þessa þáttar í heild.
  □ Ákvæði þessa þáttar taka ekki til gerðar sérleyfissamninga undir þeim viðmiðunarfjárhæðum Evrópska efnahagssvæðisins sem birtar eru í reglugerð skv. 78. gr. Ráðherra er þó heimilt í reglugerð að setja reglur um gerð sérleyfissamninga undir þessum viðmiðunarfjárhæðum, m.a. ákveða að þá skuli gera að undangengnu tilteknu innkaupaferli. Um gerð sérleyfissamninga yfir framangreindum viðmiðunarfjárhæðum Evrópska efnahagssvæðisins gilda ákvæði 80. gr. og þær reglur sem þar er vísað til.
  □ Um framkvæmd hönnunarsamkeppni gilda ákvæði 37. gr.
 
  *IV. kafli.* *Innlendar viðmiðunarfjárhæðir.*
-■ *20. gr.* _Viðmiðunarfjárhæðir._
+ ■ *20. gr.* _Viðmiðunarfjárhæðir._
  □ Öll innkaup á vörum yfir 5.000.000 kr. og kaup á þjónustu og verkum yfir 10.000.000 kr. skal bjóða út eða gera í samræmi við þau innkaupaferli sem nánar er kveðið á um í V. kafla.
  □ Fjárhæðir skv. 1. mgr. skulu breytast annað hvert ár í samræmi við breytingar á vísitölu neysluverðs, í fyrsta sinn 1. janúar 2009. Heimilt skal að færa fjárhæðir þessar upp þannig að þær standi á heilu þúsundi. Ráðherra skal með hæfilegum fyrirvara auglýsa opinberlega þær breytingar sem verða á viðmiðunarfjárhæðum samkvæmt þessari grein.
-■ *21. gr.* _Þjónusta sem undanskilin er útboðsskyldu._
+ ■ *21. gr.* _Þjónusta sem undanskilin er útboðsskyldu._
  □ Samninga um kaup á þjónustu sem tilgreind er í II. viðauka B tilskipunarinnar er ekki skylt að bjóða út eða gera í samræmi við þau innkaupaferli sem kveðið er á um í V. kafla laganna. Við kaup á þessari þjónustu skal þó ávallt gæta jafnræðisreglu 14. gr. svo og ákvæða 40. gr. um tækniforskriftir.
  □ Nú hefur samningur það að markmiði að afla þjónustu sem tilgreind er bæði í II. viðauka B tilskipunarinnar og í II. viðauka A tilskipunarinnar og er þá skylt að fylgja ákvæðum laga þessara um útboð og aðrar innkaupsaðferðir ef sá þáttur samningsins sem fellur undir II. viðauka A tilskipunarinnar er verðmætari en sá þáttur samningsins sem fellur undir II. viðauka B tilskipunarinnar. Að öðrum kosti er aðeins skylt að gæta ákvæða 40. gr. um tækniforskriftir svo og jafnræðisreglu 14. gr.
  □ Ráðherra getur með reglugerð ákveðið að ríkisstofnunum og ríkisfyrirtækjum sé skylt að bjóða út innkaup sín eða gera þau í samræmi við þau innkaupaferli sem kveðið er á um V. kafla laganna.
-■ *22. gr.* _Innkaup undir innlendum viðmiðunarfjárhæðum._
+ ■ *22. gr.* _Innkaup undir innlendum viðmiðunarfjárhæðum._
  □ Við innkaup undir þeim viðmiðunarfjárhæðum sem birtar eru í auglýsingu skv. 20. gr. skal kaupandi ávallt gæta hagkvæmni og gera samanburð meðal sem flestra fyrirtækja. Slíkur samanburður skal jafnan gerður bréflega eða með rafrænni aðferð. Við þessi innkaup skal virða jafnræðisreglu 14. gr. svo og ákvæði 40. gr. um tækniforskriftir.
-■ *23. gr.* _Útreikningur virðis samninga, rammasamninga og gagnvirkra innkaupakerfa._
+ ■ *23. gr.* _Útreikningur virðis samninga, rammasamninga og gagnvirkra innkaupakerfa._
  □ Við útreikning á áætluðu virði samnings skal miða við þá heildarfjárhæð sem kaupandi kemur til með að greiða fyrir innkaup, að frátöldum virðisaukaskatti. Við þennan útreikning skal taka tillit til heildarfjárhæðar, þar á meðal hvers konar valfrjálsra ákvæða og hugsanlegrar endurnýjunar samnings.
  □ Ef kaupandi gerir ráð fyrir því að inna af hendi viðbótargreiðslu (bónus) eða greiða þátttakendum eða bjóðendum aukalega skal taka tillit til þess við útreikning á áætluðu virði samnings.
  □ Útreikningur skal miðast við þann tíma þegar tilkynning er send til opinberrar birtingar eða þegar kaupandi hefst handa við innkaupaferli við þær aðstæður að ekki er skylt að tilkynna opinberlega um innkaup.
  □ Óheimilt er að skipta upp verki eða innkaupum á vöru og/eða þjónustu í því skyni að innkaup verði undir viðmiðunarfjárhæðum.
-■ *24. gr.* _Útreikningur virðis verksamninga._
+ ■ *24. gr.* _Útreikningur virðis verksamninga._
  □ Við útreikning á áætluðu virði verksamnings skal miða við kostnað við verkið auk verðmætis aðfanga sem kaupandi lætur bjóðanda í té við verkið.
-■ *25. gr.* _Útreikningur virðis vörusamninga._
+ ■ *25. gr.* _Útreikningur virðis vörusamninga._
  □ Við útreikning á áætluðu virði vörusamnings skal telja kostnað vegna flutnings vöru með í vöruverði. Ef vara er keypt „frí á skipsfjöl“ (fob) í erlendri höfn skal þó ekki telja flutning með í vöruverði.
  □ Þegar um er að ræða samninga um fjármögnunarleigu, leigu eða kaupleigu á vörum skal reikna virði með eftirfarandi hætti:
     a. Þegar samningur er tímabundinn til 12 mánaða eða skemur skal miða við heildarsamningsfjárhæð. Þegar samningur er bundinn til lengri tíma skal miðað við heildarfjárhæð auk virðis varanna við lok samningstímans.
@@ -145,18 +148,18 @@ h2. Lög um opinber innkaup
 ■ *27. gr.* _Innkaup sem skipt er upp._
  □ Þar sem innkaupum á verki eða þjónustu er skipt upp í fleiri sjálfstæða samninga, sem gerðir eru samtímis, skal miða við samanlagt virði allra samninganna. Sama á við þegar innkaupum á vöru af sömu tegund er skipt upp í fleiri sjálfstæða samninga sem gerðir eru samtímis. Sé samanlagt virði allra samninganna yfir viðmiðunarfjárhæðum skal líta svo á að verðgildi hvers og eins samnings sé einnig yfir viðmiðunarmörkum.
  □ Þegar heildarvirði samninga sem greinir í 1. mgr. er yfir viðmiðunarfjárhæðum er þrátt fyrir ákvæði málsgreinarinnar heimilt að gera einstaka samninga án útboðs fyrir allt að 20% af samanlagðri heildarfjárhæð samnings.
-■ *28. gr.* _Útreikningur virðis viðvarandi eða endurnýjanlegra vöru- og þjónustusamninga._
+ ■ *28. gr.* _Útreikningur virðis viðvarandi eða endurnýjanlegra vöru- og þjónustusamninga._
  □ Þegar um er að ræða viðvarandi samninga eða samninga sem endurnýja á innan tiltekins tíma skal reikna áætlað virði út með eftirfarandi hætti:
     a. Annaðhvort með hliðsjón af heildarfjárhæð áþekkra samninga á undangengnu fjárhagsári eða síðustu 12 mánuðum að teknu tilliti til breytinga á magni og verði fyrir næstkomandi 12 mánuði.
     b. Eða með hliðsjón af áætluðum kostnaði fyrir næstu 12 mánuði, eða lengra tímabil ef því er að skipta, frá því að vara eða þjónusta er fyrst innt af hendi.
  □ Óheimilt er að nota sérstakar aðferðir við útreikning í því skyni að komast hjá útboðsskyldu.
-■ *29. gr.* _Áætlun virðis rammasamninga og gagnvirkra innkaupakerfa._
+ ■ *29. gr.* _Áætlun virðis rammasamninga og gagnvirkra innkaupakerfa._
  □ Þegar um er að ræða rammasamning eða gagnvirkt innkaupakerfi skal miða virði við heildarfjárhæð allra samninga, án virðisaukaskatts, sem gert er ráð fyrir að gera á gildistíma rammasamnings eða gagnvirks innkaupakerfis.
 
  *V. kafli.* *Innkaupaferli.*
-■ *30. gr.* _Meginreglan um almennt eða lokað útboð._
+ ■ *30. gr.* _Meginreglan um almennt eða lokað útboð._
  □ Í öllum öðrum tilvikum en greinir í 31. - 33. gr. skulu innkaup yfir viðmiðunarfjárhæðum 20. gr. fara fram á grundvelli almenns eða lokaðs útboðs samkvæmt nánari reglum VI., VII., VIII. og IX. kafla. Einnig er heimilt að kaupa inn á grundvelli rammasamnings skv. 34. gr. og gagnvirks innkaupakerfis skv. 35. gr. þótt innkaup séu yfir viðmiðunarfjárhæðum.
-■ *31. gr.* _Samkeppnisviðræður._
+ ■ *31. gr.* _Samkeppnisviðræður._
  □ Þegar um er að ræða sérlega flókna samninga og kaupandi telur að notkun almenns eða lokaðs útboðs sé því til fyrirstöðu að unnt sé að gera samning er heimilt að beita ákvæðum þessarar greinar. Um „sérlega flókinn samning“ í skilningi þessarar greinar er að ræða þegar ekki er mögulegt með hlutlægum hætti að skilgreina þau tæknilegu atriði sem fullnægt geta þörfum eða markmiðum kaupanda, sbr. b-, c- og d-lið 3. mgr. 40. gr., og/eða kaupandi getur ekki skilgreint lagalega eða fjárhagslega gerð framkvæmdar. Ákvörðun um gerð samnings skal eingöngu tekin á grundvelli forsendna fyrir vali fjárhagslega hagkvæmasta tilboðs.
  □ Kaupandi skal birta opinberlega útboðsauglýsingu þar sem fram koma þarfir og kröfur kaupanda, en þessi atriði skal skilgreina nánar í auglýsingunni sjálfri og/eða skýringargögnum.
  □ Kaupandi hefur viðræður við þátttakendur, sem valdir hafa verið til þátttöku í samræmi við ákvæði VII. kafla og 56. gr., með það fyrir augum að slá föstu með hvaða hætti þörfum hans verður best fullnægt. Í þessum viðræðum er heimilt að ræða öll atriði væntanlegs samnings við útvalda þátttakendur.
@@ -166,7 +169,7 @@ h2. Lög um opinber innkaup
  □ Þegar kaupandi hefur lýst því yfir að viðræðum sé lokið og tilkynnt það þátttakendum skal hann gefa þátttakendum kost á að leggja fram endanleg tilboð með hliðsjón af þeirri lausn eða lausnum sem kynntar hafa verið og skýrðar meðan á viðræðum stóð. Þessi tilboð skulu hafa að geyma öll þau atriði sem nauðsynleg eru til að hrinda samningi í framkvæmd. Heimilt er þátttakendum að skýra, skilgreina og laga til tilboð sín eftir beiðni kaupanda. Slíkar skýringar, skilgreiningar og lagfæringar eða viðbótarupplýsingar mega þó ekki fela í sér breytingar á grundvallarþáttum tilboðs, eða tilkynningu til bjóðenda um að gera tilboð, þannig að samkeppni sé raskað eða um mismunun verði að ræða.
  □ Kaupandi skal meta tilboð á grundvelli þeirra forsendna fyrir vali tilboðs sem fram komu í upphaflegri útboðsauglýsingu eða skýringargögnum og skal velja hagkvæmasta tilboð í samræmi við ákvæði 72. gr. Kaupanda er heimilt að óska eftir því að sá þátttakandi sem átt hefur hagkvæmasta boð skýri atriði í tilboði sínu eða staðfesti tilteknar skuldbindingar sem þar hafa komið fram, enda leiði það ekki til þess að grundvallarþáttum í tilboðinu, eða útboðsauglýsingu, sé breytt þannig að samkeppni sé raskað eða um mismunun verði að ræða.
  □ Kaupanda er heimilt að kveða á um verðlaun eða greiða þátttakendum fyrir þátttöku sína í viðræðum.
-■ *32. gr.* _Samningskaup að undangenginni útboðsauglýsingu._
+ ■ *32. gr.* _Samningskaup að undangenginni útboðsauglýsingu._
  □ Ef ekkert lögmætt tilboð berst í almennu eða lokuðu útboði eða samkeppnisviðræðum, öll tilboð eru óaðgengileg eða þátttakendum eða bjóðendum er vísað frá á grundvelli ákvæða VII. kafla er heimilt að viðhafa samningskaup að undangenginni útboðsauglýsingu, enda sé upphaflegum skilmálum útboðsins ekki breytt í verulegum atriðum. Þó þarf ekki að birta útboðsauglýsingu ef öllum þátttakendum eða bjóðendum, sem uppfylltu skilyrði VII. kafla og lögðu fram gild tilboð í áður auglýstu útboði, er boðið að taka þátt í samningskaupum.
  □ Samningskaup að undangenginni opinberri birtingu útboðsauglýsingar eru einnig heimil í eftirfarandi tilvikum:
     a. Þegar ómögulegt er að áætla heildarkostnað fyrir fram vegna eðlis verks, þjónustu eða vöru eða áhættu samfara innkaupum sem gerir áætlun kostnaðar ómögulega.
@@ -175,7 +178,7 @@ h2. Lög um opinber innkaup
  □ Þegar um er að ræða samningskaup sem grundvallast á 1. eða 2. mgr. skal kaupandi ræða við þátttakendur um þau tilboð sem þeir hafa lagt fram með það fyrir augum að laga þau að þeim kröfum sem gerðar eru í tilkynningu, tækniforskriftum og öðrum útboðsgögnum, ef um þau er að ræða, og velja hagkvæmasta tilboð í samræmi við ákvæði 72. gr.
  □ Meðan á viðræðum stendur skal kaupandi tryggja að jafnræðis sé gætt milli þátttakenda, sérstaklega að þátttakendum sé ekki mismunað með því að veita upplýsingar sem gera stöðu ákveðinna þátttakenda betri en annarra.
  □ Kaupandi getur ákveðið að samningskaupaferlið muni fara fram í fleiri áföngum til þess að fækka þátttakendum. Slík fækkun skal grundvallast á forsendum fyrir vali tilboðs sem settar hafa verið fram í útboðsauglýsingu eða útboðsskilmálum. Taka skal fram í útboðsauglýsingu eða útboðsskilmálum að þessi háttur kunni að vera hafður á.
-■ *33. gr.* _Samningskaup án undangenginnar útboðsauglýsingar._
+ ■ *33. gr.* _Samningskaup án undangenginnar útboðsauglýsingar._
  □ Samningskaup án opinberrar birtingar útboðsauglýsingar eru heimil í eftirfarandi tilvikum án tillits til þess hvort um er að ræða innkaup á verki, vöru eða þjónustu:
     a. Þegar engin tilboð, engin gild tilboð eða engar tilkynningar um þátttöku berast vegna almenns eða lokaðs útboðs, enda sé í endanlegum samningi ekki vikið í verulegum atriðum frá upphaflegum skilmálum útboðsgagna.
     b. Þegar aðeins eitt fyrirtæki kemur til greina af tæknilegum eða listrænum ástæðum eða sökum þess að um lögverndaðan einkarétt er að ræða.
@@ -210,10 +213,10 @@ h2. Lög um opinber innkaup
  □ Gerð sérhvers samnings í gagnvirku innkaupakerfi skal fara fram á grundvelli tilkynningar þar sem óskað er eftir tilboðum. Áður en endanleg útboðsauglýsing er gefin út skal kaupandi gefa út einfaldaða útboðsauglýsingu þar sem öllum áhugasömum fyrirtækjum er boðið að leggja fram kynningarboð skv. 3. mgr. innan frests sem skal ekki vera skemmri en 15 dagar frá sendingardegi. Kaupandi skal ekki halda útboði áfram fyrr en afstaða hefur verið tekin til allra kynningarboða sem borist hafa innan þessa frests.
  □ Kaupandi skal gefa öllum bjóðendum sem aðild hafa fengið að gagnvirku innkaupakerfi kost á að leggja fram tilboð vegna tiltekins samnings sem gera á innan kerfisins. Kaupandi skal í þessu skyni tiltaka frest til að leggja fram tilboð. Kaupandi skal grundvalla val tilboðs á hagkvæmasta tilboði samkvæmt forsendum fyrir vali tilboðs sem fram komu í útboðstilkynningu vegna stofnunar innkaupakerfisins. Þessar forsendur má skilgreina nánar í sérstakri útboðsauglýsingu vegna tiltekins samnings.
  □ Gildistími gagnvirks innkaupakerfis má ekki vera lengri en fjögur ár nema í undantekningartilvikum sem helgast af málefnalegum ástæðum. Kaupanda er óheimilt að misnota gagnvirkt innkaupakerfi eða nota það til að koma í veg fyrir, takmarka eða hindra samkeppni. Ekki er heimilt að heimta gjald vegna umsókna um aðild að innkaupakerfi eða aðildar að því.
-■ *36. gr.* _Samningar um hönnun og byggingu félagslegs húsnæðis á vegum hins opinbera._
+ ■ *36. gr.* _Samningar um hönnun og byggingu félagslegs húsnæðis á vegum hins opinbera._
  □ Þegar um er að ræða hönnun og byggingu félagslegs húsnæðis, þar sem umfang, tími og eðli verksins gerir það nauðsynlegt að skipulagning sé frá upphafi byggð á nánu samstarfi innan verkefnahóps, sem í eiga sæti fulltrúar hins opinbera, sérfræðingar og verktakar, er heimilt að velja bjóðanda samkvæmt sérstöku útboðsferli sem hafi það að markmiði að sá sem best fellur inn í verkefnahópinn verði fyrir valinu.
  □ Kaupandi skal setja fram lýsingu á verki í útboðsauglýsingu með eins nákvæmum hætti og unnt er með það fyrir augum að áhugasöm fyrirtæki geti gert sér raunhæfa hugmynd um framkvæmdina. Jafnframt skal kaupandi, í samræmi við ákvæði VII. kafla um val á bjóðendum, setja fram kröfur um persónulegt, tæknilegt, efnahagslegt og fjárhagslegt hæfi þátttakenda.
-■ *37. gr.* _Tilhögun hönnunarsamkeppni._
+ ■ *37. gr.* _Tilhögun hönnunarsamkeppni._
  □ Ákvæði þessarar greinar gilda um hönnunarsamkeppni þar sem samanlagt virði verðlauna og/eða annarra greiðslna til þátttakanda er yfir viðmiðunarfjárhæðum vegna þjónustukaupa skv. 20. gr.
  □ Þegar hönnunarsamkeppni er haldin sem liður í kaupum á þjónustu skal taka tillit til heildarvirðis samnings, án virðisaukaskatts, auk þeirra greiðslna sem um ræðir í 1. mgr. Þegar hönnunarsamkeppni er haldin og kaupandi hefur ekki afsalað sér heimild til að gera þjónustusamning með samningskaupum skv. 3. mgr. 33. gr. að aflokinni hönnunarsamkeppni skal einnig taka tillit til heildarvirðis mögulegs þjónustusamnings, án virðisaukaskatts, auk þeirra greiðslna sem um ræðir í 1. mgr. Um hönnunarsamkeppni yfir viðmiðunarfjárhæðum, sem fram koma í reglugerð skv. 78. gr., fer skv. 81. gr. og þeim reglum sem þar er vísað til.
  □ Óheimilt er að takmarka aðgang að hönnunarsamkeppni með vísan til þjóðernis eða búsetu á ákveðnu svæði eða einskorða aðgang við annaðhvort lögaðila eða einstaklinga.
@@ -224,7 +227,7 @@ h2. Lög um opinber innkaup
  □ Dómnefnd skal vera sjálfstæð í ákvörðunum og áliti sínu. Hún skal kanna áætlanir og tillögur, sem þátttakendur leggja fram, eingöngu á grundvelli forsendna sem eru tilgreindar í tilkynningu um samkeppni, sbr. 4. mgr. Dómnefnd skal færa fundargerð, sem allir dómnefndarmenn skulu undirrita, þar sem fram kemur mat á hverri tillögu ásamt athugasemdum eða atriðum sem talin eru þarfnast skýringar. Heimilt er að gefa þátttakendum kost á að svara spurningum sem dómnefnd hefur áður fært til bókar í því skyni að skýra atriði í tillögu. Spurningar dómnefndar og svör þátttakenda skulu koma fram í endanlegri fundargerð dómnefndar.
 
  *VI. kafli.* *Útboðsgögn.*
-■ *38. gr.* _Almennir skilmálar._
+ ■ *38. gr.* _Almennir skilmálar._
  □ Útboðsgögn skulu innihalda allar nauðsynlegar upplýsingar til að bjóðanda sé unnt að gera tilboð. Eftirfarandi atriði skulu koma fram í útboðsgögnum eftir því sem við á:
     a. Lýsing á útboðinu þar sem kveðið er á um magn og annað sem máli skiptir.
     b. Nafn kaupanda og allar upplýsingar um samskipti við umsjónaraðila útboðsins.
@@ -243,10 +246,10 @@ h2. Lög um opinber innkaup
     o. Hvort frávikstilboð séu heimil og þá hver séu skilyrði fyrir gerð þeirra, þar á meðal hverjar séu þær lágmarkskröfur sem slík tilboð þurfi að fullnægja.
     p. Frestur kaupanda til að taka tilboði.
  □ Ráðherra er heimilt með reglugerð að setja nánari reglur um gerð og frágang útboðsgagna.
-■ *39. gr.* _Tilboðsblað._
+ ■ *39. gr.* _Tilboðsblað._
  □ Tilboðsblað skal vera hluti útboðsgagna og skal það vera þannig úr garði gert að tilboð séu sett fram á sama hátt og þannig samanburðarhæf.
  □ Ráðherra er heimilt með reglugerð að setja nánari reglur um gerð og frágang tilboðsblaða.
-■ *40. gr.* _Tækniforskriftir._
+ ■ *40. gr.* _Tækniforskriftir._
  □ Tækniforskriftir eins og þær eru nánar skilgreindar í 1. lið VI. viðauka tilskipunarinnar skulu koma fram í útboðsgögnum, svo sem útboðsauglýsingu, útboðsskilmálum eða fylgigögnum með þeim. Þar sem því verður við komið skal skilgreina þessar forskriftir þannig að tekið sé tillit til viðmiða um aðgengi fatlaðra eða miðað við hönnun fyrir hvers konar notendur.
  □ Tækniforskriftir skulu veita bjóðendum jöfn tækifæri. Þær mega ekki leiða til ómálefnalegra hindrana á samkeppni við opinber innkaup.
  □ Að svo miklu leyti sem annað kemur ekki fram í óundanþægum innlendum reglum, sem eru í samræmi við skuldbindingar íslenska ríkisins samkvæmt EES-samningnum, skal kveða á um tækniforskriftir á einhvern eftirgreindan hátt:
@@ -270,28 +273,28 @@ h2. Lög um opinber innkaup
  □ Kaupandi getur kveðið svo á að gert sé ráð fyrir að vara og þjónusta sem hefur umhverfismerkingu fullnægi tækniforskrift sem fram kemur í útboðsskilmálum. Kaupandi verður þó einnig að taka til greina aðra sönnun um að þessum kröfum sé fullnægt, svo sem tæknilega lýsingu framleiðanda eða prófunarskýrslu frá viðurkenndri stofnun.
  □ Með viðurkenndum stofnunum í skilningi þessarar greinar er átt við rannsóknar- og kvörðunarstofur og vottunar- og eftirlitsstofnanir sem fullnægja þeim evrópsku stöðlum sem við eiga. Kaupandi skal taka til greina vottorð frá viðurkenndri stofnun í öðru ríki Evrópska efnahagssvæðisins eða aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu.
  □ Tækniforskriftir skulu ekki vísa til sérstakrar gerðar, framleiðanda, sérstakrar vinnslu, vörumerkja, einkaleyfa, tegundar, uppruna eða framleiðslu með þeim afleiðingum að hlutur ákveðinna fyrirtækja er gerður betri en annarra eða ákveðin fyrirtæki eru útilokuð frá þátttöku í opinberum innkaupum, enda helgist slík tilvísun ekki beinlínis af efni samnings. Í undantekningartilvikum er tilvísun sem þessi heimil þegar lýsing á efni samnings er ekki möguleg skv. 3. og 4. mgr., enda fylgi slíkri tilvísun orðalagið „eða jafngildur“ eða sambærilegt orðalag.
-■ *41. gr.* _Frávikstilboð._
+ ■ *41. gr.* _Frávikstilboð._
  □ Ef kaupandi hyggst meta tilboð á grundvelli fjárhagslegrar hagkvæmni, en ekki eingöngu verðs, er kaupanda heimilt að leyfa bjóðendum að gera frávikstilboð.
  □ Kaupandi skal taka fram í útboðsauglýsingu hvort frávikstilboð eru heimil, sbr. einnig o- lið 1. mgr. 38. gr., en að öðrum kosti eru frávikstilboð óheimil. Aðeins frávikstilboð sem fullnægja lágmarkskröfum kaupanda samkvæmt útboðsgögnum, sbr. o-lið 1. mgr. 38. gr., er heimilt að taka til umfjöllunar.
  □ Þegar um er að ræða vöru og þjónustukaup er kaupanda sem hefur leyft frávikstilboð óheimilt að hafna frávikstilboði á þeirri forsendu einni að samningur, ef hann yrði gerður, yrði þjónustusamningur í stað vörusamnings eða vörusamningur í stað þjónustusamnings.
-■ *42. gr.* _Undirverktaka._
+ ■ *42. gr.* _Undirverktaka._
  □ Heimilt er að krefjast þess í útboðsgögnum að bjóðandi upplýsi hvaða hluta samnings hann hyggst láta þriðja aðila framkvæma sem undirverktaka og hvaða undirverktaka sá aðili hyggst nota. Upplýsingar bjóðanda um undirverktaka skulu ekki hafa áhrif á ábyrgð bjóðanda gagnvart kaupanda.
-■ *43. gr.* _Skilyrði sem tengjast framkvæmd samnings._
+ ■ *43. gr.* _Skilyrði sem tengjast framkvæmd samnings._
  □ Kaupanda er heimilt að kveða á um sérstök skilyrði, einkum varðandi félagsleg og umhverfisleg atriði, sem tengjast framkvæmd samnings, enda séu þessi skilyrði í samræmi við reglur EES-samningsins og hafi verið tilgreind í útboðsauglýsingu eða útboðsskilmálum.
-■ *44. gr.* _Skyldur sem tengjast sköttum, umhverfisvernd, réttindum launþega og vinnuvernd._
+ ■ *44. gr.* _Skyldur sem tengjast sköttum, umhverfisvernd, réttindum launþega og vinnuvernd._
  □ Kaupanda er heimilt að upplýsa í útboðsskilmálum hjá hvaða stofnun eða stofnunum þátttakendur eða bjóðendur geta aflað sér upplýsinga um skyldur sínar varðandi skatta, umhverfisvernd, réttindi launþega og vinnuvernd og önnur skilyrði fyrir starfsemi á Íslandi eða því sveitarfélagi þar sem verk á að vinnast eða þjónustu á að inna af hendi á samningstímanum.
  □ Kaupandi sem veitt hefur þær upplýsingar sem greinir í 1. mgr. skal óska eftir því við þátttakendur eða bjóðendur að þeir taki fram að þeir hafi tekið tillit til skyldna sinna varðandi réttindi launþega, vinnuvernd og önnur skilyrði fyrir starfsemi á Íslandi eða því sveitarfélagi þar sem verk á að vinnast eða þjónustu á að inna af hendi þegar þeir gerðu tilboð sitt.
  □ Ákvæði 1. mgr. er ekki því til fyrirstöðu að beitt sé ákvæðum 73. gr. um óeðlilega lág tilboð.
-■ *45. gr.* _Forsendur kaupanda fyrir vali tilboðs._
+ ■ *45. gr.* _Forsendur kaupanda fyrir vali tilboðs._
  □ Forsendur fyrir vali tilboðs skulu annaðhvort miðast eingöngu við lægsta verð eða fjárhagslega hagkvæmni frá sjónarhóli kaupanda. Forsendur sem liggja til grundvallar mati á fjárhagslegri hagkvæmni skulu tengjast efni samnings, t.d. gæðum, verði, tæknilegum eiginleikum, útliti, notkunareiginleikum, umhverfislegum eiginleikum, rekstrarkostnaði, rekstrarhagkvæmni, viðhaldsþjónustu, afhendingardegi og afhendingartímabili eða lokum framkvæmdar samnings.
  □ Í útboðsauglýsingu, útboðsgögnum eða skýringargögnum, eða þegar um er að ræða samkeppnisviðræður, skal tilgreina forsendur fyrir vali tilboðs eins nákvæmlega og framast er unnt. Í forsendum má ekki vísa til annarra atriða en staðreynd verða á grundvelli gagna sem bjóðendur leggja fram eða með öðrum hlutlægum hætti.
  □ Í þeim gögnum sem greinir í 2. mgr. skal tilgreina hlutfallslegt vægi hvers viðmiðs sem vísað er til sem forsendu fyrir vali tilboðs. Þetta vægi má setja fram sem ákveðið bil með hæfilegum hámarksvikmörkum. Ef ómögulegt er að tilgreina tiltekið vægi forsendna af ástæðum sem hægt er að sýna fram á skal raða forsendum í röð eftir mikilvægi.
 
  *VII. kafli.* *Hæfi þátttakenda og bjóðenda í opinberum innkaupum.*
-■ *46. gr.* _Almennar reglur um fyrirtæki._
+ ■ *46. gr.* _Almennar reglur um fyrirtæki._
  □ Óheimilt er að vísa frá þátttakanda eða bjóðanda með vísan til þess að innlendar reglur áskilji að veitandi þjónustu þurfi að vera annaðhvort einstaklingur eða lögaðili, enda sé þátttakandanum eða bjóðandanum heimilt að veita þá þjónustu sem til stendur að kaupa samkvæmt lögum staðfesturíkis síns. Þegar um er að ræða þjónustusamninga, eða verksamninga ásamt vörusamningum sem fela einnig í sér þjónustu og/eða eftirlit og uppsetningu, er heimilt að krefjast þess af lögaðila að hann tilgreini í tilboði eða þátttökutilkynningu nöfn og starfsmenntun þeirra starfsmanna sem munu sjá um framkvæmd samningsins.
  □ Fleiri fyrirtækjum er heimilt að standa að tilboði eða þátttökutilkynningu sameiginlega, enda teljast þau þá bera sameiginlega ábyrgð á efndum samnings. Óheimilt er kaupanda að krefjast þess að slíkur hópur fyrirtækja stofni til sérstaks lögákveðins rekstrarforms nema það sé nauðsynlegt fyrir fullnægjandi framkvæmd samnings. Kaupanda er þó heimilt að krefjast þess að eitt fyrirtæki komi fram fyrir hönd hinna við framkvæmd samnings og standi kaupanda öll skil.
-■ *47. gr.* _Persónulegar aðstæður þátttakanda eða bjóðanda._
+ ■ *47. gr.* _Persónulegar aðstæður þátttakanda eða bjóðanda._
  □ Þátttakandi eða bjóðandi sem hefur verið sakfelldur með endanlegum dómi fyrir eftirtalin afbrot skal útilokaður frá gerð opinbers samnings:
     a. þátttöku í skipulögðum brotasamtökum,
     b. spillingu,
@@ -311,11 +314,12 @@ h2. Lög um opinber innkaup
     a. Að því er varðar skilyrði 1. mgr. og a-, b- og c-liðar 2. mgr., framlagning sakavottorðs, vottorðs dómstóls eða, ef þessi vottorð eru ekki tiltæk, sambærilegs vottorðs frá stjórnvaldi eða dómstóli í uppruna- eða heimaríki viðkomandi fyrirtækis sem sýnir að umræddum skilyrðum sé fullnægt.
     b. Að því er varðar e- og f-lið 2. mgr., vottorð gefið út af þar til bæru stjórnvaldi í viðkomandi ríki.
  □ Ef heimaríki fyrirtækis gefur ekki út skjöl eða vottorð sem þessi, eða slík skjöl og vottorð ná ekki yfir öll þau tilvik sem greinir í 1. mgr. og a-, b- og c-lið 2. mgr., skal þess í stað meta fullgildan eið eða drengskaparheit sem bjóðandi hefur unnið um umrædd atriði fyrir dómara eða yfirvaldi, lögbókanda eða þar til bæru fagfélagi í heimaríki sínu.
- □ Fjármálaráðuneytið skal útbúa skrá yfir þau innlendu stjórnvöld og stofnanir sem bær eru til að gefa út þau skjöl, vottorð eða yfirlýsingar sem um ræðir í 3. mgr. og senda hana Eftirlitsstofnun EFTA. Slík tilkynning skal ekki fara í bága við lög um persónuvernd og meðferð persónuupplýsinga.
-■ *48. gr.* _Starfsréttindi._
+ □ [Ráðuneytið][^1)^] skal útbúa skrá yfir þau innlendu stjórnvöld og stofnanir sem bær eru til að gefa út þau skjöl, vottorð eða yfirlýsingar sem um ræðir í 3. mgr. og senda hana Eftirlitsstofnun EFTA. Slík tilkynning skal ekki fara í bága við lög um persónuvernd og meðferð persónuupplýsinga.
+    _[^1)^]L. 126/2011, 466. gr._
+ ■ *48. gr.* _Starfsréttindi._
  □ Þess má krefjast að innlent fyrirtæki sýni fram á að það sé skráð í fyrirtækjaskrá. Þegar um er að ræða fyrirtæki frá öðrum ríkjum Evrópska efnahagssvæðisins eða aðildarríkjum stofnsamnings Fríverslunarsamtaka Evrópu má krefjast þess að fyrirtæki sýni fram á fullnægjandi skráningu í heimaríki sínu með eiði eða vottorði skv. IX. viðauka A tilskipunarinnar þegar um er að ræða verksamninga, IX. viðauka B tilskipunarinnar þegar um er að ræða vörusamninga og IX. viðauka C tilskipunarinnar þegar um er að ræða þjónustusamninga.
  □ Þegar um er að ræða gerð þjónustusamninga og bjóðendur eða þátttakendur þurfa að hafa sérstakt leyfi eða vera meðlimir í tilteknum samtökum til að mega veita hlutaðeigandi þjónustu í heimaríki sínu er heimilt að krefjast þess að þeir sýni fram á að þeir hafi viðeigandi leyfi eða séu félagar í viðeigandi samtökum.
-■ *49. gr.* _Fjárhagsstaða bjóðanda._
+ ■ *49. gr.* _Fjárhagsstaða bjóðanda._
  □ Fjárhagsstaða fyrirtækis skal vera það trygg að það geti staðið við skuldbindingar sínar gagnvart kaupanda. Ekki skal krefjast frekari gagna um sönnun á fjárhagslegri getu en nauðsynlegt er með hliðsjón af eðli og umfangi fyrirhugaðra innkaupa. Að jafnaði getur fyrirtæki fært sönnur á fjárhagslega getu sína með því að leggja fram ein eða fleiri eftirfarandi gagna:
     a. Viðeigandi upplýsingar frá bönkum eða, þar sem það á við, gögn um verktryggingu eða aðra tryggingu fyrir skaðleysi kaupanda af hugsanlegum vanefndum fyrirtækis.
     b. Endurskoðaða ársreikninga fyrri ára eða útdrátt úr þeim ef krafist er birtingar efnahagsreiknings samkvæmt lögum staðfesturíkis fyrirtækis.
@@ -324,7 +328,7 @@ h2. Lög um opinber innkaup
  □ Með sömu skilyrðum og greinir í 46. gr. geta fleiri fyrirtæki sem standa að þátttökutilkynningu eða tilboði byggt sameiginlega á fjárhagslegri getu þeirra.
  □ Í útboðsauglýsingu eða útboðsgögnum skal koma fram hvaða gagna skv. 1. mgr. krafist er að fyrirtæki leggi fram eða kunni á síðari stigum að verða beðið um að leggja fram. Einnig skal tilgreina önnur gögn um fjárhagslega getu ef því er að skipta.
  □ Þegar bjóðandi er ófær um að leggja fram þau gögn sem greinir í 1. mgr. er honum heimilt að sýna fram á fjárhagslega getu sína með öðrum gögnum sem kaupandi telur fullnægjandi.
-■ *50. gr.* _Tæknileg geta._
+ ■ *50. gr.* _Tæknileg geta._
  □ Tæknileg geta fyrirtækis skal vera það trygg að það geti staðið við skuldbindingar sínar gagnvart kaupanda. Eftir því sem nauðsynlegt er vegna eðlis, umfangs, mikilvægis eða ætlaðrar notkunar verks, þjónustu eða vöru getur fyrirtæki fært sönnur á tæknilega getu sína með eftirfarandi gögnum:
     a. i. Með lista yfir þau verk sem fyrirtæki hefur annast síðastliðin fimm ár ásamt vottorðum um fullnægjandi efndir stærstu verksamninga þegar um er að ræða innkaup á verki. Í þessum vottorðum skal koma fram virði, dagsetning og staðsetning verks ásamt upplýsingum um hvort verk var unnið fagmannlega og lokið með fullnægjandi hætti. Þar sem við á skal það stjórnvald sem gefur út vottorð senda það milliliðalaust til kaupanda.
     ii. Með lista yfir helstu vörusendingar eða þjónustu sem veitt hefur verið síðastliðin þrjú ár ásamt upplýsingum um virði vöru eða þjónustu, viðtakendur, hvort sem þeir eru opinberir eða einkaaðilar, þegar um er að ræða innkaup á þjónustu og vörum. Þegar viðtakandi vöru eða þjónustu hefur verið opinber aðili skal sönnun um afhendingu vörunnar eða þjónustunnar gefin með vottorði sem viðkomandi kaupandi gefur út eða staðfestir með áritun sinni. Þegar viðtakandi vöru eða þjónustu hefur verið einkaaðili skal sönnun um afhendingu vörunnar eða þjónustunnar gefin með vottorði viðkomandi einkaaðila eða, ef þetta er ekki unnt, yfirlýsingu fyrirtækisins sjálfs.
@@ -342,13 +346,13 @@ h2. Lög um opinber innkaup
  □ Með sömu skilyrðum og greinir í 46. gr. geta fleiri fyrirtæki sem standa að þátttökutilkynningu eða tilboði byggt sameiginlega á tæknilegri getu þeirra.
  □ Þegar um er að ræða vörusamninga sem fela í sér ísetningu og uppsetningu, veitingu þjónustu og/eða framkvæmd verks er heimilt að meta sérstaklega getu fyrirtækis til þess að veita þjónustuna, sjá um uppsetninguna eða vinna verkið, einkum með hliðsjón af hæfni, skilvirkni, reynslu og áreiðanleika.
  □ Í útboðsauglýsingu eða útboðsgögnum skal koma fram hvaða gagna skv. 1. mgr. krafist er að fyrirtæki leggi fram eða kunni á síðari stigum að verða beðið um að leggja fram.
-■ *51. gr.* _Gæðastaðlar._
+ ■ *51. gr.* _Gæðastaðlar._
  □ Þar sem kaupandi krefst þess að gefið sé út vottorð af óháðum aðila til staðfestingar á því að fyrirtæki fullnægi ákveðnum gæðavottunarstöðlum skal vísað til evrópskra gæðavottunarkerfa sem grundvallast á viðeigandi evrópskum stöðlum, enda hafi þessir staðlar verið staðfestir af stofnun sem fullnægir skilyrðum evrópskra staðla til slíkrar staðfestingar. Kaupendur skulu taka gild sambærileg vottorð sem gefin eru út af stofnunum í öðrum ríkjum Evrópska efnahagssvæðisins og ríkjum stofnsamnings EFTA. Þeir skulu einnig taka gild önnur gögn, sem fyrirtæki leggur fram, sem veita sambærilega sönnun fyrir því að fullnægjandi ráðstafanir hafi verið gerðar með tilliti til gæðakrafna.
-■ *52. gr.* _Umhverfisstaðlar._
+ ■ *52. gr.* _Umhverfisstaðlar._
  □ Þar sem kaupandi krefst þess að gefið sé út vottorð af óháðum aðila til staðfestingar á því að fyrirtæki fullnægi ákveðnum umhverfisstjórnunarstöðlum, sbr. f-lið 1. mgr. 50. gr., skal vísað til umhverfisstjórnunarkerfis Bandalagsins (EMAS) eða til umhverfisstjórnunarstaðla sem grundvallast á viðeigandi evrópskum eða alþjóðlegum stöðlum, sem staðfestir hafa verið af stofnunum sem samræmast reglum EES-samningsins, eða viðeigandi evrópskum eða alþjóðlegum stöðlum um vottun. Kaupendur skulu taka gild sambærileg vottorð sem gefin eru út af stofnunum í öðrum ríkjum Evrópska efnahagssvæðisins og ríkjum stofnsamnings EFTA. Þeir skulu einnig taka gild önnur gögn, sem fyrirtæki leggur fram, sem veita sambærilega sönnun fyrir því að fullnægjandi ráðstafanir hafi verið gerðar með tilliti til umhverfisstjórnunar.
-■ *53. gr.* _Framlagning viðbótargagna og upplýsinga._
+ ■ *53. gr.* _Framlagning viðbótargagna og upplýsinga._
  □ Kaupanda er heimilt að gefa fyrirtæki færi á því að auka við framkomin gögn skv. 47. - 52. gr. eða skýra þau á hvaða stigi útboðs sem er.
-■ *54. gr.* _Opinberir listar um viðurkennd fyrirtæki og vottorð opinberra og einkaréttarlegra stofnana._
+ ■ *54. gr.* _Opinberir listar um viðurkennd fyrirtæki og vottorð opinberra og einkaréttarlegra stofnana._
  □ Fyrirtæki, sem skráð eru á opinberum listum yfir viðurkennda verktaka, seljendur eða þjónustuveitendur eða vottuð sem slík af opinberum eða einkaréttarlegum stofnunum í öðrum ríkjum Evrópska efnahagssvæðisins eða ríkjum stofnsamnings EFTA, geta, með staðfestri skráningu á viðkomandi lista eða vottorði, fært sönnur á að eftirfarandi skilyrðum sé fullnægt, enda sé ekki annað leitt í ljós:
     a. Að fyrirtæki fullnægi skilyrðum 1. mgr. og a-, d- og g-liðar 2. mgr. 47. gr.
     b. Að fyrirtæki fullnægi skilyrðum 48. gr.
@@ -360,45 +364,45 @@ h2. Lög um opinber innkaup
  □ Kaupendur skulu beita 1. og 2. mgr. til hagsbóta þeim fyrirtækjum sem staðfestu hafa í einhverju ríki Evrópska efnahagssvæðisins eða aðildarríkja stofnsamnings Fríverslunarsamtaka Evrópu og skráð eru á lista þar.
 
  *VIII. kafli.* *Framkvæmd opinberra innkaupa.*
-■ *55. gr.* _Auglýsing útboða._
+ ■ *55. gr.* _Auglýsing útboða._
  □ Skylt er að auglýsa almennt útboð, þar á meðal almennt rammasamningsútboð, með áberandi hætti þannig að öll áhugasöm fyrirtæki geti tekið þátt í útboði. Í útboðsauglýsingu skulu koma fram nægilega miklar upplýsingar til að fyrirtæki geti tekið afstöðu til þess hvort þau hyggjast taka þátt í útboði.
  □ Samtímis því, eða eftir að auglýst er, getur kaupandi hvatt tiltekna aðila til þátttöku í útboði. Ekki má þó veita slíkum aðilum aðrar upplýsingar en fram koma í tilkynningu um útboð.
-■ *56. gr.* _Forval við lokuð útboð, samkeppnisviðræður og samningskaup._
+ ■ *56. gr.* _Forval við lokuð útboð, samkeppnisviðræður og samningskaup._
  □ Við lokað útboð, samkeppnisviðræður og samningskaup að undangenginni opinberri auglýsingu skal velja þátttakendur með forvali í samræmi við ákvæði þessarar greinar.
  □ Auglýsa skal tilkynningu um forval með áberandi hætti þannig að öll áhugasöm fyrirtæki geti tekið þátt í forvali. Í auglýsingu skulu koma fram nægilega miklar upplýsingar til að fyrirtæki geti tekið afstöðu til þess hvort þau hyggjast taka þátt í forvali og eftirfarandi útboði.
  □ Í forvali er heimilt að takmarka fjölda þeirra sem valdir eru til að taka þátt í útboði, samkeppnisviðræðum eða samningskaupum, enda hafi nægilega margir þátttakendur tekið þátt í forvali. Í tilkynningu um forval skulu koma fram þau málefnalegu og óhlutdrægu skilyrði eða reglur sem leggja á til grundvallar við val þátttakenda í forvali, lágmarksfjölda þeirra svo og hámarksfjölda þeirra ef það á við.
  □ Í forvali vegna lokaðs útboðs skulu þátttakendur sem valdir eru til að leggja fram tilboð ekki vera færri en fimm. Í forvali vegna samningskaupa eftir opinbera birtingu útboðsauglýsingar og vegna samkeppnisviðræðna skulu þátttakendur ekki vera færri en þrír. Fjöldi þátttakenda sem valdir eru skal ætíð vera nægilegur til að tryggja raunverulega samkeppni.
  □ Kaupandi skal gefa a.m.k. jafnmörgum þátttakendum kost á að taka þátt í útboði og svarar til þess lágmarksfjölda sem hann hefur áður tiltekið. Ef ekki er fyrir hendi nægjanlegur fjöldi þátttakenda sem fullnægir skilyrðum forvals til að vera valinn, eða ekki er fyrir hendi nægjanlegur fjöldi þátttakenda sem fullnægir kröfum um getu, er kaupanda heimilt að halda útboði áfram með því að gefa þeim sem fullnægðu þessum kröfum kost á að taka þátt í útboði. Ekki er heimilt að gefa fyrirtækjum sem ekki tóku þátt í forvali kost á að taka þátt í útboði á þessu stigi. Sama á við um þá þátttakendur sem ekki fullnægðu kröfum um hæfi.
  □ Þegar kaupendur nýta sér heimildir til að fækka tilboðum eða fjölda þátttakenda í samkeppnisviðræðum eða samningskaupum að undangenginni opinberri birtingu tilkynningar, sbr. 31. og 32. gr., skal ákvörðun um slíkt grundvallast á valforsendum sem fram hafa komið í útboðsauglýsingu, skilmálum eða skýringargögnum. Á lokastigi slíkra innkaupa skal fjöldi þátttakenda vera nægilega mikill til að tryggja raunhæfa samkeppni að svo miklu leyti sem um nægilegan fjölda tilboða eða hæfra þátttakenda er að ræða.
-■ *57. gr.* _Frestur til að skila tilboðum._
+ ■ *57. gr.* _Frestur til að skila tilboðum._
  □ Frestur til að skila tilboðum skal vera nægjanlega langur til að bjóðendur geti undirbúið tilboð.
-■ *58. gr.* _Frestur í almennu útboði._
+ ■ *58. gr.* _Frestur í almennu útboði._
  □ Frestur til að leggja fram tilboð í almennu útboði skal vera minnst fimmtán almanaksdagar. Frestur reiknast frá deginum eftir að útboðsauglýsing er birt að meðtöldum opnunardegi. Allir almanaksdagar eru taldir með.
-■ *59. gr.* _Frestir í lokuðu útboði, samkeppnisviðræðum og samningskaupum._
+ ■ *59. gr.* _Frestir í lokuðu útboði, samkeppnisviðræðum og samningskaupum._
  □ Frestur til að skila þátttökubeiðnum í forvali vegna lokaðs útboðs, samkeppnisviðræðna eða samningskaupa að undangenginni opinberri birtingu útboðsauglýsingar skal vera minnst fimmtán almanaksdagar. Frestur reiknast frá deginum eftir að útboðsauglýsing er birt að meðtöldum opnunardegi.
  □ Þeim sem valdir hafa verið í forvali vegna lokaðs útboðs skal gefa minnst tíu almanaksdaga frest til að leggja fram tilboð. Frestur reiknast frá þeim degi þegar útboðsgögn eru send út. Að öðru leyti gilda sömu reglur um ákvörðun frests og við almenn útboð.
-■ *60. gr.* _Hraðútboð._
+ ■ *60. gr.* _Hraðútboð._
  □ Ef nauðsynlegt er að hraða útboði af ástæðum sem kaupanda verður ekki um kennt er heimilt að víkja frá þeim frestum sem greinir í 58. og 59. gr. Frestur til að skila tilboðum skal þó aldrei vera skemmri en sjö almanaksdagar frá birtingu auglýsingar.
-■ *61. gr.* _Afhending gagna._
+ ■ *61. gr.* _Afhending gagna._
  □ Útboðsgögn skulu vera tilbúin til afhendingar innan þriggja daga frá birtingu útboðsauglýsingar.
-■ *62. gr.* _Vettvangsskoðun._
+ ■ *62. gr.* _Vettvangsskoðun._
  □ Ef ekki er unnt að gera tilboð án þess að bjóðendur eða þátttakendur skoði vettvang, eða ef boðið er upp á vettvangsskoðun, skal lengja tilboðsfrest sem nemur eðlilegum tíma til vettvangsskoðunar ef þess er óskað af bjóðendum eða þátttakendum.
-■ *63. gr.* _Fyrirspurnir og athugasemdir á tilboðstíma._
+ ■ *63. gr.* _Fyrirspurnir og athugasemdir á tilboðstíma._
  □ Ef óskað er eftir ítarlegri gögnum eða nánari skilgreiningu á útboðsgögnum eða öðrum gögnum tengdum útboði skal fyrirspurn vera komin til kaupanda eða umsjónarmanns útboðs, ef um hann er að ræða, eigi síðar en sjö almanaksdögum áður en tilboðsfrestur rennur út.
  □ Telji kaupandi tilefni til að senda ný gögn eða svara fyrirspurn skv. 1. mgr. skal senda gögnin eða fyrirspurnina ásamt svörum við henni til allra sem hafa óskað eftir og fengið send útboðsgögn. Ný gögn eða skýringar skulu vera komin til bjóðenda eða þátttakenda eigi síðar en fjórum almanaksdögum áður en tilboðsfrestur rennur út.
  □ Allar fyrirspurnir, athugasemdir við útboð og tilkynningar skulu vera skriflegar, sbr. þó 68. gr.
-■ *64. gr.* _Tilboð afturkölluð._
+ ■ *64. gr.* _Tilboð afturkölluð._
  □ Bjóðandi getur afturkallað tilboð sitt áður en tilboð eru opnuð, enda sé það gert skriflega eða með öðrum jafntryggum hætti.
-■ *65. gr.* _Opnun tilboða frestað._
+ ■ *65. gr.* _Opnun tilboða frestað._
  □ Þurfi að fresta opnun tilboða skal það gert með að minnsta kosti fjögurra almanaksdaga fyrirvara. Séu færri en fjórir dagar fram að opnun er óheimilt að boða frestun heldur skal haldinn opnunarfundur og skráð hverjir skila inn tilboði, án þess að opna tilboðin. Þeim sem skila tilboði verður einum boðin áframhaldandi þátttaka.
-■ *66. gr.* _Afhending tilboða._
+ ■ *66. gr.* _Afhending tilboða._
  □ Skriflegum tilboðum skal skilað í lokuðu umslagi og þarf nafn og aðsetur bjóðanda að koma fram á umslaginu ásamt heiti útboðs og númeri ef því er að skipta. Um tilboð sem gerð eru með rafrænum aðferðum fer skv. 68. gr.
  □ Séu tilboð send með pósti eða í símbréfi er bjóðandi ábyrgur fyrir því að þau komist í réttar hendur fyrir opnun tilboða.
  □ Leyfilegt er að skila eingöngu inn heildartilboðsupphæð ef einingarverð og önnur tilskilin gögn fylgja í lokuðu umslagi eða eru sannanlega komin í póst degi áður en tilboð eru opnuð. Bjóðandi getur síðan óskað eftir því að einingarverð verði ekki tekin til skoðunar nema tilboð hans komi til álita.
  □ Tilboð skal vera undirritað af þar til bærum aðila.
-■ *67. gr.* _Gerð frávikstilboða._
+ ■ *67. gr.* _Gerð frávikstilboða._
  □ Sé frávikstilboð gert skal geta þess sérstaklega á tilboðsblaði að um slíkt tilboð sé að ræða. Með frávikstilboði skal fylgja skýr og greinargóð lýsing á því í hvaða atriðum vikið sé frá tæknilegri lýsingu útboðsgagna.
-■ *68. gr.* _Form tilboða og annarra samskipta kaupanda og bjóðenda._
+ ■ *68. gr.* _Form tilboða og annarra samskipta kaupanda og bjóðenda._
  □ Öll samskipti og upplýsingagjöf sem vísað er til í þessari grein má fara fram með pósti, símbréfi, rafrænum aðferðum skv. 4. og 5. mgr., símleiðis við þær aðstæður sem um ræðir í 6. mgr. eða með samsetningu þessara miðla, allt eftir ákvörðun kaupanda.
  □ Þær samskiptaaðferðir sem kaupandi velur skulu vera almennt aðgengilegar og ekki hindra aðgang fyrirtækis að útboði.
  □ Samskipti, miðlun og geymsla upplýsinga skal fara fram með þeim hætti að tryggt sé að gögn séu óbreytt frá upprunalegri gerð. Auk þess skal tryggt að nafnleynd tilboða eða tilkynninga um þátttöku sé ekki rofin og kaupandi geti aðeins kynnt sér efni tilboða eða þátttökutilkynninga eftir að tilboðsfrestur eða frestur til að leggja fram þátttökutilkynningu er liðinn.
@@ -419,7 +423,7 @@ h2. Lög um opinber innkaup
  □ Nú eru tilboð lögð fram með rafrænum hætti og er þá nægilegt að bjóðendum sé tilkynnt um þau atriði sem greinir í 1. mgr. eftir lok tilboðsfrests.
  □ Tilboð sem berast of seint skulu send bjóðendum óopnuð ásamt skýringu á ástæðum þess að þau eru endursend.
  □ Ráðherra getur með reglugerð sett sérstakar reglur um opnun tilboða sem sett eru fram með rafrænum hætti, enda sé gætt þeirra reglna sem fram koma í 68. gr.
-■ *70. gr.* _Rafræn uppboð._
+ ■ *70. gr.* _Rafræn uppboð._
  □ Kaupanda er heimilt að kaupa inn með rafrænu uppboði samkvæmt nánari ákvæðum þessarar greinar.
  □ Þegar um er að ræða almennt eða lokað útboð eða samningskaup skv. 1. mgr. 32. gr. og unnt er að slá útboðsskilmálum föstum með nákvæmni getur kaupandi ákveðið að samningur verði gerður með rafrænu uppboði. Að uppfylltum sömu skilyrðum er heimilt að notast við rafrænt uppboð þegar samkeppni fer fram milli fleiri rammasamningshafa skv. 4. mgr. 34. gr. og við útboð í gagnvirku innkaupakerfi skv. 35. gr. Rafrænt uppboð skal miðast annaðhvort við verð, þegar forsendur fyrir vali tilboðs eru lægsta verð, eða verð og/eða önnur atriði í tilboði sem fram hafa komið í útboðsskilmálum, þegar forsendur fyrir vali tilboðs eru fjárhagslega hagkvæmasta boð.
  □ Kaupandi sem ákveður að halda rafrænt uppboð skal lýsa þeirri fyrirætlun sinni í útboðsauglýsingu. Í útboðsskilmálum skulu m.a. koma fram upplýsingar um eftirfarandi atriði:
@@ -440,13 +444,13 @@ h2. Lög um opinber innkaup
  □ Þegar rafrænu uppboði hefur verið lokið skal kaupandi velja hagkvæmasta tilboð sem fram hefur komið við uppboðið í samræmi við 72. gr. Kaupanda er óheimilt að misnota rafrænt uppboð eða beita því í því skyni að koma í veg fyrir, hindra eða hafa áhrif á samkeppni eða til þess að breyta andlagi samnings eins og það var kynnt bjóðendum í útboðsauglýsingu og skilgreint í útboðsskilmálum.
 
  *IX. kafli.* *Val tilboðs.*
-■ *71. gr.* _Þau tilboð sem koma til greina._
+ ■ *71. gr.* _Þau tilboð sem koma til greina._
  □ Við ákvörðun kaupanda um gerð samnings skal eingöngu litið til gildra tilboða, þar á meðal gildra frávikstilboða, frá fyrirtækjum, sem ekki hefur verið vísað frá skv. 47. og 48. gr., sem fullnægja kröfum um fjárhagslega stöðu og faglega og tæknilega getu og önnur atriði, sbr. 49. - 54. gr., og valin hafa verið til að gera tilboð í samræmi við reglur 56. gr. ef um forval hefur verið að ræða.
-■ *72. gr.* _Mat á hagkvæmasta boði._
+ ■ *72. gr.* _Mat á hagkvæmasta boði._
  □ Við val á tilboði skal gengið út frá hagkvæmasta boði. Hagkvæmasta tilboð er það boð sem er lægst að fjárhæð eða það boð sem fullnægir þörfum kaupanda best samkvæmt þeim forsendum sem settar hafa verið fram í útboðsgögnum, sbr. 45. gr.
  □ Óheimilt er að meta tilboð á grundvelli annarra forsendna en fram koma í útboðsgögnum, sbr. 45. gr.
  □ Heimilt er að velja fleiri en eitt tilboð sé kaupum skipt í fleiri sjálfstæða hluta í útboðsgögnum.
-■ *73. gr.* _Óeðlilega lág tilboð._
+ ■ *73. gr.* _Óeðlilega lág tilboð._
  □ Þegar tilboð virðist óeðlilega lágt með hliðsjón af vöru, verki eða þjónustu sem kaupa á skal kaupandi óska skriflega eftir nánari upplýsingum um grundvöll tilboðs sem hann telur skipta máli. Þessar upplýsingar geta einkum varðað eftirfarandi:
     a. Fjárhagslegar forsendur mannvirkjagerðar, vöruframleiðslu eða þjónustu.
     b. Tæknilegar lausnir sem valdar hafa verið og/eða hvers konar óvenjulega hagstæðar aðstæður bjóðanda við framkvæmd verks, sölu vöru eða veitingu þjónustu.
@@ -456,30 +460,30 @@ h2. Lög um opinber innkaup
  □ Kaupandi skal ganga úr skugga um forsendur tilboðs á grundvelli þeirra gagna sem bjóðandi hefur lagt fram eftir að hafa ráðfært sig við bjóðanda.
  □ Þegar kaupandi kemst að þeirri niðurstöðu að tilboð sé óeðlilega lágt vegna þess að bjóðandi njóti ríkisstyrkja verður boði hans því aðeins hafnað að bjóðanda hafi ekki tekist, innan hæfilegs frests sem ákveðinn var eftir að bjóðanda var gefinn kostur á að tjá sig, að sýna fram á að ríkisstyrkur hafi verið löglega veittur. Ef tilboði er hafnað af þessum ástæðum skal kaupandi tilkynna Eftirlitsstofnun EFTA um ákvörðun sína.
  □ Kaupanda er skylt að rökstyðja ákvörðun um að hafna tilboði á þeim grundvelli að það sé óeðlilega lágt. Upplýsingar sem kaupandi fær samkvæmt þessari grein skal fara með sem trúnaðarmál.
-■ *74. gr.* _Höfnun tilboðs._
+ ■ *74. gr.* _Höfnun tilboðs._
  □ Kaupandi telst hafa hafnað tilboði ef hann er búinn að semja við annan aðila, gildistími tilboðs er liðinn án þess að óskað hafi verið eftir framlengingu tilboðs eða öllum tilboðum hefur verið hafnað formlega.
  □ Kaupanda er óheimilt að nýta hugmyndir eða tilboð bjóðanda á nokkurn hátt eftir að því hefur verið hafnað.
-■ *75. gr.* _Tilkynning og rökstuðningur höfnunar tilboðs og annarra ákvarðana._
+ ■ *75. gr.* _Tilkynning og rökstuðningur höfnunar tilboðs og annarra ákvarðana._
  □ Kaupandi skal tilkynna þátttakendum eða bjóðendum um ákvarðanir um gerð rammasamnings, val tilboðs eða aðgang að gagnvirku innkaupakerfi, eins fljótt og mögulegt er. Í tilkynningu skal koma fram, eftir því sem við á, rökstuðningur fyrir ákvörðun um að gera ekki rammasamning, taka engu tilboði þrátt fyrir útboð eða hefja að nýju útboð eða stofna til gagnvirks innkaupakerfis. Þegar val tilboðs hefur grundvallast á öðrum forsendum en verði eingöngu skal í tilkynningu koma fram nafn þess bjóðanda sem var valinn og upplýsingar um eiginleika og kosti þess tilboðs sem kaupandi valdi með hliðsjón af valforsendum útboðsgagna. Þennan rökstuðning skal kaupandi veita skriflega ef þess er óskað.
  □ Eftir beiðni skal kaupandi, eins fljótt og mögulegt er, veita rökstuðning fyrir ákvörðun sinni sem hér segir:
     a. Upplýsa ber þátttakanda, sem ekki hefur verið valinn til að gera tilboð, um ástæður þess að umsókn hans var hafnað.
     b. Upplýsa ber bjóðanda um ástæður þess að tilboði hans var hafnað. Ef tilboði hefur verið hafnað með vísan til þess að tilboð var í ósamræmi við tækniforskriftir, sbr. 4. og 5. mgr. 40. gr., skal rökstyðja hvers vegna tilboð telst ekki fullnægja kröfum tækniforskrifta eða hvers vegna það er ófullnægjandi með tilliti til krafna um virkni og hagnýtingu.
     c. Upplýsa skal bjóðanda, sem lagt hefur fram gilt tilboð, um eiginleika og kosti þess tilboðs sem kaupandi valdi og nafn bjóðanda sem var valinn eða rammasamningshafa.
  □ Beiðni um rökstuðning skv. 2. mgr. skal bera fram innan 14 daga frá því að bjóðanda var tilkynnt ákvörðun og skal rökstuðningur liggja fyrir eigi síðar en fimmtán dögum eftir að beiðni um það barst kaupanda eða umsjónarmanni útboðs. Í rökstuðningi skal þó ekki upplýsa um atriði sem vísað er til í 1. mgr. varðandi val tilboðs, gerð rammasamnings eða aðgengi að gagnvirku innkaupakerfi ef upplýsingagjöf gæti torveldað löggæslu. Sama á við ef upplýsingagjöf gengur að öðru leyti gegn almannahagsmunum eða mundi skaða lögmæta viðskiptahagsmuni einstakra fyrirtækja, einkarekinna eða opinberra, eða samkeppni milli þeirra.
-■ *76. gr.* _Samþykki tilboðs._
+ ■ *76. gr.* _Samþykki tilboðs._
  □ Þegar um er að ræða innkaupaferli sem lýkur með vali kaupanda á tilboði skulu líða a.m.k. tíu dagar frá því að ákvörðun um val tilboðs er tilkynnt þar til tilboð er endanlega samþykkt. Stytta má þennan frest við hraðútboð skv. 60. gr. og falla frá honum ef mjög brýnt er að gera samning þegar í stað.
  □ Tilboð skal samþykkja endanlega með skriflegum hætti innan gildistíma þess og er þá kominn á bindandi samningur á grundvelli útboðsgagna og tilboðs bjóðanda.
  □ Heimilt er að gera sérstakan samning um kaup á vöru, þjónustu eða verki á grundvelli útboðsins eftir að tilboð hefur verið samþykkt, en ekki skal þá breyta grundvallarþáttum tilboðs þannig að samkeppni sé raskað eða um mismunun verði að ræða.
  □ Þegar kominn er á samningur skv. 1. mgr. skal það tilkynnt öllum bjóðendum án tafar.
-■ *77. gr.* _Gerviverktaka._
+ ■ *77. gr.* _Gerviverktaka._
  □ Verktaka og undirverktaka er óheimilt að gera samning um undirverktöku við einstaka starfsmenn eða starfshópa í þeim tilvikum þar sem um ráðningarsamband er að ræða eða það á við samkvæmt venju og eðli máls.
 
  *3. þáttur.* *Opinber innkaup á Evrópska efnahagssvæðinu.*
  *X. kafli.* *Gildissvið þessa þáttar, heimild til setningar stjórnvaldsfyrirmæla o.fl.*
-■ *78. gr.* _Viðmiðunarfjárhæðir fyrir opinber innkaup á Evrópska efnahagssvæðinu._
+ ■ *78. gr.* _Viðmiðunarfjárhæðir fyrir opinber innkaup á Evrópska efnahagssvæðinu._
  □ Ákvæði þessa þáttar og stjórnvaldsfyrirmæli sem sett hafa verið með heimild í ákvæðum hans gilda um opinber innkaup yfir viðmiðunarfjárhæðum sem ráðherra skal birta í íslenskum krónum í reglugerð[^1)^] í samræmi við 7., 8. og 9. gr. tilskipunarinnar. Einnig skal í reglugerð birta þær viðmiðunarfjárhæðir sem um ræðir í 1. mgr. 35. gr. tilskipunarinnar svo og viðmiðunarfjárhæðir vegna gerðar sérleyfissamninga um verk, sbr. 56. og 63. gr. tilskipunarinnar, og viðmiðunarfjárhæðir vegna hönnunarsamkeppni, sbr. 67. gr. tilskipunarinnar. Við ákvörðun viðmiðunarfjárhæða skal taka tillit til breytinga sem kunna að hafa verið gerðar skv. 78. gr. tilskipunarinnar, enda hafi hlutaðeigandi gerðir verið teknar upp í EES-samninginn. Endurskoða skal viðmiðunarfjárhæðir á tveggja ára fresti, í fyrsta sinn 31. janúar 2008.
  □ Ráðherra setur með reglugerð[^2)^] reglur um útboðsauglýsingar og aðrar tilkynningar vegna innkaupa á Evrópska efnahagssvæðinu til samræmis við þær gerðir sem vísað er til í XVI. viðauka við EES-samninginn. Ráðherra er einnig heimilt með reglugerð að setja nánari reglur um opinber innkaup yfir viðmiðunarfjárhæðum skv. 1. mgr., enda samræmist þær ákvæðum tilskipunarinnar og öðrum skuldbindingum íslenska ríkisins samkvæmt EES-samningnum.
-    _[^1)^]Rg. 229/2010_. [^2)^]Rg. 1300/2007. Rg. 411/2008, sbr. 933/2010.
+    _[^1)^]Rg. 229/2010. [^2)^]Rg. 1300/2007. Rg. 411/2008, sbr. 933/2010._
  ■ *79. gr.* _Framkvæmd opinberra innkaupa yfir viðmiðunarfjárhæðum EES._
  □ Við framkvæmd opinberra innkaupa yfir viðmiðunarfjárhæðum skv. 78. gr. skal fylgja ákvæðum 35. - 43. gr. tilskipunarinnar og þeim reglum sem þar er vísað til, eftir atvikum eins og þeim kann að hafa verið breytt skv. 79. gr. tilskipunarinnar. Að öðru leyti skal farið að reglum 2. þáttar laganna með eftirtöldum frávikum:
     a. Ef nýta á heimild 2. mgr. 27. gr. til að gera samninga fyrir hluta af innkaupum án útboðs fyrir allt að 20% af samanlagðri heildarfjárhæð samnings skal verðgildi hlutans ekki vera hærra en jafngildi 80.000 evra að því er varðar vöru- og þjónustusamninga og 1 milljónar evra að því er varðar verksamninga.
@@ -490,30 +494,34 @@ h2. Lög um opinber innkaup
  □ Þegar um er að ræða samninga sem ekki falla undir 1. mgr. er kaupanda allt að einu heimilt að láta birta útboðsauglýsingu.
 
  *XI. kafli.* *Reglur um gerð sérleyfissamninga um verk og hönnunarsamkeppni.*
-■ *80. gr.* _Sérleyfissamningar um verk yfir viðmiðunarfjárhæðum EES._
+ ■ *80. gr.* _Sérleyfissamningar um verk yfir viðmiðunarfjárhæðum EES._
  □ Við gerð sérleyfissamninga um verk að áætluðu verðgildi sem er jafnt eða yfir viðmiðunarfjárhæð vegna slíkra samninga, sbr. reglugerð um viðmiðunarfjárhæðir sem sett er skv. 78. gr., skal fylgja ákvæðum 56. - 65. gr. tilskipunarinnar.
-■ *81. gr.* _Hönnunarsamkeppni yfir viðmiðunarfjárhæðum EES._
+ ■ *81. gr.* _Hönnunarsamkeppni yfir viðmiðunarfjárhæðum EES._
  □ Við framkvæmd hönnunarsamkeppni vegna verðgildis sem er jafnt eða yfir viðmiðunarfjárhæð vegna slíkrar samkeppni, sbr. reglugerð um viðmiðunarfjárhæðir sem sett er skv. 78. gr., skal fylgja ákvæðum 66. - 74. gr. tilskipunarinnar.
 
  *XII. kafli.* *Skýrslur, Eftirlitsstofnun EFTA o.fl.*
-■ *82. gr.* _Skýrslur um opinber innkaup yfir viðmiðunarfjárhæðum EES._
- □ Fjármálaráðuneytið skal útbúa skýrslu í samræmi við 75. og 76. gr. tilskipunarinnar og senda hana Eftirlitsstofnun EFTA. Heimilt er í reglugerð að kveða nánar á um hvaða aðilar skuli senda fjármálaráðuneytinu skýrslur um innkaup sín og hvaða upplýsingar skuli koma fram í skýrslunum.
-■ *83. gr.* _Rannsókn Eftirlitsstofnunar EFTA._
- □ Telji Eftirlitsstofnun EFTA að um augljóst brot á reglum Evrópska efnahagssvæðisins um opinber innkaup sé að ræða getur hún hafið rannsókn á ætluðu broti. Innan 30 daga frá tilkynningu Eftirlitsstofnunar EFTA um ástæður fyrir því áliti að augljóst brot hafi átt sér stað skal kaupandi senda Eftirlitsstofnuninni staðfestingu á því að bætt hafi verið úr brotinu, greinargerð um ástæður þess að engar úrbætur hafi verið gerðar eða tilkynningu um að innkaupaferli og gerð samnings hafi verið stöðvuð um stundarsakir. Fjármálaráðherra getur stöðvað um stundarsakir útboð eða gerð samnings í tilefni af tilkynningu Eftirlitsstofnunar EFTA samkvæmt þessari grein.
+ ■ *82. gr.* _Skýrslur um opinber innkaup yfir viðmiðunarfjárhæðum EES._
+ □ [Ráðuneytið][^1)^] skal útbúa skýrslu í samræmi við 75. og 76. gr. tilskipunarinnar og senda hana Eftirlitsstofnun EFTA. Heimilt er í reglugerð að kveða nánar á um hvaða aðilar skuli senda [ráðuneytinu][^1)^] skýrslur um innkaup sín og hvaða upplýsingar skuli koma fram í skýrslunum.
+    _[^1)^]L. 126/2011, 466. gr._
+ ■ *83. gr.* _Rannsókn Eftirlitsstofnunar EFTA._
+ □ Telji Eftirlitsstofnun EFTA að um augljóst brot á reglum Evrópska efnahagssvæðisins um opinber innkaup sé að ræða getur hún hafið rannsókn á ætluðu broti. Innan 30 daga frá tilkynningu Eftirlitsstofnunar EFTA um ástæður fyrir því áliti að augljóst brot hafi átt sér stað skal kaupandi senda Eftirlitsstofnuninni staðfestingu á því að bætt hafi verið úr brotinu, greinargerð um ástæður þess að engar úrbætur hafi verið gerðar eða tilkynningu um að innkaupaferli og gerð samnings hafi verið stöðvuð um stundarsakir. [Ráðherra][^1)^] getur stöðvað um stundarsakir útboð eða gerð samnings í tilefni af tilkynningu Eftirlitsstofnunar EFTA samkvæmt þessari grein.
  □ Þegar kaupandi hefur tilkynnt Eftirlitsstofnun EFTA um að innkaupaferli hafi verið stöðvað um stundarsakir skal kaupandi tilkynna stofnuninni um það þegar stöðvun er aflétt eða innkaupaferli vegna sömu innkaupa, að hluta eða í heild, er hafið á ný. Í þessari tilkynningu skal greint frá því að úrbætur hafi verið gerðar eða færðar fram ástæður fyrir því hvers vegna það hefur ekki verið gert.
+    _[^1)^]L. 126/2011, 466. gr._
 
  *4. þáttur.* *Stjórnsýsla, meðferð kærumála, o.fl.*
  *XIII. kafli.* *Yfirstjórn opinberra innkaupa og starfsemi innkaupastofnunar.*
-■ *84. gr.* _Yfirstjórn opinberra innkaupa._
- □ Opinber innkaup heyra undir fjármálaráðherra sem fer með framkvæmd laga þessara.
-■ *85. gr.* _Ríkiskaup._
- □ Á vegum ríkisins skal rekin miðlæg innkaupastofnun, Ríkiskaup. Stofnunin annast innkaup fyrir ríkisstofnanir og ríkisfyrirtæki, rannsakar sameiginlegar þarfir á vörum og þjónustu og beitir sér fyrir samræmdum innkaupum til þarfa ríkisins. Einnig skal stofnunin láta í té aðstoð og leiðbeiningar um útboð og innkaup eftir því sem þörf krefur. Komi upp ágreiningur um ákvörðun við val á tilboðum milli Ríkiskaupa sem umsjónaraðila útboðs og kaupanda er heimilt að vísa ágreiningnum til fjármálaráðuneytisins.
- □ Ríkiskaup ráðstafa eignum ríkisins sem ekki er lengur þörf fyrir samkvæmt nánari ákvörðun fjármálaráðherra.
- □ Ríkiskaup gera rammasamninga fyrir hönd ríkisins og annast útboð og önnur innkaupaferli sem fram fara á vegum ríkisstofnana vegna innkaupa, hvort heldur er yfir viðmiðunarfjárhæðum skv. 20. eða 78. gr. Fjármálaráðherra getur þó heimilað einstökum ríkisstofnunum að annast eigin innkaup yfir viðmiðunarfjárhæðum.
-■ *86. gr.* _Lögmæti innkaupa og ábyrgð á innkaupum sem fram fara á vegum Ríkiskaupa._
+ ■ *84. gr.* _Yfirstjórn opinberra innkaupa._
+ □ Opinber innkaup heyra undir [ráðherra][^1)^] sem fer með framkvæmd laga þessara.
+    _[^1)^]L. 126/2011, 466. gr._
+ ■ *85. gr.* _Ríkiskaup._
+ □ Á vegum ríkisins skal rekin miðlæg innkaupastofnun, Ríkiskaup. Stofnunin annast innkaup fyrir ríkisstofnanir og ríkisfyrirtæki, rannsakar sameiginlegar þarfir á vörum og þjónustu og beitir sér fyrir samræmdum innkaupum til þarfa ríkisins. Einnig skal stofnunin láta í té aðstoð og leiðbeiningar um útboð og innkaup eftir því sem þörf krefur. Komi upp ágreiningur um ákvörðun við val á tilboðum milli Ríkiskaupa sem umsjónaraðila útboðs og kaupanda er heimilt að vísa ágreiningnum til [ráðuneytisins].[^1)^]
+ □ Ríkiskaup ráðstafa eignum ríkisins sem ekki er lengur þörf fyrir samkvæmt nánari ákvörðun [ráðherra].[^1)^]
+ □ Ríkiskaup gera rammasamninga fyrir hönd ríkisins og annast útboð og önnur innkaupaferli sem fram fara á vegum ríkisstofnana vegna innkaupa, hvort heldur er yfir viðmiðunarfjárhæðum skv. 20. eða 78. gr. [Ráðherra][^1)^] getur þó heimilað einstökum ríkisstofnunum að annast eigin innkaup yfir viðmiðunarfjárhæðum.
+    _[^1)^]L. 126/2011, 466. gr._
+ ■ *86. gr.* _Lögmæti innkaupa og ábyrgð á innkaupum sem fram fara á vegum Ríkiskaupa._
  □ Kaupandi sem aflað hefur verks, vöru eða þjónustu í gegnum Ríkiskaup telst hafa fullnægt skyldum sínum samkvæmt lögum þessum að svo miklu leyti sem Ríkiskaup hafa gert það.
  □ Áður en innkaupaferli hefst á vegum Ríkiskaupa er stofnuninni heimilt að krefjast þess að fyrir liggi samningur þar sem m.a. er kveðið á um ákvörðunartöku og skaðabótaábyrgð vegna innkaupaferlis.
-■ *87. gr.* _Markmið í rekstri Ríkiskaupa._
+ ■ *87. gr.* _Markmið í rekstri Ríkiskaupa._
  □ Ríkiskaup skulu leitast við að tryggja hagkvæmni við innkaup ríkisins. Markmiði þessu skal náð með því að:
     a. þróa hágæðaþjónustustofnun á sviði opinberra innkaupa með starfsfólki sem býr yfir þekkingu og reynslu á sviði innkaupa fyrir ríkisstofnanir,
     b. þróa verklag við útboð og innkaup sem tryggir jafnræði bjóðenda og virka samkeppni,
@@ -521,29 +529,32 @@ h2. Lög um opinber innkaup
     d. auðvelda viðskiptatengsl milli birgja og ríkisstofnana,
     e. miðla þekkingu og reynslu til ríkisstofnana til að fullnægja sem best viðskiptalegum þörfum ríkisins.
 ■ *88. gr.* _Forstjóri Ríkiskaupa._
- □ Fjármálaráðherra skipar forstjóra til fimm ára í senn. Forstjóri annast daglegan rekstur Ríkiskaupa, ber ábyrgð á fjárreiðum stofnunarinnar og reikningshaldi. Forstjóri gerir fjárhagsáætlun stofnunarinnar og mótar stefnu um helstu áherslur, verkefni og starfshætti stofnunarinnar. Forstjóri ræður starfslið stofnunarinnar.
-■ *89. gr.* _Gjaldskrá Ríkiskaupa._
- □ Ríkiskaup selja ríkisstofnunum og ríkisfyrirtækjum þjónustu sína samkvæmt gjaldskrá sem fjármálaráðherra setur, að fengnum tillögum forstjóra Ríkiskaupa. Gjaldskráin skal miðast við að tekjur standi undir rekstri stofnunarinnar.
-■ *90. gr.* _Ábyrgðarmaður innkaupa._
+ □ [Ráðherra][^1)^] skipar forstjóra til fimm ára í senn. Forstjóri annast daglegan rekstur Ríkiskaupa, ber ábyrgð á fjárreiðum stofnunarinnar og reikningshaldi. Forstjóri gerir fjárhagsáætlun stofnunarinnar og mótar stefnu um helstu áherslur, verkefni og starfshætti stofnunarinnar. Forstjóri ræður starfslið stofnunarinnar.
+    _[^1)^]L. 126/2011, 466. gr._
+ ■ *89. gr.* _Gjaldskrá Ríkiskaupa._
+ □ Ríkiskaup selja ríkisstofnunum og ríkisfyrirtækjum þjónustu sína samkvæmt gjaldskrá sem [ráðherra][^1)^] setur, að fengnum tillögum forstjóra Ríkiskaupa. Gjaldskráin skal miðast við að tekjur standi undir rekstri stofnunarinnar.
+    _[^1)^]L. 126/2011, 466. gr._
+ ■ *90. gr.* _Ábyrgðarmaður innkaupa._
  □ Ráðuneyti og stofnanir og fyrirtæki í eigu ríkisins skulu skipa sérstakan starfsmann sem skal vera ábyrgðarmaður innkaupa. Honum ber að fylgjast með að innkaup viðkomandi ráðuneytis, stofnunar eða fyrirtækis séu í samræmi við gildandi lög og reglur um opinber innkaup og innkaupastefnu ríkisins.
 
  *XIV. kafli.* *Kærunefnd útboðsmála.*
-■ *91. gr.* _Hlutverk og skipan kærunefndar útboðsmála._
+ ■ *91. gr.* _Hlutverk og skipan kærunefndar útboðsmála._
  □ Í kærunefnd útboðsmála eiga sæti þrír menn sem ráðherra skipar til fjögurra ára í senn. Varamenn skulu skipaðir á sama hátt. Formaður nefndarinnar og varamaður hans skulu fullnægja skilyrðum laga til að gegna embætti héraðsdómara. Aðrir nefndarmenn skulu hafa alhliða reynslu og þekkingu á viðskiptum. Nefndarmenn skulu vera óháðir hagsmunum ríkis eða annarra opinberra aðila. Við skipan nefndarinnar skal ráðherra hafa samráð við helstu samtök sem hafa hagsmuna að gæta við framkvæmd laganna.
  □ Hlutverk kærunefndar útboðsmála er að leysa með skjótum og óhlutdrægum hætti úr kærum fyrirtækja vegna ætlaðra brota á lögum þessum, þar á meðal þeim ákvæðum tilskipunarinnar sem vísað er til í lögunum, og reglum settum samkvæmt þeim.
  □ Nefndin er sjálfstæð í störfum sínum. Úrskurðum hennar og ákvörðunum samkvæmt lögum þessum verður ekki skotið til annarra stjórnvalda.
- □ Að beiðni fjármálaráðuneytis eða tiltekins kaupanda er kærunefnd útboðsmála heimilt að gefa ráðgefandi álit á tilteknum innkaupum þótt engin kæra hafi borist.
-■ *92. gr.* _Sérfræðileg ráðgjöf._
+ □ Að beiðni [ráðuneytisins][^1)^] eða tiltekins kaupanda er kærunefnd útboðsmála heimilt að gefa ráðgefandi álit á tilteknum innkaupum þótt engin kæra hafi borist.
+    _[^1)^]L. 126/2011, 466. gr._
+ ■ *92. gr.* _Sérfræðileg ráðgjöf._
  □ Nefndinni er heimilt að kalla sér til ráðgjafar og aðstoðar sérfróða aðila ef hún telur þörf á. Skulu þeir aðilar starfa með kærunefndinni eftir nánari ákvörðun formanns eða varaformanns sem ákveður þeim þóknun fyrir starfann.
-■ *93. gr.* _Málskotsréttur._
+ ■ *93. gr.* _Málskotsréttur._
  □ Heimild til að skjóta málum til nefndarinnar hafa þau fyrirtæki sem njóta réttinda samkvæmt lögum þessum og hafa lögvarða hagsmuni af úrlausn máls.
  □ Heimilt er kæranda að framselja kæruheimild sína til félags eða samtaka sem gæta hagsmuna hans.
-■ *94. gr.* _Kærufrestur._
+ ■ *94. gr.* _Kærufrestur._
  □ Kæra skal borin skriflega undir kærunefnd útboðsmála innan fjögurra vikna frá því að kærandi vissi eða mátti vita um þá ákvörðun, athöfn eða athafnaleysi sem hann telur brjóta gegn réttindum sínum. Alltaf er þó heimilt að bera kæru undir kærunefnd útboðsmála innan 15 daga frá því að rökstuðningur skv. 75. gr. er veittur. Fyrir hverja kæru skal kærandi greiða kærugjald að fjárhæð 50.000 kr.
  □ Í kæru skulu koma fram upplýsingar um kæranda, þann aðila sem kæra beinist að (varnaraðila) og ákvörðun, athöfn eða athafnaleysi sem er kærð. Í kæru skulu koma fram kröfur kæranda ásamt stuttri lýsingu málsatvika og málsástæðna og rökstuðningur. Kröfugerð kæranda skal lúta að úrræðum nefndarinnar skv. 96. og 97. gr.
  □ Ef kæra fullnægir ekki skilyrðum 2. mgr. skal kærunefndin beina því til kæranda að bæta úr annmörkum innan hæfilegs frests. Verði kærandi ekki við því skal kærunefndin vísa kærunni frá.
  □ Kærunefnd er jafnan heimilt að beina því til kæranda að leggja fram frekari gögn eða upplýsingar máli til skýringar ef hún telur málið ekki nægilega upplýst og setja honum ákveðinn frest í því skyni.
-■ *95. gr.* _Meðferð kæru og gagnaöflun._
+ ■ *95. gr.* _Meðferð kæru og gagnaöflun._
  □ Nú er kæra tæk til efnismeðferðar skv. 94. gr. og gefur nefndin þá varnaraðila kost á að tjá sig um efni kærunnar. Ef Ríkiskaup eða önnur miðlæg innkaupastofnun í skilningi laga þessara hefur annast innkaup telst sú stofnun varnaraðili við meðferð máls fyrir nefndinni.
  □ Nú hefur annað fyrirtæki, svo sem annar bjóðandi í útboði eða þátttakandi í forvali vegna lokaðs útboðs, samkeppnisviðræðum eða samningskaupum, beinna og verulegra hagsmuna að gæta af niðurstöðu máls hjá nefndinni og skal þá einnig gefa þessum aðila kost á að tjá sig um efni kærunnar.
  □ Kæranda skal jafnan gefinn stuttur frestur til að tjá sig um athugasemdir varnaraðila og annarra sem gefinn hefur verið kostur á að tjá sig.
@@ -556,40 +567,41 @@ h2. Lög um opinber innkaup
  □ Nú telur nefndin að verulegar líkur séu á því að brotið hafi verið gegn lögum þessum, þar á meðal þeim ákvæðum tilskipunarinnar sem vísað er til í lögunum, eða reglum settum samkvæmt þeim við tiltekin innkaup, og getur hún þá, eftir kröfu kæranda, stöðvað innkaupaferli eða gerð samnings þar til endanlega hefur verið skorið úr kæru.
  □ Varnaraðila skal að jafnaði gefinn skammur frestur til að tjá sig um hugsanlega stöðvun innkaupaferlis eða stöðvun samningsgerðar um stundarsakir. Víkja má frá þessu ef um er að ræða skýrt og augljóst brot.
  □ Aðili máls getur krafist þess að nefndin rökstyðji ákvörðun samkvæmt þessari grein skriflega hafi slíkur rökstuðningur ekki fylgt ákvörðuninni þegar hún var tilkynnt.
-■ *97. gr.* _Úrræði kærunefndar útboðsmála._
+ ■ *97. gr.* _Úrræði kærunefndar útboðsmála._
  □ Nefndin getur með úrskurði fellt úr gildi ákvörðun kaupanda vegna opinberra innkaupa að hluta eða í heild, sbr. þó 100. gr. Nefndin getur lagt fyrir kaupanda að bjóða út tiltekin innkaup, auglýsa útboð á nýjan leik eða að fella niður tiltekna ólögmæta skilmála í útboðsgögnum.
  □ Nefndin getur látið uppi álit sitt á skaðabótaskyldu varnaraðila gagnvart kæranda, en tjáir sig ekki um fjárhæð skaðabóta.
  □ Nefndin getur ákveðið að varnaraðili greiði kæranda kostnað við að hafa kæruna uppi. Ef kæra er bersýnilega tilefnislaus eða höfð uppi í þeim tilgangi að tefja fyrir framgangi opinberra innkaupa getur nefndin úrskurðað kæranda til að greiða málskostnað sem rennur í ríkissjóð.
  □ Ef ekki er farið að úrskurði nefndarinnar skv. 1. mgr. er henni heimilt að ákveða að leggja dagsektir á þann sem úrskurður beinist að. Sektir geta numið allt að 500.000 kr. fyrir hvern dag sem líður án þess að farið sé að úrskurði nefndarinnar. Ef úrskurði er skotið til dómstóla byrja dagsektir ekki að falla á fyrr en dómur er endanlegur.
  □ Dagsektir skv. 4. mgr. renna í ríkissjóð. Gera má aðför, án undangengins dóms, til fullnustu dagsekta og úrskurðar um málskostnað skv. 3. mgr.
-■ *98. gr.* _Dómsmál til ógildingar á úrskurðum kærunefndar útboðsmála._
+ ■ *98. gr.* _Dómsmál til ógildingar á úrskurðum kærunefndar útboðsmála._
  □ Nú vill kærandi, varnaraðili eða annar aðili sem lögvarinna hagsmuna á að gæta ekki una úrskurði kærunefndar útboðsmála og getur hann þá höfðað mál til ógildingar hans fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðilinn fékk eða mátti fá vitneskju um ákvörðun kærunefndar.
  □ Ef mál er höfðað til ógildingar á úrskurði kærunefndar útboðsmála skal kærunefndinni ekki stefnt til varnar. Að öðru leyti fer um varnaraðild að slíkum málum samkvæmt almennum reglum.
-■ *99. gr.* _Starfsreglur fyrir kærunefnd útboðsmála o.fl._
+ ■ *99. gr.* _Starfsreglur fyrir kærunefnd útboðsmála o.fl._
  □ Kærunefnd útboðsmála getur sett nánari reglur, sem ráðherra staðfestir, um framlagningu gagna, málsmeðferð fyrir nefndinni og birtingu úrskurða.
 
  *XV. kafli.* *Gildi samninga og skaðabætur.*
-■ *100. gr.* _Ógilding samninga._
+ ■ *100. gr.* _Ógilding samninga._
  □ Eftir að bindandi samningur skv. 76. gr. er kominn á verður hann ekki felldur úr gildi eða honum breytt þótt ákvörðun kaupanda um framkvæmd útboðs eða gerð samnings hafi verið ólögmæt.
  □ Nú gerir kaupandi samning þótt innkaupaferli, útboð eða samningsgerð hafi verið stöðvuð skv. 96. gr. og er þá allt að einu heimilt að ógilda samninginn og beita þeim úrræðum sem greinir í 97. gr.
  □ Um gildi samninga, sem stofnað er til samkvæmt lögum þessum, fer að öðru leyti eftir almennum reglum fjármunaréttar.
-■ *101. gr.* _Skaðabótaskylda._
+ ■ *101. gr.* _Skaðabótaskylda._
  □ Kaupandi er skaðabótaskyldur vegna þess tjóns sem brot á lögum þessum, þar á meðal þeim ákvæðum tilskipunarinnar sem vísað er til í lögunum, og reglum settum samkvæmt þeim hefur í för með sér fyrir fyrirtæki. Fyrirtæki þarf einungis að sanna að það hafi átt raunhæfa möguleika á að verða valið af kaupanda og möguleikar þess hafi skerst við brotið. Bótafjárhæð skal miðast við kostnað við að undirbúa tilboð og taka þátt í útboði.
  □ Um skaðabætur vegna brota á lögum þessum og reglum settum samkvæmt þeim fer að öðru leyti eftir almennum reglum.
 
  *XVI. kafli.* *Lagaskil, gildistaka, brottfall laga o.fl.*
-■ *102. gr.* _Innleiðing tilskipunarinnar._
+ ■ *102. gr.* _Innleiðing tilskipunarinnar._
  □ Lög þessi fela í sér innleiðingu á tilskipun Evrópuþingsins og ráðsins 2004/18/EB frá 31. mars 2004 um samræmingu reglna um útboð og gerð opinberra verksamninga, vörusamninga og þjónustusamninga eins og hún var tekin upp í samninginn um Evrópska efnahagssvæðið með ákvörðun sameiginlegu EES-nefndarinnar nr. 68/2006 sem birt var 7. september 2006 í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 44/2006.
-■ *103. gr.* _Afstaða stjórnsýslulaga til opinberra innkaupa._
+ ■ *103. gr.* _Afstaða stjórnsýslulaga til opinberra innkaupa._
  □ Ákvæði II. kafla "stjórnsýslulaga, nr. 37/1993":1993037.html, um hæfi gilda um ákvarðanir sem teknar eru samkvæmt lögum þessum. Að öðru leyti gilda stjórnsýslulög ekki um ákvarðanir sem teknar eru samkvæmt lögum þessum.
  ■ *104. gr.* _Almenn heimild til setningar stjórnvaldsfyrirmæla._
- □ Fjármálaráðherra er heimilt að setja reglugerð um nánari framkvæmd laga þessara.
-■ *105. gr.* _Lagaskil vegna opinberra innkaupa._
+ □ [Ráðherra][^1)^] er heimilt að setja reglugerð um nánari framkvæmd laga þessara.
+    _[^1)^]L. 126/2011, 466. gr._
+ ■ *105. gr.* _Lagaskil vegna opinberra innkaupa._
  □ Um innkaup sem hafa verið auglýst fyrir gildistöku laga þessara fer samkvæmt "lögum nr. 94/2001":2001094.html, um opinber innkaup. Miða skal við opinbera birtingu útboðsauglýsingar eða áætlaða móttöku þátttakenda á tilkynningu ef um er að ræða innkaupaferli þar sem útboðsauglýsingar eru ekki birtar opinberlega.
  ■ *106. gr.* _Lagaskil vegna starfsemi kærunefndar útboðsmála._
  □ Lög þessi gilda um meðferð kærunefndar útboðsmála á kærum sem berast nefndinni eftir gildistöku laga þessara.
  □ Skipanir núverandi nefndarmanna í kærunefnd útboðsmála skulu haldast þrátt fyrir gildistöku laga þessara. Starfsreglur kærunefndar útboðsmála skulu einnig halda gildi sínu þar til nýjar starfsreglur kærunefndarinnar hafa tekið gildi.
-■ *107. gr.* _Gildistaka._
+ ■ *107. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi. ...
  □ Ákvæði 2. og 3. málsl. 2. mgr. 19. gr. skulu öðlast gildi 1. janúar 2008.
 
@@ -855,23 +867,23 @@ h2. Lög um opinber innkaup
     d) „fjarskiptaþjónusta“: þjónusta sem að nokkru eða öllu leyti felst í því að senda og beina merkjum um almenna fjarskiptanetið með fjarskiptaaðferðum, öðrum en hljóðvarpi eða sjónvarpi.
 ■ *2. gr.* _Meginreglur um val tilboða_
  □ Rekstraraðilar skulu fá jafna meðferð, án mismununar og á gagnsæjan hátt, hjá samningsyfirvöldum.
-■ *3. gr.* _Veiting sérstakra réttinda eða einkaréttar: ákvæði um bann við mismunun_
+ ■ *3. gr.* _Veiting sérstakra réttinda eða einkaréttar: ákvæði um bann við mismunun_
  □ Ef samningsyfirvald veitir öðrum aðila en samningsyfirvaldi sérstök réttindi eða einkarétt til að veita opinbera þjónustu skal kveðið á um það í þeim lögum sem slíkur réttur er byggður á að sá aðili fari að meginreglunni um bann við mismunun á grundvelli þjóðernis þegar hann gerir samning við þriðja aðila í tengslum við þá þjónustu.
 
  *II. bálkur.* *Reglur um opinbera samninga*
  *I. kafli.* *Almenn ákvæði*
-■ *4. gr.* _Rekstraraðilar_
+ ■ *4. gr.* _Rekstraraðilar_
  □ 1. Ekki skal hafna þátttakendum eða bjóðendum, sem eiga rétt á að veita viðeigandi þjónustu samkvæmt lögum aðildarríkisins þar sem þeir hafa staðfestu, af þeirri ástæðu einni að þess er krafist í lögum aðildarríkisins þar sem samningurinn er gerður að þátttakendur eða bjóðendur einskorðist við annaðhvort einstaklinga eða lögaðila.
     Ef um er að ræða opinbera þjónustu- og verksamninga svo og opinbera vörusamninga, sem taka að auki til þjónustu og/eða ísetningar- eða uppsetningarstarfs, er hægt að krefjast þess að lögaðilar tilgreini, í tilboði eða þátttökutilkynningu, nöfn og faglegt hæfi starfsmanna sem eiga að bera ábyrgð á framkvæmd viðkomandi samnings.
  □ 2. Hópar rekstraraðila geta lagt fram tilboð eða leitað eftir þátttöku. Samningsyfirvöld geta ekki krafist þess að þessir hópar taki upp ákveðið rekstrarform að lögum til að geta lagt fram tilboð eða þátttökutilkynningu en þó er hægt að krefjast þess að hópur, sem hefur verið valinn og gerður við hann samningur, taki upp ákveðið rekstrarform að lögum ef það er nauðsynlegt til að unnt sé að framkvæma samninginn á fullnægjandi hátt.
-■ *5. gr.* _Skilyrði í tengslum við samninga sem eru gerðir á vettvangi Alþjóðaviðskiptastofnunarinnar_
+ ■ *5. gr.* _Skilyrði í tengslum við samninga sem eru gerðir á vettvangi Alþjóðaviðskiptastofnunarinnar_
  □ Þegar samningsyfirvöld velja úr tilboðum skulu aðildarríkin beita skilyrðum sín á milli sem eru jafnhagstæð þeim skilyrðum sem þau setja rekstraraðilum í þriðju löndum við framkvæmd samningsins um opinber innkaup (hér á eftir nefndur samningur Alþjóðaviðskiptastofnunarinnar) sem gerður var í Úrúgvælotu marghliða samningaviðræðnanna. Í því skyni skulu aðildarríkin hafa samráð sín á milli, innan ráðgjafarnefndarinnar um opinbera samninga sem um getur í 77. gr., um það hvaða ráðstafanir beri að gera samkvæmt samningi Alþjóðaviðskiptastofnunarinnar.
-■ *6. gr.* _Trúnaðarkvaðir_
+ ■ *6. gr.* _Trúnaðarkvaðir_
  □ Með fyrirvara um ákvæði þessarar tilskipunar, einkum ákvæði um tilkynningaskyldu í tengslum við niðurstöður útboðs og upplýsingar til þátttakenda og bjóðenda, sem getið er í 4. mgr. 35. gr. og 41. gr., og í samræmi við landslög sem samningsyfirvaldið heyrir undir, skal samningsyfirvaldið ekki afhenda upplýsingar sem það hefur fengið frá rekstraraðilum ef þeir hafa merkt þær sem trúnaðarmál. Slíkar upplýsingar fela einkum í sér tæknileg leyndarmál eða viðskiptaleyndarmál og þá þætti tilboða sem eru trúnaðarmál.
 
  *II. kafli.* *Gildissvið*
  *1. þáttur. Viðmiðunarfjárhæðir*
-■ *7. gr.* _Viðmiðunarfjárhæðir fyrir opinbera samninga_
+ ■ *7. gr.* _Viðmiðunarfjárhæðir fyrir opinbera samninga_
  □ Þessi tilskipun gildir um opinbera samninga sem falla ekki undir undantekningarákvæðin, sem kveðið er á um í 10. og 11. gr. og 12. - 18. gr., og þar sem áætlað verðmæti án virðisaukaskatts er jafnt eða meira en eftirfarandi viðmiðunarfjárhæðir:
     a) 162 000 evrur þegar um er að ræða opinbera vöru- og þjónustusamninga, aðra en þá sem falla undir þriðja undirlið b-liðar, gerða af samningsyfirvöldum sem eru skráð sem yfirvöld á vegum ríkisins í IV. viðauka, en sé um að ræða opinbera vörusamninga, gerða af samningsyfirvöldum sem starfa á sviði varnarmála, skal þetta aðeins gilda um samninga varðandi vörur sem falla undir V. viðauka,
     b) 249 000 evrur
@@ -915,20 +927,20 @@ h2. Lög um opinber innkaup
     ii) þegar um er að ræða ótímabundna samninga eða samninga sem gilda lengur en í 48 mánuði: verðmæti hvers mánaðar, margfaldað með 48.
  □ 9. Varðandi rammasamninga og virk innkaupakerfi skal verðmætið, sem miðað er við, vera áætlað hámarksverðmæti allra samninga, án virðisaukaskatts, sem fyrirhugað er að gera á gildistíma rammasamningsins eða virka innkaupakerfisins.
  *2. þáttur. Sérstakar aðstæður*
-■ *10. gr.* _Innkaup til varnarmála_
+ ■ *10. gr.* _Innkaup til varnarmála_
  □ Tilskipun þessi gildir um opinbera samninga sem samningsyfirvöld gera á sviði varnarmála, sbr. þó [123. gr. EES-samningsins, sbr. ákvörðun sameiginlegu EES-nefndarinnar nr. 68/2006].
-■ *11. gr.* _Opinberir samningar og rammasamningar, gerðir af miðlægum innkaupastofnunum_
+ ■ *11. gr.* _Opinberir samningar og rammasamningar, gerðir af miðlægum innkaupastofnunum_
  □ 1. Aðildarríkin geta mælt fyrir um að samningsyfirvöldum sé heimilt að kaupa verk, vörur og/eða þjónustu frá miðlægri innkaupastofnun eða með milligöngu hennar.
  □ 2. Samningsyfirvöld, sem kaupa verk, vörur og/eða þjónustu frá miðlægri innkaupastofnun eða með milligöngu hennar, í tilvikum sem um getur í 10. mgr. 1. gr., teljast hafa farið að ákvæðum þessarar tilskipunar svo fremi að miðlæga innkaupastofnunin hafi farið að ákvæðum hennar.
  *3. þáttur. Samningar sem falla ekki undir tilskipunina*
-■ *12. gr.* _Samningar á sviði vatnsveitu, orkuveitu, flutninga og póstþjónustu_
+ ■ *12. gr.* _Samningar á sviði vatnsveitu, orkuveitu, flutninga og póstþjónustu_
  □ Þessi tilskipun gildir ekki um opinbera samninga, sem eru gerðir samkvæmt tilskipun 2004/17/EB af samningsyfirvöldum, sem reka eina eða fleiri tegundir þeirrar starfsemi sem um getur í 3. - 7. gr. þeirrar tilskipunar, og eru gerðir vegna reksturs þeirrar starfsemi, og ekki heldur um opinbera samninga sem eru undanþegnir gildissviði þeirrar tilskipunar skv. 5. gr. (2. mgr.) og 19., 26. og 30. gr. hennar.
     Þessi tilskipun gildir þó áfram um opinbera samninga, sem gerðir eru af samningsyfirvöldum sem stunda eina eða fleiri tegundir þeirrar starfsemi sem um getur í 6. gr. tilskipunar 2004/17/EB, og sem eru gerðir vegna þeirrar starfsemi, svo fremi að viðkomandi aðildarríki nýti sér þann kost, sem um getur í annarri undirgrein 71. gr. tilskipunarinnar, að fresta beitingu hennar.
-■ *13. gr.* _Sérstakar undantekningar á fjarskiptasviðinu_
+ ■ *13. gr.* _Sérstakar undantekningar á fjarskiptasviðinu_
  □ Þessi tilskipun gildir ekki um opinbera samninga þar sem megintilgangurinn er að veita samningsyfirvöldum leyfi til að bjóða fram almenn fjarskiptanet eða nýta sér þau eða veita almenningi eina eða fleiri tegundir fjarskiptaþjónustu.
-■ *14. gr.* _Leynilegir samningar og samningar sem krefjast sérstakra öryggisráðstafana_
+ ■ *14. gr.* _Leynilegir samningar og samningar sem krefjast sérstakra öryggisráðstafana_
  □ Þessi tilskipun gildir ekki um opinbera samninga sem aðildarríki lýsir yfir að séu leynilegir, þegar beita verður sérstökum öryggisráðstöfunum við framkvæmd þeirra í samræmi við gildandi lög og stjórnsýslufyrirmæli í viðkomandi aðildarríki eða þegar þess er krafist til að vernda grundvallarhagsmuni í því aðildarríki.
-■ *15. gr.* _Samningar sem eru gerðir samkvæmt alþjóðareglum_
+ ■ *15. gr.* _Samningar sem eru gerðir samkvæmt alþjóðareglum_
  □ Þessi tilskipun gildir ekki um opinbera samninga sem falla undir aðrar útboðsreglur og eru gerðir:
     a) á grundvelli milliríkjasamnings á milli aðildarríkis og eins eða fleiri þriðju landa, sem gerður er í samræmi við sáttmálann og tekur til vöru eða verks, sem áformað er að undirritunarlöndin noti við sameiginlega framkvæmd eða hagnýtingu verks, eða þjónustu, sem áformað er að undirritunarlöndin noti við sameiginlega framkvæmd eða hagnýtingu verkefnis; tilkynna skal um alla samninga til framkvæmdastjórnarinnar sem getur ráðfært sig við ráðgjafarnefndina um opinbera samninga sem um getur í 77. gr.,
     b) á grundvelli milliríkjasamnings í tengslum við setu herliðs þegar í hlut eiga fyrirtæki í aðildarríki eða þriðja landi,
@@ -943,23 +955,23 @@ h2. Lög um opinber innkaup
     f) aðra rannsóknar- og þróunarþjónustu en þá sem er eingöngu til hagsbóta fyrir samningsyfirvöld í þeirra eigin starfsemi, að því tilskildu að þjónustan, sem er veitt, sé að öllu leyti launuð af samningsyfirvaldinu.
 ■ *17. gr.* _Sérleyfissamningar um þjónustu_
  □ Þessi tilskipun gildir ekki um sérleyfissamninga um þjónustu skv. 4. mgr. 1. gr., sbr. þó 3. gr.
-■ *18. gr.* _Þjónustusamningar sem gerðir eru á grundvelli einkaréttar_
+ ■ *18. gr.* _Þjónustusamningar sem gerðir eru á grundvelli einkaréttar_
  □ Þessi tilskipun gildir ekki um opinbera þjónustusamninga sem samningsyfirvald gerir við annað samningsyfirvald eða við samtök samningsyfirvalda á grundvelli einkaréttar sem þessir aðilar hafa samkvæmt lögum eða stjórnsýslufyrirmælum sem hafa verið birt og samrýmast sáttmálanum.
  *4. þáttur. Sérstakt fyrirkomulag.*
-■ *19. gr.* _Samningar sem eru bundnir við ákveðna hópa_
+ ■ *19. gr.* _Samningar sem eru bundnir við ákveðna hópa_
  □ Aðildarríkin geta bundið réttinn til að taka þátt í opinberu útboðsferli við verndaða vinnustaði eða kveðið á um að slíkir samningar skuli framkvæmdir innan ramma áætlana um verndaða vinnu ef flestir starfsmennirnir eru fatlaðir einstaklingar sem geta ekki, vegna þess hvers eðlis eða hve alvarleg fötlunin er, stundað störf við venjulegar aðstæður.
     Vísa skal í þetta ákvæði í útboðstilkynningu.
 
  *III. kafli.* *Reglur um opinbera þjónustusamninga*
-■ *20. gr.* _Þjónustusamningar sem eru skráðir í II. viðauka A_
+ ■ *20. gr.* _Þjónustusamningar sem eru skráðir í II. viðauka A_
  □ Samningar þar sem markmiðið er að veita þjónustu, sem tilgreind er í II. viðauka A, skulu gerðir í samræmi við 23. - 55. gr.
-■ *21. gr.* _Þjónustusamningar sem eru skráðir í II. viðauka B_
+ ■ *21. gr.* _Þjónustusamningar sem eru skráðir í II. viðauka B_
  □ Samningar þar sem markmiðið er að veita þjónustu, sem tilgreind er í II. viðauka B, skulu einungis heyra undir 23. gr. og 4. mgr. 35. gr.
-■ *22. gr.* _Blandaðir þjónustusamningar sem varða bæði þjónustu sem er tilgreind í II. viðauka A og II. viðauka B_
+ ■ *22. gr.* _Blandaðir þjónustusamningar sem varða bæði þjónustu sem er tilgreind í II. viðauka A og II. viðauka B_
  □ Samningar, sem varða bæði þjónustu sem er tilgreind í II. viðauka A og II. viðauka B, skulu gerðir skv. 23. - 55. gr. þegar verðmæti þjónustunnar, sem tilgreind er í II. viðauka A, er meira en verðmæti þjónustunnar sem tilgreind er í II. viðauka B. Í öðrum tilvikum skulu samningar gerðir skv. 23. gr. og 4. mgr. 35. gr.
 
  *IV. kafli.* *Sérstakar reglur sem gilda um útboðsskilmála og útboðsgögn*
-■ *23. gr.* _Tækniforskriftir_
+ ■ *23. gr.* _Tækniforskriftir_
  □ 1. Tækniforskriftirnar, sem eru skilgreindar í 1. lið VI. viðauka, skulu koma fram í útboðsskjölum, svo sem útboðstilkynningum, útboðsgögnum eða viðbótargögnum. Þegar unnt er skal skilgreina þessar tækniforskriftir á þann hátt að tekið sé tillit til forsendna um aðgang fatlaðra eða hönnun sem hæfir öllum notendum.
  □ 2. Tækniforskriftir skulu veita bjóðendum jafna aðgangsmöguleika og skulu ekki fela í sér órökstuddar hindranir í vegi fyrir því að opinber innkaup séu opnuð fyrir samkeppni.
  □ 3. Með fyrirvara um lögboðnar, innlendar tæknireglur, svo fremi að þær samrýmist lögum Bandalagsins, skulu tækniforskriftirnar settar fram á eftirfarandi hátt:
@@ -981,27 +993,27 @@ h2. Lög um opinber innkaup
  □ 7. „Viðurkenndar stofnanir“ í skilningi þessarar greinar eru prófunar- og kvörðunarstofur og vottunar- og skoðunaraðilar sem fullnægja gildandi Evrópustöðlum.
     Samningsyfirvöld skulu samþykkja vottorð frá viðurkenndum stofnunum með staðfestu í öðrum aðildarríkjum.
  □ 8. Tækniforskriftir skulu ekki vísa til sérstakrar tegundar eða grunns eða tiltekins vinnsluferlis né heldur til vörumerkja, einkaleyfa, gerða eða sérstaks uppruna eða framleiðslu með það fyrir augum að halda fram eða útiloka tiltekin fyrirtæki eða tilteknar vörur, sé ekki rökstuðningur fyrir því í efni samningsins. Í undantekningartilvikum er slík tilvísun leyfð ef nægilega nákvæm og skiljanleg lýsing á efni samningsins skv. 3. og 4. mgr. er ekki möguleg; orðin „eða jafngilt“ skulu fylgja slíkri tilvísun.
-■ *24. gr.* _Frávikstilboð_
+ ■ *24. gr.* _Frávikstilboð_
  □ 1. Ef forsenda fyrir samningsgerð er fjárhagslega hagstæðasta tilboðið geta samningsyfirvöld heimilað bjóðendum að leggja fram frávikstilboð.
  □ 2. Samningsyfirvöld skulu geta þess í útboðstilkynningu hvort þau heimila frávikstilboð eða ekki: sé það ekki gert eru frávikstilboð óheimil.
  □ 3. Samningsyfirvöld, sem heimila frávikstilboð, skulu, í útboðsgögnum, gera grein fyrir lágmarkskröfum sem þarf að uppfylla í frávikstilboðum og öllum sérkröfum varðandi framlagningu þeirra.
  □ 4. Samningsyfirvöld skulu einungis taka til greina frávikstilboð sem uppfylla tilskildar lágmarkskröfur.
     Í útboðum vegna opinberra vöru- eða þjónustusamninga geta samningsyfirvöld, sem hafa heimilað frávikstilboð, ekki vísað frávikstilboði frá af þeirri ástæðu einni að ef það tilboð yrði fyrir valinu yrði annaðhvort gerður þjónustusamningur fremur en vörusamningur eða vörusamningur fremur en þjónustusamningur.
-■ *25. gr.* _Undirverktakar_
+ ■ *25. gr.* _Undirverktakar_
  □ Í útboðsgögnum getur samningsyfirvald óskað eftir því, eða óskað eftir því að kröfu aðildarríkis, að bjóðandi tilgreini í tilboði sínu hvaða hluta samningsins hann hyggst láta þriðju aðila framkvæma sem undirverktaka og hverjir það eru.
     Þessar upplýsingar skulu ekki hafa áhrif á ábyrgð rekstraraðilans sem er aðalverktaki.
-■ *26. gr.* _Skilyrði sem tengjast framkvæmd samnings_
+ ■ *26. gr.* _Skilyrði sem tengjast framkvæmd samnings_
  □ Samningsyfirvöld geta mælt fyrir um sérstök skilyrði varðandi framkvæmd samnings, að því tilskildu að þau samrýmist lögum Bandalagsins og séu tilgreind í útboðstilkynningu eða útboðsskilmálum. Skilyrði um framkvæmd samnings geta einkum varðað félagsleg málefni og umhverfismál.
-■ *27. gr.* _Skyldur varðandi skatta, umhverfisvernd, vinnuvernd og vinnuskilyrði_
+ ■ *27. gr.* _Skyldur varðandi skatta, umhverfisvernd, vinnuvernd og vinnuskilyrði_
  □ 1. Samningsyfirvald getur tilgreint í útboðsgögnum, eða tilgreint að kröfu aðildarríkis, þá stofnun eða stofnanir sem þátttakandi eða bjóðandi getur fengið viðeigandi upplýsingar hjá um skyldur varðandi skatta, umhverfisvernd, ákvæði um vinnuvernd og vinnuskilyrði sem gilda í aðildarríkinu, á svæðinu eða á staðnum þar sem framkvæma á verkið eða veita þjónustuna og sem eiga að gilda um verk sem eru framkvæmd á byggingarstað eða um þjónustu sem er veitt meðan á framkvæmd samningsins stendur.
  □ 2. Samningsyfirvald, sem veitir upplýsingarnar sem um getur í 1. mgr., skal óska eftir því við bjóðendur eða þátttakendur í útboðsferli að þeir staðfesti að þeir hafi, í tilboði sínu, tekið tillit til skyldna varðandi ákvæði um vinnuvernd og vinnuskilyrði sem gilda á staðnum þar sem verkið verður framkvæmt eða þjónustan veitt.
     Fyrsta undirgreinin er með fyrirvara um beitingu ákvæða 55. gr. um rannsókn á óeðlilega lágum tilboðum.
 
  *V. kafli.* *Útboðsaðferðir*
-■ *28. gr.* _Almennt útboð, lokað útboð, samningskaup og samkeppnisviðræður_
+ ■ *28. gr.* _Almennt útboð, lokað útboð, samningskaup og samkeppnisviðræður_
  □ Þegar gera á opinbera samninga skulu samningsyfirvöld beita innlendum útboðsaðferðum sem eru lagaðar að efni þessarar tilskipunar.
     Þau skulu gera þessa samninga á grundvelli almennra eða lokaðra útboða. Við sérstakar aðstæður, sem skýrt er kveðið á um í 29. gr., geta samningsyfirvöld gert opinbera samninga á grundvelli samkeppnisviðræðna. Í þeim sérstöku tilvikum og við þær aðstæður sem sérstaklega er getið um í 30. og 31. gr. geta þau gengið til samningskaupa með eða án útboðstilkynningar.
-■ *29. gr.* _Samkeppnisviðræður_
+ ■ *29. gr.* _Samkeppnisviðræður_
  □ 1. Ef um er að ræða sérlega flókna samninga geta aðildarríkin kveðið á um að samningsyfirvöldum sé heimilt, ef þau telja að ekki sé hægt að gera samning á grundvelli almenns eða lokaðs útboðs, að gera hann á grundvelli samkeppnisviðræðna í samræmi við þessa grein.
     Opinber samningur skal gerður eingöngu á grundvelli valforsendu um fjárhagslega hagkvæmasta tilboðið.
  □ 2. Samningsyfirvöld skulu birta útboðstilkynningu þar sem fram koma þarfir þeirra og kröfur sem þau skulu skilgreina í tilkynningunni og/eða í skýringargögnum.
@@ -1015,7 +1027,7 @@ h2. Lög um opinber innkaup
  □ 7. Samningsyfirvöld skulu meta tilboð, sem þeim berast á grundvelli valforsendna, sem mælt er fyrir um í útboðstilkynningu eða skýringargögnum og skulu þau velja fjárhagslega hagkvæmasta tilboðið í samræmi við 53. gr.
     Samningsyfirvaldi er heimilt að óska eftir því að bjóðandi, sem hefur lagt fram fjárhagslega hagstæðasta tilboðið, skýri ákveðin atriði í tilboðinu eða staðfesti skuldbindingar sem felast í tilboðinu, að því tilskildu að það hafi ekki í för með sér breytingar á veigamiklum atriðum í tilboðinu eða boðinu um að leggja fram tilboð og að ekki sé hætta á að það raski samkeppni eða ýti undir mismunun.
  □ 8. Samningsyfirvöldum er heimilt að ákveða verðlaun eða greiðslur til þátttakenda í viðræðunum.
-■ *30. gr.* _Samningskaup að undangenginni birtingu útboðstilkynningar_
+ ■ *30. gr.* _Samningskaup að undangenginni birtingu útboðstilkynningar_
  □ 1. Samningsyfirvöld geta gert opinbera samninga á þann hátt að ganga til samningskaupa að undangenginni birtingu útboðstilkynningar í eftirfarandi tilvikum:
     a) þegar um er að ræða ófullnægjandi tilboð, sem lögð eru fram í tengslum við almenn eða lokuð útboð eða samkeppnisviðræður, eða tilboð sem eru óviðunandi samkvæmt innlendum ákvæðum, sem samrýmast 4., 24., 25., 27. gr. og VII. kafla, að því tilskildu að upphaflegum skilmálum samningsins sé ekki breytt í veigamiklum atriðum.
     Samningsyfirvöld þurfa ekki að birta útboðstilkynningu ef þau taka með í samningskaupum alla þá bjóðendur, og enga aðra, sem uppfylla forsendur 45. - 52. gr. og sem lögðu fram tilboð í samræmi við formlegar kröfur um tilboðsferli í undanfarandi almennu eða lokuðu útboði eða samkeppnisviðræðum,
@@ -1025,7 +1037,7 @@ h2. Lög um opinber innkaup
  □ 2. Í tilvikum, sem um getur í 1. mgr., skulu samningsyfirvöld ræða við bjóðendur um þau tilboð sem þeir hafa lagt fram með það fyrir augum að laga þau að kröfunum sem samningsyfirvöld hafa sett fram í útboðstilkynningu, útboðsskilmálum og viðbótargögnum, ef einhver eru, og leita besta tilboðsins í samræmi við 1. mgr. 53. gr.
  □ 3. Í viðræðunum skulu samningsyfirvöld tryggja að jafnræðis sé gætt meðal allra bjóðenda. Einkum skulu þau gæta þess að veita ekki upplýsingar á þann hátt að bjóðendum sé mismunað þannig að staða sumra þeirra verði betri en annarra.
  □ 4. Samningsyfirvöld geta ákveðið að samningsferlið fari fram í nokkrum áföngum til að fækka þeim tilboðum, sem fjalla þarf um í samningsviðræðum, með því að beita valforsendunum í útboðstilkynningu eða útboðsskilmálum. Taka skal fram í útboðstilkynningu eða útboðsskilmálum hvort unnt sé að nýta þennan kost.
-■ *31. gr.* _Samningskaup án undangenginnar birtingar útboðstilkynningar_
+ ■ *31. gr.* _Samningskaup án undangenginnar birtingar útboðstilkynningar_
  □ Samningsyfirvöld geta gert opinbera samninga með samningskaupum án undangenginnar birtingar útboðstilkynningar í eftirfarandi tilvikum:
     1) að því er varðar opinbera verksamninga, opinbera vörusamninga og opinbera þjónustusamninga:
     a) ef engin tilboð eða engin gild tilboð eða engar umsóknir hafa borist vegna almenns eða lokaðs útboðs, að því tilskildu að ekki hafi verið vikið frá upphaflegum samningsskilmálum í veigamiklum atriðum og að framkvæmdastjórninni sé send skýrsla, ef hún óskar eftir því,
@@ -1078,14 +1090,14 @@ h2. Lög um opinber innkaup
  □ 7. Virkt innkaupakerfi má ekki hafa lengri gildistíma en fjögur ár nema í vel rökstuddum undantekningartilvikum.
     Samningsyfirvöld mega ekki nota þetta kerfi til að koma í veg fyrir, takmarka eða raska samkeppni.
     Ekki má leggja nein gjöld á hlutaðeigandi rekstraraðila eða þá sem eiga aðild að kerfinu.
-■ *34. gr.* _Opinberir verksamningar: sérstakar reglur um byggingu félagslegs húsnæðis_
+ ■ *34. gr.* _Opinberir verksamningar: sérstakar reglur um byggingu félagslegs húsnæðis_
  □ Þegar um er að ræða opinbera samninga í tengslum við hönnun og byggingu félagslegs húsnæðis og nauðsynlegt er, vegna þess hve verkið er umfangsmikið, flókið og tekur langan tíma, að áætlanir séu frá upphafi byggðar á nánu samstarfi hóps, sem í eru fulltrúar samningsyfirvalda, sérfræðingar og verktakinn sem á að bera ábyrgð á framkvæmd verksins, er hægt að samþykkja sérstakt útboðsferli svo að unnt sé að velja þann verktaka sem er líklegastur til að falla inn í hópinn.
     Í útboðstilkynningunni skulu samningsyfirvöld einkum lýsa verkinu, sem á að framkvæma, eins nákvæmlega og unnt er til að áhugasamir verktakar geti gert sér rétta hugmynd um framkvæmdina. Enn fremur skulu samningsyfirvöld setja fram kröfur um persónulegt, tæknilegt, efnahagslegt og fjárhagslegt hæfi þátttakenda í útboðstilkynningu í samræmi við forsendur fyrir hæfismiðuðu vali sem um getur í 45. - 52. gr.
     Þegar slíkt ferli er samþykkt skulu samningsyfirvöld beita 2., 35., 36., 38., 39., 41., 42., 43. og 45. - 52. gr.
 
  *VI. kafli.* *Reglur um birtingu og gagnsæi*
  *1. þáttur. Birting tilkynninga*
-■ *35. gr.* _Tilkynningar_
+ ■ *35. gr.* _Tilkynningar_
  □ 1. Samningsyfirvöld skulu veita upplýsingar um eftirfarandi í kynningartilkynningu, sem framkvæmdastjórnin birtir eða samningsyfirvöld birta sjálf í „upplýsingaskrá kaupanda“, eins og lýst er í b-lið 2. liðar VIII. viðauka:
     a) varðandi vörur, áætlað heildarverðmæti samninganna eða rammasamninganna fyrir hvert vörusvið sem þau hyggjast gera samning um næstu 12 mánuði þar sem áætlað heildarverðmæti, að teknu tilliti til ákvæða 7. og 9. gr., er 750 000 evrur eða meira.
     Samningsyfirvöld ákvarða vörusvið með tilvísun til CPV-flokkunarkerfisins,
@@ -1104,7 +1116,7 @@ h2. Lög um opinber innkaup
     Samningsyfirvöld skulu senda tilkynningu um niðurstöður útboðs, sem grundvallast á virku innkaupakerfi, innan 48 daga frá því að niðurstöður liggja fyrir. Þau hafa þó heimild til að safna slíkum tilkynningum saman og senda þær ársfjórðungslega. Í því tilviki skulu þau senda samsafnaðar tilkynningar innan 48 daga frá lokum hvers ársfjórðungs.
     Þegar um er að ræða opinbera samninga um þjónustu, sem er tilgreind í II. viðauka B, skulu samningsyfirvöld tilgreina, í tilkynningunni, hvort þau samþykkja birtingu þeirra. Þegar um slíka þjónustusamninga er að ræða skal framkvæmdastjórnin setja reglur um vinnslu tölulegra skýrslna á grundvelli slíkra tilkynninga og um birtingu slíkra skýrslna í samræmi við málsmeðferðina sem mælt er fyrir um í 2. mgr. 77. gr.
     Heimilt er að halda eftir tilteknum upplýsingum um gerð samnings eða rammasamnings ef birting slíkra upplýsinga kynni að hindra framkvæmd laga eða ganga á annan hátt gegn almannahagsmunum eða gæti skaðað lögmæta viðskiptahagsmuni opinberra eða einkarekinna rekstraraðila eða réttmæta samkeppni þeirra á milli.
-■ *36. gr.* _Form og aðferð við birtingu tilkynninga_
+ ■ *36. gr.* _Form og aðferð við birtingu tilkynninga_
  □ 1. Í tilkynningum skulu koma fram upplýsingarnar, sem getið er um í VII. viðauka A, og, eftir því sem við á, hvers konar upplýsingar aðrar, sem samningsyfirvöld telja gagnlegar, á stöðluðu eyðublaði sem framkvæmdastjórnin hefur samþykkt í samræmi við málsmeðferðina sem um getur í 2. mgr. 77. gr.
  □ 2. Tilkynningar, sem samningsyfirvöld senda framkvæmdastjórninni, skulu sendar annaðhvort með rafrænum aðferðum, í samræmi við það snið og þær sendingaraðferðir sem eru tilgreindar í 3. lið VIII. viðauka, eða á annan hátt. Þegar um er að ræða hraðútboð, sem fjallað er um í 8. mgr. 38. gr., skal senda tilkynningar annaðhvort með símbréfi eða með rafrænum aðferðum í samræmi við það snið og þær sendingaraðferðir sem eru tilgreindar í 3. lið VIII. viðauka.
     Tilkynningar skulu birtar í samræmi við tæknilegar kröfur um birtingu sem settar eru fram í a- og b-lið 1. liðar VIII. viðauka.
@@ -1118,10 +1130,10 @@ h2. Lög um opinber innkaup
  □ 6. Tilkynningar, sem eru ekki sendar með rafrænum aðferðum, í samræmi við það snið og þær sendingaraðferðir sem eru tilgreindar í 3. lið VIII. viðauka, skulu ekki vera lengri en u.þ.b. 650 orð.
  □ 7. Samningsyfirvöld verða að geta sannað hvaða dag tilkynningar eru sendar.
  □ 8. Framkvæmdastjórnin skal gefa samningsyfirvöldum staðfestingu á því að upplýsingarnar, sem sendar voru, hafi verið birtar og tiltaka daginn sem þær birtust. Slík staðfesting skal vera sönnunargagn um birtingu.
-■ *37. gr.* _Birting án skyldu_
+ ■ *37. gr.* _Birting án skyldu_
  □ Samningsyfirvöld geta, í samræmi við 36. gr., birt tilkynningar um opinbera samninga sem falla ekki undir kröfur um birtingu sem mælt er fyrir um í þessari tilskipun.
  *2. þáttur. Frestur*
-■ *38. gr.* _Tilboðsfrestur og frestur til að leggja fram þátttökutilkynningu_
+ ■ *38. gr.* _Tilboðsfrestur og frestur til að leggja fram þátttökutilkynningu_
  □ 1. Þegar samningsyfirvöld setja tilboðsfrest og frest til að leggja fram þátttökutilkynningar skulu þau einkum taka tillit til þess hve flókið efni samningsins er og hve langan tíma þarf til að semja tilboð, sbr. þó lágmarksfrest sem kveðið er á um í þessari grein.
  □ 2. Þegar um er að ræða almenn útboð skal tilboðsfrestur vera að lágmarki 52 dagar frá sendingardegi útboðstilkynningar.
  □ 3. Þegar um er að ræða lokuð útboð, samningskaup, að undangenginni birtingu útboðstilkynningar sem um getur í 30. gr., og samkeppnisviðræður:
@@ -1141,7 +1153,7 @@ h2. Lög um opinber innkaup
  □ 1. Í almennum útboðum, þar sem samningsyfirvöld veita ekki ótakmarkaðan, beinan og fullan, rafrænan aðgang, í samræmi við 6. mgr. 38. gr., að útboðsskilmálum og fylgiskjölum, skal senda útboðsskilmála og fylgiskjöl til rekstraraðila innan sex daga frá því að þátttökutilkynning berst, að því tilskildu að tilkynningin hafi verið lögð fram hæfilega löngu fyrir síðasta skiladag tilboða.
  □ 2. Samningsyfirvöld eða þar til bærar stofnanir skulu láta í té viðbótarupplýsingar sem tengjast útboðsskilmálum og öll fylgiskjöl eigi síðar en sex dögum fyrir síðasta skiladag tilboða, að því tilskildu að beðið hafi verið um þessar upplýsingar með góðum fyrirvara.
  *3. þáttur. Efni upplýsinga og sendingaraðferðir*
-■ *40. gr.* _Boð um að leggja fram tilboð, taka þátt í viðræðum eða gera samning_
+ ■ *40. gr.* _Boð um að leggja fram tilboð, taka þátt í viðræðum eða gera samning_
  □ 1. Í lokuðum útboðum, samkeppnisviðræðum og samningskaupum, að undangenginni birtingu útboðstilkynningar í skilningi 30. gr., skulu samningsyfirvöld bjóða völdum þátttakendum, samtímis og skriflega, að leggja fram tilboð sín eða ganga til samninga eða, þegar um er að ræða samkeppnisviðræður, að taka þátt í viðræðunum.
  □ 2. Boð til þátttakenda skal hafa að geyma annaðhvort:
      --  afrit af útboðsskilmálum eða skýringargögnum ásamt öllum fylgiskjölum eða
@@ -1164,7 +1176,7 @@ h2. Lög um opinber innkaup
     Þetta má undir engum kringumstæðum taka lengri tíma en 15 daga frá móttöku skriflegrar beiðni.
  □ 3. Samningsyfirvöld geta þó ákveðið að halda eftir tilteknum upplýsingum, sem um getur í 1. gr., um gerð samnings eða rammasamnings eða aðgang að virku innkaupakerfi ef birting slíkra upplýsinga kynni að hindra framkvæmd laga eða ganga á annan hátt gegn almannahagsmunum eða gæti skaðað lögmæta viðskiptahagsmuni opinberra eða einkarekinna rekstraraðila eða réttmæta samkeppni á milli þeirra.
  *4. þáttur. Samskipti*
-■ *42. gr.* _Reglur um samskipti_
+ ■ *42. gr.* _Reglur um samskipti_
  □ 1. Öll samskipti og upplýsingaskipti, sem um getur í þessum bálki, mega fara fram með pósti, símbréfum, rafrænum aðferðum skv. 4. og 5. mgr., símleiðis, í þeim tilvikum og við þær aðstæður sem um getur í 6. mgr., eða með samsetningu þessara miðla að vali samningsyfirvalds.
  □ 2. Samskiptamiðlarnir, sem valdir eru, skulu vera almennt aðgengilegir og skulu ekki hindra aðgang rekstraraðila að útboðsferlinu.
  □ 3. Samskipti og miðlun og geymsla upplýsinga skal vera með þeim hætti að heilleiki gagna og leynd tilboða og þátttökutilkynninga sé varðveitt og að samningsyfirvöld kanni ekki efni tilboða og þátttökutilkynninga fyrr en fresturinn til að leggja þau fram er runninn út.
@@ -1204,7 +1216,7 @@ h2. Lög um opinber innkaup
     Samningsyfirvöld skulu bjóða a.m.k. jafnmörgum aðilum þátttöku í útboði og sá lágmarksfjöldi er sem áður var tiltekinn. Ef þátttakendur, sem standast valforsendur og lágmarkskröfur um getu, eru færri en tiltekinn lágmarksfjöldi þátttakenda geta samningsyfirvöld haldið útboðsferli áfram á þann hátt að gefa þeim þátttakanda eða þátttakendum, sem uppfylla kröfur, kost á að leggja fram tilboð. Samningsyfirvöldum er óheimilt að gefa fyrirtækjum, sem óskuðu ekki eftir þátttöku í útboðsferli eða uppfylla ekki kröfur um getu, kost á að leggja fram tilboð í því sama útboðsferli.
  □ 4. Ef samningsyfirvöld nýta sér heimild til að fækka þeim lausnum sem ræða þarf, eða tilboðum sem samið er um, eins og kveðið er á um í 4. mgr. 29. gr. og 4. mgr. 30. gr., skulu þau gera það með því að beita valforsendum sem koma fram í útboðstilkynningu, útboðsskilmálum eða skýringargögnum. Á lokastigi ferlisins skal fjöldi þátttakenda vera nægilega mikill til að tryggja raunverulega samkeppni að svo miklu leyti sem um er að ræða nægilegan fjölda tilboða eða hæfra þátttakenda.
  *2. þáttur. Forsendur fyrir hæfismiðuðu vali*
-■ *45. gr.* _Persónulegar aðstæður þátttakanda eða bjóðanda_
+ ■ *45. gr.* _Persónulegar aðstæður þátttakanda eða bjóðanda_
  □ 1. Þátttakandi eða bjóðandi, sem hefur verið sakfelldur með endanlegum dómi sem samningsyfirvaldi er kunnugt um, af einni eða fleiri af þeim ástæðum sem fram koma hér á eftir, skal útilokaður frá því að gerður sé við hann opinber samningur:
     a) þátttöku í glæpasamtökum eins og skilgreint er í 1. mgr. 2. gr. sameiginlegrar aðgerðar ráðsins 98/733/DIM ([^20^]),
     b) spillingu eins og skilgreint er í 3. gr. gerðar ráðsins frá 26. maí 1997 ([^21^]) annars vegar og 1. mgr. 3. gr. sameiginlegrar gerðar ráðsins 98/742/DIM ([^22^]) hins vegar,
@@ -1226,10 +1238,10 @@ h2. Lög um opinber innkaup
     b) að því er varðar e- og f-lið 2. mgr., vottorð sem þar til bært yfirvald í viðkomandi aðildarríki gefur út.
     Ef slík skjöl eða vottorð eru ekki gefin út í viðkomandi ríki, eða ef þau ná ekki yfir öll þau tilvik sem tilgreind eru í 1. mgr. og a-, b- og c-lið 2. mgr. getur eiðsvarin yfirlýsing viðkomandi aðila komið í stað þeirra eða, í þeim aðildarríkjum þar sem ekki er kveðið á um slíka eiðsvarna yfirlýsingu, drengskaparheit sem viðkomandi gefur í viðurvist þar til bærs dóms- eða stjórnvalds eða, þar sem við á, lögbókanda eða hjá þar til bærri fag- eða viðskiptastofnun í heimalandi eða síðasta dvalarlandi þess aðila.
  □ 4. Aðildarríkin skulu tilnefna þar til bær yfirvöld og stofnanir til að gefa út skjölin, vottorðin og yfirlýsingarnar, sem um getur í 3. mgr., og tilkynna framkvæmdastjórninni um það. Slíkar tilkynningar eru með fyrirvara um lög um gagnavernd.
-■ *46. gr.* _Starfsréttindi_
+ ■ *46. gr.* _Starfsréttindi_
  □ Heimilt er að krefjast þess að hver rekstraraðili, sem hyggst taka þátt í opinberu útboði, sýni fram á að hann sé skráður í firmaskrá eða verslunarskrá, eins og mælt er fyrir um í aðildarríkinu þar sem það hefur staðfestu, eða gefi eiðsvarna yfirlýsingu eða vottorð eins og lýst er í IX. viðauka A varðandi opinbera verksamninga, í IX. viðauka B varðandi opinbera vörusamninga og í IX. viðauka C varðandi opinbera þjónustusamninga.
     Þegar um er að ræða opinberra þjónustusamninga, og þátttakendur og bjóðendur þurfa að hafa sérstaka heimild eða vera félagar í tilteknum samtökum til að mega veita viðkomandi þjónustu í heimalandi sínu, getur samningsyfirvaldið krafist þess að þeir sýni fram á að þeir hafi slíka heimild eða séu félagar í slíkum samtökum.
-■ *47. gr.* _Efnahagsleg og fjárhagsleg staða_
+ ■ *47. gr.* _Efnahagsleg og fjárhagsleg staða_
  □ 1. Að jafnaði skal vera hægt að færa sönnur á efnahagslega og fjárhagslega stöðu rekstraraðila með einni eða fleiri eftirfarandi aðferðum:
     a) með viðeigandi yfirlýsingu frá bönkum eða, þar sem við á, sönnunargögnum um viðeigandi starfsábyrgðartryggingu,
     b) með því að framvísa efnahagsreikningi eða útdrætti úr honum ef krafist er birtingar efnahagsreiknings samkvæmt landslögum í landinu þar sem rekstraraðilinn hefur staðfestu,
@@ -1238,7 +1250,7 @@ h2. Lög um opinber innkaup
  □ 3. Með sömu skilyrðum getur hópur rekstraraðila, sem um getur í 4. gr., byggt á getu þátttakenda í hópnum eða annarra aðila.
  □ 4. Samningsyfirvöld skulu tilgreina, í útboðstilkynningu eða boði um að leggja fram tilboð, hvaða gögn skv. 1. mgr. þau gera kröfu um og hvaða annarra gagna kunni að verða krafist.
  □ 5. Ef rekstraraðili getur ekki, af einhverri gildri ástæðu, lagt fram þau gögn sem samningsyfirvöld krefjast getur hann sýnt fram á efnahagslega og fjárhagslega stöðu sína með öðrum gögnum sem samningsyfirvaldið telur fullnægjandi.
-■ *48. gr.* _Tæknileg og fagleg geta_
+ ■ *48. gr.* _Tæknileg og fagleg geta_
  □ 1. Tæknileg og fagleg geta fyrirtækja skal metin og prófuð í samræmi við 2. og 3. mgr.
  □ 2. Rekstraraðili getur sannað tæknilega getu sína með einni eða fleiri af eftirfarandi aðferðum, allt eftir eðli, magni, mikilvægi eða fyrirhugaðri notkun verksins, vörunnar eða þjónustunnar:
     a) i) með skrá yfir þau verk sem unnin hafa verið á undanförnum fimm árum ásamt vottorðum um fullnægjandi efndir mikilvægustu verksamninganna. Í þessum vottorðum skal koma fram verðmæti, dagsetning og staðsetning verka ásamt upplýsingum um hvort þau hafi verið unnin í samræmi við faglegar reglur og lokið með fullnægjandi hætti. Þar sem við á skal þar til bært yfirvald afhenda samningsyfirvaldi þessi vottorð milliliðalaust,
@@ -1260,13 +1272,13 @@ h2. Lög um opinber innkaup
  □ 4. Með sömu skilyrðum getur hópur rekstraraðila byggt á getu þátttakenda í hópnum eða annarra aðila eins og um getur í 4. gr.
  □ 5. Þegar um er að ræða opinbera vörusamninga sem fela í sér ísetningu eða uppsetningu, þjónustu og/eða framkvæmd verks er heimilt að meta getu rekstraraðila, til að veita þjónustuna eða annast uppsetninguna eða verkið, einkum með hliðsjón af færni þeirra, skilvirkni, reynslu og áreiðanleika.
  □ 6. Samningsyfirvöld skulu tiltaka, í útboðstilkynningu eða boði um að leggja fram tilboð, hvaða gögn skv. 2. mgr. þau óska að lögð verði fram.
-■ *49. gr.* _Gæðastaðlar_
+ ■ *49. gr.* _Gæðastaðlar_
  □ Ef samningsyfirvöld krefjast þess að lögð séu fram vottorð frá óháðum aðila, sem staðfestir að rekstraraðilinn uppfylli tiltekna gæðastaðla, skulu þau vísa til gæðakerfa sem grundvallast á viðeigandi kerfi Evrópustaðla sem hefur fengið vottun stofnunar sem stenst kröfur um vottun samkvæmt Evrópustaðlakerfinu. Samningsyfirvöld skulu viðurkenna jafngild vottorð frá stofnunum sem hafa staðfestu í öðrum aðildarríkjum. Þau skulu einnig samþykkja önnur sönnunargögn frá rekstraraðilum um sambærilegar ráðstafanir til að tryggja gæði.
-■ *50. gr.* _Umhverfisstjórnunarstaðlar_
+ ■ *50. gr.* _Umhverfisstjórnunarstaðlar_
  □ Ef samningsyfirvöld krefjast þess, í tilvikum sem um getur í f-lið 2. mgr. 48. gr., að lögð séu fram vottorð frá óháðum aðila, sem staðfestir að rekstraraðilinn uppfylli tiltekna umhverfisstjórnunarstaðla, skulu þau vísa til umhverfisstjórnunarkerfis Bandalagsins (EMAS) eða til umhverfisstjórnunarstaðla sem grundvallast á viðeigandi evrópskum eða alþjóðlegum stöðlum sem eru vottaðir af stofnunum sem starfa í samræmi við lög Bandalagsins eða viðeigandi evrópska eða alþjóðlega vottunarstaðla. Þau skulu viðurkenna jafngild vottorð frá stofnunum sem hafa staðfestu í öðrum aðildarríkjum. Samningsyfirvöld skulu einnig samþykkja önnur sönnunargögn um sambærilegar ráðstafanir varðandi umhverfisstjórnun, sem rekstraraðilar leggja fram.
-■ *51. gr.* _Viðbótargögn og upplýsingar_
+ ■ *51. gr.* _Viðbótargögn og upplýsingar_
  □ Samningsyfirvald getur krafist þess að rekstraraðilinn bæti við eða skýri vottorð og skjöl sem eru lögð fram samkvæmt 45. - 50. gr.
-■ *52. gr.* _Opinber skrá yfir samþykkta rekstraraðila og vottun frá opinberum og einkaréttarlegum stofnunum_
+ ■ *52. gr.* _Opinber skrá yfir samþykkta rekstraraðila og vottun frá opinberum og einkaréttarlegum stofnunum_
  □ 1. Aðildarríkin geta innleitt annaðhvort opinberar skrár yfir samþykkta verktaka, birgja eða þjónustuveitendur eða vottun frá opinberum eða einkaréttarlegum vottunaraðilum.
     Aðildarríkin skulu laga skilyrðin fyrir skráningu í þessar skrár, ásamt skilyrðum fyrir útgáfu vottorða frá vottunaraðilum, að ákvæðum 45. gr. (1. mgr.), 45. gr. (a - d-liðar og g-liðar 2. mgr.), 46. gr., 47. gr. (1., 4. og 5. mgr.), 48. gr. (1., 2., 5. og 6. mgr.), 49. gr. og, ef við á, 50. gr.
     Aðildarríkin skulu einnig laga þau að 47. gr. (2. mgr.) og 48. gr. (3. mgr.) þegar um er að ræða skráningarumsóknir frá rekstraraðilum sem eru hluti af hópi og sem sýna fram á að þeir ráði yfir tilföngum sem hin fyrirtækin í hópnum hafa fengið þeim til ráðstöfunar. Í þeim tilvikum skulu þessir rekstraraðilar sanna fyrir yfirvaldinu, sem innleiðir opinberu skrána, að þeir ráði yfir þessum tilföngum út allan gildistíma vottorðs sem staðfestir að þeir séu skráðir í opinberu skrána og að allt það tímabil muni þessi fyrirtæki uppfylla áfram kröfur um hæfismiðað val sem mælt er fyrir um í greinunum, sem um getur í annarri undirgrein, sem rekstraraðilar bera fyrir sig í tengslum við skráningu sína.
@@ -1280,14 +1292,14 @@ h2. Lög um opinber innkaup
  □ 7. Vottunaraðilarnir, sem um getur í 1. mgr., skulu fara að evrópskum vottunarstöðlum.
  □ 8. Aðildarríkjum, sem halda opinberar skrár, og vottunaraðilum, sem um getur í 1. mgr., ber skylda til að upplýsa framkvæmdastjórnina og hin aðildarríkin um heimilisfang stofnunarinnar sem senda á umsóknir til.
  *3. þáttur. Val tilboðs*
-■ *53. gr.* _Forsendur fyrir vali tilboðs._
+ ■ *53. gr.* _Forsendur fyrir vali tilboðs._
  □ 1. Með fyrirvara um innlend lög og stjórnsýslufyrirmæli er varða þóknun fyrir tiltekna þjónustu skulu forsendur, sem samningsyfirvöld byggja á við val þess aðila sem opinber samningur er gerður við, vera annaðhvort:
     a) þegar fjárhagslega hagkvæmasta tilboðið er valið að mati samningsyfirvaldsins, ýmsar forsendur sem tengjast efni viðkomandi opinbers samnings, t.d. gæði, verð, tæknileg atriði, útlit og notagildi, umhverfiseiginleikar, rekstrarkostnaður, kostnaðarhagkvæmni, þjónusta eftir verklok og tæknileg aðstoð, afhendingardagur og afhendingartími eða frestur til að ljúka verki, eða
     b) lægsta verð eingöngu.
  □ 2. Samningsyfirvöld skulu tilgreina í útboðstilkynningu eða útboðsgögnum, í tilvikum sem um getur í a-lið 1. mgr., eða, þegar um er að ræða samkeppnisviðræður, í skýringargögnum, hvert mat þeirra er á hlutfallslegu vægi hverrar forsendu sem valin er til að ákvarða fjárhagslega hagstæðasta tilboðið, sbr. þó ákvæði þriðju undirgreinar.
     Þetta vægi má setja fram sem ákveðið bil með hæfilegum hámarksvikmörkum.
     Ef samningsyfirvald telur að ekki sé unnt að styðjast við vægi vegna skorts á sönnunum skal yfirvaldið tilgreina forsendurnar í forgangsröð eftir mikilvægi þeirra í útboðstilkynningu eða útboðsgögnum eða, þegar um er að ræða samkeppnisviðræður, í skýringargögnum.
-■ *54. gr.* _Rafræn uppboð_
+ ■ *54. gr.* _Rafræn uppboð_
  □ 1. Aðildarríkin geta kveðið á um að samningsyfirvöldum sé heimilt að nota rafræn uppboð.
  □ 2. Þegar um er að ræða almenn eða lokuð útboð eða samningskaup skv. a-lið 1. mgr. 30. gr. geta samningsyfirvöld ákveðið að opinber samningur skuli gerður að undangengnu rafrænu uppboði þegar unnt er að ákvarða útboðsskilmála af nákvæmni.
     Við sömu aðstæður er heimilt að halda rafrænt uppboð þegar aðilar að rammasamningi fá nýtt boð um að leggja fram tilboð eins og kveðið er á um í öðrum undirlið annarrar undirgreinar 4. mgr. 32. gr., og í útboðum þar sem gera á samning samkvæmt virka innkaupakerfinu sem um getur í 33. gr.
@@ -1315,7 +1327,7 @@ h2. Lög um opinber innkaup
     Ef samningsyfirvöld hafa ákveðið að loka rafrænu uppboði í samræmi við c-lið, og hugsanlega einnig samkvæmt þeirri aðferð sem mælt er fyrir um í b-lið, skal tímaáætlun fyrir hvern áfanga uppboðsins koma fram í boði um að taka þátt í uppboðinu.
  □ 8. Þegar rafrænu uppboði hefur verið lokað skulu samningsyfirvöld gera samning í samræmi við 53. gr. á grundvelli niðurstaðna úr rafræna uppboðinu.
     Samningsyfirvöld mega ekki nota rafrænt uppboð á ótilhlýðilegan hátt og ekki heldur á þann hátt að það komi í veg fyrir, takmarki eða raski samkeppni eða breyti efni samningsins eins og það var sett fram í birtri útboðstilkynningu og skilgreint í útboðsskilmálum.
-■ *55. gr.* _Óeðlilega lág tilboð_
+ ■ *55. gr.* _Óeðlilega lág tilboð_
  □ 1. Ef tilboð vegna tiltekins samnings virðast óeðlilega lág miðað við vöru, verk eða þjónustu skal samningsyfirvald, áður en það getur vísað þessum tilboðum frá, óska eftir nákvæmri, skriflegri lýsingu á þeim efnisþáttum tilboðsins sem það telur skipta máli.
     Þessar upplýsingar geta einkum varðað:
     a) hagkvæmni byggingaraðferðar, framleiðsluferlis eða þjónustu,
@@ -1328,10 +1340,10 @@ h2. Lög um opinber innkaup
 
  *III. bálkur.* *Reglur um opinbera sérleyfissamninga um verk*
  *I. kafli.* *Gildandi reglur um opinbera sérleyfissamninga um verk*
-■ *56. gr.* _Gildissvið_
+ ■ *56. gr.* _Gildissvið_
  □ Þessi kafli gildir um alla opinbera sérleyfissamninga um verk sem samningsyfirvöld gera þar sem verðmæti samningsins er 6 242 000 evrur eða meira.
     Verðmætið skal reiknað í samræmi við gildandi reglur um opinbera verksamninga sem skilgreindir eru í 9. gr.
-■ *57. gr.* _Samningar sem eru undanþegnir gildissviði tilskipunarinnar_
+ ■ *57. gr.* _Samningar sem eru undanþegnir gildissviði tilskipunarinnar_
  □ Þessi bálkur gildir ekki um opinbera sérleyfissamninga um verk:
     a) sem eru gerðir í tilvikum sem um getur í 13., 14. og 15. gr. þessarar tilskipunar varðandi opinbera verksamninga,
     b) sem eru gerðir af samningsyfirvöldum sem stunda eina eða fleiri tegundir þeirrar starfsemi, sem um getur í 3. - 7. gr. tilskipunar 2004/17/EB, þegar þessi sérleyfi eru veitt til að stunda þá starfsemi.
@@ -1341,10 +1353,10 @@ h2. Lög um opinber innkaup
  □ 2. Í tilkynningum um opinbera sérleyfissamninga um verk skulu koma fram upplýsingarnar, sem um getur í VII. viðauka C, og, eftir því sem við á, hvers konar upplýsingar aðrar, sem samningsyfirvöld telja gagnlegar, í samræmi við stöðluð eyðublöð sem framkvæmdastjórnin hefur samþykkt samkvæmt málsmeðferð sem um getur í 2. mgr. 77. gr.
  □ 3. Tilkynningar skulu birtar í samræmi við 2. - 8. mgr. 36. gr.
  □ 4. Ákvæði 37. gr. um birtingu tilkynninga gilda einnig um opinbera sérleyfissamninga um verk.
-■ *59. gr.* _Frestur_
+ ■ *59. gr.* _Frestur_
  □ Þegar samningyfirvöld hyggjast gera opinbera sérleyfissamninga um verk skal skilafrestur umsókna um sérleyfi ekki vera styttri en 52 dagar, reiknað frá sendingardegi tilkynningarinnar, að undanteknum þeim tilvikum sem fjallað er um í 5. mgr. 38. gr.
     Beita skal ákvæði 7. mgr. 38. gr.
-■ *60. gr.* _Undirverktakar_
+ ■ *60. gr.* _Undirverktakar_
  □ Samningsyfirvaldið getur annaðhvort:
     a) krafist þess að sérleyfishafi geri samninga við þriðja aðila, sem samsvara minnst 30% af heildarverðmæti verksins sem væntanlegur sérleyfissamningur tekur til, og gefa um leið umsækjendum færi á að hækka það hlutfall; þetta lágmarkshlutfall skal tilgreina í sérleyfissamningnum,
     b) eða farið fram á að umsækjendur um sérleyfissamninga tilgreini, í tilboði sínu, þann hundraðshluta heildarverðmætis verks þess sem gera á sérleyfissamning um og sem þeir hyggjast fela þriðja aðila.
@@ -1359,7 +1371,7 @@ h2. Lög um opinber innkaup
  □ Ef sérleyfishafi er samningsyfirvald, eins og um getur í 9. mgr. 1. gr., skal hann fara að ákvæðum um opinbera verksamninga, sem mælt er fyrir um í þessari tilskipun, þegar um er að ræða verk sem þriðju aðilar framkvæma.
 
  *III. kafli.* *Reglur um samninga, gerða af sérleyfishafa sem er ekki samningsyfirvald*
-■ *63. gr.* _Reglur um birtingu: viðmiðunarfjárhæðir og undantekningar_
+ ■ *63. gr.* _Reglur um birtingu: viðmiðunarfjárhæðir og undantekningar_
  □ 1. Aðildarríkin skulu gera nauðsynlegar ráðstafanir til að tryggja að opinberir sérleyfishafar, sem eru ekki samningsyfirvöld, beiti þeim reglum um birtingu sem skilgreindar eru í 64. gr. þegar þeir gera verksamninga við þriðju aðila ef verðmæti slíkra samninga er 6 242 000 evrur eða meira.
     Birting er þó ekki nauðsynleg þegar samningur um opinberar framkvæmdir fullnægir þeim skilyrðum sem tilgreind eru í 31. gr. þessa samnings.
     Verðmæti samninga skal reiknað í samræmi við gildandi reglur um opinbera verksamninga sem mælt er fyrir um í 9. gr.
@@ -1374,12 +1386,12 @@ h2. Lög um opinber innkaup
  □ 2. Í tilkynningum skulu koma fram upplýsingarnar, sem um getur í VII. viðauka C, og, eftir því sem við á, hvers konar aðrar upplýsingar, sem sérleyfishafar verksamnings telja gagnlegar, í samræmi við stöðluð eyðublöð sem framkvæmdastjórnin hefur samþykkt samkvæmt málsmeðferð sem um getur í 2. mgr. 77. gr.
  □ 3. Tilkynningin skal birt í samræmi við 2. - 8. mgr. 36. gr.
  □ 4. Einnig skal beita ákvæðum 37. gr. um valfrjálsa birtingu tilkynninga.
-■ *65. gr.* _Tilboðsfrestur og frestur til að leggja fram þátttökutilkynningu_
+ ■ *65. gr.* _Tilboðsfrestur og frestur til að leggja fram þátttökutilkynningu_
  □ Í verksamningum, gerðum af sérleyfishöfum sem eru ekki samningsyfirvöld, skal frestur til að leggja fram þátttökutilkynningu, sem sérleyfishafi ákveður, ekki vera skemmri en 37 dagar frá sendingardegi útboðstilkynningar og tilboðsfrestur ekki skemmri en 40 dagar frá sendingardegi útboðstilkynningar eða boðs um að leggja fram tilboð.
     Beita skal ákvæðum 5., 6. og 7. mgr. 38. gr.
 
  *IV. bálkur.* *Reglur um hönnunarsamkeppni*
-■ *66. gr.* _Almenn ákvæði_
+ ■ *66. gr.* _Almenn ákvæði_
  □ 1. Reglur um tilhögun hönnunarsamkeppni skulu vera í samræmi við 66. - 74. gr. og skulu sendar þeim sem hafa áhuga á því að taka þátt í keppninni.
  □ 2. Aðgangur að hönnunarsamkeppni má ekki takmarkast við:
     a) yfirráðasvæði eða hluta af yfirráðasvæði aðildarríkis,
@@ -1404,10 +1416,10 @@ h2. Lög um opinber innkaup
  □ 2. Samningsyfirvöld, sem hafa haldið hönnunarsamkeppni, skulu senda tilkynningu um úrslit samkeppninnar í samræmi við 36. gr. og þau skulu geta fært sönnur á sendingardaginn.
     Ef afhending upplýsinga um niðurstöður hönnunarsamkeppni kynni að hindra framkvæmd laga, ganga gegn almannahagsmunum eða gæti skaðað lögmæta viðskiptahagsmuni tiltekinna, opinberra eða einkarekinna fyrirtækja eða réttmæta samkeppni milli þjónustuveitenda er ekki skylt að birta slíkar upplýsingar.
  □ 3. Ákvæði 37. gr. um birtingu tilkynninga gilda einnig um samkeppni.
-■ *70. gr.* _Form og aðferð við birtingu tilkynninga um samkeppni_
+ ■ *70. gr.* _Form og aðferð við birtingu tilkynninga um samkeppni_
  □ 1. Í tilkynningum, sem um getur í 69. gr., skulu koma fram upplýsingarnar, sem um getur í VII. viðauka D, í samræmi við staðlað eyðublað tilkynninga sem framkvæmdastjórnin hefur samþykkt í samræmi við málsmeðferð skv. 2. mgr. 77. gr.
  □ 2. Tilkynningarnar skulu birtar í samræmi við 2. - 8. mgr. 36. gr.
-■ *71. gr.* _Samskiptaaðferðir_
+ ■ *71. gr.* _Samskiptaaðferðir_
  □ 1. Ákvæði 1., 2. og 4. mgr. 42. gr. gilda um öll samskipti sem tengjast hönnunarsamkeppni.
  □ 2. Samskipti, upplýsingaskipti og geymsla upplýsinga skulu vera með þeim hætti að tryggður sé heilleiki og leynd allra upplýsinga, sem þátttakendur í samkeppni láta í té, og að dómnefnd athugi ekki efni áætlana og tillagna fyrr en eftir að frestur til að leggja þær fram er útrunninn.
  □ 3. Eftirfarandi reglur gilda um búnað til rafrænnar móttöku áætlana og tillagna:
@@ -1415,9 +1427,9 @@ h2. Lög um opinber innkaup
     b) aðildarríkin geta innleitt valfrjáls faggildingarkerfi eða viðhaldið þeim með það fyrir augum að bæta vottunarþjónustu fyrir þessi tæki,
 ■ *72. gr.* _Val samkeppnisaðila_
  □ Ef hönnunarsamkeppni er bundin við takmarkaðan fjölda þátttakenda skulu samningsyfirvöld mæla fyrir um skýrar valforsendur án mismununar. Þátttakendur skulu ætíð vera nægilega margir til að tryggja raunverulega samkeppni.
-■ *73. gr.* _Samsetning dómnefndar_
+ ■ *73. gr.* _Samsetning dómnefndar_
  □ Dómnefnd skal aðeins skipuð einstaklingum sem eru óháðir þátttakendum í samkeppninni. Ef tiltekinnar, faglegrar menntunar og hæfis er krafist af þátttakendum í samkeppni skal a.m.k. einn þriðji hluti dómnefndarmanna hafa þá sömu eða sambærilega menntun og hæfi.
-■ *74. gr.* _Ákvarðanir dómnefndar_
+ ■ *74. gr.* _Ákvarðanir dómnefndar_
  □ 1. Dómnefndin skal vera sjálfstæð í ákvörðunum og áliti sínu.
  □ 2. Hún skal rannsaka áætlanir og tillögur, sem þátttakendur leggja fram, undir nafnleynd og eingöngu á grundvelli forsendna sem eru tilgreindar í tilkynningu um samkeppni.
  □ 3. Dómnefndin skal skrá flokkun sína á tillögum eftir kostum þeirra í skýrslu, sem nefndarmenn undirrita, ásamt athugasemdum nefndarinnar og þeim atriðum sem kunna að þarfnast skýringar.
@@ -1426,9 +1438,9 @@ h2. Lög um opinber innkaup
  □ 6. Rita skal ítarlega fundargerð af viðræðum dómnefndarmanna og þátttakenda.
 
  *V. bálkur.* *Skyldan að veita tölulegar upplýsingar, framkvæmdarvald og lokaákvæði*
-■ *75. gr.* _Skyldan að veita tölulegar upplýsingar_
+ ■ *75. gr.* _Skyldan að veita tölulegar upplýsingar_
  □ Til að unnt sé að meta árangurinn af beitingu þessarar tilskipunar skulu aðildarríkin, eigi síðar en 31. október ár hvert, senda framkvæmdastjórninni tölulega skýrslu sem, í samræmi við 76. gr., er samin sérstaklega fyrir hverja tegund samnings, opinbera vörusamninga, þjónustusamninga og verksamninga sem samningsyfirvöld hafa gert árið áður.
-■ *76. gr.* _Efni tölulegra skýrslna_
+ ■ *76. gr.* _Efni tölulegra skýrslna_
  □ 1. Í tölulegri skýrslu skulu a.m.k. koma fram eftirfarandi upplýsingar varðandi hvert og eitt samningsyfirvald sem tilgreint er í IV. viðauka:
     a) fjöldi og verðmæti samninga sem eru gerðir og falla undir þessa tilskipun,
     b) fjöldi og heildarverðmæti samninga sem eru gerðir á grundvelli undanþágu frá samningi Alþjóðaviðskiptastofnunarinnar.
@@ -1442,11 +1454,11 @@ h2. Lög um opinber innkaup
     b) heildarverðmæti samninga sem eru gerðir á grundvelli undanþágu frá samningi Alþjóðaviðskiptastofnunarinnar.
  □ 3. Í tölulegri skýrslu skulu koma fram allar aðrar tölulegar upplýsingar sem krafist er samkvæmt samningi Alþjóðaviðskiptastofnunarinnar.
     Upplýsingarnar, sem um getur í fyrstu undirgrein, skulu ákvarðaðar í samræmi við ákvæði 2. mgr. 77. gr.
-■ *77. gr.* _Ráðgjafarnefnd_
+ ■ *77. gr.* _Ráðgjafarnefnd_
  □ 1. Framkvæmdastjórnin skal njóta aðstoðar ráðgjafarnefndarinnar um opinbera samninga sem stofnuð var með 1. gr. ákvörðunar 71/306/EBE ([^25^]) (hér á eftir kölluð „nefndin“).
  □ 2. Þegar vísað er til þessarar málsgreinar gilda ákvæði 3. og 7. gr. ákvörðunar 1999/468/EB í samræmi við ákvæði 8. gr. hennar.
  □ 3. Nefndin setur sér starfsreglur.
-■ *78. gr.* _Endurskoðun viðmiðunarfjárhæða_
+ ■ *78. gr.* _Endurskoðun viðmiðunarfjárhæða_
  □ 1. Framkvæmdastjórnin skal sannreyna viðmiðunarfjárhæðirnar, sem ákveðnar eru í 7. gr., annað hvert ár eftir gildistöku þessarar tilskipunar og skal, ef þörf krefur, endurskoða þær í samræmi við ákvæði 2. mgr. 77. gr.
     Útreikningur á þessum viðmiðunarfjárhæðum skal byggjast á meðaldaggengi evrunnar, tilgreint sem sérstök dráttarréttindi (SDR), á 24 mánaða tímabili sem lýkur á síðasta degi ágústmánaðarins næst á undan endurskoðuninni sem tekur gildi 1. janúar. Viðmiðunarfjárhæðir, sem eru endurskoðaðar þannig, skulu, ef þörf krefur, jafnaðar niður að næsta þúsundi evra til að tryggja að tekið sé tillit til gildandi viðmiðunarfjárhæða samkvæmt samningi Alþjóðaviðskiptastofnunarinnar, sem eru tilgreindar sem sérstök dráttarréttindi.
  □ 2. Samtímis endurskoðuninni skv. 1. mgr. skal framkvæmdastjórnin, í samræmi við ákvæði 2. mgr. 77. gr., aðlaga:
@@ -1455,7 +1467,7 @@ h2. Lög um opinber innkaup
     c) viðmiðunarfjárhæðirnar, sem ákveðnar eru í b- og c-lið 1. mgr. 67. gr., að endurskoðuðum viðmiðunarfjárhæðum fyrir opinbera þjónustusamninga sem eru gerðir af samningsyfirvöldum sem eru ekki talin með í IV. viðauka.
  □ 3. Viðmiðunarfjárhæðirnar, sem eru ákveðnar skv. 1. mgr. í innlendum gjaldmiðli aðildarríkis, sem er ekki aðili að myntbandalaginu, skulu að jafnaði leiðréttar annað hvert ár frá 1. janúar 2004 að telja. Útreikningur á slíkum viðmiðunarfjárhæðum skal byggjast á meðaldaggengi þess sama gjaldmiðils, tilgreint í evrum, á 24 mánaða tímabili sem lýkur á síðasta degi ágústmánaðarins næst á undan endurskoðuninni sem tekur gildi 1. janúar.
  □ 4. Framkvæmdastjórnin skal birta endurskoðuðu viðmiðunarfjárhæðirnar, sem um getur í 1. mgr., og verðmæti þeirra í innlendum gjaldmiðli, sem um getur í 3. mgr., í _Stjórnartíðindum Evrópusambandsins_ í upphafi næsta nóvembermánaðar eftir endurskoðun.
-■ *79. gr.* _Breytingar_
+ ■ *79. gr.* _Breytingar_
  □ 1. Framkvæmdastjórnin getur breytt eftirfarandi í samræmi við ákvæði 2. mgr. 77. gr.:
     a) tæknilegri útfærslu á reikniaðferðum sem eru settar fram í annarri undirgrein 1. mgr. 78. gr. og í 3. mgr. 78. gr.,
     b) reglum um samningu, sendingu, móttöku, þýðingu, söfnun og dreifingu tilkynninga sem um getur í 35., 58., 64. og 69. gr. og tölulegra skýrslna sem kveðið er á um í fjórðu undirgrein 4. mgr. 35. gr. og í 75. og 76. gr.,
@@ -1470,15 +1482,15 @@ h2. Lög um opinber innkaup
  □ 1. Aðildarríkin skulu samþykkja nauðsynleg lög og stjórnsýslufyrirmæli til að fara að tilskipun þessari eigi síðar en 31. janúar 2006. Þau skulu tilkynna það framkvæmdastjórninni þegar í stað.
     Þegar aðildarríkin samþykkja þessar ráðstafanir skal vera í þeim tilvísun í þessa tilskipun eða þeim fylgja slík tilvísun þegar þær eru birtar opinberlega. Aðildarríkin skulu setja nánari reglur um slíka tilvísun.
  □ 2. Aðildarríkin skulu senda framkvæmdastjórninni helstu ákvæði úr landslögum sem þau samþykkja um málefni sem tilskipun þessi nær til.
-■ *81. gr.* _Eftirlitskerfi_
+ ■ *81. gr.* _Eftirlitskerfi_
  □ Í samræmi við tilskipun ráðsins 89/665/EBE frá 21. desember 1989 um samræmingu laga og stjórnsýslufyrirmæla aðildarríkjanna á reglum um meðferð kæru vegna útboðs og gerðar opinberra vörukaupa- og verksamninga ([^26^]) skulu aðildarríkin tryggja framkvæmd þessarar tilskipunar með skilvirkum, aðgengilegum og gagnsæjum aðferðum.
     Með það fyrir augum geta þau m.a. tilnefnt eða komið á fót óháðri stofnun.
-■ *82. gr.* _Niðurfelling_
+ ■ *82. gr.* _Niðurfelling_
  □ Tilskipun 92/50/EBE, að frátaldri 41. gr., og tilskipanir 93/36/EBE og 93/37/EBE falli úr gildi frá og með þeim degi sem er tilgreindur í 80. gr., með fyrirvara um skyldur aðildarríkjanna varðandi frest til lögleiðingar og beitingar sem eru settar fram í XI. viðauka.
     Líta ber á tilvísanir í niðurfelldu tilskipanirnar sem tilvísanir í þessa tilskipun og skulu þær lesnar með hliðsjón af samsvörunartöflunni í XII. viðauka.
-■ *83. gr.* _Gildistaka_
+ ■ *83. gr.* _Gildistaka_
  □ Tilskipun þessi öðlast gildi á þeim degi sem hún birtist í _Stjórnartíðindum Evrópusambandsins._
-■ *84. gr.* _Viðtakendur_
+ ■ *84. gr.* _Viðtakendur_
  □ Tilskipun þessari er beint til aðildarríkjanna.
  *I. - X. viðauki[^1)^]*
     _[^1)^]Um texta viðaukanna vísast til Stjtíð. A 2007._

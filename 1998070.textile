@@ -7,7 +7,7 @@ h2. Búnaðarlög
 <hr />
 
 
- *Tóku gildi 24. júní 1998.* _Breytt með_ l. 53/2003 (tóku gildi 7. apríl 2003), l. 79/2004 (tóku gildi 1. jan. 2005) og l. 67/2005 (tóku gildi 1. sept. 2005).
+ *Tóku gildi 24. júní 1998.* _Breytt með_ l. 53/2003 (tóku gildi 7. apríl 2003), l. 79/2004 (tóku gildi 1. jan. 2005), l. 67/2005 (tóku gildi 1. sept. 2005) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -15,7 +15,7 @@ h2. Búnaðarlög
 
     1. _Jarðabætur_ eru hvers konar framkvæmdir og umbætur á jörð sem stuðla að framförum í búrekstri, þar með talin ræktun og aðrar landbætur, endurheimt landgæða og gerð rekstrarbygginga og endurbætur á þeim.
     2. _Búfjárrækt_ er starfsemi sem með skipulegu kynbótastarfi og bættri fóðrun stuðlar að framförum í búfjárframleiðslu.
-    3. _Búfé_ er hross, nautgripir, sauðfé, geitur, svín, loðdýr, kanínur og alifuglar, auk þess eldisfiskar og önnur dýr sem haldin eru til nytja. Rísi ágreiningur um hvað falla skuli undir hugtakið búfé sker landbúnaðarráðherra úr þeim ágreiningi.
+    3. _Búfé_ er hross, nautgripir, sauðfé, geitur, svín, loðdýr, kanínur og alifuglar, auk þess eldisfiskar og önnur dýr sem haldin eru til nytja. Rísi ágreiningur um hvað falla skuli undir hugtakið búfé sker [ráðherra][^1)^] úr þeim ágreiningi.
     4. _Leiðbeiningarmiðstöð_ er miðstöð á vegum eins búnaðarsambands eða fleiri þar sem starfa sérfróðir menn á ýmsum sviðum landbúnaðar við leiðbeiningar og önnur verkefni tengd framkvæmd laga þessara.
     5. _Búnaðarfélag_ er félag bænda á ákveðnu svæði, óháð þeim búrekstri sem þeir stunda.
     6. _Búgreinafélag_ er félag bænda á ákveðnu svæði sem stunda sömu búgrein.
@@ -25,53 +25,57 @@ h2. Búnaðarlög
     10. _Fagráð_ er nefnd sem mótar stefnu í kynbótum, rannsóknum, fræðslumálum og þróunarstarfi búgreinar. Fagráð getur starfað á fagsviði, t.d. hagfræði.
     11. _Landsráðunautur_ er ráðunautur sem hefur allt landið sem starfssvæði og hefur yfirumsjón með leiðbeiningum á sínu sviði.
     12. _Héraðsráðunautur_ er ráðunautur sem starfar í tilteknum landshluta á vegum búnaðarsambands eða leiðbeiningarmiðstöðvar.
-■ *2. gr.* _Markmið laganna._
+    _[^1)^]L. 126/2011, 273. gr._
+ ■ *2. gr.* _Markmið laganna._
  □ Markmið laganna er að stuðla að framförum í íslenskri búvöruframleiðslu og auka samkeppnishæfni landbúnaðar. Fjárframlög ríkisins samkvæmt lögum þessum stuðli að þróun nýrra framleiðsluhátta og nýrra greina innan landbúnaðarins og í tengslum við hann og miðist við að bændur hér á landi hafi ekki lakari starfsskilyrði en almennt gerist í nágrannalöndunum.
-■ *3. gr.* _Yfirstjórn og fjárframlög ríkisins._
- □ Landbúnaðarráðherra hefur á hendi yfirstjórn þeirra mála sem lög þessi taka til. Hann skal gera samning við Bændasamtök Íslands til fimm ára í senn um verkefni samkvæmt lögum þessum og framlög til þeirra þar sem m.a. skal kveðið á um framlög til Framleiðnisjóðs landbúnaðarins vegna atvinnuuppbyggingar í sveitum og verkefna sem stuðla að aukinni framleiðni í íslenskum landbúnaði. Samningurinn skal endurskoðaður og framlengdur annað hvert ár. Búnaðarþing skal fjalla um samning landbúnaðarráðherra og Bændasamtaka Íslands um verkefni og fjármögnun þeirra.
+ ■ *3. gr.* _Yfirstjórn og fjárframlög ríkisins._
+ □ [Ráðherra][^1)^] hefur á hendi yfirstjórn þeirra mála sem lög þessi taka til. Hann skal gera samning við Bændasamtök Íslands til fimm ára í senn um verkefni samkvæmt lögum þessum og framlög til þeirra þar sem m.a. skal kveðið á um framlög til Framleiðnisjóðs landbúnaðarins vegna atvinnuuppbyggingar í sveitum og verkefna sem stuðla að aukinni framleiðni í íslenskum landbúnaði. Samningurinn skal endurskoðaður og framlengdur annað hvert ár. Búnaðarþing skal fjalla um samning [ráðherra][^1)^] og Bændasamtaka Íslands um verkefni og fjármögnun þeirra.
  □ Ríkissjóður veitir árlega framlög til verkefna á sviði jarðabóta, búfjárræktar og leiðbeiningarstarfsemi samkvæmt lögum þessum, þar á meðal til Framleiðnisjóðs landbúnaðarins skv. 1. mgr.
- □ Bændasamtök Íslands hafa á hendi faglega og fjárhagslega umsjón þeirra verkefna sem svo er samið um skv. 1. mgr. og fjárveiting heimilar og annast framkvæmd þeirra nema öðruvísi sé um samið eða ákveðið með lögum, enda sé skipulag þeirra og starfsreglur í samræmi við ákvæði laganna. Bændasamtök Íslands og önnur samtök sem fara með verkefni samkvæmt lögum þessum geta tekið gjald fyrir þjónustu sína samkvæmt gjaldskrá sem landbúnaðarráðherra staðfestir.
-■ *4. gr.* _Fagráð._
- □ Fagráð skulu starfa fyrir hverja búgrein og á einstökum fagsviðum. Fagráð móta stefnu í kynbótum og þróunarstarfi viðkomandi búgreinar, skilgreina ræktunarmarkmið og setja reglur um framkvæmd meginþátta ræktunarstarfsins. Enn fremur móta þau tillögur um stefnu í fræðslumálum og rannsóknum búgreinarinnar og fjalla um önnur mál sem vísað er þangað til umsagnar og afgreiðslu. Í fagráðum skulu sitja menn úr hópi starfandi bænda og einn ráðunautur í hlutaðeigandi búgrein eða fagsviði. Jafnframt skulu sitja í fagráðum eða starfa með þeim sérfróðir aðilar. Fagráð skulu hljóta staðfestingu landbúnaðarráðherra að fenginni umsögn Bændasamtaka Íslands.
-■ *5. gr.* _Um félagsaðild bænda._
+ □ Bændasamtök Íslands hafa á hendi faglega og fjárhagslega umsjón þeirra verkefna sem svo er samið um skv. 1. mgr. og fjárveiting heimilar og annast framkvæmd þeirra nema öðruvísi sé um samið eða ákveðið með lögum, enda sé skipulag þeirra og starfsreglur í samræmi við ákvæði laganna. Bændasamtök Íslands og önnur samtök sem fara með verkefni samkvæmt lögum þessum geta tekið gjald fyrir þjónustu sína samkvæmt gjaldskrá sem [ráðherra][^1)^] staðfestir.
+    _[^1)^]L. 126/2011, 273. gr._
+ ■ *4. gr.* _Fagráð._
+ □ Fagráð skulu starfa fyrir hverja búgrein og á einstökum fagsviðum. Fagráð móta stefnu í kynbótum og þróunarstarfi viðkomandi búgreinar, skilgreina ræktunarmarkmið og setja reglur um framkvæmd meginþátta ræktunarstarfsins. Enn fremur móta þau tillögur um stefnu í fræðslumálum og rannsóknum búgreinarinnar og fjalla um önnur mál sem vísað er þangað til umsagnar og afgreiðslu. Í fagráðum skulu sitja menn úr hópi starfandi bænda og einn ráðunautur í hlutaðeigandi búgrein eða fagsviði. Jafnframt skulu sitja í fagráðum eða starfa með þeim sérfróðir aðilar. Fagráð skulu hljóta staðfestingu [ráðherra][^1)^] að fenginni umsögn Bændasamtaka Íslands.
+    _[^1)^]L. 126/2011, 273. gr._
+ ■ *5. gr.* _Um félagsaðild bænda._
  □ Hver sá sem stundar búrekstur í atvinnuskyni á rétt á aðild að búnaðarsambandi síns héraðs gegnum búnaðarfélag, búgreinafélag eða með beinni aðild eftir samþykktum viðkomandi búnaðarsambands. Sama búnaðarsamband getur náð yfir fleiri héruð og sýslur.
 
  *II. kafli.* *Jarðabætur.*
-■ *6. gr.* _Markmið._
+ ■ *6. gr.* _Markmið._
  □ Jarðabætur sem hér um ræðir skulu miða að því að bæta aðstöðu til búskapar á viðkomandi býlum og stuðla með því að framförum í landbúnaði og auka samkeppnishæfni hans. Þær skulu auk þess stuðla að sjálfbærri landnýtingu og verndun vistkerfa, taka mið af skuldbindingum Íslendinga um varðveislu líffræðilegrar fjölbreytni, markmiðum þjóðarinnar um verndun umhverfis og sjálfbæra þróun og stuðla að framþróun vistrænna og lífrænna búskaparhátta.
-■ *7. gr.* _Framkvæmd._
- □ Skilyrði þess að jarðabætur njóti framlags samkvæmt lögum þessum eru að um þær hafi verið samið eins og lýst er í 3. gr. laga þessara, að um það hafi verið sótt og með því mælt af viðkomandi búnaðarsambandi eða leiðbeiningarmiðstöð. Landbúnaðarráðherra setur með reglugerð[^1)^] nánari ákvæði um skilyrði fyrir framlögum til jarðabóta, fresti til umsókna og tilhögun greiðslna.
+ ■ *7. gr.* _Framkvæmd._
+ □ Skilyrði þess að jarðabætur njóti framlags samkvæmt lögum þessum eru að um þær hafi verið samið eins og lýst er í 3. gr. laga þessara, að um það hafi verið sótt og með því mælt af viðkomandi búnaðarsambandi eða leiðbeiningarmiðstöð. [Ráðherra][^1)^] setur með reglugerð[^2)^] nánari ákvæði um skilyrði fyrir framlögum til jarðabóta, fresti til umsókna og tilhögun greiðslna.
  □ Framlög til jarðabóta geta náð til allra jarðeigna þar sem landbúnaður er stundaður, að undanskildum þeim jörðum og jarðarhlutum sem liggja á svæðum sem tekin hafa verið úr landbúnaðarnotum eða hafa verið skipulögð til annars en landbúnaðar.
-    _[^1)^]Rg. 322/1999_.
+    _[^1)^]L. 126/2011, 273. gr. [^2)^]Rg. 322/1999._
  ■ *8. gr.* _Eftirlit._
  □ Búnaðarsambönd eða leiðbeiningarmiðstöðvar annast eftirlit með að jarðabætur séu unnar í samræmi við fyrirliggjandi áætlun og aðrar reglur sem gilda um slíkar framkvæmdir og annast úttekt þegar framkvæmd er lokið.
 
  *III. kafli.* *Búfjárrækt.*
-■ *9. gr.* _Markmið._
+ ■ *9. gr.* _Markmið._
  □ Markmið búfjárræktar er að tryggja framfarir í ræktun búfjár í þeim tilgangi að auka sam keppnishæfni íslensks búfjár og búfjárafurða. Búfjárræktin skal taka mið af skuldbindingum Íslendinga um varðveislu líffræðilegrar fjölbreytni.
-■ *10. gr.* _Skýrsluhald._
+ ■ *10. gr.* _Skýrsluhald._
  □ Bændasamtök Íslands skulu sjá um kynbótaskýrsluhald fyrir hverja búgrein og móta um það reglur ásamt fagráðum og bera ábyrgð á kynbótamati á grundvelli þess.
-■ *11. gr.* _Ræktunarstöðvar._
+ ■ *11. gr.* _Ræktunarstöðvar._
  □ Hlutverk ræktunarstöðva fyrir búfé er að rækta með úrvali eða innflutningi erfðaefnis þá eiginleika sem taldir eru eftirsóknarverðir. Ríkissjóður tekur þátt í stofnun og rekstri ræktunarstöðva samkvæmt samningi við Bændasamtök Íslands, sbr. 3. gr. laga þessara.
-■ *12. gr.* ...[^1)^]
+ ■ *12. gr.* ...[^1)^]
     _[^1)^]L. 67/2005, 1. gr._
  ■ *13. gr.* _Búfjársýningar og búfjármat._
  □ Fagráð hverrar búgreinar skal meta þörf fyrir kynbótadóma og sýningar búfjár í viðkomandi búgrein og gera tillögur til Bændasamtaka Íslands og viðkomandi aðildarfélaga um dómstörf og sýningarhald.
  □ Sláturleyfishöfum er skylt að láta í té aðstöðu til þess að framkvæma nauðsynlegar athuganir á afurðum, enda sé þeim gert viðvart um þær við gerð áætlana um slátrun í viðkomandi húsi.
-■ *14. gr.* _Útflutningur búfjár._
- □ Útflutningur búfjár er heimill án sérstakra leyfa nema þegar um er að ræða úrvalskynbótagripi. Landbúnaðarráðherra skal með reglugerð setja nánari reglur þar um að fenginni umsögn viðkomandi fagráðs, m.a. um forkaupsrétt innlendra aðila. Þá getur hann sett skilyrði um ástand og meðferð búfjárins.
-■ *15. gr.* _Stofnverndarsjóður._
+ ■ *14. gr.* _Útflutningur búfjár._
+ □ Útflutningur búfjár er heimill án sérstakra leyfa nema þegar um er að ræða úrvalskynbótagripi. [Ráðherra][^1)^] skal með reglugerð setja nánari reglur þar um að fenginni umsögn viðkomandi fagráðs, m.a. um forkaupsrétt innlendra aðila. Þá getur hann sett skilyrði um ástand og meðferð búfjárins.
+    _[^1)^]L. 126/2011, 273. gr._
+ ■ *15. gr.* _Stofnverndarsjóður._
  □ Starfrækja skal sérstakan sjóð, stofnverndarsjóð, til þess að veita lán eða styrki til kaupa á sérstökum úrvalskynbótagripum sem annars kynnu að verða fluttir úr landi. Jafnframt má veita úr sjóðnum fé til þróunarverkefna í viðkomandi búgreinum. Sjóðnum skal skipt í deildir eftir búfjártegundum og fer fagráð með stjórn hlutaðeigandi deildar.
-■ *16. gr.* _[Erfðanefnd landbúnaðarins._
- □ Landbúnaðarráðherra skipar sjö menn og jafnmarga til vara í erfðanefnd landbúnaðarins að fengnum tilnefningum frá Bændasamtökum Íslands, [Landbúnaðarháskóla Íslands, sem tilnefnir tvo menn],[^1)^] Skógrækt ríkisins, Veiðimálastofnun og Náttúrufræðistofnun Íslands. Ráðherra skipar formann nefndarinnar án tilnefningar. Nefndin skal skipuð til þriggja ára í senn.
+ ■ *16. gr.* _[Erfðanefnd landbúnaðarins._
+ □ [Ráðherra][^1)^] skipar sjö menn og jafnmarga til vara í erfðanefnd landbúnaðarins að fengnum tilnefningum frá Bændasamtökum Íslands, [Landbúnaðarháskóla Íslands, sem tilnefnir tvo menn],[^2)^] Skógrækt ríkisins, Veiðimálastofnun og Náttúrufræðistofnun Íslands. Ráðherra skipar formann nefndarinnar án tilnefningar. Nefndin skal skipuð til þriggja ára í senn.
  □ Helstu verkefni nefndarinnar eru:
     a. að annast samráð innan lands um varðveislu erfðaauðlinda í landbúnaði,
     b. að hvetja til rannsókna á sviði erfðaauðlinda í landbúnaði,
     c. að stuðla að miðlun þekkingar um erfðaauðlindir og gildi þeirra, jafnt með kennslu sem upplýsingagjöf til almennings,
     d. að veita hagsmunaaðilum og stjórnvöldum ráðgjöf um varðveislu og nýtingu erfðaauðlinda í landbúnaði,
     e. að annast samskipti við erlenda aðila á þessu sviði í samstarfi við tengiliði Íslands hjá alþjóðastofnunum.
- □ Landbúnaðarráðherra setur reglugerð þar sem nánar er kveðið á um verkefni nefndarinnar og nauðsynlegar ráðstafanir til framkvæmdar á ákvæðum þessarar greinar.][^2)^]
-    _[^1)^]L. 79/2004, 5. gr._ [^2)^]L. 53/2003, 1. gr.
+ □ [Ráðherra][^1)^] setur reglugerð þar sem nánar er kveðið á um verkefni nefndarinnar og nauðsynlegar ráðstafanir til framkvæmdar á ákvæðum þessarar greinar.][^3)^]
+    _[^1)^]L. 126/2011, 273. gr. [^2)^]L. 79/2004, 5. gr. [^3)^]L. 53/2003, 1. gr._
 
  *IV. kafli.* *Um leiðbeiningarstarfsemi.*
  ■ *17. gr.* _Markmið._
@@ -85,15 +89,15 @@ h2. Búnaðarlög
     6. stuðla að sjálfbærri þróun við nýtingu auðlinda,
     7. vinna að eflingu búrekstrar í sveitum.
  □ Leiðbeiningarþjónustan skal stuðla að því, eftir því sem hún hefur tök á, að búskapur þróist í samræmi við þá stefnu sem mörkuð er með samningum samtaka bænda við ríkisvaldið.
-■ *18. gr.* _Leiðbeiningar  --  héraðsráðunautar._
+ ■ *18. gr.* _Leiðbeiningar  --  héraðsráðunautar._
  □ Hjá búnaðarsamböndum og leiðbeiningarmiðstöðvum skulu starfa héraðsráðunautar sem sinna faglegum leiðbeiningum fyrir bændur á ákveðnum svæðum eða landinu öllu undir faglegri umsjón Bændasamtaka Íslands. Þeir annast eftirlit með jarðabótum, búfjárrækt og kynbótum, hver á sínu starfssvæði, í þeim greinum sem lög þessi taka til og annast úttekt jarðabóta. Þeir skulu árlega skila skýrslu um störf sín til þeirra búnaðarsambanda eða leiðbeiningarmiðstöðva er þeir starfa fyrir.
  □ Héraðsráðunautar skulu hafa lokið kandídatsprófi (BS-prófi) í búvísindum eða öðrum fræðigreinum eftir því sem við getur átt.
  □ Landsráðunautar skulu starfa í einstökum búgreinum eða fagsviðum eftir því sem um er samið skv. 1. mgr. 3. gr. og fjárveiting heimilar. Landsráðunautar hafa yfirumsjón með leiðbeiningum, kynbótum og ræktun í viðkomandi búgrein. Landsráðunautar sitja í fagráðum og eru þeim til ráðuneytis við mótun ræktunarstefnu. Landsráðunautar skulu hafa lokið kandídatsprófi í búfræðum og hafa lokið sérnámi á starfssviði sínu eða hafa menntun og starfsreynslu sem stjórn Bændasamtaka Íslands metur jafngilda.
 
  *V. kafli.* *Ýmis ákvæði.*
-■ *19. gr.* _Reglur um framkvæmd laganna._
- □ Landbúnaðarráðherra setur með reglugerð[^1)^] nánari fyrirmæli um framkvæmd laga þessara.
-    _[^1)^]Rg. 557/1998_. Rg. 322/1999. Rg. 470/1999. Rg. 449/2002, sbr. 677/2002. Rg. 948/2002, sbr. 465/2004 og 810/2005. Rg. 787/2003, sbr. 114/2009. Rg. 151/2005.
+ ■ *19. gr.* _Reglur um framkvæmd laganna._
+ □ [Ráðherra][^1)^] setur með reglugerð[^2)^] nánari fyrirmæli um framkvæmd laga þessara.
+    _[^1)^]L. 126/2011, 273. gr. [^2)^]Rg. 557/1998. Rg. 322/1999. Rg. 470/1999. Rg. 449/2002, sbr. 677/2002. Rg. 787/2003, sbr. 114/2009. Rg. 151/2005. Rg. 442/2011._
  ■ *20. gr.* _Gildistaka._
  □ Lög þessi taka þegar gildi ...
  ■ *Ákvæði til bráðabirgða.* Landbúnaðarráðherra er heimilt að leita eftir samningum við bændur um greiðslur á sérstökum framlögum vegna framkvæmda á lögbýlum sem teknar voru út og samþykktar af héraðsráðunautum á árunum 1992 - 97, en ákvæði laga þessara gilda um framkvæmdir sem hafa verið teknar út og samþykktar á árinu 1998. Um samninga við bændur verði eftirfarandi reglum fylgt:

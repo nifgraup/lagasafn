@@ -7,13 +7,13 @@ h2. Lög um úrvinnslugjald
 <hr />
 
 
- *Tóku gildi 1. janúar 2003.* _EES-samningurinn:_ II. viðauki tilskipun 94/62/EB, XX. viðauki tilskipun 1999/31/EB og 2000/53/EB. _Breytt með_ l. 8/2003 (tóku gildi 12. mars 2003), l. 144/2003 (tóku gildi 1. jan. 2004), l. 128/2004 (tóku gildi 1. jan. 2005), l. 37/2005 (tóku gildi 25. maí 2005, ákvæði 1. gr. kom þó til framkvæmda 1. jan. 2005), l. 114/2005 (tóku gildi 1. jan. 2006), l. 106/2006 (tóku gildi 30. júní 2006 nema 3. og 4. mgr. f-liðar 3. gr. sem tóku gildi 1. ágúst 2006), l. 15/2007 (tóku gildi 1. mars 2007), l. 46/2007 (tóku gildi 31. mars 2007), l. 153/2007 (tóku gildi 1. jan. 2008), l. 73/2008 (tóku gildi 14. júní 2008; _EES-samningurinn:_ XX. viðauki tilskipun 2002/96/EB), l. 135/2009 (tóku gildi 1. jan. 2010), l. 136/2009 (tóku gildi 1. jan. 2010), l. 69/2010 (tóku gildi 1. júlí 2010), 157/2010 (tóku gildi 1. jan. 2011) og l. 158/2010 (tóku gildi 1. jan. 2011).
+ *Tóku gildi 1. janúar 2003.* _EES-samningurinn:_ II. viðauki tilskipun 94/62/EB, XX. viðauki tilskipun 1999/31/EB og 2000/53/EB. _Breytt með_ l. 8/2003 (tóku gildi 12. mars 2003), l. 144/2003 (tóku gildi 1. jan. 2004), l. 128/2004 (tóku gildi 1. jan. 2005), l. 37/2005 (tóku gildi 25. maí 2005, ákvæði 1. gr. kom þó til framkvæmda 1. jan. 2005), l. 114/2005 (tóku gildi 1. jan. 2006), l. 106/2006 (tóku gildi 30. júní 2006 nema 3. og 4. mgr. f-liðar 3. gr. sem tóku gildi 1. ágúst 2006), l. 15/2007 (tóku gildi 1. mars 2007), l. 46/2007 (tóku gildi 31. mars 2007), l. 153/2007 (tóku gildi 1. jan. 2008), l. 73/2008 (tóku gildi 14. júní 2008; _EES-samningurinn:_ XX. viðauki tilskipun 2002/96/EB), l. 135/2009 (tóku gildi 1. jan. 2010), l. 136/2009 (tóku gildi 1. jan. 2010), l. 69/2010 (tóku gildi 1. júlí 2010), 157/2010 (tóku gildi 1. jan. 2011), l. 158/2010 (tóku gildi 1. jan. 2011), l. 58/2011 (tóku gildi 7. júní 2011 nema 2. mgr. d-liðar 10. gr. sem tekur gildi 1. jan. 2012; _EES-samningurinn:_ XX. viðauki tilskipun 2006/21/EB, II. viðauki tilskipun 2006/66/EB) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
 
  *I. kafli.* *Markmið og skilgreiningar.*
  ■ *1. gr.* _Markmið._
  □ Markmið laga þessara er að skapa hagræn skilyrði fyrir endurnotkun og endurnýtingu úrgangs í þeim tilgangi að draga úr magni úrgangs sem fer til endanlegrar förgunar og tryggja viðeigandi förgun spilliefna.
-■ *2. gr.* _Skilgreiningar._
+ ■ *2. gr.* _Skilgreiningar._
  □ Í lögum þessum er merking orða og orðasambanda sem hér segir:
     1. _Endurnotkun:_ endurtekin notkun úrgangs í óbreyttri mynd.
     2. _Endurnýting:_ hvers konar nýting úrgangs, önnur en endurnotkun, þ.m.t. endurvinnsla og orkuvinnsla.
@@ -38,20 +38,20 @@ h2. Lög um úrvinnslugjald
  ■ *4. gr.* _Fjárhæð úrvinnslugjalds._
  □ Fjárhæð úrvinnslugjalds skal taka mið af áætlun um kostnað við úrvinnslu úrgangs, sbr. 2. mgr. 3. gr. Vöruflokkum skal skipt í uppgjörsflokka með reglugerð sem ráðherra setur að fenginni tillögu stjórnar Úrvinnslusjóðs og skal tekjum hvers uppgjörsflokks eingöngu varið til að mæta gjöldum þess flokks. Hver uppgjörsflokkur er fjárhagslega sjálfstæður.
  □ [Fjárhæð úrvinnslugjalds vegna pappa-, pappírs- og plastumbúða skal taka mið af áætlun Úrvinnslusjóðs um þær greiðslur sem bjóða þarf til að ná tölulegum markmiðum um endurnýtingu og endurvinnslu, sbr. 3. mgr. 3. gr., svo og greiðslur vegna flutninga umbúðaúrgangs innan lands.][^1)^]
- □ Umhverfisráðherra leggur að fenginni tillögu stjórnar Úrvinnslusjóðs fram tillögu til fjármálaráðherra um breytingar á fjárhæðum úrvinnslugjalds, álagningu skilagjalds og nýjar gjaldskyldar vörur eftir því sem við á. Fjármálaráðherra flytur frumvarp á Alþingi um fjárhæðir úrvinnslugjalds og skilagjalds.
-    _[^1)^]L. 106/2006, 2. gr._
+ □ [Ráðherra][^2)^] leggur að fenginni tillögu stjórnar Úrvinnslusjóðs fram tillögu til [ráðherra er fer með tekjuöflun ríkisins][^2)^] um breytingar á fjárhæðum úrvinnslugjalds, álagningu skilagjalds og nýjar gjaldskyldar vörur eftir því sem við á. [Ráðherra er fer með tekjuöflun ríkisins][^2)^] flytur frumvarp á Alþingi um fjárhæðir úrvinnslugjalds og skilagjalds.
+    _[^1)^]L. 106/2006, 2. gr. [^2)^]L. 126/2011, 356. gr._
  ■ *5. gr.* _Úrvinnslugjald á ökutæki._
  □ Skráður eigandi gjaldskylds ökutækis skal á hverju gjaldtímabili greiða úrvinnslugjald að fjárhæð [350 kr.][^1)^] fyrir hvert gjaldskylt ökutæki sitt skv. 2. mgr. "1. gr. laga nr. 39/1988":1988039.html#g1, um bifreiðagjald. Gjalddagar úrvinnslugjalds á ökutæki eru 1. janúar ár hvert vegna gjaldtímabilsins 1. janúar  -  30. júní og 1. júlí ár hvert vegna gjaldtímabilsins 1. júlí  -  31. desember. Gjaldið skal innheimt með bifreiðagjaldi og fer um greiðsluskyldu, gjalddaga, eindaga, álagningu, innheimtu gjaldsins og kæruheimild samkvæmt lögum um bifreiðagjald.
  □ Bifreiðar sem eru undanþegnar bifreiðagjaldi skv. 4. gr. laga um bifreiðagjald eru gjaldskyldar samkvæmt lögum þessum. [Gjaldtímabil vegna bifreiða samkvæmt málsgrein þessari er 1. janúar  -  31. desember og skal skráður eigandi gjaldskylds ökutækis á gjaldtímabilinu greiða úrvinnslugjald að fjárhæð [700 kr.][^1)^] fyrir hvert gjaldskylt ökutæki sitt. Gjalddagi úrvinnslugjalds á bifreiðar samkvæmt málsgrein þessari er 1. júlí ár hvert. Um innheimtu gjaldsins að öðru leyti gildir 1. mgr.][^2)^]
  □ [Gjaldskylda fellur niður frá og með upphafi fyrsta gjaldtímabils eftir að greitt hefur verið úrvinnslugjald af ökutækinu í full 15 ár og fyrir bifreiðar sem eru eldri en 25 ára í upphafi gjaldárs.][^1)^]
-    _[^1)^]L. 128/2004, 2. gr._ [^2)^]L. 144/2003, 1. gr.
+    _[^1)^]L. 128/2004, 2. gr. [^2)^]L. 144/2003, 1. gr._
  ■ *6. gr.* _Skilagjald á ökutæki._
  □ Greiða skal skilagjald, [15.000 kr.],[^1)^] hverjum þeim sem afhendir gjaldskylt ökutæki til móttökustöðvar til endurnýtingar eða endanlegrar förgunar, enda hafi ökutækið verið afskráð og úrvinnslugjald greitt a.m.k. einu sinni af viðkomandi ökutæki.
- □ Umhverfisráðherra setur í reglugerð ákvæði um fyrirkomulag greiðslu til móttökustöðvar.
-    _[^1)^]L. 128/2004, 3. gr._
- ■ *7. gr.* _Skilagjald á drykkjarvöruumbúðir._
- □ Endurgreiða skal neytendum skilagjaldshluta úrvinnslugjalds, 9 kr. með virðisaukaskatti á hverja umbúðaeiningu, sbr. viðauka III, við móttöku á notuðum úrvinnslugjaldsskyldum drykkjarvöruumbúðum.
-■ *[7. gr. a.* _Úrvinnslugjald á pappa-, pappírs- og plastumbúðir._
+ □ [Ráðherra][^2)^] setur í reglugerð ákvæði um fyrirkomulag greiðslu til móttökustöðvar.
+    _[^1)^]L. 128/2004, 3. gr. [^2)^]L. 126/2011, 356. gr._
+ ■ *7. gr.* _...[^1)^]_
+    _[^1)^]L. 58/2011, 24. gr._
+ ■ *[7. gr. a.* _Úrvinnslugjald á pappa-, pappírs- og plastumbúðir._
  □ [Úrvinnslugjald skal leggja á umbúðir gerðar úr pappa og pappír, [15 kr./kg],[^1)^] og umbúðir gerðar úr plasti, [12 kr./kg].[^1)^]][^2)^] Úrvinnslugjald skal leggja á hvort sem umbúðir eru einar sér eða utan um vörur sem fluttar eru til landsins. Úrvinnslugjald skal lagt á samkvæmt upplýsingum gjaldskylds aðila um þyngd, tegund og samsetningu umbúða, sbr. þó [4. mgr.][^3)^] Þetta á einnig við um samsettar umbúðir.
  □ [Úrvinnslusjóður ákveður, í samræmi við áætlun sína um að ná tölulegum markmiðum um endurnýtingu og endurvinnslu, fyrir hvaða tegundir umbúðaúrgangs sem úrvinnslugjald er lagt á, sbr. 3. mgr. 3. gr., hann greiðir.
  □ Margnota flutnings- og safnumbúðir sem fluttar eru úr landi til endurnotkunar hjá birgjum eru undanþegnar úrvinnslugjaldi. Undanþágan er bundin því skilyrði að innflytjandi lýsi því yfir í aðflutningsskýrslu, með þeim hætti sem tollstjórinn í Reykjavík ákveður, að umbúðirnar verði sannanlega fluttar úr landi til endurnotkunar hjá birgjum og komi ekki til úrvinnslu hér á landi.][^3)^]
@@ -72,11 +72,11 @@ h2. Lög um úrvinnslugjald
  □ Framleiðendur og innflytjendur skulu við útgáfu sölureiknings tilgreina með skýrum hætti ef umbúðir eru undanþegnar úrvinnslugjaldi. Kaupandi skal staðfesta með móttökukvittun á viðkomandi reikningi að keyptar umbúðir fari til útflutnings. Endanleg yfirlýsing kaupanda er staðfest við greiðslu reiknings. Kaupandi er ábyrgur, gagnvart innheimtumönnum ríkissjóðs, fyrir því að umbúðir keyptar án úrvinnslugjalds fari til útflutnings.
  □ [Ríkisskattstjóra][^5)^] er heimilt að gefa út úrvinnslugjaldsskírteini til framleiðanda, innflytjanda og seljanda umbúða úr pappír, pappa eða plasti, sbr. 6. mgr. Forsenda heimildar er að umbúðirnar séu utan um vörur til útflutnings eða til nota utan um vörur er fara á innanlandsmarkað og að umsækjandi hafi atvinnu af innflutningi, framleiðslu eða sölu úrvinnslugjaldsskyldra umbúða. Skírteinið veitir handhafa þess heimild til að flytja inn eða kaupa innan lands umbúðir án úrvinnslugjalds. Sækja þarf um úrvinnslugjaldsskírteini á því formi sem ríkisskattstjóri ákveður.
  □ Ef handhafi úrvinnslugjaldsskírteinis tekur til eigin nota vörur sem úrvinnslugjald hefur verið fellt niður af á grundvelli skírteinisins skal hann á næsta gjalddaga almenns uppgjörstímabils standa skil á úrvinnslugjaldi vegna þeirra nota.][^3^]
- □ Umhverfisráðherra setur með reglugerð nánari ákvæði um framkvæmd niðurfellingar úrvinnslugjalds.][^4)^]][^6)^]
-    _[^1)^]L. 158/2010, 1. gr._ [^2)^]L. 15/2007, 1. gr. [^3)^]L. 106/2006, 3. gr. [^4)^]L. 114/2005, 1. gr. [^5)^]L. 136/2009, 95. gr. [^6)^]L. 128/2004, 4. gr.
+ □ [Ráðherra][^6)^] setur með reglugerð nánari ákvæði um framkvæmd niðurfellingar úrvinnslugjalds.][^4)^]][^7)^]
+    _[^1)^]L. 158/2010, 1. gr. [^2)^]L. 15/2007, 1. gr. [^3)^]L. 106/2006, 3. gr. [^4)^]L. 114/2005, 1. gr. [^5)^]L. 136/2009, 95. gr. [^6)^]L. 126/2011, 356. gr. [^7)^]L. 128/2004, 4. gr._
  ■ *8. gr.* _[Úrvinnslugjald á aðrar vörur._
  □ Úrvinnslugjald skal leggja á eftirtalda vöruflokka, eins og nánar er kveðið á um í viðaukum með lögum þessum:
-    1. _Aðrar umbúðir:_ heyrúlluplast, sbr. viðauka I, einnota drykkjarvöruumbúðir með skilagjaldi úr áli, stáli, gleri og plastefnum, sbr. viðauka III.
+    1. _Aðrar umbúðir:_ heyrúlluplast, sbr. viðauka I ...[^1)^]
     2. _Olíuvörur:_ sbr. viðauka IV.
     3. _Lífræn leysiefni og klórbundin efnasambönd:_ lífræn leysiefni, sbr. viðauka V, halógeneruð efnasambönd, sbr. viðauka VI, ísócýanöt og pólyúretön, sbr. viðauka VII.
     4. _Málning og litarefni:_ málning, sbr. viðauka VIII, prentlitir, sbr. viðauka IX.
@@ -88,9 +88,10 @@ h2. Lög um úrvinnslugjald
     10. _Hjólbarðar:_ sbr. viðauka XVI.
     11. _Veiðarfæri úr gerviefnum:_ sbr. viðauka XVII.
  □ Við flokkun til gjaldskyldu samkvæmt lögum þessum skal fylgt flokkunarreglum tollalaga.
- □ Fyrirtækjum og atvinnugreinum er heimilt að semja [við Úrvinnslusjóð][^1)^] um ráðstafanir til að tryggja úrvinnslu úrgangs vegna svartolíu og veiðarfæra úr gerviefnum, enda þjóni það markmiðum laganna. Svartolía og veiðarfæri úr gerviefnum eru þá undanþegin gjaldtöku samkvæmt lögum þessum, enda hafi stjórn Úrvinnslusjóðs staðfest samninginn, sbr. 3. mgr. 17. gr., og tilkynnt það tollstjóra. [Jafnframt skal umhverfisráðherra staðfesta samninginn.][^1)^] Hvorum samningsaðila er heimilt að segja upp samningi samkvæmt þessari grein. Úrvinnslusjóði er þó einungis heimilt að segja upp samningi vegna brota á honum og að fenginni umsögn Umhverfisstofnunar. Úrvinnslusjóður skal tilkynna tollstjóra sé samningi sagt upp.
- □ Í samningi skv. 3. mgr. skal koma fram verklýsing þar sem m.a. eru upplýsingar um söfnun, flutninga, meðhöndlun úrgangs, ráðstöfun hans, umsjón og stjórnun, upplýsingasöfnun og skýrslugjöf. Þá skulu, áður en gengið er frá samningi, liggja fyrir upplýsingar um magn úrgangs, hvernig kerfið mun vera fjármagnað, aðgang handhafa úrgangs að kerfinu og greiðslu umsýslugjalds til Úrvinnslusjóðs.][^2)^]
-    _[^1)^]L. 106/2006, 4. gr._ [^2)^]L. 128/2004, 5. gr.
+ □ Fyrirtækjum og atvinnugreinum er heimilt að semja [við Úrvinnslusjóð][^2)^] um ráðstafanir til að tryggja úrvinnslu úrgangs vegna svartolíu og veiðarfæra úr gerviefnum, enda þjóni það markmiðum laganna. Svartolía og veiðarfæri úr gerviefnum eru þá undanþegin gjaldtöku samkvæmt lögum þessum, enda hafi stjórn Úrvinnslusjóðs staðfest samninginn, sbr. 3. mgr. 17. gr., og tilkynnt það tollstjóra. [Jafnframt skal [ráðherra][^3)^] staðfesta samninginn.][^2)^] Hvorum samningsaðila er heimilt að segja upp samningi samkvæmt þessari grein. Úrvinnslusjóði er þó einungis heimilt að segja upp samningi vegna brota á honum og að fenginni umsögn Umhverfisstofnunar. Úrvinnslusjóður skal tilkynna tollstjóra sé samningi sagt upp.
+ □ Í samningi skv. 3. mgr. skal koma fram verklýsing þar sem m.a. eru upplýsingar um söfnun, flutninga, meðhöndlun úrgangs, ráðstöfun hans, umsjón og stjórnun, upplýsingasöfnun og skýrslugjöf. Þá skulu, áður en gengið er frá samningi, liggja fyrir upplýsingar um magn úrgangs, hvernig kerfið mun vera fjármagnað, aðgang handhafa úrgangs að kerfinu og greiðslu umsýslugjalds til Úrvinnslusjóðs.
+ □ [Framleiðendur og innflytjendur rafhlaðna og rafgeyma bera ábyrgð á þeim rafhlöðum og rafgeymum sem framleidd eru hér á landi eða flutt inn og falla undir viðauka X og XI. Í ábyrgð framleiðenda og innflytjenda felst að þeir skulu fjármagna og tryggja meðhöndlun á rafhlöðum og rafgeymum að frátalinni söfnun til söfnunarstöðva sveitarfélaga og verslana. Framleiðendur og innflytjendur uppfylla skyldur sínar með því að vörurnar beri úrvinnslugjald.][^1)^]][^4)^]
+    _[^1)^]L. 58/2011, 24. gr. [^2)^]L. 106/2006, 4. gr. [^3)^]L. 126/2011, 356. gr. [^4)^]L. 128/2004, 5. gr._
 
  *III. kafli.* *Gjaldskyldir aðilar, álagning gjalds, uppgjörstímabil, gjalddagar, skýrslur, álag, dráttarvextir, kæruheimild og kærufrestur.*
  ■ *9. gr.* _Gjaldskyldir aðilar._
@@ -106,8 +107,8 @@ h2. Lög um úrvinnslugjald
  □ Tollstjórar skulu annast álagningu og innheimtu gjalds af gjaldskyldum innfluttum vörum og skal það innheimt með aðflutningsgjöldum. [Ríkisskattstjóri][^1)^] annast álagningu gjalds vegna innlendrar framleiðslu sem tollstjórar innheimta. ...[^1)^] Ríkisskattstjóri annast álagningu úrvinnslugjalds af ökutækjum.
     _[^1)^]L. 136/2009, 97. gr._
  ■ *[10. gr. a.* _Endurgreiðsla úrvinnslugjalds vegna útflutnings._
- □ Sé gjaldskyld vara sannanlega flutt úr landi og komi ekki til úrvinnslu hér á landi skal endurgreiða gjaldskyldum aðila, eða þeim sem keypt hefur vöruna af gjaldskyldum aðila, úrvinnslugjald sem greitt hefur verið af viðkomandi vöru. Aðili sem óskar endurgreiðslu skv. 1. málsl. skal tilgreina í sérstakri skýrslu til [ríkisskattstjóra][^1)^] um magn vöru og fjárhæð þess úrvinnslugjalds sem sannanlega hefur verið greitt af viðkomandi vöru. Skýrslu skal skilað eigi síðar en 15 dögum fyrir gjalddaga úrvinnslugjalds. Endurgreiðsla skal fara fram á gjalddaga, enda hafi úrvinnslugjald vegna viðkomandi tímabils verið greitt. Fjárhæð sem sótt er um endurgreiðslu á hverju sinni skal vera að lágmarki 10.000 kr. Umhverfisráðherra setur með reglugerð nánari ákvæði um framkvæmd endurgreiðslu.][^2)^]
-    _[^1)^]L. 136/2009, 98. gr._ [^2)^]L. 114/2005, 2. gr.
+ □ Sé gjaldskyld vara sannanlega flutt úr landi og komi ekki til úrvinnslu hér á landi skal endurgreiða gjaldskyldum aðila, eða þeim sem keypt hefur vöruna af gjaldskyldum aðila, úrvinnslugjald sem greitt hefur verið af viðkomandi vöru. Aðili sem óskar endurgreiðslu skv. 1. málsl. skal tilgreina í sérstakri skýrslu til [ríkisskattstjóra][^1)^] um magn vöru og fjárhæð þess úrvinnslugjalds sem sannanlega hefur verið greitt af viðkomandi vöru. Skýrslu skal skilað eigi síðar en 15 dögum fyrir gjalddaga úrvinnslugjalds. Endurgreiðsla skal fara fram á gjalddaga, enda hafi úrvinnslugjald vegna viðkomandi tímabils verið greitt. Fjárhæð sem sótt er um endurgreiðslu á hverju sinni skal vera að lágmarki 10.000 kr. [Ráðherra][^2)^] setur með reglugerð nánari ákvæði um framkvæmd endurgreiðslu.][^3)^]
+    _[^1)^]L. 136/2009, 98. gr. [^2)^]L. 126/2011, 356. gr. [^3)^]L. 114/2005, 2. gr._
  ■ *11. gr.* _Uppgjörstímabil, gjalddagar og greiðslufrestur._
  □ Hvert uppgjörstímabil vegna innlendrar framleiðslu á gjaldskyldum vörum, sbr. 3. tölul. 1. mgr. 9. gr., er tveir mánuðir, janúar og febrúar, mars og apríl, maí og júní, júlí og ágúst, september og október, nóvember og desember. Gjalddagi hvers uppgjörstímabils er 28. dagur annars mánaðar eftir lok þess.
  □ Innlendir framleiðendur skulu eigi síðar en á gjalddaga hvers uppgjörstímabils ótilkvaddir greiða innheimtumanni ríkissjóðs úrvinnslugjald af gjaldskyldum vörum sem voru seldar eða afhentar á tímabilinu. Innlendum framleiðendum sem keypt hafa aðföng til gjaldskyldrar framleiðslu sinnar og greitt af þeim úrvinnslugjald er heimilt að draga það frá við endanleg skil gjaldsins.
@@ -116,7 +117,7 @@ h2. Lög um úrvinnslugjald
  □ Innflytjendur sem flytja gjaldskylda vöru til landsins til eigin nota, sbr. 2. tölul. 1. mgr. 9. gr., skulu greiða úrvinnslugjald við tollafgreiðslu.
  □ Beri gjalddaga upp á helgidag eða almennan frídag færist gjalddagi á næsta virkan dag á eftir.
  □ Um greiðslufrest úrvinnslugjalds vegna innfluttrar vöru fer að öðru leyti samkvæmt reglugerð nr. 390/1999, um greiðslufrest á aðflutningsgjöldum, með síðari breytingum.
-■ *12. gr.* _Skýrslur, álag og dráttarvextir._
+ ■ *12. gr.* _Skýrslur, álag og dráttarvextir._
  □ Gjaldskyldir aðilar skv. 3. tölul. 1. mgr. 9. gr. skulu eigi síðar en á gjalddaga hvers uppgjörstímabils skila skýrslu í því formi sem ríkisskattstjóri ákveður vegna vara sem greiða ber gjald af á uppgjörstímabilinu. [Ríkisskattstjóri][^1)^] skal áætla gjald af viðskiptum þeirra aðila sem skila ekki skýrslu innan tilskilins tíma, senda enga skýrslu eða ef skýrslu eða fylgigögnum er ábótavant. [Ríkisskattstjóri][^1)^] skal tilkynna innheimtumanni og gjaldskyldum aðila um áætlanir og leiðréttingar sem gerðar hafa verið. Um málsmeðferð fer eftir ákvæðum "laga nr. 50/1988":1988050.html, um virðisaukaskatt.
  □ Sé gjald ekki greitt á tilskildum tíma skal gjaldskyldur aðili, sbr. 1. mgr. 9. gr., sæta álagi til viðbótar því gjaldi sem honum ber að standa skil á. Sama gildir ef skýrslu hefur ekki verið skilað eða henni er ábótavant og gjald því áætlað nema aðili hafi greitt fyrir gjalddaga gjaldsins upphæð er til áætlunar svarar eða gefið fyrir lok kærufrests fullnægjandi skýringu á vafaatriðum. Álag skal vera 1% af þeirri upphæð sem vangreidd er fyrir hvern byrjaðan dag eftir gjalddaga, þó ekki hærra en 10%.
  □ Sé gjald ekki greitt innan mánaðar frá gjalddaga skal gjaldandi greiða dráttarvexti af því sem gjaldfallið er. Um ákvörðun og útreikning dráttarvaxta fer eftir "lögum um vexti og verðtryggingu, nr. 38/2001":2001038.html.
@@ -129,8 +130,9 @@ h2. Lög um úrvinnslugjald
 
  *IV. kafli.* *Úrvinnslusjóður.*
  ■ *14. gr.* _Framkvæmd._
- □ Úrvinnslusjóður er stofnun í eigu ríkisins og heyrir undir umhverfisráðherra. Úrvinnslusjóður fer með framkvæmd laga þessara og er ráðherra til ráðgjafar um mál þau sem undir lögin falla.
-■ *15. gr.* _Hlutverk Úrvinnslusjóðs._
+ □ Úrvinnslusjóður er stofnun í eigu ríkisins og heyrir undir [ráðherra].[^1)^] Úrvinnslusjóður fer með framkvæmd laga þessara og er ráðherra til ráðgjafar um mál þau sem undir lögin falla.
+    _[^1)^]L. 126/2011, 356. gr._
+ ■ *15. gr.* _Hlutverk Úrvinnslusjóðs._
  □ Úrvinnslusjóður sér um umsýslu úrvinnslugjalds og ráðstöfun þess.
  □ Úrvinnslusjóður skal með hagrænum hvötum koma upp skilvirku fyrirkomulagi á úrvinnslu úrgangs sem er tilkominn vegna vara sem falla undir lög þessi. Úrvinnslusjóður skal leitast við að skapa sem hagkvæmust skilyrði til úrvinnslu úrgangs. Úrvinnslusjóður semur við aðila um úrvinnslu úrgangs á grundvelli útboða eða verksamninga eftir því sem við á.
  □ [Úrvinnslusjóði ber að ná á landsvísu tölulegum markmiðum um hlutfall pappa-, pappírs- og plastumbúðaúrgangs sem fara skal í endurnýtingu og endurvinnslu.][^1)^]
@@ -138,18 +140,20 @@ h2. Lög um úrvinnslugjald
  □ [Úrvinnslusjóði er heimilt að gera samninga um að taka að sér verkefni sem falla undir "lög um meðhöndlun úrgangs, nr. 55/2003":2003055.html. Slíkir samningar skulu samþykktir af ráðherra.][^4)^]
  □ Úrvinnslusjóður skal ár hvert gera skýrslu um innheimtu og ráðstöfun úrvinnslugjalds eftir uppgjörsflokkum, svo og um magn og skilahlutfall gjaldskyldrar vöru og úrvinnslu hennar. Auk þess geri Úrvinnslusjóður ár hvert fjárhagsáætlun fyrir næsta ár þar á eftir með hliðsjón af áætlun um magn gjaldskyldrar vöru á markaði, flokkaðs úrgangs sem safnast og kostnaði við úrvinnslu hans á grundvelli útreikninga, útboða og verksamninga.
  □ Úrvinnslusjóður skal hafa samráð við hlutaðeigandi aðila um atriði er þá varða.
-    _[^1)^]L. 106/2006, 7. gr._ [^2)^]Rg. 1124/2005. [^3)^]L. 114/2005, 3. gr. [^4)^]L. 73/2008, 7. gr.
+    _[^1)^]L. 106/2006, 7. gr. [^2)^]Rg. 1124/2005. [^3)^]L. 114/2005, 3. gr. [^4)^]L. 73/2008, 7. gr._
  ■ *16. gr.* _Stjórn Úrvinnslusjóðs._
- □ Umhverfisráðherra skipar fimm manna stjórn Úrvinnslusjóðs til fjögurra ára í senn. Umhverfisráðherra skipar formann stjórnar án tilnefningar, en fjórir meðstjórnendur skulu skipaðir að fenginni tilnefningu frá eftirtöldum aðilum: einn eftir sameiginlegri tilnefningu Samtaka fiskvinnslustöðva og Landssambands íslenskra útvegsmanna, einn frá Samtökum iðnaðarins, einn frá SVÞ  -  Samtökum verslunar og þjónustu og einn frá Sambandi íslenskra sveitarfélaga. Varaformaður sem skipaður er af ráðherra, eftir tilnefningu stjórnar, skal koma úr hópi stjórnarmanna.
- □ Þóknun til stjórnarmanna greiðist úr Úrvinnslusjóði og skal ákveðin af umhverfisráðherra.
-■ *17. gr.* _Hlutverk stjórnar Úrvinnslusjóðs._
- □ Stjórn Úrvinnslusjóðs hefur yfirumsjón með starfsemi hans í samræmi við lög þessi og reglugerðir settar samkvæmt þeim og er umhverfisráðherra til ráðgjafar við framkvæmd laga þessara.
+ □ [Ráðherra skipar sex manna stjórn Úrvinnslusjóðs til fjögurra ára í senn. Ráðherra skipar formann stjórnar án tilnefningar. Fimm meðstjórnendur skulu skipaðir að fenginni tilnefningu eftirfarandi aðila: einn eftir sameiginlegri tilnefningu Samtaka fiskvinnslustöðva og Landssambands íslenskra útvegsmanna, einn sem Samtök iðnaðarins tilnefna, einn sem SVÞ  -  Samtök verslunar og þjónustu tilnefna, einn sem Félag atvinnurekenda tilnefnir og einn sem Samband íslenskra sveitarfélaga tilnefnir. Varaformaður sem ráðherra skipar, eftir tilnefningu stjórnar, skal koma úr hópi stjórnarmanna. Þurfi atkvæðagreiðslu um afgreiðslu mála ræður atkvæði formanns úrslitum falli atkvæði jöfn.][^1)^]
+ □ Þóknun til stjórnarmanna greiðist úr Úrvinnslusjóði og skal ákveðin af [ráðherra].[^2)^]
+    _[^1)^]L. 58/2011, 24. gr. [^2)^]L. 126/2011, 356. gr._
+ ■ *17. gr.* _Hlutverk stjórnar Úrvinnslusjóðs._
+ □ Stjórn Úrvinnslusjóðs hefur yfirumsjón með starfsemi hans í samræmi við lög þessi og reglugerðir settar samkvæmt þeim og er [ráðherra][^1)^] til ráðgjafar við framkvæmd laga þessara.
  □ Stjórnin hefur það hlutverk að móta stefnu um starfsemi sjóðsins, svo sem um helstu áherslur, verkefni og starfshætti hans, og leggur fyrir ráðherra til staðfestingar.
  □ Stjórnin staðfestir skýrslur og áætlanir skv. 15. gr. og hefur eftirlit með því að þær séu gerðar og leggur þær fyrir ráðherra fyrir 1. júní ár hvert. Þá staðfestir stjórnin einnig samninga skv. 3. mgr. 8. gr., að fenginni umsögn Umhverfisstofnunar.
- □ Stjórnin skal eftir því sem við á leggja fram tillögu til umhverfisráðherra um breytingar á fjárhæð úrvinnslugjalds, nýjar gjaldskyldar vörur og fjárhæð úrvinnslugjalds á þær. Telji stjórnin þörf á að leggja skilagjald á vöru til að ná fram auknum skilum hennar skal hún jafnframt leggja fram tillögu um það til ráðherra og fjárhæð þess. Við gerð tillögu að nýjum gjaldskyldum vörum og undanþágu frá gjaldskyldu skal stjórnin taka mið af skuldbindingum og stefnumörkun stjórnvalda í úrgangsmálum.
-■ *18. gr.* _Umsjón með daglegum rekstri Úrvinnslusjóðs._
+ □ Stjórnin skal eftir því sem við á leggja fram tillögu til [ráðherra][^1)^] um breytingar á fjárhæð úrvinnslugjalds, nýjar gjaldskyldar vörur og fjárhæð úrvinnslugjalds á þær. Telji stjórnin þörf á að leggja skilagjald á vöru til að ná fram auknum skilum hennar skal hún jafnframt leggja fram tillögu um það til ráðherra og fjárhæð þess. Við gerð tillögu að nýjum gjaldskyldum vörum og undanþágu frá gjaldskyldu skal stjórnin taka mið af skuldbindingum og stefnumörkun stjórnvalda í úrgangsmálum.
+    _[^1)^]L. 126/2011, 356. gr._
+ ■ *18. gr.* _Umsjón með daglegum rekstri Úrvinnslusjóðs._
  □ Stjórn Úrvinnslusjóðs ræður framkvæmdastjóra Úrvinnslusjóðs. Framkvæmdastjóri annast daglegan rekstur sjóðsins og ber ábyrgð á fjárreiðum hans og reikningshaldi gagnvart stjórn. Framkvæmdastjóri ræður annað starfsfólk Úrvinnslusjóðs.
-■ *19. gr.* _Rekstur Úrvinnslusjóðs._
+ ■ *19. gr.* _Rekstur Úrvinnslusjóðs._
  □ Tekjur af úrvinnslugjaldi samkvæmt lögum þessum, [þ.m.t. vaxtatekjur],[^1)^] skulu renna óskiptar til Úrvinnslusjóðs að undanþegnu umsýslugjaldi til ríkissjóðs sem nemur 0,5% af þeim tekjum.
  □ Skorti Úrvinnslusjóð reiðufé til að standa við skuldbindingar sínar samkvæmt lögum þessum skal stjórn sjóðsins þegar tilkynna það ráðherra. Ríkissjóður skal gæta þess að sjóðurinn hafi nægilegt laust fé til ráðstöfunar til að standa við skuldbindingar sínar.
     _[^1)^]L. 37/2005, 1. gr._
@@ -159,30 +163,26 @@ h2. Lög um úrvinnslugjald
  □ Um viðurlög skulu gilda, eftir því sem við getur átt, ákvæði ["tollalaga, nr. 88/2005":2005088.html],[^1)^] um innfluttar vörur og "laga um virðisaukaskatt, nr. 50/1988":1988050.html, um innlendar framleiðsluvörur.
     _[^1)^]L. 106/2006, 8. gr._
  ■ *21. gr.* _Reglugerðarheimildir._
- □ Umhverfisráðherra setur reglugerð[^1)^] um framkvæmd laga þessara.
+ □ [Ráðherra][^1)^] setur reglugerð[^2)^] um framkvæmd laga þessara.
  □ Ráðherra skal að fengnum tillögum Úrvinnslusjóðs setja reglugerð um nauðsynlegan frágang úrgangs í hverjum uppgjörsflokki við móttöku í móttökustöð.
  □ [Ráðherra skal að fengnum tillögum Úrvinnslusjóðs og að höfðu samráði við Samband íslenskra sveitarfélaga setja reglugerð um nánari útfærslu á greiðslu kostnaðar við meðferð flokkaðs úrgangs á söfnunarstöð, sbr. 2. mgr. 3. gr.
- □ Ráðherra skal að fengnum tillögum Úrvinnslusjóðs setja reglugerð um hvernig standa skuli að greiðslum til að ná þeim tölulegu markmiðum sem sett eru um endurnýtingu og endurvinnslu þess úrgangs sem fellur til vegna pappa-, pappírs- og plastumbúða, sbr. 3. mgr. 3. gr.][^2)^]
-    _[^1)^]Rg. 368/2000_, sbr. 448/2002, 437/2003, 49/2006, 524/2006 og 908/2008. Rg. 1124/2005, sbr. 316/2007. [^2)^]L. 106/2006, 9. gr.
+ □ Ráðherra skal að fengnum tillögum Úrvinnslusjóðs setja reglugerð um hvernig standa skuli að greiðslum til að ná þeim tölulegu markmiðum sem sett eru um endurnýtingu og endurvinnslu þess úrgangs sem fellur til vegna pappa-, pappírs- og plastumbúða, sbr. 3. mgr. 3. gr.][^3)^]
+    _[^1)^]L. 126/2011, 356. gr. [^2)^]Rg. 368/2000, sbr. 448/2002, 437/2003, 49/2006, 524/2006 og 908/2008. Rg. 1124/2005, sbr. 316/2007. [^3)^]L. 106/2006, 9. gr._
  ■ *22. gr.* _Gildistaka._
  □ Lög þessi skulu öðlast gildi 1. janúar 2003. ...
  □ Þrátt fyrir ákvæði 1. mgr. skal móttaka á flokkuðum úrgangi, sem til er kominn vegna vara sem bera úrvinnslugjald, hefjast 1. apríl 2003 vegna vöru sem fellur undir viðauka II, X og XVI, 1. júlí 2003 vegna ökutækja, sbr. 5. gr., og eigi síðar en 1. júlí 2004 vegna vöru sem fellur undir viðauka I. Greiðsla skilagjalds á ökutæki, sbr. 6. gr., skal hefjast 1. júlí 2003.
 
  *Ákvæði til bráðabirgða.*
- ■ *I.* [Ákvæði 7. gr. og 1. tölul. 1. mgr. 8. gr., sbr. viðauka III vegna einnota drykkjarvöruumbúða með skilagjaldi úr áli, stáli, gleri og plastefnum, skulu koma til framkvæmda [1. janúar 2012].[^1)^] Frá sama tíma falla úr gildi "lög nr. 52/1989":1989052.html, um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur, með síðari breytingum.
- □ Úrvinnslusjóði er þó heimilt að undirbúa samning við Endurvinnsluna hf. um að ákvæði 1. mgr. komi til framkvæmda fyrir 1. janúar 2008.
- □ Ákvæði 11. tölul. 1. mgr. 8. gr., sbr. viðauka XVII um veiðarfæri úr gerviefnum, skal koma til framkvæmda 1. september 2005.][^2)^]
-    _[^1)^]L. 157/2010, 1. gr._ [^2)^]L. 128/2004, 6. gr.
- ■ *II.* [Þrátt fyrir ákvæði 7. gr. a skal greiðsla vegna móttöku á plastfilmu sem kemur frá fyrirtækjum og bylgjupappa koma til framkvæmda 1. apríl 2005 og vegna annarra umbúða frá og með 1. mars 2006. Álagning úrvinnslugjalds á þessa vöruflokka skal hefjast [1. janúar 2006].[^1)^]
- □ Frá gildistöku laga þessara til 1. júní 2005 skal starfa nefnd umhverfisráðuneytis, Sambands íslenskra sveitarfélaga, Úrvinnslusjóðs og Umhverfisstofnunar. Umhverfisráðherra skal skipa nefndina með tilnefningu frá framangreindum aðilum. Nefndin skal undirbúa framkvæmd móttöku á pappa- og plastumbúðum sem berast með söfnunarkerfi sveitarfélaga í samræmi við ákvæði "laga nr. 55/2003":2003055.html, um meðhöndlun úrgangs. Tilnefningaraðilar skulu bera kostnað vegna fulltrúa sinna í nefndinni.][^2)^]
-    _[^1)^]L. 37/2005, 2. gr. [^2)^]L. 128/2004, 6. gr._
- ■ *[III.* Þrátt fyrir ákvæði 7. gr. a skal til [1. janúar 2006][^1)^] leggja úrvinnslugjald á samsettar pappaumbúðir fyrir drykkjarvöru sem flokkast undir eftirfarandi tollskrárnúmer sem hér segir:
-    ...[^2)^]][^3)^]
-    _[^1)^]L. 37/2005, 2. gr._ [^2)^]Um gjaldskrána vísast til Stjtíð. A 2004, bls. 770 - 772. [^3)^]L. 128/2004, 6. gr.
+ ■ *I.* [...[^1)^]][^2)^]
+    _[^1)^]L. 58/2011, 24. gr. [^2)^]L. 128/2004, 6. gr._
+ ■ *II.* [...[^1)^]][^2)^]
+    _[^1)^]L. 58/2011, 24. gr. [^2)^]L. 128/2004, 6. gr._
+ ■ *[III.* ...[^1)^]][^2)^]
+    _[^1)^]L. 58/2011, 24. gr. [^2)^]L. 128/2004, 6. gr._
  ■ *[IV.* ...[^1)^]][^2)^]
-    _[^1)^]L. 128/2004, 6. gr._ [^2)^]L. 8/2003, 1. gr.
+    _[^1)^]L. 128/2004, 6. gr. [^2)^]L. 8/2003, 1. gr._
 
  *Viðaukar I - XVIII.[^1)^]*
-    _[^1)^]Um texta viðauka þessara vísast til Stjtíð. A 2002, bls. 514 - 535 (l. 162/2002), sbr. Stjtíð. A 2003, bls. 15 (l. 8/2003) og bls. 584 - 587 (l. 144/2003), Stjtíð. A 2004, bls. 772 - 788 (l. 128/2004), Stjtíð. A 2005, bls. 1030 - 1043 (l. 114/2005), Stjtíð. A 2007 (l. 15/2007, l. 46/2007 og l. 153/2007) og Stjtíð. A 2010 (l. 69/2010 og l. 158/2010)._
+    _[^1)^]Um texta viðauka þessara vísast til Stjtíð. A 2002, bls. 514 - 535 (l. 162/2002), sbr. Stjtíð. A 2003, bls. 15 (l. 8/2003) og bls. 584 - 587 (l. 144/2003), Stjtíð. A 2004, bls. 772 - 788 (l. 128/2004), Stjtíð. A 2005, bls. 1030 - 1043 (l. 114/2005), Stjtíð. A 2007 (l. 15/2007, l. 46/2007 og l. 153/2007), Stjtíð. A 2010 (l. 69/2010 og l. 158/2010) og Stjtíð. A 2011 (l. 58/2011)._
 
 

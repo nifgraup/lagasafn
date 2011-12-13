@@ -12,7 +12,7 @@ h2. Lög um öryggi greiðslufyrirmæla í greiðslukerfum
 
  *I. kafli.* *Gildissvið og skilgreiningar.*
  ■ *1. gr.* Ákvæði þessara laga taka til greiðslukerfis sem rekið er hér á landi og sem tilkynnt hefur verið í samræmi við ákvæði 3. gr. laganna.
-■ *2. gr.* Í lögum þessum merkir:
+ ■ *2. gr.* Í lögum þessum merkir:
     1. _Greiðslukerfi:_ Formlegt fyrirkomulag þriggja eða fleiri þátttakenda sem byggist á sameiginlegum reglum og stöðluðu fyrirkomulagi við framkvæmd _greiðslufyrirmæla_ milli þeirra, enda hafi a.m.k. einn þátttakendanna aðalskrifstofu sína hér á landi, og greiðslukerfið fullnægir þeim kröfum sem gerðar eru og það hefur verið tilkynnt til eftirlitsstofnunar EFTA (ESA), sbr. 3. gr.
     2. _Stofnun:_
     a. Viðskiptabanki eða sparisjóður sem hlotið hefur starfsleyfi samkvæmt "lögum nr. 113/1996":1996113.html, um viðskiptabanka og sparisjóði.
@@ -35,26 +35,26 @@ h2. Lög um öryggi greiðslufyrirmæla í greiðslukerfum
  □ Aðilum sem starfrækja greiðslukerfi samkvæmt þessari grein er skylt að veita Seðlabanka Íslands upplýsingar um beina og óbeina þátttakendur sem aðild eiga að kerfinu, svo og breytingar á þeim.
 
  *II. kafli.* *Greiðslujöfnun og greiðslufyrirmæli.*
-■ *4. gr.* Öll greiðslufyrirmæli, svo og greiðslujöfnun, skulu vera að öllu leyti bindandi gagnvart þriðja manni, jafnvel þó að bú þátttakanda sem fyrirmælin gaf sé tekið til gjaldþrotaskipta, enda séu fyrirmælin komin til greiðslukerfisins áður en úrskurður um gjaldþrot er kveðinn upp.
+ ■ *4. gr.* Öll greiðslufyrirmæli, svo og greiðslujöfnun, skulu vera að öllu leyti bindandi gagnvart þriðja manni, jafnvel þó að bú þátttakanda sem fyrirmælin gaf sé tekið til gjaldþrotaskipta, enda séu fyrirmælin komin til greiðslukerfisins áður en úrskurður um gjaldþrot er kveðinn upp.
  □ Sama gildir að því er varðar greiðslufyrirmæli sem koma til greiðslukerfisins á sama degi og gjaldþrotaskipti á búi þátttakanda hefjast en eftir þá stund sem tilgreind er í 6. gr., enda hafi greiðslujöfnunarstöð, milligöngu- eða uppgjörsaðili sýnt fram á að hann hafi hvorki vitað né mátt vita um þau.
  □ Í greiðslukerfum er skylt að skilgreina hvenær greiðslufyrirmæli teljast vera komin til kerfisins og er afturköllun þeirra óheimil eftir tímamark það sem tiltekið er í reglum kerfisins.
-■ *5. gr.* Uppgjörsaðili annast efndalok greiðslufyrirmæla í greiðslukerfi. Allar innstæður eða verðbréf á uppgjörsreikningum eða lántökuréttindi honum tengd er uppgjörsaðila heimilt að nota til uppgjörs skuldbindinga þátttakanda gagnvart greiðslukerfi á þeim degi sem gjaldþrotaskipti hefjast, sbr. þó 2. mgr. 4. gr.
+ ■ *5. gr.* Uppgjörsaðili annast efndalok greiðslufyrirmæla í greiðslukerfi. Allar innstæður eða verðbréf á uppgjörsreikningum eða lántökuréttindi honum tengd er uppgjörsaðila heimilt að nota til uppgjörs skuldbindinga þátttakanda gagnvart greiðslukerfi á þeim degi sem gjaldþrotaskipti hefjast, sbr. þó 2. mgr. 4. gr.
 
  *III. kafli.* *Ákvæði er varða gjaldþrotaskipti.*
-■ *6. gr.* Hafi bú stofnunar verið tekið til gjaldþrotaskipta skal héraðsdómari tilkynna það þegar í stað til Fjármálaeftirlitsins og Seðlabanka Íslands, með símskeyti, símbréfi eða rafrænum hætti, enda sé unnt að staðreyna og staðfesta efni og móttöku tilkynningarinnar. Í úrskurði um gjaldþrot, svo og tilkynningu um hann, skal koma fram nákvæm tilgreining þeirrar stundar er úrskurður var kveðinn upp um gjaldþrotaskipti á búi stofnunar. Tilkynningu sem gerð er samkvæmt þessari grein skal Fjármálaeftirlitið senda þegar í stað til hlutaðeigandi yfirvalda á Evrópska efnahagssvæðinu sem aðildarríkin hafa tilgreint sem móttakanda slíkra tilkynninga.
-■ *7. gr.* Um réttindi og skyldur þátttakanda í greiðslukerfi sem tekinn hefur verið til gjaldþrotaskipta skal fara eftir lögum sem gilda um hlutaðeigandi greiðslukerfi.
+ ■ *6. gr.* Hafi bú stofnunar verið tekið til gjaldþrotaskipta skal héraðsdómari tilkynna það þegar í stað til Fjármálaeftirlitsins og Seðlabanka Íslands, með símskeyti, símbréfi eða rafrænum hætti, enda sé unnt að staðreyna og staðfesta efni og móttöku tilkynningarinnar. Í úrskurði um gjaldþrot, svo og tilkynningu um hann, skal koma fram nákvæm tilgreining þeirrar stundar er úrskurður var kveðinn upp um gjaldþrotaskipti á búi stofnunar. Tilkynningu sem gerð er samkvæmt þessari grein skal Fjármálaeftirlitið senda þegar í stað til hlutaðeigandi yfirvalda á Evrópska efnahagssvæðinu sem aðildarríkin hafa tilgreint sem móttakanda slíkra tilkynninga.
+ ■ *7. gr.* Um réttindi og skyldur þátttakanda í greiðslukerfi sem tekinn hefur verið til gjaldþrotaskipta skal fara eftir lögum sem gilda um hlutaðeigandi greiðslukerfi.
 
  *IV. kafli.* *Vernd veðréttinda gegn gjaldþrotaskiptum á búi veðþola.*
-■ *8. gr.* Gjaldþrotaskipti á búi þátttakanda eða milligönguaðila skulu á engan hátt skerða rétt annarra þátttakenda eða seðlabanka til veðtrygginga. Ávallt er heimilt að innleysa þegar í stað veðtryggingar samkvæmt þessari grein til fullnustu á kröfum annarra þátttakenda eða seðlabanka.
-■ *9. gr.* Um veðtryggingu sem veitt er í rafbréfum, eða erlendum verðbréfum sem eru rafrænt skráð á viðurkenndan hátt að lögum, skal að öllu leyti fara samkvæmt lögum þess ríkis þar sem rafræn skráning verðbréfanna fer fram.
+ ■ *8. gr.* Gjaldþrotaskipti á búi þátttakanda eða milligönguaðila skulu á engan hátt skerða rétt annarra þátttakenda eða seðlabanka til veðtrygginga. Ávallt er heimilt að innleysa þegar í stað veðtryggingar samkvæmt þessari grein til fullnustu á kröfum annarra þátttakenda eða seðlabanka.
+ ■ *9. gr.* Um veðtryggingu sem veitt er í rafbréfum, eða erlendum verðbréfum sem eru rafrænt skráð á viðurkenndan hátt að lögum, skal að öllu leyti fara samkvæmt lögum þess ríkis þar sem rafræn skráning verðbréfanna fer fram.
 
  *V. kafli.* *Upplýsingagjöf vegna þátttöku í greiðslukerfi o.fl.*
-■ *10. gr.* Þátttakandi í greiðslukerfi skal upplýsa hvern þann sem þess óskar og hefur lögmætra hagsmuna að gæta um það í hvaða greiðslukerfi hann tekur þátt og um helstu reglur sem gilda um starfsemi hlutaðeigandi kerfis.
-■ *11. gr.* Ráðherra getur með reglugerð kveðið nánar á um framkvæmd laga þessara.
-■ *12. gr.* Um samning óbeins þátttakanda um aðild að greiðslukerfi fer samkvæmt íslenskum lögum.
+ ■ *10. gr.* Þátttakandi í greiðslukerfi skal upplýsa hvern þann sem þess óskar og hefur lögmætra hagsmuna að gæta um það í hvaða greiðslukerfi hann tekur þátt og um helstu reglur sem gilda um starfsemi hlutaðeigandi kerfis.
+ ■ *11. gr.* Ráðherra getur með reglugerð kveðið nánar á um framkvæmd laga þessara.
+ ■ *12. gr.* Um samning óbeins þátttakanda um aðild að greiðslukerfi fer samkvæmt íslenskum lögum.
 
  *VI. kafli.* *Gildistaka o.fl.*
-■ *13. gr.* Lög þessi öðlast þegar gildi.
+ ■ *13. gr.* Lög þessi öðlast þegar gildi.
  □ Lög þessi eru sett í samræmi við ákvörðun sameiginlegu EES-nefndarinnar nr. 53/1999 og til þess að taka upp í innlendan rétt ákvæði tilskipunar Evrópuþingsins og ráðsins nr. 26 19. maí 1998, um efndir og lok viðskipta í uppgjörskerfum fyrir verðbréf og greiðslur í fjármálaviðskiptum.
 
 

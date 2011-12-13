@@ -7,15 +7,16 @@ h2. Lög um Bjargráðasjóð
 <hr />
 
 
- *Tóku gildi 23. apríl 2009.* _Breytt með_ l. 46/2010 (tóku gildi 29. maí 2010) og "l. 77/2010":2010077.html (tóku gildi 1. júlí 2010).
+ *Tóku gildi 23. apríl 2009.* _Breytt með_ l. 46/2010 (tóku gildi 29. maí 2010), "l. 77/2010":2010077.html (tóku gildi 1. júlí 2010) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
  ■ *1. gr.* Bjargráðasjóður er sjálfstæð stofnun, að jöfnu í sameign ríkisins og Bændasamtaka Íslands. Eignaraðilar bera ekki ábyrgð á skuldbindingum sjóðsins umfram árleg, óafturkræf framlög sín til hans skv. 5. gr.
  □ Heimili og varnarþing Bjargráðasjóðs er í Reykjavík.
-■ *2. gr.* Sjávarútvegs- og landbúnaðarráðherra skipar þriggja manna stjórn Bjargráðasjóðs til fjögurra ára í senn. Ráðherra skipar formann stjórnar en tveir fulltrúar skulu skipaðir samkvæmt tilnefningu Bændasamtaka Íslands. Varamenn eru jafnmargir og valdir af sömu aðilum.
-■ *3. gr.* Stjórn sjóðsins hefur á hendi stjórn hans, metur og tekur ákvarðanir um afgreiðslu umsókna og styrkveitinga úr báðum deildum sjóðsins.
+ ■ *2. gr.* [Ráðherra][^1)^] skipar þriggja manna stjórn Bjargráðasjóðs til fjögurra ára í senn. Ráðherra skipar formann stjórnar en tveir fulltrúar skulu skipaðir samkvæmt tilnefningu Bændasamtaka Íslands. Varamenn eru jafnmargir og valdir af sömu aðilum.
+    _[^1)^]L. 126/2011, 509. gr._
+ ■ *3. gr.* Stjórn sjóðsins hefur á hendi stjórn hans, metur og tekur ákvarðanir um afgreiðslu umsókna og styrkveitinga úr báðum deildum sjóðsins.
  □ Stjórnin ræður framkvæmdastjóra og annað starfslið sjóðsins og ákveður kaup þess og kjör í samræmi við kjarasamninga. Heimilt er þó stjórninni að semja við Bændasamtök Íslands eða aðra stofnun, sem henta þykir, um sameiginlega framkvæmdastjórn, skrifstofuhald og rekstur sjóðsins.
-■ *4. gr.* Bjargráðasjóður skiptist í tvær deildir, almenna deild og búnaðardeild. Halda skal bókhaldi hvorrar deildar um sig aðgreindu. Rekstrarkostnaður sjóðsins greiðist úr almennri deild hans.
-■ *5. gr.* Árlegar tekjur Bjargráðasjóðs eru:
+ ■ *4. gr.* Bjargráðasjóður skiptist í tvær deildir, almenna deild og búnaðardeild. Halda skal bókhaldi hvorrar deildar um sig aðgreindu. Rekstrarkostnaður sjóðsins greiðist úr almennri deild hans.
+ ■ *5. gr.* Árlegar tekjur Bjargráðasjóðs eru:
     a. tekjur af búnaðargjaldi skv. "6. gr. laga um búnaðargjald, nr. 84/1997":1997084.html#g6, með síðari breytingum, og viðauka með þeim lögum,
     b. framlag ríkissjóðs ...[^1)^] eftir því sem nánar er kveðið á um í fjárlögum,
     c. vextir af fé sjóðsins,
@@ -26,7 +27,8 @@ h2. Lög um Bjargráðasjóð
     b. í búnaðardeild rennur allt framlag skv. a-lið 5. gr.,
     c. stjórn sjóðsins ákveður í hvora deild tekjur skv. d-lið 5. gr. renna.
 ■ *7. gr.* Framlag ríkissjóðs greiðist með jöfnum, mánaðarlegum greiðslum.
- □ Fjármálaráðherra stendur skil á hlut Bjargráðasjóðs í búnaðargjaldi í samræmi við "6. gr. laga um búnaðargjald, nr. 84/1997":1997084.html#g6.
+ □ [Ráðherra er fer með fjárreiður ríkisins][^1)^] stendur skil á hlut Bjargráðasjóðs í búnaðargjaldi í samræmi við "6. gr. laga um búnaðargjald, nr. 84/1997":1997084.html#g6.
+    _[^1)^]L. 126/2011, 509. gr._
  ■ *8. gr.* Hlutverk almennrar deildar sjóðsins er að veita einstaklingum og félögum fjárhagsaðstoð til að bæta meiri háttar beint tjón af völdum náttúruhamfara:
     a. á gjaldskyldum fasteignum samkvæmt skilgreiningu laga um tekjustofna sveitarfélaga, sbr. lög um [Þjóðskrá Íslands],[^1)^] og girðingum, túnum og rafmagnslínum er tengjast landbúnaði,
     b. á heyi sem notað er við landbúnaðarframleiðslu,
@@ -34,21 +36,21 @@ h2. Lög um Bjargráðasjóð
  □ Ekki er bætt tjón sem nýtur almennrar tryggingaverndar eða hægt er að fá bætt með öðrum hætti, sbr. ákvæði laga um Viðlagatryggingu Íslands.
  □ Ekki verður veitt fjárhagsaðstoð vegna tjóns ef ásetningi eða gáleysi eiganda eða umsjónarmanns verður um kennt, eðlilegar varnir ekki verið við hafðar og ef staðsetning hluta er óeðlileg með tilliti til tjónshættu.
  □ Ekki verður veitt fjárhagsaðstoð vegna tjóns á stærri mannvirkjum, svo sem orku- og hafnarmannvirkjum, sjóvarnargörðum, fiskeldismannvirkjum og skipasmíðastöðvum.
-    _[^1)^]_"L. 77/2010, 5. gr.":2010077.html#g5
+    _[^1)^]"L. 77/2010, 5. gr.":2010077.html#g5_
  ■ *9. gr.* Hlutverk búnaðardeildar er að bæta meiri háttar tjón hjá einstaklingum og félögum vegna sjúkdóma, óvenjulegs veðurfars og slysa þegar ásetningi eða gáleysi eiganda eða umsjónarmanns verður eigi um kennt og eðlilegar varnir hafa verið við hafðar. Ekki er bætt tjón sem almennt er tryggt fyrir innan búgreinar eða hægt er að fá bætt með öðrum hætti, sbr. ákvæði laga um Viðlagatryggingu Íslands. Bætt er:
     a. tjón á búfé og afurðum búfjár,
     b. uppskerutjón.
  □ Stjórn sjóðsins er enn fremur heimilt að styrkja fyrirbyggjandi aðgerðir til að koma í veg fyrir tjón sem Bjargráðasjóði ber að bæta. Hámark fyrirbyggjandi styrkja er 10% af ráðstöfunarfé hvers árs.
-■ *10. gr.* Fjárhagsaðstoð beggja deilda sjóðsins er fólgin í veitingu styrkja sem stjórn sjóðsins ákveður hverju sinni í samræmi við fjárhag og stöðu sjóðsins. Stjórn sjóðsins leggur mat á styrkhæfni tjóns, ákveður styrkhlutfall og eigin áhættu tjónþola í tjóni. Styrkhlutfall og eigin áhættu er stjórn sjóðsins heimilt að ákveða mismunandi eftir búgreinum og tegundum eigna og taka í því efni m.a. mið af tekjuskiptingu sjóðsins og rekstraráhættu hverrar búgreinar. Stjórn sjóðsins er heimilt að setja sér nánari vinnureglur um veitingu styrkja samkvæmt þessari grein.
+ ■ *10. gr.* Fjárhagsaðstoð beggja deilda sjóðsins er fólgin í veitingu styrkja sem stjórn sjóðsins ákveður hverju sinni í samræmi við fjárhag og stöðu sjóðsins. Stjórn sjóðsins leggur mat á styrkhæfni tjóns, ákveður styrkhlutfall og eigin áhættu tjónþola í tjóni. Styrkhlutfall og eigin áhættu er stjórn sjóðsins heimilt að ákveða mismunandi eftir búgreinum og tegundum eigna og taka í því efni m.a. mið af tekjuskiptingu sjóðsins og rekstraráhættu hverrar búgreinar. Stjórn sjóðsins er heimilt að setja sér nánari vinnureglur um veitingu styrkja samkvæmt þessari grein.
  □ Forsenda styrkveitinga úr sjóðnum er að skil hafi verið gerð á búnaðargjaldi í samræmi við ákvæði "laga nr. 84/1997":1997084.html.
  ■ *11. gr.* Nú er um að tefla almennt bótaskylt tjón í einu byggðarlagi eða fleirum og getur þá stjórn Bjargráðasjóðs skipað nefnd til þess að rannsaka tjónið og gera tillögur til stjórnar sjóðsins um aðstoð vegna þess.
  □ Kostnaður vegna slíkra nefndarstarfa greiðist úr þeirri deild sjóðsins sem veitir aðstoð vegna tjónsins.
-■ *12. gr.* Ársreikningar sjóðsins skulu fullgerðir fyrir febrúarlok ár hvert. Sjóðstjórn felur löggiltum endurskoðanda að endurskoða reikninga sjóðsins og skal endurskoðun að jafnaði lokið fyrir 30. apríl ár hvert. Endurskoðaðir og samþykktir ársreikningar skulu sendir eigendum sjóðsins.
-■ *13. gr.* Fé Bjargráðasjóðs, sem ekki hefur verið ráðstafað skv. 8. - 11. gr., skal ávaxtað með sem tryggustum og hagkvæmustum hætti samkvæmt nánari ákvörðun stjórnarinnar.
+ ■ *12. gr.* Ársreikningar sjóðsins skulu fullgerðir fyrir febrúarlok ár hvert. Sjóðstjórn felur löggiltum endurskoðanda að endurskoða reikninga sjóðsins og skal endurskoðun að jafnaði lokið fyrir 30. apríl ár hvert. Endurskoðaðir og samþykktir ársreikningar skulu sendir eigendum sjóðsins.
+ ■ *13. gr.* Fé Bjargráðasjóðs, sem ekki hefur verið ráðstafað skv. 8. - 11. gr., skal ávaxtað með sem tryggustum og hagkvæmustum hætti samkvæmt nánari ákvörðun stjórnarinnar.
  □ Nú hrekkur fé annarrar hvorrar deildar sjóðsins eigi til að veita þá aðstoð sem nauðsyn krefur samkvæmt lögunum og að mati sjóðstjórnar og er þá sjóðstjórninni heimilt að lána fé milli deilda án vaxta. Einnig er ríkisstjórninni heimilt að ábyrgjast nauðsynleg lán fyrir sjóðinn eða veita honum lán úr ríkissjóði gegn veði í eignum og tekjum sjóðsins. Stjórn sjóðsins er ekki heimilt að taka lán með útgáfu og sölu á skuldabréfum og öðrum endurgreiðanlegum skuldaviðurkenningum til almennings.
-■ *14. gr.* Skuldabréf fyrir lánum, sem Bjargráðasjóður tekur samkvæmt ákvæðum laga þessara, skulu undanþegin stimpilgjöldum og ríkisábyrgðargjöldum.
-■ *15. gr.* Í reglugerð, sem stjórnin semur og ráðherra staðfestir, skal setja nánari reglur um sjóðinn og starfsemi hans.
-■ *16. gr.* Lög þessi öðlast þegar gildi. ...
+ ■ *14. gr.* Skuldabréf fyrir lánum, sem Bjargráðasjóður tekur samkvæmt ákvæðum laga þessara, skulu undanþegin stimpilgjöldum og ríkisábyrgðargjöldum.
+ ■ *15. gr.* Í reglugerð, sem stjórnin semur og ráðherra staðfestir, skal setja nánari reglur um sjóðinn og starfsemi hans.
+ ■ *16. gr.* Lög þessi öðlast þegar gildi. ...
  *Ákvæði til bráðabirgða.*
  ■ *I.* Þar sem sveitarfélög koma ekki lengur að fjármögnun og starfsemi Bjargráðasjóðs með gildistöku laga þessara skal fara fram uppgjör á eignum og skuldbindingum sjóðsins í samræmi við ákvæði þetta. Stjórn sjóðsins stýrir uppgjöri á eignum og skuldbindingum sjóðsins og er henni heimilt að afla sérfræðiaðstoðar eftir því sem hún telur þörf á.
  □ Samband íslenskra sveitarfélaga skal hafa forkaupsrétt að fasteign sjóðsins.

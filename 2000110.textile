@@ -14,7 +14,7 @@ h2. Lög um lífsýnasöfn
  ■ *1. gr.* _Markmið._
  □ Markmiðið með lögum þessum er að heimila söfnun, vörslu, meðferð og nýtingu lífsýna úr mönnum með þeim hætti að persónuvernd sé trygg, gætt sé hagsmuna lífsýnisgjafa og nýting lífsýnanna þjóni vísindalegum og læknisfræðilegum tilgangi og stuðli að almannaheill.
  □ Aldrei skal setja hagsmuni vísinda og samfélags ofar hagsmunum lífsýnisgjafa. Óheimilt er að mismuna lífsýnisgjafa á grundvelli upplýsinga sem fengnar eru úr lífsýni hans.
-■ *2. gr.* _Gildissvið._
+ ■ *2. gr.* _Gildissvið._
  □ Lög þessi taka til söfnunar lífsýna, vörslu, meðferðar, nýtingar og vistunar þeirra í lífsýnasöfnum.
  □ Lögin taka ekki til tímabundinnar vörslu lífsýna sem safnað er vegna þjónusturannsókna, meðferðar, eða afmarkaðra vísindarannsókna, enda sé slíkum sýnum eytt þegar þjónustu, meðferð eða rannsókn lýkur. Með tímabundinni vörslu er átt við vörslu í allt að fimm ár, nema vísindasiðanefnd veiti heimild til vörslu í lengri tíma. Sé óskað eftir varðveislu slíkra sýna til frambúðar skal vista þau í lífsýnasafni.
  □ Lögin gilda ekki um geymslu kynfrumna og fósturvísa samkvæmt [lögum um tæknifrjóvgun og notkun kynfrumna og fósturvísa manna til stofnfrumurannsókna],[^1)^] líffæra samkvæmt lögum um brottnám líffæra eða líkamsleifa samkvæmt þjóðminjalögum.
@@ -39,7 +39,7 @@ h2. Lög um lífsýnasöfn
  *II. kafli.* *Stofnun og starfræksla lífsýnasafna.*
  ■ *4. gr.* _Heimild til stofnunar og starfrækslu._
  □ Stofnun og starfræksla lífsýnasafns, þ.e. söfnun, varsla, meðferð, nýting og vistun lífsýna, er einungis heimil þeim sem fengið hefur til þess leyfi ráðherra samkvæmt lögum þessum, að fenginni umsögn landlæknis og vísindasiðanefndar.
-■ *5. gr.* _Skilyrði fyrir leyfi._
+ ■ *5. gr.* _Skilyrði fyrir leyfi._
  □ Leyfi til stofnunar og starfrækslu lífsýnasafns er háð eftirfarandi skilyrðum:
     1. Uppfyllt séu ákvæði laga þessara og stjórnvaldsfyrirmæla sem kunna að verða sett á grundvelli þeirra.
     2. Lífsýnasafnið sé staðsett hér á landi.
@@ -51,12 +51,12 @@ h2. Lög um lífsýnasöfn
     [8. Séu bæði vísindasýni og þjónustusýni í sama lífsýnasafni skulu þau vera skýrt aðgreind og merkt þannig að tryggt sé að varsla, meðferð og nýting þeirra sé í samræmi við ákvæði laganna og stjórnvaldsfyrirmæla sem sett eru á grundvelli þeirra.][^1)^]
     [9. ][^1)^] Að öryggismat og öryggisráðstafanir við söfnun og meðferð lífsýna séu í samræmi við reglur[^2)^] [Persónuverndar][^1)^] um öryggi persónuupplýsinga í lífsýnasöfnum.
  □ Ráðherra getur bundið leyfi frekari skilyrðum.
-    _[^1)^]L. 48/2009, 2. gr._ [^2)^]Rgl. 918/2001.
+    _[^1)^]L. 48/2009, 2. gr. [^2)^]Rgl. 918/2001._
  ■ *6. gr.* _Stjórn lífsýnasafns._
  □ Leyfishafi skipar a.m.k. þriggja manna stjórn yfir hverju lífsýnasafni sem skal hafa eftirlit með starfsemi þess. Stjórnin hefur upplýsingaskyldu gagnvart landlækni, Persónuvernd og vísindasiðanefnd um lífsýni og starfsemi lífsýnasafnsins.
 
  *III. kafli.* *Söfnun, meðferð og aðgangur að lífsýnum.*
-■ *7. gr.* _Samþykki lífsýnisgjafa og afturköllun þess._
+ ■ *7. gr.* _Samþykki lífsýnisgjafa og afturköllun þess._
  □ Við öflun lífsýnis til vörslu í [lífsýnasafni vísindasýna][^1)^] skal leitað eftir upplýstu, óþvinguðu samþykki þess sem lífsýnið gefur. Það skal veitt skriflega og af fúsum og frjálsum vilja eftir að lífsýnisgjafi hefur verið upplýstur um markmið með töku sýnisins, gagnsemi þess, áhættu samfara tökunni og að lífsýnið verði varðveitt til frambúðar í [lífsýnasafni vísindasýna][^1)^] til notkunar skv. 9. gr. Auk þess skal gætt ákvæða 20. gr. laga um persónuvernd og meðferð persónuupplýsinga þar sem það á við.
  □ Lífsýnisgjafi getur hvenær sem er afturkallað samþykki sitt skv. 1. mgr. og skal lífsýninu þá eytt. Efni sem unnið hefur verið úr lífsýni við framkvæmd rannsóknar eða niðurstöðum rannsóknar sem þegar hefur verið framkvæmd skal þó ekki eytt.
  □ Hafi lífsýnum verið safnað vegna þjónusturannsókna eða meðferðar má ganga út frá ætluðu samþykki sjúklings fyrir því að lífsýnið verði vistað í [lífsýnasafni þjónustusýna][^1)^] til notkunar skv. 9. gr., enda sé þess getið í almennum upplýsingum frá heilbrigðisstarfsmanni eða heilbrigðisstofnun.
@@ -74,7 +74,7 @@ h2. Lög um lífsýnasöfn
  □ [Þegar veittur er aðgangur að þjónustusýnum til vísindarannsókna skulu þau afhent án persónuauðkenna. Í undantekningartilvikum er heimilt, með leyfi Persónuverndar, að afhenda lífsýni með persónuauðkennum. Tengsl lífsýna við persónuauðkenni skulu vera í samræmi við reglur Persónuverndar.][^1)^]
  □ Safnstjórn getur, að fengnu leyfi Persónuverndar og vísindasiðanefndar, heimilað notkun lífsýna í öðrum tilgangi en ætlað var þegar þau voru tekin, enda mæli brýnir hagsmunir með því og ávinningurinn vegi þyngra en hugsanlegt óhagræði fyrir lífsýnisgjafann eða aðra aðila.
  □ Ráðherra skal, að fengnum tillögum landlæknis, vísindasiðanefndar og Persónuverndar, setja reglugerð[^2)^] með frekari ákvæði um notkun lífsýna.
-    _[^1)^]L. 48/2009, 5. gr._ [^2)^]Rg. 1146/2010.
+    _[^1)^]L. 48/2009, 5. gr. [^2)^]Rg. 1146/2010._
  ■ *10. gr.* _Umráðaréttur og gjaldtaka._
  □ Leyfishafi telst ekki eigandi lífsýnanna en hefur umráðarétt yfir þeim með þeim takmörkunum sem lög kveða á um og ber ábyrgð á að meðferð þeirra sé í samræmi við ákvæði laga þessara og stjórnvaldsfyrirmæla sem sett eru á grundvelli þeirra. Leyfishafa er því óheimilt að framselja lífsýnin eða setja þau að veði til tryggingar fjárskuldbindingum og þau eru ekki aðfararhæf.
  □ Leyfishafa er heimilt að taka gjald fyrir lífsýni, eða aðgang að lífsýni, sem nemur kostnaði við öflun, vörslu og aðgang að sýnunum. Gjaldtaka umfram það er óheimil.
@@ -84,7 +84,7 @@ h2. Lög um lífsýnasöfn
  □ Allir starfsmenn lífsýnasafna og þeir sem fá aðgang að þeim eru bundnir þagnarskyldu um atriði sem þeir komast að við störf sín og leynt skulu fara samkvæmt lögum eða eðli máls. Þagnarskyldan helst eftir að starfi, rannsókn eða kennslu lýkur.
 
  *IV. kafli.* *Eftirlit og upplýsingaskylda.*
-■ *12. gr.* _Eftirlit._
+ ■ *12. gr.* _Eftirlit._
  □ Ábyrgðarmaður lífsýnasafns ber ábyrgð á því að viðhaft sé innra eftirlit og að öryggismat sé framkvæmt reglulega í samræmi við ákvæði 11. og 12. gr. laga um persónuvernd og meðferð persónuupplýsinga.
  □ Persónuvernd hefur eftirlit með öryggi persónuupplýsinga í lífsýnasöfnum. Um eftirlit Persónuverndar með lífsýnasöfnum gilda ákvæði 4. mgr. 35. gr., 2. og 3. mgr. 37. gr. og 38. - 43. gr. laga um persónuvernd og meðferð persónuupplýsinga.
  □ [Vísindasiðanefnd hefur eftirlit með starfsemi lífsýnasafna vísindasýna. Landlæknir hefur eftirlit með starfsemi lífsýnasafna þjónustusýna. Um eftirlit landlæknis fer samkvæmt lögum um landlækni.][^1)^]
@@ -95,15 +95,15 @@ h2. Lög um lífsýnasöfn
  □ Safnstjórn eða landlækni er skylt að veita einstaklingi upplýsingar um hvort lífsýni úr honum eru geymd í lífsýnasafni og hvers konar lífsýni það eru.
 
  *V. kafli.* *Refsingar og önnur viðurlög.*
-■ *14. gr.* Ráðherra getur afturkallað leyfi samkvæmt lögum þessum ef leyfishafi eða starfsmenn hans brjóta gegn ákvæðum laganna eða stjórnvaldsfyrirmælum sem sett eru á grundvelli þeirra, skilyrðum leyfis er ekki fullnægt eða leyfishafi verður ófær um að reka safnið. Brjóti leyfishafi gegn ákvæðum laga þessara eða hlíti ekki skilyrðum þeim sem sett eru í leyfinu skal ráðherra veita honum skriflega viðvörun og hæfilegan frest til úrbóta. Sinni leyfishafi ekki slíkri viðvörun skal afturkalla leyfi. Sé um ásetning að ræða eða stórfellt gáleysi getur ráðherra afturkallað starfsleyfi án undanfarandi viðvörunar eða frests til úrbóta.
-■ *15. gr.* Brot gegn ákvæðum laga þessara og stjórnvaldsfyrirmæla sem sett eru á grundvelli þeirra varða sektum eða fangelsi allt að þremur árum nema þyngri refsing liggi við samkvæmt öðrum lögum.
+ ■ *14. gr.* Ráðherra getur afturkallað leyfi samkvæmt lögum þessum ef leyfishafi eða starfsmenn hans brjóta gegn ákvæðum laganna eða stjórnvaldsfyrirmælum sem sett eru á grundvelli þeirra, skilyrðum leyfis er ekki fullnægt eða leyfishafi verður ófær um að reka safnið. Brjóti leyfishafi gegn ákvæðum laga þessara eða hlíti ekki skilyrðum þeim sem sett eru í leyfinu skal ráðherra veita honum skriflega viðvörun og hæfilegan frest til úrbóta. Sinni leyfishafi ekki slíkri viðvörun skal afturkalla leyfi. Sé um ásetning að ræða eða stórfellt gáleysi getur ráðherra afturkallað starfsleyfi án undanfarandi viðvörunar eða frests til úrbóta.
+ ■ *15. gr.* Brot gegn ákvæðum laga þessara og stjórnvaldsfyrirmæla sem sett eru á grundvelli þeirra varða sektum eða fangelsi allt að þremur árum nema þyngri refsing liggi við samkvæmt öðrum lögum.
  □ Dæma má lögaðila jafnt sem einstaklinga til greiðslu sekta vegna brota á lögunum. Lögaðila má ákvarða sekt án tillits til þess hvort sök verður sönnuð á starfsmann hans. Hafi starfsmaður lögaðila framið brot á lögum þessum eða stjórnvaldsfyrirmælum settum samkvæmt þeim má einnig gera lögaðilanum sekt. Lögaðili ber ábyrgð á greiðslu sektar sem starfsmaður hans er dæmdur til að greiða vegna brota á lögum þessum, enda séu brot tengd starfi hans hjá lögaðilanum.
 
  *VI. kafli.* *Ýmis ákvæði.*
-■ *16. gr.* _Stjórnvaldsfyrirmæli._
+ ■ *16. gr.* _Stjórnvaldsfyrirmæli._
  □ Ráðherra er heimilt að setja reglugerðir[^1)^] um frekari framkvæmd laga þessara.
  □ Ráðherra skal setja reglugerð um hvernig veita skuli upplýsingar um ætlað samþykki skv. 3. mgr. 7. gr., hvernig tryggja skuli að afturköllun á ætluðu samþykki lífsýnisgjafa skv. 4. mgr. 7. gr. verði virt, um úrsagnaskrá og fyrirkomulag hennar, sbr. 4. mgr. 7. gr., og hvernig tryggja skuli jafnræði þeirra sem óska eftir aðgangi að lífsýnasöfnum vegna vísindarannsókna skv. 3. mgr. 9. gr.
-    _[^1)^]Rg. 1146/2010_.
+    _[^1)^]Rg. 1146/2010._
  ■ *17. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. janúar 2001.
  ■ *Ákvæði til bráðabirgða.*

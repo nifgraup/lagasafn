@@ -7,23 +7,25 @@ h2. Lög um Byggðastofnun
 <hr />
 
 
- *Tóku gildi 1. janúar 2000.* _Breytt með_ l. 87/2009 (tóku gildi 20. ágúst 2009) og "l. 123/2010":2010123.html (tóku gildi 1. jan. 2011).
+ *Tóku gildi 1. janúar 2000.* _Breytt með_ l. 87/2009 (tóku gildi 20. ágúst 2009), "l. 123/2010":2010123.html (tóku gildi 1. jan. 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
 
  *I. kafli.* *Hlutverk og skipulag.*
  ■ *1. gr.* _Yfirstjórn og staðsetning._
- □ Byggðastofnun er sérstök stofnun í eigu íslenska ríkisins og heyrir undir yfirstjórn iðnaðarráðherra.
- □ Iðnaðarráðherra ákveður staðsetningu Byggðastofnunar að fenginni tillögu stjórnar.
-■ *2. gr.* _Hlutverk._
+ □ Byggðastofnun er sérstök stofnun í eigu íslenska ríkisins og heyrir undir yfirstjórn [ráðherra].[^1)^]
+ □ [Ráðherra][^1)^] ákveður staðsetningu Byggðastofnunar að fenginni tillögu stjórnar.
+    _[^1)^]L. 126/2011, 291. gr._
+ ■ *2. gr.* _Hlutverk._
  □ Hlutverk Byggðastofnunar er að vinna að eflingu byggðar og atvinnulífs á landsbyggðinni.
  □ Í samræmi við hlutverk sitt vinnur stofnunin að undirbúningi, skipulagi og fjármögnun verkefna og veitingu lána með það að markmiði að treysta byggð, efla atvinnu og stuðla að nýsköpun í atvinnulífi. Fjármögnun verkefna skal eftir föngum vera í samstarfi við aðra.
  □ Byggðastofnun fylgist með þróun byggðar í landinu, m.a. með gagnasöfnun og rannsóknum. Stofnunin skipuleggur og vinnur að atvinnuráðgjöf í samstarfi við atvinnuþróunarfélög, sveitarfélög og aðra. Stofnunin getur gert eða látið gera áætlanir um þróun byggðar og atvinnulífs í þeim tilgangi að treysta búsetu og atvinnu í byggðum landsins. Stofnunin getur einnig tekið þátt í gerð svæðisskipulags samkvæmt [skipulagslögum].[^1)^]
-    _[^1)^]_"L. 123/2010, 57. gr.":2010123.html#g57
+    _[^1)^]"L. 123/2010, 57. gr.":2010123.html#g57_
  ■ *3. gr.* _Ársfundur og stjórn._
  □ Halda skal ársfund Byggðastofnunar fyrir 1. júlí ár hvert. Nánar skal kveðið á um ársfund í reglugerð.
- □ Iðnaðarráðherra skipar á ársfundi sjö menn í stjórn Byggðastofnunar til eins árs í senn og sjö menn til vara. Iðnaðarráðherra skipar formann og varaformann og ákveður þóknun stjórnar.
+ □ [Ráðherra][^1)^] skipar á ársfundi sjö menn í stjórn Byggðastofnunar til eins árs í senn og sjö menn til vara. [Ráðherra][^1)^] skipar formann og varaformann og ákveður þóknun stjórnar.
  □ Á stjórnarfundum ræður afl atkvæða.
-■ *4. gr.* _Verkefni stjórnar._
+    _[^1)^]L. 126/2011, 291. gr._
+ ■ *4. gr.* _Verkefni stjórnar._
  □ Verkefni stjórnar Byggðastofnunar eru:
     1. Að ákveða starfsskipulag að því leyti sem það hefur ekki verið gert í reglugerð.
     2. Að móta stefnu um helstu áherslur, verkefni og starfshætti og sjá til þess að henni sé framfylgt.
@@ -35,10 +37,11 @@ h2. Lög um Byggðastofnun
     8. Að taka ákvarðanir um hlutafjárkaup og þátttöku í eignarhalds-, fjárfestingar- og þróunarfélögum.
     9. Að setja reglur um lánakjör og fjármögnun verkefna.
     10. Að taka ákvarðanir og setja reglur um lán- og ábyrgðarveitingar. Þá skal stjórn setja reglur um upplýsingagjöf til stjórnar um þau efni.
-    11. Önnur verkefni sem iðnaðarráðherra felur stjórn að vinna á sviði byggða- og atvinnumála.
-■ *5. gr.* _Forstjóri._
- □ Iðnaðarráðherra skipar forstjóra til fimm ára í senn að fenginni tillögu stjórnar. [Kjararáð ákveður starfskjör forstjóra.][^1)^]
-    _[^1)^]L. 87/2009, 7. gr._
+    11. Önnur verkefni sem [ráðherra][^1)^] felur stjórn að vinna á sviði byggða- og atvinnumála.
+    _[^1)^]L. 126/2011, 291. gr._
+ ■ *5. gr.* _Forstjóri._
+ □ [Ráðherra][^1)^] skipar forstjóra til fimm ára í senn að fenginni tillögu stjórnar. [Kjararáð ákveður starfskjör forstjóra.][^2)^]
+    _[^1)^]L. 126/2011, 291. gr. [^2)^]L. 87/2009, 7. gr._
  ■ *6. gr.* _Verkefni forstjóra._
  □ Verkefni forstjóra Byggðastofnunar eru:
     1. Að stjórna daglegum rekstri stofnunarinnar.
@@ -53,46 +56,49 @@ h2. Lög um Byggðastofnun
 
  *II. kafli.* *Starfsemi.*
 ■ *7. gr.* _Byggðaáætlun._
- □ Iðnaðarráðherra leggur fyrir Alþingi tillögu til þingsályktunar um stefnumótandi byggðaáætlun fyrir fjögurra ára tímabil. Áætlunin skal lýsa markmiðum og stefnu ríkisstjórnarinnar í byggðamálum, áætlunum um aðgerðir og tengsl byggðastefnu við almenna stefnu í efnahags- og atvinnumálum og áætlunum á sviði opinberrar þjónustu í landinu.
+ □ [Ráðherra][^1)^] leggur fyrir Alþingi tillögu til þingsályktunar um stefnumótandi byggðaáætlun fyrir fjögurra ára tímabil. Áætlunin skal lýsa markmiðum og stefnu ríkisstjórnarinnar í byggðamálum, áætlunum um aðgerðir og tengsl byggðastefnu við almenna stefnu í efnahags- og atvinnumálum og áætlunum á sviði opinberrar þjónustu í landinu.
  □ Í byggðaáætlun skal gerð grein fyrir ástandi og horfum í þróun byggðar í landinu.
- □ Iðnaðarráðherra skal vinna að byggðaáætlun í samvinnu við Byggðastofnun. Við gerð byggðaáætlunar hafi iðnaðarráðherra samráð við önnur ráðuneyti, sveitarfélög og aðra aðila eftir þörfum.
+ □ [Ráðherra][^1)^] skal vinna að byggðaáætlun í samvinnu við Byggðastofnun. Við gerð byggðaáætlunar hafi [ráðherra][^1)^] samráð við önnur ráðuneyti, sveitarfélög og aðra aðila eftir þörfum.
  □ Byggðaáætlun skal endurskoða á tveggja ára fresti.
-■ *8. gr.* _Rannsóknir á atvinnu- og byggðaþróun._
+    _[^1)^]L. 126/2011, 291. gr._
+ ■ *8. gr.* _Rannsóknir á atvinnu- og byggðaþróun._
  □ Byggðastofnun vinnur að gagnasöfnun og rannsóknum og fylgist með atvinnu- og byggðaþróun og helstu áhrifaþáttum hennar og árangri opinberra stuðningsaðgerða á sviði atvinnumála og byggðaþróunar, jafnt á Íslandi sem í löndum þar sem svipaðar aðstæður eru. Stofnunin getur tekið þátt í alþjóðlegum rannsóknarverkefnum og gert samninga við háskóla, rannsóknastofnanir og aðra um rannsóknir á þessu sviði.
-■ *9. gr.* _Atvinnuráðgjöf._
+ ■ *9. gr.* _Atvinnuráðgjöf._
  □ Byggðastofnun skipuleggur og vinnur að ráðgjöf við atvinnulífið á landsbyggðinni í samstarfi við atvinnuþróunarfélög, sveitarfélög og aðra.
  □ Stofnunin skal í samstarfi við þá aðila sem sinna atvinnuráðgjöf vinna að bættu skipulagi atvinnuráðgjafar og aukinni þekkingu ráðgjafa, m.a. í því skyni að gera ráðgjöfina markvissa og stuðla að betri nýtingu fjármuna.
  □ Stofnunin getur gert samninga við atvinnuþróunarfélög, stofnanir, sveitarfélög, sjálfstætt starfandi ráðgjafa eða aðra um að annast atvinnuráðgjöf á tilteknu sviði, atvinnugrein eða landsvæði.
-■ *10. gr.* _Fjármögnun verkefna._
+ ■ *10. gr.* _Fjármögnun verkefna._
  □ Byggðastofnun veitir framlög til verkefna á sviði atvinnuuppbyggingar og nýsköpunar. Stjórn stofnunarinnar ákveður verkefnin og leitar eftir samstarfsaðilum um þau. Við umfjöllun um einstök verkefni getur stjórnin, ásamt samstarfsaðilum, sett á fót verkefnanefndir til ráðgjafar. Einnig er heimilt að fela atvinnuþróunarfélögum úthlutun fjár til einstakra verkefna.
-■ *11. gr.* _Veiting lána og ábyrgða._
+ ■ *11. gr.* _Veiting lána og ábyrgða._
  □ Byggðastofnun veitir lán eða ábyrgðir í samræmi við hlutverk sitt, sbr. 2. gr.
  □ Stjórn stofnunarinnar getur falið forstjóra að ákveða einstakar lánveitingar samkvæmt reglum sem stjórn setur, sbr. 10. tölul. 4. gr.
  □ Reikningslegur aðskilnaður skal vera á milli lánastarfsemi stofnunarinnar og annarrar starfsemi. Fjárhagslegt markmið lánastarfsemi stofnunarinnar samkvæmt þessari grein skal vera að varðveita eigið fé hennar að raungildi.
  □ Stjórn Byggðastofnunar getur tekið ákvörðun um að gera samninga um að fela fjármálastofnunum afgreiðslu og innheimtu lána, sem og aðra fjármálaumsýslu stofnunarinnar.
-■ *12. gr.* _Fjármögnun þróunarverkefna._
- □ Byggðastofnun er heimilt að fjármagna áhættusöm verkefni á sviði atvinnuþróunar og nýsköpunar samkvæmt nánari reglum sem iðnaðarráðherra setur að fengnum tillögum stjórnar.
+ ■ *12. gr.* _Fjármögnun þróunarverkefna._
+ □ Byggðastofnun er heimilt að fjármagna áhættusöm verkefni á sviði atvinnuþróunar og nýsköpunar samkvæmt nánari reglum sem [ráðherra][^1)^] setur að fengnum tillögum stjórnar.
  □ Þessi starfsemi skal einkum fjármögnuð með sérstökum framlögum úr ríkissjóði.
+    _[^1)^]L. 126/2011, 291. gr._
 
  *III. kafli.* *Önnur ákvæði.*
-■ *13. gr.* _Upplýsingar um starfsemi._
- □ Iðnaðarráðherra skal gefa Alþingi árlega skýrslu um starfsemi Byggðastofnunar og framvindu byggðaáætlunar.
+ ■ *13. gr.* _Upplýsingar um starfsemi._
+ □ [Ráðherra][^1)^] skal gefa Alþingi árlega skýrslu um starfsemi Byggðastofnunar og framvindu byggðaáætlunar.
  □ Ársreikningum skal fylgja skrá yfir verkefni stofnunarinnar og fjármögnun þeirra.
-■ *14. gr.* _Tekjur._
+    _[^1)^]L. 126/2011, 291. gr._
+ ■ *14. gr.* _Tekjur._
  □ Tekjur Byggðastofnunar eru:
     1. Framlag úr ríkissjóði eins og ákveðið er í fjárlögum hverju sinni.
     2. Fjármagnstekjur.
 ■ *15. gr.* _Lántaka._
  □ Byggðastofnun er heimilt innan ramma fjárlaga að taka lán til starfsemi sinnar innan lands eða erlendis, annaðhvort í eigin nafni eða fyrir milligöngu annarra aðila.
-■ *16. gr.* _Fjárvarsla._
+ ■ *16. gr.* _Fjárvarsla._
  □ Handbært fé Byggðastofnunar skal geyma á reikningum í bönkum og sparisjóðum eða tryggum verðbréfum.
-■ *17. gr.* _Undanþága frá gjöldum og sköttum._
+ ■ *17. gr.* _Undanþága frá gjöldum og sköttum._
  □ Byggðastofnun er undanþegin öllum opinberum gjöldum og sköttum til ríkissjóðs.
-■ *18. gr.* _Þagnarskylda._
+ ■ *18. gr.* _Þagnarskylda._
  □ Stjórnarmenn og allir starfsmenn Byggðastofnunar eru bundnir þagnarskyldu um atriði sem þeir fá vitneskju um í starfi sínu og leynt skulu fara samkvæmt lögum, fyrirmælum yfirboðara eða eðli málsins. Þagnarskylda helst þótt látið sé af starfi.
-■ *19. gr.* _Reglugerð._
- □ Nánari ákvæði um skipulag og starfsemi Byggðastofnunar og framkvæmd laga þessara má setja með reglugerð[^1)^].
-    _[^1)^]Rg. 347/2000_.
+ ■ *19. gr.* _Reglugerð._
+ □ Nánari ákvæði um skipulag og starfsemi Byggðastofnunar og framkvæmd laga þessara má setja með reglugerð.[^1)^]
+    _[^1)^]Rg. 347/2000._
  ■ *20. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. janúar 2000. ...
  ■ *Ákvæði til bráðabirgða.* Við gildistöku laga þessara skipar iðnaðarráðherra stjórn Byggðastofnunar skv. 3. gr. fram að fyrsta ársfundi sem halda skal fyrir 1. júlí 2000.

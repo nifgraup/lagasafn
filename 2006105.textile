@@ -7,11 +7,11 @@ h2. Lög um umhverfismat áætlana
 <hr />
 
 
- *Tóku gildi 30. júní 2006.* _EES-samningurinn:_ XX. viðauki tilskipun 2001/42/EB.
+ *Tóku gildi 30. júní 2006.* _EES-samningurinn:_ XX. viðauki tilskipun 2001/42/EB. _Breytt með_ l. 126/2011 (tóku gildi 30. sept. 2011).
 
  ■ *1. gr.* _Markmið._
  □ Markmið laga þessara er að stuðla að sjálfbærri þróun og draga úr neikvæðum umhverfisáhrifum og jafnframt að stuðla að því að við áætlanagerð sé tekið tillit til umhverfissjónarmiða. Það skal gert með umhverfismati tiltekinna skipulags- og framkvæmdaáætlana stjórnvalda sem líklegt er að hafi í för með sér veruleg áhrif á umhverfið.
-■ *2. gr.* _Skilgreiningar._
+ ■ *2. gr.* _Skilgreiningar._
  □ Í lögum þessum er merking eftirtalinna orða og orðasambanda sem hér segir:
     1. _Almenningur:_ Einn eða fleiri einstaklingar eða lögaðilar, samtök þeirra, félög eða hópar.
     2. _Framkvæmdaáætlun:_ Áætlun stjórnvalds sem markar stefnu um tilteknar framkvæmdir á ákveðnu svæði.
@@ -23,16 +23,18 @@ h2. Lög um umhverfismat áætlana
 ■ *3. gr.* _Gildissvið._
  □ Ákvæði laga þessara gilda um umhverfismat þeirra skipulags- og framkvæmdaáætlana og breytinga á þeim sem marka stefnu er varðar leyfisveitingar til framkvæmda sem tilgreindar eru í "lögum um mat á umhverfisáhrifum, nr. 106/2000":2000106.html. Skipulags- og framkvæmdaáætlanir skulu vera undirbúnar og/eða samþykktar af stjórnvöldum og unnar samkvæmt lögum eða ákvörðun ráðherra.
  □ Lög þessi gilda ekki um skipulags- og framkvæmdaáætlanir sem gerðar eru í þeim eina tilgangi að þjóna öryggi eða vörnum ríkisins eða almannavörnum. Þá gilda lög þessi ekki um fjárhags- og fjárlagaáætlanir.
- □ Ef vafi leikur á hvort skipulags- eða framkvæmdaáætlun sé háð ákvæðum laganna getur almenningur eða sá sem ber ábyrgð á áætlanagerð óskað eftir að Skipulagsstofnun taki ákvörðun um hvort áætlunin falli undir lög þessi. Skipulagsstofnun skal auglýsa í dagblaði sem gefið er út á landsvísu að ákvörðun liggi fyrir. Heimilt er að kæra slíkar ákvarðanir til umhverfisráðherra. Kærufrestur er einn mánuður frá birtingu tilkynningar um ákvörðun stofnunarinnar.
-■ *4. gr.* _Yfirstjórn._
- □ Umhverfisráðherra fer með yfirstjórn mála samkvæmt lögum þessum. Á varnarsvæðum fer utanríkisráðherra með lögsögu samkvæmt lögum um yfirstjórn mála á varnarsvæðum.
+ □ Ef vafi leikur á hvort skipulags- eða framkvæmdaáætlun sé háð ákvæðum laganna getur almenningur eða sá sem ber ábyrgð á áætlanagerð óskað eftir að Skipulagsstofnun taki ákvörðun um hvort áætlunin falli undir lög þessi. Skipulagsstofnun skal auglýsa í dagblaði sem gefið er út á landsvísu að ákvörðun liggi fyrir. Heimilt er að kæra slíkar ákvarðanir til [ráðherra].[^1)^] Kærufrestur er einn mánuður frá birtingu tilkynningar um ákvörðun stofnunarinnar.
+    _[^1)^]L. 126/2011, 439. gr._
+ ■ *4. gr.* _Yfirstjórn._
+ □ [Ráðherra][^1)^] fer með yfirstjórn mála samkvæmt lögum þessum. Á varnarsvæðum fer [hlutaðeigandi ráðherra][^1)^] með lögsögu samkvæmt lögum um yfirstjórn mála á varnarsvæðum.
  □ Hlutverk Skipulagsstofnunar samkvæmt lögum þessum er:
     a. að veita og gefa út leiðbeiningar um umhverfismat áætlana, umfang og nákvæmni upplýsinga í umhverfisskýrslu og taka ákvörðun um hvort áætlun skuli háð ákvæðum laga þessara um umhverfismat áætlana þegar vafi leikur á því,
-    b. að fylgjast með framkvæmd umhverfismats áætlana og taka saman skýrslu um framkvæmdina til umhverfisráðherra á fimm ára fresti með það að markmiði að tryggja gæði umhverfismats.
-■ *5. gr.* _Ábyrgð og tímasetning._
+    b. að fylgjast með framkvæmd umhverfismats áætlana og taka saman skýrslu um framkvæmdina til [ráðherra][^1)^] á fimm ára fresti með það að markmiði að tryggja gæði umhverfismats.
+    _[^1)^]L. 126/2011, 439. gr._
+ ■ *5. gr.* _Ábyrgð og tímasetning._
  □ Sá sem ábyrgð ber á áætlanagerð er fellur undir lög þessi ber ábyrgð á umhverfismati áætlunarinnar og kostnaði af gerð þess. Hann skal vinna umhverfisskýrslu þar sem gerð er grein fyrir mati á áhrifum áætlunar á umhverfið og annast kynningu og samráð í því skyni.
  □ Mat á áhrifum áætlunarinnar á umhverfið skal vinna samhliða áætlanagerðinni og liggja fyrir áður en áætlunin er samþykkt af viðkomandi stjórnvaldi eða lögð fyrir Alþingi.
-■ *6. gr.* _Umhverfisskýrsla._
+ ■ *6. gr.* _Umhverfisskýrsla._
  □ Umhverfisskýrsla skal hafa að geyma þær upplýsingar sem sanngjarnt er að krefjast að teknu tilliti til þeirrar þekkingar sem er til staðar, þekktra matsaðferða, efnis og nákvæmni áætlunarinnar og stöðu áætlunarinnar í stigskiptri áætlanagerð. Þá skal í umhverfisskýrslu koma fram að hve miklu leyti betur á við að fjalla um tiltekin umhverfisáhrif á síðari stigum áætlanagerðar til að forðast endurtekningar sama mats.
  □ Umhverfismat áætlunar skal sett fram í umhverfisskýrslu sem verið getur hluti af greinargerð með áætluninni. Í umhverfisskýrslu skal gera grein fyrir niðurstöðu matsins og forsendum þess. Samráð skal haft við Skipulagsstofnun þegar tekin er ákvörðun um umfang og nákvæmni upplýsinga í umhverfisskýrslunni. Í umhverfisskýrslu skal koma fram:
     a. yfirlit yfir efni og helstu stefnumið viðkomandi áætlunar og tengsl hennar við aðra áætlanagerð,
@@ -50,9 +52,10 @@ h2. Lög um umhverfismat áætlana
  □ Heimilt er að víkja frá kynningartíma skv. 1. mgr. ef kveðið er á um annan kynningartíma lögum samkvæmt.
  □ Sá sem ber ábyrgð á umhverfismati áætlunarinnar skal senda Skipulagsstofnun, Umhverfisstofnun og hlutaðeigandi sveitarfélögum og öðrum aðilum, eftir því sem við á, tillögu að áætluninni og umhverfisskýrslu og gefa þeim kost á að koma á framfæri athugasemdum sínum varðandi umhverfisáhrif áætlunarinnar, áður en áætlunin er afgreidd eða lögð fyrir Alþingi.
  □ Að lágmarki skal kynning skv. 1. mgr. felast í auglýsingu í Lögbirtingablaði og einu dagblaði sem gefið er út á landsvísu ásamt kynningu á netinu. Tillaga að áætlun og umhverfisskýrsla skulu jafnframt liggja frammi og vera aðgengilegar, auk þess sem gögn sem áætlunin byggist á séu aðgengileg á heimasíðu Skipulagsstofnunar eða framkvæmdaaðila.
-■ *8. gr.* _Umhverfisáhrif áætlana á önnur ríki._
- □ Sé talið líklegt að áætlun hafi veruleg umhverfisáhrif á önnur ríki, eða ef annað ríki telur líklegt að það verði fyrir verulegum áhrifum af áætlun sem unnið er að og fer fram á það, skal umhverfisráðherra sjá til þess að kynna viðkomandi ríki tillögu að áætlun og umhverfisskýrslu hennar og leita eftir áliti þess innan hæfilegs frests.
-■ *9. gr.* _Afgreiðsla áætlunar._
+ ■ *8. gr.* _Umhverfisáhrif áætlana á önnur ríki._
+ □ Sé talið líklegt að áætlun hafi veruleg umhverfisáhrif á önnur ríki, eða ef annað ríki telur líklegt að það verði fyrir verulegum áhrifum af áætlun sem unnið er að og fer fram á það, skal [ráðherra][^1)^] sjá til þess að kynna viðkomandi ríki tillögu að áætlun og umhverfisskýrslu hennar og leita eftir áliti þess innan hæfilegs frests.
+    _[^1)^]L. 126/2011, 439. gr._
+ ■ *9. gr.* _Afgreiðsla áætlunar._
  □ Sá sem ber ábyrgð á umhverfismati áætlunar skal við afgreiðslu áætlunar hafa hliðsjón af umhverfisskýrslu og þeim athugasemdum sem borist hafa við tillögu að áætlun og umhverfisskýrslu, sem og ef borist hafa athugasemdir frá öðrum ríkjum vegna áhrifa þar.
  □ Eftir afgreiðslu áætlunar skulu eftirtalin gögn kynnt þeim sem hafa fengið tillögu að áætlun og umhverfisskýrslu til sérstakrar kynningar og skulu þau varðveitt á aðgengilegan hátt:
     a. Endanleg áætlun.
@@ -75,7 +78,7 @@ h2. Lög um umhverfismat áætlana
     6. gildi og eiginleika þess svæðis sem verður fyrir áhrifum vegna sérstaks náttúrufars eða menningarminja, vegna umhverfis- eða viðmiðunarmarka eða vegna umfangs landnýtingar,
     7. áhrif á svæði eða landslag sem viðurkennt er að hafi verndargildi á landsvísu eða alþjóðavettvangi.
 ■ *11. gr.* _Reglugerð og leiðbeiningar._
- □ Umhverfisráðherra er heimilt að setja í reglugerð, að fenginni umsögn Skipulagsstofnunar, nánari ákvæði um framkvæmd laga þessara, þar með talið um:
+ □ [Ráðherra][^1)^] er heimilt að setja í reglugerð, að fenginni umsögn Skipulagsstofnunar, nánari ákvæði um framkvæmd laga þessara, þar með talið um:
     a. umfang, efni og framsetningu umhverfisskýrslu,
     b. kynningu og afgreiðslu umhverfisskýrslu.
  □ Skipulagsstofnun gefur út leiðbeiningar um umhverfismat áætlana, m.a. um:
@@ -84,11 +87,13 @@ h2. Lög um umhverfismat áætlana
     c. kynningu og samráð við umhverfismat áætlana,
     d. viðmið við umhverfismat áætlana,
     e. framsetningu vöktunaráætlunar.
-■ *12. gr.* _Innleiðing._
+    _[^1)^]L. 126/2011, 439. gr._
+ ■ *12. gr.* _Innleiðing._
  □ Lög þessi eru sett til innleiðingar á tilskipun Evrópuþingsins og ráðsins 2001/42/EB frá 27. júní 2001, um mat á áhrifum tiltekinna skipulags- og framkvæmdaáætlana á umhverfið, sem vísað er til í lið 2i í XX. viðauka við samninginn um Evrópska efnahagssvæðið eins og honum var breytt með ákvörðun sameiginlegu EES-nefndarinnar nr. 90/2002.
-■ *13. gr.* _Gildistaka og lagaskil._
+ ■ *13. gr.* _Gildistaka og lagaskil._
  □ Lög þessi öðlast þegar gildi.
  □ Ákvæði laga þessara taka einnig til þeirra skipulags- og framkvæmdaáætlana sem hafin er vinna við fyrir gildistöku laga þessara hljóti þær endanlega afgreiðslu eftir 21. júlí 2006.
- □ Þegar sérstaklega stendur á er umhverfisráðherra heimilt að veita undanþágu frá ákvæði 2. mgr. og skal sú ákvörðun þá kynnt almenningi.
+ □ Þegar sérstaklega stendur á er [ráðherra][^1)^] heimilt að veita undanþágu frá ákvæði 2. mgr. og skal sú ákvörðun þá kynnt almenningi.
+    _[^1)^]L. 126/2011, 439. gr._
 
 

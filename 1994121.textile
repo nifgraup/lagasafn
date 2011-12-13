@@ -6,12 +6,12 @@ h2. Lög um neytendalán
 
 <hr />
 
-*Upphaflega l. 30/1993. Tóku gildi 1. október 1993. Endurútgefin, sbr. 15. gr. l. 101/1994, sem "l. 121/1994":1994121.html.* _Breytt með_ l. 179/2000 (tóku gildi 11. jan. 2001; _EES-samningurinn:_ tilskipun 87/102/EBE), "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), l. 34/2007 (tóku gildi 30. mars 2007), l. 63/2008 (tóku gildi 12. júní 2008) og l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010).
+*Upphaflega l. 30/1993. Tóku gildi 1. október 1993. Endurútgefin, sbr. 15. gr. l. 101/1994, sem "l. 121/1994":1994121.html.* _Breytt með_ l. 179/2000 (tóku gildi 11. jan. 2001; _EES-samningurinn:_ tilskipun 87/102/EBE), "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), l. 34/2007 (tóku gildi 30. mars 2007), l. 63/2008 (tóku gildi 12. júní 2008), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
 
  *I. kafli.* *Gildissvið og hugtök laganna.*
  ■ *1. gr.* Lög þessi taka til lánssamninga sem lánveitandi gerir í atvinnuskyni við neytendur.
-■ *2. gr.* Eftirtaldir lánssamningar eru undanþegnir lögum þessum:
+ ■ *2. gr.* Eftirtaldir lánssamningar eru undanþegnir lögum þessum:
     a. Lánssamningar sem gilda skemmri tíma en þrjá mánuði.
     b. Lánssamningar sem fela í sér endurgreiðslur án vaxta og kostnaðar.
     c. Lánssamningar þar sem lán er veitt gegn lægra gjaldi en almennt gerist og stendur almenningi ekki til boða.
@@ -28,7 +28,7 @@ h2. Lög um neytendalán
     e. Árlega hlutfallstölu kostnaðar, sbr. 10. - 12. gr., við mismunandi notkun á heimildinni. Árlega skal senda neytanda almennar upplýsingar með dæmum um útreikning kostnaðar samkvæmt þessum lið. Þrátt fyrir ákvæði 5. gr. er heimilt að munnlegri beiðni neytanda að breyta yfirdráttarheimild á tékkareikningi.
  □ Heimilt er að kveða nánar á um framkvæmd upplýsingaskyldu samkvæmt þessari grein í reglugerð sem ráðherra setur, sbr. 13. gr.][^1)^]
  □ [Fjármálafyrirtæki er ekki heimilt að innheimta kostnað vegna óheimils yfirdráttar af tékkareikningi ef slík gjaldtaka á ekki stoð í samningi. Kostnaður vegna óheimils yfirdráttar skal vera hóflegur og endurspegla kostnað vegna yfirdráttarins.][^2)^]
-    _[^1)^]L. 179/2000, 2. gr._ [^2)^]L. 63/2008, 1. gr.
+    _[^1)^]L. 179/2000, 2. gr. [^2)^]L. 63/2008, 1. gr._
  ■ *4. gr.* Merking orða í lögum þessum er sem hér segir:
     a. Neytandi er einstaklingur sem á lánsviðskipti sem lög þessi ná til, enda séu þau ekki gerð í atvinnuskyni af hans hálfu.
     b. Lánveitandi er einstaklingur, lögaðili eða hópur slíkra aðila sem veitir lán.
@@ -39,7 +39,7 @@ h2. Lög um neytendalán
 
  *II. kafli.* *Upplýsingaskylda lánveitenda.*
 ■ *5. gr.* Lánssamningur skal gerður skriflega og fela í sér upplýsingar þær sem tilgreindar eru í 6. og 8. gr. Neytandi skal fá í hendur eintak af lánssamningnum.
-■ *6. gr.* Við gerð lánssamnings skal lánveitandi gefa neytanda upplýsingar um:
+ ■ *6. gr.* Við gerð lánssamnings skal lánveitandi gefa neytanda upplýsingar um:
     1. Höfuðstól, þ.e. lánsfjárhæð án nokkurs kostnaðar. Þegar lánveitandi er jafnframt seljandi vöru eða þjónustu skal höfuðstóll lánsins jafngilda staðgreiðsluverði vörunnar eða þjónustunnar. Ef einungis hluti af andvirði vörunnar eða þjónustunnar er lánaður skal draga útborgunina frá höfuðstól.
     2. Fjárhæð útborgunar, þ.e. höfuðstól að frádregnum lánskostnaði.
     3. Vexti.
@@ -66,14 +66,14 @@ h2. Lög um neytendalán
     5. Félagsgjalda er rekja má til samninga sem ekki tengjast lánssamningnum, jafnvel þótt þau hafi áhrif á lánsskilmála.
     6. Kostnaðar vegna trygginga eða ábyrgða nema þær eigi að tryggja lánveitanda endurgreiðslu lánsins.
  □ Ákvæði 3. - 4. tölul. 2. mgr. eiga því aðeins við að neytandi hafi hæfilegt valfrelsi um það með hvaða hætti yfirfærsla fjárins eða endurgreiðslan fari fram, svo og að kostnaður sé ekki óeðlilega hár.
-■ *8. gr.* Þegar samningur er gerður skal lánveitandi gefa neytanda upplýsingar um kostnað þann sem frá er greint í 2. - 6. tölul. 2. mgr. 7. gr. og jafnframt tilgreina hvenær slíkur kostnaður fellur á. Ef kostnaður er óþekktur skal lánveitandi, ef kostur er, veita neytanda upplýsingar um hvernig hann er reiknaður út eða áætla hver hann er.
+ ■ *8. gr.* Þegar samningur er gerður skal lánveitandi gefa neytanda upplýsingar um kostnað þann sem frá er greint í 2. - 6. tölul. 2. mgr. 7. gr. og jafnframt tilgreina hvenær slíkur kostnaður fellur á. Ef kostnaður er óþekktur skal lánveitandi, ef kostur er, veita neytanda upplýsingar um hvernig hann er reiknaður út eða áætla hver hann er.
  _Breytilegur lántökukostnaður._
-■ *9. gr.* Þó að í lögum þessum sé kveðið á um að neytandi skuli fá upplýsingar um vexti eða fjárhæðir þar sem vextir eru meðtaldir, sbr. 6. gr., kemur það ekki í veg fyrir að aðilar geti samið um að vextir séu að nokkru eða öllu leyti breytilegir. Skal þá greint frá vöxtum eins og þeir eru á þeim tíma sem upplýsingarnar eru gefnar, tilgreint skal með hvaða hætti vextirnir eru breytilegir og við hvaða aðstæður þeir breytast.
+ ■ *9. gr.* Þó að í lögum þessum sé kveðið á um að neytandi skuli fá upplýsingar um vexti eða fjárhæðir þar sem vextir eru meðtaldir, sbr. 6. gr., kemur það ekki í veg fyrir að aðilar geti samið um að vextir séu að nokkru eða öllu leyti breytilegir. Skal þá greint frá vöxtum eins og þeir eru á þeim tíma sem upplýsingarnar eru gefnar, tilgreint skal með hvaða hætti vextirnir eru breytilegir og við hvaða aðstæður þeir breytast.
  _Útreikningur árlegrar hlutfallstölu kostnaðar._
-■ *10. gr.* Árleg hlutfallstala kostnaðar er það vaxtaígildi sem jafnar núvirðið af greiðsluskuldbindingum lánveitanda annars vegar og neytanda hins vegar samkvæmt lánssamningi þeirra. Árlegri hlutfallstölu kostnaðar skal lýst sem árlegri prósentu af upphæð höfuðstóls lánsins. Hún skal reiknuð út í samræmi við stærðfræðilíkingu sem nánar skal mælt fyrir um í reglugerð[^1)^] er ráðherra setur.
-    _[^1)^]Rg. 377/1993_, sbr. 491/1993 og 236/2000.
+ ■ *10. gr.* Árleg hlutfallstala kostnaðar er það vaxtaígildi sem jafnar núvirðið af greiðsluskuldbindingum lánveitanda annars vegar og neytanda hins vegar samkvæmt lánssamningi þeirra. Árlegri hlutfallstölu kostnaðar skal lýst sem árlegri prósentu af upphæð höfuðstóls lánsins. Hún skal reiknuð út í samræmi við stærðfræðilíkingu sem nánar skal mælt fyrir um í reglugerð[^1)^] er ráðherra setur.
+    _[^1)^]Rg. 377/1993, sbr. 491/1993 og 236/2000._
  ■ *11. gr.* Árleg hlutfallstala kostnaðar skal reiknuð út á þeim tíma sem lánssamningur er gerður. Við útreikning árlegrar hlutfallstölu skal gengið út frá því að lánssamningur gildi umsaminn tíma og að lánveitandi og neytandi standi við skuldbindingar sínar samkvæmt skilmálum samningsins.
-■ *12. gr.* Ef lánssamningur heimilar verðtryggingu eða breytingu á vöxtum eða öðrum gjöldum sem teljast hluti árlegrar hlutfallstölu kostnaðar, en ekki er unnt að meta hverju nemi á þeim tíma sem útreikningur er gerður, skal reikna út árlega hlutfallstölu kostnaðar miðað við þá forsendu að verðlag, vextir og önnur gjöld verði óbreytt til loka lánstímans.
+ ■ *12. gr.* Ef lánssamningur heimilar verðtryggingu eða breytingu á vöxtum eða öðrum gjöldum sem teljast hluti árlegrar hlutfallstölu kostnaðar, en ekki er unnt að meta hverju nemi á þeim tíma sem útreikningur er gerður, skal reikna út árlega hlutfallstölu kostnaðar miðað við þá forsendu að verðlag, vextir og önnur gjöld verði óbreytt til loka lánstímans.
  □ Þegar reiknuð er út árleg hlutfallstala kostnaðar skal gera ráð fyrir eftirfarandi:
     1. Ef engin hámarksupphæð er tilgreind í lánssamningi skal hámarksupphæð láns, sem veitt er, teljast 150.000 kr.
     2. Ef ekki er tilgreindur ákveðinn lánstími og ekki er unnt að ráða hann af samningi skal lánstími talinn eitt ár.
@@ -84,12 +84,12 @@ h2. Lög um neytendalán
  ■ *14. gr.* Nú eru vextir eða annar lántökukostnaður ekki tilgreindir í lánssamningi og er lánveitanda þá eigi heimilt að krefja neytanda um greiðslu þeirra. Að öðru leyti fer um vexti af neytendalánum samkvæmt ákvæðum vaxtalaga.
  □ Lánveitanda er eigi heimilt að krefjast greiðslu frekari lántökukostnaðar en tilgreindur er í samningi skv. 4. tölul. 1. mgr. 6. gr. Sé árleg hlutfallstala kostnaðar, sbr. 5. tölul. 1. mgr. 6. gr., of lágt reiknuð er lánveitanda eigi heimilt að krefjast heildarlántökukostnaðar sem gæfi hærri árlega hlutfallstölu kostnaðar.
  □ Ákvæði 1. og 2. mgr. gilda ekki ef lánveitandi getur sannað að neytanda hefði mátt vera ljóst hver lántökukostnaðurinn átti að vera. Ef ákvæði 1. eða 2. mgr. leiða til lækkunar eftirstöðva skal neytandi greiða þær samkvæmt samningnum og lækkunin koma fram á síðustu afborgunum.
-■ *15. gr.* Hafi lánveitandi ekki veitt þær upplýsingar, sem fyrir er mælt í 6. gr., sbr. 5. gr., getur það skapað honum bótaábyrgð, enda hafi neytandi mátt ætla að lánskjör væru hagstæðari en þau síðar reyndust vera.
+ ■ *15. gr.* Hafi lánveitandi ekki veitt þær upplýsingar, sem fyrir er mælt í 6. gr., sbr. 5. gr., getur það skapað honum bótaábyrgð, enda hafi neytandi mátt ætla að lánskjör væru hagstæðari en þau síðar reyndust vera.
 
  *III. kafli.* *Greiðsla fyrir gjalddaga.*
-■ *16. gr.* Neytanda skal heimilt að standa skil á skuldbindingum sínum samkvæmt lánssamningi fyrir þann tíma sem umsaminn er. Notfæri neytandi sér heimild þessa á hann rétt á lækkun á heildarlántökukostnaði sem nemur þeim vöxtum og öðrum gjöldum sem greiða átti eftir greiðsludag. Ekki er hægt að krefjast endurgreiðslu eða lækkunar á gjöldum sem eru óháð því hvenær greiðsla er innt af hendi.
+ ■ *16. gr.* Neytanda skal heimilt að standa skil á skuldbindingum sínum samkvæmt lánssamningi fyrir þann tíma sem umsaminn er. Notfæri neytandi sér heimild þessa á hann rétt á lækkun á heildarlántökukostnaði sem nemur þeim vöxtum og öðrum gjöldum sem greiða átti eftir greiðsludag. Ekki er hægt að krefjast endurgreiðslu eða lækkunar á gjöldum sem eru óháð því hvenær greiðsla er innt af hendi.
  □ Ákvæði 1. mgr. á ekki við um greiðslu sem innt er af hendi fyrir gjalddaga þegar hún tengist ekki uppgreiðslu láns fyrir umsaminn lokagjalddaga eða annarri breytingu á umsömdum afborgunum láns.
-■ *[16. gr. a.* Lánveitanda er óheimilt að krefjast greiðslu uppgreiðslugjalds af láni í íslenskum krónum með breytilegum vöxtum sem greitt er upp fyrir þann tíma sem umsaminn er, ef upphaflegur höfuðstóll lánsins er að jafnvirði 50 millj. kr. eða minna.
+ ■ *[16. gr. a.* Lánveitanda er óheimilt að krefjast greiðslu uppgreiðslugjalds af láni í íslenskum krónum með breytilegum vöxtum sem greitt er upp fyrir þann tíma sem umsaminn er, ef upphaflegur höfuðstóll lánsins er að jafnvirði 50 millj. kr. eða minna.
  □ Lánveitandi getur ekki krafist uppgreiðslugjalds ef ástæða uppgreiðslu er gjaldfelling láns af hans hálfu.
  □ Í þeim tilvikum sem heimilt er að semja um uppgreiðslugjald skal kveðið á um slíkt í lánssamningi. Tilgreina skal upplýsingar um hvernig uppgreiðslugjald er reiknað út og hvenær slíkur kostnaður fellur á.
  □ Í þeim tilvikum sem heimilt er að semja um uppgreiðslugjald má fjárhæð gjaldsins að hámarki vera það tjón sem lánveitandi verður fyrir vegna uppgreiðslunnar fyrir þann tíma sem umsaminn er. Ef kveðið er á um heimild til endurskoðunar vaxta í lánssamningi með föstum vöxtum skal miða útreikning uppgreiðslugjalds við tímann fram að næsta endurskoðunardegi vaxta. Ráðherra skal setja nánari reglur um útreikning á tjóni vegna uppgreiðslu.][^1)^]
@@ -100,7 +100,7 @@ h2. Lög um neytendalán
  □ Þetta á þó ekki við ef neytandi innir greiðslu af hendi til lánveitanda og veit eða má vita að lánveitandi hefur ekki rétt til að taka við greiðslu eða gera samning þar að lútandi.
  □ Ef neytandi á kröfu á hendur lánveitanda, sem jafnframt er seljandi, vegna kaupa, t.d. vegna galla, er framsalshafi meðábyrgur lánveitanda.
  □ Ákvæði þetta nær þó ekki til viðskiptabréfakrafna enda sé til staðar trygging, sbr. 18. gr.
-■ *18. gr.* Seljandi, sem veitir neytanda lán samkvæmt lögum þessum í formi viðskiptabréfs, skal taka tryggingu vegna hugsanlegrar vanefndakröfu neytanda vegna þeirra viðskipta sem að baki viðskiptabréfi standa.
+ ■ *18. gr.* Seljandi, sem veitir neytanda lán samkvæmt lögum þessum í formi viðskiptabréfs, skal taka tryggingu vegna hugsanlegrar vanefndakröfu neytanda vegna þeirra viðskipta sem að baki viðskiptabréfi standa.
  □ Tryggingarfjárhæð innan hvers tryggingartímabils, sem er eitt ár, skal nema 5.000.000 kr. [Neytandi skal gera kröfu um greiðslu tryggingarfjár innan tveggja ára frá afhendingu vöru eða þjónustu, eða innan fimm ára þegar um ræðir söluhlut sem ætlaður er verulega lengri endingartími en almennt gerist um söluhluti frá því að honum var veitt viðtaka.][^1)^] Séu kröfuhafar fleiri en einn fer um rétt þeirra til tryggingarfjárins eftir röð krefjenda. Að gengnum fullnaðardómi eða að gerðri réttarsátt um vanefnd og þegar ljóst er að seljandi getur ekki efnt skyldu sína samkvæmt dóminum eða sáttinni skal neytanda greitt af tryggingarfénu.
  □ Ráðherra skal setja nánari ákvæði um tryggingarskylduna, gildissvið tryggingarinnar, hverjir veitt geti tryggingu og skilmála í reglugerð. Í henni má einnig kveða á um lægri tryggingarfjárhæð en greinir í 2. mgr. þegar umfang viðskipta er það takmarkað að lægri tryggingarfjárhæð veitir nægjanlega vernd.
  □ Nú hefur seljandi ekki gilda tryggingu samkvæmt grein þessari og getur kaupandi þá borið fram mótbárur svo sem bréfið væri ekki viðskiptabréf.
@@ -112,31 +112,31 @@ h2. Lög um neytendalán
  □ Ef andvirði söluhlutar er meira en sem nemur eftirstöðvum lánssamnings skal lánveitandi endurgreiða neytanda mismuninn. Ef andvirði söluhlutar er minna skal neytandi endurgreiða lánveitanda mismuninn.
  □ Við mat á andvirði söluhlutar skal litið til þess hvort slit og rýrnun söluhlutar er eðlilegt og til frádráttar vaxta frá endurheimtudegi til loka lánssamnings.
  □ Komi upp ágreiningur um hvað sé verð söluhlutar á almennum markaði skal hann útkljáður með matsgerð tveggja dómkvaddra og óhlutdrægra manna. Matsmenn skulu ákveða hvernig háttað skuli greiðslu vegna kostnaðar við matið.
-■ *20. gr.* Nú hafa fleiri en einn hlutur verið keyptir samkvæmt einum samningi og lánveitandi leggur fram kröfu um endurheimt þeirra. Getur neytandi þá valið einn eða fleiri hlutanna til afhendingar gegn því að greiða um leið mismun andvirðis þeirra hluta sem hann heldur eftir. Ef inneign lánveitanda er minni en andvirðið á neytandi rétt á að fá mismuninn greiddan um leið og hlutirnir eru afhentir.
+ ■ *20. gr.* Nú hafa fleiri en einn hlutur verið keyptir samkvæmt einum samningi og lánveitandi leggur fram kröfu um endurheimt þeirra. Getur neytandi þá valið einn eða fleiri hlutanna til afhendingar gegn því að greiða um leið mismun andvirðis þeirra hluta sem hann heldur eftir. Ef inneign lánveitanda er minni en andvirðið á neytandi rétt á að fá mismuninn greiddan um leið og hlutirnir eru afhentir.
  □ Neytandi getur ekki leyst til sín hlut ef hann er úr safni eða samstæðu sem lánveitandi hefur einnig endurheimt frá neytanda og aðskilnaðurinn hefur í för með sér verulega rýrnun á verðmæti hlutanna.
 
  *VI. kafli.* *Ýmis ákvæði.*
-■ *21. gr.* [Efnahags- og viðskiptaráðherra][^1)^] fer með framkvæmd laga þessara. Honum er heimilt að kveða nánar á um framkvæmd þeirra með reglugerð.[^2)^]
-    _[^1)^]L. 98/2009, 17. gr._ [^2)^]Rg. 377/1993, sbr. 491/1993 og 236/2000.
- ■ *22. gr.* [Efnahags- og viðskiptaráðherra][^1)^] getur sett reglur[^2)^] um hvernig prenta skuli leiðbeiningar um réttarstöðu neytanda á skriflega samninga og skjöl sem lögin taka til.
-    _[^1)^]L. 98/2009, 17. gr._ [^2)^]Rg. 377/1993, sbr. 491/1993 og 236/2000.
- ■ *23. gr.* [Efnahags- og viðskiptaráðherra][^1)^] getur breytt fjárhæðum í lögum þessum eftir því sem verðlagsþróun gefur tilefni til.
-    _[^1)^]L. 98/2009, 17. gr._
+ ■ *21. gr.* [Ráðherra][^1)^] fer með framkvæmd laga þessara. Honum er heimilt að kveða nánar á um framkvæmd þeirra með reglugerð.[^2)^]
+    _[^1)^]L. 126/2011, 199. gr. [^2)^]Rg. 377/1993, sbr. 491/1993 og 236/2000._
+ ■ *22. gr.* [Ráðherra][^1)^] getur sett reglur[^2)^] um hvernig prenta skuli leiðbeiningar um réttarstöðu neytanda á skriflega samninga og skjöl sem lögin taka til.
+    _[^1)^]L. 126/2011, 199. gr. [^2)^]Rg. 377/1993, sbr. 491/1993 og 236/2000._
+ ■ *23. gr.* [Ráðherra][^1)^] getur breytt fjárhæðum í lögum þessum eftir því sem verðlagsþróun gefur tilefni til.
+    _[^1)^]L. 126/2011, 199. gr._
  ■ *24. gr.* Eigi má með samningi víkja frá ákvæðum laga þessara né reglugerða, sem settar kunna að verða samkvæmt lögunum, neytanda í óhag.
 
  *VII. kafli.* *Bótaskylda, eftirlit og gildistaka.*
-■ *25. gr.* [Neytendastofa][^1)^] annast eftirlit með ákvæðum laga þessara. [Ákvæði laga um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðarins gilda um úrræði Neytendastofu og málsmeðferð.][^2)^]
+ ■ *25. gr.* [Neytendastofa][^1)^] annast eftirlit með ákvæðum laga þessara. [Ákvæði laga um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðarins gilda um úrræði Neytendastofu og málsmeðferð.][^2)^]
  □ [Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um Neytendastofu og talsmann neytenda að undanskildum ákvörðunum um dagsektir.
  □ Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður áfrýjunarnefndar neytendamála liggur fyrir.
  □ Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.][^2)^]
-    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]L. 34/2007, 2. gr.
+    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]L. 34/2007, 2. gr._
  ■ *26. gr.* [Neytendastofa][^1)^] getur bannað athafnir sem brjóta í bága við ákvæði laga þessara. Banni má fylgja ákvörðun um dagsektir sem kemur til framkvæmda ef bannið er brotið. Dagsektir geta numið frá 10.000 kr. til 100.000 kr. á dag.
  □ Áður en til banns kemur skv. 1. mgr. getur [Neytendastofa][^1)^] lokið málinu með sátt. Hafi sátt komist á gildir hún sem bann skv. 1. mgr.
-    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
+    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13_
  ■ *27. gr.* Brot á lögum þessum getur valdið skaðabótaskyldu í samræmi við almennar reglur skaðabótaréttar.
  □ Gera má lögaðila að greiða bætur þó svo að sök sannist ekki á neinn tiltekinn starfsmann lögaðilans ef sýnt þykir að einhver starfsmaður lögaðilans hafi gerst brotlegur við ákvæði laga þessara.
  □ Bætur, sem dæmdar verða, sbr. 1. mgr., má innheimta hjá þeim einstaklingi sem dæmdur er bótaskyldur eða lögaðila þeim sem hann starfaði hjá þegar brotið var framið.
-■ *[28. gr.* Lög þessi eru sett í samræmi við ákvæði í XIX. viðauka EES-samningsins, sbr. lög um Evrópska efnahagssvæðið, og til þess að taka upp í innlendan rétt ákvæði tilskipunar ráðsins nr. 102 frá 22. desember 1986, um samræmingu á lögum og stjórnsýslufyrirmælum aðildarríkjanna varðandi neytendalán, ásamt síðari breytingum.][^1)^]
+ ■ *[28. gr.* Lög þessi eru sett í samræmi við ákvæði í XIX. viðauka EES-samningsins, sbr. lög um Evrópska efnahagssvæðið, og til þess að taka upp í innlendan rétt ákvæði tilskipunar ráðsins nr. 102 frá 22. desember 1986, um samræmingu á lögum og stjórnsýslufyrirmælum aðildarríkjanna varðandi neytendalán, ásamt síðari breytingum.][^1)^]
     _[^1)^]L. 179/2000, 4. gr._
 
 

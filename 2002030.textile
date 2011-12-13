@@ -7,15 +7,15 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
 <hr />
 
 
- *Tóku gildi 16. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 2000/31/EB. _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 34/2007 (tóku gildi 30. mars 2007) og l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010).
+ *Tóku gildi 16. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 2000/31/EB. _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 34/2007 (tóku gildi 30. mars 2007), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Gildissvið._
  □ Lög þessi gilda um rafræn viðskipti og aðra rafræna þjónustu.
  □ Lögin gilda ekki um rafræna þjónustu sem snertir skattamálefni, vernd persónuupplýsinga, ólögmætt samráð eða samstilltar aðgerðir fyrirtækja, hagsmunagæslu lögmanna fyrir dómstólum, fjárhættustarfsemi sem felst í því að leggja fram fé í áhættuleikjum og starfsemi lögbókenda að því marki sem í henni felst beiting opinbers valds.
- □ [Efnahags- og viðskiptaráðherra][^1)^] fer með yfirstjórn mála samkvæmt lögum þessum.
-    _[^1)^]L. 98/2009, 55. gr._
+ □ [Ráðherra][^1)^] fer með yfirstjórn mála samkvæmt lögum þessum.
+    _[^1)^]L. 126/2011, 340. gr._
  ■ *2. gr.* _Orðskýringar._
  □ Í lögum þessum er merking eftirfarandi hugtaka sem hér segir:
     1. _Rafræn þjónusta:_ Þjónusta sem almennt er veitt gegn greiðslu, úr fjarlægð, með rafrænum hætti að beiðni þjónustuþega.
@@ -64,16 +64,16 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
     2. samtök sem þjónustuveitandi eða fyrirsvarsmaður hans er skráður hjá, og
     3. gildandi starfs- eða siðareglur og með hvaða hætti er unnt að nálgast þær.
  □ Ef verð er gefið upp í tengslum við rafræna þjónustu skal það gert með skýrum og ótvíræðum hætti. Þegar rafrænni þjónustu er eingöngu beint að íslenskum neytendum skulu skattar innifaldir í verði.
-■ *7. gr.* _Upplýsingar í tengslum við markaðssetningu._
+ ■ *7. gr.* _Upplýsingar í tengslum við markaðssetningu._
  □ Þjónustuveitandi skal tryggja að upplýsingar í tengslum við markaðssetningu, sem er hluti af eða myndar rafræna þjónustu, séu settar fram með þeim hætti að auðvelt sé að bera kennsl á þann einstakling eða lögpersónu sem stendur að baki markaðssetningunni.
  □ Kynning á tilboði, keppni og leik skal vera sett fram á skýran og ótvíræðan hátt. Sama gildir um skilyrði sem fullnægja þarf til að geta tekið tilboði eða tekið þátt í keppni eða leik.
 
  *IV. kafli.* *Rafrænir samningar.*
-■ *8. gr.* _Rafrænir samningar jafngildir skriflegum._
+ ■ *8. gr.* _Rafrænir samningar jafngildir skriflegum._
  □ Ef gerð er krafa um skriflegan samning í lögum, stjórnvaldsfyrirmælum eða með öðrum hætti er fullnægjandi að mæta þeirri kröfu með rafrænum samningi, enda sé samningurinn aðgengilegur báðum aðilum og unnt að varðveita hann.
  □ Ákvæði 1. mgr. gilda einnig um kröfur til skriflegra tilkynninga eða annarra aðgerða sem aðilar samnings þurfa að framkvæma í tengslum við samningssamband þeirra og samkvæmt lögum, stjórnvaldsfyrirmælum eða með öðrum hætti skulu vera skriflegar.
  □ Ákvæði 1. og 2. mgr. gilda ekki um samninga á sviði sifja- og erfðaréttar, stimpilskylda samninga og samninga sem stofna eða yfirfæra rétt yfir fasteignum, nema þegar um leigurétt er að ræða. Þá gilda þau ekki um þinglýsingar og lögbókandagerðir.
-■ *9. gr.* _Upplýsingaskylda við pöntun._
+ ■ *9. gr.* _Upplýsingaskylda við pöntun._
  □ Þjónustuveitandi skal veita eftirfarandi upplýsingar með skýrum og ótvíræðum hætti áður en þjónustuþegi leggur inn pöntun:
     1. hvaða tæknileg skref beri að taka til þess að ljúka samningsgerð,
     2. hvort þjónustuveitandinn varðveiti gerðan samning,
@@ -83,16 +83,16 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
     6. hvaða siðareglum hann fylgi og hvernig unnt sé að nálgast þær á rafrænu formi.
  □ Ákvæði 1. mgr. eru frávíkjanleg ef enginn aðili samningsins er neytandi. Þau skulu ekki gilda um samninga sem eru einvörðungu gerðir með því að skiptast á tölvupóstssendingum eða með öðrum sambærilegum hætti.
  □ Almennir samningsskilmálar og almenn skilyrði skulu látin í té með þeim hætti að þjónustuþegi geti varðveitt þau og kallað þau fram.
-■ *10. gr.* _Staðfesting á móttöku pöntunar._
+ ■ *10. gr.* _Staðfesting á móttöku pöntunar._
  □ Þjónustuveitandi skal staðfesta móttöku pöntunar frá þjónustuþega með rafrænum hætti án tafar.
  □ Pöntun og staðfesting telst móttekin þegar aðilarnir, sem þeim er beint til, hafa aðgang að þeim.
  □ Ákvæði 1. og 2. mgr. eru frávíkjanleg ef enginn aðili samningsins er neytandi. Ákvæði 1. mgr. skulu ekki gilda um samninga sem eru einvörðungu gerðir með því að skiptast á tölvupóstssendingum eða með öðrum sambærilegum hætti.
-■ *11. gr.* _Aðrar skyldur áður en pöntun er gerð._
+ ■ *11. gr.* _Aðrar skyldur áður en pöntun er gerð._
  □ Þjónustuveitandi skal gefa þjónustuþega kost á skilvirkum og aðgengilegum tæknilegum leiðum til þess að finna og leiðrétta innsláttarvillur áður en pöntun er gerð.
  □ Ákvæði 1. mgr. eru frávíkjanleg ef enginn aðili samningsins er neytandi. Þau skulu ekki gilda um samninga sem eru einvörðungu gerðir með því að skiptast á tölvupóstssendingum eða með öðrum sambærilegum hætti.
 
  *V. kafli.* *Takmörkun ábyrgðar milligönguaðila.*
-■ *12. gr.* _Takmörkun ábyrgðar vegna miðlunar._
+ ■ *12. gr.* _Takmörkun ábyrgðar vegna miðlunar._
  □ Þjónustuveitandi sem miðlar gögnum sem þjónustuþegi lætur í té um fjarskiptanet eða veitir aðgang að fjarskiptaneti ber ekki ábyrgð vegna miðlunar gagnanna að því tilskildu að þjónustuveitandinn:
     1. eigi ekki frumkvæði að miðluninni,
     2. velji ekki viðtakanda þeirra gagna sem er miðlað, og
@@ -115,7 +115,7 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
     2. tilkynningu skv. 15. gr., ef um meint brot gegn ákvæðum höfundalaga er að ræða, eða
     3. vitneskju um gögn sem innihalda barnaklám.
  □ Ákvæði 1. mgr. um takmörkun ábyrgðar gildir ekki þegar þjónustuþegi kemur fram í umboði eða undir stjórn þjónustuveitanda.
-■ *15. gr.* _Tilkynning til þjónustuveitanda._
+ ■ *15. gr.* _Tilkynning til þjónustuveitanda._
  □ Tilkynning skv. 2. tölul. 1. mgr. 14. gr. skal innihalda:
     1. nafn sendanda, heimilisfang og frekari upplýsingar sem gera þjónustuveitanda kleift að komast í samband við sendanda,
     2. nafn rétthafa, heimilisfang og frekari upplýsingar sem gera þjónustuveitanda kleift að komast í samband við rétthafa,
@@ -125,9 +125,9 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
     6. yfirlýsingu um að sendandi sé rétthafi eða hafi umboð frá rétthafa, og
     7. undirskrift sendanda.
  □ Séu verulegir annmarkar á tilkynningu skv. 1. mgr. ber þjónustuveitanda ekki að bregðast við henni. Ef annmarkar tilkynningar eru einungis minni háttar skal þjónustuveitandi án tafar gefa sendanda tækifæri til að bæta þar úr. Verði sendandi ekki við þeim tilmælum hefur tilkynningin ekki áhrif á ábyrgð þjónustuveitanda.
-■ *16. gr.* _Tilkynning til þjónustuþega._
+ ■ *16. gr.* _Tilkynning til þjónustuþega._
  □ Þjónustuveitandi skal tilkynna þjónustuþega um brottfellingu gagna eða hindrun aðgangs að gögnum í samræmi við 14. gr. um leið og hún fer fram og senda honum afrit tilkynningar skv. 15. gr. Skal hann þá einnig tilkynna þjónustuþega um rétt hans til að senda gagntilkynningu skv. 17. gr.
-■ *17. gr.* _Aðgangur veittur að gögnum á ný._
+ ■ *17. gr.* _Aðgangur veittur að gögnum á ný._
  □ Telji þjónustuþegi brottfellingu eða hindrun aðgangs að gögnum ekki eiga við rök að styðjast er honum unnt að krefjast þess af þjónustuveitanda að veittur verði aðgangur að gögnum á ný. Slíkt skal gert með gagntilkynningu sem geymir:
     1. nafn þjónustuþega, heimilisfang og frekari upplýsingar sem gera kleift að komast í samband við hann,
     2. málavexti og rök fyrir kröfum þjónustuþega,
@@ -135,26 +135,26 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
     4. undirskrift þjónustuþega.
  □ Fái þjónustuveitandi gagntilkynningu, sem ekki eru verulegir annmarkar á, skal hann tilkynna sendanda tilkynningar skv. 15. gr. um kröfuna án tafar og senda honum afrit gagntilkynningar. Skal honum einnig tilkynnt að aðgangur verði veittur að gögnunum á ný, nema fram komi upplýsingar innan tveggja vikna um höfðun dómsmáls vegna málsins. Berist þjónustuveitanda ekki vitneskja um höfðun dómsmáls vegna málsins innan tveggja vikna frá sendingu tilkynningar samkvæmt þessari málsgrein skal hann verða við kröfu um aðgang að gögnum á ný án tafar.
  □ Séu verulegir annmarkar á kröfu skv. 1. mgr. ber þjónustuveitanda ekki að bregðast við henni. Ef annmarkar kröfu eru einungis minni háttar skal þjónustuveitandi gefa sendanda tækifæri til að bæta þar úr.
-■ *18. gr.* _Skaðabótaábyrgð._
+ ■ *18. gr.* _Skaðabótaábyrgð._
  □ Nú kemst dómstóll að þeirri niðurstöðu að brottfelling gagna eða hindrun aðgangs að þeim hafi ekki verið réttmæt og skal þá sá sem fór fram á brottfellingu eða hindrun bæta þann miska og það fjártjón, þar á meðal spjöll á lánstrausti og viðskiptahagsmunum, sem telja má að brottfellingin eða hindrunin hafi valdið. Sama gildir gagnvart þeim sem krafist hefur að aðgangur verði veittur að gögnum á ný ef dómstóll kemst að þeirri niðurstöðu að sú aðgerð hafi ekki verið réttmæt. Heimilt er að dæma skaðabætur eftir álitum ef ljóst þykir að fjárhagslegt tjón hafi orðið en ekki er unnt að sanna fjárhæð þess.
 
  *VI. kafli.* *Ýmis ákvæði.*
-■ *19. gr.* _Eftirlit._
+ ■ *19. gr.* _Eftirlit._
  □ [Neytendastofa][^1)^] hefur eftirlit með að farið sé eftir 6. - 7. gr. og 9. - 11. gr. laga þessara. Ef brotið er gegn ákvæðum þessum gilda ákvæði [laga um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðarins][^1)^] um úrræði [Neytendastofu],[^1)^] stjórnvaldssektir og málsmeðferð.
  □ [Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um Neytendastofu og talsmann neytenda.
  □ Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður áfrýjunarnefndar neytendamála liggur fyrir.
  □ Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.][^2)^]
-    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]L. 34/2007, 6. gr.
+    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]L. 34/2007, 6. gr._
  ■ *20. gr.* _Tengiliður._
- □ [Efnahags- og viðskiptaráðuneytið][^1)^] skal vera tengiliður vegna samstarfs við önnur aðildarríki á Evrópska efnahagssvæðinu um rafræn viðskipti. Þá skal [efnahags- og viðskiptaráðuneytið][^1)^] vera tengiliður þar sem þjónustuþegar og þjónustuveitendur geta aflað sér almennra upplýsinga um rafræna þjónustu, þar á meðal um samningsréttindi og samningsskyldur, úrræði í deilumálum og upplýsingar um stjórnvöld, samtök eða stofnanir sem geta veitt frekari upplýsingar. Ráðuneytið getur falið öðrum aðilum að vera tengiliður samkvæmt ákvæði þessu eftir nánari reglum sem ráðherra setur.
-    _[^1)^]L. 98/2009, 55. gr._
+ □ [Ráðuneytið][^1)^] skal vera tengiliður vegna samstarfs við önnur aðildarríki á Evrópska efnahagssvæðinu um rafræn viðskipti. Þá skal [ráðuneytið][^1)^] vera tengiliður þar sem þjónustuþegar og þjónustuveitendur geta aflað sér almennra upplýsinga um rafræna þjónustu, þar á meðal um samningsréttindi og samningsskyldur, úrræði í deilumálum og upplýsingar um stjórnvöld, samtök eða stofnanir sem geta veitt frekari upplýsingar. Ráðuneytið getur falið öðrum aðilum að vera tengiliður samkvæmt ákvæði þessu eftir nánari reglum sem ráðherra setur.
+    _[^1)^]L. 126/2011, 340. gr._
  ■ *21. gr.* _Innleiðing._
  □ Lög þessi eru sett með hliðsjón af ákvörðun sameiginlegu EES-nefndarinnar nr. 91/2000 um breytingu á XI. viðauka við EES-samninginn frá 2. maí 1992 og til þess að taka upp í innlendan rétt ákvæði tilskipunar Evrópuþingsins og ráðsins 2000/31/EB frá 8. júní 2000 um tiltekna lagalega þætti þjónustu, einkum rafrænna viðskipta, í tengslum við upplýsingasamfélagið á innri markaðnum („tilskipun um rafræn viðskipti“). Lög þessi hafa verið tilkynnt í samræmi við ákvæði tilskipunar 98/34/EB sem setur reglur um tilhögun upplýsingaskipta vegna tæknilegra reglna.
-■ *22. gr.* _Gildistaka._
+ ■ *22. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi.
-■ *23. gr.* ...
-■ *24. gr.* ...
-■ *25. gr.* ...
+ ■ *23. gr.* ...
+ ■ *24. gr.* ...
+ ■ *25. gr.* ...
  ■ *Ákvæði til bráðabirgða.* Endurskoða skal ákvæði 19. gr. laga þessara þegar fimm ár eru liðin frá gildistöku þeirra með hliðsjón af reynslu af eftirlitinu og umfangi þess.
 
 
