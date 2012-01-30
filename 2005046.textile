@@ -16,7 +16,7 @@ h2. Lög um fjárhagslegar tryggingarráðstafanir
     3. Eftirfarandi starfsleyfisskyldar stofnanir sem háðar eru opinberu eftirliti:
     a. fjármálafyrirtæki, sbr. "4. gr. laga nr. 161/2002":2002161.html#g4, um fjármálafyrirtæki,
     b. vátryggingafélög og líftryggingafélög, sbr. "lög nr. 60/1994":1994060.html, um vátryggingastarfsemi,
-    c. verðbréfasjóðir, sbr. 1. tölul. "2. gr. laga nr. 30/2003":2003030.html#g2, um verðbréfasjóði og fjárfestingarsjóði,
+    c. verðbréfasjóðir, sbr. 1. tölul. "2. gr. laga nr. 30/2003":2003030.html, um verðbréfasjóði og fjárfestingarsjóði,
     d. lánastofnanir, fjárfestingarfyrirtæki, fjármálastofnanir, vátryggingafélög, líftryggingafélög, fyrirtæki um sameiginlega fjárfestingu í framseljanlegum verðbréfum og rekstrarfélög verðbréfasjóða sem hafa staðfestu og starfsleyfi í öðru ríki á Evrópska efnahagssvæðinu.
     4. Milligönguaðili, uppgjörsaðili og greiðslujöfnunarstöð, sbr. "2. gr. laga nr. 90/1999":1999090.html#g2, um öryggi greiðslufyrirmæla í greiðslukerfum, sambærilegar stofnanir sem starfa samkvæmt landslögum í tengslum við markaði með staðlaða framvirka samninga, valrétti og afleiður, og sambærilegar erlendar stofnanir sem hafa staðfestu og starfsleyfi í öðru ríki á Evrópska efnahagssvæðinu.
     5. Lögaðili sem starfar við eignaumsýslu eða í umboði annars eða annarra, þ.m.t. kröfuhafa eða stofnana skv. 1. - 5. tölul.

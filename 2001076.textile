@@ -227,7 +227,7 @@ E.
 
 Vélstjóri
 
-&amp;leq;375 kW
+≤375 kW
 
 18
 
@@ -296,7 +296,7 @@ F.
 *Siglingatími:*
 
     A. 9 mánaða siglingatími sem aðstoðarmaður í vél.
-    B. 14 mánaða siglingatími sem vélstjóri á skipi &amp;leq;375 kW.
+    B. 14 mánaða siglingatími sem vélstjóri á skipi ≤375 kW.
     C. 18 mánaða siglingatími sem vélstjóri á skipum með aðalvél stærri en 750 kW.
     D. 36 mánaða siglingatími sem vélstjóri á skipum með aðalvél stærri en 750 kW, þar af 18 mánaða siglingatími eftir að hafa öðlast réttindi til að starfa sem 1. vélstjóri.
     E. 9 mánaða siglinga- og námstími og hafa lokið viðurkenndri fagmenntun sem er ekki skemmri en 45 mánuðir, þar með talin fræðsla um borð sem skráð er í þjálfunarbók.

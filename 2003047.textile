@@ -7,7 +7,7 @@ h2. Lög um eftirlit með skipum
 <hr />
 
 
- *Tóku gildi 1. janúar 2004.* _EES-samningurinn:_ VIII. viðauki tilskipun 97/70/EB, 98/18/EB og 1999/35/EB. _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 139/2008 (tóku gildi 13. des. 2008), l. 36/2010 (tóku gildi 1. nóv. 2010), l. 162/2010 (tóku gildi 1. jan. 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. janúar 2004.* _EES-samningurinn:_ VIII. viðauki tilskipun 97/70/EB, 98/18/EB og 1999/35/EB. _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 139/2008 (tóku gildi 13. des. 2008), l. 36/2010 (tóku gildi 1. nóv. 2010), l. 162/2010 (tóku gildi 1. jan. 2011), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 169/2011 (tóku gildi 1. jan. 2012).
 
 
  *I. kafli.* *Gildissvið og orðskýringar.*
@@ -129,23 +129,45 @@ h2. Lög um eftirlit með skipum
 
  *VI. kafli.* *Gjöld.*
  ■ *28. gr.* _Gjöld._
- □ Eigandi skips skal greiða árlega í ríkissjóð sérstakt gjald, skipagjald, af hverju skipi sem skráð er á aðalskipaskrá eins og hér segir:
+ □ [Eigandi skips skal greiða árlega í ríkissjóð sérstakt gjald, skipagjald, af hverju skipi sem skráð er á aðalskipaskrá eins og hér segir:
 
-|_Skráningarlengd skips_|_Árlegt gjald (í kr.)_|
-|&lt; 8 metrar|6.250|
-|8 - 15 metrar|11.200|
-|15 - 24 metrar|25.000|
-|24 - 45 metrar|49.600|
-|45 - 60 metrar|81.900|
-|≥ 60 metrar|108.400|
+_Skráningarlengd skips_
+
+_Árlegt gjald (í kr.)_
+
+&lt; 8 metrar
+
+10.940
+
+8 - 15 metrar
+
+19.600
+
+15 - 24 metrar
+
+43.750
+
+24 - 45 metrar
+
+86.800
+
+45 - 60 metrar
+
+143.300
+
+≥ 60 metrar
+
+189.700
+
+][^1)^]
 
 Gjöldin skulu miðuð við skráningu 1. janúar ár hvert og er gjalddagi og eindagi þeirra sá sami, 1. apríl ár hvert. Við eigendaskipti ber hinn fyrri eigandi ábyrgð á gjaldinu þar til umskráning hefur farið fram.
  □ Utan Reykjavíkur skulu gjöld skv. 1. mgr. innheimt af sýslumönnum en í Reykjavík skulu þau innheimt af tollstjóra. Innheimtumenn skulu skila gjöldum sem þeir innheimta skv. 1. mgr. í ríkissjóð. Ef skipagjald er ekki greitt á gjalddaga skal greiða ríkissjóði dráttarvexti, sbr. "III. kafla laga nr. 38/2001":2001038.html, um vexti og verðtryggingu, frá næsta degi eftir gjalddaga, af þeirri fjárhæð sem þá er ógreidd fram að greiðsludegi.
- □ Fyrir skoðun á skipum og búnaði þeirra, útgáfu skírteina, samþykkt smíðalýsinga og teikninga og aðra lögboðna þjónustu sem Siglingastofnun Íslands veitir skal eigandi greiða samkvæmt gjaldskrá sem [ráðherra][^1)^] setur að tillögu Siglingastofnunar Íslands og miðast hún við kostnað stofnunarinnar.
+ □ Fyrir skoðun á skipum og búnaði þeirra, útgáfu skírteina, samþykkt smíðalýsinga og teikninga og aðra lögboðna þjónustu sem Siglingastofnun Íslands veitir skal eigandi greiða samkvæmt gjaldskrá sem [ráðherra][^2)^] setur að tillögu Siglingastofnunar Íslands og miðast hún við kostnað stofnunarinnar.
  □ Gjöldum samkvæmt grein þessari fylgir lögveð í skipi í eitt ár frá því er gjald var kræft.
  □ Siglingastofnun Íslands er heimilt að halda eftir haffærisskírteini eða öðrum jafngildum skírteinum samkvæmt samningum og alþjóðasamningum sem Ísland hefur fullgilt, að skoðun lokinni, ef gjöld skv. 3. mgr. eru ekki greidd.
- □ Ráðherra er heimilt að setja nánari ákvæði um framkvæmd þessa ákvæðis í reglugerð.[^2)^]
-    _[^1)^]L. 162/2010, 236. gr. [^2)^]Rg. 587/2002._
+ □ Ráðherra er heimilt að setja nánari ákvæði um framkvæmd þessa ákvæðis í reglugerð.[^3)^]
+    _[^1)^]L. 169/2011, 1. gr. [^2)^]L. 162/2010, 236. gr. [^3)^]Rg. 587/2002._
 
  *VII. kafli.* *Refsingar, svipting réttinda o.fl.*
  ■ *29. gr.* _Brot._

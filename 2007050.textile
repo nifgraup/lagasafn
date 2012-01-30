@@ -7,7 +7,7 @@ h2. Lög um sameignarfélög
 <hr />
 
 
- *Tóku gildi 1. janúar 2008.* _Breytt með_ l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l. 49/2011 (taka gildi 1. jan. 2012 nema a-liður 3. gr. og 4. gr. sem taka gildi 1. sept. 2013) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. janúar 2008.* _Breytt með_ l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l. 49/2011 (tóku gildi 1. jan. 2012 nema a-liður 3. gr. og 4. gr. sem taka gildi 1. sept. 2013) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -77,11 +77,11 @@ h2. Lög um sameignarfélög
  □ Sá sem kosið hefur stjórnarmann getur vikið honum frá störfum. Félagsfundur getur ávallt vikið frá öllum þeim stjórnarmönnum sem hann kaus og látið stjórnarkjör fara fram að nýju.
  □ Ef starfi stjórnarmanns lýkur áður en kjörtímabili er lokið og enginn varamaður er til að koma í hans stað skulu aðrir stjórnarmenn í sameiningu boða til félagsfundar til að kjósa nýjan stjórnarmann fyrir þann tíma sem eftir er af kjörtímabilinu. Heimilt er að fresta kjöri nýs stjórnarmanns til næsta félagsfundar þar sem stjórnarkjör skal fara fram ef stjórnin er ákvörðunarbær með þeim stjórnarmönnum og varamönnum sem eftir eru.
  ■ *15. gr.* _Starfshættir stjórnar._
- □ Félagsstjórn skal kjósa sér formann nema annað sé ákveðið á félagsfundi.[^1)^]
+ □ Félagsstjórn skal kjósa sér formann nema annað sé ákveðið á félagsfundi. [Formaður stjórnar skal ekki taka að sér önnur störf fyrir félagið en þau sem teljast eðlilegur hluti starfa hans sem stjórnarformanns, að undanskildum einstökum verkefnum sem stjórn felur honum að vinna fyrir sig.][^1)^]
  □ Formaður boðar til stjórnarfunda. Fund skal halda ef einhver stjórnarmanna eða framkvæmdastjóri krefst þess. Hafi verið ráðinn framkvæmdastjóri á hann sæti á fundum félagsstjórnar og nýtur þar málfrelsis og tillöguréttar nema stjórnin ákveði annað í einstökum tilvikum.
  □ Heimilt er að halda stjórnarfundi með aðstoð rafrænna miðla að svo miklu leyti sem það samræmist framkvæmd verkefna félagsstjórnar. Þrátt fyrir ákvæði 1. málsl. þessarar málsgreinar getur stjórnarmaður eða framkvæmdastjóri krafist þess að stjórnarfundur verði haldinn með hefðbundnum hætti. Að öðru leyti gilda ákvæði laganna um stjórnarfundi og notkun rafrænna skjala eftir því sem við á um rafræna stjórnarfundi og samskipti í tengslum við þá.
  □ Um það sem gerist á stjórnarfundum skal haldin gerðabók sem undirrituð skal af þeim sem fund sitja. Stjórnarmaður eða framkvæmdastjóri, sem er ekki sammála ákvörðun stjórnar, á rétt á að fá sérálit sitt skráð í gerðabókina.
-    _[^1)^]Málsgreininni var breytt með l. 49/2011, 5. gr. Breytingin tekur gildi 1. jan. 2012 skv. 6. gr. s.l._
+    _[^1)^]L. 49/2011, 5. gr._
  ■ *16. gr.* _Ákvarðanir stjórnar._
  □ Stjórn er ákvörðunarbær þegar meiri hluti stjórnarmanna sækir fund. Ákvörðun má þó ekki taka nema allir stjórnarmenn hafi haft tök á því að fjalla um málið sé þess kostur. Ef stjórnarmaður forfallast vegna veikinda, fjarveru og þess háttar og valinn hefur verið varamaður skal honum veittur kostur á að taka þátt í stjórnarfundum meðan forföllin vara.
  □ Einfaldur meiri hluti atkvæða ræður úrslitum á stjórnarfundum. Atkvæði formanns ræður úrslitum þegar atkvæði eru jöfn.
