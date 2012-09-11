@@ -7,7 +7,7 @@ h2. Lög um varnir gegn mengun hafs og stranda
 <hr />
 
 
- *Tóku gildi 1. október 2004, sjá þó 29. gr.* _Breytt með_ l. 114/2004 (tóku gildi 13. nóv. 2004), "l. 68/2006":2006068.html (tóku gildi 30. júní 2006), l. 166/2008 (tóku gildi 1. jan. 2009), l. 162/2010 (tóku gildi 1. jan. 2011), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 131/2011 (tóku gildi 1. jan. 2012).
+ *Tóku gildi 1. október 2004, sjá þó 29. gr.* _Breytt með_ l. 114/2004 (tóku gildi 13. nóv. 2004), "l. 68/2006":2006068.html (tóku gildi 30. júní 2006), l. 166/2008 (tóku gildi 1. jan. 2009), l. 162/2010 (tóku gildi 1. jan. 2011), l. 126/2011 (tóku gildi 30. sept. 2011), l. 131/2011 (tóku gildi 1. jan. 2012) og l. 52/2012 (tóku gildi 26. júní 2012).
 
 
  *I. kafli.* *Markmið, gildissvið og skilgreiningar.*
@@ -25,15 +25,15 @@ h2. Lög um varnir gegn mengun hafs og stranda
     2. _Bráðamengun:_ Mengun hafs og stranda sem verður skyndilega og krefst tafarlausra aðgerða.
     3. _Fljótandi efni:_ Vökvar með lægri gufuþrýsting en 2,8 kg/sm[^2^] við 37,8°C.
     4. _Flutningur olíu, hættulegra efna og eiturefna:_ Flutningar á efnum sem falla undir ákvæði alþjóðasamþykktar um sjóflutninga á hættulegum varningi, IMDG-kóðann, um sjóflutninga á hættulegum efnum í farmgeymum skipa, IBC-kóðann, um flutning á olíu í farmgeymum skipa, eða ADR-reglur um flutning á hættulegum farmi á vegum, þ.e. þeim efnum sem falla undir viðauka I, II og III í MARPOL-samningnum, þegar þau eru flutt sem farmur í skipum, og efnum sem flokkuð eru sem hættuleg á landi.
-    5. _Hafnarsvæði:_ Umráðasvæði á sjó og landi sem hafnaryfirvöld á hverjum stað annast og skilgreint er í hafnalögum og hafnarreglugerðum.
+    5. [_Hafnarsvæði:_ Umráðasvæði á sjó og landi sem hafnaryfirvöld á hverjum stað annast og skilgreint er í hafnalögum og hafnarreglugerðum og sá hluti strandar sem skilgreindur er sem hafnarsvæði samkvæmt aðalskipulagi á hverjum stað.][^1)^]
     6. _Kjölfestuvatn:_ Vatn, ásamt uppleysanlegum efnum og gruggi, sem er tekið um borð í skip í því skyni að stjórna styrk, halla, kjölristu, stöðugleika eða álagi skips.
     7. _Losun:_ Þegar vísvitandi eða af stórfelldu gáleysi er hleypt í sjóinn fljótandi eða föstum efnum sem tengjast eðlilegri starfsemi. Eftirfarandi telst ekki losun:
     a. að koma fyrir efnum eða hlutum í hafinu í öðrum lögmætum tilgangi en að farga þeim,
-    b. þegar úrgangsefni eða önnur efni, sem beinlínis stafa frá rannsóknum eða nýtingu jarðefna í eða á hafsbotni, berast í hafið [nema um sé að ræða efni frá kolvetnisvinnslu eða borunum tengdum henni],[^1)^]
+    b. þegar úrgangsefni eða önnur efni, sem beinlínis stafa frá rannsóknum eða nýtingu jarðefna í eða á hafsbotni, berast í hafið [nema um sé að ræða efni frá kolvetnisvinnslu eða borunum tengdum henni],[^2)^]
     c. að kasta í hafið óunnum fiski og fiskúrgangi og öðrum sjávarlífverum vegna veiða og vinnslu.
     8. _Lýsi og grútur:_ Allar tegundir feitmetis sem unnið er eða kemur úr sjávarlífverum og niðurbrotsefni þeirra.
     9. _Mengun:_ Þegar örverur, efni og efnasambönd og eðlisfræðilegir þættir valda óæskilegum og skaðlegum áhrifum á heilsufar almennings, röskun lífríkis eða óhreinkun lofts, láðs eða lagar. Mengun tekur einnig til ólyktar, hávaða, titrings, geislunar og varmaflæðis og ýmissa óæskilegra eðlisfræðilegra þátta.
-    10. [_Mengunarlögsaga Íslands:_ Hafsvæðið sem nær yfir innsævi að meðtalinni strönd að efstu flóðmörkum á stórstraumsflóði, landhelgi og efnahagslögsögu, landgrunn Íslands og efstu jarðlög, sbr. lög um landhelgi, efnahagslögsögu og landgrunn.][^2)^]
+    10. [_Mengunarlögsaga Íslands:_ Hafsvæðið sem nær yfir innsævi að meðtalinni strönd að efstu flóðmörkum á stórstraumsflóði, landhelgi og efnahagslögsögu, landgrunn Íslands og efstu jarðlög, sbr. lög um landhelgi, efnahagslögsögu og landgrunn.][^3)^]
     11. _Mengunartjón:_ Tjón eða skaði sem hlýst af mengun hafs og stranda hvar sem slík mengun kann að eiga sér stað og af hvers konar völdum sem hún er. Mengunartjón tekur einnig til kostnaðar vegna ráðstafana til að koma í veg fyrir tjón, frekara tjón eða skaða sem hlýst af slíkum ráðstöfunum.
     12. _Netlög:_ Sjávarbelti 115 m frá stórstraumsfjöruborði.
     13. _Olía:_ Vökvakennd olíuefni í hvaða formi sem er, þ.m.t. hráolía, svartolía, smurolía, jurtaolía, olíuúrgangur og unnin olía.
@@ -52,7 +52,7 @@ h2. Lög um varnir gegn mengun hafs og stranda
     b. þegar úrgangsefni eða önnur efni, sem beinlínis stafa frá rannsóknum eða nýtingu jarðefna í eða á hafsbotni, berast í hafið,
     c. að kasta óunnum fiski og fiskúrgangi og öðrum sjávarlífverum vegna veiða og vinnslu í hafið.
     25. _Vöktun:_ Kerfisbundin og síendurtekin skráning einstakra breytilegra þátta í umhverfinu.
-    _[^1)^]L. 114/2004, 2. gr._ [^2)^]L. 166/2008, 21. gr.
+    _[^1)^]L. 52/2012, 1. gr._ [^2)^]L. 114/2004, 2. gr. [^3)^]L. 166/2008, 21. gr.
 
  *II. kafli.* *Stjórn og skipan.*
  ■ *4. gr.* _Yfirstjórn og eftirlitsaðilar._
@@ -88,16 +88,16 @@ h2. Lög um varnir gegn mengun hafs og stranda
     q. vöktun og mælingar, svo sem til þess að fylgjast með hugsanlegum breytingum á mengun hafsins og hvaða rannsóknir og mælingar á mengunarefnum í hafinu, í sjávarlífverum og á hafsbotni skuli fara fram,
     r. starfsleyfi fyrir atvinnurekstur sem fellur undir lög þessi,[^11)^]
     s. flutning hættulegs varnings með skipum þar sem heimilt er að vísa til erlendrar frumútgáfu efnalista og staðla sem hlotið hafa samþykki Alþjóðasiglingamálastofnunarinnar,
-    t. varnir og viðbrögð við bráðamengun, rekstur mengunarvarnabúnaðar, upplýsingaskyldu og skyldu eftirlitsaðila til samvinnu,[^12)^]
-    u. eftirlit, skráningu og tilkynningarskyldu,[^13)^]
-    v. bann eða takmörkun á mengun frá skipum, pöllum og öðrum mannvirkjum á sjó eða landstöðvum í samræmi við þá viðauka MARPOL-samningsins og aðra alþjóðasamninga sem Ísland hefur gerst aðili að,[^14)^]
-    w. ábyrgðir og tryggingar vegna atvinnustarfsemi sem ber hlutlæga ábyrgð á bráðamengun í samræmi við ákvæði gildandi laga,[^15)^]
-    x. umskipun efna, sbr. viðauka II, innan mengunarlögsögu Íslands,[^16)^]
+    t. [varnir og viðbrögð við bráðamengun, flokkun hafna og nauðsynlegan mengunarvarnabúnað í hverri höfn eða flokki hafna sem og rekstur og notkun hans, upplýsingaskyldu, skyldu eftirlitsaðila til samvinnu, viðbragðsáætlanir, stjórn á vettvangi, samkomulag stofnana, sbr. 14. gr., verkefni og verksvið mengunarvarnaráðs[^12)^]],[^13)^]
+    u. eftirlit, skráningu og tilkynningarskyldu,[^14)^]
+    v. bann eða takmörkun á mengun frá skipum, pöllum og öðrum mannvirkjum á sjó eða landstöðvum í samræmi við þá viðauka MARPOL-samningsins og aðra alþjóðasamninga sem Ísland hefur gerst aðili að,[^15)^]
+    w. ábyrgðir og tryggingar vegna atvinnustarfsemi sem ber hlutlæga ábyrgð á bráðamengun í samræmi við ákvæði gildandi laga,[^16)^]
+    x. umskipun efna, sbr. viðauka II, innan mengunarlögsögu Íslands,[^17)^]
     y. önnur sambærileg atriði.
  □ Í reglugerðum sem ráðherra setur samkvæmt lögum þessum er heimilt að vísa í gildandi staðla.
  □ Leita skal umsagnar aðila atvinnulífsins og landssamtaka um umhverfisvernd áður en reglugerðir eru settar.
  □ Þegar sérstaklega stendur á getur ráðherra, að fenginni umsögn Umhverfisstofnunar og ef við á Landhelgisgæslu Íslands og Siglingastofnunar Íslands, veitt tímabundna undanþágu frá einstökum greinum reglugerða sem settar eru samkvæmt þessari grein, en þó ekki lengur en eitt ár í senn.
-    _[^1)^]L. 126/2011, 382. gr. [^2)^]L. 162/2010, 240. gr. [^3)^]Rg. 8/1971. Rg. 715/1995. [^4)^]Rg. 35/1994. [^5)^]Rg. 809/1999. [^6)^]Rg. 527/1999. [^7)^]Rg. 792/2004, sbr. 453/2011. Rg. 801/2004. [^8)^]Rg. 792/2004, sbr. 453/2011. [^9)^]Rg. 515/2010. [^10)^]Rg. 796/1999, sbr. 955/2011. [^11)^]Rg. 785/1999, sbr. 849/2000, 48/2001, 105/2004 og 1077/2005. [^12)^]Rg. 465/1998, sbr. 203/1999. [^13)^]Rg. 786/1999, sbr. 850/2000. [^14)^]Rg. 824/2005, sbr. 827/2010. [^15)^]Rg. 1078/2005. [^16)^]Rg. 800/2004._
+    _[^1)^]L. 126/2011, 382. gr. [^2)^]L. 162/2010, 240. gr. [^3)^]Rg. 8/1971. Rg. 715/1995. [^4)^]Rg. 35/1994. [^5)^]Rg. 809/1999. [^6)^]Rg. 527/1999. [^7)^]Rg. 792/2004, sbr. 453/2011. Rg. 801/2004. [^8)^]Rg. 792/2004, sbr. 453/2011. [^9)^]Rg. 515/2010. [^10)^]Rg. 796/1999, sbr. 955/2011. [^11)^]Rg. 785/1999, sbr. 849/2000, 48/2001, 105/2004 og 1077/2005. [^12)^]Rg. 465/1998, sbr. 203/1999. [^13)^]L. 52/2012, 2. gr. [^14)^]Rg. 786/1999, sbr. 850/2000. [^15)^]Rg. 824/2005, sbr. 827/2010. [^16)^]Rg. 1078/2005. [^17)^]Rg. 800/2004._
  ■ *7. gr.* _Um ábyrgð einstaklinga og lögaðila._
  □ Hver sá sem veldur mengun í mengunarlögsögu Íslands ber ábyrgð samkvæmt almennum skaðabótareglum á því tjóni sem rakið verður til mengunarinnar. Eigendum skipa er þó heimilt að takmarka fjárhagslega ábyrgð sína í samræmi við gildandi lagaákvæði.
  □ Ef hætta er á mengun hafs og stranda skal sá sem ber ábyrgð á menguninni gera allt sem í hans valdi stendur til þess að koma í veg fyrir hana eða draga úr henni. Hann ber einnig ábyrgð á því tjóni sem aðgerðir hans eða aðgerðaleysi valda öðrum.
@@ -131,24 +131,28 @@ h2. Lög um varnir gegn mengun hafs og stranda
  □ Vaktstöð siglinga skal miðla tilkynningum skv. 2. mgr. til Landhelgisgæslunnar.
 
  *IV. kafli.* *Bráðamengun.*
- ■ *13. gr.* _Svæðisráð vegna bráðamengunar._
- □ Landið skiptist í viðbragðssvæði vegna bráðamengunar og skal svæðisráð starfa á hverju svæði til fjögurra ára í senn. Sveitarstjórnir á viðkomandi svæði kjósa í svæðisráð og í hverju svæðisráði skulu m.a. eiga sæti heilbrigðisfulltrúi, slökkviliðsstjóri og hafnarstjóri. Þar að auki skal einn fulltrúi sitja í svæðisráðinu tilnefndur af fulltrúum atvinnurekenda á svæðinu. Ráðið skiptir með sér verkum.
- □ Hlutverk svæðisráðs er:
-    a. umsjón, rekstur og viðhald búnaðar í eigu hafnanna,
-    b. að fræða starfsmenn viðkomandi hafna um viðbúnað við bráðamengun í samráði við Umhverfisstofnun,
-    c. að sjá um æfingu og þjálfun í viðbrögðum,
-    d. að vera Umhverfisstofnun til ráðgjafar um aðgerðir vegna bráðamengunar samkvæmt lögum þessum og reglugerðum settum samkvæmt þeim,
-    e. að fara á vettvang og meta aðstæður í samráði við Umhverfisstofnun eftir að mengun hefur orðið.
- □ Kostnaður af rekstri svæðisráða skal borinn af sveitarstjórnum.
- □ Ráðherra ákveður í reglugerð, að höfðu samráði við Samband íslenskra sveitarfélaga, fjölda viðbragðssvæða og mörk þeirra og flokkun hafna með hliðsjón af mengunarvarnabúnaði, svo og nánara verksvið svæðisráða. Umhverfisstofnun annast samræmingu milli svæða og ber ríkissjóður kostnað af samræmingunni.
+ ■ *13. gr.* _[Mengunarvarnaráð hafna._
+ □ Að afloknum hverjum sveitarstjórnarkosningum skal ráðherra skipa sjö fulltrúa í mengunarvarnaráð hafna til fjögurra ára í senn. Umhverfisstofnun tilnefnir tvo fulltrúa og er annar þeirra formaður ráðsins. Hafnasamband Íslands tilnefnir þrjá fulltrúa, Samband íslenskra sveitarfélaga einn fulltrúa, og skal hann vera starfandi heilbrigðisfulltrúi, og Siglingastofnun Íslands einn fulltrúa. Þeir sem tilnefna fulltrúa í mengunarvarnaráð skulu bera kostnað vegna fulltrúa sinna í ráðinu.
+ □ Hlutverk mengunarvarnaráðs hafna er:
+    a. að vera formlegur samstarfsvettvangur Umhverfisstofnunar og hafna um málefni sem varða viðbúnað og viðbrögð við bráðamengun innan hafnarsvæða,
+    b. að stuðla að samstarfi og samhæfingu milli hafna um viðbúnað, samræmingu viðbragðsáætlana og viðbragða við bráðamengun,
+    c. að gera tillögu til Umhverfisstofnunar um uppbyggingu og endurnýjun á mengunarvarnabúnaði í höfnum landsins og
+    d. að koma með ábendingar og tillögur um innihald viðbragðsáætlana.][^1)^]
+    _[^1)^]L. 52/2012, 3. gr._
+ ■ *[13. gr. a.* _Tilkynningar._
+ □ Tilkynna skal um bráðamengun innan hafnarsvæðis til viðkomandi hafnarstjóra sem grípur til viðeigandi ráðstafana.
+ □ Tilkynna skal um óhöpp á sjó utan hafnarsvæða til vaktstöðvar siglinga. Vaktstöð siglinga kallar til vakthafandi aðila innan Umhverfisstofnunar sem gerir viðeigandi ráðstafanir í samræmi við viðbragðsáætlanir.
+ □ Mengunaróhöpp á landi skal tilkynna til viðkomandi slökkviliðs í samræmi við lög um brunavarnir.][^1)^]
+    _[^1)^]L. 52/2012, 4. gr._
  ■ *14. gr.* _Framkvæmd og stjórn á vettvangi._
  □ Um framkvæmd og stjórn á vettvangi gildir eftirfarandi:
-    a. Mengun innan hafnarsvæða: Hafnarstjóri ber ábyrgð á og annast aðgerðir vegna mengunar innan hafnarsvæðisins og ber honum að grípa til hreinsunar og annarra viðeigandi ráðstafana til að koma í veg fyrir frekara tjón vegna bráðamengunar. Hafnarstjóra ber að tilkynna Umhverfisstofnun og heilbrigðisnefnd um bráðamengun strax og vart verður við hana. Heilbrigðisfulltrúi, í umboði heilbrigðisnefndar, hefur eftirlit með hreinsunaraðgerðum og ákveður í samráði við Umhverfisstofnun hvenær árangur af hreinsun er nægur. Hafnarstjóri getur kallað eftir aðstoð Umhverfisstofnunar telji hann ástæðu til. Telji Umhverfisstofnun nauðsyn á frekari aðgerðum er stofnuninni heimilt að hlutast til um þær.
-    b. Mengun utan hafnarsvæða: Þegar tilkynning berst um bráðamengun við strendur skal hlutaðeigandi heilbrigðisfulltrúi í umboði Umhverfisstofnunar fara á vettvang og meta umfang bráðamengunar og nauðsynlegar aðgerðir og tilkynna Umhverfisstofnun. Umhverfisstofnun ber ábyrgð á að aðgerðir gegn bráðamengun hefjist og annast stjórn á vettvangi. Umhverfisstofnun ber kostnað af störfum heilbrigðisfulltrúa í þessu tilviki. Umhverfisstofnun er heimilt að fela heilbrigðisnefnd umsjón með aðgerðum á kostnað stofnunarinnar. Umhverfisstofnun, Siglingastofnun Íslands og Landhelgisgæsla Íslands skulu gera skriflega aðgerðaáætlun um aðkomu stofnananna og um framkvæmd einstakra verkþátta.
+    a. [Bráðamengun innan hafnarsvæða: Hafnarstjóri ber ábyrgð á að gripið sé til viðeigandi bráðaaðgerða til að hefta útbreiðslu og koma í veg fyrir frekara tjón vegna mengunarinnar. Hafnarstjóri tilnefnir vettvangsstjóra sem fer með stjórn á vettvangi. Hafnarstjóra ber að tilkynna Umhverfisstofnun og heilbrigðisnefnd um bráðamengun strax og vart verður við hana. Eftir að bráðaaðgerðum lýkur getur hafnarstjóri óskað eftir því að heilbrigðisnefnd hafi umsjón með frekari hreinsun umhverfis. Heilbrigðisnefnd hefur eftirlit með bráðaaðgerðum og ákveður hvenær árangur af hreinsun er nægur. Hafnarstjóri getur kallað eftir aðstoð Umhverfisstofnunar telji hann ástæðu til. Telji Umhverfisstofnun nauðsyn á frekari aðgerðum er stofnuninni heimilt að hlutast til um þær.][^1)^]
+    b. [Bráðamengun utan hafnarsvæða: Við óhapp sem leiðir til eða getur leitt til bráðamengunar hafs og stranda utan hafnarsvæða skal Umhverfisstofnun gera viðeigandi ráðstafanir í samræmi við viðbragðsáætlanir. Umhverfisstofnun ber ábyrgð á að aðgerðir gegn bráðamengun hefjist og annast stjórn á vettvangi. Umhverfisstofnun getur farið fram á að heilbrigðisnefnd fari á vettvang og meti umfang bráðamengunar og nauðsynlegar aðgerðir og tilkynni Umhverfisstofnun. Umhverfisstofnun er heimilt að fela heilbrigðisnefnd eða öðrum aðilum í umboði stofnunarinnar umsjón með aðgerðum á kostnað stofnunarinnar. Umhverfisstofnun, Siglingastofnun Íslands og Landhelgisgæsla Íslands skulu gera skriflega aðgerðaáætlun um aðkomu stofnananna og um framkvæmd einstakra verkþátta.][^1)^]
  □ Heimilt er að fela mengunarvaldinum sjálfum framkvæmd hreinsunar. Í slíkum tilvikum verður mengunarvaldurinn að leggja fram áætlun um hvernig hann muni standa að hreinsuninni.
  □ Sé talið að mönnum geti stafað hætta af menguninni ber að tilkynna landlækni það tafarlaust.
- □ Sé mengunin þess eðlis að hún geti valdið hættu fyrir íbúa eða eignir skulu aðgerðir framkvæmdar í samráði við viðkomandi lögreglustjóra.
- □ Heimilt er að fela slökkviliðsstjóra stjórn á vettvangi við mengunaróhöpp með sérstökum samningi eða í einstökum tilvikum þegar við á.
+ □ Sé mengunin þess eðlis að hún geti valdið hættu fyrir íbúa eða eignir skulu aðgerðir framkvæmdar í samráði við viðkomandi lögreglustjóra. [Ef umfang eða eðli mengunar er slíkt að ætla megi að almenningi stafi hætta af skal nota neyðarskipulag almannavarna.][^1)^]
+ □ [Heimilt er að fela slökkviliðsstjóra umsjón með mengunarvarnabúnaði og stjórn á vettvangi við bráðamengunaróhöpp með sérstökum samningi eða í einstökum tilvikum þegar við á.][^1)^]
+    _[^1)^]L. 52/2012, 5. gr._
  ■ *15. gr.* _Íhlutun vegna bráðamengunar._
  □ Landhelgisgæslu Íslands er heimilt að grípa til íhlutunar og gera þær ráðstafanir sem taldar eru nauðsynlegar á hafsvæðinu innan mengunarlögsögu Íslands til að koma í veg fyrir eða draga úr hættu sem hafi eða ströndum stafar af bráðamengun. Í íhlutun felst m.a. yfirtaka á stjórn skips sé fyrirmælum Landhelgisgæslu Íslands ekki fylgt. Þetta gildir þó ekki um skip sem eru í rekstri erlendra ríkja og notuð í þjónustu ríkisvalds hlutaðeigandi ríkis við störf sem flokkast ekki undir verslunarviðskipti.
  □ Eftir því sem unnt er og þörf krefur skal Landhelgisgæsla Íslands hafa samráð við Umhverfisstofnun og hafnarstjóra þegar gripið er til íhlutunar.
@@ -162,16 +166,22 @@ h2. Lög um varnir gegn mengun hafs og stranda
  □ Auk ákvæða 16. gr. gilda um vátryggingu olíuflutningaskipa alþjóðasamningur um íhlutun á úthafinu þegar óhöpp verða sem valda eða geta valdið olíumengun, alþjóðasamningur um einkaréttarlega ábyrgð vegna tjóns af völdum olíumengunar og alþjóðasamningur um stofnun alþjóðasjóðs til að bæta tjón af völdum olíumengunar.
  ■ *18. gr.* _Viðbragðsáætlanir._
  □ Atvinnurekstur sem valdið getur mengun og talinn er upp í a-lið viðauka I skal gera áætlanir um viðbrögð vegna bráðamengunar og skulu þær liggja fyrir áður en starfsleyfi er gefið út. Slíkar áætlanir skulu byggjast á áhættumati sem tekur m.a. tillit til þátta sem fram koma í b-lið viðauka I og mælt er frekar fyrir um í reglugerð.
- □ Umhverfisstofnun gerir tillögu til ráðherra, að höfðu samráði við ráðgjafaraðila, sbr. 5. gr., um áætlanir um varnir og viðbrögð við bráðamengun.
+ □ [Umhverfisstofnun skal sjá um gerð viðbragðsáætlana utan hafnarsvæða í samstarfi við Landhelgisgæslu Íslands, Siglingastofnun Íslands og að höfðu samráði við ráðgjafaraðila, sbr. 5. gr.][^1)^]
+ □ [Viðbragðsáætlanir skulu gerðar fyrir hverja höfn og skulu þær taka mið af aðstæðum á hverjum stað. Hafnir skulu gera viðbragðsáætlun og senda Umhverfisstofnun til samþykktar.
+ □ Fyrir 1. mars ár hvert skulu hafnir skila til Umhverfisstofnunar uppfærðri viðbragðsáætlun.][^1)^]
+    _[^1)^]L. 52/2012, 6. gr._
  ■ *19. gr.* _Mengunarvarnabúnaður._
- □ Svæðisráð ber ábyrgð á geymslu og viðhaldi þess mengunarvarnabúnaðar sem til staðar er í höfnum landsins og endurnýjun á honum og tilnefnir umsjónarmann með búnaðinum og annan til vara.
- □ Umhverfisstofnun skal hafa yfir að ráða flytjanlegum mengunarvarnabúnaði til að takast á við óhöpp utan og innan hafnarsvæða eftir því sem þörf er á. Stofnunin ákveður í samráði við viðkomandi svæðisráð, eftir því sem fé fæst til í fjárlögum, uppbyggingu og endurnýjun á nauðsynlegum mengunarvarnabúnaði í höfnum landsins og um borð í varðskipum Landhelgisgæslu Íslands.
+ □ [Hver höfn skal að lágmarki eiga og reka mengunarvarnabúnað í samræmi við flokkun hafnar og áhættumat hennar og eins og nánar er kveðið á um í reglugerð sem ráðherra setur. Þó er heimilt að hafnir á tilteknu svæði eigi og reki slíkan mengunarvarnabúnað saman. Leita skal samþykkis Umhverfisstofnunar fyrir slíkri tilhögun áður en hafnir gera samning sín á milli.
+ □ Umhverfisstofnun skal hafa yfir að ráða flytjanlegum mengunarvarnabúnaði til að takast á við bráðamengunaróhöpp utan sem innan hafnarsvæða eftir því sem þörf er á. Stofnunin sér um rekstur, endurnýjun og uppbyggingu mengunarvarnabúnaðarins. Umhverfisstofnun ákveður í samráði við mengunarvarnaráð hafna uppbyggingu og endurnýjun á nauðsynlegum mengunarvarnabúnaði í höfnum landsins og um borð í varðskipum Landhelgisgæslu Íslands.
+ □ Fyrir 1. mars ár hvert skulu hafnir skila til Umhverfisstofnunar skýrslu um mengunarvarnaæfingar árið á undan, notkun mengunarvarnabúnaðar, mat á ástandi hans og þörf á endurnýjun, ásamt upplýsingum um bráðamengunaróhöpp sem orðið hafa í höfninni og hvernig við þeim var brugðist.][^1)^]
+    _[^1)^]L. 52/2012, 7. gr._
  ■ *20. gr.* _Strönduð og sokkin skip, pallar eða önnur mannvirki._
  □ Hafi skip, pallar eða önnur mannvirki á sjó strandað þannig að þeim verði ekki komið á flot ber eiganda að fjarlægja þau sem fyrst og eigi síðar en sex mánuðum eftir strand. Hafi skip, pallar eða önnur mannvirki á sjó eða loftför sokkið getur Umhverfisstofnun krafist þess að þau verði fjarlægð. Telji eigandi ill- eða ógerlegt að fjarlægja strandað eða sokkið skip, pall, loftfar eða annað mannvirki er honum heimilt að leggja fram beiðni til Umhverfisstofnunar um að það skuli vera óhreyft þar sem það er. Slíkri beiðni skal fylgja áhættumat þar sem gerð er grein fyrir umhverfislegum ávinningi ásamt kostnaði við að fjarlægja hið sokkna skip, pall eða annað mannvirki. Við afgreiðslu málsins skal Umhverfisstofnun hafa samráð við viðkomandi sveitarfélag.
  ■ *21. gr.* _Gjaldskrá fyrir eftirlit vegna bráðamengunar og aðgerða til að draga úr slíkri mengun._
- □ Höfnum og svæðisráðum er heimilt að innheimta gjöld af mengunarvaldi á grunni gjaldskrár sem ráðherra setur að fenginni umsögn Sambands íslenskra sveitarfélaga um greiðslu kostnaðar við starfsemi á vegum hafna vegna mengunar innan hafnarsvæða og við starfsemi svæðisráða vegna mengunar. Gjaldskráin skal lögð til grundvallar við uppgjör við Umhverfisstofnun vegna starfa á vegum svæðisráðs og hafna og afnota á mengunarvarnabúnaði í eigu hafna þegar stofnunin ber fjárhagslega ábyrgð á aðgerðum. Gjaldskráin skal m.a. taka til vinnuframlags, ferðakostnaðar og notkunar búnaðar. Gjaldskráin skal birt í B-deild Stjórnartíðinda. Gjöld skulu tryggð með lögveðsrétti í eitt ár í viðkomandi skipi eða fasteign.
- □ Ráðherra setur, að fengnum tillögum Umhverfisstofnunar, gjaldskrá fyrir eftirlit Umhverfisstofnunar vegna bráðamengunar og aðgerða til að draga úr slíkri mengun. Gjaldið má ekki vera hærra en sem nemur tímagjaldi sérfræðings og ferðakostnaði hans. Þá skal ráðherra setja í gjaldskrá ákvæði um leigu mengunarvarnabúnaðar og skal gjaldið miðast við notkun, viðhaldskostnað og endurnýjun á tækjum. Umhverfisstofnun skal krefja mengunarvald um greiðslu í samræmi við gjaldskrá sé um að ræða mengun af völdum olíu, eiturefna eða hættulegra efna eða atvinnustarfsemi sem talin er upp í a-lið viðauka I. Gjöld skulu tryggð með lögveðsrétti í eitt ár eftir gjalddaga í viðkomandi skipi eða fasteign þegar eftirlitið er tengt notkun fasteignar. Gjaldskráin skal birt í B-deild Stjórnartíðinda. Gjöld má innheimta með fjárnámi.
+ □ Höfnum ...[^1)^] er heimilt að innheimta gjöld af mengunarvaldi á grunni gjaldskrár sem ráðherra setur að fenginni umsögn Sambands íslenskra sveitarfélaga um greiðslu kostnaðar við starfsemi á vegum hafna vegna mengunar innan hafnarsvæða ...[^1)^] Gjaldskráin skal lögð til grundvallar við uppgjör við Umhverfisstofnun vegna starfa á vegum ...[^1)^] hafna og afnota á mengunarvarnabúnaði í eigu hafna þegar stofnunin ber fjárhagslega ábyrgð á aðgerðum. Gjaldskráin skal m.a. taka til vinnuframlags, ferðakostnaðar og notkunar búnaðar. Gjaldskráin skal birt í B-deild Stjórnartíðinda. Gjöld skulu tryggð með lögveðsrétti í [tvö ár][^1)^] í viðkomandi skipi eða fasteign.
+ □ Ráðherra setur, að fengnum tillögum Umhverfisstofnunar [og að fenginni umsögn Sambands íslenskra sveitarfélaga],[^1)^] gjaldskrá fyrir eftirlit Umhverfisstofnunar vegna bráðamengunar og aðgerða til að draga úr slíkri mengun. Gjaldið má ekki vera hærra en sem nemur tímagjaldi sérfræðings og ferðakostnaði hans. Þá skal ráðherra setja í gjaldskrá ákvæði um leigu mengunarvarnabúnaðar og skal gjaldið miðast við notkun, viðhaldskostnað og endurnýjun á tækjum. Umhverfisstofnun skal krefja mengunarvald um greiðslu í samræmi við gjaldskrá sé um að ræða mengun af völdum olíu, eiturefna eða hættulegra efna eða atvinnustarfsemi sem talin er upp í a-lið viðauka I. Gjöld skulu tryggð með lögveðsrétti í [tvö ár][^1)^] eftir gjalddaga í viðkomandi skipi eða fasteign þegar eftirlitið er tengt notkun fasteignar. Gjaldskráin skal birt í B-deild Stjórnartíðinda. Gjöld má innheimta með fjárnámi.
  □ Um gjaldtöku vegna aðgerða heilbrigðisnefnda fer samkvæmt ákvæðum laga um hollustuhætti og mengunarvarnir.
+    _[^1)^]L. 52/2012, 8. gr._
 
  *V. kafli.* *Þvingunarúrræði og refsiviðurlög.*
  ■ *22. gr.* _Þvingunarúrræði._
@@ -182,7 +192,8 @@ h2. Lög um varnir gegn mengun hafs og stranda
  □ Stöðvun starfsemi skal því aðeins beitt að um alvarlegri tilvik eða ítrekað brot sé að ræða eða ef úrbætur eru ekki gerðar innan tiltekins frests og er þá heimilt, ef með þarf, að leita aðstoðar lögreglu eða Landhelgisgæslu Íslands, eftir því sem við á. Sé um slík brot að ræða getur Umhverfisstofnun afturkallað starfsleyfi viðkomandi reksturs. Ef starfsleyfið er gefið út af heilbrigðisnefndum sveitarfélaganna skulu þær afturkalla starfsleyfið í samráði við Umhverfisstofnun.
  □ Telji Umhverfisstofnun svo alvarlega hættu stafa af tiltekinni starfsemi eða notkun að aðgerð þoli enga bið er henni heimilt til bráðabirgða að stöðva starfsemi eða notkun þegar í stað, með aðstoð lögreglu ef þurfa þykir, en tilkynna skal það hlutaðeigandi heilbrigðisnefnd.
  ■ *23. gr.* _Dagsektir._
- □ Þegar aðili sinnir ekki fyrirmælum innan tiltekins frests getur Umhverfisstofnun eða viðkomandi heilbrigðisnefnd, sbr. 2. mgr. 4. gr., ákveðið honum sektir allt að 500.000 kr. á dag þar til úr er bætt. Ráðherra getur í reglugerð breytt upphæð dagsekta í samræmi við verðlagsþróun. Jafnframt er Umhverfisstofnun eða viðkomandi heilbrigðisnefnd, sbr. 2. mgr. 4. gr., heimilt að láta vinna verk á kostnað hins vinnuskylda ef fyrirmæli um framkvæmd eru vanrækt og skal kostnaður þá greiddur til bráðabirgða úr ríkissjóði en innheimtur síðar hjá hlutaðeigandi. Greiðsla kostnaðar og dagsektir eru tryggðar með lögveðsrétti í viðkomandi húsi, lóð, farartæki, skipi eða mannvirki í eitt ár eftir að greiðslu er krafist.
+ □ Þegar aðili sinnir ekki fyrirmælum innan tiltekins frests getur Umhverfisstofnun eða viðkomandi heilbrigðisnefnd, sbr. 2. mgr. 4. gr., ákveðið honum sektir allt að 500.000 kr. á dag þar til úr er bætt. Ráðherra getur í reglugerð breytt upphæð dagsekta í samræmi við verðlagsþróun. Jafnframt er Umhverfisstofnun eða viðkomandi heilbrigðisnefnd, sbr. 2. mgr. 4. gr., heimilt að láta vinna verk á kostnað hins vinnuskylda ef fyrirmæli um framkvæmd eru vanrækt og skal kostnaður þá greiddur til bráðabirgða úr ríkissjóði en innheimtur síðar hjá hlutaðeigandi. Greiðsla kostnaðar og dagsektir eru tryggðar með lögveðsrétti í viðkomandi húsi, lóð, farartæki, skipi eða mannvirki í [tvö ár][^1)^] eftir að greiðslu er krafist.
+    _[^1)^]L. 52/2012, 9. gr._
  ■ *24. gr.* _Heimildir eftirlitsaðila._
  □ Umhverfisstofnun eða viðkomandi heilbrigðisnefnd, sbr. 2. mgr. 4. gr., getur látið fara fram athugun á skipum og vinnu- og borpöllum á hafi og hjá fyrirtækjum í landi án dómsúrskurðar ef talin er hætta á mengun hafs og stranda eða ef mengun hefur orðið sem er brot gegn lögum þessum. Umhverfisstofnun leitar aðstoðar Landhelgisgæslu Íslands, hafnaryfirvalda, Siglingastofnunar Íslands, Geislavarna ríkisins, Hafrannsóknastofnunarinnar og annarra opinberra aðila eftir því sem þörf krefur. Athugunin skal ekki valda ótilhlýðilegri röskun á starfsemi viðkomandi eða ónauðsynlegum útgjöldum.
  □ Eftirlitsaðilar skulu hvenær sem þeir óska þess eiga greiðan aðgang að öllum upplýsingum um búnað til mengunarvarna og um rekstur hans, svo og öllum mælingum eða skýrslum um athuganir sem gerðar hafa verið á vegum eigenda eða rekstraraðila vegna mengunarvarna, hvort sem athuganir þessar hafa verið gerðar að kröfu opinberra aðila eða að frumkvæði eigenda eða rekstraraðila.
@@ -195,7 +206,8 @@ h2. Lög um varnir gegn mengun hafs og stranda
  ■ *27. gr.* _Farbann._
  □ Ef brotið er gegn ákvæðum laga þessara og brotið tengist skipi skal skipið sett í farbann og er eigi heimilt að láta það laust fyrr en málinu er lokið og sekt auk málskostnaðar greidd að fullu, svo og kostnaður eftirlitsaðila. Um farbann fer að ákvæðum laga um eftirlit með skipum.
  □ Þó er heimilt að láta skip laust fyrr ef sett er bankatrygging eða önnur trygging jafngild til greiðslu sektar og alls kostnaðar.
- □ Til tryggingar greiðslu sektar samkvæmt grein þessari, málskostnaðar og kostnaðar eftirlitsaðila skal vera lögveð í skipinu í eitt ár.
+ □ Til tryggingar greiðslu sektar samkvæmt grein þessari, málskostnaðar og kostnaðar eftirlitsaðila skal vera lögveð í skipinu í [tvö ár].[^1)^]
+    _[^1)^]L. 52/2012, 9. gr._
 
  *VI. kafli.* *Ýmis ákvæði.*
  ■ *28. gr.* _Ágreiningur._

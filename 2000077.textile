@@ -49,7 +49,7 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
  □ Lögin gilda einnig um vinnslu upplýsinga um fjárhagsmálefni og lánstraust lögaðila, sbr. 45. gr. laganna, enda þótt ábyrgðaraðili hafi ekki staðfestu hér á landi, ef hann notar tæki og búnað sem er hér á landi.
  □ Ákvæði 2. og 3. mgr. gilda ekki ef umræddur tækjabúnaður er einungis notaður til að flytja persónuupplýsingar um Ísland.
  □ Þegar svo hagar til sem greinir í 2. og 3. mgr. skal ábyrgðaraðili tilnefna fulltrúa sinn sem hefur staðfestu hér á landi og gilda þá ákvæði laganna varðandi ábyrgðaraðila um þann fulltrúa eftir því sem við á.][^3)^]
-    _[^1)^]L. 72/2003, 5. gr. [^2)^]Augl. 228/2010. [^3)^]L. 90/2001, 1. gr._
+    _[^1)^]L. 72/2003, 5. gr. [^2)^]Augl. 228/2010, sbr. augl. 108/2012. [^3)^]L. 90/2001, 1. gr._
 
  *II. kafli.* *Almennar reglur um vinnslu persónuupplýsinga.*
  ■ *7. gr.* _[Meginreglur um gæði gagna og vinnslu.][^1)^]_
@@ -218,7 +218,7 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
  □ Heimill er flutningur persónuupplýsinga til annars ríkis ef lög þess veita persónuupplýsingum fullnægjandi vernd.
  □ Ríki sem framfylgir tilskipun Evrópusambandsins 95/46/ESB um vernd einstaklinga í tengslum við vinnslu persónuupplýsinga og um frjálst flæði slíkra upplýsinga telst fullnægja skilyrðum 1. mgr. [Sama á við um lönd eða staði sem Persónuvernd auglýsir[^1)^] í Stjórnartíðindum að virtum ákvörðunum framkvæmdastjórnar Evrópubandalagsins.][^2)^]
  □ Við mat á því hvort ríki sem ekki framfylgir tilskipun 95/46/ESB fullnægi skilyrðum 1. mgr. skal m.a. líta til reglna viðkomandi ríkis um meðferð persónuupplýsinga, reglna um góða viðskiptahætti og þeirra öryggisráðstafana sem viðhafðar eru hjá viðtakanda. Þá skal taka mið af því hvort viðkomandi ríki hafi fullgilt samning Evrópuráðsins nr. 108 frá 28. janúar 1981, um vernd einstaklinga varðandi vélræna vinnslu persónuupplýsinga.
-    _[^1)^]Rgl. 1100/2008, sbr. rgl. 424/2010. Augl. 228/2010. [^2)^]L. 90/2001, 9. gr._
+    _[^1)^]Rgl. 1100/2008, sbr. rgl. 424/2010. Augl. 228/2010, sbr. augl. 108/2012. [^2)^]L. 90/2001, 9. gr._
  ■ *30. gr.* _Flutningur persónuupplýsinga til ríkis sem ekki veitir fullnægjandi persónuupplýsingavernd._
  □ Óheimill er flutningur persónuupplýsinga til ríkis sem ekki veitir fullnægjandi persónuupplýsingavernd nema:
     1. hinn skráði hafi samþykkt flutninginn, eða
@@ -281,8 +281,8 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
  □ Þegar stjórnarmenn eru ekki sammála ræður meiri hluti niðurstöðu máls. Ef atkvæði eru jöfn ræður atkvæði formanns.
  □ Ráðherra skipar forstjóra Persónuverndar til fimm ára í senn að fenginni tillögu stjórnar. Forstjóri situr fundi stjórnar með málfrelsi og tillögurétti.
  □ Forstjóri Persónuverndar annast daglega stjórn og ræður annað starfsfólk Persónuverndar.
- □ Forstjóri ber ábyrgð á fjárreiðum og starfsmannahaldi Persónuverndar. Stjórn Persónuverndar ákveður að öðru leyti skiptingu starfa á milli stjórnar og starfsmanna hennar.
-    _[^1)^]L. 126/2011, 308. gr._
+ □ Forstjóri ber ábyrgð á fjárreiðum og starfsmannahaldi Persónuverndar. Stjórn Persónuverndar ákveður að öðru leyti skiptingu starfa á milli stjórnar og starfsmanna hennar.[^2)^]
+    _[^1)^]L. 126/2011, 308. gr. [^2)^]Rgl. 231/2012._
  ■ *37. gr.* _Verkefni Persónuverndar._
  □ Persónuvernd annast eftirlit með framkvæmd laga þessara og reglna settra samkvæmt þeim.
  □ Persónuvernd úrskurðar í ágreiningsmálum sem upp kunna að koma um vinnslu persónuupplýsinga [á Íslandi, hvort sem íslensk lög eða lög annars ríkis gilda um vinnsluna].[^1)^] Persónuvernd getur fjallað um einstök mál að eigin frumkvæði eða samkvæmt erindi þess sem telur að ekki hafi verið unnið með persónuupplýsingar um hann í samræmi við lög þessi og reglur sem settar eru samkvæmt þeim eða einstökum fyrirmælum.

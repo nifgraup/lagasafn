@@ -31,8 +31,8 @@ h2. Lög um grunnskóla
  □ Sveitarfélögum er skylt að sjá til þess að skólaskyld börn skv. 3. gr., sem eiga lögheimili í sveitarfélaginu, og börn sem hefur verið ráðstafað í fóstur til fósturforeldra, sem eiga lögheimili í sveitarfélaginu, njóti skólavistar eftir því sem nánar segir í lögum þessum. [Áður en barni er ráðstafað í fóstur skal barnaverndarnefnd kanna aðstæður í samráði við skólayfirvöld á viðkomandi stað og leggja mat á möguleika viðkomandi grunnskóla til að koma til móts við þarfir barnsins.][^1)^]
  □ Liggi ekki fyrir ákvörðun stjórnvalds um lögheimili barns kveður sveitarstjórn á um skólaskyldu þess, enda búi barnið í sveitarfélaginu og leitað hafi verið eftir innritun þess í skóla, sbr. 19. gr. Synjun sveitarstjórnar er kæranleg eftir fyrirmælum 47. gr. Í úrskurði getur [ráðuneytið][^2)^] lagt fyrir sveitarfélag að tryggja barni skólavist innan sveitarfélagsins.
  □ Sveitarstjórn í sveitarfélagi þar sem barn á lögheimili getur samið við annað sveitarfélag um að veita barninu skólavist þannig að viðtökusveitarfélag hafi sömu skyldur gagnvart skólavist þess og ætti það lögheimili þar.
- □ [Ráðherra setur reglugerð um framkvæmd þessarar greinar í samráði við Samband íslenskra sveitarfélaga, Barnaverndarstofu og önnur stjórnvöld þar sem m.a. skal kveðið á um skólagöngu fósturbarna, bæði fagleg og fjárhagsleg málefni og samstarf aðila. Úrskurðarnefnd skipuð fulltrúum frá ráðuneyti, Sambandi íslenskra sveitarfélaga og Barnaverndarstofu sker úr um ágreiningsmál.][^1)^]
-    _[^1)^]L. 91/2011, 2. gr. [^2)^]L. 126/2011, 492. gr._
+ □ [Ráðherra setur reglugerð[^3)^] um framkvæmd þessarar greinar í samráði við Samband íslenskra sveitarfélaga, Barnaverndarstofu og önnur stjórnvöld þar sem m.a. skal kveðið á um skólagöngu fósturbarna, bæði fagleg og fjárhagsleg málefni og samstarf aðila. Úrskurðarnefnd skipuð fulltrúum frá ráðuneyti, Sambandi íslenskra sveitarfélaga og Barnaverndarstofu sker úr um ágreiningsmál.][^1)^]
+    _[^1)^]L. 91/2011, 2. gr. [^2)^]L. 126/2011, 492. gr. [^3)^]Rg. 547/2012._
  ■ *6. gr.* _Skólanefnd._
  □ Í hverju sveitarfélagi skal í umboði sveitarstjórnar vera skólanefnd sem fer með málefni grunnskóla eftir því sem lög og reglugerðir ákveða og sveitarstjórn eða sveitarstjórnir kunna að fela henni.
  □ Meginhlutverk skólanefndar er sem hér segir:
@@ -134,7 +134,7 @@ h2. Lög um grunnskóla
  □ Sveitarstjórn getur í samráði við skólastjóra ráðstafað skólahúsnæði öllu eða hluta þess til annarrar starfsemi svo fremi sem það raskar ekki lögbundinni notkun húsnæðisins.
  ■ *22. gr.* _Skólaakstur._
  □ Sveitarfélög bera ábyrgð á skipulagi skólaaksturs þar sem hann á við og standa straum af kostnaðinum. Ráðherra setur nánari reglur[^1)^] um tilhögun skólaaksturs í samráði við Samband íslenskra sveitarfélaga. Skólaakstur skal vera nemendum að kostnaðarlausu.
-    _[^1)^]Rgl. 656/2009, sbr. 882/2009._
+    _[^1)^]Rgl. 656/2009, sbr. 882/2009, sbr. 605/2012._
  ■ *23. gr.* _Skólamálsverðir._
  □ Í grunnskóla skulu nemendur eiga kost á málsverði á skólatíma í samræmi við opinber manneldismarkmið. Sveitarfélögum er heimilt að taka gjald fyrir skólamáltíðir samkvæmt sérstakri gjaldskrá sem þau setja.
  □ Gjaldskrárákvarðanir samkvæmt þessari grein eru kæranlegar eftir fyrirmælum 47. gr.
@@ -261,7 +261,7 @@ h2. Lög um grunnskóla
  □ [Sveitarfélög skulu gera þjónustusamninga við grunnskóla sem falla undir þessa grein. Í samningi skulu koma fram atriði er varða áherslur í starfsemi skólans, mat og eftirlit með gæðum, fjárhagsleg samskipti og atriði sem varða gildi samnings, þar á meðal um reynslutíma. Þá skal í samningi tekin afstaða til þess hvort rekstraraðili hafi heimild til gjaldtöku af foreldrum og að hvaða marki heimildin tekur til kennslu og skólamáltíða. Enn fremur skal gengið frá fyrirkomulagi sérfræðiþjónustu og skólaaksturs, ef við á. Grunnskóli með viðurkenningu ráðuneytisins á rétt á því að sveitarstjórn geri við hann þjónustusamning.][^1)^]
  □ Grunnskólar sem hljóta viðurkenningu skv. 1. mgr. eiga rétt á framlagi úr sveitarsjóði til starfsemi sinnar vegna nemenda sem hafa lögheimili í því sveitarfélagi sem skólinn starfar í. Skal framlagið nema að lágmarki 75% af vegnu meðaltali heildarrekstrarkostnaðar allra grunnskóla sem reknir eru af sveitarfélögum í landinu á hvern nemanda samkvæmt árlegum útreikningi Hagstofu Íslands. Gildir þetta hlutfall fyrir skóla með allt að 200 nemendur, en framlagið skal vera að lágmarki 70% fyrir hvern nemanda umfram þann fjölda. Útreikningur Hagstofu Íslands á kostnaði samkvæmt þessari málsgrein skal taka mið af verðlagsbreytingum.
  □ Ráðherra er heimilt að setja reglugerð[^2)^] um framkvæmd þessarar greinar í samráði við Samband íslenskra sveitarfélaga og Hagstofu Íslands. Í reglugerð skal m.a. kveðið nánar á um skilyrði fyrir viðurkenningu, hvernig staðið verði að veitingu hennar, [form og efni þjónustusamninga, þ.m.t. meðferð rekstrarafgangs af starfsemi skólans sem rekja má til opinberra fjárveitinga],[^1)^] upplýsingagjöf til sveitarfélaga og ráðuneytis, eftirlit með starfsemi, [afturköllun viðurkenningar og riftun þjónustusamnings vegna vanefnda á ákvæðum hans].[^1)^]
-    _[^1)^]L. 91/2011, 9. gr. [^2)^]Rg. 980/2009._
+    _[^1)^]L. 91/2011, 9. gr. [^2)^]Rg. 699/2012._
  ■ *44. gr.* _Þróunarskólar._
  □ Ráðherra getur veitt sveitarfélögum og sjálfstætt reknum grunnskólum heimild til að reka þróunarskóla eða gera tilraunir með ákveðna þætti skólastarfs með undanþágu frá ákvæðum laga þessara, reglugerða settra á grundvelli þeirra og aðalnámskrár grunnskóla. Slíkum tilraunum skulu ávallt sett eðlileg tímamörk og kveðið á um úttekt að tilraun lokinni.
  □ Heimilt er að styrkja þróunarskóla og sérstakar nýjungar eftir því sem fjárlög heimila hverju sinni.

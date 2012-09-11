@@ -7,7 +7,7 @@ h2. Lög um mannvirki
 <hr />
 
 
- *Tóku gildi 1. janúar 2011.* _Breytt með_ l. 126/2011 (tóku gildi 30. sept. 2011) og l. 131/2011 (tóku gildi 1. jan. 2012).
+ *Tóku gildi 1. janúar 2011.* _Breytt með_ l. 126/2011 (tóku gildi 30. sept. 2011), l. 131/2011 (tóku gildi 1. jan. 2012) og "l. 80/2012":2012080.html (taka gildi 1. jan. 2013).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -119,6 +119,8 @@ h2. Lög um mannvirki
     6. Hönnunarstjóri hefur lagt fram yfirlit um innra eftirlit vegna hönnunarinnar og yfirlit um ábyrgðarsvið einstakra hönnuða í samræmi við 4. mgr. 23. gr.
  □ Leyfisveitandi getur, þegar sérstaklega stendur á, veitt skriflegt leyfi til einstakra þátta byggingarframkvæmda og takmarkast leyfið þá hverju sinni við samþykkt hönnunargögn. Heimilt er að veita umsækjanda leyfi til að kanna jarðveg á framkvæmdasvæði án þess að byggingarleyfi hafi verið gefið út.
  □ Óheimilt er að gefa út byggingarleyfi fyrir mannvirki sem fellur undir lög um mat á umhverfisáhrifum fyrr en álit Skipulagsstofnunar um mat á umhverfisáhrifum liggur fyrir eða ákvörðun stofnunarinnar um að framkvæmd sé ekki matsskyld.
+ □ [Óheimilt er að gefa út byggingarleyfi fyrir mannvirki sem fellur undir IV., VI. og VII. kafla laga um menningarminjar fyrr en álit Minjastofnunar Íslands liggur fyrir.][^1)^]
+    _[^1)^]"L. 80/2012, 59. gr.":2012080.html#g59 Ákvæðið tekur gildi 1. jan. 2013 skv. "58. gr. s.l.":2012080.html_
  ■ *14. gr.* _Gildistími byggingarleyfis._
  □ Byggingarleyfi fellur úr gildi hafi byggingarframkvæmdir ekki hafist innan 12 mánaða frá útgáfu þess. Í reglugerð skal kveða nánar á um hvenær talið er að byggingarframkvæmdir séu hafnar.
  □ Nú stöðvast byggingarframkvæmdir í eitt ár eða lengur og getur leyfisveitandi þá að undangenginni aðvörun fellt byggingarleyfið úr gildi.
@@ -366,7 +368,7 @@ h2. Lög um mannvirki
  □ [Stjórnvaldsákvarðanir sem teknar eru á grundvelli laga þessara sæta kæru til úrskurðarnefndar umhverfis- og auðlindamála, sbr. þó ákvæði 2. mgr. 17. gr. Um aðild, kærufrest, málsmeðferð og annað er varðar kæruna fer samkvæmt lögum um úrskurðarnefnd umhverfis- og auðlindamála.][^1)^]
     _[^1)^]L. 131/2011, 30. gr._
  ■ *60. gr.* _Setning reglugerða._
- □ Ráðherra setur að tillögu Mannvirkjastofnunar og í samráði við hagsmunaaðila reglugerðir sem ná til alls landsins þar sem nánar er kveðið á um framkvæmd laga þessara. Við setningu reglugerða á grundvelli laga þessara skal haft samráð við Samband íslenskra sveitarfélaga um atriði sem varða skyldur sveitarfélaga. Í reglugerð skulu vera ákvæði um eftirfarandi atriði, sbr. einnig önnur ákvæði laga þessara um setningu reglugerða:
+ □ Ráðherra setur að tillögu Mannvirkjastofnunar og í samráði við hagsmunaaðila reglugerðir[^1)^] sem ná til alls landsins þar sem nánar er kveðið á um framkvæmd laga þessara. Við setningu reglugerða á grundvelli laga þessara skal haft samráð við Samband íslenskra sveitarfélaga um atriði sem varða skyldur sveitarfélaga. Í reglugerð skulu vera ákvæði um eftirfarandi atriði, sbr. einnig önnur ákvæði laga þessara um setningu reglugerða:
     1. Kröfur sem gera skal til hönnunar og mannvirkja um útlit, rýmisstærðir og samsvörun við næsta umhverfi, hagkvæmni og notagildi, aðgengi, öryggi, heilnæmi, tæknilegan frágang og viðhald, umgengni og öryggi á vinnustöðum auk krafna um gróður á lóðum, og frágang og útlit lóða, þ.m.t. girðingar. Einnig lágmarkskröfur sem einstakir hlutar mannvirkja og mismunandi tegundir þeirra skulu uppfylla, svo sem um undirstöður, byggingarefni, burðarþol, einangrun gegn kulda, raka og hávaða, loftgæði, hljóðvist, birtu, lagnakerfi, hollustuhætti, brunavarnir og þess háttar. Jafnframt skal kveða á um kröfur til mannvirkja við verulegar breytingar á þeim eða breytingar á notkun mannvirkis. Í reglugerð er heimilt að vísa til staðla sem Staðlaráð Íslands hefur staðfest eða sett um tæknilega útfærslu eða annað sem snýr að mannvirkjum, eða til ákvæða og skuldbindinga sem fylgja aðild Íslands að alþjóðasamningum.
     2. Hönnunargögn, byggingarlýsingar, skýrslur um innra og ytra eftirlit, greinargerðir og önnur gögn sem skila þarf vegna umsóknar um byggingarleyfi. Í reglugerð skal kveða á um kröfur til hönnunargagna mismunandi mannvirkja og mannvirkjahluta og skiptingu uppdrátta í aðal-, sér- og deiliuppdrætti. Einnig skulu vera ákvæði um hönnunargögn sem skila skal vegna virkjana og annarra sérhæfðra mannvirkja og til hvaða þátta eftirlit útgefanda byggingarleyfis skal taka.
     3. Tilhögun innra eftirlits við byggingarframkvæmdir og þær kröfur sem gerðar eru til gæðakerfa hönnuða, hönnunarstjóra, byggingarstjóra og iðnmeistara. Ráðherra getur með reglugerð ákveðið að faggilt vottunarstofa skuli votta þessi gæðastjórnunarkerfi. Heimilt er að gera mismunandi kröfur til gæðakerfa samkvæmt lögum þessum eftir gerð mannvirkis.
@@ -380,7 +382,8 @@ h2. Lög um mannvirki
     11. Nánari ákvæði um gagnasafn Mannvirkjastofnunar um mannvirki og mannvirkjagerð, hvað skal skrá þar og með hvaða hætti. Skoðunarhandbók skal vera hluti af gagnasafni Mannvirkjastofnunar og skal birt sem fylgiskjal við reglugerð. Í skoðunarhandbókinni skulu m.a. vera ákvæði um úttektir, eftirlitsaðferðir, skoðunaráætlanir og mismunandi eftirlitsstörf.
     12. Nánari ákvæði um byggingareftirlit og verksvið byggingarfulltrúa og Mannvirkjastofnunar.
     13. Nánari ákvæði um beitingu þvingunarúrræða skv. 55. - 57. gr.
-■ *61. gr.* _Gagnasafn Mannvirkjastofnunar._
+    _[^1)^]Rg. 112/2012_.
+ ■ *61. gr.* _Gagnasafn Mannvirkjastofnunar._
  □ Mannvirkjastofnun skal starfrækja rafrænt gagnasafn fyrir upplýsingar um mannvirki og mannvirkjagerð um land allt í samræmi við ákvæði laga þessara. Gagnasafnið skal vera innan gagna- og upplýsingakerfis fasteignaskrár Þjóðskrár Íslands eða samtengjanlegt því. Byggingarfulltrúar og slökkvilið skulu hafa endurgjaldslausan aðgang að þeim hluta gagnasafns Mannvirkjastofnunar sem varðar mannvirki og mannvirkjagerð í umdæmi þeirra.
  ■ *62. gr.* _Um yfirstjórn mannvirkjamála á varnar- og öryggissvæðum._
  □ [Ráðherra er fer með málefni varnar- og öryggissvæða][^1)^] fer með yfirstjórn skipulags- og mannvirkjamála á varnar- og öryggissvæðum eins og þau eru skilgreind í "lögum nr. 34/2008":2008034.html, sbr. og "lög nr. 110/1951":1951110.html, og "lögum nr. 176/2006":2006176.html eftir því sem við getur átt, þar á meðal um gjaldheimtu.
@@ -393,7 +396,7 @@ h2. Lög um mannvirki
  ■ *64. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. janúar 2011.
  □ Reglugerðir og önnur stjórnvaldsfyrirmæli sem sett eru samkvæmt eldri lögum skulu halda gildi sínu að svo miklu leyti sem þau fara ekki í bága við lög þessi.[^1)^]
-    _[^1)^]Sjá nú: Rg. 621/1997. Rg. 737/1997. Rg. 747/1997, sbr. 354/2004. Rg. 400/1998, sbr. 47/2001 og 420/2002. Rg. 441/1998, sbr. 563/2000, 996/2001, 133/2002, 425/2002, 1163/2006, 934/2008 og 1016/2010. Rg. 168/2000, sbr. 188/2001. Augl. 847/2000._
+    _[^1)^]Sjá nú: Rg. 621/1997. Rg. 737/1997. Rg. 747/1997, sbr. 354/2004. Rg. 400/1998, sbr. 47/2001 og 420/2002. Rg. 168/2000, sbr. 188/2001. Augl. 847/2000._
  ■ *65. gr.* _Breytingar á öðrum lögum. ..._
  ■ *Ákvæði til bráðabirgða.*
     1. Þrátt fyrir ákvæði 8. gr. halda starfandi byggingarfulltrúar við gildistöku laga þessara fullum rétti sínum til starfa, sbr. þó 3. tölul.

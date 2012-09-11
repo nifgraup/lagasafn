@@ -7,7 +7,7 @@ h2. Lög um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka
 <hr />
 
 
- *Tóku gildi 23. júní 2006 nema 12. gr. sem tók gildi 1. janúar 2007.* _EES-samningurinn:_ tilskipun 2005/60/EB. _Breytt með_ l. 77/2008 (tóku gildi 19. júní 2008), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l. 116/2009 (tóku gildi 29. des. 2009), l. 162/2010 (tóku gildi 1. jan. 2011), "l. 120/2011":2011120.html (tóku gildi 1. des. 2011; _EES-samningurinn:_ IX. viðauki tilskipun 2007/64/EB) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 23. júní 2006 nema 12. gr. sem tók gildi 1. janúar 2007.* _EES-samningurinn:_ tilskipun 2005/60/EB. _Breytt með_ l. 77/2008 (tóku gildi 19. júní 2008), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l. 116/2009 (tóku gildi 29. des. 2009), l. 162/2010 (tóku gildi 1. jan. 2011), "l. 120/2011":2011120.html (tóku gildi 1. des. 2011; _EES-samningurinn:_ IX. viðauki tilskipun 2007/64/EB), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 41/2012 (tóku gildi 15. júní 2012; _EES-samningurinn:_ IX. viðauki tilskipun 2007/64/EB).
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -18,40 +18,41 @@ h2. Lög um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka
     a. Fjármálafyrirtæki samkvæmt skilgreiningu laga um fjármálafyrirtæki.
     b. Líftryggingafélög og lífeyrissjóðir.
     c. Vátryggingamiðlarar og vátryggingaumboðsmenn samkvæmt lögum um miðlun vátrygginga þegar þeir miðla líftryggingum eða öðrum söfnunartengdum tryggingum skv. "23. gr. laga um vátryggingastarfsemi, nr. 60/1994":1994060.html.
-    d. Útibú erlendra fyrirtækja sem staðsett eru á Íslandi og falla undir a - c-lið.
+    d. [Útibú erlendra fyrirtækja sem staðsett eru á Íslandi og falla undir a - c-lið og m-lið.][^1)^]
     e. Einstaklingar eða lögaðilar sem í atvinnuskyni stunda gjaldeyrisviðskipti eða yfirfærslu peninga og annarra verðmæta.
     f. Lögmenn og aðrir lögfræðingar í eftirfarandi tilvikum:
     i. þegar þeir sjá um eða koma fram fyrir hönd umbjóðanda síns í hvers kyns fjármála- eða fasteignaviðskiptum;
     ii. þegar þeir aðstoða við skipulagningu eða framkvæmd viðskipta fyrir umbjóðanda sinn hvað varðar kaup og sölu fasteigna eða fyrirtækja, sjá um umsýslu peninga, verðbréfa eða annarra eigna umbjóðanda síns, opna eða hafa umsjón með banka-, spari- eða verðbréfareikningum, útvega nauðsynlegt fjármagn til að stofna, reka eða stýra fyrirtækjum eða stofna, reka eða stýra fjárvörslusjóðum, fyrirtækjum og áþekkum aðilum.
     g. Endurskoðendur.
-    h. ...[^1)^]
+    h. ...[^2)^]
     i. Fasteigna-, fyrirtækja- og skipasalar.
     j. Einstaklingar eða lögaðilar sem í atvinnuskyni selja hluti sem greitt er fyrir með reiðufé, hvort sem viðskiptin fara fram í einni greiðslu eða fleiri sem virðast tengjast hver annarri, að fjárhæð 15.000 evrur eða meira miðað við opinbert viðmiðunargengi eins og það er skráð hverju sinni.
-    k. [Aðilar á sviði fjárvörslu og fyrirtækjaþjónustu, sbr. skilgreiningu í 3. gr.][^1)^]
+    k. [Aðilar á sviði fjárvörslu og fyrirtækjaþjónustu, sbr. skilgreiningu í 3. gr.][^2)^]
     l. Einstaklingar eða lögaðilar sem hlotið hafa starfsleyfi á grundvelli laga um happdrætti, eða til reksturs fjársafnana og happdrætta á grundvelli sérlaga þegar greiddir eru út vinningar.
-    [m. Greiðslustofnanir samkvæmt lögum um greiðsluþjónustu.][^2)^]
- □ Fjármálaeftirlitið getur ákveðið að aðilar sem falla undir [a - e-lið 1. mgr.][^3)^] og taka þátt í fjármálastarfsemi aðeins stöku sinnum eða að mjög takmörkuðu leyti og starfsemin felur í sér litla hættu á peningaþvætti eða fjármögnun hryðjuverka séu undanþegnir ákvæðum laga þessara.
+    [m. [Greiðslustofnanir og umboðsaðilar þeirra samkvæmt lögum um greiðsluþjónustu.][^1)^]][^3)^]
+ □ Fjármálaeftirlitið getur ákveðið að aðilar sem falla undir [a - e- og m-lið 1. mgr.][^1)^] og taka þátt í fjármálastarfsemi aðeins stöku sinnum eða að mjög takmörkuðu leyti og starfsemin felur í sér litla hættu á peningaþvætti eða fjármögnun hryðjuverka séu undanþegnir ákvæðum laga þessara.
  □ Skylt er þeim sem falla undir ákvæði þessara laga að veita alla nauðsynlega aðstoð til að ákvæðum laganna verði framfylgt.
-    _[^1)^]L. 116/2009, 1. gr. [^2)^]"L. 120/2011, 81. gr.":2011120.html#g81 [^3)^]L. 77/2008, 1. gr._
+    _[^1)^]L. 41/2012, 1. gr. [^2)^]L. 116/2009, 1. gr. [^3)^]"L. 120/2011, 81. gr.":2011120.html#g81_
  ■ *3. gr.* _Orðskýringar._
  □ Í lögum þessum merkir:
     1. [_Peningaþvætti:_ Þegar einstaklingur eða lögaðili tekur við eða aflar sér eða öðrum ávinnings með broti sem er refsivert samkvæmt almennum hegningarlögum eða öðrum lögum. Hér er einnig átt við það þegar einstaklingur eða lögaðili umbreytir slíkum ávinningi, flytur hann, sendir, geymir, aðstoðar við afhendingu hans, leynir honum eða upplýsingum um uppruna hans, eðli, staðsetningu, ráðstöfun eða flutningi ávinnings eða stuðlar á annan sambærilegan hátt að því að tryggja öðrum ávinning af slíkum refsiverðum brotum.][^1)^]
     2. _Fjármögnun hryðjuverka:_ Öflun fjár í þeim tilgangi eða með vitneskju um að nota eigi það til að fremja brot sem er refsivert [skv. 100. gr. a  -  100. gr. c][^1)^] almennra hegningarlaga.
     3. _Ávinningur:_ Hvers kyns hagnaður og eignir hverju nafni sem nefnast, þ.m.t. skjöl sem ætlað er að tryggja rétthafa aðgang að eignum eða öðrum réttindum sem meta má til fjár.
-    4. _Raunverulegur eigandi:_ Einstaklingur, einn eða fleiri, sem í raun á eða stýrir þeim einstaklingi og/eða lögaðila sem skráður er fyrir eða framkvæmir viðskiptin. Raunverulegur eigandi telst m.a. vera:
+    4. [_Raunverulegur eigandi:_ Einstaklingur, einn eða fleiri, sem í raun á starfsemina eða stýrir þeim viðskiptamanni, lögaðila eða einstaklingi, í hvers nafni viðskipti eða starfsemi eru stunduð eða framkvæmd.][^2)^] Raunverulegur eigandi telst m.a. vera:
     a. Einstaklingur eða einstaklingar sem í raun eiga eða stjórna lögaðila í gegnum beina eða óbeina eignaraðild að meira en 25% hlut í lögaðilanum, ráða yfir meira en 25% atkvæðisréttar eða teljast á annan hátt hafa yfirráð yfir lögaðila. Ákvæðið á þó ekki við um lögaðila sem skráðir eru á skipulegum markaði samkvæmt skilgreiningu [laga um kauphallir].[^1)^]
     b. Einstaklingur eða einstaklingar sem eru framtíðareigendur að 25% eða meira af eignum fjárvörslusjóðs eða svipaðs löglegs fyrirkomulags, eða hafa yfirráð yfir 25% eða meira af eignum hans. Í tilvikum þar sem ekki hefur enn verið ákveðið hverjir munu njóta góðs af slíkum fjárvörslusjóði telst raunverulegur eigandi vera sá eða þeir sem sjóðurinn er stofnaður fyrir eða starfar fyrir.
     5. _Tilkynningarskyldir aðilar:_ Aðilar sem taldir eru upp í 1. mgr. 2. gr.
-    6. [_Aðili á sviði fjárvörslu og fyrirtækjaþjónustu:_][^2)^] Einstaklingur eða lögaðili sem veitir eftirfarandi þjónustu gegn gjaldi:
+    6. [_Aðili á sviði fjárvörslu og fyrirtækjaþjónustu:_][^3)^] Einstaklingur eða lögaðili sem veitir eftirfarandi þjónustu gegn gjaldi:
     a. stofnun fyrirtækja eða annarra lögaðila,
     b. gegnir eða útvegar annan aðila til að gegna stöðu forstjóra eða framkvæmdastjóra fyrirtækis, stöðu meðeiganda í félagi eða sambærilegri stöðu hjá annarri tegund lögaðila,
     c. útvegar lögheimili eða annað skráð heimilisfang sem á svipaðan hátt er notað til að hafa samband við fyrirtækið, eða aðra tengda þjónustu,
     d. starfar sem eða útvegar annan einstakling til að starfa sem fjárvörsluaðili sjóðs eða annars löglegs fyrirkomulags,
     e. starfar sem eða fær annan einstakling til að starfa sem tilnefndur hluthafi fyrir annan aðila en fyrirtæki sem skráð er á skipulegum markaði,
-    [f. skattaráðgjöf.][^2)^]
+    [f. skattaráðgjöf.][^3)^]
     [7. _Gjaldeyrisskiptastöð:_ Starfsemi þar sem í atvinnuskyni fer fram kaup og sala innlends og erlends gjaldeyris.
-    8. _Peninga- og verðmætasendingarþjónusta:_ Starfsemi þar sem í atvinnuskyni er á einum stað tekið við reiðufé, tékkum eða annars konar verðmætum sem eru ígildi peninga og andvirði þess er á öðrum stað greitt til viðtakanda í reiðufé eða ígildi peninga með aðstoð hvers kyns skilaboða, millifærslu eða í gegnum greiðslukerfi sem hlutaðeigandi peninga- og verðmætasendingarþjónusta á aðild að [og sérstök lög gilda ekki um, önnur en lög um greiðsluþjónustu].[^3)^] Yfirfærsla sem framkvæmd er af peninga- og verðmætasendingarþjónustu getur farið um hendur eins eða fleiri milligönguaðila áður en lokagreiðsla á sér stað til móttakanda.][^1)^]
-    _[^1)^]L. 77/2008, 2. gr._ [^2)^]L. 116/2009, 2. gr. [^3)^]"L. 120/2011, 81. gr.":2011120.html#g81
+    8. _Peninga- og verðmætasendingarþjónusta:_ Starfsemi þar sem í atvinnuskyni er á einum stað tekið við reiðufé, tékkum eða annars konar verðmætum sem eru ígildi peninga og andvirði þess er á öðrum stað greitt til viðtakanda í reiðufé eða ígildi peninga með aðstoð hvers kyns skilaboða, millifærslu eða í gegnum greiðslukerfi sem hlutaðeigandi peninga- og verðmætasendingarþjónusta á aðild að [og sérstök lög gilda ekki um, önnur en lög um greiðsluþjónustu].[^4)^] Yfirfærsla sem framkvæmd er af peninga- og verðmætasendingarþjónustu getur farið um hendur eins eða fleiri milligönguaðila áður en lokagreiðsla á sér stað til móttakanda.][^1)^]
+    [9. _Viðurkennd persónuskilríki:_ Gild persónuskilríki sem gefin eru út af stjórnvöldum eða eru viðurkennd af stjórnvöldum. Til gildra persónuskilríkja skulu teljast vegabréf, ökuskírteini, nafnskírteini gefin út af Þjóðskrá Íslands og rafræn skilríki sem innihalda fullgild rafræn vottorð sem varðveitt eru á öruggum undirskriftarbúnaði, sbr. III. og IV. kafla laga um rafrænar undirskriftir.][^2)^]
+    _[^1)^]L. 77/2008, 2. gr._ [^2)^]L. 41/2012, 2. gr. [^3)^]L. 116/2009, 2. gr. [^4)^]"L. 120/2011, 81. gr.":2011120.html#g81
 
  *II. kafli.* *Könnun á áreiðanleika viðskiptamanna.*
  ■ *4. gr.* _[Tilvik er áreiðanleikakönnun skal fara fram.][^1)^]_
@@ -64,14 +65,14 @@ h2. Lög um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka
     _[^1)^]L. 77/2008, 3. gr._
  ■ *5. gr.* _[Könnun á áreiðanleika upplýsinga um viðskiptamenn.][^1)^]_
  □ [Áður en samningssambandi er komið á eða áður en viðskipti eiga sér stað skal tilkynningarskyldur aðili gera kröfu um að nýr viðskiptamaður sanni á sér deili með eftirfarandi hætti:
-    a. Einstaklingar: Með framvísun gildra persónuskilríkja sem gefin eru út af stjórnvöldum eða eru viðurkennd af stjórnvöldum.
+    a. [Einstaklingar: Með framvísun viðurkenndra persónuskilríkja.][^2)^]
     b. Lögaðilar: Með framlagningu vottorðs úr fyrirtækjaskrá ríkisskattstjóra eða sambærilegri opinberri skrá með heiti, heimilisfangi og kennitölu eða sambærilegum upplýsingum. Prókúruhafar og aðrir þeir sem hafa sérstaka heimild til að koma fram fyrir hönd viðskiptavinar gagnvart fjármálafyrirtæki, þar með taldir framkvæmdastjórar og stjórnarmenn, skulu sanna á sér deili. Jafnframt skulu aðilar sýna fram á að þeir séu réttilega að prókúru eða sérstakri heimild komnir.
- □ Tilkynningarskyldir aðilar skulu afla upplýsinga um raunverulegan eiganda, sbr. 4. tölul. 3. gr. Í tilvikum þar sem ekki er ljóst af framlögðum gögnum hver endanlegur móttakandi fjár verður skal krefjast frekari upplýsinga um það atriði.][^1)^]
+ □ [Tilkynningarskyldir aðilar skulu ávallt afla fullnægjandi upplýsinga um raunverulegan eiganda, sbr. 4. tölul. 3. gr. Þegar um lögaðila er að ræða skal leggja sjálfstætt mat á hvort upplýsingar um viðskiptamann og raunverulegan eiganda séu réttar og fullnægjandi. Í tilvikum þar sem ekki er ljóst af framlögðum gögnum hver endanlegur móttakandi fjár verður skal krefjast frekari upplýsinga um það atriði.][^2)^]][^1)^]
  □ Afla skal upplýsinga um tilganginn með fyrirhuguðum viðskiptum hjá verðandi viðskiptamanni.
- □ [Tilkynningarskyldur aðili skal gera kröfu um að viðskiptamaður sem þegar er í viðskiptum sanni á sér deili skv. 1. mgr. [og afli upplýsinga um raunverulegan eiganda skv. 2. mgr.],[^2)^] hafi hann ekki þegar gert það.][^1)^]
+ □ [Tilkynningarskyldur aðili skal gera kröfu um að viðskiptamaður sem þegar er í viðskiptum sanni á sér deili skv. 1. mgr. [og afli upplýsinga um raunverulegan eiganda skv. 2. mgr.],[^3)^] hafi hann ekki þegar gert það.][^1)^]
  □ Hafi einstaklingur eða starfsmaður tilkynningarskylds aðila vitneskju um eða ástæðu til að ætla að tiltekin viðskipti fari fram í þágu þriðja manns skal viðskiptamaður í samræmi við a- og b-lið 1. mgr. krafinn upplýsinga um hver sá þriðji maður er.
  □ Tilkynningarskyldir aðilar skulu [varðveita afrit][^1)^] af persónuskilríkjum og öðrum gögnum sem krafist er, eða fullnægjandi upplýsingar úr þeim, í a.m.k. fimm ár frá því að [viðskiptasambandi lýkur eða einstök viðskipti hafa átt sér stað].[^1)^]
-    _[^1)^]L. 77/2008, 4. gr. [^2)^]L. 116/2009, 3. gr._
+    _[^1)^]L. 77/2008, 4. gr. [^2)^]L. 41/2012, 3. gr. [^3)^]L. 116/2009, 3. gr._
  ■ *6. gr.* _Reglubundið eftirlit tilkynningarskyldra aðila._
  □ Tilkynningarskyldir aðilar skulu hafa reglubundið eftirlit með samningssambandinu við viðskiptamenn sína til að tryggja að viðskipti þeirra séu í samræmi við fyrirliggjandi upplýsingar um þá, t.d. með athugun á viðskiptum sem eiga sér stað á meðan á samningssambandinu stendur. Upplýsingar um viðskiptamenn skulu uppfærðar og frekari upplýsinga aflað í samræmi við lög þessi eftir því sem þörf krefur.
  ■ *7. gr.* _Áhættumat._
@@ -119,20 +120,20 @@ h2. Lög um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka
     _[^1)^]L. 77/2008, 14. gr._
  ■ *15. gr.* _[Viðskiptamenn sem lúta einfaldaðri könnun á áreiðanleika._
  □ Þegar tilkynningarskyldur aðili hefur aflað fullnægjandi upplýsinga um að viðskiptamaður falli undir eftirfarandi er heimilt að beita einfaldaðri áreiðanleikakönnun:
-    a. [Lögaðilar sem falla undir a-lið 1. mgr. 2. gr., líftryggingafélög og samsvarandi lögaðilar sem hlotið hafa starfsleyfi á Evrópska efnahagssvæðinu.][^1)^] Sama gildir um eftirlitsskyld fjármálafyrirtæki frá löndum utan Evrópska efnahagssvæðisins sem til eru gerðar kröfur sambærilegar við kröfur laga þessara.
+    a. [Lögaðilar sem falla undir a-lið 1. mgr. 2. gr., líftryggingafélög og samsvarandi lögaðilar sem hlotið hafa starfsleyfi á Evrópska efnahagssvæðinu [og gerðar eru sambærilegar kröfur til og í lögum þessum].[^1)^]][^2)^] Sama gildir um eftirlitsskyld fjármálafyrirtæki frá löndum utan Evrópska efnahagssvæðisins sem til eru gerðar kröfur sambærilegar við kröfur laga þessara.
     b. Félög sem skráð eru á skipulegum verðbréfamarkaði samkvæmt skilgreiningu laga um kauphallir.
     c. Íslensk stjórnvöld.
- □ Við einfaldaða áreiðanleikakönnun gilda ekki ákvæði 5. og 6. gr. Ávallt skal þó skrá nafn einstaklings eða lögaðila, kennitölu og heimilisfang.][^2)^]
-    _[^1)^]L. 116/2009, 5. gr. [^2)^]L. 77/2008, 11. gr._
+ □ Við einfaldaða áreiðanleikakönnun gilda ekki ákvæði 5. og 6. gr. Ávallt skal þó skrá nafn einstaklings eða lögaðila, kennitölu og heimilisfang.][^3)^]
+    _[^1)^]L. 41/2012, 4. gr. [^2)^]L. 116/2009, 5. gr. [^3)^]L. 77/2008, 11. gr._
  ■ *[15. gr. a.* _Tilvik þar sem beita má einfaldaðri könnun á áreiðanleika viðskiptamanna._
  □ Í eftirfarandi tilvikum er heimilt að beita einfaldaðri könnun á áreiðanleika viðskiptamanna, sbr. 2. mgr. 15. gr.:
     1. Þegar staðfest er að greiðsla fyrir viðskipti verði færð til skuldar á viðskiptareikningi á nafni viðskiptamanns í starfandi fjármálafyrirtæki eða samsvarandi lögaðila sem hlotið hefur starfsleyfi á Evrópska efnahagssvæðinu, nema grunur leiki á að viðskiptin tengist peningaþvætti eða fjármögnun hryðjuverka.
     2. Við gerð líftryggingarsamnings hjá fjármálastofnun, sem hlotið hefur starfsleyfi á Evrópska efnahagssvæðinu, ef árlegt iðgjald viðskiptamanns frá Evrópska efnahagssvæðinu er lægra en 1.000 evrur, miðað við opinbert viðmiðunargengi eins og það er skráð hverju sinni, eða ef um er að ræða eingreiðslu iðgjalds sem er lægri en 2.500 evrur, miðað við opinbert viðmiðunargengi eins og það er skráð hverju sinni. Ef árlegt iðgjald er hækkað, þannig að það verði hærra en 1.000 evrur, miðað við opinbert viðmiðunargengi eins og það er skráð hverju sinni, skal krefjast framvísunar skilríkja, sbr. 5. gr.][^1)^]
     _[^1)^]L. 77/2008, 12. gr._
  ■ *16. gr.* _Upplýsingar frá þriðja aðila._
- □ Tilkynningarskyldur aðili þarf ekki [áður en viðskipti hefjast][^1)^] að kanna áreiðanleika viðskiptamanns skv. 1. - 3. mgr. 5. gr. ef samsvarandi upplýsingar um áreiðanleika hans koma fram fyrir tilstilli fjármálafyrirtækis sem hlotið hefur starfsleyfi á Íslandi eða samsvarandi lögaðila sem hlotið hefur starfsleyfi á Evrópska efnahagssvæðinu. Sama gildir um upplýsingar sem koma fram fyrir tilstilli eftirlitsskyldrar lána- eða fjármálastofnunar frá löndum utan Evrópska efnahagssvæðisins sem gerðar eru sambærilegar kröfur til og í lögum þessum. Endanleg ábyrgð á könnun á áreiðanleika viðskiptamanns skv. 1. - 3. mgr. 5. gr. hvílir á viðtakanda upplýsinganna. [Áður en upplýsingar eru fengnar skal tilkynningarskyldur aðili leitast við að tryggja að þriðji aðili fullnægi kröfum sambærilegum við þær sem gerðar eru í lögum þessum og lúti eftirliti sambærilegu við eftirlit með íslenskum fjármálafyrirtækjum.][^1)^]
+ □ Tilkynningarskyldur aðili þarf ekki [áður en viðskipti hefjast][^1)^] að kanna áreiðanleika viðskiptamanns skv. 1. - 3. mgr. 5. gr. ef samsvarandi upplýsingar um áreiðanleika hans koma fram fyrir tilstilli fjármálafyrirtækis sem hlotið hefur starfsleyfi á Íslandi, [greiðslustofnunar][^2)^] eða samsvarandi lögaðila sem hlotið hefur starfsleyfi á Evrópska efnahagssvæðinu. Sama gildir um upplýsingar sem koma fram fyrir tilstilli eftirlitsskyldrar lána- eða fjármálastofnunar frá löndum utan Evrópska efnahagssvæðisins sem gerðar eru sambærilegar kröfur til og í lögum þessum. Endanleg ábyrgð á könnun á áreiðanleika viðskiptamanns skv. 1. - 3. mgr. 5. gr. hvílir á viðtakanda upplýsinganna. [Áður en upplýsingar eru fengnar skal tilkynningarskyldur aðili leitast við að tryggja að þriðji aðili fullnægi kröfum sambærilegum við þær sem gerðar eru í lögum þessum og lúti eftirliti sambærilegu við eftirlit með íslenskum fjármálafyrirtækjum.][^1)^]
  □ Þriðji aðili sem veitir upplýsingar skv. 1. mgr. skal, ef viðtakandi upplýsinganna óskar eftir því, án tafar gera upplýsingarnar aðgengilegar eða áframsenda afrit af viðeigandi persónuupplýsingum og öðrum viðeigandi gögnum sem sanna hver viðskiptamaður eða raunverulegur eigandi er. [Tilkynningarskyldur aðili skal tryggja að þriðji aðili uppfylli þessa skyldu sína og gera um það skriflegan samning þar sem kveðið er nánar á um framkvæmd upplýsingagjafarinnar.][^1)^]
-    _[^1)^]L. 77/2008, 13. gr._
+    _[^1)^]L. 77/2008, 13. gr. [^2)^]L. 41/2012, 5. gr._
 
  *V. kafli.* *Tilkynningarskylda og aðrar skyldur aðila.*
  ■ *17. gr.* _Almenn tilkynningarskylda._
@@ -181,10 +182,10 @@ h2. Lög um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka
  *VI. kafli.* *[Eftirlit, skráningarskylda o.fl.][^1)^]*
     _[^1)^]L. 77/2008, 21. gr._
  ■ *25. gr.* _[Fjármálaeftirlitið og Neytendastofa.][^1)^]_
- □ Fjármálaeftirlitið hefur eftirlit með því að aðilar sem tilgreindir eru í [a - e-lið 1. mgr. 2. gr.][^1)^] fari að ákvæðum laga þessara og reglugerða og reglna settra samkvæmt þeim. Um eftirlitið fer samkvæmt lögum um opinbert eftirlit með fjármálastarfsemi og þeim sérlögum sem um starfsemi eftirlitsskyldra aðila gilda.
+ □ Fjármálaeftirlitið hefur eftirlit með því að aðilar sem tilgreindir eru í [a - e- og m-lið 1. mgr. 2. gr.][^2)^] fari að ákvæðum laga þessara og reglugerða og reglna settra samkvæmt þeim. Um eftirlitið fer samkvæmt lögum um opinbert eftirlit með fjármálastarfsemi og þeim sérlögum sem um starfsemi eftirlitsskyldra aðila gilda.
  □ Fjármálaeftirlitinu er heimilt að beita eftirlitsúrræðum sem kveðið er á um í lögum um opinbert eftirlit með fjármálastarfsemi við eftirlit samkvæmt lögum þessum.
  □ [Neytendastofa hefur eftirlit með því að þeir sem falla undir j-lið 1. mgr. 2. gr. fari að ákvæðum laga þessara, reglugerða og reglna settra samkvæmt þeim og setur nánari reglur um framkvæmd eftirlitsins.][^1)^]
-    _[^1)^]L. 77/2008, 19. gr._
+    _[^1)^]L. 77/2008, 19. gr. [^2)^]L. 41/2012, 6. gr._
  ■ *[25. gr. a.* _Skráning gjaldeyrisskiptastöðva og peninga- og verðmætasendingarþjónustu._
  □ Einstaklingar og lögaðilar sem starfrækja gjaldeyrisskiptastöð eða peninga- og verðmætasendingarþjónustu eru skráningarskyldir hjá Fjármálaeftirlitinu.
  □ Undanþegin skráningarskyldu eru fjármálafyrirtæki samkvæmt skilgreiningu laga um fjármálafyrirtæki, sbr. a-lið 1. mgr. 2. gr.
@@ -215,7 +216,8 @@ h2. Lög um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka
     [6. sérstakar reglur um bann við því að tilkynningarskyldir aðilar miðli upplýsingum til einstaklinga eða lögaðila sem hafa tengsl við ríki eða ríkjasvæði sem ekki hafa sambærilegar reglur um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka og lög þessi mæla fyrir um.][^3)^]
     _[^1)^]L. 126/2011, 431. gr._ [^2)^]Rg. 811/2008. Rg. 386/2009. [^3)^]L. 116/2009, 9. gr.
  ■ *29. gr.* _Innleiðing._
- □ Með lögum þessum eru tekin upp í innlendan rétt ákvæði tilskipunar Evrópuþingsins og ráðsins 2005/60/EB, um ráðstafanir gegn því að fjármálakerfið sé notað til peningaþvættis og til fjármögnunar hryðjuverka.
+ □ Með lögum þessum eru tekin upp í innlendan rétt ákvæði tilskipunar Evrópuþingsins og ráðsins 2005/60/EB, um ráðstafanir gegn því að fjármálakerfið sé notað til peningaþvættis og til fjármögnunar hryðjuverka, [og tilskipunar Evrópuþingsins og ráðsins 2007/64/EB, um greiðsluþjónustu á innri markaðnum, um breytingu á tilskipunum 97/7/EB, 2002/65/EB, 2005/60/EB og 2006/48/EB og niðurfellingu tilskipunar 97/5/EB].[^1)^]
+    _[^1)^]L. 41/2012, 7. gr._
  ■ *30. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi. Ákvæði 12. gr. öðlast gildi 1. janúar 2007. ...
 

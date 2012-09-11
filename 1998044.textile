@@ -7,7 +7,7 @@ h2. Lög um húsnæðismál
 <hr />
 
 
- *Tóku gildi 1. janúar 1999, sjá þó 52. gr.* _Breytt með_ l. 84/1998 (tóku gildi 1. jan. 1999), l. 157/1998 (tóku gildi 1. jan. 1999), l. 121/1999 (tóku gildi 30. des. 1999), 32/2000 (tóku gildi 26. maí 2000), l. 77/2001 (tóku gildi 15. júní 2001), l. 155/2001 (tóku gildi 31. des. 2001), l. 86/2002 (tóku gildi 23. maí 2002), l. 163/2002 (tóku gildi 30. des. 2002), l. 57/2004 (tóku gildi 1. júlí 2004 nema brbákv. I sem tók gildi 14. júní 2004), l. 120/2004 (tóku gildi 3. des. 2004), l. 137/2005 (tóku gildi 30. des. 2005), "l. 125/2008":2008125.html (tóku gildi 7. okt. 2008), l. 138/2008 (tóku gildi 13. des. 2008), l. 87/2009 (tóku gildi 20. ágúst 2009), "l. 107/2009":2009107.html (tóku gildi 31. okt. 2009), l. 120/2009 (tóku gildi 1. jan. 2010), l. 66/2010 (tóku gildi 1. júlí 2010), l. 152/2010 (tóku gildi 1. jan. 2011), l. 162/2010 (tóku gildi 1. jan. 2011), l. 29/2011 (tóku gildi 9. apríl 2011), l. 126/2011 (tóku gildi 30. sept. 2011), l. 134/2011 (tóku gildi 1. okt. 2011) og l. 180/2011 (tóku gildi 30. des. 2011).
+ *Tóku gildi 1. janúar 1999, sjá þó 52. gr.* _Breytt með_ l. 84/1998 (tóku gildi 1. jan. 1999), l. 157/1998 (tóku gildi 1. jan. 1999), l. 121/1999 (tóku gildi 30. des. 1999), 32/2000 (tóku gildi 26. maí 2000), l. 77/2001 (tóku gildi 15. júní 2001), l. 155/2001 (tóku gildi 31. des. 2001), l. 86/2002 (tóku gildi 23. maí 2002), l. 163/2002 (tóku gildi 30. des. 2002), l. 57/2004 (tóku gildi 1. júlí 2004 nema brbákv. I sem tók gildi 14. júní 2004), l. 120/2004 (tóku gildi 3. des. 2004), l. 137/2005 (tóku gildi 30. des. 2005), "l. 125/2008":2008125.html (tóku gildi 7. okt. 2008), l. 138/2008 (tóku gildi 13. des. 2008), l. 87/2009 (tóku gildi 20. ágúst 2009), "l. 107/2009":2009107.html (tóku gildi 31. okt. 2009), l. 120/2009 (tóku gildi 1. jan. 2010), l. 66/2010 (tóku gildi 1. júlí 2010), l. 152/2010 (tóku gildi 1. jan. 2011), l. 162/2010 (tóku gildi 1. jan. 2011), l. 29/2011 (tóku gildi 9. apríl 2011), l. 126/2011 (tóku gildi 30. sept. 2011), l. 134/2011 (tóku gildi 1. okt. 2011), l. 180/2011 (tóku gildi 30. des. 2011) og l. 84/2012 (tóku gildi 5. júlí 2012 nema ákvæði 3. gr., um hæfisskilyrði stjórnarmanna Íbúðalánasjóðs, sem taka gildi skv. 19. gr. s.l.).
 
 
  *1. þáttur.* *Almenn ákvæði.*
@@ -47,24 +47,58 @@ h2. Lög um húsnæðismál
 
  *III. kafli.* *Íbúðalánasjóður.*
  ■ *7. gr.* _Stjórn._
- □ [Ráðherra][^1)^] skipar stjórn Íbúðalánasjóðs til fjögurra ára í senn. Stjórnina skipa fimm menn og jafnmargir til vara. [Ráðherra][^1)^] skipar formann og varaformann úr hópi stjórnarmanna, en stjórn sjóðsins skiptir að öðru leyti með sér verkum. Ráðherra ákveður þóknun stjórnarmanna.
-    _[^1)^]L. 162/2010, 19. gr._
- ■ *8. gr.* _Framkvæmdastjóri._
- □ Stjórn Íbúðalánasjóðs ræður framkvæmdastjóra til fimm ára í senn. [Kjararáð ákveður starfskjör framkvæmdastjóra.][^1)^] Framkvæmdastjóri ræður annað starfsfólk. Hann annast daglegan rekstur skrifstofu sjóðsins, fjárreiður og reikningsskil. Framkvæmdastjóri framfylgir ákvörðunum stjórnar Íbúðalánasjóðs.
-    _[^1)^]L. 87/2009, 9. gr._
+ □ [Eftir hverjar alþingiskosningar skipar ráðherra fimm fulltrúa og jafnmarga til vara í stjórn Íbúðalánasjóðs til fjögurra ára í senn. Þó skulu formaður og varaformaður stjórnar, sem ráðherra skipar úr hópi stjórnarmanna, skipaðir til jafnlengdar embættistíma þess ráðherra sem skipar. Ráðherra ákveður þóknun stjórnarmanna.
+ □ Stjórn Íbúðalánasjóðs skal setja sér starfsreglur þar sem nánar skal kveðið á um framkvæmd starfa stjórnarinnar. Í starfsreglum þessum skal m.a. fjallað sérstaklega um heimildir stjórnar til að taka ákvarðanir í einstökum málum og þátttöku stjórnarmanna í meðferð mála, framkvæmd reglna um sérstakt hæfi stjórnarmanna og framkvæmd reglna um meðferð erinda stjórnarmanna um lánveitingar eða aðrar ákvarðanir þeim tengdar, sbr. einnig 8. gr. c. Starfsreglur þessar skulu hljóta staðfestingu Fjármálaeftirlitsins.
+ □ Formanni stjórnar Íbúðalánasjóðs er óheimilt að taka að sér önnur störf fyrir sjóðinn en þau sem teljast eðlilegur hluti starfa hans sem formaður stjórnar, að undanskildum einstökum verkefnum sem stjórnin felur honum að vinna fyrir sig.][^1)^]
+    _[^1)^]L. 84/2012, 1. gr._
+ ■ *8. gr.* _[Forstjóri.][^1)^]_
+ □ Stjórn Íbúðalánasjóðs ræður [forstjóra][^1)^] til fimm ára í senn. [Kjararáð ákveður starfskjör [forstjóra].[^1)^]][^2)^] [Forstjóri][^1)^] ræður annað starfsfólk. Hann annast daglegan rekstur skrifstofu sjóðsins, fjárreiður og reikningsskil. [Forstjóri][^1)^] framfylgir ákvörðunum stjórnar Íbúðalánasjóðs.
+    _[^1)^]L. 84/2012, 2. gr. [^2)^]L. 87/2009, 9. gr._
+ ■ *[8. gr. a.* _Hæfisskilyrði stjórnarmanna og forstjóra._
+ □ Stjórnarmenn og forstjóri Íbúðalánasjóðs skulu vera lögráða og hafa óflekkað mannorð auk þess sem þeir mega ekki á síðustu fimm árum hafa verið úrskurðaðir gjaldþrota. Þeir mega ekki í tengslum við atvinnurekstur hafa hlotið dóm á síðustu 10 árum fyrir refsiverðan verknað samkvæmt almennum hegningarlögum, samkeppnislögum, lögum um hlutafélög, lögum um einkahlutafélög, lögum um bókhald, lögum um ársreikninga, lögum um gjaldþrotaskipti o.fl. og ákvæðum laga um staðgreiðslu opinberra gjalda, svo og sérlögum sem gilda um aðila sem lúta opinberu eftirliti með fjármálastarfsemi.
+ □ Stjórnarmenn og forstjóri skulu vera fjárhagslega sjálfstæðir og hafa lokið háskólaprófi sem nýtist í starfi. Fjármálaeftirlitið getur veitt undanþágu frá menntunarkröfum skv. 1. málsl. á grundvelli reynslu og þekkingar viðkomandi. Jafnframt skulu stjórnarmenn og forstjóri búa yfir nægilegri þekkingu og starfsreynslu til að geta gegnt stöðu sinni á tilhlýðilegan hátt, m.a. hafa þekkingu á þeirri starfsemi sem Íbúðalánasjóður stundar. Þeir mega ekki hafa sýnt af sér háttsemi sem gefur tilefni til að draga í efa hæfni þeirra til að standa fyrir traustum og heilbrigðum rekstri eða að þeir muni hugsanlega misnota aðstöðu sína eða skaða sjóðinn. Fjármálaeftirlitið setur reglur um fjárhagslegt sjálfstæði stjórnarmanna og forstjóra og hvernig skuli staðið að hæfismati.
+ □ Stjórnarmenn Íbúðalánasjóðs mega hvorki eiga sæti í stjórn annars eftirlitsskylds aðila samkvæmt lögum um opinbert eftirlit með fjármálastarfsemi eða aðila sem er í nánum tengslum við hann né vera starfsmenn eða endurskoðendur annars eftirlitsskylds aðila samkvæmt lögum um opinbert eftirlit með fjármálastarfsemi eða aðila í nánum tengslum við hann.
+ □ Stjórnarmenn Íbúðalánasjóðs mega ekki sinna lögmannsstörfum fyrir fjármálafyrirtæki. Starfsmönnum Íbúðalánasjóðs er ekki heimilt að sitja í stjórn sjóðsins.
+ □ Íbúðalánasjóður skal tilkynna Fjármálaeftirlitinu um skipan og síðari breytingar á stjórn og forstjóra og skulu tilkynningunni fylgja fullnægjandi upplýsingar til að unnt sé að meta hvort skilyrðum ákvæðis þessa sé fullnægt.][^1)^]
+    _[^1)^]L. 84/2012, 3. gr., sbr. einnig 19. gr. í s.l._
+ ■ *[8. gr. b.* _Upplýsingaskylda stjórnar og forstjóra._
+ □ Stjórn og forstjóri Íbúðalánasjóðs skulu án tafar gera ráðherra og Fjármálaeftirlitinu viðvart hafi þeir vitneskju um málefni sem hafa úrslitaþýðingu fyrir áframhaldandi starfsemi Íbúðalánasjóðs.][^1)^]
+    _[^1)^]L. 84/2012, 3. gr., sbr. einnig 19. gr. í s.l._
+ ■ *[8. gr. c.* _Þátttaka stjórnarmanna í meðferð mála._
+ □ Stjórn Íbúðalánasjóðs skal ekki taka þátt í ákvörðunum um afgreiðslu einstakra mála, þar á meðal eru lánveitingar eða ákvarðanir þeim tengdar, nema umfang þeirra sé verulegt miðað við stærð sjóðsins eða annað sé ákveðið í lögum þessum. Einstakir stjórnarmenn skulu ekki hafa afskipti af ákvörðunum um afgreiðslu einstakra mála, þar á meðal eru lánveitingar eða ákvarðanir þeim tengdar.
+ □ Stjórnarmenn Íbúðalánasjóðs skulu ekki taka þátt í meðferð máls ef mál varðar:
+    1. ákvarðanir um lánveitingar eða ákvarðanir þeim tengdar sem varða sveitarfélög, frjáls félagasamtök og félög sem þeir sitja í stjórn hjá, eru fyrirsvarsmenn fyrir eða eiga að öðru leyti verulegra hagsmuna að gæta í; eða
+    2. ákvarðanir um lánveitingar eða ákvarðanir þeim tengdar sem varða samkeppnisaðila þeirra aðila sem um ræðir í 1. tölul.; eða
+    3. ákvarðanir um lánveitingar eða ákvarðanir þeim tengdar sem varða aðila sem kunna að valda stjórnarmönnum vanhæfi skv. II. kafla stjórnsýslulaga.
+ □ Erindi stjórnarmanna, sem og sveitarfélaga, frjálsra félagasamtaka og félaga sem þeir eru í fyrirsvari fyrir, sem lúta að ákvörðunum um lánveitingar eða ákvörðunum þeim tengdum, skulu lögð fyrir stjórn Íbúðalánasjóðs til samþykktar eða synjunar. Stjórn Íbúðalánasjóðs er þó heimilt að setja almennar reglur um afgreiðslu slíkra mála þar sem fyrir fram er ákveðið hvaða ákvarðanir þurfi, og þurfi ekki, sérstaka umfjöllun stjórnar áður en til afgreiðslu þeirra kemur, sbr. 2. mgr. 7. gr.][^1)^]
+    _[^1)^]L. 84/2012, 3. gr., sbr. einnig 19. gr. í s.l._
+ ■ *[8. gr. d.* _Þátttaka starfsmanna í atvinnurekstri._
+ □ Forstjóra Íbúðalánasjóðs er óheimilt að sitja í stjórn atvinnufyrirtækis og taka þátt í atvinnurekstri að öðru leyti. Stjórn Íbúðalánasjóðs getur veitt heimild til slíks á grundvelli reglna sem hún setur, sbr. einnig 20. gr. laga um réttindi og skyldur starfsmanna ríkisins, með síðari breytingum. Fjármálaeftirlitið skal staðfesta reglur stjórnar Íbúðalánasjóðs. Eignarhlutur í félagi telst þátttaka í atvinnurekstri, nema um sé að ræða óverulegan hlut sem ekki veitir bein áhrif á stjórnun þess. Ákvæði 20. gr. laga um réttindi og skyldur starfsmanna ríkisins skulu gilda um aðra starfsmenn sjóðsins.][^1)^]
+    _[^1)^]L. 84/2012, 3. gr., sbr. einnig 19. gr. í s.l._
+ ■ *[8. gr. e.* _Lánveitingar Íbúðalánasjóðs til starfsmanna._
+ □ Stjórn Íbúðalánasjóðs skal fjalla um lánveitingar sjóðsins samkvæmt lögum þessum og aðrar ákvarðanir þeim tengdar sem varða starfsmenn sjóðsins til að tryggja að þær lúti sömu reglum og lánveitingar til annarra lántakenda.][^1)^]
+    _[^1)^]L. 84/2012, 3. gr., sbr. einnig 19. gr. í s.l._
+ ■ *[8. gr. f.* _Þagnarskylda._
+ □ Stjórnarmenn Íbúðalánasjóðs, forstjóri, endurskoðendur, starfsmenn og hverjir þeir sem taka að sér verk í þágu sjóðsins eru bundnir þagnarskyldu um allt það sem þeir fá vitneskju um við framkvæmd starfa síns og varðar viðskipta- eða einkamálefni lántakenda sjóðsins, nema skylt sé að veita upplýsingar samkvæmt lögum. Þagnarskyldan helst þótt látið sé af starfi.
+ □ Sá sem veitir viðtöku upplýsingum af því tagi sem um getur í 1. mgr. er bundinn þagnarskyldu með sama hætti og þar greinir. Sá aðili sem veitir upplýsingar skal áminna viðtakanda um þagnarskylduna.][^1)^]
+    _[^1)^]L. 84/2012, 3. gr., sbr. einnig 19. gr. í s.l._
+ ■ *[8. gr. g.* _Samþykki lántakanda til miðlunar trúnaðarupplýsinga._
+ □ Heimilt er að miðla til utanaðkomandi aðila þeim upplýsingum um lántakanda sem um getur í 8. gr. f að fengnu skriflegu samþykki þess lántakanda er í hlut á. Í samþykki skal koma fram til hvaða upplýsinga það tekur, til hvaða aðila heimilt er að miðla upplýsingum á grundvelli þess og í hvaða tilgangi upplýsingunum er miðlað.][^1)^]
+    _[^1)^]L. 84/2012, 3. gr., sbr. einnig 19. gr. í s.l._
  ■ *9. gr.* _Verkefni._
  □ Verkefni Íbúðalánasjóðs eru:
     1. Að annast lánveitingar og sinna [viðskiptum með skuldabréf sem sjóðurinn gefur út][^1)^] í samræmi við ákvæði laga þessara.
     2. Að annast lánveitingar til sveitarfélaga, félaga og félagasamtaka til byggingar eða kaupa á leiguhúsnæði.
-    [3. Að kaupa eða endurfjármagna skuldabréf fjármálafyrirtækja sem tryggð eru með veði í íbúðarhúsnæði.][^2)^]
-    [4. ][^2)^] Að hafa umsjón með fjárhag, rekstri og annarri starfsemi Íbúðalánasjóðs og gæta þess að sjóðurinn starfi í samræmi við gildandi lög og reglugerðir.
-    [5. ][^2)^] Að gera fjárhagsáætlun fyrir sjóðinn í samræmi við ákvæði fjárlaga þar sem fram komi sundurliðaður áætlaður rekstrarkostnaður.
-    [6. ][^2)^] Að koma á framfæri við almenning upplýsingum um hlutverk og þjónustu Íbúðalánasjóðs.
-    [7. ][^2)^] Að stuðla að tækninýjungum og öðrum umbótum í byggingariðnaði, m.a. með veitingu lána eða styrkja samkvæmt nánari ákvæðum í reglugerð sem ráðherra setur.
-    [8. Að leigja eða fela öðrum með samningi að annast leigumiðlun með íbúðarhúsnæði sem Íbúðalánasjóður hefur yfirtekið á nauðungaruppboði samkvæmt nánari ákvæðum í reglugerð[^3)^] sem ráðherra setur.][^4)^]
-    [9. ][^4)^] Að fylgjast með íbúðaþörf í landinu og áætlanagerð sveitarfélaga um þörf á íbúðarhúsnæði.
-    [10. ][^4)^] Að sinna öðrum verkefnum sem ráðherra felur sjóðnum með reglugerð á sviði húsnæðismála.
-    _[^1)^]L. 57/2004, 3. gr._ [^2)^]"L. 125/2008, 10. gr.":2008125.html#g10 [^3)^]Rg. 7/2010, sbr. 352/2010. [^4)^]L. 138/2008, 1. gr.
+    [3. ...[^2)^]][^3)^]
+    [4. ][^3)^] Að hafa umsjón með fjárhag, rekstri og annarri starfsemi Íbúðalánasjóðs og gæta þess að sjóðurinn starfi í samræmi við gildandi lög og reglugerðir.
+    [5. ][^3)^] Að gera fjárhagsáætlun fyrir sjóðinn í samræmi við ákvæði fjárlaga þar sem fram komi sundurliðaður áætlaður rekstrarkostnaður.
+    [6. ][^3)^] Að koma á framfæri við almenning upplýsingum um hlutverk og þjónustu Íbúðalánasjóðs.
+    [7. ][^3)^] Að stuðla að tækninýjungum og öðrum umbótum í byggingariðnaði, m.a. með veitingu lána eða styrkja samkvæmt nánari ákvæðum í reglugerð sem ráðherra setur.
+    [8. Að leigja eða fela öðrum með samningi að annast leigumiðlun með íbúðarhúsnæði sem Íbúðalánasjóður hefur yfirtekið á [nauðungarsölu, sbr. lög um nauðungarsölu],[^2)^] samkvæmt nánari ákvæðum í reglugerð[^4)^] sem ráðherra setur.][^5)^]
+    [9. Að eiga leigufélag með íbúðarhúsnæði sem Íbúðalánasjóður hefur yfirtekið á nauðungarsölu, sbr. lög um nauðungarsölu, samkvæmt nánari ákvæðum í reglugerð sem ráðherra setur þar sem m.a. skal kveðið á um sjálfstæði stjórnar leigufélags gagnvart stjórn Íbúðalánasjóðs og um rekstrarlegan og bókhaldslegan aðskilnað.][^2)^]
+    [10. ][^2)^] Að fylgjast með íbúðaþörf í landinu og áætlanagerð sveitarfélaga um þörf á íbúðarhúsnæði.
+    [11. ][^2)^] Að sinna öðrum verkefnum sem ráðherra felur sjóðnum með reglugerð á sviði húsnæðismála.
+    _[^1)^]L. 57/2004, 3. gr._ [^2)^]L. 84/2012, 4. gr. [^3)^]"L. 125/2008, 10. gr.":2008125.html#g10 [^4)^]Rg. 7/2010, sbr. 352/2010. [^5)^]L. 138/2008, 1. gr.
  ■ *10. gr.* _Tekjur._
  □ Íbúðalánasjóður fjármagnar þau verkefni sem honum eru falin samkvæmt lögum þessum með þeim hætti sem hér segir:
     1. Með tekjum af eigin fé sjóðsins, þ.e. afborgunum, vöxtum og verðtryggingu af veittum lánum.
@@ -74,9 +108,26 @@ h2. Lög um húsnæðismál
  ■ *11. gr.* _[Eigna- og skuldastýring.][^1)^]_
  □ Íbúðalánasjóður skal varðveita og ávaxta það fé sem hann hefur umsjón með. Stjórn Íbúðalánasjóðs getur, að fengnu samþykki [ráðherra],[^2)^] tekið ákvörðun um að fela öðrum varðveislu eigna sjóðsins, að nokkru leyti eða öllu. Þess skal gætt að sjóðurinn hafi jafnan nægilegt laust fé til að standa við skuldbindingar sínar.
  □ [Stjórn Íbúðalánasjóðs skal eftir því sem kostur er, og að fengnu samþykki [ráðherra],[^2)^] semja við aðila á markaði um afgreiðslu og innheimtu lána eða einstakra flokka þeirra.][^1)^]
- □ [Íbúðalánasjóður skal halda jafnvægi milli inn- og útgreiðslna sjóðsins og gera áætlanir þar um. Sjóðurinn skal koma upp áhættustýringarkerfi í því skyni.
- □ Íbúðalánasjóði er heimilt að eiga viðskipti með fjármögnunarbréf sín og önnur verðbréf. Ráðherra setur í reglugerð[^3)^] ákvæði um áhættuviðmið, áhættustýringu, innra eftirlit og viðskipti sjóðsins með verðbréf að fenginni umsögn stjórnar Íbúðalánasjóðs og Fjármálaeftirlitsins.][^1)^]
-    _[^1)^]L. 57/2004, 5. gr. [^2)^]L. 162/2010, 19. gr. [^3)^]Rg. 544/2004, sbr. 896/2005._
+ □ [Íbúðalánasjóður skal halda jafnvægi milli inn- og útgreiðslna sjóðsins og gera áætlanir þar um. ...[^3)^]
+ □ Íbúðalánasjóði er heimilt að eiga viðskipti með fjármögnunarbréf sín og önnur verðbréf. Ráðherra setur í reglugerð[^4)^] ákvæði um ...[^3)^] viðskipti sjóðsins með verðbréf að fenginni umsögn stjórnar Íbúðalánasjóðs og Fjármálaeftirlitsins.][^1)^]
+    _[^1)^]L. 57/2004, 5. gr. [^2)^]L. 162/2010, 19. gr. [^3)^]L. 84/2012, 5. gr. [^4)^]Rg. 544/2004, sbr. 896/2005._
+ ■ *[11. gr. a.* _Innri endurskoðun._
+ □ Stjórn Íbúðalánasjóðs skal fela þeim sem hefur til þess sérþekkingu að annast innri endurskoðun Íbúðalánasjóðs.
+ □ Skal sá hinn sami hafa lokið háskólaprófi sem nýtist í starfi og búa yfir nægilegri reynslu til þess að geta sinnt starfi sínu. Hann má ekki hafa verið úrskurðaður gjaldþrota eða hafa í tengslum við atvinnurekstur hlotið dóm fyrir refsiverðan verknað samkvæmt almennum hegningarlögum, samkeppnislögum, lögum um hlutafélög, lögum um einkahlutafélög, lögum um bókhald, lögum um ársreikninga, lögum um gjaldþrotaskipti o.fl. og ákvæðum laga um staðgreiðslu opinberra gjalda, svo og sérlögum sem gilda um aðila sem lúta opinberu eftirliti með fjármálastarfsemi. Fjármálaeftirlitið getur hvenær sem er tekið hæfi þess sem annast innri endurskoðun til sérstakrar skoðunar telji stofnunin tilefni til.
+ □ Sá er annast innri endurskoðun í umboði stjórnar Íbúðalánasjóðs skal reglulega gera stjórn Íbúðalánasjóðs grein fyrir störfum sínum. Skylt er að taka þær athugasemdir sem hann metur mikilvægar fyrir á stjórnarfundum og færa til bókar.
+ □ Eigi sjaldnar en árlega skal sá sem annast innri endurskoðun Íbúðalánasjóðs gera Fjármálaeftirlitinu grein fyrir niðurstöðum kannana sinna. Auk þess skal hann tilkynna Fjármálaeftirlitinu sérstaklega og án tafar um þær athugasemdir sem gerðar hafa verið og sendar stjórn sjóðsins.][^1)^]
+    _[^1)^]L. 84/2012, 6. gr._
+ ■ *[11. gr. b.* _Eftirlitskerfi með áhættu._
+ □ Íbúðalánasjóður skal á hverjum tíma hafa yfir að ráða tryggu eftirlitskerfi með áhættu í tengslum við starfsemi sína. Hjá sjóðnum skulu vera til staðar fullnægjandi og skjalfestir innri ferlar til að meta nauðsynlega stærð, samsetningu og innri dreifingu eiginfjárgrunns með hliðsjón af þeirri áhættu sem starfsemin felur í sér hverju sinni. Innri ferlarnir skulu endurmetnir reglulega til að tryggja að þeir séu fullnægjandi með hliðsjón af eðli og umfangi starfsemi sjóðsins.
+ □ Íbúðalánasjóði ber að framkvæma regluleg álagspróf og skjalfesta forsendur og niðurstöður þeirra. Niðurstöður álagsprófa skulu vera á dagskrá næsta stjórnarfundar eftir að niðurstaða þeirra liggur fyrir.
+ □ Ráðherra er heimilt að setja reglugerð um framkvæmd áhættustýringar, áhættuviðmið, eftirlitskerfi vegna áhættuþátta í starfsemi Íbúðalánasjóðs og innra eftirlit að fenginni umsögn stjórnar Íbúðalánasjóðs og Fjármálaeftirlitsins.][^1)^]
+    _[^1)^]L. 84/2012, 6. gr._
+ ■ *[11. gr. c.* _Ársreikningur og endurskoðun._
+ □ Um starfsemi Íbúðalánasjóðs gilda 87. - 96. gr. laga um fjármálafyrirtæki, að undanskilinni 2. mgr. 91. gr. laganna.][^1)^]
+    _[^1)^]L. 84/2012, 6. gr._
+ ■ *[11. gr. d.* _Eftirlit._
+ □ Fjármálaeftirlitið skal hafa eftirlit með því að starfsemi Íbúðalánasjóðs sé í samræmi við ákvæði laga þessara og reglugerða settra samkvæmt þeim, sem og annarra laga eftir því sem við á. Um eftirlitið fer samkvæmt ákvæðum laga um opinbert eftirlit með fjármálastarfsemi eftir því sem við á.][^1)^]
+    _[^1)^]L. 84/2012, 6. gr._
  ■ *12. gr.* _Skipulag._
  □ Ráðherra er heimilt að ákveða með reglugerð, að fenginni tillögu stjórnar Íbúðalánasjóðs, frekari verkefni og skipulag sjóðsins, þar á meðal skiptingu hans í svið eða deildir að því leyti sem ekki er kveðið á um í lögum þessum.
 
@@ -96,13 +147,13 @@ h2. Lög um húsnæðismál
 
  *3. þáttur.* *Húsnæðislán.*
  *V. kafli.* *Almenn ákvæði.*
- ■ *15. gr.* _[Lánveitingar Íbúðalánasjóðs. Kaup skuldabréfa af fjármálafyrirtækjum.][^1)^]_
+ ■ *15. gr.* _[Lánveitingar Íbúðalánasjóðs.][^1)^]_
  □ Íbúðalánasjóður annast lánveitingar samkvæmt eftirfarandi lánaflokkum:
-    1. _Almenn lán_ skv. VI. kafla laga þessara til [endurbóta],[^2)^] byggingar eða kaupa á íbúðarhúsnæði.
-    2. _Viðbótarlán_ til einstaklinga skv. VII. kafla laga þessara til byggingar eða kaupa á eigin íbúðarhúsnæði.
+    1. _Almenn lán_ [til einstaklinga][^1)^] skv. VI. kafla laga þessara til [endurbóta],[^2)^] byggingar eða kaupa á íbúðarhúsnæði.
+    2. [_Lán til sveitarfélaga_ til byggingar eða kaupa á hjúkrunarheimilum skv. VII. kafla laga þessara.][^1)^]
     3. _Lán til leiguíbúða_ til sveitarfélaga, félagasamtaka og félaga skv. VIII. kafla laga þessara til byggingar eða kaupa á íbúðarhúsnæði til útleigu.
- □ [Íbúðalánasjóði er heimilt að kaupa skuldabréf fjármálafyrirtækja sem tryggð eru með veði í íbúðarhúsnæði. Ekki þarf að leita samþykkis skuldara fyrir slíkri yfirfærslu. Ráðherra er heimilt að mæla nánar fyrir um slíka yfirfærslu í reglugerð.][^1)^]
-    _[^1)^]"L. 125/2008, 11. gr.":2008125.html [^2)^]L. 57/2004, 6. gr._
+ □ ...[^1)^]
+    _[^1)^]L. 84/2012, 7. gr. [^2)^]L. 57/2004, 6. gr._
  ■ *16. gr.* _Aðrir lánaflokkar._
  □ Stjórn Íbúðalánasjóðs er heimilt, að fengnu samþykki [ráðherra],[^1)^] að stofna til nýrra lánaflokka. Gert skal ráð fyrir öllum lánaflokkum í fjárhagsáætlun sjóðsins fyrir það ár sem veiting láns fer fram.
  □ Um nánari skilyrði lánveitinga samkvæmt þessari grein fer eftir því sem ákveðið er í lögum þessum og reglugerð[^2)^] sem [ráðherra][^1)^] setur að fenginni umsögn stjórnar Íbúðalánasjóðs.
@@ -111,16 +162,18 @@ h2. Lög um húsnæðismál
  □ Íbúðalánasjóður skal halda mismunandi lánaflokkum sjóðsins aðgreindum í bókhaldi og gefa út flokka markaðshæfra íbúðabréfa í nafni sjóðsins með þeim kjörum og skilmálum sem ákveðin eru með lögum þessum eða reglugerð.][^1)^]
     _[^1)^]L. 57/2004, 7. gr._
 
- *VI. kafli.* *[Almenn lán  -  íbúðabréf.][^1)^]*
-    _[^1)^]L. 57/2004, 19. gr._
+ *VI. kafli.* *[Almenn lán til einstaklinga.][^1)^]*
+    _[^1)^]L. 84/2012, 11. gr._
  ■ *18. gr.* _Greiðslumat._
  □ [Um skilyrði þess að Íbúðalánasjóður samþykki lánveitingu til umsækjanda fer eftir viðmiðunarreglum sem stjórn sjóðsins setur um veðhæfni fasteigna og greiðslugetu skuldara. Ef þau skilyrði eru ekki uppfyllt er sjóðnum heimilt að synja um lánveitingu.
  □ ...[^1)^]][^2)^]
     _[^1)^]L. 120/2004, 2. gr. [^2)^]L. 57/2004, 8. gr._
  ■ *19. gr.* _[ÍLS-veðbréf.][^1)^]_
  □ [Lán Íbúðalánasjóðs eru greidd út í peningum. Áður en kemur til útgreiðslu láns skal lántaki gefa út ÍLS-veðbréf og þinglýsa því. [ÍLS-veðbréf getur verið verðtryggt með vísitölu neysluverðs, sbr. lög um vísitölu neysluverðs, eða óverðtryggt. Skal það bera vexti skv. 21. gr.][^2)^]][^1)^]
- □ [Lánveiting samkvæmt ÍLS-veðbréfi getur numið allt að 90% af matsverði íbúðar. Taka ber tillit til framar áhvílandi lána þannig að ÍLS-veðbréfið sé innan þessara marka. Ráðherra getur með reglugerð[^3)^] ákveðið hámarksfjárhæð ÍLS-veðbréfa sem miðast við að veðbréfið hvíli á fyrsta veðrétti. Ella skulu uppfærð, framar áhvílandi lán koma til frádráttar hámarksfjárhæð.][^4)^]
-    _[^1)^]L. 57/2004, 9. gr. [^2)^]L. 134/2011, 1. gr. [^3)^]Rg. 522/2004, sbr. 824/2004, 958/2004, 300/2006, 574/2008, 402/2009 og 1038/2009. Rg. 540/2006, sbr. 156/2007, 587/2007, 575/2008 og 552/2009. [^4)^]L. 120/2004, 3. gr._
+ □ [Lánveiting samkvæmt ÍLS-veðbréfi getur numið allt að [80%][^3)^] af matsverði íbúðar. Taka ber tillit til framar áhvílandi lána þannig að ÍLS-veðbréfið sé innan þessara marka. Ráðherra getur með reglugerð[^4)^] ákveðið hámarksfjárhæð ÍLS-veðbréfa sem miðast við að veðbréfið hvíli á fyrsta veðrétti. Ella skulu uppfærð, framar áhvílandi lán koma til frádráttar hámarksfjárhæð.][^5)^]
+ □ [Þrátt fyrir 1. og 2. mgr. er Íbúðalánasjóði óheimilt að veita lán skv. 1. tölul. 15. gr. þegar hámarksfjárhæð ÍLS-veðbréfa skv. 2. mgr. nemur minna en 40% af fasteignamati íbúðarhúsnæðisins.
+ □ Ráðherra skal á tveggja ára fresti meta hvort þörf er á að breyta hlutfalli hámarksfjárhæðar ÍLS-veðbréfa af fasteignamati íbúðarhúsnæðis skv. 3. mgr. með tilliti til breytinga á lánamörkuðum, þróunar verðlags og þjóðhagsforsendna. Telji ráðherra þörf á breytingum með hliðsjón af reglum samningsins um Evrópska efnahagssvæðið um ríkisaðstoð skal hann í reglugerð mæla fyrir um breytt hlutfall hámarksfjárhæðar ÍLS- veðbréfa af fasteignamati íbúðarhúsnæðis skv. 3. mgr. að fengnu samþykki ríkisstjórnarinnar. Hlutfall hámarksfjárhæðar ÍLS-veðbréfa af fasteignamati íbúðarhúsnæðis skv. 3. mgr. má þó aldrei nema minna en 40% af fasteignamati íbúðarhúsnæðis.][^3)^]
+    _[^1)^]L. 57/2004, 9. gr. [^2)^]L. 134/2011, 1. gr. [^3)^]L. 84/2012, 8. gr. [^4)^]Rg. 522/2004, sbr. 824/2004, 958/2004, 300/2006, 574/2008, 402/2009 og 1038/2009. Rg. 540/2006, sbr. 156/2007, 587/2007, 575/2008 og 552/2009. [^5)^]L. 120/2004, 3. gr._
  ■ *20. gr.* _Matsverð._
  □ Stjórn Íbúðalánasjóðs setur reglur, sem [ráðherra][^1)^] staðfestir, um eðlilegt matsverð fasteigna sem skulu byggjast á viðmiðun við markaðsverð, brunabótamat, byggingarkostnað og samþykktan kostnað við meiri háttar endurnýjun eða endurbætur á íbúðarhúsnæði.
     _[^1)^]L. 162/2010, 19. gr._
@@ -149,15 +202,14 @@ h2. Lög um húsnæðismál
  □ Íbúðalánasjóði er heimilt að koma á fót aðalmiðlarakerfi með íbúðabréf.
  □ Íbúðalánasjóði er heimilt að lána aðalmiðlara verðbréf gegn tryggingu til að liðka fyrir verðmyndun á markaði.][^1)^]
     _[^1)^]L. 57/2004, 15. gr._
- ■ *27. gr.* _Eftirlit._
- □ [Fjármálaeftirlitið skal hafa eftirlit með því að starfsemi Íbúðalánasjóðs sé í samræmi við ákvæði laga þessara og reglugerða settra samkvæmt þeim. Um eftirlitið fer samkvæmt ákvæðum laga um opinbert eftirlit með fjármálastarfsemi eftir því sem við á.][^1)^]
-    _[^1)^]L. 57/2004, 16. gr._
+ ■ *27. gr.* ...[^1)^]
+    _[^1)^]L. 84/2012, 9. gr._
  ■ *28. gr.* _Vaxtaálag._
  □ [Íbúðalánasjóði er heimilt að áskilja sér vaxtaálag til að mæta rekstrarkostnaði, áætluðum útlánatöpum og vaxtaáhættu sjóðsins. [Ráðherra][^1)^] ákveður vaxtaálag þetta að fengnum tillögum stjórnar Íbúðalánasjóðs.][^2)^]
     _[^1)^]L. 162/2010, 19. gr. [^2)^]L. 57/2004, 17. gr._
  ■ *29. gr.* _Reglugerð._
- □ [[Ráðherra][^1)^] getur sett frekari fyrirmæli í reglugerð[^2)^] um lánveitingar Íbúðalánasjóðs, [kaup skuldabréfa af fjármálafyrirtækjum sem tryggð eru með veði í íbúðarhúsnæði],[^3)^] tilhögun viðskipta og útgáfu íbúðabréfa.][^4)^]
-    _[^1)^]L. 162/2010, 19. gr. [^2)^]Rg. 6/1996, sbr. 169/1997 og 744/2001. Rg. 688/2001. Rg. 522/2004, sbr. 824/2004, 958/2004, 1017/2005, 300/2006, 539/2006, 574/2008, 402/2009, 1038/2009 og 439/2010. Rg. 540/2006, sbr. 156/2007, 587/2007, 575/2008 og 552/2009. [^3)^]"L. 125/2008, 12. gr.":2008125.html [^4)^]L. 57/2004, 18. gr._
+ □ [[Ráðherra][^1)^] getur sett frekari fyrirmæli í reglugerð[^2)^] um lánveitingar Íbúðalánasjóðs, ...[^3)^] tilhögun viðskipta og útgáfu íbúðabréfa.][^4)^]
+    _[^1)^]L. 162/2010, 19. gr. [^2)^]Rg. 6/1996, sbr. 169/1997 og 744/2001. Rg. 688/2001. Rg. 522/2004, sbr. 824/2004, 958/2004, 1017/2005, 300/2006, 539/2006, 574/2008, 402/2009, 1038/2009 og 439/2010. Rg. 540/2006, sbr. 156/2007, 587/2007, 575/2008 og 552/2009. [^3)^]L. 84/2012, 10. gr. [^4)^]L. 57/2004, 18. gr._
 
  *[VII. kafli.* *Lán vegna hjúkrunarheimila.][^1)^]*
     _[^1)^]L. 120/2009, 21. gr._
@@ -172,32 +224,30 @@ h2. Lög um húsnæðismál
 
  *VIII. kafli.* *Lán til leiguíbúða.*
  ■ *33. gr.* _Almennt._
- □ Íbúðalánasjóður veitir sveitarfélögum, félögum og félagasamtökum, er hafa að markmiði að byggja, eiga og hafa umsjón með rekstri leiguhúsnæðis, lán til byggingar eða kaupa leiguíbúða.
- □ Samþykktir eða stofnskrár félaga og félagasamtaka skv. 1. mgr. skulu hafa hlotið staðfestingu [ráðherra][^1)^] áður en þau eru skráð og hefja starfsemi sína.
-    _[^1)^]L. 162/2010, 19. gr._
+ □ [Íbúðalánasjóði er heimilt að veita sveitarfélögum, félögum og félagasamtökum, sem ekki eru rekin í hagnaðarskyni og hafa það sem langtímamarkmið að byggja, eiga og hafa umsjón með rekstri leiguhúsnæðis, lán til byggingar eða kaupa leiguíbúða.][^1)^]
+    _[^1)^]L. 84/2012, 12. gr._
  ■ *34. gr.* _Samþykktir._
  □ Í samþykktum félaga og félagasamtaka skulu vera ákvæði um eigið fé, fjárhagslega ábyrgð, skipun stjórnar, fjölda stjórnarmanna, kjör stjórnarmanna, fundarboðun, hver geti skuldbundið félagið, reikningsár og endurskoðun og ráðstöfun eigin fjár við slit félags. Í reglugerð,[^1)^] sem [ráðherra][^2)^] setur, skal setja nánari fyrirmæli um efni samþykkta félaga og félagasamtaka, svo og skilyrði um eigið fé og fjárhagslega ábyrgð slíkra aðila.
  □ [Ráðherra][^2)^] lætur gera fyrirmyndir að samþykktum skv. 1. mgr.
- □ [Ráðuneytið][^2)^] heldur skrá yfir félög og félagasamtök sem hlotið hafa staðfestingu ráðherra. Allar breytingar á samþykktum slíkra aðila skulu tilkynntar [ráðuneytinu][^2)^] þegar í stað.
- □ Samþykktir, sem [ráðuneytið][^2)^] hefur þegar staðfest vegna félaga og félagasamtaka, sem undir lög þessi falla, halda gildi sínu.
-    _[^1)^]Rg. 873/2001, sbr. 56/2009. [^2)^]L. 162/2010, 19. gr._
+ □ ...[^3)^]
+    _[^1)^]Rg. 873/2001, sbr. 56/2009. [^2)^]L. 162/2010, 19. gr. [^3)^]L. 84/2012, 13. gr._
  ■ *35. gr.* _Lánsumsóknir._
  □ Þegar sótt er um lán til leiguíbúða skv. 33. gr. skal koma fram í lánsumsókn fjöldi, gerð og stærð fyrirhugaðra íbúða, framkvæmdatími, áætlaður byggingarkostnaður og annað það sem nauðsynlegt er til þess að unnt sé að taka afstöðu til umsóknar. Einnig skal fylgja greinargerð um útvegun nauðsynlegs viðbótarfjár. Að lokinni athugun tekur Íbúðalánasjóður ákvörðun um hvort framkvæmdin og lánveiting falli að settum skilyrðum fyrir láni.
- □ Stjórn Íbúðalánasjóðs er heimilt að hafna lánsumsókn ef íbúðarhúsnæði telst óvandað eða ófullnægjandi að mati stjórnar sjóðsins.
- □ [Ráðherra][^1)^] setur með reglugerð[^2)^] frekari ákvæði um skilyrði lána til leiguíbúða, þar á meðal um gerð íbúða, stærðir þeirra, hagkvæmni og byggingarkostnað, svo og úrræði til þess að tryggja sem lægst íbúðarverð.
-    _[^1)^]L. 162/2010, 19. gr. [^2)^]Rg. 873/2001, sbr. 56/2009._
+ □ ...[^1)^]
+ □ [Ráðherra setur með reglugerð[^2)^] frekari ákvæði um skilyrði lána til leiguíbúða, þar á meðal um lágmarksfjölda íbúða, gerð íbúða, stærðir þeirra, viðmið um ákvörðun leigufjárhæðar, hagkvæmni og byggingarkostnað, úrræði til þess að tryggja sem lægst íbúðarverð, takmarkanir við arðgreiðslum og þinglýsingu leigusamninga.][^1)^]
+    _[^1)^]L. 84/2012, 14. gr. [^2)^]Rg. 873/2001, sbr. 56/2009._
  ■ *36. gr.* _Lánskjör._
- □ Lán til leiguíbúða sem veitt eru sveitarfélögum, félagasamtökum og félögum til byggingar eða kaupa á leiguhúsnæði skulu tryggð með veði í hlutaðeigandi íbúð. Lánin skulu vera að fullu verðtryggð og höfuðstóll þeirra miðast við vísitölu neysluverðs eins og hún er á hverjum tíma.
- □ Lán til leiguíbúða mega nema allt að 90% af byggingarkostnaði eða kaupverði íbúðar, þó aldrei meira en 90% af þeim kostnaðargrundvelli af lánveitingu sem stjórn Íbúðalánasjóðs hefur samþykkt.
- □ Lánstími lána skv. 1. og 2. mgr. má nema allt að 50 árum. Lánin endurgreiðast að fullu með jöfnum greiðslum vaxta og afborgana (annuitet) að viðbættum verðbótum á lánstímanum. Gjalddagar lána skulu eigi vera færri en fjórir á ári. Stjórn Íbúðalánasjóðs er heimilt að fjölga gjalddögum ef það er talið æskilegt.
- □ [Vextir af lánum til leiguíbúða geta verið fastir eða breytilegir. Fastir vextir og vaxtaálag ákveðast á sama hátt og vextir ÍLS-veðbréfa, sbr. 21. og 28. gr., en stjórn Íbúðalánasjóðs skal við gerð fjárhagsáætlunar ár hvert ákveða breytilega vexti. Ráðherra getur heimilað Íbúðalánasjóði með reglugerð[^1)^] að bjóða lántakendum skv. 1. mgr. að afsala sér rétti til þess að greiða án þóknunar upp lán eða greiða aukaafborganir, gegn lægra vaxtaálagi. Jafnframt skal í reglugerðinni kveðið á um hlutfall þóknunar sem Íbúðalánasjóður getur áskilið sér ef lántaki sem afsalar sér umræddum rétti hyggst greiða upp lán fyrir lok lánstíma. Slík þóknun skal aldrei nema hærri fjárhæð en nemur kostnaði Íbúðalánasjóðs vegna uppgreiðslu viðkomandi láns.][^2)^]
-    _[^1)^]Rg. 57/2009. [^2)^]L. 120/2004, 7. gr._
+ □ [Lán til leiguíbúða sem eru veitt skv. 33. gr. skulu tryggð með fyrsta veðrétti í hlutaðeigandi íbúð. Lánið má nema allt að 90% af matsverði íbúðar, þó aldrei meira en 90% af þeim kostnaðargrundvelli af lánveitingu sem samþykkt hefur verið. Lánstími lána má nema allt að 50 árum og skulu gjalddagar ekki vera færri en fjórir á ári.][^1)^]
+ □ ...[^1)^]
+ □ ...[^1)^]
+ □ [[Lán til leiguíbúða geta verið verðtryggð eða óverðtryggð og vextir af þeim lánum geta verið fastir eða breytilegir.][^1)^] Fastir vextir og vaxtaálag ákveðast á sama hátt og vextir ÍLS-veðbréfa, sbr. 21. og 28. gr., en stjórn Íbúðalánasjóðs skal við gerð fjárhagsáætlunar ár hvert ákveða breytilega vexti. Ráðherra getur heimilað Íbúðalánasjóði með reglugerð[^2)^] að bjóða lántakendum skv. 1. mgr. að afsala sér rétti til þess að greiða án þóknunar upp lán eða greiða aukaafborganir, gegn lægra vaxtaálagi. Jafnframt skal í reglugerðinni kveðið á um hlutfall þóknunar sem Íbúðalánasjóður getur áskilið sér ef lántaki sem afsalar sér umræddum rétti hyggst greiða upp lán fyrir lok lánstíma. Slík þóknun skal aldrei nema hærri fjárhæð en nemur kostnaði Íbúðalánasjóðs vegna uppgreiðslu viðkomandi láns.][^3)^]
+    _[^1)^]L. 84/2012, 15. gr. [^2)^]Rg. 57/2009. [^3)^]L. 120/2004, 7. gr._
  ■ *37. gr.* _Ráðstöfun leiguhúsnæðis._
- □ Um rétt til leiguhúsnæðis fer eftir félagslegum aðstæðum umsækjanda og því hvort tekjur hans og eignir eru innan tekju- og eignamarka sem nánar skulu ákveðin í reglugerð[^1)^] er [ráðherra][^2)^] setur að fenginni umsögn Sambands íslenskra sveitarfélaga.
+ □ [Íbúðalánasjóði er heimilt að veita sveitarfélögum, félögum og félagasamtökum sérstök vaxtakjör að fengnu samþykki ríkisstjórnarinnar vegna lána til leiguíbúða sem eingöngu eru ætlaðar tilgreindum hópi leigjenda sem eru undir ákveðnum tekju- og eignamörkum tilgreindum í reglugerð[^1)^] sem ráðherra setur að fenginni umsögn Sambands íslenskra sveitarfélaga.][^2)^]
  □ Um ráðstöfun íbúðarhúsnæðis sem húsnæðissamvinnufélög hafa fengið lán til byggingar eða kaupa á samkvæmt ákvæðum þessa kafla fer að öðru leyti eftir lögum um byggingar- og húsnæðissamvinnufélög.
- □ Aðilum, sem byggja eða kaupa leiguíbúðir, er heimilt að selja leigutaka, sem uppfyllir skilyrði 1. mgr., eignarhlut í íbúð með þeim kvöðum að eignarhluti kaupanda standi óhreyfður í íbúðinni á meðan hann hefur afnot af henni en greiðist síðan með fullum verðbótum samkvæmt vísitölu neysluverðs, án vaxta. Nánari reglur um eignarhlut leigutaka skulu settar í reglugerð.[^1)^]
+ □ ...[^2)^]
  □ Óheimilt er að hafa eigendaskipti á íbúð sem á hvílir lán til leiguhúsnæðis nema til komi annaðhvort uppgreiðsla lánsins eða samþykki stjórnar Íbúðalánasjóðs.
-    _[^1)^]Rg. 873/2001, sbr. 56/2009. [^2)^]L. 162/2010, 19. gr._
+    _[^1)^]Rg. 873/2001, sbr. 56/2009. [^2)^]L. 84/2012, 16. gr._
  ■ *38. gr.* _Leiguíbúðir sveitarfélaga._
  □ Sveitarfélagi er heimilt að stofna hlutafélag, sjálfseignarstofnun eða félag með ótakmarkaðri ábyrgð er annist útleigu íbúða í eigu sveitarfélagsins. Sveitarstjórn er heimilt að leggja slíku félagi til íbúðir í eigu sveitarfélags, ásamt þeim skuldbindingum sem þeim fylgja.
  □ Áður en skráning hlutafélags fer fram skulu samþykktir þess staðfestar af [ráðherra].[^1)^]
@@ -209,8 +259,9 @@ h2. Lög um húsnæðismál
  □ [Ráðherra][^1)^] er heimilt að ákveða í reglugerð[^2)^] að mánaðarlegt leigugjald íbúða sem njóta láns til leiguíbúða úr Íbúðalánasjóði skuli miðast við afborganir og vexti af slíku láni og vaxtakostnað af framlagi eiganda íbúðar auk almenns rekstrarkostnaðar. Víki lántakandi frá viðmiðunarleiguupphæð er stjórn Íbúðalánasjóðs heimilt að gjaldfella lán til leiguhúsnæðis sem veitt hefur verið.
     _[^1)^]L. 162/2010, 19. gr. [^2)^]Rg. 873/2001, sbr. 56/2009._
  ■ *40. gr.* _Eftirlit með félögum og félagasamtökum._
- □ Félög og félagasamtök samkvæmt lögum þessum skulu láta Íbúðalánasjóði í té bókhaldsgögn, ársskýrslur og upplýsingar um framkvæmdir, húsbyggingar, ráðstöfun leiguhúsnæðis og ákvörðun leigufjárhæðar óski Íbúðalánasjóður eftir því.
+ □ Félög og félagasamtök samkvæmt lögum þessum skulu láta Íbúðalánasjóði í té bókhaldsgögn, ársskýrslur og upplýsingar um framkvæmdir, húsbyggingar, ráðstöfun leiguhúsnæðis, [þinglýsta leigusamninga][^1)^] og ákvörðun leigufjárhæðar óski Íbúðalánasjóður eftir því.
  □ Komi í ljós að félög eða félagasamtök hafi vikið frá skilyrðum lánveitinga eða um ráðstöfun leiguhúsnæðis er Íbúðalánasjóði heimilt að endurskoða lánskjör eða gjaldfella lán.
+    _[^1)^]L. 84/2012, 17. gr._
 
  *4. þáttur.* *Önnur ákvæði.*
  *IX. kafli.* *[Kæruheimild.][^1)^]*
@@ -377,5 +428,7 @@ h2. Lög um húsnæðismál
  □ [Ráðherra][^1)^] er heimilt að setja nánari reglur í reglugerð um framkvæmd ákvæðis þessa, þar á meðal um mat á greiðslubyrði lántaka og maka hans, mat á tekjum og verðmat fasteigna.
  □ Íbúðalánasjóði er heimilt að taka við umsóknum á grundvelli ákvæðis þessa til og með 30. júní 2011.][^2)^]
     _[^1)^]L. 126/2011, 264. gr. [^2)^]L. 29/2011, 1. gr._
+ ■ *[XV.* Þrátt fyrir 3. mgr. 19. gr. er heimilt við kaup á íbúðarhúsnæði að yfirtaka lán frá Íbúðalánasjóði sem þegar hvílir á viðkomandi íbúðarhúsnæði þó svo að hámarksverð ÍLS-veðbréfa skv. 2. mgr. nemi minna en 40% af fasteignamati viðkomandi húsnæðis.][^1)^]
+    _[^1)^]L. 84/2012, 18. gr._
 
 

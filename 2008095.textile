@@ -7,14 +7,14 @@ h2. Innheimtulög
 <hr />
 
 
- *Tóku gildi 1. janúar 2009.* _Breytt með_ l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l. 60/2010 (tóku gildi 19. júní 2010) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. janúar 2009.* _Breytt með_ l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l. 60/2010 (tóku gildi 19. júní 2010), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 78/2012 (tóku gildi 5. júlí 2012).
 
 
  *I. kafli.* *Gildissvið o.fl.*
  ■ *1. gr.* _Gildissvið._
  □ Lög þessi gilda um frum- og milliinnheimtu gjaldfallinna peningakrafna fyrir aðra eða vegna eigin starfsemi. Þau gilda þó ekki um innheimtu opinberra aðila á sköttum og gjöldum og löginnheimtu.
- □ Með fruminnheimtu er átt við innheimtuviðvörun skv. 7. gr. Með milliinnheimtu er átt við innheimtuaðgerðir sem hefjast eftir að skuldari hefur fengið innheimtuviðvörun skv. 7. gr. og áður en löginnheimta hefst. [Með löginnheimtu er átt við innheimtumeðferð á grundvelli "24. gr. a laga um lögmenn, nr. 77/1998":1998077.html#g24a.][^1)^] Innheimtuaðili er einstaklingur eða lögaðili sem annast innheimtu.
-    _[^1)^]L. 60/2010, 8. gr._
+ □ Með fruminnheimtu er átt við innheimtuviðvörun skv. 7. gr. Með milliinnheimtu er átt við innheimtuaðgerðir sem hefjast eftir að skuldari hefur fengið innheimtuviðvörun skv. 7. gr. og áður en löginnheimta hefst. [Með löginnheimtu er átt við innheimtumeðferð á grundvelli "24. gr. a laga um lögmenn, nr. 77/1998":1998077.html#g24a.][^1)^] Innheimtuaðili er einstaklingur eða lögaðili sem annast innheimtu, [þ.m.t. vörslusviptingu].[^2)^]
+    _[^1)^]L. 60/2010, 8. gr. [^2)^]L. 78/2012, 1. gr._
  ■ *2. gr.* _Frávíkjanleg ákvæði._
  □ Heimilt er með samningi milli kröfuhafa og skuldara í atvinnurekstri að víkja frá ákvæðum 7. gr. Heimilt er með samningi milli kröfuhafa og innheimtuaðila að víkja frá ákvæðum 9. gr. og 1. mgr. 10. gr. Önnur ákvæði laganna eru ófrávíkjanleg.
 
@@ -40,6 +40,8 @@ h2. Innheimtulög
  ■ *6. gr.* _Góðir innheimtuhættir._
  □ Innheimta skal vera í samræmi við góða innheimtuhætti.
  □ Það telst m.a. brjóta í bága við góða innheimtuhætti að beita óhæfilegum þrýstingi eða valda óþarfa tjóni eða óþægindum.
+ ■ *[6. gr. a.* Innheimtuaðili skal, hvort sem er við frum- eða milliinnheimtu, afla skriflegs samþykkis skuldara áður en lausafé er tekið úr vörslum skuldara, enda sé skuldari í vanskilum með afborganir eða lánskostnað. Skal innheimtuaðili jafnframt láta skuldara í té afrit skriflegs samþykkis í síðasta lagi samtímis afhendingu lausafjármunar. Liggi slíkt samþykki ekki fyrir verður innheimtuaðili að leita aðfarar eftir reglum "aðfararlaga, nr. 90/1989":1989090.html.][^1)^]
+    _[^1)^]L. 78/2012, 2. gr._
  ■ *7. gr.* _Innheimtuviðvörun._
  □ Eftir gjalddaga kröfu skal kröfuhafi eða innheimtuaðili senda skuldara eina skriflega viðvörun þess efnis að vænta megi frekari innheimtuaðgerða verði krafa eigi greidd innan tíu daga frá sendingu viðvörunar. Veita má lengri frest til greiðslu.
  □ Í viðvörun komi fram:
@@ -91,15 +93,16 @@ h2. Innheimtulög
 ■ *18. gr.* _Stjórnvaldssektir._
  □ Fjármálaeftirlitið getur lagt stjórnvaldssektir á hvern þann sem það hefur eftirlit með og brýtur gegn:
     a. 3. gr. um skilyrði til að mega stunda innheimtu fyrir aðra;
-    b. 7. gr. um innheimtuviðvörun;
-    c. 3. mgr. 16. gr. telji eftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilins leyfis;
-    d. sátt milli Fjármálaeftirlitsins og aðila, sbr. 19. gr.;
-    e. reglugerð [ráðherra][^1)^] skv. 12. gr. um hámarksfjárhæð innheimtukostnaðar.
+    [b. 6. gr. a um vörslusviptingu];[^1)^]
+    [c. ][^1)^] 7. gr. um innheimtuviðvörun;
+    [d. ][^1)^] 3. mgr. 16. gr. telji eftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilins leyfis;
+    [e. ][^1)^] sátt milli Fjármálaeftirlitsins og aðila, sbr. 19. gr.;
+    [f. ][^1)^] reglugerð [ráðherra][^2)^] skv. 12. gr. um hámarksfjárhæð innheimtukostnaðar.
  □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.
  □ Stjórnvaldssektir sem lagðar eru á einstaklinga geta numið frá 10.000 til 20.000.000 kr. Sektir sem lagðar eru á lögaðila geta numið frá 50.000 til 50.000.000 kr. Við ákvörðun sekta skal m.a. taka tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila eða hvort um ítrekað brot er að ræða. Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar. Sektirnar renna í ríkissjóð að frádregnum kostnaði við innheimtu. Séu stjórnvaldssektir eigi greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektanna. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
  □ Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssektar eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema unnt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.
  □ Heimild Fjármálaeftirlitsins til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar fimm ár eru liðin frá því að háttsemi lauk. Frestur rofnar þegar Fjármálaeftirlitið tilkynnir aðila um upphaf rannsóknar á ætluðu broti. Rof frests hefur réttaráhrif gagnvart öllum sem staðið hafa að broti.
-    _[^1)^]L. 126/2011, 495. gr._
+    _[^1)^]L. 78/2012, 3. gr. [^2)^]L. 126/2011, 495. gr._
  ■ *19. gr.* _Sættir._
  □ Hafi aðili gerst brotlegur við ákvæði laga þessara eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni.
  ■ *20. gr.* _Sektir eða fangelsi._
