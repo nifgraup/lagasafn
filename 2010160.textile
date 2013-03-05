@@ -7,7 +7,11 @@ h2. Lög um mannvirki
 <hr />
 
 
- *Tóku gildi 1. janúar 2011.* _Breytt með_ l. 126/2011 (tóku gildi 30. sept. 2011), l. 131/2011 (tóku gildi 1. jan. 2012) og "l. 80/2012":2012080.html (taka gildi 1. jan. 2013).
+ *Tóku gildi 1. janúar 2011.* _Breytt með_ l. 126/2011 (tóku gildi 30. sept. 2011), l. 131/2011 (tóku gildi 1. jan. 2012) og "l. 80/2012":2012080.html (tóku gildi 1. jan. 2013).
+
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *umhverfis- og auðlindaráðherra* eða *umhverfis- og auðlindaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+
+<hr />
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -120,7 +124,7 @@ h2. Lög um mannvirki
  □ Leyfisveitandi getur, þegar sérstaklega stendur á, veitt skriflegt leyfi til einstakra þátta byggingarframkvæmda og takmarkast leyfið þá hverju sinni við samþykkt hönnunargögn. Heimilt er að veita umsækjanda leyfi til að kanna jarðveg á framkvæmdasvæði án þess að byggingarleyfi hafi verið gefið út.
  □ Óheimilt er að gefa út byggingarleyfi fyrir mannvirki sem fellur undir lög um mat á umhverfisáhrifum fyrr en álit Skipulagsstofnunar um mat á umhverfisáhrifum liggur fyrir eða ákvörðun stofnunarinnar um að framkvæmd sé ekki matsskyld.
  □ [Óheimilt er að gefa út byggingarleyfi fyrir mannvirki sem fellur undir IV., VI. og VII. kafla laga um menningarminjar fyrr en álit Minjastofnunar Íslands liggur fyrir.][^1)^]
-    _[^1)^]"L. 80/2012, 59. gr.":2012080.html#g59 Ákvæðið tekur gildi 1. jan. 2013 skv. "58. gr. s.l.":2012080.html_
+    _[^1)^]"L. 80/2012, 59. gr.":2012080.html#g59_
  ■ *14. gr.* _Gildistími byggingarleyfis._
  □ Byggingarleyfi fellur úr gildi hafi byggingarframkvæmdir ekki hafist innan 12 mánaða frá útgáfu þess. Í reglugerð skal kveða nánar á um hvenær talið er að byggingarframkvæmdir séu hafnar.
  □ Nú stöðvast byggingarframkvæmdir í eitt ár eða lengur og getur leyfisveitandi þá að undangenginni aðvörun fellt byggingarleyfið úr gildi.
@@ -382,7 +386,7 @@ h2. Lög um mannvirki
     11. Nánari ákvæði um gagnasafn Mannvirkjastofnunar um mannvirki og mannvirkjagerð, hvað skal skrá þar og með hvaða hætti. Skoðunarhandbók skal vera hluti af gagnasafni Mannvirkjastofnunar og skal birt sem fylgiskjal við reglugerð. Í skoðunarhandbókinni skulu m.a. vera ákvæði um úttektir, eftirlitsaðferðir, skoðunaráætlanir og mismunandi eftirlitsstörf.
     12. Nánari ákvæði um byggingareftirlit og verksvið byggingarfulltrúa og Mannvirkjastofnunar.
     13. Nánari ákvæði um beitingu þvingunarúrræða skv. 55. - 57. gr.
-    _[^1)^]Rg. 112/2012_.
+    _[^1)^]Rg. 112/2012_, sbr. 1173/2012.
  ■ *61. gr.* _Gagnasafn Mannvirkjastofnunar._
  □ Mannvirkjastofnun skal starfrækja rafrænt gagnasafn fyrir upplýsingar um mannvirki og mannvirkjagerð um land allt í samræmi við ákvæði laga þessara. Gagnasafnið skal vera innan gagna- og upplýsingakerfis fasteignaskrár Þjóðskrár Íslands eða samtengjanlegt því. Byggingarfulltrúar og slökkvilið skulu hafa endurgjaldslausan aðgang að þeim hluta gagnasafns Mannvirkjastofnunar sem varðar mannvirki og mannvirkjagerð í umdæmi þeirra.
  ■ *62. gr.* _Um yfirstjórn mannvirkjamála á varnar- og öryggissvæðum._

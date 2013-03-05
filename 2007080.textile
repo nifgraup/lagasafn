@@ -7,7 +7,11 @@ h2. Vegalög
 <hr />
 
 
- *Tóku gildi 1. janúar 2008.* _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 123/2010":2010123.html (tóku gildi 1. jan. 2011), l. 162/2010 (tóku gildi 1. jan. 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. janúar 2008.* _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 123/2010":2010123.html (tóku gildi 1. jan. 2011), l. 162/2010 (tóku gildi 1. jan. 2011), l. 126/2011 (tóku gildi 30. sept. 2011) og "l. 120/2012":2012120.html (tóku gildi 5. des. 2012; koma til framkvæmda 1. júlí 2013).
+
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+
+<hr />
 
 
  *I. kafli.* *Almenn ákvæði.*
@@ -29,9 +33,9 @@ h2. Vegalög
 
  *II. kafli.* *Stjórn vegamála.*
 ■ *4. gr.* _Yfirstjórn vegamála._
- □ [Ráðherra][^1)^] fer með yfirstjórn vegamála. Vegagerðin annast þátt ríkisins samkvæmt lögum þessum og hefur eftirlit með framkvæmd þeirra, nema annað sé ákveðið í lögunum. Til að stjórna framkvæmdum í vegamálum skipar ráðherra vegamálastjóra til fimm ára í senn og veitir hann Vegagerðinni forstöðu.
-    _[^1)^]L. 126/2011, 465. gr._
- ■ *5. gr.* _Vegagerðin._
+ □ [Ráðherra][^1)^] fer með yfirstjórn vegamála. Vegagerðin annast þátt ríkisins samkvæmt lögum þessum og hefur eftirlit með framkvæmd þeirra, nema annað sé ákveðið í lögunum. Til að stjórna framkvæmdum í vegamálum skipar ráðherra vegamálastjóra til fimm ára í senn og veitir hann Vegagerðinni forstöðu.[^2)^]
+    _[^1)^]L. 126/2011, 465. gr. [^2)^]Málsliðurinn fellur úr gildi 1. júlí 2013 skv. "l. 120/2012, 17. gr.":2012120.html#g17_
+ ■ *5. gr.[^1)^]* _Vegagerðin._
  □ Helstu verkefni Vegagerðarinnar eru sem hér segir:
     a. Veghald þjóðvega.
     b. Aðstoð við ráðherra við mótun og framkvæmd stefnu stjórnvalda í samgöngumálum.
@@ -41,10 +45,10 @@ h2. Vegalög
     f. Rekstur ferja og flóabáta sem koma í stað þjóðvegasambands.
     g. Umsjón og eftirlit með útboðum á almenningssamgöngum sem njóta ríkisstyrkja.
     h. Umsjón með leyfisskyldri starfsemi samkvæmt öðrum lögum.
- □ Vegagerðinni er heimilt, með samþykki [ráðherra],[^1)^] að stofna félag eða félög sem hafa það hlutverk að sinna framkvæmda- og þjónustuverkefnum stofnunarinnar.
+ □ Vegagerðinni er heimilt, með samþykki [ráðherra],[^2)^] að stofna félag eða félög sem hafa það hlutverk að sinna framkvæmda- og þjónustuverkefnum stofnunarinnar.
  □ Vegagerðin fer með önnur verkefni sem leiðir af lögum þessum og öðrum lögum.
  □ Ráðherra skal kveða nánar á um verkefni og verksvið Vegagerðarinnar með reglugerð.
-    _[^1)^]L. 162/2010, 253. gr._
+    _[^1)^]Greinin fellur úr gildi 1. júlí 2013 skv. "l. 120/2012, 17. gr.":2012120.html#g17 [^2)^]L. 162/2010, 253. gr._
 
  *III. kafli.* *Flokkun vega.*
  ■ *6. gr.* _Vegakerfi._
@@ -241,7 +245,8 @@ h2. Vegalög
  □ Vegagerðin getur að höfðu samráði við viðkomandi sveitarfélag og landeiganda ákveðið að annast og kosta viðhald girðinga með einstökum köflum stofn- og tengivega, enda sé lausaganga búfjár á viðkomandi vegarkafla bönnuð.
  □ Þó skal veghaldari greiða allan viðhaldskostnað ef girðingin er reist eingöngu til þess að fría vegsvæði frá búfé, svo sem á afréttum og öðrum sameiginlegum sumarbeitilöndum búfjár.
  □ Viðkomandi sveitarfélag annast viðhald girðinga sem reistar eru skv. 3. mgr. 51. gr. og er heimilt að semja við veghaldara um viðhaldið.
- □ Heimilt er að kveða nánar á um girðingar meðfram vegum, viðhald, kostnaðarskiptingu og annað því tengt með reglugerð.
+ □ Heimilt er að kveða nánar á um girðingar meðfram vegum, viðhald, kostnaðarskiptingu og annað því tengt með reglugerð.[^1)^]
+    _[^1)^]Rg. 930/2012._
  ■ *53. gr.* _Girðingar og hlið yfir vegi._
  □ Enginn má gera girðingu yfir veg með hliði á vegi án leyfis veghaldara nema um einkaveg sé að ræða. Sama bann gildir þar sem mælt og markað hefur verið fyrir vegi, enda hafi veghaldari tilkynnt eiganda eða viðeigandi rétthöfum hvar mælt hefur verið.
  ■ *54. gr.* _Göng fyrir búfé._
@@ -257,7 +262,7 @@ h2. Vegalög
  □ Stjórnsýsluákvörðunum Vegagerðarinnar má skjóta til ráðherra. Um málsmeðferð fer samkvæmt ákvæðum stjórnsýslulaga.
  ■ *58. gr.* _Reglugerð._
  □ Ráðherra setur nánari ákvæði í reglugerð[^1)^] um framkvæmd laga þessara.
-    _[^1)^]Rg. 492/2009. Rg. 774/2010. Rgl. 1155/2011._
+    _[^1)^]Rg. 492/2009. Rg. 774/2010. Rgl. 1155/2011. Rg. 930/2012._
  ■ *59. gr.* _Refsing._
  □ Brot gegn lögum þessum og þeim reglugerðum sem settar verða samkvæmt þeim varða sektum nema þyngri refsing liggi við samkvæmt öðrum lögum. Bæta skal einnig á kostnað hins seka tjón það sem hann hefur unnið.
  □ ...[^1)^]

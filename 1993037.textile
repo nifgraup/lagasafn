@@ -7,7 +7,11 @@ h2. Stjórnsýslulög
 <hr />
 
 
- *Tóku gildi 1. janúar 1994.* _Breytt með_ l. 36/1999 (tóku gildi 1. maí 1999), l. 83/2000 (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001), l. 49/2002 (tóku gildi 6. maí 2002), l. 51/2003 (tóku gildi 7. apríl 2003), "l. 76/2003":2003076.html (tóku gildi 1. nóv. 2003), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. janúar 1994.* _Breytt með_ l. 36/1999 (tóku gildi 1. maí 1999), l. 83/2000 (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001), l. 49/2002 (tóku gildi 6. maí 2002), l. 51/2003 (tóku gildi 7. apríl 2003), "l. 76/2003":2003076.html (tóku gildi 1. nóv. 2003), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 126/2011 (tóku gildi 30. sept. 2011) og "l. 140/2012":2012140.html (tóku gildi 1. jan. 2013).
+
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *forsætisráðherra* eða *forsætisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+
+<hr />
 
 
  *I. kafli.* *Gildissvið laganna.*
@@ -67,10 +71,13 @@ h2. Stjórnsýslulög
  ■ *14. gr.* _Tilkynning um meðferð máls._
  □ Eigi aðili máls rétt á að tjá sig um efni þess skv. 13. gr. skal stjórnvald, svo fljótt sem því verður við komið, vekja athygli aðila á því að mál hans sé til meðferðar, nema ljóst sé að hann hafi fengið vitneskju um það fyrir fram.
  ■ *15. gr.* _Upplýsingaréttur._
- □ Aðili máls á rétt á því að kynna sér skjöl og önnur gögn er málið varða. Fari aðili fram á að fá afrit eða ljósrit af málsskjölum skal orðið við þeirri beiðni nema skjölin séu þess eðlis eða fjöldi þeirra svo mikill að það sé verulegum vandkvæðum bundið. [Ráðherra][^1)^] er heimilt að ákveða með sérstakri gjaldskrá[^2)^] hvað greiða skuli fyrir afrit og ljósrit sem veitt eru samkvæmt þessari grein.
+ □ [Aðili máls á rétt á aðgangi að skjölum og öðrum gögnum er mál varða. Ef við verður komið skal veita aðgang að gögnum á því formi eða sniði og á þeim tungumálum sem þau eru varðveitt á, nema þau séu þegar aðgengileg almenningi með rafrænum hætti. Þegar skjöl eru eingöngu varðveitt á rafrænu formi getur aðili valið á milli þess að fá þau afhent á því formi eða útprentuð á pappír.
+ □ Þegar skjöl eru mörg er heimilt að fela öðrum að sjá um ljósritun þeirra. Hið sama á við hafi sá sem afhendir gögn ekki aðstöðu til að ljósrita skjöl. Aðili skal þá greiða þann kostnað sem hlýst af ljósritun skjalanna. Hið sama gildir um afritun annarra gagna en skjala eftir því sem við á.
+ □ Ráðherra ákveður með gjaldskrá[^1)^] hvað greiða skuli fyrir ljósrit og afrit gagna sem veitt eru samkvæmt lögum þessum þannig að mætt sé þeim kostnaði sem af því hlýst, þ.m.t. efniskostnaði, og kostnaði vegna vinnu starfsmanna og búnaðar.
+ □ Ef fyrirsjáanlegt er að kostnaður við afritun eða ljósritun verði hærri en 10.000 kr. er heimilt að krefjast fyrirframgreiðslu.][^2)^]
  □ Lagaákvæði um þagnarskyldu takmarka ekki skyldu til þess að veita aðgang að gögnum samkvæmt þessari grein.
  □ Ákvæði þessarar greinar taka ekki til [rannsóknar sakamáls og meðferðar þess að öðru leyti].[^3)^] Þó [geta sakborningur og brotaþoli][^4)^] krafist þess að fá að kynna sér gögn málsins eftir að það hefur verið fellt niður eða því lokið með öðrum hætti.
-    _[^1)^]L. 126/2011, 176. gr. [^2)^]Gjaldskrá 307/2009. [^3)^]"L. 88/2008, 234. gr.":2008088.html#g234 [^4)^]L. 36/1999, 48. gr._
+    _[^1)^]Gjaldskrá 307/2009. [^2)^]"L. 140/2012, 36. gr.":2012140.html#g36 [^3)^]"L. 88/2008, 234. gr.":2008088.html#g234 [^4)^]L. 36/1999, 48. gr._
  ■ *16. gr.* _Gögn undanþegin upplýsingarétti._
  □ Réttur aðila máls til aðgangs að gögnum tekur ekki til:
     1. Fundargerða ríkisráðs og ríkisstjórnar, minnisgreina á ráðherrafundum eða skjala sem tekin hafa verið saman fyrir slíka fundi.

@@ -9,6 +9,10 @@ h2. Lög um endurskoðendur
 
  *Tóku gildi 1. janúar 2009.* _EES-samningurinn:_ XXII. viðauki tilskipun 2006/43/EB. _Breytt með_ l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l. 20/2010 (tóku gildi 31. mars 2010), l. 77/2011 (tóku gildi 29. júní 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+
+<hr />
+
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Skilgreiningar._
@@ -122,7 +126,7 @@ h2. Lög um endurskoðendur
  □ Endurskoðendaráð getur með rökstuddu áliti vísað máli til opinberrar rannsóknar.
  ■ *17. gr.* Endurskoðendaráð skal veita endurskoðendum eða endurskoðunarfyrirtækjum hæfilegan frest til að bæta úr óverulegum annmörkum sem kunna að koma í ljós við eftirlit skv. 15. gr.
  □ Nú telur endurskoðendaráð sýnt að endurskoðandi hafi í störfum sínum brotið gegn lögum þessum svo að ekki verði við unað og skal endurskoðendaráð í rökstuddu áliti veita viðkomandi aðila áminningu eða leggja til við ráðherra að réttindi endurskoðandans verði felld niður.
- ■ *18. gr.* Endurskoðendaráð skal setja sér starfsreglur sem ráðherra samþykkir.
+ ■ *18. gr.* Endurskoðendaráð skal setja sér starfsreglur sem ráðherra samþykkir.[^1)^]
  □ Ákvarðanir endurskoðendaráðs sæta ekki stjórnsýslukæru.
  □ Endurskoðendaráð skal jafnan leita álits sérfróðra manna utan ráðsins um mál sem eru utan við sérfræðisvið þeirra manna er ráðið skipa.
  □ Í hverju máli skal fullskipað endurskoðendaráð úrskurða.
@@ -130,6 +134,7 @@ h2. Lög um endurskoðendur
  □ Endurskoðendaráð lætur dómstólum, ákæruvaldi og stjórnvöldum í té umsagnir varðandi efni á sviði endurskoðunar.
  □ Endurskoðendaráð skal árlega gera skýrslu um störf sín og skal hún opin almenningi. Birta skal opinberlega og rekja alla úrskurði ráðsins skv. 16. gr.
  □ Sérhver endurskoðandi skal greiða í ríkissjóð árlegt gjald að fjárhæð 50.000 kr. til að standa straum af kostnaði við störf endurskoðendaráðs. Gjalddagi gjaldsins er 1. janúar og ef gjaldið er ekki greitt innan 30 daga frá gjalddaga skal greiða dráttarvexti af því skv. "III. kafla laga nr. 38/2001":2001038.html, um vexti og verðtryggingu, með síðari breytingum.
+    _[^1)^]Augl. 1117/2012._
 
  *VI. kafli.* *Óhæði endurskoðenda.*
  ■ *19. gr.* Í endurskoðunarverkefnum skal endurskoðandi og endurskoðunarfyrirtæki vera óháð viðskiptavini sínum, bæði í reynd og ásýnd. Endurskoðandi skal eigi framkvæma endurskoðun ef einhver þau tengsl eru á milli endurskoðandans og viðskiptavinar hans sem eru til þess fallin að vekja efa um óhæði hans hjá vel upplýstum þriðja aðila, svo sem atvinnutengsl, bein eða óbein fjárhagsleg tengsl eða viðskiptatengsl önnur en leiðir af endurskoðuninni.
@@ -154,7 +159,7 @@ h2. Lög um endurskoðendur
  □ Endurskoðendaráð setur reglur[^1)^] um framkvæmd gæðaeftirlits og val gæðaeftirlitsmanna svo að tryggt sé að þeir séu óháðir þeim sem eftirlitið beinist að.
  □ Endurskoðandi eða endurskoðunarfyrirtæki sem sætir gæðaeftirliti skal veita þeim sem sinnir gæðaeftirliti nauðsynlega aðstoð og aðgang að upplýsingum sem óskað er eftir við gæðaeftirlitið. Lagaákvæði um þagnarskyldu takmarka ekki skyldu til þess að veita upplýsingar og aðgang að gögnum.
  □ Endurskoðendaráð skal árlega birta upplýsingar um heildarniðurstöðu gæðaeftirlitsins.
-    _[^1)^]Rgl. 944/2011._
+    _[^1)^]Rgl. 771/2012._
 
  *VIII. kafli.* *Brottfall endurskoðunarréttinda.*
  ■ *23. gr.* Sá sem hefur löggildingu til endurskoðunarstarfa og fullnægir ekki skilyrðum laga til þess að njóta hennar skal án tafar tilkynna það til endurskoðendaráðs.

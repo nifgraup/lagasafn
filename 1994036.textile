@@ -9,6 +9,10 @@ h2. Húsaleigulög
 
  *Tóku gildi 1. janúar 1995.* _Breytt með_ l. 65/2006 (tóku gildi 27. júní 2006), l. 65/2010 (tóku gildi 27. júní 2010), l. 66/2010 (tóku gildi 1. júlí 2010), l. 162/2010 (tóku gildi 1. jan. 2011), l. 77/2011 (tóku gildi 29. júní 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *velferðarráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+
+<hr />
+
 
  *I. kafli.* *Gildissvið laganna o.fl.*
  ■ *1. gr.* Lög þessi gilda um samninga sem fjalla um afnot af húsi eða hluta af húsi gegn endurgjaldi, þar á meðal um framleigu húsnæðis.
@@ -206,11 +210,12 @@ h2. Húsaleigulög
     3. Ef húsnæðið spillist svo á leigutímanum af ástæðum sem ekki verða raktar til leigjanda að það nýtist eigi lengur til fyrirhugaðra nota eða teljist heilsuspillandi að mati heilbrigðisyfirvalda.
     4. Ef leigusali gerist sekur um ítrekaða, verulega eða sviksamlega vanrækslu á skyldum sínum til að halda húsnæðinu í leiguhæfu ástandi og framkvæma nauðsynlegar viðgerðir og viðhald fljótt og vel. Það er skilyrði riftunar samkvæmt þessum tölulið að leigjandi hafi áður skorað á leigusala að bæta úr vanefndum sínum og gefið honum sanngjarnan frest í því skyni.
     5. Ef réttur leigjanda er verulega skertur vegna laga eða annarra opinberra fyrirmæla eða vegna þess að hann fer í bága við kvaðir sem á eigninni hvíla. Leigusali ber og bótaábyrgð á beinu tjóni leigjanda af völdum slíkrar skerðingar ef hann vissi eða mátti um hana vita við gerð leigusamnings og lét hjá líða að gera leigjanda viðvart.
-    6. Ef eðlilegum afnotum eða heimilisfriði leigjanda er verulega raskað með ónæði og óþægindum vegna verulegra eða ítrekaðra brota annarra þeirra sem afnot hafa af sama húsi, á umgengnis- eða grenndarreglum, enda hafi leigusali þrátt fyrir áskoranir vanrækt skyldur sínar skv. 4. mgr. 31. gr. eða atvik séu að öðru leyti með þeim hætti að eðlilegt sé og sanngjarnt að leigjandi megi rifta leigusamningi. Slík atvik geta t.d. bæði varðað eðli brota og ónæðis og eins að frekari brot og óþægindi séu fyrirsjáanleg og líkleg.
+    6. Ef eðlilegum afnotum eða heimilisfriði leigjanda er verulega raskað með ónæði og óþægindum vegna verulegra eða ítrekaðra brota annarra þeirra sem afnot hafa af sama húsi, á umgengnis- eða grenndarreglum, enda hafi leigusali þrátt fyrir áskoranir vanrækt skyldur sínar skv. 4. mgr. 31. gr.[^1)^] eða atvik séu að öðru leyti með þeim hætti að eðlilegt sé og sanngjarnt að leigjandi megi rifta leigusamningi. Slík atvik geta t.d. bæði varðað eðli brota og ónæðis og eins að frekari brot og óþægindi séu fyrirsjáanleg og líkleg.
     7. Ef leigusali brýtur ítrekað eða verulega gegn rétti leigjanda til að hafa umsamin óskoruð umráð og afnot hins leigða, svo sem með því að hindra eða takmarka afnotin eða með óheimilum aðgangi og umgangi um hið leigða eða ef leigusali gerist sekur um refsivert athæfi gagnvart leigjanda eða fjölskyldu hans.
     8. Ef leigusali vanefnir frekar skyldur sínar samkvæmt leigusamningi eða lögum þessum á svo verulegan eða sviksamlegan hátt að riftun af hálfu leigjanda sé eðlileg eða nauðsynleg.
  □ Nú neytir leigjandi ekki réttar síns til riftunar skv. 1. mgr. innan tveggja mánaða frá því að honum varð kunnugt um vanefndir leigusala eða leigusali hefur að fullu bætt úr því sem aflaga fór og fellur réttur leigjanda til riftunar þá niður.
  □ Um bótarétt leigjanda á hendur leigusala vegna riftunar fer eftir almennum reglum kröfuréttar.
+    _[^1)^]Hér mun átt við 4. mgr. 30. gr._
  ■ *61. gr.* Leigusala er rétt að rifta leigusamningi í eftirtöldum tilvikum:
     1. Ef leigjandi greiðir ekki leiguna eða framlag til sameiginlegs kostnaðar skv. V. kafla á réttum gjalddaga og sinnir ekki innan sjö sólarhringa skriflegri áskorun leigusala um greiðslu, enda hafi slík áskorun verið send eftir gjalddaga og leigusali þar tekið fram að hann muni beita riftunarheimild sinni.
     2. Ef leigjanda ber að vinna leigugreiðslu af sér að hluta eða öllu leyti og honum verður á stórfelld vanræksla eða gerist sekur um meiri háttar handvömm við starfið.

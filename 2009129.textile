@@ -1,21 +1,25 @@
 <hr />
 
-h2. Lög um umhverfis- og auðlindaskatta[^1)^]
+h2. Lög um umhverfis- og auðlindaskatta
 
 *2009 nr. 129 23. desember*
 
 <hr />
 
-   _[^1)^]Lögin falla úr gildi 31. des. 2012 skv. 13. gr._
 
- *Tóku gildi 1. janúar 2010.* _Breytt með_ l. 164/2010 (tóku gildi 1. jan. 2011 nema 2., 6., 22. og 26. gr. sem tóku gildi 31. des. 2010; komu til framkvæmda skv. fyrirmælum í 29. gr.), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 164/2011 (tóku gildi 30. des. 2011 nema 1. - 2., 4. - 5., 7., 15. - 21., 24. - 27., 29. - 30. og 34. - 39. gr. sem tóku gildi 1. jan. 2012; komu til framkvæmda skv. fyrirmælum í 40. gr.).
+ *Tóku gildi 1. janúar 2010.* _Breytt með_ l. 164/2010 (tóku gildi 1. jan. 2011 nema 2., 6., 22. og 26. gr. sem tóku gildi 31. des. 2010; komu til framkvæmda skv. fyrirmælum í 29. gr.), l. 126/2011 (tóku gildi 30. sept. 2011), l. 164/2011 (tóku gildi 30. des. 2011 nema 1. - 2., 4. - 5., 7., 15. - 21., 24. - 27., 29. - 30. og 34. - 39. gr. sem tóku gildi 1. jan. 2012; komu til framkvæmda skv. fyrirmælum í 40. gr.) og l. 146/2012 (tóku gildi 1. jan. 2013 nema a- og d-liður 2. gr. sem taka gildi 1. sept. 2013 og c-liður 2. gr. og 34. gr. sem taka gildi 1. júlí 2013; komu til framkvæmda skv. fyrirmælum í 35. gr.).
+
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+
+<hr />
 
 
  *I. kafli.*
- _Kolefnisgjald á fljótandi jarðefnaeldsneyti._
- ■ *1. gr.* Greiða skal í ríkissjóð kolefnisgjald af fljótandi jarðefnaeldsneyti eftir því sem nánar er mælt fyrir um í lögum þessum. Með fljótandi jarðefnaeldsneyti er átt við gas- og dísilolíu, bensín, flugvéla- og þotueldsneyti og brennsluolíu.
- □ Fjárhæð kolefnisgjalds skal vera [5,75 kr.][^1)^] á hvern lítra af gas- og dísilolíu, [5,00 kr.][^1)^] á hvern lítra af bensíni, [4,10 kr.][^2)^] á hvern lítra af flugvéla- og þotueldsneyti og [7,10 kr.][^1)^] á hvert kílógramm af brennsluolíu.
-    _[^1)^]L. 164/2011, 15. gr. [^2)^]L. 164/2010, 15. gr._
+ _[Kolefnisgjald á kolefni af jarðefnauppruna.][^1)^]_
+    _[^1)^]L. 146/2012, 15. gr._
+ ■ *1. gr.* [Greiða skal í ríkissjóð kolefnisgjald af eldsneyti sem inniheldur kolefni af jarðefnauppruna og notað er á fljótandi eða loftkenndu formi eða í iðnaðarferlum þannig að sú notkun leiði til losunar koltvísýrings í andrúmsloftið. Með eldsneyti sem inniheldur kolefni af jarðefnauppruna á fljótandi eða loftkenndu formi er átt við gas- og dísilolíu, bensín, brennsluolíu og jarðolíugas og annað loftkennt kolvatnsefni.
+ □ Fjárhæð kolefnisgjalds skal vera 5,75 kr. á hvern lítra af gas- og dísilolíu, 5,00 kr. á hvern lítra af bensíni, 7,10 kr. á hvert kílógramm af brennsluolíu og 6,30 kr. á hvert kílógramm af jarðolíugasi og öðru loftkenndu kolvatnsefni.][^1)^]
+    _[^1)^]L. 146/2012, 15. gr._
  _Gjaldskyldir aðilar._
  ■ *2. gr.* Gjaldskyldir aðilar samkvæmt lögum þessum eru:
     1. Allir þeir sem flytja til landsins vöru sem gjaldskyld er samkvæmt lögum þessum, hvort sem er til endursölu eða eigin nota.
@@ -31,9 +35,10 @@ h2. Lög um umhverfis- og auðlindaskatta[^1)^]
  *II. kafli.*
  _Skattur af raforku og heitu vatni._
  ■ *5. gr.* Greiða skal í ríkissjóð sérstakan skatt af seldri raforku og heitu vatni eins og nánar er kveðið á um í lögum þessum.
- □ Fjárhæð skatts af raforku skal vera 0,12 kr. á hverja kílóvattstund (kWst) af seldri raforku.
+ □ Fjárhæð skatts af raforku skal vera [0,126 kr.][^1)^] á hverja kílóvattstund (kWst) af seldri raforku.[^2)^]
  □ Fjárhæð skatts af heitu vatni skal vera 2,0% af smásöluverði á heitu vatni.
  □ Heimilt er að miða innheimtu skatts af raforku og heitu vatni við áætlaða sölu.
+    _[^1)^]L. 146/2012, 16. gr. [^2)^]Ákvæðið fellur úr gildi 31. des. 2015 skv. 13. gr._
  _Skattskyldir aðilar._
  ■ *6. gr.* Skattskyldan nær til þeirra aðila sem selja raforku og heitt vatn á síðasta stigi viðskipta, þ.e. sölu til notenda, en notandi telst vera sá sem endurselur ekki raforku eða heitt vatn.
  □ Undanþegnir skattskyldu skv. 1. mgr. eru þeir sem selja raforku eða heitt vatn fyrir minna en 500.000 kr. á ári.
@@ -62,7 +67,8 @@ h2. Lög um umhverfis- og auðlindaskatta[^1)^]
  _Ýmis ákvæði og gildistaka._
  ■ *12. gr.* Að því leyti sem eigi er ákveðið í lögum þessum um álagningu, tilhögun bókhalds, eftirlit, upplýsingaskyldu, viðurlög, kærur og aðra framkvæmd varðandi skatt af raforku og heitu vatni, skv. II. kafla laga þessara, skulu gilda, eftir því sem við geta átt, ákvæði "laga nr. 50/1988":1988050.html, um virðisaukaskatt.
  □ Skattur, sem lagður er á samkvæmt lögum þessum, myndar gjaldstofn til virðisaukaskatts.
- ■ *13. gr.* Lög þessi öðlast gildi 1. janúar 2010. Lögin falla úr gildi 31. desember 2012.
+ ■ *13. gr.* Lög þessi öðlast gildi 1. janúar 2010. [2. mgr. 5. gr. laganna, skattur af raforku, fellur úr gildi 31. desember 2015.][^1)^]
+    _[^1)^]L. 146/2012, 17. gr._
 
 
 
