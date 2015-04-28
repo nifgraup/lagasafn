@@ -195,7 +195,7 @@ h2. Lög um verðbréfaviðskipti
     16. Fagfjárfesta skv. 23. og 24. gr.
  □ Reglur skv. 1. mgr. skulu taka mið af því hvort fjármálafyrirtæki á í viðskiptum við fagfjárfesti eða almennan fjárfesti.
  □ Fjármálaeftirlitið skal setja reglur[^3)^] um opinbera fjárfestingarráðgjöf, þar á meðal um óhlutdræga framsetningu ráðgjafar og birtingu, tilgreiningu á þeim sem setur fjárfestingarráðgjöfina fram eða gerir hana opinbera og hagsmunum og hagsmunaárekstrum, og skilgreiningu hugtaksins greining.
-    _[^1)^]"Rg. 994/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/994-2007. "Rg. 995/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/995-2007, sbr. "466/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/466-2014. [^2)^]"Rg. 706/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/706-2008. [^3)^]Rgl. 1013/2007._
+    _[^1)^]"Rg. 994/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/994-2007. "Rg. 995/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/995-2007, sbr. "466/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/466-2014 og "844/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/844-2014. [^2)^]"Rg. 706/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/706-2008. [^3)^]Rgl. 1013/2007._
 
  *III. kafli.* *Gagnsæi viðskipta.*
  ■ *27. gr.* _Gildissvið kaflans._
@@ -419,7 +419,7 @@ h2. Lög um verðbréfaviðskipti
     14. viðurkennda reikningsskilastaðla þriðju ríkja,
     15. upplýsingar í grunnlýsingu, t.d. varðandi undirliggjandi vísitölur verðbréfa.
  □ Að öðru leyti er ráðherra heimilt að setja ákvæði í reglugerð[^2)^] er samræmast ákvæðum tilskipunar 2003/71/EB og tilskipunar 2010/73/ESB um lýsingar og undirgerðir þeirra.][^3)^]
-    _[^1)^]"Rg. 836/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/836-2013. "Rg. 837/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/837-2013. [^2)^]"Rg. 243/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/243-2006, sbr. "169/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/169-2007, "324/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/324-2008, "215/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/215-2010, "721/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/721-2013, "722/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/722-2013 og "901/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/901-2013. [^3)^]"L. 48/2013, 11. gr.":/altext/stjt/2013.048.html_
+    _[^1)^]"Rg. 836/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/836-2013. "Rg. 837/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/837-2013. [^2)^]"Rg. 243/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/243-2006, sbr. "169/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/169-2007, "324/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/324-2008, "215/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/215-2010, "721/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/721-2013, "722/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/722-2013, "901/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/901-2013 og "953/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/953-2014. [^3)^]"L. 48/2013, 11. gr.":/altext/stjt/2013.048.html_
 
  *VII. kafli.* *Reglulegar upplýsingar útgefanda.*
  ■ *55. gr.* _Gildissvið._
@@ -1026,7 +1026,7 @@ h2. Lög um verðbréfaviðskipti
  □ Þá taka ákvæði laga þessara upp í innlendan rétt ákvæði tilskipunar Evrópuþingsins og ráðsins 2003/6/EB um innherjaviðskipti og markaðsmisnotkun (markaðssvik), tilskipunar framkvæmdastjórnarinnar 2003/124/EB um skilgreiningu og birtingu á innherjaupplýsingum og skilgreiningu á markaðsmisnotkun, tilskipunar 2003/125/EB um framsetningu og birtingu greininga og hvernig ráðleggingum um fjárfestingu í verðbréfum skuli hagað, ásamt ákvæðum um hvenær skylt sé að upplýsa um hagsmuni og hagsmunaárekstra, tilskipunar 2004/72/EB um viðurkennda markaðsframkvæmd, skilgreiningu á innherjaupplýsingum í tengslum við hrávöruafleiður, samningu innherjalista, tilkynningu um viðskipti stjórnenda og tilkynningu um grunsamleg viðskipti, reglugerðar (EB) nr. 2273/2003 um undanþágur fyrir endurkaupaáætlanir og verðjöfnun fjármálagerninga, tilskipunar Evrópuþingsins og ráðsins 2004/25/EB um yfirtökutilboð og tilskipunar ráðsins 2003/71/EBE [um lýsingar sem birta skal við almennt útboð verðbréfa eða þegar þau eru tekin til skráningar, eins og henni var breytt með tilskipun 2010/73/ESB].[^1)^]
     _[^1)^]"L. 48/2013, 16. gr.":/altext/stjt/2013.048.html_
  ■ *150. gr.* _Gildistaka._
- □ Lög þessi öðlast gildi 1. nóvember 2007. "...":http://www.althingi.is/vefur/lagas-hlp.html
+ □ Lög þessi öðlast gildi 1. nóvember 2007. "...":http://www.althingi.is/altext/stjt/2007.108.html
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Þeir aðilar sem hafa leyfi til reksturs markaðstorgs skv. "34. gr. a laga nr. 34/1998":1998034.html, um starfsemi kauphalla og skipulegra tilboðsmarkaða, skulu við gildistöku laga þessara fá leyfi til reksturs markaðstorgs fjármálagerninga (MTF) samkvæmt lögum þessum.

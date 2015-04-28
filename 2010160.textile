@@ -7,7 +7,7 @@ h2. Lög um mannvirki
 <hr />
 
 
- *Tóku gildi 1. janúar 2011.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 131/2011":/altext/stjt/2011.131.html (tóku gildi 1. jan. 2012) og "l. 80/2012":/altext/stjt/2012.080.html (tóku gildi 1. jan. 2013).
+ *Tóku gildi 1. janúar 2011.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 131/2011":/altext/stjt/2011.131.html (tóku gildi 1. jan. 2012) "l. 80/2012":/altext/stjt/2012.080.html (tóku gildi 1. jan. 2013), "l. 114/2014":/altext/stjt/2014.114.html (tóku gildi 4. des. 2014 nema 2. mgr. 6. gr. sem tekur gildi 1. jan. 2016; _EES-samningurinn:_ II. viðauki reglugerð 305/2011) og "l. 138/2014":/altext/stjt/2014.138.html (tóku gildi 31. des. 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *umhverfis- og auðlindaráðherra* eða *umhverfis- og auðlindaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -38,21 +38,19 @@ h2. Lög um mannvirki
     8. _Deiliuppdráttur:_ Uppdráttur þar sem gerð er nánari grein fyrir einstökum atriðum sem fram koma á aðal- og séruppdráttum og útfærslu þeirra í smáatriðum.
     9. _Eldvarnir:_ Allar fyrirbyggjandi aðgerðir sem miða að því að koma í veg fyrir eldsvoða eða hindra útbreiðslu elds.
     10. _Evrópskt tæknisamþykki:_ Matsskjal um hæfi byggingarvöru til tiltekinna nota, byggt á viðeigandi grunnkröfum. Evrópskt tæknisamþykki tekur til krafna sem gerðar eru til vörunnar, til aðferða til að sannprófa og votta samræmi við grunnkröfurnar og til upplýsinga um eiginleika vörunnar. Evrópusamtök um tæknisamþykki (EOTA) gefa út evrópskt tæknisamþykki.
-    11. _Grunnkröfur:_ Kröfur sem skilgreindar eru í viðauka við lög þessi.
-    12. _Hönnunarstjóri:_ Hönnuður aðaluppdrátta eða sá sem eigandi mannvirkis ræður til að bera ábyrgð á samræmingu hönnunargagna, sbr. 4. mgr. 23. gr.
-    13. _Mannvirki:_ Hvers konar jarðföst, manngerð smíð, svo sem hús og aðrar byggingar eða skýli, virkjanir, dreifi- og flutningskerfi rafveitna, hitaveitna, vatnsveitna og fjarskipta, fráveitumannvirki, umferðar- og göngubrýr í þéttbýli, stór skilti og togbrautir til fólksflutninga. Til mannvirkja teljast einnig tímabundnar og lausar byggingar sem ætlaðar eru til svefns eða daglegrar dvalar manna í fjóra mánuði eða lengur á sama stað, svo sem starfsmannabúðir og húsvagnar. Mannvirki á eða í hafi, vötnum og ám sem hafa fasta staðsetningu teljast einnig til mannvirkja samkvæmt lögum þessum.
-    14. _Markaðssetning byggingarvöru:_ Hvers konar dreifing eða sala byggingarvöru.
-    15. _Prófunarstofa:_ Faggiltur aðili, sbr. "lög nr. 24/2006":2006024.html, um faggildingu o.fl., sem annast prófun.
-    16. _Samhæfðir evrópskir staðlar:_ Staðlar sem samdir hafa verið með hliðsjón af grunnkröfum og Staðlasamtök Evrópu (CEN) eða Rafstaðlasamtök Evrópu (CENELEC) hafa samþykkt í umboði Evrópusambandsins og EFTA.
-    17. _Samræmisvottorð:_ Vottorð tilnefnds aðila sem staðfestir samræmi byggingarvöru við tækniákvæði.
-    18. _Samræmisyfirlýsing:_ Yfirlýsing framleiðanda um samræmi byggingarvöru við tækniákvæði.
-    19. _Samþykkt hönnunargögn:_ Hönnunargögn sem samþykkt hafa verið af útgefanda byggingarleyfis.
-    20. _Séruppdráttur:_ Uppdráttur sem sýnir m.a. útfærslu einstakra byggingar- og mannvirkjahluta og tæknibúnaðar og skipulag lóða, ásamt tilvísunum í staðla um efniskröfur og annað sem þarf til að fullgera mannvirki að utan og innan.
-    21. _Skipulagsáætlun:_ Áætlun um markmið og ákvarðanir viðkomandi stjórnvalda um framtíðarnotkun lands. Þar er gerð grein fyrir því að hvers konar framkvæmdum er stefnt og hvernig þær falla að landnotkun á tilteknu svæði. Forsendum ákvarðana er einnig lýst. Skipulagsáætlanir sveitarfélaga skiptast í þrjá flokka, svæðisskipulag, aðalskipulag og deiliskipulag. Skipulagsáætlun er sett fram í skipulagsgreinargerð og á skipulagsuppdrætti þar sem það á við.
-    22. _Skoðunarstofa:_ Skoðunarstofa sem hefur faggildingu og starfsleyfi samkvæmt ákvæðum laga þessara og "laga nr. 24/2006":2006024.html, um faggildingu o.fl., til að annast tiltekin verkefni á sviði byggingareftirlits.
-    23. _Starfsmannabúðir:_ Færanlegt húsnæði sem ætlað er til svefns, matar, daglegrar dvalar, vinnu eða samkomuhalds starfsfólks til skamms tíma í senn vegna atvinnustarfsemi.
-    24. _Tilnefndur aðili:_ Skoðunar-, prófunar- eða vottunarstofa sem stjórnvöld tilnefna til að annast samræmismat á byggingarvörum samkvæmt lögum þessum og hafa tilkynnt til Eftirlitsstofnunar EFTA og framkvæmdastjórnar ESB að sé hæf til að annast samræmismat fyrir byggingarvörur samkvæmt lögum þessum.
-    25. _Tækniákvæði:_ Samheiti yfir samhæfða evrópska staðla og evrópsk tæknisamþykki.
+    ...[^1)^]
+    [11. ][^1)^] _Hönnunarstjóri:_ Hönnuður aðaluppdrátta eða sá sem eigandi mannvirkis ræður til að bera ábyrgð á samræmingu hönnunargagna, sbr. 4. mgr. 23. gr.
+    [12. ][^1)^] _Mannvirki:_ Hvers konar jarðföst, manngerð smíð, svo sem hús og aðrar byggingar eða skýli, virkjanir, dreifi- og flutningskerfi rafveitna, hitaveitna, vatnsveitna og fjarskipta, fráveitumannvirki, umferðar- og göngubrýr í þéttbýli, stór skilti og togbrautir til fólksflutninga. Til mannvirkja teljast einnig tímabundnar og lausar byggingar sem ætlaðar eru til svefns eða daglegrar dvalar manna í fjóra mánuði eða lengur á sama stað, svo sem starfsmannabúðir og húsvagnar. Mannvirki á eða í hafi, vötnum og ám sem hafa fasta staðsetningu teljast einnig til mannvirkja samkvæmt lögum þessum.
+    [13. ][^1)^] _Markaðssetning byggingarvöru:_ Hvers konar dreifing eða sala byggingarvöru.
+    [14. ][^1)^] _Prófunarstofa:_ Faggiltur aðili, sbr. "lög nr. 24/2006":2006024.html, um faggildingu o.fl., sem annast prófun.
+    ...[^1)^]
+    [15. ][^1)^] _Samþykkt hönnunargögn:_ Hönnunargögn sem samþykkt hafa verið af útgefanda byggingarleyfis.
+    [16. ][^1)^] _Séruppdráttur:_ Uppdráttur sem sýnir m.a. útfærslu einstakra byggingar- og mannvirkjahluta og tæknibúnaðar og skipulag lóða, ásamt tilvísunum í staðla um efniskröfur og annað sem þarf til að fullgera mannvirki að utan og innan.
+    [17. ][^1)^] _Skipulagsáætlun:_ Áætlun um markmið og ákvarðanir viðkomandi stjórnvalda um framtíðarnotkun lands. Þar er gerð grein fyrir því að hvers konar framkvæmdum er stefnt og hvernig þær falla að landnotkun á tilteknu svæði. Forsendum ákvarðana er einnig lýst. Skipulagsáætlanir sveitarfélaga skiptast í þrjá flokka, svæðisskipulag, aðalskipulag og deiliskipulag. Skipulagsáætlun er sett fram í skipulagsgreinargerð og á skipulagsuppdrætti þar sem það á við.
+    [18. ][^1)^] _Skoðunarstofa:_ Skoðunarstofa sem hefur faggildingu og starfsleyfi samkvæmt ákvæðum laga þessara og "laga nr. 24/2006":2006024.html, um faggildingu o.fl., til að annast tiltekin verkefni á sviði byggingareftirlits.
+    [19. ][^1)^] _Starfsmannabúðir:_ Færanlegt húsnæði sem ætlað er til svefns, matar, daglegrar dvalar, vinnu eða samkomuhalds starfsfólks til skamms tíma í senn vegna atvinnustarfsemi.
+    ...[^1)^]
+    _[^1)^]"L. 114/2014, 25. gr.":/altext/stjt/2014.114.html#G25_
 
  *II. kafli.* *Stjórnvöld mannvirkjamála.*
  ■ *4. gr.* _Stjórn mannvirkjamála._
@@ -60,9 +58,9 @@ h2. Lög um mannvirki
  □ Sveitarstjórn ber ábyrgð á að stjórnsýsla og eftirlit byggingarfulltrúa sé í samræmi við ákvæði laga þessara. Byggingarfulltrúar annast eftirlit með mannvirkjagerð sem fellur undir 1. og 2. mgr. 9. gr.
     _[^1)^]"L. 126/2011, 538. gr.":/altext/stjt/2011.126.html_
  ■ *5. gr.* _Mannvirkjastofnun._
- □ Ríkið starfrækir stofnun, Mannvirkjastofnun. Mannvirkjastofnun hefur eftirlit með framkvæmd laga þessara og laga um brunavarnir. Stofnunin skal tryggja samræmingu á byggingareftirliti og eldvarnaeftirliti og starfsemi slökkviliða um land allt í samráði við viðkomandi stjórnvöld. Mannvirkjastofnun skal árlega gefa út skýrslu um stöðu og þróun mannvirkjagerðar í landinu. Önnur helstu verkefni Mannvirkjastofnunar eru:
+ □ Ríkið starfrækir stofnun, Mannvirkjastofnun. [Mannvirkjastofnun hefur eftirlit með framkvæmd laga þessara, laga um byggingarvörur og laga um brunavarnir.][^1)^] Stofnunin skal tryggja samræmingu á byggingareftirliti og eldvarnaeftirliti og starfsemi slökkviliða um land allt í samráði við viðkomandi stjórnvöld. Mannvirkjastofnun skal árlega gefa út skýrslu um stöðu og þróun mannvirkjagerðar í landinu. Önnur helstu verkefni Mannvirkjastofnunar eru:
     1. að annast gerð leiðbeininga, verklagsreglna og skoðunarhandbóka á fagsviði stofnunarinnar í samráði við Samband íslenskra sveitarfélaga og aðra hagsmunaaðila,
-    2. að bera ábyrgð á markaðseftirliti með byggingarvörum,
+    2. [að bera ábyrgð á markaðseftirliti með byggingarvörum samkvæmt lögum um byggingarvörur],[^1)^]
     3. að annast aðgengismál,
     4. að hafa eftirlit með framkvæmd "laga nr. 146/1996":1996146.html, um öryggi raforkuvirkja, neysluveitna og raffanga,
     5. að starfrækja rafrænt gagnasafn um mannvirki og mannvirkjagerð um land allt, sbr. 61. gr.,
@@ -78,6 +76,7 @@ h2. Lög um mannvirki
     15. að eiga samstarf við hliðstæðar stofnanir í nágrannalöndunum og á alþjóðavettvangi,
     16. að vera ráðuneytinu og öðrum stjórnvöldum til ráðgjafar um mannvirkjamál og veita umsögn um álitamál á því sviði,
     17. önnur verkefni sem ráðherra felur stofnuninni sérstaklega.
+    _[^1)^]"L. 114/2014, 25. gr.":/altext/stjt/2014.114.html#G25_
  ■ *6. gr.* _Forstjóri Mannvirkjastofnunar og annað starfslið._
  □ Við Mannvirkjastofnun skal starfa forstjóri skipaður af ráðherra til fimm ára í senn. Forstjóri skal hafa háskólamenntun á sviði mannvirkjamála.
  □ Forstjóri ber ábyrgð á stjórn, rekstri og starfsskipulagi Mannvirkjastofnunar gagnvart ráðherra og gerir rekstraráætlanir fyrir hana. Forstjóri ræður annað starfsfólk stofnunarinnar. Starfsmönnum Mannvirkjastofnunar er óheimilt að starfa við hönnun mannvirkja.
@@ -110,9 +109,10 @@ h2. Lög um mannvirki
  ■ *11. gr.* _Samþykkt byggingaráforma._
  □ Ef mannvirki er háð byggingarleyfi skv. 9. gr. fer byggingarfulltrúi eða eftir atvikum Mannvirkjastofnun yfir byggingarleyfisumsókn og gengur úr skugga um að aðaluppdrættir uppfylli ákvæði laga þessara og reglugerða sem settar hafa verið á grundvelli þeirra og að tilkynnt hafi verið um hönnunarstjóra mannvirkisins. Tilkynnir byggingarfulltrúi eða eftir atvikum Mannvirkjastofnun umsækjanda skriflega um samþykkt byggingaráforma hans, enda sé fyrirhuguð mannvirkjagerð í samræmi við skipulagsáætlanir á viðkomandi svæði. Tilkynning samkvæmt þessari grein veitir umsækjanda ekki heimild til að hefja byggingarframkvæmdir.
  ■ *12. gr.* _Sérstakar kröfur._
- □ Útgefanda byggingarleyfis er heimilt að krefjast prófunar, vottunar eða skoðunar á mannvirki, hlutum þess eða tæknibúnaði á kostnað umsækjanda ef rökstuddur grunur er um að það uppfylli ekki kröfur laga þessara og reglugerða sem settar eru samkvæmt þeim eða ef viðkomandi hlutur eða tæknibúnaður hefur ekki verið notaður áður við sambærilegar aðstæður eða á sambærilegan hátt. Standist mannvirkið ekki prófun, vottun eða skoðun skal útgefandi byggingarleyfis gefa byggjanda ákveðinn frest til að gera nauðsynlegar úrbætur. Að öðrum kosti getur hann gripið til viðeigandi þvingunarúrræða eða látið bæta úr því sem áfátt er á kostnað eiganda.
- □ Þegar sérstaklega stendur á getur leyfisveitandi við útgáfu byggingarleyfis sett skilyrði um að prófun, vottun eða skoðun skuli fara fram á kostnað umsækjanda eftir að mannvirki er tekið í notkun til að tryggja að uppfyllt séu ákvæði laga þessara og reglugerða sem settar eru samkvæmt þeim og að gerðar séu viðeigandi aðgerðir til úrbóta.
+ □ Útgefanda byggingarleyfis er heimilt að krefjast prófunar, vottunar eða skoðunar á mannvirki, hlutum þess eða tæknibúnaði á kostnað umsækjanda ef rökstuddur grunur er um að það uppfylli ekki kröfur laga þessara, [laga um byggingarvörur][^1)^] og reglugerða sem settar eru samkvæmt þeim eða ef viðkomandi hlutur eða tæknibúnaður hefur ekki verið notaður áður við sambærilegar aðstæður eða á sambærilegan hátt. Standist mannvirkið ekki prófun, vottun eða skoðun skal útgefandi byggingarleyfis gefa byggjanda ákveðinn frest til að gera nauðsynlegar úrbætur. Að öðrum kosti getur hann gripið til viðeigandi þvingunarúrræða eða látið bæta úr því sem áfátt er á kostnað eiganda.
+ □ Þegar sérstaklega stendur á getur leyfisveitandi við útgáfu byggingarleyfis sett skilyrði um að prófun, vottun eða skoðun skuli fara fram á kostnað umsækjanda eftir að mannvirki er tekið í notkun til að tryggja að uppfyllt séu ákvæði laga þessara, [laga um byggingarvörur][^1)^] og reglugerða sem settar eru samkvæmt þeim og að gerðar séu viðeigandi aðgerðir til úrbóta.
  □ Prófun, skoðun og vottun skv. 1. og 2. mgr. skulu fara fram í samræmi við viðeigandi staðla og skulu þeir sem þetta annast hafa til þess viðurkenningu frá Mannvirkjastofnun. Heimilt er útgefanda byggingarleyfis að krefjast þess að faggiltur aðili annist þetta, sbr. lög um faggildingu o."fl., nr. 24/2006":2006024.html. Séu ekki til staðlaðar prófunarlýsingar skal prófandi leggja fram skriflega lýsingu um prófunina ásamt rökstuðningi fyrir réttmæti prófunaraðferðar.
+    _[^1)^]"L. 114/2014, 25. gr.":/altext/stjt/2014.114.html#G25_
  ■ *13. gr.* _Útgáfa byggingarleyfis._
  □ Skilyrði fyrir útgáfu byggingarleyfis eru eftirfarandi:
     1. Mannvirkið og notkun þess samræmast skipulagsáætlunum á svæðinu.
@@ -214,9 +214,10 @@ h2. Lög um mannvirki
  □ Byggingarstjóra er ekki heimilt að taka að sér ábyrgð á hönnun eða einstökum verkþáttum mannvirkjagerðar sem hann stýrir. Sé um að ræða smærri byggingu til eigin nota, svo sem bílskúr eða viðbyggingu við íbúðarhús eða frístundahús, getur eigandi þó falið einum af iðnmeisturum eða hönnuðum mannvirkisins byggingarstjórn þess enda hafi viðkomandi starfsleyfi Mannvirkjastofnunar skv. 28. gr.
  □ Heimildir byggingarstjóra takmarkast af gerð mannvirkis og umfangi framkvæmda svo sem hér segir:
     1. Nýbygging einfalds atvinnuhúsnæðis, íbúðarhúsa, frístundahúsa og minni háttar mannvirkja auk breytinga, endurbyggingar eða niðurrifs á slíkum mannvirkjum.
-    2. Vatnsaflsvirkjanir, jarðvarmavirkjanir og önnur orkuver, olíuhreinsunarstöðvar og vatnsstíflur sem falla undir 1. viðauka við "lög nr. 106/2000":2000106.html, um mat á umhverfisáhrifum.
+    2. Vatnsaflsvirkjanir, jarðvarmavirkjanir og önnur orkuver, olíuhreinsunarstöðvar og vatnsstíflur sem falla undir [flokk A í 1. viðauka][^1)^] við "lög nr. 106/2000":2000106.html, um mat á umhverfisáhrifum.
     3. Önnur mannvirki en falla undir 1. og 2. tölul.
  □ Ráðherra birtir í reglugerð nánari tilgreiningu mannvirkja skv. 3. og 4. mgr.
+    _[^1)^]"L. 138/2014, 15. gr.":/altext/stjt/2014.138.html_
  ■ *28. gr.* _Starfsleyfi byggingarstjóra._
  □ Byggingarstjóri skal hafa starfsleyfi Mannvirkjastofnunar. Skilyrði fyrir útgáfu starfsleyfis er að umsækjandi uppfylli viðeigandi hæfniskröfur 2. - 4. mgr., hafi sótt sérstakt námskeið sem Mannvirkjastofnun stendur fyrir og hafi gæðastjórnunarkerfi samkvæmt nánari fyrirmælum í reglugerð, sbr. 31. gr. Starfsleyfi byggingarstjóra skal gefið út til tiltekins tíma, mest til tíu ára í senn. Missi byggingarstjóri starfsleyfi er honum óheimilt að fara með umsjón framkvæmda og skal hann þegar segja sig frá verkinu með skriflegri tilkynningu til eiganda og leyfisveitanda. Mannvirkjastofnun ber að upplýsa leyfisveitendur um niðurfellingu starfsleyfis byggingarstjóra.
  □ Húsasmíðameistarar, múrarameistarar, pípulagningameistarar, blikksmíðameistarar, rafvirkjameistarar og byggingariðnfræðingar geta öðlast starfsleyfi til þess að hafa umsjón með framkvæmdum sem falla undir 1. tölul. 4. mgr. 27. gr. Skulu þeir hafa hlotið löggildingu Mannvirkjastofnunar og hafa a.m.k. tveggja ára reynslu sem slíkir af störfum við byggingarframkvæmdir eða byggingareftirlit sem viðurkennd er af stofnuninni. Byggingarstjórar sem falla undir þessa málsgrein og hafa starfað við byggingarstjórn í þrjú ár og hafa allan þann tíma haft fullnægjandi gæðastjórnunarkerfi sem slíkir í samræmi við ákvæði laga þessara geta einnig öðlast starfsleyfi til að hafa umsjón með framkvæmdum sem falla undir 3. tölul. 4. mgr. 27. gr.
@@ -229,11 +230,11 @@ h2. Lög um mannvirki
  □ Byggingarstjóri skal í umboði eiganda annast samskipti við leyfisveitendur, eftirlitsaðila mannvirkis, hönnuði og iðnmeistara, auk annarra sem að verkinu koma. Skal hann sjá um að aflað sé nauðsynlegra heimilda vegna framkvæmdarinnar, eftir því sem lög og reglugerðir mæla fyrir.
  □ Byggingarstjóri fer yfir hönnunargögn með iðnmeisturum mannvirkis vegna heildarskipulags og samræmingar á mismunandi verkþáttum. Leiki vafi á túlkun hönnunargagna skal byggingarstjóri skera úr, eftir atvikum í samráði við hönnuði, og skrá niðurstöður í gæðastjórnunarkerfi sitt. Falli mannvirki undir 2. eða 3. tölul. 4. mgr. 27. gr. skal byggingarstjóri sjá til þess að skipulagðir samráðsfundir séu haldnir með eiganda og hönnuðum og skrá efni þeirra í gæðastjórnunarkerfi sitt.
  □ Byggingarstjóri hefur yfirumsjón með því að aflað sé samþykktar leyfisveitanda við breytingum sem gerðar eru á hönnun eða gerð mannvirkis í byggingu og að ávallt sé unnið í samræmi við nýjustu útgáfu samþykktra hönnunargagna.
- □ Byggingarstjóri skal hafa virkt eftirlit með því að þeir sem koma að byggingu mannvirkis fylgi samþykktum hönnunargögnum, verklýsingum og ákvæðum laga þessara og reglugerða sem settar eru á grundvelli þeirra. Verði byggingarstjóri við eftirlit var við ágalla á verki iðnmeistara eða hönnuðar skal hann gera viðkomandi aðvart og krefjast þess að úr sé bætt innan hæfilegs tíma. Athugasemdir byggingarstjóra skulu skráðar á viðeigandi hátt í gæðastjórnunarkerfi hans og annarra hlutaðeigandi. Sé athugasemdum byggingarstjóra ekki sinnt eða um ítrekaða vanrækslu að ræða skal hann tilkynna það eiganda. Komi verulegir ágallar á mannvirki í ljós við úttekt, við lok verkhluta eða framkvæmda, eða eftir að mannvirki er tekið í notkun, sem ekki hefur verið bætt úr og rekja má til stórfelldrar vanrækslu á verksviði einstakra iðnmeistara eða hönnuða, ber byggingarstjóri meðábyrgð á ágöllunum gagnvart eiganda, enda hefðu ágallarnir ekki átt að dyljast byggingarstjóra við eftirlit skv. 1. málsl.
+ □ Byggingarstjóri skal hafa virkt eftirlit með því að þeir sem koma að byggingu mannvirkis fylgi samþykktum hönnunargögnum, verklýsingum og ákvæðum laga þessara, [laga um byggingarvörur][^1)^] og reglugerða sem settar eru á grundvelli þeirra. Verði byggingarstjóri við eftirlit var við ágalla á verki iðnmeistara eða hönnuðar skal hann gera viðkomandi aðvart og krefjast þess að úr sé bætt innan hæfilegs tíma. Athugasemdir byggingarstjóra skulu skráðar á viðeigandi hátt í gæðastjórnunarkerfi hans og annarra hlutaðeigandi. Sé athugasemdum byggingarstjóra ekki sinnt eða um ítrekaða vanrækslu að ræða skal hann tilkynna það eiganda. Komi verulegir ágallar á mannvirki í ljós við úttekt, við lok verkhluta eða framkvæmda, eða eftir að mannvirki er tekið í notkun, sem ekki hefur verið bætt úr og rekja má til stórfelldrar vanrækslu á verksviði einstakra iðnmeistara eða hönnuða, ber byggingarstjóri meðábyrgð á ágöllunum gagnvart eiganda, enda hefðu ágallarnir ekki átt að dyljast byggingarstjóra við eftirlit skv. 1. málsl.
  □ Byggingarstjóri skal gera eftirlitsaðila viðvart um lok úttektarskyldra verkþátta og vera viðstaddur úttektir. Hann skal jafnframt tilkynna viðeigandi iðnmeisturum og hönnuðum með sannanlegum hætti um úttektir nema samningur þeirra á milli kveði á um annað.
  □ Hljóti eigandi eða annar þriðji maður tjón af völdum gáleysis byggingarstjóra í starfi ber hann skaðabótaábyrgð á því samkvæmt almennum reglum. Byggingarstjóri ber ekki ábyrgð á faglegri framkvæmd verkþátta á ábyrgð einstakra iðnmeistara eða hönnuða né því að iðnmeistarar og aðrir sem að verkinu koma uppfylli skyldur sínar samkvæmt verk- eða kaupsamningi.
- □ Byggingarstjóri skal hafa fullnægjandi ábyrgðartryggingu sem gildir í a.m.k. fimm ár frá lokum þeirra framkvæmda sem hann stýrði. Skaðabótaábyrgð byggingarstjóra fyrnist samkvæmt ákvæðum laga um fyrningu kröfuréttinda. Nánari ákvæði um ábyrgðartryggingu byggingarstjóra skulu koma fram í reglugerð.[^1)^]
-    _[^1)^]"Rg. 271/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/271-2014._
+ □ Byggingarstjóri skal hafa fullnægjandi ábyrgðartryggingu sem gildir í a.m.k. fimm ár frá lokum þeirra framkvæmda sem hann stýrði. Skaðabótaábyrgð byggingarstjóra fyrnist samkvæmt ákvæðum laga um fyrningu kröfuréttinda. Nánari ákvæði um ábyrgðartryggingu byggingarstjóra skulu koma fram í reglugerð.[^2)^]
+    _[^1)^]"L. 114/2014, 25. gr.":/altext/stjt/2014.114.html#G25 [^2)^]"Rg. 271/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/271-2014._
  ■ *30. gr.* _Byggingarstjóraskipti._
  □ Hætti byggingarstjóri umsjón með framkvæmdum áður en lokaúttekt fer fram skal hann tilkynna það á sannanlegan hátt til útgefanda byggingarleyfis. Fellur ábyrgð byggingarstjóra á verkinu niður vegna verkþátta sem ólokið er þegar leyfisveitandi tekur á móti slíkri tilkynningu. Eiganda er skylt að sjá til þess að framkvæmdir séu stöðvaðar þar til nýr byggingarstjóri hefur undirritað ábyrgðaryfirlýsingu og útgefandi byggingarleyfis hefur staðfest að hann uppfylli skilyrði 27., 28. og 29. gr. Leyfisveitandi skal án ástæðulauss dráttar frá móttöku tilkynningar samkvæmt þessu ákvæði gera úttekt á stöðu framkvæmda og skulu bæði fráfarandi byggingarstjóri, ef þess er kostur, og hinn nýi undirrita úttektina.
  □ Verði útgefandi byggingarleyfis þess var að byggingarframkvæmdum er fram haldið án byggingarstjóra skal hann tafarlaust stöðva framkvæmdir og loka vinnusvæði ef nauðsyn krefur.
@@ -241,12 +242,13 @@ h2. Lög um mannvirki
  □ Byggingarstjóri skal í upphafi hvers byggingarleyfisskylds verks skilgreina það innan síns gæðastjórnunarkerfis, sbr. 28. gr. Gæðastjórnunarkerfi byggingarstjóra skal a.m.k. fela í sér staðfestingu á hæfni byggingarstjóra og á endurmenntun hans, skráningu á ákvörðunum hans við einstakar framkvæmdir, skrá yfir úttektir og niðurstöður þeirra, skrá yfir samskipti og leiðbeiningar byggingaryfirvalda og eftirlitsaðila, skrá yfir athugasemdir við störf iðnmeistara, skrá yfir athugasemdir til hönnuða vegna hönnunargagna, skrá um innra eftirlit byggingarstjóra með framkvæmdinni og lýsingu á því, lýsingu á lokaúttekt og undirbúningi hennar þar sem m.a. er gengið frá skýrslu yfir allar úttektir, þ.m.t. öryggisúttekt, lýsingu á verki og samþykkt hönnunargögn.
  ■ *32. gr.* _Ábyrgð og verksvið iðnmeistara._
  □ Byggingarstjóri skal tilkynna útgefanda byggingarleyfis skriflega um þá húsasmíðameistara, múrarameistara, pípulagningameistara, rafvirkjameistara, blikksmíðameistara, stálvirkjameistara, málarameistara og veggfóðrarameistara sem tekið hafa að sér að bera ábyrgð á einstökum verkþáttum framkvæmdar og nauðsynlegt er að komi að viðkomandi verki, og leggja fram undirritaða ábyrgðaryfirlýsingu þeirra, sbr. 4. tölul. 1. mgr. 13. gr. Skal slík staðfesting liggja fyrir áður en byggingarleyfi er gefið út. Ekki þarf þó að tilkynna um málarameistara eða veggfóðrarameistara vegna byggingar íbúðarhúss, frístundahúss, bílskúrs, eða viðhalds og viðbyggingar slíkra mannvirkja, til eigin nota eiganda.
- □ Iðnmeistari ber ábyrgð á því gagnvart eiganda mannvirkis að þeir verkþættir sem hann tekur að sér séu í samræmi við viðurkennda verkhætti, samþykkta uppdrætti, verklýsingar og ákvæði laga þessara og reglugerða sem settar eru samkvæmt þeim. Skaðabótaábyrgð iðnmeistara fyrnist samkvæmt ákvæðum laga um fyrningu kröfuréttinda.
+ □ Iðnmeistari ber ábyrgð á því gagnvart eiganda mannvirkis að þeir verkþættir sem hann tekur að sér séu í samræmi við viðurkennda verkhætti, samþykkta uppdrætti, verklýsingar og ákvæði laga þessara, [laga um byggingarvörur][^1)^] og reglugerða sem settar eru samkvæmt þeim. Skaðabótaábyrgð iðnmeistara fyrnist samkvæmt ákvæðum laga um fyrningu kröfuréttinda.
  □ Þeir iðnmeistarar einir geta borið ábyrgð á einstökum verkþáttum við mannvirkjagerð sem hlotið hafa til þess löggildingu Mannvirkjastofnunar. Þeir iðnmeistarar geta hlotið slíka löggildingu sem hafa meistarabréf og hafa lokið prófi frá meistaraskóla eða hafa a.m.k. sambærilega menntun á hlutaðeigandi sviði.
  □ Löggilding til handa rafvirkjameisturum sem gefin er út á grundvelli "laga nr. 146/1996":1996146.html, um öryggi raforkuvirkja, neysluveitna og raffanga, jafngildir löggildingu skv. 3. mgr.
  □ Mannvirkjastofnun heldur skrá yfir löggilta iðnmeistara og skal hún varðveitt í gagnasafni stofnunarinnar.
  □ Iðnmeistarar skulu hafa gæðastjórnunarkerfi sem feli a.m.k. í sér staðfestingu á hæfni iðnmeistara, skrá yfir úttektir og niðurstöður þeirra og skrá yfir athugasemdir byggingarstjóra, auk skrár um innra eftirlit iðnmeistarans og lýsingu á því í samræmi við nánari ákvæði í reglugerð.
  □ Iðnmeistari skal tilkynna Mannvirkjastofnun um gæðastjórnunarkerfi sitt til skráningar í gagnasafn stofnunarinnar.
+    _[^1)^]"L. 114/2014, 25. gr.":/altext/stjt/2014.114.html#G25_
  ■ *33. gr.* _Iðnmeistaraskipti._
  □ Hætti iðnmeistari umsjón með verkþætti áður en verki er lokið skal byggingarstjóri sjá um að nýr iðnmeistari taki við störfum án tafar og tilkynna það útgefanda byggingarleyfis.
  □ Byggingarstjóri skal sjá til þess að framkvæmdir við þá verkþætti sem fráfarandi iðnmeistari bar ábyrgð á og hafði umsjón með séu stöðvaðar þar til nýr iðnmeistari hefur undirritað ábyrgðaryfirlýsingu. Skal byggingarstjóri gera úttekt á þeim verkþáttum sem fráfarandi iðnmeistari hafði umsjón með og skulu bæði fráfarandi iðnmeistari, ef þess er kostur, og hinn nýi undirrita úttektina. Nýr iðnmeistari ber ábyrgð á þeim verkþáttum sem unnir eru eftir að hann tók við starfi.
@@ -271,64 +273,8 @@ h2. Lög um mannvirki
  □ Uppdrættir sem útgefandi byggingarleyfis hefur samþykkt og áritað skulu ásamt útgefnu byggingarleyfi ætíð liggja fyrir á byggingarstað og vera eftirlitsmönnum aðgengilegir.
  □ Liggi rökstuddur grunur fyrir um að fullbyggðu mannvirki sé verulega áfátt með tilliti til ákvæða laga og reglugerða um byggingarmál skal eftirlitsaðila heimill aðgangur þar til eftirlits. Án samþykkis eiganda eða umráðamanns er þó eigi heimilt að fara í þessum tilgangi inn í íbúðarhús sem tekið hefur verið í notkun, nema að fengnum úrskurði dómara.
 
- *VIII. kafli.* *Viðskipti með byggingarvörur.*
- ■ *38. gr.* _Framleiðandi og dreifandi._
- □ Í þessum kafla telst framleiðandi byggingarvöru vera sá sem býr til fullunna vöru, býr til hluta vöru eða lætur af hendi hráefni eða vinnur eða aflar afurða úr náttúrunni, að því tilskildu að hann hafi staðfestu á Evrópska efnahagssvæðinu eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum. Einnig telst framleiðandi vera sá sem merkir framleiðsluvöruna með nafni sínu, vörumerki eða öðru kennimarki eða sá sem endurgerir vöruna. Hafi framleiðandi vöru ekki staðfestu á Evrópska efnahagssvæðinu eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu skal fulltrúi hans teljast framleiðandi. Hafi hvorki fulltrúi framleiðanda né framleiðandi staðfestu á Evrópska efnahagssvæðinu eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu skal innflytjandi teljast framleiðandi.
- □ Dreifandi telst hver sá í aðfangakeðjunni með starfsemi sem ekki hefur áhrif á öryggiseiginleika framleiðsluvöru.
- ■ *39. gr.* _Markaðssetning byggingarvöru._
- □ Markaðssetning byggingarvöru er einungis heimil ef varan uppfyllir eftirfarandi skilyrði:
-    1. Varan hentar til áformaðra nota. Í því felst að varan hafi þá eiginleika að mannvirki sem á að fella hana inn í, setja saman við eða nota við geti ef það er rétt hannað og byggt fullnægt grunnkröfum sem skilgreindar eru í viðauka við lög þessi. Mannvirkið skal fullnægja grunnkröfunum þann tíma sem eðlilegt og fjárhagslega hagkvæmt er að nýta það.
-    2. Varan uppfyllir kröfur eftirfarandi tækniákvæða:
-    a. samhæfðra evrópskra staðla, eða
-    b. evrópsks tæknisamþykkis, eða
-    c. innlends tækniákvæðis sem uppfyllir grunnkröfur sem skilgreindar eru í viðauka við lög þessi og Eftirlitsstofnun EFTA hefur samþykkt, í þeim tilvikum þegar samhæfðir evrópskir staðlar eða evrópskt tæknisamþykki eru ekki til.
-    3. Ef til eru samhæfðir evrópskir staðlar eða evrópskt tæknisamþykki fyrir viðkomandi byggingarvöru skal hún að auki merkt með CE-merki í samræmi við ákvæði 43. gr.
- □ Mat á því hvort byggingarvara uppfyllir kröfur 1. og 2. tölul. 1. mgr. skal tilnefndur aðili með staðfestu á Evrópska efnahagssvæðinu í samræmi við ákvæði 41. gr. annast áður en varan er markaðssett. Byggingarvara telst uppfylla kröfur 1. og 2. tölul. 1. mgr. ef hún er réttilega merkt með CE-merkinu í samræmi við ákvæði 43. gr.
- ■ *40. gr.* _Evrópskt tæknisamþykki._
- □ Óski framleiðandi eftir að fá evrópskt tæknisamþykki fyrir byggingarvöru skal hann greiða allan kostnað við öflun þess.
- □ Ráðherra setur í reglugerð nánari ákvæði um evrópsk tæknisamþykki.
- ■ *41. gr.* _Staðfesting á samræmi._
- □ Tilnefndur aðili með staðfestu á Evrópska efnahagssvæðinu annast mat á samræmi byggingarvöru við tækniákvæði. Framleiðandi eða umboðsmaður hans með staðfestu á Evrópska efnahagssvæðinu ber ábyrgð á að samræmismat byggingarvöru fari fram og greiðir allan kostnað af matinu, sbr. 39. gr.
- □ [Ráðherra][^1)^] setur reglugerð um samræmismat byggingarvöru á grundvelli ákvæða EES-samningsins sem gildi hafa hér á landi. Heimilt er í reglugerðinni að gera þá kröfu að framleiðandi hafi innra eftirlitskerfi í verksmiðjunni til að tryggja að framleiðslan sé í samræmi við viðeigandi tækniákvæði eða að gera þá kröfu að auk innra eftirlitskerfis framleiðanda hafi tilnefndur aðili eftirlit með kerfinu eða vörunni sjálfri, sé mælt svo fyrir í tækniákvæðum fyrir viðkomandi byggingarvöru.
- □ Samræmisyfirlýsing framleiðanda eða samræmisvottorð veitir ábyrgðaraðila með staðfestu innan EES rétt til að setja CE-merkið á vöruna, sbr. 43. gr., áfestan merkimiða og umbúðir eða meðfylgjandi viðskiptaskjöl. Samræmisvottorð og samræmisyfirlýsing vegna byggingarvöru sem markaðssett er á Íslandi skulu vera á íslensku.
-    _[^1)^]"L. 126/2011, 538. gr.":/altext/stjt/2011.126.html_
- ■ *42. gr.* _Tilnefndur aðili._
- □ Skoðunar-, prófunar- og vottunarstofur geta óskað eftir því að annast samræmismat sem tilnefndir aðilar. Tilnefndur aðili skal hafa faggildingu og faglega þekkingu til að meta samræmi viðkomandi byggingarvöru við grunnkröfur laga þessara. Um faggildinguna fer samkvæmt "lögum nr. 24/2006":2006024.html, um faggildingu o.fl., og ákvæðum laga þessara.
- □ [Ráðherra][^1)^] annast tilkynningar um tilnefnda aðila til viðeigandi stjórnvalda á Evrópska efnahagssvæðinu.
- □ Tilnefndur aðili skal hafa hlutleysi þriðja aðila og vera án allra hagsmunatengsla við viðskiptavini sína og aðra hagsmunahópa. Hann má ekki stunda eftirlit með byggingarvöru á markaði.
- □ Sé tilnefndur aðili ekki opinber stofnun eða ríkisfyrirtæki skal hann hafa ábyrgðartryggingu sem nær til skaðabótaábyrgðar gagnvart öllum þeim sem hann kann að valda tjóni með starfsemi sinni. Tilnefndur aðili skal taka þátt í samstarfi tilnefndra aðila á Evrópska efnahagssvæðinu.
- □ Ráðherra setur í reglugerð nánari ákvæði um kröfur sem gerðar eru til tilnefndra aðila.
-    _[^1)^]"L. 126/2011, 538. gr.":/altext/stjt/2011.126.html_
- ■ *43. gr.* _Notkun CE-merkis._
- □ Einungis er heimilt að merkja byggingarvöru með CE-merkinu ef:
-    a. varan samræmist samhæfðum evrópskum stöðlum, eða
-    b. varan samræmist evrópsku tæknisamþykki, eða
-    c. varan samræmist innlendu tækniákvæði sem uppfyllir grunnkröfur sem skilgreindar eru í viðauka við lög þessi og Eftirlitsstofnun EFTA hefur samþykkt, í þeim tilvikum þegar samhæfðir evrópskir staðlar eða evrópskt tæknisamþykki eru ekki til.
- □ Óheimilt er að festa á vörur merki sem líklegt er að villi um fyrir þriðja aðila hvað varðar þýðingu og form CE-merkisins. Festa má hvers kyns aðrar merkingar á vörurnar eða merkiplötu að því tilskildu að þær hindri ekki að CE-merkið sjáist vel og sé vel læsilegt.
- □ Framleiðandi eða umboðsmaður hans með staðfestu á Evrópska efnahagssvæðinu ber ábyrgð á réttri notkun merkisins í samræmi við ákvæði laga þessara og á því að CE-merkið sé sett á vöruna, áfestan merkimiða, umbúðir eða meðfylgjandi viðskiptaskjöl.
- □ Þegar byggingarvara lýtur einnig ákvæðum annarra laga og reglugerða sem taka til annarra þátta og kveða einnig á um að festa skuli á hana CE-merki skal koma fram að gengið sé út frá því að viðkomandi vara sé í samræmi við ákvæði þeirra reglugerða.
- □ Ráðherra setur í reglugerð nánari ákvæði um CE-merkingar byggingarvöru.
- ■ *44. gr.* _Opinbert markaðseftirlit._
- □ Mannvirkjastofnun hefur eftirlit með því að byggingarvara á markaði uppfylli ákvæði laga þessara og reglugerða settra samkvæmt þeim. Stofnunin fylgist með byggingarvöru á markaði, aflar á skipulegan hátt upplýsinga um slíka vöru og tekur við ábendingum þess efnis frá byggingarfulltrúum, hönnuðum, byggingarstjórum, iðnmeisturum, neytendum og öðrum aðilum.
- □ Mannvirkjastofnun getur falið faggiltri skoðunarstofu að annast markaðseftirlit eða faggiltri prófunarstofu að prófa og meta hvort byggingarvara uppfyllir ákvæði laga þessara. Um faggildinguna gilda ákvæði "laga nr. 24/2006":2006024.html, um faggildingu o.fl. Beiting réttarúrræða skv. 46. gr. skal vera í höndum Mannvirkjastofnunar.
- □ Mannvirkjastofnun getur haft samstarf við tollyfirvöld um markaðseftirlit með byggingarvöru við innflutning.
- □ Ráðherra setur í reglugerð nánari ákvæði um markaðseftirlit með byggingarvöru.
- ■ *45. gr.* _Heimild til skoðunar og upplýsingaskylda._
- □ Mannvirkjastofnun eða eftir atvikum þeim sem hefur verið falið markaðseftirlit með byggingarvörum, sbr. 2. mgr. 44. gr., er heimilt að skoða byggingarvöru hjá ábyrgðaraðila og seljanda, taka sýnishorn af byggingarvöru til rannsókna og krefja þá um allar nauðsynlegar upplýsingar, svo sem aðgang að skrá yfir þá sem hafa vöruna á boðstólum, samræmisvottorð, samræmisyfirlýsingar, prófunarskýrslur og tæknilegar upplýsingar.
- □ Framleiðandi eða dreifandi ber kostnað vegna þeirra sýnishorna sem tekin eru til rannsóknar skv. 1. mgr. Að lokinni rannsókn skal sýnishornum skilað eða þau eyðilögð með öruggum hætti eftir atvikum. Sýnishorn vöru samkvæmt þessari grein er að jafnaði eitt eintak vöru eða lágmarksfjöldi sem nauðsynlegur er til rannsóknar.
- □ Framleiðandi eða dreifandi ber allan kostnað af afturköllun vöru. Sé vara ekki í samræmi við settar reglur skal hann bera þann kostnað sem hlýst af skoðun, rannsókn og prófun, svo og annan kostnað. Framleiðandi eða dreifandi greiðir allan kostnað af tilkynningum um hættulega vöru sem beint er til almennings, svo sem kostnað við tilkynningar í fjölmiðlum. Framleiðanda eða dreifanda er heimilt að annast tilkynningu um þetta til almennings enda sé það gert með þeim hætti að eðlileg varnaðaráhrif náist.
- □ Sá sem ber ábyrgð á markaðssetningu byggingarvöru hér á landi skal halda skrá yfir allar vörur sem hann hefur á boðstólum og hafa tiltæk afrit af tæknigögnum vörunnar. Enn fremur skal hann að beiðni Mannvirkjastofnunar afhenda skrá með upplýsingum um birgja og þá sem bjóða fram vörur hans ef það er að mati stofnunarinnar nauðsynlegt í tengslum við rannsókn máls.
- ■ *46. gr.* _Réttarúrræði Mannvirkjastofnunar._
- □ Mannvirkjastofnun getur afturkallað, tekið af markaði eða bannað sölu eða afhendingu byggingarvöru ef hún uppfyllir ekki formleg skilyrði laga þessara og reglugerða settra samkvæmt þeim, svo sem um merkingar, leiðbeiningar, samræmisvottorð, samræmisyfirlýsingar eða prófunar- og skoðunarskýrslur.
- □ Leiki rökstuddur grunur á að byggingarvara sé ekki í samræmi við tækniákvæði getur Mannvirkjastofnun ákveðið tímabundið bann við sölu eða afhendingu hennar á meðan rannsókn, sem ekki skal standa lengur en fjórar vikur, fer fram. Þó er heimilt að framlengja bannið um allt að fjórar vikur ef sérstakar ástæður vegna rannsóknarinnar krefjast þess að bannið verði framlengt.
- □ Ef í ljós kemur að vara sem lýst hefur verið yfir að samræmist ákvæðum laga þessara og reglugerða settra samkvæmt þeim uppfyllir ekki viðeigandi tækniákvæði skal Mannvirkjastofnun innkalla þá vöru eða banna eða takmarka markaðssetningu hennar.
- ■ *47. gr.* _Förgun vöru og lagfæring._
- □ Mannvirkjastofnun er heimilt í tengslum við beitingu ákvæða 46. gr. að skylda framleiðanda eða dreifanda til að eyðileggja öll eintök vöru og farga henni með öruggum hætti. Ávallt skal þó áður gefa ábyrgðaraðila kost á að bæta úr ágöllum vöru eða fylgigögnum hennar innan hæfilegs frests nema varan teljist sérlega hættuleg.
- ■ *48. gr.* _Tilkynningarskylda._
- □ Verði byggingarfulltrúi, hönnuður, byggingarstjóri eða iðnmeistari var við að á markaði sé byggingarvara sem ekki uppfyllir kröfur laga þessara skal hann tilkynna um það til Mannvirkjastofnunar.
- ■ *49. gr.* _Notkun byggingarvöru og ábyrgð eiganda mannvirkis._
- □ Byggingarvörur til notkunar í eða við mannvirkjagerð skulu uppfylla skilyrði 39. gr.
- □ Eigandi mannvirkis ber ábyrgð á að við byggingu þess og rekstur sé einungis notuð byggingarvara sem uppfyllir ákvæði laga þessara.
+ *VIII. kafli. ...[^1)^]*
+    _[^1)^]"L. 114/2014, 25. gr.":/altext/stjt/2014.114.html#G25_
 
  *IX. kafli.* *Gjaldtaka og leyfisgjöld.*
  ■ *50. gr.* _Byggingaröryggisgjald._
@@ -403,7 +349,7 @@ h2. Lög um mannvirki
  □ Lög þessi öðlast gildi 1. janúar 2011.
  □ Reglugerðir og önnur stjórnvaldsfyrirmæli sem sett eru samkvæmt eldri lögum skulu halda gildi sínu að svo miklu leyti sem þau fara ekki í bága við lög þessi.[^1)^]
     _[^1)^]Sjá "nú: Rg. 621/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/621-1997. "Rg. 737/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/737-1997. "Rg. 747/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/747-1997, sbr. "354/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/354-2004. "Rg. 400/1998":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/400-1998, sbr. "47/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/047-2001 og "420/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/420-2002. "Rg. 168/2000":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/168-2000, sbr. "188/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/188-2001. Augl. 847/2000._
- ■ *65. gr.* _Breytingar á öðrum lögum. "...":http://www.althingi.is/vefur/lagas-hlp.html_
+ ■ *65. gr.* _Breytingar á öðrum lögum. "...":http://www.althingi.is/altext/stjt/2010.160.html_
  ■ *Ákvæði til bráðabirgða.*
     1. Þrátt fyrir ákvæði 8. gr. halda starfandi byggingarfulltrúar við gildistöku laga þessara fullum rétti sínum til starfa, sbr. þó 3. tölul.
     2. Mannvirkjastofnun og byggingarfulltrúar hafa frest til 1. janúar 2018 til að afla sér faggildingar í samræmi við ákvæði 19. gr., sbr. 21. gr. Fyrir 1. janúar 2015 skulu Mannvirkjastofnun og byggingarfulltrúar hafa komið sér upp gæðastjórnunarkerfi. Hafi gæðastjórnunarkerfi byggingarfulltrúa ekki hlotið vottun faggiltrar vottunarstofu skal Mannvirkjastofnun til 1. janúar 2018 gera úttekt á gerð og virkni gæðastjórnunarkerfanna. Byggingarfulltrúar og starfsmenn þeirra sem eru starfandi við gildistöku laga þessara skulu teljast uppfylla skilyrði a - c-liðar 1. mgr. 21. gr.
@@ -412,43 +358,13 @@ h2. Lög um mannvirki
     5. Hafi þeir sem taldir eru upp í 25. gr. þegar við gildistöku laga þessara lokið hluta þess reynslutíma sem nauðsynlegur er samkvæmt núgildandi lögum til að öðlast löggildingu skulu þeir eiga kost á að ljúka honum eftir eldri reglum.
     6. Þeir sem sannanlega hafa tekið að sér byggingarstjórn mannvirkis í gildistíð eldri laga teljast uppfylla skilyrði 2. og 3. mgr. 28. gr. og mega því annast byggingarstjórn þeirra mannvirkja sem falla undir 1. og 3. tölul. 4. mgr. 27. gr. laga þessara. Til að starfa sem byggingarstjórar samkvæmt ákvæðum laga þessara skulu þeir hafa viðeigandi gæðastjórnunarkerfi og afla sér starfsleyfis Mannvirkjastofnunar.
     7. Þrátt fyrir ákvæði 5. tölul. 1. mgr. 13. gr. hafa hönnuðir, hönnunarstjórar, byggingarstjórar og iðnmeistarar frest til 1. janúar 2015 til að uppfylla ákvæði 24. gr., 31. gr. og 6. mgr. 32. gr. um gæðastjórnunarkerfi.
-    8. Á meðan ekki eru til samhæfðir evrópskir staðlar og/eða evrópskt tæknisamþykki fyrir byggingarvöru er markaðssetning hennar heimil, þrátt fyrir ákvæði 39. gr., ef henni fylgir vottun eða umsögn um að hún uppfylli kröfur reglugerða sem settar eru á grundvelli laga þessara, standist staðla og falli að verklagi og séríslenskum aðstæðum. Hliðsjón skal höfð af kröfum sem settar eru fram í ákvörðunum framkvæmdastjórnar Evrópusambandsins um hlutverk framleiðanda og tilnefnds aðila við staðfestingu á samræmi við kröfur. Ef ekki liggja fyrir samþykktir frá framkvæmdastjórn Evrópusambandsins um einstaka vöruflokka skal höfð hliðsjón af ákvörðunum um hliðstæðar vörur. Nýsköpunarmiðstöð Íslands, Mannvirkjastofnun eða aðrir þar til bærir aðilar sem [ráðuneytið][^1)^] viðurkennir skulu gegna samsvarandi hlutverki og tilnefndur aðili vegna ákvæða þessa töluliðar. Þessir aðilar annast staðfestingu á samræmi og gefa út vottorð eða umsögn þar að lútandi.
+    8. ...[^1)^]
     9. Starfsmenn Brunamálastofnunar og Skipulagsstofnunar sem vinna að þeim verkefnum sem færast 1. janúar 2011 til Mannvirkjastofnunar skulu eiga forgangsrétt til starfa hjá Mannvirkjastofnun. Ákvæði "7. gr. laga nr. 70/1996":1996070.html#G7, um réttindi og skyldur starfsmanna ríkisins, gilda ekki um störf sem ráðið er í samkvæmt þessum tölulið.
-    10. Krafa 1. mgr. 42. gr. um að tilnefndur aðili skuli hafa faggildingu tekur gildi 1. janúar 2016. Fram að þeim tíma skal tilnefndur aðili hafa gæðastjórnunarkerfi sem Mannvirkjastofnun viðurkennir og hefur eftirlit með.
+    10. ...[^1)^]
     11. Krafa 1. mgr. 17. gr. um að eftirlit skuli fara fram í samræmi við ákvæði skoðunarhandbóka tekur gildi 1. janúar 2015.
-    _[^1)^]"L. 126/2011, 538. gr.":/altext/stjt/2011.126.html_
+    _[^1)^]"L. 114/2014, 25. gr.":/altext/stjt/2014.114.html#G25_
 
- *Viðauki.* *Grunnkröfur.*
- □ Byggingarvara skal henta til bygginga og mannvirkja og (bæði í heild og að hluta) koma að tilætluðum notum frá efnahagslegu sjónarmiði og fullnægja í því samhengi eftirfarandi grunnkröfum ef verkin falla undir reglugerðir með slíkum kröfum. Kröfunum skal fullnægt þann tíma sem eðlilegt og fjárhagslega hagkvæmt er að nýta þau, með fyrirvara um eðlilegt viðhald. Í kröfunum er yfirleitt miðað við fyrirsjáanleg áhrif.
- *1. Burðarþol og stöðugleiki.*
- □ Byggingar og mannvirki skulu hönnuð og byggð á þann veg að álagið sem hætt er við að verki á þau meðan á framkvæmdum stendur og við notkun leiði ekki til:
-    a. að allt verkið eða hluti þess hrynji,
-    b. mikilla formbreytinga að því marki að ekki verði við unað,
-    c. skemmda á öðrum hlutum verksins, lögnum eða föstum búnaði vegna mikilla formbreytinga á burðarvirki,
-    d. skemmda vegna ytri áhrifa þar sem skemmdirnar eru óeðlilega miklar miðað við upprunalega orsök þeirra.
-
- *2. Varnir gegn eldsvoða.*
- □ Byggingar og mannvirki skulu hönnuð og byggð á þann hátt að brjótist eldur út:
-    a. megi gera ráð fyrir að burðargeta verksins haldi tiltekinn tíma,
-    b. skuli glæðing og útbreiðsla elds og reyks takmörkuð inni í byggingunni,
-    c. skuli útbreiðsla elds til bygginga og mannvirkja í grenndinni takmörkuð,
-    d. geti viðstaddir yfirgefið bygginguna eða bjargast eftir öðrum leiðum,
-    e. sé öryggi björgunarliðs haft í huga.
-
- *3. Hollusta, heilsa og umhverfi.*
- □ Byggingar og mannvirki skulu hönnuð og byggð á þann hátt að hollustuháttum og heilsu íbúa og nábúa sé eigi stefnt í hættu, m.a. vegna:
-    a. eiturgasleka,
-    b. hættulegra agna eða lofttegunda í lofti,
-    c. hættulegrar geislunar,
-    d. mengunar eða eitrunar í vatni eða jarðvegi,
-    e. lélegrar fráveitu skólps, reyks og fasts eða fljótandi úrgangs,
-    f. rakamyndunar í hlutum bygginga og mannvirkja eða á yfirborði innan dyra.
-
- *4. Öryggi við notkun.*
- □ Byggingar og mannvirki skulu hönnuð og byggð á þann hátt að ekki skapist óviðunandi slysahætta við rekstur eða notkun þeirra, svo sem að menn renni til, detti, rekist á, brenni sig, fái raflost eða hljóti meiðsli af völdum sprengingar.
- *5. Hávaðavarnir.*
- □ Byggingar og mannvirki skulu hönnuð og byggð á þann hátt að hávaði, sem fólk á staðnum eða í næsta nágrenni skynjar, sé ekki hærri en svo að viðkomandi bíði ekki heilsutjón og geti sofið, hvílt sig og unnið við viðunandi skilyrði.
- *6. Orkusparnaður og hitaeinangrun.*
- □ Hita-, kæli- og loftræsingarkerfi bygginga og mannvirkja skulu hönnuð og byggð á þann hátt að nauðsynleg orkunotkun sé sem minnst með tilliti til veðurfars á staðnum en án þess að til óþæginda sé fyrir íbúana.
+ *Viðauki. ...[^1)^]*
+    _[^1)^]"L. 114/2014, 25. gr.":/altext/stjt/2014.114.html#G25_
 
 

@@ -8,7 +8,7 @@ h2. [Lög um landlækni og lýðheilsu][^1)^]
 
    _[^1)^]"L. 28/2011, 11. gr.":/altext/stjt/2011.028.html_
 
- *Tóku gildi 1. september 2007.* _Breytt með_ "l. 12/2008":/altext/stjt/2008.012.html (tóku gildi 1. apríl 2008), "l. 112/2008":/altext/stjt/2008.112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; komu til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 28/2011":/altext/stjt/2011.028.html (tóku gildi 1. maí 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 44/2014":/altext/stjt/2014.044.html (taka gildi 1. jan. 2015 nema brbákv. I sem tók gildi 29. maí 2014) og "l. 45/2014":/altext/stjt/2014.045.html (taka gildi 1. jan. 2015 nema 3. tölul. 20. gr. sem tók gildi 29. maí 2014).
+ *Tóku gildi 1. september 2007.* _Breytt með_ "l. 12/2008":/altext/stjt/2008.012.html (tóku gildi 1. apríl 2008), "l. 112/2008":/altext/stjt/2008.112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; komu til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 28/2011":/altext/stjt/2011.028.html (tóku gildi 1. maí 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 44/2014":/altext/stjt/2014.044.html (tóku gildi 1. jan. 2015 nema brbákv. I sem tók gildi 29. maí 2014) og "l. 45/2014":/altext/stjt/2014.045.html (tóku gildi 1. jan. 2015 nema 3. tölul. 20. gr. sem tók gildi 29. maí 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *heilbrigðisráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -32,7 +32,7 @@ h2. [Lög um landlækni og lýðheilsu][^1)^]
     [4. ][^1)^] _Heilbrigðisstofnun:_ Stofnun þar sem heilbrigðisþjónusta er veitt.
     [5. ][^1)^] _Starfsstofur heilbrigðisstarfsmanna:_ Starfsstöðvar sjálfstætt starfandi heilbrigðisstarfsmanna þar sem heilbrigðisþjónusta er veitt með eða án greiðsluþátttöku ríkisins.
     _[^1)^]"L. 28/2011, 3. gr.":/altext/stjt/2011.028.html [^2)^]"L. 12/2008, 2. gr.":/altext/stjt/2008.012.html_
- ■ *4. gr.[^1)^]* _[Meginhlutverk landlæknis._
+ ■ *4. gr.* _[Meginhlutverk landlæknis._
  □ Hlutverk landlæknis er m.a. eftirfarandi:
     a. að veita ráðherra og öðrum stjórnvöldum, fagfólki og almenningi ráðgjöf og fræðslu um málefni á verksviði embættisins,
     b. að annast forvarna- og heilsueflingarverkefni,
@@ -40,17 +40,18 @@ h2. [Lög um landlækni og lýðheilsu][^1)^]
     d. að vinna að gæðaþróun,
     e. að hafa eftirlit með heilbrigðisþjónustu og heilbrigðisstarfsmönnum,
     f. að hafa eftirlit með lyfjaávísunum og fylgjast með og stuðla að skynsamlegri lyfjanotkun landsmanna,
-    g. að veita starfsleyfi til einstaklinga sem uppfylla skilyrði laga og reglugerða til notkunar starfsheita löggiltra heilbrigðisstétta,
-    h. að stuðla að því að menntun heilbrigðisstarfsmanna sé í samræmi við kröfur heilbrigðisþjónustunnar á hverjum tíma,
-    i. að sinna kvörtunum almennings vegna heilbrigðisþjónustu,
-    j. að bera ábyrgð á framkvæmd sóttvarna, sbr. sóttvarnalög,
-    k. að safna og vinna upplýsingar um heilsufar og heilbrigðisþjónustu,
-    l. að meta reglulega árangur af lýðheilsustarfi og bera hann saman við sett markmið,
-    m. að stuðla að rannsóknum á starfssviðum embættisins,
-    n. að sinna öðrum verkefnum sem honum er falið að sinna samkvæmt lögum, stjórnvaldsfyrirmælum eða ákvörðun ráðherra.
+    [g. að hafa eftirlit með starfsemi lífsýnasafna og safna heilbrigðisupplýsinga í samræmi við lög um lífsýnasöfn og söfn heilbrigðisupplýsinga],[^1)^]
+    [h. ][^1)^] að veita starfsleyfi til einstaklinga sem uppfylla skilyrði laga og reglugerða til notkunar starfsheita löggiltra heilbrigðisstétta,
+    [i. ][^1)^] að stuðla að því að menntun heilbrigðisstarfsmanna sé í samræmi við kröfur heilbrigðisþjónustunnar á hverjum tíma,
+    [j. ][^1)^] að sinna kvörtunum almennings vegna heilbrigðisþjónustu,
+    [k. ][^1)^] að bera ábyrgð á framkvæmd sóttvarna, sbr. sóttvarnalög,
+    [l. ][^1)^] að safna og vinna upplýsingar um heilsufar og heilbrigðisþjónustu,
+    [m. ][^1)^] að meta reglulega árangur af lýðheilsustarfi og bera hann saman við sett markmið,
+    [n. ][^1)^] að stuðla að rannsóknum á starfssviðum embættisins,
+    [o. ][^1)^] að sinna öðrum verkefnum sem honum er falið að sinna samkvæmt lögum, stjórnvaldsfyrirmælum eða ákvörðun ráðherra.
  □ Ráðherra er heimilt að skilgreina verkefni landlæknis nánar með reglugerð.
  □ Landlækni er enn fremur heimilt að gera samninga við háskólastofnanir og aðrar stofnanir um samstarf á sviði rannsókna, kennslu og þjónustu er tengjast verksviði embættisins.][^2)^]
-    _[^1)^]Greininni var breytt með "l. 45/2014, 22. gr.":/altext/stjt/2014.045.html Breytingin tekur gildi 1. jan. 2015. [^2)^]"L. 28/2011, 4. gr.":/altext/stjt/2011.028.html_
+    _[^1)^]"L. 45/2014, 22. gr.":/altext/stjt/2014.045.html [^2)^]"L. 28/2011, 4. gr.":/altext/stjt/2011.028.html_
 
  *[I. kafli A.* *Fagráð og lýðheilsusjóður.][^1)^]*
     _[^1)^]"L. 28/2011, 6. gr.":/altext/stjt/2011.028.html_
@@ -102,12 +103,12 @@ h2. [Lög um landlækni og lýðheilsu][^1)^]
  □ Persónuauðkenni í skrám landlæknis skv. 2. mgr. skulu dulkóðuð. Ráðherra mælir nánar fyrir um það í reglugerð,[^1)^] að fenginni umsögn Persónuverndar, hvaða persónuupplýsingar og heilsufarsupplýsingar megi færa í skrárnar og um dulkóðun þeirra og í hvaða tilvikum heimilt sé að afkóða þær.
  □ Landlæknir er ábyrgðarmaður þeirra skráa sem hann skipuleggur.
  □ Heilbrigðisstofnanir, heilbrigðisstarfsmenn og aðrir sem veita heilbrigðisþjónustu skulu veita landlækni þær upplýsingar sem honum eru nauðsynlegar til að halda heilbrigðisskrár skv. 1. og 2. mgr. Landlæknir gefur heilbrigðisstofnunum, heilbrigðisstarfsmönnum og öðrum sem veita heilbrigðisþjónustu fyrirmæli um lágmarksskráningu upplýsinga í þessu skyni og hvernig staðið skuli að skráningu og miðlun upplýsinganna til embættisins. Fyrirmæli landlæknis skulu lögð fyrir ráðherra til staðfestingar og birt. Aðrar stofnanir sem heyra undir [ráðuneytið][^3)^] og safna upplýsingum á heilbrigðissviði, svo sem Lyfjastofnun [og sjúkratryggingastofnunin],[^2)^] skulu jafnframt veita landlækni aðgang að upplýsingum sem aflað er í starfsemi þeirra og eru nauðsynlegar til að halda heilbrigðisskrár skv. 1. og 2. mgr. eða til að sinna eftirliti samkvæmt lögum þessum. [Hið sama gildir um Tryggingastofnun ríkisins.][^4)^] Skulu þessar stofnanir hafa samráð við landlækni við söfnun og skráningu þessara upplýsinga og miðlun þeirra til landlæknis. Upplýsingar samkvæmt ákvæði þessu skulu veittar landlækni án endurgjalds.
- □ Landlæknir getur, með leyfi ráðherra, falið heilbrigðisstofnunum og sjálfstætt starfandi heilbrigðisstarfsmönnum, eða öðrum aðilum, umsjón tiltekinna skráa sem hann skipuleggur skv. 1. og 2. mgr. Gera skal skriflegan samning um slíkar skrár þar sem m.a. er kveðið á um hver sé umsjónarmaður skrárinnar, starfsreglur og öryggiskröfur, innihald, úrvinnslu, ráðstöfunarrétt, notkun og dreifingu upplýsinga, gildistíma samnings svo og endurskoðunarákvæði. Umsjónarmanni ber að upplýsa landlækni um öll atriði er varða rekstur skrár þegar þess er óskað og veita honum allar upplýsingar sem hann þarf á að halda vegna lögboðins hlutverks síns. Skulu þær upplýsingar veittar landlækni án endurgjalds.[^5)^]
+ □ [Landlæknir getur, með leyfi ráðherra, falið heilbrigðisstofnunum og sjálfstætt starfandi heilbrigðisstarfsmönnum, eða öðrum aðilum, umsjón og ábyrgð á daglegum rekstri tiltekinna skráa sem hann skipuleggur skv. 1. - 2. mgr. Gera skal skriflegan samning um slíkar skrár þar sem m.a. er kveðið á um ábyrgðarmann skrárinnar, starfsreglur og öryggiskröfur, innihald, úrvinnslu, ráðstöfunarrétt, notkun og dreifingu upplýsinga og gildistíma samnings, svo og endurskoðun. Ábyrgðarmanni ber að upplýsa landlækni um öll atriði er varða rekstur skrár þegar þess er óskað og veita honum allar upplýsingar sem hann þarf á að halda vegna lögboðins hlutverks síns. Skulu þær upplýsingar veittar landlækni án endurgjalds.][^5)^]
  □ Landlækni er heimilt að taka gjald fyrir úrvinnslu og afhendingu upplýsinga úr heilbrigðisskrám samkvæmt reglugerð sem ráðherra setur.
- □ Um aðgang að persónugreinanlegum upplýsingum úr heilbrigðisskrám skv. 2. mgr. vegna vísindarannsókna fer skv. 3. mgr. 15. gr. laga um réttindi sjúklinga.[^5)^]
+ □ [Um aðgang að persónugreinanlegum upplýsingum úr heilbrigðisskrám skv. 2. mgr. vegna vísindarannsókna fer skv. 1. mgr. 27. gr. laga um vísindarannsóknir á heilbrigðissviði.][^5)^]
  □ Söfnun og meðferð upplýsinga samkvæmt ákvæði þessu skal vera í samræmi við ákvæði laga um persónuvernd og meðferð persónuupplýsinga og skal uppfylla kröfur Persónuverndar um öryggi persónuupplýsinga í skrám á heilbrigðissviði.
  □ Ráðherra getur með reglugerð[^1)^] sett nánari ákvæði um gerð og vinnslu heilbrigðisskráa, miðlun upplýsinga og útgáfu heilbrigðisskýrslna.
-    _[^1)^]"Rg. 548/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/548-2008. [^2)^]"L. 28/2011, 8. gr.":/altext/stjt/2011.028.html [^3)^]"L. 162/2010, 78. gr.":/altext/stjt/2010.162.html [^4)^]"L. 12/2008, 4. gr.":/altext/stjt/2008.012.html [^5)^]Málsgreininni var breytt með "l. 44/2014, 36. gr.":2014044.html#G36 Breytingin tekur gildi 1. jan. 2015 skv. "35. gr. s.l.":2014044.html_
+    _[^1)^]"Rg. 548/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/548-2008. [^2)^]"L. 28/2011, 8. gr.":/altext/stjt/2011.028.html [^3)^]"L. 162/2010, 78. gr.":/altext/stjt/2010.162.html [^4)^]"L. 12/2008, 4. gr.":/altext/stjt/2008.012.html [^5)^]"L. 44/2014, 36. gr.":/altext/stjt/2014.044.html#G36_
  ■ *9. gr.* _Skráning óvæntra atvika._
  □ Heilbrigðisstofnanir, sjálfstætt starfandi heilbrigðisstarfsmenn og aðrir sem veita heilbrigðisþjónustu skulu halda skrá um óvænt atvik í þeim tilgangi að finna skýringar á þeim og leita leiða til að tryggja að þau endurtaki sig ekki. Með óvæntu atviki er átt við óhappatilvik, mistök, vanrækslu eða önnur atvik sem valdið hafa sjúklingi tjóni eða hefðu getað valdið sjúklingi tjóni.
  □ Heilbrigðisstarfsmönnum sem hlut eiga að máli, faglegum yfirmönnum þeirra og öðru starfsfólki heilbrigðisstofnana, eftir því sem við á, er skylt að skrá öll óvænt atvik skv. 1. mgr.
@@ -182,7 +183,7 @@ h2. [Lög um landlækni og lýðheilsu][^1)^]
     _[^1)^]"Rg. 426/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/426-1997, sbr. "886/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/886-2013. "Rg. 1188/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1188-2008._
  ■ *23. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. september 2007.
- ■ *24. gr.* "...":http://www.althingi.is/vefur/lagas-hlp.html
+ ■ *24. gr.* "...":http://www.althingi.is/altext/stjt/2007.041.html
 
  *[Ákvæði til bráðabirgða.*
  ■ *I.* Öll störf hjá Lýðheilsustöð eru lögð niður frá 1. maí 2011. Starfsmönnum Lýðheilsustöðvar skal boðið starf hjá landlæknisembættinu frá og með sama tíma. Ákvæði "7. gr. laga nr. 70/1996":1996070.html#G7 gilda ekki við ráðstöfun starfa samkvæmt þessu ákvæði.][^1)^]

@@ -7,7 +7,7 @@ h2. Lög um sjúkraskrár
 <hr />
 
 
- *Tóku gildi 1. maí 2009.* _Breytt með_ "l. 6/2014":/altext/stjt/2014.006.html (tóku gildi 28. jan. 2014), "l. 44/2014":/altext/stjt/2014.044.html (taka gildi 1. jan. 2015 nema brbákv. I sem tók gildi 29. maí 2014) og "l. 77/2014":/altext/stjt/2014.077.html (tóku gildi 12. júní 2014).
+ *Tóku gildi 1. maí 2009.* _Breytt með_ "l. 6/2014":/altext/stjt/2014.006.html (tóku gildi 28. jan. 2014), "l. 44/2014":/altext/stjt/2014.044.html (tóku gildi 1. jan. 2015 nema brbákv. I sem tók gildi 29. maí 2014) og "l. 77/2014":/altext/stjt/2014.077.html (tóku gildi 12. júní 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *heilbrigðisráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -112,10 +112,10 @@ h2. Lög um sjúkraskrár
  ■ *17. gr.* _Aðgangur að sjúkraskrám vegna gæðaþróunar og gæðaeftirlits._
  □ Umsjónaraðila sjúkraskráa er heimilt að veita heilbrigðisstarfsmönnum og öðrum starfsmönnum og nemum í starfsnámi í heilbrigðisvísindum, sem undirgengist hafa sambærilega trúnaðar- og þagnarskyldu og heilbrigðisstarfsmenn, aðgang að sjúkraskrám vegna gæðaþróunar og gæðaeftirlits með heilbrigðisþjónustu og meðferð innan viðkomandi heilbrigðisstofnunar eða starfsstofu heilbrigðisstarfsmanna.
  ■ *[17. gr. a.* Um aðgang að sjúkraskrám vegna vísindarannsókna fer samkvæmt lögum um vísindarannsóknir á heilbrigðissviði. Sjúklingur eða umboðsmaður hans getur lagt bann við því að sjúkraskrárupplýsingar hans séu varðveittar persónugreinanlegar í safni heilbrigðisupplýsinga til notkunar í vísindarannsóknum og skal það þá skráð í sjúkraskrá hans.][^1)^]
-    _[^1)^]"L. 44/2014, 36. gr.":/altext/stjt/2014.044.html#G36 Greinin tekur gildi 1. jan. 2015 skv. "35. gr. s.l.":2014044.html_
+    _[^1)^]"L. 44/2014, 36. gr.":/altext/stjt/2014.044.html#G36_
  ■ *[[17. gr. b.][^1)^]* _Aðgangur að sjúkraskrárkerfum til að sinna vinnslu, uppfærslu og viðhaldi._
  □ Umsjónaraðila sjúkraskráa er heimilt að veita starfsmönnum sem vinna að þjónustu við tölvu- og upplýsingakerfi nauðsynlegan aðgang að sjúkraskrárkerfi í þeim tilgangi að sinna vinnslu, uppfærslu og viðhaldi kerfisins. Að því marki sem unnt er skal notast við prufugögn í stað raungagna við veitingu slíkrar þjónustu. Starfsmennirnir skulu undirgangast sambærilega trúnaðar- og þagnarskyldu og heilbrigðisstarfsmenn.][^2)^]
-    _[^1)^]"L. 44/2014, 36. gr.":/altext/stjt/2014.044.html#G36 Breytingin tekur gildi 1. jan. 2015 skv. "35. gr. s.l.":2014044.html [^2)^]"L. 6/2014, 5. gr.":/altext/stjt/2014.006.html_
+    _[^1)^]"L. 44/2014, 36. gr.":/altext/stjt/2014.044.html#G36 [^2)^]"L. 6/2014, 5. gr.":/altext/stjt/2014.006.html_
 
  *V. kafli.* *Samtenging rafrænna sjúkraskrárkerfa.*
  ■ *18. gr.* _Heimild til að samtengja rafræn sjúkraskrárkerfi._
@@ -150,7 +150,7 @@ h2. Lög um sjúkraskrár
  □ Ráðherra hefur jafnframt heimild til að setja nánari reglur um önnur atriði er varða framkvæmd laga þessara.
  ■ *25. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi.
- ■ *26. gr.* "...":http://www.althingi.is/vefur/lagas-hlp.html
+ ■ *26. gr.* "...":http://www.althingi.is/altext/stjt/2009.055.html
  ■ *Ákvæði til bráðabirgða.* Ákvæði 19. gr. um rétt sjúklings til að banna miðlun upplýsinga um sig með samtengingu rafrænna sjúkraskrárkerfa skal koma til framkvæmdar eigi síðar en 31. desember 2010.
  □ Ákvæði 21. gr. um rétt sjúklings til að takmarka aðgang að sjúkraskrárupplýsingum um sig í sameiginlegu sjúkraskrárkerfi skal koma til framkvæmdar eigi síðar en 31. desember 2010.
 

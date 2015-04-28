@@ -7,7 +7,7 @@ h2. Lög um heilbrigðisþjónustu
 <hr />
 
 
- *Tóku gildi 1. september 2007.* _Breytt með_ "l. 160/2007":/altext/stjt/2007.160.html (tóku gildi 1. jan. 2008), "l. 12/2008":/altext/stjt/2008.012.html (tóku gildi 1. apríl 2008), "l. 112/2008":/altext/stjt/2008.112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; komu til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.), "l. 59/2010":/altext/stjt/2010.059.html (tóku gildi 17. júní 2010), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 28/2012":/altext/stjt/2012.028.html (tóku gildi 1. júní 2012).
+ *Tóku gildi 1. september 2007.* _Breytt með_ "l. 160/2007":/altext/stjt/2007.160.html (tóku gildi 1. jan. 2008), "l. 12/2008":/altext/stjt/2008.012.html (tóku gildi 1. apríl 2008), "l. 112/2008":/altext/stjt/2008.112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; komu til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.), "l. 59/2010":/altext/stjt/2010.059.html (tóku gildi 17. júní 2010), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 28/2012":/altext/stjt/2012.028.html (tóku gildi 1. júní 2012) og "l. 106/2014":/altext/stjt/2014.106.html (tóku gildi 7. nóv. 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *heilbrigðisráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -44,11 +44,11 @@ h2. Lög um heilbrigðisþjónustu
  ■ *5. gr.* _Heilbrigðisumdæmi._
  □ Landinu skal skipt í heilbrigðisumdæmi og skal kveðið á um skiptinguna í reglugerð.[^1)^] Heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu í hverju umdæmi skulu hafa með sér samstarf um skipulag heilbrigðisþjónustu á svæðinu. Ráðherra getur, að höfðu samráði við hlutaðeigandi sveitarfélög og Samband íslenskra sveitarfélaga, ákveðið að sameina heilbrigðisstofnanir innan heilbrigðisumdæmis með reglugerð.[^2)^]
  □ Þrátt fyrir skiptingu landsins í heilbrigðisumdæmi skulu sjúklingar jafnan eiga rétt á að leita til þeirrar heilsugæslustöðvar eða heilbrigðisstofnunar sem þeir eiga auðveldast með að ná til hverju sinni.
-    _[^1)^]"Rg. 785/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/785-2007, sbr. "765/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/765-2008, "1084/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1084-2008 og "447/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2009. [^2)^]"Rg. 764/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/764-2008, sbr. "1083/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1083-2008, "448/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/448-2009 og "562/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2009. "Rg. 76/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/076-2011. "Rg. 674/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/674-2014._
+    _[^1)^]"Rg. 1084/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1084-2014. [^2)^]"Rg. 764/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/764-2008, sbr. "1083/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1083-2008, "448/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/448-2009 og "562/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2009. "Rg. 76/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/076-2011. "Rg. 674/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/674-2014._
  ■ *6. gr.* _Almenn heilbrigðisþjónusta._
  □ Í hverju heilbrigðisumdæmi skal starfrækt heilbrigðisstofnun eða heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu í umdæminu.
  □ Ráðherra getur í reglugerð[^1)^] kveðið nánar á um starfsemi heilbrigðisstofnana í hverju umdæmi og þá heilbrigðisþjónustu sem þar er veitt.
-    _[^1)^]"Rg. 785/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/785-2007, sbr. "765/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/765-2008, "1084/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1084-2008 og "447/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2009._
+    _[^1)^]"Rg. 1084/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1084-2014._
  ■ *7. gr.* _Sérhæfð heilbrigðisþjónusta._
  □ Sérhæfð sjúkrahúsþjónusta skal veitt á Landspítala og Sjúkrahúsinu á Akureyri og öðrum sjúkrahúsum og heilbrigðisstofnunum samkvæmt ákvörðun ráðherra eða samningum sem gerðir eru í samræmi við ákvæði VII. kafla [og lög um sjúkratryggingar].[^1)^]
  □ Önnur sérhæfð heilbrigðisþjónusta skal veitt á sérhæfðum heilbrigðisstofnunum og öðrum heilbrigðisstofnunum samkvæmt ákvörðun ráðherra eða á grundvelli samninga skv. VII. kafla [og lögum um sjúkratryggingar].[^1)^]
@@ -155,6 +155,8 @@ h2. Lög um heilbrigðisþjónustu
     _[^1)^]"Rg. 786/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/786-2007. [^2)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
  ■ *27. gr.* _Skráning óvæntra atvika._
  □ Heilbrigðisstofnanir, sjálfstætt starfandi heilbrigðisstarfsmenn og aðrir sem veita heilbrigðisþjónustu skulu halda skrá um óvænt atvik í þeim tilgangi að finna skýringar á þeim og leita leiða til að tryggja að þau endurtaki sig ekki. Með óvæntu atviki er átt við óhappatilvik, mistök, vanrækslu eða önnur atvik sem valdið hafa sjúklingi tjóni eða hefðu getað valdið sjúklingi tjóni. Um nánari framkvæmd slíkrar skráningar fer samkvæmt lögum um landlækni.
+ ■ *[27. gr. a.* Ráðherra skal með reglugerð kveða nánar á um gæða- og öryggisviðmið við veitingu heilbrigðisþjónustu varðandi brottnám líffæra og líffæraígræðslu, meðferð og varðveislu á frumum og vefjum og rekstur blóðbankaþjónustu.][^1)^]
+    _[^1)^]"L. 106/2014, 1. gr.":/altext/stjt/2014.106.html_
 
  *VII. kafli.* *Samningar um heilbrigðisþjónustu.*
  ■ *28. gr.* _Samningsumboð ráðherra._
@@ -196,9 +198,14 @@ h2. Lög um heilbrigðisþjónustu
  ■ *37. gr.* _Reglugerð._
  □ Ráðherra getur með reglugerð[^1)^] kveðið nánar á um framkvæmd laga þessara.
     _[^1)^]"Rg. 426/1997":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/426-1997, sbr. "886/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/886-2013. "Rg. 441/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/441-2006, sbr. "1024/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1024-2007, "411/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/411-2010 og "625/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/625-2012. "Rg. 1118/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1118-2006, sbr. "147/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/147-2007 og "703/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/703-2008. "Rg. 544/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/544-2008. "Rg. 1188/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1188-2008. "Rg. 1182/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1182-2013, sbr. "635/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/635-2014._
- ■ *38. gr.* _Gildistaka._
- □ Lög þessi öðlast gildi 1. september 2007. "...":http://www.althingi.is/vefur/lagas-hlp.html
- ■ *39. gr.* "...":http://www.althingi.is/vefur/lagas-hlp.html
+ ■ *[38. gr.* _Innleiðing._
+ □ Með lögum þessum er ráðherra veitt heimild til að innleiða ákvæði tilskipunar Evrópuþingsins og ráðsins 2010/53/ESB frá 7. júlí 2010 um kröfur varðandi gæði og öryggi líffæra úr mönnum sem eru ætluð til ígræðslu, sem tekin var upp í EES-samninginn með ákvörðun sameiginlegu EES-nefndarinnar nr. 164/2013, frá 8. október 2013.][^1)^]
+    _[^1)^]"L. 106/2014, 2. gr.":/altext/stjt/2014.106.html_
+ ■ *[39. gr.][^1)^]* _Gildistaka._
+ □ Lög þessi öðlast gildi 1. september 2007. "...":http://www.althingi.is/altext/stjt/2007.040.html
+    _[^1)^]"L. 106/2014, 2. gr.":/altext/stjt/2014.106.html_
+ ■ *[40. gr.][^1)^]* "...":http://www.althingi.is/altext/stjt/2007.040.html
+    _[^1)^]"L. 106/2014, 2. gr.":/altext/stjt/2014.106.html_
  ■ *[Ákvæði til bráðabirgða.* Meðan tímabundnir samningar, sbr. 28. gr., við sveitarfélög um rekstur heilbrigðisþjónustu gilda teljast hlutaðeigandi starfsmenn heilbrigðisstofnana sem reknar eru af ríkinu og eru í starfi þegar samningarnir taka gildi vera í þjónustu viðkomandi sveitarfélags. Í slíkum samningum er [ráðherra][^1)^] heimilt að framselja viðkomandi sveitarfélagi allar þær valdheimildir sem forstjórar heilbrigðisstofnana fara með samkvæmt lögum um réttindi og skyldur starfsmanna ríkisins, svo fremi að starfsmönnum sé tilkynnt hver fari með það vald. Engin formbreyting verður á ráðningarstöðu starfsmanna, þeir eru áfram ríkisstarfsmenn og um laun þeirra og önnur starfskjör fer eftir sömu kjarasamningum og fyrr.
  □ Nýir starfsmenn, sem ráðnir verða til verkefna er samningur aðila tekur til, skulu ráðnir sem starfsmenn viðkomandi sveitarfélags.
  □ [Ráðherra][^1)^] og [ráðherra er fer með starfsmannamál ríkisins][^2)^] annars vegar og sveitarfélag hins vegar skulu semja um ábyrgðir sínar og greiðslur varðandi réttindi og kjör starfsmanna.][^3)^]

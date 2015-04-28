@@ -2,7 +2,7 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 
 <hr />
 
-Íslensk lög 1. september 2014 (útgáfa 143b).
+Íslensk lög 1. janúar 2015 (útgáfa 144a).
 
 
 
@@ -117,6 +117,7 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Lög um Byggðastofnun, "nr. 106 27. desember 1999":1999106.html
 * Lög um byggingarsamvinnufélög, "nr. 153 28. desember 1998":1998153.html
 * Lög um byggingarsjóð Listasafns Íslands, "nr. 41 23. maí 1959":1959041.html
+* Lög um byggingarvörur, "nr. 114 26. nóvember 2014":2014114.html
 * Lög um bæjanöfn o.fl., "nr. 35 18. febrúar 1953":1953035.html
 * Lög um bæjarstjórn á Akranesi, "nr. 45 27. júní 1941":1941045.html
 * Lög um bæjarstjórn á Sauðárkróki, "nr. 57 24. maí 1947":1947057.html
@@ -179,7 +180,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Lög um Evrópska efnahagssvæðið, "nr. 2 13. janúar 1993":1993002.html
 * Lög um Evrópufélög, "nr. 26 27. apríl 2004":2004026.html
 * Lög um faggildingu o.fl., "nr. 24 12. apríl 2006":2006024.html
-* Lög um Samgöngustofu, stjórnsýslustofnun samgöngumála, "nr. 119 30. nóvember 2012":2012119.html
 * Lög um fasteignakaup, "nr. 40 18. apríl 2002":2002040.html
 * Lög um félagamerki, "nr. 155 18. desember 2002":2002155.html
 * Lög um félagsheimili, "nr. 107 28. október 1970":1970107.html
@@ -221,7 +221,7 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Forsetaúrskurður um fána forseta Íslands, "nr. 40 8. júlí 1944":1944040.html
 * Forsetaúrskurður um fánadaga og fánatíma, "nr. 5 23. janúar 1991":1991005.html
 * Forsetaúrskurður um merki forseta Íslands, "nr. 39 8. júlí 1944":1944039.html
-* Forsetaúrskurður um sendiráð, fastanefndir hjá alþjóðastofnunum og sendiræðisskrifstofur, "nr. 6 20. janúar 2010":2010006.html
+* Forsetaúrskurður um sendiráð, fastanefndir hjá alþjóðastofnunum og sendiræðisskrifstofur, "nr. 117 30. nóvember 2014":2014117.html
 * Forsetaúrskurður um skiptingu stjórnarmálefna milli ráðuneyta í Stjórnarráði Íslands, "nr. 71 24. maí 2013":2013071.html
 * Forsetaúrskurður um skiptingu Stjórnarráðs Íslands í ráðuneyti, "nr. 99 30. ágúst 2012":2012099.html
 * Forsetaúrskurður um skjaldarmerki Íslands, "nr. 35 17. júní 1944":1944035.html
@@ -241,26 +241,22 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Lög um framkvæmd útboða, "nr. 65 18. maí 1993":1993065.html
 * Lög um framkvæmd þjóðaratkvæðagreiðslna, "nr. 91 25. júní 2010":2010091.html
 * Lög um framkvæmd þjóðaratkvæðagreiðslu um gildi laga nr. 1/2010, um breytingu á lögum nr. 96/2009, um heimild til handa fjármálaráðherra, fyrir hönd ríkissjóðs, til að ábyrgjast lán Tryggingarsjóðs innstæðueigenda og fjárfesta frá breska og hollenska ríkinu til að standa straum af greiðslum til innstæðueigenda hjá Landsbanka Íslands hf., "nr. 4 11. janúar 2010":2010004.html
-* Lög um framkvæmdarvald og stjórnsýslu ríkisins í héraði, ", nr. 50 22. maí 2014":2014050.html
-* Lög um framkvæmdarvald ríkisins í héraði, "nr. 92 1. júní 1989":1989092.html
+* Lög um framkvæmdarvald og stjórnsýslu ríkisins í héraði, "nr. 50 22. maí 2014":2014050.html
 * Lög um Framkvæmdasjóð ferðamannastaða, "nr. 75 21. júní 2011":2011075.html
 * Lög um Framleiðnisjóð landbúnaðarins, "nr. 89 17. desember 1966":1966089.html
 * Lög um framleiðslu, verðlagningu og sölu á búvörum, "nr. 99 8. september 1993":1993099.html
 * Lög um framlengingu á heimild ríkisstjórnarinnar til að nota allt að fjórum milljónum dollara af yfirdráttarheimild Íslands hjá Greiðslubandalagi Evrópu, "nr. 6 2. febrúar 1953":1953006.html
 * Lög um framsal sakamanna og aðra aðstoð í sakamálum, "nr. 13 17. apríl 1984":1984013.html
 * Lög um frávik frá lögum um skatta og gjöld vegna styrkja úr sjóði er fjármagnar aðstoð við umsóknarríki Evrópusambandsins, "nr. 53 20. júní 2012":2012053.html
-* Lög um frestun verkfallsaðgerða á Herjólfi VE, "nr. 24 2. apríl 2014":2014024.html
-* Lög um frestun verkfallsaðgerða Félags íslenskra atvinnuflugmanna gegn Icelandair ehf., "nr. 34 15. maí 2014":2014034.html
 * Lög um friðhelgi og forréttindi alþjóðastofnana, "nr. 98 9. desember 1992":1992098.html
 * Lög um frístundabyggð og leigu lóða undir frístundahús, "nr. 75 11. júní 2008":2008075.html
-* Lög um frjálsan atvinnu- og búseturétt launafólks innan Evrópska efnahagssvæðisins, "nr. 47 18. maí 1993":1993047.html
+* Lög um frjálsan atvinnu- og búseturétt launafólks innan Evrópska efnahagssvæðisins, "nr. 105 30. október 2014":2014105.html
 * Lög um fullnustu refsidóma, sem kveðnir hafa verið upp í Danmörku, Finnlandi, Noregi eða Svíþjóð, o.fl., "nr. 69 12. desember 1963":1963069.html
 * Lög um fullnustu refsinga, "nr. 49 17. maí 2005":2005049.html
 * Lög um fyrirhleðslu Héraðsvatna norður af Vindheimabrekkum, "nr. 113 31. desember 1945":1945113.html
 * Lög um fyrirtækjaskrá, "nr. 17 20. mars 2003":2003017.html
 * Lög um fyrningu kröfuréttinda, "nr. 150 20. desember 2007":2007150.html
 * Lög um fæðingar- og foreldraorlof, "nr. 95 22. maí 2000":2000095.html
-* Lög um gagnagrunn á heilbrigðissviði, "nr. 139 22. desember 1998":1998139.html
 * Lög um gatnagerðargjald, "nr. 153 15. desember 2006":2006153.html
 * Lög um geislavarnir, "nr. 44 18. apríl 2002":2002044.html
 * Lög um gelding húsdýra, "nr. 123 27. desember 1935":1935123.html
@@ -377,6 +373,7 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Lög um heimild til að staðfesta breytingar á eignarhlut ríkisins í Íslandsbanka hf., Arion banka hf. og NBI hf., "nr. 138 29. desember 2009":2009138.html
 * Lög um heimild til að staðfesta fjárfestingarsamning við Algalíf Iceland ehf. um smáþörungaverksmiðju á Reykjanesi, "nr. 58 27. maí 2014":2014058.html
 * Lög um heimild til að staðfesta fyrir Íslands hönd alþjóðasamning um réttindi Sameinuðu þjóðanna, "nr. 13 1. mars 1948":1948013.html
+* Lög um heimild til endurupptöku vegna látinna dómþola í máli Hæstaréttar nr. 214/1978, "nr. 134 22. desember 2014":2014134.html
 * Lög um heimild til fjárhagslegrar fyrirgreiðslu úr ríkissjóði í tengslum við málshöfðun fyrir erlendum dómstólum vegna íþyngjandi stjórnvaldsákvarðana erlendra stjórnvalda á tímabilinu 1. október til 1. desember 2008, "nr. 172 29. desember 2008":2008172.html
 * Lög um heimild til fjárveitingar úr ríkissjóði vegna sérstakra aðstæðna á fjármálamarkaði o.fl., "nr. 125 7. október 2008":2008125.html
 * Lög um heimild til handa ráðherra f.h. ríkissjóðs til að fjármagna gerð jarðganga undir Vaðlaheiði, "nr. 48 18. júní 2012":2012048.html
@@ -543,7 +540,7 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Lög um Lífeyrissjóð hjúkrunarfræðinga, "nr. 2 10. janúar 1997":1997002.html
 * Lög um Lífeyrissjóð starfsmanna ríkisins, "nr. 1 10. janúar 1997":1997001.html
 * Lög um lífræna landbúnaðarframleiðslu, "nr. 162 31. desember 1994":1994162.html
-* Lög um lífsýnasöfn, "nr. 110 25. maí 2000":2000110.html
+* Lög um lífsýnasöfn og söfn heilbrigðisupplýsinga, "nr. 110 25. maí 2000":2000110.html
 * Lög um loftferðir, "nr. 60 10. júní 1998":1998060.html
 * Lög um loftslagsmál, "nr. 70 29. júní 2012":2012070.html
 * Lög um Lúganósamninginn um dómsvald og um viðurkenningu og fullnustu dóma í einkamálum, "nr. 7 2. febrúar 2011":2011007.html
@@ -553,7 +550,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Lög um lækningatæki, "nr. 16 30. apríl 2001":2001016.html
 * Lög um lögbann og dómsmál til að vernda heildarhagsmuni neytenda, "nr. 141 21. desember 2001":2001141.html
 * Lög um lögbókandagerðir, "nr. 86 1. júní 1989":1989086.html
-* Lög um lögfestingu Norðurlandasamnings um almannatryggingar, "nr. 66 7. júní 2004":2004066.html
 * Lög um lögfestingu Norðurlandasamnings um almannatryggingar, "nr. 119 21. nóvember 2013":2013119.html
 * Lög um löggildingu nokkurra starfsheita sérfræðinga í tækni- og hönnunargreinum, "nr. 8 11. mars 1996":1996008.html
 * Lög um löggilta niðurjöfnunarmenn sjótjóns, "nr. 74 11. júní 1938":1938074.html
@@ -648,6 +644,7 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Lög um rannsóknarnefndir, "nr. 68 16. júní 2011":2011068.html
 * Lög um rannsóknir í þágu atvinnuveganna, "nr. 64 21. maí 1965":1965064.html
 * Lög um rannsóknir og nýtingu á auðlindum í jörðu, "nr. 57 10. júní 1998":1998057.html
+* Lög um Rauða krossinn á Íslandi og merki Rauða krossins, Rauða hálfmánans og Rauða kristalsins, "nr. 115 1. desember 2014":2014115.html
 * Lög um ráðgjöf og fræðslu varðandi kynlíf og barneignir og um fóstureyðingar og ófrjósemisaðgerðir, "nr. 25 22. maí 1975":1975025.html
 * Lög um ráðherraábyrgð, "nr. 4 19. febrúar 1963":1963004.html
 * Lög um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur, "nr. 52 29. maí 1989":1989052.html
@@ -701,6 +698,7 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Lög um sameiningu Þjóðskrár og Fasteignaskrár Íslands, "nr. 77 25. júní 2010":2010077.html
 * Lög um samgönguáætlun, "nr. 33 23. apríl 2008":2008033.html
 * Lög um samgöngubætur og fyrirhleðslur á vatnasvæði Þverár og Markarfljóts, "nr. 27 23. júní 1932":1932027.html
+* Lög um Samgöngustofu, stjórnsýslustofnun samgöngumála, "nr. 119 30. nóvember 2012":2012119.html
 * Samkeppnislög, "nr. 44 19. maí 2005":2005044.html
 * Lög um samning Sameinuðu þjóðanna um réttindi barnsins, "nr. 19 6. mars 2013":2013019.html
 * Lög um samningsbundna gerðardóma, "nr. 53 24. maí 1989":1989053.html
@@ -882,7 +880,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Lög um tryggingagjald, "nr. 113 28. desember 1990":1990113.html
 * Lög um að tryggja manneldisgildi hveitis, "nr. 30 22. apríl 1947":1947030.html
 * Lög um tæknifrjóvgun og notkun kynfrumna og fósturvísa manna til stofnfrumurannsókna, "nr. 55 29. maí 1996":1996055.html
-* Lög um Tækniháskóla Íslands, "nr. 53 8. maí 2002":2002053.html
 * Lög um umboðsmann Alþingis, "nr. 85 27. maí 1997":1997085.html
 * Lög um umboðsmann barna, "nr. 83 19. maí 1994":1994083.html
 * Lög um umboðsmann skuldara, "nr. 100 2. júlí 2010":2010100.html
@@ -946,6 +943,7 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Lög um Verðlagsstofu skiptaverðs og úrskurðarnefnd sjómanna og útvegsmanna, "nr. 13 27. mars 1998":1998013.html
 * Lög um verkfall opinberra starfsmanna, "nr. 33 3. nóvember 1915":1915033.html
 * Lög um verkstjóranámskeið, "nr. 49 29. mars 1961":1961049.html
+* Lög um vernd afurðarheita sem vísa til uppruna, landsvæðis eða hefðbundinnar sérstöðu, "nr. 130 22. desember 2014":2014130.html
 * Lög um vernd atvinnufyrirtækja gegn óréttmætum prentuðum ummælum, "nr. 71 7. maí 1928":1928071.html
 * Lög um vernd Breiðafjarðar, "nr. 54 8. mars 1995":1995054.html
 * Lög um vernd, friðun og veiðar á villtum fuglum og villtum spendýrum, "nr. 64 19. maí 1994":1994064.html
@@ -981,7 +979,7 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Lög um virðisaukaskatt, "nr. 50 24. maí 1988":1988050.html
 * Lög um virkjun Hvítár í Borgarfirði, "nr. 26 11. maí 1977":1977026.html
 * Lög um virkjun Jökulsár á Brú og Jökulsár í Fljótsdal og stækkun Kröfluvirkjunar, "nr. 38 16. apríl 2002":2002038.html
-* Lög um visthönnun vöru sem notar orku, "nr. 42 8. apríl 2009":2009042.html
+* Lög um visthönnun vöru sem tengist orkunotkun, "nr. 42 8. apríl 2009":2009042.html
 * Lög um vitamál, "nr. 132 31. desember 1999":1999132.html
 * Lög um Vísinda- og tækniráð, "nr. 2 3. febrúar 2003":2003002.html
 * Lög um vísindalega verndun fiskimiða landgrunnsins, "nr. 44 5. apríl 1948":1948044.html
@@ -991,7 +989,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í stafrófsröð eftir heit
 * Víxillög, "nr. 93 19. júní 1933":1933093.html
 * Vopnalög, "nr. 16 25. mars 1998":1998016.html
 * Lög um vörugjald af ökutækjum, eldsneyti o.fl., "nr. 29 13. apríl 1993":1993029.html
-* Lög um vörugjald, "nr. 97 31. desember 1987":1987097.html
 * Lög um vörumerki, "nr. 45 22. maí 1997":1997045.html
 * Lög um vörur unnar úr eðalmálmum, "nr. 77 8. maí 2002":2002077.html
 * Lög um yfirskattanefnd, "nr. 30 27. maí 1992":1992030.html

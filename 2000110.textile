@@ -1,14 +1,14 @@
 <hr />
 
-h2. Lög um lífsýnasöfn[^1)^]
+h2. [Lög um lífsýnasöfn og söfn heilbrigðisupplýsinga][^1)^]
 
 *2000 nr. 110 25. maí*
 
 <hr />
 
-   _[^1)^]Lögunum var breytt með "l. 45/2014":/altext/stjt/2014.045.html, 1. - 21. gr. Breytingarnar taka gildi 1. jan. 2015 skv. 22. gr. s.l._
+   _[^1)^]"L. 45/2014, 21. gr.":/altext/stjt/2014.045.html_
 
- *Tóku gildi 1. janúar 2001.* _Breytt með_ "l. 27/2008":/altext/stjt/2008.027.html (tóku gildi 19. apríl 2008), "l. 48/2009":/altext/stjt/2009.048.html (tóku gildi 23. apríl 2009) og "l. 45/2014":/altext/stjt/2014.045.html (taka gildi 1. jan. 2015 nema 3. tölul. 20. gr. sem tók gildi 29. maí 2014).
+ *Tóku gildi 1. janúar 2001.* _Breytt með_ "l. 27/2008":/altext/stjt/2008.027.html (tóku gildi 19. apríl 2008), "l. 48/2009":/altext/stjt/2009.048.html (tóku gildi 23. apríl 2009) og "l. 45/2014":/altext/stjt/2014.045.html (tóku gildi 1. jan. 2015 nema 3. tölul. 20. gr. sem tók gildi 29. maí 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *heilbrigðisráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -17,87 +17,136 @@ h2. Lög um lífsýnasöfn[^1)^]
 
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Markmið._
- □ Markmiðið með lögum þessum er að heimila söfnun, vörslu, meðferð og nýtingu lífsýna úr mönnum með þeim hætti að persónuvernd sé trygg, gætt sé hagsmuna lífsýnisgjafa og nýting lífsýnanna þjóni vísindalegum og læknisfræðilegum tilgangi og stuðli að almannaheill.
- □ Aldrei skal setja hagsmuni vísinda og samfélags ofar hagsmunum lífsýnisgjafa. Óheimilt er að mismuna lífsýnisgjafa á grundvelli upplýsinga sem fengnar eru úr lífsýni hans.
+ □ Markmiðið með lögum þessum er að heimila söfnun, vörslu, meðferð og nýtingu lífsýna úr mönnum [og vörslu, meðferð og nýtingu heilbrigðisupplýsinga sem aflað er til vísindarannsókna][^1)^] með þeim hætti að persónuvernd sé trygg, gætt sé hagsmuna [einstaklinga][^1)^] og nýting [heilbrigðisgagnanna][^1)^] þjóni vísindalegum og læknisfræðilegum tilgangi og stuðli að almannaheill.
+ □ Aldrei skal setja hagsmuni vísinda og samfélags ofar hagsmunum [einstaklinga].[^1)^] Óheimilt er að mismuna [einstaklingi][^1)^] á grundvelli upplýsinga sem fengnar eru úr lífsýni hans [eða heilbrigðisupplýsingum].[^1)^]
+    _[^1)^]"L. 45/2014, 1. gr.":/altext/stjt/2014.045.html_
  ■ *2. gr.* _Gildissvið._
  □ Lög þessi taka til söfnunar lífsýna, vörslu, meðferðar, nýtingar og vistunar þeirra í lífsýnasöfnum.
  □ Lögin taka ekki til tímabundinnar vörslu lífsýna sem safnað er vegna þjónusturannsókna, meðferðar, eða afmarkaðra vísindarannsókna, enda sé slíkum sýnum eytt þegar þjónustu, meðferð eða rannsókn lýkur. Með tímabundinni vörslu er átt við vörslu í allt að fimm ár, nema vísindasiðanefnd veiti heimild til vörslu í lengri tíma. Sé óskað eftir varðveislu slíkra sýna til frambúðar skal vista þau í lífsýnasafni.
- □ Lögin gilda ekki um geymslu kynfrumna og fósturvísa samkvæmt [lögum um tæknifrjóvgun og notkun kynfrumna og fósturvísa manna til stofnfrumurannsókna],[^1)^] líffæra samkvæmt lögum um brottnám líffæra eða líkamsleifa samkvæmt þjóðminjalögum.
-    _[^1)^]"L. 27/2008, 11. gr.":/altext/stjt/2008.027.html_
+ □ [Lög þessi taka til vörslu, meðferðar, nýtingar og vistunar heilbrigðisupplýsinga í söfnum heilbrigðisupplýsinga.
+ □ Lög þessi taka til varðveislu heilbrigðisupplýsinga, sem aflað var til vísindarannsóknar á heilbrigðissviði eða urðu til við framkvæmd hennar, í samræmi við lög um vísindarannsóknir á heilbrigðissviði, eftir að rannsókn er lokið. Lögin taka ekki til tímabundinnar vörslu heilbrigðisupplýsinga vegna afmarkaðra vísindarannsókna enda sé slíkum upplýsingum eytt eftir að rannsókn lýkur.][^1)^]
+ □ Lögin gilda ekki um geymslu kynfrumna og fósturvísa samkvæmt [lögum um tæknifrjóvgun og notkun kynfrumna og fósturvísa manna til stofnfrumurannsókna],[^2)^] líffæra samkvæmt lögum um brottnám líffæra eða líkamsleifa samkvæmt þjóðminjalögum.
+ □ [Um meðferð upplýsinga í sjúkraskrá gilda lög um sjúkraskrár.][^1)^]
+    _[^1)^]"L. 45/2014, 2. gr.":/altext/stjt/2014.045.html [^2)^]"L. 27/2008, 11. gr.":/altext/stjt/2008.027.html_
  ■ *3. gr.* _Skilgreiningar._
  □ Í lögum þessum hafa eftirfarandi orð svofellda merkingu:
     1. _Lífsýni:_ Lífrænt efni úr mönnum, lifandi eða látnum, sem veitt getur um þá líffræðilegar upplýsingar.
-    [2. _Persónugreinanlegt lífsýni:_ Sýni sem unnt er að rekja beint eða óbeint til lífsýnisgjafa.
+    [2. [_Persónugreinanleg heilbrigðisgögn:_ Heilbrigðisgögn sem unnt er að rekja beint eða óbeint til einstaklings.][^1)^]
     3. _Vísindasýni:_ Lífsýni sem aflað er í vísindalegum tilgangi.
-    4. _Þjónustusýni:_ Lífsýni sem tekin eru vegna heilbrigðisþjónustu við einstaklinginn.][^1)^]
-    [5. ][^1)^] _Lífsýnasafn:_ Safn lífsýna sem geymd eru til frambúðar.
+    4. _Þjónustusýni:_ Lífsýni sem tekin eru vegna heilbrigðisþjónustu við einstaklinginn.][^2)^]
+    [5. ][^2)^] _Lífsýnasafn:_ Safn lífsýna sem geymd eru til frambúðar.
     [6. _Lífsýnasafn vísindasýna:_ Safn vísindasýna sem varðveita skal lengur en fimm ár.
-    7. _Lífsýnasafn þjónustusýna:_ Safn þjónustusýna sem varðveita skal lengur en fimm ár.][^1)^]
-    [8. ][^1)^] _Vísindarannsókn:_ Rannsókn sem ætlað er að auka þekkingu, m.a. til að bæta heilsu og lækna sjúkdóma.
-    [9. ][^1)^] _Þjónusturannsókn:_ Rannsókn sem framkvæmd er vegna heilbrigðisþjónustu við einstaklinga.
-    [10. ][^1)^] _Upplýst, óþvingað samþykki:_ Samþykki sem veitt er skriflega og af fúsum og frjálsum vilja eftir að lífsýnisgjafi hefur verið upplýstur um markmið með töku sýnisins, gagnsemi þess, áhættu samfara tökunni og að lífsýnið verði varðveitt til frambúðar í lífsýnasafni til notkunar skv. 9. gr.
-    [11. ][^1)^] _Ætlað samþykki:_ Samþykki sem felst í því að lífsýnisgjafi hefur ekki lýst sig mótfallinn því að lífsýni sem tekið er úr honum við þjónusturannsókn verði varðveitt til frambúðar í lífsýnasafni til notkunar skv. 9. gr., enda hafi skriflegar upplýsingar um að slíkt kynni að verða gert verið aðgengilegar.
-    [12. ][^1)^] _Lífsýnisgjafi:_ Einstaklingur sem lífsýni er úr.
-    [13. ][^1)^] _Leyfishafi:_ Einstaklingur eða lögaðili sem fengið hefur leyfi ráðherra til starfrækslu lífsýnasafns skv. 4. gr. laga þessara.
-    _[^1)^]"L. 48/2009, 1. gr.":/altext/stjt/2009.048.html_
+    7. _Lífsýnasafn þjónustusýna:_ Safn þjónustusýna sem varðveita skal lengur en fimm ár.][^2)^]
+    [8. ][^2)^] [_Vísindarannsókn á heilbrigðissviði:_ Rannsókn á mönnum, lífsýnum og heilbrigðisupplýsingum þar sem beitt er vísindalegum aðferðum til að auka þekkingu á heilbrigði og sjúkdómum.][^1)^]
+    [9. ][^2)^] _Þjónusturannsókn:_ Rannsókn sem framkvæmd er vegna heilbrigðisþjónustu við einstaklinga.
+    [10. ][^2)^] _Upplýst, óþvingað samþykki:_ Samþykki sem veitt er skriflega og af fúsum og frjálsum vilja eftir að lífsýnisgjafi hefur verið upplýstur um markmið með töku sýnisins, gagnsemi þess, áhættu samfara tökunni og að lífsýnið verði varðveitt til frambúðar í lífsýnasafni til notkunar skv. 9. gr.
+    [11. ][^2)^] _Ætlað samþykki:_ Samþykki sem felst í því að lífsýnisgjafi hefur ekki lýst sig mótfallinn því að lífsýni sem tekið er úr honum við þjónusturannsókn verði varðveitt til frambúðar í lífsýnasafni til notkunar skv. 9. gr., enda hafi skriflegar upplýsingar um að slíkt kynni að verða gert verið aðgengilegar.
+    [12. ][^2)^] _Lífsýnisgjafi:_ Einstaklingur sem lífsýni er úr.
+    [13. ][^2)^] _Leyfishafi:_ Einstaklingur eða lögaðili sem fengið hefur leyfi ráðherra til starfrækslu lífsýnasafns skv. 4. gr. laga þessara.
+    [14. _Heilbrigðisupplýsingar:_ Sjúkraskrárupplýsingar, upplýsingar og gögn úr lífsýnasöfnum og söfnum heilbrigðisupplýsinga og aðrar upplýsingar um sjúkrasögu og heilsuhagi.
+    15. _Heilbrigðisgögn:_ Heilbrigðisupplýsingar og lífsýni.
+    16. _Safn heilbrigðisupplýsinga:_ Safn sem hefur fengið leyfi ráðherra til að varðveita heilbrigðisupplýsingar sem aflað er til vísindarannsókna eða verða til við framkvæmd þeirra.
+    17. _Ábyrgðarmaður rannsóknar:_ Einstaklingur sem ber ábyrgð á framkvæmd rannsóknar samkvæmt rannsóknaáætlun sem samþykkt hefur verið af vísindasiðanefnd eða siðanefnd heilbrigðisrannsókna.][^1)^]
+    _[^1)^]"L. 45/2014, 3. gr.":/altext/stjt/2014.045.html [^2)^]"L. 48/2009, 1. gr.":/altext/stjt/2009.048.html_
 
- *II. kafli.* *Stofnun og starfræksla lífsýnasafna.*
+ *II. kafli.* *[Stofnun og starfræksla lífsýnasafna og safna heilbrigðisupplýsinga.][^1)^]*
+    _[^1)^]"L. 45/2014, 8. gr.":/altext/stjt/2014.045.html_
  ■ *4. gr.* _Heimild til stofnunar og starfrækslu._
- □ Stofnun og starfræksla lífsýnasafns, þ.e. söfnun, varsla, meðferð, nýting og vistun lífsýna, er einungis heimil þeim sem fengið hefur til þess leyfi ráðherra samkvæmt lögum þessum, að fenginni umsögn landlæknis og vísindasiðanefndar.
+ □ [Stofnun og starfræksla lífsýnasafns og safns heilbrigðisupplýsinga, þ.e. söfnun, varsla, meðferð, nýting og vistun lífsýna og heilbrigðisupplýsinga sem aflað er til vísindarannsókna, er einungis heimil þeim sem fengið hefur til þess leyfi ráðherra samkvæmt lögum þessum, að fenginni umsögn landlæknis, vísindasiðanefndar og Persónuverndar.][^1)^]
+    _[^1)^]"L. 45/2014, 4. gr.":/altext/stjt/2014.045.html_
  ■ *5. gr.* _Skilyrði fyrir leyfi._
- □ Leyfi til stofnunar og starfrækslu lífsýnasafns er háð eftirfarandi skilyrðum:
+ □ Leyfi til stofnunar og starfrækslu lífsýnasafns [og safns heilbrigðisupplýsinga][^1)^] er háð eftirfarandi skilyrðum:
     1. Uppfyllt séu ákvæði laga þessara og stjórnvaldsfyrirmæla sem kunna að verða sett á grundvelli þeirra.
-    2. Lífsýnasafnið sé staðsett hér á landi.
+    2. [Safnið][^1)^] sé staðsett hér á landi.
     3. Fyrir liggi skýr markmið með starfrækslu og upplýsingar um rekstrargrundvöll safnsins.
-    4. Gerð sé grein fyrir aðstöðu til varðveislu lífsýna.
-    5. Starfsreglur lífsýnasafnsins liggi fyrir, þar með taldar reglur safnsins um fyrirkomulag erlends samstarfs.
-    6. Tilnefnd sé safnstjórn, sbr. 6. gr., og einn einstaklingur sem sé ábyrgur fyrir lífsýnasafninu.
-    7. Ábyrgðarmaður lífsýnasafns skal vera læknir og hafa stundað sjálfstæð rannsókna- og þróunarstörf á sviði heilbrigðisvísinda. Sé um að ræða lífsýnasafn þar sem eingöngu eru lífsýni sem safnað er til notkunar í vísindarannsóknum er þó ekki gerð krafa um að ábyrgðarmaður sé læknir.
-    [8. Séu bæði vísindasýni og þjónustusýni í sama lífsýnasafni skulu þau vera skýrt aðgreind og merkt þannig að tryggt sé að varsla, meðferð og nýting þeirra sé í samræmi við ákvæði laganna og stjórnvaldsfyrirmæla sem sett eru á grundvelli þeirra.][^1)^]
-    [9. ][^1)^] Að öryggismat og öryggisráðstafanir við söfnun og meðferð lífsýna séu í samræmi við reglur[^2)^] [Persónuverndar][^1)^] um öryggi persónuupplýsinga í lífsýnasöfnum.
+    4. Gerð sé grein fyrir aðstöðu til varðveislu [heilbrigðisgagna].[^1)^]
+    5. Starfsreglur [safnsins][^1)^] liggi fyrir, þar með taldar reglur safnsins um fyrirkomulag erlends samstarfs.
+    6. Tilnefnd sé safnstjórn, sbr. 6. gr., og einn einstaklingur sem sé ábyrgur fyrir [safninu].[^1)^]
+    7. [Ábyrgðarmaður lífsýnasafns og safns heilbrigðisupplýsinga skal hafa nauðsynlega sérþekkingu og hafa stundað sjálfstæð rannsóknar- og þróunarstörf á sviði heilbrigðisvísinda.][^1)^]
+    [8. Séu bæði vísindasýni og þjónustusýni í sama lífsýnasafni skulu þau vera skýrt aðgreind og merkt þannig að tryggt sé að varsla, meðferð og nýting þeirra sé í samræmi við ákvæði laganna og stjórnvaldsfyrirmæla sem sett eru á grundvelli þeirra.][^2)^]
+    [9. ][^2)^] [Öryggismat og öryggisráðstafanir við söfnun og meðferð lífsýna og meðferð heilbrigðisupplýsinga í safni heilbrigðisupplýsinga séu í samræmi við reglur[^3)^] Persónuverndar um öryggi persónuupplýsinga í lífsýnasöfnum og söfnum heilbrigðisupplýsinga.][^1)^]
  □ Ráðherra getur bundið leyfi frekari skilyrðum.
-    _[^1)^]"L. 48/2009, 2. gr.":/altext/stjt/2009.048.html [^2)^]Rgl. 918/2001._
- ■ *6. gr.* _Stjórn lífsýnasafns._
- □ Leyfishafi skipar a.m.k. þriggja manna stjórn yfir hverju lífsýnasafni sem skal hafa eftirlit með starfsemi þess. Stjórnin hefur upplýsingaskyldu gagnvart landlækni, Persónuvernd og vísindasiðanefnd um lífsýni og starfsemi lífsýnasafnsins.
+    _[^1)^]"L. 45/2014, 5. gr.":/altext/stjt/2014.045.html [^2)^]"L. 48/2009, 2. gr.":/altext/stjt/2009.048.html [^3)^]Rgl. 918/2001._
+ ■ *6. gr.* _[Stjórn lífsýnasafns og safns heilbrigðisupplýsinga.][^1)^]_
+ □ Leyfishafi skipar a.m.k. þriggja manna stjórn yfir hverju lífsýnasafni [og hverju safni heilbrigðisupplýsinga][^1)^] sem skal hafa eftirlit með starfsemi þess, [sbr. þó 6. gr. a].[^1)^] Stjórnin hefur upplýsingaskyldu gagnvart landlækni, Persónuvernd og vísindasiðanefnd um [heilbrigðisgögn][^1)^] og starfsemi [safnanna].[^1)^]
+    _[^1)^]"L. 45/2014, 6. gr.":/altext/stjt/2014.045.html_
+ ■ *[6. gr. a.* _Heimild til samrekstrar lífsýnasafns og safns heilbrigðisupplýsinga._
+ □ Ráðherra getur að fenginni umsögn landlæknis, vísindasiðanefndar og Persónuverndar veitt heimild til að reka samhliða lífsýnasafn og safn heilbrigðisupplýsinga með einni safnstjórn, sbr. 6. gr.][^1)^]
+    _[^1)^]"L. 45/2014, 7. gr.":/altext/stjt/2014.045.html_
 
- *III. kafli.* *Söfnun, meðferð og aðgangur að lífsýnum.*
+ *III. kafli.* *[Söfnun, meðferð og aðgangur að heilbrigðisgögnum.][^1)^]*
+    _[^1)^]"L. 45/2014, 15. gr.":/altext/stjt/2014.045.html_
  ■ *7. gr.* _Samþykki lífsýnisgjafa og afturköllun þess._
  □ Við öflun lífsýnis til vörslu í [lífsýnasafni vísindasýna][^1)^] skal leitað eftir upplýstu, óþvinguðu samþykki þess sem lífsýnið gefur. Það skal veitt skriflega og af fúsum og frjálsum vilja eftir að lífsýnisgjafi hefur verið upplýstur um markmið með töku sýnisins, gagnsemi þess, áhættu samfara tökunni og að lífsýnið verði varðveitt til frambúðar í [lífsýnasafni vísindasýna][^1)^] til notkunar skv. 9. gr. Auk þess skal gætt ákvæða 20. gr. laga um persónuvernd og meðferð persónuupplýsinga þar sem það á við.
  □ Lífsýnisgjafi getur hvenær sem er afturkallað samþykki sitt skv. 1. mgr. og skal lífsýninu þá eytt. Efni sem unnið hefur verið úr lífsýni við framkvæmd rannsóknar eða niðurstöðum rannsóknar sem þegar hefur verið framkvæmd skal þó ekki eytt.
  □ Hafi lífsýnum verið safnað vegna þjónusturannsókna eða meðferðar má ganga út frá ætluðu samþykki sjúklings fyrir því að lífsýnið verði vistað í [lífsýnasafni þjónustusýna][^1)^] til notkunar skv. 9. gr., enda sé þess getið í almennum upplýsingum frá heilbrigðisstarfsmanni eða heilbrigðisstofnun.
- □ Lífsýnisgjafi getur hvenær sem er afturkallað ætlað samþykki sitt fyrir að sýni hans verði vistað í [lífsýnasafni þjónustusýna][^1)^] til notkunar skv. 9. gr. og skal það þá einungis notað í þágu lífsýnisgjafa eða með sérstakri heimild hans, sbr. þó [5. mgr. 9. gr.][^1)^] Beiðni lífsýnisgjafa getur varðað öll [persónugreinanleg][^1)^] lífsýni sem þegar hafa verið tekin eða kunna að verða tekin úr honum. Skylt er að verða við slíkri beiðni. Lífsýnisgjafi skal tilkynna landlækni um ósk sína. Landlæknir skal annast gerð eyðublaða fyrir slíkar tilkynningar og sjá til þess að þau liggi frammi á heilbrigðisstofnunum og hjá sjálfstætt starfandi heilbrigðisstarfsmönnum. [Landlæknir skal halda dulkóðaða skrá um einstaklinga sem lagt hafa bann við notkun lífsýna úr þjónusturannsóknum til vísindarannsókna og við vistun þeirra í lífsýnasafni vísindasýna. Skráin skal vera aðgengileg ábyrgðarmönnum lífsýnasafna og skulu þeir tryggja að vilji einstaklingsins sé virtur.][^1)^] Þeir starfsmenn landlæknis sem starfa við framangreint eru bundnir þagnarskyldu um atriði sem þeir komast að við störf sín og leynt skulu fara samkvæmt lögum eða eðli máls. Skulu þeir undirrita þagnarheit áður en þeir taka til starfa. Þagnarskylda helst þótt látið sé af starfi.
-    _[^1)^]"L. 48/2009, 3. gr.":/altext/stjt/2009.048.html_
- ■ *8. gr.* _Varðveisla lífsýna._
- □ [Lífsýni skulu tryggilega geymd og merkt. Vísindasýni skulu varðveitt án persónuauðkenna og skulu tengsl lífsýna við persónuauðkenni vera í samræmi við reglur Persónuverndar.][^1)^]
- □ Varsla lífsýna skal vera þannig að þau glatist hvorki né skemmist og að óviðkomandi hafi ekki aðgang að þeim.
- □ Ákveði leyfishafi að hætta rekstri lífsýnasafns, eða sé hann sviptur leyfi skv. 14. gr., skal ráðherra, að fengnu áliti landlæknis, Persónuverndar og vísindasiðanefndar, taka ákvörðun um ráðstöfun lífsýnasafnsins en taka skal tillit til óska og tillagna leyfishafa.
-    _[^1)^]"L. 48/2009, 4. gr.":/altext/stjt/2009.048.html_
- ■ *9. gr.* _Aðgangur að lífsýnasafni og notkun lífsýna._
- □ Lífsýni skulu fengin í skýrt tilgreindum og lögmætum tilgangi og ekki notuð í öðrum tilgangi, sbr. þó 2., 3., [4. og 5. mgr.][^1)^]
- □ Ábyrgðarmaður safns veitir aðgang að lífsýnum til frekari greiningar sjúkdóma. Honum er einnig heimilt að veita aðgang að lífsýnum til notkunar við gæðaeftirlit, aðferðaþróun og kennslu, enda séu þau ekki með persónuauðkennum.
- □ Safnstjórn gerir samninga við vísindamenn um aðgang að lífsýnum. Ekki er þó heimilt að veita aðgang að lífsýnum til vísindarannsókna fyrr en aflað hefur verið leyfis Persónuverndar samkvæmt lögum um persónuvernd og meðferð persónuupplýsinga og fyrir liggur rannsóknaáætlun samþykkt af vísindasiðanefnd eða siðanefnd viðkomandi heilbrigðisstofnunar sem skipuð er samkvæmt ákvæðum laga um réttindi sjúklinga og reglugerða samkvæmt þeim.
- □ [Þegar veittur er aðgangur að þjónustusýnum til vísindarannsókna skulu þau afhent án persónuauðkenna. Í undantekningartilvikum er heimilt, með leyfi Persónuverndar, að afhenda lífsýni með persónuauðkennum. Tengsl lífsýna við persónuauðkenni skulu vera í samræmi við reglur Persónuverndar.][^1)^]
- □ Safnstjórn getur, að fengnu leyfi Persónuverndar og vísindasiðanefndar, heimilað notkun lífsýna í öðrum tilgangi en ætlað var þegar þau voru tekin, enda mæli brýnir hagsmunir með því og ávinningurinn vegi þyngra en hugsanlegt óhagræði fyrir lífsýnisgjafann eða aðra aðila.
- □ Ráðherra skal, að fengnum tillögum landlæknis, vísindasiðanefndar og Persónuverndar, setja reglugerð[^2)^] með frekari ákvæði um notkun lífsýna.
-    _[^1)^]"L. 48/2009, 5. gr.":/altext/stjt/2009.048.html [^2)^]"Rg. 1146/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1146-2010._
+ □ Lífsýnisgjafi getur hvenær sem er afturkallað ætlað samþykki sitt fyrir að sýni hans verði vistað í [lífsýnasafni þjónustusýna][^1)^] til notkunar skv. 9. gr. og skal það þá einungis notað í þágu lífsýnisgjafa eða með sérstakri heimild hans, sbr. þó [6. mgr. 9. gr.][^2)^] Beiðni lífsýnisgjafa getur varðað öll [persónugreinanleg][^1)^] lífsýni sem þegar hafa verið tekin eða kunna að verða tekin úr honum. Skylt er að verða við slíkri beiðni. Lífsýnisgjafi skal tilkynna landlækni um ósk sína. Landlæknir skal annast gerð eyðublaða fyrir slíkar tilkynningar og sjá til þess að þau liggi frammi á heilbrigðisstofnunum og hjá sjálfstætt starfandi heilbrigðisstarfsmönnum. [Landlæknir skal halda dulkóðaða skrá um einstaklinga sem lagt hafa bann við notkun lífsýna úr þjónusturannsóknum til vísindarannsókna og við vistun þeirra í lífsýnasafni vísindasýna. Skráin skal vera aðgengileg ábyrgðarmönnum lífsýnasafna og skulu þeir tryggja að vilji einstaklingsins sé virtur.][^1)^] Þeir starfsmenn landlæknis sem starfa við framangreint eru bundnir þagnarskyldu um atriði sem þeir komast að við störf sín og leynt skulu fara samkvæmt lögum eða eðli máls. Skulu þeir undirrita þagnarheit áður en þeir taka til starfa. Þagnarskylda helst þótt látið sé af starfi.
+    _[^1)^]"L. 48/2009, 3. gr.":/altext/stjt/2009.048.html [^2)^]"L. 45/2014, 9. gr.":/altext/stjt/2014.045.html_
+ ■ *[7. gr. a.* _Heimild fyrir varðveislu heilbrigðisupplýsinga._
+ □ Um heimild fyrir varðveislu heilbrigðisupplýsinga sem aflað er til vísindarannsókna eða verða til við framkvæmd þeirra fer samkvæmt lögum um vísindarannsóknir á heilbrigðissviði.][^1)^]
+    _[^1)^]"L. 45/2014, 10. gr.":/altext/stjt/2014.045.html_
+ ■ *[7. gr. b.* _Samningar safnstjórnar og ábyrgðarmanna vísindarannsókna._
+ □ Safnstjórn gerir samninga við ábyrgðarmenn vísindarannsókna sem leggja heilbrigðisgögn í safn. Þar skal m.a. kveðið á um vörslu og aðgang að heilbrigðisgögnum og hvernig fara skuli með þau ef ábyrgðarmaður rannsóknar getur ekki lengur uppfyllt hlutverk sitt.
+ □ Ráðherra getur sett reglugerð um nánari framkvæmd þessa ákvæðis.][^1)^]
+    _[^1)^]"L. 45/2014, 10. gr.":/altext/stjt/2014.045.html_
+ ■ *8. gr.* _[Varðveisla heilbrigðisgagna.][^1)^]_
+ □ [Lífsýni skulu tryggilega geymd og merkt. Vísindasýni [og heilbrigðisupplýsingar][^1)^] skulu varðveitt án persónuauðkenna og skulu tengsl [þeirra][^1)^] við persónuauðkenni vera í samræmi við reglur Persónuverndar.][^2)^]
+ □ Varsla [heilbrigðisgagna][^1)^] skal vera þannig að þau glatist hvorki né skemmist og að óviðkomandi hafi ekki aðgang að þeim.
+ □ [Heilbrigðisupplýsingar úr hverri vísindarannsókn skulu varðveittar sérgreindar í safni heilbrigðisupplýsinga. Óheimilt er að tengja saman heilbrigðisupplýsingar um einstaklinga úr mismunandi rannsóknum á meðan þær eru varðveittar í safni heilbrigðisupplýsinga.][^1)^]
+ □ Ákveði leyfishafi að hætta rekstri lífsýnasafns [eða safns heilbrigðisupplýsinga],[^1)^] eða sé hann sviptur leyfi skv. 14. gr., skal ráðherra, að fengnu áliti landlæknis, Persónuverndar og vísindasiðanefndar, taka ákvörðun um ráðstöfun [safnsins][^1)^] en taka skal tillit til óska og tillagna leyfishafa.
+    _[^1)^]"L. 45/2014, 11. gr.":/altext/stjt/2014.045.html [^2)^]"L. 48/2009, 4. gr.":/altext/stjt/2009.048.html_
+ ■ *9. gr.* _[Aðgangur að heilbrigðisgögnum í söfnum og notkun þeirra.][^1)^]_
+ □ [Heilbrigðisgögn][^1)^] skulu fengin í skýrt tilgreindum og lögmætum tilgangi og ekki notuð í öðrum tilgangi, sbr. þó [2. - 7. mgr.][^1)^]
+ □ Ábyrgðarmaður [lífsýnasafns][^1)^] veitir aðgang að lífsýnum til frekari greiningar sjúkdóma. Honum er einnig heimilt að veita aðgang að lífsýnum til notkunar við gæðaeftirlit, aðferðaþróun og kennslu, enda séu þau ekki með persónuauðkennum.
+ □ [Safnstjórn veitir aðgang að heilbrigðisgögnum úr nánar tilgreindri vísindarannsókn til frekari vísindarannsókna og skal hún gæta ákvæða samninga sem gerðir hafa verið við ábyrgðarmenn vísindarannsókna, sbr. ákvæði 7. gr. b.][^1)^]
+ □ [Ekki er heimilt að veita aðgang að heilbrigðisgögnum til vísindarannsókna nema fyrir liggi rannsóknaáætlun samþykkt af vísindasiðanefnd eða siðanefnd heilbrigðisrannsókna.][^1)^]
+ □ [Þegar veittur er aðgangur að þjónustusýnum til vísindarannsókna skulu þau afhent án persónuauðkenna. Í undantekningartilvikum er heimilt, með leyfi Persónuverndar, að afhenda lífsýni með persónuauðkennum. Tengsl lífsýna við persónuauðkenni skulu vera í samræmi við reglur Persónuverndar.][^2)^]
+ □ [Safnstjórn lífsýnasafns getur, að fengnu leyfi Persónuverndar og vísindasiðanefndar þegar það á við, heimilað notkun lífsýna í öðrum tilgangi en greinir í 2. - 4. mgr., enda mæli brýnir hagsmunir með því og ávinningurinn vegi þyngra en hugsanlegt óhagræði fyrir lífsýnisgjafann eða aðra aðila.][^1)^]
+ □ Ráðherra skal, að fengnum tillögum landlæknis, vísindasiðanefndar og Persónuverndar, setja reglugerð[^3)^] með frekari ákvæði um notkun lífsýna.
+    _[^1)^]"L. 45/2014, 12. gr.":/altext/stjt/2014.045.html [^2)^]"L. 48/2009, 5. gr.":/altext/stjt/2009.048.html [^3)^]"Rg. 1146/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1146-2010._
  ■ *10. gr.* _Umráðaréttur og gjaldtaka._
- □ Leyfishafi telst ekki eigandi lífsýnanna en hefur umráðarétt yfir þeim með þeim takmörkunum sem lög kveða á um og ber ábyrgð á að meðferð þeirra sé í samræmi við ákvæði laga þessara og stjórnvaldsfyrirmæla sem sett eru á grundvelli þeirra. Leyfishafa er því óheimilt að framselja lífsýnin eða setja þau að veði til tryggingar fjárskuldbindingum og þau eru ekki aðfararhæf.
- □ Leyfishafa er heimilt að taka gjald fyrir lífsýni, eða aðgang að lífsýni, sem nemur kostnaði við öflun, vörslu og aðgang að sýnunum. Gjaldtaka umfram það er óheimil.
- □ Heimilt er að senda lífsýni úr landi í þágu lífsýnisgjafa, vegna sjúkdómsgreininga eða gæðaeftirlits. Annar flutningur lífsýna úr landi er háður samþykki vísindasiðanefndar og Persónuverndar ...[^1)^] með þeim skilyrðum sem þær setja.
-    _[^1)^]"L. 48/2009, 6. gr.":/altext/stjt/2009.048.html_
+ □ Leyfishafi [safns][^1)^] telst ekki eigandi [heilbrigðisgagna][^1)^] en hefur umráðarétt yfir þeim með þeim takmörkunum sem lög kveða á um og ber ábyrgð á að meðferð þeirra sé í samræmi við ákvæði laga þessara og stjórnvaldsfyrirmæla sem sett eru á grundvelli þeirra. Leyfishafa er því óheimilt að framselja [heilbrigðisgögn][^1)^] eða setja þau að veði til tryggingar fjárskuldbindingum og þau eru ekki aðfararhæf.
+ □ Leyfishafa er heimilt að taka gjald fyrir [heilbrigðisgögn],[^1)^] eða aðgang að [heilbrigðisgögnum],[^1)^] sem nemur kostnaði við öflun, vörslu og aðgang að [gögnunum].[^1)^] Gjaldtaka umfram það er óheimil.
+ □ Heimilt er að senda lífsýni úr landi í þágu lífsýnisgjafa, vegna sjúkdómsgreininga eða gæðaeftirlits. [Um flutning heilbrigðisgagna úr landi fer samkvæmt ákvæðum laga um persónuvernd og meðferð persónuupplýsinga.][^1)^]
+    _[^1)^]"L. 45/2014, 13. gr.":/altext/stjt/2014.045.html_
  ■ *11. gr.* _Þagnarskylda._
- □ Allir starfsmenn lífsýnasafna og þeir sem fá aðgang að þeim eru bundnir þagnarskyldu um atriði sem þeir komast að við störf sín og leynt skulu fara samkvæmt lögum eða eðli máls. Þagnarskyldan helst eftir að starfi, rannsókn eða kennslu lýkur.
+ □ Allir starfsmenn lífsýnasafna [og safna heilbrigðisupplýsinga][^1)^] og þeir sem fá aðgang að þeim, [þar á meðal eftirlitsaðilar],[^1)^] eru bundnir þagnarskyldu um atriði sem þeir komast að við störf sín og leynt skulu fara samkvæmt lögum eða eðli máls. Þagnarskyldan helst eftir að starfi, rannsókn eða kennslu lýkur.
+    _[^1)^]"L. 45/2014, 14. gr.":/altext/stjt/2014.045.html_
 
  *IV. kafli.* *Eftirlit og upplýsingaskylda.*
  ■ *12. gr.* _Eftirlit._
- □ Ábyrgðarmaður lífsýnasafns ber ábyrgð á því að viðhaft sé innra eftirlit og að öryggismat sé framkvæmt reglulega í samræmi við ákvæði 11. og 12. gr. laga um persónuvernd og meðferð persónuupplýsinga.
- □ Persónuvernd hefur eftirlit með öryggi persónuupplýsinga í lífsýnasöfnum. Um eftirlit Persónuverndar með lífsýnasöfnum gilda ákvæði 4. mgr. 35. gr., 2. og 3. mgr. 37. gr. og 38. - 43. gr. laga um persónuvernd og meðferð persónuupplýsinga.
- □ [Vísindasiðanefnd hefur eftirlit með starfsemi lífsýnasafna vísindasýna. Landlæknir hefur eftirlit með starfsemi lífsýnasafna þjónustusýna. Um eftirlit landlæknis fer samkvæmt lögum um landlækni.][^1)^]
-    _[^1)^]"L. 48/2009, 7. gr.":/altext/stjt/2009.048.html_
- ■ *13. gr.* _Upplýsingaskylda stjórnvalda og stjórna lífsýnasafna._
- □ Landlækni er skylt að kynna ítarlega fyrir almenningi ákvæði laga þessara um lífsýnasöfn, sérstaklega ákvæðið um ætlað samþykki lífsýnisgjafa vegna þjónusturannsóknar, svo og rétt einstaklinga skv. 7. gr. og 3. mgr. þessarar greinar.
- □ Landlæknir skal árlega gefa út skrá um lífsýnasöfn, tilgang þeirra, starfsemi og starfsreglur. Í skránni skal m.a. koma fram hverjir skipi stjórn hvers safns og hver sé ábyrgðarmaður. Skrá þessi skal kynnt og vera aðgengileg almenningi.
- □ Safnstjórn eða landlækni er skylt að veita einstaklingi upplýsingar um hvort lífsýni úr honum eru geymd í lífsýnasafni og hvers konar lífsýni það eru.
+ □ Ábyrgðarmaður [safns][^1)^] ber ábyrgð á því að viðhaft sé innra eftirlit og að öryggismat sé framkvæmt reglulega í samræmi við ákvæði 11. og 12. gr. laga um persónuvernd og meðferð persónuupplýsinga.
+ □ Persónuvernd hefur eftirlit með öryggi persónuupplýsinga í lífsýnasöfnum [og söfnum heilbrigðisupplýsinga].[^1)^] Um eftirlit Persónuverndar með [söfnum][^1)^] gilda ákvæði 4. mgr. 35. gr., 2. og 3. mgr. 37. gr. og 38. - 43. gr. laga um persónuvernd og meðferð persónuupplýsinga.
+ □ [Landlæknir hefur eftirlit með starfsemi lífsýnasafna og safna heilbrigðisupplýsinga. Um framkvæmd eftirlits landlæknis fer skv. 1. og 2. mgr. 7. gr. laga um landlækni og lýðheilsu, eftir því sem við á, m.a. um heimild landlæknis til að krefjast upplýsinga, gagna og aðgangs að stofnunum og fyrirtækjum vegna eftirlitshlutverks síns og beita úrræðum 2. mgr. 7. gr. telji hann að starfsemi uppfylli ekki skilyrði laga og stjórnvaldsfyrirmæla. Ráðherra getur sett nánari ákvæði um framkvæmd eftirlits landlæknis með reglugerð.][^1)^]
+    _[^1)^]"L. 45/2014, 16. gr.":/altext/stjt/2014.045.html_
+ ■ *13. gr.* _[Upplýsingaskylda stjórnvalda og stjórna safna.][^1)^]_
+ □ Landlækni er skylt að kynna ítarlega fyrir almenningi ákvæði laga þessara um lífsýnasöfn [og söfn heilbrigðisupplýsinga],[^1)^] sérstaklega ákvæðið um ætlað samþykki lífsýnisgjafa vegna þjónusturannsóknar, svo og rétt einstaklinga skv. 7. gr. og 3. mgr. þessarar greinar.
+ □ Landlæknir skal árlega gefa út skrá um lífsýnasöfn [og söfn heilbrigðisupplýsinga],[^1)^] tilgang þeirra, starfsemi og starfsreglur. Í skránni skal m.a. koma fram hverjir skipi stjórn hvers safns og hver sé ábyrgðarmaður. Skrá þessi skal kynnt og vera aðgengileg almenningi.
+ □ [Safnstjórn eða landlækni er skylt að veita einstaklingi upplýsingar um hvort heilbrigðisgögn, sem rekja má til hans, eru geymd í safni og hvers konar heilbrigðisgögn það eru.][^1)^]
+    _[^1)^]"L. 45/2014, 17. gr.":/altext/stjt/2014.045.html_
+
+ *[IV. kafli A.* *Leitargrunnar.][^1)^]*
+    _[^1)^]"L. 45/2014, 18. gr.":/altext/stjt/2014.045.html_
+ ■ *[13. gr. a.* Heilbrigðisstofnun, sem rekin er af ríki eða sveitarfélagi, er heimilt að starfrækja leitargrunn í þeim tilgangi að kanna fýsileika vísindarannsókna á heilbrigðissviði. Forstjóri stofnunarinnar skal vera ábyrgðarmaður leitargrunns.
+ □ Í leitargrunn má safna þeim upplýsingum úr sjúkraskrám viðkomandi stofnunar sem nýst geta til að kanna fýsileika vísindarannsókna. Einnig má færa í grunninn upplýsingar um hvar má nálgast frekari gögn eða lífsýni.
+ □ Upplýsingar skal varðveita í aðgangsstýrðum leitargrunni á dulkóðuðu formi þannig að ekki sé mögulegt að rekja upplýsingarnar til einstaklings án greiningarlykils.
+ □ Ábyrgðarmaður leitargrunns setur reglur um daglega starfsemi leitargrunnsins, þar á meðal um aðgangsstýringu og aðgangstakmarkanir. Ábyrgðarmaður skipar þriggja manna stjórn leitargrunns. Þess skal gætt að í stjórninni sitji einstaklingar með sérþekkingu á sviði heilbrigðisvísinda, siðfræði og tölvunarfræði. Stjórnin tekur við beiðnum frá vísindamönnum sem óska eftir svörum við spurningum úr leitargrunni eða aðgangi að honum og tekur afstöðu til þeirra.
+ □ Tryggja skal að svar við fyrirspurn úr leitargrunni sé ávallt ópersónugreinanlegt. Eingöngu er heimilt að veita tölfræðilegar upplýsingar, sem geta átt við um hópa einstaklinga, úr leitargrunni. Sjúkdómsgreiningar og læknismeðferðir skulu kóðaðar. Aldrei skulu upplýsingar sem eiga við um færri einstaklinga en tíu veittar úr leitargrunni.
+ □ Niðurstöðu úr fyrirspurn í leitargrunn má einungis nota til rannsókna að fengnu leyfi vísindasiðanefndar eða siðanefndar heilbrigðisrannsókna. Óheimilt er að birta niðurstöðu úr leitargrunni opinberlega.
+ □ Heilbrigðisstofnun sem hyggst starfrækja leitargrunn skal annast gerð greiningarlykils sem varðveittur skal á ábyrgð Persónuverndar. Einungis má nota greiningarlykil til afkóðunar persónuauðkenna þegar leyfi vísindasiðanefndar eða siðanefndar heilbrigðisrannsóknar fyrir vísindarannsókn liggur fyrir.
+ □ Stofnun og starfræksla leitargrunns er einungis heimil þeim sem fengið hefur til þess leyfi ráðherra, að fenginni umsögn vísindasiðanefndar og Persónuverndar.
+ □ Leyfi til stofnunar og starfrækslu leitargrunns er háð eftirfarandi skilyrðum:
+    1. Uppfyllt séu ákvæði laga og stjórnvaldsfyrirmæla um leitargrunna.
+    2. Leitargrunnur sé staðsettur hér á landi.
+    3. Fyrir liggi skýr markmið með starfrækslu leitargrunnsins og upplýsingar um rekstrargrundvöll hans.
+    4. Gerð sé grein fyrir aðstöðu til varðveislu gagna í leitargrunni.
+    5. Gerð sé grein fyrir hvernig aðgangi að leitargrunni verði háttað.
+    6. Öryggismat og öryggisráðstafanir við flutning og meðferð gagna í leitargrunni séu í samræmi við ákvæði laga um persónuvernd og meðferð persónuupplýsinga og reglur Persónuverndar.
+ □ Ráðherra getur bundið leyfi frekari skilyrðum.
+ □ Persónuvernd hefur eftirlit með vinnslu persónuupplýsinga í leitargrunni.
+ □ Leyfishafa er heimilt að taka gjald sem nemur kostnaði við úrvinnslu beiðna og afhendingu upplýsinga úr leitargrunni.
+ □ Ráðherra getur sett reglugerð um nánari framkvæmd þessa ákvæðis.][^1)^]
+    _[^1)^]"L. 45/2014, 18. gr.":/altext/stjt/2014.045.html_
 
  *V. kafli.* *Refsingar og önnur viðurlög.*
  ■ *14. gr.* Ráðherra getur afturkallað leyfi samkvæmt lögum þessum ef leyfishafi eða starfsmenn hans brjóta gegn ákvæðum laganna eða stjórnvaldsfyrirmælum sem sett eru á grundvelli þeirra, skilyrðum leyfis er ekki fullnægt eða leyfishafi verður ófær um að reka safnið. Brjóti leyfishafi gegn ákvæðum laga þessara eða hlíti ekki skilyrðum þeim sem sett eru í leyfinu skal ráðherra veita honum skriflega viðvörun og hæfilegan frest til úrbóta. Sinni leyfishafi ekki slíkri viðvörun skal afturkalla leyfi. Sé um ásetning að ræða eða stórfellt gáleysi getur ráðherra afturkallað starfsleyfi án undanfarandi viðvörunar eða frests til úrbóta.
@@ -107,14 +156,15 @@ h2. Lög um lífsýnasöfn[^1)^]
  *VI. kafli.* *Ýmis ákvæði.*
  ■ *16. gr.* _Stjórnvaldsfyrirmæli._
  □ Ráðherra er heimilt að setja reglugerðir[^1)^] um frekari framkvæmd laga þessara.
- □ Ráðherra skal setja reglugerð um hvernig veita skuli upplýsingar um ætlað samþykki skv. 3. mgr. 7. gr., hvernig tryggja skuli að afturköllun á ætluðu samþykki lífsýnisgjafa skv. 4. mgr. 7. gr. verði virt, um úrsagnaskrá og fyrirkomulag hennar, sbr. 4. mgr. 7. gr., og hvernig tryggja skuli jafnræði þeirra sem óska eftir aðgangi að lífsýnasöfnum vegna vísindarannsókna skv. 3. mgr. 9. gr.
-    _[^1)^]"Rg. 1146/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1146-2010._
+ □ Ráðherra skal setja reglugerð um hvernig veita skuli upplýsingar um ætlað samþykki skv. 3. mgr. 7. gr., hvernig tryggja skuli að afturköllun á ætluðu samþykki lífsýnisgjafa skv. 4. mgr. 7. gr. verði virt, um úrsagnaskrá og fyrirkomulag hennar, sbr. 4. mgr. 7. gr., og hvernig tryggja skuli jafnræði þeirra sem óska eftir aðgangi að lífsýnasöfnum [og söfnum heilbrigðisupplýsinga][^2)^] vegna vísindarannsókna [skv. 9. gr.][^2)^]
+    _[^1)^]"Rg. 1146/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1146-2010. [^2)^]"L. 45/2014, 19. gr.":/altext/stjt/2014.045.html_
  ■ *17. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. janúar 2001.
  ■ *Ákvæði til bráðabirgða.*
     1. Áður en lögin taka gildi skal heilbrigðis- og tryggingamálaráðuneytið fela landlæknisembættinu að annast ítarlega kynningu meðal almennings á lífsýnasöfnum og reglum sem gilda um söfnun og notkun lífsýna.
     2. Heimilt er að vista lífsýni sem aflað var fyrir gildistöku laga þessara í lífsýnasafni, nema lífsýnisgjafi lýsi sig mótfallinn því. Að öðru leyti gilda ákvæði laganna um vörslu, meðferð og notkun fyrrgreindra lífsýna.
     [3. Fyrir 1. janúar 2015 skal ráðuneytið fela embætti landlæknis að annast ítarlega kynningu meðal almennings á lífsýnasöfnum, söfnum heilbrigðisupplýsinga og reglum sem gilda um söfnun, varðveislu og notkun heilbrigðisgagna.][^1)^]
+    [4. Heimilt er að vista heilbrigðisupplýsingar, sem aflað var til vísindarannsókna á mönnum fyrir 1. janúar 2015, í safni heilbrigðisupplýsinga enda hafi þátttakandi veitt samþykki fyrir varðveislu upplýsinganna til notkunar í síðari rannsóknum. Sé um að ræða vísindarannsókn á mönnum þar sem ekki liggur fyrir skriflegt samþykki eða gagnarannsókn getur vísindasiðanefnd heimilað að slíkar heilbrigðisupplýsingar séu vistaðar í safni heilbrigðisupplýsinga nema sá sem upplýsingarnar stafa frá hafi lýst sig mótfallinn því. Að öðru leyti gilda ákvæði laganna um vörslu, meðferð og notkun fyrrgreindra heilbrigðisupplýsinga.][^1)^]
     _[^1)^]"L. 45/2014, 20. gr.":/altext/stjt/2014.045.html_
 
 
