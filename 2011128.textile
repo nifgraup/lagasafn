@@ -357,12 +357,12 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  □ Innlausnarskyldan tekur gildi þegar hlutdeildarskírteinishafar hafa fengið fullnægjandi upplýsingar um samrunann og gildir þar til fimm virkum dögum fyrir viðmiðunardag við útreikning á skiptihlutfalli samrunans.][^1)^]
     _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
  ■ *[56. gr. d.* _Reglugerð._
- □ Ráðherra skal setja reglugerð um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
+ □ Ráðherra skal setja reglugerð[^1)^] um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
     1. heimild til samruna,
     2. umsókn um heimild til samruna,
     3. sameiginlega samrunaáætlun samrunasjóðs og yfirtökusjóðs,
-    4. upplýsingagjöf til hlutdeildarskírteinishafa um heimild til samruna.][^1)^]
-    _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
+    4. upplýsingagjöf til hlutdeildarskírteinishafa um heimild til samruna.][^2)^]
+    _[^1)^]"Rg. 472/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/472-2014. [^2)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
  *_[J. Höfuðsjóðir og fylgisjóðir.][^1)^]_*
     _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
  ■ *[56. gr. e.* _Umsókn fylgisjóðs til fjárfestingar í höfuðsjóði._
@@ -382,15 +382,15 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  □ Fylgisjóði er heimilt að fjárfesta allt að 15% af eignum sínum í reiðufé eða auðseljanlegum eignum í samræmi við 2. mgr. 31. gr. og afleiðum til varna í samræmi við 5. tölul. 30. gr.][^1)^]
     _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
  ■ *[56. gr. g.* _Reglugerð._
- □ Ráðherra skal setja reglugerð um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
+ □ Ráðherra skal setja reglugerð[^1)^] um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
     1. samkomulag milli fylgisjóðs og höfuðsjóðs,
     2. samkomulag um innri reglur fylgisjóðs og höfuðsjóðs,
     3. upplýsingar til hlutdeildarskírteinishafa fylgisjóðs,
     4. samning milli vörslufyrirtækja fylgisjóðs og höfuðsjóðs um upplýsingaskipti,
     5. samning milli endurskoðenda fylgisjóðs og höfuðsjóðs um upplýsingaskipti,
     6. útboðslýsingu fyrir fylgisjóð með viðbótarupplýsingum,
-    7. fjárfestingarheimildir fylgisjóðs.][^1)^]
-    _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
+    7. fjárfestingarheimildir fylgisjóðs.][^2)^]
+    _[^1)^]"Rg. 472/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/472-2014. [^2)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
 
  *III. kafli.* *Fjárfestingarsjóðir.*
  ■ *57. gr.* _Tilvísanir í II. kafla._
@@ -449,7 +449,7 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  □ Telji Fjármálaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa getur það krafist gagna og upplýsinga hjá viðkomandi aðilum eða hjá eftirlitsskyldum aðilum sem nauðsynleg eru til að ganga úr skugga um hvort svo sé. Getur það krafist þess að slíkri starfsemi sé hætt þegar í stað. Jafnframt er því heimilt að birta opinberlega nöfn aðila sem taldir eru bjóða þjónustu án tilskilinna leyfa.
  ■ *64. gr.* _Reglugerð._
  □ Lög þessi heyra undir [ráðherra][^1)^] og er honum heimilt að kveða nánar á um framkvæmd þeirra með reglugerð.[^2)^] Í reglugerð er m.a. heimilt að kveða á um fjárfestingarstefnu og fjárfestingarheimildir verðbréfasjóða og fjárfestingarsjóða, góða viðskiptahætti, útvistun verkefna rekstrarfélaga, innlausnarvirði, markaðssetningu utan heimalands, heimildir til markaðssetningar annarra sjóða en verðbréfasjóða utan heimalands og upplýsingagjöf verðbréfasjóða og fjárfestingarsjóða og eftirlit með fagfjárfestasjóðum. Í reglugerðinni er einnig heimilt að kveða á um notkun afleiðusamninga verðbréfasjóða og fjárfestingarsjóða og aðferðir til að meta áhrif þeirra á áhættu eignasafns sjóðanna.
-    _[^1)^]"L. 21/2012, 7. gr.":/altext/stjt/2012.021.html [^2)^]"Rg. 984/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/984-2013. "Rg. 1166/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1166-2013._
+    _[^1)^]"L. 21/2012, 7. gr.":/altext/stjt/2012.021.html [^2)^]"Rg. 984/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/984-2013. "Rg. 1166/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1166-2013. "Rg. 471/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/471-2014. "Rg. 472/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/472-2014._
 
  *VI. kafli.* *Viðurlög.*
  ■ *65. gr.* _Stjórnvaldssektir._
@@ -500,7 +500,8 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  □ Sektir sem lagðar eru á einstaklinga geta numið frá 10 þús. kr. til 20 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 50 þús. kr. til 50 millj. kr. Við ákvörðun sekta skal m.a. tekið tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila og hvort um ítrekað brot er að ræða. Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar. Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
  □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.
     _[^1)^]"L. 12/2013, 14. gr.":/altext/stjt/2013.012.html_
- ■ *66. gr.* Hafi aðili gerst brotlegur við ákvæði laga þessara eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur um framkvæmd ákvæðisins.
+ ■ *66. gr.* Hafi aðili gerst brotlegur við ákvæði laga þessara eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur[^1)^] um framkvæmd ákvæðisins.
+    _[^1)^]Rgl. 728/2014._
  ■ *67. gr.* Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.
  ■ *68. gr.* Heimild Fjármálaeftirlitsins til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar fimm ár eru liðin frá því að háttsemi lauk.
  □ Frestur skv. 1. mgr. rofnar þegar Fjármálaeftirlitið tilkynnir aðila um upphaf rannsóknar á meintu broti. Rof frests hefur réttaráhrif gagnvart öllum sem staðið hafa að broti.

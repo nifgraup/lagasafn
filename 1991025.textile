@@ -7,7 +7,8 @@ h2. Lög um skaðsemisábyrgð
 <hr />
 
 
- *Tóku gildi 1. janúar 1992.*
+ *Tóku gildi 1. janúar 1992.* _Breytt með_ "l. 3/2014":/altext/stjt/2014.003.html (tóku gildi 23. jan. 2014).
+
 
 <hr />
 
@@ -16,7 +17,8 @@ h2. Lög um skaðsemisábyrgð
  ■ *1. gr.* Lög þessi gilda um skaðabótaábyrgð framleiðenda og dreifingaraðila á tjóni sem hlýst af ágalla á vöru sem þeir hafa framleitt eða dreift (skaðsemistjóni).
  _Tjón sem lögin taka til._
  ■ *2. gr.* Samkvæmt lögum þessum skal greiða bætur vegna líkamstjóns og fyrir missi framfæranda.
- □ Einnig skal greiða bætur fyrir tjón á hlut ef hann er samkvæmt gerð sinni venjulega ætlaður til einkanota, enda hafi sá er fyrir tjóni varð aðallega haft hlutinn til einkanota. Lögin taka ekki til skemmda á hinni gölluðu vöru sem tjón hlaust af.
+ □ [Einnig skal greiða bætur fyrir tjón á hlut ef tjónið er að lágmarki 500 evrur eða samsvarandi fjárhæð í íslenskum krónum, að því tilskildu að hlutur sá sé samkvæmt gerð sinni venjulega ætlaður til einkanota eða einkaneyslu og sá sem fyrir tjóni varð hafði hlutinn aðallega til einkanota eða einkaneyslu. Lögin taka ekki til skemmda á hinni gölluðu vöru sem tjón hlaust af.][^1)^]
+    _[^1)^]"L. 3/2014, 1. gr.":/altext/stjt/2014.003.html_
  _Hugtakið vara._
  ■ *3. gr.* Orðið vara í lögum þessum merkir hvers kyns lausafjármuni, þar á meðal afurðir náttúrunnar. Til vöru teljast einnig munir sem orðnir eru hluti annars lausafjárhlutar eða fasteignar. Reglur laga þessara gilda einnig um rafmagn.
  _Framleiðandi og dreifingaraðili._
@@ -43,11 +45,14 @@ h2. Lög um skaðsemisábyrgð
  □ Enn fremur ber framleiðandi ekki ábyrgð ef ætla má að ágalli sá, er tjón varð rakið til, hafi eigi verið fyrir hendi þegar hann dreifði vöru.
  □ Framleiðandi einstaks hlutar, sem notaður er til annarrar framleiðslu, er ekki ábyrgur ef hann leiðir í ljós að ágallinn verður rakinn til gerðar hinnar fullunnu vöru eða fyrirmæla þess sem býr hana til.
  _Takmörkuð ábyrgð._
- ■ *8. gr.* Samanlögð ábyrgð framleiðanda vegna líkamstjóns, þar á meðal dauðaslyss, er rakið verður til vöru sem er nákvæmlega eins og haldin sama ágalla, skal takmarkast við fjárhæð sem svarar til 70 milljóna Evrópureikningseininga (ECU).
+ ■ *8. gr.* Samanlögð ábyrgð framleiðanda vegna líkamstjóns, þar á meðal dauðaslyss, er rakið verður til vöru sem er nákvæmlega eins og haldin sama ágalla, skal takmarkast við fjárhæð sem svarar til 70 milljóna [evra].[^1)^]
+    _[^1)^]"L. 3/2014, 2. gr.":/altext/stjt/2014.003.html_
  _Eigin sök tjónþola._
  ■ *9. gr.* Heimilt er að lækka eða fella niður bætur ef tjónþoli er meðvaldur að tjóni af ásetningi eða gáleysi.
  _Ábyrgð dreifingaraðila._
- ■ *10. gr.* Dreifingaraðili ber ábyrgð á skaðsemistjóni beint gagnvart tjónþola og síðari dreifingaraðilum.
+ ■ *10. gr.* [Dreifingaraðili ber ábyrgð á skaðsemistjóni skv. 2. gr. nema hann sýni fram á að tjónið verði ekki rakið til sakar hans eða vanrækslu.
+ □ Dreifingaraðili ber ábyrgð beint gagnvart tjónþola og síðari dreifingaraðilum á tjóni sem fellur undir ákvæði 2. gr. að svo miklu leyti sem tjónið verður rakið til sakar eða vanrækslu af hálfu framleiðanda eða fyrri dreifingaraðila í aðfangakeðjunni.][^1)^]
+    _[^1)^]"L. 3/2014, 3. gr.":/altext/stjt/2014.003.html_
  _Fleiri en einn bótaábyrgir. Framkröfur._
  ■ *11. gr.* Nú eru tveir eða fleiri bótaskyldir eftir þessum lögum vegna sama tjóns og bera þeir þá óskipta ábyrgð.
  □ Séu tveir eða fleiri ábyrgir sem framleiðendur skv. 1. mgr. 4. gr. skal ábyrgð þeirra innbyrðis skiptast eftir því hver orsök ágallans var, hverja aðstöðu hver framleiðandi hafði til að hafa eftirlit með vöru, ábyrgðartryggingum sem aðilar höfðu og atvikum að öðru leyti, enda leiði eigi annað af samningi.

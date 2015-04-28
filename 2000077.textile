@@ -7,7 +7,7 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
 <hr />
 
 
- *Tóku gildi 1. janúar 2001.* _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB, XIX. viðauki tilskipun 97/7/EB og XI. viðauki tilskipun 97/66/EB. _Breytt með_ "l. 90/2001":/altext/stjt/2001.090.html (tóku gildi 15. júní 2001; _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB), "l. 30/2002":/altext/stjt/2002.030.html (tóku gildi 16. apríl 2002), "l. 81/2002":/altext/stjt/2002.081.html (tóku gildi 17. maí 2002; _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB), "l. 46/2003":/altext/stjt/2003.046.html (tóku gildi 7. apríl 2003) "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003), "l. 50/2006":/altext/stjt/2006.050.html (tóku gildi 1. júlí 2006), "l. 77/2010":/altext/stjt/2010.077.html (tóku gildi 1. júlí 2010), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. janúar 2001.* _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB, XIX. viðauki tilskipun 97/7/EB og XI. viðauki tilskipun 97/66/EB. _Breytt með_ "l. 90/2001":/altext/stjt/2001.090.html (tóku gildi 15. júní 2001; _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB), "l. 30/2002":/altext/stjt/2002.030.html (tóku gildi 16. apríl 2002), "l. 81/2002":/altext/stjt/2002.081.html (tóku gildi 17. maí 2002; _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB), "l. 46/2003":/altext/stjt/2003.046.html (tóku gildi 7. apríl 2003) "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003), "l. 50/2006":/altext/stjt/2006.050.html (tóku gildi 1. júlí 2006), "l. 77/2010":/altext/stjt/2010.077.html (tóku gildi 1. júlí 2010), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 44/2014":/altext/stjt/2014.044.html (taka gildi 1. jan. 2015 nema brbákv. I sem tók gildi 29. maí 2014) og "l. 77/2014":/altext/stjt/2014.077.html (tóku gildi 12. júní 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -53,7 +53,7 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
  □ Lögin gilda einnig um vinnslu upplýsinga um fjárhagsmálefni og lánstraust lögaðila, sbr. 45. gr. laganna, enda þótt ábyrgðaraðili hafi ekki staðfestu hér á landi, ef hann notar tæki og búnað sem er hér á landi.
  □ Ákvæði 2. og 3. mgr. gilda ekki ef umræddur tækjabúnaður er einungis notaður til að flytja persónuupplýsingar um Ísland.
  □ Þegar svo hagar til sem greinir í 2. og 3. mgr. skal ábyrgðaraðili tilnefna fulltrúa sinn sem hefur staðfestu hér á landi og gilda þá ákvæði laganna varðandi ábyrgðaraðila um þann fulltrúa eftir því sem við á.][^3)^]
-    _[^1)^]"L. 72/2003, 5. gr.":/altext/stjt/2003.072.html [^2)^]Augl. 228/2010, sbr. augl. 108/2012 og augl. 419/2013. [^3)^]"L. 90/2001, 1. gr.":/altext/stjt/2001.090.html_
+    _[^1)^]"L. 72/2003, 5. gr.":/altext/stjt/2003.072.html [^2)^]Augl. 228/2010, sbr. augl. 108/2012, augl. 419/2013 og augl. 1316/2013. [^3)^]"L. 90/2001, 1. gr.":/altext/stjt/2001.090.html_
 
  *II. kafli.* *Almennar reglur um vinnslu persónuupplýsinga.*
  ■ *7. gr.* _[Meginreglur um gæði gagna og vinnslu.][^1)^]_
@@ -93,9 +93,9 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
     2. að það efni sem til verður við vöktunina verði ekki afhent öðrum eða unnið frekar nema með samþykki þess sem upptaka er af eða samkvæmt ákvörðun Persónuverndar; heimilt er þó að afhenda lögreglu efni með upplýsingum um slys eða refsiverðan verknað en þá skal þess gætt að eyða öllum öðrum eintökum af efninu;
     3. að því efni sem safnast við vöktunina verði eytt þegar ekki er lengur málefnaleg ástæða til að varðveita það, nema sérstök heimild Persónuverndar skv. 3. mgr. standi til frekari varðveislu.][^2)^]
  □ Persónuvernd getur heimilað vinnslu viðkvæmra persónuupplýsinga í öðrum tilvikum en greinir í [1. og 2. mgr.][^2)^] telji hún brýna almannahagsmuni mæla með því. Persónuvernd bindur slíka heimild þeim skilyrðum sem hún telur nauðsynleg hverju sinni til að tryggja hagsmuni hinna skráðu.
- □ Persónuvernd setur, að fenginni umsögn vísindasiðanefndar, reglur[^3)^] um hvernig velja má og nálgast fólk til þátttöku í vísindarannsóknum og hvaða fræðslu skuli veita því áður en samþykkis þess er óskað.
+ □ Persónuvernd setur, að fenginni umsögn vísindasiðanefndar, reglur[^3)^] um hvernig velja má og nálgast fólk til þátttöku í vísindarannsóknum og hvaða fræðslu skuli veita því áður en samþykkis þess er óskað.[^4)^]
  □ Persónuvernd leysir úr ágreiningi um hvort persónuupplýsingar skuli teljast viðkvæmar eða ekki.
-    _[^1)^]"L. 90/2001, 4. gr.":/altext/stjt/2001.090.html [^2)^]"L. 81/2002, 1. gr.":/altext/stjt/2002.081.html [^3)^]Rgl. 170/2001, sbr. rgl. 853/2010._
+    _[^1)^]"L. 90/2001, 4. gr.":/altext/stjt/2001.090.html [^2)^]"L. 81/2002, 1. gr.":/altext/stjt/2002.081.html [^3)^]Rgl. 170/2001, sbr. rgl. 853/2010. [^4)^]Málsgreinin fellur brott 1. jan. 2015 skv. "l. 44/2014, 36. gr.":2014044.html#G36_
  ■ *10. gr.* _Notkun kennitölu._
  □ Notkun kennitölu er heimil eigi hún sér málefnalegan tilgang og sé nauðsynleg til að tryggja örugga persónugreiningu. Persónuvernd getur bannað eða fyrirskipað notkun kennitölu.
  ■ *11. gr.* _[Áhættumat, öryggi og gæði persónuupplýsinga._
@@ -124,6 +124,8 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
  ■ *15. gr.* _Greiðsla kostnaðar._
  □ Verða skal við erindi samkvæmt ákvæðum 16., 18., 22., 25., 26., 27. og 28. gr. án þess að taka fyrir það sérstakt gjald. Þó má, ef um er að ræða mikinn kostnað, svo sem vegna ljósritunar skjala, taka greiðslu fyrir samkvæmt gjaldskrá sem ákveðin er af [ráðherra][^1)^] með reglugerð.
     _[^1)^]"L. 162/2010, 164. gr.":/altext/stjt/2010.162.html_
+ ■ *[15. gr. a.* Heimilt er að afhenda opinberu skjalasafni upplýsingar, sem falla undir lög þessi, til varðveislu í samræmi við ákvæði laga um opinber skjalasöfn.][^1)^]
+    _[^1)^]"L. 77/2014, 50. gr.":/altext/stjt/2014.077.html#G50_
 
  *III. kafli.* *Upplýsingaréttur og upplýsingaskylda. Fræðslu- og viðvörunarskylda. Réttur til rökstuðnings.*
  ■ *16. gr.* _Réttur til almennrar vitneskju um vinnslu persónuupplýsinga._
@@ -222,7 +224,7 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
  □ Heimill er flutningur persónuupplýsinga til annars ríkis ef lög þess veita persónuupplýsingum fullnægjandi vernd.
  □ Ríki sem framfylgir tilskipun Evrópusambandsins 95/46/ESB um vernd einstaklinga í tengslum við vinnslu persónuupplýsinga og um frjálst flæði slíkra upplýsinga telst fullnægja skilyrðum 1. mgr. [Sama á við um lönd eða staði sem Persónuvernd auglýsir[^1)^] í Stjórnartíðindum að virtum ákvörðunum framkvæmdastjórnar Evrópubandalagsins.][^2)^]
  □ Við mat á því hvort ríki sem ekki framfylgir tilskipun 95/46/ESB fullnægi skilyrðum 1. mgr. skal m.a. líta til reglna viðkomandi ríkis um meðferð persónuupplýsinga, reglna um góða viðskiptahætti og þeirra öryggisráðstafana sem viðhafðar eru hjá viðtakanda. Þá skal taka mið af því hvort viðkomandi ríki hafi fullgilt samning Evrópuráðsins nr. 108 frá 28. janúar 1981, um vernd einstaklinga varðandi vélræna vinnslu persónuupplýsinga.
-    _[^1)^]Rgl. 1100/2008, sbr. rgl. 424/2010. Augl. 228/2010, sbr. augl. 108/2012 og augl. 419/2013. [^2)^]"L. 90/2001, 9. gr.":/altext/stjt/2001.090.html_
+    _[^1)^]Rgl. 1100/2008, sbr. rgl. 424/2010. Augl. 228/2010, sbr. augl. 108/2012, augl. 419/2013 og augl. 1316/2013. [^2)^]"L. 90/2001, 9. gr.":/altext/stjt/2001.090.html_
  ■ *30. gr.* _Flutningur persónuupplýsinga til ríkis sem ekki veitir fullnægjandi persónuupplýsingavernd._
  □ Óheimill er flutningur persónuupplýsinga til ríkis sem ekki veitir fullnægjandi persónuupplýsingavernd nema:
     1. hinn skráði hafi samþykkt flutninginn, eða
@@ -275,6 +277,8 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
     5. hvort stofnað hafi verið til öryggisráðstafana sem séu eðlilegar miðað við tilgang vinnslunnar.
  □ Persónuvernd getur ákveðið að ábyrgðaraðili og vinnsluaðili, svo og starfsmenn á vegum þeirra, skuli undirrita yfirlýsingu um að þeir lofi að gæta þagmælsku um viðkvæmar persónuupplýsingar sem þeir fá vitneskju um við vinnslu þeirra. Ábyrgðaraðili eða fulltrúi hans skal votta rétta undirskrift starfsmanns og dagsetningu slíkrar yfirlýsingar og koma til Persónuverndar innan tilskilins frests. Brot á slíkri þagnarskyldu varðar refsingu skv. 136. gr. almennra hegningarlaga. Þagnarskyldan helst þótt látið sé af starfi.
  □ Persónuvernd getur afgreitt erindi er lýtur að vinnslu viðkvæmra persónuupplýsinga með skilyrði um að sérstakur tilsjónarmaður verði skipaður til að hafa eftirlit fyrir hönd Persónuverndar með því að vinnsla sé í samræmi við lög og að ábyrgðaraðili greiði allan kostnað sem af því hlýst.
+ ■ *[35. gr. a.* Um leyfi fyrir vísindarannsóknum á heilbrigðissviði fer samkvæmt lögum um vísindarannsóknir á heilbrigðissviði.][^1)^]
+    _[^1)^]"L. 44/2014, 36. gr.":/altext/stjt/2014.044.html#G36 Greinin tekur gildi 1. jan. 2015 skv. "35. gr. s.l.":2014044.html_
 
  *VII. kafli.* *Eftirlit og viðurlög.*
  ■ *36. gr.* _Skipulag Persónuverndar og stjórnsýsla._

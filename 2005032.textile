@@ -7,7 +7,7 @@ h2. Lög um miðlun vátrygginga
 <hr />
 
 
- *Tóku gildi 25. maí 2005.* _EES-samningurinn:_ IX. viðauki tilskipun 2002/92/EB. _Breytt með_ "l. 55/2007":/altext/stjt/2007.055.html (tóku gildi 3. apríl 2007), "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 25. maí 2005.* _EES-samningurinn:_ IX. viðauki tilskipun 2002/92/EB. _Breytt með_ "l. 55/2007":/altext/stjt/2007.055.html (tóku gildi 3. apríl 2007), "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 27/2014":/altext/stjt/2014.027.html (tóku gildi 8. apríl 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -84,18 +84,20 @@ h2. Lög um miðlun vátrygginga
     1. Nafn, kennitala og lögheimili umsækjanda.
     2. Upplýsingar um greinaflokka vátrygginga sem miðla á, sbr. 22. og 23. gr. laga um vátryggingastarfsemi.
     3. Samþykktir félagsins.
-    4. Áætlun um starfsemina þar sem eftirfarandi skal koma fram:
+    [4. Upplýsingar um fyrirhugað starfsskipulag þar sem m.a. skal greina frá hvernig fyrirhugaðri starfsemi verður sinnt, starfsstöð, fyrirhuguðum fjölda starfsmanna, innra eftirliti og áhættustýringu.][^1)^]
+    [5. ][^1)^] Áætlun um starfsemina þar sem eftirfarandi skal koma fram:
     a. rökstutt mat á kostnaði við að koma starfseminni á fót og hvernig ætlað er að mæta þeim kostnaði,
     b. áætluð staða félagsins samkvæmt efnahagsreikningi í lok þriggja fyrstu reikningsáranna ásamt áætlun um árlegar tekjur og gjöld,
     c. áætlun um hvernig umsækjandi hyggst standa við skuldbindingar sínar fyrstu þrjú reikningsárin.
-    5. Nöfn, kennitölur og lögheimili stofnenda og hluthafa.
-    6. Nöfn, kennitölur og lögheimili stjórnarmanna, framkvæmdastjóra og annarra stjórnenda.
-    7. Staðfesting á að fyrirsvarsmenn umsækjanda uppfylli kröfur skv. 16. gr.
-    8. Staðfesting á að starfsmenn umsækjanda uppfylli kröfur skv. 17. gr.
-    9. Vottorð um gilda starfsábyrgðartryggingu og skilmála hennar ásamt heiti og aðsetri hlutaðeigandi vátryggingafélags.
-    10. Greinargerð um náin tengsl við vátryggingafélög og vátryggingamiðlara.
-    11. Í hvaða ríkjum Evrópska efnahagssvæðisins fyrirhugað er að stunda vátryggingamiðlun.
-    12. Aðrar viðeigandi upplýsingar sem Fjármálaeftirlitið ákveður.
+    [6. ][^1)^] Nöfn, kennitölur og lögheimili stofnenda og hluthafa.
+    [7. ][^1)^] Nöfn, kennitölur og lögheimili stjórnarmanna, framkvæmdastjóra og annarra stjórnenda.
+    [8. ][^1)^] Staðfesting á að fyrirsvarsmenn umsækjanda uppfylli kröfur skv. 16. gr.
+    [9. ][^1)^] Staðfesting á að starfsmenn umsækjanda uppfylli kröfur skv. 17. gr.
+    [10. ][^1)^] Vottorð um gilda starfsábyrgðartryggingu og skilmála hennar ásamt heiti og aðsetri hlutaðeigandi vátryggingafélags.
+    [11. ][^1)^] Greinargerð um náin tengsl við vátryggingafélög og vátryggingamiðlara.
+    [12. ][^1)^] Í hvaða ríkjum Evrópska efnahagssvæðisins fyrirhugað er að stunda vátryggingamiðlun.
+    [13. ][^1)^] Aðrar viðeigandi upplýsingar sem Fjármálaeftirlitið ákveður.
+    _[^1)^]"L. 27/2014, 20. gr.":/altext/stjt/2014.027.html_
  ■ *9. gr.* _Veiting starfsleyfis._
  □ Ákvörðun Fjármálaeftirlitsins um veitingu starfsleyfis skal tilkynnt umsækjanda skriflega svo fljótt sem unnt er og eigi síðar en mánuði eftir að fullbúin umsókn barst.
  □ Í starfsleyfi skal koma fram til hvaða greinaflokka vátrygginga starfsleyfið tekur.
@@ -180,6 +182,9 @@ h2. Lög um miðlun vátrygginga
  □ Við miðlun vátrygginga skal fullnægja skilyrðum "laga um persónuvernd og meðferð persónuupplýsinga, nr. 77/2000":2000077.html.
  ■ *28. gr.* _Góðir viðskiptahættir og venjur._
  □ Vátryggingamiðlari skal starfa í samræmi við góða viðskiptahætti og venjur á vátryggingamarkaði og með hag vátryggingartaka og vátryggðra fyrir augum. Verði misbrestur á skal Fjármálaeftirlitið gefa fyrirmæli um að ráðin verði bót á því sem úrskeiðis hefur farið.
+ ■ *[28. gr. a.* _Kvartanir._
+ □ Vátryggingamiðlari skal, í samskiptum sínum við viðskiptavini, tryggja að fyrirspurnir, kvartanir og önnur sambærileg erindi fái skjóta, skilvirka og sanngjarna afgreiðslu.][^1)^]
+    _[^1)^]"L. 27/2014, 21. gr.":/altext/stjt/2014.027.html_
  ■ *29. gr.* _Reglugerðarheimild._
  □ [Ráðherra][^1)^] hefur heimild til að kveða nánar á um starfshætti vátryggingamiðlara í reglugerð, þar á meðal um yfirsýn vátryggingamiðlara yfir rekstur.
     _[^1)^]"L. 126/2011, 398. gr.":/altext/stjt/2011.126.html_
@@ -332,6 +337,8 @@ h2. Lög um miðlun vátrygginga
  □ Vátryggingamiðlarar sem fengið hafa starfsleyfi hér á landi útgefið af Fjármálaeftirlitinu skulu árlega greiða eftirlitsgjald vegna starfsemi sinnar í samræmi við ákvæði laga þar um. Jafnframt skulu vátryggingamiðlarar og vátryggingaumboðsmenn sem heimild hafa til að starfa hér á landi skv. 57. gr. greiða eftirlitsgjald árlega.
  ■ *61. gr.* _Aðstoð við yfirvöld annarra EES-ríkja._
  □ Lögbæru yfirvaldi í ríki innan Evrópska efnahagssvæðisins er heimilt að framkvæma athugun í útibúum þarlendra fyrirtækja hér á landi að undangenginni tilkynningu þess efnis til Fjármálaeftirlitsins.
+ □ [Verði vátryggingamiðlari, sem fengið hefur starfsleyfi í öðru aðildarríki, beittur viðurlögum skv. 62. gr. eða 62. gr. d, eða öðrum viðurlögum samkvæmt íslenskum lögum, skal Fjármálaeftirlitið tilkynna lögbærum eftirlitsaðila heimaríkis vátryggingamiðlarans ef slíkt brot gæti leitt til starfsleyfissviptingar.][^1)^]
+    _[^1)^]"L. 27/2014, 22. gr.":/altext/stjt/2014.027.html_
  ■ *62. gr.* _[Stjórnvaldssektir._
  □ Fjármálaeftirlitið getur lagt stjórnvaldssektir á hvern þann sem brýtur gegn:
     1. 2. mgr. 1. gr. um heimild til handa tilteknum aðilum til að miðla vátryggingum,
@@ -370,7 +377,7 @@ h2. Lög um miðlun vátrygginga
  □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.][^1)^]
     _[^1)^]"L. 55/2007, 20. gr.":/altext/stjt/2007.055.html_
  ■ *[62. gr. a.* Hafi aðili gerst brotlegur við ákvæði laga þessara eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur[^1)^] um framkvæmd ákvæðisins.][^2)^]
-    _[^1)^]Rgl. 1245/2007. [^2)^]"L. 55/2007, 21. gr.":/altext/stjt/2007.055.html_
+    _[^1)^]Rgl. 728/2014. [^2)^]"L. 55/2007, 21. gr.":/altext/stjt/2007.055.html_
  ■ *[62. gr. b.* Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.][^1)^]
     _[^1)^]"L. 55/2007, 21. gr.":/altext/stjt/2007.055.html_
  ■ *[62. gr. c.* Heimild Fjármálaeftirlitsins til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar fimm ár eru liðin frá því að háttsemi lauk.

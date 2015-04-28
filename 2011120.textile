@@ -7,7 +7,7 @@ h2. Lög um greiðsluþjónustu
 <hr />
 
 
- *Tóku gildi 1. desember 2011.* _EES-samningurinn:_ IX. viðauki tilskipun 2007/64/EB. _Breytt með_ "l. 17/2013":/altext/stjt/2013.017.html (tóku gildi 1. apríl 2013; _EES-samningurinn:_ IX. viðauki tilskipun 2009/110/EB).
+ *Tóku gildi 1. desember 2011.* _EES-samningurinn:_ IX. viðauki tilskipun 2007/64/EB. _Breytt með_ "l. 17/2013":/altext/stjt/2013.017.html (tóku gildi 1. apríl 2013; _EES-samningurinn:_ IX. viðauki tilskipun 2009/110/EB) og "l. 78/2014":/altext/stjt/2014.078.html (tóku gildi 12. júní 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -133,15 +133,15 @@ h2. Lög um greiðsluþjónustu
  □ Eiginfjárgrunnur greiðslustofnunar samkvæmt skilgreiningu laga um fjármálafyrirtæki má á hverjum tíma eigi nema lægri fjárhæð en kveðið er á um í 10. eða 12. gr., hvor fjárhæðin sem er hærri.
  □ Greiðslustofnun sem tilheyrir samstæðu þar sem í er önnur greiðslustofnun, fjármálafyrirtæki eða vátryggingafélag er einungis heimilt að telja eiginfjárliði einu sinni til eiginfjárgrunns. Það sama á við ef greiðslustofnun stundar aðra starfsemi en veitingu greiðsluþjónustu skv. 4. gr.
  ■ *12. gr.* _Útreikningur eigin fjár greiðslustofnana._
- □ Eigið fé greiðslustofnunar skal reiknað í samræmi við eina af aðferðunum þremur sem greinir í 2. - 5. mgr. samkvæmt ákvörðun Fjármálaeftirlitsins.
+ □ Eigið fé greiðslustofnunar skal [ávallt][^1)^] reiknað í samræmi við eina af aðferðunum þremur sem greinir í 2. - 5. mgr. samkvæmt ákvörðun Fjármálaeftirlitsins.
  □ Aðferð A: Eigið fé greiðslustofnunar skal nema að minnsta kosti 10% af föstum rekstrarkostnaði síðastliðinna tólf mánaða. Fjármálaeftirlitið getur breytt þessari ákvörðun verði umtalsverðar breytingar á rekstri greiðslustofnunar. Hafi greiðslustofnun starfað skemur en eitt rekstrarár þegar útreikningur eigin fjár fer fram skal eigið fé hennar nema að minnsta kosti 10% af samsvarandi föstum rekstrarkostnaði sem gert er ráð fyrir í rekstraráætlun, nema Fjármálaeftirlitið krefjist þess að þeirri áætlun sé breytt.
- □ Aðferð B: Eigið fé greiðslustofnunar skal nema að minnsta kosti samanlagðri fjárhæð eftirfarandi liða margfaldaðri með kvarðastuðlinum k, sem skilgreindur er í 5. mgr., þar sem greiðslufjöldi (PV) samanstendur af einum tólfta af heildarfjárhæð greiðslna síðustu tólf mánuðina:
+ □ Aðferð B: Eigið fé greiðslustofnunar skal nema að minnsta kosti samanlagðri fjárhæð eftirfarandi liða margfaldaðri með kvarðastuðlinum k, sem skilgreindur er í 5. mgr., þar sem [greiðslumagn (GM)][^1)^] samanstendur af einum tólfta af heildarfjárhæð greiðslna síðustu tólf mánuðina:
     a. 4,0% af PV sem nemur allt að jafnvirði 5 milljóna evra (EUR) í íslenskum krónum miðað við opinbert viðmiðunargengi (kaupgengi) eins og það er skráð hverju sinni;
     b. 2,5% af PV sem nemur jafnvirði 5 milljóna evra (EUR) og allt að jafnvirði 10 milljóna evra (EUR) í íslenskum krónum miðað við opinbert viðmiðunargengi (kaupgengi) eins og það er skráð hverju sinni;
     c. 1% af PV sem nemur jafnvirði 10 milljóna evra (EUR) og allt að jafnvirði 100 milljóna evra (EUR) í íslenskum krónum miðað við opinbert viðmiðunargengi (kaupgengi) eins og það er skráð hverju sinni;
     d. 0,5% af PV sem nemur jafnvirði 100 milljóna evra (EUR) og allt að jafnvirði 250 milljóna evra (EUR) í íslenskum krónum miðað við opinbert viðmiðunargengi (kaupgengi) eins og það er skráð hverju sinni og
     e. 0,25% af PV umfram jafnvirði 250 milljóna evra (EUR) í íslenskum krónum miðað við opinbert viðmiðunargengi (kaupgengi) eins og það er skráð hverju sinni.
- □ Aðferð C: Fjárhæð eigin fjár greiðslustofnunar skal vera að minnsta kosti viðeigandi vísir sem skilgreindur er í a-lið, margfaldaður með margfeldisstuðlinum sem skilgreindur er í b-lið og með kvarðastuðlinum k sem skilgreindur er í 5. mgr.:
+ □ [Aðferð C: Fjárhæð eigin fjár greiðslustofnunar skal vera að minnsta kosti viðeigandi vísir sem skilgreindur er í a- og b-liðum, margfaldaður með margfeldisstuðlinum sem skilgreindur er í c-lið og með kvarðastuðlinum k sem skilgreindur er í 5. mgr.][^1)^]
     a. Viðeigandi vísir er samtala eftirfarandi liða:
     1. vaxtatekna,
     2. vaxtakostnaðar,
@@ -160,6 +160,7 @@ h2. Lög um greiðsluþjónustu
     c. 1 ef greiðslustofnun stundar greiðsluþjónustu skv. 1. - 5. tölul. 4. gr.
  □ Fjármálaeftirlitið getur á grundvelli mats á áhættustýringarferlum, gagnagrunni yfir tapsáhættu og innra eftirlitskerfi greiðslustofnunar gert kröfu um að eigið fé greiðslustofnunar sé allt að 20% hærra en fjárhæðin sem stafar af beitingu aðferðarinnar sem valin er í samræmi við 1. mgr. Á sama grundvelli getur Fjármálaeftirlitið heimilað að fjárhæð eigin fjár greiðslustofnunar sé allt að 20% lægri en fjárhæðin sem leiðir af beitingu þeirrar aðferðar sem valin er í samræmi við 1. mgr.
  □ Fjármálaeftirlitinu er heimilt að setja nánari reglur samkvæmt þessu ákvæði.
+    _[^1)^]"L. 78/2014, 7. gr.":/altext/stjt/2014.078.html#G7_
  _B. Starfsleyfi._
  ■ *13. gr.* _Starfsleyfi._
  □ Aðilar, aðrir en þeir sem taldir eru upp í a - f-liðum 14. tölul. 8. gr., er hyggjast veita greiðsluþjónustu skulu afla sér starfsleyfis sem greiðslustofnun. Starfsleyfi skal ná til einnar eða fleiri tegunda greiðsluþjónustu í skilningi laga þessara.
@@ -172,8 +173,9 @@ h2. Lög um greiðsluþjónustu
     _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  ■ *14. gr.* _Umsókn um starfsleyfi og viðvarandi upplýsingaskylda._
  □ Umsókn um starfsleyfi skal berast Fjármálaeftirlitinu. Hún skal vera skrifleg og ítarleg. Í umsókninni skal gera grein fyrir þeirri starfsemi sem fyrirhugað er að sinna og hvernig henni verður sinnt. Umsækjandi skal, með framvísun nauðsynlegra gagna, sýna fram á hæfi lögaðilans sem æskir starfsleyfis til starfrækslu greiðslustofnunar í samræmi við ákvæði laga þessara.
- □ Fjármálaeftirlitið skal setja reglur um þær upplýsingar sem greina þarf í umsókn, svo og nauðsynleg fylgigögn, til þess að umsóknin teljist fullnægjandi.
+ □ Fjármálaeftirlitið [setur nánari viðmið][^1)^] um þær upplýsingar sem greina þarf í umsókn, svo og nauðsynleg fylgigögn, til þess að umsóknin teljist fullnægjandi.
  □ Greiðslustofnun sem fengið hefur starfsleyfi skv. 15. gr. skal tilkynna Fjármálaeftirlitinu án tafar um allar breytingar á áður veittum upplýsingum skv. 1. mgr. í tengslum við umsókn og veitingu starfsleyfis.
+    _[^1)^]"L. 78/2014, 7. gr.":/altext/stjt/2014.078.html#G7_
  ■ *15. gr.* _Starfsleyfisskilyrði. Tilkynning um veitingu eða synjun starfsleyfis._
  □ Starfsleyfi skal veitt ef umsækjandi sýnir að mati Fjármálaeftirlitsins fram á að skipulag í fyrirhuguðum rekstri greiðsluþjónustu sé skýrt, fullnægjandi verklagsreglur séu til staðar er þjóni markmiðum um traustan og varfærinn rekstur og að starfsemin hafi á að skipa fullnægjandi innra eftirlitskerfi að því er varðar aðferðir við stjórnun, fyrirkomulag áhættustýringar og reikningsskil samkvæmt nánari reglum sem Fjármálaeftirlitið setur.
  □ Þær kröfur sem gerðar eru til umsækjanda skv. 1. mgr. skulu vera í samræmi við eðli og umfang þeirrar greiðsluþjónustu sem fyrirhugað er að veita.
@@ -202,10 +204,10 @@ h2. Lög um greiðsluþjónustu
     _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  _C. Starfsheimildir._
  ■ *18. gr.* _Varðveisla fjármuna._
- □ Fjármunum sem mótteknir hafa verið frá notendum greiðsluþjónustu eða frá öðrum greiðsluþjónustuveitendum vegna framkvæmdar greiðslu skal haldið skýrt aðgreindum frá eigin fé greiðsluþjónustuveitanda, þ.m.t. greiðslustofnunar, og fjármunum í eigu annarra en notenda greiðsluþjónustu.
- □ Fjármunir skv. 1. mgr. skulu teljast [sértökukröfur][^1)^] í þrotabú greiðsluþjónustuveitanda komi til gjaldþrots. Um rétthæð þeirra fer skv. "109. gr. laga nr. 21/1991":1991021.html#G109, um gjaldþrotaskipti o.fl., enda sýni eigandi fjármuna fram á eignarrétt sinn að þeim.
- □ [Fjármálaeftirlitið setur nánari reglur um tryggilega varðveislu fjármuna samkvæmt þessari grein.][^1)^]
-    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ □ [Greiðslustofnun skal varðveita tryggilega fjármuni sem mótteknir hafa verið frá notendum greiðsluþjónustu eða frá öðrum greiðsluþjónustuveitendum vegna framkvæmdar greiðslu og halda þeim skýrt aðgreindum frá fjármunum í eigu greiðslustofnunar og fjármunum í eigu annarra en notenda greiðsluþjónustu. Fjármunir teljast tryggilega varðveittir ef þeir eru geymdir á innlánsreikningi hjá fjármálafyrirtæki eða ef fjárfest er með þeim í öruggum, seljanlegum og áhættulitlum eignum.][^1)^]
+ □ Fjármunir skv. 1. mgr. skulu teljast [sértökukröfur][^2)^] í þrotabú greiðsluþjónustuveitanda komi til gjaldþrots. Um rétthæð þeirra fer skv. "109. gr. laga nr. 21/1991":1991021.html#G109, um gjaldþrotaskipti o.fl., enda sýni eigandi fjármuna fram á eignarrétt sinn að þeim.
+ □ [Fjármálaeftirlitið setur nánari reglur[^3)^] um tryggilega varðveislu fjármuna samkvæmt þessari grein.][^2)^]
+    _[^1)^]"L. 78/2014, 7. gr.":/altext/stjt/2014.078.html#G7 [^2)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47 [^3)^]Rgl. 323/2014._
  ■ *19. gr.* _Önnur starfsemi._
  □ Greiðslustofnun er heimilt að stunda aðra starfsemi auk greiðsluþjónustu ef hún er nátengd starfsemi eða rekstri greiðsluþjónustu, svo sem þjónustu við framkvæmd greiðslna, gjaldeyrisviðskiptum, ráðstöfunum til verndunar eigna og geymslu og vinnslu gagna. Greiðslustofnun er jafnframt heimilt að starfrækja greiðslukerfi.
  □ Greiðslustofnun er heimilt að halda greiðslureikninga sem skal einungis nota við framkvæmd greiðslna.
@@ -586,10 +588,11 @@ h2. Lög um greiðsluþjónustu
     32. 64. - 67. gr. um framkvæmdatíma greiðslu og gildisdag.
     33. 69. gr. um þær aðstæður þegar framkvæmd greiðslu á sér ekki stað eða er gölluð.
  □ Sektir sem lagðar eru á einstaklinga geta numið frá 10 þús. kr. til 20 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 50 þús. kr. til 50 millj. kr. Við ákvörðun sekta skal m.a. tekið tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila og hvort um ítrekað brot er að ræða. Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar. Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
- □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi. Hafi aðili gerst brotlegur við ákvæði laga þessara, reglur settar á grundvelli þeirra eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur um framkvæmd ákvæðisins.
+ □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi. Hafi aðili gerst brotlegur við ákvæði laga þessara, reglur settar á grundvelli þeirra eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur[^1)^] um framkvæmd ákvæðisins.
  □ Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.
  □ Heimild Fjármálaeftirlitsins til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar fimm ár eru liðin frá því að háttsemi lauk.
  □ Frestur skv. 5. mgr. rofnar þegar Fjármálaeftirlitið tilkynnir aðila um upphaf rannsóknar á meintu broti. Rof frests hefur réttaráhrif gagnvart öllum sem staðið hafa að broti.
+    _[^1)^]Rgl. 728/2014._
  ■ *78. gr.* _Sektir eða fangelsi._
  □ Það varðar sektum eða fangelsi allt að tveimur árum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn eftirtöldum ákvæðum laga þessara og, eftir atvikum, reglum settum á grundvelli þeirra:
     1. 5. gr. um einkarétt greiðsluþjónustuveitenda til að veita greiðsluþjónustu hérlendis.

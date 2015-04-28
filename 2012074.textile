@@ -7,7 +7,7 @@ h2. Lög um veiðigjöld
 <hr />
 
 
- *Tóku gildi 5. júlí 2012.* _Breytt með_ "l. 84/2013":/altext/stjt/2013.084.html (tóku gildi 12. júlí 2013).
+ *Tóku gildi 5. júlí 2012.* _Breytt með_ "l. 84/2013":/altext/stjt/2013.084.html (tóku gildi 12. júlí 2013) og "l. 47/2014":/altext/stjt/2014.047.html (tóku gildi 29. maí 2014; komu til framkvæmda skv. fyrirmælum í 7. gr.).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *sjávarútvegs- og landbúnaðarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -33,24 +33,24 @@ h2. Lög um veiðigjöld
  □ Veiðigjaldsnefnd skal viðhafa viðvarandi könnun á því hvort haga megi öflun upplýsinga og úrvinnslu gagna þannig að sérgreina megi útreikning rentu frekar en gert er ráð fyrir í lögum þessum, t.d. eftir fisktegundum, útgerðarformum eða tegund aflaheimilda, og gera tillögur til ráðherra um breytingar á lögum, reglum eða þjónustusamningum telji hún tilefni til. Að sama skapi skal nefndin kanna útfærslur gjaldstofns veiðigjalda og hlutfall sérstaks veiðigjalds af gjaldstofni. Veiðigjaldsnefnd getur í þessum tilgangi efnt til samstarfs við sérfræðinga og fagaðila á sviði útgerðar og fiskvinnslu.
  □ Áður en veiðigjaldsnefnd ákvarðar sérstakt veiðigjald skal hún leita álits samráðsnefndar um veiðigjöld um fyrirhugaða ákvörðun sína.
  ■ *5. gr.* _Samráðsnefnd um veiðigjöld._
- □ Alþingi kýs nefnd fimm þingmanna til að fjalla um fyrirhugaðar ákvarðanir veiðigjaldsnefndar um sérstakt veiðigjald.
+ □ [Alþingi kýs nefnd þingmanna úr öllum þingflokkum til að fjalla um fyrirhugaðar ákvarðanir veiðigjaldsnefndar um sérstakt veiðigjald. Störf í nefndinni eru ólaunuð.][^1)^]
+    _[^1)^]"L. 47/2014, 1. gr.":/altext/stjt/2014.047.html_
 
  *II. kafli* *Gjaldtaka.*
  ■ *6. gr.* _Gjaldskyldir aðilar._
  □ Gjaldskyldir aðilar eru einstaklingar og lögaðilar sem fá úthlutað aflamarki, öðrum aflaheimildum eða landa afla á grundvelli laga um stjórn fiskveiða, laga um fiskveiðar utan lögsögu Íslands eða annarra laga er kveða á um stjórn fiskveiða.
  ■ *7. gr.* _Gjaldstofn._
- □ Gjaldstofn almenns og sérstaks veiðigjalds er afli hvers gjaldskylds aðila í þorskígildum samkvæmt úthlutuðu aflamarki, öðrum aflaheimildum eða lönduðum afla. Afli veiddur utan fiskveiðilandhelgi Íslands sem ekki fellur undir samninga við önnur ríki telst þó ekki gjaldstofn sérstaks veiðigjalds.
+ □ Gjaldstofn almenns og sérstaks veiðigjalds er [aflamagn hvers gjaldskylds aðila][^1)^] samkvæmt úthlutuðu aflamarki, öðrum aflaheimildum eða lönduðum afla. Afli veiddur utan fiskveiðilandhelgi Íslands sem ekki fellur undir samninga við önnur ríki telst þó ekki gjaldstofn sérstaks veiðigjalds.
  □ Þegar um er að ræða tegundir sem úthlutað er til einstakra skipa skulu gjöldin miðast við úthlutað aflamark í kílóum talið.
  □ Fari stjórn veiða fram með öðrum hætti en greinir í 2. mgr. skulu gjöldin miðast við landaðan afla skips í viðkomandi tegund samkvæmt aflaupplýsingakerfi Fiskistofu á tólf mánaða tímabili sem lýkur einum mánuði fyrir upphaf fiskveiðiárs eða veiðitímabils. Gjöld vegna strandveiða miðast við landaðan afla í strandveiðum og miða skal við landaðan afla krókabáta í þeim tegundum sem þeir eru ekki bundnir aflatakmörkunum í en sæta ákvörðun um heildarafla.
+    _[^1)^]"L. 47/2014, 2. gr.":/altext/stjt/2014.047.html_
  ■ *8. gr.* _Almennt veiðigjald._
  □ Almennt veiðigjald skal vera 9,50 kr. á hvert þorskígildiskíló. Almennt veiðigjald á hvert skip skal þó aldrei vera lægra en 5.000 kr.
  ■ *9. gr.* _Sérstakt veiðigjald._
  □ Sérstakt veiðigjald skal skilgreint í krónum á hvert þorskígildiskíló eftir veiðiflokkum, þ.e. botnfiskveiðum og uppsjávarveiðum. Sérstakt veiðigjald skal vera 65% af stofni til útreiknings á gjaldinu eins og stofninn er skilgreindur í 10. gr. að frádregnu almennu veiðigjaldi skv. 8. gr.
- □ Álagning sérstaks veiðigjalds samkvæmt þessari grein skal vera þannig á hvern gjaldskyldan aðila, sbr. 6. gr., á fiskveiðiárinu:
-    a. af fyrstu 30.000 þorskígildiskílóum greiðist ekkert gjald,
-    b. af næstu 70.000 þorskígildiskílóum greiðist hálft gjald,
-    c. af þorskígildiskílóum umfram 100.000 greiðist fullt gjald.
+ □ [Við álagningu sérstaks veiðigjalds á gjaldskyldan aðila skal álagning sem ekki nær 250.000 kr. felld niður og þá skulu 250.000 kr. dregnar frá reiknuðu gjaldi sem fer umfram þau mörk áður en til álagningar þess kemur.][^1)^]
  □ Leggi veiðigjaldsnefnd til við ráðherra að hann lækki sérstakt veiðigjald eða veiti undanþágur frá greiðsluskyldu þess skal ráðherra leggja frumvarp þar að lútandi fyrir Alþingi.
+    _[^1)^]"L. 47/2014, 3. gr.":/altext/stjt/2014.047.html_
  ■ *10. gr.* _Stofn til útreiknings á sérstöku veiðigjaldi._
  □ Stofn til útreiknings á sérstöku veiðigjaldi er samtala reiknaðrar rentu á hvert þorskígildiskíló, annars vegar í fiskveiðum og hins vegar í fiskvinnslu. Rentu á þorskígildiskíló skal reikna sérstaklega fyrir veiðar og vinnslu botnfisks og fyrir veiðar og vinnslu uppsjávarfisks eins og nánar er kveðið á um í 11. gr.
  □ Rentu í veiðum og vinnslu skal jafnað á afla í veiðum og vinnslu á sama tekjuári og skattframtöl sem lögð eru til grundvallar útreikningum Hagstofu Íslands byggjast á. Skal sá afli umreiknaður til þorskígilda fyrir komandi fiskveiðiár samkvæmt ákvæðum laga um stjórn fiskveiða.
@@ -82,9 +82,9 @@ h2. Lög um veiðigjöld
  □ Gjalddagi veiðigjalda á landaðan afla einstakra tegunda sem ekki eru háðar aflamarki og á afla sem veiddur er við strandveiðar er 1. október á því ári sem fiskveiðiári lýkur.
  □ Eindagi skv. 2. og 3. mgr. er 15 dögum eftir gjalddaga. Ef gjald er ekki greitt á eindaga reiknast dráttarvextir af fjárhæð gjalds frá gjalddaga til greiðsludags í samræmi við reglur laga um vexti og verðtryggingu.
  □ Hafi greiðsla ekki borist innan mánaðar frá eindaga fellur veiðileyfi skips niður. Kröfum um greiðslu veiðigjalda fylgir lögveð ríkissjóðs í hlutaðeigandi skipi. Lögveðið nær einnig til vaxta og innheimtukostnaðar af kröfunni ef því er að skipta.
- □ Sé ákvörðun tekin innan fiskveiðiársins um að lækka áður leyfðan heildarafla einstakra tegunda skal endurgreiða eiganda skips þann hluta veiðigjaldanna sem nemur sömu fjárhæð og innheimt var fyrir hvert þorskígildi sem aflaheimildir skips skerðast um. Sérstakt veiðigjald sem innheimt hefur verið vegna úthlutaðs aflamarks skal endurgreitt á sama hátt að því marki sem það hefur ekki verið nýtt með veiðum, leigu eða öðrum hætti.
+ □ Sé ákvörðun tekin innan fiskveiðiársins um að lækka áður leyfðan heildarafla einstakra tegunda skal endurgreiða eiganda skips þann hluta veiðigjaldanna sem nemur sömu fjárhæð og innheimt var fyrir [það aflamagn][^2)^] sem aflaheimildir skips skerðast um. Sérstakt veiðigjald sem innheimt hefur verið vegna úthlutaðs aflamarks skal endurgreitt á sama hátt að því marki sem það hefur ekki verið nýtt með veiðum, leigu eða öðrum hætti.
  □ Eigandi skips við álagningu veiðigjalda er ábyrgur fyrir greiðslu þeirra.
-    _[^1)^]"L. 84/2013, 1. gr.":/altext/stjt/2013.084.html_
+    _[^1)^]"L. 84/2013, 1. gr.":/altext/stjt/2013.084.html [^2)^]"L. 47/2014, 4. gr.":/altext/stjt/2014.047.html_
 
  *IV. kafli* *Gildistaka o.fl.*
  ■ *15. gr.* _Rekstrarkostnaður._
@@ -104,14 +104,224 @@ h2. Lög um veiðigjöld
  □ Sérstakt þorskígildi hverrar fisktegundar, sbr. 2. mgr., skal ákveðið af ráðherra með reglugerð, eigi síðar en 15. júlí 2013, með þeim hætti sem hér segir: Taka skal mið af tólf mánaða tímabili frá 1. maí 2012 til 30. apríl 2013. Sé tekin ákvörðun um stjórn veiða á tegund sem ekki hefur áður sætt slíkri ákvörðun skal þegar reikna þorskígildi fyrir tegundina miðað við sama tímabil. Sérstök þorskígildi skulu reiknuð sem hlutfall verðmætis einstakra tegunda sem sæta ákvörðun um stjórn veiða af verðmæti slægðs þorsks. Til grundvallar verðmætaútreikningi skal leggja heildaraflamagn og heildarverðmæti þessara tegunda, að frádregnu því magni og verðmæti sem unnið er um borð í fiskiskipi, samkvæmt upplýsingum Fiskistofu. Þegar fisktegund er að nær öllu leyti unnin um borð í fiskiskipi er heimilt að líta til sambærilegra tegunda til hliðsjónar við mat á sérstöku þorskígildi hennar. Þegar botnfiskur er seldur ferskur erlendis skal draga frá verði hans 85 kr. á hvert kíló af slægðum fiski vegna kostnaðar við útflutning. Varðandi botnfisk, að undanskildum karfa, skal miða við slægðan fisk. Miða skal við slitinn humar. Að öðru leyti fer um sérstök þorskígildi og sérstök þorskígildiskíló sem væru þorskígildi og þorskígildiskíló samkvæmt lögum þessum.
  □ Ráðherra skal vinna tillögur að endurskoðun þessara laga sem lagðar verði fram á Alþingi löggjafarþingið 2013 - 2014.][^1)^]
     _[^1)^]"L. 84/2013, 2. gr.":/altext/stjt/2013.084.html_
- ■ *II.* Á fiskveiðiárunum 2012/2013 til 2017/2018 skal félag eða einstaklingur með atvinnurekstur sem greiða skal sérstakt veiðigjald skv. 13. gr. eiga rétt á lækkun þess vegna vaxtakostnaðar við kaup á aflahlutdeildum til ársloka 2011 samkvæmt þessu ákvæði enda séu eftirfarandi skilyrði uppfyllt:
+ ■ *II.* Á fiskveiðiárunum 2012/2013 til [2016/2017][^1)^] skal félag eða einstaklingur með atvinnurekstur sem greiða skal sérstakt veiðigjald skv. 13. gr. eiga rétt á lækkun þess vegna vaxtakostnaðar við kaup á aflahlutdeildum [sem einungis eru íslenskar][^1)^] til ársloka 2011 samkvæmt þessu ákvæði enda séu eftirfarandi skilyrði uppfyllt:
     a. Keypt aflahlutdeild sé enn í höndum viðkomandi og hann hafi greitt veiðigjöld af aflamarki samkvæmt henni fyrir viðkomandi fiskveiðiár.
     b. Vaxtaberandi skuldir viðkomandi í árslok 2011 samkvæmt skattframtali hans fyrir það ár án bókfærðra tekjuskattsskuldbindinga og að frádregnum peningalegum eignum séu hærri en svarar 4% af bókfærðu verðmæti ófyrnanlegra eigna samkvæmt framtali fyrir sama ár.
- □ Séu skilyrði 1. mgr. uppfyllt skal lækka sérstakt veiðigjald á hverju fiskveiðiári frá 2012/2013 til 2017/2018 um sem nemur vaxtagjöldum samkvæmt skattframtali fyrir árið 2011 í sama hlutfall og skuldir skv. b-lið 1. mgr. eru sem hlutfall af vaxtaberandi skuldum í heild eftir að frá þannig reiknuðum vaxtagjöldum hafa verið dregin 4% af reiknuðu stofnverði rekstrarfjármuna, sbr. b-lið 1. mgr. Lækkunin skal þó aldrei vera meiri en sem svarar 4% af bókfærðu verðmæti ófyrnanlegra eigna samkvæmt skattframtali fyrir sama ár.
+ □ Séu skilyrði 1. mgr. uppfyllt skal lækka sérstakt veiðigjald á hverju fiskveiðiári frá 2012/2013 til [2016/2017][^1)^] um sem nemur vaxtagjöldum samkvæmt skattframtali fyrir árið 2011 í sama hlutfall og skuldir skv. b-lið 1. mgr. eru sem hlutfall af vaxtaberandi skuldum í heild eftir að frá þannig reiknuðum vaxtagjöldum hafa verið dregin 4% af reiknuðu stofnverði rekstrarfjármuna, sbr. b-lið 1. mgr. Lækkunin skal þó aldrei vera meiri en sem svarar 4% af bókfærðu verðmæti ófyrnanlegra eigna samkvæmt skattframtali fyrir sama ár.
  □ Fjárhæð til lækkunar veiðigjaldsins skal taka breytingu samkvæmt vísitölu neysluverðs frá desember 2011 til desembermánaðar næst fyrir upphaf viðkomandi fiskveiðiárs.
  □ Taka skal tillit til vaxtakostnaðar vegna kaupa á aflahlutdeildum á árinu 2012 sem gerð hafa verið fyrir gildistöku laganna með sama hætti og gildir um fyrri ár.
  □ Taka skal tillit til skulda vegna kvótakaupa sem eru ekki hjá handhafa aflahlutdeildanna sem greiðir veiðigjöldin.
- □ Ráðherra setur reglugerð[^1)^] um nánari framkvæmd þessa ákvæðis.
-    _[^1)^]"Rg. 838/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/838-2012, sbr. "859/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/859-2012._
+ □ [Ef aðili sem sótt hefur um lækkun sérstaks veiðigjalds fær eða hefur fengið skuldir felldar niður, þ.m.t. vegna skilmálabreytinga, að einhverju leyti á tímabilinu 1. janúar 2012 til 31. desember 2016 skal endurreikna lækkun skv. 1. og 2. mgr. þannig að niðurfelldar skuldir á umræddu tímabili, reiknaðar til verðlags í desember 2011 miðað við vísitölu neysluverðs, verði dregnar frá vaxtaberandi skuldum í árslok 2011 og vaxtagjöld samkvæmt skattframtali fyrir árið 2011 lækkuð í sama hlutfalli. Þessi málsgrein gildir um lækkun sérstakra veiðigjalda fyrir fiskveiðiárin 2014/2015 til 2016/2017. Þrátt fyrir ákvæði 117. gr. laga um tekjuskatt skal ríkisskattstjóri veita Fiskistofu upplýsingar um niðurfellingu skulda samkvæmt framtölum umsækjenda um lækkun fyrir árin 2012 - 2016.
+ □ Niðurfelling skulda sem stofnað var til eftir 5. júlí 2012 hefur engin áhrif á rétt til lækkunar sérstaks veiðigjalds, enda skili umsækjandi um lækkun sérstaks veiðigjalds greinargerð til Fiskistofu um viðkomandi skuldaniðurfellingu ásamt öllum gögnum sem Fiskistofa telur nauðsynleg til þess að sannreyna stofntíma skuldarinnar. Ef um er að ræða endurfjármögnun á skuld sem var til staðar 5. júlí 2012 leiðir niðurfelling á henni til endurútreiknings skv. 6. mgr.][^1)^]
+ □ Ráðherra setur reglugerð[^2)^] um nánari framkvæmd þessa ákvæðis.
+    _[^1)^]"L. 47/2014, 5. gr.":/altext/stjt/2014.047.html [^2)^]"Rg. 838/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/838-2012, sbr. "859/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/859-2012 og "897/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/897-2014._
+ ■ *[III.* Þrátt fyrir ákvæði 1. málsl. 8. gr. og 1. mgr. 9. gr. skulu veiðigjöld á fiskveiðiárinu 2014/2015 vera sem hér segir, í krónum á hvert kíló aflamarks (slægðan afla og slitinn humar):
+
+<table>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<tbody>
+<tr class="odd">
+<td align="left"></td>
+<td align="left">*Almennt gjald*</td>
+<td align="left">*Sérstakt gjald*</td>
+<td align="left">*Alls*</td>
+</tr>
+<tr class="even">
+<td align="left">Blálanga</td>
+<td align="left">4,58</td>
+<td align="left">2,21</td>
+<td align="left">6,79</td>
+</tr>
+<tr class="odd">
+<td align="left">Búrfiskur</td>
+<td align="left">26,98</td>
+<td align="left">12,99</td>
+<td align="left">39,97</td>
+</tr>
+<tr class="even">
+<td align="left">Djúpkarfi</td>
+<td align="left">7,17</td>
+<td align="left">3,45</td>
+<td align="left">10,62</td>
+</tr>
+<tr class="odd">
+<td align="left">Grálúða</td>
+<td align="left">12,75</td>
+<td align="left">6,14</td>
+<td align="left">18,89</td>
+</tr>
+<tr class="even">
+<td align="left">Grásleppa</td>
+<td align="left">4,21</td>
+<td align="left">2,03</td>
+<td align="left">6,24</td>
+</tr>
+<tr class="odd">
+<td align="left">Gullkarfi</td>
+<td align="left">6,93</td>
+<td align="left">3,34</td>
+<td align="left">10,27</td>
+</tr>
+<tr class="even">
+<td align="left">Gulllax</td>
+<td align="left">2,43</td>
+<td align="left">1,17</td>
+<td align="left">3,60</td>
+</tr>
+<tr class="odd">
+<td align="left">Hlýri</td>
+<td align="left">10,00</td>
+<td align="left">4,81</td>
+<td align="left">14,81</td>
+</tr>
+<tr class="even">
+<td align="left">Humar</td>
+<td align="left">23,69</td>
+<td align="left">11,40</td>
+<td align="left">35,09</td>
+</tr>
+<tr class="odd">
+<td align="left">Keila</td>
+<td align="left">3,74</td>
+<td align="left">1,80</td>
+<td align="left">5,54</td>
+</tr>
+<tr class="even">
+<td align="left">Kolmunni</td>
+<td align="left">1,00</td>
+<td align="left">1,33</td>
+<td align="left">2,33</td>
+</tr>
+<tr class="odd">
+<td align="left">Langa</td>
+<td align="left">5,93</td>
+<td align="left">2,85</td>
+<td align="left">8,78</td>
+</tr>
+<tr class="even">
+<td align="left">Langlúra</td>
+<td align="left">2,64</td>
+<td align="left">1,27</td>
+<td align="left">3,91</td>
+</tr>
+<tr class="odd">
+<td align="left">Litli karfi</td>
+<td align="left">2,48</td>
+<td align="left">1,19</td>
+<td align="left">3,67</td>
+</tr>
+<tr class="even">
+<td align="left">Loðna</td>
+<td align="left">1,50</td>
+<td align="left">2,52</td>
+<td align="left">4,02</td>
+</tr>
+<tr class="odd">
+<td align="left">Lýsa</td>
+<td align="left">3,33</td>
+<td align="left">1,60</td>
+<td align="left">4,93</td>
+</tr>
+<tr class="even">
+<td align="left">Makríll</td>
+<td align="left">2,32</td>
+<td align="left">3,92</td>
+<td align="left">6,24</td>
+</tr>
+<tr class="odd">
+<td align="left">Rækja</td>
+<td align="left">1,00</td>
+<td align="left">0,00</td>
+<td align="left">1,00</td>
+</tr>
+<tr class="even">
+<td align="left">Sandkoli</td>
+<td align="left">1,38</td>
+<td align="left">0,66</td>
+<td align="left">2,04</td>
+</tr>
+<tr class="odd">
+<td align="left">Síld</td>
+<td align="left">3,00</td>
+<td align="left">5,06</td>
+<td align="left">8,06</td>
+</tr>
+<tr class="even">
+<td align="left">Skarkoli</td>
+<td align="left">6,91</td>
+<td align="left">3,33</td>
+<td align="left">10,24</td>
+</tr>
+<tr class="odd">
+<td align="left">Skrápflúra</td>
+<td align="left">1,29</td>
+<td align="left">0,62</td>
+<td align="left">1,91</td>
+</tr>
+<tr class="even">
+<td align="left">Skötuselur</td>
+<td align="left">15,62</td>
+<td align="left">7,52</td>
+<td align="left">23,14</td>
+</tr>
+<tr class="odd">
+<td align="left">Steinbítur</td>
+<td align="left">9,57</td>
+<td align="left">4,61</td>
+<td align="left">14,18</td>
+</tr>
+<tr class="even">
+<td align="left">Ufsi</td>
+<td align="left">5,84</td>
+<td align="left">2,81</td>
+<td align="left">8,65</td>
+</tr>
+<tr class="odd">
+<td align="left">Úthafskarfi</td>
+<td align="left">8,98</td>
+<td align="left">4,32</td>
+<td align="left">13,30</td>
+</tr>
+<tr class="even">
+<td align="left">Ýsa</td>
+<td align="left">12,28</td>
+<td align="left">5,91</td>
+<td align="left">18,19</td>
+</tr>
+<tr class="odd">
+<td align="left">Þorskur</td>
+<td align="left">8,98</td>
+<td align="left">4,32</td>
+<td align="left">13,30</td>
+</tr>
+<tr class="even">
+<td align="left">Þykkvalúra/Sólkoli</td>
+<td align="left">16,86</td>
+<td align="left">8,11</td>
+<td align="left">24,97</td>
+</tr>
+<tr class="odd">
+<td align="left">Öfugkjafta</td>
+<td align="left">1,09</td>
+<td align="left">0,15</td>
+<td align="left">1,24</td>
+</tr>
+</tbody>
+</table>
+
+□ Af öðrum nytjastofnum en í töflunni greinir skal greiða 1 kr. í almennt veiðigjald.
+ □ Ráðherra skal vinna tillögur að endurskoðun þessara laga sem lagðar verði fram á Alþingi á löggjafarþinginu 2014 - 2015.][^1)^]
+    _[^1)^]"L. 47/2014, 6. gr.":/altext/stjt/2014.047.html_
+ ■ *[IV.* Þrátt fyrir ákvæði 13. gr., sbr. 1. málsl. 8. gr. og 1. mgr. 9. gr., skal fella niður álagningu almenns og sérstaks veiðigjalds á eftirfarandi tegundir:
+    1. Þorsk og meðafla hans í rússneskri og norskri lögsögu vegna almanaksársins 2014.
+    2. Úthafskarfa sem veiddur er á ICES-svæði I og II (í Síldarsmugunni) vegna almanaksársins 2014.
+    3. Dohrnbankarækju, úthafsrækju og rækju á miðunum við Snæfellsnes vegna fiskveiðiársins 2013/2014.
+    4. Lindýr og skrápdýr vegna fiskveiðiársins 2013/2014.
+ □ Þrátt fyrir ákvæði 13. gr., sbr. 1. málsl. 8. gr. og 1. mgr. 9. gr., skal lækka álagt almennt og sérstakt veiðigjald vegna veiðiheimilda í kolmunna vegna almanaksársins 2014 um 50%.
+ □ Endurgreiða skal öll innheimt veiðigjöld skv. 1. mgr. og helming innheimts veiðigjalds skv. 2. mgr. innan tveggja mánaða frá gildistöku laga þessara.][^1)^]
+    _[^1)^]"L. 47/2014, 6. gr.":/altext/stjt/2014.047.html_
 
 

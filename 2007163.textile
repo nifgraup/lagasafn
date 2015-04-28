@@ -7,7 +7,7 @@ h2. Lög um Hagstofu Íslands og opinbera hagskýrslugerð
 <hr />
 
 
- *Tóku gildi 1. janúar 2008.* _Breytt með_ "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 104/2013":/altext/stjt/2013.104.html (tóku gildi 26. sept. 2013).
+ *Tóku gildi 1. janúar 2008.* _Breytt með_ "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 104/2013":/altext/stjt/2013.104.html (tóku gildi 26. sept. 2013) og "l. 77/2014":/altext/stjt/2014.077.html (tóku gildi 12. júní 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *forsætisráðherra* eða *forsætisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -47,7 +47,7 @@ h2. Lög um Hagstofu Íslands og opinbera hagskýrslugerð
     _[^1)^]"L. 104/2013, 2. gr.":/altext/stjt/2013.104.html_
  ■ *12. gr.* Hagstofunni er skylt að varðveita öll tölfræðigögn um einstaklinga og lögaðila tryggilega og beita viðeigandi ráðstöfunum til að tryggja öryggi gagna.
  □ Trúnaðargögnum til hagskýrslugerðar skal eytt að lokinni hagnýtingu þeirra nema ástæða þyki til að varðveita þau til frekari rannsókna innan eða utan Hagstofunnar, en þá skal afmá persónuauðkenni þeirra eða dylja.
- □ Ákvæði laga um skilaskyldu til Þjóðskjalasafns, sbr. "5. gr. laga um Þjóðskjalasafn Íslands, nr. 66/1985":1985066.html#G5, gilda ekki um trúnaðargögn til hagskýrslugerðar og þeim skal ekki komið fyrir til geymslu þar.
+ □ Ákvæði laga um skilaskyldu til Þjóðskjalasafns, sbr. "5. gr. laga um Þjóðskjalasafn Íslands, nr. 66/1985":1985066.html, gilda ekki um trúnaðargögn til hagskýrslugerðar og þeim skal ekki komið fyrir til geymslu þar.
  □ Hagstofan skal setja sérstakar reglur um öryggi og varðveislu trúnaðargagna, þar á meðal um varðveislu eða eyðingu pappírsgagna, hvort eða hvenær skuli eyða tölvugögnum og afmá eða dylja auðkenni þess háttar gagna.
  ■ *13. gr.* Hagstofan skal stuðla að því að gögn hennar nýtist til tölfræðilegra vísindarannsókna. Í því skyni er henni heimilt að veita viðurkenndum eða trúverðugum rannsóknaraðilum aðgang að gögnum eða afhenda gögn úr gagnasafni með almennum upplýsingum um einstaklinga eða fyrirtæki. Afhending eða hagnýting slíkra gagna skal háð þeim skilyrðum að auðkenni einstaklinga eða fyrirtækja hafi verið afmáð eða dulin og ráðstafanir verið gerðar eftir því sem unnt er til þess að upplýsingar verði ekki raktar til þekkjanlegra einstaklinga eða lögaðila.
  □ Hagstofunni er einnig heimilt að veita aðgang að gagnasafni með viðkvæmum persónuupplýsingum sé einhverju skilyrða "9. gr. laga um persónuvernd og meðferð persónuupplýsinga, nr. 77/2000":2000077.html#G9, fullnægt og hlutaðeigandi rannsóknaraðili heiti því að skila gögnunum eða eyða persónuauðkennum þeirra að rannsókn lokinni, en þó í síðasta lagi að tilteknum tíma liðnum. Hyggist rannsóknaraðili varðveita persónuauðkenni lengur skal hann tilkynna það Hagstofunni og óska eftir samþykki hennar fyrir frekari varðveislu.
@@ -72,5 +72,7 @@ h2. Lög um Hagstofu Íslands og opinbera hagskýrslugerð
  □ Hagstofa Íslands skal eyða gögnum sem hægt er að rekja til einstaklinga, heimila eða lögaðila einu og hálfu ári eftir fyrstu útgáfu á niðurstöðum hvers tímabils og eigi síðar en í árslok 2018. Persónuvernd skal hafa eftirlit með eyðingu gagnanna.
  □ Ákvæði þetta fellur úr gildi 31. desember 2018.][^1)^]
     _[^1)^]"L. 104/2013, 3. gr.":/altext/stjt/2013.104.html_
+ ■ *[III.* Þrátt fyrir ákvæði 3. mgr. "12. gr. er Hagstofu Íslands heimilt að afhenda Þjóðskjalasafni Íslands trúnaðargögn sem safnað var vegna manntals sem fór fram á grundvelli laga nr. 76/1980":1980076.html, um manntal 31. janúar 1981. Um aðgang að gögnunum fer samkvæmt ákvæðum 2. mgr. 26. gr. laga um opinber skjalasöfn.][^1)^]
+    _[^1)^]"L. 77/2014, 50. gr.":/altext/stjt/2014.077.html#G50_
 
 

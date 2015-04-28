@@ -182,8 +182,8 @@ h2. Lög um meðferð sakamála
  □ Lögregla skal gefa verjanda færi á að fylgjast með framvindu rannsóknar að svo miklu leyti sem kostur er. Skal hún taka til greina ábendingar hans um tilteknar rannsóknaraðgerðir nema hún telji þær óheimilar eða þýðingarlausar.
  ■ *38. gr.* Þóknun skipaðs verjanda skal ákveðin í dómi eða úrskurði ef máli lýkur þannig nema hann hafi afsalað sér þóknun. Ef máli lýkur ekki með þeim hætti ákveður dómari þóknun með bókun í þingbók eða skriflega á annan hátt.
  □ Dómari ákveður þóknun í einu lagi ef sá sem tilnefndur hefur verið verjandi sakbornings er síðar skipaður til að gegna því starfi. Að öðrum kosti skal lögreglustjóri eða löglærður starfsmaður hans ákveða þóknun tilnefnds verjanda. Heimilt er að greiða verjanda hluta áætlaðrar þóknunar áður en rannsókn máls lýkur.
- □ Þóknun skipaðs eða tilnefnds verjanda greiðist úr ríkissjóði og telst til sakarkostnaðar skv. 216. gr. [Ráðherra er heimilt í reglugerð[^1)^] að mæla fyrir um tímagjald sem tekið skal mið af við ákvörðun þóknunar.][^2)^]
-    _[^1)^]"Rg. 715/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/715-2009. [^2)^]"L. 70/2009, 20. gr.":/altext/stjt/2009.070.html_
+ □ Þóknun skipaðs eða tilnefnds verjanda greiðist úr ríkissjóði og telst til sakarkostnaðar skv. 216. gr. [Ráðherra er heimilt í reglugerð að mæla fyrir um tímagjald sem tekið skal mið af við ákvörðun þóknunar.][^1)^]
+    _[^1)^]"L. 70/2009, 20. gr.":/altext/stjt/2009.070.html_
 
  *V. kafli.* *Brotaþoli og réttargæslumaður.*
  ■ *39. gr.* Brotaþoli er sá maður sem kveðst hafa orðið fyrir misgerð af völdum afbrots. Enn fremur sá maður sem telur sig hafa orðið fyrir fjárhagslegu tjóni af refsiverðri háttsemi, enda hafi hún beinst að honum sjálfum, eða lögaðili sem sagður er hafa beðið slíkt tjón.
@@ -215,8 +215,8 @@ h2. Lög um meðferð sakamála
  □ Brotaþoli sem ekki nýtur aðstoðar réttargæslumanns á rétt til aðgangs að gögnum máls skv. 1. mgr.
  ■ *48. gr.* Þóknun skipaðs réttargæslumanns skal ákveðin í dómi eða úrskurði, ef máli lýkur þannig, nema hann hafi afsalað sér þóknun. Ef máli lýkur ekki með dómi ákveður dómari þóknun með bókun í þingbók eða skriflega með öðrum hætti.
  □ Dómari ákveður þóknun í einu lagi ef sá sem tilnefndur hefur verið réttargæslumaður brotaþola er síðar skipaður til að gegna því starfi. Að öðrum kosti skal lögreglustjóri eða löglærður starfsmaður hans ákveða þóknun tilnefnds réttargæslumanns.
- □ Þóknun réttargæslumanns greiðist úr ríkissjóði og telst til sakarkostnaðar skv. 216. gr. [Ráðherra er heimilt í reglugerð[^1)^] að mæla fyrir um tímagjald sem tekið skal mið af við ákvörðun þóknunar.][^2)^]
-    _[^1)^]"Rg. 715/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/715-2009. [^2)^]"L. 70/2009, 21. gr.":/altext/stjt/2009.070.html_
+ □ Þóknun réttargæslumanns greiðist úr ríkissjóði og telst til sakarkostnaðar skv. 216. gr. [Ráðherra er heimilt í reglugerð að mæla fyrir um tímagjald sem tekið skal mið af við ákvörðun þóknunar.][^1)^]
+    _[^1)^]"L. 70/2009, 21. gr.":/altext/stjt/2009.070.html_
 
  *VI. kafli.* *Varnarþing.*
  ■ *49. gr.* Kröfu um rannsóknaraðgerð sem atbeina dómara þarf til skal að öðru jöfnu beint til héraðsdóms í umdæmi þess lögreglustjóra sem stýrir rannsókn brots. Ef ríkislögreglustjóri fer með rannsókn skal kröfu að öðru jöfnu beint til héraðsdóms í Reykjavík.
@@ -832,7 +832,8 @@ h2. Lög um meðferð sakamála
  □ Að því búnu sem að framan greinir sendir ríkissaksóknari Hæstarétti áfrýjunarstefnuna með sönnun fyrir birtingu hennar ásamt endurriti af héraðsdómi og tilkynningu ákærða um áfrýjun ef því er að skipta. Hæstiréttur skipar ákærða verjanda nema hann hafi óskað eftir að flytja mál sitt sjálfur, enda sé hann hæfur til þess að mati réttarins. Ef því er að skipta skipar Hæstiréttur enn fremur brotaþola réttargæslumann ef skilyrði eru til þess. Að því búnu tilkynnir Hæstiréttur eftir því sem við á ríkissaksóknara, ákærða, verjanda, brotaþola eða réttargæslumanni að málið hafi borist réttinum og hvaða auðkenni það hefur hlotið, svo og að tilkynnt verði frekar á síðara stigi um fresti hvers um sig til að leggja fram greinargerð í málinu af sinni hálfu.
  ■ *202. gr.* Þegar áfrýjun er ráðin skal héraðsdómstóllinn, þar sem leyst var úr máli, verða við beiðni ríkissaksóknara um að afhenda honum dómsgerðir.
  □ Þegar ríkissaksóknara hafa borist dómsgerðir skv. 1. mgr. og verjandi hefur verið skipaður skal ríkissaksóknari í samráði við verjanda búa til málsgögn en til þeirra teljast afrit þeirra málskjala og endurrita sem aðilarnir telja þörf á við úrlausn málsins eins og áfrýjun er háttað. Hæstarétti skulu síðan afhent málsgögn í þeim fjölda eintaka sem hann telur þörf á, svo og dómsgerðir.
- □ Hæstiréttur setur nánari reglur um frágang málsgagna og dómsgerða.
+ □ Hæstiréttur setur nánari reglur[^1)^] um frágang málsgagna og dómsgerða.
+    _[^1)^]Rgl. 600/2014._
  ■ *203. gr.* Þegar málsgögn hafa verið afhent skal Hæstiréttur veita þeim aðila sem áfrýjað hefur tiltekinn frest til að skila skriflegri greinargerð og gögnum sem hann kann enn að telja vanta og hann hyggst byggja mál sitt á fyrir Hæstarétti. Þegar greinargerð og gögn hafa borist skal gagnaðila veittur frestur til að skila greinargerð og gögnum af sinni hálfu. Ef því er að skipta skal að lokum veita kröfuhafa skv. XXVI. kafla frest til að skila greinargerð og gögnum. Þegar greinargerð er skilað til Hæstaréttar skal sá sem það gerir senda öðrum þeim sem að framan er getið afrit af henni, svo og af gögnum sem fylgja henni.
  □ Í greinargerð málsaðila skal koma fram:
     a. hvers krafist sé fyrir Hæstarétti,
@@ -940,7 +941,7 @@ h2. Lög um meðferð sakamála
  *XXXVI. kafli.* *Sakaskrá o.fl.*
  ■ *225. gr.* Ríkissaksóknari skal halda sakaskrá fyrir allt landið þar sem skráð eru úrslit sakamála.
  □ Ríkissaksóknari skal setja nánari reglur[^1)^] um gerð og varðveislu sakaskrár, þar á meðal hvað skuli skráð í henni um mál sem lýkur án saksóknar, svo og um sakavottorð.
-    _[^1)^]Rgl. 680/2009, sbr. rgl. 800/2009._
+    _[^1)^]Rgl. 680/2009, sbr. rgl. 800/2009 og rgl. 398/2014._
  ■ *226. gr.* Lögreglu er heimilt að skrá og varðveita upplýsingar um brotaferil einstakra manna og atriði sem varða einkahagi þeirra. Skal [ráðherra][^1)^] setja fyrirmæli í reglugerð um þetta, þar á meðal um að upplýsingum um brotaferil einstakra manna og aðra einkahagi þeirra skuli eytt þegar þeirra er ekki lengur þörf við rannsókn sakamála.
     _[^1)^]"L. 162/2010, 194. gr.":/altext/stjt/2010.162.html_
  ■ *227. gr.* Ákærandi skal leggja sakavottorð ákærða fram í sakamáli við þingfestingu máls nema hann telji óþarft að líta til sakaferils hans við úrlausn málsins.

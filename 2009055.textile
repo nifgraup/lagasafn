@@ -7,7 +7,8 @@ h2. Lög um sjúkraskrár
 <hr />
 
 
- *Tóku gildi 1. maí 2009.*
+ *Tóku gildi 1. maí 2009.* _Breytt með_ "l. 6/2014":/altext/stjt/2014.006.html (tóku gildi 28. jan. 2014), "l. 44/2014":/altext/stjt/2014.044.html (taka gildi 1. jan. 2015 nema brbákv. I sem tók gildi 29. maí 2014) og "l. 77/2014":/altext/stjt/2014.077.html (tóku gildi 12. júní 2014).
+
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *heilbrigðisráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
 <hr />
@@ -68,7 +69,8 @@ h2. Lög um sjúkraskrár
  ■ *7. gr.* _Réttur sjúklings við færslu sjúkraskráa._
  □ Sjúklingur eða umboðsmaður hans getur ákveðið þegar hann fær meðferð að sjúkraskrárupplýsingar vegna hennar verði ekki aðgengilegar öðrum en þeim sem skráir og umsjónaraðila sjúkraskrárinnar og eftir atvikum öðrum tilteknum heilbrigðisstarfsmönnum. Sé það talið nauðsynlegt vegna meðferðar að aðrir heilbrigðisstarfsmenn hafi aðgang að viðkomandi sjúkraskrárupplýsingum skal upplýsa sjúkling um það og jafnframt að synjun um að heimila nauðsynlegan aðgang að sjúkraskránni geti jafngilt því, eftir atvikum, að meðferð hafi verið hafnað, sbr. lög um réttindi sjúklinga.
  □ Telji sjúklingur eða umboðsmaður hans að sjúkraskrárupplýsingar séu rangar eða villandi skal athugasemd hans um það skráð í sjúkraskrána. Sé sýnt fram á að upplýsingar í sjúkraskrá séu bersýnilega rangar eða villandi er heimilt með samþykki umsjónaraðila að leiðrétta þær í sjúkraskrá viðkomandi enda sé þess gætt að ekki glatist upplýsingar sem nauðsynlegar eru vegna réttarágreinings. Neiti umsjónaraðili að leiðrétta sjúkraskrárupplýsingar sem sjúklingur telur bersýnilega rangar eða villandi getur sjúklingur skotið þeirri synjun til landlæknis með kæru. Óheimilt er að eyða upplýsingum úr sjúkraskrá sjúklings nema með samþykki landlæknis.
- □ Ákvarðanir landlæknis um leiðréttingu eða eyðingu sjúkraskrárupplýsinga eru kæranlegar til ráðherra. Um málsmeðferð fer samkvæmt stjórnsýslulögum.
+ □ [Ákvarðanir landlæknis um leiðréttingu eða eyðingu sjúkraskrárupplýsinga eru endanlegar á stjórnsýslustigi og verður ekki skotið til ráðherra.][^1)^] Um málsmeðferð fer samkvæmt stjórnsýslulögum.
+    _[^1)^]"L. 6/2014, 1. gr.":/altext/stjt/2014.006.html_
 
  *III. kafli.* *Varðveisla sjúkraskráa.*
  ■ *8. gr.* _Almennt._
@@ -79,7 +81,8 @@ h2. Lög um sjúkraskrár
  □ Nú færir sjúklingur sig frá einni heilsugæslustöð til annarrar og skal þá vista afrit sjúkraskrár hans í sjúkraskrárkerfi því sem notað er á þeirri stöð sem hann flyst til.
  □ Sé rekstri sjúkraskrárkerfis hætt skal flytja sjúkraskrár sem þar eru vistaðar til landlæknis. Landlæknir getur ákveðið, með samþykki sjúklings eða umboðsmanns hans, að sjúkraskrár sem fluttar hafa verið til hans skuli vistaðar í sjúkraskrárkerfi annarrar heilbrigðisstofnunar eða starfsstofu heilbrigðisstarfsmanna eða í sameiginlegu sjúkraskrárkerfi.
  ■ *11. gr.* _Tímalengd vörslu._
- □ Sjúkraskrár skal varðveita í sjúkraskrárkerfi heilbrigðisstofnana og starfsstofa heilbrigðisstarfsmanna. Um skyldu til að afhenda sjúkraskrár til Þjóðskjalasafns Íslands, varðveislu þeirra og aðgang að þeim gilda ákvæði laga um Þjóðskjalasafn Íslands.
+ □ Sjúkraskrár skal varðveita í sjúkraskrárkerfi heilbrigðisstofnana og starfsstofa heilbrigðisstarfsmanna. [Um skyldu til að afhenda sjúkraskrár til opinberra skjalasafna, varðveislu þeirra og aðgang að þeim þar gilda ákvæði laga um opinber skjalasöfn.][^1)^]
+    _[^1)^]"L. 77/2014, 50. gr.":/altext/stjt/2014.077.html#G50_
 
  *IV. kafli.* *Aðgangur að sjúkraskrárupplýsingum.*
  ■ *12. gr.* _Almennt._
@@ -93,16 +96,26 @@ h2. Lög um sjúkraskrár
  ■ *14. gr.* _Aðgangur sjúklings að eigin sjúkraskrá._
  □ Sjúklingur eða umboðsmaður hans á rétt á aðgangi að eigin sjúkraskrá í heild eða að hluta og til að fá afhent afrit af henni ef þess er óskað. Beiðni þar að lútandi skal beint til umsjónaraðila sjúkraskrárinnar.
  □ Sé um að ræða sjúkraskrárupplýsingar sem hafðar eru eftir öðrum en sjúklingi sjálfum eða heilbrigðisstarfsmönnum skal leita samþykkis þess sem upplýsingarnar gaf áður en þær eru sýndar honum. Ef sá sem þannig hefur veitt upplýsingar um sjúkling er látinn eða horfinn eða neitar á óréttmætum grundvelli að veita samþykki sitt getur landlæknir ákveðið að sjúklingi eða umboðsmanni hans skuli veittur aðgangur að umræddum upplýsingum, í heild eða að hluta.
- □ Sé talið að það þjóni ekki hagsmunum sjúklings að afhenda honum eða umboðsmanni hans afrit sjúkraskrár skal umsjónaraðili sjúkraskrár án tafar framsenda landlækni afrit sjúkraskrárinnar til ákvörðunar um það hvort aðgangur að sjúkraskránni skuli veittur. Landlæknir skal afgreiða erindið innan átta vikna.
+ □ [Sé talið að það þjóni ekki hagsmunum sjúklings að veita honum aðgang að sjúkraskrá í heild eða að hluta eða afhenda honum eða umboðsmanni hans afrit af henni skal umsjónaraðili sjúkraskrár leiðbeina um rétt til að bera synjun um aðgang undir embætti landlæknis skv. 15. gr. a.][^1)^]
  □ Sjúklingur á rétt á því að fá upplýsingar frá umsjónaraðila sjúkraskrár um það hverjir hafi aflað upplýsinga úr sjúkraskrá hans, m.a. með samtengingu sjúkraskrárkerfa, hvar og hvenær upplýsinga var aflað og í hvaða tilgangi.
- □ Ákvarðanir landlæknis um aðgang sjúklinga að eigin sjúkraskrá eru kæranlegar til ráðherra. Um málsmeðferð fer samkvæmt stjórnsýslulögum.
+ □ ...[^1)^]
+    _[^1)^]"L. 6/2014, 2. gr.":/altext/stjt/2014.006.html_
  ■ *15. gr.* _Aðgangur að sjúkraskrá látins einstaklings._
- □ Mæli ríkar ástæður með því er umsjónaraðila sjúkraskrár heimilt að veita nánum aðstandanda látins einstaklings, svo sem maka, foreldri eða afkomanda, aðgang að sjúkraskrá hins látna með hliðsjón af vilja hins látna og hagsmunum hlutaðeigandi. Telji umsjónaraðili sjúkraskrár vafa leika á réttmæti þess að veita slíkan aðgang skal hann án tafar framsenda landlækni afrit sjúkraskrárinnar til ákvörðunar um hvort aðgangur að sjúkraskránni skuli veittur. Landlæknir skal afgreiða erindið innan átta vikna. Ákvörðun landlæknis um aðgang að sjúkraskrá hins látna er kæranleg til ráðherra. Um málsmeðferð fer samkvæmt stjórnsýslulögum.
+ □ [Mæli ríkar ástæður með því er umsjónaraðila sjúkraskrár heimilt að veita nánum aðstandanda látins einstaklings, svo sem maka, foreldri eða afkomanda, aðgang að sjúkraskrá hins látna og láta í té afrit hennar ef þess er óskað. Við mat á því hvort veita skuli aðgang að sjúkraskrá látins einstaklings skal höfð hliðsjón af hagsmunum aðstandanda sem óskar eftir slíkum aðgangi og vilja hins látna, liggi fyrir upplýsingar um hann. Synji umsjónaraðili sjúkraskrár um aðgang eða afrit af sjúkraskrá látins einstaklings skal umsjónaraðili sjúkraskrár leiðbeina um rétt til að bera synjun um aðgang undir embætti landlæknis skv. 15. gr. a.][^1)^]
+    _[^1)^]"L. 6/2014, 3. gr.":/altext/stjt/2014.006.html_
+ ■ *[15. gr. a.* _Réttur til að bera synjun um aðgang að sjúkraskrá undir embætti landlæknis._
+ □ Heimilt er að bera synjun umsjónaraðila sjúkraskrár um aðgang sjúklings að eigin sjúkraskrá í heild eða að hluta eða synjun um að fá afhent afrit af henni undir embætti landlæknis. Sama gildir um synjun umsjónaraðila sjúkraskrár um að veita nánum aðstandanda aðgang að sjúkraskrá látins einstaklings eða synjun um að fá afhent afrit af henni. Um málsmeðferð fer samkvæmt stjórnsýslulögum. Ákvarðanir embættisins um aðgang að sjúkraskrá eru endanlegar á stjórnsýslustigi og verður ekki skotið til ráðherra.][^1)^]
+    _[^1)^]"L. 6/2014, 4. gr.":/altext/stjt/2014.006.html_
  ■ *16. gr.* _Aðgangur heilbrigðisyfirvalda að sjúkraskrám._
  □ Heilbrigðisyfirvöld sem lögum samkvæmt fá til umfjöllunar kvörtun eða kæru sjúklings eða umboðsmanns hans vegna meðferðar eiga rétt til aðgangs að sjúkraskrá viðkomandi með sama hætti og sjúklingur sjálfur.
  □ Um miðlun upplýsinga úr sjúkraskrám vegna færslu heilbrigðisskráa og eftirlits landlæknis, þ.m.t. gæðaeftirlits, fer samkvæmt lögum um landlækni.
  ■ *17. gr.* _Aðgangur að sjúkraskrám vegna gæðaþróunar og gæðaeftirlits._
  □ Umsjónaraðila sjúkraskráa er heimilt að veita heilbrigðisstarfsmönnum og öðrum starfsmönnum og nemum í starfsnámi í heilbrigðisvísindum, sem undirgengist hafa sambærilega trúnaðar- og þagnarskyldu og heilbrigðisstarfsmenn, aðgang að sjúkraskrám vegna gæðaþróunar og gæðaeftirlits með heilbrigðisþjónustu og meðferð innan viðkomandi heilbrigðisstofnunar eða starfsstofu heilbrigðisstarfsmanna.
+ ■ *[17. gr. a.* Um aðgang að sjúkraskrám vegna vísindarannsókna fer samkvæmt lögum um vísindarannsóknir á heilbrigðissviði. Sjúklingur eða umboðsmaður hans getur lagt bann við því að sjúkraskrárupplýsingar hans séu varðveittar persónugreinanlegar í safni heilbrigðisupplýsinga til notkunar í vísindarannsóknum og skal það þá skráð í sjúkraskrá hans.][^1)^]
+    _[^1)^]"L. 44/2014, 36. gr.":/altext/stjt/2014.044.html#G36 Greinin tekur gildi 1. jan. 2015 skv. "35. gr. s.l.":2014044.html_
+ ■ *[[17. gr. b.][^1)^]* _Aðgangur að sjúkraskrárkerfum til að sinna vinnslu, uppfærslu og viðhaldi._
+ □ Umsjónaraðila sjúkraskráa er heimilt að veita starfsmönnum sem vinna að þjónustu við tölvu- og upplýsingakerfi nauðsynlegan aðgang að sjúkraskrárkerfi í þeim tilgangi að sinna vinnslu, uppfærslu og viðhaldi kerfisins. Að því marki sem unnt er skal notast við prufugögn í stað raungagna við veitingu slíkrar þjónustu. Starfsmennirnir skulu undirgangast sambærilega trúnaðar- og þagnarskyldu og heilbrigðisstarfsmenn.][^2)^]
+    _[^1)^]"L. 44/2014, 36. gr.":/altext/stjt/2014.044.html#G36 Breytingin tekur gildi 1. jan. 2015 skv. "35. gr. s.l.":2014044.html [^2)^]"L. 6/2014, 5. gr.":/altext/stjt/2014.006.html_
 
  *V. kafli.* *Samtenging rafrænna sjúkraskrárkerfa.*
  ■ *18. gr.* _Heimild til að samtengja rafræn sjúkraskrárkerfi._

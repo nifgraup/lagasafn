@@ -7,7 +7,8 @@ h2. Lög um útgáfu og meðferð rafeyris
 <hr />
 
 
- *Tóku gildi 1. apríl 2013.*
+ *Tóku gildi 1. apríl 2013.* _Breytt með_ "l. 78/2014":/altext/stjt/2014.078.html (tóku gildi 12. júní 2014).
+
 
 <hr />
 
@@ -141,12 +142,13 @@ h2. Lög um útgáfu og meðferð rafeyris
  □ Rafeyrisfyrirtæki er óheimilt að taka við innlánum eða öðrum endurgreiðanlegum fjármunum frá almenningi í skilningi laga um fjármálafyrirtæki.
  □ Rafeyrisfyrirtæki er heimilt að halda greiðslureikninga sem skal einungis nota við framkvæmd greiðslna.
  ■ *25. gr.* _Varðveisla fjármuna._
- □ Rafeyrisfyrirtæki skal varðveita fjármuni sem mótteknir hafa verið í skiptum fyrir rafeyri tryggilega og halda þeim skýrt aðgreindum frá eigin fé sínu. Fjármunir teljast tryggilega varðveittir ef þeir eru geymdir á innlánsreikningi hjá fjármálafyrirtæki eða ef fjárfest er með þeim í öruggum, seljanlegum og áhættulitlum eignum.
+ □ [Rafeyrisfyrirtæki skal varðveita tryggilega fjármuni sem mótteknir hafa verið í skiptum fyrir rafeyri og halda þeim skýrt aðgreindum frá fjármunum sínum.][^1)^] Fjármunir teljast tryggilega varðveittir ef þeir eru geymdir á innlánsreikningi hjá fjármálafyrirtæki eða ef fjárfest er með þeim í öruggum, seljanlegum og áhættulitlum eignum.
  □ Fjármunum, sem mótteknir hafa verið frá notendum greiðsluþjónustu eða frá öðrum greiðsluþjónustuveitendum vegna framkvæmdar greiðslu, skal haldið skýrt aðgreindum frá eigin fé greiðsluþjónustuveitanda, þ.m.t. rafeyrisfyrirtækisins, og fjármunum í eigu annarra en notenda greiðsluþjónustu.
  □ Fjármunir sem rafeyrisfyrirtæki veitir viðtöku í formi greiðslu með greiðslumiðli skulu varðveittir í samræmi við 1. - 2. mgr. frá þeim tíma sem þeir eru lagðir inn á greiðslureikning rafeyrisfyrirtækisins, eða þeir eru aðgengilegir því til ráðstöfunar í samræmi við ákvæði laga um greiðsluþjónustu um framkvæmdartíma, og í síðasta lagi innan fimm viðskiptadaga, í skilningi laga um greiðsluþjónustu, frá útgáfu rafeyris. Hvað sem öðru líður skulu slíkir fjármunir varðveittir tryggilega eigi síðar en fimm viðskiptadögum síðar, eins og þeir eru skilgreindir í 29. tölul. 8. gr. laga um greiðsluþjónustu, eftir útgáfu rafeyris.
  □ Fjármunir skv. 1. - 3. mgr. skulu teljast sértökukröfur í þrotabú rafeyrisfyrirtækis komi til gjaldþrots. Um rétthæð þeirra fer skv. "109. gr. laga nr. 21/1991":1991021.html#G109, um gjaldþrotaskipti o.fl., enda sýni eigandi fjármuna fram á eignarrétt sinn að þeim.
  □ Rafeyrisfyrirtæki skulu tilkynna Fjármálaeftirlitinu fyrir fram um breytingar sem máli skipta hvað varðar ráðstafanir til varðveislu fjármuna skv. 1. - 3. mgr.
- □ Fjármálaeftirlitið setur nánari reglur um tryggilega varðveislu fjármuna samkvæmt þessari grein.
+ □ Fjármálaeftirlitið setur nánari reglur[^2)^] um tryggilega varðveislu fjármuna samkvæmt þessari grein.
+    _[^1)^]"L. 78/2014, 7. gr.":/altext/stjt/2014.078.html#G7 [^2)^]Rgl. 322/2014._
  *_D. Stjórn. Reikningsskil og endurskoðun._*
  ■ *26. gr.* _Hæfi stjórnarmanna, framkvæmdastjóra og annarra stjórnenda._
  □ Um hæfi stjórnarmanna, framkvæmdastjóra og annarra stjórnenda samkvæmt skipulagi rafeyrisfyrirtækis gilda hæfisreglur laga um fjármálafyrirtæki eftir því sem við á.
@@ -249,10 +251,11 @@ h2. Lög um útgáfu og meðferð rafeyris
     20. 2. mgr. 39. gr. um skyldu til að tryggja að þriðji aðili, sem falið hefur verið að annast tiltekna rekstrarþætti, geri viðeigandi ráðstafanir til að tryggja að farið sé að lögum þessum,
     21. 40. gr. um varðveislu gagna.
  □ Sektir sem lagðar eru á einstaklinga geta numið frá 10 þús. kr. til 20 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 50 þús. kr. til 50 millj. kr. Við ákvörðun sekta skal m.a. tekið tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila og hvort um ítrekað brot er að ræða. Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar. Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
- □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi. Hafi aðili gerst brotlegur við ákvæði laga þessara, reglur settar á grundvelli þeirra eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur um framkvæmd ákvæðisins.
+ □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi. Hafi aðili gerst brotlegur við ákvæði laga þessara, reglur settar á grundvelli þeirra eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur[^1)^] um framkvæmd ákvæðisins.
  □ Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.
  □ Heimild Fjármálaeftirlitsins til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar fimm ár eru liðin frá því að háttsemi lauk.
  □ Frestur skv. 5. mgr. rofnar þegar Fjármálaeftirlitið tilkynnir aðila um upphaf rannsóknar á meintu broti. Rof frests hefur réttaráhrif gagnvart öllum sem staðið hafa að broti.
+    _[^1)^]Rgl. 728/2014._
  ■ *44. gr.* _Sektir eða fangelsi._
  □ Það varðar sektum eða fangelsi allt að tveimur árum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn eftirtöldum ákvæðum laga þessara og, eftir atvikum, reglum settum á grundvelli þeirra:
     1. 3. gr. um einkarétt útgefanda rafeyris til útgáfu rafeyris hérlendis,

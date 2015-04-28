@@ -7,7 +7,7 @@ h2. Lög um kauphallir
 <hr />
 
 
- *Tóku gildi 1. nóvember 2007.* _EES-samningurinn:_ IX. viðauki tilskipun 2004/39/EB. _Breytt með_ "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og "l. 96/2008":/altext/stjt/2008.096.html (tóku gildi 24. júní 2008).
+ *Tóku gildi 1. nóvember 2007.* _EES-samningurinn:_ IX. viðauki tilskipun 2004/39/EB. _Breytt með_ "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 96/2008":/altext/stjt/2008.096.html (tóku gildi 24. júní 2008) og "l. 28/2014":/altext/stjt/2014.028.html (tóku gildi 8. apríl 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -159,6 +159,10 @@ h2. Lög um kauphallir
  □ Ráðherra setur reglugerð um skilyrði fyrir opinberri skráningu verðbréfa.
  ■ *27. gr.* _Aðild að skipulegum verðbréfamarkaði o.fl._
  □ Reglur kauphallar um uppgjör viðskipta skulu tryggja að markaðsaðilar hafi rétt til að tilnefna annað uppgjörskerfi en kauphöllin hefur valið svo framarlega sem nauðsynlegar tengingar og ráðstafanir eru til staðar milli tilnefnds uppgjörskerfis og annarra kerfa og Fjármálaeftirlitið samþykkir að tæknileg skilyrði uppgjörs viðskipta tryggi örugga starfsemi viðkomandi skipulegs verðbréfamarkaðar.
+ ■ *[27. gr. a.* _Ráðstafanir vegna miðlægs mótaðila og greiðslujöfnunar og uppgjörs._
+ □ Skipulegum verðbréfamörkuðum er heimilt að gera viðeigandi ráðstafanir vegna miðlægs mótaðila eða greiðslujöfnunarstöðvar og uppgjörskerfis í öðru ríki á Evrópska efnahagssvæðinu í því skyni að greiðslujafna eða gera upp sum eða öll viðskipti sem markaðsaðilar í þeirra kerfum ganga frá.
+ □ Lögbært yfirvald skipulegs verðbréfamarkaðar má ekki hamla notkun miðlægs mótaðila, greiðslujöfnunarstöðva eða uppgjörskerfa í öðru ríki á Evrópska efnahagssvæðinu nema sýnt sé fram á að það sé nauðsynlegt til að viðhalda skipulegri starfsemi þess skipulega markaðar og að teknu tilliti til tæknilegra skilyrða um uppgjörskerfi skv. 27. gr.][^1)^]
+    _[^1)^]"L. 28/2014, 5. gr.":/altext/stjt/2014.028.html_
 
  *VI. kafli.* *Gagnsæi á skipulegum verðbréfamarkaði.*
  ■ *28. gr.* _Almennt um gagnsæi._
@@ -208,7 +212,7 @@ h2. Lög um kauphallir
  □ Sektir sem lagðar eru á einstaklinga geta numið frá 10 þús. kr. til 20 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 50 þús. kr. til 50 millj. kr. Við ákvörðun sekta skal m.a. tekið tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila og hvort um ítrekað brot er að ræða. Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar. Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
  □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.
  ■ *34. gr.* Hafi aðili gerst brotlegur við ákvæði laga þessara eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur[^1)^] um framkvæmd ákvæðisins.
-    _[^1)^]Rgl. 1245/2007._
+    _[^1)^]Rgl. 728/2014._
  ■ *35. gr.* Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.
  ■ *36. gr.* Heimild Fjármálaeftirlits til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar fimm ár eru liðin frá því að háttsemi lauk.
  □ Frestur skv. 1. mgr. rofnar þegar Fjármálaeftirlitið tilkynnir aðila um upphaf rannsóknar á meintu broti. Rof frests hefur réttaráhrif gagnvart öllum sem staðið hafa að broti.

@@ -7,7 +7,7 @@ h2. Lög um lax- og silungsveiði
 <hr />
 
 
- *Tóku gildi 1. júlí 2006.* _Breytt með_ "l. 167/2007":/altext/stjt/2007.167.html (tóku gildi 1. jan. 2008), "l. 81/2008":/altext/stjt/2008.081.html (tóku gildi 1. júlí 2008), "l. 119/2009":/altext/stjt/2009.119.html (tóku gildi 29. des. 2009), "l. 123/2010":/altext/stjt/2010.123.html (tóku gildi 1. jan. 2011), "l. 47/2011":/altext/stjt/2011.047.html (tóku gildi 20. maí 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 131/2011":/altext/stjt/2011.131.html (tóku gildi 1. jan. 2012) og "l. 157/2012":/altext/stjt/2012.157.html (tóku gildi 3. jan. 2013).
+ *Tóku gildi 1. júlí 2006.* _Breytt með_ "l. 167/2007":/altext/stjt/2007.167.html (tóku gildi 1. jan. 2008), "l. 81/2008":/altext/stjt/2008.081.html (tóku gildi 1. júlí 2008), "l. 119/2009":/altext/stjt/2009.119.html (tóku gildi 29. des. 2009), "l. 123/2010":/altext/stjt/2010.123.html (tóku gildi 1. jan. 2011), "l. 47/2011":/altext/stjt/2011.047.html (tóku gildi 20. maí 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 131/2011":/altext/stjt/2011.131.html (tóku gildi 1. jan. 2012), "l. 157/2012":/altext/stjt/2012.157.html (tóku gildi 3. jan. 2013) og "l. 14/2014":/altext/stjt/2014.014.html (tóku gildi 13. febr. 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *sjávarútvegs- og landbúnaðarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -240,12 +240,12 @@ h2. Lög um lax- og silungsveiði
     _[^1)^]"L. 81/2008, 8. gr.":/altext/stjt/2008.081.html [^2)^]"L. 157/2012, 20. gr.":/altext/stjt/2012.157.html_
  ■ *29. gr.* _Stangveiði í straumvatni._
  □ Við veiði með færi og stöng skal nota agn, lifandi eða dautt, sem fiskur eltir og tekur. Aldrei má við slíka veiði nota krækjur eða neitt annað sem festir í fiski honum að óvörum og án þess að hann elti það.
- □ Veiðifélag eða veiðiréttarhafar, þar sem ekki eru veiðifélög, skulu setja nánari reglur um stangveiði á veiðisvæði sínu sem gilda skulu í a.m.k. átta ár. Slíkar reglur, nýtingaráætlun, skal [Fiskistofa][^1)^] staðfesta að fenginni umsögn Veiðimálastofnunar. Sinni veiðifélög eða veiðiréttarhafar ekki þessari skyldu sinni getur [Fiskistofa],[^1)^] að eigin frumkvæði, sett slíkar reglur.
+ □ Veiðifélag eða veiðiréttarhafar, þar sem ekki eru veiðifélög, skulu setja nánari reglur um stangveiði á veiðisvæði sínu [fyrir tilgreindan árafjölda].[^1)^] Slíkar reglur, nýtingaráætlun, skal [Fiskistofa][^2)^] staðfesta að fenginni umsögn Veiðimálastofnunar. Sinni veiðifélög eða veiðiréttarhafar ekki þessari skyldu sinni getur [Fiskistofa],[^2)^] að eigin frumkvæði, sett slíkar reglur.
  □ Í reglum skv. 2. mgr. skal kveða á um eftirfarandi atriði:
     a. fjölda stanga sem á má veiða hverju sinni,
     b. aðra tilhögun veiði sem nauðsynleg þykir.
  □ Ef ágreiningur rís um skiptingu veiðitíma, veiðistaði eða endurgjald fyrir stangveiði milli veiðiréttarhafa er þeim sem telur sig vanhaldinn heimilt að krefjast mats skv. VII. kafla laga þessara, ef eigi semur.
-    _[^1)^]"L. 81/2008, 8. gr.":/altext/stjt/2008.081.html_
+    _[^1)^]"L. 14/2014, 1. gr.":/altext/stjt/2014.014.html [^2)^]"L. 81/2008, 8. gr.":/altext/stjt/2008.081.html_
  ■ *30. gr.* _Veiðitæki og veiðiaðferðir í stöðuvötnum._
  □ Í stöðuvatni má við veiðar aðeins nota færi, dorg, stöng, lóð, lagnet og ádráttarnet. Í almenningi stöðuvatns er ádráttarveiði þó óheimil.
  □ Ekki má í stöðuvatni veiða fisk með krók eða sting eða í háf. Þó má nota þessi tæki til þess að bjarga á land fiski sem fastur er á öngli eða í neti.
@@ -297,13 +297,13 @@ h2. Lög um lax- og silungsveiði
     c. að skipta veiði eða arði af veiði milli félagsmanna í samræmi við rétt þeirra,
     d. að ráðstafa rétti til stangveiði í fiskihverfi í heild eða að hluta með hagsmuni félagsmanna að leiðarljósi, en þó þannig að gætt sé markmiða laganna um sjálfbæra nýtingu,
     e. að hafa að öðru leyti með höndum verkefni þau sem því eru falin í lögunum og varða framkvæmd þeirra.
- □ Félagsmenn veiðifélags eru allir þeir sem skráðir eru veiðiréttarhafar á félagssvæðinu skv. 12. gr., en um atkvæðisrétt þeirra fer skv. 40. gr.
+ □ Félagsmenn veiðifélags eru allir þeir sem skráðir eru veiðiréttarhafar á félagssvæðinu skv. 12. gr., en um atkvæðisrétt þeirra fer skv. 40. gr. [Félagsmenn bera ekki persónulega ábyrgð á fjárskuldbindingum veiðifélags.][^1)^]
  □ Veiðifélag sem starfar samkvæmt lögum þessum skal taka til allrar veiði í umdæmi félagsins og eftir stofnun þess er öllum óheimilt að veiða í vatni á félagssvæðinu nema samkvæmt heimild frá félaginu.
  □ Hafi veiðifélag ráðstafað í heild stangveiði á félagssvæði sínu er einstökum félagsmönnum skylt að veita aðgang að veiðistöðum fyrir landi sínu. Ávallt skulu þeir sem aðgengis njóta gæta þess að valda sem minnstri röskun á hagsmunum félagsmanns.
  □ Ef nýr aðili tekur við veiðirétti skv. II. kafla laga þessara fyrir afsal eða á grundvelli ábúðarsamnings er þeim aðila skylt að gerast félagsmaður í veiðifélagi og taka á sig skuldbindingar fráfarandi félagsmanns.
  □ Sjálfstæðar eignir veiðifélags tilheyra þeim fasteignum á félagssvæðinu sem veiðirétt eiga, og í arðskrárhlutfalli.
- □ Ráðherra skal í reglugerð[^1)^] setja nánari fyrirmæli um starfsemi veiðifélaga svo sem nánar er kveðið á um í kafla þessum.
-    _[^1)^]"Rg. 1024/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1024-2006._
+ □ Ráðherra skal í reglugerð[^2)^] setja nánari fyrirmæli um starfsemi veiðifélaga svo sem nánar er kveðið á um í kafla þessum.
+    _[^1)^]"L. 14/2014, 2. gr.":/altext/stjt/2014.014.html [^2)^]"Rg. 345/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/345-2014._
  ■ *38. gr.* _Umdæmi veiðifélags._
  □ Umdæmi veiðifélags getur náð yfir heilt fiskihverfi, einstakt veiðivatn í fiskihverfi, hluta af veiðivatni, þar sem sérstaklega hagar til um veiði eða vatnskosti, eða veiðivötn á afrétti sem eru hluti af einu eða fleiri fiskihverfum og eru á sama landsvæði.
  □ [Fiskistofa][^1)^] skal ákveða umdæmi veiðifélags að höfðu samráði við veiðiréttarhafa á væntanlegu félagssvæði.
@@ -328,7 +328,7 @@ h2. Lög um lax- og silungsveiði
  □ Hafi veiðifélag ekki sett sér lögmætar samþykktir, þrátt fyrir ákvæði greinar þessarar, getur [Fiskistofa][^1)^] sett félagi samþykktir sem gilda þar til lögmætar samþykktir hafa verið settar af félaginu sjálfu.
  □ Sá er vefengja vill lögmæti stofnaðs veiðifélags getur borið ágreining þar að lútandi undir dómstóla innan sex mánaða frá stofnfundi.
  □ Samþykkt skv. 3. mgr. skal staðfest af [Fiskistofu][^1)^] og birt í B-deild Stjórnartíðinda eftir að málskotsfrestur skv. 7. mgr. er liðinn.
-    _[^1)^]"L. 81/2008, 8. gr.":/altext/stjt/2008.081.html [^2)^]"Rg. 1024/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1024-2006._
+    _[^1)^]"L. 81/2008, 8. gr.":/altext/stjt/2008.081.html [^2)^]"Rg. 345/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/345-2014._
  ■ *40. gr.* _Atkvæðisréttur í veiðifélagi._
  □ Á félagssvæði veiðifélags fylgir eitt atkvæði hverri jörð sem veiðirétt á í samræmi við ákvæði laga þessara. Hið sama gildir um veiðifélag sem einungis tekur til veiðivatna á afréttum í þjóðlendu. Með jörð í framangreindum skilningi er átt við þær jarðir, [þar á meðal eyðijarðir],[^1)^] sem fullnægðu skilyrðum laga til að teljast lögbýli við gildistöku eldri "jarðalaga, nr. 65/1976":1976065.html.
  □ Ef eigendur jarðar eða veiðiréttar eða ábúendur jarðar eru fleiri en einn skulu þeir gera með sér skriflegan samning um það hver fari með atkvæðisréttinn og skal það tilkynnt veiðifélagi með sannanlegum hætti. Hið sama gildir þegar jörð hefur löglega verið skipt í ákveðnum hlutföllum milli eigenda.
@@ -347,16 +347,16 @@ h2. Lög um lax- og silungsveiði
     c. hrygningar- og uppeldisskilyrða fisks.
  □ Arðskrá skal leggja fram til samþykktar eða synjunar félagsmanna á löglega boðuðum félagsfundi. Um arðskrá skal greiða atkvæði, og þarf atkvæði [^2^]/3 hluta allra atkvæðisbærra félagsmanna til samþykktar henni. Sé fundarsókn ekki næg skal boða til annars fundar með sama hætti og að framan greinir, og ræður þá afl atkvæða.
  □ Ef arðskrá er ekki samþykkt ber stjórn veiðifélags að óska eftir mati skv. VII. kafla laga þessara um þau atriði sem greinir í 1. mgr. Einnig er sérhverjum félagsmanni rétt að krefjast mats með framangreindum hætti, enda komi sú krafa fram innan tveggja mánaða frá fundi þar sem arðskrá hefur verið samþykkt.
- □ Arðskrá skv. 1. - 4. mgr. skal staðfest af [Fiskistofu][^1)^] og birt í B-deild Stjórnartíðinda eftir að málskotsfrestur skv. 4. mgr. er liðinn. Tekur hún gildi tveimur mánuðum eftir slíka birtingu. Komi fram krafa um mat gildir eldri arðskrá ef henni er til að dreifa þar til matsgerð skv. VII. kafla laga þessara liggur fyrir og arðskrá á grundvelli hennar hefur verið staðfest og birt.
+ □ Arðskrá skv. [1. - 3. mgr.][^1)^] skal staðfest af [Fiskistofu][^2)^] og birt í B-deild Stjórnartíðinda eftir að málskotsfrestur skv. 4. mgr. er liðinn. ...[^1)^] Komi fram krafa um mat gildir eldri arðskrá ef henni er til að dreifa þar til matsgerð skv. VII. kafla laga þessara liggur fyrir og arðskrá á grundvelli hennar hefur verið staðfest og birt.
  □ Heimilt er veiðifélagi samkvæmt ákvörðun félagsfundar eða stjórnar, svo og einstökum félagsmönnum, að krefjast endurskoðunar á arðskrá átta árum eftir gildistöku hennar.
- □ Nánari fyrirmæli um arðskrár skal ráðherra setja í reglugerð.[^2)^]
-    _[^1)^]"L. 81/2008, 8. gr.":/altext/stjt/2008.081.html [^2)^]"Rg. 403/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/403-2012._
+ □ Nánari fyrirmæli um arðskrár skal ráðherra setja í reglugerð.[^3)^]
+    _[^1)^]"L. 14/2014, 3. gr.":/altext/stjt/2014.014.html [^2)^]"L. 81/2008, 8. gr.":/altext/stjt/2008.081.html [^3)^]"Rg. 403/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/403-2012._
  ■ *42. gr.* _Nánari ákvæði um starfshætti veiðifélags._
  □ Kostnað af starfsemi veiðifélags skulu félagsmenn greiða í því hlutfalli sem þeir taka arð.
  □ Félagsstjórn skal senda [Fiskistofu][^1)^] samþykktir viðkomandi veiðifélags og arðskrá til staðfestingar.
  □ Skylt er stjórn veiðifélags að gefa [Fiskistofu][^1)^] skýrslu um starfsemi félagsins og þau atriði önnur sem stofnunin kann að óska eftir og henni eru nauðsynleg við framkvæmd laga þessara.
  □ Aðalfund veiðifélags skal halda árlega fyrir 1. júní ár hvert og aukafundi eftir þörfum. Boði félagsstjórn ekki til aðalfundar fyrir 1. september ár hvert er þeim sem fund vilja halda heimilt að boða hann. Nánari ákvæði um slíka fundi skal ráðherra setja í reglugerð.[^2)^]
-    _[^1)^]"L. 81/2008, 8. gr.":/altext/stjt/2008.081.html [^2)^]"Rg. 1024/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1024-2006._
+    _[^1)^]"L. 81/2008, 8. gr.":/altext/stjt/2008.081.html [^2)^]"Rg. 345/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/345-2014._
  ■ *43. gr.* _Kæruheimild._
  □ Nú greinir félagsmenn veiðifélags á um lögmæti ákvörðunar sem tekin hefur verið á fundi veiðifélags eða af félagsstjórn og getur þá hver félagsmaður kært ákvörðunina til [Fiskistofu][^1)^] innan þriggja mánaða frá því að ákvörðun var tekin.
  □ [Fiskistofa][^1)^] skal hafa lokið afgreiðslu máls innan tveggja mánaða frá því að kæra barst.

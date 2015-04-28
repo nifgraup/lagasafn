@@ -2,10 +2,20 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 
 <hr />
 
-Íslensk lög 1. janúar 2014 (útgáfa 143a).
+Íslensk lög 1. september 2014 (útgáfa 143b).
 
 
 
+* "2014 nr. 78 28. maí":2014078.html Lög um greiðslur yfir landamæri í evrum
+* "2014 nr. 77 28. maí":2014077.html Lög um opinber skjalasöfn
+* "2014 nr. 66 28. maí":2014066.html Lög um fjármálastöðugleikaráð
+* "2014 nr. 58 27. maí":2014058.html Lög um heimild til að staðfesta fjárfestingarsamning við Algalíf Iceland ehf. um smáþörungaverksmiðju á Reykjanesi
+* "2014 nr. 50 22. maí":2014050.html Lög um framkvæmdarvald og stjórnsýslu ríkisins í héraði
+* "2014 nr. 44 24. maí":2014044.html Lög um vísindarannsóknir á heilbrigðissviði
+* "2014 nr. 35 17. maí":2014035.html Lög um leiðréttingu verðtryggðra fasteignaveðlána
+* "2014 nr. 34 15. maí":2014034.html Lög um frestun verkfallsaðgerða Félags íslenskra atvinnuflugmanna gegn Icelandair ehf.
+* "2014 nr. 24 2. apríl":2014024.html Lög um frestun verkfallsaðgerða á Herjólfi VE
+* "2014 nr. 9 30. janúar":2014009.html Lög um fjárhagsaðstoð til greiðslu tryggingar fyrir kostnaði vegna gjaldþrotaskipta
 * "2013 nr. 138 27. desember":2013138.html Lög um stimpilgjald
 * "2013 nr. 136 27. desember":2013136.html Lög um Orkuveitu Reykjavíkur
 * "2013 nr. 120 26. nóvember":2013120.html Lög um skiptileigusamninga fyrir afnot af húsnæði í orlofi eða frístundum o.fl.
@@ -240,7 +250,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "2005 nr. 15 10. mars":2005015.html Lög um Stjórnartíðindi og Lögbirtingablað
 * "2005 nr. 13 16. mars":2005013.html Lög um stofnun einkahlutafélags um Orkuveitu Húsavíkur
 * "2005 nr. 8 15. febrúar":2005008.html Lög um þriðju kynslóð farsíma
-* "2004 nr. 146 22. desember":2004146.html Lög um greiðslur yfir landamæri í evrum
 * "2004 nr. 142 22. desember":2004142.html Lög um veðurþjónustu
 * "2004 nr. 117 13. nóvember":2004117.html Lög um kjaramál kennara og skólastjórnenda í grunnskólum
 * "2004 nr. 99 9. júní":2004099.html Lög um sölu fasteigna, fyrirtækja og skipa
@@ -633,7 +642,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "1985 nr. 82 1. júlí":1985082.html Lög um sjálfskuldarábyrgð ríkissjóðs á láni vegna byggingar stálvölsunarverksmiðju
 * "1985 nr. 75 14. júní":1985075.html Lög um fjárhagslegan stuðning við tónlistarskóla
 * "1985 nr. 69 1. júlí":1985069.html Lög um þátttöku ríkisins í hlutafélagi til að örva nýsköpun í atvinnulífi og um heimildir annarra aðila til þátttöku í félaginu
-* "1985 nr. 66 27. júní":1985066.html Lög um Þjóðskjalasafn Íslands
 * "1985 nr. 63 26. júní":1985063.html Lög um greiðslujöfnun fasteignaveðlána til einstaklinga
 * "1985 nr. 51 24. júní":1985051.html Lög um ríkislögmann
 * "1985 nr. 43 4. júní":1985043.html Lög um Verðlagsráð sjávarútvegsins

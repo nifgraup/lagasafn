@@ -7,7 +7,7 @@ h2. Lög um almannavarnir
 <hr />
 
 
- *Tóku gildi 1. júní 2008, birt í Stjtíð. 19. júní 2008.* _Breytt með_ "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 84/2011":/altext/stjt/2011.084.html (tóku gildi 30. júní 2011 nema 1. gr. og c-liður 14. gr. sem tóku gildi 1. sept. 2012), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 32/2013":/altext/stjt/2013.032.html (tóku gildi 1. júní 2013) og "l. 59/2013":/altext/stjt/2013.059.html (tóku gildi 1. júlí 2013).
+ *Tóku gildi 1. júní 2008, birt í Stjtíð. 19. júní 2008.* _Breytt með_ "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 84/2011":/altext/stjt/2011.084.html (tóku gildi 30. júní 2011 nema 1. gr. og c-liður 14. gr. sem tóku gildi 1. sept. 2012), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 32/2013":/altext/stjt/2013.032.html (tóku gildi 1. júní 2013), "l. 59/2013":/altext/stjt/2013.059.html (tóku gildi 1. júlí 2013) og "l. 51/2014":/altext/stjt/2014.051.html (tóku gildi 31. maí 2014 nema 3. og 4. gr. sem taka gildi 1. jan. 2015).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -60,10 +60,10 @@ h2. Lög um almannavarnir
 
  *IV. kafli.* *Skipulag almannavarna í héraði.*
  ■ *9. gr.* _Almannavarnanefndir._
- □ Í hverju sveitarfélagi starfar almannavarnanefnd sem sveitarstjórn skipar og ákveður sveitarstjórnin fjölda nefndarmanna. Almannavarnanefnd skal skipuð sýslumanni þess umdæmis sem sveitarfélagið er í, fulltrúum úr sveitarstjórn og þeim fulltrúum sveitarstjórna sem í starfi sínu sinna verkefnum í þágu öryggis hins almenna borgara. Á höfuðborgarsvæðinu og á Suðurnesjum sitja lögreglustjórar viðkomandi umdæma í almannavarnanefndum en ekki sýslumenn.
+ □ Í hverju sveitarfélagi starfar almannavarnanefnd sem sveitarstjórn skipar og ákveður sveitarstjórnin fjölda nefndarmanna. Almannavarnanefnd skal skipuð [lögreglustjóra][^1)^] þess umdæmis sem sveitarfélagið er í, fulltrúum úr sveitarstjórn og þeim fulltrúum sveitarstjórna sem í starfi sínu sinna verkefnum í þágu öryggis hins almenna borgara. ...[^1)^]
  □ Almannavarnanefnd kýs sér sjálf formann og varaformann. Sveitarstjórnir ráða starfsmenn almannavarnanefnda og greiða kostnað af störfum þeirra.
- □ Sveitarstjórnum er heimilt að vinna saman að gerð viðbragðsáætlunar, semja um gagnkvæma aðstoð eða koma á fót sameiginlegri almannavarnanefnd. Sameining almannavarnanefnda eða samstarf þeirra er háð staðfestingu [ráðherra].[^1)^] Ráðherra ákveður hvaða sýslumaður skuli sitja í almannavarnanefnd ef fleiri en eitt sýslumannsumdæmi fellur undir nefndina. Ef ein almannavarnanefnd er í umdæmi lögreglustjóra skal hann sitja í nefndinni.
-    _[^1)^]"L. 162/2010, 193. gr.":/altext/stjt/2010.162.html_
+ □ Sveitarstjórnum er heimilt að vinna saman að gerð viðbragðsáætlunar, semja um gagnkvæma aðstoð eða koma á fót sameiginlegri almannavarnanefnd. Sameining almannavarnanefnda eða samstarf þeirra er háð staðfestingu [ráðherra].[^2)^] [Ráðherra ákveður hvaða lögreglustjóri skuli sitja í almannavarnanefnd ef fleiri en eitt lögregluumdæmi falla undir nefndina.][^1)^] Ef ein almannavarnanefnd er í umdæmi lögreglustjóra skal hann sitja í nefndinni.
+    _[^1)^]"L. 51/2014, 12. gr.":/altext/stjt/2014.051.html [^2)^]"L. 162/2010, 193. gr.":/altext/stjt/2010.162.html_
  ■ *10. gr.* _Hlutverk almannavarnanefnda._
  □ Almannavarnanefndir móta stefnu og skipuleggja starf sitt að almannavörnum í héraði í samræmi við lög þessi.
  □ Í umdæmum sínum vinna almannavarnanefndir að gerð hættumats og viðbragðsáætlana, í samvinnu við ríkislögreglustjóra, sbr. 16. gr.

@@ -7,7 +7,7 @@ h2. Lög um verslun með áfengi og tóbak
 <hr />
 
 
- *Tóku gildi 30. júní 2011.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 30. júní 2011.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 69/2014":/altext/stjt/2014.069.html (tóku gildi 6. júní 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -63,13 +63,21 @@ h2. Lög um verslun með áfengi og tóbak
  ■ *10. gr.* _Áfengisverslanir._
  □ ÁTVR skal eiga og reka áfengisverslanir. ÁTVR skal sækja um leyfi til rekstrar áfengisverslunar til sveitarstjórnar í viðkomandi sveitarfélagi. ÁTVR ábyrgist fullnægjandi öryggis- og eftirlitsbúnað þess húsnæðis sem hýsir verslunina. Um afgreiðslutíma verslana fer eftir ákvæðum áfengislaga.
  ■ *11. gr.* _Vöruval._
- □ Ráðherra setur reglugerð[^1)^] um vöruval og innkaup ÁTVR á áfengi.
- □ Reglurnar skulu miða að því að tryggja vöruúrval með hliðsjón af eftirspurn kaupenda, jafnframt því að tryggja framleiðendum og birgjum áfengis möguleika á að koma vörum í sölu í áfengisverslunum.
- □ ÁTVR skal leitast við að innkaup séu í samræmi við alþjóðasáttmála.
- □ ÁTVR er heimilt að hafna vörum sem innihalda gildishlaðnar eða ómálefnalegar upplýsingar eða gefa til kynna að áfengi auki líkamlega, andlega, félagslega eða kynferðislega getu, særa blygðunarkennd eða brjóta á annan hátt í bága við almennt velsæmi, m.a. með skírskotun til ofbeldis, trúar, ólöglegra fíkniefna, stjórnmálaskoðana, mismununar og refsiverðrar háttsemi.
- □ ÁTVR er heimilt að hafna vöru sem er keimlík annarri vöru á almennum markaði.
- □ ÁTVR er heimilt að hafna vöru sem inniheldur koffein og önnur örvandi efni.
-    _[^1)^]"Rg. 755/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/755-2011, sbr. "751/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/751-2012._
+ □ [Jafnræðis skal gætt við val á vöru og ákvörðun um sölu og dreifingu áfengis.
+ □ ÁTVR er heimilt að hafna áfengi ef varan sjálf, umbúðir hennar eða markaðssetning:
+    a. höfðar sérstaklega til barna eða ungmenna yngri en 20 ára, m.a. hvað varðar texta, myndmál eða form,
+    b. sýnir börn eða ungmenni yngri en 20 ára,
+    c. gefur til kynna að áfengi auki líkamlega, andlega, félagslega eða kynferðislega getu,
+    d. gefur til kynna að áfengi hafi lækningaeiginleika,
+    e. felur í sér happdrætti, tilboð eða kaupauka,
+    f. hvetur til óhóflegrar neyslu áfengis,
+    g. tengist aðstæðum þar sem neysla áfengis skapar slysahættu eða er refsiverð,
+    h. skírskotar eða hvetur til refsiverðrar háttsemi,
+    i. skírskotar eða hvetur til neyslu ólöglegra ávana- og fíkniefna.
+ □ ÁTVR er heimilt að hafna áfengi ef umbúðir þess líkjast svo annarri vöru sem boðin er til sölu eða auglýst á almennum markaði hér á landi að neytendur geta ekki auðveldlega greint á milli þeirra.
+ □ ÁTVR er heimilt að hafna áfengi sem inniheldur koffein og önnur örvandi efni.
+ □ Ráðherra setur nánari reglur[^1)^] um vöruval, innkaup og dreifingu ÁTVR á áfengi. Reglurnar skulu miða að því að tryggja vöruúrval m.a. með hliðsjón af eftirspurn kaupenda, jafnframt því að tryggja framleiðendum og birgjum áfengis möguleika á að koma vörum í sölu í áfengisverslunum.][^2)^]
+    _[^1)^]"Rg. 755/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/755-2011, sbr. "751/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/751-2012. [^2)^]"L. 69/2014, 1. gr.":/altext/stjt/2014.069.html_
  ■ *12. gr.* _Þjónusta og upplýsingar._
  □ ÁTVR skal veita viðskiptavinum góða og vandaða þjónustu sem byggist á fagmennsku og hlutleysi.
  □ ÁTVR skal veita viðskiptavinum sínum ítarlegar upplýsingar um þá vöru sem er á boðstólum, allt eftir því sem samrýmist lögum þessum, áfengislögum og öðrum lagafyrirmælum og reglum á hverjum tíma. Upplýsingarnar eiga að fela í sér almenna fræðslu um áfengi, uppruna þess, meðferð og notkun. Einnig á ÁTVR að standa fyrir eða veita upplýsingar um mögulega skaðsemi vörunnar og þá áhættu sem getur fylgt neyslu áfengis og tóbaks.
