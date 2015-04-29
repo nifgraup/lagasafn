@@ -9,7 +9,7 @@ h2. Lög um þjónustuviðskipti á innri markaði Evrópska efnahagssvæðisins
 
  *Tóku gildi 29. júní 2011.* _EES-samningurinn:_ X. og XI. viðauki tilskipun 2006/123/EB.
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -54,7 +54,7 @@ h2. Lög um þjónustuviðskipti á innri markaði Evrópska efnahagssvæðisins
     2. reglugerð ráðsins (EBE) nr. 1408/71 um beitingu almannatryggingareglna gagnvart launþegum, sjálfstætt starfandi einstaklingum og aðstandendum þeirra sem flytjast á milli aðildarríkja,
     3. tilskipun ráðsins 89/552/EBE frá 3. október 1989 um samræmingu tiltekinna ákvæða í lögum og stjórnsýslufyrirmælum í aðildarríkjunum um sjónvarpsrekstur,
     4. tilskipun Evrópuþingsins og ráðsins 2005/36/EB frá 7. september 2005 um viðurkenningu á faglegri menntun og hæfi.
-■ *3. gr.* _Skilgreiningar._
+ ■ *3. gr.* _Skilgreiningar._
  □ Í þessum lögum merkir:
     1. _Þjónusta:_ öll sjálfstæð atvinnustarfsemi er lýtur að veitingu þjónustu sem að öllu jöfnu er veitt gegn þóknun, sbr. 37. gr. EES-samningsins, sbr. og ákvæði laga um Evrópska efnahagssvæðið.
     2. _Þjónustuveitandi:_
@@ -73,7 +73,7 @@ h2. Lög um þjónustuviðskipti á innri markaði Evrópska efnahagssvæðisins
     11. _Markaðssetning:_ hvert það form boðskipta eða annarra aðgerða sem ætlað er að kynna, beint eða óbeint, vörur, þjónustu eða ímynd fyrirtækis, samtaka eða einstaklings sem leggur stund á lögverndaða starfsgrein eða starfsemi á sviði viðskipta, iðnaðar eða iðnar.
 
  *II. kafli.* *Aðgengi að þjónustu, kröfur til skjalagerðar og réttur til upplýsinga.*
-■ *4. gr.* _Rafræn málsmeðferð._
+ ■ *4. gr.* _Rafræn málsmeðferð._
  □ Þjónustuveitendur geta með rafrænum hætti sótt um leyfi til að stunda starfsemi sína á Íslandi og fengið svör frá lögbærum yfirvöldum með rafrænum hætti. Á það við um öll nauðsynleg formsatriði og það ferli er lýtur að leyfisveitingu.
  □ Ákvæði 1. mgr. um rafræna málsmeðferð gildir ekki um það sem eðli málsins samkvæmt getur ekki farið fram rafrænt, svo sem skoðun á húsnæði þar sem þjónusta er veitt, skoðun á búnaði sem þjónustuveitandi notar eða áþreifanlega skoðun á getu þjónustuveitanda eða starfsmanna sem hann ber ábyrgð á.
  □ Ráðherra er heimilt að kveða nánar á um nauðsynlegar ráðstafanir vegna rafrænnar málsmeðferðar í reglugerð.
@@ -82,7 +82,7 @@ h2. Lög um þjónustuviðskipti á innri markaði Evrópska efnahagssvæðisins
  □ Óheimilt er að krefjast þess að skjal frá öðru EES-ríki sé frumrit, staðfest endurrit eða löggilt þýðing nema slík krafa sé rökstudd með vísan til brýnna almannahagsmuna.
  □ Leyfisveitanda er heimilt að krefjast þess að þjónustuveitandi eða viðtakandi þjónustu leggi fram þýðingu skjala, þó ekki löggilta, á íslensku.
  □ Ráðherra er heimilt að kveða á um í reglugerð[^1)^] að ákveðin tegund skjala sé undanþegin kröfum þessarar greinar.
-    _[^1)^]Rg. 668/2011._
+    _[^1)^]"Rg. 668/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/668-2011._
  ■ *6. gr.* _Réttur til upplýsinga._
  □ Eftirfarandi upplýsingar skulu þjónustuveitendur og viðtakendur þjónustu geta fengið með rafrænum hætti:
     1. hvaða skilyrði þjónustuveitendur þurfa að uppfylla til að geta veitt þjónustu á Íslandi,
@@ -134,7 +134,7 @@ h2. Lög um þjónustuviðskipti á innri markaði Evrópska efnahagssvæðisins
     8. kröfu um að þjónustuveitandi hafi verið skráður í tiltekinn tíma í skrár á Íslandi eða hafi áður stundað starfsemina í tiltekinn tíma á Íslandi.
 
  *IV. kafli.* *Frelsi til að veita þjónustu án staðfestu.*
-■ *12. gr.* _Gildissvið kaflans._
+ ■ *12. gr.* _Gildissvið kaflans._
  □ Ákvæði þessa kafla gilda þegar þjónustuveitandi með staðfestu á EES-svæðinu hyggst veita þjónustu án staðfestu á Íslandi.
  ■ *13. gr.* _Frelsi til að veita þjónustu._
  □ Þjónustuveitandi með staðfestu í öðru ríki á EES-svæðinu hefur rétt til að veita þjónustu án staðfestu á Íslandi.
@@ -150,7 +150,7 @@ h2. Lög um þjónustuviðskipti á innri markaði Evrópska efnahagssvæðisins
     7. mismunun á grundvelli þjóðernis eða búsetu viðtakanda þjónustu, sbr. 14. gr.
  □ Ákvæði 1. - 4. mgr. hafa ekki áhrif á rétt lögbærs yfirvalds til að beita reglum sem kveðið er á um í kjarasamningum.
  □ Ráðherra getur kveðið á um almennar undanþágur frá skilyrðum þessarar greinar í reglugerð.[^1)^]
-    _[^1)^]Rg. 667/2011._
+    _[^1)^]"Rg. 667/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/667-2011._
  ■ *14. gr.* _Undanþágur í einstökum tilfellum._
  □ Þrátt fyrir ákvæði 13. gr. er lögbæru yfirvaldi heimilt í undantekningartilvikum að grípa til sérstakra ráðstafana gagnvart þjónustuveitanda sem hyggst veita þjónustu án staðfestu á Íslandi ef ráðstafanirnar eru til þess að tryggja öryggi þjónustu.
  □ Lögbæru yfirvaldi er einungis heimilt að grípa til ráðstafana skv. 1. mgr. þessarar greinar að uppfylltum eftirfarandi skilyrðum:
@@ -161,7 +161,7 @@ h2. Lög um þjónustuviðskipti á innri markaði Evrópska efnahagssvæðisins
     5. meðalhófs er gætt.
 
  *V. kafli.* *Réttur viðtakenda þjónustu, aðstoð við viðtakendur þjónustu o.fl.*
-■ *15. gr.* _Réttur viðtakenda þjónustu._
+ ■ *15. gr.* _Réttur viðtakenda þjónustu._
  □ Óheimilt er að mismuna viðtakendum þjónustu á grundvelli þjóðernis eða búsetu og þjónustuveitanda er óheimilt að setja í þjónustuskilmála sína skilyrði er mismuna viðtakendum þjónustu á þeim grundvelli. Í undantekningartilvikum er heimilt að setja mismunandi skilyrði fyrir aðgengi að þjónustu ef mismunurinn er rökstuddur með hlutlægum viðmiðum.
  ■ *16. gr.* _Aðstoð við viðtakendur þjónustu._
  □ Tryggja skal að viðtakendur þjónustu geti fengið eftirfarandi upplýsingar á Íslandi:
@@ -202,11 +202,11 @@ h2. Lög um þjónustuviðskipti á innri markaði Evrópska efnahagssvæðisins
     2. þjónustuveitenda sem veita þjónustu á sviði vottunar, faggildingar, tæknilegs eftirlits, prófana eða tilrauna, til að tryggja sjálfstæði þeirra og óhlutdrægni.
 
  *VI. kafli.* *Samvinna á sviði stjórnsýslu.*
-■ *21. gr.* _Vinnsla og miðlun upplýsinga._
+ ■ *21. gr.* _Vinnsla og miðlun upplýsinga._
  □ Íslensk stjórnvöld skulu eiga samstarf við stjórnvöld annarra EES-ríkja um eftirlit með þjónustuveitendum og miðlun upplýsinga sem nauðsynlegar eru til að tryggja frjálst flæði þjónustu.
  □ Stjórnvöld er hafa með höndum leyfisveitingar eða eftirlit með þjónustuveitendum hafa heimild til að miðla nauðsynlegum upplýsingum í gegnum sérstakt evrópskt upplýsingakerfi. Með sama hætti er stjórnvöldum heimilt að taka við upplýsingum úr slíku kerfi og varðveita þær í skrá. Miðlun með öðrum hætti er óheimil.
  □ Ráðherra getur sett nánari reglur[^1)^] um samvinnu stjórnvalda á EES-svæðinu vegna þjónustuviðskipta.
-    _[^1)^]Rg. 665/2011. Rg. 666/2011._
+    _[^1)^]"Rg. 665/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/665-2011. "Rg. 666/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/666-2011._
 
  *VII. kafli.* *Innleiðing og gildistaka.*
  ■ *22. gr.* _Innleiðing._

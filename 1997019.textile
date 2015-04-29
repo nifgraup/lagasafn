@@ -7,9 +7,9 @@ h2. Sóttvarnalög
 <hr />
 
 
- *Tóku gildi 1. janúar 1998.* _Breytt með_ l. 90/2000 (tóku gildi 1. sept. 2000), l. 74/2002 (tóku gildi 17. maí 2002; komu til framkvæmda skv. fyrirmælum í 36. gr.), l. 93/2002 (tóku gildi 31. maí 2002), l. 164/2002 (tóku gildi 1. jan. 2003), l. 55/2004 (tóku gildi 14. júní 2004), l. 76/2005 (tóku gildi 1. jan. 2006), l. 43/2007 (tóku gildi 31. mars 2007), l. 167/2007 (tóku gildi 1. jan. 2008), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 112/2008":2008112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; komu til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.), l. 162/2010 (tóku gildi 1. jan. 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. janúar 1998.* _Breytt með_ "l. 90/2000":/altext/stjt/2000.090.html (tóku gildi 1. sept. 2000), "l. 74/2002":/altext/stjt/2002.074.html (tóku gildi 17. maí 2002; komu til framkvæmda skv. fyrirmælum í 36. gr.), "l. 93/2002":/altext/stjt/2002.093.html (tóku gildi 31. maí 2002), "l. 164/2002":/altext/stjt/2002.164.html (tóku gildi 1. jan. 2003), "l. 55/2004":/altext/stjt/2004.055.html (tóku gildi 14. júní 2004), "l. 76/2005":/altext/stjt/2005.076.html (tóku gildi 1. jan. 2006), "l. 43/2007":/altext/stjt/2007.043.html (tóku gildi 31. mars 2007), "l. 167/2007":/altext/stjt/2007.167.html (tóku gildi 1. jan. 2008), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 112/2008":2008112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; komu til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *velferðarráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *velferðarráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -20,13 +20,13 @@ h2. Sóttvarnalög
     1. þegar hætta er á að farsóttir berist til eða frá Íslandi,
     2. þegar hætta er á útbreiðslu farsótta innan lands,
     3. þegar smitaður einstaklingur skapar hættu á útbreiðslu smits með framferði sínu.
-■ *2. gr.* [Lög þessi fjalla um sjúkdóma og sjúkdómsvalda sem valdið geta farsóttum og ógnað almannaheill, svo og aðrar alvarlegar næmar sóttir. Með sjúkdómum er átt við sjúkdóma eða smitun sem smitefni, örverur eða sníkjudýr valda og einnig alvarlegar heilsufarslegar afleiðingar eiturefna og geislavirkra efna. Lögin taka einnig til óvenjulegra og óvæntra atburða sem geta haft alvarlegar heilsufarslegar afleiðingar meðal þjóða heims.][^1)^]
-    _[^1)^]L. 43/2007, 1. gr._
+ ■ *2. gr.* [Lög þessi fjalla um sjúkdóma og sjúkdómsvalda sem valdið geta farsóttum og ógnað almannaheill, svo og aðrar alvarlegar næmar sóttir. Með sjúkdómum er átt við sjúkdóma eða smitun sem smitefni, örverur eða sníkjudýr valda og einnig alvarlegar heilsufarslegar afleiðingar eiturefna og geislavirkra efna. Lögin taka einnig til óvenjulegra og óvæntra atburða sem geta haft alvarlegar heilsufarslegar afleiðingar meðal þjóða heims.][^1)^]
+    _[^1)^]"L. 43/2007, 1. gr.":/altext/stjt/2007.043.html_
  ■ *3. gr.* [Ráðherra ákveður með reglugerð,[^1)^] að fengnum tillögum sóttvarnaráðs, hvaða smitsjúkdómar eða sjúkdómar af völdum eiturefna og geislavirkra efna eru skráningarskyldir og hvaða sjúkdómar eru tilkynningarskyldir, sbr. 1. og 2. mgr. 9. gr. Af skráningarskyldum smitsjúkdómum eru þeir sjúkdómar tilkynningarskyldir sem ógnað geta almannaheill. Einnig skal tilkynna um sérhverja þá atburði sem geta haft alvarlegar heilsufarslegar afleiðingar á meðal þjóða heims, þ.m.t. atburði sem eru af óþekktri orsök eða uppruna.][^2)^]
  □ Með skráningarskyldu er átt við skyldu til að senda sóttvarnalækni ópersónugreindar upplýsingar, en með tilkynningarskyldu er átt við skyldu til að senda honum persónugreindar upplýsingar um sjúkdómstilvik.
  □ Sóttvarnalæknir er ábyrgur fyrir því að haldin sé smitsjúkdómaskrá. [Skráin tekur til sjúkdóma, sjúkdómsvalda og atburða, sbr. 2. gr., ónæmisaðgerða, sbr. 1. tölul. 5. gr., og sýklalyfjanotkunar, sbr. 3. tölul. 5. gr., og er til stuðnings sóttvarnastarfi og faraldsfræðirannsóknum.][^2)^] Gæta skal fyllsta trúnaðar um allar einkaupplýsingar sem fram koma í smitsjúkdómaskrá og gilda um skrána sömu reglur og um aðrar sjúkraskrár.
  □ [Sóttvarnalæknir skal fá afhentar upplýsingar úr lyfjagagnagrunni landlæknis skv. 27. gr. lyfjalaga og frá heilbrigðisstofnunum til að halda skrá um sýklalyfjanotkun. Upplýsingarnar skulu vera ópersónugreinanlegar.][^3)^]
-    _[^1)^]Rg. 221/2012, sbr. 816/2012. [^2)^]L. 43/2007, 2. gr. [^3)^]L. 55/2004, 1. gr._
+    _[^1)^]"Rg. 221/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/221-2012, sbr. "816/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/816-2012. [^2)^]"L. 43/2007, 2. gr.":/altext/stjt/2007.043.html [^3)^]"L. 55/2004, 1. gr.":/altext/stjt/2004.055.html_
 
  *II. kafli.* *Yfirstjórn sóttvarna.*
  ■ *4. gr.* Embætti landlæknis ber ábyrgð á framkvæmd sóttvarna undir yfirstjórn [ráðherra].[^1)^]
@@ -34,7 +34,7 @@ h2. Sóttvarnalög
  □ Sóttvarnalæknir skal í starfi sínu hafa samvinnu við [yfirlækna heilsugæslu],[^3)^] aðra starfsmenn og stofnanir heilbrigðisþjónustunnar, heilbrigðisnefndir og [Matvælastofnun][^4)^] eftir því sem við á.
  □ [Ráðherra ákveður með reglugerð[^5)^] hvaða yfirlæknar heilsugæslu skulu vera ábyrgir fyrir sóttvörnum undir stjórn sóttvarnalæknis.][^3)^]
  □ [Yfirlæknar heilsugæslu, sbr. 4. mgr.],[^3)^] og sóttvarnalæknir skulu hafa samstarf um framkvæmd nauðsynlegra sóttvarna og njóta aðstoðar lögregluyfirvalda ef með þarf.
-    _[^1)^]L. 126/2011, 230. gr. [^2)^]L. 90/2000, 1. gr. [^3)^]L. 93/2002, 15. gr. [^4)^]L. 167/2007, 77. gr. [^5)^]Rg. 834/2007, sbr. 592/2009._
+    _[^1)^]"L. 126/2011, 230. gr.":/altext/stjt/2011.126.html [^2)^]"L. 90/2000, 1. gr.":/altext/stjt/2000.090.html [^3)^]"L. 93/2002, 15. gr.":/altext/stjt/2002.093.html [^4)^]"L. 167/2007, 77. gr.":/altext/stjt/2007.167.html [^5)^]"Rg. 834/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/834-2007, sbr. "592/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/592-2009._
  ■ *5. gr.* Verksvið sóttvarnalæknis er aðallega eftirfarandi:
     1. Að skipuleggja og samræma sóttvarnir og ónæmisaðgerðir um land allt, m.a. með útgáfu leiðbeininga um viðbrögð við farsóttum.
     2. Að halda smitsjúkdómaskrá til að fylgjast með útbreiðslu smitsjúkdóma með öflun nákvæmra upplýsinga um greiningu þeirra frá rannsóknastofum, sjúkrahúsum og læknum.
@@ -42,12 +42,12 @@ h2. Sóttvarnalög
     [4. ][^1)^] Að koma upplýsingum um útbreiðslu smitsjúkdóma, innan lands sem utan, með reglubundnum hætti og eftir þörfum til lækna og annarra heilbrigðisstarfsmanna.
     [5. ][^1)^] Að vera læknum og öðrum, sem við sóttvarnir fást, til ráðgjafar.
     [6. ][^1)^] Að hafa umsjón með forvörnum gegn smitsjúkdómum, m.a. upplýsingum og fræðslu til almennings um þessi efni.
-    _[^1)^]L. 55/2004, 2. gr._
+    _[^1)^]"L. 55/2004, 2. gr.":/altext/stjt/2004.055.html_
  ■ *6. gr.* Ráðherra skal skipa sjö manna ráð, sóttvarnaráð, til fjögurra ára í senn. Þar skulu eiga sæti sérfræðingar á sviði smitsjúkdómalækninga, bakteríufræði, veirufræði, kynsjúkdóma og faraldsfræði/heilbrigðisfræði, heilsugæslulæknir og hjúkrunarfræðingur með sérþekkingu á sviði sóttvarna. Ráðherra skipar formann úr hópi ráðsmanna. Varamenn skulu skipaðir með sama hætti.
  □ Þegar fjallað er um mál í sóttvarnaráði, sem tengjast starfssviði [Umhverfisstofnunar],[^1)^] [Geislavarna ríkisins][^2)^] eða [Matvælastofnunar],[^3)^] skulu fulltrúar þeirra stofnana sitja fundi ráðsins, eftir því sem við á, með málfrelsi og tillögurétti.
  □ Sóttvarnaráð mótar stefnu í sóttvörnum og skal vera heilbrigðisyfirvöldum til ráðgjafar um aðgerðir til varnar útbreiðslu smitsjúkdóma.
  □ Ráðið skal hafa aðsetur hjá embætti landlæknis og skal sóttvarnalæknir vera ritari þess.
-    _[^1)^]L. 164/2002, 26. gr. [^2)^]L. 43/2007, 3. gr. [^3)^]L. 167/2007, 77. gr._
+    _[^1)^]"L. 164/2002, 26. gr.":/altext/stjt/2002.164.html [^2)^]"L. 43/2007, 3. gr.":/altext/stjt/2007.043.html [^3)^]"L. 167/2007, 77. gr.":/altext/stjt/2007.167.html_
 
  *III. kafli.* *Almennar sóttvarnaráðstafanir.*
  _1. Skyldur einstaklinga._
@@ -60,50 +60,50 @@ h2. Sóttvarnalög
  □ Hliðstæð skylda hvílir á forstöðumönnum rannsóknastofa, sjúkradeilda og annarra heilbrigðisstofnana. Rannsóknastofur, sem fást við rannsóknir á sýnum frá sjúklingum með smitsjúkdóma sem lög þessi taka til, skulu hafa starfsleyfi [ráðherra].[^2)^]
  □ Hlutaðeigandi aðilum er skylt að aðstoða [sóttvarnalækni og yfirlækni heilsugæslu, sbr. 4. mgr. 4. gr.],[^1)^] m.a. með því að veita upplýsingar sem þeir telja nauðsynlegar vegna sóttvarna.
  □ [Forstöðumönnum heilbrigðisstofnana er skylt að senda sóttvarnalækni upplýsingar um magn sýklalyfja sem notað er á viðkomandi stofnun, skipt eftir deildum þar sem það á við.][^3)^]
-    _[^1)^]L. 93/2002, 16. gr. [^2)^]L. 162/2010, 66. gr. [^3)^]L. 55/2004, 3. gr._
+    _[^1)^]"L. 93/2002, 16. gr.":/altext/stjt/2002.093.html [^2)^]"L. 162/2010, 66. gr.":/altext/stjt/2010.162.html [^3)^]"L. 55/2004, 3. gr.":/altext/stjt/2004.055.html_
  ■ *10. gr.* Hafi læknir, sem hefur sjúkling til meðferðar sem haldinn er smitsjúkdómi, rökstuddan grun eða vitneskju um að sjúklingurinn fylgi ekki fyrirmælum sem honum voru sett um umgengni og meðferð skal hann tilkynna það þegar í stað til viðkomandi [yfirlæknis heilsugæslu, sbr. 4. mgr. 4. gr.],[^1)^] eða sóttvarnalæknis.
-    _[^1)^]L. 93/2002, 17. gr._
+    _[^1)^]"L. 93/2002, 17. gr.":/altext/stjt/2002.093.html_
  _[3. Skyldur heilbrigðisfulltrúa, heilbrigðisnefnda, dýralækna, Geislavarna ríkisins, [Matvælastofnunar][^1)^] og Umhverfisstofnunar.][^2)^]_
-    _[^1)^]L. 167/2007, 77. gr. [^2)^]L. 43/2007, 4. gr._
+    _[^1)^]"L. 167/2007, 77. gr.":/altext/stjt/2007.167.html [^2)^]"L. 43/2007, 4. gr.":/altext/stjt/2007.043.html_
  ■ *11. gr.* [Heilbrigðisfulltrúar, samkvæmt lögum um hollustuhætti og mengunarvarnir, dýralæknar og starfsmenn [Matvælastofnunar],[^1)^] Umhverfisstofnunar og Geislavarna ríkisins skulu tilkynna viðkomandi yfirlækni heilsugæslu, sbr. 4. mgr. 4. gr., eða sóttvarnalækni jafnskjótt og þeir hafa orðið varir við hugsanlega smithættu eða hættu vegna eiturefna eða geislavirkra efna. Yfirlæknir heilsugæslu, sbr. 4. mgr. 4. gr., eða sóttvarnalæknir skal á sama hátt tilkynna viðkomandi heilbrigðisnefnd, dýralækni, [Matvælastofnun],[^1)^] Umhverfisstofnun eða Geislavörnum ríkisins, eftir því sem við á, strax og þeim verður kunnugt um smithættu eða hættu af völdum eiturefna eða geislavirkra efna. Sóttvarnalæknir skal gefa heilbrigðisnefndum nauðsynlegar upplýsingar og ráð og hafa eftirlit með því að til viðeigandi ráðstafana sé gripið.
  □ Ráðherra skipar sérstaka samstarfsnefnd til að afla nauðsynlegra gagna og hafa yfirumsjón með nauðsynlegum aðgerðum til að meta og uppræta smithættu eða hættu sem stafar af dýrum, matvælum, starfsemi, vatni, skolplögnum, loftræstingu eða öðru í umhverfinu sem getur dreift smitnæmum sjúkdómsvöldum, eiturefnum eða geislavirkum efnum sem ógna heilsu manna. Í nefndinni sitja sóttvarnalæknir, sem jafnframt er formaður, tveir fulltrúar tilnefndir af [Matvælastofnun][^1)^] og skal annar vera sérfróður um matvælaöryggi en hinn um smitsjúkdóma í dýrum, einn frá Geislavörnum ríkisins og tveir frá Umhverfisstofnun og skal annar vera sérfróður um matvælaöryggi en hinn um eiturefni. Varamenn skulu skipaðir á sama hátt. Nefndinni er heimill aðgangur að nauðsynlegum gögnum og öllum stöðum sem hún telur nauðsynlegt að skoða og getur fengið til þess aðstoð lögreglu ef með þarf. Nefndin skal gefa öllum þeim sem hafa eftirlit með dýrum, matvælum og umhverfi fyrirmæli um að grípa án tafar til allra nauðsynlegra aðgerða til að uppræta hættu af völdum smits, eiturefna eða geislavirkra efna. Að öðru leyti skal framkvæmd vera í samræmi við lög þessi og, eftir því sem við á, sérlög um einstaka eftirlitsaðila.][^2)^]
-    _[^1)^]L. 167/2007, 77. gr. [^2)^]L. 43/2007, 4. gr._
+    _[^1)^]"L. 167/2007, 77. gr.":/altext/stjt/2007.167.html [^2)^]"L. 43/2007, 4. gr.":/altext/stjt/2007.043.html_
 
  *IV. kafli.* *Opinberar sóttvarnaráðstafanir.*
  _1. Sóttvarnaráðstafanir vegna hættu á farsóttum innan lands._
  ■ *12. gr.* Ef tilkynningar til sóttvarnalæknis um smitsjúkdóma benda til að farsótt sé yfirvofandi skal hann þegar í stað gera [ráðherra][^1)^] viðvart.
  □ [Ráðherra ákveður að fenginni tillögu sóttvarnalæknis hvort grípa skuli til opinberra sóttvarnaráðstafana, svo sem ónæmisaðgerða, einangrunar smitaðra, sótthreinsunar, afkvíunar byggðarlaga eða landsins alls, lokunar skóla eða samkomubanns.][^2)^] [Sóttvarnalæknir getur beitt slíkum vörnum til bráðabirgða án þess að leita heimildar fyrir fram ef hann telur að hvers konar töf sé hættuleg, en gera skal hann ráðherra jafnskjótt kunnar ráðstafanir sínar.][^3)^]
  □ [Brjótist út hópsýking eða farsótt sem ógnar heilsu manna skal sóttvarnalæknir gera faraldsfræðilega rannsókn á uppruna smits og hefur í slíkum tilvikum sama rétt til aðgangs að gögnum og til skoðunar og kveðið er á um í 2. mgr. 11. gr.][^4)^]
-    _[^1)^]L. 162/2010, 66. gr. [^2)^]L. 43/2007, 5. gr. [^3)^]L. 93/2002, 19. gr. [^4)^]L. 90/2000, 3. gr._
+    _[^1)^]"L. 162/2010, 66. gr.":/altext/stjt/2010.162.html [^2)^]"L. 43/2007, 5. gr.":/altext/stjt/2007.043.html [^3)^]"L. 93/2002, 19. gr.":/altext/stjt/2002.093.html [^4)^]"L. 90/2000, 3. gr.":/altext/stjt/2000.090.html_
  _2. Sóttvarnaráðstafanir vegna hættu á farsóttum til eða frá Íslandi._
  ■ *13. gr.* [Um sóttvarnaráðstafanir, sem grípa má til vegna hættu á farsóttum frá útlöndum eða frá Íslandi til útlanda, skal setja reglugerð í samræmi við efni þeirra alþjóðasamninga sem Ísland er aðili að, svo sem alþjóðaheilbrigðisreglugerðar Alþjóðaheilbrigðismálastofnunarinnar. Sóttvarnalæknir er tengiliður Íslands við samsvarandi tengilið Alþjóðaheilbrigðismálastofnunarinnar í samræmi við ákvæði alþjóðaheilbrigðisreglugerðarinnar.][^1)^]
-    _[^1)^]L. 43/2007, 6. gr._
+    _[^1)^]"L. 43/2007, 6. gr.":/altext/stjt/2007.043.html_
  _3. Aðgerðir vegna hættu á útbreiðslu smits frá einstaklingum._
  ■ *14. gr.* Nú telur sóttvarnalæknir er honum berst tilkynning um smitsjúkdóm að grípa þurfi til frekari ráðstafana en læknir hefur þegar gert til þess að fyrirbyggja eða hefta útbreiðslu smitunar sem ógnað getur almannaheill. Skal hann þá í samráði við [yfirlækni heilsugæslu, sbr. 4. mgr. 4. gr.],[^1)^] sjá til þess að til slíkra aðgerða sé gripið. Takist ekki samstarf við viðkomandi aðila getur hann, ef þurfa þykir, leitað aðstoðar lögregluyfirvalda vegna aðgerða til varnar smiti. [Yfirlæknir heilsugæslu, sbr. 4. mgr. 4. gr.],[^1)^] getur einnig gripið til slíkra aðgerða í forföllum sóttvarnalæknis.
  □ Með aðgerðum er átt við læknisrannsókn, einangrun hins smitaða á sjúkrahúsi og aðrar nauðsynlegar ráðstafanir. Áður en gripið er til þvingunaraðgerða skal ætíð reynt að leysa mál með öðrum hætti.
  □ Ákvörðun sóttvarnalæknis eða [yfirlæknis heilsugæslu, sbr. 4. mgr. 4. gr.],[^1)^] um aðgerðir af þessu tagi má kæra til [ráðherra].[^2)^] Kæra frestar ekki framkvæmd.
  □ [Telji sóttvarnalæknir hættu á að næmar sóttir sem ógnað geta almannaheill berist til landsins getur hann beint tilmælum til ráðherra um að setja reglugerð um að þeir sem koma til landsins og talin er hætta á að beri með sér slíkar sóttir skuli sæta læknisrannsókn [í samræmi við 23., 30. - 32. og 45. gr. alþjóðaheilbrigðisreglugerðarinnar].[^3)^]][^4)^]
-    _[^1)^]L. 93/2002, 20. gr. [^2)^]L. 162/2010, 66. gr. [^3)^]L. 43/2007, 7. gr. [^4)^]L. 90/2000, 4. gr._
+    _[^1)^]"L. 93/2002, 20. gr.":/altext/stjt/2002.093.html [^2)^]"L. 162/2010, 66. gr.":/altext/stjt/2010.162.html [^3)^]"L. 43/2007, 7. gr.":/altext/stjt/2007.043.html [^4)^]"L. 90/2000, 4. gr.":/altext/stjt/2000.090.html_
  ■ *15. gr.* Ef maður, haldinn smitsjúkdómi, fellst ekki á að fylgja reglum um umgengni við aðra eða rökstuddur grunur er um að hann hafi ekki fylgt slíkum reglum getur sóttvarnalæknir ákveðið að hann skuli lagður inn á sjúkrahús í einangrun eða að hann skuli einangraður með öðrum hætti.
  □ Telji sóttvarnalæknir nauðsynlegt að einstaklingur sé settur í einangrun skv. 14. gr. eða 1. mgr. þessarar greinar og framkvæmdin er í andstöðu við hinn smitaða skal sóttvarnalæknir svo fljótt sem verða má bera ákvörðunina skriflega undir héraðsdóm í því umdæmi þar sem hinn smitaði dvelst þegar einangrunar er krafist. Í kröfu sóttvarnalæknis skal koma fram ítarleg lýsing á málavöxtum og nauðsyn einangrunar og tiltekinn sá tími sem einangrun er ætlað að vara, auk annarra gagna sem málið kunna að varða. Dómari skal taka málið fyrir án tafar og skipa þeim er sætir einangrun talsmann, ef hann óskar þess, samkvæmt ákvæðum laga um meðferð [sakamála][^1)^] um verjendur og skal gefa honum kost á að bera fram ósk um hver verði skipaður. Dómari getur aflað gagna af sjálfsdáðum. Dómari kveður síðan upp úrskurð um hvort einangrun skuli haldast eða falla niður. Einangrun má ekki vara lengur en 15 sólarhringa í senn, en ef sóttvarnalæknir telur nauðsynlegt að hún vari lengur skal hann að nýju bera kröfu um slíkt undir héraðsdóm. Málsmeðferð fyrir dómi frestar ekki framkvæmd einangrunar.
  □ Dómsathöfnum þeim, sem um ræðir í 2. mgr., má skjóta til Hæstaréttar með kæru og fer um hana eftir almennum reglum um kæru í einkamálum eftir því sem við á. Kæra frestar ekki framkvæmd einangrunar.
-    _[^1)^]"L. 88/2008, 234. gr.":2008088.html#g234_
+    _[^1)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234_
 
  *V. kafli.* *Ýmis ákvæði.*
  ■ *16. gr.* Starfrækja skal göngudeildir vegna tilkynningarskyldra smitsjúkdóma sem veita meðferð og rekja smitleiðir.
  □ Á sjúkrahúsum, sem [ráðherra][^1)^] ákveður, skal vera aðstaða til einangrunar þeirra sem eru til rannsóknar eða meðferðar vegna smitsjúkdóma eða gruns um smitsjúkdóm.
  □ [Ráðherra][^1)^] getur falið ákveðnum rannsóknastofum að ábyrgjast greiningu örvera eða sníkjudýra úr sýnum frá sjúklingum með smitsjúkdóma og fylgjast með ónæmisástandi einstaklinga gegn þýðingarmiklum smitnæmum sjúkdómum.
-    _[^1)^]L. 162/2010, 66. gr._
+    _[^1)^]"L. 162/2010, 66. gr.":/altext/stjt/2010.162.html_
  ■ *17. gr.* [Kostnaður sem hlýst af framkvæmd laga þessara greiðist úr ríkissjóði. Greiðsluhlutdeild sjúklinga skal fylgja lögum um [sjúkratryggingar].[^1)^] Heimilt er þó með reglugerð að veita undanþágur frá greiðsluhlutdeild sjúklinga, svo sem þegar sjúklingar leita til göngudeilda smitsjúkdóma vegna greiningar og meðferðar tilkynningarskyldra smitsjúkdóma, sjúklingar eru kvaddir til rannsókna til að leita að smiti og þegar fólki er gert að sæta læknisrannsókn.][^2)^]
  □ [Læknisskoðun sem gerð er vegna umsóknar um dvalar- og atvinnuleyfi og er í samræmi við verklagsreglur sóttvarnalæknis skal greiðast að fullu af vinnuveitanda eða þeim sem sækir um dvalar- eða atvinnuleyfi. Leiði frekari læknisskoðun í ljós þörf fyrir frekari sértækar rannsóknir þá greiðir viðkomandi eða sjúkratrygging hans kostnað við þau heilsufarslegu vandamál sem greinast fyrstu sex mánuðina sem dvalið er í landinu. Vinnuveitandi greiðir læknisrannsókn sem hann óskar sérstaklega eftir.
  □ Ef aðgerðir sóttvarnalæknis eru vegna hættu á farsóttum frá útlöndum eða frá Íslandi til útlanda og til þeirra er gripið á grundvelli alþjóðasamninga Alþjóðaheilbrigðismálastofnunarinnar, sem Ísland er aðili að, skulu ákvæði þeirra samninga gilda um greiðsluþátttöku sjúklinga.][^3)^]
-    _[^1)^]"L. 112/2008, 67. gr.":2008112.html [^2)^]L. 90/2000, 5. gr. [^3)^]L. 43/2007, 8. gr._
+    _[^1)^]"L. 112/2008, 67. gr.":/altext/stjt/2008.112.html [^2)^]"L. 90/2000, 5. gr.":/altext/stjt/2000.090.html [^3)^]"L. 43/2007, 8. gr.":/altext/stjt/2007.043.html_
  ■ *18. gr.* Ráðherra skal með reglugerð[^1)^] setja nánari ákvæði um fyrirkomulag skráninga og tilkynninga skv. 3. gr., starfsemi rannsóknastofa sem fást við rannsóknir á sýnum frá sjúklingum með smitsjúkdóma sem lögin taka til skv. 9. gr., opinberar sóttvarnaráðstafanir skv. 12. gr., [heimild til að kveða á um læknisrannsókn eftir tilmælum sóttvarnalæknis skv. 14. gr.],[^2)^] starfsemi göngudeilda skv. 16. gr. og hvaða deildir geti veitt þjónustu, sjúklingum að kostnaðarlausu, skv. 17. gr. Þá er ráðherra heimilt að setja reglur ef grípa þarf til sérstakra ráðstafana vegna sóttvarna við náttúruhamfarir [og aðra vá][^3)^] og að setja í reglugerð nánari ákvæði um framkvæmd laga þessara.
-    _[^1)^]Rg. 221/2001. Rg. 415/2004. Rg. 221/2012, sbr. 816/2012. Rg. 817/2012. [^2)^]L. 90/2000, 6. gr. [^3)^]L. 93/2002, 21. gr._
+    _[^1)^]"Rg. 221/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/221-2001. "Rg. 415/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/415-2004. "Rg. 221/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/221-2012, sbr. "816/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/816-2012. "Rg. 817/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/817-2012. [^2)^]"L. 90/2000, 6. gr.":/altext/stjt/2000.090.html [^3)^]"L. 93/2002, 21. gr.":/altext/stjt/2002.093.html_
  ■ *19. gr.* ...[^1)^]
  □ Brot gegn lögum þessum eða reglum settum samkvæmt þeim varða sektum eða fangelsi allt að þremur mánuðum.
-    _[^1)^]"L. 88/2008, 234. gr.":2008088.html#g234_
- ■ *20. gr.* Lög þessi öðlast gildi 1. janúar 1998. ...
+    _[^1)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234_
+ ■ *20. gr.* Lög þessi öðlast gildi 1. janúar 1998. "...":http://www.althingi.is/vefur/lagas-hlp.html
 
 
 

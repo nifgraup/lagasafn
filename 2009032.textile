@@ -7,9 +7,9 @@ h2. Lög um ábyrgðarmenn
 <hr />
 
 
- *Tóku gildi 4. apríl 2009.* _Breytt með_ l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 101/2010":2010101.html (tóku gildi 1. ágúst 2010) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 4. apríl 2009.* _Breytt með_ "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 101/2010":2010101.html (tóku gildi 1. ágúst 2010) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -20,7 +20,7 @@ h2. Lög um ábyrgðarmenn
  □ Með ábyrgðarmanni er átt við einstakling sem gengst persónulega í ábyrgð eða veðsetur tilgreinda eign sína til tryggingar efndum lántaka enda sé ábyrgðin ekki í þágu atvinnurekstrar ábyrgðarmanns eða í þágu fjárhagslegs ávinnings hans.
  □ Persónuleg ábyrgð er annaðhvort einföld ábyrgð eða sjálfskuldarábyrgð. Sé í ábyrgðarsamningi ekkert tekið fram um hvers konar ábyrgð sé að ræða skal hún álitin einföld.
  □ [Ráðherra][^1)^] er heimilt með reglugerð að undanskilja tiltekin form ábyrgða gildissviði laganna.
-    _[^1)^]L. 126/2011, 505. gr._
+    _[^1)^]"L. 126/2011, 505. gr.":/altext/stjt/2011.126.html_
  ■ *3. gr.* Lánveitandi skal tilkynna ábyrgðarmanni um framsal réttinda sem reist eru á ábyrgðinni eða láni því sem ábyrgðin stendur til tryggingar á.
  □ Lög þessi gilda um framsalshafa eftir því sem við á.
 
@@ -28,7 +28,7 @@ h2. Lög um ábyrgðarmenn
  ■ *4. gr.* Lánveitandi skal meta hæfi lántaka til að standa í skilum með lán þar sem ábyrgðarmaður gengst í ábyrgð til tryggingar efndum lántaka. Greiðslumat skal byggt á viðurkenndum viðmiðum. [Ráðherra][^1)^] er heimilt að setja reglugerð um framkvæmd greiðslumats.
  □ Lánveitandi skal með skriflegum hætti ráða ábyrgðarmanni frá því að gangast í ábyrgð ef greiðslumat bendir til þess að lántaki geti ekki efnt skuldbindingar sínar.
  □ Með sama hætti skal lánveitandi ráða ábyrgðarmanni frá því að undirgangast ábyrgð ef aðstæður ábyrgðarmanns gefa tilefni til.
-    _[^1)^]L. 126/2011, 505. gr._
+    _[^1)^]"L. 126/2011, 505. gr.":/altext/stjt/2011.126.html_
  ■ *5. gr.* Fyrir gerð ábyrgðarsamnings skal lánveitandi upplýsa ábyrgðarmann skriflega um þá áhættu sem ábyrgð er samfara. Í því felst meðal annars að veita upplýsingar um:
     a. almennar reglur sem um ábyrgðir gilda, þ.m.t. um muninn á sjálfskuldarábyrgð og einfaldri ábyrgð,
     b. greiðslugetu lántaka,
@@ -59,7 +59,7 @@ h2. Lög um ábyrgðarmenn
  ■ *9. gr.* Hafi lánveitandi keypt tryggingu vegna hugsanlegs greiðslufalls lántaka og greiðsluskylda fellur til samkvæmt skilmálum tryggingar takmarkar sú greiðsla ábyrgð ábyrgðarmanns sem nemur þeirri fjárhæð sem greidd er inn á lánið.
  □ Ef lánveitandi vanrækir að lýsa kröfu í gjaldþrota- eða dánarbú lántaka lækkar krafa á hendur ábyrgðarmanni sem nemur þeirri fjárhæð sem ella hefði fengist greidd úr þrota- eða dánarbúi lántaka.
  □ [Þrátt fyrir ákvæði 4. mgr. 60. gr. laga um gjaldþrotaskipti o.fl. skal nauðasamningur eða önnur eftirgjöf, þ.m.t. nauðasamningur til greiðsluaðlögunar og samningur um greiðsluaðlögun, sem kveður á um lækkun kröfu á hendur lántaka eða aðalskuldara hafa sömu áhrif til lækkunar kröfu á hendur ábyrgðarmanni.][^1)^]
-    _[^1)^]"L. 101/2010, 36. gr.":2010101.html#g36_
+    _[^1)^]"L. 101/2010, 36. gr.":/altext/stjt/2010.101.html#G36_
 
  *V. kafli.* *Brottfall ábyrgðar eða annarra tryggingarráðstafana.*
  ■ *10. gr.* Ábyrgðarmaður verður ekki skuldbundinn af ábyrgðarsamningi hafi lántaki aldrei orðið skuldbundinn til að inna greiðslu af hendi samkvæmt samningi við lánveitanda.
@@ -67,7 +67,7 @@ h2. Lög um ábyrgðarmenn
 
  *VI. kafli.* *Reglugerðarheimild.*
  ■ *11. gr.* [Ráðherra][^1)^] er heimilt að setja reglugerð um framkvæmd laga þessara.
-    _[^1)^]L. 126/2011, 505. gr._
+    _[^1)^]"L. 126/2011, 505. gr.":/altext/stjt/2011.126.html_
 
  *VII. kafli.* *Gildistaka.*
  ■ *12. gr.* Lög þessi öðlast þegar gildi. Lögin taka til ábyrgða sem stofnað hefur verið til fyrir gildistöku þeirra að frátöldum 4. gr., 5. gr., 1. mgr. 6. gr. og 8. gr.

@@ -7,9 +7,9 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
 <hr />
 
 
- *Tóku gildi 1. nóvember 2011.* _EES-samningurinn:_ IX. viðauki tilskipun 2007/16/EB. _Breytt með_ l. 21/2012 (tóku gildi 16. mars 2012).
+ *Tóku gildi 1. nóvember 2011.* _EES-samningurinn:_ IX. viðauki tilskipun 2007/16/EB. _Breytt með_ "l. 21/2012":/altext/stjt/2012.021.html (tóku gildi 16. mars 2012) og "l. 12/2013":/altext/stjt/2013.012.html (tóku gildi 8. mars 2013; _EES-samningurinn:_ IX. viðauki tilskipun 2007/16/EB og 2009/65/EB).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -35,18 +35,37 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
     12. _Innlán:_ Fjárfesting þar sem sérstaklega hefur verið samið um binditíma og vexti. Innlán eru hluti af fjárfestingarstefnu verðbréfasjóðs.
     13. _Markaðssetning:_ Tilboð eða hvatning, með auglýsingum eða annarri kynningu, um kaup á hlutdeildarskírteinum eða hlutum í verðbréfasjóði eða öðrum sjóði um sameiginlega fjárfestingu.
     14. _Staðfesting:_ Með staðfestingu verðbréfasjóðs eða fjárfestingarsjóðs er átt við heimild Fjármálaeftirlitsins til handa rekstrarfélagi til að starfrækja verðbréfa- eða fjárfestingarsjóð.
-■ *3. gr.* _Heimildir til að hefja starfsemi. Skrá yfir sjóði._
+    [15. _Samruni:_ Samruni þar sem:
+    a. einum eða fleiri verðbréfasjóðum (samrunasjóðum), eða einstökum deildum samrunasjóðs sé hann deildaskiptur skv. 12. gr., er slitið án skuldaskila og allar eignir og skuldbindingar samrunasjóðsins eru yfirfærðar til annars starfandi verðbréfasjóðs (yfirtökusjóðs), eða einstakra deilda yfirtökusjóðs sé hann deildaskiptur skv. 12. gr., í skiptum fyrir útgáfu hlutdeildarskírteina til handa eigendum hlutdeildarskírteina samrunasjóðsins og, ef við á, greiðslu reiðufjár sem er ekki umfram 10% verðmætis þeirra hlutdeildarskírteina,
+    b. tveimur eða fleiri verðbréfasjóðum (samrunasjóðum), eða einstökum deildum samrunasjóða séu þeir deildaskiptir skv. 12. gr., er slitið án skuldaskila og allar eignir og skuldbindingar samrunasjóðanna eru yfirfærðar í verðbréfasjóð (yfirtökusjóð) sem þeir stofna, eða til einstakra deilda yfirtökusjóðs sé hann deildaskiptur skv. 12. gr., í skiptum fyrir útgáfu hlutdeildarskírteina til handa eigendum hlutdeildarskírteina samrunasjóðanna og, ef við á, greiðslu reiðufjár sem er ekki umfram 10% verðmætis hreinnar eignar þeirra hlutdeildarskírteina,
+    c. einn eða fleiri verðbréfasjóðir (samrunasjóðir), eða einstakar deildir verðbréfasjóðs sé hann deildaskiptur skv. 12. gr., halda áfram starfsemi sinni en yfirfæra hreina eign sína til annarrar deildar sama verðbréfasjóðs eða yfir í verðbréfasjóð (yfirtökusjóð) sem stofnaður er eða einstakra deilda hans sé hann deildaskiptur skv. 12. gr.
+    16. _Innlendur samruni:_ Samruni verðbréfasjóða sem hafa staðfestu og staðfestingu hér á landi og hafa ekki markaðssett hlutdeildarskírteini sín í öðru ríki innan Evrópska efnahagssvæðisins.
+    17. _Millilandasamruni:_ Samruni verðbréfasjóða þar sem:
+    a. að minnsta kosti tveir verðbréfasjóðanna eru með staðfestu og staðfestingu í mismunandi aðildarríkjum,
+    b. verðbréfasjóðir með staðfestu og staðfestingu í sama aðildarríki renna saman í nýjan verðbréfasjóð með staðfestu og staðfestingu í öðru aðildarríki,
+    c. verðbréfasjóðir með staðfestu og staðfestingu hér á landi, þar sem að minnsta kosti einn verðbréfasjóðanna hefur markaðssett hlutdeildarskírteini sín í öðru ríki innan Evrópska efnahagssvæðisins, renna saman.
+    18. _Fylgisjóður:_ Verðbréfasjóður, eða einstakar deildir verðbréfasjóðs sé hann deildaskiptur skv. 12. gr., sem hefur fengið heimild til að fjárfesta að minnsta kosti 85% eigna sinna í hlutdeildarskírteinum höfuðsjóðs eða einstakra deilda hans sé hann deildaskiptur skv. 12. gr., þrátt fyrir 1. mgr. 39. gr.
+    19. _Höfuðsjóður:_ Verðbréfasjóður, eða einstakar deildir verðbréfasjóðs sé hann deildaskiptur skv. 12. gr., sem uppfyllir eftirfarandi skilyrði:
+    a. hefur að minnsta kosti einn fylgisjóð úr hópi eigenda hlutdeildarskírteina,
+    b. er ekki sjálfur fylgisjóður,
+    c. er ekki eigandi hlutdeildarskírteina fylgisjóðs.][^1)^]
+    _[^1)^]"L. 12/2013, 1. gr.":/altext/stjt/2013.012.html_
+ ■ *3. gr.* _Heimildir til að hefja starfsemi. Skrá yfir sjóði._
  □ Fjármálaeftirlitið veitir verðbréfasjóðum staðfestingu til reksturs skv. II. kafla og fjárfestingarsjóðum staðfestingu skv. III. kafla. Fjármálaeftirlitið úrskurðar um hvort starfsemi fellur undir lög þessi.
- □ Fjármálaeftirlitið heldur skrá yfir verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði þar sem fram koma allar helstu upplýsingar um viðkomandi sjóði. Skrá yfir verðbréfasjóði og fjárfestingarsjóði skal birt opinberlega. Breytingar á áður skráðum upplýsingum skulu tilkynntar Fjármálaeftirlitinu fyrir fram.
+ □ Fjármálaeftirlitið heldur skrá yfir verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði þar sem fram koma allar helstu upplýsingar um viðkomandi sjóði. [Skrá yfir verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði skal birt opinberlega.][^1)^] Breytingar á áður skráðum upplýsingum skulu tilkynntar Fjármálaeftirlitinu fyrir fram.
+    _[^1)^]"L. 12/2013, 2. gr.":/altext/stjt/2013.012.html_
 
  *II. kafli.* *Verðbréfasjóðir.*
  *_A. Staðfesting og afturköllun staðfestingar._*
  ■ *4. gr.* _Veitandi staðfestingar._
  □ Fjármálaeftirlitið veitir verðbréfasjóðum staðfestingu. Verðbréfasjóðir fá því aðeins staðfestingu að rekstrarfélög og vörslufyrirtæki þeirra uppfylli skilyrði laga um fjármálafyrirtæki.
+ □ [Verðbréfasjóðir geta fengið staðfestingu Fjármálaeftirlitsins til þess að hefja starfsemi ef rekstrarfélög þeirra eru með staðfestu og starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins og uppfylla að öðru leyti reglur sem settar eru innan Evrópska efnahagssvæðisins um verðbréfasjóði um sameiginlega fjárfestingu í framseljanlegum verðbréfum. Ráðherra skal setja reglugerð um framkvæmd þessarar greinar, m.a. um umsókn rekstrarfélags með staðfestu og starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins um staðfestingu verðbréfasjóðs hér á landi.][^1)^]
  □ Verðbréfasjóðum er heimilt að hefja starfsemi þegar staðfesting er fengin frá Fjármálaeftirlitinu. Óheimilt er að starfrækja verðbréfasjóð án staðfestingar Fjármálaeftirlitsins.
  □ Óheimilt er að breyta verðbréfasjóðum í aðrar tegundir sjóða um sameiginlega fjárfestingu.
+    _[^1)^]"L. 12/2013, 3. gr.":/altext/stjt/2013.012.html_
  ■ *5. gr.* _Umsókn um staðfestingu._
- □ Umsókn rekstrarfélags um staðfestingu verðbréfasjóðs skal vera skrifleg og henni skulu fylgja reglur sjóðsins skv. 11. gr., útboðslýsing og útdráttur úr útboðslýsingu skv. 51. gr., upplýsingar um stjórnendur verðbréfasjóðs og aðrar viðeigandi upplýsingar. Fjármálaeftirlitinu er heimilt að setja nánari reglur um upplýsingagjöf samkvæmt þessari grein.
+ □ Umsókn rekstrarfélags um staðfestingu verðbréfasjóðs skal vera skrifleg og henni skulu fylgja reglur sjóðsins skv. 11. gr., útboðslýsing og [lykilupplýsingar][^1)^] skv. 51. gr., upplýsingar um stjórnendur verðbréfasjóðs og aðrar viðeigandi upplýsingar. Fjármálaeftirlitinu er heimilt að setja nánari reglur um upplýsingagjöf samkvæmt þessari grein.
+    _[^1)^]"L. 12/2013, 4. gr.":/altext/stjt/2013.012.html_
  ■ *6. gr.* _Veiting staðfestingar._
  □ Ákvörðun Fjármálaeftirlitsins um veitingu staðfestingar skal tilkynnt umsækjanda skriflega svo fljótt sem auðið er og eigi síðar en tveimur mánuðum eftir að fullbúin umsókn barst. Fjármálaeftirlitið skal tilkynna umsækjanda um það án tafar, og eigi síðar en einum mánuði eftir að umsókn barst, þegar umsókn telst fullnægjandi.
  □ Fjármálaeftirlitið skal birta tilkynningar um staðfestingu verðbréfasjóða opinberlega.
@@ -113,10 +132,11 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
     i. Vörslu hlutdeildarskírteina og gagna um viðskipti.
     3. Áhættustýringu.
     4. Markaðssetningu.
-■ *18. gr.* _Útvistun verkefna rekstrarfélags._
- □ Rekstrarfélagi er aðeins heimilt að fela öðrum aðilum verkefni þau sem kveðið er á um í 17. gr. að fengnu samþykki Fjármálaeftirlitsins. Rekstrarfélagi er þó aldrei heimilt að útvista öll verkefni skv. 17. gr. Meiri hluti verkefna skv. 1. tölul. 17. gr. skal unninn innan rekstrarfélags. Rekstrarfélag skal tryggja að þjónustuaðili hafi hæfni, getu og öll leyfi, sem krafist er samkvæmt lögum, til að inna af hendi útvistuð verkefni af áreiðanleika og fagmennsku. Verkefni skv. 1. tölul. 17. gr. er ekki heimilt að fela vörslufyrirtæki eða öðru félagi fari hagsmunir þess ekki saman við hagsmuni rekstrarfélags og eigenda hlutdeildarskírteina.
+ ■ *18. gr.* _Útvistun verkefna rekstrarfélags._
+ □ Rekstrarfélagi er aðeins heimilt að fela öðrum aðilum verkefni þau sem kveðið er á um í 17. gr. að fengnu samþykki Fjármálaeftirlitsins. Rekstrarfélagi er þó aldrei heimilt að útvista öll verkefni skv. 17. gr. ...[^1)^] Rekstrarfélag skal tryggja að þjónustuaðili hafi hæfni, getu og öll leyfi, sem krafist er samkvæmt lögum, til að inna af hendi útvistuð verkefni af áreiðanleika og fagmennsku. Verkefni skv. 1. tölul. 17. gr. er ekki heimilt að fela vörslufyrirtæki eða öðru félagi fari hagsmunir þess ekki saman við hagsmuni rekstrarfélags og eigenda hlutdeildarskírteina.
  □ Ábyrgð rekstrarfélags gagnvart eigendum hlutdeildarskírteina helst óbreytt þó að það feli öðru fyrirtæki hluta af verkefnum sínum skv. 17. gr.
  □ Fjármálaeftirlitinu er heimilt að setja nánari reglur um útvistun verkefna rekstrarfélaga.
+    _[^1)^]"L. 12/2013, 5. gr.":/altext/stjt/2013.012.html_
  ■ *19. gr.* _Góðir viðskiptahættir og venjur._
  □ Rekstrarfélag skal starfrækja verðbréfasjóð í samræmi við góða viðskiptahætti og venjur með trúverðugleika markaðarins og hagsmuni eigenda hlutdeildarskírteina að leiðarljósi.
  *_C. Vörslufyrirtæki._*
@@ -127,7 +147,7 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
     3. framfylgja fyrirmælum rekstrarfélags nema þau séu í andstöðu við lög og samþykktir hlutaðeigandi aðila,
     4. tryggja að í viðskiptum með eignir verðbréfasjóðs sé endurgjald fyrir þær innt af hendi innan eðlilegra tímamarka,
     5. tryggja að tekjum verðbréfasjóðs sé ráðstafað í samræmi við lög og reglur sjóðsins.
-■ *21. gr.* _Viðurkenndir aðilar._
+ ■ *21. gr.* _Viðurkenndir aðilar._
  □ Viðskiptabankar, sparisjóðir, lánafyrirtæki, verðbréfafyrirtæki og útibú hliðstæðra erlendra fyrirtækja sem starfa hér á landi geta hlotið viðurkenningu sem vörslufyrirtæki.
  □ Óheimilt er að skipta um vörslufyrirtæki án samþykkis Fjármálaeftirlitsins.
  ■ *22. gr.* _Ábyrgð._
@@ -183,7 +203,7 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
     5. Afleiðum sem skráðar eru á skipulegum verðbréfamarkaði samkvæmt skilyrðum 1. tölul. Viðmið afleiðna skulu vera fjárfestingarheimildir samkvæmt þessari grein, verðbréfavísitölur, vextir, gengi erlendra gjaldmiðla eða gjaldmiðlar sem verðbréfasjóðnum er heimilt að fjárfesta í samkvæmt ákvæðum reglna sjóðsins.
     6. Afleiðum utan skipulegra verðbréfamarkaða. Viðmið afleiðna skulu vera fjárfestingarheimildir samkvæmt þessari grein, verðbréfavísitölur, vextir, gengi erlendra gjaldmiðla eða gjaldmiðlar sem verðbréfasjóðnum er heimilt að fjárfesta í samkvæmt ákvæðum reglna sjóðsins. Gagnaðilar verðbréfasjóðs í slíkum afleiðuviðskiptum skulu lúta eftirliti sem Fjármálaeftirlitið metur gilt. Verðmæti slíkra samninga skal vera unnt að reikna daglega með áreiðanlegum hætti. Tryggt skal að hægt sé að selja slíka samninga samdægurs á raunvirði hverju sinni.
     7. Peningamarkaðsgerningum sem viðskipti eru með utan skipulegra verðbréfamarkaða.
-■ *31. gr.* _Aðrar eignir._
+ ■ *31. gr.* _Aðrar eignir._
  □ Þrátt fyrir ákvæði 30. gr. er verðbréfasjóði heimilt að binda sem svarar allt að 10% af eignum sínum í óskráðum framseljanlegum verðbréfum og peningamarkaðsgerningum.
  □ Verðbréfasjóði er óheimilt að eiga meira en 10% í reiðufé eða auðseljanlegum eignum á hverjum tíma, nema slíkt sé til hagsbóta fyrir hlutdeildarskírteinishafa. Slíkar eignir mega þó ekki vera hluti af fjárfestingarstefnu sjóðsins.
  □ Verðbréfasjóður getur óskað eftir heimild Fjármálaeftirlitsins til að eiga meira en 10% í reiðufé eða seljanlegum eignum.
@@ -235,7 +255,7 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
     2. 10% af skuldaskjölum einstakra útgefenda verðbréfa, þó aldrei umfram 25% í hverri útgáfu,
     3. 25% af hlutdeildarskírteinum verðbréfasjóðs og annarra sjóða um sameiginlega fjárfestingu,
     4. 10% af peningamarkaðsgerningum einstakra útgefenda.
-■ *41. gr.* _Lán og ábyrgðir._
+ ■ *41. gr.* _Lán og ábyrgðir._
  □ Verðbréfasjóði er óheimilt að veita lán eða ganga í ábyrgð fyrir aðra, sbr. þó heimildir skv. 30. gr. Þó er heimilt að veita verðbréfalán sem hluta af eðlilegri áhættustýringu. Fjármálaeftirlitinu er heimilt að setja nánari reglur um verðbréfalán verðbréfasjóða.
  □ Verðbréfasjóði er óheimilt að taka önnur lán en skammtímalán til að standa straum af innlausn hlutdeildarskírteina. Slík lán mega ekki nema meira en svarar 10% af eignum sjóðsins eða einstakra deilda innan hans.
  ■ *42. gr.* _Skortsala._
@@ -243,39 +263,52 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  ■ *43. gr.* _Ráðstafanir til úrbóta._
  □ Fari fjárfesting verðbréfasjóðs fram úr leyfilegum mörkum samkvæmt lögum þessum skal Fjármálaeftirlitinu án tafar tilkynnt um það og skulu þegar gerðar ráðstafanir til úrbóta og skal lögmæltu hámarki í síðasta lagi náð innan þriggja mánaða. Fjármálaeftirlitið getur þó í einstökum tilvikum heimilað lengri frest enda sé það augljóslega í þágu eigenda hlutdeildarskírteina.
  *_G. Markaðssetning utan heimalands._*
- ■ *44. gr.* _Markaðssetning verðbréfasjóða með staðfestu í öðru ríki innan Evrópska efnahagssvæðisins hér á landi._
- □ Erlendur verðbréfasjóður með staðfestu og staðfestingu í öðru ríki innan Evrópska efnahagssvæðisins getur markaðssett skírteini sín hér á landi tveimur mánuðum eftir að Fjármálaeftirlitið hefur fengið tilkynningu um fyrirhugaða starfsemi frá verðbréfasjóðnum. Hið sama gildir um starfsemi svissneskra og færeyskra verðbréfasjóða, enda séu sömu kröfur gerðar til þeirra og til verðbréfasjóða með staðfestu í ríki innan Evrópska efnahagssvæðisins og gerður hafi verið samstarfssamningur á milli Fjármálaeftirlitsins og lögbærra svissneskra eða færeyskra yfirvalda. Tilkynningu skulu fylgja eftirfarandi gögn:
-    1. Yfirlýsing lögbærra eftirlitsaðila í heimaríki verðbréfasjóðsins um að hann hafi staðfestingu í því ríki og uppfylli að öðru leyti settar kröfur í tilskipunum Evrópusambandsins um sjóði um sameiginlega fjárfestingu í framseljanlegum verðbréfum.
+ ■ *44. gr.* _[Markaðssetning erlendra verðbréfasjóða með staðfestu og staðfestingu í öðru ríki innan Evrópska efnahagssvæðisins hér á landi._
+ □ Erlendum verðbréfasjóði með staðfestu og staðfestingu í öðru ríki innan Evrópska efnahagssvæðisins er heimilt að markaðssetja skírteini sín hér á landi eftir að Fjármálaeftirlitið hefur staðfest móttöku tilkynningar um fyrirhugaða starfsemi frá lögbærum eftirlitsaðila heimaríkis verðbréfasjóðsins.
+ □ Fjármálaeftirlitið skal staðfesta móttöku tilkynningar eigi síðar en fimm virkum dögum eftir móttöku. Hið sama gildir um starfsemi svissneskra og færeyskra verðbréfasjóða, enda séu sömu kröfur gerðar til þeirra og til verðbréfasjóða með staðfestu í ríki innan Evrópska efnahagssvæðisins og gerður hafi verið samstarfssamningur á milli Fjármálaeftirlitsins og lögbærra svissneskra eða færeyskra yfirvalda.
+ □ Tilkynningu um markaðssetningu skulu fylgja eftirfarandi gögn:
+    1. Yfirlýsing lögbærs eftirlitsaðila í heimaríki verðbréfasjóðsins um að hann hafi staðfestingu í því ríki og uppfylli að öðru leyti reglur sem settar eru innan Evrópska efnahagssvæðisins um verðbréfasjóði um sameiginlega fjárfestingu í framseljanlegum verðbréfum.
     2. Reglur verðbréfasjóðsins.
-    3. Útboðslýsing og útdráttur úr útboðslýsingu. Útboðslýsing skal hafa að geyma upplýsingar skv. 6. tölul. þessarar málsgreinar.
+    3. Útboðslýsing og lykilupplýsingar.
     4. Endurskoðaður ársreikningur næstliðins árs, sé hann fyrirliggjandi, og síðari hálfsársuppgjör.
-    5. Lýsing á framkvæmd fyrirhugaðrar starfsemi eða markaðssetningar hlutdeildarskírteina verðbréfasjóðsins, m.a. hverjir muni annast sölu hlutdeildarskírteina og hafa lögformlega heimild til innlausnar fyrir hönd verðbréfasjóðsins og hver væntanlegur markhópur fjárfesta verður.
-    6. Upplýsingar um fyrirhugaðar ráðstafanir verðbréfasjóðsins til að tryggja rétt eigenda skírteina til útgreiðslu hagnaðar, innlausnar hlutdeildarskírteina og þeirra upplýsinga sem sjóðnum er skylt að miðla, m.a. upplýsingar um fyrirhugaðar ráðstafanir sjóðsins til að tryggja rétt viðskiptamanna ef sjóðurinn hyggst hætta starfsemi eða markaðssetningu hérlendis.
- □ Fjármálaeftirlitið getur hafnað því að verðbréfasjóður skv. 1. mgr. hefji markaðssetningu hér á landi ef ráðstafanir skv. 6. tölul. 1. mgr. eru ekki fullnægjandi eða markaðssetningin stríðir að öðru leyti gegn ákvæðum laga. Fjármálaeftirlitið skal rökstyðja synjun skriflega til verðbréfasjóðsins áður en frestur skv. 1. mgr. rennur út. Fjármálaeftirlitinu er heimilt að stytta frest skv. 1. mgr. enda hafi öll tilskilin gögn borist því og einnig er því heimilt að lengja frest skv. 1. mgr. þurfi að kalla eftir frekari gögnum eða ef ástæða er til að ætla að til höfnunar komi.
- □ Fjármálaeftirlitið gengur úr skugga um eftirlit með verðbréfasjóðnum í heimaríkinu, starfsheimildir hans og starfsemi.
- □ Breytingar á áður tilkynntum atriðum samkvæmt þessari grein skulu þegar tilkynntar Fjármálaeftirlitinu.
+ □ Verðbréfasjóður skal gera ráðstafanir til að tryggja rétt eigenda hlutdeildarskírteina til útgreiðslu hagnaðar, innlausnar hlutdeildarskírteina og þeirra upplýsinga sem sjóðnum er skylt að miðla.
+ □ Verði breytingar á áður tilkynntum atriðum skal verðbréfasjóður tilkynna breytinguna til Fjármálaeftirlitsins.
+ □ Verðbréfasjóður skal þó upplýsa Fjármálaeftirlitið skriflega fyrir fram um breytingar á framkvæmd fyrirhugaðrar starfsemi eða markaðssetningar hlutdeildarskírteina verðbréfasjóðsins sem fram koma í tilkynningu um markaðssetningu. Verðbréfasjóður skal m.a. upplýsa hverjir munu annast sölu hlutdeildarskírteina og hafa lögformlega heimild til innlausnar fyrir hönd verðbréfasjóðsins og hver væntanlegur markhópur fjárfesta verður.][^1)^]
+    _[^1)^]"L. 12/2013, 6. gr.":/altext/stjt/2013.012.html_
  ■ *45. gr.* _Markaðssetning fjárfestingarsjóða (Non-UCITS)._
- □ Aðrir sjóðir sem hyggjast hefja markaðssetningu hlutdeildarskírteina eða hluta sinna hér á landi skulu sækja um heimild til Fjármálaeftirlitsins og samhliða senda Fjármálaeftirlitinu þau gögn sem tilgreind eru í 2. - 6. tölul. 1. mgr. 44. gr. Auk þess skal senda eftirfarandi gögn:
+ □ Aðrir sjóðir sem hyggjast hefja markaðssetningu hlutdeildarskírteina eða hluta sinna hér á landi skulu sækja um heimild til Fjármálaeftirlitsins og samhliða senda Fjármálaeftirlitinu þau gögn sem tilgreind eru í [2. - 4. tölul. 3. mgr. 44. gr.][^1)^] Auk þess skal senda eftirfarandi gögn:
     1. Yfirlýsingu frá lögbæru yfirvaldi heimaríkis sjóðsins þar sem fram komi að sjóðurinn og rekstrarfélag hans hafi staðfestingu eða starfsleyfi í samræmi við löggjöf heimaríkisins og lúti eftirliti þess, þ.m.t. vegna athafna þess hérlendis.
     2. Yfirlýsingu frá lögbæru yfirvaldi heimaríkis sjóðsins þess efnis að það sé reiðubúið að veita sambærilegum íslenskum sjóðum heimild til markaðssetningar í viðkomandi ríki. Ríki sem falla undir svæði A í viðauka I í reglum nr. 530/2003, um eiginfjárhlutfall fjármálafyrirtækja, eru undanþegin þessum tölulið.
  □ Breytingar á áður tilkynntum atriðum samkvæmt þessari grein skulu þegar tilkynntar Fjármálaeftirlitinu.
- □ Fjármálaeftirlitið getur veitt samþykki fyrir því að sjóður skv. 1. mgr. hefji markaðssetningu hér á landi ef ákvæði 1. mgr. eru uppfyllt og ráðstafanir skv. 6. tölul. 1. mgr. 44. gr. eru fullnægjandi og markaðssetningin stríðir að öðru leyti ekki gegn ákvæðum laga. Ef Fjármálaeftirlitið hafnar markaðssetningu skal það rökstyðja synjun skriflega til sjóðsins.
+ □ Fjármálaeftirlitið getur veitt samþykki fyrir því að sjóður skv. 1. mgr. hefji markaðssetningu hér á landi ef ákvæði 1. mgr. eru uppfyllt og ráðstafanir skv. [4. mgr. 44. gr.][^1)^] eru fullnægjandi og markaðssetningin stríðir að öðru leyti ekki gegn ákvæðum laga. Ef Fjármálaeftirlitið hafnar markaðssetningu skal það rökstyðja synjun skriflega til sjóðsins.
+    _[^1)^]"L. 12/2013, 7. gr.":/altext/stjt/2013.012.html_
  ■ *46. gr.* _Heimild til að banna starfsemi erlendra verðbréfasjóða._
- □ Fjármálaeftirlitinu er heimilt að banna erlendum verðbréfasjóði og fjárfestingarsjóði að markaðssetja skírteini sín hér á landi hafi hlutaðeigandi verðbréfasjóður eða fjárfestingarsjóður brotið gróflega eða ítrekað gegn ákvæðum laga þessara, reglum settum samkvæmt þeim eða gegn ákvæðum annarra laga um fjármálastarfsemi. Fjármálaeftirlitið getur endurnýjað heimild sjóðsins til markaðssetningar geti sjóðurinn sýnt fram á að hann muni uppfylla skilyrði laga þessara.
+ □ [Hafi Fjármálaeftirlitið rökstudda ástæðu til að ætla að erlendur verðbréfasjóður brjóti gegn ákvæðum laga þessara, reglum settum samkvæmt þeim eða gegn ákvæðum annarra laga um fjármálastarfsemi skal Fjármálaeftirlitið gera lögbærum eftirlitsaðila verðbréfasjóðs viðvart, enda sé um að ræða brot gegn ákvæðum sem Fjármálaeftirlitinu er ekki falið eftirlit með sem gistiríki. Telji Fjármálaeftirlitið að ráðstafanir lögbærs eftirlitsaðila verðbréfasjóðs séu ófullnægjandi til að stöðva ólögmæta háttsemi verðbréfasjóðsins hefur Fjármálaeftirlitið heimild til að gera nauðsynlegar ráðstafanir til verndar fjárfestum og heilbrigðri starfsemi fjármálamarkaða hér á landi. Í þessu felst m.a. heimild til að banna erlendum verðbréfasjóði að markaðssetja skírteini sín hér á landi. Fjármálaeftirlitið getur endurnýjað heimild verðbréfasjóðsins til markaðssetningar geti sjóðurinn sýnt fram á að hann uppfylli skilyrði laga um starfsemi verðbréfasjóða.][^1)^]
+ □ Fjármálaeftirlitinu er heimilt að banna erlendum ...[^1)^] fjárfestingarsjóði að markaðssetja skírteini sín hér á landi hafi hlutaðeigandi ...[^1)^] fjárfestingarsjóður brotið gróflega eða ítrekað gegn ákvæðum laga þessara, reglum settum samkvæmt þeim eða gegn ákvæðum annarra laga um fjármálastarfsemi. Fjármálaeftirlitið getur endurnýjað heimild sjóðsins til markaðssetningar geti sjóðurinn sýnt fram á að hann muni uppfylla skilyrði laga þessara.
+    _[^1)^]"L. 12/2013, 8. gr.":/altext/stjt/2013.012.html_
  ■ *47. gr.* _Undanþága._
  □ Undanþegnir ákvæðum 44. og 45. gr. eru erlendir verðbréfasjóðir og aðrir sjóðir um sameiginlega fjárfestingu sem eingöngu eru boðnir eða markaðssettir, án almennrar auglýsingar eða kynningar, til fagfjárfesta samkvæmt skilgreiningu laga um verðbréfaviðskipti.
  □ Sjóðir sem eingöngu hyggjast markaðssetja hluti eða hlutdeildarskírteini sín til fagfjárfesta hér á landi skulu fyrir fram tilkynna það til Fjármálaeftirlitsins, ásamt upplýsingum um heimaríki sjóðsins, rekstraraðila og heimilisfang hans, hvort sjóður lúti reglubundnu eftirliti, ásamt öðrum upplýsingum sem Fjármálaeftirlitið telur nauðsynlegar.
  ■ *48. gr.* _Markaðssetning íslenskra verðbréfasjóða utan Íslands._
- □ Hyggist verðbréfasjóður markaðssetja hlutdeildarskírteini sín utan Íslands skal það tilkynnt Fjármálaeftirlitinu og eftirlitsaðila í því landi þar sem markaðssetning er fyrirhuguð.
+ □ [Hyggist verðbréfasjóður markaðssetja hlutdeildarskírteini sín utan Íslands skal hann tilkynna Fjármálaeftirlitinu um það.
+ □ Í tilkynningu vegna fyrirhugaðrar markaðssetningar verðbréfasjóðs skal vera lýsing á framkvæmd markaðssetningar hlutdeildarskírteina verðbréfasjóðsins, m.a. hverjir munu annast sölu hlutdeildarskírteina og hafa lögformlega heimild til innlausnar fyrir hönd verðbréfasjóðsins og hver væntanlegur markhópur fjárfesta verður. Tilkynningu skulu fylgja eftirfarandi gögn:
+    1. Reglur verðbréfasjóðsins.
+    2. Útboðslýsing og lykilupplýsingar.
+    3. Endurskoðaður ársreikningur næstliðins árs, sé hann fyrirliggjandi, og síðari hálfsársuppgjör.
+ □ Fjármálaeftirlitið skal staðfesta að framlögð gögn skv. 2. mgr. séu fullnægjandi.
+ □ Fjármálaeftirlitið skal senda lögbærum eftirlitsaðila í því landi þar sem markaðssetning er fyrirhuguð gögn skv. 2. mgr. ásamt yfirlýsingu um að verðbréfasjóðurinn hafi staðfestingu á Íslandi og uppfylli að öðru leyti reglur sem settar eru innan Evrópska efnahagssvæðisins um verðbréfasjóði um sameiginlega fjárfestingu í framseljanlegum verðbréfum. Gögn samkvæmt þessari málsgrein skulu send lögbærum eftirlitsaðila í því landi þar sem markaðssetning er fyrirhuguð eigi síðar en tíu virkum dögum eftir að tilkynning ásamt fullnægjandi gögnum barst Fjármálaeftirlitinu.
+ □ Fjármálaeftirlitið skal án tafar tilkynna verðbréfasjóðnum þegar lögbær eftirlitsaðili í því landi þar sem verðbréfasjóðurinn hyggst markaðssetja hlutdeildarskírteini sín hefur staðfest móttöku tilkynningarinnar og er verðbréfasjóðnum þá heimilt að markaðssetja sig í því landi.][^1)^]
+    _[^1)^]"L. 12/2013, 9. gr.":/altext/stjt/2013.012.html_
  *_H. Upplýsingagjöf._*
  ■ *49. gr.* _Ársreikningur og árshlutauppgjör._
  □ Í ársreikningi og árshlutauppgjörum rekstrarfélags skulu sérgreindar upplýsingar um verðbréfasjóð eða sérhverja deild hans. Ráðherra er heimilt að gefa út reglugerð sem kveður nánar á um sérgreindar upplýsingar um verðbréfasjóði í ársreikningum og árshlutauppgjörum rekstrarfélaga.
  ■ *50. gr.* _Sundurliðun fjárfestinga._
  □ Rekstrarfélag verðbréfasjóða skal senda Fjármálaeftirlitinu skýrslu um sundurliðun fjárfestinga verðbréfasjóða á því formi sem Fjármálaeftirlitið ákveður.
- ■ *51. gr.* _Útboðslýsing og útdráttur úr útboðslýsingu._
- □ Rekstrarfélag skal gefa út útboðslýsingu og útdrátt úr útboðslýsingu fyrir verðbréfasjóð.
- □ Í útboðslýsingu skulu koma fram nauðsynlegar upplýsingar til að fjárfestum sé kleift að meta kosti fjárfestinga í viðkomandi verðbréfasjóði. Í útdrætti úr útboðslýsingu skal draga fram meginatriði útboðslýsingar.
- □ Rekstrarfélag skal senda Fjármálaeftirlitinu útboðslýsingu og útdrátt úr útboðslýsingu í kjölfar breytinga á þeim.
+ ■ *51. gr.* _Útboðslýsing og [lykilupplýsingar].[^1)^]_
+ □ Rekstrarfélag skal gefa út útboðslýsingu og [lykilupplýsingar][^1)^] fyrir verðbréfasjóð.
+ □ Í útboðslýsingu skulu koma fram nauðsynlegar upplýsingar til að fjárfestum sé kleift að meta kosti fjárfestinga í viðkomandi verðbréfasjóði. Í [lykilupplýsingum][^1)^] skal draga fram meginatriði útboðslýsingar.
+ □ Rekstrarfélag skal senda Fjármálaeftirlitinu útboðslýsingu og [lykilupplýsingar][^1)^] í kjölfar breytinga á þeim.
+    _[^1)^]"L. 12/2013, 4. gr.":/altext/stjt/2013.012.html_
  ■ *52. gr.* _Nánari upplýsingar í útboðslýsingu._
  □ Í útboðslýsingu verðbréfasjóðs skal á ítarlegan hátt lýsa fjárfestingarstefnu sjóðsins og, ef við á, einstakra deilda hans og tilgreina þær tegundir fjárfestinga sem honum eru heimilar samkvæmt reglum sjóðsins.
  □ Í útboðslýsingu skal tilgreina hvort sjóði, eða einstakri deild hans, er heimilt að fjárfesta í afleiðum og, sé slíkt heimilt, hvort fjárfestingin takmarkist við að lágmarka áhættu og fastsetja hagnað vegna verðsveiflna eða hvort hún sé liður í fjárfestingarstefnu.
@@ -284,11 +317,13 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  □ Fjárfesti verðbréfasjóður verulegan hluta eigna sinna í öðrum verðbréfasjóðum og öðrum sjóðum um sameiginlega fjárfestingu skal í útboðslýsingu hans tilgreina hámarksstjórnunarkostnað sem verðbréfasjóðurinn sjálfur og hinir sjóðirnir skulu bera. Í ársreikningi verðbréfasjóðsins skal tilgreina hámarkshlutfall stjórnunarkostnaðar sem annars vegar verðbréfasjóðurinn sjálfur og hins vegar hinir sjóðirnir, sem hann fjárfestir í, bera.
  □ Rekstrarfélagi er skylt að afhenda, óski eigandi hlutdeildarskírteinis í verðbréfasjóði eftir því, upplýsingar um aðferðafræði sjóðsins við áhættustýringu eigna sjóðsins með tilliti til áhættu og væntrar ávöxtunar í fjárfestingum sjóðsins undangengin missiri.
  □ Í útboðslýsingu skal koma fram hvaða verkefnum rekstrarfélagið hefur útvistað skv. 18. gr.
- □ Nánar er unnt að kveða á um útboðslýsingar og útdrætti úr útboðslýsingum vegna verðbréfasjóða í reglugerð, m.a. um hvaða upplýsingar skuli birta í útboðslýsingum og útdráttum úr þeim.
+ □ Nánar er unnt að kveða á um útboðslýsingar og [lykilupplýsingar][^1)^] vegna verðbréfasjóða í reglugerð, m.a. um hvaða upplýsingar skuli birta í útboðslýsingum og [lykilupplýsingum].[^1)^]
+    _[^1)^]"L. 12/2013, 4. gr.":/altext/stjt/2013.012.html_
  ■ *53. gr.* _Aðgengi að upplýsingum._
- □ Útdráttur úr útboðslýsingu skal boðinn fjárfesti endurgjaldslaust áður en viðskipti með hlutdeildarskírteini fara fram. Útboðslýsing auk ársreiknings og hálfsársuppgjörs skal ávallt vera fjárfesti í verðbréfasjóði aðgengileg endurgjaldslaust.
- □ Ársreikningur og hálfsársuppgjör skulu vera almenningi aðgengileg með þeim hætti sem kveðið er á um í útboðslýsingu og útdrætti úr útboðslýsingu og Fjármálaeftirlitið samþykkir.
- □ Gildandi reglur verðbréfasjóðs, útboðslýsing og útdráttur úr útboðslýsingu skulu vera aðgengileg almenningi.
+ □ [Lykilupplýsingar][^1)^] [skulu boðnar][^1)^] fjárfesti endurgjaldslaust áður en viðskipti með hlutdeildarskírteini fara fram. Útboðslýsing auk ársreiknings og hálfsársuppgjörs skal ávallt vera fjárfesti í verðbréfasjóði aðgengileg endurgjaldslaust.
+ □ Ársreikningur og hálfsársuppgjör skulu vera almenningi aðgengileg með þeim hætti sem kveðið er á um í útboðslýsingu og [lykilupplýsingum][^1)^] og Fjármálaeftirlitið samþykkir.
+ □ Gildandi reglur verðbréfasjóðs, útboðslýsing og [lykilupplýsingar][^1)^] skulu vera [aðgengilegar][^1)^] almenningi.
+    _[^1)^]"L. 12/2013, 4. gr.":/altext/stjt/2013.012.html_
  ■ *54. gr.* _Þóknun._
  □ Rekstrarfélög skulu kunngera fjárfestum í verðbréfasjóði fyrir fram hvaða þóknun þau muni áskilja sér fyrir þjónustu sína. Breytingar á þóknun skal tilkynna eigendum hlutdeildarskírteina með hæfilegum fyrirvara.
  □ Ef verðbréfasjóður fjárfestir í hlutdeildarskírteinum annarra verðbréfasjóða og annarra sjóða um sameiginlega fjárfestingu, sem stjórnað er beint eða með umboði af sama rekstrarfélagi, eða öðru félagi sem rekstrarfélagið tengist í gegnum sameiginlegan rekstur eða stjórnendur, eða með umtalsverðri beinni eða óbeinni eignarhlutdeild, er rekstrarfélaginu ekki heimilt að taka þóknun fyrir áskrift eða innlausn fyrir fjárfestingu í sjóðunum.
@@ -298,11 +333,64 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
     1. hvort sjóður sé verðbréfasjóður eða fjárfestingarsjóður,
     2. heiti rekstrarfélags,
     3. upplýsingar um áhættu verðbréfasjóðs,
-    4. tilvísun í útboðslýsingu og útdrátt úr útboðslýsingu og hvar megi nálgast þau gögn.
- □ Á heimasíðu rekstrarfélags og í öðru kynningarefni einstakra sjóða skulu koma fram sömu upplýsingar og kveðið er á um í 2. mgr. auk þess sem birta skal upplýsingar um tíu stærstu útgefendur í eignasafni sjóðsins ásamt upplýsingum um hlutfall fjárfestingar í hverjum aðila. Einnig skal birta þar nafn- og raunávöxtun verðbréfasjóðs síðustu þriggja reikningsára. Upplýsingar um stærstu útgefendur sjóðsins skal uppfæra að minnsta kosti á sex vikna fresti. Jafnframt skulu gögn skv. 53. gr. vera aðgengileg á heimasíðu.
+    4. tilvísun í útboðslýsingu og [lykilupplýsingar][^1)^] og hvar megi nálgast þau gögn.
+ □ Á heimasíðu rekstrarfélags ...[^2)^] skulu koma fram sömu upplýsingar og kveðið er á um í 2. mgr. auk þess sem birta skal upplýsingar um tíu stærstu útgefendur í eignasafni sjóðsins ásamt upplýsingum um hlutfall fjárfestingar í hverjum aðila. ...[^2)^] Upplýsingar um stærstu útgefendur sjóðsins skal uppfæra að minnsta kosti á sex vikna fresti. Jafnframt skulu gögn skv. 53. gr. vera aðgengileg á heimasíðu.
  □ Verðbréfasjóði er óheimilt að umreikna ávöxtun eins tímabils á annað lengra tímabil.
+    _[^1)^]"L. 12/2013, 4. gr.":/altext/stjt/2013.012.html [^2)^]"L. 12/2013, 10. gr.":/altext/stjt/2013.012.html_
  ■ *56. gr.* _Tilkynning um áhættu._
  □ Rekstrarfélagi ber að greina fjárfestum frá þeirri áhættu sem felst í fjárfestingu í verðbréfasjóði áður en viðskipti eiga sér stað.
+ *_[I. Samruni verðbréfasjóða.][^1)^]_*
+    _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
+ ■ *[56. gr. a.* Verðbréfasjóðir sem hyggjast renna saman skulu gera sameiginlega samrunaáætlun. Innlendir samrunar eru aðeins heimilir að fengnu samþykki Fjármálaeftirlitsins. Millilandasamrunar eru aðeins heimilir að fengnu samþykki lögbærs eftirlitsaðila samrunasjóðs og skal samruni vera í samræmi við lög og reglur heimaríkis samrunasjóðs.][^1)^]
+    _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
+ ■ *[56. gr. b.* _Upplýsingar til hlutdeildarskírteinishafa._
+ □ Eftir að Fjármálaeftirlitið hefur heimilað fyrirhugaðan samruna skulu verðbréfasjóðir sem hyggjast renna saman afhenda hlutdeildarskírteinishöfum samrunasjóðs og yfirtökusjóðs nákvæmar og fullnægjandi upplýsingar um fyrirhugaðan samruna. Upplýsingarnar skulu gera hlutdeildarskírteinishöfum kleift að gera sér grein fyrir áhrifum fyrirhugaðs samruna á fjárfestingu þeirra og að nýta sér réttindi sín samkvæmt ákvæðum þessa kafla. Upplýsingarnar skulu vera veittar eigi síðar en 30 dögum áður en innlausnarskyldu skv. 56. gr. c lýkur.
+ □ Upplýsingar skal veita um eftirfarandi:
+    1. Ástæður og aðdraganda fyrirhugaðs samruna.
+    2. Þau áhrif sem álitið er að samruninn muni hafa á hlutdeildarskírteinishafa, m.a. breytingar á fjárfestingarstefnu, væntan árangur, reglubundnar skýrslur og, ef við á, viðvörun til fjárfesta um að skattaleg meðferð geti breyst vegna fyrirhugaðs samruna.
+    3. Réttindi hlutdeildarskírteinishafa vegna fyrirhugaðs samruna, rétt hlutdeildarskírteinishafa til innlausnar og, ef við á, rétt þeirra til að skipta hlutdeildarskírteinum sínum endurgjaldslaust og innan hvaða tímamarka þeir geti nýtt þau réttindi sín.
+    4. Atriði sem varða málsmeðferð og áætlaðan gildistökudag samrunans.
+    5. Lykilupplýsingar yfirtökusjóðs.][^1)^]
+    _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
+ ■ *[56. gr. c.* _Innlausnarskylda._
+ □ Hlutdeildarskírteini samrunasjóðs og yfirtökusjóðs skulu innleyst að kröfu eigenda samkvæmt reglum verðbréfasjóðanna án annars gjalds en þess sem verðbréfasjóðurinn heldur eftir til að standa undir kostnaði við sölu eigna og, ef við á, skal eigendum hlutdeildarskírteina heimilt að óska eftir því að skipta hlutdeildarskírteinum sínum í hlutdeildarskírteini í öðrum verðbréfasjóði með sambærilega fjárfestingarstefnu sem er stjórnað af sama rekstrarfélagi eða félagi sem rekstrarfélagið er tengt í gegnum sameiginlega stjórnun eða beint eða óbeint eignarhald.
+ □ Innlausnarskyldan tekur gildi þegar hlutdeildarskírteinishafar hafa fengið fullnægjandi upplýsingar um samrunann og gildir þar til fimm virkum dögum fyrir viðmiðunardag við útreikning á skiptihlutfalli samrunans.][^1)^]
+    _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
+ ■ *[56. gr. d.* _Reglugerð._
+ □ Ráðherra skal setja reglugerð um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
+    1. heimild til samruna,
+    2. umsókn um heimild til samruna,
+    3. sameiginlega samrunaáætlun samrunasjóðs og yfirtökusjóðs,
+    4. upplýsingagjöf til hlutdeildarskírteinishafa um heimild til samruna.][^1)^]
+    _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
+ *_[J. Höfuðsjóðir og fylgisjóðir.][^1)^]_*
+    _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
+ ■ *[56. gr. e.* _Umsókn fylgisjóðs til fjárfestingar í höfuðsjóði._
+ □ Fylgisjóði er einungis heimilt að fjárfesta í höfuðsjóði að fengnu samþykki Fjármálaeftirlitsins. Fjármálaeftirlitið skal heimila fjárfestingu fylgisjóðs í höfuðsjóði ef fylgisjóður, vörslufyrirtæki fylgisjóðs, endurskoðandi fylgisjóðs og höfuðsjóður uppfylla skilyrði laga sem um þau gilda.
+ □ Fylgisjóður skal leggja fram til Fjármálaeftirlitsins:
+    1. Reglur fylgisjóðs og höfuðsjóðs.
+    2. Útboðslýsingu og lykilupplýsingar fylgisjóðs og höfuðsjóðs.
+    3. Samkomulag á milli fylgisjóðs og höfuðsjóðs eða, ef við á, samkomulag um innri reglur.
+    4. Upplýsingar til hlutdeildarskírteinishafa fylgisjóðs.
+    5. Samning milli vörslufyrirtækja fylgisjóðs og höfuðsjóðs um upplýsingaskipti ef fylgisjóður og höfuðsjóður hafa ekki sama vörslufyrirtæki.
+    6. Samning milli endurskoðenda fylgisjóðs og höfuðsjóðs um upplýsingaskipti ef fylgisjóður og höfuðsjóður hafa ekki sama endurskoðanda.
+ □ Fjármálaeftirlitið skal tilkynna fylgisjóði hvort umsókn um fjárfestingar í höfuðsjóði sé samþykkt eigi síðar en 15 virkum dögum eftir móttöku fullnægjandi gagna samkvæmt þessari grein.
+ □ Ef höfuðsjóður er með staðfestu og staðfestingu í öðru aðildarríki innan Evrópska efnahagssvæðisins skal fylgisjóður leggja fram yfirlýsingu lögbærs eftirlitsaðila höfuðsjóðsins um að hann hafi staðfestingu í því ríki og uppfylli að öðru leyti reglur sem settar eru innan Evrópska efnahagssvæðisins um verðbréfasjóði um sameiginlega fjárfestingu í framseljanlegum verðbréfum og skilyrði skilgreiningar höfuðsjóðs.][^1)^]
+    _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
+ ■ *[56. gr. f.* _Fjárfestingarheimildir fylgisjóðs._
+ □ Þrátt fyrir 1. mgr. 39. gr. er fylgisjóði heimilt að fjárfesta að minnsta kosti 85% af eignum sínum í höfuðsjóði að fengnu samþykki Fjármálaeftirlitsins.
+ □ Fylgisjóði er heimilt að fjárfesta allt að 15% af eignum sínum í reiðufé eða auðseljanlegum eignum í samræmi við 2. mgr. 31. gr. og afleiðum til varna í samræmi við 5. tölul. 30. gr.][^1)^]
+    _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
+ ■ *[56. gr. g.* _Reglugerð._
+ □ Ráðherra skal setja reglugerð um nánari framkvæmd þessa kafla. Í henni skulu m.a. koma fram ákvæði um:
+    1. samkomulag milli fylgisjóðs og höfuðsjóðs,
+    2. samkomulag um innri reglur fylgisjóðs og höfuðsjóðs,
+    3. upplýsingar til hlutdeildarskírteinishafa fylgisjóðs,
+    4. samning milli vörslufyrirtækja fylgisjóðs og höfuðsjóðs um upplýsingaskipti,
+    5. samning milli endurskoðenda fylgisjóðs og höfuðsjóðs um upplýsingaskipti,
+    6. útboðslýsingu fyrir fylgisjóð með viðbótarupplýsingum,
+    7. fjárfestingarheimildir fylgisjóðs.][^1)^]
+    _[^1)^]"L. 12/2013, 11. gr.":/altext/stjt/2013.012.html_
 
  *III. kafli.* *Fjárfestingarsjóðir.*
  ■ *57. gr.* _Tilvísanir í II. kafla._
@@ -310,10 +398,11 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  □ Fjárfestingarsjóðum er einum heimilt að nota í heiti sínu eða til nánari skýringar á starfsemi sinni orðið „fjárfestingarsjóður“.
  ■ *58. gr.* _Innlausn._
  □ Hlutdeildarskírteini fjárfestingarsjóða samkvæmt þessum kafla eru innlausnarskyld. Um innlausn fjárfestingarsjóða fer samkvæmt reglum sjóðs. Rekstrarfélagi er skylt að vekja sérstaka athygli viðskiptavinar á þeim reglum sem gilda um innlausnarskyldu sjóðs.
- □ Þrátt fyrir 1. mgr. er fjárfestingarsjóðum heimilt samkvæmt ákvæðum reglna sjóðsins að fresta innlausn hlutdeildarskírteina. Frestun skal vera almenn og taka til allra hlutdeildarskírteina og verður einungis beitt mæli sérstakar ástæður með því og hagsmunir eigenda hlutdeildarskírteina krefjist. Frestun á innlausn skal ekki standa lengur en nauðsyn krefur og skal þegar tilkynnt Fjármálaeftirlitinu. Jafnframt skal frestun auglýst opinberlega.
+ □ Þrátt fyrir 1. mgr. er fjárfestingarsjóðum heimilt samkvæmt ákvæðum reglna sjóðsins að fresta innlausn hlutdeildarskírteina. Frestun skal vera almenn og taka til allra hlutdeildarskírteina og verður einungis beitt mæli sérstakar ástæður með því og hagsmunir eigenda hlutdeildarskírteina krefjist. Frestun á innlausn skal ekki standa lengur en nauðsyn krefur og skal þegar tilkynnt Fjármálaeftirlitinu [og hlutdeildarskírteinishöfum og tekur gildi við sendingu tilkynningar].[^1)^] Jafnframt skal frestun auglýst opinberlega.
  □ Er frestun á innlausn lýkur skal tilkynna opnun sjóða með sama hætti og getur í 2. mgr. Standi frestun lengur en fjórar vikur samfellt skal tilkynna opnun sjóða með bréfi til hlutdeildarskírteinishafa eða öðrum sambærilegum hætti.
  □ Fjármálaeftirlitið getur krafist þess að innlausn hlutdeildarskírteina verði frestað krefjist hagsmunir eigenda skírteinanna eða almennings þess.
  □ Innlausnarvirði hlutdeildarskírteina fjárfestingarsjóða er markaðsvirði samanlagðra eigna að frádregnum skuldum sjóðs við innlausn, svo sem skuldum hans við innlánsstofnanir, ógreiddum umsýslu- og stjórnunarkostnaði, innheimtukostnaði og áföllnum eða reiknuðum opinberum gjöldum, deilt niður á heildarfjölda útgefinna og óinnleystra hlutdeildarskírteina.
+    _[^1)^]"L. 12/2013, 12. gr.":/altext/stjt/2013.012.html_
  ■ *59. gr.* _Fjárfestingarheimildir._
  □ Fjárfestingarheimildir verðbréfasjóða skv. 30. - 43. gr. eiga við um fjárfestingar fjárfestingarsjóða með þeim undantekningum sem fram koma í 2. - 7. mgr. Nýti fjárfestingarsjóður heimildir þessa ákvæðis skal þess skýrlega getið í reglum sjóðsins.
  □ Ákvæði 3. tölul. 30. gr. gildir ekki um fjárfestingarsjóði. Fjárfestingarsjóði er heimilt að fjárfesta í hlutdeildarskírteinum annarra sjóða um sameiginlega fjárfestingu en verðbréfasjóða og fjárfestingarsjóða allt að 20% af eignum sínum.
@@ -343,7 +432,7 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  □ Öðrum en rekstrarfélögum verðbréfasjóða er heimilt að stofna sjóði um sameiginlega fjárfestingu sem ekki veita viðtöku fé frá almenningi (fagfjárfestasjóði) og gefa út hlutabréf eða hlutdeildarskírteini. Fagfjárfestasjóð má stofna sem hlutafélag eða í öðru félagaformi. Ef sjóðurinn gefur út hlutdeildarskírteini gilda ákvæði 23. - 25. gr. eftir því sem við á.
  ■ *62. gr.* _Sameiginleg ákvæði._
  □ Óheimilt er að markaðssetja eða koma fagfjárfestasjóði á framfæri við almenning.
- □ Fagfjárfestasjóður skal tryggja að viðskiptavinir sínir uppfylli skilyrði fyrir því að farið sé með þá sem fagfjárfesta, sbr. ákvæði laga um verðbréfasjóði.
+ □ Fagfjárfestasjóður skal tryggja að viðskiptavinir sínir uppfylli skilyrði fyrir því að farið sé með þá sem fagfjárfesta, [sbr. ákvæði laga um verðbréfaviðskipti].[^1)^]
  □ Setja skal fagfjárfestasjóði reglur og fjárfestingarstefnu sem skulu ávallt vera fjárfestum aðgengilegar. Fagfjárfestasjóður skuldbindur sig til að fylgja eftir þeirri fjárfestingarstefnu sem hann setur sér. Í reglum sjóðsins skal tilgreina eðli og ástæður mögulegra hagsmunaárekstra.
  □ Tilkynna skal Fjármálaeftirlitinu um stofnun fagfjárfestasjóðs innan eins mánaðar frá stofnun hans. Samhliða tilkynningu til Fjármálaeftirlitsins skal senda Fjármálaeftirlitinu reglur og fjárfestingarstefnu sjóðsins. Jafnframt skal tilkynna Fjármálaeftirlitinu um sjóðstjóra og framkvæmdastjóra. Allar síðari breytingar á framangreindu skal tilkynna Fjármálaeftirlitinu tafarlaust.
  □ Fagfjárfestasjóður skal veita upplýsingar um eignasafn sjóðsins í ársreikningi og hálfsársuppgjöri sem skal ávallt vera aðgengilegt fjárfestum.
@@ -351,6 +440,7 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  □ Fagfjárfestasjóðir skulu gefa Fjármálaeftirlitinu skýrslu um sundurliðun fjárfestinga vegna sjóða í rekstri þeirra á því formi sem Fjármálaeftirlitið ákveður.
  □ Ábyrgð rekstrarfélags eða fagfjárfestasjóðs gagnvart hlutdeildarskírteinishöfum eða hluthöfum helst óbreytt þótt þriðja aðila sé falinn hluti verkefna sem tengjast rekstri sjóðsins.
  □ Ákvæði 19. gr. um góða viðskiptahætti og 63. gr. um eftirlit gilda um sjóði samkvæmt þessum kafla.
+    _[^1)^]"L. 12/2013, 13. gr.":/altext/stjt/2013.012.html_
 
  *V. kafli.* *Eftirlit og reglugerð.*
  ■ *63. gr.* _Eftirlit._
@@ -359,14 +449,14 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  □ Telji Fjármálaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa getur það krafist gagna og upplýsinga hjá viðkomandi aðilum eða hjá eftirlitsskyldum aðilum sem nauðsynleg eru til að ganga úr skugga um hvort svo sé. Getur það krafist þess að slíkri starfsemi sé hætt þegar í stað. Jafnframt er því heimilt að birta opinberlega nöfn aðila sem taldir eru bjóða þjónustu án tilskilinna leyfa.
  ■ *64. gr.* _Reglugerð._
  □ Lög þessi heyra undir [ráðherra][^1)^] og er honum heimilt að kveða nánar á um framkvæmd þeirra með reglugerð. Í reglugerð er m.a. heimilt að kveða á um fjárfestingarstefnu og fjárfestingarheimildir verðbréfasjóða og fjárfestingarsjóða, góða viðskiptahætti, útvistun verkefna rekstrarfélaga, innlausnarvirði, markaðssetningu utan heimalands, heimildir til markaðssetningar annarra sjóða en verðbréfasjóða utan heimalands og upplýsingagjöf verðbréfasjóða og fjárfestingarsjóða og eftirlit með fagfjárfestasjóðum. Í reglugerðinni er einnig heimilt að kveða á um notkun afleiðusamninga verðbréfasjóða og fjárfestingarsjóða og aðferðir til að meta áhrif þeirra á áhættu eignasafns sjóðanna.
-    _[^1)^]L. 21/2012, 7. gr._
+    _[^1)^]"L. 21/2012, 7. gr.":/altext/stjt/2012.021.html_
 
  *VI. kafli.* *Viðurlög.*
  ■ *65. gr.* _Stjórnvaldssektir._
  □ Fjármálaeftirlitið getur lagt stjórnvaldssektir á hvern þann sem brýtur gegn ákvæðum:
-    1. 3. mgr. 1. gr. og 2. málsl. 2. mgr. 4. gr. um að leyfisskyld starfsemi skuli ekki stunduð án staðfestingar eða starfsleyfis,
+    1. 3. mgr. 1. gr. og [2. málsl. 3. mgr. 4. gr.][^1)^] um að leyfisskyld starfsemi skuli ekki stunduð án staðfestingar eða starfsleyfis,
     2. 2. mgr. 3. gr. um skyldu til að tilkynna breytingar á áður skráðum upplýsingum,
-    3. 3. mgr. 4. gr. um bann við því að breyta verðbréfasjóðum í aðra tegund sjóðs um sameiginlega fjárfestingu,
+    3. [4. mgr. 4. gr.][^1)^] um bann við því að breyta verðbréfasjóðum í aðra tegund sjóðs um sameiginlega fjárfestingu,
     4. 10. gr. um einkarétt verðbréfasjóða til að nota til nánari skýringar á starfsemi sinni orðið verðbréfasjóður,
     5. 3. mgr. 11. gr. um breytingu á reglum verðbréfasjóðs,
     6. 4. mgr. 11. gr. um tilkynningu til hlutdeildarskírteinishafa um breytingu á reglum sjóðsins,
@@ -385,37 +475,39 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
     19. 48. gr. um markaðssetningu íslenskra verðbréfasjóða utan Íslands,
     20. 49. - 55. gr. um upplýsingagjöf verðbréfasjóða,
     21. 56. gr. um tilkynningu um áhættu,
-    22. 2. málsl. 1. mgr. 57. gr., sbr. 3. mgr. 4. gr., um breytingu á fjárfestingarsjóðum í aðra tegund sjóða um sameiginlega fjárfestingu,
-    23. 2. málsl. 1. mgr. 57. gr., sbr. 3. mgr. 11. gr., um breytingu á reglum fjárfestingarsjóðs,
-    24. 2. málsl. 1. mgr. 57. gr., sbr. 4. mgr. 11. gr., um tilkynningu til hlutdeildarskírteinishafa um breytingu á reglum sjóðsins,
-    25. 2. málsl. 1. mgr. 57. gr., sbr. 1. mgr. 14. gr., um að framkvæmdastjórar rekstrarfélaga og sjóðstjórar skuli hafa lokið prófi í verðbréfaviðskiptum,
-    26. 2. málsl. 1. mgr. 57. gr., sbr. 3. mgr. 14. gr., um tilkynningar um breytingu á sjóðstjórum og framkvæmdastjórum,
-    27. 2. málsl. 1. mgr. 57. gr., sbr. 15. gr., um aðskilnað reksturs og vörslu og óhæði rekstrarfélags gagnvart móðurfélagi þess og vörslufyrirtæki fjárfestingarsjóða og skyldu rekstrarfélaga til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi,
-    28. 2. málsl. 1. mgr. 57. gr., sbr. 1. mgr. 18. gr., um útvistun verkefna rekstrarfélags fjárfestingarsjóðs,
-    29. 2. málsl. 1. mgr. 57. gr., sbr. 20. gr., um starfsemi vörslufyrirtækis fjárfestingarsjóða,
-    30. 2. málsl. 1. mgr. 57. gr., sbr. 2. mgr. 21. gr., um að óheimilt sé að skipta um vörslufyrirtæki án samþykkis Fjármálaeftirlitsins,
-    31. 2. málsl. 1. mgr. 57. gr., sbr. 49. - 55. gr., um upplýsingagjöf fjárfestingarsjóða,
-    32. 2. málsl. 1. mgr. 57. gr., sbr. 56. gr., um tilkynningu um áhættu,
-    33. 2. mgr. 57. gr. um einkarétt fjárfestingarsjóða til að nota til nánari skýringar á starfsemi sinni orðið fjárfestingarsjóður,
-    34. 59. gr. um fjárfestingarheimildir fjárfestingarsjóða,
-    35. 1. mgr. 62. gr. um að óheimilt sé að markaðssetja fagfjárfestasjóð til almennings,
-    36. 1. mgr. 60. gr., 61. gr. og 4. mgr. 62. gr. um stofnun fagfjárfestasjóða og tilkynningu um stofnun sjóðanna til Fjármálaeftirlitsins,
-    37. 4. mgr. 62. gr. um skyldu fagfjárfestasjóða til að senda Fjármálaeftirlitinu gögn og tilkynningar,
-    38. 6. mgr. 62. gr. um að sjóðstjórar skuli hafa lokið prófi í verðbréfaviðskiptum,
-    39. 7. mgr. 62. gr. um skýrslugjöf rekstraraðila fagfjárfestasjóða til Fjármálaeftirlitsins varðandi sundurliðun fjárfestinga vegna sjóða í þeirra rekstri og önnur ákvæði sem gilda um fagfjárfestasjóði,
-    40. sátt milli Fjármálaeftirlitsins og aðila, sbr. 66. gr.
+    [22. 56. gr. f um fjárfestingarheimildir fylgisjóðs],[^1)^]
+    [23. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. [4. mgr. 4. gr.],[^1)^] um breytingu á fjárfestingarsjóðum í aðra tegund sjóða um sameiginlega fjárfestingu,
+    [24. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 3. mgr. 11. gr., um breytingu á reglum fjárfestingarsjóðs,
+    [25. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 4. mgr. 11. gr., um tilkynningu til hlutdeildarskírteinishafa um breytingu á reglum sjóðsins,
+    [26. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 1. mgr. 14. gr., um að framkvæmdastjórar rekstrarfélaga og sjóðstjórar skuli hafa lokið prófi í verðbréfaviðskiptum,
+    [27. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 3. mgr. 14. gr., um tilkynningar um breytingu á sjóðstjórum og framkvæmdastjórum,
+    [28. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 15. gr., um aðskilnað reksturs og vörslu og óhæði rekstrarfélags gagnvart móðurfélagi þess og vörslufyrirtæki fjárfestingarsjóða og skyldu rekstrarfélaga til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi,
+    [29. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 1. mgr. 18. gr., um útvistun verkefna rekstrarfélags fjárfestingarsjóðs,
+    [30. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 20. gr., um starfsemi vörslufyrirtækis fjárfestingarsjóða,
+    [31. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 2. mgr. 21. gr., um að óheimilt sé að skipta um vörslufyrirtæki án samþykkis Fjármálaeftirlitsins,
+    [32. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 49. - 55. gr., um upplýsingagjöf fjárfestingarsjóða,
+    [33. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 56. gr., um tilkynningu um áhættu,
+    [34. ][^1)^] 2. mgr. 57. gr. um einkarétt fjárfestingarsjóða til að nota til nánari skýringar á starfsemi sinni orðið fjárfestingarsjóður,
+    [35. ][^1)^] 59. gr. um fjárfestingarheimildir fjárfestingarsjóða,
+    [36. ][^1)^] 1. mgr. 62. gr. um að óheimilt sé að markaðssetja fagfjárfestasjóð til almennings,
+    [37. ][^1)^] 1. mgr. 60. gr., 61. gr. og 4. mgr. 62. gr. um stofnun fagfjárfestasjóða og tilkynningu um stofnun sjóðanna til Fjármálaeftirlitsins,
+    [38. ][^1)^] 4. mgr. 62. gr. um skyldu fagfjárfestasjóða til að senda Fjármálaeftirlitinu gögn og tilkynningar,
+    [39. ][^1)^] 6. mgr. 62. gr. um að sjóðstjórar skuli hafa lokið prófi í verðbréfaviðskiptum,
+    [40. ][^1)^] 7. mgr. 62. gr. um skýrslugjöf rekstraraðila fagfjárfestasjóða til Fjármálaeftirlitsins varðandi sundurliðun fjárfestinga vegna sjóða í þeirra rekstri og önnur ákvæði sem gilda um fagfjárfestasjóði,
+    [41. ][^1)^] sátt milli Fjármálaeftirlitsins og aðila, sbr. 66. gr.
  □ Þá getur Fjármálaeftirlitið lagt stjórnvaldssektir á hvern þann sem brýtur gróflega eða ítrekað gegn 19. gr. um góða viðskiptahætti.
  □ Fjármálaeftirlitinu er heimilt að leggja stjórnvaldssekt á rekstraraðila verðbréfasjóðs, fjárfestingarsjóðs eða fagfjárfestasjóðs brjóti hann gróflega eða ítrekað gegn fjárfestingarstefnu sjóðsins.
  □ Sektir sem lagðar eru á einstaklinga geta numið frá 10 þús. kr. til 20 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 50 þús. kr. til 50 millj. kr. Við ákvörðun sekta skal m.a. tekið tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila og hvort um ítrekað brot er að ræða. Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar. Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
  □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.
+    _[^1)^]"L. 12/2013, 14. gr.":/altext/stjt/2013.012.html_
  ■ *66. gr.* Hafi aðili gerst brotlegur við ákvæði laga þessara eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur um framkvæmd ákvæðisins.
  ■ *67. gr.* Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.
  ■ *68. gr.* Heimild Fjármálaeftirlitsins til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar fimm ár eru liðin frá því að háttsemi lauk.
  □ Frestur skv. 1. mgr. rofnar þegar Fjármálaeftirlitið tilkynnir aðila um upphaf rannsóknar á meintu broti. Rof frests hefur réttaráhrif gagnvart öllum sem staðið hafa að broti.
  ■ *69. gr.* _Sektir eða fangelsi._
  □ Það varðar sektum eða fangelsi allt að tveimur árum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn ákvæðum:
-    1. 3. mgr. 1. gr. og 2. málsl. 2. mgr. 4. gr. um að leyfisskyld starfsemi skuli ekki stunduð án staðfestingar eða starfsleyfis,
-    2. 3. mgr. 4. gr. um bann við því að breyta verðbréfasjóðum í aðra sjóði um sameiginlega fjárfestingu,
+    1. 3. mgr. 1. gr. og [2. málsl. 3. mgr. 4. gr.][^1)^] um að leyfisskyld starfsemi skuli ekki stunduð án staðfestingar eða starfsleyfis,
+    2. [4. mgr. 4. gr.][^1)^] um bann við því að breyta verðbréfasjóðum í aðra sjóði um sameiginlega fjárfestingu,
     3. 2. mgr. 15. gr. um aðskilnað reksturs og vörslu og óhæði rekstrarfélags gagnvart móðurfélagi þess og vörslufyrirtæki verðbréfasjóða og skyldu rekstrarfélaga til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi,
     4. 1. mgr. 18. gr. um útvistun verkefna rekstrarfélags verðbréfasjóðs,
     5. 20. gr. um starfsemi vörslufyrirtækis verðbréfasjóða,
@@ -423,14 +515,16 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
     7. 1. mgr. 44. gr. um markaðssetningu verðbréfasjóðs með staðfestu innan Evrópska efnahagssvæðisins hér á landi,
     8. 49. - 55. gr. um upplýsingagjöf verðbréfasjóða,
     9. 56. gr. um tilkynningu um áhættu,
-    10. 2. málsl. 1. mgr. 57. gr., sbr. 3. mgr. 4. gr., um breytingu á fjárfestingarsjóðum í aðra sjóði um sameiginlega fjárfestingu,
-    11. 2. málsl. 1. mgr. 57. gr., sbr. 2. mgr. 15. gr., um aðskilnað reksturs og vörslu og óhæði rekstrarfélags gagnvart móðurfélagi þess og vörslufyrirtæki fjárfestingarsjóða og skyldu rekstrarfélaga til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi,
-    12. 2. málsl. 1. mgr. 57. gr., sbr. 1. mgr. 18. gr., um útvistun verkefna rekstrarfélags fjárfestingarsjóðs,
-    13. 2. málsl. 1. mgr. 57. gr., sbr. 20. gr., um starfsemi vörslufyrirtækis fjárfestingarsjóða,
-    14. 2. málsl. 1. mgr. 57. gr., sbr. 49. - 55. gr., um upplýsingagjöf fjárfestingarsjóða,
-    15. 2. málsl. 1. mgr. 57. gr., sbr. 56. gr., um tilkynningu um áhættu,
-    16. 59. gr. um fjárfestingarheimildir fjárfestingarsjóða.
-■ *70. gr.* Brot gegn lögum þessum er varða sektum eða fangelsi varða refsingu hvort sem þau eru framin af ásetningi eða gáleysi.
+    [10. 56. gr. f um fjárfestingarheimildir fylgisjóðs],[^1)^]
+    [11. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. [4. mgr. 4. gr.],[^1)^] um breytingu á fjárfestingarsjóðum í aðra sjóði um sameiginlega fjárfestingu,
+    [12. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 2. mgr. 15. gr., um aðskilnað reksturs og vörslu og óhæði rekstrarfélags gagnvart móðurfélagi þess og vörslufyrirtæki fjárfestingarsjóða og skyldu rekstrarfélaga til að hafa hagsmuni eigenda hlutdeildarskírteina að leiðarljósi,
+    [13. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 1. mgr. 18. gr., um útvistun verkefna rekstrarfélags fjárfestingarsjóðs,
+    [14. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 20. gr., um starfsemi vörslufyrirtækis fjárfestingarsjóða,
+    [15. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 49. - 55. gr., um upplýsingagjöf fjárfestingarsjóða,
+    [16. ][^1)^] 2. málsl. 1. mgr. 57. gr., sbr. 56. gr., um tilkynningu um áhættu,
+    [17. ][^1)^] 59. gr. um fjárfestingarheimildir fjárfestingarsjóða.
+    _[^1)^]"L. 12/2013, 15. gr.":/altext/stjt/2013.012.html_
+ ■ *70. gr.* Brot gegn lögum þessum er varða sektum eða fangelsi varða refsingu hvort sem þau eru framin af ásetningi eða gáleysi.
  □ Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotist hefur af broti gegn ákvæðum laga þessara er varða sektum eða fangelsi.
  □ Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð eftir því sem segir í almennum hegningarlögum.
  ■ *71. gr.* Brot gegn lögum þessum sæta aðeins rannsókn lögreglu að undangenginni kæru Fjármálaeftirlitsins.
@@ -442,9 +536,10 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
 
  *VII. kafli.* *Gildistaka o.fl.*
  ■ *72. gr.* _Innleiðing._
- □ Lög þessi fela í sér innleiðingu á tilskipun framkvæmdastjórnarinnar 2007/16/EB um framkvæmd tilskipunar ráðsins 85/611/EBE um samræmingu á lögum og stjórnsýslufyrirmælum um fyrirtæki um sameiginlega fjárfestingu í framseljanlegum verðbréfum (UCITS) að því er varðar útskýringu á tilteknum skilgreiningum eins og hún var tekin upp í samninginn um Evrópska efnahagssvæðið með ákvörðun sameiginlegu EES-nefndarinnar nr. 114/2007 sem birt var 21. febrúar 2008 í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 9/2008.
+ □ [Lög þessi fela í sér innleiðingu á tilskipun framkvæmdastjórnarinnar 2007/16/EB um framkvæmd tilskipunar ráðsins 85/611/EBE um samræmingu á lögum og stjórnsýslufyrirmælum um fyrirtæki um sameiginlega fjárfestingu í framseljanlegum verðbréfum (UCITS) að því er varðar útskýringu á tilteknum skilgreiningum og tilskipun Evrópuþingsins og ráðsins 2009/65/EB um samræmingu á lögum og stjórnsýslufyrirmælum að því er varðar verðbréfasjóði (UCITS). Tilskipun 2007/16/EB var tekin upp í samninginn um Evrópska efnahagssvæðið með ákvörðun sameiginlegu EES-nefndarinnar nr. 114/2007 sem birt var 21. febrúar 2008 í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 9/2008. Tilskipun 2009/65/EB var tekin upp í samninginn um Evrópska efnahagssvæðið með ákvörðun sameiginlegu EES-nefndarinnar nr. 120/2010 sem birt var 3. mars 2011 í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 12/2011.][^1)^]
+    _[^1)^]"L. 12/2013, 16. gr.":/altext/stjt/2013.012.html_
  ■ *73. gr.* _Gildistaka._
- □ Lög þessi öðlast gildi 1. nóvember 2011 ...
+ □ Lög þessi öðlast gildi 1. nóvember 2011 "...":http://www.althingi.is/vefur/lagas-hlp.html
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Rekstraraðilar fagfjárfestasjóða sem eru starfandi við gildistöku laga þessara skulu hafa tilkynnt Fjármálaeftirlitinu um stofnun fagfjárfestasjóðs skv. 60. og 61. gr. fyrir 1. desember 2011.

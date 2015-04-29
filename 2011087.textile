@@ -7,9 +7,9 @@ h2. Lög um gistináttaskatt
 <hr />
 
 
- *Tóku gildi 1. janúar 2012.* _Breytt með_ l. 164/2011 (tóku gildi 30. des. 2011 nema 1. - 2., 4. - 5., 7., 15. - 21., 24. - 27., 29. - 30. og 34. - 39. gr. sem tóku gildi 1. jan. 2012; komu til framkvæmda skv. fyrirmælum í 40. gr.).
+ *Tóku gildi 1. janúar 2012.* _Breytt með_ "l. 164/2011":/altext/stjt/2011.164.html (tóku gildi 30. des. 2011 nema 1. - 2., 4. - 5., 7., 15. - 21., 24. - 27., 29. - 30. og 34. - 39. gr. sem tóku gildi 1. jan. 2012; komu til framkvæmda skv. fyrirmælum í 40. gr.).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -22,18 +22,18 @@ h2. Lög um gistináttaskatt
  □ Tilgreina skal gistináttaskatt á sölureikningi eða greiðslukvittun og myndar hann stofn til virðisaukaskatts.
  ■ *3. gr.* _Undanþágur._
  □ [Ekki skal leggja gistináttaskatt á sölu gistingar sem ekki ber virðisaukaskatt samkvæmt "lögum nr. 50/1988":1988050.html, um virðisaukaskatt.][^1)^]
-    _[^1)^]L. 164/2011, 34. gr._
+    _[^1)^]"L. 164/2011, 34. gr.":/altext/stjt/2011.164.html_
  ■ *4. gr.* _Skattskyldir aðilar._
  □ Öllum þeim sem selja gistináttaeiningar skv. 1. mgr. 2. gr. ber skylda til að innheimta og standa skil á gistináttaskatti.
  □ ...[^1)^]
  □ Skattskyldir aðilar skulu ótilkvaddir senda ríkisskattstjóra tilkynningu um skattskylda starfsemi áður en hún hefst.
  □ Ríkisskattstjóri heldur skrá yfir skattskylda aðila samkvæmt lögum þessum.
-    _[^1)^]L. 164/2011, 35. gr._
+    _[^1)^]"L. 164/2011, 35. gr.":/altext/stjt/2011.164.html_
  ■ *5. gr.* _Álagning gistináttaskatts._
  □ Ríkisskattstjóri annast álagningu gistináttaskatts skv. 2. gr. Skattskyldir aðilar skulu greiða gistináttaskatt fyrir hvert uppgjörstímabil miðað við fjölda seldra gistináttaeininga.
- □ [Uppgjörstímabil gistináttaskatts skulu vera þau sömu og uppgjörstímabil virðisaukaskatts hjá skattaðila, sbr. "24":1988050.html#g24. og "31. gr. laga nr. 50/1988":1988050.html#g31, um virðisaukaskatt.][^1)^] Gjalddagi er fimmti dagur annars mánaðar eftir lok uppgjörstímabils. Beri gjalddaga upp á helgidag eða almennan frídag færist hann yfir á næsta virka dag á eftir. Eigi síðar en á gjalddaga skulu skattskyldir aðilar ótilkvaddir skila innheimtumanni ríkissjóðs skýrslu um fjölda seldra gistináttaeininga á uppgjörstímabilinu og standa skil á greiðslu skattsins.
+ □ [Uppgjörstímabil gistináttaskatts skulu vera þau sömu og uppgjörstímabil virðisaukaskatts hjá skattaðila, sbr. "24":1988050.html#G24. og "31. gr. laga nr. 50/1988":1988050.html#G31, um virðisaukaskatt.][^1)^] Gjalddagi er fimmti dagur annars mánaðar eftir lok uppgjörstímabils. Beri gjalddaga upp á helgidag eða almennan frídag færist hann yfir á næsta virka dag á eftir. Eigi síðar en á gjalddaga skulu skattskyldir aðilar ótilkvaddir skila innheimtumanni ríkissjóðs skýrslu um fjölda seldra gistináttaeininga á uppgjörstímabilinu og standa skil á greiðslu skattsins.
  □ Skýrslur vegna gistináttaskatts skulu vera á því formi sem ríkisskattstjóri ákveður.
-    _[^1)^]L. 164/2011, 36. gr._
+    _[^1)^]"L. 164/2011, 36. gr.":/altext/stjt/2011.164.html_
  ■ *6. gr.* _Viðurlög._
  □ Sé gistináttaskatti ekki skilað á réttum tíma skal skattskyldur aðili sæta álagi til viðbótar skatti samkvæmt skýrslu um fjölda seldra gistináttaeininga. Álag skal vera 1% af þeirri fjárhæð sem vangreidd er fyrir hvern byrjaðan dag eftir gjalddaga, þó verður það ekki hærra en 10%.
  □ Sé skatti ekki skilað innan mánaðar frá gjalddaga skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er.

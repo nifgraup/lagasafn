@@ -7,9 +7,9 @@ h2. Lög um vörur unnar úr eðalmálmum
 <hr />
 
 
- *Tóku gildi 1. júlí 2002.* _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), l. 34/2007 (tóku gildi 30. mars 2007), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l. 162/2010 (tóku gildi 1. jan. 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. júlí 2002.* _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), "l. 34/2007":/altext/stjt/2007.034.html (tóku gildi 30. mars 2007), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -24,10 +24,10 @@ h2. Lög um vörur unnar úr eðalmálmum
     3. _Hreinleikastimpill:_ Stimpill sem sýnir skýrlega hversu mikið magn af hreinu gulli, silfri, platínu eða palladíum er í viðkomandi vöru.
     4. _Eftirlitsstimpill:_ Opinber stimpill sem staðfestir hreinleika eðalmálma.
     5. _Eðalmálmar:_ Gull sem inniheldur 375 þúsundhluta eða meira af hreinu gulli, silfur sem inniheldur 800 þúsundhluta eða meira af hreinu silfri, platína sem inniheldur 850 þúsundhluta eða meira af hreinni platínu og palladíum sem inniheldur 500 þúsundhluta eða meira af hreinu palladíum.
-    _[^1)^]_"L. 62/2005, 13. gr.":2005062.html#g13
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13_
  ■ *3. gr.* _Yfirstjórn._
  □ [Ráðherra][^1)^] fer með yfirstjórn samkvæmt lögum þessum.
-    _[^1)^]L. 126/2011, 344. gr._
+    _[^1)^]"L. 126/2011, 344. gr.":/altext/stjt/2011.126.html_
 
  *II. kafli.* *Notkun ábyrgðarstimpla.*
  ■ *4. gr.* _Merkingar á vörum._
@@ -39,7 +39,7 @@ h2. Lög um vörur unnar úr eðalmálmum
  □ Framleiðandi vöru sem unnin er úr eðalmálmum ber ábyrgð á að varan sé stimpluð í samræmi við lög þessi. Ef um innflutta vöru er að ræða hvílir ábyrgðin á innflytjanda hennar.
  ■ *6. gr.* _Opinber staðfesting._
  □ [Neytendastofa][^1)^] getur falið opinberum aðila eða faggiltri prófunarstofu að mæla og staðfesta hreinleika málma sem lög þessi taka til. Hún getur útbúið eftirlitsstimpil sem viðkomandi aðili notar til að staðfesta hreinleika málmanna. Framleiðandi og innflytjandi geta þá óskað eftir slíkri staðfestingu. Vara sem ber slíkan stimpil þarf ekki að bera nafnastimpil.
-    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13_
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13_
  ■ *7. gr.* _Vörur frá Evrópska efnahagssvæðinu._
  □ Hreinleikastimplar sem notaðir eru í ríkjum innan Evrópska efnahagssvæðisins eru jafngildir innlendum hreinleikastimplum, enda sé opinbert eftirlit með hreinleika eðalmálma sambærilegt eftirliti hér landi. Sama gildir um opinbera eftirlitsstimpla frá ríkjum innan Evrópska efnahagssvæðisins.
  □ Nafnastimplar frá ríkjum innan Evrópska efnahagssvæðisins eru jafngildir innlendum nafnastimplum ef unnt er að rekja hver framleiðandi vörunnar er og hann getur sýnt fram á rétt sinn til að nota nafnastimpilinn.
@@ -53,17 +53,17 @@ h2. Lög um vörur unnar úr eðalmálmum
     6. Vörur sem óumdeilanlega geta talist fornmunir.
  □ Heimilt er að undanþiggja aðrar vörur en þær sem tilgreindar eru í 1. mgr. ákvæðum 4. gr. séu merkingar samkvæmt þeirri grein ekki taldar nauðsynlegar til að tryggja vernd neytenda.
  □ Ef ekki er unnt að stimpla vöru án þess að skaða hana má staðfesta hreinleika hennar með vottorði sem [Neytendastofa][^1)^] eða aðili á hennar vegum, sbr. 6. gr., gefur út.
-    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13_
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13_
 
  *III. kafli.* *Eftirlit og gjaldtaka.*
  ■ *9. gr.* _Eftirlit [Neytendastofu].[^1)^]_
  □ [Neytendastofa][^1)^] skal hafa eftirlit með framkvæmd laga þessara og reglugerða sem settar eru samkvæmt þeim. Skal [Neytendastofa][^1)^] halda skrá yfir alla nafnastimpla sem hún viðurkennir.[^2)^]
  □ [Neytendastofu][^1)^] er heimilt með samningi að fela faggiltri skoðunarstofu, sem hlotið hefur faggildingu í samræmi við gildandi lög og reglugerðir um starfsemi faggiltra óháðra skoðunarstofa, að annast á sína ábyrgð markaðseftirlit með vörum sem lögin taka til.
-    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]Rg. 452/2002._
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13 [^2)^]"Rg. 452/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/452-2002._
  ■ *10. gr.* _Heimildir [Neytendastofu].[^1)^]_
  □ [Neytendastofu][^1)^] og faggiltum skoðunarstofum, sbr. 2. mgr. 9. gr., er heimill aðgangur að starfsstöðvum framleiðenda, innflytjenda og seljenda vara sem unnar eru úr eðalmálmum vegna eftirlits á grundvelli laga þessara.
  □ Framleiðanda, innflytjanda og seljanda vöru er skylt að kröfu [Neytendastofu][^1)^] og faggiltra skoðunarstofa, sbr. 9. gr., að veita allar upplýsingar og afhenda vörur til skoðunar eða prófunar, svo og hluti eða gögn sem nauðsynleg eru til að staðreyna að fylgt sé ákvæðum laga þessara.
-    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13_
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13_
  ■ *11. gr.* _Úrræði [Neytendastofu].[^1)^]_
  □ Komi í ljós að vara uppfyllir ekki þær kröfur sem mælt er fyrir um í lögum þessum eða reglugerðum settum samkvæmt þeim getur [Neytendastofa][^1)^] bannað sölu hennar. Sé um að ræða rökstuddan grun um brot getur [Neytendastofa][^1)^] bannað sölu á viðkomandi vöru tímabundið.
  □ Framleiðandi, innflytjandi eða seljandi, eftir því sem við á, skal bera þann kostnað sem hlotist getur vegna aðgerða [Neytendastofu][^1)^] skv. 1. mgr.
@@ -72,19 +72,19 @@ h2. Lög um vörur unnar úr eðalmálmum
  □ Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um Neytendastofu og talsmann neytenda.
  □ Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður áfrýjunarnefndar neytendamála liggur fyrir.
  □ Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.][^2)^]
-    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]L. 34/2007, 7. gr._
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13 [^2)^]"L. 34/2007, 7. gr.":/altext/stjt/2007.034.html_
  ■ *12. gr.* _Gjaldtaka._
  □ Fyrir viðurkenningu og skráningu á nafnastimpli, sbr. 2. tölul. 2. gr., skal greiða [Neytendastofu][^1)^] 10.000 kr. Einstaklingar eða lögaðilar sem flytja inn, framleiða og/eða selja vörur sem falla undir þessi lög skulu greiða [Neytendastofu][^1)^] 12.000 kr. á ári vegna eftirlits stofnunarinnar samkvæmt lögunum, auk kostnaðar vegna sýnatöku og greiningar sýna. Ef sami einstaklingur eða lögaðili hefur fleiri en eina starfsstöð skal hann greiða gjald vegna hverrar starfsstöðvar. Gjaldið skal greitt 1. febrúar ár hvert fyrir síðasta almanaksár. Ef eftirlitsskyldur aðili hefur starfsemi á gjaldárinu skal gjaldið ákvarðað í hlutfalli við þann tíma sem starfsemin hefur varað á árinu. Aðför má gera til fullnustu kröfum vegna gjaldsins án undangengins dóms, úrskurðar eða sáttar. Gjöld samkvæmt þessari málsgrein skulu renna beint til [Neytendastofu].[^1)^]
  □ Leiði eftirlit í ljós að vörur uppfylla ekki skilyrði laga þessara greiðir viðkomandi framleiðandi, innflytjandi eða seljandi allan útlagðan kostnað sem hlýst af nauðsynlegri viðbótarrannsókn, svo sem kostnað við sýnatöku og greiningu sýna, ferðakostnað og annan kostnað sem er í beinum og efnislegum tengslum við eftirlitið.
  □ Sá sem óskar staðfestingar á hreinleika málma, sbr. 6. gr., skal greiða þeim er þjónustuna veitir gjald sem nemur þeim kostnaði sem felst í því að veita þjónustuna, svo sem vegna tækjakosts og mannafla.
-    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13_
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13_
 
  *IV. kafli.* *Ýmis ákvæði.*
  ■ *13. gr.* _Viðurlög._
  □ Fyrir brot á lögum þessum skal refsa með sektum eða varðhaldi liggi ekki þyngri refsing við brotinu samkvæmt öðrum lögum. Dæma má jafnt lögaðila sem einstakling til greiðslu sekta vegna brota á lögunum. Lögaðila má ákvarða sekt án tillits til þess hvort sök verði sönnuð á starfsmann lögaðilans.
  ■ *14. gr.* _Reglugerð._
  □ [Ráðherra][^1)^] skal í reglugerð[^2)^] kveða nánar á um framkvæmd laganna. Þar má m.a. mæla fyrir um hvernig stimplar samkvæmt lögunum skuli notaðir, gerð þeirra og útlit, kröfur til hreinleika málma, heimild til að blanda saman eðalmálmum og öðrum málmum eða efnum við framleiðslu á vörum og notkun hreinleikastimpla á slíkar vörur, notkun íblöndunarefna og eftirlit.
-    _[^1)^]L. 98/2009, 62. gr. [^2)^]Rg. 938/2002._
+    _[^1)^]"L. 98/2009, 62. gr.":/altext/stjt/2009.098.html [^2)^]"Rg. 938/2002":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/938-2002._
  ■ *15. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. júlí 2002.
 

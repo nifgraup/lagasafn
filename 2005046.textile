@@ -9,7 +9,7 @@ h2. Lög um fjárhagslegar tryggingarráðstafanir
 
  *Tóku gildi 30. maí 2005.* _EES-samningurinn:_ XII. viðauki tilskipun 2002/47/EB.
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -19,14 +19,14 @@ h2. Lög um fjárhagslegar tryggingarráðstafanir
     1. Opinber stjórnvöld, þ.m.t. stjórnvöld sem eru ábyrg fyrir eða taka þátt í umsjón með opinberri skuldbindingu eða færa reikninga fyrir viðskiptamenn, að undanskildum fyrirtækjum með ríkisábyrgð sem ekki falla undir 2. - 6. tölul.
     2. Seðlabankar, Seðlabanki Evrópu, Alþjóðagreiðslubankinn, Alþjóðabankinn, Alþjóðalánastofnunin, Þróunarbanki Ameríkuríkja, Þróunarbanki Asíu, Þróunarbanki Afríku, Viðreisnarsjóður Evrópuráðsins, Norræni fjárfestingarbankinn, Þróunarbanki Mið- Ameríkuríkja, Endurreisnar- og þróunarbanki Evrópu, Fjárfestingarsjóður Evrópu, Fjárfestingarlánastofnun Ameríkuríkja, Alþjóðagjaldeyrissjóðurinn og Fjárfestingarbanki Evrópu.
     3. Eftirfarandi starfsleyfisskyldar stofnanir sem háðar eru opinberu eftirliti:
-    a. fjármálafyrirtæki, sbr. "4. gr. laga nr. 161/2002":2002161.html#g4, um fjármálafyrirtæki,
+    a. fjármálafyrirtæki, sbr. "4. gr. laga nr. 161/2002":2002161.html#G4, um fjármálafyrirtæki,
     b. vátryggingafélög og líftryggingafélög, sbr. "lög nr. 60/1994":1994060.html, um vátryggingastarfsemi,
     c. verðbréfasjóðir, sbr. 1. tölul. "2. gr. laga nr. 30/2003":2003030.html, um verðbréfasjóði og fjárfestingarsjóði,
     d. lánastofnanir, fjárfestingarfyrirtæki, fjármálastofnanir, vátryggingafélög, líftryggingafélög, fyrirtæki um sameiginlega fjárfestingu í framseljanlegum verðbréfum og rekstrarfélög verðbréfasjóða sem hafa staðfestu og starfsleyfi í öðru ríki á Evrópska efnahagssvæðinu.
-    4. Milligönguaðili, uppgjörsaðili og greiðslujöfnunarstöð, sbr. "2. gr. laga nr. 90/1999":1999090.html#g2, um öryggi greiðslufyrirmæla í greiðslukerfum, sambærilegar stofnanir sem starfa samkvæmt landslögum í tengslum við markaði með staðlaða framvirka samninga, valrétti og afleiður, og sambærilegar erlendar stofnanir sem hafa staðfestu og starfsleyfi í öðru ríki á Evrópska efnahagssvæðinu.
+    4. Milligönguaðili, uppgjörsaðili og greiðslujöfnunarstöð, sbr. "2. gr. laga nr. 90/1999":1999090.html#G2, um öryggi greiðslufyrirmæla í greiðslukerfum, sambærilegar stofnanir sem starfa samkvæmt landslögum í tengslum við markaði með staðlaða framvirka samninga, valrétti og afleiður, og sambærilegar erlendar stofnanir sem hafa staðfestu og starfsleyfi í öðru ríki á Evrópska efnahagssvæðinu.
     5. Lögaðili sem starfar við eignaumsýslu eða í umboði annars eða annarra, þ.m.t. kröfuhafa eða stofnana skv. 1. - 5. tölul.
     6. Lögaðili, sem ekki fellur undir 1. - 5. tölul., ef gagnaðili samningsins er stofnun eða lögaðili sem fellur undir 1. - 5. tölul.
-■ *2. gr.* _Skilgreiningar._
+ ■ *2. gr.* _Skilgreiningar._
  □ Merking hugtaka í lögum þessum er sem hér segir:
     1. _Fjármálagerningur:_ Verðbréf, afleiður, hlutdeildarskírteini, peningamarkaðsskjöl og framseljanleg veðréttindi í fasteignum og lausafé, sbr. 2. tölul. "2. gr. laga nr. 33/2003":2003033.html, um verðbréfaviðskipti, að undanskildum eigin hlutabréfum tryggingarveitanda, hlutabréfum hans í móðurfélagi eða dótturfélagi og óskráðum hlutabréfum hans í félögum sem eingöngu er ætlað að eiga fasteignir.
     2. _Fjárskuldbindingar:_ Skuldbindingar sem tilgreint er í samningi um fjárhagslega tryggingarráðstöfun að beri að efna að viðlögðum vanefndaúrræðum sem felast í rétti til að ganga að fjárhagslegri tryggingu.
@@ -40,7 +40,7 @@ h2. Lög um fjárhagslegar tryggingarráðstafanir
     10. _Tryggingarhafi:_ Sá sem öðlast full eignarréttindi yfir eða veðréttindi í fjárhagslegri tryggingu.
     11. _Tryggingarveitandi:_ Sá sem framselur eða veðsetur fjárhagslega tryggingu.
     12. _Viðbótartrygging:_ Fjárhagsleg trygging sem látin er í té samkvæmt ákvæðum samnings um fjárhagslega tryggingarráðstöfun til samræmis við breytingar á verðgildi upphaflegrar tryggingar eða á fjárhæð tryggðra skuldbindinga.
-■ *3. gr.* _Eðli fjárhagslegra tryggingarráðstafana._
+ ■ *3. gr.* _Eðli fjárhagslegra tryggingarráðstafana._
  □ Heimilt er að gera samning um fjárhagslega tryggingarráðstöfun samkvæmt lögum þessum í formi framsals eignarréttinda yfir fjárhagslegri tryggingu eða í formi veðsetningar á fjárhagslegri tryggingu til tryggingar efndum á fjárhagslegum skuldbindingum sem tilgreindar eru í samningnum.
  □ Andlag fjárhagslegrar tryggingar skv. 1. mgr. getur verið reiðufé eða fjármálagerningur.
  ■ *4. gr.* _Sönnun um tilvist skuldbindinga og réttinda._
@@ -57,7 +57,7 @@ h2. Lög um fjárhagslegar tryggingarráðstafanir
  □ Fjárhagslegum tryggingum, viðbótartryggingum og staðgöngutryggingum verður ekki hnekkt eingöngu vegna þess að:
     1. þær hafi verið látnar í té sama dag en áður en kveðinn er upp úrskurður um heimild til greiðslustöðvunar eða nauðasamningsumleitana eða um gjaldþrotaskipti,
     2. viðkomandi fjárskuldbindingar hafi stofnast áður en tryggingin, viðbótartryggingin eða staðgöngutryggingin var látin í té.
-■ *7. gr.* _Skuldajöfnuður til uppgjörs._
+ ■ *7. gr.* _Skuldajöfnuður til uppgjörs._
  □ Ákvæði um heimild til skuldajafnaðar til uppgjörs í samningi um fjárhagslega tryggingarráðstöfun heldur gildi sínu þrátt fyrir uppkvaðningu úrskurðar um heimild til greiðslustöðvunar eða nauðasamningsumleitana eða um gjaldþrotaskipti, enda hafi samningurinn verið gerður fyrir uppkvaðningu úrskurðarins. Hið sama gildir um framsal eða stofnun takmarkaðra eignarréttinda í þeim skuldbindingum sem skuldajafnaðarréttur nær til samkvæmt samningi aðila.
  ■ *8. gr.* _Fullnustuaðferðir._
  □ Í samningi um fjárhagslega tryggingarráðstöfun geta aðilar samið um hvernig ganga skuli að tryggingunni til fullnustu vanefndra fjárskuldbindinga. Fullnustan getur m.a. farið fram með þeim hætti að:
@@ -66,7 +66,7 @@ h2. Lög um fjárhagslegar tryggingarráðstafanir
     3. tryggingarhafi taki fjármálagerninga til eignar, enda sé samið um aðferð við verðmat á fjármálagerningunum í samningnum.
  □ Aðilar geta samið um að tryggingarhafa sé heimilt að ganga að tryggingunni til fullnustu vanefndra fjárskuldbindinga án sérstaks fyrirvara, án atbeina yfirvalda og án þess að fylgt sé formlegri málsmeðferð.
  ■ *9. gr.* _Góðir viðskiptahættir._
- □ Ákvæði í samningi um fjárhagslega tryggingarráðstöfun er varðar verðmat fjárhagslegrar tryggingar, verðmat fjárskuldbindinga og fullnustu fjárskuldbindinga má víkja til hliðar í heild eða að hluta, eða breyta, ef það yrði talið ósanngjarnt eða andstætt góðri viðskiptavenju að bera ákvæðið fyrir sig, sbr. "36. gr. laga nr. 7/1936":1936007.html#g36, um samningsgerð, umboð og ógilda löggerninga.
+ □ Ákvæði í samningi um fjárhagslega tryggingarráðstöfun er varðar verðmat fjárhagslegrar tryggingar, verðmat fjárskuldbindinga og fullnustu fjárskuldbindinga má víkja til hliðar í heild eða að hluta, eða breyta, ef það yrði talið ósanngjarnt eða andstætt góðri viðskiptavenju að bera ákvæðið fyrir sig, sbr. "36. gr. laga nr. 7/1936":1936007.html#G36, um samningsgerð, umboð og ógilda löggerninga.
  ■ *10. gr.* _Sérregla um lagaskil._
  □ Nú felur samningur um fjárhagslega tryggingarráðstöfun í sér veðsetningu á fjármálagerningi sem skráð er rafrænni eignarskráningu og fer þá um slíka veðsetningu eftir lögum þess ríkis þar sem viðkomandi veðsetning er skráð á reikningi að því er varðar lagalegt eðli og réttaráhrif veðsetningarinnar, stofnun veðréttindanna og skráningu þeirra, réttarvernd gagnvart þriðja aðila, rétthæð skráðra réttinda og framkvæmd fullnustu.
  ■ *11. gr.* _Reglugerð._

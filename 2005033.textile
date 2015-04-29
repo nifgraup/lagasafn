@@ -31,14 +31,14 @@ h2. Lög um fjarsölu á fjármálaþjónustu
     6. _Varanlegur miðill:_ tæki sem gerir neytanda kleift að geyma upplýsingar, sem beint er til hans, óbreyttar þannig að hann geti afritað þær og flett upp í þeim í ákveðinn tíma.
 
  *II. kafli.* *Upplýsingaskylda.*
-■ *5. gr.* _Upplýsingar um þjónustuveitanda._
+ ■ *5. gr.* _Upplýsingar um þjónustuveitanda._
  □ Eftirfarandi upplýsingar skal veita neytanda með hæfilegum fyrirvara áður en hann er bundinn af fjarsölusamningi eða tilboði:
     1. Nafn, kennitölu, aðalstarfsemi og heimilisfang þjónustuveitanda þar sem hann hefur staðfestu og hvert það heimilisfang annað sem máli skiptir varðandi tengsl viðskiptavinarins við þjónustuveitandann.
     2. Nafn, kennitölu og heimilisfang fulltrúa þjónustuveitanda í því ríki þar sem neytandi hefur búsetu.
     3. Nafn, kennitölu og heimilisfang miðlara, umboðsmanns eða annars milliliðar sem kemur fram fyrir hönd þjónustuveitanda og tengsl hans við þjónustuveitanda.
     4. Þá opinberu skrá sem þjónustuveitandi er skráður í, svo sem fyrirtækjaskrá, hlutafélagaskrá, samvinnufélagaskrá, firmaskrá eða skrár Fjármálaeftirlitsins.
     5. Eftirlitsstjórnvald ef starfsemi þjónustuveitanda er háð leyfi.
-■ *6. gr.* _Upplýsingar um fjármálaþjónustu._
+ ■ *6. gr.* _Upplýsingar um fjármálaþjónustu._
  □ Eftirfarandi upplýsingar og tilkynningar skal veita neytanda með hæfilegum fyrirvara áður en hann er bundinn af fjarsölusamningi eða tilboði:
     1. Lýsingu á helstu einkennum fjármálaþjónustunnar.
     2. Tilkynningu um sérstaka áhættu sem tengist fjármálaþjónustunni, þar með talið að verð sé háð sveiflum á fjármálamörkuðum og að upplýsingar um fyrri verðþróun eða árangur gefi ekki vísbendingu um þróun til framtíðar.
@@ -47,7 +47,7 @@ h2. Lög um fjarsölu á fjármálaþjónustu
     5. Sérstakan viðbótarkostnað vegna notkunar fjarskiptaaðferðar.
     6. Fyrirkomulag greiðslu og samningsefnda.
     7. Takmarkanir á gildistíma veittra upplýsinga.
-■ *7. gr.* _Upplýsingar um fjarsölusamning._
+ ■ *7. gr.* _Upplýsingar um fjarsölusamning._
  □ Eftirfarandi upplýsingar og tilkynningar skal veita neytanda með hæfilegum fyrirvara áður en hann er bundinn af fjarsölusamningi eða tilboði:
     1. Hvort réttur til að falla frá samningi sé fyrir hendi.
     2. Frest til að nýta sér rétt til að falla frá samningi, fjárhæðina sem neytandi getur þurft að greiða við nýtingu réttarins og önnur skilyrði fyrir að nýta sér réttinn, afleiðingar þess að rétturinn er ekki nýttur auk hagnýtra leiðbeininga um hvernig megi nýta rétt til að falla frá samningi.
@@ -56,11 +56,11 @@ h2. Lög um fjarsölu á fjármálaþjónustu
     5. Lög hvaða lands liggja til grundvallar tengslum þjónustuveitanda við neytanda.
     6. Hvort og þá hvaða ákvæði eru fyrir hendi í samningnum um hvaða lög gilda um fjarsölusamninginn og varnarþing.
     7. Á hvaða tungumáli upplýsingar og samningsskilmálar verða sendir á varanlegum miðli, sbr. 10. gr., og á hvaða tungumáli þjónustuveitandi mun hafa samskipti við neytanda.
-■ *8. gr.* _Upplýsingar um réttarúrræði._
+ ■ *8. gr.* _Upplýsingar um réttarúrræði._
  □ Eftirfarandi upplýsingar og tilkynningar skal veita neytanda með hæfilegum fyrirvara áður en hann er bundinn af fjarsölusamningi eða tilboði:
     1. Hvort neytandi hafi aðgang að réttarúrræðum, öðrum en málshöfðun fyrir dómstólum, og þá hvernig neytandi getur nýtt sér þau.
     2. Hvort fyrir hendi séu tryggingakerfi til hagsbóta fyrir neytendur, önnur en Tryggingarsjóður innstæðueigenda og fjárfesta.
-■ *9. gr.* _Upplýsingar við sölu eða markaðssetningu í síma._
+ ■ *9. gr.* _Upplýsingar við sölu eða markaðssetningu í síma._
  □ Við sölu eða markaðssetningu í síma skal nafn þess sem hefur samband við neytanda koma skýrt fram í upphafi símtals, ásamt upplýsingum um hver þjónustuveitandi er og að tilgangur símtalsins sé viðskiptalegs eðlis.
  □ Ef neytandi gefur skýrt samþykki sitt þarf þjónustuveitandi einungis að veita eftirfarandi upplýsingar:
     1. Nafn þess sem hefur samband við neytandann og tengsl hans við þjónustuveitanda.
@@ -83,7 +83,7 @@ h2. Lög um fjarsölu á fjármálaþjónustu
     a. þá fjármálaþjónustu sem getur sveiflast í verði innan frestsins skv. 11. gr., eftir verðbreytingum á fjármálamörkuðum, án þess að þjónustuveitandi hafi stjórn þar á,
     b. ferða- og farangurstryggingar eða aðrar sambærilegar vátryggingar sem hafa skemmri gildistíma en einn mánuð,
     c. þá samninga sem hafa verið efndir að fullu af báðum samningsaðilum að ósk neytanda.
-■ *13. gr.* _Tengdir samningar._
+ ■ *13. gr.* _Tengdir samningar._
  □ Nú er fjarsölusamningur tengdur öðrum fjarsölusamningi um vöru eða þjónustu á milli neytanda og þjónustuveitanda og fellur þá síðarnefndi samningurinn úr gildi án nokkurra afleiðinga fyrir neytanda ef hann nýtir sér rétt til að falla frá fyrrnefnda fjarsölusamningnum. Sama gildir ef fjarsölusamningur er tengdur öðrum fjarsölusamningi um vöru eða þjónustu á milli neytanda og þriðja manns sem þriðji maður er aðili að á grundvelli samnings á milli hans og þjónustuveitanda.
  ■ *14. gr.* _Greiðsla fyrir veitta þjónustu._
  □ Ef neytandi nýtir sér rétt sinn til að falla frá samningi getur þjónustuveitandi krafið neytanda um greiðslu fyrir þá þjónustu sem þegar hefur verið innt af hendi, enda hafi hún verið innt af hendi að ósk neytanda áður en liðinn var frestur til að nýta rétt til að falla frá samningi og neytandi hefur sannanlega fengið í hendur upplýsingar um fjárhæðina sem hann gæti þurft að greiða við að nýta sér réttinn, sbr. 2. tölul. 7. gr.
@@ -94,7 +94,7 @@ h2. Lög um fjarsölu á fjármálaþjónustu
 
  *IV. kafli.* *Ýmis ákvæði.*
  ■ *16. gr.* ...[^1)^]
-    _[^1)^]"L. 120/2011, 81. gr.":2011120.html#g81_
+    _[^1)^]"L. 120/2011, 81. gr.":/altext/stjt/2011.120.html#G81_
  ■ *17. gr.* _Óumbeðin þjónusta._
  □ Nú veitir þjónustuveitandi neytanda fjármálaþjónustu án beiðni þar að lútandi frá neytanda og er neytanda þá ekki skylt að greiða fyrir þjónustuna. Tómlæti neytanda verður ekki túlkað sem samþykki fyrir þjónustu.
  ■ *18. gr.* _Bann við notkun tiltekinna fjarskiptaaðferða._
@@ -113,7 +113,7 @@ h2. Lög um fjarsölu á fjármálaþjónustu
  □ Lög þessi eru sett með hliðsjón af ákvörðun sameiginlegu EES-nefndarinnar nr. 47/2003 um breytingu á IX. viðauka og XIX. viðauka við EES-samninginn frá 16. maí 2003 og til þess að taka upp í innlendan rétt ákvæði tilskipunar Evrópuþingsins og ráðsins 2002/65/EB frá 23. september 2002 varðandi fjarsölu á fjármálaþjónustu fyrir neytendur og um breytingu á tilskipun ráðsins 90/619/EBE og á tilskipunum 97/7/EB og 98/27/EB.
  ■ *23. gr.* _Gildistaka._
  □ Lög þessi öðlast gildi 1. júní 2005.
- ■ *24. gr.* ...
+ ■ *24. gr.* "...":http://www.althingi.is/vefur/lagas-hlp.html
 
 
 

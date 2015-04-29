@@ -6,11 +6,11 @@ h2. [Lög um öryggi fyrirmæla í greiðslukerfum og verðbréfauppgjörskerfum
 
 <hr />
 
-   _[^1)^]L. 159/2012, 10. gr._
+   _[^1)^]"L. 159/2012, 10. gr.":/altext/stjt/2012.159.html_
 
- *Tóku gildi 10. desember 1999.* _EES-samningurinn:_ IX. viðauki tilskipun 98/26/EB. _Breytt með_ l. 159/2012 (tóku gildi 3. jan. 2013; _EES-samningurinn:_ IX. viðauki tilskipun 98/26/EB, tilskipun 2009/44/EB).
+ *Tóku gildi 10. desember 1999.* _EES-samningurinn:_ IX. viðauki tilskipun 98/26/EB. _Breytt með_ "l. 159/2012":/altext/stjt/2012.159.html (tóku gildi 3. jan. 2013; _EES-samningurinn:_ IX. viðauki tilskipun 98/26/EB, tilskipun 2009/44/EB).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -18,7 +18,7 @@ h2. [Lög um öryggi fyrirmæla í greiðslukerfum og verðbréfauppgjörskerfum
  *I. kafli.* *Gildissvið og skilgreiningar.*
  ■ *1. gr.* [Markmið þessara laga er að tryggja öryggi í uppgjöri viðskipta í greiðslukerfum og verðbréfauppgjörskerfum.
  □ Lög þessi gilda um greiðslukerfi og verðbréfauppgjörskerfi sem rekin eru hér á landi og tilkynnt hafa verið í samræmi við ákvæði 3. gr.][^1)^]
-    _[^1)^]L. 159/2012, 1. gr._
+    _[^1)^]"L. 159/2012, 1. gr.":/altext/stjt/2012.159.html_
  ■ *2. gr.* Í lögum þessum merkir:
     1. _[Kerfi:_ Greiðslukerfi og verðbréfauppgjörskerfi sem uppfyllir eftirtalin skilyrði:
     a. Þátttakendur eru þrír eða fleiri, að undanskildum kerfisstjóra þess kerfis, mögulegum uppgjörsaðila, milligönguaðila, greiðslujöfnunarstöð og óbeinum þátttakanda.
@@ -26,7 +26,7 @@ h2. [Lög um öryggi fyrirmæla í greiðslukerfum og verðbréfauppgjörskerfum
     c. Þátttakendur hafa komið sér saman um að íslensk lög skuli gilda um kerfið, enda hafi a.m.k. einn þátttakendanna aðalskrifstofu sína hér á landi.
     d. Kerfið fullnægir lagaskilyrðum og hefur verið tilkynnt til Eftirlitsstofnunar EFTA (ESA), sbr. 2. mgr. 3. gr.][^1)^]
     2. _[Stofnun:_ Eftirtaldir aðilar sem taka þátt í kerfi og bera ábyrgð á framkvæmd fyrirmæla innan þess:
-    a. Fjármálafyrirtæki sem hlotið hafa starfsleyfi skv. "4. gr. laga nr. 161/2002":2002161.html#g4, um fjármálafyrirtæki.
+    a. Fjármálafyrirtæki sem hlotið hafa starfsleyfi skv. "4. gr. laga nr. 161/2002":2002161.html#G4, um fjármálafyrirtæki.
     b. Seðlabanki Íslands, Íbúðalánasjóður eða stofnun með ríkisábyrgð.
     c. Fyrirtæki með höfuðstöðvar utan Evrópska efnahagssvæðisins er annast sams konar starfsemi og fjármálafyrirtæki skv. a-lið.][^1)^]
     3. _Milligönguaðili:_ Aðili sem hefur milligöngu fyrir stofnun í [kerfi][^1)^] og hefur einkarétt á miðlun [fyrirmæla][^1)^] viðkomandi stofnunar.
@@ -41,22 +41,22 @@ h2. [Lög um öryggi fyrirmæla í greiðslukerfum og verðbréfauppgjörskerfum
     10. _[Óbeinn þátttakandi:_ Stofnun, milligönguaðili, greiðslujöfnunarstöð, uppgjörsaðili eða kerfisstjóri með samningssamband við þátttakanda í kerfi sem gerir óbeinum þátttakanda kleift að senda fyrirmæli í gegnum kerfið, að því tilskildu að kerfisstjóri þekki til hans.][^1)^]
     11. _Veðtryggingar:_ Allar seljanlegar eignir, þ.m.t. peningainnstæður, [fjármálagerningar, fjárhagsleg trygging samkvæmt "lögum nr. 46/2005":2005046.html, um fjárhagslegar tryggingarráðstafanir],[^1)^] og samningar um endurhverf viðskipti eða aðrir sambærilegir samningar sem gerðir eru eða lagðir fram til tryggingar í greiðslukerfi eða í seðlabönkum.
     12. _Seðlabanki:_ Seðlabanki í aðildarríki á Evrópska efnahagssvæðinu eða Seðlabanki Evrópu.
-    [13. _Fjármálagerningur:_ Fjármálagerningar sem taldir eru upp í 2. tölul. "2. gr. laga nr. 108/2007":2007108.html#g2, um verðbréfaviðskipti.
+    [13. _Fjármálagerningur:_ Fjármálagerningar sem taldir eru upp í 2. tölul. "2. gr. laga nr. 108/2007":2007108.html#G2, um verðbréfaviðskipti.
     14. _Kerfisstjóri:_ Sú eining eða einingar sem bera lagalega ábyrgð á rekstri kerfis. Kerfisstjóri getur jafnframt verið milligönguaðili, greiðslujöfnunarstöð eða uppgjörsaðili.
     15. _Rekstrarsamhæfð kerfi:_ Tvö eða fleiri kerfi þar sem kerfisstjórarnir hafa komið á fyrirkomulagi sín á milli sem felur í sér fullnustu fyrirmæla milli kerfa.
     16. _Viðskiptadagur:_ Nær yfir uppgjör að nóttu jafnt sem degi og tekur til allra atburða innan viðskiptalotu kerfis.][^1)^]
-    _[^1)^]L. 159/2012, 2. gr._
+    _[^1)^]"L. 159/2012, 2. gr.":/altext/stjt/2012.159.html_
  ■ *3. gr.* Seðlabanki Íslands gerir tillögu til ráðherra um [kerfi][^1)^] sem hann telur að fullnægi ákvæðum þessara laga og viðurkennt skal, sbr. 2. mgr., að fenginni umsókn þeirra aðila sem starfrækja [kerfi][^1)^] hér á landi.
  □ Ráðherra skal með auglýsingu sem birt er í Lögbirtingablaðinu kunngera þau innlendu [kerfi][^1)^] sem viðurkennd hafa verið og falla undir ákvæði þessara laga [og um hlutaðeigandi kerfisstjóra][^2)^] og senda tilkynningu þar um til eftirlitsstofnunar EFTA (ESA).
  □ Aðilum sem starfrækja [kerfi][^1)^] samkvæmt þessari grein er skylt að veita Seðlabanka Íslands upplýsingar um beina og óbeina þátttakendur sem aðild eiga að kerfinu, svo og breytingar á þeim.
  □ [Kerfisstjóra hvers kerfis er skylt að upplýsa Seðlabanka Íslands um það hvaða lög gilda um þátttakendur í kerfi hans, þ.m.t. óbeina þátttakendur, svo og um allar breytingar þar á.
  □ Að fenginni beiðni ber stofnun að upplýsa hvern þann sem lögmætra hagsmuna hefur að gæta um það í hvaða kerfum hún er þátttakandi og um helstu reglur um starfsemi kerfanna.][^2)^]
-    _[^1)^]L. 159/2012, 2. gr. [^2)^]L. 159/2012, 3. gr._
+    _[^1)^]"L. 159/2012, 2. gr.":/altext/stjt/2012.159.html [^2)^]"L. 159/2012, 3. gr.":/altext/stjt/2012.159.html_
  ■ *[3. gr. a.* Heimilt er að viðurkenna kerfi, sbr. 2. mgr. 3. gr., sem uppfylla skilyrði a- og b-liðar 1. tölul. 2. gr. og framkvæma fyrirmæli í verðbréfauppgjörskerfi og fyrirmæli sem tengjast öðrum fjármálagerningum, enda sé slík viðurkenning talin æskileg með tilliti til kerfisáhættu.
  □ Þrátt fyrir a-lið 1. tölul. 2. gr. er í sérstökum tilvikum heimilt að viðurkenna greiðslukerfi og verðbréfauppgjörskerfi þar sem þátttakendur eru tveir, að undanskildum mögulegum uppgjörsaðila, milligönguaðila, greiðslujöfnunarstöð og óbeinum þátttakanda, enda sé slík viðurkenning talin æskileg með tilliti til kerfisáhættu.][^1)^]
-    _[^1)^]L. 159/2012, 4. gr._
+    _[^1)^]"L. 159/2012, 4. gr.":/altext/stjt/2012.159.html_
  ■ *[3. gr. b.* Heimilt er að líta á óbeinan þátttakanda sem þátttakanda ef það er æskilegt með tilliti til kerfisáhættu, en það takmarkar ekki ábyrgð þátttakanda sem gerir óbeinum þátttakanda kleift að senda fyrirmæli í gegnum kerfi.][^1)^]
-    _[^1)^]L. 159/2012, 4. gr._
+    _[^1)^]"L. 159/2012, 4. gr.":/altext/stjt/2012.159.html_
 
  *II. kafli.* *Greiðslujöfnun og greiðslufyrirmæli.*
  ■ *4. gr.* Öll [fyrirmæli],[^1)^] svo og greiðslujöfnun, skulu vera að öllu leyti bindandi gagnvart þriðja manni, jafnvel þó að bú þátttakanda sem fyrirmælin gaf sé tekið til gjaldþrotaskipta, enda séu fyrirmælin komin til [kerfisins][^1)^] áður en úrskurður um gjaldþrot er kveðinn upp. [Þetta gildir með sama hætti um gjaldþrotaskiptameðferð þátttakanda, hvort heldur í hlutaðeigandi kerfi eða rekstrarsamhæfðu kerfi, og um gjaldþrotaskiptameðferð kerfisstjóra rekstrarsamhæfðs kerfis sem ekki er þátttakandi.][^1)^]
@@ -64,32 +64,32 @@ h2. [Lög um öryggi fyrirmæla í greiðslukerfum og verðbréfauppgjörskerfum
  □ Í [kerfum][^1)^] er skylt að skilgreina hvenær [fyrirmæli][^1)^] teljast vera komin til kerfisins og er afturköllun þeirra óheimil eftir tímamark það sem tiltekið er í reglum kerfisins.
  □ [Þegar rekstrarsamhæfð kerfi eiga í hlut skal hvert kerfi ákvarða í eigin reglum hvenær fyrirmæli teljast vera komin til þess kerfis, með þeim hætti að tryggt sé sem best samræmi meðal allra kerfanna sem eru rekstrarsamhæfð. Reglur einstakra kerfa um það hvenær fyrirmæli teljast vera komin til þeirra gilda óháð reglum kerfanna sem þau eru rekstrarsamhæfð, nema skýrt sé kveðið á um annað í reglum allra kerfanna sem eru rekstrarsamhæfð.
  □ Þegar rekstrarsamhæfð kerfi eiga í hlut skal hvert kerfi ákvarða í eigin reglum hvenær fyrirmæli verða óafturkallanleg, með þeim hætti að tryggt sé sem best samræmi meðal allra kerfanna sem eru rekstrarsamhæfð. Reglur einstakra kerfa um það hvenær fyrirmæli verða óafturkallanleg gilda óháð reglum kerfanna sem þau eru rekstrarsamhæfð, nema skýrt sé kveðið á um annað í reglum allra kerfanna sem eru rekstrarsamhæfð.][^1)^]
-    _[^1)^]L. 159/2012, 5. gr._
+    _[^1)^]"L. 159/2012, 5. gr.":/altext/stjt/2012.159.html_
  ■ *5. gr.* Uppgjörsaðili annast efndalok [fyrirmæla][^1)^] í [kerfi].[^2)^] Allar innstæður eða [fjármálagerninga][^1)^] á uppgjörsreikningum eða lántökuréttindi honum tengd er uppgjörsaðila heimilt að nota til uppgjörs skuldbindinga þátttakanda gagnvart [kerfi][^2)^] á þeim degi sem gjaldþrotaskipti hefjast, sbr. þó 2. mgr. 4. gr.
-    _[^1)^]L. 159/2012, 6. gr. [^2)^]L. 159/2012, 2. gr._
+    _[^1)^]"L. 159/2012, 6. gr.":/altext/stjt/2012.159.html [^2)^]"L. 159/2012, 2. gr.":/altext/stjt/2012.159.html_
 
  *III. kafli.* *Ákvæði er varða gjaldþrotaskipti.*
  ■ *6. gr.* Hafi bú stofnunar verið tekið til gjaldþrotaskipta skal héraðsdómari tilkynna það þegar í stað til Fjármálaeftirlitsins og Seðlabanka Íslands, með símskeyti, símbréfi eða rafrænum hætti, enda sé unnt að staðreyna og staðfesta efni og móttöku tilkynningarinnar. Í úrskurði um gjaldþrot, svo og tilkynningu um hann, skal koma fram nákvæm tilgreining þeirrar stundar er úrskurður var kveðinn upp um gjaldþrotaskipti á búi stofnunar. Tilkynningu sem gerð er samkvæmt þessari grein skal Fjármálaeftirlitið senda þegar í stað til hlutaðeigandi yfirvalda á Evrópska efnahagssvæðinu sem aðildarríkin hafa tilgreint sem móttakanda slíkra tilkynninga.
  ■ *7. gr.* Um réttindi og skyldur þátttakanda í [kerfi][^1)^] sem tekinn hefur verið til gjaldþrotaskipta skal fara eftir lögum sem gilda um hlutaðeigandi [kerfi].[^1)^]
-    _[^1)^]L. 159/2012, 2. gr._
+    _[^1)^]"L. 159/2012, 2. gr.":/altext/stjt/2012.159.html_
 
  *IV. kafli.* *Vernd veðréttinda gegn gjaldþrotaskiptum á búi veðþola.*
  ■ *8. gr.* [Gjaldþrotaskipti á búi þátttakanda, kerfisstjóra rekstrarsamhæfðs kerfis sem ekki er þátttakandi, milligönguaðila gagnvart seðlabanka eða sérhvers þriðja aðila sem leggur fram veðtryggingu skulu á engan hátt skerða rétt annarra þátttakenda, seðlabanka eða kerfisstjóra til veðtrygginga.][^1)^] Ávallt er heimilt að innleysa þegar í stað veðtryggingar samkvæmt þessari grein til fullnustu á kröfum annarra þátttakenda eða seðlabanka.
-    _[^1)^]L. 159/2012, 7. gr._
+    _[^1)^]"L. 159/2012, 7. gr.":/altext/stjt/2012.159.html_
  ■ *9. gr.* Um veðtryggingu sem veitt er í rafbréfum, eða erlendum [fjármálagerningum sem eru rafrænt skráðir][^1)^] á viðurkenndan hátt að lögum, skal að öllu leyti fara samkvæmt lögum þess ríkis þar sem rafræn skráning [fjármálagerninganna][^1)^] fer fram.
-    _[^1)^]L. 159/2012, 8. gr._
+    _[^1)^]"L. 159/2012, 8. gr.":/altext/stjt/2012.159.html_
 
  *V. kafli.* *Upplýsingagjöf vegna þátttöku í greiðslukerfi o.fl.*
  ■ *10. gr.* Þátttakandi í [kerfi][^1)^] skal upplýsa hvern þann sem þess óskar og hefur lögmætra hagsmuna að gæta um það í hvaða [kerfi][^1)^] hann tekur þátt og um helstu reglur sem gilda um starfsemi hlutaðeigandi kerfis.
-    _[^1)^]L. 159/2012, 2. gr._
+    _[^1)^]"L. 159/2012, 2. gr.":/altext/stjt/2012.159.html_
  ■ *11. gr.* Ráðherra getur með reglugerð kveðið nánar á um framkvæmd laga þessara.
  ■ *12. gr.* Um samning óbeins þátttakanda um aðild að [kerfi][^1)^] fer samkvæmt íslenskum lögum.
-    _[^1)^]L. 159/2012, 2. gr._
+    _[^1)^]"L. 159/2012, 2. gr.":/altext/stjt/2012.159.html_
 
  *VI. kafli.* *Gildistaka o.fl.*
  ■ *13. gr.* Lög þessi öðlast þegar gildi.
  □ [Með lögum þessum eru tekin upp í innlendan rétt ákvæði tilskipunar Evrópuþingsins og ráðsins 98/26/EB um endanlegt uppgjör í greiðslukerfum og uppgjörskerfum fyrir verðbréf eins og henni var breytt með tilskipun Evrópuþingsins og ráðsins 2009/44/EB. Tilskipun 98/26/EB var tekin upp í EES-samninginn með ákvörðun sameiginlegu EES-nefndarinnar nr. 53/1999 og tilskipun 2009/44/EB var tekin upp í EES-samninginn með ákvörðun sameiginlegu EES-nefndarinnar nr. 50/2010.][^1)^]
-    _[^1)^]L. 159/2012, 9. gr._
+    _[^1)^]"L. 159/2012, 9. gr.":/altext/stjt/2012.159.html_
 
 
 

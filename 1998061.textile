@@ -7,9 +7,9 @@ h2. Lög um dánarvottorð, krufningar o.fl.
 <hr />
 
 
- *Tóku gildi 1. janúar 1999.* _Breytt með_ l. 93/2002 (tóku gildi 31. maí 2002) og l. 28/2011 (tóku gildi 1. maí 2011).
+ *Tóku gildi 1. janúar 1999.* _Breytt með_ "l. 93/2002":/altext/stjt/2002.093.html (tóku gildi 31. maí 2002) og "l. 28/2011":/altext/stjt/2011.028.html (tóku gildi 1. maí 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *velferðarráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *velferðarráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -21,7 +21,7 @@ h2. Lög um dánarvottorð, krufningar o.fl.
  □ Andist maður á heilbrigðisstofnun ber læknir sá sem annaðist hinn látna á stofnuninni eða yfirlæknir viðkomandi deildar ábyrgð á að líkið verði skoðað.
  □ Andist maður utan heilbrigðisstofnunar skal læknir sá sem stundaði hinn látna í banalegunni skoða líkið.
  □ [Við óvænt dauðsföll eða ef ekki tekst að ná til læknis sem stundaði hinn látna í banalegunni skal tilkynna andlátið til yfirlæknis heilsugæslu sem ber þá ábyrgð á að líkið verði skoðað.][^1)^]
-    _[^1)^]L. 93/2002, 22. gr._
+    _[^1)^]"L. 93/2002, 22. gr.":/altext/stjt/2002.093.html_
  _Tilkynning til lögreglu._
  ■ *3. gr.* Læknir sem kvaddur er til vegna líkskoðunar skal gera lögreglu viðvart ef:
     1. ætla má að andlát tengist refsiverðu athæfi, sjálfsvígi eða andláti af völdum slyss,
@@ -30,7 +30,7 @@ h2. Lög um dánarvottorð, krufningar o.fl.
     4. maður andast í fangelsi eða á öðrum áþekkum stað eða
     5. ætla má að dauðsfall megi rekja til mistaka, vanrækslu eða óhappatilviks við læknismeðferð.
  _Réttarlæknisfræðileg líkskoðun._
-■ *4. gr.* Þegar lögreglu er gert viðvart um andlát ákveður hún hvort lík skuli skoða réttarlæknisfræðilega. Slík skoðun skal að jafnaði gerð nema:
+ ■ *4. gr.* Þegar lögreglu er gert viðvart um andlát ákveður hún hvort lík skuli skoða réttarlæknisfræðilega. Slík skoðun skal að jafnaði gerð nema:
     1. andlát beri að svo löngu eftir slys að lögregla telji slíka skoðun óþarfa í ljósi fyrirliggjandi upplýsinga eða
     2. lögregla og læknir eru sammála um að dauðdaginn hafi verið eðlilegur.
  □ Réttarlæknisfræðileg líkskoðun er gerð af lögreglu og lækni í sameiningu.
@@ -62,10 +62,10 @@ h2. Lög um dánarvottorð, krufningar o.fl.
  □ Sýslumaður afhendir venslamanni staðfestingu þess að andlát hafi verið tilkynnt og má ekki gera útför nema sá sem hana annast hafi fengið slíka staðfestingu.
  □ [Sýslumaður sendir dánarvottorð svo fljótt sem kostur er til Þjóðskrár Íslands. Jafnskjótt og andlát hefur verið skráð í þjóðskrá, ásamt nauðsynlegum upplýsingum, sendir Þjóðskrá Íslands dánarvottorðið til landlæknis.
  □ Hagstofa Íslands semur skýrslur um dánarorsakir og andvana fædd börn hér á landi. Landlæknir skal afhenda Hagstofunni þau gögn sem hún óskar eftir og nauðsynleg eru í þeim tilgangi.][^1)^]
-    _[^1)^]L. 28/2011, 16. gr._
+    _[^1)^]"L. 28/2011, 16. gr.":/altext/stjt/2011.028.html_
  _Tilkynningar vegna andvana fæddra barna._
  ■ *11. gr.* [Fæðist barn andvana skal ekki ritað dánarvottorð, en um það skal tilkynnt til Þjóðskrár Íslands og landlæknis.][^1)^]
-    _[^1)^]L. 28/2011, 16. gr._
+    _[^1)^]"L. 28/2011, 16. gr.":/altext/stjt/2011.028.html_
  _Flutningur líka úr landi._
  ■ *12. gr.* Nú er lík flutt úr landi og ber sá sem það flytur ábyrgð á að dánarvottorð sé afhent sýslumanni í því umdæmi þar sem maðurinn lést. Sýslumaður afhendir flutningsaðila staðfest afrit dánarvottorðs og skal það fylgja líkinu til viðtakanda erlendis. Ekki má flytja lík úr landi nema ákvæðum þessum sé fylgt.
  _Refsingar._
@@ -77,12 +77,12 @@ h2. Lög um dánarvottorð, krufningar o.fl.
     2. Framkvæmd réttarlæknisfræðilegrar líkskoðunar, þar á meðal um lágmarkskunnáttu lækna sem gera réttarlæknisfræðilega líkskoðun.
     3. Réttarkrufningu.
     4. [Hvernig Þjóðskrá Íslands og landlækni verði tilkynnt um andvana fædd börn.][^2)^]
-    _[^1)^]Rg. 248/2001_. [^2)^]L. 28/2011, 16. gr.
+    _[^1)^]"Rg. 248/2001":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/248-2001. [^2)^]"L. 28/2011, 16. gr.":/altext/stjt/2011.028.html_
  _Gildistaka._
  ■ *15. gr.* Lög þessi öðlast gildi 1. janúar 1999.
  _Brottfall laga._
- ■ *16. gr.* ...
+ ■ *16. gr.* "...":http://www.althingi.is/vefur/lagas-hlp.html
  _Breyting annarra lagaákvæða._
- ■ *17. gr.* ...
+ ■ *17. gr.* "...":http://www.althingi.is/vefur/lagas-hlp.html
 
 

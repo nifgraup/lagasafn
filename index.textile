@@ -1,0 +1,10 @@
+!althlit.gif(Alþingishúsið)!
+
+h1. Lagasafn
+
+<hr />
+
+* "Kaflar lagasafns":kaflar.html
+* "Lagasafn raðað í tímaröð":lagas.nr.html
+* "":lagas.nr.html"":lagas.nr.html"Lagasafn raðað í stafrófsröð eftir heiti laga":lagas.nofn.html
+

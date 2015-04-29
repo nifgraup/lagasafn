@@ -7,9 +7,9 @@ h2. Lög um rafrænar undirskriftir
 <hr />
 
 
- *Tóku gildi 16. maí 2001.* _EES-samningurinn:_ XI. viðauki tilskipun 1999/93/EB. _Breytt með_ l. 72/2003 (tóku gildi 10. apríl 2003), "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), l. 34/2007 (tóku gildi 30. mars 2007), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 16. maí 2001.* _EES-samningurinn:_ XI. viðauki tilskipun 1999/93/EB. _Breytt með_ "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003), "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), "l. 34/2007":/altext/stjt/2007.034.html (tóku gildi 30. mars 2007), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -20,7 +20,7 @@ h2. Lög um rafrænar undirskriftir
  ■ *2. gr.* _Gildissvið._
  □ Lög þessi gilda um rafrænar undirskriftir og starfsemi vottunaraðila með staðfestu á Íslandi.
  □ [Ráðherra][^1)^] fer með yfirstjórn mála samkvæmt lögum þessum.
-    _[^1)^]L. 126/2011, 320. gr._
+    _[^1)^]"L. 126/2011, 320. gr.":/altext/stjt/2011.126.html_
 
  *II. kafli.* *Skilgreiningar, réttaráhrif og vernd persónuupplýsinga.*
  ■ *3. gr.* _Orðskýringar._
@@ -41,7 +41,7 @@ h2. Lög um rafrænar undirskriftir
     10. _Vottorð:_ Vottorð á rafrænu formi sem tengir sannprófunargögn við undirritanda og staðfestir hver hann er.
     11. _Fullgilt vottorð:_ Vottorð sem hefur að geyma upplýsingar sem kveðið er á um í 7. gr. og er gefið út af vottunaraðila sem fullnægir skilyrðum V. kafla laga þessara.
     12. _Vottunaraðili:_ Aðili sem gefur út vottorð eða veitir aðra þjónustu í tengslum við rafrænar undirskriftir.
-■ *4. gr.* _Réttaráhrif rafrænna undirskrifta._
+ ■ *4. gr.* _Réttaráhrif rafrænna undirskrifta._
  □ Ef undirskrift er skilyrði réttaráhrifa samkvæmt lögum, stjórnvaldsfyrirmælum eða af öðrum orsökum fullnægir fullgild rafræn undirskrift ætíð slíku skilyrði.
  □ Ákvæði 1. mgr. er því ekki til fyrirstöðu að aðrar rafrænar undirskriftir en þar greinir geti uppfyllt skilyrði um undirskrift samkvæmt lögum, stjórnvaldsfyrirmælum eða af öðrum orsökum.
  ■ *5. gr.* _Vernd persónuupplýsinga._
@@ -63,7 +63,7 @@ h2. Lög um rafrænar undirskriftir
     8. Útfærða rafræna undirskrift vottunaraðilans sem gefur vottorðið út.
     9. Upplýsingar um takmarkanir á gildissviði og á fjárhæð viðskipta sem unnt er að nota vottorðið til, séu slíkar takmarkanir fyrir hendi.
  □ Ráðherra getur sett nánari fyrirmæli um þær upplýsingar sem fullgild vottorð skulu hafa að geyma í reglugerð.[^1)^]
-    _[^1)^]Rg. 780/2011._
+    _[^1)^]"Rg. 780/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/780-2011._
 
  *IV. kafli.* *Öruggur undirskriftarbúnaður.*
  ■ *8. gr.* _Kröfur._
@@ -78,7 +78,7 @@ h2. Lög um rafrænar undirskriftir
     a. þar til bær aðili hefur staðfest að hann uppfylli kröfur 8. gr.; [ráðherra][^1)^] getur í reglugerð[^2)^] kveðið á um þá aðila sem veitt geta slíka staðfestingu, eða
     b. þar til bær aðili á Evrópska efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^3)^] hefur viðurkennt hann.
  □ Líta skal svo á að undirskriftarbúnaður teljist öruggur skv. 8. gr. ef hann er í samræmi við staðla sem framkvæmdastjórn Evrópusambandsins hefur sett um slíkan búnað og birtir hafa verið í Stjórnartíðindum Evrópubandalagsins.
-    _[^1)^]L. 126/2011, 320. gr. [^2)^]Rg. 780/2011. [^3)^]L. 72/2003, 54. gr._
+    _[^1)^]"L. 126/2011, 320. gr.":/altext/stjt/2011.126.html [^2)^]"Rg. 780/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/780-2011. [^3)^]"L. 72/2003, 54. gr.":/altext/stjt/2003.072.html_
 
  *V. kafli.* *Kröfur til vottunaraðila sem gefa út fullgild vottorð.*
  ■ *10. gr.* _Kröfur til starfseminnar._
@@ -87,7 +87,7 @@ h2. Lög um rafrænar undirskriftir
     a. viðhafa vandaðar stjórnunar- og starfsaðferðir,
     b. hafa starfsfólk sem býr yfir þeirri sérfræðiþekkingu, reynslu og hæfni sem nauðsynleg er fyrir starfsemina og
     c. hafa nægjanlegt fjármagn til að stunda starfsemina með hliðsjón af þeim kröfum sem gerðar eru í lögum þessum.
-■ *11. gr.* _Kerfi og búnaður._
+ ■ *11. gr.* _Kerfi og búnaður._
  □ Vottunaraðili skal í starfsemi sinni nota áreiðanleg kerfi og búnað sem eru varin gegn breytingum og tryggja öryggi dulritunar og tæknilegt öryggi.
  □ Ákvæðum 1. mgr. telst fullnægt ef vottunaraðilinn notar kerfi og búnað sem viðurkennd eru skv. 9. gr.
  □ Vottunaraðilinn skal grípa til aðgerða til að hindra möguleika á fölsun vottorða. Í þeim tilvikum sem vottunaraðilinn býr til undirskriftargögn skal hann tryggja leynd við framleiðsluna.
@@ -113,7 +113,7 @@ h2. Lög um rafrænar undirskriftir
  □ Upplýsingar skv. 1. mgr. má senda rafrænt, enda séu þær á læsilegu formi og á auðskiljanlegu máli. Þessar upplýsingar skulu, eftir því sem við á, vera aðgengilegar þriðja aðila sem treystir á vottorð og óskar eftir þeim.
  ■ *16. gr.* _Nánari reglur._
  □ [Ráðherra][^1)^] er heimilt að setja nánari fyrirmæli í reglugerð[^2)^] um kröfur til vottunaraðila sem gefa út fullgild vottorð skv. V. kafla laga þessara.
-    _[^1)^]L. 126/2011, 320. gr. [^2)^]Rg. 780/2011._
+    _[^1)^]"L. 126/2011, 320. gr.":/altext/stjt/2011.126.html [^2)^]"Rg. 780/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/780-2011._
 
  *VI. kafli.* *Skaðabótaábyrgð.*
  ■ *17. gr.* Vottunaraðili sem gefur út fullgilt vottorð til almennings eða ábyrgist gagnvart almenningi slíkt vottorð útgefið af öðrum er bótaskyldur vegna tjóns þess sem treystir á vottorð með eðlilegum hætti, að því er varðar:
@@ -136,24 +136,24 @@ h2. Lög um rafrænar undirskriftir
  □ Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður áfrýjunarnefndar neytendamála liggur fyrir.
  □ Nú vill vottunaraðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.][^2)^]
  □ Ráðherra getur sett nánari fyrirmæli um tilhögun eftirlits í reglugerð.[^3)^]
-    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]L. 34/2007, 5. gr. [^3)^]Rg. 780/2011._
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13 [^2)^]"L. 34/2007, 5. gr.":/altext/stjt/2007.034.html [^3)^]"Rg. 780/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/780-2011._
  ■ *19. gr.* _Skráning og eftirlitsgjald._
  □ Vottunaraðili sem hyggst gefa út fullgild vottorð skal senda tilkynningu um starfsemi sína til [Neytendastofu].[^1)^] Eftir að slík tilkynning hefur verið send getur vottunaraðili gefið út fullgild vottorð. Í tilkynningunni skulu koma fram þær upplýsingar sem nauðsynlegar eru til að sýna fram á að vottunaraðili fullnægi skilyrðum laga þessara í starfsemi sinni, m.a. upplýsingar um starfsemi, skipulag, kerfi og búnað. Breytingar og nýjar upplýsingar skulu sendar án tafar til eftirlitsaðila.
  □ Vottunaraðili sem gefur út fullgild vottorð skal greiða gjald að fjárhæð 1.000.000 kr. á ári til að standa straum af kostnaði eftirlits samkvæmt lögum þessum. Ef vottunaraðili byrjar eða hættir starfsemi á gjaldárinu skal árgjaldið ákvarðað í réttu hlutfalli við þann tíma sem starfrækslan varaði á árinu. Eftirlitsgjaldið skal renna beint til [Neytendastofu][^1)^] og vera innheimt af henni. Aðför má gera til fullnustu kröfum um eftirlitsgjald án undangengins dóms, úrskurðar eða sáttar.
  □ Gjalddagi eftirlitsgjalds er 1. febrúar ár hvert vegna síðasta almanaksárs.
  □ Ráðherra getur sett nánari fyrirmæli um tilhögun skráningar, tilkynningar og upplýsingagjöf í reglugerð.[^2)^]
-    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]Rg. 780/2011._
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13 [^2)^]"Rg. 780/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/780-2011._
  ■ *20. gr.* _Athugun, aðgangur og þagnarskylda._
  □ Afhenda skal [Neytendastofu][^1)^] allar þær upplýsingar og skýringar sem henni eru nauðsynlegar vegna eftirlitsins. Er [Neytendastofu][^1)^] heimilt að setja fresti til afhendingar upplýsinga eða skýringa. Einnig getur [Neytendastofa][^1)^] kvatt vottunaraðila og þá sem starfa á þeirra vegum á sinn fund til að veita upplýsingar og skýringar varðandi útgáfu á vottorðum eða aðra þjónustu í tengslum við rafrænar undirskriftir.
  □ [Neytendastofu][^1)^] er án dómsúrskurðar heimill aðgangur í eftirlitsstörfum sínum að starfsstöð vottunaraðila eða öðrum þeim stöðum þar sem starfsemi sem fellur undir eftirlit laga þessara fer fram. Hún getur þar framkvæmt þær eftirlitsaðgerðir sem hún telur nauðsynlegar og krafist þess að starfsmenn á þeim stöðum veiti nauðsynlega aðstoð. [Neytendastofa][^1)^] getur óskað liðveislu lögreglu ef tilraun er gerð til að hindra hana í eftirlitsstörfum sínum.
  □ Réttur [Neytendastofu][^1)^] til þess að krefjast upplýsinga eða aðgangs að starfsstöðinni og tækjabúnaði verður ekki takmarkaður með vísan til reglna um þagnarskyldu.
  □ Starfsmenn [Neytendastofu][^1)^] eru bundnir þagnarskyldu. Þeir mega ekki að viðlagðri ábyrgð skýra óviðkomandi frá því er þeir komast að í starfi sínu og leynt á að fara um viðskipti og rekstur vottunaraðila, tengdra aðila eða annarra. Sama gildir um sérfræðinga sem starfa fyrir [Neytendastofu][^1)^] að eftirlitsstarfi samkvæmt lögum þessum. Þagnarskyldan helst þótt látið sé af starfi.
-    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13_
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13_
  ■ *21. gr.* _Dagsektir._
  □ [Neytendastofa][^1)^] getur lagt dagsektir á vottunaraðila að liðnum tilteknum fresti veiti hann ekki umbeðnar upplýsingar, fari ekki eftir kröfum hennar um úrbætur eða sinni ekki kröfum eftirlitsins að öðru leyti.
  □ Fjárhæð dagsekta skal ákvörðuð með hliðsjón af umfangi rekstrar vottunaraðila og eðli brotsins. Dagsektir geta numið frá 10.000 kr. til 1 millj. kr. á dag. Þær greiðast þar til farið hefur verið eftir kröfum [Neytendastofu].[^1)^] Óinnheimtar dagsektir falla ekki niður þrátt fyrir að orðið sé við kröfum [Neytendastofu][^1)^] nema [Neytendastofa][^1)^] ákveði það sérstaklega.
  □ Dagsektir eru aðfararhæfar og renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Ákvörðun [Neytendastofu][^1)^] um dagsektir verður ekki kærð til ráðherra.
-    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13_
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13_
 
  *VIII. kafli.* *Ýmis ákvæði.*
  ■ *22. gr.* _Vottunaraðilar sem hafa staðfestu utan Íslands._
@@ -162,7 +162,7 @@ h2. Lög um rafrænar undirskriftir
     b. vottunaraðili, sem hefur staðfestu á Evrópska efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] og uppfyllir ákvæði laga þessara, ábyrgist vottorðið,
     c. vottorðið stafar frá vottunaraðila sem hefur staðfestu í landi á Evrópska efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu][^1)^] og uppfyllir kröfur þess lands til fullgildra vottorða eða
     d. vottorðið eða vottunaraðilinn er viðurkenndur af Íslandi, Evrópubandalaginu, ríkjum utan Evrópubandalagsins eða alþjóðlegum stofnunum, í tvíhliða eða marghliða samningum.
-    _[^1)^]L. 72/2003, 55. gr._
+    _[^1)^]"L. 72/2003, 55. gr.":/altext/stjt/2003.072.html_
  ■ *23. gr.* _Viðurlög._
  □ Fyrir brot gegn lögum þessum skal refsað með sektum nema þyngri refsing liggi við samkvæmt öðrum lögum.
  □ Dæma má lögaðila jafnt sem einstaklinga til greiðslu sekta vegna brota á lögum þessum. Um refsiábyrgð lögaðila fer skv. II. kafla A almennra hegningarlaga.

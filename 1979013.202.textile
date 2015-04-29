@@ -7,8 +7,8 @@ h2. Lög um stjórn efnahagsmála o.fl.
 <hr />
 
 
-    ...
- *IX. kafli.* *...[^1)^]*
+    "...":http://www.althingi.is/vefur/lagas-hlp.html
+ *IX. kafli.* *"...":http://www.althingi.is/vefur/lagas-hlp.html[^1)^]*
     _[^1)^]Felldur úr gildi skv. "l. 13/1997, 24. gr.":1997013.html_
 
 

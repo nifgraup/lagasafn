@@ -14,7 +14,7 @@ h2. Lög um heimild fyrir ríkisstjórnina til þess að láta öðlast gildi á
 
  ■ *1. gr.* Ríkisstjórninni er heimilt að ákveða með auglýsingu í Stjórnartíðindunum, að samningur sá, sem undirritaður var í Kaupmannahöfn þann 16. mars 1932 og prentaður er sem fylgiskjal með lögum þessum, milli Íslands, Danmerkur, Finnlands, Noregs og Svíþjóðar, um viðurkenningu dóma og fullnægju þeirra, skuli koma í gildi. Ennfremur er ríkisstjórninni heimilað að setja frekari ákvæði, er kynnu að vera nauðsynleg til þess að framfylgja greindum samningi.
  □ [Ákvæði samningsins gilda ekki um dóma og aðrar ákvarðanir sem hljóta viðurkenningu og fullnustu hér á landi samkvæmt ákvæðum Lúganósamningsins.][^1)^]
-    _[^1)^]"L. 68/1995, 5. gr.":1995068.html#g5_
+    _[^1)^]"L. 68/1995, 5. gr.":/altext/stjt/1995.068.html#G5_
 
  *Fylgiskjal.*
  *Samningur milli Íslands, Danmerkur, Finnlands, Noregs og Svíþjóðar um viðurkenningu dóma og fullnægju þeirra.*
@@ -24,7 +24,7 @@ h2. Lög um heimild fyrir ríkisstjórnina til þess að láta öðlast gildi á
     1. úrskurðir yfiraðfararvaldsmanns (överexekutor) í Finnlandi eða Svíþjóð um greiðsluskyldu í málum, þar sem krafan styðst við skuldabréf eða annað skriflegt sönnunargagn (lagsökningsmål) enda sé frestur til málskots (besvär) liðinn;
     2. sætt, gerð fyrir sáttanefnd eða rétti;
     3. aðfararhæfir úrskurðir sem felldir eru í einkamálum, annaðhvort í dóminum eða sérstaklega, um bætur fyrir málskostnað eða um þóknun til votta eða sérfróðra manna.
-■ *3. gr.* Útivistardómur, sem í Danmörku, Íslandi eða Noregi hefir verið felldur yfir stefndum fyrir fyrsta dómsstigi og „tredskodom“, eða annar dómur, sem í Finnlandi eða Svíþjóð hefir verið felldur fyrir fyrsta dómsstigi gegn stefndum, sem ekki mætti, skal því aðeins vera bindandi í hinum ríkjunum, að svo standi á sem nú segir:
+ ■ *3. gr.* Útivistardómur, sem í Danmörku, Íslandi eða Noregi hefir verið felldur yfir stefndum fyrir fyrsta dómsstigi og „tredskodom“, eða annar dómur, sem í Finnlandi eða Svíþjóð hefir verið felldur fyrir fyrsta dómsstigi gegn stefndum, sem ekki mætti, skal því aðeins vera bindandi í hinum ríkjunum, að svo standi á sem nú segir:
     1. að stefndur hafi, þegar stefna, sáttafyrirkall eða fyrirkall til yfiraðfararvaldsmanns (överexekutor) var birt, átt heimilisfang eða skráð firma í því ríki, þar sem dómurinn er dæmdur, eða stjórn sú, sem kemur fram fyrir stefnda, hafi þá átt heima í því ríki, eða fyrirkallið verið birt umboðsmanni, sem stefndum lögum samkvæmt var skylt að hafa í þessu ríki; eða
     2. að gert hafi verið óbrigðanlegt samkomulag um, að málið skuli rekið fyrir þeim rétti, sem uppkvað dóminn; eða
     3. að dómurinn sé um bætur fyrir afleiðingar verknaðar, sem tjóni hefir valdið og framinn hefir verið í því ríki, þar sem dómurinn var dæmdur, enda sé stefna birt stefnda sjálfum, meðan hann dvelur í því ríki.

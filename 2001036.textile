@@ -7,9 +7,9 @@ h2. Lög um Seðlabanka Íslands
 <hr />
 
 
- *Tóku gildi 23. maí 2001.* _Breytt með_ l. 129/2004 (tóku gildi 31. des. 2005), l. 5/2009 (tóku gildi 27. febr. 2009), l. 87/2009 (tóku gildi 20. ágúst 2009), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l. 84/2011 (tóku gildi 30. júní 2011 nema 1. gr. og c-liður 14. gr. sem tóku gildi 1. sept. 2012), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 127/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 23. maí 2001.* _Breytt með_ "l. 129/2004":/altext/stjt/2004.129.html (tóku gildi 31. des. 2005), "l. 5/2009":/altext/stjt/2009.005.html (tóku gildi 27. febr. 2009), "l. 87/2009":/altext/stjt/2009.087.html (tóku gildi 20. ágúst 2009), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 84/2011":/altext/stjt/2011.084.html (tóku gildi 30. júní 2011 nema 1. gr. og c-liður 14. gr. sem tóku gildi 1. sept. 2012), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 127/2011":/altext/stjt/2011.127.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -20,7 +20,7 @@ h2. Lög um Seðlabanka Íslands
  ■ *2. gr.* Aðsetur og varnarþing Seðlabanka Íslands er í Reykjavík.
  ■ *3. gr.* Meginmarkmið Seðlabanka Íslands er að stuðla að stöðugu verðlagi. Með samþykki [ráðherra][^1)^] er Seðlabankanum heimilt að lýsa yfir tölulegu markmiði um verðbólgu.
  □ Seðlabankinn skal stuðla að framgangi stefnu ríkisstjórnarinnar í efnahagsmálum, enda telji hann það ekki ganga gegn meginmarkmiði sínu skv. 1. mgr.
-    _[^1)^]L. 98/2009, 46. gr._
+    _[^1)^]"L. 98/2009, 46. gr.":/altext/stjt/2009.098.html_
  ■ *4. gr.* Seðlabanki Íslands skal sinna viðfangsefnum sem samrýmast hlutverki hans sem seðlabanka, svo sem að varðveita gjaldeyrisvarasjóð og að stuðla að virku og öruggu fjármálakerfi, þ.m.t. greiðslukerfi í landinu og við útlönd.
 
  *II. kafli.* *Útgáfa seðla og myntar.*
@@ -28,7 +28,7 @@ h2. Lög um Seðlabanka Íslands
  □ Seðlar og mynt sem Seðlabankinn gefur út skulu vera lögeyrir til allra greiðslna með fullu ákvæðisverði.
  □ Tilefnismynt sem Seðlabankinn gefur út skal vera lögeyrir til allra greiðslna með fullu ákvæðisverði. Seðlabankanum er heimilt að ákveða að tilefnismynt sé seld með álagi á ákvæðisverð hennar. Ágóða af sölu tilefnismyntar skal varið til lista, menningar eða vísinda samkvæmt ákvörðun [ráðherra].[^1)^]
  □ [Ráðherra][^1)^] ákveður að fengnum tillögum Seðlabankans lögun, útlit og fjárhæð seðla þeirra og myntar sem bankinn gefur út og lætur birta auglýsingu um það efni.
-    _[^1)^]L. 98/2009, 46. gr._
+    _[^1)^]"L. 98/2009, 46. gr.":/altext/stjt/2009.098.html_
 
  *III. kafli.* *Innlend viðskipti.*
  ■ *6. gr.* Seðlabanki Íslands tekur við innlánum frá innlánsstofnunum en til þeirra teljast viðskiptabankar, sparisjóðir, útibú erlendra innlánsstofnana og aðrar stofnanir og félög sem heimilt er lögum samkvæmt að taka við innlánum frá almenningi til geymslu og ávöxtunar. Honum er einnig heimilt að taka við innlánum frá öðrum lánastofnunum og fyrirtækjum í verðbréfaþjónustu.
@@ -59,37 +59,37 @@ h2. Lög um Seðlabanka Íslands
  ■ *18. gr.* Seðlabanki Íslands verslar með erlendan gjaldeyri, hefur milligöngu um gjaldeyrisviðskipti og stundar önnur erlend viðskipti sem samrýmast markmiðum og hlutverki bankans.
  □ Að fengnu samþykki [ráðherra][^1)^] ákveður Seðlabankinn hvaða stefna skuli gilda um ákvörðun á verðgildi íslensku krónunnar gagnvart erlendum gjaldmiðlum.
  □ Seðlabankinn setur reglur[^2)^] um starfsemi skipulegra gjaldeyrismarkaða eftir því sem kveðið er á um í lögum um gjaldeyrismál. Þegar sérstaklega stendur á getur Seðlabankinn tímabundið takmarkað eða stöðvað viðskipti á skipulegum gjaldeyrismörkuðum.
-    _[^1)^]L. 98/2009, 46. gr. [^2)^]Rgl. 187/2002. Rgl. 1098/2008._
+    _[^1)^]"L. 98/2009, 46. gr.":/altext/stjt/2009.098.html [^2)^]Rgl. 187/2002. Rgl. 1098/2008._
  ■ *19. gr.* Hvern virkan dag sem skipulegir gjaldeyrismarkaðir eru almennt starfandi skal Seðlabanki Íslands skrá gengi krónunnar gagnvart helstu gjaldmiðlum. Það gengi skal notað til viðmiðunar í opinberum samningum, dómsmálum og öðrum samningum milli aðila þegar önnur gengisviðmiðun er ekki sérstaklega tiltekin. Enn fremur getur Seðlabankinn ákveðið að skrá gengi krónunnar á þeim dögum sem skipulegir gjaldeyrismarkaðir eru almennt ekki starfandi. Þegar sérstaklega stendur á getur Seðlabankinn tímabundið fellt niður skráningu á gengi krónunnar.
  ■ *20. gr.* Seðlabanki Íslands varðveitir gjaldeyrisvarasjóð í samræmi við markmið og hlutverk bankans. [Seðlabankastjóri][^1)^] setur starfsreglur um varðveislu gjaldeyrisvarasjóðsins sem bankaráð staðfestir, sbr. 28. gr.
  □ Seðlabankanum er heimilt að taka lán til að efla gjaldeyrisvarasjóðinn. Honum er jafnframt heimilt að taka þátt í samstarfi erlendra seðlabanka og alþjóðlegra banka- eða fjármálastofnana um lánveitingar til að efla gjaldeyrisvarasjóð þátttakenda.
-    _[^1)^]L. 5/2009, 1. gr._
+    _[^1)^]"L. 5/2009, 1. gr.":/altext/stjt/2009.005.html_
  ■ *21. gr.* Seðlabanki Íslands annast samskipti og viðskipti við alþjóðlegar stofnanir á starfssviði sínu í umboði ríkisstjórnarinnar eða eftir því sem honum er falið með lögum.
  □ Seðlabankinn fer með fjárhagsleg tengsl við Alþjóðagjaldeyrissjóðinn fyrir hönd ríkisins. [Ráðherra][^1)^] skipar einn mann og annan til vara til fimm ára í senn til þess að taka sæti í sjóðsráði Alþjóðagjaldeyrissjóðsins.
  □ Seðlabankanum er jafnframt heimilt að eiga aðild að öðrum alþjóðlegum stofnunum, enda samrýmist það hlutverki hans sem seðlabanka.
-    _[^1)^]L. 98/2009, 46. gr._
+    _[^1)^]"L. 98/2009, 46. gr.":/altext/stjt/2009.098.html_
 
  *V. kafli.* *Stjórnskipulag.*
  ■ *22. gr.* Yfirstjórn Seðlabanka Íslands er í höndum [ráðherra][^1)^] og bankaráðs svo sem fyrir er mælt í lögum þessum. [Ákvarðanir um beitingu stjórntækja bankans í peningamálum eru teknar af peningastefnunefnd, sbr. 24. gr. Stjórn bankans er að öðru leyti í höndum seðlabankastjóra.][^2)^]
-    _[^1)^]L. 126/2011, 321. gr. [^2)^]L. 5/2009, 2. gr._
+    _[^1)^]"L. 126/2011, 321. gr.":/altext/stjt/2011.126.html [^2)^]"L. 5/2009, 2. gr.":/altext/stjt/2009.005.html_
  ■ *23. gr.* [[Ráðherra][^1)^] skipar seðlabankastjóra og aðstoðarseðlabankastjóra til fimm ára í senn. Seðlabankastjóri og aðstoðarseðlabankastjóri skulu hafa lokið háskólaprófi í hagfræði eða tengdum greinum og búa yfir víðtækri reynslu og þekkingu á fjármálastarfsemi og efnahags- og peningamálum. Aðeins er hægt að skipa sama mann seðlabankastjóra eða aðstoðarseðlabankastjóra tvisvar sinnum. Seðlabankastjóri ber ábyrgð á rekstri bankans og fer með ákvörðunarvald í öllum málefnum hans sem ekki eru falin öðrum með lögum þessum. Aðstoðarseðlabankastjóri er staðgengill seðlabankastjóra.
  □ Við skipun í embætti seðlabankastjóra og aðstoðarseðlabankastjóra skal [ráðherra][^1)^] skipa þriggja manna nefnd er hafi það hlutverk að leggja mat á hæfni umsækjenda. Skal einn nefndarmaður skipaður samkvæmt tilnefningu samstarfsnefndar háskólastigsins, einn samkvæmt tilnefningu bankaráðs Seðlabanka Íslands og einn án tilnefningar og skal hann vera formaður nefndarinnar.
  □ Forfallist seðlabankastjóri eða aðstoðarseðlabankastjóri getur [ráðherra][^1)^] sett menn tímabundið í stöður þeirra.
  □ Seðlabankastjóri setur reglur um umboð starfsmanna og aðstoðarseðlabankastjóra til að skuldbinda bankann með undirskrift sinni og skulu reglurnar staðfestar af bankaráði, sbr. 28. gr.][^2)^]
-    _[^1)^]L. 98/2009, 46. gr. [^2)^]L. 5/2009, 3. gr._
+    _[^1)^]"L. 98/2009, 46. gr.":/altext/stjt/2009.098.html [^2)^]"L. 5/2009, 3. gr.":/altext/stjt/2009.005.html_
  ■ *24. gr.* [Ákvarðanir um beitingu stjórntækja bankans í peningamálum eru teknar af peningastefnunefnd. Stjórntæki bankans teljast í þessu sambandi vera vaxtaákvarðanir hans, viðskipti við lánastofnanir önnur en tilgreind eru í 2. mgr. 7. gr., ákvörðun bindiskyldu skv. 11. gr. og viðskipti á gjaldeyrismarkaði skv. 18. gr. sem hafa það að markmiði að hafa áhrif á gengi krónunnar. Ákvarðanir peningastefnunefndar skulu grundvallast á markmiðum bankans og vönduðu mati á ástandi og horfum í efnahags- og peningamálum og fjármálastöðugleika.
  □ Í peningastefnunefnd situr seðlabankastjóri, aðstoðarseðlabankastjóri, einn af yfirmönnum bankans á sviði mótunar eða stefnu í peningamálum og tveir sérfræðingar á sviði efnahags- og peningamála sem [ráðherra][^1)^] skipar til fimm ára í senn. Seðlabankastjóri er jafnframt formaður peningastefnunefndar. Peningastefnunefnd er ályktunarhæf ef fjórir af fimm nefndarmönnum sitja fund nefndarinnar. Ákvarðanir peningastefnunefndar skulu teknar með einföldum meiri hluta, en falli atkvæði jöfn ræður atkvæði formanns eða staðgengils hans. Peningastefnunefnd skal halda fundi að minnsta kosti átta sinnum á ári. Auk þess getur peningastefnunefnd haldið fund ef formaður ákveður eða þrír nefndarmenn krefjast þess. Peningastefnunefnd setur sér starfsreglur sem bankaráð staðfestir um undirbúning, rökstuðning og kynningu ákvarðana sinna í peningamálum. Opinberlega skal birta fundargerðir peningastefnunefndar og gera grein fyrir ákvörðunum nefndarinnar og forsendum þeirra. Ef peningastefnunefnd metur það svo að alvarleg hættumerki séu til staðar sem ógna fjármálakerfinu skal hún opinberlega gefa út viðvaranir þegar tilefni er til. Peningastefnunefnd getur þó ákveðið að skýra ekki frá ákvörðunum um viðskipti á gjaldeyrismarkaði skv. 18. gr.
  □ Peningastefnunefnd skal gefa Alþingi skýrslu um störf sín tvisvar á ári. [Skal ræða skýrsluna í þeirri þingnefnd sem þingforseti ákveður.][^2)^]][^3)^]
-    _[^1)^]L. 98/2009, 46. gr. [^2)^]L. 84/2011, 42. gr. [^3)^]L. 5/2009, 4. gr._
+    _[^1)^]"L. 98/2009, 46. gr.":/altext/stjt/2009.098.html [^2)^]"L. 84/2011, 42. gr.":/altext/stjt/2011.084.html [^3)^]"L. 5/2009, 4. gr.":/altext/stjt/2009.005.html_
  ■ *25. gr.* [Seðlabankastjóra og aðstoðarseðlabankastjóra er óheimilt að sitja í stjórnum stofnana og atvinnufyrirtækja utan bankans eða taka þátt í atvinnurekstri að öðru leyti nema slíkt sé boðið í lögum eða um sé að ræða stofnun eða atvinnufyrirtæki sem bankinn á aðild að. [Ráðherra][^1)^] hefur úrskurðarvald ef ágreiningur rís um beitingu þessa ákvæðis.
  □ Um þátttöku annarra starfsmanna Seðlabanka Íslands í stjórnum stofnana og atvinnufyrirtækja skal seðlabankastjóri setja reglur sem bankaráð staðfestir, sbr. 28. gr.
  □ Nefndarmönnum í peningastefnunefnd sem [ráðherra][^1)^] skipar er óheimilt að sinna störfum utan bankans sem geta verið til þess fallin að draga óhlutdrægni þeirra í efa. [Ráðherra][^1)^] hefur úrskurðarvald ef ágreiningur rís um beitingu þessa ákvæðis. [Ráðherra][^1)^] getur með reglugerð kveðið nánar á um hæfisskilyrði nefndarmanna í peningastefnunefnd.][^2)^]
-    _[^1)^]L. 98/2009, 46. gr. [^2)^]L. 5/2009, 5. gr._
+    _[^1)^]"L. 98/2009, 46. gr.":/altext/stjt/2009.098.html [^2)^]"L. 5/2009, 5. gr.":/altext/stjt/2009.005.html_
  ■ *26. gr.* Kjósa skal bankaráð Seðlabanka Íslands að loknum kosningum til Alþingis. Bankaráð skipa sjö fulltrúar kjörnir hlutbundinni kosningu af Alþingi ásamt jafnmörgum til vara. Eigi má kjósa stjórnendur eða starfsmenn lánastofnana eða annarra fjármálastofnana sem eiga viðskipti við bankann til setu í bankaráði. Umboð bankaráðs gildir þar til nýtt bankaráð hefur verið kjörið. Láti bankaráðsmaður af störfum tekur varamaður sæti hans þar til Alþingi hefur kosið nýjan aðalmann til loka kjörtímabils bankaráðsins.
  □ Bankaráð velur formann og varaformann úr eigin röðum. Ráðherra ákveður þóknun bankaráðs sem greidd er af Seðlabankanum.
  ■ *27. gr.* Formaður bankaráðs Seðlabanka Íslands kallar bankaráð saman til fundar. Ætíð skal þó halda bankaráðsfund þegar tveir bankaráðsmenn óska þess. Fundur bankaráðs er ályktunarhæfur ef meiri hluti bankaráðs situr fund. Afl atkvæða ræður úrslitum við afgreiðslu mála. Falli atkvæði jafnt ræður atkvæði formanns. Á fundum bankaráðs skal halda gerðabók.
  □ [Seðlabankastjóri situr fundi bankaráðs og hefur þar tillögurétt og tekur þátt í umræðum. Hann skal þó víkja af fundi ef bankaráð ákveður.][^1)^]
-    _[^1)^]L. 5/2009, 6. gr._
+    _[^1)^]"L. 5/2009, 6. gr.":/altext/stjt/2009.005.html_
  ■ *28. gr.* Bankaráð hefur eftirlit með því að Seðlabanki Íslands starfi í samræmi við lög sem um starfsemina gilda. [Seðlabankastjóri][^1)^] skal jafnan upplýsa bankaráð um helstu þætti í stefnu bankans og um reglur sem hann setur. Að öðru leyti skal bankaráð sérstaklega sinna eftirtöldum verkefnum:
     a. Staðfesta tillögur [seðlabankastjóra][^1)^] um höfuðþætti í stjórnskipulagi bankans.
     b. [Ákveða laun og önnur starfskjör aðstoðarseðlabankastjóra og fulltrúa í peningastefnunefnd, þ.m.t. rétt til biðlauna og eftirlauna. Kjararáð ákveður laun og önnur starfskjör seðlabankastjóra önnur en rétt til biðlauna og eftirlauna og önnur atriði sem varða fjárhagslega hagsmuni hans sem bankaráðið ákveður.][^2)^]
@@ -107,7 +107,7 @@ h2. Lög um Seðlabanka Íslands
     [n. ][^1)^] Staðfesta reglur sem [seðlabankastjóri][^1)^] setur um viðurlög í formi dagsekta, sbr. 37. gr.
     [o. ][^1)^] Staðfesta reglur sem [seðlabankastjóri][^1)^] setur um heimild starfsmanna bankans til setu í stjórnum stofnana og atvinnufyrirtækja utan bankans, sbr. 25. gr.
     [p. ][^1)^] Staðfesta starfsreglur sem [seðlabankastjóri][^1)^] setur um varðveislu gjaldeyrisforðans, sbr. 20. gr.
-    _[^1)^]L. 5/2009, 7. gr._ [^2)^]L. 87/2009, 6. gr. [^3)^]L. 98/2009, 46. gr.
+    _[^1)^]"L. 5/2009, 7. gr.":/altext/stjt/2009.005.html [^2)^]"L. 87/2009, 6. gr.":/altext/stjt/2009.087.html [^3)^]"L. 98/2009, 46. gr.":/altext/stjt/2009.098.html_
 
  *VI. kafli.* *Öflun upplýsinga, rannsóknir og skýrslugerð.*
  ■ *29. gr.* Til þess að sinna hlutverki sínu skv. 3. og 4. gr. getur Seðlabanki Íslands milliliðalaust aflað upplýsinga frá þeim sem eru í viðskiptum við bankann skv. 6. gr., sbr. 7. gr., auk fyrirtækja í greiðslumiðlun og annarra fyrirtækja eða aðila sem lúta opinberu eftirliti með starfsemi sinni, sbr. lög um opinbert eftirlit með fjármálastarfsemi.
@@ -118,12 +118,12 @@ h2. Lög um Seðlabanka Íslands
  *VII. kafli.* *Reikningsskil og ráðstöfun hagnaðar.*
  ■ *32. gr.* Reikningsár Seðlabanka Íslands er almanaksárið. Fyrir hvert reikningsár skal gera ársreikning og skal gerð hans lokið innan þriggja mánaða frá lokum reikningsárs. Um gerð ársreiknings fer eftir lögum, reglum og góðri reikningsskilavenju.
  □ [Ráðherra][^1)^] setur nánari reglur[^2)^] um reikningsskil og ársreikning að fengnum tillögum Seðlabankans, sbr. 28. gr.
-    _[^1)^]L. 98/2009, 46. gr. [^2)^]Rgl. 1088/2005._
+    _[^1)^]"L. 98/2009, 46. gr.":/altext/stjt/2009.098.html [^2)^]Rgl. 1088/2005._
  ■ *33. gr.* Innri endurskoðun í Seðlabanka Íslands er í höndum aðalendurskoðanda, sbr. 28. gr. Auk þess skal Ríkisendurskoðun annast endurskoðun hjá Seðlabankanum.
  □ Að lokinni endurskoðun á ársreikningi bankans skal hann undirritaður af [seðlabankastjóra][^1)^] og staðfestur af bankaráði, sbr. 28. gr. Hafi bankaráðsmaður fram að færa athugasemdir við ársreikning skal hann undirritaður með fyrirvara og koma skal fram hvers eðlis fyrirvarinn er.
  □ Endurskoðaður reikningur skal lagður fyrir [ráðherra][^2)^] til áritunar eigi síðar en þremur mánuðum eftir lok reikningsárs.
  □ Ársreikning Seðlabankans skal birta í ársskýrslu bankans, sbr. 30. gr. Enn fremur skal bankinn birta mánaðarlegt efnahagsyfirlit.
-    _[^1)^]L. 5/2009, 8. gr. [^2)^]L. 98/2009, 46. gr._
+    _[^1)^]"L. 5/2009, 8. gr.":/altext/stjt/2009.005.html [^2)^]"L. 98/2009, 46. gr.":/altext/stjt/2009.098.html_
  ■ *34. gr.* Árlega skal fjárhæð sem svarar til tveggja þriðju hluta hagnaðar Seðlabanka Íslands á liðnu reikningsári greidd í ríkissjóð. Greiðsla fer fram eigi síðar en 1. júní ár hvert.
  □ Þrátt fyrir ákvæði 1. mgr. skal Seðlabankinn aðeins greiða þriðjung hagnaðar síns í ríkissjóð ef eigið fé bankans í lok reikningsárs svarar ekki að lágmarki til 2,25% af fjárhæð útlána og innlendrar verðbréfaeignar lánakerfisins í lok reikningsársins á undan.
 
@@ -132,26 +132,26 @@ h2. Lög um Seðlabanka Íslands
  □ Bankaráðsmönnum, [seðlabankastjóra, aðstoðarseðlabankastjóra, nefndarmönnum í peningastefnunefnd][^1)^] og öðrum starfsmönnum Seðlabankans er óheimilt að nýta sér trúnaðarupplýsingar, sem þeir komast yfir vegna starfs síns í bankanum, í þeim tilgangi að hagnast eða forðast fjárhagslegt tjón í viðskiptum.
  □ Þrátt fyrir ákvæði 1. mgr. er Seðlabankanum heimilt að eiga gagnkvæm upplýsingaskipti við opinbera aðila erlendis um atriði sem lög þessi taka til að því tilskildu að sá sem óskar upplýsinga sé háður samsvarandi þagnarskyldu.
  □ Seðlabanki Íslands skal veita Fjármálaeftirlitinu allar upplýsingar sem bankinn býr yfir og nýtast kunna í starfsemi Fjármálaeftirlitsins. Upplýsingar sem veittar eru samkvæmt þessari grein eru háðar þagnarskyldu samkvæmt lögum þessum og lögum um opinbert eftirlit með fjármálastarfsemi. Seðlabankinn og Fjármálaeftirlitið skulu gera með sér samstarfssamning þar sem m.a. er kveðið nánar á um samskipti stofnananna.
-    _[^1)^]L. 5/2009, 9. gr._
+    _[^1)^]"L. 5/2009, 9. gr.":/altext/stjt/2009.005.html_
  ■ *36. gr.* Seðlabanki Íslands er undanþeginn [tekjuskatti][^1)^] samkvæmt lögum um [tekjuskatt][^1)^] eins og þau eru á hverjum tíma.
  □ Hvers konar skuldbindingar, sem gefnar eru út af bankanum og í nafni hans, svo og skuldbindingar sem veita bankanum handveðsrétt, arðmiðar af skuldabréfum bankans og framsöl þeirra skulu undanþegin stimpilgjaldi.
-    _[^1)^]L. 129/2004, 140. gr._
+    _[^1)^]"L. 129/2004, 140. gr.":/altext/stjt/2004.129.html_
  ■ *37. gr.* Fyrir brot á lögum þessum skal refsa með sektum eða fangelsi liggi ekki þyngri refsing við broti samkvæmt öðrum lögum. Tilraun og hlutdeild í brotum á lögum þessum er refsiverð eftir því sem segir í almennum hegningarlögum.
  □ Seðlabanka Íslands er heimilt að beita lánastofnanir og verðbréfasjóði viðurlögum í formi dagsekta sem ákveðnar eru samkvæmt reglum[^1)^] sem settar eru af [seðlabankastjóra][^2)^] með samþykki bankaráðs, sbr. 28. gr., hlíti þær ekki reglum bankans um bindiskyldu, laust fé og gjaldeyrisjöfnuð. Dagsektir sem ákveðnar eru samkvæmt þessari grein má innheimta með aðför að lögum. Reglur um viðurlög skulu kynntar Fjármálaeftirlitinu og þeim stofnunum sem þær taka til. Ákvörðun um að beita dagsektum má kæra til ráðherra. Innheimt viðurlög samkvæmt þessari grein skulu renna að [^3^]/4 hlutum til ríkissjóðs og skulu þau greidd 1. júní ár hvert fyrir næstliðið ár.
  □ Seðlabankanum er heimilt að beita þá aðila viðurlögum í formi dagsekta sem vanrækja að veita bankanum upplýsingar, sem hann á rétt á samkvæmt lögum þessum, eða veita bankanum vísvitandi rangar upplýsingar. [Seðlabankastjóri][^2)^] setur reglur[^1)^] um þessi viðurlög sem skulu staðfestar af bankaráði.
-    _[^1)^]Rgl. 389/2002. [^2)^]L. 5/2009, 10. gr._
+    _[^1)^]Rgl. 389/2002. [^2)^]"L. 5/2009, 10. gr.":/altext/stjt/2009.005.html_
  ■ *38. gr.* Seðlabanka Íslands er heimilt að setja reglur[^1)^] um viðfangsefni sín samkvæmt lögum þessum eftir því sem ástæða verður talin til. Seðlabankinn birtir reglur sem hann setur samkvæmt lögum þessum þannig að þær séu aðgengilegar almenningi.
     _[^1)^]Rgl. 831/2002, sbr. rgl. 118/2012. Rgl. 540/2007. Rgl. 553/2009. Rgl. 703/2009, sbr. rgl. 366/2010. Rgl. 704/2009, sbr. rgl. 367/2010. Rgl. 805/2009. Rgl. 31/2011._
 
  *IX. kafli.* *Gildistaka o.fl.*
  ■ *39. gr.* [Ráðherra][^1)^] getur, að fengnu áliti bankaráðs, sett með reglugerð[^2)^] nánari ákvæði um framkvæmd einstakra ákvæða laga þessara.
-    _[^1)^]L. 98/2009, 46. gr. [^2)^]Rg. 470/1986, sbr. 136/1989, 111/1995 og 640/1999 (um Seðlabanka Íslands)._
- ■ *40. gr.* Lög þessi öðlast gildi nú þegar. ...
+    _[^1)^]"L. 98/2009, 46. gr.":/altext/stjt/2009.098.html [^2)^]"Rg. 470/1986":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/470-1986, sbr. "136/1989":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1989, "111/1995":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/111-1995 og "640/1999":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/640-1999 (um Seðlabanka Íslands)._
+ ■ *40. gr.* Lög þessi öðlast gildi nú þegar. "...":http://www.althingi.is/vefur/lagas-hlp.html
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Við gildistöku laga þessara kýs Alþingi sjö fulltrúa í bankaráð Seðlabanka Íslands og jafnmarga til vara. Frá sama tíma fellur niður umboð þeirra er þá sitja í bankaráðinu.
  ■ *II.* Bankastjórar Seðlabanka Íslands við gildistöku laga þessara halda störfum sínum til loka skipunartíma síns. Ákvæði 2. mgr. 23. gr. um skipun bankastjóra gildir frá og með fyrstu skipun í embætti bankastjóra eftir gildistöku laganna. Við gildistöku laganna skipar forsætisráðherra formann bankastjórnar úr röðum bankastjóra til sama tíma og skipun hans í embætti bankastjóra varir.
  ■ *[III.* Þrátt fyrir 2. mgr. 17. gr. er Seðlabankanum heimilt, fram til 31. desember 2013, að annast viðskipti við einstaklinga og fyrirtæki, enda sé um að ræða viðskipti sem Seðlabankinn metur nauðsynleg til þess að hægt sé að losa um takmarkanir sem settar hafa verið á fjármagnshreyfingar og gjaldeyrisviðskipti.][^1)^]
-    _[^1)^]L. 127/2011, 9. gr._
+    _[^1)^]"L. 127/2011, 9. gr.":/altext/stjt/2011.127.html_
 
 

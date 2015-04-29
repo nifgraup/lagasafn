@@ -7,9 +7,9 @@ h2. Lög um niðurgreiðslur húshitunarkostnaðar
 <hr />
 
 
- *Tóku gildi 17. maí 2002.* _Breytt með_ l. 58/2004 (tóku gildi 15. júní 2004), l. 86/2006 (tóku gildi 30. júní 2006), l. 83/2008 (tóku gildi 1. jan. 2009 nema 22. gr. sem tók gildi 20. júní 2008), l. 41/2009 (tóku gildi 8. apríl 2009), "l. 77/2010":2010077.html (tóku gildi 1. júlí 2010), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 82/2012 (tóku gildi 5. júlí 2012).
+ *Tóku gildi 17. maí 2002.* _Breytt með_ "l. 58/2004":/altext/stjt/2004.058.html (tóku gildi 15. júní 2004), "l. 86/2006":/altext/stjt/2006.086.html (tóku gildi 30. júní 2006), "l. 83/2008":/altext/stjt/2008.083.html (tóku gildi 1. jan. 2009 nema 22. gr. sem tók gildi 20. júní 2008), "l. 41/2009":/altext/stjt/2009.041.html (tóku gildi 8. apríl 2009), "l. 77/2010":2010077.html (tóku gildi 1. júlí 2010), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 82/2012":/altext/stjt/2012.082.html (tóku gildi 5. júlí 2012) og "l. 36/2013":/altext/stjt/2013.036.html (tóku gildi 9. apríl 2013).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -20,103 +20,105 @@ h2. Lög um niðurgreiðslur húshitunarkostnaðar
     1. Niðurgreiðslu kostnaðar við hitun íbúðarhúsnæðis hjá þeim sem ekki eiga kost á fullri hitun með jarðvarma.
     2. Greiðslu styrkja vegna stofnunar nýrra hitaveitna [og yfirtöku starfandi einkaleyfisveitna á einkahitaveitum].[^1)^]
     [3. Greiðslu styrkja vegna umhverfisvænnar orkuöflunar og/eða aðgerða sem leiða til bættrar orkunýtingar við húshitun.][^1)^]
-    _[^1)^]L. 41/2009, 1. gr._
+    _[^1)^]"L. 41/2009, 1. gr.":/altext/stjt/2009.041.html_
  ■ *2. gr.* _Stjórnsýsla._
  □ [Ráðherra][^1)^] fer með yfirstjórn mála samkvæmt lögum þessum.
-    _[^1)^]L. 126/2011, 345. gr._
+    _[^1)^]"L. 126/2011, 345. gr.":/altext/stjt/2011.126.html_
  ■ *3. gr.* _Skilgreiningar._
  □ Íbúð samkvæmt lögum þessum er húsnæði þar sem einhver hefur fasta búsetu og hefur sjálfstætt skráningarauðkenni í [fasteignaskrá].[^1)^] Dvalarheimili aldraðra telst íbúðarhúsnæði samkvæmt lögum þessum. [Þurfi umsækjandi að halda fleiri en eitt heimili vegna starfa, eigin náms eða náms fjölskyldu er heimilt að greiða niður húshitunarkostnað óháð því hvar lögheimili er skráð. Umsækjandi þarf að staðfesta þörf sína til þess að halda fleiri en eitt heimili með opinberu vottorði eða öðrum gögnum sem Orkustofnun metur nægileg.][^2)^]
  □ Veitusvæði hitaveitu er það svæði þar sem hitaveita hefur einkaleyfi til dreifingar á heitu vatni.
  □ Kynt hitaveita er samkvæmt lögum þessum veita sem notar rafmagn eða eldsneyti til að hita vatn til sölu um dreifikerfi veitunnar.
  □ Rafhitun telst bein hitun með raforku hvort sem um er að ræða þilofna, hitastrengi eða vatnshitakerfi þar sem rafmagn er notað til að hita vatnið. Raforkunotkun varmadælu er í þessum lögum flokkuð með rafhitun.
  □ [Með vistvænni orkuöflun er í lögum þessum átt við hagkvæma nýtingu endurnýjanlegra orkulinda til húshitunar.][^3)^]
-    _[^1)^]L. 83/2008, 24. gr. [^2)^]L. 58/2004, 1. gr. [^3)^]L. 41/2009, 2. gr._
+    _[^1)^]"L. 83/2008, 24. gr.":/altext/stjt/2008.083.html [^2)^]"L. 58/2004, 1. gr.":/altext/stjt/2004.058.html [^3)^]"L. 41/2009, 2. gr.":/altext/stjt/2009.041.html_
 
  *II. kafli.* *Niðurgreiðsla á orku til hitunar.*
  ■ *4. gr.* _Skilyrði niðurgreiðslna._
  □ Ef ákveðið er í fjárlögum að ráðstafa fé til niðurgreiðslna á orku til hitunar íbúðarhúsnæðis skal það gert í eftirfarandi tilvikum:
     1. Þegar íbúð sem ekki er á veitusvæði hitaveitu er hituð með raforku.
     2. Þegar íbúð á veitusvæði hitaveitu er hituð með raforku enda sé kostnaður við tengingu við hitaveituna og áætluð orkukaup meiri en við niðurgreidda rafhitun samanlagt fyrstu tíu árin eftir tengingu.
-    3. Þegar íbúð sem hvorki er á veitusvæði hitaveitu né tengist raforkukerfi er hituð með olíu. Einnig íbúðir hitaðar með olíu sem tengjast einangruðu raforkukerfi þar sem meiri hluti raforkuvinnslunnar er með eldsneyti.
+    3. Þegar íbúð sem hvorki er á veitusvæði hitaveitu né tengist raforkukerfi er hituð með [eldsneyti].[^1)^] Einnig íbúðir hitaðar með [eldsneyti][^1)^] sem tengjast einangruðu raforkukerfi þar sem meiri hluti raforkuvinnslunnar er með eldsneyti.
     4. Þegar íbúð er hituð með vatni frá kyntri hitaveitu og raforkunotkun veitunnar til hitunar vatns er meira en 10% af heildarorkuöflun veitunnar.
- □ [Heimilt er að greiða niður hluta kostnaðar við hitun húsnæðis sem er skráð sem íbúðarhúsnæði hjá [Þjóðskrá Íslands][^1)^] þótt þar sé ekki föst búseta. Heimildin nær til þess að greiða niður orkumagn sem svarar til fjórðungs af því orkumagni sem niðurgreitt er vegna þeirra íbúða sem njóta niðurgreiðslna á grundvelli 1. mgr.
- □ Kostnaður við hitun kirkna, bænahúsa trúfélaga, safna, félagsheimila og húsnæðis björgunarsveita skal greiddur niður á sama hátt og hitun íbúða.][^2)^]
+    [5. Þegar íbúð er hituð með vatni frá kyntri hitaveitu sem notar grisjunarvið eða annað umhverfisvænt eldsneyti.][^1)^]
+ □ [Heimilt er að greiða niður hluta kostnaðar við hitun húsnæðis sem er skráð sem íbúðarhúsnæði hjá [Þjóðskrá Íslands][^2)^] þótt þar sé ekki föst búseta. Heimildin nær til þess að greiða niður orkumagn sem svarar til fjórðungs af því orkumagni sem niðurgreitt er vegna þeirra íbúða sem njóta niðurgreiðslna á grundvelli 1. mgr.
+ □ Kostnaður við hitun kirkna, bænahúsa trúfélaga, safna, félagsheimila og húsnæðis björgunarsveita skal greiddur niður á sama hátt og hitun íbúða.][^3)^]
  □ Ekki skal greiða niður raforkukostnað vegna dælingar á heitu vatni.
-    _[^1)^]"L. 77/2010, 5. gr.":2010077.html#g5 [^2)^]L. 58/2004, 2. gr._
+    _[^1)^]"L. 36/2013, 1. gr.":/altext/stjt/2013.036.html [^2)^]"L. 77/2010, 5. gr.":/altext/stjt/2010.077.html#G5 [^3)^]"L. 58/2004, 2. gr.":/altext/stjt/2004.058.html_
  ■ *5. gr.* _Umsókn um niðurgreiðslur._
  □ [Eigandi eða umráðamaður íbúðar][^1)^] getur sótt um niðurgreiðslu til Orkustofnunar sem ákveður á hvaða formi umsóknir skulu sendar og hvaða upplýsingar sem nauðsynlegar eru vegna framkvæmdar laga þessara eiga að koma þar fram. Stjórn húsfélags getur sótt um niðurgreiðslur fyrir hönd allra íbúðareigenda í fjöleignarhúsi ef hitanotkun hverrar íbúðar er ekki sérmæld. Orkustofnun metur á grundvelli umsóknar hvort skilyrði laga þessara fyrir niðurgreiðslum séu uppfyllt. Ekki þarf að sækja á ný um niðurgreiðslu meðan íbúð er notuð til fastrar búsetu. Breytist aðstæður að þessu leyti ber [eiganda eða umráðamanni][^1)^] að tilkynna Orkustofnun það.
  □ Standi húsnæði autt, sbr. 2. mgr. 4. gr., þarf eigandi þess að sækja um niðurgreiðslur til Orkustofnunar þegar föst búseta fellur niður. Sækja þarf um slíkar niðurgreiðslur á tólf mánaða fresti.
-    _[^1)^]L. 58/2004, 3. gr._
+    _[^1)^]"L. 58/2004, 3. gr.":/altext/stjt/2004.058.html_
  ■ *6. gr.* _Upphæð niðurgreiðslna._
  □ [Í samræmi við fjárhæð niðurgreiðslna sem samþykkt er í fjárlögum viðkomandi árs skal [ráðherra][^1)^] ár hvert ákveða upphæð niðurgreiðslna á raforku í kr./kWst, á vatni frá kyntum hitaveitum í kr./kWst eða kr./m[^3^] og á olíu í kr./l fyrir hverja dreifiveitu rafmagns, hitaveitu eða virkjun. Miða skal upphæð niðurgreiðslna á olíu við að kostnaður notenda verði svipaður við olíuhitun og þar sem hann er dýrastur með rafhitun.][^2)^]
  □ Ráðherra skal að fengnum tillögum Orkustofnunar ákvarða á ári hverju hámarksfjölda kWst og út frá því hámarksfjölda lítra af olíu sem niðurgreiða skal fyrir hverja íbúð. Ef kynt hitaveita nýtir að hluta jarðvarma skal niðurgreiðslan ákvörðuð út frá því hve stór hluti orkuöflunarinnar er með raforku og eldsneyti. ...[^2)^]
  □ [Niðurgreiðslur til notenda sem hljóta styrk vegna umhverfisvænnar orkuöflunar og/eða aðgerða sem leiða til bættrar orkunýtingar við húshitun skulu skerðast í samræmi við þau markmið um orkusparnað sem samið er um milli notanda og Orkustofnunar.][^2)^]
-    _[^1)^]L. 126/2011, 345. gr. [^2)^]L. 41/2009, 3. gr._
+    _[^1)^]"L. 126/2011, 345. gr.":/altext/stjt/2011.126.html [^2)^]"L. 41/2009, 3. gr.":/altext/stjt/2009.041.html_
  ■ *7. gr.* _Ákvörðun notkunar við rafhitun._
  □ Orkunotkun við rafhitun íbúðarhúsnæðis skal ákvörðuð á eftirfarandi hátt:
     1. Ef rafhitun íbúðar er sérmæld skal sú mæling gilda við ákvörðun niðurgreiðslu.
     2. Ef rafhitun er ekki sérmæld skal orkumagn sem greitt er niður ákveðið sem hlutfall af heildarnotkun. Orkustofnun skal skilgreina íbúðarflokka út frá því til hvers raforka er notuð og hlutfall húshitunar af heildarraforkunotkun heimilis fyrir hvern flokk fyrir sig. Stofnunin ákveður hvaða flokki hver íbúð tilheyrir. Ef ástæða er til að ætla að lægra eða hærra hlutfall fari til húshitunar hjá einstökum notanda en skilgreining á viðkomandi flokki segir til um getur Orkustofnun áætlað sérstakt hlutfall fyrir þann notanda og skal miðað við þá áætlun við útreikning á niðurgreiðslu. Ef notandi sættir sig ekki við þessa áætlun getur hann farið fram á að notkunin sé sérmæld og skal miða við þá mælingu við ákvörðun niðurgreiðslu. Notandinn greiðir allan kostnað við sérmælinguna.
-■ *8. gr.* _Ákvörðun notkunar við olíuhitun._
+ ■ *8. gr.* _Ákvörðun notkunar við olíuhitun._
  □ Ársnotkun íbúðar á olíu til hitunar skal áætluð af Orkustofnun út frá notkun húsnæðisins og skráðri stærð þess í [fasteignaskrá].[^1)^] Orkustofnun getur farið fram á að fá upplýsingar frá íbúðareiganda um olíukaup til húshitunar og annað sem snýr að notkun húsnæðisins og nauðsynlegt er vegna framkvæmdar laga þessara.
-    _[^1)^]L. 83/2008, 24. gr._
+    _[^1)^]"L. 83/2008, 24. gr.":/altext/stjt/2008.083.html_
  ■ *9. gr.* _Framkvæmd niðurgreiðslna á raforku og heitu vatni frá kyntum hitaveitum._
  □ Dreifiveitur raforku og kyntar hitaveitur skulu draga upphæð niðurgreiðslu frá gjaldi notanda fyrir þjónustu veitunnar og skal notandinn fá upplýsingar um upphæð niðurgreiðslu. Ef niðurgreiðslan er hærri en nemur fjárhæð reiknings skal veitan greiða notandanum mismuninn. Ef orka frá virkjun fer ekki um kerfi dreifiveitu heldur beint til notanda skal sú notkun vera mæld með löggildum mæli og vinnsluaðili sjá um uppgjör niðurgreiðslu á sama hátt og dreifiveitur gera þegar orkan fer um kerfi þeirra.
  ■ *10. gr.* _Framkvæmd niðurgreiðslu á olíu._
  □ Orkustofnun ákveður niðurgreiðslur á olíu til einstakra notenda á grundvelli viðmiða, sbr. 8. gr., og sér til þess að greiðsla fari fram ársfjórðungslega.
 
  *III. kafli.* *[Stofnun nýrra hitaveitna, umhverfisvæn orkuöflun og bætt orkunýting.][^1)^]*
-    _[^1)^]L. 41/2009, 8. gr._
+    _[^1)^]"L. 41/2009, 8. gr.":/altext/stjt/2009.041.html_
  ■ *11. gr.* _[Skilyrði styrkja vegna stofnunar nýrra hitaveitna, umhverfisvænnar orkuöflunar og bættrar orkunýtingar.][^1)^]_
  □ Ef ákveðið er í fjárlögum að veita styrki til stofnunar nýrra hitaveitna eða til stækkunar eldri veitna skal þeim fjármunum varið til eftirfarandi þátta:
     1. Til nýrra hitaveitna sem hófu rekstur árið 1998 eða síðar.
     2. Til hitaveitna sem hafa aukið við dreifikerfi sitt á árinu 1998 eða síðar til að geta tengt íbúðarhúsnæði sem notið hefur niðurgreiðslna á rafhitun.
     [3. Til starfandi hitaveitna sem hafa einkaleyfi til dreifingar á heitu vatni og stækka veitusvæði sitt með yfirtöku á hitaveitum sem ekki hafa slíkt einkaleyfi, dreifa heitu vatni um dreifikerfi sitt til a.m.k. 5 aðgreindra húsveitna og standa frammi fyrir kostnaðarsömum aðgerðum vegna endurnýjunar dreifikerfis. Ráðherra er heimilt að setja nánari skilyrði í reglugerð.][^2)^]
-    [4. Til íbúðareigenda sem vilja taka upp umhverfisvæna orkuöflun og/eða ráðast í aðgerðir sem leiða til bættrar orkunýtingar við húshitun.][^1)^]
-    _[^1)^]L. 41/2009, 4. gr._ [^2)^]L. 86/2006, 1. gr.
+    [4. Til kyntra hitaveitna sem tengjast íbúðarhúsnæði sem notið hefur niðurgreiðslna á rafhitun eða olíu.][^3)^]
+    [[5. ][^3)^] Til íbúðareigenda sem vilja taka upp umhverfisvæna orkuöflun og/eða ráðast í aðgerðir sem leiða til bættrar orkunýtingar við húshitun.][^1)^]
+    _[^1)^]"L. 41/2009, 4. gr.":/altext/stjt/2009.041.html [^2)^]"L. 86/2006, 1. gr.":/altext/stjt/2006.086.html [^3)^]"L. 36/2013, 2. gr.":/altext/stjt/2013.036.html_
  ■ *12. gr.* _Fjárhæð styrkja._
- □ [Styrkur til hverrar hitaveitu getur numið allt að [tólf ára][^1)^] áætluðum niðurgreiðslum á rafmagni eða olíu til húshitunar á orkuveitusvæði viðkomandi hitaveitu miðað við meðalnotkun til húshitunar næstu fimm ár á undan. [Þegar um er að ræða styrki á grundvelli 3. tölul. 11. gr. skal miðað við 20.000 kWst ársnotkun á hverja íbúð sem tengd er veitunni. Við ákvörðun styrkfjárhæðar skal miðað við fjárhæð niðurgreiðslu í dreifbýli á veitusvæði Rafmagnsveitna ríkisins.][^2)^] [Styrkir á grundvelli 4. tölul. 11. gr. skulu jafngilda átta ára áætluðum niðurgreiðslum sem lækka í réttu hlutfalli við orkusparnað tengdan umhverfisvænni orkuöflun og/eða aðgerðum sem leiða til bættrar orkunýtingar við húshitun.][^3)^] Greiðsla stofnstyrks til nýrrar hitaveitu eða vegna stækkunar hitaveitu skal miðuð við tímamarkið þegar hitaveitan tekur til starfa eða stækkun er tekin í notkun. Af fjárveitingu hvers árs til niðurgreiðslu á orku til húshitunar og stofnstyrkja hitaveitna skal styrkveiting til nýrra hitaveitna þó aldrei vera meiri en 20% heildarfjárveitingar. Árlega getur hver einstök hitaveita að hámarki fengið styrk er nemur 15% árlegrar heildarfjárveitingar til niðurgreiðslu á húshitunarkostnaði og nýrra hitaveitna.][^4)^] ...[^1)^]
- □ [Fyrir 1. október ár hvert skal leggja fram skýrslu um ráðstöfun fjár samkvæmt lögum þessum á næstliðnu ári. Einnig skal leggja fram endurskoðaða áætlun greiðslna yfirstandandi árs og áætlun fyrir næstkomandi ár. Greina skal sundurliðað hve miklu fjármagni er varið til niðurgreiðslu húshitunar, stofnstyrkja hitaveitna og orkusparnaðaraðgerða.][^4)^]
-    _[^1)^]L. 82/2012, 1. gr. [^2)^]L. 86/2006, 2. gr. [^3)^]L. 41/2009, 5. gr. [^4)^]L. 58/2004, 4. gr._
+ □ [Styrkur til hverrar hitaveitu getur numið allt að [tólf ára][^1)^] áætluðum niðurgreiðslum á rafmagni eða olíu til húshitunar á orkuveitusvæði viðkomandi hitaveitu miðað við meðalnotkun til húshitunar næstu fimm ár á undan. [Þegar um er að ræða styrki á grundvelli 3. tölul. 11. gr. skal miðað við 20.000 kWst ársnotkun á hverja íbúð sem tengd er veitunni. Við ákvörðun styrkfjárhæðar skal miðað við fjárhæð niðurgreiðslu í dreifbýli á veitusvæði Rafmagnsveitna ríkisins.][^2)^] [Styrkir á grundvelli [5. tölul.][^3)^] 11. gr. skulu jafngilda átta ára áætluðum niðurgreiðslum sem lækka í réttu hlutfalli við orkusparnað tengdan umhverfisvænni orkuöflun og/eða aðgerðum sem leiða til bættrar orkunýtingar við húshitun.][^4)^] [Styrkur á grundvelli 4. tölul. 11. gr. getur numið allt að tólf ára áætluðum mismun á niðurgreiðslum á beinni rafhitun eða olíu og niðurgreiðslum kyntrar hitaveitu.][^3)^] Greiðsla stofnstyrks til nýrrar hitaveitu eða vegna stækkunar hitaveitu skal miðuð við tímamarkið þegar hitaveitan tekur til starfa eða stækkun er tekin í notkun. Af fjárveitingu hvers árs til niðurgreiðslu á orku til húshitunar og stofnstyrkja hitaveitna skal styrkveiting til nýrra hitaveitna þó aldrei vera meiri en 20% heildarfjárveitingar. Árlega getur hver einstök hitaveita að hámarki fengið styrk er nemur 15% árlegrar heildarfjárveitingar til niðurgreiðslu á húshitunarkostnaði og nýrra hitaveitna.][^5)^] ...[^1)^]
+ □ [Fyrir 1. október ár hvert skal leggja fram skýrslu um ráðstöfun fjár samkvæmt lögum þessum á næstliðnu ári. Einnig skal leggja fram endurskoðaða áætlun greiðslna yfirstandandi árs og áætlun fyrir næstkomandi ár. Greina skal sundurliðað hve miklu fjármagni er varið til niðurgreiðslu húshitunar, stofnstyrkja hitaveitna og orkusparnaðaraðgerða.][^5)^]
+    _[^1)^]"L. 82/2012, 1. gr.":/altext/stjt/2012.082.html [^2)^]"L. 86/2006, 2. gr.":/altext/stjt/2006.086.html [^3)^]"L. 36/2013, 3. gr.":/altext/stjt/2013.036.html [^4)^]"L. 41/2009, 5. gr.":/altext/stjt/2009.041.html [^5)^]"L. 58/2004, 4. gr.":/altext/stjt/2004.058.html_
  ■ *13. gr.* _Umsóknir._
  □ [Umsóknir um styrki skulu sendar Orkustofnun. Umsóknum skulu eftir atvikum fylgja upplýsingar um umsækjanda, fyrirhugaðar framkvæmdir, ráðstöfun styrks og önnur atriði sem máli skipta varðandi afgreiðslu styrkumsóknar. Ráðherra skal í reglugerð kveða nánar á um styrkumsóknir.][^1)^]
-    _[^1)^]L. 41/2009, 6. gr._
+    _[^1)^]"L. 41/2009, 6. gr.":/altext/stjt/2009.041.html_
  ■ *14. gr.* _Úthlutun og ráðstöfun styrkja._
  □ Styrkur greiðist til hitaveitu þegar hún hefur rekstur með dreifingu á heitu vatni til húshitunar á orkuveitusvæðinu. Styrkurinn er eingreiðsla. Ef tengingum íbúðarhúsa er skipt í áfanga eða hluti íbúðarhúsa á orkuveitusvæði er ekki tengdur þegar hitaveita tekur til starfa er heimilt að ákveða að hluti styrksins skuli greiddur út og niðurgreiðslum vegna rafhitunar tiltekinna íbúðarhúsa haldið áfram þrátt fyrir 15. gr. Endanlegt uppgjör á fjárhæð styrksins fer í þeim tilvikum fram þegar stjórn viðkomandi hitaveitu óskar, þó eigi síðar en níu mánuðum eftir að fyrsti hluti styrksins er greiddur út. Við greiðslu á þeirri fjárhæð sem haldið var eftir skal draga frá heildarfjárhæð niðurgreiðslna á raforku til hitunar íbúðarhúsnæðis á viðkomandi orkuveitusvæði á aðlögunartímanum.
  □ Hitaveitan skal nýta styrkinn að hluta til að greiða niður stofnkostnað hitaveitunnar og að hluta til að styrkja eigendur íbúðarhúsa þar sem kostnaður við tengingu við starfandi eða nýjar veitur er umtalsverður, svo sem vegna kostnaðarsamra breytinga á hitakerfi. Stjórn hitaveitunnar skal ákvarða hlutföllin en hvor hluti styrksins má nema allt að 65% af heildarfjárhæðinni.
  □ [Styrkir til hitaveitu á grundvelli 3. tölul. 11. gr. skulu renna óskertir til hitaveitunnar.][^1)^]
- □ [Styrkir á grundvelli 4. tölul. 11. gr. greiðast íbúðareiganda samkvæmt nánara samkomulagi milli Orkustofnunar og íbúðareiganda.][^2)^]
-    _[^1)^]L. 86/2006, 3. gr. [^2)^]L. 41/2009, 7. gr._
+ □ [Styrkir á grundvelli [5. tölul.][^2)^] 11. gr. greiðast íbúðareiganda samkvæmt nánara samkomulagi milli Orkustofnunar og íbúðareiganda.][^3)^]
+    _[^1)^]"L. 86/2006, 3. gr.":/altext/stjt/2006.086.html [^2)^]"L. 36/2013, 4. gr.":/altext/stjt/2013.036.html [^3)^]"L. 41/2009, 7. gr.":/altext/stjt/2009.041.html_
  ■ *15. gr.* _Niðurfelling niðurgreiðslna._
  □ Ef stofnuð er ný hitaveita eða eldri veita stækkuð skal fella niður niðurgreiðslu á kostnaði til hitunar íbúðarhúsnæðis á starfssvæði hitaveitunnar, sbr. þó 2. tölul. 4. gr. Orkustofnun skal tilkynna íbúðareiganda um niðurfellinguna og hefur hann 30 daga frá dagsetningu tilkynningar til að koma á framfæri andmælum áður en ákvörðun um brottfall niðurgreiðslna kemur til framkvæmda.
  ■ *[16. gr.* _Fjárveiting til jarðhitaleitar._
  □ Ráðherra er heimilt að ákveða að sérstakt jarðhitaleitarátak á köldum svæðum fái allt að 5% af árlegri fjárveitingu til niðurgreiðslu á húshitunarkostnaði og nýrra hitaveitna. Beiðnir um styrki skulu sendar [ráðuneytinu][^1)^] ásamt greinargerð um fyrirhugaða jarðhitaleit.][^2)^]
-    _[^1)^]L. 126/2011, 345. gr. [^2)^]L. 58/2004, 5. gr._
+    _[^1)^]"L. 126/2011, 345. gr.":/altext/stjt/2011.126.html [^2)^]"L. 58/2004, 5. gr.":/altext/stjt/2004.058.html_
 
  *IV. kafli.* *Eftirlit.*
  ■ *[17. gr.][^1)^]* _Eftirlit Orkustofnunar._
  □ Orkustofnun hefur eftirlit með framkvæmd laga þessara. Upplýsingar og gögn sem nauðsynleg eru vegna framkvæmdar þeirra skulu liggja fyrir hjá Orkustofnun.
  □ Ef breytingar verða á aðstæðum og íbúðareigandi hefur ekki lengur rétt til niðurgreiðslu samkvæmt lögum þessum ber íbúðareiganda að tilkynna slíkt til Orkustofnunar.
  □ Orkustofnun skal ár hvert áætla kostnað stofnunarinnar við þetta eftirlit og leggja fyrir [ráðherra][^2)^] til staðfestingar. Kostnaður vegna eftirlits Orkustofnunar samkvæmt staðfestri áætlun greiðist af því fé sem ákveðið er í fjárlögum til niðurgreiðslna á kostnaði við húshitun og til að styrkja nýjar hitaveitur.
-    _[^1)^]L. 58/2004, 5. gr. [^2)^]L. 126/2011, 345. gr._
+    _[^1)^]"L. 58/2004, 5. gr.":/altext/stjt/2004.058.html [^2)^]"L. 126/2011, 345. gr.":/altext/stjt/2011.126.html_
  ■ *[18. gr.][^1)^]* _Heimildir Orkustofnunar._
  □ Dreifiveitum og kyntum hitaveitum ber að afhenda Orkustofnun upplýsingar um orkukaupendur sem fá niðurgreiðslur og um notkun þeirra þegar stofnunin fer fram á slíkt.
-    _[^1)^]L. 58/2004, 5. gr._
+    _[^1)^]"L. 58/2004, 5. gr.":/altext/stjt/2004.058.html_
  ■ *[19. gr.][^1)^]* _Úrræði Orkustofnunar._
  □ Ef Orkustofnun verður þess áskynja að orkukaupandi tilkynnir ekki um breyttar aðstæður, sem hefðu átt að leiða til brottfalls niðurgreiðslu, skal stofnunin fella niðurgreiðslurnar niður og hefur orkukaupandi 30 daga frá dagsetningu tilkynningar til að koma á framfæri andmælum áður en ákvörðun um brottfall niðurgreiðslna kemur til framkvæmda.
-    _[^1)^]L. 58/2004, 5. gr._
+    _[^1)^]"L. 58/2004, 5. gr.":/altext/stjt/2004.058.html_
 
  *V. kafli.* *Orkusparnaður.*
  ■ *[20. gr.][^1)^]* _Orkusparnaðaraðgerðir._
  □ Verja skal til orkusparnaðaraðgerða allt að [3%][^2)^] af því fé sem ákveðið er í fjárlögum til niðurgreiðslna á kostnaði við húshitun og til að styrkja nýjar hitaveitur.
  □ Orkusparnaðaraðgerðir skulu stuðla að því að draga úr kostnaði við niðurgreiðslur á húshitunarkostnaði. Orkustofnun skal gera áætlun um hvernig fénu skuli varið og leggja hana fyrir [ráðherra][^3)^] til staðfestingar.
-    _[^1)^]L. 58/2004, 5. gr. [^2)^]L. 41/2009, 9. gr. [^3)^]L. 126/2011, 345. gr._
+    _[^1)^]"L. 58/2004, 5. gr.":/altext/stjt/2004.058.html [^2)^]"L. 41/2009, 9. gr.":/altext/stjt/2009.041.html [^3)^]"L. 126/2011, 345. gr.":/altext/stjt/2011.126.html_
 
  *VI. kafli.* *Ýmis ákvæði.*
  ■ *[21. gr.][^1)^]* _Reglugerð._
  □ [[Ráðherra][^2)^] skal setja reglugerð[^3)^] um framkvæmd laga þessara, m.a. um útreikning niðurgreiðslna, íbúðarflokka, úthlutun styrkja til nýrra hitaveitna vegna yfirtöku starfandi einkaleyfisveitna á einkahitaveitum, úthlutun styrkja vegna umhverfisvænnar orkuöflunar til húshitunar sem leiðir til lækkunar á orkuþörf til hitunar og eftirlit. Þá skal ráðherra í reglugerð kveða nánar á um fyrirkomulag styrkja vegna endurbóta á húsnæði.][^4)^]
-    _[^1)^]L. 58/2004, 5. gr. [^2)^]L. 126/2011, 345. gr. [^3)^]Rg. 660/2009. [^4)^]L. 41/2009, 10. gr._
+    _[^1)^]"L. 58/2004, 5. gr.":/altext/stjt/2004.058.html [^2)^]"L. 126/2011, 345. gr.":/altext/stjt/2011.126.html [^3)^]"Rg. 660/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/660-2009. [^4)^]"L. 41/2009, 10. gr.":/altext/stjt/2009.041.html_
  ■ *[22. gr.][^1)^]* Lög þessi öðlast þegar gildi.
-    _[^1)^]L. 58/2004, 5. gr._
+    _[^1)^]"L. 58/2004, 5. gr.":/altext/stjt/2004.058.html_
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Allir þeir aðilar sem við gildistöku laga þessara njóta niðurgreiðslna á orku til húshitunar og uppfylla skilyrði 4. gr. geta sótt um niðurgreiðslur, svo og aðrir er telja sig eiga rétt á þeim. Slíkar umsóknir skulu berast innan þriggja mánaða frá gildistöku laganna. Ef umsókn berst ekki falla niðurgreiðslur niður sex mánuðum frá gildistöku laganna.

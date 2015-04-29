@@ -7,9 +7,9 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
 <hr />
 
 
- *Tóku gildi 16. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 2000/31/EB. _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 34/2007 (tóku gildi 30. mars 2007), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 16. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 2000/31/EB. _Breytt með_ "l. 62/2005":2005062.html (tóku gildi 1. júlí 2005), "l. 108/2006":/altext/stjt/2006.108.html (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), "l. 34/2007":/altext/stjt/2007.034.html (tóku gildi 30. mars 2007), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -19,7 +19,7 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
  □ Lög þessi gilda um rafræn viðskipti og aðra rafræna þjónustu.
  □ Lögin gilda ekki um rafræna þjónustu sem snertir skattamálefni, vernd persónuupplýsinga, ólögmætt samráð eða samstilltar aðgerðir fyrirtækja, hagsmunagæslu lögmanna fyrir dómstólum, fjárhættustarfsemi sem felst í því að leggja fram fé í áhættuleikjum og starfsemi lögbókenda að því marki sem í henni felst beiting opinbers valds.
  □ [Ráðherra][^1)^] fer með yfirstjórn mála samkvæmt lögum þessum.
-    _[^1)^]L. 126/2011, 340. gr._
+    _[^1)^]"L. 126/2011, 340. gr.":/altext/stjt/2011.126.html_
  ■ *2. gr.* _Orðskýringar._
  □ Í lögum þessum er merking eftirfarandi hugtaka sem hér segir:
     1. _Rafræn þjónusta:_ Þjónusta sem almennt er veitt gegn greiðslu, úr fjarlægð, með rafrænum hætti að beiðni þjónustuþega.
@@ -27,11 +27,11 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
     3. _Þjónustuþegi:_ Einstaklingur eða lögpersóna sem í atvinnuskyni eða í öðrum tilgangi nýtir sér rafræna þjónustu.
 
  *II. kafli.* *Regla upprunalands.*
-■ *3. gr.* _Meginregla._
+ ■ *3. gr.* _Meginregla._
  □ Rafræn þjónusta sem þjónustuveitendur með staðfestu á Íslandi veita skal vera í samræmi við íslensk lög um stofnun og starfrækslu þjónustunnar.
  □ [Engin höft skulu vera á frelsi þjónustuveitanda með staðfestu á Evrópska efnahagssvæðinu, í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða Færeyjum til að veita þjónustu hér á landi að því er varðar lagalegar kröfur um stofnun og starfrækslu þjónustunnar.][^1)^]
  □ Þjónustuveitandi telst hafa staðfestu í tilteknu ríki ef hann stundar þar virka atvinnustarfsemi ótímabundið í fastri starfsstöð.
-    _[^1)^]L. 108/2006, 90. gr._
+    _[^1)^]"L. 108/2006, 90. gr.":/altext/stjt/2006.108.html_
  ■ *4. gr.* _Almennar undantekningar frá meginreglu._
  □ Ákvæði 3. gr. gilda ekki um eftirfarandi:
     1. rétt aðila til að semja um hvaða lög gildi um samninga þeirra,
@@ -42,7 +42,7 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
     6. útgáfu rafeyris af hálfu fyrirtækja sem veitt hefur verið undanþága skv. 8. gr. tilskipunar 2000/46/EB,
     7. markaðssetningu bréfa í verðbréfasjóðum skv. 44. gr. tilskipunar 85/611/EBE, og
     8. staðfesturétt og rétt til að veita tryggingaþjónustu samkvæmt tilskipun 92/49/EBE, tilskipun 92/96/EBE, tilskipun 88/357/EBE og tilskipun 90/619/EBE.
-■ *5. gr.* _Einstakar undantekningar frá meginreglu._
+ ■ *5. gr.* _Einstakar undantekningar frá meginreglu._
  □ Stjórnvöld geta í einstökum tilfellum vikið frá ákvæðum 2. mgr. 3. gr. og takmarkað frjálst flæði rafrænnar þjónustu ef takmörkun er nauðsynleg til verndar:
     1. almennu siðferði, allsherjarreglu, almannaöryggi,
     2. lífi og heilsu manna, eða
@@ -51,7 +51,7 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
  □ Ekki er heimilt að grípa til sérstakra aðgerða skv. 1. mgr. gegn einstökum þjónustuveitendum nema aðildarríki þar sem þjónustuveitandi hefur staðfestu hafi vanrækt, þrátt fyrir beiðni íslenskra stjórnvalda, að grípa til aðgerða gegn brotum eða að úrræðin hafi verið ófullnægjandi. Tilkynna skal Eftirlitsstofnun EFTA og því ríki þar sem umræddur þjónustuveitandi hefur staðfestu um fyrirhugaðar aðgerðir. Þetta á þó ekki við um lögbann eða rannsókn sakamáls.
  □ Í áríðandi málum geta stjórnvöld vikið frá ákvæðum 3. mgr. Í þeim tilvikum skal tilkynna um aðgerðirnar svo skjótt sem kostur er til Eftirlitsstofnunar EFTA og til þess aðildarríkis þar sem þjónustuveitandi hefur staðfestu. Í tilkynningunni skal gefið til kynna hvers vegna málið er talið áríðandi.
  □ [Ákvæði 3. og 4. mgr. skulu eiga við um þjónustuveitendur með staðfestu í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu og í Færeyjum og um tilkynningar íslenskra stjórnvalda til þarlendra stjórnvalda eftir því sem við á.][^1)^]
-    _[^1)^]L. 108/2006, 91. gr._
+    _[^1)^]"L. 108/2006, 91. gr.":/altext/stjt/2006.108.html_
 
  *III. kafli.* *Upplýsingaskylda.*
  ■ *6. gr.* _Almennar upplýsingar._
@@ -104,7 +104,7 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
  □ Ákvæði 1. mgr. gilda um sjálfvirka, millistigs- og skammtímageymslu þeirra gagna sem eru flutt að því tilskildu að:
     1. geymslan sé óhjákvæmileg vegna miðlunar, og
     2. gögnin séu ekki geymd lengur en nauðsynlegt er vegna miðlunar.
-■ *13. gr.* _Takmörkun ábyrgðar vegna skyndivistunar._
+ ■ *13. gr.* _Takmörkun ábyrgðar vegna skyndivistunar._
  □ Þjónustuveitandi sem miðlar gögnum sem þjónustuþegi lætur í té um fjarskiptanet eða veitir aðgang að fjarskiptaneti ber ekki ábyrgð á sjálfvirkri, millistigs- og skammtímageymslu þeirra gagna, sem er eingöngu gerð í þeim tilgangi að auka skilvirkni við miðlun til annarra þjónustuþega, að því tilskildu að þjónustuveitandinn:
     1. breyti ekki gögnunum,
     2. fullnægi skilyrðum um aðgang að gögnunum,
@@ -113,7 +113,7 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
  □ Takmörkun ábyrgðar skv. 1. mgr. er háð því að þjónustuveitandi fjarlægi eða hindri aðgang að gögnunum um leið og hann hefur fengið:
     1. rökstudda vitneskju um að dómstóll eða stjórnvald hafi fyrirskipað brottfellingu eða hindrun aðgangs að gögnunum, eða
     2. rökstudda vitneskju þess efnis að gögnin hafi verið fjarlægð úr fjarskiptaneti við upptök miðlunar eða að hindraður hafi verið aðgangur að þeim þar.
-■ *14. gr.* _Takmörkun ábyrgðar vegna hýsingar._
+ ■ *14. gr.* _Takmörkun ábyrgðar vegna hýsingar._
  □ Þjónustuveitandi sem hýsir gögn sem látin eru í té af þjónustuþega ber ekki ábyrgð á þeim að því tilskildu að hann fjarlægi þau eða hindri aðgang að þeim án tafar eftir að hann hefur fengið:
     1. vitneskju um að sýslumaður hafi lagt lögbann við hýsingu gagnanna eða dómur hafi fallið um brottfellingu þeirra eða hindrun aðgangs að þeim,
     2. tilkynningu skv. 15. gr., ef um meint brot gegn ákvæðum höfundalaga er að ræða, eða
@@ -148,17 +148,17 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
  □ [Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um Neytendastofu og talsmann neytenda.
  □ Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður áfrýjunarnefndar neytendamála liggur fyrir.
  □ Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.][^2)^]
-    _[^1)^]"L. 62/2005, 13. gr.":2005062.html#g13 [^2)^]L. 34/2007, 6. gr._
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13 [^2)^]"L. 34/2007, 6. gr.":/altext/stjt/2007.034.html_
  ■ *20. gr.* _Tengiliður._
  □ [Ráðuneytið][^1)^] skal vera tengiliður vegna samstarfs við önnur aðildarríki á Evrópska efnahagssvæðinu um rafræn viðskipti. Þá skal [ráðuneytið][^1)^] vera tengiliður þar sem þjónustuþegar og þjónustuveitendur geta aflað sér almennra upplýsinga um rafræna þjónustu, þar á meðal um samningsréttindi og samningsskyldur, úrræði í deilumálum og upplýsingar um stjórnvöld, samtök eða stofnanir sem geta veitt frekari upplýsingar. Ráðuneytið getur falið öðrum aðilum að vera tengiliður samkvæmt ákvæði þessu eftir nánari reglum sem ráðherra setur.
-    _[^1)^]L. 126/2011, 340. gr._
+    _[^1)^]"L. 126/2011, 340. gr.":/altext/stjt/2011.126.html_
  ■ *21. gr.* _Innleiðing._
  □ Lög þessi eru sett með hliðsjón af ákvörðun sameiginlegu EES-nefndarinnar nr. 91/2000 um breytingu á XI. viðauka við EES-samninginn frá 2. maí 1992 og til þess að taka upp í innlendan rétt ákvæði tilskipunar Evrópuþingsins og ráðsins 2000/31/EB frá 8. júní 2000 um tiltekna lagalega þætti þjónustu, einkum rafrænna viðskipta, í tengslum við upplýsingasamfélagið á innri markaðnum („tilskipun um rafræn viðskipti“). Lög þessi hafa verið tilkynnt í samræmi við ákvæði tilskipunar 98/34/EB sem setur reglur um tilhögun upplýsingaskipta vegna tæknilegra reglna.
  ■ *22. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi.
- ■ *23. gr.* ...
- ■ *24. gr.* ...
- ■ *25. gr.* ...
+ ■ *23. gr.* "...":http://www.althingi.is/vefur/lagas-hlp.html
+ ■ *24. gr.* "...":http://www.althingi.is/vefur/lagas-hlp.html
+ ■ *25. gr.* "...":http://www.althingi.is/vefur/lagas-hlp.html
  ■ *Ákvæði til bráðabirgða.* Endurskoða skal ákvæði 19. gr. laga þessara þegar fimm ár eru liðin frá gildistöku þeirra með hliðsjón af reynslu af eftirlitinu og umfangi þess.
 
 

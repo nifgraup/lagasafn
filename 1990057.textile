@@ -7,9 +7,9 @@ h2. Lög um flokkun og mat á gærum og ull
 <hr />
 
 
- *Tóku gildi 1. júlí 1990.* _Breytt með_ l. 144/1995 (tóku gildi 1. jan. 1996; komu til framkvæmda skv. fyrirmælum í 59. gr.), l. 73/1996 (tóku gildi 19. júní 1996), l. 140/1996 (tóku gildi 1. jan. 1997 nema 1. gr. sem tók gildi 30. des. 1996), l. 48/2002 (tóku gildi 7. maí 2002), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. júlí 1990.* _Breytt með_ "l. 144/1995":/altext/stjt/1995.144.html (tóku gildi 1. jan. 1996; komu til framkvæmda skv. fyrirmælum í 59. gr.), "l. 73/1996":/altext/stjt/1996.073.html (tóku gildi 19. júní 1996), "l. 140/1996":/altext/stjt/1996.140.html (tóku gildi 1. jan. 1997 nema 1. gr. sem tók gildi 30. des. 1996), "l. 48/2002":/altext/stjt/2002.048.html (tóku gildi 7. maí 2002), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -17,7 +17,7 @@ h2. Lög um flokkun og mat á gærum og ull
  *I. kafli.* *Um flokkun, meðferð og sölumat á gærum.*
  _Flokkun gæra._
  ■ *1. gr.* Allar gærur, sem selja á, skulu flokkaðar við móttöku fjár í sláturhúsi. Skal flokkunin lögð til grundvallar útreikningi á verði gæranna til einstakra framleiðenda eftir því sem sundurliðun á verðlagsgrundvelli gefur tilefni til. Við flokkun gæra skal taka tillit til ástands, eðlisgæða og litar þeirra samkvæmt nánari ákvæðum í reglugerð.[^1)^]
-    _[^1)^]Rg. 405/1986._
+    _[^1)^]"Rg. 405/1986":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/405-1986._
  _Meðferð og sölumat gæra._
  ■ *2. gr.* Sláturleyfishöfum er skylt að hlíta fyrirmælum gærumatsmanna um fyrirristu, fláningu, kælingu, söltun, frágang, geymslu og afhendingu gæra. Við afhendingu skal tilgreina tölu og flokk saltaðra gæra. Gærumatsmaður skal yfirfara gærur við móttöku þeirra í sútunarverksmiðju, meta ástand þeirra og gefa vottorð þar um. Nánari ákvæði um meðferð, meðhöndlun og framkvæmd sölumats og gerð vottorðs skal setja í reglugerð.
 
@@ -25,10 +25,10 @@ h2. Lög um flokkun og mat á gærum og ull
  _Mat á óþveginni ull._
  ■ *3. gr.* Öll óþvegin ull, sem framleidd er í landinu og selja á, skal flokkuð og metin eftir lit og gæðum samkvæmt flokkunar- og matsreglum sem [ráðherra][^1)^] setur í reglugerð að fengnum tillögum ullarmatsnefndar.
  □ Framleiðendur ullar skulu skila ullinni í merktum umbúðum og er kaupanda eða umboðsaðila skylt að meta ullina sem fyrst eftir móttöku. Kaupanda er þó heimilt að meta ullina hjá framleiðanda. Framleiðanda skal send skýrsla um matið.
-    _[^1)^]L. 126/2011, 142. gr._
+    _[^1)^]"L. 126/2011, 142. gr.":/altext/stjt/2011.126.html_
  _Mat á þveginni ull._
  ■ *4. gr.* Öll þvegin ull, sem selja á, skal metin af ullarmatsmönnum ef kaupandi eða seljandi óskar þess. [Ráðherra][^1)^] er heimilt að setja í reglugerð nánari ákvæði um útflutning ullar.
-    _[^1)^]L. 126/2011, 142. gr._
+    _[^1)^]"L. 126/2011, 142. gr.":/altext/stjt/2011.126.html_
 
  *III. kafli.* *Um starfsmenn við gæru- og ullarmat.*
  _Löggilding matsmanna gæra og ullar._
@@ -40,17 +40,17 @@ h2. Lög um flokkun og mat á gærum og ull
  □ ...[^3)^]
  □ Ágreiningi út af ullar- og gærumati er heimilt að skjóta til nefndar skv. 1. eða 2. mgr. sem fellir úrskurð innan 30 daga frá því að erindi barst nefndinni. Að öðru leyti skal hlutverk nefndanna vera að veita fræðslu um flokkun, meðferð og framkvæmd mats á gærum og ull og er matsmönnum skylt að hlíta mati í samræmi við fyrirmæli viðkomandi nefndar.
  □ [Heimilt er [ráðherra][^1)^] að setja nánari ákvæði[^4)^] um starfssvið gæru- og ullarmatsmanna og nefnda skv. 1. og 2. mgr.][^3)^]
-    _[^1)^]L. 126/2011, 142. gr. [^2)^]L. 73/1996, 24. gr. [^3)^]L. 48/2002, 1. gr. [^4)^]Rg. 856/2003._
+    _[^1)^]"L. 126/2011, 142. gr.":/altext/stjt/2011.126.html [^2)^]"L. 73/1996, 24. gr.":/altext/stjt/1996.073.html [^3)^]"L. 48/2002, 1. gr.":/altext/stjt/2002.048.html [^4)^]"Rg. 856/2003":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/856-2003._
 
  *IV. kafli.* *Ýmis ákvæði.*
  _Kostnaður._
  ■ *7. gr.* [Kostnaður af starfi gæru- og ullarmatsnefnda greiðist úr ríkissjóði en kostnað af starfi matsmanna greiða viðkomandi afurðastöðvar.][^1)^]
  □ [Um gjald af sláturleyfishöfum fyrir yfirmat fer samkvæmt ákvæðum "9. gr. laga nr. 30/1966":1966030.html,[^2)^] um meðferð, skoðun og mat á sláturafurðum, með síðari breytingum.][^3)^]
-    _[^1)^]L. 48/2002, 2. gr. [^2)^]Nú "l. 96/1997":1997096.html. [^3)^]L. 140/1996, 7. gr._
+    _[^1)^]"L. 48/2002, 2. gr.":/altext/stjt/2002.048.html [^2)^]Nú "l. 96/1997":1997096.html. [^3)^]"L. 140/1996, 7. gr.":/altext/stjt/1996.140.html_
  _Refsiákvæði, gildistaka._
  ■ *8. gr.* Brot á ákvæðum laga þessara og reglugerða, sem settar verða samkvæmt þeim, varða sektum nema þyngri refsing liggi við samkvæmt öðrum lögum. ...[^1)^]
- □ Lög þessi öðlast gildi 1. júlí 1990. ...
-    _[^1)^]"L. 88/2008, 233. gr.":2008088.html#g233_
+ □ Lög þessi öðlast gildi 1. júlí 1990. "...":http://www.althingi.is/vefur/lagas-hlp.html
+    _[^1)^]"L. 88/2008, 233. gr.":/altext/stjt/2008.088.html#G233_
 
 
 

@@ -7,9 +7,9 @@ h2. Lög um heilbrigðisþjónustu
 <hr />
 
 
- *Tóku gildi 1. september 2007.* _Breytt með_ l. 160/2007 (tóku gildi 1. jan. 2008), l. 12/2008 (tóku gildi 1. apríl 2008), "l. 112/2008":2008112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; komu til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.), l. 59/2010 (tóku gildi 17. júní 2010), l. 162/2010 (tóku gildi 1. jan. 2011), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 28/2012 (tóku gildi 1. júní 2012).
+ *Tóku gildi 1. september 2007.* _Breytt með_ "l. 160/2007":/altext/stjt/2007.160.html (tóku gildi 1. jan. 2008), "l. 12/2008":/altext/stjt/2008.012.html (tóku gildi 1. apríl 2008), "l. 112/2008":2008112.html (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; komu til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.), "l. 59/2010":/altext/stjt/2010.059.html (tóku gildi 17. júní 2010), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 28/2012":/altext/stjt/2012.028.html (tóku gildi 1. júní 2012).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *velferðarráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *velferðarráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -17,10 +17,10 @@ h2. Lög um heilbrigðisþjónustu
  *I. kafli.* *Gildissvið, stefnumörkun og skilgreiningar.*
  ■ *1. gr.* _Gildissvið og markmið._
  □ Lög þessi taka til skipulags heilbrigðisþjónustu. Markmið þeirra er að allir landsmenn eigi kost á fullkomnustu heilbrigðisþjónustu sem á hverjum tíma eru tök á að veita til verndar andlegri, líkamlegri og félagslegri heilbrigði í samræmi við ákvæði laga þessara, [lög um sjúkratryggingar],[^1)^] lög um réttindi sjúklinga og önnur lög eftir því sem við á.
-    _[^1)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
  ■ *2. gr.* _Yfirstjórn._
  □ [Ráðherra][^1)^] fer með yfirstjórn heilbrigðismála.
-    _[^1)^]L. 126/2011, 451. gr._
+    _[^1)^]"L. 126/2011, 451. gr.":/altext/stjt/2011.126.html_
  ■ *3. gr.* _Stefnumörkun._
  □ Ráðherra markar stefnu um heilbrigðisþjónustu innan ramma laga þessara. Ráðherra er heimilt að grípa til nauðsynlegra ráðstafana til að framfylgja þeirri stefnu, m.a. hvað varðar skipulag heilbrigðisþjónustu, forgangsröðun verkefna innan hennar, hagkvæmni, gæði og öryggi þjónustunnar og aðgengi að henni.
  □ Við skipulag heilbrigðisþjónustu skal stefnt að því að hún sé ávallt veitt á viðeigandi þjónustustigi og að heilsugæslan sé að jafnaði fyrsti viðkomustaður sjúklinga.
@@ -38,27 +38,27 @@ h2. Lög um heilbrigðisþjónustu
     10. _Háskólasjúkrahús:_ Sjúkrahús sem veitir þjónustu í nær öllum viðurkenndum sérgreinum læknisfræði og hjúkrunarfræði, með áherslu á rannsóknir, þróun og kennslu. Sjúkrahúsið er í nánu samstarfi við háskóla sem sinnir kennslu og rannsóknum í læknisfræði og flestum öðrum greinum heilbrigðisvísinda, svo og eftir atvikum framhaldsskóla. Starfsmenn sjúkrahússins, sem uppfylla tilteknar hæfiskröfur háskóla, gegna störfum bæði á sjúkrahúsinu og við háskólann eða hafa önnur starfstengsl við háskólann. Meðferð sjúklinga, kennsla og rannsóknir eru samþætt í daglegum störfum á sjúkrahúsinu.
     11. _Kennslusjúkrahús:_ Sjúkrahús sem veitir þjónustu í helstu sérgreinum læknisfræði og hjúkrunarfræði og hefur tengsl við háskóla sem sinnir kennslu og rannsóknum í læknisfræði og fleiri greinum heilbrigðisvísinda, svo og eftir atvikum framhaldsskóla. Starfsmenn sjúkrahússins, sem sinna kennslu og rannsóknum, starfa náið með þeim háskóladeildum er sjúkrahúsinu tengjast.
     12. _Starfsstofur heilbrigðisstarfsmanna:_ Starfsstöðvar sjálfstætt starfandi heilbrigðisstarfsmanna þar sem heilbrigðisþjónusta er veitt með eða án greiðsluþátttöku ríkisins.
-    _[^1)^]L. 12/2008, 12. gr._
+    _[^1)^]"L. 12/2008, 12. gr.":/altext/stjt/2008.012.html_
 
  *II. kafli.* *Skipulag heilbrigðisþjónustu.*
  ■ *5. gr.* _Heilbrigðisumdæmi._
  □ Landinu skal skipt í heilbrigðisumdæmi og skal kveðið á um skiptinguna í reglugerð.[^1)^] Heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu í hverju umdæmi skulu hafa með sér samstarf um skipulag heilbrigðisþjónustu á svæðinu. Ráðherra getur, að höfðu samráði við hlutaðeigandi sveitarfélög og Samband íslenskra sveitarfélaga, ákveðið að sameina heilbrigðisstofnanir innan heilbrigðisumdæmis með reglugerð.[^2)^]
  □ Þrátt fyrir skiptingu landsins í heilbrigðisumdæmi skulu sjúklingar jafnan eiga rétt á að leita til þeirrar heilsugæslustöðvar eða heilbrigðisstofnunar sem þeir eiga auðveldast með að ná til hverju sinni.
-    _[^1)^]Rg. 785/2007, sbr. 765/2008, 1084/2008 og 447/2009. [^2)^]Rg. 764/2008, sbr. 1083/2008, 448/2009 og 562/2009. Rg. 76/2011._
+    _[^1)^]"Rg. 785/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/785-2007, sbr. "765/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/765-2008, "1084/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1084-2008 og "447/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2009. [^2)^]"Rg. 764/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/764-2008, sbr. "1083/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1083-2008, "448/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/448-2009 og "562/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2009. "Rg. 76/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/076-2011._
  ■ *6. gr.* _Almenn heilbrigðisþjónusta._
  □ Í hverju heilbrigðisumdæmi skal starfrækt heilbrigðisstofnun eða heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu í umdæminu.
  □ Ráðherra getur í reglugerð[^1)^] kveðið nánar á um starfsemi heilbrigðisstofnana í hverju umdæmi og þá heilbrigðisþjónustu sem þar er veitt.
-    _[^1)^]Rg. 785/2007, sbr. 765/2008, 1084/2008 og 447/2009._
+    _[^1)^]"Rg. 785/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/785-2007, sbr. "765/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/765-2008, "1084/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1084-2008 og "447/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2009._
  ■ *7. gr.* _Sérhæfð heilbrigðisþjónusta._
  □ Sérhæfð sjúkrahúsþjónusta skal veitt á Landspítala og Sjúkrahúsinu á Akureyri og öðrum sjúkrahúsum og heilbrigðisstofnunum samkvæmt ákvörðun ráðherra eða samningum sem gerðir eru í samræmi við ákvæði VII. kafla [og lög um sjúkratryggingar].[^1)^]
  □ Önnur sérhæfð heilbrigðisþjónusta skal veitt á sérhæfðum heilbrigðisstofnunum og öðrum heilbrigðisstofnunum samkvæmt ákvörðun ráðherra eða á grundvelli samninga skv. VII. kafla [og lögum um sjúkratryggingar].[^1)^]
  □ Á starfsstofum heilbrigðisstarfsmanna er veitt sérhæfð heilbrigðisþjónusta eftir atvikum í samræmi við samninga sem gerðir hafa verið samkvæmt ákvæðum VII. kafla [og lögum um sjúkratryggingar].[^1)^]
-    _[^1)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
 
  *III. kafli.* *Stjórn heilbrigðisstofnana.*
  ■ *8. gr.* _Gildissvið._
  □ Ákvæði þessa kafla eiga við um heilbrigðisstofnanir sem ríkið rekur. Ákvæði 10. og 12. gr. eiga þó einnig við um heilbrigðisstofnanir sem reknar eru á grundvelli samnings skv. VII. kafla [og lögum um sjúkratryggingar][^1)^] eftir því sem við getur átt.
-    _[^1)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
  ■ *9. gr.* _Forstjórar heilbrigðisstofnana._
  □ Forstjórar heilbrigðisstofnana eru skipaðir af ráðherra til fimm ára í senn. Forstjóri skal hafa háskólamenntun og/eða reynslu af rekstri og stjórnun sem nýtist honum í starfi.
  □ Ráðherra skal skipa þriggja manna nefnd til fjögurra ára í senn til að meta hæfni umsækjenda um stöður forstjóra heilbrigðisstofnana. Fulltrúar í nefndinni skulu hafa þekkingu á rekstri, starfsmannamálum, stjórnsýslu og heilbrigðisþjónustu. Engan má skipa til starfa nema nefndin hafi talið hann hæfan.
@@ -93,17 +93,17 @@ h2. Lög um heilbrigðisþjónustu
  ■ *16. gr.* _Hjúkrunarheimili og hjúkrunarrými._
  □ [Í hjúkrunarrýmum umdæmissjúkrahúsa og hjúkrunar- og dvalarheimila skal veitt hjúkrunarþjónusta fyrir sjúkratryggða einstaklinga sem metnir hafa verið í þörf fyrir þjónustu í hjúkrunarrými. [Enginn getur dvalið til langframa í hjúkrunarrými nema að undangengnu mati færni- og heilsumatsnefndar á þörf fyrir dvöl samkvæmt lögum um málefni aldraðra.][^1)^]
  □ ...[^1)^]][^2)^]
-    _[^1)^]L. 28/2012, 7. gr. [^2)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"L. 28/2012, 7. gr.":/altext/stjt/2012.028.html [^2)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
  ■ *17. gr.* _Heilsugæslustöðvar._
  □ Heilsugæslustöðvar sinna heilsugæslu.
  □ [Forstjórar og framkvæmdastjórnir heilbrigðisstofnana skulu hafa samráð við faglega yfirmenn í heilsugæslunni þegar sérmál hennar eru til ákvörðunar.][^1)^]
  □ Ráðherra skal í reglugerð[^2)^] kveða nánar á um starfsemi heilsugæslustöðva og þá þjónustu sem þeim ber að veita.
-    _[^1)^]L. 59/2010, 1. gr. [^2)^]Rg. 787/2007._
+    _[^1)^]"L. 59/2010, 1. gr.":/altext/stjt/2010.059.html [^2)^]"Rg. 787/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/787-2007._
  ■ *18. gr.* _Umdæmissjúkrahús._
  □ Á umdæmissjúkrahúsum skal veitt almenn sjúkrahúsþjónusta, m.a. á göngu- og dagdeildum eftir því sem við á. Í tengslum við þau skulu einnig að jafnaði vera hjúkrunarrými. Á umdæmissjúkrahúsum skal að jafnaði vera fæðingarhjálp, séu faglegar kröfur uppfylltar, og önnur heilbrigðisþjónusta sem sjúkrahúsinu er falið að veita eða samið hefur verið um samkvæmt ákvæðum VII. kafla [og lögum um sjúkratryggingar],[^1)^] enda uppfylli sjúkrahúsið faglegar kröfur til að veita þá þjónustu.
  □ Á heilbrigðisstofnunum sem veita bæði almenna sjúkrahúsþjónustu og sinna heilsugæslu skal starfsemi samtvinnuð og starfsmenn ráðnir til að sinna báðum þáttum eftir því sem við á.
  □ Ráðherra getur í reglugerð kveðið nánar á um starfsemi og þjónustu umdæmissjúkrahúsa.
-    _[^1)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
 
  *V. kafli.* *Sérhæfð heilbrigðisþjónusta.*
  ■ *19. gr.* _Veitendur sérhæfðrar heilbrigðisþjónustu._
@@ -134,14 +134,14 @@ h2. Lög um heilbrigðisþjónustu
  □ Til sérhæfðra heilbrigðisstofnana teljast heilbrigðisstofnanir sem veita sérhæfða heilbrigðisþjónustu og reknar eru samkvæmt ákvæðum sérlaga, ákvörðun ráðherra eða samningi skv. VII. kafla [og lögum um sjúkratryggingar].[^1)^]
  □ Ráðherra getur í reglugerð kveðið nánar á um starfsemi sérhæfðra heilbrigðisstofnana sem reknar eru af ríkinu eða á grundvelli samnings skv. VII. kafla [og lögum um sjúkratryggingar].[^1)^]
  □ Ráðherra getur veitt sjúkrahúsum og öðrum sérhæfðum heilbrigðisstofnunum, sem reknar eru af ríkinu, heimild til að skipuleggja heilbrigðisþjónustu á einkaréttarlegum grundvelli fyrir ósjúkratryggða einstaklinga sem koma til landsins gagngert í því skyni að gangast undir tiltekna aðgerð eða meðferð, enda skerði það ekki lögbundna þjónustu stofnunarinnar. Um gjaldtöku af ósjúkratryggðum einstaklingum fyrir heilbrigðisþjónustu samkvæmt ákvæði þessu fer skv. [ákvæðum laga um sjúkratryggingar].[^1)^]
-    _[^1)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
 
  *VI. kafli.* *Gæði heilbrigðisþjónustu.*
  ■ *23. gr.* _Gildissvið._
  □ Ákvæði þessa kafla um faglegar kröfur til heilbrigðisþjónustu og eftirlit með henni gilda um heilbrigðisþjónustu sem veitt er hér á landi án tillits til þess hvort hún er veitt af ríkinu eða öðrum aðilum með eða án greiðsluþátttöku ríkisins. Um eftirlit landlæknis með heilbrigðisþjónustu gilda jafnframt ákvæði laga um landlækni.
  ■ *24. gr.* _Faglegar kröfur til reksturs heilbrigðisþjónustu._
  □ Ráðherra skal, að fengnum tillögum landlæknis og að höfðu samráði við viðkomandi heilbrigðisstéttir, kveða í reglugerð[^1)^] á um faglegar lágmarkskröfur til reksturs heilbrigðisþjónustu á einstökum sviðum. Reglugerðin skal byggð á þekkingu og aðstæðum á hverjum tíma og skal hún endurskoðuð reglulega. Í reglugerðinni skal m.a. kveða á um lágmarkskröfur um mönnun, húsnæði, aðstöðu, tæki og búnað til reksturs heilbrigðisþjónustu.
-    _[^1)^]Rg. 786/2007._
+    _[^1)^]"Rg. 786/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/786-2007._
  ■ *25. gr.* _Eftirlit með faglegum rekstri heilbrigðisþjónustu._
  □ Landlæknir hefur eftirlit með að heilbrigðisþjónusta uppfylli faglegar kröfur til reksturs heilbrigðisþjónustu og ákvæði heilbrigðislöggjafar á hverjum tíma. Telji landlæknir að heilbrigðisþjónusta uppfylli ekki faglegar kröfur skv. 24. gr. eða önnur skilyrði í heilbrigðislöggjöf skal hann beina tilmælum um úrbætur til rekstraraðila. Verði rekstraraðili ekki við slíkum tilmælum ber landlækni að skýra ráðherra frá málinu og gera tillögur um hvað gera skuli. Getur ráðherra þá tekið ákvörðun um að stöðva rekstur tímabundið, þar til bætt hefur verið úr annmörkum, eða að fullu.
  ■ *26. gr.* _Skilyrði fyrir starfrækslu heilbrigðisþjónustu._
@@ -152,19 +152,19 @@ h2. Lög um heilbrigðisþjónustu
  □ Ráðherra er heimilt að kveða nánar á um skilyrði fyrir rekstri heilbrigðisþjónustu á einstökum sviðum, framkvæmd eftirlits o.fl. í reglugerð.[^1)^]
  □ Fyrir úttekt landlæknis skv. 1. mgr. og staðfestingu hans á því að faglegar kröfur séu uppfylltar, sbr. 2. mgr., er heimilt að taka gjald samkvæmt nánari ákvæðum í reglugerð sem ráðherra setur.
  □ Greiðsluþátttaka ríkisins í kostnaði við heilbrigðisþjónustu sem veitt er utan heilbrigðisstofnana sem ríkið rekur er háð því að um hana hafi tekist samningur milli rekstraraðila og ríkisins samkvæmt ákvæðum VII. kafla [og lögum um sjúkratryggingar],[^2)^] nema fyrir liggi einhliða ákvörðun ráðherra um greiðsluþátttöku á grundvelli sérstakrar heimildar í öðrum lögum.
-    _[^1)^]Rg. 786/2007. [^2)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"Rg. 786/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/786-2007. [^2)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
  ■ *27. gr.* _Skráning óvæntra atvika._
  □ Heilbrigðisstofnanir, sjálfstætt starfandi heilbrigðisstarfsmenn og aðrir sem veita heilbrigðisþjónustu skulu halda skrá um óvænt atvik í þeim tilgangi að finna skýringar á þeim og leita leiða til að tryggja að þau endurtaki sig ekki. Með óvæntu atviki er átt við óhappatilvik, mistök, vanrækslu eða önnur atvik sem valdið hafa sjúklingi tjóni eða hefðu getað valdið sjúklingi tjóni. Um nánari framkvæmd slíkrar skráningar fer samkvæmt lögum um landlækni.
 
  *VII. kafli.* *Samningar um heilbrigðisþjónustu.*
  ■ *28. gr.* _Samningsumboð ráðherra._
  □ Ráðherra fer með umboð ríkisins til samningsgerðar um veitingu heilbrigðisþjónustu og greiðsluþátttöku ríkisins vegna hennar. [Sjúkratryggingastofnunin annast samningsgerð um heilbrigðisþjónustu samkvæmt lögum um sjúkratryggingar.][^1)^]
-    _[^1)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
  ■ *29. gr.* _[Samningar um heilbrigðisþjónustu, framkvæmdir og rekstur._
  □ Um samninga um heilbrigðisþjónustu og greiðsluþátttöku vegna hennar, svo og samninga um framkvæmdir og rekstur, fer samkvæmt lögum um sjúkratryggingar.][^1)^]
-    _[^1)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
  ■ *30. gr.* ...[^1)^]
-    _[^1)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
  ■ *31. gr.* _Samningar stofnana._
  □ Heilbrigðisstofnunum sem ríkið rekur er heimilt að gera samninga um afmörkuð rekstrarverkefni samkvæmt ákvæðum laga um fjárreiður ríkisins.
  □ Heilbrigðisstofnanir sem veita almenna heilbrigðisþjónustu og reknar eru af ríkinu geta, með leyfi ráðherra, falið öðrum heilbrigðisstofnunum eða heilbrigðisstarfsmönnum með samningum að sinna ákveðnum þáttum þeirrar heilbrigðisþjónustu sem þeim ber að veita samkvæmt lögum þessum.
@@ -178,10 +178,10 @@ h2. Lög um heilbrigðisþjónustu
  □ Ráðherra getur í reglugerð, að höfðu samráði við Samband íslenskra sveitarfélaga, kveðið nánar á um það hvað telst til meiri háttar viðhalds skv. 1. mgr.
  ■ *33. gr.* _Sjúkraflutningar._
  □ Ráðherra setur reglugerð[^1)^] um framkvæmd og skipulagningu sjúkraflutninga.
-    _[^1)^]Rg. 262/2011._
+    _[^1)^]"Rg. 262/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/262-2011._
  ■ *34. gr.* _Gjaldtaka fyrir heilbrigðisþjónustu._
  □ [Um gjaldtöku fyrir heilbrigðisþjónustu fer samkvæmt ákvæðum laga um sjúkratryggingar og ákvæðum sérlaga eftir því sem við á.][^1)^]
-    _[^1)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
  ■ *35. gr.* _Stöðunefnd lækna._
  □ Ráðherra skipar þrjá lækna í nefnd, samkvæmt tilnefningu Læknafélags Íslands, Háskóla Íslands og landlæknis, er metur faglega hæfni umsækjenda um stöður framkvæmdastjóra lækninga og annarra stjórnenda lækninga á heilbrigðisstofnunum sem ríkið rekur. Nefndarmaður sem skipaður er samkvæmt tilnefningu landlæknis skal vera formaður nefndarinnar. Varamenn skulu skipaðir með sama hætti. Nefndin skal skipuð til þriggja ára.
  □ Nefndin skal skila rökstuddu áliti til þess sem ræður í stöðuna innan sex vikna frá því að umsóknarfresti lýkur.
@@ -194,13 +194,13 @@ h2. Lög um heilbrigðisþjónustu
  □ Ráðherra setur stöðunefndinni starfsreglur að fengnum tillögum hennar.
  ■ *37. gr.* _Reglugerð._
  □ Ráðherra getur með reglugerð[^1)^] kveðið nánar á um framkvæmd laga þessara.
-    _[^1)^]Rg. 441/2006, sbr. 1024/2007, 411/2010 og 625/2012. Rg. 1118/2006, sbr. 147/2007 og 703/2008. Rg. 544/2008. Rg. 1188/2008. Rg. 1100/2012._
+    _[^1)^]"Rg. 441/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/441-2006, sbr. "1024/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1024-2007, "411/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/411-2010 og "625/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/625-2012. "Rg. 1118/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1118-2006, sbr. "147/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/147-2007 og "703/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/703-2008. "Rg. 544/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/544-2008. "Rg. 1188/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1188-2008. "Rg. 1100/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1100-2012._
  ■ *38. gr.* _Gildistaka._
- □ Lög þessi öðlast gildi 1. september 2007. ...
- ■ *39. gr.* ...
+ □ Lög þessi öðlast gildi 1. september 2007. "...":http://www.althingi.is/vefur/lagas-hlp.html
+ ■ *39. gr.* "...":http://www.althingi.is/vefur/lagas-hlp.html
  ■ *[Ákvæði til bráðabirgða.* Meðan tímabundnir samningar, sbr. 28. gr., við sveitarfélög um rekstur heilbrigðisþjónustu gilda teljast hlutaðeigandi starfsmenn heilbrigðisstofnana sem reknar eru af ríkinu og eru í starfi þegar samningarnir taka gildi vera í þjónustu viðkomandi sveitarfélags. Í slíkum samningum er [ráðherra][^1)^] heimilt að framselja viðkomandi sveitarfélagi allar þær valdheimildir sem forstjórar heilbrigðisstofnana fara með samkvæmt lögum um réttindi og skyldur starfsmanna ríkisins, svo fremi að starfsmönnum sé tilkynnt hver fari með það vald. Engin formbreyting verður á ráðningarstöðu starfsmanna, þeir eru áfram ríkisstarfsmenn og um laun þeirra og önnur starfskjör fer eftir sömu kjarasamningum og fyrr.
  □ Nýir starfsmenn, sem ráðnir verða til verkefna er samningur aðila tekur til, skulu ráðnir sem starfsmenn viðkomandi sveitarfélags.
  □ [Ráðherra][^1)^] og [ráðherra er fer með starfsmannamál ríkisins][^2)^] annars vegar og sveitarfélag hins vegar skulu semja um ábyrgðir sínar og greiðslur varðandi réttindi og kjör starfsmanna.][^3)^]
-    _[^1)^]L. 162/2010, 77. gr. [^2)^]L. 126/2011, 451. gr. [^3)^]"L. 112/2008, 59. gr.":2008112.html_
+    _[^1)^]"L. 162/2010, 77. gr.":/altext/stjt/2010.162.html [^2)^]"L. 126/2011, 451. gr.":/altext/stjt/2011.126.html [^3)^]"L. 112/2008, 59. gr.":/altext/stjt/2008.112.html_
 
 

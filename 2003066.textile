@@ -7,9 +7,9 @@ h2. Lög um húsnæðissamvinnufélög
 <hr />
 
 
- *Tóku gildi 1. júlí 2003.* _Breytt með_ l. 162/2010 (tóku gildi 1. jan. 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. júlí 2003.* _Breytt með_ "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *velferðarráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *velferðarráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -31,7 +31,7 @@ h2. Lög um húsnæðissamvinnufélög
     8. _Húsnæðissamvinnufélag_ er samvinnufélag sem á og hefur yfirumsjón með rekstri íbúða sem það hefur byggt eða keypt til þess að veita félagsmönnum sínum búseturétt gegn greiðslu búseturéttargjalds.
 
  *II. kafli.* *Húsnæðissamvinnufélög.*
-■ *3. gr.* _Félagsstofnun, skráning og slit._
+ ■ *3. gr.* _Félagsstofnun, skráning og slit._
  □ Við stofnun húsnæðissamvinnufélags skal boða til stofnfundar. Stofnfund skal boða með opinberri auglýsingu og með þeim hætti að ætla megi að berist til allra þeirra sem hag geta haft af þátttöku í starfsemi félagsins. Á stofnfundi skal bera stofnun húsnæðissamvinnufélagsins upp til umræðu og atkvæða. Ef 15 aðilar eða fleiri koma sér saman um félagsstofnun, bindast samtökum og gerast félagsmenn setja þeir félaginu samþykktir í samræmi við lög þessi og kjósa því stjórn og endurskoðendur eða skoðunarmenn. Er þá félagið löglega stofnað.
  □ Um félagsstofnun, skráningu, endurskoðun og félagsslit húsnæðissamvinnufélags, sem lög þessi kveða ekki sérstaklega á um, skal eftir því sem við getur átt farið eftir ákvæðum laga um samvinnufélög á hverjum tíma.
  ■ *4. gr.* _Samþykktir._
@@ -64,7 +64,7 @@ h2. Lög um húsnæðissamvinnufélög
  □ [Ráðuneytið][^2)^] heldur skrá yfir húsnæðissamvinnufélög sem hlotið hafa staðfestingu ráðherra.
  □ Allar breytingar á samþykktum húsnæðissamvinnufélags skulu tilkynntar [ráðuneytinu][^2)^] þegar í stað.
  □ Samþykktir sem [ráðuneytið][^2)^] hefur þegar staðfest vegna húsnæðissamvinnufélaga halda gildi sínu.
-    _[^1)^]L. 126/2011, 369. gr. [^2)^]L. 162/2010, 27. gr._
+    _[^1)^]"L. 126/2011, 369. gr.":/altext/stjt/2011.126.html [^2)^]"L. 162/2010, 27. gr.":/altext/stjt/2010.162.html_
  ■ *5. gr.* _Fjáröflun._
  □ Húsnæðissamvinnufélagi skal aflað fjár sem hér segir:
     a. Með inntökugjöldum félagsmanna sem leggjast í stofnsjóð félagsins.
@@ -72,7 +72,7 @@ h2. Lög um húsnæðissamvinnufélög
     c. Með gjöldum fyrir veitta þjónustu við félagsmenn og aðra sem renna í rekstrarsjóð félagsins.
     d. Með lánum úr Íbúðalánasjóði samkvæmt lögum um húsnæðismál og með öðrum lánum á almennum markaði.
     e. Með framlagi í varasjóð sem nema skal 1% af byggingarkostnaði eða kaupverði hverrar íbúðar. Í varasjóð rennur enn fremur árlegt framlag af óskiptum tekjum félagsins samkvæmt ákvörðun aðalfundar.
-■ *6. gr.* _Lánveitingar._
+ ■ *6. gr.* _Lánveitingar._
  □ Sé húsnæðissamvinnufélagi veitt lán á grundvelli laga um húsnæðismál og reglugerða settra samkvæmt þeim skal félagið uppfylla þau skilyrði sem þar eru sett fram.
  ■ *7. gr.* _Kvaðir._
  □ Húsnæðissamvinnufélögum er óheimilt að selja íbúðir sínar á meðan á þeim hvíla lán Íbúðalánasjóðs eða lán sem sjóðurinn hefur yfirtekið samkvæmt eldri lögum nema að fengnu samþykki Íbúðalánasjóðs.
@@ -148,7 +148,7 @@ h2. Lög um húsnæðissamvinnufélög
     1. Ef verulegur dráttur er á afhendingu húsnæðis.
     2. Ef húsnæðið spillist af ástæðum sem ekki verða raktar til búseturéttarhafa eða ef það telst heilsuspillandi að mati heilbrigðisyfirvalda.
     3. Ef húsnæðissamvinnufélag vanefnir skyldur sínar samkvæmt búsetusamningi eða lögum þessum.
-■ *22. gr.* _Riftun búsetusamnings._
+ ■ *22. gr.* _Riftun búsetusamnings._
  □ Húsnæðissamvinnufélagi er heimilt að rifta búsetusamningi í eftirtöldum tilvikum:
     1. Ef búseturéttarhafi greiðir ekki búsetugjaldið á réttum gjalddaga og sinnir ekki innan sjö sólarhringa skriflegri áskorun húsnæðissamvinnufélags um greiðslu, enda hafi slík áskorun verið send eftir gjalddaga og húsnæðissamvinnufélag þar tekið fram að það muni beita riftunarheimild sinni.
     2. Ef búseturéttarhafi nýtir húsnæðið á annan hátt en lög þessi eða búsetusamningur mæla fyrir um og landslög leyfa að öðru leyti og lætur ekki af misnotkun þess þrátt fyrir skriflega áminningu húsnæðissamvinnufélags.
@@ -188,15 +188,15 @@ h2. Lög um húsnæðissamvinnufélög
  *V. kafli.* *Ýmis ákvæði.*
  ■ *29. gr.* _Setning reglugerðar._
  □ [Ráðherra][^1)^] setur með reglugerð nánari ákvæði um framkvæmd laga þessara.
-    _[^1)^]L. 126/2011, 369. gr._
+    _[^1)^]"L. 126/2011, 369. gr.":/altext/stjt/2011.126.html_
  ■ *30. gr.* _Viðurlög._
  □ Brot gegn lögum þessum og reglugerðum settum samkvæmt þeim varða sektum.
  ■ *31. gr.* _Gildistaka og lagaskil._
- □ Lög þessi öðlast gildi 1. júlí 2003. ...
+ □ Lög þessi öðlast gildi 1. júlí 2003. "...":http://www.althingi.is/vefur/lagas-hlp.html
  □ Samþykktir sem [ráðuneytið][^1)^] hefur staðfest fyrir húsnæðissamvinnufélög og einstök búsetufélög í tíð eldri laga halda gildi sínu.
  □ Búsetusamningar sem gerðir hafa verið á grundvelli eldri laga halda gildi sínu. Óski aðilar samþykkta og búsetusamninga í tíð eldri laga eftir því að með málefni þeirra sé farið samkvæmt ákvæðum laga þessara og samþykktum samkvæmt þeim er stjórn húsnæðissamvinnufélags skylt að verða við slíkum óskum.
  □ Viðhaldssjóðir, sem nú eru í vörslu búsetufélaga, skulu við gildistöku laga þessara renna í sameiginlegan viðhaldssjóð húsnæðissamvinnufélagsins.
-    _[^1)^]L. 162/2010, 27. gr._
- ■ *Ákvæði til bráðabirgða.* Við endurgreiðslu búseturéttargjalds til þeirra er gert hafa búsetusamning fyrir gildistöku laga þessara, sbr. 9. og 25. gr., skal enn fremur gæta ákvæða 6. mgr. "76. gr. laga um Húsnæðisstofnun ríkisins, nr. 97/1993":1993097.html#g76.
+    _[^1)^]"L. 162/2010, 27. gr.":/altext/stjt/2010.162.html_
+ ■ *Ákvæði til bráðabirgða.* Við endurgreiðslu búseturéttargjalds til þeirra er gert hafa búsetusamning fyrir gildistöku laga þessara, sbr. 9. og 25. gr., skal enn fremur gæta ákvæða 6. mgr. "76. gr. laga um Húsnæðisstofnun ríkisins, nr. 97/1993":1993097.html#G76.
 
 

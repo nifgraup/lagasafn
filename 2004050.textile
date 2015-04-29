@@ -1,15 +1,16 @@
 <hr />
 
-h2. Lög um siglingavernd
+h2. Lög um siglingavernd[^1)^]
 
 *2004 nr. 50 25. maí*
 
 <hr />
 
+   _[^1)^]Lögunum var breytt með "l. 59/2013, 27. gr.":/altext/stjt/2013.059.html Breytingarnar taka gildi 1. júlí 2013 skv. "44. gr. s.l.":/altext/stjt/2013.059.html_
 
- *Tóku gildi 14. júní 2004; komu til framkvæmda 1. júlí 2004.* _Breytt með_ l. 18/2007 (tóku gildi 13. mars 2007; _EES-samningurinn:_ XIII. viðauki reglugerð 725/2004 og 884/2005, tilskipun 2005/65/EB), l. 162/2010 (tóku gildi 1. jan. 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 14. júní 2004; komu til framkvæmda 1. júlí 2004.* _Breytt með_ "l. 18/2007":/altext/stjt/2007.018.html (tóku gildi 13. mars 2007; _EES-samningurinn:_ XIII. viðauki reglugerð 725/2004 og 884/2005, tilskipun 2005/65/EB), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 59/2013":/altext/stjt/2013.059.html (taka gildi 1. júlí 2013).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -17,7 +18,7 @@ h2. Lög um siglingavernd
  *I. kafli.* *Almenn ákvæði.*
  ■ *1. gr.* _Stjórn siglingaverndarmála._
  □ [Ráðherra][^1)^] fer með yfirstjórn siglingaverndarmála en Siglingastofnun Íslands með framkvæmd þeirra svo sem nánar er kveðið á um í lögum þessum og reglugerðum settum samkvæmt þeim.
-    _[^1)^]L. 126/2011, 385. gr._
+    _[^1)^]"L. 126/2011, 385. gr.":/altext/stjt/2011.126.html_
  ■ *2. gr.* _[Markmið og gildissvið._
  □ Markmið laga þessara er að tryggja vernd skipa, áhafna, farþega, farms og hafnaraðstöðu fyrir hvers kyns ógn af hryðjuverkum og öðrum ólögmætum aðgerðum.
  □ Lög þessi gilda um eftirgreindar gerðir skipa ef þau eru notuð í millilandasiglingum:
@@ -26,7 +27,7 @@ h2. Lög um siglingavernd
     c. færanlega borpalla.
  □ Lög þessi gilda einnig um farþegaskip og flutningaskip í innanlandssiglingum. Undanskilja má ákveðnar tegundir og flokka skipa í samræmi við ákvæði reglugerðar sem ráðherra setur.
  □ Lög þessi gilda um útgerðir þeirra skipa sem nefnd eru í 2. og 3. mgr. og um hafnaraðstöðu þar sem slíkum skipum er þjónað.][^1)^]
-    _[^1)^]L. 18/2007, 1. gr._
+    _[^1)^]"L. 18/2007, 1. gr.":/altext/stjt/2007.018.html_
  ■ *3. gr.* _Skilgreiningar._
  □ Í lögum þessum er merking hugtaka sem hér segir:
     1. _Siglingavernd:_ Ráðstafanir samkvæmt ákvæðum alþjóðasamþykktar um öryggi mannslífa á hafinu (SOLAS 1974) auk alþjóðakóða (ISPS Code) um skipa- og hafnavernd:
@@ -41,7 +42,7 @@ h2. Lög um siglingavernd
     7. _Vástig:_ Segir til um hvert hættuástandið er þegar beita skal verndarráðstöfunum svo sem nánar er kveðið á um í alþjóðakóða (ISPS Code) um skipa- og hafnavernd.
     8. _Verndaryfirlýsing:_ Samkomulag um siglingavernd milli skipa og hafnaraðstöðu. Í samkomulaginu skal m.a. tilgreina verndarráðstafanir og ábyrgð hvors aðila um sig.
     [9. _Umboðsmaður:_ Sá sem annast milligöngu útgerðar eða leigutaka skips og stjórnvalda.][^1)^]
-    _[^1)^]L. 18/2007, 2. gr._
+    _[^1)^]"L. 18/2007, 2. gr.":/altext/stjt/2007.018.html_
  ■ *4. gr.* Siglingastofnun Íslands, ásamt tollyfirvöldum, ríkislögreglustjóra, Landhelgisgæslu, [vaktstöð siglinga],[^1)^] [útgerðum][^1)^] og höfnum sem falla undir lög þessi, fer með framkvæmd siglingaverndar.
  □ Siglingastofnun Íslands er heimilt að fela öðrum hæfum aðilum að annast einstaka þætti siglingaverndar.
  □ Siglingastofnun Íslands ber m.a. ábyrgð á að:
@@ -62,7 +63,7 @@ h2. Lög um siglingavernd
  □ Tollstjórinn í Reykjavík setur reglur[^3)^] um farmvernd. Tollstjórar annast, í samráði við viðkomandi hafnaryfirvöld og Siglingastofnun Íslands, framkvæmd og eftirlit með farmvernd og setja reglur þar að lútandi.
  □ [Útgerðir][^1)^] sem gera út skip undir íslenskum fána og falla undir lög þessi bera ábyrgð á að lögboðnum verndarráðstöfunum sé fullnægt og að í hverju skipi liggi fyrir verndaráætlun með nákvæmum leiðbeiningum um viðbrögð við yfirvofandi vá.
  □ Höfn sem rekur hafnaraðstöðu sem fellur undir lög þessi ber ábyrgð á því að lögboðnum ráðstöfunum um hafnavernd sé fullnægt og að í verndaráætlun liggi fyrir nákvæmar leiðbeiningar um viðbrögð við yfirvofandi vá.
-    _[^1)^]L. 18/2007, 3. gr. [^2)^]L. 162/2010, 242. gr. [^3)^]Rgl. 141/2010._
+    _[^1)^]"L. 18/2007, 3. gr.":/altext/stjt/2007.018.html [^2)^]"L. 162/2010, 242. gr.":/altext/stjt/2010.162.html [^3)^]Rgl. 141/2010._
 
  *II. kafli.* *Skipavernd.*
  ■ *5. gr.* [Útgerðir][^1)^] skulu útbúa áhættumat og verndaráætlun fyrir hvert íslenskt skip sem fellur undir lög þessi og tilnefna verndarfulltrúa fyrir skipið og [útgerðina].[^1)^] Áhættumatið, verndaráætlunina og skipan verndarfulltrúans skal leggja fyrir Siglingastofnun Íslands til staðfestingar. Í verndaráætlun skal koma fram áætlun um viðbrögð þegar ógn steðjar að og hlutverk aðila sem koma að aðgerðum vegna þess, t.d. hlutverk lögreglu og Landhelgisgæslu.
@@ -71,7 +72,7 @@ h2. Lög um siglingavernd
  □ Áður en skip skv. 2. gr. laganna kemur til hafnar skal höfn, útgerð, umboðsmaður eða skipstjóri skips veita upplýsingar skv. 3. mgr. sem að mati Siglingastofnunar Íslands eru nauðsynlegar vegna siglingaverndar og verndar íslenskra hafna.
  □ Ef skip uppfyllir ekki reglur um siglingavernd er Siglingastofnun Íslands heimilt að leggja farbann á skip, vísa því frá höfn, krefjast þess að það verði fært innan hafnar eða á milli hafna og gera aðrar nauðsynlegar ráðstafanir til þess að koma í veg fyrir brot á reglum um siglingavernd. Útgerð og skipstjóra skips er skylt að verða við fyrirmælum Siglingastofnunar samkvæmt þessari málsgrein. Um farbann fer að ákvæðum laga um eftirlit með skipum.
  □ [Ráðherra][^2)^] setur nánari reglur um skráningu upplýsinga vegna siglingaverndar, upplýsingaskyldu útgerða og skipstjóra og frekari aðgerðir Siglingastofnunar Íslands til framkvæmdar eftirlits í þágu siglingaverndar.][^1)^]
-    _[^1)^]L. 18/2007, 4. gr. [^2)^]L. 162/2010, 242. gr._
+    _[^1)^]"L. 18/2007, 4. gr.":/altext/stjt/2007.018.html [^2)^]"L. 162/2010, 242. gr.":/altext/stjt/2010.162.html_
 
  *III. kafli.* *Hafnavernd.*
  ■ *6. gr.* Höfn sem kýs að þjóna skipum sem falla undir lög þessi skal skilgreina þá hafnaraðstöðu sem nýta á undir slíka starfsemi. Útbúa skal áhættumat fyrir hafnaraðstöðuna og verndaráætlun og bera undir Siglingastofnun Íslands til staðfestingar. Tilnefna skal verndarfulltrúa fyrir hafnaraðstöðuna og skal Siglingastofnun Íslands staðfesta skipan hans. Verndarfulltrúi ákveður hvenær tilefni er til að grípa til ráðstafana samkvæmt þeirri verndaráætlun sem höfnin starfar eftir.
@@ -82,20 +83,20 @@ h2. Lög um siglingavernd
  *IV. kafli.* *Farmvernd.*
  ■ *7. gr.* Tollstjórinn í Reykjavík setur reglur[^1)^] um farmvernd. Tollstjórar hafa eftirlit og umsjón með framkvæmd verndarráðstafana, þ.m.t. eftirlit með farmi sem flytja á úr landi, eftir því sem kveðið er á um í reglum tollstjórans í Reykjavík.
  □ Tollstjórinn í Reykjavík skal upplýsa og leiðbeina hafnaryfirvöldum um kröfur farmverndar við gerð áhættumats og verndaráætlunar hafnar.
-    _[^1)^]Rg. 141/2010._
+    _[^1)^]"Rg. 141/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/141-2010._
 
  *[V. kafli.* *Aðgangur að hafnarsvæðum.][^1)^]*
-    _[^1)^]L. 18/2007, 5. gr._
+    _[^1)^]"L. 18/2007, 5. gr.":/altext/stjt/2007.018.html_
  ■ *[8. gr.* _Aðgangur að hafnarsvæðum._
  □ Siglingastofnun Íslands er heimilt að höfðu samráði við hafnaryfirvöld að takmarka aðgang að höfnum og hafnarsvæðum, umferð um þær og dvöl skipa í þeim, svo og að banna umgengni eða dvöl á slíkum svæðum, ef slíkt er talið nauðsynlegt vegna siglingaverndar.][^1)^]
-    _[^1)^]L. 18/2007, 5. gr._
+    _[^1)^]"L. 18/2007, 5. gr.":/altext/stjt/2007.018.html_
 
  *V. kafli.* *Ýmis ákvæði.*
  ■ *[9. gr.][^1)^]* _Leit._
  □ Siglingastofnun Íslands setur reglur[^2)^] um fyrirkomulag öryggisleitar hafnaryfirvalda á starfsfólki og farþegum skemmtiferðaskipa og í farangri þeirra og á áhöfnum og öðrum þeim sem vegna starfs síns þurfa að fara inn á hafnaraðstöðu eða um borð í skip sem falla undir lög þessi.
  □ Tollstjórinn í Reykjavík setur reglur um leit í farmi sem tollstjórar annast.
  □ Hægt er að synja þeim mönnum sem neita öryggisleit samkvæmt þessari grein um aðgang að hafnaraðstöðu og skipi sem lög þessi ná yfir.
-    _[^1)^]L. 18/2007, 5. gr. [^2)^]Rgl. 550/2004._
+    _[^1)^]"L. 18/2007, 5. gr.":/altext/stjt/2007.018.html [^2)^]Rgl. 550/2004._
  ■ *[10. gr.][^1)^]* _Gjöld._
  □ Siglingastofnun Íslands er heimilt að innheimta gjöld til að standa straum af kostnaði sem til fellur samkvæmt lögum þessum, þ.m.t. gjöld fyrir staðfestingar, eftirlit og útgáfu skráa skv. 4. gr. og námskeið sem haldin eru í samræmi við ákvæði laga þessara. Gjöldin skulu ákveðin í gjaldskrá sem [ráðherra][^2)^] setur að tillögu Siglingastofnunar Íslands og skal gjaldtakan standa undir kostnaði við veitta þjónustu.
  □ [Höfnum er heimilt að innheimta sérstakt gjald, farmverndargjald, af vörum sem umskipað er, lestaðar eru eða landað í höfn.][^3)^] Gjald þetta skal taka mið af magni og eðli vöru og standa undir stofnkostnaði, rekstrarkostnaði og hluta sameiginlegs kostnaðar af ráðstöfunum til verndar farmi á hafnaraðstöðu, svo sem girðingum, vöktun, leit og lokun svæða.
@@ -105,36 +106,36 @@ h2. Lög um siglingavernd
  □ Komi fram beiðni um aukna þjónustu við framkvæmd siglingaverndar, t.d. aukna löggæslu, aukna vakt í skipi o.s.frv., er þeim sem beiðnin beinist að heimilt að innheimta útlagðan kostnað samkvæmt reikningi hverju sinni.
  □ Gjaldtaka samkvæmt grein þessari skal í öllum tilfellum miðuð við að hún standi undir kostnaði við þá þjónustu sem veitt er og birt í gjaldskrám viðkomandi hafnar.
  □ Ráðherra er heimilt að setja í reglugerð nánari ákvæði um innheimtu gjalda þeirra sem kveðið er á um í grein þessari.
-    _[^1)^]L. 18/2007, 5. gr. [^2)^]L. 162/2010, 242. gr. [^3)^]L. 18/2007, 6. gr._
+    _[^1)^]"L. 18/2007, 5. gr.":/altext/stjt/2007.018.html [^2)^]"L. 162/2010, 242. gr.":/altext/stjt/2010.162.html [^3)^]"L. 18/2007, 6. gr.":/altext/stjt/2007.018.html_
  ■ *[11. gr.* _Þagnarskylda._
  □ Þeim aðilum sem starfa að siglingavernd ber þagnarskylda um þau atvik sem þeim verða kunn í starfi sínu eða vegna starfs síns og leynt eiga að fara vegna lögmætra almanna- eða einkahagsmuna eða hagsmuna í þágu siglingaverndar. Tekur þetta til upplýsinga um einkahagi manna sem eðlilegt er að leynt fari, upplýsinga sem varða starfshætti vegna siglingaverndar og fyrirhugaðar aðgerðir vegna siglingaverndar og annarra upplýsinga sem leynt skulu fara samkvæmt lögum, reglum eða eðli máls.
  □ Þagnarskyldan helst þótt látið sé af starfi.][^1)^]
-    _[^1)^]L. 18/2007, 7. gr._
+    _[^1)^]"L. 18/2007, 7. gr.":/altext/stjt/2007.018.html_
  ■ *[12. gr.][^1)^]* _Málskotsréttur._
  □ Ákvarðanir sem Siglingastofnun Íslands tekur samkvæmt lögum þessum eru kæranlegar til [ráðherra].[^2)^] Kæra skal vera skrifleg og fer um meðferð hennar samkvæmt ákvæðum stjórnsýslulaga.
-    _[^1)^]L. 18/2007, 7. gr. [^2)^]L. 162/2010, 242. gr._
+    _[^1)^]"L. 18/2007, 7. gr.":/altext/stjt/2007.018.html [^2)^]"L. 162/2010, 242. gr.":/altext/stjt/2010.162.html_
  ■ *[13. gr.][^1)^]* _Reglugerð._
  □ [Ráðherra][^2)^] er heimilt að setja í reglugerð[^3)^] nánari ákvæði um framkvæmd laga þessara, þar á meðal um hlutverk Siglingastofnunar Íslands og annarra opinberra aðila.
  □ Undir skipavernd fellur m.a. að setja reglur um skyldur [útgerðar],[^4)^] áhættumat fyrir skip, leit, verndaráætlun skips, skrár sem færa skal og varðveita um borð í skipi, verndarfulltrúa [útgerðar],[^4)^] verndarfulltrúa skips, útgáfu skírteina fyrir skip [um kennslu, þjálfun og æfingar vegna skipaverndar, meðhöndlun trúnaðarskjala og eftirlit og skipan verndarfulltrúa og eftirlitsaðila].[^4)^]
  □ Undir hafnavernd fellur m.a. að setja reglur um áhættumat fyrir hafnaraðstöðu, verndaráætlun fyrir hafnaraðstöðu, verndarfulltrúa hafnar, útgáfu skírteina fyrir hafnaraðstöðu, kennslu, þjálfun og æfingar vegna hafnaverndar, [vöktun og afmörkun hafnaraðstöðu og haftasvæða, meðhöndlun trúnaðarskjala og eftirlit og skipan verndarfulltrúa og eftirlitsaðila].[^4)^]
-    _[^1)^]L. 18/2007, 7. gr. [^2)^]L. 162/2010, 242. gr. [^3)^]Rg. 474/2007, sbr. 104/2008 og 920/2009. Rg. 265/2008. [^4)^]L. 18/2007, 8. gr._
+    _[^1)^]"L. 18/2007, 7. gr.":/altext/stjt/2007.018.html [^2)^]"L. 162/2010, 242. gr.":/altext/stjt/2010.162.html [^3)^]"Rg. 474/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/474-2007, sbr. "104/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/104-2008 og "920/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/920-2009. "Rg. 265/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/265-2008. [^4)^]"L. 18/2007, 8. gr.":/altext/stjt/2007.018.html_
  ■ *[14. gr.* _Afturköllun skipunar._
  □ Siglingastofnun Íslands er heimilt að afturkalla skipan verndarfulltrúa og eftirlitsaðila á grundvelli laga þessara, tímabundið eða að fullu, vegna brota gegn lögum og reglum ef telja verður, með hliðsjón af eðli brotsins eða annars framferðis hins brotlega, varhugavert að hann sé skipaður. Ákvörðun um afturköllun skal rökstudd og starfsmanni gefinn kostur á að neyta andmælaréttar áður en ákvörðun er tekin, í samræmi við ákvæði stjórnsýslulaga.
  □ Sé um að ræða alvarlegt brot í starfi, þar á meðal brot á trúnaðarskyldum, er Siglingastofnun heimilt að afturkalla skipan viðkomandi þegar í stað.][^1)^]
-    _[^1)^]L. 18/2007, 9. gr._
+    _[^1)^]"L. 18/2007, 9. gr.":/altext/stjt/2007.018.html_
  ■ *[15. gr.][^1)^]* _[Refsingar._
  □ Brot gegn 5., 10. og 11. mgr. 4. gr., 5. gr. og 6. gr. laga þessara og reglugerðum settum samkvæmt þeim varða sektum, en fangelsi allt að tveimur árum ef sakir eru miklar eða brot ítrekuð. Brot á þagnarskyldu skv. 11. gr. laganna er refsivert skv. 136. gr. almennra hegningarlaga. Tilraun og hlutdeild í brotum er refsiverð skv. III. kafla almennra hegningarlaga. Gáleysisbrot skulu eingöngu varða sektum.][^2)^]
-    _[^1)^]L. 18/2007, 9. gr. [^2)^]L. 18/2007, 10. gr._
+    _[^1)^]"L. 18/2007, 9. gr.":/altext/stjt/2007.018.html [^2)^]"L. 18/2007, 10. gr.":/altext/stjt/2007.018.html_
  ■ *[16. gr.][^1)^]* _Innleiðing._
  □ Með lögum þessum og reglugerðum settum samkvæmt þeim eru innleiddar í íslenskan rétt þjóðréttarlegar skuldbindingar íslenska ríkisins samkvæmt ákvæðum þess hluta alþjóðasamnings um öryggi mannslífa á hafinu (SOLAS frá 1974) sem fjallar um siglingavernd.
  □ [Með lögum þessum eru innleiddar í íslenskan rétt eftirtaldar gerðir Evrópusambandsins sem teknar hafa verið upp í XIII. viðauka samningsins um Evrópska efnahagssvæðið:
     a. Reglugerð Evrópuþingsins og ráðsins (EB) nr. 725/2004 frá 31. mars 2004 um aukið öryggi skipa og öruggari hafnaraðstöðu, samkvæmt ákvörðun sameiginlegu EES- nefndarinnar um breytingu á XIII. viðauka við EES-samninginn nr. 14/2005 frá 8. febrúar 2005.
     b. Reglugerð framkvæmdastjórnarinnar (EB) nr. 884/2005 frá 10. júní 2005 um verklagsreglur við framkvæmd skoðana framkvæmdastjórnarinnar á sviði siglingaverndar, samkvæmt ákvörðun sameiginlegu EES-nefndarinnar um breytingu á XIII. viðauka við EES-samninginn nr. 34/2006 frá 10. mars 2006.
     c. Tilskipun Evrópuþingsins og ráðsins 2005/65/EB frá 26. október 2005 um að efla hafnarvernd, samkvæmt ákvörðun sameiginlegu EES-nefndarinnar um breytingu á XIII. viðauka við EES-samninginn nr. 65/2006 frá 2. júní 2006.][^2)^]
-    _[^1)^]L. 18/2007, 9. gr._ [^2)^]L. 18/2007, 11. gr.
+    _[^1)^]"L. 18/2007, 9. gr.":/altext/stjt/2007.018.html [^2)^]"L. 18/2007, 11. gr.":/altext/stjt/2007.018.html_
  ■ *[17. gr.][^1)^]* _Gildistaka._
  □ Lög þessi taka þegar gildi en koma til framkvæmda 1. júlí 2004.
-    _[^1)^]L. 18/2007, 9. gr._
+    _[^1)^]"L. 18/2007, 9. gr.":/altext/stjt/2007.018.html_
 
 
 

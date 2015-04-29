@@ -7,9 +7,9 @@ h2. Lög um greiðsluþjónustu
 <hr />
 
 
- *Tóku gildi 1. desember 2011.* _EES-samningurinn:_ IX. viðauki tilskipun 2007/64/EB.
+ *Tóku gildi 1. desember 2011.* _EES-samningurinn:_ IX. viðauki tilskipun 2007/64/EB. _Breytt með_ "l. 17/2013":2013017.html (tóku gildi 1. apríl 2013; _EES-samningurinn:_ IX. viðauki tilskipun 2009/110/EB).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -23,7 +23,7 @@ h2. Lög um greiðsluþjónustu
     b. greiðslur í íslenskum krónum innan Íslands,
     c. greiðslur sem fela aðeins í sér einn gjaldmiðilsumreikning milli evru og íslenskrar krónu að því tilskildu að gjaldmiðilsumreikningurinn fari fram á Íslandi og, þegar um er að ræða greiðslur yfir landamæri, að þær fari fram í evrum,
     d. aðrar greiðslur innan aðildarríkjanna, nema um annað hafi verið samið; þetta á þó ekki við um 67. gr. sem er ófrávíkjanleg.
-■ *2. gr.* Lög þessi gilda ekki um:
+ ■ *2. gr.* Lög þessi gilda ekki um:
     1. Greiðslur sem fara einvörðungu fram í reiðufé beint frá greiðanda til viðtakanda greiðslu milliliðalaust.
     2. Greiðslur frá greiðanda til viðtakanda greiðslu fyrir milligöngu umboðsmanns sem hefur leyfi til að semja um og ganga frá sölu eða kaupum á vörum eða þjónustu fyrir hönd greiðanda eða viðtakanda greiðslu.
     3. Flutning í atvinnuskyni á seðlum og mynt, þ.m.t. söfnun, flutningur, umsýsla og afhending.
@@ -39,7 +39,7 @@ h2. Lög um greiðsluþjónustu
     13. Greiðslur sem fara milli greiðsluþjónustuveitenda, umboðsaðila þeirra eða útibúa fyrir þeirra eigin reikning.
     14. Greiðslur milli móður- og dótturfélags eða milli dótturfélaga sama móðurfélags sem framkvæmdar eru fyrir milligöngu greiðsluþjónustuveitanda eða greiðsluþjónustuveitenda sem tilheyra sömu samstæðu.
     15. Þjónustu í tengslum við úttekt reiðufjár í hraðbanka fyrir hönd eins eða fleiri kortaútgefenda og þjónustuveitandinn er ekki aðili að rammasamningi við viðskiptavininn sem tekur út peninga af greiðslureikningi. Þetta á þó ekki við ef þjónustuveitandinn veitir aðra þjónustu sem telst greiðsluþjónusta í skilningi 4. gr.
-■ *3. gr.* _Ófrávíkjanleiki._
+ ■ *3. gr.* _Ófrávíkjanleiki._
  □ Óheimilt er að víkja með samningi frá ákvæðum laga þessara notendum greiðsluþjónustu í óhag, nema að því leyti sem lögin heimila sérstaklega.
  ■ *4. gr.* _Greiðsluþjónusta._
  □ Með greiðsluþjónustu er í lögum þessum átt við:
@@ -56,11 +56,10 @@ h2. Lög um greiðsluþjónustu
     5. Útgáfu greiðslumiðla og/eða færsluhirðingu.
     6. Peningasendingu.
     7. Framkvæmd greiðslna þegar samþykki greiðanda fyrir framkvæmd greiðslu er veitt fyrir tilstilli hvers kyns fjarskipta, stafrænna tækja eða upplýsingatæknitækja og viðtakandi greiðslu er rekstraraðili fjarskiptafyrirtækisins, upplýsingatæknikerfisins eða netkerfisins sem er aðeins í hlutverki milliliðar milli notanda greiðsluþjónustu og afhendingaraðila á vörum og þjónustu.
-■ *5. gr.* _Greiðsluþjónustuveitendur._
+ ■ *5. gr.* _Greiðsluþjónustuveitendur._
  □ Greiðsluþjónustuveitendum er einum heimilt að veita greiðsluþjónustu hér á landi, enda hafi þeir tilskilin leyfi stjórnvalda hér á landi eða í öðru aðildarríki.
- ■ *6. gr.* _Skrá yfir greiðsluþjónustuveitendur._
- □ Fjármálaeftirlitið heldur skrá yfir greiðsluþjónustuveitendur samkvæmt lögum þessum. Í skránni skal tilgreina helstu upplýsingar um greiðsluþjónustuveitendur, svo sem um starfsheimildir og, ef við á, um umboðsaðila og útibú.
- □ Almenningur skal hafa aðgang að skrá Fjármálaeftirlitsins yfir greiðsluþjónustuveitendur.
+ ■ *6. gr.* _...[^1)^]_
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  ■ *7. gr.* _Þátttaka í greiðslukerfum._
  □ Greiðsluþjónustuveitendum skal vera heimilt að gerast þátttakendur í greiðslukerfi í samræmi við 2. og 3. mgr., sbr. þó 4. mgr.
  □ Reglur um þátttöku í greiðslukerfum skulu vera hlutlægar, án mismununar og hóflegar. Þær mega ekki hamla aðgangi meira en nauðsynlegt er til að verjast tiltekinni áhættu, svo sem uppgjörsáhættu, rekstraráhættu eða viðskiptaáhættu, og vernda fjárhags- og rekstrarlegan stöðugleika greiðslukerfisins.
@@ -80,7 +79,7 @@ h2. Lög um greiðsluþjónustu
     1. _Aðildarríki:_ Ríki sem er aðili að samningnum um Evrópska efnahagssvæðið, aðili að stofnsamningi Fríverslunarsamtaka Evrópu eða Færeyjar.
     2. _Beingreiðsla:_ Greiðsluþjónusta við skuldfærslu á greiðslureikningi greiðanda þegar viðtakandi greiðslu á frumkvæði að greiðslu á grundvelli samþykkis greiðanda gagnvart viðtakanda, greiðsluþjónustuveitanda viðtakanda eða eigin greiðsluþjónustuveitanda.
     3. _Fjarsamskiptamiðill:_ Miðill sem nota má til að koma á greiðsluþjónustusamningi milli greiðsluþjónustuveitanda og notanda greiðsluþjónustu án þess að aðilar séu viðstaddir samtímis í eigin persónu.
-    4. _Fjármunir:_ Peningaseðlar og mynt, inneign á greiðslureikningum og rafeyrir samkvæmt skilgreiningu laga um fjármálafyrirtæki.
+    4. _Fjármunir:_ Peningaseðlar og mynt, inneign á greiðslureikningum og rafeyrir samkvæmt skilgreiningu [laga um útgáfu og meðferð rafeyris].[^1)^]
     5. _Gildisdagur:_ Viðmiðunartími sem greiðsluþjónustuveitendur nota til að reikna vexti af fjármunum sem eru skuldfærðir eða eignfærðir á greiðslureikning.
     6. _Greiðandi:_ Einstaklingur eða lögaðili sem á greiðslureikning og heimilar greiðslufyrirmæli tengd greiðslureikningnum eða, þegar engum greiðslureikningi er fyrir að fara, einstaklingur eða lögaðili sem gefur greiðslufyrirmæli.
     7. _Greiðsla:_ Aðgerð sem greiðandi eða viðtakandi greiðslu á frumkvæði að með því að leggja inn, millifæra eða taka út fjármuni, án tillits til þess hvort skuldbindingar liggi til grundvallar aðgerðinni milli greiðanda og viðtakanda greiðslu.
@@ -115,10 +114,11 @@ h2. Lög um greiðsluþjónustu
     27. _Viðmiðunarvextir:_ Vaxtastig sem notað er til grundvallar útreikningi á vöxtum og aðgengilegt er opinberlega og báðir aðilar að greiðsluþjónustusamningi geta sannreynt.
     28. _Viðtakandi greiðslu:_ Einstaklingur eða lögaðili sem er fyrirhugaður viðtakandi fjármuna sem hafa verið viðfang greiðslu.
     29. _Viðskiptadagur:_ Dagur þegar greiðsluþjónustuveitandi greiðanda eða viðtakanda, sem er aðili að framkvæmd greiðslu, er opinn og starfar eftir því sem þörf fyrir framkvæmd greiðslu krefur.
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
 
  *II. kafli.* *Greiðslustofnanir. Peninga- og verðmætasendingarþjónusta.*
  _A. Stofnun og fjárhagsgrundvöllur._
-■ *9. gr.* _Rekstrarform og höfuðstöðvar._
+ ■ *9. gr.* _Rekstrarform og höfuðstöðvar._
  □ Greiðslustofnun skal starfa sem lögaðili.
  □ Greiðslustofnun sem fengið hefur starfsleyfi skv. 15. gr. skal hafa höfuðstöðvar sínar hér á landi.
  ■ *10. gr.* _Stofnfé._
@@ -127,7 +127,9 @@ h2. Lög um greiðsluþjónustu
     a. jafnvirði 20.000 evra (EUR) í íslenskum krónum miðað við opinbert viðmiðunargengi (kaupgengi) eins og það er skráð hverju sinni ef greiðslustofnun veitir einungis greiðsluþjónustu skv. 6. tölul. 4. gr.,
     b. jafnvirði 50.000 evra (EUR) í íslenskum krónum miðað við opinbert viðmiðunargengi (kaupgengi) eins og það er skráð hverju sinni ef greiðslustofnun veitir greiðsluþjónustu skv. 7. tölul. 4. gr.,
     c. jafnvirði 125.000 evra (EUR) í íslenskum krónum miðað við opinbert viðmiðunargengi (kaupgengi) eins og það er skráð hverju sinni ef greiðslustofnun veitir greiðsluþjónustu skv. 1. - 5. tölul. 4. gr.
-■ *11. gr.* _Eiginfjárgrunnur._
+ □ [Stofnfé greiðslustofnunar skal samsett úr þeim þáttum sem taldir eru upp í 5. mgr. "84. gr. laga nr. 161/2002":2002161.html#G84, um fjármálafyrirtæki.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ ■ *11. gr.* _Eiginfjárgrunnur._
  □ Eiginfjárgrunnur greiðslustofnunar samkvæmt skilgreiningu laga um fjármálafyrirtæki má á hverjum tíma eigi nema lægri fjárhæð en kveðið er á um í 10. eða 12. gr., hvor fjárhæðin sem er hærri.
  □ Greiðslustofnun sem tilheyrir samstæðu þar sem í er önnur greiðslustofnun, fjármálafyrirtæki eða vátryggingafélag er einungis heimilt að telja eiginfjárliði einu sinni til eiginfjárgrunns. Það sama á við ef greiðslustofnun stundar aðra starfsemi en veitingu greiðsluþjónustu skv. 4. gr.
  ■ *12. gr.* _Útreikningur eigin fjár greiðslustofnana._
@@ -162,6 +164,12 @@ h2. Lög um greiðsluþjónustu
  ■ *13. gr.* _Starfsleyfi._
  □ Aðilar, aðrir en þeir sem taldir eru upp í a - f-liðum 14. tölul. 8. gr., er hyggjast veita greiðsluþjónustu skulu afla sér starfsleyfis sem greiðslustofnun. Starfsleyfi skal ná til einnar eða fleiri tegunda greiðsluþjónustu í skilningi laga þessara.
  □ Fjármálaeftirlitið veitir greiðslustofnun starfsleyfi samkvæmt lögum þessum. Greiðslustofnun er heimilt að stunda greiðsluþjónustu að fengnu starfsleyfi.
+ □ [Starfsleyfi skal gilda í öllum ríkjum á Evrópska efnahagssvæðinu.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ ■ *[13. gr. a.* _Skrá yfir greiðslustofnanir._
+ □ Fjármálaeftirlitið heldur skrá yfir greiðslustofnanir samkvæmt lögum þessum. Í skránni skal tilgreina helstu upplýsingar um greiðslustofnanir, svo sem um starfsheimildir og, ef við á, um umboðsaðila og útibú.
+ □ Almenningur skal hafa aðgang að skrá Fjármálaeftirlitsins yfir greiðslustofnanir.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  ■ *14. gr.* _Umsókn um starfsleyfi og viðvarandi upplýsingaskylda._
  □ Umsókn um starfsleyfi skal berast Fjármálaeftirlitinu. Hún skal vera skrifleg og ítarleg. Í umsókninni skal gera grein fyrir þeirri starfsemi sem fyrirhugað er að sinna og hvernig henni verður sinnt. Umsækjandi skal, með framvísun nauðsynlegra gagna, sýna fram á hæfi lögaðilans sem æskir starfsleyfis til starfrækslu greiðslustofnunar í samræmi við ákvæði laga þessara.
  □ Fjármálaeftirlitið skal setja reglur um þær upplýsingar sem greina þarf í umsókn, svo og nauðsynleg fylgigögn, til þess að umsóknin teljist fullnægjandi.
@@ -173,9 +181,11 @@ h2. Lög um greiðsluþjónustu
  □ Fjármálaeftirlitið getur gert kröfu um stofnun sérstakrar einingar fyrir rekstur greiðsluþjónustu skv. 4. gr. ef greiðslustofnun sinnir annarri starfsemi samhliða veitingu greiðsluþjónustu og sá hluti rekstrarins hefur áhrif á fjárhagslegan styrk greiðslustofnunar eða torveldar eftirlit með henni.
  □ Fjármálaeftirlitið skal synja um veitingu starfsleyfis ef það telur hluthafa eða eigendur virkra eignarhluta ekki hæfa með tilliti til traustrar og varfærinnar stjórnunar greiðslustofnunar.
  □ Starfsleyfi skal ekki veitt ef náin tengsl greiðslustofnunar við einstaklinga eða lögaðila hindra eftirlit með starfseminni af hálfu Fjármálaeftirlitsins. Hið sama á við ef lög eða reglur, sem gilda um slíka tengda aðila, hindra eftirlit. Með nánum tengslum er í lögum þessum átt við náin tengsl í skilningi laga um fjármálafyrirtæki.
- □ Starfsleyfi skal gilda í öllum ríkjum á Evrópska efnahagssvæðinu. Hyggist greiðslustofnun veita þjónustu samkvæmt lögum þessum í öðru aðildarríki skal þó tilkynna Fjármálaeftirlitinu um það fyrir fram. Í tilkynningu skal koma fram hvaða ríki á í hlut og í hverju fyrirhuguð starfsemi sé fólgin. Innan mánaðar frá viðtöku slíkrar tilkynningar skal Fjármálaeftirlitið veita lögbærum yfirvöldum í hlutaðeigandi ríki upplýsingar um heiti og heimilisfang greiðslustofnunar, nöfn þeirra sem eru ábyrgir fyrir stjórn starfseminnar, skipulag hennar og hvers konar greiðsluþjónustu hún hyggst veita.
+ □ ...[^1)^]
  □ Fullnægi umsókn um starfsleyfi skilyrðum laga þessara að mati Fjármálaeftirlitsins veitir Fjármálaeftirlitið starfsleyfi. Að öðrum kosti skal Fjármálaeftirlitið synja um starfsleyfi með rökstuddum hætti.
  □ Ákvörðun Fjármálaeftirlitsins um veitingu eða synjun starfsleyfis skal tilkynnt umsækjanda eigi síðar en þremur mánuðum eftir að fullbúin umsókn barst.
+ □ [Ákvæði "laga nr. 161/2002":2002161.html, um fjármálafyrirtæki, gilda um mat á hæfi aðila til að fara með virkan eignarhlut í greiðslustofnunum og mat á hæfi virks eiganda eftir því sem við á. Fjármálaeftirlitið skal setja nánari viðmið um þær upplýsingar sem greina þarf í tilkynningu.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  ■ *16. gr.* _Afturköllun starfsleyfis._
  □ Fjármálaeftirlitið getur afturkallað starfsleyfi greiðslustofnunar í heild eða að hluta ef:
     a. greiðslustofnun nýtir ekki starfsleyfið innan 12 mánaða frá því að það var veitt, afsalar sér ótvírætt leyfinu eða hættir starfsemi í meira en sex mánuði samfellt;
@@ -187,13 +197,15 @@ h2. Lög um greiðsluþjónustu
  □ Áður en til afturköllunar kemur skv. 1. mgr. skal greiðslustofnun veittur hæfilegur frestur til úrbóta ef unnt er að koma úrbótum við að mati Fjármálaeftirlitsins. Þetta á þó ekki við um a-lið 1. mgr.
  □ Afturköllun á starfsleyfi greiðslustofnunar skal tilkynnt stjórn þess og rökstudd skriflega. Fjármálaeftirlitið skal birta tilkynninguna í Lögbirtingablaði og auglýsa í fjölmiðlum. Tilkynning skal enn fremur send lögbærum eftirlitsaðilum í þeim ríkjum þar sem hlutaðeigandi greiðslustofnun starfrækir útibú eða veitir greiðsluþjónustu fyrir milligöngu umboðsaðila.
  ■ *17. gr.* _Góðir viðskiptahættir og þagnarskylda._
- □ Greiðslustofnun skal viðhafa eðlilega og heilbrigða viðskiptahætti og venjur.
+ □ Greiðslustofnun skal viðhafa eðlilega og heilbrigða viðskiptahætti og venjur. [Fjármálaeftirlitið setur reglur um hvað teljist eðlilegir og heilbrigðir viðskiptahættir og venjur.][^1)^]
  □ Um þagnarskyldu stjórnarmanna greiðslustofnunar, framkvæmdastjóra, endurskoðenda, starfsmanna og hverra þeirra sem taka að sér verk í þágu fyrirtækisins fer samkvæmt lögum um fjármálafyrirtæki.
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  _C. Starfsheimildir._
  ■ *18. gr.* _Varðveisla fjármuna._
  □ Fjármunum sem mótteknir hafa verið frá notendum greiðsluþjónustu eða frá öðrum greiðsluþjónustuveitendum vegna framkvæmdar greiðslu skal haldið skýrt aðgreindum frá eigin fé greiðsluþjónustuveitanda, þ.m.t. greiðslustofnunar, og fjármunum í eigu annarra en notenda greiðsluþjónustu.
- □ Fjármunir skv. 1. mgr. skulu teljast forgangskröfur í þrotabú greiðsluþjónustuveitanda komi til gjaldþrots. Um rétthæð þeirra fer skv. "109. gr. laga nr. 21/1991":1991021.html#g109, um gjaldþrotaskipti o.fl., enda sýni eigandi fjármuna fram á eignarrétt sinn að þeim.
- □ Ráðherra getur í reglugerð kveðið nánar á um hvernig varðveislu fjármuna skv. 1. mgr. skuli háttað.
+ □ Fjármunir skv. 1. mgr. skulu teljast [sértökukröfur][^1)^] í þrotabú greiðsluþjónustuveitanda komi til gjaldþrots. Um rétthæð þeirra fer skv. "109. gr. laga nr. 21/1991":1991021.html#G109, um gjaldþrotaskipti o.fl., enda sýni eigandi fjármuna fram á eignarrétt sinn að þeim.
+ □ [Fjármálaeftirlitið setur nánari reglur um tryggilega varðveislu fjármuna samkvæmt þessari grein.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  ■ *19. gr.* _Önnur starfsemi._
  □ Greiðslustofnun er heimilt að stunda aðra starfsemi auk greiðsluþjónustu ef hún er nátengd starfsemi eða rekstri greiðsluþjónustu, svo sem þjónustu við framkvæmd greiðslna, gjaldeyrisviðskiptum, ráðstöfunum til verndunar eigna og geymslu og vinnslu gagna. Greiðslustofnun er jafnframt heimilt að starfrækja greiðslukerfi.
  □ Greiðslustofnun er heimilt að halda greiðslureikninga sem skal einungis nota við framkvæmd greiðslna.
@@ -212,28 +224,77 @@ h2. Lög um greiðsluþjónustu
  □ Fjármálaeftirlitið skal hafa samstarf við lögbær yfirvöld í aðildarríkjum um framkvæmd eftirlits með starfsemi umboðsaðila, útibúa og útvistunaraðila á vegum greiðslustofnana sem fengið hafa starfsleyfi samkvæmt lögum þessum í þeim ríkjum.
  □ Fjármálaeftirlitið skal tilkynna lögbærum yfirvöldum um það fyrir fram hyggist það framkvæma skoðun erlendis á starfsstöð greiðslustofnunar sem fengið hefur starfsleyfi samkvæmt lögum þessum. Slík skoðun skal framkvæmd í samstarfi við lögbær yfirvöld í hlutaðeigandi ríki. Óski Fjármálaeftirlitið á hinn bóginn eftir því er því heimilt að fela lögbærum yfirvöldum í hlutaðeigandi ríki framkvæmd slíkrar skoðunar.
  □ Fjármálaeftirlitið skal að ósk lögbærra yfirvalda í aðildarríkjum veita viðeigandi upplýsingar um greiðslustofnanir sem fengið hafa starfsleyfi samkvæmt lögum þessum, einkum þegar brot eða grunur um brot umboðsaðila, útibús eða einingar sem starfsemi er útvistuð til er annars vegar. Mikilvægar upplýsingar skulu enn fremur sendar að frumkvæði Fjármálaeftirlitsins til lögbærra yfirvalda í hlutaðeigandi ríki þar sem greiðslustofnun sem fengið hefur starfsleyfi samkvæmt lögum þessum hefur starfsemi eða útvistar verkefni til.
- _F. Umboðsaðilar, útibú og útvistun._
- ■ *23. gr.* _Umboðsaðilar og útibú._
+ _[F. Veiting þjónustu yfir landamæri með eða án stofnunar útibús eða í gegnum umboðsaðila.][^1)^]_
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ ■ *23. gr.* _[Starfsemi innlendra greiðslustofnana erlendis án stofnunar útibús._
+ □ Hyggist greiðslustofnun veita þjónustu samkvæmt lögum þessum í öðru aðildarríki án stofnunar útibús skal tilkynna Fjármálaeftirlitinu um það fyrir fram. Í tilkynningu skal koma fram heiti og heimilisfang fyrirtækis, hvaða aðildarríki á í hlut og í hverju fyrirhuguð greiðsluþjónusta sé fólgin. Innan mánaðar frá viðtöku slíkrar tilkynningar skal Fjármálaeftirlitið áframsenda lögbærum yfirvöldum í hlutaðeigandi aðildarríki upplýsingarnar ásamt staðfestingu á því að sú þjónusta sem veita á falli undir starfsleyfi fyrirtækis.
+ □ Þegar Fjármálaeftirlitið hefur sent tilkynningu skv. 1. mgr. skal það færa viðeigandi upplýsingar í skrá yfir greiðsluþjónustuveitendur skv. 13. gr. a.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ ■ *[23. gr. a.* _Starfsemi innlendra greiðslustofnana erlendis með stofnun útibús._
+ □ Hyggist greiðslustofnun veita þjónustu samkvæmt lögum þessum í öðru aðildarríki með stofnun útibús skal tilkynna Fjármálaeftirlitinu um það fyrir fram. Í tilkynningu skal koma fram hvaða aðildarríki á í hlut, í hverju fyrirhuguð greiðsluþjónusta sé fólgin, heiti og heimilisfang fyrirtækis, nöfn þeirra sem ábyrgir eru fyrir stjórn útibúsins, þau ríki sem útibúið hyggst veita greiðsluþjónustu í og skipulag þess. Innan mánaðar frá viðtöku slíkrar tilkynningar skal Fjármálaeftirlitið áframsenda lögbærum yfirvöldum í hlutaðeigandi aðildarríki upplýsingarnar ásamt staðfestingu á því að sú þjónusta sem veita á falli undir starfsleyfi fyrirtækis.
+ □ Þegar Fjármálaeftirlitið hefur sent tilkynningu skv. 1. mgr. skal það færa viðeigandi upplýsingar í skrá yfir greiðsluþjónustuveitendur skv. 13. gr. a.
+ □ Berist Fjármálaeftirlitinu tilkynning frá lögbærum yfirvöldum í öðru aðildarríki, sem greiðslustofnun óskar eftir að veita greiðsluþjónustu í með stofnun útibús, sem hafa gilda ástæðu til að ætla að stofnun útibúsins gæti aukið hættu á peningaþvætti eða fjármögnun hryðjuverka getur Fjármálaeftirlitið hafnað því að færa upplýsingar um útibúið í skrá skv. 13. gr. a eða afturkallað skráningu hafi hún þegar farið fram.
+ □ Greiðslustofnun skal sjá til þess að útibú sem veitir greiðsluþjónustu fyrir hennar hönd upplýsi notendur þjónustu um þá staðreynd.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ ■ *[23. gr. b.* _Veiting þjónustu erlendis í gegnum umboðsaðila._
+ □ Greiðslustofnun sem óskar eftir að veita greiðsluþjónustu í öðru aðildarríki, fyrir milligöngu umboðsaðila, skal tilkynna Fjármálaeftirlitinu um það fyrir fram. Í tilkynningu skulu koma fram upplýsingar skv. 1. mgr. 23. gr. g, auk upplýsinga um hvaða ríki á í hlut og í hverju fyrirhuguð starfsemi sé fólgin.
+ □ Innan mánaðar frá viðtöku slíkrar tilkynningar skal Fjármálaeftirlitið senda lögbærum yfirvöldum í hlutaðeigandi ríki upplýsingar skv. 1. mgr. auk staðfestingar á því að sú þjónusta sem veita á falli undir starfsleyfi fyrirtækis ásamt beiðni um umsögn.
+ □ Þegar Fjármálaeftirlitið hefur sent tilkynningu skv. 2. mgr. skal það færa viðeigandi upplýsingar í skrá skv. 13. gr. a.
+ □ Berist Fjármálaeftirlitinu tilkynning frá lögbærum yfirvöldum í öðru aðildarríki, sem greiðslustofnun óskar eftir að veita greiðsluþjónustu í fyrir milligöngu umboðsaðila, sem hafa gilda ástæðu til að ætla að peningaþvætti eða fjármögnun hryðjuverka eigi sér stað, hafi átt sér stað eða sé í undirbúningi eða að tilnefning umboðsaðila gæti aukið hættu á peningaþvætti eða fjármögnun hryðjuverka getur Fjármálaeftirlitið hafnað því að færa upplýsingar um umboðsaðilann í skrá skv. 13. gr. a eða afturkallað skráningu hafi hún þegar farið fram.
+ □ Greiðslustofnun skal sjá til þess að umboðsaðili sem veitir greiðsluþjónustu fyrir hennar hönd upplýsi notendur greiðsluþjónustu um þá staðreynd.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ ■ *[23. gr. c.* _Þjónusta greiðslustofnunar innan EES án stofnunar útibús._
+ □ Erlendri greiðslustofnun, sem hefur staðfestu og starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins, er heimilt að veita greiðsluþjónustu samkvæmt lögum þessum hér á landi án stofnunar útibús.
+ □ Svissneskar og færeyskar greiðslustofnanir geta veitt greiðsluþjónustu samkvæmt þessari grein enda séu sömu kröfur gerðar til þeirra og greiðslustofnana með staðfestu í ríki innan Evrópska efnahagssvæðisins og gerður hafi verið samstarfssamningur á milli Fjármálaeftirlitsins og lögbærra svissneskra eða færeyskra yfirvalda.
+ □ Erlendri greiðslustofnun skv. 1. - 2. mgr. er heimilt að veita þjónustu hér á landi þegar tilkynning sem uppfyllir skilyrði 4. mgr. hefur borist Fjármálaeftirlitinu frá lögbæru yfirvaldi aðildarríkis.
+ □ Í tilkynningu skal koma fram heiti og heimilisfang fyrirtækis, hvers konar greiðsluþjónustu fyrirtæki hyggst veita og staðfesting þess að sú þjónusta sem veita á falli undir starfsleyfi fyrirtækis.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ ■ *[23. gr. d.* _Starfsemi utan Evrópska efnahagssvæðisins._
+ □ Hyggist greiðslustofnun veita þjónustu samkvæmt lögum þessum í ríki utan Evrópska efnahagssvæðisins skal tilkynna Fjármálaeftirlitinu um það fyrir fram. Í tilkynningu skal koma fram heiti og heimilisfang fyrirtækis, hvaða ríki á í hlut og í hverju fyrirhuguð þjónusta sé fólgin, auk annarra upplýsinga sem Fjármálaeftirlitið telur nauðsynlegar þar að lútandi.
+ □ Fjármálaeftirlitið getur bannað starfsemi skv. 1. mgr. ef það hefur réttmæta ástæðu til að ætla að stjórnun eða fjárhagsstaða hlutaðeigandi greiðslustofnunar sé ekki nægilega traust. Fyrirtækinu skal tilkynnt afstaða Fjármálaeftirlitsins svo fljótt sem auðið er.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ ■ *[23. gr. e.* _Þjónusta greiðslustofnunar innan EES með stofnun útibús._
+ □ Erlendri greiðslustofnun, sem hefur staðfestu og starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins, er heimilt að veita greiðsluþjónustu samkvæmt lögum þessum hér á landi með stofnun útibús.
+ □ Svissneskar og færeyskar greiðslustofnanir geta veitt greiðsluþjónustu samkvæmt þessari grein enda séu sömu kröfur gerðar til þeirra og greiðslustofnana með staðfestu í ríki innan Evrópska efnahagssvæðisins og gerður hafi verið samstarfssamningur á milli Fjármálaeftirlitsins og lögbærra svissneskra eða færeyskra yfirvalda.
+ □ Erlendri greiðslustofnun skv. 1. - 2. mgr. er heimilt að veita greiðsluþjónustu hér á landi þegar tilkynning sem uppfyllir skilyrði 4. mgr. hefur borist Fjármálaeftirlitinu frá lögbæru yfirvaldi aðildarríkis.
+ □ Í tilkynningu skal koma fram heiti og heimilisfang fyrirtækis, hvers konar greiðsluþjónustu fyrirtæki hyggst veita, staðfesting þess að sú þjónusta sem veita á falli undir starfsleyfi fyrirtækis, nöfn þeirra sem ábyrgir eru fyrir stjórn útibúsins og skipulag þess.
+ □ Hafi Fjármálaeftirlitið gilda ástæðu til að ætla að peningaþvætti eða fjármögnun hryðjuverka eigi sér stað, hafi átt sér stað eða sé í undirbúningi eða að stofnun útibús gæti aukið hættu á peningaþvætti eða fjármögnun hryðjuverka skal Fjármálaeftirlitið tilkynna lögbærum yfirvöldum heimaríkis um það. Ákveði lögbær yfirvöld heimaríkis að hafna eða afturkalla skráningu í framhaldi slíkrar tilkynningar er viðkomandi útibúi ekki heimilt að veita greiðsluþjónustu hér á landi frá þeim tíma.
+ □ Útibú sem veitir þjónustu fyrir hönd erlendrar greiðslustofnunar skal upplýsa notendur greiðsluþjónustu um þá staðreynd.
+ □ Ákvæði hlutafélagalaga varðandi útibú erlendra hlutafélaga eiga ekki við um útibú skv. 1. mgr.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ ■ *[23. gr. f.* _Þjónusta eða stofnun útibús hjá greiðslustofnun utan EES._
+ □ Fjármálaeftirlitið getur heimilað greiðslustofnun með staðfestu í ríki utan Evrópska efnahagssvæðisins að veita þjónustu eða opna útibú hér á landi. Skilyrði fyrir veitingu slíks leyfis er að fyrirtækið hafi leyfi til að stunda starfsemi í heimaríki sínu hliðstæða þeirri sem það hyggst stunda hér á landi og að sú starfsemi sé háð sambærilegu eftirliti í heimaríkinu.
+ □ Ef Fjármálaeftirlitið veitir heimild skv. 1. mgr. skal stofnunin tilkynna það til Eftirlitsstofnunar EFTA.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ _[G. Umboðsaðilar.][^1)^]_
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ ■ *[23. gr. g.* _Veiting greiðsluþjónustu í gegnum umboðsaðila._
  □ Greiðslustofnun sem hyggst veita greiðsluþjónustu fyrir milligöngu umboðsaðila skal tilkynna það Fjármálaeftirlitinu fyrir fram. Tilkynningunni skulu fylgja upplýsingar um nafn og heimilisfang umboðsaðilans og lýsing á innra eftirlitskerfi sem m.a. skal uppfylla kröfur laga um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka, svo og nauðsynlegar upplýsingar og gögn til að sýna fram á að stjórnendur uppfylli hæfiskröfur að mati Fjármálaeftirlitsins.
- □ Fjármálaeftirlitið skráir umboðsaðila í skrá skv. 6. gr., að fengnum upplýsingum skv. 1. mgr. Telji Fjármálaeftirlitið vafa leika á að upplýsingarnar séu réttar skal það grípa til aðgerða til að sannreyna þær. Fjármálaeftirlitið synjar um skráningu á umboðsaðila í skrá yfir greiðslustofnanir ef það er mat þess að ósannað teljist að upplýsingar skv. 1. mgr. séu réttar.
- □ Greiðslustofnun sem óskar eftir að veita greiðsluþjónustu í öðru aðildarríki, fyrir milligöngu umboðsaðila, skal fylgja málsmeðferðarreglum þeim sem greinir í 1. mgr. og 15. gr. Áður en Fjármálaeftirlitið skráir upplýsingar um umboðsaðila í skrá skv. 6. gr. skal Fjármálaeftirlitið senda tilkynningu til lögbærra yfirvalda í hlutaðeigandi ríki. Ef gerðar eru athugasemdir við fyrirhugaða skráningu skal Fjármálaeftirlitið taka tillit til þeirra.
- □ Berist Fjármálaeftirlitinu tilkynning frá lögbærum yfirvöldum í öðru aðildarríki, sem greiðslustofnun óskar eftir að veita greiðsluþjónustu í fyrir milligöngu umboðsaðila eða með stofnun útibús, sem hafa gilda ástæðu til að ætla að peningaþvætti eða fjármögnun hryðjuverka eigi sér stað, hafi átt sér stað eða sé í undirbúningi eða að tilnefning umboðsaðila eða stofnun útibúsins gæti aukið hættu á peningaþvætti eða fjármögnun hryðjuverka getur Fjármálaeftirlitið hafnað því að færa upplýsingar um umboðsaðilann eða útibúið í skrá skv. 6. gr. eða afturkallað skráningu ef hún hefur þegar farið fram.
- □ Greiðslustofnun skal sjá til þess að umboðsaðili eða útibú sem veitir þjónustu fyrir hennar hönd upplýsi notendur greiðsluþjónustu um þá staðreynd.
+ □ Fjármálaeftirlitið skráir umboðsaðila í skrá skv. 13. gr. a, að fengnum upplýsingum skv. 1. mgr. Telji Fjármálaeftirlitið vafa leika á að upplýsingarnar séu réttar skal það grípa til aðgerða til að sannreyna þær. Fjármálaeftirlitið synjar um skráningu á umboðsaðila í skrá yfir greiðslustofnanir ef það er mat þess að ósannað teljist að upplýsingar skv. 1. mgr. séu réttar.
+ □ Ef Fjármálaeftirlitið metur upplýsingarnar ófullnægjandi eða rangar er því heimilt að hafna skráningu og er þá greiðslustofnun óheimilt að notast við hlutaðeigandi umboðsaðila frá þeim tíma.
+ □ Greiðslustofnun er heimilt að veita greiðsluþjónustu í gegnum umboðsaðila sem aðhefst fyrir hönd þess eftir að Fjármálaeftirlitið hefur fært hann í skrá skv. 13. gr. a.
+ □ Ef greiðslustofnun óskar eftir því að veita greiðsluþjónustu í öðru aðildarríki í gegnum umboðsaðila fer um slíkt skv. 23. gr. b.][^1)^]
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
+ _[H. Útvistun.][^1)^]_
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  ■ *24. gr.* _Útvistun._
  □ Greiðslustofnun sem hyggst útvista rekstrarþætti greiðsluþjónustu skal tilkynna Fjármálaeftirlitinu fyrir fram um það.
  □ Útvistun mikilvægra rekstrarþátta sem dregur umtalsvert úr gæðum innra eftirlits greiðslustofnunar og torveldar eftirlit með framkvæmd laga þessara er óheimil. Rekstrarþáttur telst mikilvægur ef ágalli eða brestur í framkvæmd hans hefur umtalsverð neikvæð áhrif á getu greiðslustofnunar til að uppfylla þær kröfur sem liggja til grundvallar starfsleyfi hennar eða skyldur samkvæmt lögunum, fjárhagslega afkomu greiðslustofnunar eða styrkleika eða samfelldni greiðsluþjónustunnar sem um ræðir.
  □ Fjármálaeftirlitið setur nánari reglur um hvernig greiðslustofnun er heimilt að standa að útvistun mikilvægra rekstrarþátta.
- _G. Annað._
+ _[I.][^1)^] Annað._
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  ■ *25. gr.* _Bótaábyrgð._
  □ Greiðslustofnun ber skaðabótaábyrgð vegna tjóns sem rakið verður til athafna starfsmanna hennar, umboðsaðila, útibúa og þeirra aðila sem rekstrarþáttum greiðsluþjónustu hefur verið útvistað til.
  □ Greiðslustofnun sem reiðir sig á þriðja aðila til að annast tiltekna rekstrarþætti skal gera viðeigandi ráðstafanir til að tryggja að farið sé að lögum þessum.
  ■ *26. gr.* _Varðveisla gagna._
  □ Greiðslustofnun ber að varðveita öll viðeigandi gögn er varða þennan kafla að lágmarki í fimm ár.
- _H. Peninga- og verðmætasendingarþjónusta._
+ _[J.][^1)^] Peninga- og verðmætasendingarþjónusta._
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  ■ *27. gr.* Peninga- og verðmætasendingarþjónustu samkvæmt lögum um aðgerðir gegn peningaþvætti og fjármögnun hryðjuverka er heimilt að veita greiðsluþjónustu skv. 6. tölul. 4. gr., að fullnægðum skilyrðum 2. - 4. mgr.
  □ Heildarfjárhæð greiðslna sem peninga- og verðmætasendingarþjónusta framkvæmir á grundvelli laga þessara á einum mánuði má að hámarki nema jafnvirði 3 milljóna evra (EUR) í íslenskum krónum miðað við opinbert viðmiðunargengi (kaupgengi) eins og það er skráð hverju sinni. Fjármálaeftirlitinu er heimilt að kveða á um lægri viðmiðunarfjárhæð en greinir í 1. málsl.
- □ Ákvæði þessa kafla gilda um peninga- og verðmætasendingarþjónustu skv. 1. mgr., að undanskildum ákvæðum 10. - 12. gr., 7. mgr. 15. gr., 5. mgr. 19. gr., 2. - 4. mgr. 22. gr., 3. - 4. mgr. 23. gr. og 24. gr.
+ □ Ákvæði þessa kafla gilda um peninga- og verðmætasendingarþjónustu skv. 1. mgr., að undanskildum ákvæðum 10. - 12. gr., [3. mgr. 13. gr.],[^1)^] 5. mgr. 19. gr., 2. - 4. mgr. 22. gr., [23. gr., 23. gr. a  -  23. gr. f][^1)^] og 24. gr.
  □ Fjármálaeftirlitið getur sett nánari reglur um skilyrði fyrir veitingu greiðsluþjónustu af hálfu peninga- og verðmætasendingarþjónustu.
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
 
  *III. kafli.* *Upplýsingagjöf og gagnsæi við veitingu greiðsluþjónustu.*
  _A. Almenn ákvæði._
@@ -272,14 +333,14 @@ h2. Lög um greiðsluþjónustu
     c. öll gjöld sem notanda greiðsluþjónustu ber að greiða greiðsluþjónustuveitanda og, ef við á, sundurliðun fjárhæða slíkra gjalda,
     d. ef við á, raunverulegt gengi eða viðmiðunargengi sem gilda skal um greiðslu,
     e. ef við á, viðeigandi upplýsingar og skilmálar sem tilgreindir eru í 40. gr.
-■ *37. gr.* _Upplýsingagjöf gagnvart greiðanda eftir viðtöku greiðslufyrirmæla um staka greiðslu._
+ ■ *37. gr.* _Upplýsingagjöf gagnvart greiðanda eftir viðtöku greiðslufyrirmæla um staka greiðslu._
  □ Eftirfarandi upplýsingar skal greiðsluþjónustuveitandi afhenda eða gera greiðanda aðgengilegar með þeim hætti sem kveðið er á um í 1. - 3. mgr. 35. gr. þegar í stað eftir viðtöku greiðslufyrirmæla:
     a. tilvísun sem gerir greiðanda kleift að bera kennsl á greiðslu og, ef við á, upplýsingar sem varða viðtakanda greiðslu,
     b. fjárhæð greiðslu í þeim gjaldmiðli sem kveðið er á um í greiðslufyrirmælunum,
     c. fjárhæð gjalda sem greiðanda ber að greiða vegna framkvæmdar greiðslu og, ef við á, sundurliðun fjárhæða slíkra gjalda,
     d. ef við á, gengið sem greiðsluþjónustuveitandi notar í greiðslunni eða tilvísun til þess ef um ræðir annað gengi en það sem kveðið er á um í samræmi við d-lið 36. gr., svo og fjárhæð greiðslu eftir gjaldmiðilsumreikning og
     e. dagsetningu viðtöku greiðslufyrirmælanna.
-■ *38. gr.* _Upplýsingagjöf gagnvart viðtakanda greiðslu eftir framkvæmd stakrar greiðslu._
+ ■ *38. gr.* _Upplýsingagjöf gagnvart viðtakanda greiðslu eftir framkvæmd stakrar greiðslu._
  □ Eftirfarandi upplýsingar skal greiðsluþjónustuveitandi viðtakanda greiðslu afhenda eða gera viðtakandanum aðgengilegar með þeim hætti sem kveðið er á um í 1. - 3. mgr. 35. gr., þegar í stað eftir að greiðsla hefur verið framkvæmd:
     a. tilvísun sem gerir viðtakanda greiðslu kleift að bera kennsl á greiðsluna og, ef við á, greiðanda, svo og þær upplýsingar sem kunna að hafa verið sendar með greiðslunni,
     b. fjárhæð greiðslu í þeim gjaldmiðli sem fjármunirnir sem viðtakandi greiðslu fær til ráðstöfunar eru í,
@@ -287,7 +348,7 @@ h2. Lög um greiðsluþjónustu
     d. ef við á, gengið sem greiðsluþjónustuveitandi viðtakanda notar í greiðslunni og fjárhæð greiðslu áður en gjaldmiðilsumreikningur fór fram og
     e. gildisdag eignfærslu.
  _C. Greiðslur sem falla undir rammasamninga._
-■ *39. gr.* _Almenn upplýsingagjöf áður en samningur eða tilboð vegna greiðslna sem falla undir rammasamninga verður bindandi fyrir notanda greiðsluþjónustu._
+ ■ *39. gr.* _Almenn upplýsingagjöf áður en samningur eða tilboð vegna greiðslna sem falla undir rammasamninga verður bindandi fyrir notanda greiðsluþjónustu._
  □ Áður en rammasamningur eða tilboð um greiðsluþjónustu verður bindandi fyrir notanda greiðsluþjónustu skal greiðsluþjónustuveitandi afhenda notanda upplýsingar og skilmála skv. 40. gr. á pappír eða öðrum varanlegum miðli.
  □ Framsetning upplýsinga og skilmála skal vera með skýrum og auðskiljanlegum hætti, á íslensku eða á hverju því tungumáli öðru sem aðilar koma sér saman um.
  □ Ef rammasamningur hefur verið gerður að beiðni notanda greiðsluþjónustu með tilstyrk fjarsamskiptamiðils sem ekki gerir greiðsluþjónustuveitanda kleift að fara að 1. og 2. mgr. skal greiðsluþjónustuveitandinn uppfylla skyldur sínar samkvæmt þeim ákvæðum þegar í stað að lokinni gerð rammasamnings.
@@ -327,7 +388,7 @@ h2. Lög um greiðsluþjónustu
     7. Að því er varðar úrlausn ágreiningsmála:
     a. hvaða lög gilda um rammasamninginn, og
     b. hvaða kosti notandi greiðsluþjónustu á skv. V. kafla laga þessara um úrlausn ágreiningsmála utan dómstóla og meðferð bótamála.
-■ *41. gr.* _Upplýsingar og skilmálar rammasamnings skulu ávallt aðgengilegir notanda greiðsluþjónustu._
+ ■ *41. gr.* _Upplýsingar og skilmálar rammasamnings skulu ávallt aðgengilegir notanda greiðsluþjónustu._
  □ Hvenær sem er, meðan á samningssambandi stendur, getur notandi greiðsluþjónustu óskað eftir og skal þá fá afhenta skilmála rammasamnings ásamt þeim upplýsingum og skilmálum sem tilgreind eru í 40. gr. á pappír eða öðrum varanlegum miðli.
  ■ *42. gr.* _Breytingar á skilmálum rammasamnings._
  □ Greiðsluþjónustuveitandi skal leggja tillögur að breytingum á rammasamningi, sem og á upplýsingum og skilmálum skv. 40. gr., fyrir notanda greiðsluþjónustu með þeim hætti sem kveðið er á um í 1. og 2. mgr. 39. gr. eigi síðar en tveimur mánuðum fyrir fyrirhugaðan gildistökudag breytinganna. Ef um það hefur verið samið, sbr. a-lið 6. tölul. 40. gr., skal greiðsluþjónustuveitandi tilkynna notanda greiðsluþjónustu að hann teljist hafa samþykkt slíkar breytingar tilkynni hann ekki um annað fyrir fyrirhugaðan gildistökudag. Ef notanda greiðsluþjónustu er heimilt að segja rammasamningi upp þegar í stað án sérstakrar gjaldtöku áður en fyrirhugaðar breytingar öðlast gildi skal greiðsluþjónustuveitandi jafnframt upplýsa notandann um það.
@@ -394,7 +455,8 @@ h2. Lög um greiðsluþjónustu
  □ Víkja má frá 1. og 2. mgr. með samningi, í heild eða að hluta, þegar notandi greiðsluþjónustu er ekki neytandi.
  ■ *55. gr.* _Ábyrgð greiðsluþjónustuveitanda þegar um ræðir óheimilaða greiðslu._
  □ Þegar um óheimilaða greiðslu er að ræða í skilningi laga þessara skal greiðsluþjónustuveitandi, að uppfylltum skilyrðum 53. gr. og að teknu tilliti til annarra ákvæða þessa kafla, þegar í stað endurgreiða greiðanda fjárhæð óheimiluðu greiðslunnar og, ef við á, bakfæra eignfærslu á greiðslureikninginn til sömu stöðu og hann hefði verið í ef óheimilaða greiðslan hefði ekki átt sér stað.
- □ Ákvæði þetta gildir um rafeyri í skilningi laga um fjármálafyrirtæki, nema greiðsluþjónustuveitandi greiðanda hafi ekki getu til að frysta greiðslureikning eða loka greiðslumiðli.
+ □ Ákvæði þetta gildir um rafeyri í skilningi [laga um útgáfu og meðferð rafeyris],[^1)^] nema greiðsluþjónustuveitandi greiðanda hafi ekki getu til að frysta greiðslureikning eða loka greiðslumiðli.
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  ■ *56. gr.* _Ábyrgð greiðanda þegar um ræðir óheimilaða greiðslu._
  □ Þrátt fyrir 55. gr. skal greiðandi bera tjón vegna óheimilaðra greiðslna sem nemur allt að jafnvirði 150 evra (EUR) í íslenskum krónum miðað við opinbert viðmiðunargengi (kaupgengi) eins og það er skráð hverju sinni sem rekja má til notkunar á týndum eða stolnum greiðslumiðli eða stafar af óréttmætri nýtingu greiðslumiðils sem leiðir af því að greiðandi hefur ekki uppfyllt skyldu sína samkvæmt lögum þessum til að tryggja persónubundna öryggisþætti greiðslumiðilsins.
  □ Greiðandi skal bera allt tjón sem rekja má til óheimilaðra greiðslna ef hann hefur stofnað til þeirra með sviksamlegum hætti eða látið ógert að uppfylla eina eða fleiri af skyldum sínum skv. 51. gr. af ásetningi eða af stórfelldu gáleysi. Þegar þetta á við gildir ekki hámarksfjárhæðin sem um getur í 1. mgr.
@@ -402,7 +464,8 @@ h2. Lög um greiðsluþjónustu
  □ Greiðandi skal ekki bera tjón sem hlýst af notkun á greiðslumiðli sem týnist, er stolið eða nýttur með óréttmætum hætti eftir tímamark tilkynningar skv. 3. mgr. 51. gr. Þetta á þó ekki við ef greiðandi hefur sýnt af sér sviksamlega háttsemi.
  □ Greiðandi skal ekki bera tjón sem hlýst af notkun greiðslumiðils ef greiðsluþjónustuveitandi hefur ekki gert viðeigandi ráðstafanir samkvæmt lögum þessum vegna tilkynningarskyldu um greiðslumiðil sem hefur týnst, verið stolið eða notaður með óréttmætum hætti, eins og krafist er skv. 4. mgr. 52. gr. Þetta á þó ekki við ef greiðandi hefur sýnt af sér sviksamlega háttsemi.
  □ Víkja má frá 1. - 5. mgr. með samningi, í heild eða að hluta, þegar notandi greiðsluþjónustu er ekki neytandi.
- □ Ákvæði þetta gildir um rafeyri í skilningi laga um fjármálafyrirtæki, nema greiðsluþjónustuveitandi greiðanda hafi ekki getu til að frysta greiðslureikning eða loka greiðslumiðli.
+ □ Ákvæði þetta gildir um rafeyri í skilningi [laga um útgáfu og meðferð rafeyris],[^1)^] nema greiðsluþjónustuveitandi greiðanda hafi ekki getu til að frysta greiðslureikning eða loka greiðslumiðli.
+    _[^1)^]"L. 17/2013, 47. gr.":/altext/stjt/2013.017.html#G47_
  ■ *57. gr.* _Endurgreiðslur á greiðslum sem viðtakandi á frumkvæði að eða hefur milligöngu um._
  □ Greiðandi á rétt á endurgreiðslu frá greiðsluþjónustuveitanda sínum vegna heimilaðrar greiðslu, sem viðtakandi greiðslu hefur átt frumkvæði að eða haft milligöngu um og greiðslan hefur þegar verið framkvæmd, ef eftirfarandi skilyrðum er fullnægt:
     a. fjárhæð greiðslunnar var ekki nákvæmlega tilgreind í heimildinni þegar hún var veitt og
@@ -549,7 +612,7 @@ h2. Lög um greiðsluþjónustu
  ■ *79. gr.* _Innleiðing._
  □ Lög þessi fela í sér innleiðingu á tilskipun Evrópuþingsins og ráðsins 2007/64/EB um greiðsluþjónustu á innri markaðnum er breytir tilskipunum 97/7/EB, 2002/65/EB, 2005/60/EB og 2006/48/EB og nemur úr gildi tilskipun 97/5/EB. Tilskipunin var tekin upp í EES-samninginn með ákvörðun sameiginlegu EES-nefndarinnar nr. 114/2008 7. nóvember 2008, sem birt var í EES-viðbæti við Stjórnartíðindi Evrópusambandsins nr. 79/2008 18. desember 2008.
  ■ *80. gr.* Lög þessi öðlast gildi 1. desember 2011.
- ■ *81. gr.* _Breytingar á öðrum lögum. ..._
+ ■ *81. gr.* _Breytingar á öðrum lögum. "...":http://www.althingi.is/vefur/lagas-hlp.html_
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Þrátt fyrir ákvæði laga þessara gilda um greiðsluþjónustuveitendur og notendur greiðsluþjónustu takmarkanir sem kunna að felast í ákvæðum "laga nr. 87/1992":1992087.html, um gjaldeyrismál, og reglum sem settar eru með stoð í þeim, á hverjum tíma.

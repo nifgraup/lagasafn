@@ -7,9 +7,9 @@ h2. Ábúðarlög
 <hr />
 
 
- *Tóku gildi 1. júlí 2004.* _Breytt með_ l. 50/2006 (tóku gildi 1. júlí 2006), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 74/2011 (tóku gildi 1. jan. 2012) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. júlí 2004.* _Breytt með_ "l. 50/2006":/altext/stjt/2006.050.html (tóku gildi 1. júlí 2006), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 74/2011":/altext/stjt/2011.074.html (tóku gildi 1. jan. 2012) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -32,10 +32,10 @@ h2. Ábúðarlög
  □ _Ræktun_ eða _ræktað land_ merkir í lögum þessum land sem hefur verið ræktað með jarðvinnslu, sáningu og reglulegri áburðargjöf, land í skógrækt eða land sem hvorki hefur þarfnast jarðvinnslu né sáningar til að verða slægjuland en er það vegna áburðargjafar og er notað sem slíkt.
  □ _Vatnsréttindi_ merkja í lögum þessum rétt til að nytja grunnvatn, vatnsfall eða stöðuvatn.
  □ Rísi ágreiningur um skilgreiningu einstakra hugtaka samkvæmt lögum þessum sker [ráðherra][^1)^] úr.
-    _[^1)^]L. 126/2011, 388. gr._
+    _[^1)^]"L. 126/2011, 388. gr.":/altext/stjt/2011.126.html_
  ■ *3. gr.* _Yfirstjórn._
  □ [Ráðherra][^1)^] fer með yfirstjórn þeirra mála sem lög þessi gilda um.
-    _[^1)^]L. 126/2011, 388. gr._
+    _[^1)^]"L. 126/2011, 388. gr.":/altext/stjt/2011.126.html_
 
  *II. kafli.* *Bygging jarða.*
  ■ *4. gr.* _Ábúendur._
@@ -50,7 +50,7 @@ h2. Ábúðarlög
  ■ *8. gr.* _Byggingarbréf._
  □ Jarðareigandi og ábúandi skulu gera skriflegan samning um ábúð sem nefnist byggingarbréf. Í byggingarbréfi skulu koma fram upplýsingar um nöfn, kennitölur og heimilisföng aðila, ræktun, mannvirki, hlunnindi, greiðslumark, ábúðartíma, upphaf og lok ábúðar, fjárhæð, gjalddaga og greiðslustað jarðarafgjalds, hvort ábúandi skuli setja tryggingu fyrir greiðslu jarðarafgjalds og í hvaða formi, aðra ábúðarskilmála, landamerki jarðar, ítök sem jörðin kann að eiga í öðru landi og á afréttum, kvaðir sem kunna að hvíla á jörðinni svo og upplýsingar um starfsemi ábúanda á jörðinni. Þá skal semja um við hvaða dagsetningu miða skal yfirfærslur greiðslna sem fylgja lögbýli. Einnig skulu koma fram í byggingarbréfi upplýsingar um ástand ræktunar og mannvirkja eða tilvísun til slíkra upplýsinga í úttekt. Gera skal þrjú samhljóða frumrit af byggingarbréfi sem jarðareigandi og ábúandi rita nöfn sín undir í viðurvist tveggja vitundarvotta. Heldur jarðareigandi einu eintaki en ábúandi tveimur sem hann skal þinglýsa.
  □ ...[^1)^]
-    _[^1)^]L. 74/2011, 15. gr._
+    _[^1)^]"L. 74/2011, 15. gr.":/altext/stjt/2011.074.html_
  ■ *9. gr.* _Vanræksla á gerð byggingarbréfs._
  □ Hafi aðilar vanrækt að gera byggingarbréf teljast þeir hafa gert ótímabundinn samning um ábúð og gilda öll ákvæði þessara laga um réttarsamband þeirra. Fjárhæð jarðarafgjalds skal miða við þá fjárhæð sem jarðareigandi getur sýnt fram á að ábúandi hafi samþykkt að greiða. Slíkir samningar eru uppsegjanlegir skv. 35. gr.
 
@@ -94,7 +94,7 @@ h2. Ábúðarlög
  □ Ef hjón, annað eða bæði, hafa ábúðarrétt á jörð og hjúskap þeirra lýkur skal fara um ábúðarréttindin í samræmi við ákvæði "hjúskaparlaga, nr. 31/1993":1993031.html, ef hjónin koma sér ekki saman um hvort þeirra skuli hljóta ábúðarréttindin. Það hjóna sem aðallega hefur atvinnu sína af landbúnaðarstarfsemi á jörðinni skal hafa forgang til áframhaldandi ábúðar á jörðinni án tillits til þess hvort þeirra undirritaði byggingarbréf.
  ■ *27. gr.* _Réttur sambúðarfólks._
  □ Ákvæði í lögum þessum um hjón eða maka eiga einnig við um sambúðarfólk ef sambúðin er skráð [í þjóðskrá],[^1)^] ef það á sameiginlegt lögheimili og sambúðin hefur varað í a.m.k. eitt ár eða ef það hefur átt barn saman eða á von á barni.
-    _[^1)^]L. 50/2006, 28. gr._
+    _[^1)^]"L. 50/2006, 28. gr.":/altext/stjt/2006.050.html_
  ■ *28. gr.* _Skriflegar tilkynningar._
  □ Ef jarðareigandi eða ábúandi þarf að senda skriflegar tilkynningar, hverju nafni sem nefnast í lögum þessum, sem koma þarf til viðtakanda innan ákveðins frests eða tímamarks teljast tilkynningarnar komnar til viðtakanda ef þær eru sendar af stað með sannanlegum hætti innan þess tímamarks.
  ■ *29. gr.* _Önnur atriði._
@@ -108,7 +108,7 @@ h2. Ábúðarlög
  □ Þegar ábúendaskipti verða á milli ættliða á jörð sem er í erfðaábúð skulu úttektarmenn tilkvaddir ásamt jarðareiganda og jörðin tekin út. Úttektargerðin skal bera með sér:
     1. Eign jarðareiganda í ræktun, húsum og öðrum mannvirkjum sem fráfarandi ábúandi hefur tekið við ásamt eign jarðareiganda í húsum og öðrum mannvirkjum vegna fjárframlags hans í tíð fráfarandi ábúanda.
     2. Eign ættarinnar sem fráfarandi ábúandi tók við í ræktun, húsum og öðrum mannvirkjum á jörðinni og auk þess það sem fráfarandi ábúandi leggur fram sem eignarauka. Að öðru leyti fer um úttekt þessa eftir almennum reglum.
-■ *32. gr.* _Réttur til erfðaábúðar._
+ ■ *32. gr.* _Réttur til erfðaábúðar._
  □ Réttur til ábúðar á jörðum samkvæmt þessum kafla, þ.m.t. hús og mannvirki á jörðinni sem viðkomandi ætt á, erfist sem hér segir:
     1. Það hjóna sem lengur lifir heldur réttindum meðan það lifir.
     2. Erfðaréttur erfist til barns þess hjóna sem erfðaábúðarréttindin stofnaði eða erfði og til barna þeirra og kjörbarna.
@@ -119,7 +119,7 @@ h2. Ábúðarlög
     7. Óski ekkert barnanna að nota erfðaréttinn og nytja jörðina áfram er foreldrum heimilt að ánafna hana fósturbarni.
     8. Ef erfingi ábúðarréttar deyr barnlaus innan tíu ára frá því að hann tók við ábúð, enda eigi hann ekki kjörbarn, hefur næsti erfingi rétt til að ganga inn í ábúðina.
     9. Ef engar tillögur eða óskir liggja fyrir frá fráfarandi ábúanda um ráðstöfun jarðarinnar skal henni ráðstafað að tillögu sveitarstjórnar.
-■ *33. gr.* _Önnur atriði._
+ ■ *33. gr.* _Önnur atriði._
  □ Að öðru leyti en fram kemur í þessum kafla gilda önnur ákvæði þessara laga um erfðaábúð eftir því sem við á.
 
  *V. kafli.* *Ábúðarlok.*
@@ -140,7 +140,7 @@ h2. Ábúðarlög
  □ Þá skal jarðareigandi endurgreiða framlög ábúanda til skógræktar á ábúðarjörðinni sem jarðareigandi hefur samþykkt og ekki hafa verið greidd úr ríkissjóði að viðbættri verðtryggingu miðað við byggingarvísitölu.
  ■ *39. gr.* _Úttektarmenn._
  □ [Ráðherra][^1)^] skipar tvo úttektarmenn fyrir landið í heild til fjögurra ára í senn til að framkvæma úttektir á jörðum og mat á eignum og endurbótum fráfarandi ábúanda við ábúðarlok. Skipa skal annan úttektarmanninn án tilnefningar en hinn samkvæmt tilnefningu Bændasamtaka Íslands. Varamenn skulu skipaðir með sama hætti.
-    _[^1)^]L. 126/2011, 388. gr._
+    _[^1)^]"L. 126/2011, 388. gr.":/altext/stjt/2011.126.html_
  ■ *40. gr.* _Úttekt._
  □ Úttektarmenn skulu byrja úttekt eigi síðar en fjórum vikum eftir að beiðni um úttekt berst nema sérstakar aðstæður standi í vegi fyrir því.
  □ Úttektarmenn skulu tilkynna jarðareiganda og fráfarandi ábúanda skriflega með nægum fyrirvara um hvenær úttekt fer fram og gefa þeim kost á að vera viðstaddir og gæta réttar síns að öðru leyti. Einnig skulu úttektarmenn gefa jarðareiganda og ábúanda kost á að skila skriflegum greinargerðum.
@@ -162,7 +162,7 @@ h2. Ábúðarlög
  □ Yfirmatsnefnd skal að lokinni vettvangsskoðun komast að niðurstöðu á fundum. Ef ágreiningur verður ræður afl atkvæða úrslitum.
  □ Yfirmatsnefnd skal skila skriflegum, rökstuddum niðurstöðum og skulu allir nefndarmenn staðfesta matsgerðir með undirritun sinni. Yfirmatsnefnd skal skila niðurstöðum sínum eigi síðar en fjórum vikum eftir að vettvangsskoðun lauk.
  □ Yfirmatsnefnd úrskurðar um hvernig kostnaður við yfirmat greiðist en þó skal kærandi alltaf greiða að lágmarki helming þess kostnaðar.
-    _[^1)^]L. 126/2011, 388. gr._
+    _[^1)^]"L. 126/2011, 388. gr.":/altext/stjt/2011.126.html_
  ■ *45. gr.* _Greiðsla kaupverðs, greiðsluskilmálar o.fl._
  □ Ef jarðareigandi og ábúandi ná ekki samkomulagi um greiðsluskilmála kaupverðs skal jarðareigandi greiða helming kaupverðsins á næstu níu mánuðum eftir ábúðarlok. Eftirstöðvar kaupverðsins skal jarðareigandi greiða með skuldabréfi til að hámarki tveggja ára. Fjárhæð skuldabréfsins skal verðtryggð samkvæmt byggingarvísitölu miðað við grunnvísitölu við ábúðarlok til greiðsludags og bera vexti samkvæmt ákvæðum "laga nr. 38/2001":2001038.html, um vexti og verðtryggingu.
  ■ *46. gr.* _Frágangur og skil ábúðarjarðar, mannvirkja o.fl._
@@ -173,12 +173,12 @@ h2. Ábúðarlög
  *VI. kafli.* *Lokaákvæði.*
  ■ *48. gr.* _Reglugerðir o.fl._
  □ [Ráðherra][^1)^] setur nánari ákvæði um framkvæmd þessara laga með reglugerðum og öðrum stjórnvaldsreglum.
-    _[^1)^]L. 126/2011, 388. gr._
+    _[^1)^]"L. 126/2011, 388. gr.":/altext/stjt/2011.126.html_
  ■ *49. gr.* _Refsingar._
  □ Brot gegn lögum þessum, reglugerðum og öðrum stjórnvaldsreglum settum samkvæmt heimild í þeim varða sektum. ...[^1)^]
-    _[^1)^]"L. 88/2008, 233. gr.":2008088.html#g233_
+    _[^1)^]"L. 88/2008, 233. gr.":/altext/stjt/2008.088.html#G233_
  ■ *50. gr.* _Gildistaka._
- □ Lög þessi öðlast gildi 1. júlí 2004. ...
+ □ Lög þessi öðlast gildi 1. júlí 2004. "...":http://www.althingi.is/vefur/lagas-hlp.html
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Samningar um ábúð sem gerðir hafa verið fyrir gildistöku þessara laga skulu halda gildi sínu. Ef jarðareigandi hefur á grundvelli heimildar í á"búðarlögum, nr. 64/1976":1976064.html, með síðari breytingum, eða eldri lögum um sama efni fyrir gildistöku þessara laga tekið ákvörðun um aðra nýtingu jarðar, hlunninda eða ítaka sem jörð kann að eiga í öðrum jörðum en lög þessi gera ráð fyrir skulu þær ákvarðanir halda gildi sínu eftir gildistöku þessara laga án tillits til þess hvort þær veita ábúanda meiri eða minni rétt en lög þessi gera ráð fyrir. Sama gildir ef jarðareigandi og ábúandi hafa fyrir gildistöku þessara laga samið um aðra nýtingu jarðar, hlunninda eða ítaka sem jörð kann að eiga í öðrum jörðum. Að öðru leyti fer um réttarsamband jarðeigenda og ábúenda samkvæmt þessum lögum eftir 1. júlí 2004.

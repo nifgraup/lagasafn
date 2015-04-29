@@ -7,9 +7,9 @@ h2. Lög um veðurþjónustu
 <hr />
 
 
- *Tóku gildi 30. desember 2004.* _Breytt með_ l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 30. desember 2004.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *umhverfis- og auðlindaráðherra* eða *umhverfis- og auðlindaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *umhverfis- og auðlindaráðherra* eða *umhverfis- og auðlindaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -31,9 +31,9 @@ h2. Lög um veðurþjónustu
     9. _Veður:_ Ástand lofthjúpsins á hverjum tíma, þ.m.t. vindur, loftþrýstingur, úrkoma, skýjafar, skyggni, lofthiti og loftraki.
     10. _Veðurtengdir þættir:_ M.a. ofanflóð, hafís, snjóalög, sjólag, sjávarflóð, vatnsflóð, eldingar, dreifing gjósku í lofti, ókyrrð í lofti og ísing í lofti, á láði og á legi.
     11. _Öryggisþjónusta:_ Vöktun og viðvaranir eða ráðgjöf um yfirvofandi hættu af völdum veðurs eða veðurtengdra þátta sem miðar að því að vernda líf og eignir.
-■ *4. gr.* _Yfirstjórn._
+ ■ *4. gr.* _Yfirstjórn._
  □ [Ráðherra][^1)^] fer með yfirstjórn mála sem lög þessi taka til. Veðurstofa Íslands er ráðherra til ráðgjafar.
-    _[^1)^]L. 126/2011, 394. gr._
+    _[^1)^]"L. 126/2011, 394. gr.":/altext/stjt/2011.126.html_
  ■ *5. gr.* _Grunnkerfi._
  □ Veðurstofa Íslands skal reka grunnkerfi með því m.a. að starfrækja nauðsynlegan fjölda veðurathugunarstöðva í hverjum landshluta og með því að afla gagna frá erlendum veðurstofum. Enn fremur skal Veðurstofa Íslands afla annarra veðurfræðilegra gagna, svo sem fjarkönnunargagna, eftir því sem tök eru á. Markmið með rekstri grunnkerfa Veðurstofu Íslands er að afla gagna fyrir grunnþjónustu og að byggja upp, viðhalda og auka þekkingu á veðurfari landsins og orsökum veðurfarsbreytinga.
  □ Veðurstofa Íslands skal varðveita veðurupplýsingar þær sem fást úr rekstri grunnkerfa í aðgengilegum og áreiðanlegum gagnagrunnum.
@@ -45,7 +45,7 @@ h2. Lög um veðurþjónustu
     c. veita veðurþjónustu fyrir flugvelli og flugumferð í samræmi við lög, fyrirmæli stjórnvalda og samkvæmt alþjóðlegum reglum og samþykktum,
     d. veita öryggisþjónustu vegna veðurtengdra þátta,
     e. veita aðra þá grunnþjónustu sem ráðherra ákveður eða samið er um í alþjóðlegum samningum.
-■ *7. gr.* _Fjármögnun grunnkerfa og grunnþjónustu._
+ ■ *7. gr.* _Fjármögnun grunnkerfa og grunnþjónustu._
  □ Kostnaður við uppbyggingu, rekstur, þróun og viðhald grunnkerfa, svo og grunnþjónustu, greiðist úr ríkissjóði.
  ■ *8. gr.* _Miðlun veðurupplýsinga._
  □ Veðurstofa Íslands skal miðla upplýsingum um veður, almennar veðurspár, almennar veðurhorfur og veðurtengda þætti a.m.k. daglega til fjölmiðla og annarra miðla sem hafa almenna útbreiðslu og ná til notenda innan lands, hafsvæða umhverfis landið og flugstjórnarsvæðis sem stofnunin vaktar samkvæmt alþjóðlegum samningum eða skuldbindingum Íslands á alþjóðavettvangi.
@@ -62,6 +62,6 @@ h2. Lög um veðurþjónustu
  □ Ráðherra setur í reglugerð nánari fyrirmæli um veðurþjónustu og veðurtengda öryggisþjónustu.
  ■ *14. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi.
- □ ...
+ □ "...":http://www.althingi.is/vefur/lagas-hlp.html
 
 

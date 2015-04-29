@@ -9,7 +9,7 @@ h2. Lög um vátryggingastarfsemi
 
  *Tóku gildi 17. júní 2010.* _EES-samningurinn:_ IX. viðauki tilskipun 64/225/EBE, 72/166/EBE, 73/239/EBE, 73/240/EBE, tilmæli 74/165/EBE, tilskipun 77/92/EBE, 78/473/EBE, XXII. viðauki tilskipun 78/660/EBE, IX. viðauki tilskipun 79/267/EBE, tilmæli 81/76/EBE, XXII. viðauki tilskipun 83/349/EBE, IX. viðauki tilskipun 84/5/EBE, 87/344/EBE, 88/357/EBE, 90/232/EBE, 90/619/EBE, 91/674/EBE, tilmæli 92/48/EBE, tilskipun 92/49/EBE, 92/96/EBE, 98/78/EB, 2000/12/EB, 2000/26/EB, 2001/17/EB, 2001/24/EB, 2002/87/EB, 2002/92/EB, 2005/68/EB.
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -107,7 +107,7 @@ h2. Lög um vátryggingastarfsemi
     c. _í ferðatryggingum:_ ríkið þar sem vátryggingartaki keypti vátrygginguna enda sé gildistími hennar eigi lengri en fjórir mánuðir,
     d. _í öðrum skaðatryggingum:_ ríkið þar sem vátryggingartaki hefur aðsetur að jafnaði eða, þegar um lögaðila er að ræða, það aðildarríki þar sem aðsetrið er sem helst tengist vátryggingarsamningnum sem gerður er,
     e. _í persónutryggingum:_ ríkið þar sem skuldbindingin komst á, þ.e. þar sem vátryggingartaki hefur aðsetur að jafnaði eða, þegar um lögaðila er að ræða, það ríki þar sem aðsetrið er sem helst tengist vátryggingarsamningnum sem gerður er (starfsemin fer fram).
-■ *11. gr.* _Mörk við aðra starfsemi._
+ ■ *11. gr.* _Mörk við aðra starfsemi._
  □ Vátryggingafélag má ekki reka aðra starfsemi en vátryggingastarfsemi nema annað leiði af ákvæðum 13. gr.
  □ Vátryggingafélag telst reka aðra starfsemi en vátryggingastarfsemi ef félagið hefur yfirráð, eitt sér eða ásamt öðru vátryggingafélagi, í félagi sem rekur aðra starfsemi en vátryggingastarfsemi. Þegar um félagasamstæðu er að ræða eða vátryggingafélög í beinum eða óbeinum rekstrarlegum tengslum við önnur félög og móðurfélagið er ekki vátryggingafélag skal í þessu sambandi litið á vátryggingafélögin sem eitt félag.
  □ Þrátt fyrir ákvæði 1. og 2. mgr. er vátryggingafélagi heimilt að reka viðskiptabanka eða aðra fjármálastarfsemi í sérstöku félagi, enda sé starfsemin háð starfsleyfi og eftirliti opinberra aðila.
@@ -150,7 +150,7 @@ h2. Lög um vátryggingastarfsemi
     3. Hvernig ráðstafa megi eignum félagsins og hvernig fara skuli með eignir þess við félagsslit.
 
  *IV. kafli.* *Starfsleyfi.*
-■ *18. gr.* _Starfsleyfisveitandi._
+ ■ *18. gr.* _Starfsleyfisveitandi._
  □ Fjármálaeftirlitið veitir starfsleyfi samkvæmt lögum þessum. Vátryggingafélagi er heimilt að hefja starfsemi þegar það hefur fengið starfsleyfi Fjármálaeftirlitsins.
  □ Fjármálaeftirlitið skal hafa samráð við eftirlitsstjórnvöld í viðkomandi aðildarríki við mat á umsókn um starfsleyfi vátryggingafélags sem er:
     a. dótturfélag fjármálafyrirtækis eða vátryggingafélags með starfsleyfi í öðru aðildarríki,
@@ -277,7 +277,7 @@ h2. Lög um vátryggingastarfsemi
     e. lífeyrisgreiðslur.
     4. Varanlegar heilsutryggingar án uppsagnarréttar.
     5. Aðrar líftryggingar með innifalda áhættu á grundvelli ævilengdar.
-■ *23. gr.* _Starfsleyfi í endurtryggingum._
+ ■ *23. gr.* _Starfsleyfi í endurtryggingum._
  □ Starfsleyfi í endurtryggingum, sbr. ákvæði 19. gr., er veitt vegna starfsemi í endurtryggingum skaðatrygginga, endurtryggingum persónutrygginga eða hvers konar endurtryggingum samkvæmt umsókn.
  ■ *24. gr.* _Starfsleyfi í takmörkuðum endurtryggingum._
  □ Hyggist aðili hefja starfsemi hér á landi í takmörkuðum endurtryggingum, sbr. ákvæði 19. gr., setur Fjármálaeftirlitið reglur um þá starfsemi. Í þeim reglum skulu vera ákvæði um:
@@ -287,7 +287,7 @@ h2. Lög um vátryggingastarfsemi
     4. Vátryggingaskuld sé fullnægjandi, áreiðanleg og hlutlæg.
     5. Eignir til jöfnunar vátryggingaskuld.
     6. Gjaldþol og lágmarksgjaldþol vegna starfseminnar.
-■ *25. gr.* _Áætlun um starfsemi vátryggingafélags._
+ ■ *25. gr.* _Áætlun um starfsemi vátryggingafélags._
  □ Í áætlun um fyrirhugaða starfsemi, sem fylgja skal umsókn um starfsleyfi, skal eftirfarandi koma fram:
     1. Skýrsla um endurtryggingarvernd og hámark þess sem félagið hyggst bera í eigin áhættu án endurtryggingar í hverjum greinaflokki vátrygginga.
     2. Eignir sem eiga að vera til staðar í félaginu til þess að kröfur um lágmarksfjárhæðir skv. 34. gr. séu uppfylltar.
@@ -360,8 +360,9 @@ h2. Lög um vátryggingastarfsemi
  □ Vátryggingafélögum er heimilt að nota þær aðferðir við mat á eiginfjárgrunni sem kveðið er á um í reglum Fjármálaeftirlitsins um viðbótareftirlit með fjármálasamsteypum í stað þess að draga liði skv. a- og b-lið 11. tölul. 1. mgr. frá gjaldþoli skv. 2. mgr. Heimilt er að beita samstæðuuppgjörsaðferð (e. _consolidated method_) telji Fjármálaeftirlitið að áhættustýring og innra eftirlit á samstæðugrundvelli sé fullnægjandi. Vátryggingafélög sem annaðhvort eru hluti af vátryggingasamstæðu eða fjármálasamsteypu og falla undir viðbótareftirlit þurfa ekki að draga frá liði skv. a- og b-lið 11. tölul. 1. mgr. skv. 2. mgr. Hyggist vátryggingafélag breyta um aðferð við mat á gjaldþolsliðum skal það tilkynna það Fjármálaeftirlitinu og gera sérstaka grein fyrir breytingunni í ársreikningi.
  □ Aðlagað gjaldþol vátryggingafélags er gjaldþol þess skv. 2. mgr. að frádregnum fjárhæðum sem verða til við að sömu eignir eru taldar beint eða óbeint hjá fleiri en einum aðila, svo og öllum eignum sem verða til við gagnkvæma fjármögnun. Tekið skal tillit til allra dóttur- og hlutdeildarfélaga vátryggingafélagsins, eignarhaldsfélaga á vátryggingasviði, blandaðra eignarhaldsfélaga á vátryggingasviði, félaga sem eiga hlutdeild í vátryggingafélaginu og annarra dóttur- og hlutdeildarfélaga þeirra félaga.
  □ Sé vátryggingafélag dótturfélag annars vátryggingafélags eða eignarhaldsfélags á vátryggingasviði skal reikna aðlagað gjaldþol móðurfélagsins samkvæmt ákvæðum þessarar greinar auk útreiknings á gjaldþoli vátryggingafélagsins. Við útreikninginn skal taka tillit til allra hlutdeildarfélaga móðurfélagsins.
- □ Nánar skal kveða á um útreikning á aðlöguðu gjaldþoli í reglum sem Fjármálaeftirlitið setur. Þar má einnig tilgreina undanþágur frá skyldu til að reikna aðlagað gjaldþol. Taki útreikningurinn til fyrirtækja í öðrum ríkjum fer um samstarf eftirlitsstjórnvalda eftir alþjóðasamningum sem Ísland er aðili að og samstarfssamningum sem Fjármálaeftirlitið gerir á grundvelli þeirra.
+ □ Nánar skal kveða á um útreikning á aðlöguðu gjaldþoli í reglum[^1)^] sem Fjármálaeftirlitið setur. Þar má einnig tilgreina undanþágur frá skyldu til að reikna aðlagað gjaldþol. Taki útreikningurinn til fyrirtækja í öðrum ríkjum fer um samstarf eftirlitsstjórnvalda eftir alþjóðasamningum sem Ísland er aðili að og samstarfssamningum sem Fjármálaeftirlitið gerir á grundvelli þeirra.
  □ Ákvæði þessarar greinar gilda einnig um fjármálasamsteypur. Um útreikning á gjaldþoli fyrir fjármálasamsteypur skulu gilda reglur sem Fjármálaeftirlitið setur.
+    _[^1)^]Rgl. 334/2013._
  ■ *32. gr.* _Lágmarksgjaldþol skaðatryggingafélags._
  □ Gjaldþol vátryggingafélags sem rekur aðra starfsemi en líftryggingastarfsemi skal á hverjum tíma nema minnst þeirri fjárhæð sem hærri er samkvæmt eftirfarandi útreikningi og nefnist lágmarksgjaldþol félagsins, sbr. þó 34. gr.:
     1. Við útreikning á lágmarksgjaldþoli á grundvelli iðgjalda skal nota þá fjárhæð sem hærri er af bókfærðum iðgjöldum og iðgjöldum ársins samkvæmt rekstrarreikningi. Byggt skal á iðgjöldum að frádregnum endurgreiðslum og niðurfellingum, en án frádráttar á hlut endurtryggjanda. Hækka skal iðgjöld í greinaflokkum skv. 11., 12. og 13. tölul. 1. mgr. 21. gr. um 50%. Sama á við um iðgjöld í endurtryggingum þessara greinaflokka.
@@ -407,7 +408,7 @@ h2. Lög um vátryggingastarfsemi
  □ Vátryggingaskuld í hlut endurtryggjenda skal byggjast á kröfum á endurtryggjendur aðildarríkis sem fengið hafa starfsleyfi í samræmi við lög þessi. Fjármálaeftirlitinu er heimilt að fenginni umsókn vátryggingafélags að veita undanþágu frá þessu skilyrði og setja reglur sem tilgreina í hvaða tilvikum sú undanþága er veitt.
  □ Sé eftir því leitað skal líftryggingafélag veita upplýsingar um grunn og aðferðir við útreikning líftryggingaskuldar, m.a. ágóðajöfnunarskuldar.
  □ Setja skal nánari ákvæði í reglugerð[^1)^] um þær tegundir eigna sem telja má til jöfnunar vátryggingaskuld og útjöfnunarsjóði frumtryggingafélags, samsetningu þeirra og vægi.
-    _[^1)^]Rg. 216/2011._
+    _[^1)^]"Rg. 216/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/216-2011._
  ■ *37. gr.* Frumtryggingafélag skal velja eignir til jöfnunar vátryggingaskuld og útjöfnunarsjóði með tilliti til gengisáhættu þannig að dregið sé úr vægi hennar svo sem kostur er. Því er heimilt að ávaxta eignir á móti allt að 20% vátryggingaskuldbindinga, sem eru í tilteknum gjaldmiðli, í öðrum gjaldmiðli.
  □ Endurtryggingafélag skal sjá til þess að á hverjum tíma séu fyrir hendi eignir, sérstaklega tilgreindar til jöfnunar vátryggingaskuld og útjöfnunarsjóði, sem valdar eru með hliðsjón af eftirfarandi reglum:
     1. Eignirnar skulu valdar með hliðsjón af rekstri endurtryggingafélagsins, einkum er varðar eðli, fjárhæð og tímalengd áætlaðra tjónagreiðslna, og skulu tryggja nægilegt magn, gjaldfærni, öryggi, gæði, arðsemi og jöfnun fjárfestinga félagsins.
@@ -441,7 +442,7 @@ h2. Lög um vátryggingastarfsemi
     9. Eignarhald, stjórnarsetu eða aðra þátttöku þess sem hyggst eignast eða auka við virkan eignarhlut í starfsemi lögaðila.
     10. Refsingar sem sá sem hyggst eignast eða auka við virkan eignarhlut hefur verið dæmdur til að sæta og hvort viðkomandi sæti rannsókn sakamáls.
     11. Náin tengsl þess sem hyggst eignast eða auka við virkan eignarhlut við aðra lögaðila.
-■ *42. gr.* _Staðfesting Fjármálaeftirlitsins._
+ ■ *42. gr.* _Staðfesting Fjármálaeftirlitsins._
  □ Eigi síðar en tveimur virkum dögum eftir móttöku tilkynningar skv. 41. gr. skal Fjármálaeftirlitið staðfesta móttöku hennar. Telji Fjármálaeftirlitið að afla þurfi ítarlegri upplýsinga en þeirra sem upp eru taldar í 2. mgr. 41. gr. frá þeim sem hyggst eignast eða auka við virkan eignarhlut getur það krafið viðkomandi um þær. Slík krafa skal sett fram eigi síðar en fimmtíu dögum eftir móttöku tilkynningar. Fjármálaeftirlitið hefur sextíu daga til þess að meta hvort það telur þann sem hyggst eignast eða auka við virkan eignarhlut hæfan til að fara með eignarhlutinn. Sé óskað eftir viðbótarupplýsingum frá viðkomandi, sbr. 2. málsl. þessarar málsgreinar, bætist bið eftir upplýsingunum við þann dagafjölda, þó ekki umfram tuttugu virka daga.
  □ Sé sá sem hyggst eignast eða auka við virkan eignarhlut lögaðili skulu upplýsingar skv. 2. mgr. 41. gr. eiga við um lögaðilann sjálfan, stjórnarmenn hans, framkvæmdastjóra og þá einstaklinga og lögaðila sem eiga virkan eignarhlut í lögaðilanum. Skal þá enn fremur upplýst um endurskoðanda lögaðilans. Skulu upplýsingarnar studdar gögnum eftir því sem það á við.
  □ Fjármálaeftirlitinu er heimilt að veita undanþágur frá skilum á upplýsingum skv. 2. mgr. 41. gr. hafi lögaðili ekki tök á að afla þeirra eða ef sá sem hyggst eignast eða auka við virkan eignarhlut lýtur opinberu fjármálaeftirliti í öðru ríki og unnt er að afla sambærilegra upplýsinga frá eftirlitsstjórnvaldi þess ríkis.
@@ -456,7 +457,7 @@ h2. Lög um vátryggingastarfsemi
     7. Hvort ætla megi að eignarhald þess sem hyggst eignast eða auka við virkan eignarhlut muni leiða til peningaþvættis eða fjármögnunar hryðjuverka eða geti aukið líkur á að slíkt athæfi verði látið viðgangast innan hlutaðeigandi vátryggingafélags.
     8. Hvort sá sem hyggst eignast eða auka við virkan eignarhlut hefur gefið Fjármálaeftirlitinu umbeðnar upplýsingar ásamt fylgigögnum og þær upplýsingar hafa reynst réttar.
     9. Refsingum sem sá sem hyggst eignast eða auka við virkan eignarhlut hefur verið dæmdur til að sæta og hvort viðkomandi sæti rannsókn sakamáls.
-■ *44. gr.* _Mat og tilkynning Fjármálaeftirlitsins._
+ ■ *44. gr.* _Mat og tilkynning Fjármálaeftirlitsins._
  □ Telji Fjármálaeftirlitið þann sem hyggst eignast eða auka við virkan eignarhlut ekki hæfan til þess að fara með eignarhlutinn skal það tilkynna viðkomandi um það. Fjármálaeftirlitið skal rökstyðja niðurstöðu sína fyrir viðkomandi. Telji Fjármálaeftirlitið vafa leika á hæfi þess sem hyggst eignast eða auka við virkan eignarhlut er því þó heimilt að setja skilyrði fyrir því að viðkomandi fjárfestingu sé ekki hafnað, m.a. að viðkomandi grípi til ráðstafana í því skyni að takmarka skaðleg áhrif af eignarhaldi hans, að eignarhaldið sé falið sérstöku eignarhaldsfélagi sem hafi ekki aðra starfsemi með höndum eða að hann tilnefni einstaklinga sem Fjármálaeftirlitið metur hæfa sem fulltrúa sína í stjórn. Skilyrði þessi skulu koma fram í staðfestingu Fjármálaeftirlitsins til þess sem hyggst eignast eða auka við virkan eignarhlut um að það setji sig ekki upp á móti fyrirhugaðri fjárfestingu.
  □ Niðurstaða Fjármálaeftirlitsins skal vera skrifleg og tilkynnt þeim sem hyggst eignast eða auka við virkan eignarhlut eigi síðar en tveimur virkum dögum eftir að niðurstaðan lá fyrir. Liggi niðurstaða Fjármálaeftirlitsins ekki fyrir innan þess tímafrests sem kveðið er á um í 1. mgr. 42. gr. skal litið svo á að Fjármálaeftirlitið hafi ekki athugasemdir við fyrirætlanir þess sem hyggst eignast eða auka við virkan eignarhlut í hlutaðeigandi vátryggingafélagi. Setji Fjármálaeftirlitið skilyrði fyrir því að sá sem hyggst eignast eða auka við virkan eignarhlut megi fara með eignarhlutinn og þau koma fram í tilkynningu til hans, skal hann staðfesta að hann muni uppfylla skilyrði þess.
  □ Hafi sá sem hyggst eignast eða auka við virkan eignarhlut eigi ráðist í þær fjárfestingar sem hann hafði tilkynnt Fjármálaeftirlitinu innan sex mánaða frá því að niðurstaða þess lá fyrir skal hann tilkynna því að nýju um fyrirhugaða fjárfestingu sína. Ákvæði 41. - 43. gr. gilda þá um þá tilkynningu og viðbrögð Fjármálaeftirlitsins við henni.
@@ -692,7 +693,7 @@ h2. Lög um vátryggingastarfsemi
  □ Verði starfsleyfi vátryggingafélags afturkallað skal Fjármálaeftirlitið skipa þriggja manna skilastjórn í félagið. Skilastjórn tekur við öllum heimildum stjórnar og jafnframt falla niður heimildir hennar. Skilastjórn skal þegar kalla saman hluthafafund og kynna hluthöfum hvernig komið er.
  □ Fjármálaeftirlitið skal, að höfðu samráði við skilastjórn, taka ákvörðun um hvort félagið skuli leitast við að flytja vátryggingastofn sinn til eins eða fleiri vátryggingafélaga eða hvort félagið skuli freista þess að ljúka uppgjöri vegna hans með öðrum hætti. Fjármálaeftirlitið getur, þegar um líftryggingafélag er að ræða, ákveðið að líftryggingastofninn sæti sérstakri meðferð skv. 92. gr.
  □ Skilastjórn skal í samráði við Fjármálaeftirlitið taka ákvörðun um hvort óska skuli gjaldþrotaskipta á félaginu eða hvort það skuli rekið áfram. Fjármálaeftirlitið getur takmarkað eða bannað ráðstöfun félags yfir fjármunum sínum og gert kröfu um að félagið verði tekið til gjaldþrotaskipta telji það líkur á að hagsmunum vátryggingartaka og vátryggðra sé að öðrum kosti stefnt í hættu.
- □ Laun skilastjórnar og kostnaður hennar skulu greiðast af eignum hlutaðeigandi vátryggingafélags sem krafa utan skuldaraðar. Sama á við um kostnað vegna meðferðar kröfu Fjármálaeftirlitsins um gjaldþrotaskipti. Fjármálaeftirlitið og skilastjórn eru undanþegin ákvæðum 2. mgr. "67. gr. laga nr. 21/1991":1991021.html#g67, um gjaldþrotaskipti o.fl., um að leggja fram tryggingu tiltekinnar fjárhæðar fyrir kostnaði.
+ □ Laun skilastjórnar og kostnaður hennar skulu greiðast af eignum hlutaðeigandi vátryggingafélags sem krafa utan skuldaraðar. Sama á við um kostnað vegna meðferðar kröfu Fjármálaeftirlitsins um gjaldþrotaskipti. Fjármálaeftirlitið og skilastjórn eru undanþegin ákvæðum 2. mgr. "67. gr. laga nr. 21/1991":1991021.html#G67, um gjaldþrotaskipti o.fl., um að leggja fram tryggingu tiltekinnar fjárhæðar fyrir kostnaði.
  ■ *92. gr.* Ef skipuð er skilastjórn í félagi sem stundar líftryggingastarfsemi og ákveðið er að líftryggingastofn þess skuli sæta sérstakri meðferð skal Fjármálaeftirlitið þegar í stað taka í sínar vörslur þær eignir sem mæta eiga líftryggingaskuldinni, láta endurreikna hana og leggja mat á verðmæti eigna. Ljúka skal greiðslu áfallinna og tilkynntra líftryggingakrafna samkvæmt reglum sem giltu áður en skilastjórn var skipuð. Líftryggingakröfur sem falla til útborgunar síðar má greiða út að því marki er Fjármálaeftirlitið telur forsvaranlegt með tilliti til eignastöðu. Endurkaup eru óheimil nema sem greiðsla á lánum gegn veði í líftryggingum hjá félaginu.
  □ Þegar að loknu endurmati skv. 1. mgr. skal Fjármálaeftirlitið leita til annarra líftryggingafélaga um yfirtöku líftryggingastofns og líftryggingaskuldar. Fjármálaeftirlitið skal meta framkomin tilboð og velja það sem það telur hagkvæmast fyrir vátryggða. Fjármálaeftirlitið skal tilkynna opinberlega um helstu atriði tilboðsins sem það hefur valið og skal jafnframt auglýst eftir athugasemdum frá vátryggingartökum og vátryggðum sem berast skulu skriflega innan eins mánaðar frá birtingu tilkynningarinnar. Að fengnum athugasemdum getur Fjármálaeftirlitið framselt stofninn félagi því er Fjármálaeftirlitið valdi ásamt eignum sem mæta eiga líftryggingaskuldinni, enda tekur viðtakandi þá við öllum skuldbindingum vegna líftrygginganna.
  □ Þeir vátryggingartakar eða vátryggðir, sem athugasemdir hafa gert og eigi vilja samþykkja yfirfærsluna, eiga rétt á að fá endurgreitt verðmæti líftrygginga sinna að svo miklu leyti sem hlutfallsleg eign hrekkur til.
@@ -829,7 +830,7 @@ h2. Lög um vátryggingastarfsemi
  ■ *105. gr.* _Innleiðing._
  □ Með lögum þessum eru eða hafa verið innleiddar eftirfarandi tilskipanir Evrópusambandsins: 64/225/EBE, 72/166/EBE, 73/239/EBE, 73/240/EBE, 74/165/EBE, 77/92/EBE, 78/473/EBE, 78/660/EBE, 79/267/EBE, 81/76/EBE, 83/349/EBE, 84/5/EBE, 87/344/EBE, 88/357/EBE, 90/232/EBE, 90/619/EBE, 91/674/EBE, 92/48/EBE, 92/49/EBE, 92/96/EBE, 98/78/EB, 2000/12/EB, 2000/26/EB, 2001/17/EB, 2001/24/EB, 2002/13/EB, 2002/87/EB, 2002/92/EB, 2005/14/EB, 2005/68/EB, 2007/44/EB.
  ■ *106. gr.* Lög þessi öðlast þegar gildi.
- □ ...
+ □ "...":http://www.althingi.is/vefur/lagas-hlp.html
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Vátryggingafélög sem 10. desember 2007 höfðu hætt að taka að sér nýja vátryggingaráhættu og unnu eingöngu að afgreiðslu eldri endurtryggingarsamninga eru undanskilin ákvæðum 34. gr. Þrátt fyrir ákvæði 40. gr. skulu vátryggingafélög sem falla undir 34. gr. að lágmarki senda Fjármálaeftirlitinu árlega yfirlit um eignir til jöfnunar vátryggingaskuldar. Fjármálaeftirlitið tilkynnir öðrum aðildarríkjum um hvaða vátryggingafélög er að ræða. Hefji vátryggingafélag aftur útgáfu nýrra vátryggingarsamninga fellur félagið ekki lengur undir ákvæði þetta.

@@ -7,9 +7,9 @@ h2. Lög um landsdóm
 <hr />
 
 
- *Tóku gildi 18. mars 1963.* _Breytt með_ "l. 19/1991":1991019.html (tóku gildi 1. júlí 1992 nema 1. og 3. mgr. 29. gr. sem tóku gildi 17. apríl 1991), "l. 91/1991":1991091.html (tóku gildi 1. júlí 1992), l. 92/1991 (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992), "l. 15/1998":1998015.html (tóku gildi 1. júlí 1998 nema 38. gr. sem tók gildi 3. apríl 1998), l. 82/1998 (tóku gildi 1. okt. 1998), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 162/2010 (tóku gildi 1. jan. 2011), l. 41/2011 (tóku gildi 10. maí 2011), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 85/2012 (tóku gildi 11. sept. 2012 nema 2. málsl. b-liðar 12. gr. sem tekur gildi 1. sept. 2013).
+ *Tóku gildi 18. mars 1963.* _Breytt með_ "l. 19/1991":1991019.html (tóku gildi 1. júlí 1992 nema 1. og 3. mgr. 29. gr. sem tóku gildi 17. apríl 1991), "l. 91/1991":1991091.html (tóku gildi 1. júlí 1992), "l. 92/1991":/altext/stjt/1991.092.html (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992), "l. 15/1998":1998015.html (tóku gildi 1. júlí 1998 nema 38. gr. sem tók gildi 3. apríl 1998), "l. 82/1998":/altext/stjt/1998.082.html (tóku gildi 1. okt. 1998), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 41/2011":/altext/stjt/2011.041.html (tóku gildi 10. maí 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 85/2012":/altext/stjt/2012.085.html (tóku gildi 11. sept. 2012 nema 2. málsl. b-liðar 12. gr. sem tekur gildi 1. sept. 2013).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -20,7 +20,7 @@ h2. Lög um landsdóm
     b. átta menn kosnir af ...[^3)^] Alþingi með hlutfallskosningu til 6 ára í senn.
  □ Samtímis og með sama hætti skulu kosnir jafnmargir varamenn.
  □ [Dómarar sem eiga sæti í landsdómi þegar Alþingi hefur samþykkt málshöfðun gegn ráðherra og varamenn þeirra skulu ljúka meðferð þess máls þrátt fyrir að kjörtímabil þeirra sé á enda.][^4)^]
-    _[^1)^]L. 92/1991, 40. gr. [^2)^]Í breytingarákvæðinu, eins og það birtist í Stjtíð., segir að á eftir orðinu „varadómendur“ eigi að koma orðin „aðra hæstaréttardómara og síðan“. Eftir samhenginu hefur greinilega verið ætlast til að textinn yrði eins og hann kemur fram hér. [^3)^]L. 85/2012, 29. gr. [^4)^]L. 41/2011, 1. gr._
+    _[^1)^]"L. 92/1991, 40. gr.":/altext/stjt/1991.092.html [^2)^]Í breytingarákvæðinu, eins og það birtist í Stjtíð., segir að á eftir orðinu „varadómendur“ eigi að koma orðin „aðra hæstaréttardómara og síðan“. Eftir samhenginu hefur greinilega verið ætlast til að textinn yrði eins og hann kemur fram hér. [^3)^]"L. 85/2012, 29. gr.":/altext/stjt/2012.085.html [^4)^]"L. 41/2011, 1. gr.":/altext/stjt/2011.041.html_
  ■ *3. gr.* Enginn er kjörgengur í landsdóm samkvæmt b-lið 2. gr., nema hann fullnægi eftirgreindum skilyrðum:
     1. Sé eigi yngri en 30 ára og eigi eldri en sjötugur.
     2. Sé lögráða og hafi forræði fjár síns.
@@ -33,20 +33,20 @@ h2. Lög um landsdóm
  □ Skyldir menn eða mægðir að feðgatali eða niðja eða hjón, kjörforeldri og kjörbarn, fósturforeldri og fósturbarn eða skyldir eða mægðir að fyrsta eða öðrum lið til hliðar mega ekki sitja samtímis í landsdómi.
  ■ *4. gr.* Ef einhver hinna kjörnu dómenda fellur frá, flytur af landi brott eða missir kjörgengi, tekur varamaður sæti hans þann tíma, sem eftir er af kjörtímabilinu.
  ■ *5. gr.* Jafnskjótt og kjör landsdómsmanna samkvæmt b-lið 2. gr. hefur farið fram, tilkynnir forseti ...[^1)^] Alþingis hæstaréttarforseta hverjir hafi hlotið kosningu sem dómendur og varamenn, en hann tilkynnir þeim það aftur hverjum fyrir sig.
-    _[^1)^]L. 85/2012, 29. gr._
+    _[^1)^]"L. 85/2012, 29. gr.":/altext/stjt/2012.085.html_
  ■ *6. gr.* Hæstaréttarforseti er sjálfkjörinn forseti landsdóms. Varaforseti hæstaréttar er varaforseti landsdóms. Nú forfallast þeir báðir, forseti og varaforseti, og kýs þá dómurinn forseta, er vera skal einn hinna löglærðu dómara.
  ■ *7. gr.* Dómari í landsdómi skal, áður en hann tekur fyrsta sinn til starfa í dómnum, undirrita drengskaparheit um það, að hann skuli rækja starfann af samviskusemi og óhlutdrægni í hvívetna og svo sem hann veit helst að lögum. Skal dómsforseti gæta þess, að heitvinning fari fram lögum samkvæmt.
  ■ *8. gr.* Aldrei má setja landsdóm með færri dómendum en 10, enda séu meðal þeirra að minnsta kosti 4 hinna löglærðu dómara samkvæmt a-lið 2. gr.
  ■ *9. gr.* Ríkissjóður leggur landsdómi til dómbók, er vera skal tölusett, gegnumdregin og innsigluð. Skal hún löggilt af forseta ...[^1)^] Alþingis.
-    _[^1)^]L. 85/2012, 29. gr._
+    _[^1)^]"L. 85/2012, 29. gr.":/altext/stjt/2012.085.html_
  ■ *10. gr.* [Skrifstofustjóri Hæstaréttar][^1)^] er dómritari við landsdóm. Sé hann forfallaður, setur dómsforseti mann utan dómsins til að gegna ritarastarfi. Dómsforseti ræður og dómritara aðstoðarmann, ef þurfa þykir.
-    _[^1)^]"L. 15/1998, 36. gr.":1998015.html_
+    _[^1)^]"L. 15/1998, 36. gr.":/altext/stjt/1998.015.html_
  ■ *11. gr.* Landsdómur skal að jafnaði koma saman í Reykjavík. Þó getur landsdómur ákveðið að koma saman og heyja dómþing annars staðar, ef ástæða þykir til.
  ■ *12. gr.* Dómþing landsdóms skulu háð í heyranda hljóði. Landsdómi er þó rétt að kveða á um þinghald fyrir luktum dyrum, ef hann telur til þess sérstakar ástæður, svo sem horf tiltekinna málsatvika við erlendum ríkjum eða hagsmuni ríkisins. Ef landsdómur ákveður þinghald fyrir luktum dyrum, kveður hann upp um það sérstakan úrskurð.
  ■ *13. gr.* Ákvörðun Alþingis um málshöfðun gegn ráðherra skal gerð með þingsályktun ...,[^1)^] og skulu kæruatriðin nákvæmlega tiltekin í þingsályktuninni, enda sé sókn málsins bundin við þau. Jafnframt kýs Alþingi mann til að sækja málið af sinni hendi, og annan til vara, ef hinn kynni að forfallast. Enn fremur kýs ...[^1)^] Alþingi fimm manna þingnefnd með hlutfallskosningu til þess að fylgjast með málinu og vera saksóknara Alþingis til aðstoðar.
-    _[^1)^]L. 85/2012, 29. gr._
+    _[^1)^]"L. 85/2012, 29. gr.":/altext/stjt/2012.085.html_
  ■ *14. gr.* Forseti ...[^1)^] Alþingis sendir hæstaréttarforseta tafarlaust tilkynningu um málshöfðunarákvörðun Alþingis, en hann tilkynnir síðan, svo fljótt sem tök eru á, ákærðum málshöfðun og sendir honum eftirrit af þingsályktun Alþingis.
-    _[^1)^]L. 85/2012, 29. gr._
+    _[^1)^]"L. 85/2012, 29. gr.":/altext/stjt/2012.085.html_
  ■ *15. gr.* Forseti landsdóms skipar ákærðum svo fljótt sem verða má verjanda úr hópi hæstaréttarlögmanna, og skal við val á verjanda farið eftir ósk ákærða, ef ekkert mælir henni í móti. Rétt er, að ákærður haldi sjálfur uppi vörn fyrir sig ásamt verjanda. Skipun verjanda skal tafarlaust tilkynnt saksóknara Alþingis.
  ■ *16. gr.* Það er skylda saksóknara Alþingis að leita allra fáanlegra sannana fyrir kæruatriðum, hann undirbýr gagnasöfnun og rannsókn í málinu og gerir tillögur til landsdóms um viðeigandi ráðstafanir til að leiða hið sanna í ljós. Hann hefur um starf sitt samráð við saksóknarnefnd Alþingis.
  □ Það er hlutverk verjanda að draga fram allt, er verða má ákærðum til sýknu eða hagsbóta, og að gæta hagsmuna ákærðs í hvívetna.
@@ -58,9 +58,9 @@ h2. Lög um landsdóm
  ■ *22. gr.* Samkvæmt tilmælum saksóknara, verjanda eða ákærðs getur dómsforseti  --  eða landsdómur eftir að hann er kominn saman  --  ákveðið, ef hentugt eða nauðsynlegt þykir, að rannsókn ákveðinna atriða eða öflun tiltekinna gagna skuli fara fram fyrir héraðsdómi. Málsaðilar snúa sér þá til viðkomandi héraðsdómara með beiðni um rannsókn eða gagnaöflun og leggja fram ákvörðun dómsforseta eða landsdóms. Úrskurði héraðsdómara, er að slíkri rannsókn lúta, má kæra til landsdóms.
  ■ *23. gr.* Samkvæmt tilmælum saksóknara Alþingis og að fullnægðum skilyrðum laga um meðferð [sakamála][^1)^] ...[^2)^] getur landsdómur úrskurðað, að lagt skuli hald á muni, sem ætla má, að hafi sönnunargildi í málinu, að húsleit skuli gerð og að ákærður skuli tekinn í gæslu.
  □ Nú telur saksóknari brýna þörf slíkra aðgerða, áður en landsdómur kemur saman og getur þá dómsforseti tekið um þær ákvörðun til bráðabirgða, en úrskurður hans skal borinn undir landsdóm svo fljótt sem verða má.
-    _[^1)^]"L. 88/2008, 234. gr.":2008088.html#g234 [^2)^]"L. 19/1991, 194. gr.":1991019.html_
+    _[^1)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234 [^2)^]"L. 19/1991, 194. gr.":/altext/stjt/1991.019.html_
  ■ *24. gr.* Að liðnum fresti þeim, sem til er tekinn samkvæmt 18. og 19. gr., kemur landsdómur saman á tilgreindum stað og tíma, og er þá settur af dómsforseta. Þingfestir saksóknari þá málið, leggur fram stefnu með árituðu birtingarvottorði, málshöfðunarályktun Alþingis, ákæruskjal, eftirrit af dómprófum þeim, sem þegar kunna að hafa farið fram, og önnur þau sakargögn, sem fyrir hendi eru og unnt er að leggja fram á dómþingi. Enn fremur leggur hann fram nafnaskrá þeirra manna, sem óskað er eftir að skýrsla sé af tekin fyrir landsdómi. Ákæruskjal skal eftir því sem við á fullnægja fyrirmælum ...[^1)^] laga ...[^1)^] um meðferð [sakamála].[^2)^]
-    _[^1)^]"L. 19/1991, 194. gr.":1991019.html [^2)^]"L. 88/2008, 234. gr.":2008088.html#g234_
+    _[^1)^]"L. 19/1991, 194. gr.":/altext/stjt/1991.019.html [^2)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234_
  ■ *25. gr.* Af skjölum þeim, er greinir í 24. gr., skal verjanda fengið endurrit, og á hann rétt á hæfilegum fresti til að kynna sér þau og til að leggja fram sín gögn og greinargerð. Landsdómur ákveður á þessu dómþingi, hvenær næsta þinghald skuli vera.
  ■ *26. gr.* Dómsforseti gætir þess, að dómþing sé háð eftir réttum reglum. Honum er rétt að áminna þá, sem á þingi eru, ef framkoma þeirra er óviðeigandi. Getur hann vísað mönnum úr dómsal, ef nærvera þeirra horfir til truflunar á þingfriði eða þeir koma ósæmilega fram við dómendur eða aðra.
  ■ *27. gr.* Í fyrsta þinghaldi skorar dómsforseti á málsaðila að segja til þess, ef þeir telja nokkurn dómenda vanhæfan til meðferðar málsins. Komi fram krafa um, að einhver dómari víki sæti, kveður landsdómur upp úrskurð um þá kröfu. Um skyldu dómenda í landsdómi til að víkja sæti gilda sömu reglur og um hæstaréttardómendur.
@@ -68,20 +68,20 @@ h2. Lög um landsdóm
  ■ *28. gr.* Að liðnum fresti þeim, sem til er tekinn af landsdómi, skal verjandi leggja fram greinargerð af ákærðs hálfu og gögn þau, er hann hyggst bera fyrir sig í málflutningi skjólstæðingi sínum til varnar, svo og nafnaskrá yfir menn þá, sem hann óskar, að yfirheyrðir séu, enda séu þeir ekki á skrá saksóknara.
  □ Nú óska málsaðilar, annar hvor eða báðir, eftir frekari fresti til gagnasöfnunar til undirbúnings málflutningi, og skal þá enn veittur hæfilegur frestur, er aðilar skulu nota sameiginlega.
  ■ *29. gr.* ...[^1)^]
-    _[^1)^]"L. 88/2008, 234. gr.":2008088.html#g234_
+    _[^1)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234_
  ■ *30. gr.* Forseti á, er þess er krafist af öðrum hvorum málsaðila, að gefa út stefnu til vitna þeirra, er leiða á fyrir landsdómnum. Um stefnufrest og stefnubirtingu gilda almennar reglur.
  ■ *31. gr.* Um vitni og vitnaskyldu fyrir landsdómi fer, eftir því sem við getur átt, eftir almennum reglum um vitni í [sakamálum][^1)^] ...[^2)^]
-    _[^1)^]"L. 88/2008, 234. gr.":2008088.html#g234 [^2)^]"L. 19/1991, 194. gr.":1991019.html_
+    _[^1)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234 [^2)^]"L. 19/1991, 194. gr.":/altext/stjt/1991.019.html_
  ■ *32. gr.* Að loknum málatilbúnaði samkvæmt 28. gr. hefst sókn máls og vörn fyrir landsdómi. Gerir saksóknari fyrst stutta grein fyrir málsatvikum og sakargögnum þeim, er hann hyggst styðja ákæru við. Því næst spyr hann ákærðan um sakaratriði. Verjandi, dómsforseti og aðrir dómendur geta síðan lagt spurningar fyrir ákærðan.
  □ Sé mál höfðað gegn tveim mönnum eða fleiri, ákveður dómsforseti í hvaða röð þeir skuli prófaðir, hvort þeir skuli hlýða á framburð hver annars og hvort þeir skuli samprófaðir.
  □ Hvenær sem vætti, framlögð gögn eða önnur atvik gefa tilefni til, skal ákærður yfirheyrður að nýju.
  □ Engum þvingunaraðgerðum má beita við ákærðan til þess að fá hann til að svara. ...[^1)^]
-    _[^1)^]"L. 88/2008, 234. gr.":2008088.html#g234_
+    _[^1)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234_
  ■ *33. gr.* Nú er fengin skýlaus játning ákærðs, og ákveður þá landsdómur að hverju leyti þörf sé frekari sönnunargagna.
  ■ *34. gr.* Þegar lokið er prófun ákærðs, flytur saksóknari fram sakargögn og leiðir vitni. Spyr hann þau sjálfur, en verjanda og ákærðum er heimilt að leggja fyrir þau gagnspurningar. Auk þess getur dómsforseti og einstakir dómendur beint spurningum til vitnis. Síðan flytur saksóknari sókn sína munnlega. Gerir hann þar grein fyrir ályktunum þeim, sem dregnar verða af gögnum málsins, lagaatriðum og endanlegum kröfum. Því næst færir verjandi fram sín gögn og leiðir vitni. Fer sú vitnaleiðsla fram með sama hætti og sagt var um vitni, sem leidd eru af saksóknara. Að því búnu flytur verjandi munnlega vörn svo og ákærður sjálfur, ef hann vill. Í vörn skal gerð grein fyrir ályktunum, sem dregnar verða af sönnunargögnum, lagaatriðum, sem máli skipta, og kröfur rökstuddar. Landsdómur ákveður, hvort málflytjendur megi tala oftar, en ákærður og verjandi hans skulu ætíð hafa tækifæri til að taka eins oft til máls og saksóknari og að taka til máls síðast, áður en málið er tekið til dóms.
  □ Landsdómur sker úr öllum vafa og ágreiningsefnum, sem upp kunna að koma í sambandi við vitnaleiðslu.
  ■ *35. gr.* Neiti vitni án lögmætra ástæðna að svara, getur landsdómur dæmt það í sekt eða [fangelsi][^1)^] allt að 6 mánuðum.
-    _[^1)^]L. 82/1998, 156. gr._
+    _[^1)^]"L. 82/1998, 156. gr.":/altext/stjt/1998.082.html_
  ■ *36. gr.* Reglum um vitni skal beitt um matsmenn og skoðunarmenn eftir því sem við á.
  ■ *37. gr.* Verði nauðsynlegt, eftir að sókn máls og vörn fyrir landsdómi er byrjuð, að fresta málsmeðferð, ákveður dómurinn, hvort eða að hve miklu leyti þurfi að endurtaka það, sem þegar hefur fram farið, er málið er á ný tekið fyrir.
  ■ *38. gr.* Vitnaskýrslur skulu stuttlega bókaðar í dómbók. Þegar yfirheyrslu er lokið, skal bókunin lesin upp og staðfest, að rétt sé bókað. Dómsforseti getur ákveðið, að skýrslur vitna og kunnáttumanna skuli hraðritaðar eða teknar á talvél. Kröfur og mótmæli skulu nákvæmlega bókuð. Ræður saksóknara og verjanda þarf eigi að bóka, nema dómsforseti mæli svo fyrir, að einstök atriði úr þeim skuli bókuð. Dómsforseti getur ákveðið, að ræður málflytjenda skuli teknar á talvél.
@@ -91,10 +91,10 @@ h2. Lög um landsdóm
  ■ *41. gr.* Dóm landsdóms skal semja skriflega. Skal hann byggður á forsendum, þar sem meðal annars skal greina kröfur málsaðila og mótmæli, málsatvik og málsástæður, er máli skipta, sönnunargögn og mat á þeim, að því leyti sem þau geta skipt máli, lagaákvæði, sem máli varða, hugleiðingar dómsins og niðurstöðu. Aðalniðurstaða dómsins skal, svo sem venja er, dregin saman í dómsorð.
  ■ *42. gr.* Dómur skal skráður í dómbók. Dóm skal jafnan kveða upp svo fljótt sem við verður komið.
  ■ *43. gr.* Dómsforseti les dóminn upp í heyranda hljóði á dómþingi. Sé ákærður eigi viðstaddur dómsuppsögu, skal saksóknari sjá um, að honum sé birtur dómurinn með sama hætti og stefna. Dómseftirrit skulu send forseta ...[^1)^] Alþingis og [ráðherra].[^2)^] Landsdómur getur ákveðið, að dómur skuli prentaður og gefinn út.
-    _[^1)^]L. 85/2012, 29. gr. [^2)^]L. 126/2011, 37. gr._
+    _[^1)^]"L. 85/2012, 29. gr.":/altext/stjt/2012.085.html [^2)^]"L. 126/2011, 37. gr.":/altext/stjt/2011.126.html_
  ■ *44. gr.* Sératkvæði dómenda í landsdómi skulu samin, skráð og lesin á dómþingi með sama hætti og dómur. Sé dómur prentaður, skulu þau einnig prentuð.
  ■ *45. gr.* [Um fullnustu dóms fer eftir almennum reglum.][^1)^]
-    _[^1)^]L. 92/1991, 40. gr._
+    _[^1)^]"L. 92/1991, 40. gr.":/altext/stjt/1991.092.html_
  ■ *46. gr.* Málskostnaður allur greiðist úr ríkissjóði, nema að því leyti sem ákærður kann að verða dæmdur til að greiða hann. Landsdómur metur það eftir grundvallarreglum réttarfarslaga, hvort og að hve miklu leyti málskostnaður skuli lagður á ákærðan. Þegar ákærður er dæmdur til að greiða málskostnað, skal tekið tillit til þess, hversu sök hans er mikil, svo og til efnahags hans.
  ■ *47. gr.* Saksóknara og verjanda skal í dómi ákveðin hæfileg þóknun fyrir starfa sinn. Þeir eiga og rétt á að fá endurgoldinn útlagðan nauðsynlegan kostnað.
  ■ *48. gr.* Um þóknun til vitna og matsmanna fer eftir sömu reglum og í öðrum dómsmálum.
@@ -104,6 +104,6 @@ h2. Lög um landsdóm
  □ Beiðni um endurupptöku skal senda forseta landsdóms, er kveður dóminn saman til þess að taka ákvörðun um, hvort endurupptaka skuli leyfð.
  □ Nú ákveður landsdómur endurupptöku máls, og fer þá um meðferð og flutning málsins samkvæmt ákvæðum laga þessara.
  ■ *51. gr.* Að því leyti, sem eigi er á annan veg mælt í lögum þessum, skal, eftir því sem við getur átt, beita ákvæðum laga um meðferð [sakamála][^1)^] ...[^2)^] um meðferð máls fyrir landsdómi.
-    _[^1)^]"L. 88/2008, 234. gr.":2008088.html#g234 [^2)^]"L. 91/1991, 160. gr.":1991091.html#g160_
+    _[^1)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234 [^2)^]"L. 91/1991, 160. gr.":/altext/stjt/1991.091.html#G160_
 
 

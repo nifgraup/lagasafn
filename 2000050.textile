@@ -7,9 +7,9 @@ h2. Lög um lausafjárkaup
 <hr />
 
 
- *Tóku gildi 1. júní 2001.* _EES-samningurinn:_ XIX. viðauki tilskipun 1999/44/EB. _Breytt með_ "l. 48/2003":2003048.html (tóku gildi 1. júní 2003), l. 87/2006 (tóku gildi 30. júní 2006), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og l. 126/2011 (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. júní 2001.* _EES-samningurinn:_ XIX. viðauki tilskipun 1999/44/EB. _Breytt með_ "l. 48/2003":2003048.html (tóku gildi 1. júní 2003), "l. 87/2006":/altext/stjt/2006.087.html (tóku gildi 30. júní 2006), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -24,7 +24,7 @@ h2. Lög um lausafjárkaup
  ■ *3. gr.* _Samningar og viðskiptavenjur._
  □ Ákvæði laga þessara eiga ekki við þegar annað leiðir af samningi, fastri venju milli aðila, viðskiptavenju eða annarri venju sem telja verður bindandi í millum aðila.
  ■ *4. gr.* ...[^1)^]
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *5. gr.* _Alþjóðleg kaup._
  □ Lög þessi gilda um alþjóðleg kaup með þeim sérreglum sem í lögunum felast, sbr. einkum ákvæði XV. kafla.
  □ Sérreglur um alþjóðleg kaup gilda ekki í kaupum þegar seljandinn hefur atvinnustöð sína í Danmörku, Finnlandi, á Íslandi, í Noregi eða Svíþjóð og kaupandinn hefur atvinnustöð sína í einhverju þessara landa (norræn kaup).
@@ -34,7 +34,7 @@ h2. Lög um lausafjárkaup
     c. sölu í framhaldi af fullnustugerð eða samkvæmt lagaboði,
     d. kaup á verðbréfum, peningum, kröfum eða réttindum,
     e. kaup á farartækjum, loftförum eða loftpúðaskipum.
-    _[^1)^]_"L. 48/2003, 64. gr.":2003048.html#g64
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
 
  *II. kafli.* *Afhendingin.*
  ■ *6. gr.* _Reiðukaup._
@@ -45,7 +45,7 @@ h2. Lög um lausafjárkaup
  □ Ef senda skal söluhlut til kaupanda í öðrum tilvikum (sendingarkaup) og annað leiðir ekki af flutningsskilmálum eða öðrum samningi telst hlutur afhentur þegar hann hefur verið fenginn þeim flytjanda í hendur sem tekið hefur að sér flutning frá sendingarstað. Ef seljandinn sér sjálfur um flutninginn telst afhending þá fyrst hafa átt sér stað þegar kaupandi hefur veitt hlutnum viðtöku.
  □ Ef hlutur er seldur „frítt“, „afhentur“ eða „afhentur frítt“ og gefinn er til kynna ákveðinn staður telst hluturinn ekki afhentur fyrr en hann er kominn þangað.
  □ ...[^1)^]
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *8. gr.* _Viðbótarskyldur við sendingarkaup._
  □ Ef seljandi á að sjá um að senda hlut er honum skylt að gera þá samninga sem nauðsynlegir eru til þess að hann verði fluttur á ákvörðunarstað með viðeigandi hætti og samkvæmt venjulegum skilmálum um slíka flutninga.
  □ Ef söluhlutur er ekki tryggður í flutningi skal seljandi tilkynna kaupanda það. Ef seljandi á ekki að kaupa tryggingar vegna flutnings hlutarins verður hann, ef kaupandinn æskir þess, að gefa þær upplýsingar sem kaupandanum eru nauðsynlegar til þess að hann geti keypt sér slíka tryggingu.
@@ -60,7 +60,7 @@ h2. Lög um lausafjárkaup
  ■ *11. gr.* _Kostnaður._
  □ Seljandi greiðir kostnað vegna söluhlutar þar til hann hefur verið afhentur. Ákvæði þetta gildir ekki um kostnað sem stafar af því að afhendingu seinkar vegna atvika sem varða kaupanda.
  □ ...[^1)^]
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
 
  *III. kafli.* *Áhættan af söluhlut.*
  ■ *12. gr.* _Um það hvað í áhættu felst._
@@ -69,13 +69,13 @@ h2. Lög um lausafjárkaup
  □ Áhættan flyst yfir til kaupanda þegar söluhlutur hefur verið afhentur í samræmi við ákvæði samnings eða í samræmi við ákvæði 6. eða 7. gr.
  □ Ef hlutar er ekki vitjað eða honum veitt viðtaka á réttum tíma og það má rekja til kaupanda eða atvika sem hann varða flyst áhættan yfir á kaupandann þegar hlutur er honum til ráðstöfunar og vanefnd verður af hans hálfu við það að veita hlutnum ekki viðtöku. ...[^1)^]
  □ Ef kaupandi á að vitja söluhlutar annars staðar en hjá seljanda flyst áhættan yfir til kaupanda þegar afhendingartíminn er kominn og kaupanda er kunnugt um að hluturinn er honum heimill til ráðstöfunar á afhendingarstaðnum.
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *14. gr.* _Auðkenning söluhlutar._
  □ Áhættan flyst ekki yfir til kaupanda fyrr en söluhlutur hefur verið auðkenndur honum með merkingu á flutningsskjölum eða það hefur á annan hátt verið gert ljóst að hlutur er ætlaður honum.
  ■ *15. gr.* _Söluhlutur í flutningi._
  □ Ef kaup eru gerð um söluhlut sem er í flutningi flyst áhættan yfir til kaupanda við lok samningsgerðar, nema leiða megi af atvikum að kaupandi hafi tekið á sig áhættuna þegar frá þeirri stundu er hlutur var afhentur flutningsmanni þeim sem gaf út flutningsskjalið. Seljandi ber þó ávallt áhættuna af tjóni sem hann vissi eða mátti vita um við kaupin en upplýsti kaupanda ekki um.
  □ ...[^1)^]
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *16. gr.* _Skil hlutar sem keyptur er með skilarétti._
  □ Ef söluhlutur hefur verið keyptur eða afhentur til reynslu eða á annan hátt með rétti til að skila honum aftur ber kaupandi áhættuna samkvæmt ákvæðum þessa kafla þar til seljandinn hefur aftur veitt hlutnum viðtöku. Þetta gildir þó ekki þegar kaupandinn hefur rétt til að skila söluhlut samkvæmt ákvæðum í lögum um húsgöngu- og fjarsölusamninga.
 
@@ -89,12 +89,12 @@ h2. Lög um lausafjárkaup
     d. vera í venjulegum eða öðrum forsvaranlegum umbúðum sem nauðsynlegar eru til að varðveita og vernda hann.
  □ ...[^1)^]
  □ Söluhlutur telst gallaður ef hann er ekki í samræmi við þær kröfur sem fram koma í [1. og 2. mgr.][^1)^]
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *18. gr.* _Upplýsingar um eiginleika eða notkun._
  □ Reglur um galla gilda einnig þegar söluhlutur svarar ekki til þeirra upplýsinga sem seljandi hefur við markaðssetningu eða á annan hátt gefið um hlutinn, eiginleika hans eða notkun og ætla má að hafi haft áhrif á kaupin.
  □ Regla 1. mgr. gildir með sama hætti þegar söluhlutur svarar ekki til þeirra upplýsinga sem annar en seljandi hefur gefið á umbúðum hlutarins, í auglýsingum eða við aðra markaðssetningu á vegum seljanda eða fyrri söluaðila. [Þetta gildir][^1)^] þó ekki ef seljandi hvorki vissi né mátti vita að upplýsingarnar voru gefnar.
  □ Reglur 1. og 2. mgr. gilda ekki þegar upplýsingarnar eru leiðréttar á skýran og skilmerkilegan hátt og með nægum fyrirvara.
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *19. gr.* _Hlutur seldur „í því ástandi sem hann er“. Sala á uppboði._
  □ Þótt söluhlutur sé seldur „í því ástandi sem hann er“ eða með öðrum áþekkum almennum fyrirvara telst hann gallaður þegar:
     a. hluturinn svarar ekki til þeirra upplýsinga sem seljandi hefur gefið um hann, eiginleika hans eða not og ætla má að þessi atriði hafi haft áhrif á það að kaup gerðust;
@@ -113,7 +113,7 @@ h2. Lög um lausafjárkaup
  ■ *22. gr.* _Almenn ákvæði._
  □ Ef hlutur er ekki afhentur eða hann er afhentur of seint og ekki er kaupanda um að kenna eða atvikum sem hann varða getur kaupandi samkvæmt ákvæðum 23. - 29. gr. krafist efnda, riftunar og skaðabóta ásamt því að halda eftir kaupverðinu skv. 42. gr. Réttur kaupanda til skaðabóta fellur ekki niður þótt hann setji fram aðrar kröfur eða ekki sé unnt að halda slíkum kröfum fram.
  □ Ef seljandi fullnægir að öðru leyti ekki nógu snemma skyldum sínum samkvæmt samningnum gilda ákvæðin um greiðsludrátt, eftir því sem við getur átt, þó ekki ákvæði 2. og 3. mgr. 25. gr. Um annað má semja ...,[^1)^] enda sé það kaupanda í hag.
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *23. gr.* _Réttur til efnda._
  □ Kaupandi getur haldið fast við kaup og krafist efnda. Þetta gildir ekki ef um er að ræða hindrun sem seljandi ræður ekki við og heldur ekki ef efndir hefðu í för með sér slíkt óhagræði eða kostnað fyrir seljanda að það væri í verulegu ósamræmi við hagsmuni kaupanda af efndum.
  □ Ef úr vandkvæðum greiðist innan hæfilegs tíma getur kaupandi krafist efnda. Það er þó skilyrði að efndir verði ekki, miðað við þann tíma sem liðinn er, mun örðugri eða leiði til annars eðlis en þess sem seljandi gat vænst eða að öðru leyti sé ósanngjarnt að krefjast efnda.
@@ -140,18 +140,18 @@ h2. Lög um lausafjárkaup
  ■ *30. gr.* _Almenn ákvæði._
  □ Ef söluhlutur reynist gallaður og gallinn er hvorki sök kaupanda né stafar af aðstæðum sem hann varða getur kaupandi samkvæmt ákvæðum 31. - 40. gr. krafist úrbóta, nýrrar afhendingar, afsláttar, riftunar og skaðabóta ásamt því að halda eftir greiðslu kaupverðs samkvæmt ákvæði 42. gr. Réttur kaupanda til skaðabóta fellur ekki niður þótt hann geri aðrar kröfur eða þótt ekki sé unnt að halda slíkum kröfum fram.
  □ Reglurnar um galla gilda einnig um aðra ágalla á efndum seljanda, eftir því sem við á. Unnt er að semja um annað ...,[^1)^] enda sé það kaupanda í hag.
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *31. gr.* _Rannsókn kaupanda eftir afhendingu._
  □ Eftir afhendingu skal kaupandi, jafnskjótt og sanngjarnt tækifæri gefst, rannsaka söluhlut á þann hátt sem góð venja stendur til.
  □ Ef flytja á hlut frá afhendingarstað getur kaupandi beðið með rannsókn þar til hluturinn er kominn á ákvörðunarstað.
  □ Breyti kaupandi ákvörðunarstað meðan hlutur er í flutningi eða sendi hlut áfram án þess að hafa haft sanngjarnt tækifæri til að rannsaka hann, og hafi seljandi við kaupin vitað eða mátt vita um möguleikann á slíkri breytingu eða framsendingu, má láta rannsókn bíða þar til hluturinn er kominn á hinn nýja ákvörðunarstað.
  □ ...[^1)^]
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *32. gr.* _Tilkynning._
  □ Kaupandi glatar rétti sínum til þess að bera fyrir sig galla ef hann tilkynnir ekki seljanda án ástæðulauss dráttar frá því að hann varð galla var eða mátti verða hans var í hverju gallinn er fólginn. ...[^1)^]
  □ Ef kaupandi leggur ekki fram kvörtun innan tveggja ára frá þeim degi er hann veitti söluhlut viðtöku getur hann ekki síðar borið gallann fyrir sig. Þetta gildir ekki ef seljandi hefur í ábyrgðaryfirlýsingu eða öðrum samningi tekið á sig ábyrgð vegna galla í lengri tíma.
  □ Við sölu á byggingarefni, sem ætlaður er verulega lengri endingartími en almennt gerist um söluhluti, er frestur til að bera fyrir sig galla fimm ár frá því að efninu var veitt viðtaka.
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *33. gr.* _Undantekningar frá reglum um tilkynningar._
  □ Þrátt fyrir ákvæði 31. og 32. gr. getur kaupandi borið fyrir sig galla ef seljandi hefur sýnt af sér vítavert gáleysi eða framferði hans er á annan hátt ekki í samræmi við heiðarleika og góða trú.
  ■ *34. gr.* _Krafa um úrbætur og nýja afhendingu._
@@ -161,7 +161,7 @@ h2. Lög um lausafjárkaup
  ■ *35. gr.* _Tilkynning um kröfu um úrbætur og nýja afhendingu._
  □ Kaupandi glatar rétti sínum til þess að krefjast úrbóta eða nýrrar afhendingar ef hann tilkynnir ekki seljanda um þá kröfu sína samtímis tilkynningu skv. 32. gr. eða innan sanngjarns frests frá þeim tíma. Kaupandi heldur þó rétti sínum ef seljandi hefur sýnt af sér vítavert gáleysi eða framferði hans stríðir á annan hátt gegn heiðarleika og góðri trú.
  □ ...[^1)^]
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *36. gr.* _Réttur seljanda til úrbóta og nýrrar afhendingar._
  □ Þótt kaupandi krefjist þess ekki er seljanda heimilt að bæta á eigin kostnað úr galla eða afhenda annan hlut ef það er unnt án verulegs óhagræðis fyrir kaupanda og án þeirrar áhættu að kaupandi fái ekki bætt útgjöld sín hjá seljanda.
  □ Nú spyr seljandi kaupanda hvort hann samþykki úrbætur eða nýja afhendingu eða seljandi skýrir kaupanda frá því að hann vilji bæta úr eða afhenda annan hlut innan tiltekins tíma. Ef kaupandi svarar ekki án ástæðulauss dráttar getur seljandi gert nauðsynlegar ráðstafanir innan þess tíma sem nefndur var.
@@ -182,12 +182,12 @@ h2. Lög um lausafjárkaup
     b. hlutur var ekki þegar við samningsgerð í samræmi við það sem heitið var af seljanda.
 
  *Vanheimild o.fl.*
-■ *41. gr.* _Vanheimild. Aðrar kröfur þriðja manns._
+ ■ *41. gr.* _Vanheimild. Aðrar kröfur þriðja manns._
  □ Ef þriðji maður á eignarrétt, veðrétt eða annan rétt yfir söluhlut (vanheimild) gilda reglurnar um galla eftir því sem við á, nema leiða megi af samningi að kaupandi hafi átt að taka við hlutnum með þeim takmörkunum sem leiðir af rétti þriðja manns. Reglan um tveggja ára tilkynningarfrest skv. 2. mgr. 32. gr. gildir þó ekki.
  □ Kaupandi getur í öllum tilvikum krafist skaðabóta fyrir tjón af völdum vanheimildar sem var til staðar við kaupin, enda hafi hann hvorki vitað né mátt vita um vanheimildina.
  □ Ef þriðji maður gerir tilkall til réttar yfir söluhlut og kröfu hans er andmælt gilda ákvæði 1. og 2. mgr. eftir því sem við á, nema augljóst sé að krafa þriðja manns eigi ekki við nein rök að styðjast.
  □ Reglur 1. mgr. gilda eftir því sem við á þegar krafa þriðja manns byggist á hugverka- eða auðkennarétti hans, sbr. ákvæði 96. gr. Um annað má semja ...,[^1)^] enda sé það kaupanda í hag.
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  *Önnur ákvæði.*
  ■ *42. gr.* _Réttur kaupanda til að halda eftir kaupverði._
  □ Ef kaupandi á kröfu á hendur seljanda vegna vanefnda hins síðarnefnda getur kaupandinn haldið eftir þeim hluta kaupverðsins sem nægir til þess að tryggja kröfu hans.
@@ -202,7 +202,7 @@ h2. Lög um lausafjárkaup
  *VI. kafli.* *Skyldur kaupanda. Kaupverð.*
  ■ *45. gr.* Ef kaup eru gerð án þess að kaupverðið leiði af samningi skal kaupandi greiða fyrir söluhlut það gangverð sem er á sams konar hlutum, seldum við svipaðar aðstæður, við samningsgerðina, enda sé verðið ekki ósanngjarnt. Ef ekki er um neitt slíkt gangverð að ræða skal kaupandi greiða það verð sem sanngjarnt er miðað við eðli hlutar, gæði hans og atvik að öðru leyti.
  □ ...[^1)^]
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *46. gr.* Ef kaupverðið á að ráðast af fjölda, máli eða þyngd skal við þetta miðað á þeim tíma þegar áhættan af söluhlutnum flyst frá seljanda til kaupanda.
  □ Þegar kaupverðið er ákveðið eftir þyngd skal fyrst draga frá þyngd umbúða.
  ■ *47. gr.* Ef kaupandi hefur fengið reikning eða orðsendingu er hann bundinn við það verð sem þar kemur fram ef hann segir ekki til um það innan sanngjarns tíma að hann samþykki verðið ekki. Þetta á ekki við þegar lægra verð leiðir af samningi eða uppsett verð er ósanngjarnt.
@@ -219,7 +219,7 @@ h2. Lög um lausafjárkaup
     b. taka við hlutnum með því að sækja hann eða veita honum viðtöku.
 
  *VII. kafli.* *Úrræði seljanda vegna vanefnda af hálfu kaupanda.*
-■ *51. gr.* _Almenn ákvæði._
+ ■ *51. gr.* _Almenn ákvæði._
  □ Ef kaupandi greiðir ekki kaupverðið eða fullnægir ekki öðrum skyldum sínum samkvæmt samningnum eða lögum þessum, og það verður hvorki rakið til seljanda né atvika sem hann varða, getur seljandinn krafist efnda, riftunar og skaðabóta í samræmi við ákvæði þessa kafla. Hann getur einnig haldið eftir greiðslum skv. 10. gr. og krafist vaxta skv. 71. gr.
  □ Sinni kaupandi ekki þeirri skyldu sinni að veita söluhlut viðtöku, og það verður hvorki rakið til seljanda né atvika sem hann varða, gilda ákvæði 55. gr., 2. mgr. 57. gr. og 58. gr.
  □ Réttur seljanda til skaðabóta og vaxta fellur ekki brott þótt hann neyti annarra úrræða eða við það að slík úrræði verði ekki höfð uppi.
@@ -248,13 +248,13 @@ h2. Lög um lausafjárkaup
  □ Seljandi getur krafist skaðabóta samkvæmt reglum 27. gr. fyrir það tjón sem hann bíður og stafar af því
     a. að kaupandi stuðlar ekki að efndum á kaupunum eða
     b. kaupandi veitir hlut ekki nógu snemma viðtöku skv. b-lið 50. gr. og seljandi hefur af því sérstaka hagsmuni að losna við hlutinn.
-■ *58. gr.* _Upplýsingaskylda um hindrun._
+ ■ *58. gr.* _Upplýsingaskylda um hindrun._
  □ Ef hindrun tálmar því að kaupandi geti efnt kaupin á réttum tíma skal hann tilkynna seljanda um hindrunina og áhrif hennar á möguleika sína til efnda. Fái seljandi ekki slíka tilkynningu innan sanngjarns tíma frá því að kaupandinn vissi eða mátti vita um hindrunina getur seljandi krafist bóta fyrir það tjón sem hann hefði getað komist hjá ef hann hefði fengið tilkynninguna í tíma.
  ■ *59. gr.* _Riftunarfrestur seljanda._
  □ Ef kaupverðið hefur verið greitt getur seljandi ekki rift kaupunum, nema hann hafi tilkynnt kaupanda um það
     a. við drátt á efndum af hálfu kaupanda áður en seljandi fékk að vita um efndir kaupanda eða
     b. við aðrar vanefndir án ástæðulauss dráttar frá því að hann vissi eða mátti vita um vanefndir eða eftir að hæfilegur viðbótarfrestur skv. 2. mgr. 55. gr. er liðinn.
-■ *60. gr.* _Ákvörðun um einkenni hlutar._
+ ■ *60. gr.* _Ákvörðun um einkenni hlutar._
  □ Nú á kaupandi að ákveða lögun hlutar, mál eða aðra eiginleika hans og gerir það ekki á umsömdum tíma eða án ástæðulauss dráttar frá því að hann fékk um það hvatningu frá seljanda. Getur seljandi þá sjálfur ákveðið þessi einkenni í samræmi við það sem hann má ætla að séu hagsmunir kaupanda. Þetta kemur ekki í veg fyrir að seljandi geti haldið fram öðrum kröfum sem hann á.
  □ Seljandi skal upplýsa kaupanda um þau einkenni sem hann ákveður skv. 1. mgr. og veita kaupanda hæfilegan frest til að gera á þeim breytingar. Geri kaupandi það ekki án ástæðulauss dráttar, eftir að hafa fengið tilkynningu frá seljanda, verður ákvörðun seljanda um einkennin bindandi.
 
@@ -298,7 +298,7 @@ h2. Lög um lausafjárkaup
     a. venjulegra ráðstafana sem bæta eiga úr þegar söluhlut seinkar eða hann er gallaður eða
     b. ráðstafana sem takmarka annað tjón en það sem 2. mgr. nær til.
  □ ...[^1)^]
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *68. gr.* _Verðmunur við staðgönguráðstafanir._
  □ Ef kaupum er rift og kaupandi kaupir af öðrum (staðgöngukaup) eða seljandi selur öðrum (staðgöngusala) með forsvaranlegum hætti og innan sanngjarns tíma frá riftun skal, þegar verðmunur er reiknaður út, leggja til grundvallar kaupverðið og verðið við staðgönguráðstöfunina.
  ■ *69. gr.* _Verðmunur þegar ekki er um staðgönguráðstafanir að ræða._
@@ -333,7 +333,7 @@ h2. Lög um lausafjárkaup
  *XII. kafli.* *Arður og annar afrakstur.*
  ■ *79. gr.* _Afrakstur af söluhlut._
  □ Afrakstur af söluhlut, sem verður til fyrir umsaminn afhendingartíma, fellur til seljanda, enda hafi ekki verið ástæða til að ætla að afraksturinn félli til síðar. Afrakstur, sem síðar verður til, fellur til kaupanda, enda hafi ekki verið ástæða til að ætla að hann félli til fyrr. Heimilt er að semja á annan veg ...,[^1)^] enda sé það kaupanda í hag.
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *80. gr.* _Hlutir._
  □ Kaup á hlutum ná til þess arðs sem ekki var gjaldfallinn fyrir kaupin. Sama gildir um réttinn til áskriftar að nýjum hlutum, enda hafi ekki verið unnt að nýta réttinn fyrir kaupin.
  ■ *81. gr.* _Krafa sem ber vexti._
@@ -350,12 +350,12 @@ h2. Lög um lausafjárkaup
  ■ *84. gr.* _Skilyrði kröfu á hendur fyrri söluaðila._
  □ [Kaupandi getur],[^1)^] ef annað leiðir ekki af samningi, gert kröfu vegna galla á söluhlut á hendur fyrri söluaðila ef seljandi getur gert sams konar kröfu vegna gallans.
  □ ...[^1)^]
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *85. gr.* _Tilkynning._
  □ Kaupandi skal setja kröfu sína á hendur fyrri söluaðila fram án ástæðulauss dráttar frá því að honum varð kunnugt um eða mátti vera kunnugt um gallann. Í síðasta lagi skal hann setja kröfu sína fram áður en liðnir eru þeir tilkynningarfrestir sem gilda í samskiptum seljanda og fyrri söluaðila.
  □ ...[^1)^]
  □ Kaupandi skal svo fljótt sem tilefni gefst tilkynna fyrri söluaðila hvers hann krefst.
-    _[^1)^]"L. 48/2003, 64. gr.":2003048.html#g64_
+    _[^1)^]"L. 48/2003, 64. gr.":/altext/stjt/2003.048.html#G64_
  ■ *86. gr.* _Ábyrgð á upplýsingum skv. 18. gr._
  □ Þegar sá er hlut hefur búið til eða annar fyrri söluaðili hefur gefið upplýsingar þær sem nefndar eru í 2. mgr. 18. gr. ber hann ábyrgð á því tjóni sem kaupandinn verður fyrir vegna upplýsinganna, eftir atvikum óskipt með seljanda. Reglur 40. gr. eiga við með sama hætti.
 
@@ -390,7 +390,7 @@ h2. Lög um lausafjárkaup
  □ Skyldur seljanda skv. 1. mgr. eiga ekki við þegar:
     a. kaupandi vissi eða mátti vita við samningsgerðina um réttinn eða kröfuna eða
     b. rétturinn eða krafan er afleiðing þess að seljandinn hefur fylgt tæknilegum teikningum, lýsingum, fyrirsögnum, hönnun eða öðrum leiðbeiningum sem kaupandi hefur lagt til.
-■ *97. gr.* _Undantekningar frá reglum um tilkynningar._
+ ■ *97. gr.* _Undantekningar frá reglum um tilkynningar._
  □ Seljandi getur ekki borið fyrir sig að kaupandi hafi vanrækt rannsókn skv. 31. gr. eða vanrækt að senda tilkynningar skv. 32. gr. ef seljandi vissi eða mátti vita um þau atvik er varða gallann án þess að upplýsa kaupandann um þau.
  □ Þegar um vanheimild eða aðra kröfu þriðja manns skv. 41. eða 96. gr. er að ræða getur seljandi ekki borið fyrir sig að kaupandi hafi sýnt slíka vanrækslu sem um ræðir í 1. mgr. ef seljandi vissi um réttinn eða kröfuna og inntak þeirra. Regla 2. mgr. 32. gr. um tveggja ára tilkynningarfrest gildir ekki um slíkar kröfur.
  □ Þótt kaupandi hafi ekki sent tilkynningar þær sem um ræðir í 1. mgr. 32. gr. getur hann krafist afsláttar eða skaðabóta fyrir annað tjón en missi hagnaðar hafi hann haft sanngjarna ástæðu til að láta hjá líða að senda slíkar tilkynningar.
@@ -399,17 +399,17 @@ h2. Lög um lausafjárkaup
  □ Ef afhent er meira magn en um var samið getur kaupandi samþykkt afhendinguna eða hafnað því sem umfram er. Samþykki kaupandi það magn sem umfram hefur verið afhent, í heild eða að hluta, skal kaupverðið fyrir umframmagnið reiknast hlutfallslega á grundvelli þess verðs sem leiðir af samningnum.
 
  *XVI. kafli.* *[Kærunefnd lausafjár- og þjónustukaupa, gildistaka o.fl.][^1)^]*
-    _[^1)^]L. 87/2006, 2. gr._
- ■ *[99. gr.* [Ráðherra][^1)^] skipar kærunefnd lausafjár- og þjónustukaupa til fimm ára í senn, sbr. "40. gr. laga nr. 42/2000":2000042.html#g40, um þjónustukaup, með síðari breytingum. Nefndarmenn skulu vera þrír. Ráðherra skipar einn nefndarmanna eftir tilnefningu Neytendasamtakanna, annan eftir tilnefningu Samtaka atvinnulífsins og hinn þriðja skipar ráðherra án tilnefningar og skal hann jafnframt vera formaður nefndarinnar. Hann skal fullnægja skilyrðum til að vera héraðsdómari. Kærunefndin skal vistuð hjá Neytendastofu sem sér nefndinni fyrir fundaraðstöðu, tekur við kvörtunum til nefndarinnar, annast tilkynningar og sér um vörslu gagna.
+    _[^1)^]"L. 87/2006, 2. gr.":/altext/stjt/2006.087.html_
+ ■ *[99. gr.* [Ráðherra][^1)^] skipar kærunefnd lausafjár- og þjónustukaupa til fimm ára í senn, sbr. "40. gr. laga nr. 42/2000":2000042.html#G40, um þjónustukaup, með síðari breytingum. Nefndarmenn skulu vera þrír. Ráðherra skipar einn nefndarmanna eftir tilnefningu Neytendasamtakanna, annan eftir tilnefningu Samtaka atvinnulífsins og hinn þriðja skipar ráðherra án tilnefningar og skal hann jafnframt vera formaður nefndarinnar. Hann skal fullnægja skilyrðum til að vera héraðsdómari. Kærunefndin skal vistuð hjá Neytendastofu sem sér nefndinni fyrir fundaraðstöðu, tekur við kvörtunum til nefndarinnar, annast tilkynningar og sér um vörslu gagna.
  □ Greini aðila að lausafjárkaupum á um réttindi sín og skyldur samkvæmt lögum þessum geta þeir, einn eða fleiri, snúið sér til kærunefndar lausafjár- og þjónustukaupa og óskað eftir álitsgerð nefndarinnar um ágreiningsefnið.
  □ Niðurstöðum kærunefndar verður ekki skotið til annarra stjórnvalda en aðilar geta lagt ágreining sinn fyrir dómstóla með venjulegum hætti.
  □ [Ráðherra][^1)^] skal með reglugerð[^2)^] setja nánari ákvæði um valdsvið og verkefni kærunefndar, málsmeðferðarreglur fyrir nefndinni og störf hennar að öðru leyti.][^3)^]
-    _[^1)^]L. 126/2011, 302. gr. [^2)^]Rg. 766/2006. [^3)^]L. 87/2006, 1. gr._
+    _[^1)^]"L. 126/2011, 302. gr.":/altext/stjt/2011.126.html [^2)^]"Rg. 766/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/766-2006. [^3)^]"L. 87/2006, 1. gr.":/altext/stjt/2006.087.html_
  ■ *[100. gr.][^1)^]* Lög þessi öðlast gildi 1. júní 2001.
- □ ...
+ □ "...":http://www.althingi.is/vefur/lagas-hlp.html
  □ Lög þessi gilda einvörðungu um þá samninga sem gerðir verða eftir gildistöku laganna.
-    _[^1)^]L. 87/2006, 1. gr._
+    _[^1)^]"L. 87/2006, 1. gr.":/altext/stjt/2006.087.html_
  ■ *Ákvæði til bráðabirgða.* ...[^1)^]
-    _[^1)^]L. 87/2006, 3. gr._
+    _[^1)^]"L. 87/2006, 3. gr.":/altext/stjt/2006.087.html_
 
 

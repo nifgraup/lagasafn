@@ -7,9 +7,9 @@ h2. Lög um fullnustu refsinga
 <hr />
 
 
- *Tóku gildi 1. júlí 2005.* _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 162/2010 (tóku gildi 1. jan. 2011), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 129/2011 (tóku gildi 1. okt. 2011).
+ *Tóku gildi 1. júlí 2005.* _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 129/2011":/altext/stjt/2011.129.html (tóku gildi 1. okt. 2011), "l. 6/2013":/altext/stjt/2013.006.html (tóku gildi 1. jan. 2013, birt í Stjtíð. 13. febr. 2013) og "l. 19/2013":2013019.html (tóku gildi 13. mars 2013).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna hér.
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
 
 <hr />
 
@@ -17,7 +17,7 @@ h2. Lög um fullnustu refsinga
  *I. kafli.* *Stjórn og skipulag fangelsismála.*
  ■ *1. gr.* _Yfirstjórn fangelsismála._
  □ [Ráðherra][^1)^] fer með yfirstjórn fangelsismála.
-    _[^1)^]L. 126/2011, 401. gr._
+    _[^1)^]"L. 126/2011, 401. gr.":/altext/stjt/2011.126.html_
  ■ *2. gr.* _Hlutverk fangelsismálastofnunar._
  □ Fangelsismálastofnun sér um fullnustu refsinga og önnur verkefni í samræmi við ákvæði laga þessara og reglugerða sem settar eru samkvæmt þeim.
  □ Fangelsismálastofnun hefur umsjón með rekstri fangelsa.
@@ -68,6 +68,8 @@ h2. Lög um fullnustu refsinga
  □ Fangelsismálastofnun ákveður í hvaða fangelsi afplánun skuli fara fram. Við ákvörðunina skal tillit tekið til aldurs, kynferðis og brotaferils fangans og þyngdar refsingar auk þeirra sjónarmiða sem gilda um vistun í hverju fangelsi fyrir sig.
  □ Fangelsismálastofnun getur látið færa fanga milli fangelsa eða frá stofnun til fangelsis. Við slíkan flutning skal, eftir því sem aðstæður leyfa, hafa hliðsjón af búsetu fanga og fjölskyldu hans. Fanga skal tilkynnt fyrir fram um slíkan flutning með minnst sólarhrings fyrirvara og gerð grein fyrir ástæðum flutnings, nema hann teljist nauðsynlegur af öryggisástæðum, vegna heilbrigðis fanga, til að fyrirbyggja ofbeldi, hafi fangi gerst sekur um gróft agabrot, eða fyrir liggi rökstuddur grunur um að fangi hafi fíkniefni eða ólögmæt lyf undir höndum. Fanga er heimilt að láta aðstandendur sína og lögmann vita af flutningi milli fangelsa.
  □ Forstöðumaður fangelsis getur í öryggisskyni eða vegna sérstakra aðstæðna tekið ákvörðun um að flytja fanga á milli deilda og klefa. Ekki er skylt að gefa fanga kost á að tjá sig áður en slík ákvörðun er tekin en gæta skal hagsmuna fangans í því sambandi.
+ □ [Fangar sem eru undir 18 ára aldri skulu vistaðir á heimili á vegum barnaverndaryfirvalda, nema sérstakar ástæður séu til að vista þá í fangelsi. Um slíka vistun gilda ákvæði laganna eins og við á. Ráðherra setur reglugerð um nánari framkvæmd vistunar samkvæmt þessari málsgrein.][^1)^]
+    _[^1)^]"L. 19/2013, 4. gr.":/altext/stjt/2013.019.html#G4_
  ■ *15. gr.* _Vistun á sjúkrahúsi o.fl._
  □ Nú er fangi vistaður á sjúkrahúsi um stundarsakir eða allan refsitímann og getur fangelsismálastofnun þá leitað sérfræðiálits um nauðsyn og tilhögun slíkrar vistunar.
  □ Fangelsismálastofnun getur leyft að fangi sé vistaður um stundarsakir eða allan refsitímann á heilbrigðis- eða meðferðarstofnun. Fangelsismálastofnun getur sett sérstök skilyrði fyrir vistun fanga þar.
@@ -94,18 +96,18 @@ h2. Lög um fullnustu refsinga
  □ Þóknun fyrir ástundun vinnu eða náms í fangelsi og dagpeninga fanga má taka til greiðslu á skaðabótum eða öðrum útgjöldum sem fangi verður ábyrgur fyrir meðan á afplánun stendur, þar á meðal fyrir skuldum sem hann hefur stofnað til við fangelsi. Þó skal ekki heimilt að taka meira en helming af þóknun fanga eða fjórðung af dagpeningum til slíkra greiðslna.
  ■ *22. gr.* _Heilbrigðisþjónusta í fangelsum._
  □ Í fangelsum skulu fangar njóta sambærilegrar heilbrigðisþjónustu og almennt gildir, auk þeirrar sérstöku heilbrigðisþjónustu sem lög og reglur um fanga segja til um. Að höfðu samráði við fangelsismálastofnun sér [það ráðuneyti er fer með heilbrigðismál][^1)^] um og ber ábyrgð á heilbrigðisþjónustu við fanga í fangelsum.
-    _[^1)^]L. 126/2011, 401. gr._
+    _[^1)^]"L. 126/2011, 401. gr.":/altext/stjt/2011.126.html_
  ■ *23. gr.* _Dvöl ungbarna í fangelsum._
  □ Eigi kona ungbarn við upphaf afplánunar, eða fæði hún barn í afplánun, má heimila henni í samráði við barnaverndarnefnd að hafa það hjá sér í fangelsi.
  ■ *24. gr.* _Fullnusta utan fangelsis._
  □ Fangelsismálastofnun getur leyft fanga að [afplána hluta refsingar][^1)^] utan fangelsis, enda stundi hann vinnu eða nám sem fangelsismálastofnun hefur samþykkt og er liður í aðlögun hans að samfélaginu á ný, búi á sérstakri stofnun eða heimili sem stofnunin hefur gert samkomulag við og sé þar undir eftirliti.
  □ Fangelsismálastofnun setur nánari reglur[^2)^] um forsendur og skilyrði slíkrar vistunar. Skal fangi samþykkja skriflega skilyrði fyrir vistuninni.
  □ Fangi skal sjálfur greiða gjöld sem slík stofnun eða heimili innheimtir hjá vistmönnum.
-    _[^1)^]L. 129/2011, 1. gr. [^2)^]Rgl. 404/2012._
+    _[^1)^]"L. 129/2011, 1. gr.":/altext/stjt/2011.129.html [^2)^]Rgl. 404/2012._
  ■ *[24. gr. a.* _Fullnusta utan fangelsis. Rafrænt eftirlit._
  □ Þegar dæmd refsing er 12 mánaða óskilorðsbundið fangelsi eða lengri getur fangelsismálastofnun leyft fanga að ljúka afplánun utan fangelsis enda hafi hann á sér búnað svo að unnt sé að fylgjast með ferðum hans.
  □ Þegar dæmd refsing er 12 mánaða óskilorðsbundið fangelsi er afplánun undir rafrænu eftirliti 30 dagar. Afplánun undir rafrænu eftirliti lengist um 2,5 daga fyrir hvern dæmdan mánuð og getur orðið 240 dagar hið mesta.][^1)^]
-    _[^1)^]L. 129/2011, 2. gr._
+    _[^1)^]"L. 129/2011, 2. gr.":/altext/stjt/2011.129.html_
  ■ *[24. gr. b.* _Skilyrði rafræns eftirlits._
  □ Skilyrði þess að rafrænt eftirlit komi til álita eru:
     1. að fangi teljist hæfur til að sæta rafrænu eftirliti,
@@ -115,7 +117,7 @@ h2. Lög um fullnustu refsinga
     5. að fangi hafi áður nýtt sér úrræði skv. 1. mgr. 24. gr. með fullnægjandi hætti,
     6. að fangi hafi ekki rofið skilyrði rafræns eftirlits á síðastliðnum þremur árum,
     7. að fangi eigi að jafnaði ekki mál til meðferðar hjá lögreglu, ákæruvaldi eða dómstólum þar sem hann er kærður fyrir refsiverðan verknað enda sé málið rekið með eðlilegum hætti og dráttur því ekki af völdum fangans.][^1)^]
-    _[^1)^]L. 129/2011, 2. gr._
+    _[^1)^]"L. 129/2011, 2. gr.":/altext/stjt/2011.129.html_
  ■ *[24. gr. c.* _Skilyrði í rafrænu eftirliti._
  □ Rafrænt eftirlit skal bundið eftirfarandi skilyrðum:
     1. að fangi sé undantekningarlaust á dvalarstað sínum frá kl. 18 til kl. 19 og frá kl. 23 til kl. 7 mánudaga til föstudaga og frá kl. 21 til kl. 7 laugardaga og sunnudaga; jafnframt skal fangi vera á dvalarstað sínum ef hann sækir ekki vinnu, nám, starfsþjálfun, meðferð eða önnur verkefni sem fangelsismálastofnun hefur samþykkt á virkum degi vegna veikinda eða af öðrum ástæðum nema að höfðu samráði við fangelsismálastofnun,
@@ -126,11 +128,11 @@ h2. Lög um fullnustu refsinga
     2. að fangi sæti sérstakri meðferð sem fangelsismálastofnun ákveður.
  □ Heimilt er að krefjast þess að fangi undirgangist rannsókn á öndunarsýni eða blóð- og þvagrannsókn. Synjun fanga á slíkri rannsókn gildir sem rof á skilyrðum rafræns eftirlits.
  □ Áður en fullnusta á fangelsisrefsingu með rafrænu eftirliti hefst skal kynna fanga ítarlega þær reglur sem gilda um rafrænt eftirlit og staðfesting hans fengin á því að hann vilji hlíta þeim.][^1)^]
-    _[^1)^]L. 129/2011, 2. gr._
+    _[^1)^]"L. 129/2011, 2. gr.":/altext/stjt/2011.129.html_
  ■ *25. gr.* _[Rof á skilyrðum fullnustu utan fangelsis.][^1)^]_
  □ Þegar fangi stundar ekki þá vinnu eða nám sem var forsenda [fullnustu][^1)^] utan fangelsis, eða strjúki hann frá stofnun eða heimili, brjóti reglur þess eða rjúfi skilyrði fyrir [fullnustu],[^1)^] getur fangelsismálastofnun ákveðið að hann verði fluttur aftur í afplánun í fangelsi. Sama gildir telji stofnun eða heimili brostnar forsendur fyrir áframhaldandi dvöl fanga þar.
  □ Gefa skal fanga kost á að tjá sig áður en ákveðið er að flytja hann í fangelsi á ný nema brotið sé þess eðlis að flutningur þoli enga bið.
-    _[^1)^]L. 129/2011, 3. gr._
+    _[^1)^]"L. 129/2011, 3. gr.":/altext/stjt/2011.129.html_
  ■ *26. gr.* _Lok afplánunar._
  □ Fangi sem afplánar óskilorðsbundna fangelsisrefsingu skal látinn laus kl. 8 að morgni þess dags sem afplánun lýkur. Heimilt er að láta fanga lausan á öðrum tíma þegar um brottvísun úr landi er að ræða.
  □ Fangi sem afplánar vararefsingu fésekta skal látinn laus á sama tíma sólarhrings og afplánun hófst.
@@ -138,7 +140,7 @@ h2. Lög um fullnustu refsinga
  □ [Þegar maður hefur verið dæmdur í allt að níu mánaða óskilorðsbundið fangelsi er heimilt, ef almannahagsmunir mæla ekki gegn því, að fullnusta refsinguna með ólaunaðri samfélagsþjónustu, minnst 40 klukkustundir og mest 360 klukkustundir. Fangelsismálastofnun getur ákveðið að hluti ólaunuðu samfélagsþjónustunnar skuli felast í viðtalsmeðferð eða viðurkenndu námskeiði, enda nemi sá hluti samtals aldrei meira en einum fimmta samfélagsþjónustunnar.][^1)^]
  □ Þegar hluti fangelsisrefsingar er skilorðsbundinn má heildarrefsing samkvæmt dóminum eigi vera lengri en [níu mánuðir][^1)^] til að hægt sé að fullnusta refsinguna með samfélagsþjónustu.
  □ Þegar um fangelsisrefsingu er að ræða samkvæmt fleiri en einum dómi má samanlögð refsing eigi vera lengri en [níu mánuðir][^1)^] til að hægt sé að fullnusta refsinguna með samfélagsþjónustu.
-    _[^1)^]L. 129/2011, 4. gr._
+    _[^1)^]"L. 129/2011, 4. gr.":/altext/stjt/2011.129.html_
  ■ *28. gr.* _Skilyrði samfélagsþjónustu._
  □ Skilyrði þess að samfélagsþjónusta komi til álita eru:
     1. Að dómþoli hafi óskað eftir því skriflega við fangelsismálastofnun eigi síðar en viku áður en hann átti upphaflega að hefja afplánun fangelsisrefsingar.
@@ -194,7 +196,7 @@ h2. Lög um fullnustu refsinga
  □ Ekki er heimilt að hlusta á símtöl fanga við lögmann, opinberar stofnanir eða umboðsmann Alþingis.
  □ Samkvæmt beiðni rétthafa símanúmers getur forstöðumaður fangelsis ákveðið að ekki verði hringt í símanúmerið úr fangelsi.
  □ Fangi greiðir sjálfur kostnað við símtöl sín önnur en til lögmanns, [ráðuneytisins],[^1)^] umboðsmanns Alþingis og fangelsismálastofnunar.
-    _[^1)^]L. 162/2010, 180. gr._
+    _[^1)^]"L. 162/2010, 180. gr.":/altext/stjt/2010.162.html_
  ■ *37. gr.* _Bréfaskipti._
  □ Fanga er heimilt að senda og taka við bréfum. Forstöðumaður fangelsis getur ákveðið að opna og lesa bréf til og frá fanga í viðurvist hans til að viðhalda góðri reglu og öryggi í fangelsi, til að fyrirbyggja refsiverðan verknað eða til að vernda þann sem afleiðingar af broti fanga hafa bitnað á og þann sem vitnað hefur gegn fanga. Forstöðumaður getur í sama tilgangi ákveðið að takmarka bréfaskipti fanga við ákveðna aðila eða stöðva sendingu bréfa til og frá fanga. Heimilt er að setja það skilyrði að bréfaskipti fari fram á tungumáli sem fangavörður skilur en annars verði skjalaþýðanda falið að þýða bréf.
  □ Ekki skal skoða bréfaskipti milli fanga og lögmanns, opinberra stofnana eða umboðsmanns Alþingis.
@@ -211,7 +213,8 @@ h2. Lög um fullnustu refsinga
  □ Nú er fangi ríkisfangslaus eða flóttamaður og skal fangelsi þá aðstoða hann við að hafa samband við fulltrúa innlendra eða alþjóðlegra stofnana sem gæta hagsmuna slíkra einstaklinga.
  □ Erlendur fangi á rétt á túlki þegar honum er gerð grein fyrir réttindum sínum og skyldum í afplánun sé þess þörf. Hann á jafnframt rétt á að hafa samband við lögmann sinn með aðstoð túlks þegar þurfa þykir.
  ■ *41. gr.* _Trúariðkun._
- □ Fangi skal eiga kost á að hafa samband við prest eða annan sambærilegan fulltrúa skráðs trúfélags.
+ □ Fangi skal eiga kost á að hafa samband við prest eða annan sambærilegan fulltrúa skráðs trúfélags [eða lífsskoðunarfélags].[^1)^]
+    _[^1)^]"L. 6/2013, 14. gr.":/altext/stjt/2013.006.html_
  ■ *42. gr.* _Munir í klefa._
  □ Forstöðumaður fangelsis getur leyft fanga, í samræmi við reglur fangelsis, að hafa í klefa sínum eigin tölvu, þó án nettengingar, tölvuprentara, hljómflutningstæki, útvarpstæki, sjónvarpstæki o.fl. Fanga er óheimilt að hafa síma eða önnur fjarskiptatæki í klefa sínum.
  □ Fanga er óheimilt að hafa í vörslum sínum áfengi eða ávana- og fíkniefni.
@@ -325,7 +328,7 @@ h2. Lög um fullnustu refsinga
  □ Þegar einangrun skv. 57. gr. eða aðskilnaði skv. 58. gr. er beitt, eða fangi settur í öryggisklefa skv. 59. gr., skal kalla til lækni til að skoða fanga. Ef unnt er skal læknir skoða fanga í einangrun eða öryggisklefa daglega.
  ■ *61. gr.* _Málsmeðferð._
  □ Ákvarðanir um agaviðurlög skv. 57. gr. og vistun í öryggisklefa skv. 59. gr. sæta kæru til [ráðuneytisins][^1)^] og skal skýra fanga frá því um leið og ákvörðun er birt. Þegar ákvörðun er kærð skulu gögn málsins þegar send ráðuneytinu. Ráðuneytið skal taka ákvörðun innan fjögurra virkra daga frá því að kæran barst, ella fellur hin kærða ákvörðun úr gildi. Berist kæran utan afgreiðslutíma ráðuneytisins telst hún hafa borist því við upphaf næsta virka dags.
-    _[^1)^]L. 162/2010, 180. gr._
+    _[^1)^]"L. 162/2010, 180. gr.":/altext/stjt/2010.162.html_
  ■ *62. gr.* _Haldlagning og upptaka._
  □ Forstöðumaður fangelsis getur tekið ákvörðun um að leggja hald á og eftir atvikum gera upptæka muni eða efni sem óheimilt er að koma með, varðveita eða búa til í fangelsi. Sama gildir um muni eða peninga sem reynt hefur verið að smygla til fanga. Ekki er þó heimilt að gera upptæka eign grandlauss þriðja manns.
  □ Forstöðumaður fangelsis getur einnig tekið ákvörðun um upptöku muna eða peninga sem finnast innan fangelsis ef ekki er vitað hver er eigandi þeirra.
@@ -349,7 +352,7 @@ h2. Lög um fullnustu refsinga
     [5. Að aðili hafi á sér búnað svo að fangelsismálastofnun eða annar aðili sem hún velur geti fylgst með ferðum hans í samræmi við þau fyrirmæli sem fangelsismálastofnun hefur sett honum.][^1)^]
  □ Fangelsismálastofnun tekur ákvarðanir skv. 1. og 2. mgr. og getur vegna breyttra ástæðna fellt skilyrði niður að nokkru leyti eða öllu.
  □ Nú sætir aðili skilyrði skv. 2. tölul. 2. mgr. og er þá heimilt að krefjast þess að hann undirgangist rannsókn á öndunarsýni eða blóð- og þvagrannsókn ef ástæða er til að ætla að hann hafi brotið gegn skilyrðinu.
-    _[^1)^]L. 129/2011, 5. gr._
+    _[^1)^]"L. 129/2011, 5. gr.":/altext/stjt/2011.129.html_
  ■ *65. gr.* _Skilorðsrof._
  □ Nú fremur maður nýtt brot eftir að hann hlýtur reynslulausn og rannsókn hefst hjá lögreglu gegn honum sem sakborningi fyrir lok reynslutíma, og ákveður þá dómstóll sem fjallar um mál þetta refsingu í einu lagi fyrir brot það sem nú er dæmt um og svo með hliðsjón af fangelsisrefsingu sem óafplánuð er samkvæmt reglum 60. gr. almennra hegningarlaga þannig að fangelsi samkvæmt eldra dómi er virt með sama hætti og skilorðsdómur.
  □ Að kröfu ákæranda getur þó dómstóll úrskurðað að maður, sem hlotið hefur reynslulausn, skuli afplána eftirstöðvar refsingar ef hann á reynslutíma rýfur gróflega almennt skilyrði reynslulausnar, enda liggi fyrir sterkur grunur um að hann hafi framið nýtt brot sem varðað getur sex ára fangelsi eða að brotið varði við 1. mgr. 218. gr. almennra hegningarlaga. Við meðferð slíkrar kröfu skal dómari skipa honum verjanda að ósk hans og fara með málið eftir [XV. kafla laga um meðferð sakamála][^1)^] eftir því sem við á. Heimilt er að kæra úrskurð dómara skv. 1. málsl. til Hæstaréttar og skal við meðferð kærumálsins farið eftir reglum [XXX. kafla laga um meðferð sakamála][^1)^] eftir því sem við á. Kæra frestar ekki framkvæmd úrskurðar. Dómari skal víkja sæti eftir útgáfu ákæru ef hann hefur áður úrskurðað mann, sem ákærður er í málinu, skv. 1. málsl. þessarar málsgreinar.
@@ -357,7 +360,7 @@ h2. Lög um fullnustu refsinga
  □ Nú er ekki tekin ákvörðun um að maður afpláni fangelsisrefsingu sem hann átti ólokið, sbr. 1. - 3. mgr., og telst refsingu þá fullnægt á því tímamarki sem hann fékk reynslulausn.
  □ Nú er ákveðið að láta mann taka út eftirstöðvar fangelsisrefsingar, sbr. 2. og 3. mgr., og má þá veita reynslulausn á ný þótt eigi sé fullnægt skilyrðum 1. og 2. mgr. 63. gr. Í þessu tilviki gilda ákvæði 64. gr. um reynslutíma en þó þannig að dreginn skal frá sá tími sem hann hefur notið reynslulausnar áður.
  □ Nú er maður sem sætt hefur nokkrum hluta fangelsisrefsingar náðaður skilorðsbundið, og er þá heimilt að setja honum þau skilyrði að hann hlíti ákvæðum 1. - 4. mgr.
-    _[^1)^]"L. 88/2008, 234. gr.":2008088.html#g234_
+    _[^1)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234_
 
  *VIII. kafli.* *Skilorðsbundnar refsingar.*
  ■ *66. gr.* _Tilhögun eftirlits._
@@ -370,7 +373,7 @@ h2. Lög um fullnustu refsinga
  ■ *69. gr.* _Rof á skilyrðum._
  □ Telji fangelsismálastofnun að sá sem sætir eftirliti hafi rofið skilyrði þau sem honum var gert að hlíta með dómi eða ákærufrestun skal fangelsismálastofnun gera lögreglu og ákæruvaldi viðvart.
  □ Eftirliti fangelsismálastofnunar með því að dómþoli haldi sérstök skilyrði samkvæmt dómi eða ákærufrestun lýkur þegar ...[^1)^] rannsókn á meintum skilorðsrofum dómþola hefst hjá lögreglu. Falli rannsókn hjá lögreglu niður hefst eftirlit fangelsismálastofnunar samkvæmt þessari grein að nýju.
-    _[^1)^]"L. 88/2008, 234. gr.":2008088.html#g234_
+    _[^1)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234_
 
  *IX. kafli.* *Fullnusta fésekta, innheimta sakarkostnaðar og framkvæmd upptöku.*
  ■ *70. gr.* _Innheimta sekta._
@@ -379,7 +382,7 @@ h2. Lög um fullnustu refsinga
  □ Hafi greiðsla sektar ekki farið fram á tilskildum tíma skal þegar innheimta hana eða eftirstöðvar hennar með fjárnámi nema fyrir liggi að viðkomandi sé eignalaus.
  □ Ekki er leyfilegt, án sérstakrar lagaheimildar, að krefjast greiðslu sektar úr dánarbúi sökunauts né að innheimta sekt hjá nokkrum öðrum en sökunaut sjálfum.
  □ Sökunautur sem gerð hefur verið sekt getur ekki krafið aðra um endurgreiðslu eða bætur vegna greiðslu sektarinnar.
-    _[^1)^]L. 162/2010, 180. gr. [^2)^]Rg. 208/2006._
+    _[^1)^]"L. 162/2010, 180. gr.":/altext/stjt/2010.162.html [^2)^]"Rg. 208/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/208-2006._
  ■ *71. gr.* _Vararefsing._
  □ Nú telur lögreglustjóri að innheimtuaðgerðir séu þýðingarlausar eða fullreyndar og skal hann þá ákveða að vararefsingu verði beitt. Að höfðu samráði við fangelsismálastofnun skal sektarþola send tilkynning um fyrirhugaða afplánun vararefsingar. Tilkynningu skal senda með sannanlegum hætti.
  □ Nú hefur hluti sektar verið greiddur og ákveður lögreglustjóri þá styttingu afplánunartíma að sama skapi en þó þannig að afplánunartíminn verði ekki styttri en tveir dagar og að sektarfjárhæð sem svarar til hluta úr degi afplánist með heilum degi.
@@ -394,7 +397,7 @@ h2. Lög um fullnustu refsinga
  ■ *74. gr.* _Innheimta sakarkostnaðar._
  □ Lögreglustjóri, eða annar aðili samkvæmt ákvörðun [ráðherra],[^1)^] sbr. 70. gr., annast innheimtu sakarkostnaðar.
  □ Um innheimtu sakarkostnaðar gilda ákvæði 70. og 71. gr. eftir því sem við á.
-    _[^1)^]L. 162/2010, 180. gr._
+    _[^1)^]"L. 162/2010, 180. gr.":/altext/stjt/2010.162.html_
  ■ *75. gr.* _Framkvæmd eignaupptöku._
  □ Lögreglustjóri annast framkvæmd eignaupptöku.
  □ Nú er það sem gert hefur verið upptækt í vörslu lögreglu og skal lögreglustjóri ráðstafa því ef ætla má að það hafi verðgildi umfram kostnað við sölu. Að öðrum kosti skal eyða því sem gert hefur verið upptækt.
@@ -409,23 +412,23 @@ h2. Lög um fullnustu refsinga
  ■ *77. gr.* _Gæsluvarðhaldsfangar._
  □ Ákvæði V. og VI. kafla gilda einnig um gæsluvarðhaldsfanga.
  □ Eftir því sem við getur átt gilda ákvæði II., III. og IV. kafla einnig um gæsluvarðhaldsfanga svo framarlega sem annað leiðir ekki af takmörkunum sem gæsluvarðhaldsfanga er gert að sæta á grundvelli laga um meðferð [sakamála].[^1)^] Þó ber gæsluvarðhaldsfanga ekki að stunda vinnu í fangelsi.
-    _[^1)^]"L. 88/2008, 234. gr.":2008088.html#g234_
+    _[^1)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234_
  ■ *78. gr.* _Náðunarnefnd._
  □ [Ráðherra][^1)^] skipar þriggja manna nefnd, náðunarnefnd, svo og þrjá varamenn, til þriggja ára í senn. Formaður nefndarinnar og varaformaður skulu uppfylla skilyrði laga til að hljóta skipun í embætti héraðsdómara.
  □ Nefndin skal láta ráðherra í té rökstudda tillögu um afgreiðslu á erindum sem til hans er skotið vegna ákvörðunar fangelsismálastofnunar um samfélagsþjónustu og reynslulausn, svo og um afgreiðslu náðunarbeiðna.
-    _[^1)^]L. 162/2010, 180. gr._
+    _[^1)^]"L. 162/2010, 180. gr.":/altext/stjt/2010.162.html_
  ■ *79. gr.* _Vinnsla persónuupplýsinga._
  □ Hjá fangelsismálastofnun og í fangelsum er vinnsla persónuupplýsinga um fanga heimil, þar á meðal þeirra upplýsinga sem viðkvæmar geta talist, að því marki sem slík vinnsla telst nauðsynleg vegna starfsemi viðkomandi stofnunar. Um meðferð persónuupplýsinga samkvæmt þessari grein fer samkvæmt lögum um persónuvernd og meðferð persónuupplýsinga.
  ■ *80. gr.* _Reglugerðarheimildir._
  □ [Ráðherra][^1)^] setur reglugerð[^2)^] um nánari framkvæmd laga þessara, þar á meðal reglur um fangelsismálastofnun og hlutverk hennar, t.d. um vinnslu persónuupplýsinga í stofnuninni og í fangelsum. Í reglugerð er einnig heimilt að mæla fyrir um vinnu og nám fanga, um greiðslu og fjárhæð þóknunar fyrir vinnu og nám, um leyfi til dvalar utan fangelsis og um viðtöl við fanga og talsmenn fanga í fjölmiðlum.
  □ Þá er ráðherra heimilt að kveða í reglugerð[^3)^] nánar á um önnur atriði er varða framkvæmd ákvæða um réttindi og skyldur fanga, fyrirkomulag og framkvæmd einangrunar, agaviðurlög, haldlagningu og upptöku muna, svo og um veitingu reynslulausnar, þar á meðal útfærslu skilyrða reynslulausnar, [sem og um fullnustu refsinga utan fangelsis].[^4)^]
  □ Fangelsismálastofnun setur reglur fangelsa.[^5)^]
-    _[^1)^]L. 162/2010, 180. gr. [^2)^]Rg. 961/2005 (um fullnustu refsinga), sbr. 362/2009. [^3)^]Rg. 316/1977 (um nýtingu fangelsa í Reykjavík). Rg. 112/1978 (um ríkisfangelsisdeild í lögreglustöðinni á Akureyri). Rg. 584/1981 (um vistun fanga að Bitru í Hraungerðishreppi). Rg. 347/2007 (um menntun fangavarða). Rg. 82//2012 (um einkennisbúninga og merki fangavarða, forstöðumanna fangelsanna og forstjóra Fangelsismálastofnunar ríkisins). [^4)^]L. 129/2011, 6. gr. [^5)^]Rgl. 54/2012._
+    _[^1)^]"L. 162/2010, 180. gr.":/altext/stjt/2010.162.html [^2)^]"Rg. 961/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/961-2005 (um fullnustu refsinga), sbr. "362/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/362-2009. [^3)^]"Rg. 316/1977":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/316-1977 (um nýtingu fangelsa í Reykjavík). "Rg. 112/1978":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-1978 (um ríkisfangelsisdeild í lögreglustöðinni á Akureyri). "Rg. 584/1981":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/584-1981 (um vistun fanga að Bitru í Hraungerðishreppi). "Rg. 347/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/347-2007 (um menntun fangavarða). Rg. 82//2012 (um einkennisbúninga og merki fangavarða, forstöðumanna fangelsanna og forstjóra Fangelsismálastofnunar ríkisins). [^4)^]"L. 129/2011, 6. gr.":/altext/stjt/2011.129.html [^5)^]Rgl. 54/2012._
  ■ *81. gr.* _Refsiákvæði._
  □ Sá sem smyglar eða reynir að smygla til fanga munum eða efnum sem getið er í 1. mgr. 52. gr. og hann veit eða má vita að fanga er óheimilt að hafa í fangelsi skal sæta sektum eða fangelsi allt að sex mánuðum nema þyngri refsing liggi við samkvæmt öðrum lögum.
  ■ *82. gr.* _Gildistaka._
  □ Lög þessi taka gildi 1. júlí 2005.
- □ ...
+ □ "...":http://www.althingi.is/vefur/lagas-hlp.html
 
 
 
