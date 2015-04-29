@@ -7,7 +7,7 @@ h2. Efnalög
 <hr />
 
 
- *Tóku gildi 17. apríl 2013 nema 62. - 64. gr. sem taka gildi 1. janúar 2014.* _EES-samningurinn:_ II. viðauki tilskipun 98/8/EB, reglugerð 648/2004, II. og XX. viðauki reglugerð 842/2006, II. viðauki reglugerð 1907/2006, 1272/2008, XX. viðauki reglugerð 1005/2009, II. viðauki reglugerð 1107/2009, XX. viðauki tilskipun 2009/128/EB, II. viðauki reglugerð 1223/2009, tilskipun 2011/65/ESB.
+ *Tóku gildi 17. apríl 2013 nema 62. - 64. gr. sem tóku gildi 1. janúar 2014.* _EES-samningurinn:_ II. viðauki tilskipun 98/8/EB, reglugerð 648/2004, II. og XX. viðauki reglugerð 842/2006, II. viðauki reglugerð 1907/2006, 1272/2008, XX. viðauki reglugerð 1005/2009, II. viðauki reglugerð 1107/2009, XX. viðauki tilskipun 2009/128/EB, II. viðauki reglugerð 1223/2009, tilskipun 2011/65/ESB.
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *umhverfis- og auðlindaráðherra* eða *umhverfis- og auðlindaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
 <hr />
@@ -133,7 +133,7 @@ h2. Efnalög
     e. merkingar, m.a. hvað varðar hættuflokkun, um tungumál merkinga, stærð og gerð umbúða og upplýsingar á merkimiða, sbr. 32. gr.,
     f. merkingar, auglýsingar og umbúðir varnarefna, sbr. 38. gr.,
     g. tilkynningar, sbr. 31. gr.
-    3. Varnarefni, þ.m.t. um:
+    3. Varnarefni, þ.m.t. um:[^2)^]
     a. innihald og gerð áætlunar um notkun varnarefna, sbr. 34. gr.,
     b. skilyrði fyrir skráningu efnanna, notkun og bann við notkun þeirra, auk ákvæða um umsókn, veitingu, endurskoðun og afturköllun markaðsleyfis, sbr. 35. gr.,
     c. gagnkvæma viðurkenningu á markaðsleyfi, skráningu og markaðsleyfi hættuminni varnarefna og ákvæði um ramma fyrir varnarefni, sbr. 35. gr.,
@@ -146,7 +146,7 @@ h2. Efnalög
     4. Skyldur framleiðanda, innflytjanda eða dreifanda efna til að verða sér úti um upplýsingar um efna- og eðlisfræðilega eiginleika efnis ásamt upplýsingum um virkni þess, sbr. 14. gr.
     5. Efnalista og prófunaraðferðir, þar sem heimilt er að vísa til erlendrar frumútgáfu efnalista og staðla sem teknir hafa verið upp í samninginn um Evrópska efnahagssvæðið og eru birtir á ensku í EES-viðbæti.[^1)^]
     6. Tilvísun í staðla og kröfu til að fara eftir þeim.
-    7. Snyrtivörur, sbr. 40. gr., þ.m.t. um:[^2)^]
+    7. Snyrtivörur, sbr. 40. gr., þ.m.t. um:[^3)^]
     a. kröfur til ábyrgðaraðila og dreifenda,
     b. upplýsingaskrá um snyrtivöru sem er sett á markað,
     c. að tiltekin efni megi ekki nota í snyrtivörur eða verði aðeins leyfð með skilyrðum,
@@ -158,7 +158,7 @@ h2. Efnalög
     i. innihald upplýsingaskrár,
     j. bann við tilraunum á dýrum,
     k. prófunaraðferðir.
-    8. Ósoneyðandi efni, sbr. 25. gr., m.a. um:
+    8. Ósoneyðandi efni, sbr. 25. gr., m.a. um:[^4)^]
     a. skilyrði um tímabundna undanþágu frá banni við framleiðslu, markaðssetningu, útflutningi og notkun ósoneyðandi efna, sem og búnaðar og hluta sem innihalda ósoneyðandi efni,
     b. hvaða skilyrðum tímabundin undanþága skv. a-lið skuli háð, svo sem varðandi búnað, merkingar og viðhald hans, neyðarnotkun efna, óhjákvæmilega notkun efna, sóttvarnir, meðhöndlun efna, endurnýtingu efna, viðskipti með og notkun endurunninna efna og förgun efna,
     c. skilyrði um að markaðssetning og notkun ósoneyðandi efna skuli háð því að önnur efni geti ekki komið í staðinn af tæknilegum eða efnahagslegum ástæðum.
@@ -171,7 +171,7 @@ h2. Efnalög
     e. húsnæði, öryggi og lágmarkstækjabúnað starfsemi sem tengist notkun og meðferð efnanna,
     f. merkingar vöru og búnaðar,
     g. notkun og bann við notkun flúoraðra gróðurhúsalofttegunda.
-    11. Bann við og takmarkanir á framleiðslu, markaðssetningu, útflutningi og notkun tiltekinna efna, hvort heldur þau eru hrein, í efnablöndum eða í hlutum, sbr. 26. gr.
+    11. Bann við og takmarkanir á framleiðslu, markaðssetningu, útflutningi og notkun tiltekinna efna, hvort heldur þau eru hrein, í efnablöndum eða í hlutum, sbr. 26. gr.[^5)^]
     12. Ákvæði um kaup og viðtöku eiturefna og varnarefna, sbr. 45. og 46. gr.
     13. Skilyrði og útgáfu notendaleyfa vegna varnarefna, sbr. 47. gr.
     14. Markaðssetningu eiturefna og tiltekinna varnarefna, nám og námsefni, sbr. 24. gr.
@@ -186,7 +186,7 @@ h2. Efnalög
     23. Magn og efnasamsetningu tiltekinna efna og efnablandna við innflutning og þar til gerð eyðublöð, sbr. 20. gr.
     24. Fjárhæð og beitingu stjórnvaldssekta, sbr. 62. gr.
  □ Þegar reglugerð, sem er fyrirhugað að setja, varðar skyldur og hlutverk sveitarfélaga eða atvinnulífs skal ráðherra áður en reglugerð er sett hafa samráð við Samband íslenskra sveitarfélaga og Samtök atvinnulífsins eftir því sem við á. Þá skal hafa samráð við aðra hagsmunaaðila eftir því sem við á hverju sinni.
-    _[^1)^]"Rg. 496/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/496-2013. [^2)^]"Rg. 577/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/577-2013._
+    _[^1)^]"Rg. 496/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/496-2013, sbr. "956/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/956-2013. [^2)^]"Rg. 1101/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1101-2004, sbr. "243/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/243-2007, "150/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/150-2008, "520/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/520-2008, "1234/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1234-2008, "15/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/015-2009, "1030/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1030-2009, "109/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/109-2010, "348/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/348-2010, "830/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/830-2010, "176/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/176-2011, "454/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/454-2011, "939/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/939-2011, "364/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/364-2012, "903/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/903-2012 og "959/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/959-2013. [^3)^]"Rg. 577/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/577-2013. [^4)^]"Rg. 970/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/970-2013. [^5)^]"Rg. 954/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/954-2013. "Rg. 750/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/750-2008, sbr. "340/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/340-2009, "365/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/365-2012, "836/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/836-2010, "884/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/884-2012, "940/2011":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/940-2011, "243/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/243-2013, "266/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/266-2013 og "963/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/963-2013._
 
  *IV. kafli.* *Almennar skyldur.*
  ■ *12. gr.* _Aðgæsluskylda._
@@ -399,7 +399,7 @@ h2. Efnalög
  *XIV. kafli.* *Viðurlög.*
  ■ *61. gr.* _Haldlagning._
  □ Umhverfisstofnun getur lagt hald á efni, efnablöndur eða hluti sem innihalda efni sem uppfylla ekki skilyrði laga þessara eða reglugerða settra samkvæmt þeim og fargað þeim á kostnað handhafa þeirra.
- ■ *62. gr.* _Stjórnvaldssektir.[^1)^]_
+ ■ *62. gr.* _Stjórnvaldssektir._
  □ Umhverfisstofnun getur lagt stjórnvaldssektir á einstakling eða lögaðila sem brýtur gegn:
     1. Skráningarskyldu, sbr. 22. gr.
     2. Tilkynningarskyldu vegna markaðssetningar eiturefna og varnarefna, sbr. 24. gr.
@@ -415,14 +415,11 @@ h2. Efnalög
  □ Gjalddagi stjórnvaldssektar er 30 dögum eftir að ákvörðun um sektina var tekin. Hafi stjórnvaldssekt ekki verið greidd innan 15 daga frá gjalddaga skal greiða dráttarvexti af fjárhæð sektarinnar frá gjalddaga. Ákvörðun Umhverfisstofnunar um stjórnvaldssekt er aðfararhæf og renna sektir í ríkissjóð að frádregnum kostnaði við álagningu og innheimtu. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
  □ Stjórnvaldssektum skal beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.
  □ Aðili máls getur einungis skotið ákvörðun um stjórnvaldssekt til dómstóla. Málshöfðunarfrestur er þrír mánuðir frá því að ákvörðun var tekin. Málskot frestar aðför.
-    _[^1)^]Greinin tekur gildi 1. jan. 2014 skv. "70. gr.":/altext/stjtnr.html#2013577?g70_
- ■ *63. gr.* _Réttur manna til að fella ekki á sig sök.[^1)^]_
+ ■ *63. gr.* _Réttur manna til að fella ekki á sig sök._
  □ Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Umhverfisstofnun skal leiðbeina hinum grunaða um þennan rétt.
-    _[^1)^]Greinin tekur gildi 1. jan. 2014 skv. "70. gr.":/altext/stjtnr.html#2013577?g70_
- ■ *64. gr.* _Fyrning.[^1)^]_
+ ■ *64. gr.* _Fyrning._
  □ Heimild Umhverfisstofnunar til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar fimm ár eru liðin frá því að háttsemi lauk.
  □ Frestur skv. 1. mgr. rofnar þegar Umhverfisstofnun tilkynnir aðila um upphaf rannsóknar á meintu broti. Rof frests hefur réttaráhrif gagnvart öllum sem staðið hafa að broti.
-    _[^1)^]Greinin tekur gildi 1. jan. 2014 skv. "70. gr.":/altext/stjtnr.html#2013577?g70_
  ■ *65. gr.* _Sektir eða fangelsi._
  □ Það varðar sektum eða fangelsi allt að tveimur árum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn:
     1. Skráningarskyldu, sbr. 22. gr.

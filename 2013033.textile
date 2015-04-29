@@ -7,7 +7,7 @@ h2. Lög um neytendalán
 <hr />
 
 
- *Taka gildi 1. nóvember 2013 nema 37. gr. sem tók gildi 5. apríl 2013.* _EES-samningurinn:_ XIX. viðauki tilskipun 2008/48/EB. _Breytt með_ "l. 85/2013":/altext/stjt/2013.085.html (tóku gildi 16. júlí 2013).
+ *Tóku gildi 1. nóvember 2013 nema 37. gr. sem tók gildi 5. apríl 2013.* _EES-samningurinn:_ XIX. viðauki tilskipun 2008/48/EB. _Breytt með_ "l. 85/2013":/altext/stjt/2013.085.html (tóku gildi 16. júlí 2013) og "l. 125/2013":/altext/stjt/2013.125.html (tóku gildi 31. des. 2013).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -76,7 +76,7 @@ h2. Lög um neytendalán
  □ Um upplýsingaskyldu lánamiðlara gilda einnig ákvæði VI. kafla.
  ■ *7. gr.* _Upplýsingar áður en samningur er gerður._
  □ Lánveitandi skal með eðlilegum fyrirvara veita neytanda nauðsynlegar upplýsingar til þess að hann geti borið saman ólík tilboð og tekið upplýsta ákvörðun um það hvort gera skuli lánssamning áður en neytandi er bundinn af lánssamningi eða tilboði. Þessar upplýsingar skulu veittar á grundvelli lánsskilmála, skilyrða lánveitanda og, ef við á, fram kominna óska og upplýsinga frá neytanda.
- □ Slíkar upplýsingar skal veita á pappír eða öðrum varanlegum miðli, á stöðluðu eyðublaði sem birt er í reglugerð sem ráðherra setur.
+ □ Slíkar upplýsingar skal veita á pappír eða öðrum varanlegum miðli, á stöðluðu eyðublaði sem birt er í reglugerð[^1)^] sem ráðherra setur.
  □ Lánveitandi telst hafa uppfyllt kröfur um upplýsingar skv. "5":2005033.html#G5. - "6. gr. laga nr. 33/2005":2005033.html#G6, um fjarsölu á fjármálaþjónustu, ef hann hefur veitt upplýsingar á stöðluðu eyðublaði skv. 2. mgr.
  □ Í upplýsingum skal eftirfarandi koma fram:
     a. tegund láns,
@@ -104,6 +104,7 @@ h2. Lög um neytendalán
  □ Auk staðlaðs eyðublaðs skv. 2. mgr. skal neytandi fá, samkvæmt beiðni og honum að kostnaðarlausu, afrit af drögum að lánssamningi. Þetta ákvæði gildir ekki ef lánveitandi er, þegar beiðnin er lögð fram, ófús að gera lánssamning við neytanda.
  □ Ef um er að ræða lánssamning þar sem greiðslur neytanda leiða ekki þegar í stað til samsvarandi lækkunar á heildarfjárhæð láns, en eru í stað þess notaðar til að hækka eða viðhalda höfuðstól á tímabilum og við aðstæður sem mælt er fyrir um í lánssamningi eða í viðbótarsamningi, skulu upplýsingar, sem veita skal áður en samningur er gerður og gerð er krafa um í 1. - 4. mgr., fela í sér skýra og hnitmiðaða yfirlýsingu um að slíkir lánssamningar tryggi ekki endurgreiðslu á heildarfjárhæð láns, sem greitt er út samkvæmt lánssamningi, nema slík ábyrgð sé sérstaklega veitt.
  □ Lánveitandi, og eftir atvikum lánamiðlari, skal veita neytanda skýringar svo að hann geti tekið afstöðu til þess hvort lánssamningur, sem í boði er, sé lagaður að þörfum og fjárhagsstöðu hans. Þessi skylda lánveitanda felur í sér að útskýra upplýsingar sem veita skal áður en samningur er gerður í samræmi við 1. - 4. mgr. og 1. mgr. 25. gr., helstu einkenni þeirra lánssamninga sem í boði eru og þær sérstöku afleiðingar sem slíkir samningar geta haft fyrir neytanda, þ.m.t. afleiðingarnar af vanskilum hans á afborgunum.
+    _[^1)^]"Rg. 921/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/921-2013._
  ■ *8. gr.* _Kröfur um upplýsingar fyrir og við gerð tiltekinna lánssamninga í formi yfirdráttarheimildar og tiltekinna sérstakra lánssamninga._
  □ Lánveitandi og, ef við á, lánamiðlari skal, nægilega löngu áður en neytandi verður bundinn af lánssamningi eða tilboði varðandi lánssamning, sbr. 1. eða 3. mgr. 2. gr., á grundvelli lánsskilmála og skilyrða lánveitanda og, ef við á, sérstakra óska og upplýsinga frá neytanda, veita neytanda nauðsynlegar upplýsingar til að geta borið saman ólík tilboð og tekið upplýsta ákvörðun um það hvort gera skuli lánssamning.
  □ Í viðkomandi upplýsingum skal eftirfarandi koma fram:
@@ -242,11 +243,12 @@ h2. Lög um neytendalán
 
  *V. kafli.* *Árleg hlutfallstala kostnaðar.*
  ■ *21. gr.* _Útreikningur á árlegri hlutfallstölu kostnaðar._
- □ Árleg hlutfallstala kostnaðar er það vaxtaígildi sem jafnar núvirðið af greiðsluskuldbindingum lánveitanda annars vegar og neytanda hins vegar samkvæmt lánssamningi þeirra. Árlegri hlutfallstölu kostnaðar skal lýst sem árlegu hlutfalli af heildarfjárhæð sem neytandi greiðir. Skal hún reiknuð út í samræmi við stærðfræðilíkan sem nánar er mælt fyrir um í reglugerð er ráðherra setur.
+ □ Árleg hlutfallstala kostnaðar er það vaxtaígildi sem jafnar núvirðið af greiðsluskuldbindingum lánveitanda annars vegar og neytanda hins vegar samkvæmt lánssamningi þeirra. Árlegri hlutfallstölu kostnaðar skal lýst sem árlegu hlutfalli af heildarfjárhæð sem neytandi greiðir. Skal hún reiknuð út í samræmi við stærðfræðilíkan sem nánar er mælt fyrir um í reglugerð[^1)^] er ráðherra setur.
  □ Árleg hlutfallstala kostnaðar skal reiknuð út á þeim tíma sem lánssamningur er gerður. Við útreikning hennar skal gengið út frá því að lánssamningur gildi umsaminn tíma og lánveitandi og neytandi standi við skuldbindingar sínar samkvæmt skilmálum samningsins.
  □ Ef lánssamningur heimilar breytingu á vöxtum eða öðrum gjöldum sem teljast hluti árlegrar hlutfallstölu kostnaðar, en ekki er unnt að meta hverju nemi á þeim tíma sem útreikningur er gerður, skal reikna út árlega hlutfallstölu kostnaðar miðað við þá forsendu að verðlag, vextir og önnur gjöld verði óbreytt til loka lánstímans. Ef lánssamningur heimilar verðtryggingu skal útreikningur árlegrar hlutfallstölu kostnaðar miðast við ársverðbólgu samkvæmt tólf mánaða breytingu vísitölu neysluverðs og þá forsendu að ársverðbólga verði óbreytt til loka lánstímans.
  □ Við útreikning á árlegri hlutfallstölu kostnaðar skal ákvarða heildarlántökukostnað neytanda. Ekki skulu meðtalin í útreikningi möguleg viðurlög eða sektargreiðslur vegna vanefnda. Slíkt hið sama á við um kostnað sem fylgir kaupum á vöru eða þjónustu, hvort sem kaupin fara fram gegn staðgreiðslu eða láni.
  □ Kostnaður við að viðhalda reikningi þar sem bæði greiðslufærslur og nýting lána eru skráð, kostnaður við notkun greiðsluleiða fyrir bæði greiðslufærslur og nýtingu lána og annar kostnaður í tengslum við greiðslufærslur skal vera innifalinn í heildarkostnaði af láni til neytanda nema valfrjálst sé að opna reikning og kostnaður við reikninginn sé sérstaklega og greinilega tekinn fram í lánssamningi eða öðrum samningi sem er gerður við neytanda.
+    _[^1)^]"Rg. 965/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/965-2013._
 
  *VI. kafli.* *Lánamiðlarar.*
  ■ *22. gr.* _Sérstakar skuldbindingar lánamiðlara gagnvart neytendum._
@@ -275,10 +277,11 @@ h2. Lög um neytendalán
  □ Árleg hlutfallstala kostnaðar á neytendalánum má ekki nema meira en 50 hundraðshlutum að viðbættum stýrivöxtum.
  ■ *27. gr.* _Reglugerðarheimild._
  □ Ráðherra setur reglugerðir um:
-    a. staðlað eyðublað sem lánveitandi skal nota til að veita neytanda upplýsingar áður en lánssamningur er gerður, sbr. 2. mgr. 7. gr.,
-    b. framkvæmd lánshæfis- og greiðslumats, sbr. 5. mgr. 10. gr.,
-    c. útreikning á árlegri hlutfallstölu kostnaðar, sbr. 1. mgr. 21. gr.
+    a. staðlað eyðublað sem lánveitandi skal nota til að veita neytanda upplýsingar áður en lánssamningur er gerður, sbr. 2. mgr. 7. gr.,[^1)^]
+    b. framkvæmd lánshæfis- og greiðslumats, sbr. 5. mgr. 10. gr.,[^2)^]
+    c. útreikning á árlegri hlutfallstölu kostnaðar, sbr. 1. mgr. 21. gr.[^3)^]
  □ Ráðherra er heimilt að kveða nánar á um framkvæmd laga þessara í reglugerð.
+    _[^1)^]"Rg. 921/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/921-2013. [^2)^]"Rg. 920/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/920-2013. [^3)^]"Rg. 965/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/965-2013._
  ■ *28. gr.* _Breytingar á fjárhæðum._
  □ Fjárhæðir samkvæmt lögum þessum breytast 1. janúar ár hvert í samræmi við vísitölu neysluverðs.
 
@@ -286,11 +289,12 @@ h2. Lög um neytendalán
  ■ *29. gr.* _Eftirlits- og ákvarðanavald Neytendastofu._
  □ Neytendastofa annast eftirlit með ákvæðum laga þessara. Ákvæði laga um eftirlit með viðskiptaháttum og markaðssetningu gilda um málsmeðferð Neytendastofu.
  □ Ákvæði VIII. kafla laga um eftirlit með viðskiptaháttum og markaðssetningu gilda um heimildir Neytendastofu til upplýsingaöflunar, haldlagningar gagna, þagnarskyldu og afhendingar upplýsinga til stjórnvalda annarra ríkja.
- □ Neytendastofa getur gripið til aðgerða gegn aðilum sem brjóta í bága við ákvæði II. - VIII. kafla, eftir því sem við getur átt. Aðgerðir Neytendastofu geta falið í sér bann, fyrirmæli eða heimild með ákveðnu skilyrði. Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til áfrýjunarnefndar neytendamála sem starfar á grundvelli "4. gr. laga nr. 62/2005":2005062.html#G4, um Neytendastofu og talsmann neytenda.
+ □ Neytendastofa getur gripið til aðgerða gegn aðilum sem brjóta í bága við ákvæði II. - VIII. kafla, eftir því sem við getur átt. Aðgerðir Neytendastofu geta falið í sér bann, fyrirmæli eða heimild með ákveðnu skilyrði. Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til áfrýjunarnefndar neytendamála sem starfar á grundvelli "4. gr. laga nr. 62/2005":2005062.html#G4, um [Neytendastofu].[^1)^]
  □ Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður áfrýjunarnefndar neytendamála liggur fyrir.
  □ Nú vill aðili ekki una úrskurði áfrýjunarnefndar neytendamála og getur hann þá höfðað mál til ógildingar fyrir dómstólum.
  □ Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndar.
  □ Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.
+    _[^1)^]"L. 125/2013, 6. gr.":/altext/stjt/2013.125.html_
  ■ *30. gr.* _Stjórnvaldssektir._
  □ Neytendastofa getur lagt stjórnvaldssektir á lánveitanda sem brýtur gegn eftirtöldum ákvæðum laga þessara og, eftir atvikum, reglum settum á grundvelli þeirra:
     a. 6. gr. um upplýsingar sem eiga að koma fram í auglýsingum og öðru kynningarefni,

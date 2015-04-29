@@ -59,10 +59,10 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  *_A. Staðfesting og afturköllun staðfestingar._*
  ■ *4. gr.* _Veitandi staðfestingar._
  □ Fjármálaeftirlitið veitir verðbréfasjóðum staðfestingu. Verðbréfasjóðir fá því aðeins staðfestingu að rekstrarfélög og vörslufyrirtæki þeirra uppfylli skilyrði laga um fjármálafyrirtæki.
- □ [Verðbréfasjóðir geta fengið staðfestingu Fjármálaeftirlitsins til þess að hefja starfsemi ef rekstrarfélög þeirra eru með staðfestu og starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins og uppfylla að öðru leyti reglur sem settar eru innan Evrópska efnahagssvæðisins um verðbréfasjóði um sameiginlega fjárfestingu í framseljanlegum verðbréfum. Ráðherra skal setja reglugerð um framkvæmd þessarar greinar, m.a. um umsókn rekstrarfélags með staðfestu og starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins um staðfestingu verðbréfasjóðs hér á landi.][^1)^]
+ □ [Verðbréfasjóðir geta fengið staðfestingu Fjármálaeftirlitsins til þess að hefja starfsemi ef rekstrarfélög þeirra eru með staðfestu og starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins og uppfylla að öðru leyti reglur sem settar eru innan Evrópska efnahagssvæðisins um verðbréfasjóði um sameiginlega fjárfestingu í framseljanlegum verðbréfum. Ráðherra skal setja reglugerð[^1)^] um framkvæmd þessarar greinar, m.a. um umsókn rekstrarfélags með staðfestu og starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins um staðfestingu verðbréfasjóðs hér á landi.][^2)^]
  □ Verðbréfasjóðum er heimilt að hefja starfsemi þegar staðfesting er fengin frá Fjármálaeftirlitinu. Óheimilt er að starfrækja verðbréfasjóð án staðfestingar Fjármálaeftirlitsins.
  □ Óheimilt er að breyta verðbréfasjóðum í aðrar tegundir sjóða um sameiginlega fjárfestingu.
-    _[^1)^]"L. 12/2013, 3. gr.":/altext/stjt/2013.012.html_
+    _[^1)^]"Rg. 984/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/984-2013. [^2)^]"L. 12/2013, 3. gr.":/altext/stjt/2013.012.html_
  ■ *5. gr.* _Umsókn um staðfestingu._
  □ Umsókn rekstrarfélags um staðfestingu verðbréfasjóðs skal vera skrifleg og henni skulu fylgja reglur sjóðsins skv. 11. gr., útboðslýsing og [lykilupplýsingar][^1)^] skv. 51. gr., upplýsingar um stjórnendur verðbréfasjóðs og aðrar viðeigandi upplýsingar. Fjármálaeftirlitinu er heimilt að setja nánari reglur um upplýsingagjöf samkvæmt þessari grein.
     _[^1)^]"L. 12/2013, 4. gr.":/altext/stjt/2013.012.html_
@@ -317,8 +317,8 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  □ Fjárfesti verðbréfasjóður verulegan hluta eigna sinna í öðrum verðbréfasjóðum og öðrum sjóðum um sameiginlega fjárfestingu skal í útboðslýsingu hans tilgreina hámarksstjórnunarkostnað sem verðbréfasjóðurinn sjálfur og hinir sjóðirnir skulu bera. Í ársreikningi verðbréfasjóðsins skal tilgreina hámarkshlutfall stjórnunarkostnaðar sem annars vegar verðbréfasjóðurinn sjálfur og hins vegar hinir sjóðirnir, sem hann fjárfestir í, bera.
  □ Rekstrarfélagi er skylt að afhenda, óski eigandi hlutdeildarskírteinis í verðbréfasjóði eftir því, upplýsingar um aðferðafræði sjóðsins við áhættustýringu eigna sjóðsins með tilliti til áhættu og væntrar ávöxtunar í fjárfestingum sjóðsins undangengin missiri.
  □ Í útboðslýsingu skal koma fram hvaða verkefnum rekstrarfélagið hefur útvistað skv. 18. gr.
- □ Nánar er unnt að kveða á um útboðslýsingar og [lykilupplýsingar][^1)^] vegna verðbréfasjóða í reglugerð, m.a. um hvaða upplýsingar skuli birta í útboðslýsingum og [lykilupplýsingum].[^1)^]
-    _[^1)^]"L. 12/2013, 4. gr.":/altext/stjt/2013.012.html_
+ □ Nánar er unnt að kveða á um útboðslýsingar og [lykilupplýsingar][^1)^] vegna verðbréfasjóða í reglugerð,[^2)^] m.a. um hvaða upplýsingar skuli birta í útboðslýsingum og [lykilupplýsingum].[^1)^]
+    _[^1)^]"L. 12/2013, 4. gr.":/altext/stjt/2013.012.html [^2)^]"Rg. 983/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/983-2013._
  ■ *53. gr.* _Aðgengi að upplýsingum._
  □ [Lykilupplýsingar][^1)^] [skulu boðnar][^1)^] fjárfesti endurgjaldslaust áður en viðskipti með hlutdeildarskírteini fara fram. Útboðslýsing auk ársreiknings og hálfsársuppgjörs skal ávallt vera fjárfesti í verðbréfasjóði aðgengileg endurgjaldslaust.
  □ Ársreikningur og hálfsársuppgjör skulu vera almenningi aðgengileg með þeim hætti sem kveðið er á um í útboðslýsingu og [lykilupplýsingum][^1)^] og Fjármálaeftirlitið samþykkir.
@@ -448,8 +448,8 @@ h2. Lög um verðbréfasjóði, fjárfestingarsjóði og fagfjárfestasjóði
  □ Telji Fjármálaeftirlitið að starfsemi aðila skv. 1. mgr. brjóti gegn ákvæðum laga þessara, reglugerða og reglna settra samkvæmt þeim, eða sé að öðru leyti óeðlileg, óheilbrigð eða ótraust, getur það veitt viðkomandi hæfilegan frest til úrbóta nema brot séu alvarleg.
  □ Telji Fjármálaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án tilskilinna leyfa getur það krafist gagna og upplýsinga hjá viðkomandi aðilum eða hjá eftirlitsskyldum aðilum sem nauðsynleg eru til að ganga úr skugga um hvort svo sé. Getur það krafist þess að slíkri starfsemi sé hætt þegar í stað. Jafnframt er því heimilt að birta opinberlega nöfn aðila sem taldir eru bjóða þjónustu án tilskilinna leyfa.
  ■ *64. gr.* _Reglugerð._
- □ Lög þessi heyra undir [ráðherra][^1)^] og er honum heimilt að kveða nánar á um framkvæmd þeirra með reglugerð. Í reglugerð er m.a. heimilt að kveða á um fjárfestingarstefnu og fjárfestingarheimildir verðbréfasjóða og fjárfestingarsjóða, góða viðskiptahætti, útvistun verkefna rekstrarfélaga, innlausnarvirði, markaðssetningu utan heimalands, heimildir til markaðssetningar annarra sjóða en verðbréfasjóða utan heimalands og upplýsingagjöf verðbréfasjóða og fjárfestingarsjóða og eftirlit með fagfjárfestasjóðum. Í reglugerðinni er einnig heimilt að kveða á um notkun afleiðusamninga verðbréfasjóða og fjárfestingarsjóða og aðferðir til að meta áhrif þeirra á áhættu eignasafns sjóðanna.
-    _[^1)^]"L. 21/2012, 7. gr.":/altext/stjt/2012.021.html_
+ □ Lög þessi heyra undir [ráðherra][^1)^] og er honum heimilt að kveða nánar á um framkvæmd þeirra með reglugerð.[^2)^] Í reglugerð er m.a. heimilt að kveða á um fjárfestingarstefnu og fjárfestingarheimildir verðbréfasjóða og fjárfestingarsjóða, góða viðskiptahætti, útvistun verkefna rekstrarfélaga, innlausnarvirði, markaðssetningu utan heimalands, heimildir til markaðssetningar annarra sjóða en verðbréfasjóða utan heimalands og upplýsingagjöf verðbréfasjóða og fjárfestingarsjóða og eftirlit með fagfjárfestasjóðum. Í reglugerðinni er einnig heimilt að kveða á um notkun afleiðusamninga verðbréfasjóða og fjárfestingarsjóða og aðferðir til að meta áhrif þeirra á áhættu eignasafns sjóðanna.
+    _[^1)^]"L. 21/2012, 7. gr.":/altext/stjt/2012.021.html [^2)^]"Rg. 984/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/984-2013. "Rg. 1166/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1166-2013._
 
  *VI. kafli.* *Viðurlög.*
  ■ *65. gr.* _Stjórnvaldssektir._

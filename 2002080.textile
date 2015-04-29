@@ -7,7 +7,7 @@ h2. Barnaverndarlög
 <hr />
 
 
- *Tóku gildi 1. júní 2002, sjá þó 101. gr.* _Breytt með_ "l. 62/2006":/altext/stjt/2006.062.html (tóku gildi 1. júlí 2006), "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 52/2009":/altext/stjt/2009.052.html (tóku gildi 1. maí 2009), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 80/2011":/altext/stjt/2011.080.html (tóku gildi 29. júní 2011 nema a-liður 45. gr., 50. - 52. gr., a-liður 53. gr. og 1., 3. og 4. málsl. b-liðar 53. gr. sem taka gildi 1. jan. 2014, sbr. "l. 113/2012":/altext/stjt/2012.113.html (tóku gildi 2. nóv. 2012)), "l. 85/2011":/altext/stjt/2011.085.html (tóku gildi 30. júní 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 138/2011":/altext/stjt/2011.138.html (tóku gildi 1. jan. 2012) og "l. 58/2012":/altext/stjt/2012.058.html (tóku gildi 27. júní 2012).
+ *Tóku gildi 1. júní 2002, sjá þó 101. gr.* _Breytt með_ "l. 62/2006":/altext/stjt/2006.062.html (tóku gildi 1. júlí 2006), "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 52/2009":/altext/stjt/2009.052.html (tóku gildi 1. maí 2009), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 80/2011":/altext/stjt/2011.080.html (tóku gildi 29. júní 2011 nema a-liður 45. gr., 50. - 52. gr., a-liður 53. gr. og 1., 3. og 4. málsl. b-liðar 53. gr. sem tóku ekki gildi, sbr. "l. 134/2013":/altext/stjt/2013.134.html, 4. gr.), "l. 85/2011":/altext/stjt/2011.085.html (tóku gildi 30. júní 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 138/2011":/altext/stjt/2011.138.html (tóku gildi 1. jan. 2012), "l. 58/2012":/altext/stjt/2012.058.html (tóku gildi 27. júní 2012) og "l. 134/2013":/altext/stjt/2013.134.html (tóku gildi 1. jan. 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *félags- og húsnæðismálaráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -49,8 +49,8 @@ h2. Barnaverndarlög
  □ Í kærunefnd barnaverndarmála sitja þrír menn. Hæstiréttur tilnefnir formann og skal hann uppfylla hæfisskilyrði til að vera héraðsdómari. Nefndarmenn skulu hafa sérþekkingu á málefnum barna. [Ráðherra][^1)^] sér nefndinni fyrir starfsaðstöðu. Kærunefnd er heimilt að ráða starfsmenn til að sinna daglegum rekstri.
  □ Úrskurðir kærunefndar barnaverndarmála eru endanlegir á stjórnsýslustigi og verður þeim ekki skotið til æðra stjórnvalds.
  □ Kærunefnd barnaverndarmála skal árlega gefa út skýrslu um starfsemi sína.
- □ [Ráðherra][^1)^] setur reglugerð um störf nefndarinnar.
-    _[^1)^]"L. 162/2010, 24. gr.":/altext/stjt/2010.162.html [^2)^]"L. 80/2011, 2. gr.":/altext/stjt/2011.080.html_
+ □ [Ráðherra][^1)^] setur reglugerð[^3)^] um störf nefndarinnar.
+    _[^1)^]"L. 162/2010, 24. gr.":/altext/stjt/2010.162.html [^2)^]"L. 80/2011, 2. gr.":/altext/stjt/2011.080.html [^3)^]"Rg. 1007/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1007-2013._
  ■ *7. gr.* _Barnaverndarstofa._
  □ Barnaverndarstofa er sjálfstæð stofnun sem heyrir undir yfirstjórn [ráðherra].[^1)^] Barnaverndarstofa annast stjórnsýslu á því sviði sem lögin ná til. [Ráðherra][^1)^] ákveður aðsetur Barnaverndarstofu og skipar forstjóra hennar.
  □ Barnaverndarstofa skal vinna að samhæfingu og eflingu barnaverndarstarfs í landinu og vera [ráðherra][^1)^] til ráðgjafar um stefnumótun í málaflokknum. Hún skal hlutast til um að fram fari þróunar- og rannsóknastarf á sviði barnaverndar.
@@ -446,9 +446,9 @@ h2. Barnaverndarlög
     _[^1)^]"L. 80/2011, 42. gr.":/altext/stjt/2011.080.html_
  ■ *75. gr.* _Framfærsla og annar kostnaður vegna barns í fóstri._
  □ [Sveitarfélag sem ráðstafar barni í fóstur ber ábyrgð á að greiða fósturforeldrum framfærslueyri, fósturlaun og eftir atvikum annan útlagðan kostnað vegna barnsins sem leiðir af ákvæðum laga þessara.
- □ Um fjárhæðir skv. 1. mgr. og skiptingu kostnaðar vegna fósturs á grundvelli 4. mgr. 65. gr. fer samkvæmt reglugerð[^1)^] í samræmi við ákvæði 2. mgr. 88. gr.
- □ Fósturforeldrar og fósturbarn eiga rétt á allri almennri þjónustu samkvæmt lögum og fer almennt um kostnað vegna þeirrar þjónustu samkvæmt þeim lögum sem gilda á hverju sviði. Hverju sveitarfélagi er skylt að sjá til þess að skólaskyld börn, sem ráðstafað hefur verið í tímabundið fóstur til fósturforeldra sem eiga lögheimili í sveitarfélaginu, njóti skólavistar. Um greiðslu kostnaðar vegna skólagöngu barnsins fer samkvæmt grunnskólalögum.][^2)^]
-    _[^1)^]"Rg. 804/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/804-2004. [^2)^]"L. 80/2011, 43. gr.":/altext/stjt/2011.080.html_
+ □ [Um skiptingu kostnaðar vegna fósturs á grundvelli 4. mgr. 65. gr. fer samkvæmt reglugerð[^1)^] er ráðherra setur.][^2)^]
+ □ Fósturforeldrar og fósturbarn eiga rétt á allri almennri þjónustu samkvæmt lögum og fer almennt um kostnað vegna þeirrar þjónustu samkvæmt þeim lögum sem gilda á hverju sviði. Hverju sveitarfélagi er skylt að sjá til þess að skólaskyld börn, sem ráðstafað hefur verið í tímabundið fóstur til fósturforeldra sem eiga lögheimili í sveitarfélaginu, njóti skólavistar. Um greiðslu kostnaðar vegna skólagöngu barnsins fer samkvæmt grunnskólalögum.][^3)^]
+    _[^1)^]"Rg. 804/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/804-2004. [^2)^]"L. 134/2013, 1. gr.":/altext/stjt/2013.134.html [^3)^]"L. 80/2011, 43. gr.":/altext/stjt/2011.080.html_
  ■ *76. gr.* ...[^1)^]
     _[^1)^]"L. 80/2011, 44. gr.":/altext/stjt/2011.080.html_
  ■ *77. gr.* _Endurskoðun fóstursamnings._
@@ -464,11 +464,11 @@ h2. Barnaverndarlög
  □ [Ráðuneytið][^1)^] ber ábyrgð á að tiltæk séu heimili og stofnanir til að:
     a. veita börnum móttöku í bráðatilvikum til að tryggja öryggi þeirra vegna meintra afbrota eða alvarlegra hegðunarerfiðleika,
     b. greina vanda barna sem talin eru þurfa sérhæfða meðferð,
-    c. veita börnum sérhæfða meðferð vegna alvarlegra hegðunarerfiðleika, vímuefnaneyslu og meintra afbrota.[^2)^]
- □ Barnaverndarstofa, í umboði [ráðuneytisins],[^1)^] annast uppbyggingu og rekstur heimila og stofnana skv. 1. mgr. Stofan getur falið öðrum rekstur þeirra á grundvelli þjónustusamnings. [Heimili og stofnanir skv. 1. mgr. lúta faglegri og fjárhagslegri yfirstjórn Barnaverndarstofu og getur hún mælt fyrir um tiltekna sérhæfingu þeirra.][^3)^] Barnaverndarstofa veitir þeim sem reka heimili og stofnanir fræðslu, leiðbeiningar og almennan faglegan stuðning.
+    c. veita börnum sérhæfða meðferð vegna alvarlegra hegðunarerfiðleika, vímuefnaneyslu og meintra afbrota.
+ □ Barnaverndarstofa, í umboði [ráðuneytisins],[^1)^] annast uppbyggingu og rekstur heimila og stofnana skv. 1. mgr. Stofan getur falið öðrum rekstur þeirra á grundvelli þjónustusamnings. [Heimili og stofnanir skv. 1. mgr. lúta faglegri og fjárhagslegri yfirstjórn Barnaverndarstofu og getur hún mælt fyrir um tiltekna sérhæfingu þeirra.][^2)^] Barnaverndarstofa veitir þeim sem reka heimili og stofnanir fræðslu, leiðbeiningar og almennan faglegan stuðning.
  □ Komi til ágreinings milli Barnaverndarstofu og rekstraraðila heimila skv. 1. mgr. má skjóta þeim ágreiningi til [ráðuneytisins].[^1)^] Sama á við ef ágreiningur rís um framkvæmd þjónustu milli einstaklings sem nýtur þjónustu á heimili skv. 1. mgr. eða forráðamanns hans annars vegar og Barnaverndarstofu hins vegar.
  □ Um stofnun og almennan rekstur heimila og stofnana fer að öðru leyti eftir reglugerð sem [ráðherra][^1)^] setur.
-    _[^1)^]"L. 162/2010, 24. gr.":/altext/stjt/2010.162.html [^2)^]Málsgreininni var breytt með "l. 80/2011, 45. gr.":/altext/stjt/2011.080.html Breytingin tekur gildi 1. jan. 2014 skv. "57. gr. s.l.":/altext/stjt/2011.080.html [^3)^]"L. 80/2011, 45. gr.":/altext/stjt/2011.080.html_
+    _[^1)^]"L. 162/2010, 24. gr.":/altext/stjt/2010.162.html [^2)^]"L. 80/2011, 45. gr.":/altext/stjt/2011.080.html_
  ■ *80. gr.* _Framkvæmd vistunar barns á heimili eða stofnun skv. 79. gr._
  □ Áður en barn er vistað á heimili eða stofnun skv. 79. gr. skal barnaverndarnefnd reyna önnur stuðningsúrræði nema ljóst þyki að þau komi ekki að gagni. Ef nauðsynlegt er að vista barn utan heimilis skal velja heimili og stofnun af kostgæfni og með tilliti til þarfa og hagsmuna barnsins sem í hlut á. [Heimili sem barn er tengt tilfinningalegum tengslum skal ganga fyrir um vistun uppfylli það skilyrði laganna að öðru leyti og ef talið er barni fyrir bestu að vistast þar.][^1)^]
  □ Barnaverndarnefnd skal senda beiðni um vistun barns til Barnaverndarstofu sem metur og tekur ákvörðun í samráði við nefndina um vistun, þar á meðal hvaða heimili hentar barni best, hvenær vistun skuli hefjast og hvenær henni skuli ljúka. Í sérstökum tilvikum getur barnaverndarnefnd snúið sér beint til heimilis eða stofnunar um vistun barns eftir nánari reglum sem ráðherra setur að fengnum tillögum Barnaverndarstofu.
@@ -504,17 +504,17 @@ h2. Barnaverndarlög
  ■ *83. gr.* ...[^1)^]
     _[^1)^]"L. 80/2011, 49. gr.":/altext/stjt/2011.080.html_
 
- *XIV. kafli.* *Heimili og önnur úrræði á ábyrgð sveitarfélaga.[^1)^]*
-    _[^1)^]Fyrirsögn kaflans var breytt með "l. 80/2011, 51. gr.":/altext/stjt/2011.080.html Breytingin tekur gildi 1. jan. 2014 skv. "57. gr. s.l.":/altext/stjt/2011.080.html_
- ■ *84. gr.[^1)^]* _Heimili og önnur úrræði sem barnaverndarnefndir skulu hafa tiltæk._
+ *XIV. kafli.* *Heimili og önnur úrræði á ábyrgð sveitarfélaga.*
+ ■ *84. gr.* _Heimili og önnur úrræði sem barnaverndarnefndir skulu hafa tiltæk._
  □ Barnaverndarnefndir, ein eða fleiri saman, skulu hafa tiltæk úrræði, svo sem með rekstri vistheimila, sambýla eða á annan hátt til að:
     a. veita börnum móttöku, þar með talið í bráðatilvikum, til að tryggja öryggi þeirra, greina vanda eða til könnunar á aðstæðum þeirra, svo sem vegna vanrækslu, vanhæfni eða framferðis foreldra,
     b. veita börnum móttöku vegna ófullnægjandi heimilisaðstæðna eða sérstakra þarfa barna, svo sem í kjölfar meðferðar.
  □ Barnaverndarnefnd getur falið öðrum aðilum rekstur heimila skv. 1. mgr. á grundvelli þjónustusamnings.
- □ Barnaverndarstofa skal hafa yfirlit yfir þörf á heimilum og öðrum úrræðum skv. 1. mgr. um land allt, hvetja sveitarfélög til að hafa tiltæk nauðsynleg úrræði og liðsinna þeim í því efni eftir því sem þörf er á. Um leyfisveitingar Barnaverndarstofu til starfsemi skv. 1. og 2. mgr. fer eftir 83. gr.
+ □ Barnaverndarstofa skal hafa yfirlit yfir þörf á heimilum og öðrum úrræðum skv. 1. mgr. um land allt, hvetja sveitarfélög til að hafa tiltæk nauðsynleg úrræði og liðsinna þeim í því efni eftir því sem þörf er á. [Barnaverndarstofa veitir barnaverndarnefndum leyfi til að reka heimili og önnur úrræði skv. 1. mgr.][^1)^]
  □ Ákvæði 80., 81. og 82. gr. eiga við um dvöl barna á heimilum skv. 1. og 2. mgr. eftir því sem við á.
- □ Um stofnun og rekstur heimila samkvæmt ákvæði þessu fer að öðru leyti eftir reglugerð[^2)^] sem [ráðherra][^3)^] setur að fengnum tillögum Barnaverndarstofu.
-    _[^1)^]Greininni var breytt með "l. 80/2011, 50. gr.":/altext/stjt/2011.080.html Breytingin tekur gildi 1. jan. 2014 skv. "57. gr. s.l.":/altext/stjt/2011.080.html [^2)^]"Rg. 652/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/652-2004. [^3)^]"L. 162/2010, 24. gr.":/altext/stjt/2010.162.html_
+ □ [Ráðherra setur reglugerð[^2)^] um úrræði samkvæmt þessari grein, m.a. um skilyrði fyrir leyfisveitingu, réttindi barna og eftirlit, að fengnum tillögum Barnaverndarstofu.][^1)^]
+ □ [Ef Barnaverndarstofa telur að meðferð barns á heimili eða stofnun skv. 1. mgr. sé ábótavant skal stofan leitast við að bæta úr því sem áfátt er með leiðbeiningum og áminningum til barnaverndarnefndar og veita tiltekinn frest til þess. Ef ekki er bætt úr innan frests eða ef brot á skilyrðum fyrir leyfi eru mjög alvarleg getur stofan svipt viðkomandi leyfi til áframhaldandi reksturs.][^1)^]
+    _[^1)^]"L. 134/2013, 2. gr.":/altext/stjt/2013.134.html [^2)^]"Rg. 652/2004":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/652-2004._
  ■ *85. gr.* _Stuðningsfjölskyldur._
  □ Barnaverndarnefndir skulu hafa tiltækar stuðningsfjölskyldur. Þeir sem óska eftir að taka að sér hlutverk stuðningsfjölskyldu skulu sækja um leyfi barnaverndarnefndar í sínu heimilisumdæmi.
  □ Ráðherra setur reglugerð[^1)^] að fengnum tillögum Barnaverndarstofu um stuðningsfjölskyldur þar sem m.a. skal kveðið á um hámarksvistunartíma, skilyrði fyrir leyfisveitingu og samninga við stuðningsfjölskyldur.
@@ -527,12 +527,10 @@ h2. Barnaverndarlög
  *XV. kafli.* *Skipting kostnaðar af barnaverndarstarfi.*
  ■ *87. gr.* _Fjárhagsleg ábyrgð sveitarfélags._
  □ Sveitarstjórn ber ábyrgð á kostnaði sem hlýst af starfi barnaverndarnefndar, svo sem vegna þjónustu sem hún veitir og vegna þeirra úrræða sem nefndin ber ábyrgð á samkvæmt lögum þessum.
- □ [Sveitarstjórn sem ráðstafar barni í vistun á heimili eða stofnun skv. 79. gr. greiðir til ríkisins gjöld sem nema hluta kostnaðar við rekstur úrræða í samræmi við ákvæði 2. mgr. 88. gr.][^1)^]
-    _[^1)^]"L. 80/2011, 52. gr.":/altext/stjt/2011.080.html Ákvæðið tekur gildi 1. jan. 2014 skv. "57. gr. s.l.":/altext/stjt/2011.080.html_
  ■ *88. gr.* _Fjárhagsleg ábyrgð ríkis._
- □ Ríkið ber kostnað sem hlýst af störfum kærunefndar barnaverndarmála svo og starfsemi á vegum Barnaverndarstofu, þar með talinn rekstur heimila og stofnana sem ríkinu ber að sjá um að séu tiltæk skv. 79. gr.[^1)^]
- □ [Ráðuneytið setur að fengnum tillögum Barnaverndarstofu, og að höfðu samráði við Samband íslenskra sveitarfélaga, reglugerð[^2)^] um fjárhæð gjalda sem sveitarfélögum ber að greiða skv. 2. mgr. 87. gr., svo og um greiðslutilhögun og önnur atriði. Ráðuneytið setur með sama hætti, og að höfðu samráði við hagsmunasamtök fóstur- og vistforeldra, reglugerð[^2)^] um fjárhæðir sem greiddar eru vegna barna í fóstri skv. 75. gr. og um hlut ríkisins í kostnaði vegna fósturs á grundvelli 4. mgr. 65. gr. Verði vanhöld á því að sveitarfélag greiði þau gjöld sem því ber samkvæmt reglugerðinni skal Jöfnunarsjóður sveitarfélaga greiða Barnaverndarstofu það sem eftir verður eigi síðar en 31. desember ár hvert. Jöfnunarsjóður sveitarfélaga innheimtir þá greiðslu hjá viðkomandi sveitarfélagi með því að draga umrædda greiðslu af jöfnunarframlögum til viðkomandi sveitarfélags.][^3)^]
-    _[^1)^]Málsgreininni var breytt með "l. 80/2011, 53. gr.":/altext/stjt/2011.080.html Breytingin tekur gildi 1. jan. 2014 skv. "57. gr. s.l.":/altext/stjt/2011.080.html [^2)^]"Rg. 858/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/858-2013. [^3)^]"L. 80/2011, 53. gr.":/altext/stjt/2011.080.html Ákvæði 1., 3. og 4. málsl. taka gildi 1. jan. 2014 skv. "57. gr. s.l.":/altext/stjt/2011.080.html_
+ □ Ríkið ber kostnað sem hlýst af störfum kærunefndar barnaverndarmála svo og starfsemi á vegum Barnaverndarstofu, þar með talinn rekstur heimila og stofnana sem ríkinu ber að sjá um að séu tiltæk skv. 79. gr.
+ □ [Ríkið greiðir hluta kostnaðar vegna fósturs á grundvelli 4. mgr. 65. gr. samkvæmt ákvörðun Barnaverndarstofu. Við ákvörðun á hlutdeild ríkisins skal Barnaverndarstofa taka mið af kostnaði við að mæta sérþörfum þess barns sem ráðstafað er í fóstur á grundvelli ákvæðisins og kostnaði við þá sérstöku þjónustu, umönnun og þjálfun sem fósturforeldrum er ætlað að veita.][^1)^]
+    _[^1)^]"L. 134/2013, 3. gr.":/altext/stjt/2013.134.html_
  ■ *89. gr.* _Framfærsluskylda foreldra._
  □ Foreldrar barns sem vistað er utan heimilis eru framfærsluskyldir gagnvart því.
  □ Barnaverndarnefnd getur krafið foreldra um framfærslueyri með barni meðan á vistun stendur með hliðsjón af þörfum barnsins og fjárhagsstöðu og öðrum högum beggja foreldra. Barnaverndarnefnd úrskurðar um fjárhæð framfærslueyris. Úrskurðurinn er kæranlegur til kærunefndar barnaverndarmála.

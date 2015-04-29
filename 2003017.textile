@@ -7,7 +7,7 @@ h2. Lög um fyrirtækjaskrá
 <hr />
 
 
- *Tóku gildi 1. júlí 2003.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. júlí 2003.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 137/2013":/altext/stjt/2013.137.html (tóku gildi 1. jan. 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *iðnaðar- og viðskiptaráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -27,7 +27,8 @@ h2. Lög um fyrirtækjaskrá
     3. Stofnanir og fyrirtæki í eigu sveitarfélaga.
     4. Félög, samtök og aðila, aðra en einstaklinga, sem hafa með höndum eignaumsýslu, eru skattskyldir eða bera aðrar skattalegar skyldur.
     5. Aðra starfsemi sem ríkisskattstjóri sér ástæðu til að skrá í fyrirtækjaskrá.
- ■ *3. gr.* Í fyrirtækjaskrá skal halda aðgreinanlegar skrár yfir hlutafélög, einkahlutafélög, samvinnufélög og sjálfseignarstofnanir sem stunda atvinnurekstur samkvæmt þeim lögum sem gilda um þessi félög og stofnanir.
+ ■ *3. gr.* Í fyrirtækjaskrá skal halda aðgreinanlegar skrár yfir hlutafélög, einkahlutafélög, samvinnufélög, [sameignarfélög, samlagsfélög, firmu eins manns][^1)^] og sjálfseignarstofnanir sem stunda atvinnurekstur samkvæmt þeim lögum sem gilda um þessi félög og stofnanir.
+    _[^1)^]"L. 137/2013, 4. gr.":/altext/stjt/2013.137.html_
  ■ *4. gr.* Í fyrirtækjaskrá skal skrá eftirfarandi upplýsingar eftir því sem við á:
     1. Heiti.
     2. Kennitölu.

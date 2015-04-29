@@ -7,7 +7,7 @@ h2. Lög um greiðslu kostnaðar við rekstur umboðsmanns skuldara
 <hr />
 
 
- *Tóku gildi 1. janúar 2012.* _Breytt með_ "l. 127/2012":/altext/stjt/2012.127.html (tóku gildi 1. jan. 2013).
+ *Tóku gildi 1. janúar 2012.* _Breytt með_ "l. 127/2012":/altext/stjt/2012.127.html (tóku gildi 1. jan. 2013) og "l. 140/2013":/altext/stjt/2013.140.html (tóku gildi 31. des. 2013 nema 1. - 2., 4. - 12., 16. - 18., 23. - 29., 31. - 32., 34. - 38. og 40. - 48. gr. sem tóku gildi 1. jan. 2014 og 21. gr. sem tekur gildi 1. jan. 2016; komu til framkvæmda skv. fyrirmælum í 49. gr.).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *félags- og húsnæðismálaráðherra* eða *velferðarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -19,11 +19,13 @@ h2. Lög um greiðslu kostnaðar við rekstur umboðsmanns skuldara
  □ Útibú erlendra lánastofnana hér á landi skulu jafnframt greiða gjald samkvæmt lögum þessum.
  □ Útlán hjá dótturfélagi gjaldskylds aðila skulu teljast með útlánum hjá móðurfélagi enda sé dótturfélagið ekki gjaldskyldur aðili.
  □ Lánasjóður sveitarfélaga og Byggðastofnun skulu undanskilin gjaldskyldu samkvæmt lögum þessum.
- □ Gjaldið skal renna til reksturs umboðsmanns skuldara.
+ □ Gjaldið skal renna til reksturs umboðsmanns skuldara [og greiðslu fjárhagsaðstoðar til greiðslu tryggingar fyrir kostnaði vegna gjaldþrotaskipta].[^1)^]
+    _[^1)^]"L. 140/2013, 17. gr.":/altext/stjt/2013.140.html_
  ■ *2. gr.* _Skýrsla um álagningu næsta árs._
- □ Fyrir 1. júlí ár hvert skal umboðsmaður skuldara gefa ráðherra skýrslu um áætlaðan rekstrarkostnað næsta almanaksárs. Í skýrslunni skulu jafnframt koma fram upplýsingar um það hlutfall sem gjaldskyldir aðilar skulu greiða af álagningarstofni skv. 5. gr., auk þess sem lagt skal mat á þróun starfseminnar undangengin þrjú almanaksár.
+ □ Fyrir 1. júlí ár hvert skal umboðsmaður skuldara gefa ráðherra skýrslu um áætlaðan rekstrarkostnað næsta almanaksárs [og áætlaðan kostnað vegna fjárhagsaðstoðar til greiðslu tryggingar fyrir kostnaði vegna gjaldþrotaskipta].[^1)^] Í skýrslunni skulu jafnframt koma fram upplýsingar um það hlutfall sem gjaldskyldir aðilar skulu greiða af álagningarstofni skv. 5. gr., auk þess sem lagt skal mat á þróun starfseminnar undangengin þrjú almanaksár.
  □ Skýrslu umboðsmanns skuldara til ráðherra skal fylgja álit samráðsnefndar gjaldskyldra aðila skv. 3. gr. ásamt afstöðu stofnunarinnar til þess álits. Til að samráðsnefndin geti gefið álit sitt skal umboðsmaður skuldara eigi síðar en 1. júní ár hvert láta henni í té drög að skýrslu. Samráðsnefndin skal skila umboðsmanni skuldara áliti um skýrsluna eigi síðar en 14. júní ár hvert.
  □ Ef niðurstaða skýrslunnar gefur tilefni til að breyta hundraðshluta gjalds skal ráðherra, telji hann þörf á breytingum, leggja frumvarp fyrir Alþingi þar sem lögð er til breyting gjalds skv. 5. gr. sem ráðherra telur nauðsynlega í ljósi fyrirliggjandi gagna.
+    _[^1)^]"L. 140/2013, 16. gr.":/altext/stjt/2013.140.html_
  ■ *3. gr.* _Samráðsnefnd gjaldskyldra aðila._
  □ Ráðherra skipar fjögurra manna samráðsnefnd gjaldskyldra aðila samkvæmt tilnefningum til þriggja ára í senn. Íbúðalánasjóður skal tilnefna einn fulltrúa, Landssamtök lífeyrissjóða einn fulltrúa og Samtök fjármálafyrirtækja tvo. Nefndin velur sér formann og skal tilkynna ráðherra og umboðsmanni skuldara um formann nefndarinnar og aðsetur.
  □ Hlutverk samráðsnefndarinnar er að fjalla um skýrslu umboðsmanns skuldara skv. 2. gr. og skila áliti um skýrsluna til umboðsmanns skuldara.
@@ -33,9 +35,9 @@ h2. Lög um greiðslu kostnaðar við rekstur umboðsmanns skuldara
  □ Hafi tveir eða fleiri gjaldskyldir aðilar sameinast er álagningarstofn gjalds hins sameinaða aðila samanlögð útlán þessara aðila fyrir almanaksárið á undan því ári sem skýrsla umboðsmanns skuldara skv. 2. gr. er unnin. Sama á við um samruna gjaldskylds aðila við annað félag eða einstaka rekstrarhluta þess eða yfirtöku félags á gjaldskyldum aðila.
  □ Fjármálaeftirlitið skal veita umboðsmanni skuldara upplýsingar sem nauðsynlegar eru við framkvæmd laga þessara.
  ■ *5. gr.* _Álagt gjald._
- □ Gjaldskyldir aðilar skulu greiða gjald sem nemur [0,0343%][^1)^] af álagningarstofni skv. 4. gr.
+ □ Gjaldskyldir aðilar skulu greiða gjald sem nemur [0,0212%][^1)^] af álagningarstofni skv. 4. gr.
  □ Gjaldskyldur aðili er undanþeginn greiðslu á því ári sem hann hefur starfsemi. Árið eftir að gjaldskyldur aðili hefur starfsemi skal miða álagningu við greiðslu á 500.000 kr. hafi hann veitt lán á almanaksárinu á undan.
-    _[^1)^]"L. 127/2012, 1. gr.":/altext/stjt/2012.127.html_
+    _[^1)^]"L. 140/2013, 18. gr.":/altext/stjt/2013.140.html_
  ■ *6. gr.* _Framkvæmd álagningar og innheimtu._
  □ Álagning gjalds samkvæmt lögum þessum skal fara fram eigi síðar en 15. janúar ár hvert.
  □ Sá sem annast innheimtu gjalds samkvæmt lögum þessum skal gera gjaldskyldum aðilum grein fyrir álagningunni með bréfi.

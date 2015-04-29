@@ -25,10 +25,10 @@ h2. Lög um ábyrgðarmenn
  □ Lög þessi gilda um framsalshafa eftir því sem við á.
 
  *II. kafli.* *Stofnun, efni og form ábyrgðarsamninga.*
- ■ *4. gr.* Lánveitandi skal meta hæfi lántaka til að standa í skilum með lán þar sem ábyrgðarmaður gengst í ábyrgð til tryggingar efndum lántaka. Greiðslumat skal byggt á viðurkenndum viðmiðum. [Ráðherra][^1)^] er heimilt að setja reglugerð um framkvæmd greiðslumats.
+ ■ *4. gr.* Lánveitandi skal meta hæfi lántaka til að standa í skilum með lán þar sem ábyrgðarmaður gengst í ábyrgð til tryggingar efndum lántaka. Greiðslumat skal byggt á viðurkenndum viðmiðum. [Ráðherra][^1)^] er heimilt að setja reglugerð[^2)^] um framkvæmd greiðslumats.
  □ Lánveitandi skal með skriflegum hætti ráða ábyrgðarmanni frá því að gangast í ábyrgð ef greiðslumat bendir til þess að lántaki geti ekki efnt skuldbindingar sínar.
  □ Með sama hætti skal lánveitandi ráða ábyrgðarmanni frá því að undirgangast ábyrgð ef aðstæður ábyrgðarmanns gefa tilefni til.
-    _[^1)^]"L. 126/2011, 505. gr.":/altext/stjt/2011.126.html_
+    _[^1)^]"L. 126/2011, 505. gr.":/altext/stjt/2011.126.html [^2)^]"Rg. 920/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/920-2013._
  ■ *5. gr.* Fyrir gerð ábyrgðarsamnings skal lánveitandi upplýsa ábyrgðarmann skriflega um þá áhættu sem ábyrgð er samfara. Í því felst meðal annars að veita upplýsingar um:
     a. almennar reglur sem um ábyrgðir gilda, þ.m.t. um muninn á sjálfskuldarábyrgð og einfaldri ábyrgð,
     b. greiðslugetu lántaka,

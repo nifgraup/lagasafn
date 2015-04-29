@@ -7,7 +7,7 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
 <hr />
 
 
- *Tóku gildi 16. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 2000/31/EB. _Breytt með_ "l. 62/2005":/altext/stjt/2005.062.html (tóku gildi 1. júlí 2005), "l. 108/2006":/altext/stjt/2006.108.html (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), "l. 34/2007":/altext/stjt/2007.034.html (tóku gildi 30. mars 2007), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 16. apríl 2002.* _EES-samningurinn:_ XI. viðauki tilskipun 2000/31/EB. _Breytt með_ "l. 62/2005":/altext/stjt/2005.062.html (tóku gildi 1. júlí 2005), "l. 108/2006":/altext/stjt/2006.108.html (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), "l. 34/2007":/altext/stjt/2007.034.html (tóku gildi 30. mars 2007), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 125/2013":/altext/stjt/2013.125.html (tóku gildi 31. des. 2013).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *iðnaðar- og viðskiptaráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -145,10 +145,10 @@ h2. Lög um rafræn viðskipti og aðra rafræna þjónustu
  *VI. kafli.* *Ýmis ákvæði.*
  ■ *19. gr.* _Eftirlit._
  □ [Neytendastofa][^1)^] hefur eftirlit með að farið sé eftir 6. - 7. gr. og 9. - 11. gr. laga þessara. Ef brotið er gegn ákvæðum þessum gilda ákvæði [laga um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðarins][^1)^] um úrræði [Neytendastofu],[^1)^] stjórnvaldssektir og málsmeðferð.
- □ [Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um Neytendastofu og talsmann neytenda.
+ □ [Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. [laga um Neytendastofu].[^2)^]
  □ Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður áfrýjunarnefndar neytendamála liggur fyrir.
- □ Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.][^2)^]
-    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13 [^2)^]"L. 34/2007, 6. gr.":/altext/stjt/2007.034.html_
+ □ Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.][^3)^]
+    _[^1)^]"L. 62/2005, 13. gr.":/altext/stjt/2005.062.html#G13 [^2)^]"L. 125/2013, 6. gr.":/altext/stjt/2013.125.html [^3)^]"L. 34/2007, 6. gr.":/altext/stjt/2007.034.html_
  ■ *20. gr.* _Tengiliður._
  □ [Ráðuneytið][^1)^] skal vera tengiliður vegna samstarfs við önnur aðildarríki á Evrópska efnahagssvæðinu um rafræn viðskipti. Þá skal [ráðuneytið][^1)^] vera tengiliður þar sem þjónustuþegar og þjónustuveitendur geta aflað sér almennra upplýsinga um rafræna þjónustu, þar á meðal um samningsréttindi og samningsskyldur, úrræði í deilumálum og upplýsingar um stjórnvöld, samtök eða stofnanir sem geta veitt frekari upplýsingar. Ráðuneytið getur falið öðrum aðilum að vera tengiliður samkvæmt ákvæði þessu eftir nánari reglum sem ráðherra setur.
     _[^1)^]"L. 126/2011, 340. gr.":/altext/stjt/2011.126.html_

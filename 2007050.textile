@@ -7,7 +7,7 @@ h2. Lög um sameignarfélög
 <hr />
 
 
- *Tóku gildi 1. janúar 2008.* _Breytt með_ "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 49/2011":/altext/stjt/2011.049.html (tóku gildi 1. jan. 2012 nema a-liður 3. gr. og 4. gr. sem tóku gildi 1. sept. 2013) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. janúar 2008.* _Breytt með_ "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 49/2011":/altext/stjt/2011.049.html (tóku gildi 1. jan. 2012 nema a-liður 3. gr. og 4. gr. sem tóku gildi 1. sept. 2013), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 137/2013":/altext/stjt/2013.137.html (tóku gildi 1. jan. 2014).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *iðnaðar- og viðskiptaráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -188,7 +188,8 @@ h2. Lög um sameignarfélög
  *VI. kafli.* *Félagsslit og skipti.*
  ■ *37. gr.* _Félagsslit þegar aðeins einn félagsmaður er eftir._
  □ Verði félagsmenn í óskráðu sameignarfélagi færri en tveir telst félaginu þegar slitið.
- □ Hafi félagsmenn í skráðu sameignarfélagi verið færri en tveir í sex mánuði telst félaginu slitið. Skal sýslumaður þá afskrá félagið.
+ □ Hafi félagsmenn í skráðu sameignarfélagi verið færri en tveir í sex mánuði telst félaginu slitið. Skal [fyrirtækjaskrá][^1)^] þá afskrá félagið.
+    _[^1)^]"L. 137/2013, 2. gr.":/altext/stjt/2013.137.html_
  ■ *38. gr.* _Ákvarðanir um félagsslit._
  □ Félagsmaður getur krafist þess að félagsfundur slíti félaginu strax:
     a. hafi verið brotið gegn réttindum hans með verulegri vanefnd á félagssamningi og úrsögn skv. 32. gr. telst ekki sanngjarnt úrræði fyrir hann;
@@ -228,15 +229,16 @@ h2. Lög um sameignarfélög
 
  *VIII. kafli.* *Skráning.*
  ■ *45. gr.* _Skráning sameignarfélaga í firmaskrá._
- □ Sýslumenn skrá sameignarfélög í firmaskrá í samræmi við firmalög. Tilkynningu til firmaskrár skulu fylgja tilskilin fylgiskjöl ásamt skráningar- og birtingargjöldum.
- □ Sameignarfélag, sem stundar atvinnurekstur, skal tilkynnt til skráningar í firmaskrá í umdæmi sýslumanns þar sem heimilisfang félagsins er áður en atvinnureksturinn hefst.
+ □ [Fyrirtækjaskrá skráir][^1)^] sameignarfélög í firmaskrá í samræmi við firmalög. Tilkynningu til firmaskrár skulu fylgja tilskilin fylgiskjöl ásamt skráningar- og birtingargjöldum.
+ □ Sameignarfélag, sem stundar atvinnurekstur, skal tilkynnt til skráningar í firmaskrá ...[^1)^] áður en atvinnureksturinn hefst.
  □ Sameignarfélag telst stunda atvinnurekstur ef það:
     1. hefur tekjur af sölu á vörum og þjónustu og þvíumlíku eða stundar starfsemi sem er í meginatriðum hliðstæð starfsemi annarra félaga eða einstaklinga í atvinnurekstri;
     2. fer með meiri hluta atkvæða í félagi sem stundar atvinnurekstur eða fer með öðrum hætti með sambærileg yfirráð í því.
- □ Sameignarfélag, þar sem allir félagsmenn eru lögaðilar, skal tilkynnt til skráningar í firmaskrá í umdæmi sýslumanns þar sem heimilisfang félagsins er áður en það hefur starfsemi.
+ □ Sameignarfélag, þar sem allir félagsmenn eru lögaðilar, skal tilkynnt til skráningar í firmaskrá ...[^1)^] áður en það hefur starfsemi.
  □ Krefjast má fyrir hönd félagsins skráningar sameignarfélags í firmaskrá þótt það stundi ekki atvinnurekstur enda uppfylli félagið að öðru leyti skilyrði laganna fyrir skráningu.
- □ Sýslumaður eða ráðherra ákveður að tilkynningar megi vera á rafrænu formi.
+ □ [Fyrirtækjaskrá][^1)^] eða ráðherra ákveður að tilkynningar megi vera á rafrænu formi.
  □ Ráðherra er heimilt að setja með reglugerð nánari ákvæði um skráningu sameignarfélaga, þ.m.t. um skipulag skráningarinnar, rekstur firmaskrár, aðgang að skránni og gjaldtöku, m.a. fyrir útgáfu vottorða og afnot af þeim upplýsingum sem firmaskrá hefur á rafrænu formi.
+    _[^1)^]"L. 137/2013, 3. gr.":/altext/stjt/2013.137.html_
  ■ *46. gr.* _Tilkynning um stofnun sameignarfélags._
  □ Tilkynning um stofnun sameignarfélags skal greina:
     1. heiti félagsins;
