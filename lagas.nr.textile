@@ -2,11 +2,11 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 
 <hr />
 
-Íslensk lög 1. maí 2013 (útgáfa 141b).
+Íslensk lög 1. október 2013 (útgáfa 142).
 
 
 
-* "2013 nr. 66 23. apríl":2013066.html Forsetaúrskurður um skiptingu stjórnarmálefna milli ráðuneyta í Stjórnarráði Íslands
+* "2013 nr. 71 24. maí":2013071.html Forsetaúrskurður um skiptingu stjórnarmálefna milli ráðuneyta í Stjórnarráði Íslands
 * "2013 nr. 61 8. apríl":2013061.html Efnalög
 * "2013 nr. 60 10. apríl":2013060.html Lög um náttúruvernd
 * "2013 nr. 55 8. apríl":2013055.html Lög um velferð dýra
@@ -23,7 +23,7 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "2012 nr. 150 28. desember":2012150.html Bókasafnalög
 * "2012 nr. 140 28. desember":2012140.html Upplýsingalög
 * "2012 nr. 120 30. nóvember":2012120.html Lög um Vegagerðina, framkvæmdastofnun samgöngumála
-* "2012 nr. 119 30. nóvember":2012119.html Lög um Farsýsluna, stjórnsýslustofnun samgöngumála
+* "2012 nr. 119 30. nóvember":2012119.html Lög um Samgöngustofu, stjórnsýslustofnun samgöngumála
 * "2012 nr. 116 23. nóvember":2012116.html Lög um málefni innflytjenda
 * "2012 nr. 99 30. ágúst":2012099.html Forsetaúrskurður um skiptingu Stjórnarráðs Íslands í ráðuneyti
 * "2012 nr. 80 29. júní":2012080.html Lög um menningarminjar
@@ -79,7 +79,7 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "2010 nr. 91 25. júní":2010091.html Lög um framkvæmd þjóðaratkvæðagreiðslna
 * "2010 nr. 77 25. júní":2010077.html Lög um sameiningu Þjóðskrár og Fasteignaskrár Íslands
 * "2010 nr. 67 22. júní":2010067.html Lög um heimild fjármálafyrirtækis til að veita veðréttindi í tengslum við uppgjör vegna ráðstöfunar Fjármálaeftirlitsins á eignum og skuldum vegna sérstakra aðstæðna á fjármálamarkaði
-* "2010 nr. 64 22. júní":2010064.html Lög um stofnun opinbers hlutafélags um byggingu nýs Landspítala við Hringbraut í Reykjavík
+* "2010 nr. 64 22. júní":2010064.html Lög um byggingu nýs Landspítala við Hringbraut í Reykjavík
 * "2010 nr. 58 14. júní":2010058.html Lög um eftirlit með þjónustu og hlutum sem geta haft hernaðarlega þýðingu
 * "2010 nr. 57 14. júní":2010057.html Lög um heimild til samninga um gagnaver í Reykjanesbæ
 * "2010 nr. 56 10. júní":2010056.html Lög um vátryggingastarfsemi
@@ -189,7 +189,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "2006 nr. 105 14. júní":2006105.html Lög um umhverfismat áætlana
 * "2006 nr. 103 14. júní":2006103.html Lög um landmælingar og grunnkortagerð
 * "2006 nr. 102 13. júní":2006102.html Lög um stofnun hlutafélags um flugleiðsöguþjónustu og flugvallarekstur Flugmálastjórnar Íslands
-* "2006 nr. 100 13. júní":2006100.html Lög um Flugmálastjórn Íslands
 * "2006 nr. 95 13. júní":2006095.html Lög um landshlutaverkefni í skógrækt
 * "2006 nr. 92 14. júní":2006092.html Lög um evrópsk samvinnufélög
 * "2006 nr. 91 14. júní":2006091.html Lög um mælingar, mæligrunna og vigtarmenn
@@ -236,7 +235,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "2005 nr. 33 11. maí":2005033.html Lög um fjarsölu á fjármálaþjónustu
 * "2005 nr. 32 11. maí":2005032.html Lög um miðlun vátrygginga
 * "2005 nr. 25 22. mars":2005025.html Lög um sölu kristfjárjarðarinnar Utanverðuness í Sveitarfélaginu Skagafirði
-* "2005 nr. 24 21. mars":2005024.html Lög um rannsóknarnefnd umferðarslysa
 * "2005 nr. 15 10. mars":2005015.html Lög um Stjórnartíðindi og Lögbirtingablað
 * "2005 nr. 13 16. mars":2005013.html Lög um stofnun einkahlutafélags um Orkuveitu Húsavíkur
 * "2005 nr. 8 15. febrúar":2005008.html Lög um þriðju kynslóð farsíma
@@ -255,7 +253,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "2004 nr. 66 7. júní":2004066.html Lög um lögfestingu Norðurlandasamnings um almannatryggingar
 * "2004 nr. 50 25. maí":2004050.html Lög um siglingavernd
 * "2004 nr. 47 1. júní":2004047.html Lög um þjóðgarðinn á Þingvöllum
-* "2004 nr. 35 7. maí":2004035.html Lög um rannsókn flugslysa
 * "2004 nr. 33 7. maí":2004033.html Lög um varnir gegn mengun hafs og stranda
 * "2004 nr. 32 7. maí":2004032.html Lög um vatnsveitur sveitarfélaga
 * "2004 nr. 31 7. maí":2004031.html Lög um hækkun útlánaramma Norræna fjárfestingarbankans vegna norrænna fjárfestingarlána til verkefna utan Norðurlanda (PIL)
@@ -350,7 +347,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "2000 nr. 77 23. maí":2000077.html Lög um persónuvernd og meðferð persónuupplýsinga
 * "2000 nr. 75 23. maí":2000075.html Lög um brunavarnir
 * "2000 nr. 72 20. maí":2000072.html Lög um jöfnunargjald vegna alþjónustu árið 2000
-* "2000 nr. 68 20. maí":2000068.html Lög um rannsókn sjóslysa
 * "2000 nr. 64 20. maí":2000064.html Lög um bílaleigur
 * "2000 nr. 63 19. maí":2000063.html Lög um hópuppsagnir
 * "2000 nr. 58 19. maí":2000058.html Lög um yrkisrétt
@@ -374,7 +370,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "1999 nr. 98 27. desember":1999098.html Lög um innstæðutryggingar og tryggingakerfi fyrir fjárfesta
 * "1999 nr. 90 30. nóvember":1999090.html Lög um öryggi fyrirmæla í greiðslukerfum og verðbréfauppgjörskerfum
 * "1999 nr. 61 22. mars":1999061.html Lög um evrópsk samstarfsráð í fyrirtækjum
-* "1999 nr. 57 19. mars":1999057.html Lög um búnaðarfræðslu
 * "1999 nr. 44 22. mars":1999044.html Lög um náttúruvernd
 * "1999 nr. 43 22. mars":1999043.html Lög um tímabundnar endurgreiðslur vegna kvikmyndagerðar á Íslandi
 * "1999 nr. 33 19. mars":1999033.html Lög um sjálfseignarstofnanir sem stunda atvinnurekstur
@@ -462,7 +457,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "1996 nr. 18 2. apríl":1996018.html Lög um erfðabreyttar lífverur
 * "1996 nr. 14 11. mars":1996014.html Lög um flutninga á skipgengum vatnaleiðum vegna aðildar Íslands að Evrópska efnahagssvæðinu
 * "1996 nr. 8 11. mars":1996008.html Lög um löggildingu nokkurra starfsheita sérfræðinga í tækni- og hönnunargreinum
-* "1996 nr. 6 19. mars":1996006.html Lög um Siglingastofnun Íslands
 * "1995 nr. 160 27. desember":1995160.html Lög um viðurkenningu og fullnustu erlendra ákvarðana um forsjá barna, afhendingu brottnuminna barna o.fl.
 * "1995 nr. 155 29. desember":1995155.html Lög um lagagildi viðaukasamnings milli ríkisstjórnar Íslands og Alusuisse-Lonza Holding Ltd. um álbræðslu við Straumsvík
 * "1995 nr. 134 22. desember":1995134.html Lög um öryggi vöru og opinbera markaðsgæslu
@@ -470,7 +464,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "1995 nr. 93 28. júní":1995093.html Lög um matvæli
 * "1995 nr. 88 28. júní":1995088.html Lög um þingfararkaup alþingismanna og þingfararkostnað
 * "1995 nr. 69 10. mars":1995069.html Lög um greiðslu ríkissjóðs á bótum til þolenda afbrota
-* "1995 nr. 68 10. mars":1995068.html Lög um Lúganósamninginn um dómsvald og um fullnustu dóma í einkamálum
 * "1995 nr. 54 8. mars":1995054.html Lög um vernd Breiðafjarðar
 * "1995 nr. 53 8. mars":1995053.html Lög um stuðning við framkvæmdir sveitarfélaga í fráveitumálum
 * "1995 nr. 51 7. mars":1995051.html Lög um greiðslur Atvinnuleysistryggingasjóðs vegna fiskvinnslufólks
@@ -682,7 +675,6 @@ h1. !althlit.gif(Alþingishúsið)!Lagasafn raðað í tímaröð (nýjast efst)
 * "1981 nr. 51 29. maí":1981051.html Lög um varnir gegn sjúkdómum og meindýrum á plöntum
 * "1981 nr. 44 26. maí":1981044.html Lög um horfna menn
 * "1981 nr. 32 26. maí":1981032.html Lög um lagningu sjálfvirks síma
-* "1981 nr. 29 26. maí":1981029.html Lög um tilraunastöð Búnaðarsambands Suðurlands og Landbúnaðarháskóla Íslands að Stóra-Ármóti
 * "1981 nr. 27 25. maí":1981027.html Lög um rétt manna til að kalla sig viðskiptafræðinga eða hagfræðinga
 * "1980 nr. 102 31. desember":1980102.html Lög um Grænlandssjóð
 * "1980 nr. 94 31. desember":1980094.html Lög um heimild fyrir ríkisstjórnina til þess að fullgilda fyrir Íslands hönd samning milli Íslands, Danmerkur, Finnlands, Noregs og Svíþjóðar um gagnkvæma aðstoð í tollamálum

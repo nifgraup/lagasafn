@@ -7,9 +7,9 @@ h2. Lög um verðbréfaviðskipti
 <hr />
 
 
- *Tóku gildi 1. nóvember 2007.* _EES-samningurinn:_ IX. viðauki tilskipun 89/298/EBE, 89/592/EBE, 2001/34/EB, 2003/6/EB, 2003/71/EB, 2003/124/EB og 2003/125/EB, reglugerð 2273/2003, tilskipun 2004/25/EB, 2004/39/EB, 2004/72/EB og 2004/109/EB. _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 96/2008":/altext/stjt/2008.096.html (tóku gildi 24. júní 2008), "l. 20/2009":/altext/stjt/2009.020.html (tóku gildi 27. mars 2009), "l. 22/2009":/altext/stjt/2009.022.html (tóku gildi 27. mars 2009), "l. 65/2010":/altext/stjt/2010.065.html (tóku gildi 27. júní 2010), "l. 141/2010":/altext/stjt/2010.141.html (tóku gildi 29. des. 2010) og "l. 48/2013":/altext/stjt/2013.048.html (tóku gildi 11. apríl 2013; _EES-samningurinn:_ IX. viðauki tilskipun 2003/71/EB og 2004/109/EB).
+ *Tóku gildi 1. nóvember 2007.* _EES-samningurinn:_ IX. viðauki tilskipun 89/298/EBE, 89/592/EBE, 2001/34/EB, 2003/6/EB, 2003/71/EB, 2003/124/EB og 2003/125/EB, reglugerð 2273/2003, tilskipun 2004/25/EB, 2004/39/EB, 2004/72/EB og 2004/109/EB. _Breytt með_ "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 96/2008":/altext/stjt/2008.096.html (tóku gildi 24. júní 2008), "l. 20/2009":/altext/stjt/2009.020.html (tóku gildi 27. mars 2009), "l. 22/2009":/altext/stjt/2009.022.html (tóku gildi 27. mars 2009), "l. 65/2010":/altext/stjt/2010.065.html (tóku gildi 27. júní 2010), "l. 141/2010":/altext/stjt/2010.141.html (tóku gildi 29. des. 2010) og "l. 48/2013":/altext/stjt/2013.048.html (tóku gildi 11. apríl 2013; _EES-samningurinn:_ IX. viðauki tilskipun 2003/71/EB og 2004/109/EB).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
 <hr />
 
@@ -394,7 +394,7 @@ h2. Lög um verðbréfaviðskipti
  □ [Fjármálafyrirtækjum ber að afhenda skrá yfir hæfa fjárfesta eins og þeir eru skilgreindir í 9. tölul. 43. gr. óski útgefandi þess í tengslum við útboð. Fjármálaeftirlitið hefur enn fremur heimild til að óska eftir skránni.][^1)^]
     _[^1)^]"L. 48/2013, 10. gr.":/altext/stjt/2013.048.html_
  ■ *54. gr.* _Reglugerð._
- □ [Ráðherra skal setja reglugerð um nánari framkvæmd þessa kafla. Hún skal m.a. hafa að geyma nánari upplýsingar um gerð, uppsetningu og innihald lýsinga, þ.m.t. grunnlýsinga, viðauka, endanlegra skilmála og samantektar, sem og um nákvæmt innihald og sérstakt snið lykilupplýsinga sem skulu settar fram í samantekt. Í henni skulu enn fremur koma fram ákvæði um m.a.:
+ □ [Ráðherra skal setja reglugerð[^1)^] um nánari framkvæmd þessa kafla. Hún skal m.a. hafa að geyma nánari upplýsingar um gerð, uppsetningu og innihald lýsinga, þ.m.t. grunnlýsinga, viðauka, endanlegra skilmála og samantektar, sem og um nákvæmt innihald og sérstakt snið lykilupplýsinga sem skulu settar fram í samantekt. Í henni skulu enn fremur koma fram ákvæði um m.a.:
     1. efni og upplýsingar í lýsingum, þ.m.t. framsetningu þeirra, og upplýsingar felldar inn með tilvísun,
     2. útboðstímabil,
     3. tilhögun við birtingu lýsinga,
@@ -410,8 +410,8 @@ h2. Lög um verðbréfaviðskipti
     13. skyldu eigenda hlutabréfa til að veita kauphöll upplýsingar, svo og hvenær veita megi undanþágur frá upplýsingaskyldunni,
     14. viðurkennda reikningsskilastaðla þriðju ríkja,
     15. upplýsingar í grunnlýsingu, t.d. varðandi undirliggjandi vísitölur verðbréfa.
- □ Að öðru leyti er ráðherra heimilt að setja ákvæði í reglugerð[^1)^] er samræmast ákvæðum tilskipunar 2003/71/EB og tilskipunar 2010/73/ESB um lýsingar og undirgerðir þeirra.][^2)^]
-    _[^1)^]"Rg. 243/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/243-2006, sbr. "169/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/169-2007, "324/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/324-2008 og "215/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/215-2010. [^2)^]"L. 48/2013, 11. gr.":/altext/stjt/2013.048.html_
+ □ Að öðru leyti er ráðherra heimilt að setja ákvæði í reglugerð[^2)^] er samræmast ákvæðum tilskipunar 2003/71/EB og tilskipunar 2010/73/ESB um lýsingar og undirgerðir þeirra.][^3)^]
+    _[^1)^]"Rg. 836/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/836-2013. "Rg. 837/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/837-2013. [^2)^]"Rg. 243/2006":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/243-2006, sbr. "169/2007":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/169-2007, "324/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/324-2008, "215/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/215-2010, "721/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/721-2013 og "722/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/722-2013. [^3)^]"L. 48/2013, 11. gr.":/altext/stjt/2013.048.html_
 
  *VII. kafli.* *Reglulegar upplýsingar útgefanda.*
  ■ *55. gr.* _Gildissvið._

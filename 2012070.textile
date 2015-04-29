@@ -1,16 +1,15 @@
 <hr />
 
-h2. Lög um loftslagsmál[^1)^]
+h2. Lög um loftslagsmál
 
 *2012 nr. 70 29. júní*
 
 <hr />
 
-   _[^1)^]Lögunum var breytt með "l. 59/2013, 40. gr.":/altext/stjt/2013.059.html Breytingarnar taka gildi 1. júlí 2013 skv. "44. gr. s.l.":/altext/stjt/2013.059.html_
 
- *Tóku gildi 3. júlí 2012.* _EES-samningurinn:_ XX. viðauki tilskipun 2003/87/EB, 2004/101/EB, 2008/101/EB og 2009/29/EB. _Breytt með_ "l. 141/2012":/altext/stjt/2012.141.html (tóku gildi 1. jan. 2013; _EES-samningurinn:_ reglugerð 1193/2011), "l. 157/2012":/altext/stjt/2012.157.html (tóku gildi 3. jan. 2013) og "l. 59/2013":/altext/stjt/2013.059.html (taka gildi 1. júlí 2013).
+ *Tóku gildi 3. júlí 2012.* _EES-samningurinn:_ XX. viðauki tilskipun 2003/87/EB, 2004/101/EB, 2008/101/EB og 2009/29/EB. _Breytt með_ "l. 141/2012":/altext/stjt/2012.141.html (tóku gildi 1. jan. 2013; _EES-samningurinn:_ reglugerð 1193/2011), "l. 157/2012":/altext/stjt/2012.157.html (tóku gildi 3. jan. 2013) og "l. 59/2013":/altext/stjt/2013.059.html (tóku gildi 1. júlí 2013).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *umhverfis- og auðlindaráðherra* eða *umhverfis- og auðlindaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *umhverfis- og auðlindaráðherra* eða *umhverfis- og auðlindaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
 <hr />
 
@@ -83,12 +82,12 @@ h2. Lög um loftslagsmál[^1)^]
     d. Landbúnaðarháskóli Íslands um landbúnað, landnotkun og breytta landnotkun.
     e. Matvælastofnun um fjölda og aldursskiptingu búfjár og áburðarnotkun.
     f. Hagstofa Íslands um innflutning og framleiðslu á vörum.
-    g. Umferðarstofa um skráningu, akstur, eldsneytiseyðslu og mengunarvarnabúnað ökutækja.
+    g. [Samgöngustofa][^1)^] um skráningu, akstur, eldsneytiseyðslu og mengunarvarnabúnað ökutækja.
     h. Úrvinnslusjóður um framleiðslu og innflutning á málningu og prentlitum.
     i. Tollstjóri um inn- og útflutning á vörum.
- □ Ráðherra ...[^1)^] skal að fengnum tillögum Umhverfisstofnunar setja reglugerð um skil á gögnum skv. 2. mgr., þar á meðal um form gagna og tímafresti.
+ □ Ráðherra ...[^2)^] skal að fengnum tillögum Umhverfisstofnunar setja reglugerð um skil á gögnum skv. 2. mgr., þar á meðal um form gagna og tímafresti.
  □ Umhverfisstofnun er heimilt að krefja stjórnvöld, stofnanir, fyrirtæki og einstaklinga í atvinnurekstri um gögn og upplýsingar sem þeir búa yfir varðandi starfsemi sína, rekstur og innflutning á vörum og stofnunin þarfnast vegna losunarbókhalds samkvæmt þessari grein. Umhverfisstofnun skal haga gagnasöfnun sinni á þann hátt að fyrirhöfn upplýsingagjafa við að láta í té gögn sé hófleg. Hún skal leitast við að afla gagna úr stjórnsýsluskrám og öðrum opinberum skrám og gagnasöfnum þegar því verður við komið. Skylt er að veita Umhverfisstofnun upplýsingarnar á því formi sem hún óskar eftir eða um semst og innan þeirra tímamarka sem reglugerð skv. 3. mgr. kveður á um án þess að gjald komi fyrir. Umhverfisstofnun skal upplýsa í hvaða tilgangi gagna er aflað.
-    _[^1)^]"L. 157/2012, 25. gr.":/altext/stjt/2012.157.html_
+    _[^1)^]"L. 59/2013, 40. gr.":/altext/stjt/2013.059.html [^2)^]"L. 157/2012, 25. gr.":/altext/stjt/2012.157.html_
 
  *IV. kafli.* *Losun gróðurhúsalofttegunda frá staðbundnum iðnaði og orkuframleiðslu.*
  ■ *7. gr.* _Viðskiptakerfi ESB með losunarheimildir._
@@ -112,7 +111,7 @@ h2. Lög um loftslagsmál[^1)^]
  □ Endurskoða skal losunarleyfi eigi sjaldnar en á fimm ára fresti og gera á því breytingar ef þess er þörf. Umhverfisstofnun er heimilt að endurskoða losunarleyfi oftar vegna breyttra forsendna, svo sem ef losun af völdum starfseminnar er meiri en búist var við þegar leyfið var gefið út, ef breytingar verða á rekstrinum sem varðað geta ákvæði losunarleyfis, vegna tækniþróunar eða vegna breytinga á lögum og reglugerðum er varða losunarleyfi. Endurskoða skal losunarleyfi ef verulegar breytingar verða á rekstri starfsstöðvar, svo sem ef starfsemi er lögð niður, tímabundið eða varanlega, eða [veruleg minnkun hefur orðið á framleiðslugetu].[^1)^] Umhverfisstofnun er heimilt að afturkalla losunarleyfi rekstraraðila ef forsendur þess bresta, svo sem ef endurskoðað mat á starfsemi rekstraraðila leiðir í ljós að starfsemin fellur ekki undir I. viðauka eða ef starfsemi er hætt.
  □ Stjórnvaldsákvarðanir Umhverfisstofnunar er varða losunarleyfi verða kærðar til úrskurðarnefndar um umhverfis- og auðlindamál. Um aðild, kærufrest, málsmeðferð og annað er varðar kæru til nefndarinnar fer samkvæmt lögum sem um hana gilda.
  □ Ráðherra skal setja í reglugerð[^2)^] nánari ákvæði um losunarleyfi, þ.m.t. um form og efni umsóknar og leyfis, breytingar á leyfi, handhöfn við aðilaskipti starfsemi, niðurfellingu leyfis þegar starfsemi er hætt eða forsendur leyfisins eru brostnar og málsmeðferð við veitingu leyfis. Í reglugerðinni skal mælt fyrir um hvað telst til verulegra breytinga á rekstri starfsstöðvar. Í reglugerðinni skal jafnframt gerð krafa um að vöktunaráætlun fylgi umsókn um losunarleyfi, sbr. 13. gr., og mælt fyrir um þau skilyrði sem hún þarf að uppfylla.
-    _[^1)^]"L. 141/2012, 3. gr.":/altext/stjt/2012.141.html [^2)^]"Rg. 70/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/070-2013._
+    _[^1)^]"L. 141/2012, 3. gr.":/altext/stjt/2012.141.html [^2)^]"Rg. 70/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/070-2013, sbr. "823/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/823-2013._
  ■ *9. gr.* _Skylda rekstraraðila til að standa skil á losunarheimildum._
  □ Rekstraraðilar sem stunda starfsemi sem getið er í I. viðauka skulu fyrir 30. apríl ár hvert standa skil á losunarheimildum vegna losunar gróðurhúsalofttegunda frá starfseminni á undangengnu almanaksári.
  □ Fjöldi losunarheimilda sem rekstraraðila ber að standa skil á skal jafngilda heildarlosun á þeim gróðurhúsalofttegundum sem getið er í I. viðauka samkvæmt vottaðri skýrslu rekstraraðila, sbr. 3. mgr. 13. gr., eða áætlun Umhverfisstofnunar, sbr. 4. mgr. 13. gr.
@@ -187,7 +186,7 @@ h2. Lög um loftslagsmál[^1)^]
  □ Ef ekkert af losun flugrekanda sem getið er í b-lið 1. mgr. tilheyrir Íslandi á fyrstu tveimur árum viðkomandi viðskiptatímabils skal flugrekandi frá og með næsta viðskiptatímabili heyra undir umsjón þess ríkis Evrópska efnahagssvæðisins sem stærstur hluti losunar flugrekandans tilheyrði á þessum tveimur árum.
  □ Ráðherra skal setja reglugerð[^1)^] um það hvaða flugrekendur heyra undir umsjón Íslands. Reglugerðin skal vera í samræmi við skrá sem gefin er út árlega af framkvæmdastjórn Evrópusambandsins um niðurröðun flugrekenda á umsjónarríki á Evrópska efnahagssvæðinu. Í reglugerðinni skal kveðið á um hvernig bregðast skuli við ef ekki er ljóst hvaða ríki telst umsjónarríki flugrekanda. Tilgreining flugrekanda eða skortur á tilgreiningu hans í skránni hefur ekki áhrif á það hvort flugrekandi heyri undir gildissvið þessara laga.
  □ Ef flugrekanda er ekki getið í skránni, sbr. 4. mgr., skal mat á því hvaða ríki losun tilheyrir byggjast á upplýsingum frá Evrópustofnun um öryggi flugleiðsögu (Eurocontrol). Í slíkum tilvikum skal Ísland þó aðeins teljast umsjónarríki flugrekanda að fenginni staðfestingu Umhverfisstofnunar.
-    _[^1)^]"Rg. 896/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/896-2012._
+    _[^1)^]"Rg. 896/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/896-2012, sbr. "782/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/782-2013._
  ■ *17. gr.* _Skylda flugrekenda til að standa skil á losunarheimildum._
  □ Flugrekendur sem stunda flugstarfsemi sem getið er í II. viðauka skulu fyrir 30. apríl ár hvert standa skil á losunarheimildum vegna losunar koldíoxíðs frá starfseminni á undangengnu almanaksári.
  □ Fjöldi losunarheimilda sem flugrekanda ber að standa skil á skal jafngilda heildarlosun á þeim gróðurhúsalofttegundum sem getið er í II. viðauka samkvæmt vottaðri skýrslu flugrekanda, sbr. 5. mgr. 21. gr., eða áætlun Umhverfisstofnunar, sbr. 6. mgr. 21. gr.
@@ -341,7 +340,7 @@ h2. Lög um loftslagsmál[^1)^]
  *VIII. kafli.* *Uppboð losunarheimilda.*
  ■ *28. gr.* _Uppboð losunarheimilda._
  □ Íslenska ríkið skal á hverju ári frá árinu [2012][^1)^] bjóða upp losunarheimildir í samræmi við heimildir sínar samkvæmt samningnum um Evrópska efnahagssvæðið. Heimildirnar skulu boðnar upp á sameiginlegum uppboðsvettvangi Evrópusambandsins samkvæmt samningi sem íslenska ríkið gerir við uppboðsvettvanginn. Ráðherra skal setja reglugerð[^2)^] um hve margar losunarheimildir verða boðnar upp af íslenska ríkinu og um tilhögun uppboðsins. [Í reglugerðinni skulu m.a. koma fram reglur um tíðni uppboða, skilyrði þess að mega leggja fram tilboð og lágmarksfjölda losunarheimilda sem boðið skal í hverju sinni.][^1)^]
-    _[^1)^]"L. 141/2012, 14. gr.":/altext/stjt/2012.141.html [^2)^]"Rg. 1066/2012":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1066-2012._
+    _[^1)^]"L. 141/2012, 14. gr.":/altext/stjt/2012.141.html [^2)^]"Rg. 525/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/525-2013._
 
  *IX. kafli.* *Loftslagssjóður.*
  ■ *29. gr.* _Hlutverk._

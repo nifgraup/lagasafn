@@ -8,8 +8,7 @@ h2. Efnalög
 
 
  *Tóku gildi 17. apríl 2013 nema 62. - 64. gr. sem taka gildi 1. janúar 2014.* _EES-samningurinn:_ II. viðauki tilskipun 98/8/EB, reglugerð 648/2004, II. og XX. viðauki reglugerð 842/2006, II. viðauki reglugerð 1907/2006, 1272/2008, XX. viðauki reglugerð 1005/2009, II. viðauki reglugerð 1107/2009, XX. viðauki tilskipun 2009/128/EB, II. viðauki reglugerð 1223/2009, tilskipun 2011/65/ESB.
-
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *umhverfis- og auðlindaráðherra* eða *umhverfis- og auðlindaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *umhverfis- og auðlindaráðherra* eða *umhverfis- og auðlindaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
 <hr />
 
@@ -121,7 +120,7 @@ h2. Efnalög
  ■ *11. gr.* _Reglugerðarheimild._
  □ Ráðherra skal, að fengnum tillögum Umhverfisstofnunar, setja í reglugerðir nánari ákvæði um framkvæmd laga þessara, þ.m.t. um:
     1. Skráningu, mat, leyfisveitingar og takmarkanir að því er varðar efni og efnablöndur, þ.m.t.:
-    a. frekari ákvæði um fyrirkomulag skráningar, tilkynningar, mat á efnum, skyldu til gerðar og endurmats öryggisskýrslu og öryggismats, og prófanir sem skal framkvæma í tengslum við skráningu, sbr. 22. gr.,
+    a. frekari ákvæði um fyrirkomulag skráningar, tilkynningar, mat á efnum, skyldu til gerðar og endurmats öryggisskýrslu og öryggismats, og prófanir sem skal framkvæma í tengslum við skráningu, sbr. 22. gr.,[^1)^]
     b. ákvæði sem eru nauðsynleg vegna aðildar Íslands að Efnastofnun Evrópu, þ.m.t. um skráningu, markaðsleyfi og gjaldtöku, sbr. 22. og 23. gr.,
     c. takmarkanir skv. 1. mgr. 26. gr. í samræmi við kröfur á Evrópska efnahagssvæðinu,
     d. hvaða efni flokkist sem sérlega varasöm og skuli háð markaðsleyfi, um leyfisumsókn, inntak leyfis, veitingu þess og staðfestingu Umhverfisstofnunar, sbr. 27. gr.,
@@ -130,7 +129,7 @@ h2. Efnalög
     a. flokkun eiturefna í undirflokka, þ.e. flokkun efna og efnablandna með flokkunina „bráð eiturhrif“ í tiltekna undirflokka,
     b. flokkun hættulegra efna, þ.e. flokkun efna og efnablandna sem flokkast sem hættuleg,
     c. hættuflokkun efna og efnablandna og mat til grundvallar hættuflokkun, sbr. 31. gr.,
-    d. hvaða nauðsynlegra gagna framleiðandi, innflytjandi og eftirnotandi skulu afla í samræmi við prófunaraðferðir, sbr. 31. gr.,
+    d. hvaða nauðsynlegra gagna framleiðandi, innflytjandi og eftirnotandi skulu afla í samræmi við prófunaraðferðir, sbr. 31. gr.,[^1)^]
     e. merkingar, m.a. hvað varðar hættuflokkun, um tungumál merkinga, stærð og gerð umbúða og upplýsingar á merkimiða, sbr. 32. gr.,
     f. merkingar, auglýsingar og umbúðir varnarefna, sbr. 38. gr.,
     g. tilkynningar, sbr. 31. gr.
@@ -145,9 +144,9 @@ h2. Efnalög
     h. bann við og takmörkun á notkun varnarefna á einstökum landsvæðum, sbr. 39. gr.,
     i. samþykki virkra efna, samverkandi efna, hjálparefna og eiturdeyfandi efna sem notuð eru í varnarefnum.
     4. Skyldur framleiðanda, innflytjanda eða dreifanda efna til að verða sér úti um upplýsingar um efna- og eðlisfræðilega eiginleika efnis ásamt upplýsingum um virkni þess, sbr. 14. gr.
-    5. Efnalista og prófunaraðferðir, þar sem heimilt er að vísa til erlendrar frumútgáfu efnalista og staðla sem teknir hafa verið upp í samninginn um Evrópska efnahagssvæðið og eru birtir á ensku í EES-viðbæti.
+    5. Efnalista og prófunaraðferðir, þar sem heimilt er að vísa til erlendrar frumútgáfu efnalista og staðla sem teknir hafa verið upp í samninginn um Evrópska efnahagssvæðið og eru birtir á ensku í EES-viðbæti.[^1)^]
     6. Tilvísun í staðla og kröfu til að fara eftir þeim.
-    7. Snyrtivörur, sbr. 40. gr., þ.m.t. um:
+    7. Snyrtivörur, sbr. 40. gr., þ.m.t. um:[^2)^]
     a. kröfur til ábyrgðaraðila og dreifenda,
     b. upplýsingaskrá um snyrtivöru sem er sett á markað,
     c. að tiltekin efni megi ekki nota í snyrtivörur eða verði aðeins leyfð með skilyrðum,
@@ -187,6 +186,7 @@ h2. Efnalög
     23. Magn og efnasamsetningu tiltekinna efna og efnablandna við innflutning og þar til gerð eyðublöð, sbr. 20. gr.
     24. Fjárhæð og beitingu stjórnvaldssekta, sbr. 62. gr.
  □ Þegar reglugerð, sem er fyrirhugað að setja, varðar skyldur og hlutverk sveitarfélaga eða atvinnulífs skal ráðherra áður en reglugerð er sett hafa samráð við Samband íslenskra sveitarfélaga og Samtök atvinnulífsins eftir því sem við á. Þá skal hafa samráð við aðra hagsmunaaðila eftir því sem við á hverju sinni.
+    _[^1)^]"Rg. 496/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/496-2013. [^2)^]"Rg. 577/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/577-2013._
 
  *IV. kafli.* *Almennar skyldur.*
  ■ *12. gr.* _Aðgæsluskylda._
@@ -415,14 +415,14 @@ h2. Efnalög
  □ Gjalddagi stjórnvaldssektar er 30 dögum eftir að ákvörðun um sektina var tekin. Hafi stjórnvaldssekt ekki verið greidd innan 15 daga frá gjalddaga skal greiða dráttarvexti af fjárhæð sektarinnar frá gjalddaga. Ákvörðun Umhverfisstofnunar um stjórnvaldssekt er aðfararhæf og renna sektir í ríkissjóð að frádregnum kostnaði við álagningu og innheimtu. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
  □ Stjórnvaldssektum skal beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.
  □ Aðili máls getur einungis skotið ákvörðun um stjórnvaldssekt til dómstóla. Málshöfðunarfrestur er þrír mánuðir frá því að ákvörðun var tekin. Málskot frestar aðför.
-    _[^1)^]Greinin tekur gildi 1. jan. 2014 skv. 70. gr._
+    _[^1)^]Greinin tekur gildi 1. jan. 2014 skv. "70. gr.":/altext/stjtnr.html#2013577?g70_
  ■ *63. gr.* _Réttur manna til að fella ekki á sig sök.[^1)^]_
  □ Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Umhverfisstofnun skal leiðbeina hinum grunaða um þennan rétt.
-    _[^1)^]Greinin tekur gildi 1. jan. 2014 skv. 70. gr._
+    _[^1)^]Greinin tekur gildi 1. jan. 2014 skv. "70. gr.":/altext/stjtnr.html#2013577?g70_
  ■ *64. gr.* _Fyrning.[^1)^]_
  □ Heimild Umhverfisstofnunar til að leggja á stjórnvaldssektir samkvæmt lögum þessum fellur niður þegar fimm ár eru liðin frá því að háttsemi lauk.
  □ Frestur skv. 1. mgr. rofnar þegar Umhverfisstofnun tilkynnir aðila um upphaf rannsóknar á meintu broti. Rof frests hefur réttaráhrif gagnvart öllum sem staðið hafa að broti.
-    _[^1)^]Greinin tekur gildi 1. jan. 2014 skv. 70. gr._
+    _[^1)^]Greinin tekur gildi 1. jan. 2014 skv. "70. gr.":/altext/stjtnr.html#2013577?g70_
  ■ *65. gr.* _Sektir eða fangelsi._
  □ Það varðar sektum eða fangelsi allt að tveimur árum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að brjóta gegn:
     1. Skráningarskyldu, sbr. 22. gr.

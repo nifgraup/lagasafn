@@ -1,16 +1,15 @@
 <hr />
 
-h2. Lög um lögskráningu sjómanna[^1)^]
+h2. Lög um lögskráningu sjómanna
 
 *2010 nr. 35 5. maí*
 
 <hr />
 
-   _[^1)^]Lögunum var breytt með "l. 59/2013, 37. gr.":/altext/stjt/2013.059.html Breytingarnar taka gildi 1. júlí 2013 skv. "44. gr. s.l.":/altext/stjt/2013.059.html_
 
- *Tóku gildi 1. nóvember 2010.* _Breytt með_ "l. 59/2013":/altext/stjt/2013.059.html (taka gildi 1. júlí 2013).
+ *Tóku gildi 1. nóvember 2010.* _Breytt með_ "l. 59/2013":/altext/stjt/2013.059.html (tóku gildi 1. júlí 2013).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
 <hr />
 
@@ -21,11 +20,12 @@ h2. Lög um lögskráningu sjómanna[^1)^]
  □ Lög þessi gilda um áhafnir allra skráningarskyldra skipa á Íslandi sem gerð eru út í atvinnuskyni að undanskildum þeim sem skráð eru á íslenska alþjóðlega skipaskrá.
  ■ *3. gr.* _Orðskýringar._
  □ Í lögum þessum er merking eftirfarandi hugtaka sem hér segir:
-    1. _Lögskráningarkerfi_ er rafrænn gagnagrunnur sem vistar upplýsingar um lögskráningar. Siglingastofnun Íslands rekur gagnagrunninn og veitir aðgang að honum til lögskráningar.
+    1. _Lögskráningarkerfi_ er rafrænn gagnagrunnur sem vistar upplýsingar um lögskráningar. [Samgöngustofa][^1)^] rekur gagnagrunninn og veitir aðgang að honum til lögskráningar.
     2. _Lögskráning_ er lögformleg skráning skipverja um borð í skipum í gegnum lögskráningarkerfið að uppfylltum skilyrðum 5. gr.
     3. _Skipverji_ er sá sem er ráðinn til starfa á skipi samkvæmt ákvæðum sjómannalaga.
     4. _Skírteini_ er skjal sem er í gildi og er staðfesting á atvinnuréttindum samkvæmt ákvæðum laga þessara.
     5. _Útgerðarmaður_ er sá sem mannar skip, ræður ferðum þess, ber kostnaðinn af þeim og nýtur arðsins af þeim.
+    _[^1)^]"L. 59/2013, 37. gr.":/altext/stjt/2013.059.html_
  ■ *4. gr.* _Lögskráningarskylda._
  □ Áður en haldið er úr höfn skal skipstjóri sjá til þess að allir skipverjar sem eru ráðnir til starfa um borð í skipi skráðu hér á landi séu lögskráðir í skiprúm.
  □ Óheimilt er að leggja skipi úr höfn nema allir skipverjar hafi verið lögskráðir í skiprúm. Þetta gildir þó ekki í neyðartilvikum.
@@ -39,8 +39,9 @@ h2. Lög um lögskráningu sjómanna[^1)^]
     3. Staðfesting á að skipverji hafi hlotið öryggisfræðslu í Slysavarnaskóla sjómanna eða á annan hátt.
     4. Yfirlýsing frá viðkomandi tryggingafélagi um líf- og slysatryggingu skipverja og skal skráningaraðili ganga úr skugga um að tryggingarnar séu í samræmi við gildandi lög og kjarasamninga. Nú vanrækir útgerðarmaður að hafa líf- og slysatryggingu í gildi og er hann þá ábyrgur fyrir viðkomandi bótagreiðslum. Reynist útgerðarmaður eigi fær um greiðslu slíkra bóta ber ríkissjóður fulla ábyrgð á greiðslu þeirra.
  ■ *6. gr.* _Gjöld._
- □ Greiða skal gjald til Siglingastofnunar Íslands fyrir aðgang að lögskráningarkerfinu. Þá skal greiða þeim sem falið er með reglugerð að annast lögskráningu gjald fyrir þau störf sem innt eru af hendi við framkvæmd lögskráningar samkvæmt lögum þessum. Skal kostnaður miðast við veitta þjónustu.
+ □ Greiða skal gjald til [Samgöngustofu][^1)^] fyrir aðgang að lögskráningarkerfinu. Þá skal greiða þeim sem falið er með reglugerð að annast lögskráningu gjald fyrir þau störf sem innt eru af hendi við framkvæmd lögskráningar samkvæmt lögum þessum. Skal kostnaður miðast við veitta þjónustu.
  □ Gjöld skulu ákvörðuð í gjaldskrá sem staðfest er af ráðherra og við ákvörðun gjalda skal leggja til grundvallar kostnað vegna launa starfsmanna og rekstrarkostnað vegna viðhalds og vistunar lögskráningarkerfisins.
+    _[^1)^]"L. 59/2013, 37. gr.":/altext/stjt/2013.059.html_
  ■ *7. gr.* _Reglugerðarheimild._
  □ Ráðherra er heimilt að setja í reglugerð[^1)^] nánari fyrirmæli um framkvæmd laga þessara, þ.m.t. um:
     a. nánari framkvæmd lögskráningar og skilyrði hennar,

@@ -7,9 +7,9 @@ h2. Stjórnsýslulög
 <hr />
 
 
- *Tóku gildi 1. janúar 1994.* _Breytt með_ "l. 36/1999":/altext/stjt/1999.036.html (tóku gildi 1. maí 1999), "l. 83/2000":/altext/stjt/2000.083.html (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001), "l. 49/2002":/altext/stjt/2002.049.html (tóku gildi 6. maí 2002), "l. 51/2003":/altext/stjt/2003.051.html (tóku gildi 7. apríl 2003), "l. 76/2003":2003076.html (tóku gildi 1. nóv. 2003), "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 140/2012":2012140.html (tóku gildi 1. jan. 2013).
+ *Tóku gildi 1. janúar 1994.* _Breytt með_ "l. 36/1999":/altext/stjt/1999.036.html (tóku gildi 1. maí 1999), "l. 83/2000":/altext/stjt/2000.083.html (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001), "l. 49/2002":/altext/stjt/2002.049.html (tóku gildi 6. maí 2002), "l. 51/2003":/altext/stjt/2003.051.html (tóku gildi 7. apríl 2003), "l. 76/2003":/altext/stjt/2003.076.html (tóku gildi 1. nóv. 2003), "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 140/2012":/altext/stjt/2012.140.html (tóku gildi 1. jan. 2013).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *forsætisráðherra* eða *forsætisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *forsætisráðherra* eða *forsætisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
 <hr />
 
@@ -100,8 +100,10 @@ h2. Stjórnsýslulög
  □ Þegar ákvörðun er tilkynnt skriflega án þess að henni fylgi rökstuðningur skal veita leiðbeiningar um:
     1. heimild aðila til þess að fá ákvörðun rökstudda,
     2. kæruheimild, þegar hún er fyrir hendi, kærufresti og kærugjöld, svo og hvert beina skuli kæru,
-    3. frest til þess að bera ákvörðun undir dómstóla ef slíkur frestur er lögákveðinn. Fylgi rökstuðningur ákvörðun þegar hún er tilkynnt skal veita leiðbeiningar skv. 2. og 3. tölul. 2. mgr.
+    3. frest til þess að bera ákvörðun undir dómstóla ef slíkur frestur er lögákveðinn.
+ □ Fylgi rökstuðningur ákvörðun þegar hún er tilkynnt skal veita leiðbeiningar skv. 2. og 3. tölul. 2. mgr.[^1)^]
  □ Ekki þarf þó að veita leiðbeiningar skv. 2. og 3. mgr. þegar ákvörðun er tilkynnt hafi umsókn aðila verið tekin til greina að öllu leyti.
+    _[^1)^]Í Stjtíð. A 1993 bls. 183 stendur málsliðurinn „Fylgi rökstuðningur ákvörðun þegar hún er tilkynnt skal veita leiðbeiningar skv. 2. og 3. tölul. 2. mgr.“ sem síðari málsliður 3. tölul. 2. mgr. 20. gr. Ef tekið er mið af tilvísunum í málsliðnum í 2. og 3. tölul. 2. mgr. og tilvísunum í 2. og 3. mgr. í lokamálsgrein greinarinnar, sem og af athugasemdum við 20. gr. frumvarps þess sem varð að "lögum nr. 37/1993":1993037.html (Alþtíð. 1992 - 93 A, bls. 3301) er augljóst að málsliðurinn á með réttu að vera 3. mgr. greinarinnar._
  ■ *21. gr.* _Hvenær veita skal rökstuðning._
  □ Aðili máls getur krafist þess að stjórnvald rökstyðji ákvörðun sína skriflega hafi slíkur rökstuðningur ekki fylgt ákvörðuninni þegar hún var tilkynnt.
  □ Ákvæði 1. mgr. gildir þó ekki ef:

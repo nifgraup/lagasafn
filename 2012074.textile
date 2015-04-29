@@ -7,8 +7,9 @@ h2. Lög um veiðigjöld
 <hr />
 
 
- *Tóku gildi 5. júlí 2012.*
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *atvinnuvega- og nýsköpunarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
+ *Tóku gildi 5. júlí 2012.* _Breytt með_ "l. 84/2013":/altext/stjt/2013.084.html (tóku gildi 12. júlí 2013).
+
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *sjávarútvegs- og landbúnaðarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
 <hr />
 
@@ -77,12 +78,13 @@ h2. Lög um veiðigjöld
  □ Álagning vegna aflamarks fer fram við úthlutun þess á hverju fiskveiðiári. Álagning á landaðan afla skal fara fram 31. ágúst ár hvert vegna afla sem landað var frá 1. ágúst næstliðins árs til 31. júlí á álagningarárinu. Fiskistofa tilkynnir gjaldskyldum aðilum álagningu á þá.
  ■ *14. gr* _Innheimta veiðigjalda._
  □ Fiskistofa innheimtir veiðigjöld. Ráðherra er þó heimilt að fela innheimtumönnum ríkissjóðs eða öðrum aðilum innheimtu þeirra.
- □ Gjöld vegna aflamarks sem úthlutað er 1. september falla í gjalddaga með fjórum jöfnum greiðslum ár hvert, þ.e. 1. október sama árs, 1. janúar, 1. apríl og 1. júlí næsta árs. Taki úthlutun aflamarks gildi á tímabilinu 2. september til 31. ágúst er gjalddagi við útgáfu tilkynningar um úthlutað aflamark.
+ □ Gjöld vegna aflamarks sem úthlutað er 1. september falla í gjalddaga með fjórum jöfnum greiðslum ár hvert, þ.e. 1. október sama árs, 1. janúar, 1. apríl og 1. júlí næsta árs. Taki úthlutun aflamarks gildi á tímabilinu 2. september til 31. ágúst er gjalddagi við útgáfu tilkynningar um úthlutað aflamark. [Þegar umtalsverður tími líður frá úthlutun þar til veiðar fara fram á viðkomandi tegund er ráðherra þó heimilt að ákveða aðra gjalddaga. Síðasti gjalddagi skal þó eigi vera síðar en 1. júlí.][^1)^]
  □ Gjalddagi veiðigjalda á landaðan afla einstakra tegunda sem ekki eru háðar aflamarki og á afla sem veiddur er við strandveiðar er 1. október á því ári sem fiskveiðiári lýkur.
  □ Eindagi skv. 2. og 3. mgr. er 15 dögum eftir gjalddaga. Ef gjald er ekki greitt á eindaga reiknast dráttarvextir af fjárhæð gjalds frá gjalddaga til greiðsludags í samræmi við reglur laga um vexti og verðtryggingu.
  □ Hafi greiðsla ekki borist innan mánaðar frá eindaga fellur veiðileyfi skips niður. Kröfum um greiðslu veiðigjalda fylgir lögveð ríkissjóðs í hlutaðeigandi skipi. Lögveðið nær einnig til vaxta og innheimtukostnaðar af kröfunni ef því er að skipta.
  □ Sé ákvörðun tekin innan fiskveiðiársins um að lækka áður leyfðan heildarafla einstakra tegunda skal endurgreiða eiganda skips þann hluta veiðigjaldanna sem nemur sömu fjárhæð og innheimt var fyrir hvert þorskígildi sem aflaheimildir skips skerðast um. Sérstakt veiðigjald sem innheimt hefur verið vegna úthlutaðs aflamarks skal endurgreitt á sama hátt að því marki sem það hefur ekki verið nýtt með veiðum, leigu eða öðrum hætti.
  □ Eigandi skips við álagningu veiðigjalda er ábyrgur fyrir greiðslu þeirra.
+    _[^1)^]"L. 84/2013, 1. gr.":/altext/stjt/2013.084.html_
 
  *IV. kafli* *Gildistaka o.fl.*
  ■ *15. gr.* _Rekstrarkostnaður._
@@ -95,9 +97,13 @@ h2. Lög um veiðigjöld
  *Ákvæði til bráðabirgða.*
  ■ *I.* Þrátt fyrir ákvæði 1. mgr. 9. gr. skal sérstakt veiðigjald vera með eftirfarandi hætti:
     a. 23,20 kr. á hvert þorskígildiskíló í botnfiskveiðum og 27,50 kr. á þorskígildiskíló í uppsjávarveiðum á fiskveiðiárinu 2012/2013.
-    b. 50% af stofni til útreiknings á gjaldinu á fiskveiðiárinu 2013/2014 að frádregnu almennu veiðigjaldi sama fiskveiðiárs.
-    c. 55% af stofni til útreiknings á gjaldinu á fiskveiðiárinu 2014/2015 að frádregnu almennu veiðigjaldi sama fiskveiðiárs.
-    d. 60% af stofni til útreiknings á gjaldinu á fiskveiðiárinu 2015/2016 að frádregnu almennu veiðigjaldi sama fiskveiðiárs.
+    b. ...[^1)^]
+    c. ...[^1)^]
+    d. ...[^1)^]
+ □ [Þrátt fyrir ákvæði 1. málsl. 8. gr. og 1. mgr. 9. gr. skulu veiðigjöld á fiskveiðiárinu 2013/2014 vera sem hér segir: 7,38 kr. á hvert sérstakt þorskígildiskíló í botnfiskveiðum og 38,25 kr. á hvert sérstakt þorskígildiskíló í uppsjávarveiðum. Almennt veiðigjald skal vera 9,5 kr. á hvert sérstakt þorskígildiskíló.
+ □ Sérstakt þorskígildi hverrar fisktegundar, sbr. 2. mgr., skal ákveðið af ráðherra með reglugerð, eigi síðar en 15. júlí 2013, með þeim hætti sem hér segir: Taka skal mið af tólf mánaða tímabili frá 1. maí 2012 til 30. apríl 2013. Sé tekin ákvörðun um stjórn veiða á tegund sem ekki hefur áður sætt slíkri ákvörðun skal þegar reikna þorskígildi fyrir tegundina miðað við sama tímabil. Sérstök þorskígildi skulu reiknuð sem hlutfall verðmætis einstakra tegunda sem sæta ákvörðun um stjórn veiða af verðmæti slægðs þorsks. Til grundvallar verðmætaútreikningi skal leggja heildaraflamagn og heildarverðmæti þessara tegunda, að frádregnu því magni og verðmæti sem unnið er um borð í fiskiskipi, samkvæmt upplýsingum Fiskistofu. Þegar fisktegund er að nær öllu leyti unnin um borð í fiskiskipi er heimilt að líta til sambærilegra tegunda til hliðsjónar við mat á sérstöku þorskígildi hennar. Þegar botnfiskur er seldur ferskur erlendis skal draga frá verði hans 85 kr. á hvert kíló af slægðum fiski vegna kostnaðar við útflutning. Varðandi botnfisk, að undanskildum karfa, skal miða við slægðan fisk. Miða skal við slitinn humar. Að öðru leyti fer um sérstök þorskígildi og sérstök þorskígildiskíló sem væru þorskígildi og þorskígildiskíló samkvæmt lögum þessum.
+ □ Ráðherra skal vinna tillögur að endurskoðun þessara laga sem lagðar verði fram á Alþingi löggjafarþingið 2013 - 2014.][^1)^]
+    _[^1)^]"L. 84/2013, 2. gr.":/altext/stjt/2013.084.html_
  ■ *II.* Á fiskveiðiárunum 2012/2013 til 2017/2018 skal félag eða einstaklingur með atvinnurekstur sem greiða skal sérstakt veiðigjald skv. 13. gr. eiga rétt á lækkun þess vegna vaxtakostnaðar við kaup á aflahlutdeildum til ársloka 2011 samkvæmt þessu ákvæði enda séu eftirfarandi skilyrði uppfyllt:
     a. Keypt aflahlutdeild sé enn í höndum viðkomandi og hann hafi greitt veiðigjöld af aflamarki samkvæmt henni fyrir viðkomandi fiskveiðiár.
     b. Vaxtaberandi skuldir viðkomandi í árslok 2011 samkvæmt skattframtali hans fyrir það ár án bókfærðra tekjuskattsskuldbindinga og að frádregnum peningalegum eignum séu hærri en svarar 4% af bókfærðu verðmæti ófyrnanlegra eigna samkvæmt framtali fyrir sama ár.

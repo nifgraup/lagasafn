@@ -1,16 +1,15 @@
 <hr />
 
-h2. Vegalög[^1)^]
+h2. Vegalög
 
 *2007 nr. 80 29. mars*
 
 <hr />
 
-   _[^1)^]Lögunum var breytt með "l. 59/2013, 33. gr.":/altext/stjt/2013.059.html Breytingarnar taka gildi 1. júlí 2013 skv. "44. gr. s.l.":/altext/stjt/2013.059.html_
 
- *Tóku gildi 1. janúar 2008.* _Breytt með_ "l. 88/2008":2008088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 123/2010":2010123.html (tóku gildi 1. jan. 2011), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 120/2012":2012120.html (tóku gildi 5. des. 2012; koma til framkvæmda 1. júlí 2013) og "l. 59/2013":/altext/stjt/2013.059.html (taka gildi 1. júlí 2013).
+ *Tóku gildi 1. janúar 2008.* _Breytt með_ "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 123/2010":/altext/stjt/2010.123.html (tóku gildi 1. jan. 2011), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 120/2012":/altext/stjt/2012.120.html (tóku gildi 5. des. 2012; komu til framkvæmda 1. júlí 2013) og "l. 59/2013":/altext/stjt/2013.059.html (tóku gildi 1. júlí 2013).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
 <hr />
 
@@ -34,22 +33,10 @@ h2. Vegalög[^1)^]
 
  *II. kafli.* *Stjórn vegamála.*
  ■ *4. gr.* _Yfirstjórn vegamála._
- □ [Ráðherra][^1)^] fer með yfirstjórn vegamála. Vegagerðin annast þátt ríkisins samkvæmt lögum þessum og hefur eftirlit með framkvæmd þeirra, nema annað sé ákveðið í lögunum. Til að stjórna framkvæmdum í vegamálum skipar ráðherra vegamálastjóra til fimm ára í senn og veitir hann Vegagerðinni forstöðu.[^2)^]
-    _[^1)^]"L. 126/2011, 465. gr.":/altext/stjt/2011.126.html [^2)^]Málsliðurinn fellur úr gildi 1. júlí 2013 skv. "l. 120/2012, 17. gr.":2012120.html#G17_
- ■ *5. gr.[^1)^]* _Vegagerðin._
- □ Helstu verkefni Vegagerðarinnar eru sem hér segir:
-    a. Veghald þjóðvega.
-    b. Aðstoð við ráðherra við mótun og framkvæmd stefnu stjórnvalda í samgöngumálum.
-    c. Vinna í samræmi við markmið samgönguáætlunar hverju sinni.
-    d. Skipting fjárveitinga til annarra vega en þjóðvega sem ætlaðir eru til almennrar umferðar og kostaðir eru af fé ríkisins, allt eftir nánari staðfestingu ráðherra.
-    e. Umsjón með rannsóknum og þróun á sviði vegamála.
-    f. Rekstur ferja og flóabáta sem koma í stað þjóðvegasambands.
-    g. Umsjón og eftirlit með útboðum á almenningssamgöngum sem njóta ríkisstyrkja.
-    h. Umsjón með leyfisskyldri starfsemi samkvæmt öðrum lögum.
- □ Vegagerðinni er heimilt, með samþykki [ráðherra],[^2)^] að stofna félag eða félög sem hafa það hlutverk að sinna framkvæmda- og þjónustuverkefnum stofnunarinnar.
- □ Vegagerðin fer með önnur verkefni sem leiðir af lögum þessum og öðrum lögum.
- □ Ráðherra skal kveða nánar á um verkefni og verksvið Vegagerðarinnar með reglugerð.
-    _[^1)^]Greinin fellur úr gildi 1. júlí 2013 skv. "l. 120/2012, 17. gr.":2012120.html#G17 [^2)^]"L. 162/2010, 253. gr.":/altext/stjt/2010.162.html_
+ □ [Ráðherra][^1)^] fer með yfirstjórn vegamála. Vegagerðin annast þátt ríkisins samkvæmt lögum þessum og hefur eftirlit með framkvæmd þeirra, nema annað sé ákveðið í lögunum. ...[^2)^]
+    _[^1)^]"L. 126/2011, 465. gr.":/altext/stjt/2011.126.html [^2)^]"L. 120/2012, 17. gr.":/altext/stjt/2012.120.html#G17_
+ ■ *5. gr.* _...[^1)^]_
+    _[^1)^]"L. 120/2012, 17. gr.":/altext/stjt/2012.120.html#G17_
 
  *III. kafli.* *Flokkun vega.*
  ■ *6. gr.* _Vegakerfi._
@@ -79,14 +66,16 @@ h2. Vegalög[^1)^]
  □ Vegagerðin er veghaldari þjóðvega. Sveitarfélög eru veghaldarar sveitarfélagsvega.
  □ Eigendur einkavega hafa veghald þeirra.
  ■ *14. gr.* _Framsal veghalds þjóðvega._
- □ Vegamálastjóra er heimilt að fela sveitarfélagi veghald héraðsvega innan sveitarfélagsins, óski viðkomandi sveitarfélag eftir því. Fjárveitingar sem ráðstafa skal til þessara vega skv. 19. gr. renna óskertar til sveitarfélags sem tekur að sér veghald samkvæmt þessu ákvæði.
- □ Vegamálastjóra er jafnframt heimilt að fela einstaklingi, fyrirtæki, sveitarfélagi, stofnun eða samtökum þessara aðila tímabundið veghald einstakra vegarkafla þjóðvega að nokkru eða öllu leyti.
+ □ [Forstjóra Vegagerðarinnar][^1)^] er heimilt að fela sveitarfélagi veghald héraðsvega innan sveitarfélagsins, óski viðkomandi sveitarfélag eftir því. Fjárveitingar sem ráðstafa skal til þessara vega skv. 19. gr. renna óskertar til sveitarfélags sem tekur að sér veghald samkvæmt þessu ákvæði.
+ □ [Forstjóra Vegagerðarinnar][^1)^] er jafnframt heimilt að fela einstaklingi, fyrirtæki, sveitarfélagi, stofnun eða samtökum þessara aðila tímabundið veghald einstakra vegarkafla þjóðvega að nokkru eða öllu leyti.
  □ Um veghald skv. 1. og 2. mgr. skal gerður þjónustusamningur þar sem nánar skal kveðið á um skyldur veghaldara, þjónustustig, rétt til endurgjalds og annað sem málið varðar.
+    _[^1)^]"L. 59/2013, 33. gr.":/altext/stjt/2013.059.html_
  ■ *15. gr.* _Eftirlit með veghaldi._
  □ Vegagerðin hefur eftirlit með því að veghaldi allra vega sem ætlaðir eru almenningi til frjálsrar umferðar og kostaðir eru af fé ríkisins sé sinnt í samræmi við ákvæði laga þessara og skal hlutast til um úrbætur ef út af bregður. Telji Vegagerðin að umferð stafi hætta af skal gera lögreglu viðvart.
  □ Nú er gerður þjónustusamningur um veghald skv. 3. mgr. 14. gr. og skal þá Vegagerðin hafa eftirlit með að veghald vega sem um er að ræða sé framkvæmt í samræmi við samninginn. Sé um vanrækslu að ræða að mati Vegagerðarinnar skal hún gefa veghaldara fyrirmæli um að framkvæma nauðsynlegar umbætur innan hæfilegs frests. Ef umbætur eru ekki gerðar í samræmi við fyrirmæli getur Vegagerðin látið framkvæma þær á kostnað veghaldara og/eða rift samningi við hann.
- □ Innan Vegagerðarinnar skal vera starfrækt óháð deild sem heyrir beint undir vegamálastjóra og skal sjá um innra eftirlit með veghaldi stofnunarinnar, þ.m.t. umferðaröryggi vega.
+ □ Innan Vegagerðarinnar skal vera starfrækt óháð deild sem heyrir beint undir [forstjóra Vegagerðarinnar][^1)^] og skal sjá um innra eftirlit með veghaldi stofnunarinnar, þ.m.t. umferðaröryggi vega.
  □ Ef viðkomandi lögreglustjóri telur vegi, viðhaldi eða merkingu vegar, sem opinn er almenningi til frjálsrar umferðar, svo áfátt að hætta geti stafað af getur hann gefið veghaldara fyrirmæli um að gera úrbætur á veginum og stöðvað vegagerð eða bannað umferð um veginn þar til úrbætur hafa verið gerðar.
+    _[^1)^]"L. 59/2013, 33. gr.":/altext/stjt/2013.059.html_
 
  *V. kafli.* *Vegáætlun og fjármögnun vega.*
  ■ *16. gr.* _Vegáætlun._
@@ -117,16 +106,19 @@ h2. Vegalög[^1)^]
  □ Ráðherra setur nánari ákvæði í reglugerð[^1)^] um innheimtu kostnaðar skv. 1. mgr.
     _[^1)^]"Rg. 774/2010":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/774-2010._
  ■ *21. gr.* _Fjárveitingar til landsvega._
- □ Ráðherra ákveður skiptingu framlags til landsvega að fengnum tillögum vegamálastjóra.
+ □ Ráðherra ákveður skiptingu framlags til landsvega að fengnum tillögum [forstjóra Vegagerðarinnar].[^1)^]
+    _[^1)^]"L. 59/2013, 33. gr.":/altext/stjt/2013.059.html_
  ■ *22. gr.* _Ferjur sem kostaðar eru af fjárveitingum til vegamála._
  □ Í samgönguáætlun er heimilt að ákveða fjárveitingu vegna kostnaðar við ferjur til flutnings á fólki og bifreiðum yfir sund og firði enda komi ferjan í stað vegasambands um stofnveg eða tengiveg að minnsta kosti hluta úr ári. Á sama hátt er heimilt að ákveða fjárveitingu til greiðslu hluta kostnaðar við ferjur sem eru mikilvægar fyrir ferðaþjónustu.
- □ Einnig er heimilt að greiða hluta kostnaðar við bryggjur fyrir slíkar ferjur að fenginni umsögn Siglingastofnunar Íslands.
+ □ Einnig er heimilt að greiða hluta kostnaðar við bryggjur fyrir slíkar ferjur ...[^1)^]
  □ Vegagerðinni er heimilt að kaupa, eiga og hafa umsjón með ferjum og flóabátum sem reknir eru til samgöngubóta, sbr. 1. mgr., svo og eiga aðild að félögum sem hafa eignarhald á þeim.
  □ Í samgönguáætlun skulu ferjuleiðir taldar upp og gerð grein fyrir rekstrar- og stofnframlögum til einstakra ferja.
+    _[^1)^]"L. 59/2013, 33. gr.":/altext/stjt/2013.059.html_
  ■ *23. gr.* _Rannsóknir og þróun við vega- og gatnagerð._
  □ Ár hvert skal að minnsta kosti einum og hálfum hundraðshluta af mörkuðum tekjustofnum til vegagerðar varið til rannsókna og þróunar við vegagerð undir stjórn Vegagerðarinnar.
  ■ *24. gr.* _Ófyrirsjáanleg atvik._
- □ Ráðherra er heimilt að ákveða, að fengnum meðmælum vegamálastjóra, að ráðist skuli í framkvæmdir sem ekki er gert ráð fyrir í vegáætlun ef til hefur komið tjón á vegum, t.d. vegna vatnavaxta, eldgosa eða annarra ófyrirsjáanlegra atvika.
+ □ Ráðherra er heimilt að ákveða, að fengnum meðmælum [forstjóra Vegagerðarinnar],[^1)^] að ráðist skuli í framkvæmdir sem ekki er gert ráð fyrir í vegáætlun ef til hefur komið tjón á vegum, t.d. vegna vatnavaxta, eldgosa eða annarra ófyrirsjáanlegra atvika.
+    _[^1)^]"L. 59/2013, 33. gr.":/altext/stjt/2013.059.html_
  ■ *25. gr.* _Styrkir til samgönguleiða._
  □ Í vegáætlun er heimilt að ákveða fjárveitingu til að styrkja tilteknar samgönguleiðir sem ekki falla undir skilgreiningar vega samkvæmt lögum þessum.
  □ Heimilt er að binda styrkveitingu samkvæmt þessari grein skilyrði um afnot vegar og merkingu hans.
@@ -185,7 +177,8 @@ h2. Vegalög[^1)^]
  □ Gefa skal landeiganda og öðrum rétthöfum ef við á í það minnsta fjögurra vikna frest til að koma að athugasemdum við tilhögun framkvæmda.
  □ Að liðnum fresti skv. 3. mgr. skal tekin ákvörðun um hvort og þá í hvaða mæli skerða þarf eignarréttindi vegna fyrirhugaðra framkvæmda, að teknu tilliti til framkominna athugasemda. Þó skal heimilt að taka ákvörðun innan frestsins ef um minni háttar framkvæmdir er að ræða eða samkomulag hefur náðst við alla rétthafa.
  □ Ákvörðun um skerðingu eignarréttindanna skal tilkynnt landeiganda og eftir atvikum öðrum rétthöfum skriflega og skal jafnframt gerð grein fyrir því hvort og með hvaða hætti tekið verður tillit til framkominna athugasemda þeirra.
- □ Ráðherra getur að fengnum tillögum vegamálastjóra heimilað eignarnám lands til lagningar almennra stíga og einkavega, skv. 10. og 11. gr., enda komi fullar bætur fyrir. Ráðherra getur bundið slíka heimild vissum skilyrðum, svo sem um gerð og frágang vegarins, umferðarrétt um hann, viðhald og tengingar við aðra vegi.
+ □ Ráðherra getur að fengnum tillögum [forstjóra Vegagerðarinnar][^1)^] heimilað eignarnám lands til lagningar almennra stíga og einkavega, skv. 10. og 11. gr., enda komi fullar bætur fyrir. Ráðherra getur bundið slíka heimild vissum skilyrðum, svo sem um gerð og frágang vegarins, umferðarrétt um hann, viðhald og tengingar við aðra vegi.
+    _[^1)^]"L. 59/2013, 33. gr.":/altext/stjt/2013.059.html_
  ■ *38. gr.* _Samningar um eignarnámsbætur._
  □ Þegar ákvörðun um eignarnám eða aðrar eignaskerðingar liggur fyrir skal leita samninga við landeiganda, og eftir atvikum aðra rétthafa, um bætur fyrir land undir veg, jarðefni til vegagerðar, jarðrask og átroðning og eftir atvikum aðra hagsmuni sem landeiganda er skylt að láta af hendi vegna vegagerðar skv. 34. og 37. gr.
  □ Eignarnemi skal senda landeiganda og öðrum rétthöfum skriflega tillögu að bótum þar sem skal sundurliðað fyrir hvaða hagsmuni boðnar eru bætur. Jafnframt skal þar koma fram að náist ekki samkomulag um bætur innan tiltekins frests, sem ekki skal styttri en fjórar vikur, fari um ákvörðun bóta í samræmi við ákvæði laga um framkvæmd eignarnáms.

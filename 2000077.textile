@@ -7,9 +7,9 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
 <hr />
 
 
- *Tóku gildi 1. janúar 2001.* _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB, XIX. viðauki tilskipun 97/7/EB og XI. viðauki tilskipun 97/66/EB. _Breytt með_ "l. 90/2001":/altext/stjt/2001.090.html (tóku gildi 15. júní 2001; _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB), "l. 30/2002":2002030.html (tóku gildi 16. apríl 2002), "l. 81/2002":/altext/stjt/2002.081.html (tóku gildi 17. maí 2002; _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB), "l. 46/2003":/altext/stjt/2003.046.html (tóku gildi 7. apríl 2003) "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003), "l. 50/2006":/altext/stjt/2006.050.html (tóku gildi 1. júlí 2006), "l. 77/2010":2010077.html (tóku gildi 1. júlí 2010), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. janúar 2001.* _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB, XIX. viðauki tilskipun 97/7/EB og XI. viðauki tilskipun 97/66/EB. _Breytt með_ "l. 90/2001":/altext/stjt/2001.090.html (tóku gildi 15. júní 2001; _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB), "l. 30/2002":/altext/stjt/2002.030.html (tóku gildi 16. apríl 2002), "l. 81/2002":/altext/stjt/2002.081.html (tóku gildi 17. maí 2002; _EES-samningurinn:_ XI. viðauki tilskipun 95/46/EB), "l. 46/2003":/altext/stjt/2003.046.html (tóku gildi 7. apríl 2003) "l. 72/2003":/altext/stjt/2003.072.html (tóku gildi 10. apríl 2003), "l. 50/2006":/altext/stjt/2006.050.html (tóku gildi 1. júlí 2006), "l. 77/2010":/altext/stjt/2010.077.html (tóku gildi 1. júlí 2010), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
 
- Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013066.html
+ Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
 <hr />
 
@@ -53,7 +53,7 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
  □ Lögin gilda einnig um vinnslu upplýsinga um fjárhagsmálefni og lánstraust lögaðila, sbr. 45. gr. laganna, enda þótt ábyrgðaraðili hafi ekki staðfestu hér á landi, ef hann notar tæki og búnað sem er hér á landi.
  □ Ákvæði 2. og 3. mgr. gilda ekki ef umræddur tækjabúnaður er einungis notaður til að flytja persónuupplýsingar um Ísland.
  □ Þegar svo hagar til sem greinir í 2. og 3. mgr. skal ábyrgðaraðili tilnefna fulltrúa sinn sem hefur staðfestu hér á landi og gilda þá ákvæði laganna varðandi ábyrgðaraðila um þann fulltrúa eftir því sem við á.][^3)^]
-    _[^1)^]"L. 72/2003, 5. gr.":/altext/stjt/2003.072.html [^2)^]Augl. 228/2010, sbr. augl. 108/2012. [^3)^]"L. 90/2001, 1. gr.":/altext/stjt/2001.090.html_
+    _[^1)^]"L. 72/2003, 5. gr.":/altext/stjt/2003.072.html [^2)^]Augl. 228/2010, sbr. augl. 108/2012 og augl. 419/2013. [^3)^]"L. 90/2001, 1. gr.":/altext/stjt/2001.090.html_
 
  *II. kafli.* *Almennar reglur um vinnslu persónuupplýsinga.*
  ■ *7. gr.* _[Meginreglur um gæði gagna og vinnslu.][^1)^]_
@@ -104,13 +104,13 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
  □ Ábyrgðaraðili ber ábyrgð á því að áhættumat og öryggisráðstafanir við vinnslu persónuupplýsinga séu í samræmi við lög, reglur[^1)^] og fyrirmæli Persónuverndar um hvernig tryggja skuli öryggi upplýsinga, þ.m.t. þá staðla sem hún ákveður að skuli fylgt.
  □ Ábyrgðaraðili ber ábyrgð á því að áhættumat sé endurskoðað reglulega og öryggisráðstafanir endurbættar að því marki sem þörf krefur til að uppfylla ákvæði þessarar greinar.
  □ Ábyrgðaraðili skal skrá með hvaða hætti hann mótar öryggisstefnu, gerir áhættumat og ákveður öryggisráðstafanir. Skal Persónuvernd hafa aðgang að upplýsingum um framangreind atriði hvenær sem hún óskar.][^2)^]
-    _[^1)^]Rgl. 299/2001. [^2)^]"L. 90/2001, 5. gr.":/altext/stjt/2001.090.html_
+    _[^1)^]Rgl. 299/2001, sbr. "551/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/551-2013. [^2)^]"L. 90/2001, 5. gr.":/altext/stjt/2001.090.html_
  ■ *12. gr.* _Innra eftirlit._
  □ [Ábyrgðaraðili skal viðhafa innra eftirlit með vinnslu persónuupplýsinga til að ganga úr skugga um að unnið sé í samræmi við gildandi lög og reglur og þær öryggisráðstafanir sem ákveðnar hafa verið.
  □ Innra eftirlit skal viðhaft með reglubundnum hætti. Tíðni eftirlitsins og umfang þess skal ákveðið með hliðsjón af áhættunni sem er samfara vinnslunni, eðli þeirra gagna sem unnið er með, þeirri tækni sem notuð er til að tryggja öryggi upplýsinganna og kostnaði af framkvæmd eftirlitsins. Það skal þó eigi fara fram sjaldnar en árlega.
  □ Ábyrgðaraðili skal sjá til þess að gerð sé skýrsla um hverja aðgerð sem er liður í innra eftirliti. Í slíkri skýrslu skal lýsa niðurstöðu hvers þáttar eftirlitsins. Skýrslur um innra eftirlit skal varðveita tryggilega. Persónuvernd hefur rétt til að aðgangs að þeim hvenær sem er.
  □ Persónuvernd getur sett frekari fyrirmæli[^1)^] um framkvæmd innra eftirlits og veitt undanþágu frá því að slíkt innra eftirlit skuli viðhaft eða takmarkað til hvaða þátta í vinnslunni það skuli taka.][^2)^]
-    _[^1)^]Rgl. 299/2001. [^2)^]"L. 90/2001, 6. gr.":/altext/stjt/2001.090.html_
+    _[^1)^]Rgl. 299/2001, sbr. "551/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/551-2013. [^2)^]"L. 90/2001, 6. gr.":/altext/stjt/2001.090.html_
  ■ *13. gr.* _[Trúnaðarskylda vinnsluaðila við meðferð persónuupplýsinga._
  □ Ábyrgðaraðila er heimilt að semja við tiltekinn aðila um að annast, í heild eða að hluta, þá vinnslu persónuupplýsinga sem hann ber ábyrgð á samkvæmt ákvæðum laga þessara. Slíkt er þó háð því skilyrði að ábyrgðaraðili hafi áður sannreynt að umræddur vinnsluaðili geti framkvæmt viðeigandi öryggisráðstafanir og viðhaft innra eftirlit skv. 12. gr. laga þessara.
  □ Samningur skv. 1. mgr. skal vera skriflegur og a.m.k. í tveimur eintökum. Þar skal m.a. koma fram að vinnsluaðila sé einungis heimilt að starfa í samræmi við fyrirmæli ábyrgðaraðila og að ákvæði laga þessara um skyldur ábyrgðaraðila gildi einnig um þá vinnslu sem vinnsluaðili annast. Ábyrgðaraðili og vinnsluaðili skulu hvor varðveita sitt eintak af samningnum.
@@ -222,7 +222,7 @@ h2. Lög um persónuvernd og meðferð persónuupplýsinga
  □ Heimill er flutningur persónuupplýsinga til annars ríkis ef lög þess veita persónuupplýsingum fullnægjandi vernd.
  □ Ríki sem framfylgir tilskipun Evrópusambandsins 95/46/ESB um vernd einstaklinga í tengslum við vinnslu persónuupplýsinga og um frjálst flæði slíkra upplýsinga telst fullnægja skilyrðum 1. mgr. [Sama á við um lönd eða staði sem Persónuvernd auglýsir[^1)^] í Stjórnartíðindum að virtum ákvörðunum framkvæmdastjórnar Evrópubandalagsins.][^2)^]
  □ Við mat á því hvort ríki sem ekki framfylgir tilskipun 95/46/ESB fullnægi skilyrðum 1. mgr. skal m.a. líta til reglna viðkomandi ríkis um meðferð persónuupplýsinga, reglna um góða viðskiptahætti og þeirra öryggisráðstafana sem viðhafðar eru hjá viðtakanda. Þá skal taka mið af því hvort viðkomandi ríki hafi fullgilt samning Evrópuráðsins nr. 108 frá 28. janúar 1981, um vernd einstaklinga varðandi vélræna vinnslu persónuupplýsinga.
-    _[^1)^]Rgl. 1100/2008, sbr. rgl. 424/2010. Augl. 228/2010, sbr. augl. 108/2012. [^2)^]"L. 90/2001, 9. gr.":/altext/stjt/2001.090.html_
+    _[^1)^]Rgl. 1100/2008, sbr. rgl. 424/2010. Augl. 228/2010, sbr. augl. 108/2012 og augl. 419/2013. [^2)^]"L. 90/2001, 9. gr.":/altext/stjt/2001.090.html_
  ■ *30. gr.* _Flutningur persónuupplýsinga til ríkis sem ekki veitir fullnægjandi persónuupplýsingavernd._
  □ Óheimill er flutningur persónuupplýsinga til ríkis sem ekki veitir fullnægjandi persónuupplýsingavernd nema:
     1. hinn skráði hafi samþykkt flutninginn, eða
