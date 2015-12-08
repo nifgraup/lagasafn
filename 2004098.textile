@@ -7,7 +7,7 @@ h2. Lög um jöfnun kostnaðar við dreifingu raforku
 <hr />
 
 
- *Tóku gildi 2. júlí 2004; komu til framkvæmda 1. janúar 2005.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 2. júlí 2004; komu til framkvæmda 1. janúar 2005.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 20/2015":/altext/stjt/2015.020.html (tóku gildi 17. mars 2015; komu til framkvæmda 1. apríl 2015).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *iðnaðar- og viðskiptaráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -21,8 +21,15 @@ h2. Lög um jöfnun kostnaðar við dreifingu raforku
     _[^1)^]"L. 126/2011, 392. gr.":/altext/stjt/2011.126.html [^2)^]"Rg. 697/2013":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/697-2013._
  ■ *3. gr.* _Skilyrði fyrir lækkun dreifingarkostnaðar._
  □ Greiða skal niður kostnað almennra notenda vegna dreifingar raforku á þeim svæðum þar sem Orkustofnun hefur heimilað sérstakar dreifbýlisgjaldskrár í samræmi við ákvæði 5. mgr. "17. gr. raforkulaga, nr. 65/2003":2003065.html#G17.
- □ Skilyrði niðurgreiðslu er að meðaldreifingarkostnaður notenda á orkueiningu sé umfram viðmiðunarmörk sem [ráðherra][^1)^] setur í reglugerð. Við ákvörðun viðmiðunarmarka skal taka mið af hæstu gjaldskrá dreifiveitu að dreifbýlisgjaldskrám undanskildum. Þeirri fjárhæð sem ákveðin er í fjárlögum hverju sinni skal skipt hlutfallslega eftir orkunotkun á dreifbýlisgjaldskrársvæði miðað við kostnað dreifiveitu umfram viðmiðunarmörk í reglugerð.
-    _[^1)^]"L. 126/2011, 392. gr.":/altext/stjt/2011.126.html_
+ □ Skilyrði niðurgreiðslu er að meðaldreifingarkostnaður notenda á orkueiningu sé umfram viðmiðunarmörk sem [ráðherra][^1)^] setur í reglugerð. Við ákvörðun viðmiðunarmarka skal taka mið af hæstu gjaldskrá dreifiveitu að dreifbýlisgjaldskrám undanskildum. Þeirri fjárhæð sem ákveðin er í fjárlögum hverju sinni [í samræmi við innheimt jöfnunargjald skv. 3. gr. a][^2)^] skal skipt hlutfallslega eftir orkunotkun á dreifbýlisgjaldskrársvæði miðað við kostnað dreifiveitu umfram viðmiðunarmörk í reglugerð.
+    _[^1)^]"L. 126/2011, 392. gr.":/altext/stjt/2011.126.html [^2)^]"L. 20/2015, 1. gr.":/altext/stjt/2015.020.html_
+ ■ *[3. gr. a.* _Jöfnunargjald vegna dreifingar raforku._
+ □ Til að standa straum af jöfnun kostnaðar við dreifingu raforku til almennra notenda samkvæmt lögum þessum er innheimt sérstakt jöfnunargjald.
+ □ Dreifiveitur greiða jöfnunargjald samkvæmt grein þessari af raforku sem er móttekin frá flutningskerfi flutningsfyrirtækisins eða beint frá virkjunum að frádreginni þeirri raforku sem fer frá dreifikerfinu inn á flutningskerfið.
+ □ Fjárhæð jöfnunargjalds er 0,30 kr. á hverja kílóvattstund. Fjárhæð jöfnunargjalds vegna skerðanlegs flutnings raforku er 0,10 kr. á hverja kílóvattstund.
+ □ Orkustofnun annast innheimtu jöfnunargjalds fyrir ríkissjóð. Gjalddagi er 1. desember ár hvert vegna þess almanaksárs og byggist gjaldið á rauntölum vegna liðins árs. Aðför má gera til fullnustu kröfum um gjaldið án undangengins dóms, úrskurðar eða sáttar.
+ □ Ráðherra er heimilt í reglugerð að kveða nánar á um innheimtu jöfnunargjalds.][^1)^]
+    _[^1)^]"L. 20/2015, 2. gr.":/altext/stjt/2015.020.html_
  ■ *4. gr.* _Framkvæmd._
  □ Dreifiveita sem starfar á dreifbýlisgjaldskrársvæði þar sem lækka á kostnað við dreifingu skal fá til umsýslu framlag í samræmi við innsendar upplýsingar um rekstur og þau viðmiðunarmörk sem ákvörðuð eru, sbr. 3. gr. Dreifiveita skal ákvarða gjaldskrár óháð framlaginu og lækka gjaldið síðan út frá reiknuðu framlagi fyrir alla notendur á gjaldskrársvæðinu. Notendur skulu fá upplýsingar um hve mikið framlagið lækkar gjaldið í kr./kWst að meðaltali.
  □ Framlag það sem dreifiveita fær til lækkunar dreifingarkostnaðar notenda er ekki eign viðkomandi dreifiveitu. Dreifiveita hefur umsýslu með fénu og ber að nota framlagið til þess að lækka dreifingarkostnað notenda á viðkomandi dreifiveitusvæði í hlutfalli við raforkunotkun hvers notanda.
@@ -36,5 +43,8 @@ h2. Lög um jöfnun kostnaðar við dreifingu raforku
  □ Fari dreifiveitur ekki að ákvæðum laga þessara getur Orkustofnun krafist þess að úr verði bætt að viðlögðum dagsektum. Dagsektir geta numið 10 - 500 þús. kr. á dag. Við ákvörðun dagsekta er heimilt að taka tillit til eðlis vanrækslu eða brots. Ákvörðun um dagsektir skal tilkynnt bréflega á sannanlegan hátt þeim sem hún beinist að. Ákvarðanir um að leggja á dagsektir eru aðfararhæfar, svo og sakarkostnaður. Innheimtar dagsektir renna til ríkissjóðs að frádregnum kostnaði við innheimtuna. Fari leyfishafi ekki að tilmælum Orkustofnunar skal hún veita ráðherra upplýsingar um málið.
  ■ *7. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi en koma til framkvæmda 1. janúar 2005.
+ ■ *[Ákvæði til bráðabirgða.* Þrátt fyrir ákvæði 3. mgr. 3. gr. a skal fjárhæð jöfnunargjalds á árinu 2015 vera 0,20 kr. á hverja kílóvattstund.
+ □ Þrátt fyrir ákvæði 3. mgr. 3. gr. a skal fjárhæð jöfnunargjalds vegna skerðanlegs flutnings raforku á árinu 2015 vera 0,066 kr. á hverja kílóvattstund af skerðanlegum flutningi raforku.][^1)^]
+    _[^1)^]"L. 20/2015, 3. gr.":/altext/stjt/2015.020.html_
 
 

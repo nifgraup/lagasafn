@@ -2,7 +2,7 @@ h2. Kaflar lagasafns
 
 <hr />
 
-Íslensk lög 1. janúar 2015 (útgáfa 144a).
+Íslensk lög 15. september 2015 (útgáfa 144b).
 
 
 
@@ -53,4 +53,5 @@ h2. Kaflar lagasafns
 # "Félög, firmu og stofnanir":45.html
 # "Hlutaréttindi":46.html
 # "Hugverka- og einkaréttindi":47.html
+# "Byggðamál":48.html
 

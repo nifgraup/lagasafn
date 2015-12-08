@@ -7,7 +7,7 @@ h2. Lög um eftirlit með þjónustu og hlutum sem geta haft hernaðarlega þý�
 <hr />
 
 
- *Tóku gildi 17. júní 2010.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 17. júní 2010.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 81/2015":/altext/stjt/2015.081.html (tóku gildi 23. júlí 2015).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *utanríkisráðherra* eða *utanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -44,6 +44,8 @@ h2. Lög um eftirlit með þjónustu og hlutum sem geta haft hernaðarlega þý�
  □ Enginn má stunda þjónustuviðskipti í tengslum við útflutning hluta skv. 4. gr. nema með leyfi ráðherra, enda hafi verið settar um þau nánari reglur.
  □ Ráðherra er heimilt að kveða á um að leyfi þurfi til miðlunar með hluti skv. 4. gr. óháð því hvort um útflutning er að ræða eða ekki.
  □ Ráðherra er heimilt að kveða á um að leyfi þurfi til fjárfestinga erlendis í starfsemi sem tengist þróun, framleiðslu, meðhöndlun, rekstri, viðhaldi, geymslu, greiningu, auðkenningu, útbreiðslu, öflun, söfnun, notkun, útvegun, eignarhaldi, flutningi, miðlun eða viðskiptum með hluti skv. 4. gr. ef viðkomandi ríki er ekki aðili að alþjóðasamstarfi um útflutningseftirlit sem ráðherra metur fullnægjandi.
+ □ [Samanlagður eignarhluti erlendra aðila í íslensku atvinnufyrirtæki sem framleiðir hluti sem falla undir 4. gr. eða veitir þjónustu sem fellur undir grein þessa má á hverjum tíma ekki vera meiri en 49%, nema með leyfi ráðherra. Ákvæði þetta skerðir ekki réttindi samkvæmt alþjóðasamningum sem Ísland er aðili að.][^1)^]
+    _[^1)^]"L. 81/2015, 5. gr.":/altext/stjt/2015.081.html_
  ■ *6. gr.* _Leyfisskilyrði._
  □ Ráðherra getur sett skilyrði í tengslum við útgáfu innflutnings-, útflutnings-, þjónustu- og fjárfestingaleyfa samkvæmt lögum þessum, þar á meðal varðandi upplýsingagjöf um sölukjör, greiðslukjör, lánskjör, flutningaleiðir, meðferð skjala og framlagningu vottorða um lokanotanda og/eða lokanot hluta og þjónustu.
  □ Ráðherra getur breytt leyfisskilyrðum eftir að leyfi hefur verið gefið út eða afturkallað leyfi hvenær sem er, til bráðabirgða eða fyrir fullt og allt, ef:
@@ -99,9 +101,9 @@ h2. Lög um eftirlit með þjónustu og hlutum sem geta haft hernaðarlega þý�
  ■ *14. gr.* _Nánari reglur o.fl._
  □ [Ráðherra][^1)^] fer með framkvæmd laga þessara og er heimilt:
     a. að setja nánari reglur[^2)^] þar að lútandi,
-    b. að láta birta erlendan frumtexta lista yfir hluti skv. 4. gr. í B-deild Stjórnartíðinda,
+    b. [að birta erlendan frumtexta lista yfir hluti eða þjónustu skv. 4. og 5. gr. í B-deild Stjórnartíðinda, að vísa til hans á vefsetri öryggisráðs Sameinuðu þjóðanna eða í Stjórnartíðindum Evrópusambandsins eða að birta hann á vefsetri utanríkisráðuneytisins og telst það lögmæt birting],[^3)^]
     c. að fella niður gjald fyrir útgáfu útflutningsleyfis, sbr. 50. tölul. "11. gr. laga um aukatekjur ríkissjóðs, nr. 88/1991":1991088.html#G11, þegar hlutir, sem undir lög þessi heyra, eru fluttir tímabundið til eða frá landinu til prófana, sýningar eða í öðrum tilgangi.
-    _[^1)^]"L. 126/2011, 528. gr.":/altext/stjt/2011.126.html [^2)^]"Rg. 758/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/758-2014._
+    _[^1)^]"L. 126/2011, 528. gr.":/altext/stjt/2011.126.html [^2)^]"Rg. 758/2014":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/758-2014, sbr. "294/2015":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/294-2015. [^3)^]"L. 81/2015, 6. gr.":/altext/stjt/2015.081.html_
  ■ *15. gr.* _Gildistaka._
  □ Lög þessi öðlast þegar gildi. "...":http://www.althingi.is/altext/stjt/2010.058.html
 

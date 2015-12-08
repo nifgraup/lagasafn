@@ -7,7 +7,7 @@ h2. Lög um leikskóla
 <hr />
 
 
- *Tóku gildi 1. júlí 2008.* _Breytt með_ "l. 38/2009":/altext/stjt/2009.038.html (tóku gildi 8. apríl 2009) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. júlí 2008.* _Breytt með_ "l. 38/2009":/altext/stjt/2009.038.html (tóku gildi 8. apríl 2009), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 91/2015":/altext/stjt/2015.091.html (tóku gildi 5. ágúst 2015 nema 1. og 4. - 7. gr. sem tóku gildi 1. júlí 2015).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *mennta- og menningarmálaráðherra* eða *mennta- og menningarmálaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -101,13 +101,14 @@ h2. Lög um leikskóla
  □ Hver leikskóli metur með kerfisbundnum hætti árangur og gæði skólastarfs á grundvelli 17. gr. með virkri þátttöku starfsmanna, barna og foreldra eftir því sem við á.
  □ Leikskóli birtir opinberlega upplýsingar um innra mat sitt, tengsl þess við skólanámskrá og áætlanir um umbætur.
  ■ *19. gr.* _Ytra mat sveitarfélaga._
- □ Sveitarfélög sinna mati og eftirliti með gæðum skólastarfs og láta ráðuneyti í té upplýsingar um framkvæmd skólahalds, innra mat skóla, ytra mat sveitarfélaga, framgang skólastefnu sinnar og áætlanir um umbætur.
+ □ Sveitarfélög sinna mati og eftirliti með gæðum skólastarfs og láta ráðuneyti í té upplýsingar um framkvæmd skólahalds, innra mat skóla, ytra mat sveitarfélaga, framgang skólastefnu sinnar og áætlanir um umbætur. [Ráðherra er heimilt að fela Menntamálastofnun að taka við upplýsingum samkvæmt grein þessari.][^1)^]
  □ Sveitarfélög skulu fylgja eftir innra og ytra mati þannig að slíkt mat leiði til umbóta í skólastarfi.
+    _[^1)^]"L. 91/2015, 10. gr.":/altext/stjt/2015.091.html#G10_
  ■ *20. gr.* _Ytra mat [ráðuneytisins].[^1)^]_
- □ [Ráðuneytið][^1)^] annast greiningu og miðlun upplýsinga um starf leikskóla á grundvelli upplýsinga frá sveitarfélögum skv. 19. gr. og með sjálfstæðri gagnaöflun.
+ □ [Ráðuneytið annast greiningu og miðlun upplýsinga um starf leikskóla á grundvelli upplýsinga frá sveitarfélögum skv. 19. gr. og með sjálfstæðri gagnaöflun. Ráðherra er heimilt að fela Menntamálastofnun að annast verkefni samkvæmt þessari grein.][^2)^]
  □ [Ráðuneytið][^1)^] gerir áætlun til þriggja ára um kannanir og úttektir sem miða að því að veita upplýsingar um framkvæmd laga þessara, aðalnámskrár leikskóla og aðra þætti skólastarfs.
- □ Ráðherra setur reglugerð[^2)^] um innra og ytra mat og upplýsingaskyldu sveitarfélaga að höfðu samráði við Samband íslenskra sveitarfélaga.
-    _[^1)^]"L. 126/2011, 491. gr.":/altext/stjt/2011.126.html [^2)^]"Rg. 893/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/893-2009._
+ □ Ráðherra setur reglugerð[^3)^] um innra og ytra mat og upplýsingaskyldu sveitarfélaga að höfðu samráði við Samband íslenskra sveitarfélaga.
+    _[^1)^]"L. 126/2011, 491. gr.":/altext/stjt/2011.126.html [^2)^]"L. 91/2015, 10. gr.":/altext/stjt/2015.091.html#G10 [^3)^]"Rg. 893/2009":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/893-2009._
 
  *VIII. kafli.* *Sérfræðiþjónusta og stoðkerfi leikskóla.*
  ■ *21. gr.* _Skipulag sérfræðiþjónustu._
@@ -124,13 +125,13 @@ h2. Lög um leikskóla
 
  *IX. kafli.* *Stofnun og rekstur leikskóla.*
  ■ *24. gr.* _Tilkynningar._
- □ Sveitarstjórn skal tilkynna [ráðuneytinu][^1)^] þegar það stofnar nýjan leikskóla og rekstri leikskóla er hætt.
-    _[^1)^]"L. 126/2011, 491. gr.":/altext/stjt/2011.126.html_
+ □ [Sveitarstjórn skal tilkynna ráðuneytinu þegar það stofnar nýjan leikskóla og þegar rekstri leikskóla er hætt. Ráðherra er heimilt að fela Menntamálastofnun að taka við tilkynningum samkvæmt þessari grein.][^1)^]
+    _[^1)^]"L. 91/2015, 10. gr.":/altext/stjt/2015.091.html#G10_
  ■ *25. gr.* _Leyfi til reksturs leikskóla._
  □ Sveitarstjórn getur leyft öðrum aðilum að byggja og reka leikskóla í formi sjálfseignarstofnunar, hlutafélags eða samkvæmt öðru viðurkenndu rekstrarformi. Heimilt er að binda leyfi sveitarfélags við ákveðinn hámarksfjölda barna. Um slíka leikskóla gilda sömu lög og reglur og um aðra leikskóla samkvæmt lögum þessum eftir því sem við á. Þar á meðal skal af hálfu viðkomandi skóla fylgt ákvæðum stjórnsýslulaga við töku ákvarðana sem kæranlegar eru skv. 30. gr. laga þessara. Það á þó ekki við um ákvarðanir um gjaldtöku. Sveitarfélög skulu setja sér reglur um veitingu rekstrarleyfa. Skulu þær birtar opinberlega og vera aðgengilegar íbúum sveitarfélags.
  □ Í rekstrarleyfi skal skýrt kveðið á um réttindi og skyldur rekstraraðila samkvæmt lögum þessum. Í rekstrarleyfi skal sérstaklega fjallað um þagnarskyldu starfsfólks, sbr. 8. gr., um húsnæði og fjölda barna, sbr. 12. gr., og um gerð skólanámskrár, sbr. 14. gr., um skyldur rekstraraðila til þess að meta með reglubundnum hætti árangur og gæði skólastarfsins, sbr. 18. gr., láta sveitarstjórn í té gögn og upplýsingar vegna eftirlits, sbr. 19. gr., og um skipulag og framkvæmd sérfræðiþjónustu, sbr. 21. og 22. gr. Sveitarstjórnum er heimilt að gera samning við viðkomandi skóla um fyrirkomulag þjónustu og gjaldtöku.
- □ Sveitarstjórn skal tilkynna [ráðuneytinu][^1)^] um veitingu rekstrarleyfis sem og ef rekstrarleyfi fellur úr gildi.
-    _[^1)^]"L. 126/2011, 491. gr.":/altext/stjt/2011.126.html_
+ □ [Sveitarstjórn skal tilkynna ráðuneytinu um veitingu rekstrarleyfis sem og ef rekstrarleyfi fellur úr gildi. Ráðherra er heimilt að fela Menntamálastofnun að taka við tilkynningum samkvæmt þessari grein.][^1)^]
+    _[^1)^]"L. 91/2015, 10. gr.":/altext/stjt/2015.091.html#G10_
  ■ *26. gr.* _Reglur um innritun._
  □ Sveitarstjórn er heimilt að setja reglur um innritun í leikskóla í sveitarfélaginu, enda njóti viðkomandi leikskóli framlags úr sveitarsjóði. Þessar reglur eru annars vegar settar með tilliti til aðstæðna barna og foreldra og hins vegar með tilliti til aðstæðna í leikskólum sveitarfélagsins.
  □ Reglur sveitarstjórnar samkvæmt þessari grein skulu birtar opinberlega og vera aðgengilegar íbúum sveitarfélagsins.

@@ -6,9 +6,9 @@ h2. Lög um landmælingar og grunnkortagerð[^1)^]
 
 <hr />
 
-   _[^1)^]Lögunum var breytt með "l. 60/2013, 95. gr.":2013060.html#G95 Breytingarnar taka gildi 1. júlí 2015 skv. "94. gr. s.l.":2013060.html, sbr. "l. 23/2014, 1. gr.":/altext/stjt/2014.023.html_
+   _[^1)^]Lögunum var breytt með "l. 60/2013, 95. gr.":2013060.html#G95 Breytingarnar taka gildi 15. nóvember 2015 skv. "94. gr. s.l.":2013060.html, sbr. "l. 34/2015, 1. gr.":/altext/stjt/2015.034.html_
 
- *Tóku gildi 1. janúar 2007.* _Breytt með_ "l. 44/2011":/altext/stjt/2011.044.html (tóku gildi 13. maí 2011 nema 1. málsl. 10. gr. sem tekur gildi 1. jan. 2014; _EES-samningurinn:_ XX. viðauki tilskipun 2007/2/EB), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 60/2013":/altext/stjt/2013.060.html (taka gildi 1. júlí 2015).
+ *Tóku gildi 1. janúar 2007.* _Breytt með_ "l. 44/2011":/altext/stjt/2011.044.html (tóku gildi 13. maí 2011 nema 1. málsl. 10. gr. sem tekur gildi 1. jan. 2014; _EES-samningurinn:_ XX. viðauki tilskipun 2007/2/EB), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 60/2013":/altext/stjt/2013.060.html (taka gildi 15. nóv. 2015) og "l. 22/2015":/altext/stjt/2015.022.html (tóku gildi 17. mars 2015).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *umhverfis- og auðlindaráðherra* eða *umhverfis- og auðlindaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -40,15 +40,16 @@ h2. Lög um landmælingar og grunnkortagerð[^1)^]
     a. Vatnafar.
     b. Yfirborð.
     c. Vegir og samgöngur.
-    d. Örnefni, í samráði við Stofnun Árna Magnússonar í íslenskum fræðum.
+    d. [Örnefni úr örnefnagrunni.][^2)^]
     e. Stjórnsýslumörk.
     f. Mannvirki.
     g. Hæðarlínur og hæðarpunktar.
     5. Að veita aðgang að gögnum sem stofnunin varðveitir í gagnasöfnum sínum, sbr. 6. gr.
     6. Skráning og miðlun upplýsinga um landfræðileg gagnasöfn af Íslandi.
     7. Að eiga faglegt samstarf við háskóla, stofnanir, fyrirtæki og alþjóðleg samtök í samræmi við verkefni stofnunarinnar.
-    [8. Að fara með framkvæmd laga um grunngerð fyrir stafrænar landupplýsingar, þ.m.t. að sjá um rekstur, viðhald og tæknilega þróun landupplýsingagáttar.][^2)^]
-    _[^1)^]"L. 126/2011, 438. gr.":/altext/stjt/2011.126.html [^2)^]"L. 44/2011, 16. gr.":/altext/stjt/2011.044.html#G16_
+    [8. Að fara með framkvæmd laga um grunngerð fyrir stafrænar landupplýsingar, þ.m.t. að sjá um rekstur, viðhald og tæknilega þróun landupplýsingagáttar.][^3)^]
+    [9. Skráning, viðhald og miðlun örnefnagrunns í samráði við Stofnun Árna Magnússonar í íslenskum fræðum. Innihald gagnagrunnsins skal vera aðgengilegt og endurnot þess án gjaldtöku og í samræmi við ákvæði "upplýsingalaga, nr. 140/2012":2012140.html. Landmælingar Íslands skulu gera almenningi kleift að skrá örnefni í sérstakan gagnagrunn á vegum stofnunarinnar.][^2)^]
+    _[^1)^]"L. 126/2011, 438. gr.":/altext/stjt/2011.126.html [^2)^]"L. 22/2015, 11. gr.":/altext/stjt/2015.022.html#G11 [^3)^]"L. 44/2011, 16. gr.":/altext/stjt/2011.044.html#G16_
  ■ *5. gr.* _Höfundaréttur._
  □ Ríkið er eigandi að öllum réttindum sem Landmælingar Íslands hafa öðlast.
  □ Stofnunin gætir hagsmuna ríkisins á sviði höfunda- og afnotaréttar á öllu því efni sem hún hefur eignast, unnið eða gefið út í sambandi við mælingar, kort eða myndir af Íslandi. Um höfundarétt gilda að öðru leyti "höfundalög, nr. 73/1972":1972073.html, með síðari breytingum.

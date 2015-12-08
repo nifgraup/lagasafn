@@ -7,7 +7,7 @@ h2. Lög um vátryggingarsamninga
 <hr />
 
 
- *Tóku gildi 1. janúar 2006.* _Breytt með_ "l. 118/2005":/altext/stjt/2005.118.html (tóku gildi 1. jan. 2006), "l. 156/2007":/altext/stjt/2007.156.html (tóku gildi 29. des. 2007), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 65/2010":/altext/stjt/2010.065.html (tóku gildi 27. júní 2010) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. janúar 2006.* _Breytt með_ "l. 118/2005":/altext/stjt/2005.118.html (tóku gildi 1. jan. 2006), "l. 156/2007":/altext/stjt/2007.156.html (tóku gildi 29. des. 2007), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 65/2010":/altext/stjt/2010.065.html (tóku gildi 27. júní 2010), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 15/2015":/altext/stjt/2015.015.html (tóku gildi 1. júlí 2015).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -88,9 +88,11 @@ h2. Lög um vátryggingarsamninga
  □ Hafi vátryggingartaki sent skriflega beiðni um tiltekna vátryggingu og ljóst er að félagið hefði þegar samþykkt beiðnina ber það ábyrgð við móttöku hennar.
  □ Ef ábyrgð félagsins á að hefjast á tilteknum degi, án þess að það sé tilgreint nánar, hefst ábyrgðin kl. 0.00 þann dag. Eigi vátrygging að gilda til ákveðins dags en ekki er tiltekið hvenær dags henni lýkur skal litið svo á að henni ljúki kl. 24.00.
  ■ *14. gr.* _Heimild vátryggingartaka til þess að segja upp vátryggingarsamningi._
- □ Nú vill vátryggingartaki segja upp vátryggingarsamningi þegar komið er að endurnýjun hans og verður hann þá að tilkynna félaginu um það innan mánaðar frá því að það sendi venjulega tilkynningu um gjalddaga hins nýja tímabils. Honum er þó ekki skylt að tilkynna félaginu um uppsögn fyrr en tvær vikur eru til loka tímabilsins.
- □ Vátryggingartaki getur á vátryggingartíma sagt upp vátryggingarsamningi sem endurnýjast sjálfkrafa ef hann hefur ekki lengur þörf fyrir vátrygginguna eða fyrir hendi eru aðrar sérstakar ástæður sem réttlæta uppsögn.
- □ Sé um hópvátryggingu að ræða er heimilt að víkja frá ákvæði 2. mgr. í vátryggingarsamningi.
+ □ [Nú vill vátryggingartaki segja upp vátryggingarsamningi þegar komið er að endurnýjun hans og verður hann þá að tilkynna félaginu um það innan mánaðar frá því að það sendi venjulega tilkynningu um gjalddaga hins nýja tímabils. Honum er þó ekki skylt að tilkynna félaginu um uppsögn fyrr en tvær vikur eru til loka tímabilsins.
+ □ Vátryggingartaki getur á vátryggingartíma sagt upp vátryggingarsamningi sem endurnýjast sjálfkrafa ef hann hefur ekki lengur þörf fyrir vátrygginguna, fyrir hendi eru aðrar sérstakar ástæður sem réttlæta uppsögn eða til að flytja vátrygginguna til annars félags.
+ □ Hyggist vátryggingartaki segja vátryggingu upp vegna flutnings vátryggingar til annars félags, sbr. 2. mgr., skal tilkynna félaginu um uppsögn með mánaðar fyrirvara og miðast uppsögn við næstu mánaðamót þar á eftir. Upplýsa skal til hvaða vátryggingafélags er flutt og frá hvaða tíma.
+ □ Sé um hópvátryggingu að ræða er heimilt að víkja frá ákvæði 2. mgr. í vátryggingarsamningi.][^1)^]
+    _[^1)^]"L. 15/2015, 1. gr.":/altext/stjt/2015.015.html_
  ■ *15. gr.* _Heimild félagsins til að slíta vátryggingarsamningi á vátryggingartímabilinu._
  □ Félagið getur sagt upp vátryggingarsamningi samkvæmt reglum 21. gr. og 3. mgr. 47. gr. Í öðrum tilvikum getur félagið því aðeins sagt upp vátryggingarsamningi að fyrir hendi séu sérstök atvik sem skýrlega eru tilgreind í vátryggingarskilmálum, enda megi telja uppsögnina sanngjarna.
  □ Uppsögnin verður að fara fram án ástæðulauss dráttar eftir að félaginu varð kunnugt um atvik sem veittu því rétt til uppsagnarinnar. Uppsögnin skal vera skrifleg og rökstudd. Sé ekki ákveðinn skemmri frestur í lögum þessum skal uppsagnarfrestur vera tveir mánuðir hið minnsta.
@@ -100,6 +102,9 @@ h2. Lög um vátryggingarsamninga
  □ Félagið getur ekki áskilið sér rétt til að breyta vátryggingarskilmálum á vátryggingartímabilinu.
  ■ *17. gr.* _Uppgjör þegar vátryggingarsamningi er slitið á vátryggingartímabili._
  □ Nú er vátryggingarsamningi slitið á vátryggingartímabilinu og skal vátryggingartaki þá fá endurgreitt iðgjald fyrir þann tíma sem hann hefur greitt og vátryggingin er ekki í gildi. Þetta gildir þótt félagið sé laust úr ábyrgð í heild eða að hluta. Í skilmálum vátryggingarinnar skulu vera reglur um útreikning iðgjalds fyrir slík tilvik eða vísað til slíkra reglna.
+ □ [Sé áhætta misjöfn á samningstímabili vátryggingar, og tekið er tillit til slíks við ákvörðun iðgjalds, má setja í skilmála að við útreikning á endurgreiðslu iðgjalds til vátryggingartaka skuli taka tillit til slíkra áhættusveiflna í uppgjöri.
+ □ Vátryggingafélagi er ekki heimilt að taka gjald vegna kostnaðar þess við það að vátryggingu er sagt upp á samningstímabili.][^1)^]
+    _[^1)^]"L. 15/2015, 2. gr.":/altext/stjt/2015.015.html_
  ■ *18. gr.* _Endurnýjun og breyting á vátryggingarskilmálum við endurnýjun vátryggingar._
  □ Nú á vátrygging að gilda í tiltekinn tíma, eitt ár eða lengur, og félagið hyggst ekki framlengja hana fram yfir þann tíma og skal það þá tilkynna vátryggingartaka það í síðasta lagi tveimur mánuðum áður en vátryggingartímabilið er á enda. Að öðrum kosti framlengist vátryggingartímabilið í eitt ár.
  □ Félagið getur einungis neitað að endurnýja vátryggingu skv. 1. mgr. þegar fyrir liggja sérstakar ástæður sem leiða til þess að sanngjarnt er að segja henni upp. Þegar synjað er um endurnýjun gilda ákvæði 2. málsl. 2. mgr. 15. gr. og 3. mgr. sömu greinar. Það sem segir í þessari málsgrein á ekki við ef ótvírætt er af vátryggingarsamningi að vátryggingin skuli falla úr gildi þegar vátryggingartímabilinu lýkur.
@@ -359,8 +364,10 @@ h2. Lög um vátryggingarsamninga
  ■ *75. gr.* _Heimild vátryggingartaka til þess að segja upp vátryggingarsamningi._
  □ Vátryggingartaki getur, sé um líftryggingu að ræða, slitið samningnum hvenær sem er.
  □ Nú vill vátryggingartaki segja upp samningi um slysa- eða sjúkratryggingu þegar vátryggingartímabili lýkur og verður hann þá að tilkynna félaginu um það innan mánaðar frá því það sendi venjulega tilkynningu um gjalddaga hins nýja tímabils. Honum er þó ekki skylt að tilkynna félaginu um uppsögn fyrr en tvær vikur eru til loka tímabilsins.
- □ Vátryggingartaki getur á vátryggingartíma sagt upp gildandi samningi um slysa- eða sjúkratryggingu ef hann hefur ekki lengur þörf fyrir vátrygginguna eða fyrir hendi eru aðrar sérstakar ástæður.
+ □ [Vátryggingartaki getur á vátryggingartíma sagt upp gildandi samningi um slysa- eða sjúkratryggingu ef hann hefur ekki lengur þörf fyrir vátrygginguna, fyrir hendi eru aðrar sérstakar ástæður sem réttlæta uppsögn eða til að flytja vátrygginguna til annars félags.
+ □ Hyggist vátryggingartaki segja vátryggingu upp samkvæmt því sem greinir í 3. mgr. skal hann tilkynna félaginu um uppsögn með mánaðar fyrirvara og miðast uppsögn við næstu mánaðamót þar á eftir. Upplýsa skal til hvaða vátryggingafélags er flutt og frá hvaða tíma.][^1)^]
  □ Sé um hópvátryggingu að ræða er heimilt að víkja frá ákvæðum 1. og 3. mgr. í vátryggingarsamningi.
+    _[^1)^]"L. 15/2015, 3. gr.":/altext/stjt/2015.015.html_
  ■ *76. gr.* _Heimild félagsins til þess að slíta vátryggingarsamningi á vátryggingartímabili._
  □ Sé um líftryggingu að ræða getur félagið ekki slitið vátryggingarsamningi í öðrum tilvikum en greinir í 84. gr.
  □ Sé um að ræða slysa- eða sjúkratryggingu getur félagið slitið vátryggingarsamningi sem í gildi er samkvæmt reglum 84. gr. og 3. mgr. 120. gr. Í öðrum tilvikum getur félagið því aðeins sagt upp vátryggingarsamningi að fyrir hendi séu sérstök atvik sem skýrlega eru tilgreind í vátryggingarskilmálum, enda megi telja uppsögnina sanngjarna. Félagið getur þó ekki áskilið sér rétt til uppsagnar vegna þess að heilsu hins vátryggða hafi hrakað eftir að vátryggingin var tekin.
@@ -568,8 +575,9 @@ h2. Lög um vátryggingarsamninga
  □ Almennir vextir samkvæmt þessari grein skulu vera hinir sömu og greiða ber á skaðabætur samkvæmt "lögum um vexti og verðtryggingu, nr. 38/2001":2001038.html. Um dráttarvexti gilda reglur III. kafla þeirra laga.
  □ Vexti skal greiða þótt greiðsla félagsins í heild verði með því hærri en vátryggingarfjárhæð. Í vátryggingarskilmálum skal vekja athygli á rétti til vaxta samkvæmt þessari grein.
  ■ *124. gr.* _Frestur til að tilkynna um vátryggingaratburð í slysa-, sjúkra- eða heilsutryggingum og til lögfræðilegra aðgerða._
- □ Sá sem rétt á til bóta samkvæmt slysatryggingu, sjúkratryggingu eða heilsutryggingu með eða án uppsagnarréttar glatar þeim rétti ef krafa er ekki gerð um bætur til félagsins innan árs frá því að hann fékk vitneskju um þau atvik sem hún er reist á.
+ □ Sá sem rétt á til bóta samkvæmt slysatryggingu, sjúkratryggingu eða heilsutryggingu með eða án uppsagnarréttar glatar þeim rétti ef krafa er ekki gerð um bætur til félagsins innan árs frá því að hann fékk vitneskju um þau atvik sem hún er reist á [eða því hefur ekki borist tilkynning um vátryggingaratburð með öðrum hætti].[^1)^]
  □ Hafni félagið kröfu um bætur í heild eða að hluta glatar sá sem rétt á til bóta þeim rétti ef hann hefur ekki höfðað mál eða krafist meðferðar málsins fyrir úrskurðarnefnd skv. 141. gr. innan árs frá því að hann fékk skriflega tilkynningu um höfnunina. Í tilkynningu félagsins verður að koma fram hver lengd frestsins sé og hvernig honum verði slitið og lögfylgjur þess að það verði ekki gert. "Lög um fyrning skulda og annarra kröfuréttinda, nr. 14/1905":1905014.html, gilda eftir því sem við getur átt um slit á frestum.
+    _[^1)^]"L. 15/2015, 4. gr.":/altext/stjt/2015.015.html_
  ■ *125. gr.* _Fyrning._
  □ Krafa um vátryggingarfjárhæð samkvæmt höfuðstólstryggingum fyrnist á tíu árum og aðrar kröfur um bætur á fjórum árum. Fresturinn hefst við lok þess almanaksárs þegar sá er kröfuna á fékk nauðsynlegar upplýsingar um þau atvik sem krafa hans er reist á. Krafan fyrnist þó í síðasta lagi á 20 árum, en aðrar kröfur á 10 árum, eftir lok þess almanaksárs sem vátryggingaratburður varð. Hafi félagið vegna vátrygginga sem tilgreindar eru í 1. mgr. 124. gr. sent tilkynningu skv. 2. mgr. sömu greinar fyrnist krafan fyrst þegar sá frestur líður sem þar er tilgreindur.
  □ Krafa samkvæmt lífeyristryggingu fyrnist þegar liðin eru tíu ár frá þeim degi sem síðasta lífeyrisgreiðsla var innt af hendi. Hafi ekki verið inntar af hendi neinar greiðslur hefst fresturinn á þeim degi er rétthafinn gat krafist fyrstu greiðslu. Krafa um gjaldfallnar greiðslur fyrnist auk þess að liðnum fjórum árum frá gjalddaga.

@@ -2,19 +2,19 @@ h2. Kaflar lagasafns: 28. Verslun og viðskipti
 
 <hr />
 
-Íslensk lög 1. janúar 2015 (útgáfa 144a).
+Íslensk lög 15. september 2015 (útgáfa 144b).
 
 h3. 28.a. Heimildir til verslunar og viðskipta
 
 * Lög um verslunaratvinnu, "nr. 28 8. apríl 1998":1998028.html
 * Lög um umboðssöluviðskipti, "nr. 103 28. desember 1992":1992103.html
-* Lög um bílaleigur, "nr. 64 20. maí 2000":2000064.html
-* Lög um sölu fasteigna, fyrirtækja og skipa, "nr. 99 9. júní 2004":2004099.html
 * Lög um verslun með áfengi og tóbak, "nr. 86 23. júní 2011":2011086.html
+* Lög um leigu skráningarskyldra ökutækja, "nr. 65 9. júlí 2015":2015065.html
+* Lög um sölu fasteigna og skipa, "nr. 70 9. júlí 2015":2015070.html
 
 h3. 28.b. Smásöluverslun og verslunarvarningur
 
-* Lög um merkingar og upplýsingaskyldu varðandi orkunotkun heimilistækja o.fl., "nr. 72 11. maí 1994":1994072.html
+* Lög um merkingar og upplýsingaskyldu varðandi vörur sem tengjast orkunotkun, "nr. 72 11. maí 1994":1994072.html
 * Lög um matvæli, "nr. 93 28. júní 1995":1995093.html
 * Lög um öryggi vöru og opinbera markaðsgæslu, "nr. 134 22. desember 1995":1995134.html
 * Lög um visthönnun vöru sem tengist orkunotkun, "nr. 42 8. apríl 2009":2009042.html
@@ -48,6 +48,7 @@ h3. 28.f. Ýmis lög varðandi verslun og viðskipti
 * Lög um samvinnu stjórnvalda á Evrópska efnahagssvæðinu um neytendavernd, "nr. 56 27. mars 2007":2007056.html
 * Lög um þjónustuviðskipti á innri markaði Evrópska efnahagssvæðisins, "nr. 76 21. júní 2011":2011076.html
 * Lög um neytendalán, "nr. 33 27. mars 2013":2013033.html
+* Lög um greiðsludrátt í verslunarviðskiptum, "nr. 8 4. febrúar 2015":2015008.html
 
 h4. "Kaflar lagasafns":kaflar.html
 

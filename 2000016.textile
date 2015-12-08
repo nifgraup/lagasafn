@@ -7,7 +7,7 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
 <hr />
 
 
- *Tóku gildi 28. apríl 2000.* _Breytt með_ "l. 77/2000":/altext/stjt/2000.077.html (tóku gildi 1. jan. 2001), "l. 96/2002":/altext/stjt/2002.096.html (tóku gildi 1. jan. 2003), "l. 129/2005":/altext/stjt/2005.129.html (tóku gildi 30. des. 2005), "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 59/2013":/altext/stjt/2013.059.html (tóku gildi 1. júlí 2013).
+ *Tóku gildi 28. apríl 2000.* _Breytt með_ "l. 77/2000":/altext/stjt/2000.077.html (tóku gildi 1. jan. 2001), "l. 96/2002":/altext/stjt/2002.096.html (tóku gildi 1. jan. 2003), "l. 129/2005":/altext/stjt/2005.129.html (tóku gildi 30. des. 2005), "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 162/2010":/altext/stjt/2010.162.html (tóku gildi 1. jan. 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 59/2013":/altext/stjt/2013.059.html (tóku gildi 1. júlí 2013) og "l. 21/2015":/altext/stjt/2015.021.html (tóku gildi 17. mars 2015).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *innanríkisráðherra* eða *innanríkisráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -30,7 +30,11 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
     f. hvort viðkomandi er vopnaður, ofbeldishneigður eða á flótta,
     g. ástæðu fyrir skráningu,
     h. aðgerðir sem farið er fram á,
-    i. tegund brots þegar upplýsingar eru skráðar skv. a-lið 1. mgr. 6. gr.
+    i. [tilvísun til ákvörðunarinnar sem varð tilefni skráningar,
+    j. ljósmyndir,
+    k. fingraför,
+    l. yfirvald sem biður um skráninguna,
+    m. tengingu við aðrar skráningar í upplýsingakerfinu í samræmi við 9. gr. a].[^1)^]
  □ Í upplýsingakerfið má skrá upplýsingar um eftirtalda hluti:
     a. vélknúin ökutæki með slagrými yfir 50 rúmsentimetrum, skip, báta og loftför sem hefur verið stolið, hafa verið seld ólöglega eða hafa horfið,
     b. eftirvagna með eigin þunga yfir 750 kg, hjólhýsi, atvinnutæki, utanborðsvélar og gáma sem hefur verið stolið, hafa verið seld ólöglega eða hafa horfið,
@@ -39,8 +43,9 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
     e. útgefin persónuskilríki, svo sem vegabréf, nafnskírteini, ökuskírteini, dvalarleyfi og ferðaskilríki, sem hefur verið stolið, hafa verið seld ólöglega, hafa horfið eða verið ógilt,
     f. skráningarskírteini og skráningarmerki ökutækja sem hefur verið stolið, hafa verið seld ólöglega, hafa horfið eða verið ógilt,
     g. peningaseðla með skráðum númerum,
-    h. verðbréf og aðrar tegundir greiðslu, svo sem ávísanir, greiðslukort, skuldabréf eða hlutabréf, sem hefur verið stolið, hafa verið seld ólöglega eða hafa horfið.][^1)^]
-    _[^1)^]"L. 129/2005, 1. gr.":/altext/stjt/2005.129.html_
+    h. verðbréf og aðrar tegundir greiðslu, svo sem ávísanir, greiðslukort, skuldabréf eða hlutabréf, sem hefur verið stolið, hafa verið seld ólöglega eða hafa horfið.][^2)^]
+ □ [Í upplýsingakerfið má skrá viðbótargögn. Viðbótargögn eru vistuð í upplýsingakerfinu og tengjast skráningum í því. Gögnin skulu vera aðgengileg lögbærum yfirvöldum fyrirvaralaust þegar einstaklingur, sem gögn hafa verið skráð um í upplýsingakerfið, finnst í kjölfar leitar í kerfinu.][^1)^]
+    _[^1)^]"L. 21/2015, 1. gr.":/altext/stjt/2015.021.html [^2)^]"L. 129/2005, 1. gr.":/altext/stjt/2005.129.html_
  ■ *6. gr.* Heimilt er að skrá upplýsingar um einstaklinga í upplýsingakerfið í eftirfarandi tilvikum:
     a. vegna beiðni um að eftirlýstur maður verði handtekinn og framseldur,
     b. [þegar synja á útlendingi um komu til landsins vegna endurkomubanns sem enn er í gildi á grundvelli brottvísunar:
@@ -63,19 +68,31 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
     _[^1)^]"L. 129/2005, 2. gr.":/altext/stjt/2005.129.html [^2)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234_
  ■ *8. gr.* Heimilt er að skrá í upplýsingakerfið upplýsingar um hluti sem leitað er í þeim tilgangi að leggja á þá hald eða nota sem sönnunargagn í [sakamáli].[^1)^]
     _[^1)^]"L. 88/2008, 234. gr.":/altext/stjt/2008.088.html#G234_
+ ■ *[8. gr. a.* Schengen-ríki getur tengt saman skráningar sem það færir inn í upplýsingakerfið. Með slíkri tengingu er komið á venslum milli tveggja eða fleiri skráninga.
+ □ Myndun tengingar hefur ekki áhrif á þá tilteknu aðgerð sem mælt er fyrir um að gripið skuli til á grundvelli hverrar og einnar hinna tengdu skráninga eða varðveislutímabil hverrar tengdrar skráningar.
+ □ Myndun tengingar hefur ekki áhrif á réttinn til aðgangs samkvæmt lögum þessum. Yfirvöld, sem ekki hafa rétt til aðgangs að tilteknum flokkum skráninga, skulu ekki geta séð tengingu við skráningu sem þau hafa ekki aðgang að.
+ □ Schengen-ríki skal aðeins tengja saman skráningar þegar þess er augljóslega þörf vegna starfseminnar.][^1)^]
+    _[^1)^]"L. 21/2015, 2. gr.":/altext/stjt/2015.021.html_
  ■ *9. gr.* Upplýsingar sem skráðar eru í upplýsingakerfið verða ekki nýttar á annan veg en leiðir af tilgangi skráningar skv. 6. - 8. gr.
  □ Með samþykki ríkis sem skráð hefur upplýsingar verður vikið frá 1. mgr. og þær nýttar í öðrum tilgangi skv. 6. - 8. gr. þegar þannig stendur á:
     a. til að koma í veg fyrir alvarlega og bráða ógnun við almannaöryggi og allsherjarreglu,
     b. mikilvægir öryggishagsmunir ríkisins mæla með því,
     c. til að koma í veg fyrir alvarleg afbrot.
- ■ *[9. gr. a.* Ríkislögreglustjóra er heimilt að veita þar til bærum yfirvöldum í öðru Schengen-ríki nauðsynlegar viðbótarupplýsingar í tengslum við skráningu í upplýsingakerfið, sem og þegar hlutir eða einstaklingar, sem skráðir hafa verið í kerfið, finnast. Ekki má nota slíkar upplýsingar á annan veg en leiðir af tilgangi skráningar eða beiðni.][^1)^]
-    _[^1)^]"L. 129/2005, 3. gr.":/altext/stjt/2005.129.html_
+ ■ *[9. gr. a.* Ríkislögreglustjóra er heimilt að veita þar til bærum yfirvöldum í öðru Schengen-ríki nauðsynlegar viðbótarupplýsingar í tengslum við skráningu í upplýsingakerfið, sem og þegar hlutir eða einstaklingar, sem skráðir hafa verið í kerfið, finnast. Ekki má nota slíkar upplýsingar á annan veg en leiðir af tilgangi skráningar eða beiðni.
+ □ [Heimilt er að tengja viðbótarupplýsingar við skráningar í upplýsingakerfið. Viðbótarupplýsingar eru ekki vistaðar í upplýsingakerfinu en tengjast skráningum í því og skipst verður á slíkum upplýsingum:
+    a. í því skyni að gera Schengen-ríkjum kleift að hafa samráð sín á milli eða upplýsa hvert annað þegar skráning er færð inn,
+    b. þegar skráning hefur borið árangur svo að unnt sé að grípa til viðeigandi aðgerðar,
+    c. þegar ekki er unnt að grípa til þeirrar aðgerðar sem mælt er fyrir um,
+    d. þegar um er að ræða gæði gagna í upplýsingakerfinu,
+    e. þegar um er að ræða samrýmanleika og forgang skráninga,
+    f. þegar um er að ræða rétt til aðgangs.][^1)^]][^2)^]
+    _[^1)^]"L. 21/2015, 3. gr.":/altext/stjt/2015.021.html [^2)^]"L. 129/2005, 3. gr.":/altext/stjt/2005.129.html_
  ■ *10. gr.* Eftirtalin stjórnvöld skulu vera beinlínutengd við upplýsingakerfið til að sinna þessum verkefnum:
     a. [ríkissaksóknari og][^1)^] lögreglan við landamæraeftirlit og aðra löggæslu,
-    b. [Útlendingastofnun][^2)^] við afgreiðslu umsókna um vegabréfsáritun, landgöngu- eða dvalarleyfi og til að sinna öðrum skyldum samkvæmt lögum um eftirlit með útlendingum að því marki sem nauðsynlegt er til að bregðast við upplýsingum sem skráðar eru á grundvelli [d- og e-liðar 2. mgr. 5. gr. og][^1)^] b-liðar 1. mgr. 6. gr.
-    [c. [Samgöngustofa][^3)^] við skráningu ökutækja í þeim tilgangi að kanna hvort ökutæki sem óskað er skráningar á hafi verið stolið, selt ólöglega eða horfið; aðgangurinn takmarkast þó við upplýsingar um ökutæki á grundvelli a-liðar 2. mgr. 5. gr., um eftirvagna og hjólhýsi á grundvelli b-liðar 2. mgr. 5. gr. og um skráningarskírteini og skráningarmerki á grundvelli f-liðar 2. mgr. 5. gr.][^1)^]
+    b. [Útlendingastofnun][^2)^] við afgreiðslu umsókna um vegabréfsáritun, landgöngu- eða dvalarleyfi og til að sinna öðrum skyldum samkvæmt [lögum um útlendinga][^3)^] að því marki sem nauðsynlegt er til að bregðast við upplýsingum sem skráðar eru á grundvelli [d- og e-liðar 2. mgr. 5. gr. og][^1)^] b-liðar 1. mgr. 6. gr.
+    [c. [Samgöngustofa][^4)^] við skráningu ökutækja í þeim tilgangi að kanna hvort ökutæki sem óskað er skráningar á hafi verið stolið, selt ólöglega eða horfið; aðgangurinn takmarkast þó við upplýsingar um ökutæki á grundvelli a-liðar 2. mgr. 5. gr., um eftirvagna og hjólhýsi á grundvelli b-liðar 2. mgr. 5. gr. og um skráningarskírteini og skráningarmerki á grundvelli f-liðar 2. mgr. 5. gr.][^1)^]
  □ Til að starfa við upplýsingakerfið verður viðkomandi starfsmaður að fá sérstaka heimild ríkislögreglustjóra, enda fullnægi hann settum hæfis- og öryggiskröfum. Viðkomandi starfsmaður skal einungis hafa þann aðgang að kerfinu sem honum er nauðsynlegur til að gegna starfi sínu.
-    _[^1)^]"L. 129/2005, 4. gr.":/altext/stjt/2005.129.html [^2)^]"L. 96/2002, 59. gr.":/altext/stjt/2002.096.html#G59 [^3)^]"L. 59/2013, 14. gr.":/altext/stjt/2013.059.html_
+    _[^1)^]"L. 129/2005, 4. gr.":/altext/stjt/2005.129.html [^2)^]"L. 96/2002, 59. gr.":/altext/stjt/2002.096.html#G59 [^3)^]"L. 21/2015, 4. gr.":/altext/stjt/2015.021.html [^4)^]"L. 59/2013, 14. gr.":/altext/stjt/2013.059.html_
  ■ *11. gr.* Eftirtalin stjórnvöld skulu eftir beiðni hafa aðgang að upplýsingum úr upplýsingakerfinu að því marki sem þeim er nauðsynlegt til að sinna þessum verkefnum:
     a. tollgæslan við eftirlit á landamærum og þegar hún annast eða aðstoðar við löggæslu,
     b. Landhelgisgæslan þegar hún annast eða aðstoðar við löggæslu,
@@ -103,8 +120,9 @@ h2. Lög um Schengen-upplýsingakerfið á Íslandi
     _[^1)^]"L. 129/2005, 6. gr.":/altext/stjt/2005.129.html_
  ■ *18. gr.* [Persónuvernd][^1)^] skal hafa eftirlit með því að skráning og meðferð persónuupplýsinga í upplýsingakerfinu sé í samræmi við lög þessi og reglur sem gilda um persónuvernd og friðhelgi einkalífs. [Persónuvernd][^1)^] skal einnig hafa eftirlit með því að öryggi upplýsingakerfisins sé tryggt þannig að óviðkomandi fái ekki aðgang að því eða geti haft áhrif á skráningu í það.
  □ [Persónuvernd][^1)^] hefur aðgang að skráðum upplýsingum og öðrum nauðsynlegum gögnum til að sinna eftirliti með upplýsingakerfinu skv. 1. mgr.
- □ Nú gerir [Persónuvernd][^1)^] athugasemdir við starfrækslu upplýsingakerfisins og skal hún þá koma þeim og tillögum um úrbætur á framfæri við ríkislögreglustjóra og [ráðuneytið].[^2)^]
-    _[^1)^]"L. 77/2000, 46. gr.":/altext/stjt/2000.077.html#G46 [^2)^]"L. 162/2010, 160. gr.":/altext/stjt/2010.162.html_
+ □ Nú gerir [Persónuvernd][^1)^] athugasemdir við starfrækslu upplýsingakerfisins og skal hún þá koma þeim og tillögum um úrbætur á framfæri við ríkislögreglustjóra og [ráðuneytið].[^2)^] [Telji Persónuvernd meðferð persónuupplýsinga í andstöðu við ákvæði laga þessara getur stofnunin farið fram á að skráningu upplýsinga verði hætt eða sæti skilyrðum. Ríkislögreglustjóra ber að bregðast við athugasemdum og fyrirmælum Persónuverndar um úrbætur þegar í stað og eigi síðar en innan þriggja mánaða.][^3)^]
+ □ [Ákvarðanir ríkislögreglustjóra sem teknar eru á grundvelli 13. - 15. gr. má bera undir úrskurð Persónuverndar.][^3)^]
+    _[^1)^]"L. 77/2000, 46. gr.":/altext/stjt/2000.077.html#G46 [^2)^]"L. 162/2010, 160. gr.":/altext/stjt/2010.162.html [^3)^]"L. 21/2015, 5. gr.":/altext/stjt/2015.021.html_
  ■ *19. gr.* Ráðherra setur nánari ákvæði í reglugerð[^1)^] um framkvæmd laganna, þar með talið um:
     a. öryggisþætti upplýsingakerfisins og innra eftirlit með því, sbr. 3. gr.,
     b. hæfis- og öryggiskröfur sem starfsmenn lögreglu eða [Útlendingastofnunar][^2)^] verða að fullnægja til að starfa við upplýsingakerfið, sbr. 2. mgr. 10. gr.,

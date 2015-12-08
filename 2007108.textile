@@ -7,7 +7,7 @@ h2. Lög um verðbréfaviðskipti
 <hr />
 
 
- *Tóku gildi 1. nóvember 2007.* _EES-samningurinn:_ IX. viðauki tilskipun 89/298/EBE, 89/592/EBE, 2001/34/EB, 2003/6/EB, 2003/71/EB, 2003/124/EB og 2003/125/EB, reglugerð 2273/2003, tilskipun 2004/25/EB, 2004/39/EB, 2004/72/EB og 2004/109/EB. _Breytt með_ "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 96/2008":/altext/stjt/2008.096.html (tóku gildi 24. júní 2008), "l. 20/2009":/altext/stjt/2009.020.html (tóku gildi 27. mars 2009), "l. 22/2009":/altext/stjt/2009.022.html (tóku gildi 27. mars 2009), "l. 65/2010":/altext/stjt/2010.065.html (tóku gildi 27. júní 2010), "l. 141/2010":/altext/stjt/2010.141.html (tóku gildi 29. des. 2010), "l. 48/2013":/altext/stjt/2013.048.html (tóku gildi 11. apríl 2013; _EES-samningurinn:_ IX. viðauki tilskipun 2003/71/EB og 2004/109/EB) og "l. 28/2014":/altext/stjt/2014.028.html (tóku gildi 8. apríl 2014).
+ *Tóku gildi 1. nóvember 2007.* _EES-samningurinn:_ IX. viðauki tilskipun 89/298/EBE, 89/592/EBE, 2001/34/EB, 2003/6/EB, 2003/71/EB, 2003/124/EB og 2003/125/EB, reglugerð 2273/2003, tilskipun 2004/25/EB, 2004/39/EB, 2004/72/EB og 2004/109/EB. _Breytt með_ "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 96/2008":/altext/stjt/2008.096.html (tóku gildi 24. júní 2008), "l. 20/2009":/altext/stjt/2009.020.html (tóku gildi 27. mars 2009), "l. 22/2009":/altext/stjt/2009.022.html (tóku gildi 27. mars 2009), "l. 65/2010":/altext/stjt/2010.065.html (tóku gildi 27. júní 2010), "l. 141/2010":/altext/stjt/2010.141.html (tóku gildi 29. des. 2010), "l. 48/2013":/altext/stjt/2013.048.html (tóku gildi 11. apríl 2013; _EES-samningurinn:_ IX. viðauki tilskipun 2003/71/EB og 2004/109/EB), "l. 28/2014":/altext/stjt/2014.028.html (tóku gildi 8. apríl 2014) og "l. 58/2015":/altext/stjt/2015.058.html (tóku gildi 17. júlí 2015).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -771,7 +771,7 @@ h2. Lög um verðbréfaviðskipti
     2. viðurkenndri markaðsframkvæmd,
     3. tilkynningum fjármálafyrirtækja eða starfsmanna þeirra um grun um brot, sbr. 3. mgr. 117. gr.,
     4. undanþágum frá ákvæðum um markaðsmisnotkun vegna endurkaupaáætlana og verðjöfnunar.
-    _[^1)^]"Rg. 630/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/630-2005, sbr. "887/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/887-2008._
+    _[^1)^]"Rg. 630/2005":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/630-2005, sbr. "887/2008":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/887-2008 og "257/2015":http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/257-2015._
 
  *XIII. kafli.* *Meðferð innherjaupplýsinga og viðskipti innherja.*
  ■ *119. gr.* _Gildissvið kaflans._
@@ -972,9 +972,21 @@ h2. Lög um verðbréfaviðskipti
     44. 130. gr. um eftirlit með meðferð innherjaupplýsinga og viðskiptum innherja,
     45. sátt milli Fjármálaeftirlitsins og aðila, sbr. 142. gr.
  □ Þá getur Fjármálaeftirlitið lagt stjórnvaldssektir á hvern þann sem brýtur gróflega eða ítrekað gegn 5. - 21. og 25. gr. um réttindi og skyldur fjármálafyrirtækja.
- □ Sektir sem lagðar eru á einstaklinga geta numið frá 10 þús. kr. til 20 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 50 þús. kr. til 50 millj. kr. Við ákvörðun sekta skal m.a. tekið tillit til alvarleika brots, hvað það hefur staðið lengi, samstarfsvilja hins brotlega aðila og hvort um ítrekað brot er að ræða. Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar. Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
+ □ [Sektir sem lagðar eru á einstaklinga geta numið frá 100 þús. kr. til 65 millj. kr. Sektir sem lagðar eru á lögaðila geta numið frá 500 þús. kr. til 800 millj. kr. en geta þó verið hærri eða allt að 10% af heildarveltu samkvæmt síðasta samþykkta ársreikningi lögaðilans eða 10% af síðasta samþykkta samstæðureikningi ef lögaðili er hluti af samstæðu og brot er framið til hagsbóta fyrir annan lögaðila í samstæðunni eða annar lögaðili í samstæðunni hefur notið hagnaðar af brotinu.
+ □ Við ákvörðun sekta samkvæmt ákvæði þessu skal m.a. tekið tillit til allra atvika sem máli skipta, þ.m.t. eftirfarandi:
+    a. alvarleika brots,
+    b. hvað brotið hefur staðið lengi,
+    c. ábyrgðar hins brotlega hjá lögaðilanum,
+    d. fjárhagsstöðu hins brotlega,
+    e. ávinnings af broti eða taps sem forðað er með broti,
+    f. hvort brot hafi leitt til taps þriðja aðila,
+    g. hvers konar mögulegra kerfislegra áhrifa brotsins,
+    h. samstarfsvilja hins brotlega,
+    i. fyrri brota og hvort um ítrekað brot er að ræða.
+ □ Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og eru þær aðfararhæfar. Sektir renna í ríkissjóð að frádregnum kostnaði við innheimtuna. Séu stjórnvaldssektir ekki greiddar innan mánaðar frá ákvörðun Fjármálaeftirlitsins skal greiða dráttarvexti af fjárhæð sektarinnar. Um ákvörðun og útreikning dráttarvaxta fer eftir lögum um vexti og verðtryggingu.
  □ Stjórnvaldssektum verður beitt óháð því hvort lögbrot eru framin af ásetningi eða gáleysi.
-    _[^1)^]"L. 141/2010, 2. gr.":/altext/stjt/2010.141.html [^2)^]"L. 22/2009, 15. gr.":/altext/stjt/2009.022.html_
+ □ Ef einstaklingur eða lögaðili brýtur gegn lögum þessum eða reglum settum á grundvelli þeirra, og fyrir liggur að hann hafi hlotið fjárhagslegan ávinning af broti, er heimilt að ákvarða hinum brotlega sektarfjárhæð sem getur, þrátt fyrir 1. og 2. málsl. 3. mgr., orðið allt að tvöfaldri þeirri fjárhæð sem fjárhagslegur ávinningur hins brotlega nemur.][^3)^]
+    _[^1)^]"L. 141/2010, 2. gr.":/altext/stjt/2010.141.html [^2)^]"L. 22/2009, 15. gr.":/altext/stjt/2009.022.html [^3)^]"L. 58/2015, 13. gr.":/altext/stjt/2015.058.html_
  ■ *142. gr.* Hafi aðili gerst brotlegur við ákvæði laga þessara eða ákvarðanir Fjármálaeftirlitsins á grundvelli þeirra er Fjármálaeftirlitinu heimilt að ljúka málinu með sátt með samþykki málsaðila, enda sé ekki um að ræða meiri háttar brot sem refsiviðurlög liggja við. Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni hennar með undirskrift sinni. Fjármálaeftirlitið setur nánari reglur[^1)^] um framkvæmd ákvæðisins.
     _[^1)^]Rgl. 728/2014._
  ■ *143. gr.* Í máli sem beinist að einstaklingi og lokið getur með álagningu stjórnvaldssekta eða kæru til lögreglu hefur maður, sem rökstuddur grunur leikur á að hafi gerst sekur um lögbrot, rétt til að neita að svara spurningum eða afhenda gögn eða muni nema hægt sé að útiloka að það geti haft þýðingu fyrir ákvörðun um brot hans. Fjármálaeftirlitið skal leiðbeina hinum grunaða um þennan rétt.
@@ -1012,6 +1024,8 @@ h2. Lög um verðbréfaviðskipti
  ■ *147. gr.* Brot gegn lögum þessum er varða sektum eða fangelsi varða refsingu hvort sem þau eru framin af ásetningi eða gáleysi.
  □ Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotist hefur af broti gegn ákvæðum laga þessara er varða sektum eða fangelsi.
  □ Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð eftir því sem segir í almennum hegningarlögum.
+ □ [Gera má lögaðila sekt fyrir brot á lögum þessum og reglum settum á grundvelli þeirra óháð því hvort sök verði sönnuð á tiltekinn fyrirsvarsmann lögaðilans, starfsmann hans eða annan aðila sem starfar á hans vegum. Hafi fyrirsvarsmaður lögaðilans, starfsmaður hans eða annar á hans vegum með saknæmum hætti brotið gegn lögum þessum eða reglum settum á grundvelli þeirra í starfsemi lögaðilans má gera honum refsingu, auk þess að gera lögaðilanum sekt.][^1)^]
+    _[^1)^]"L. 58/2015, 14. gr.":/altext/stjt/2015.058.html_
  ■ *148. gr.* [Brot gegn lögum þessum sæta aðeins rannsókn lögreglu að undangenginni kæru Fjármálaeftirlitsins.][^1)^]
  □ Varði meint brot á lögum þessum bæði stjórnvaldssektum og refsingu metur Fjármálaeftirlitið hvort mál skuli kært til lögreglu eða því lokið með stjórnvaldsákvörðun hjá stofnuninni. Ef brot eru meiri háttar ber Fjármálaeftirlitinu að vísa þeim til lögreglu. Brot telst meiri háttar ef það lýtur að verulegum fjárhæðum, ef verknaður er framinn með sérstaklega vítaverðum hætti eða við aðstæður sem auka mjög á saknæmi brotsins. Jafnframt getur Fjármálaeftirlitið á hvaða stigi rannsóknar sem er vísað máli vegna brota á lögum þessum til [rannsóknar lögreglu].[^1)^] Gæta skal samræmis við úrlausn sambærilegra mála.
  □ Með kæru Fjármálaeftirlitsins skulu fylgja afrit þeirra gagna sem grunur um brot er studdur við. Ákvæði IV. - VII. kafla stjórnsýslulaga gilda ekki um ákvörðun Fjármálaeftirlitsins um að kæra mál til lögreglu.

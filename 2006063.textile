@@ -7,7 +7,7 @@ h2. Lög um háskóla
 <hr />
 
 
- *Tóku gildi 1. júlí 2006.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 67/2012":/altext/stjt/2012.067.html (tóku gildi 3. júlí 2012).
+ *Tóku gildi 1. júlí 2006.* _Breytt með_ "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 67/2012":/altext/stjt/2012.067.html (tóku gildi 3. júlí 2012) og "l. 91/2015":/altext/stjt/2015.091.html (tóku gildi 5. ágúst 2015 nema 1. og 4. - 7. gr. sem tóku gildi 1. júlí 2015).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *mennta- og menningarmálaráðherra* eða *mennta- og menningarmálaráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -15,8 +15,8 @@ h2. Lög um háskóla
 
 
  *I. kafli.* *Gildissvið. Hlutverk háskóla.*
- ■ *1. gr.* Lög þessi taka til skóla sem veita æðri menntun er leiðir til prófgráðu á háskólastigi og hlotið hafa viðurkenningu [ráðuneytisins],[^1)^] sbr. 3. gr.
-    _[^1)^]"L. 126/2011, 430. gr.":/altext/stjt/2011.126.html_
+ ■ *1. gr.* Lög þessi taka til skóla sem veita æðri menntun er leiðir til prófgráðu á háskólastigi og hlotið hafa viðurkenningu ...,[^1)^] sbr. 3. gr.
+    _[^1)^]"L. 91/2015, 10. gr.":/altext/stjt/2015.091.html#G10_
  ■ *2. gr.* Háskóli er sjálfstæð menntastofnun sem sinnir kennslu, rannsóknum, varðveislu þekkingar, þekkingarleit og sköpun á sviðum vísinda, fræða, tækniþróunar eða lista. Hlutverk háskóla er að stuðla að sköpun og miðlun þekkingar og færni til nemenda og samfélagsins alls. Starf háskóla miðar að því að styrkja innviði íslensks samfélags og stöðu þess í alþjóðlegu tilliti [með hagsmuni komandi kynslóða að leiðarljósi].[^1)^] Háskóli er miðstöð þekkingar og hluti af alþjóðlegu mennta- og vísindasamfélagi.
  □ Háskólar mennta nemendur með kennslu og þátttöku í vísindarannsóknum og búa þá undir að gegna störfum sem krefjast [fræðilegra][^1)^] vinnubragða, þekkingar og færni. [Háskóli undirbýr nemendur til ábyrgrar þátttöku í lýðræðissamfélagi.][^1)^] Menntun, sem háskólar veita, tekur mið af þörfum samfélagsins hverju sinni og getur verið fræðilegs eðlis og starfsmiðuð.
  □ [Háskólar ráða skipulagi starfsemi sinnar og ákveða hvernig henni er best fyrir komið.][^1)^]
@@ -26,9 +26,9 @@ h2. Lög um háskóla
     _[^1)^]"L. 67/2012, 2. gr.":/altext/stjt/2012.067.html_
 
  *II. kafli.* *Viðurkenning háskóla.*
- ■ *3. gr.* Háskóla má reka sem ríkisstofnun, sjálfseignarstofnun ...[^1)^] eða samkvæmt öðru viðurkenndu rekstrarformi. Ríkisrekinn háskóli er sjálfstæð ríkisstofnun sem heyrir undir [ráðherra][^2)^] nema yfirstjórn hennar sé falin öðrum ráðherra að lögum. [Háskóli skal ekki rekinn með fjárhagslegan ágóða að markmiði.][^1)^]
- □ [Ráðherra][^2)^] veitir háskólum viðurkenningu að uppfylltum skilyrðum laga þessara.
- □ [Ráðherra][^2)^] gefur út reglur[^3)^] um viðurkenningu háskóla sem byggjast á alþjóðlegum viðmiðum um háskólastarfsemi. Í þeim skulu tilgreind skilyrði sem háskólar skulu fullnægja til að öðlast viðurkenningu. Skilyrðin lúta að eftirtöldum þáttum:
+ ■ *3. gr.* [Háskóla má reka sem ríkisstofnun, sjálfseignarstofnun eða samkvæmt öðru viðurkenndu rekstrarformi. Ríkisrekinn háskóli er sjálfstæð ríkisstofnun sem heyrir undir ráðherra nema yfirstjórn hennar sé falin öðrum ráðherra með lögum. Háskóli skal ekki rekinn með fjárhagslegan ágóða að markmiði.
+ □ Ráðherra veitir háskólum viðurkenningu að uppfylltum skilyrðum laga þessara. Ráðherra er heimilt að fela Menntamálastofnun að veita slíka viðurkenningu.
+ □ Ráðherra gefur út reglur[^1)^] um viðurkenningu háskóla sem byggjast á alþjóðlegum viðmiðum um háskólastarfsemi. Í þeim skulu tilgreind skilyrði sem háskólar skulu fullnægja til að öðlast viðurkenningu. Skilyrðin lúta að eftirtöldum þáttum:
     a. hlutverki og markmiðum háskóla,
     b. stjórnskipan og skipulagi,
     c. fyrirkomulagi kennslu og rannsókna,
@@ -36,17 +36,17 @@ h2. Lög um háskóla
     e. inntökuskilyrðum og réttindum og skyldum nemenda,
     f. aðstöðu kennara og nemenda og þjónustu við þá, þ.m.t. fatlaðra nemenda,
     g. innra gæðakerfi,
-    h. lýsingu á inntaki náms út frá þekkingu, [leikni og hæfni][^1)^] við námslok,
+    h. lýsingu á inntaki náms út frá þekkingu, leikni og hæfni við námslok,
     i. fjárhag.
- □ Viðurkenning háskóla er bundin við tiltekin fræðasvið [og undirflokka þeirra].[^1)^]
- □ Háskóli skal sækja um heimild til [ráðherra][^2)^] óski hann eftir viðurkenningu til að stunda kennslu eða rannsóknir á öðru fræðasviði en viðurkenning hans nær þegar til. Háskólar geta eingöngu starfað á fræðasviðum sem viðurkenning þeirra nær til.
- □ [Ráðherra][^2)^] skipar þrjá óháða og sérfróða einstaklinga í nefnd er veitir umsögn um umsóknir um viðurkenningu er taki til einstakra fræðasviða.
- □ Hyggist háskóli láta af kennslu eða rannsóknum á tilteknu fræðasviði skal [ráðuneytinu][^2)^] tilkynnt um það. Hafi ekki verið stunduð kennsla eða rannsóknir í tvö ár samfleytt á fræðasviði, sem viðurkenning háskóla nær til, fellur viðurkenning háskólans á því fræðasviði úr gildi.
- □ Í viðurkenningu háskóla felst staðfesting á því að starfsemi viðkomandi háskóla sé í samræmi við lög þessi og reglur sem settar kunna að vera með stoð í þeim. Viðurkenning felur ekki í sér að stjórnvöld séu skuldbundin til að veita fé til viðkomandi háskóla. [Engri stofnun er heimilt að starfa á Íslandi undir heitinu háskóli nema hún hafi hlotið viðurkenningu ráðherra.][^1)^]
- □ [Ráðherra][^2)^] skal setja reglur um erlendar þýðingar á heitum þeirra háskóla sem hann veitir viðurkenningu.
-    _[^1)^]"L. 67/2012, 3. gr.":/altext/stjt/2012.067.html [^2)^]"L. 126/2011, 430. gr.":/altext/stjt/2011.126.html [^3)^]Rgl. 1067/2006._
- ■ *4. gr.* Uppfylli háskóli, sem fengið hefur viðurkenningu, ekki ákvæði laga þessara og reglur og skilyrði sem sett eru á grundvelli þeirra eða þær kröfur sem gerðar eru til kennslu og rannsókna getur [ráðherra][^1)^] afturkallað viðurkenningu á einstökum fræðasviðum eða að fullu.
-    _[^1)^]"L. 126/2011, 430. gr.":/altext/stjt/2011.126.html_
+ □ Viðurkenning háskóla er bundin við tiltekin fræðasvið og undirflokka þeirra.
+ □ Háskóli skal sækja um heimild til ráðherra óski hann eftir viðurkenningu til að stunda kennslu eða rannsóknir á öðru fræðasviði en viðurkenning hans nær þegar til. Ráðherra er heimilt að fela Menntamálastofnun að veita slíka viðurkenningu. Háskólar geta eingöngu starfað á fræðasviðum sem viðurkenning þeirra nær til.
+ □ Ráðherra skipar þrjá óháða og sérfróða einstaklinga í nefnd er veitir umsögn um umsóknir um viðurkenningu er taki til einstakra fræðasviða. Ráðherra er heimilt að fela Menntamálastofnun að skipa nefndina.
+ □ Hyggist háskóli láta af kennslu eða rannsóknum á tilteknu fræðasviði skal ráðuneytinu eða eftir atvikum Menntamálastofnun tilkynnt um það. Hafi ekki verið stunduð kennsla eða rannsóknir í tvö ár samfleytt á fræðasviði, sem viðurkenning háskóla nær til, fellur viðurkenning háskólans á því fræðasviði úr gildi.
+ □ Í viðurkenningu háskóla felst staðfesting á því að starfsemi viðkomandi háskóla sé í samræmi við lög þessi og reglur sem settar kunna að vera með stoð í þeim. Viðurkenning felur ekki í sér að stjórnvöld séu skuldbundin til að veita fé til viðkomandi háskóla. Engri stofnun er heimilt að starfa á Íslandi undir heitinu háskóli nema hún hafi hlotið viðurkenningu ráðherra eða eftir atvikum Menntamálastofnunar.
+ □ Ráðherra skal setja reglur um erlendar þýðingar á heitum þeirra háskóla sem hann veitir viðurkenningu. Ráðherra er heimilt að fela Menntamálastofnun að setja slíkar reglur.][^2)^]
+    _[^1)^]Rgl. 1067/2006. [^2)^]"L. 91/2015, 10. gr.":/altext/stjt/2015.091.html#G10_
+ ■ *4. gr.* Uppfylli háskóli, sem fengið hefur viðurkenningu, ekki ákvæði laga þessara og reglur og skilyrði sem sett eru á grundvelli þeirra eða þær kröfur sem gerðar eru til kennslu og rannsókna getur [ráðherra][^1)^] afturkallað viðurkenningu á einstökum fræðasviðum eða að fullu. [Ráðherra er heimilt að fela Menntamálastofnun að annast afturköllun samkvæmt þessari grein.][^2)^]
+    _[^1)^]"L. 126/2011, 430. gr.":/altext/stjt/2011.126.html [^2)^]"L. 91/2015, 10. gr.":/altext/stjt/2015.091.html#G10_
  ■ *5. gr.* [Ráðherra][^1)^] gefur út formleg viðmið[^2)^] um æðri menntun og prófgráður. Viðmið um æðri menntun og prófgráður eru kerfisbundin lýsing á prófgráðum og lokaprófum þar sem lögð er áhersla á almenna lýsingu á þeirri þekkingu, [leikni og hæfni][^3)^] sem námsmenn eiga að ráða yfir við námslok. Í þeim skulu koma fram þau skilyrði sem háskólum ber að uppfylla á hverju námsstigi. Háskólum ber að birta sambærilegar lýsingar fyrir hverja námsleið á þeirri þekkingu, [leikni og hæfni][^3)^] sem námsmenn eiga að ráða yfir við námslok. ...[^3)^]
     _[^1)^]"L. 126/2011, 430. gr.":/altext/stjt/2011.126.html [^2)^]Augl. 530/2011. [^3)^]"L. 67/2012, 4. gr.":/altext/stjt/2012.067.html_
 
@@ -59,12 +59,12 @@ h2. Lög um háskóla
     c. meistara- eða kandídatspróf sem jafngildir a.m.k. 90 - 120 stöðluðum námseiningum til viðbótar bakkalárprófi eða jafngildi þess,
     d. doktorspróf sem jafngildir að lágmarki 180 stöðluðum námseiningum til viðbótar tilskildum einingafjölda til meistara- eða kandídatsprófs.
  □ ...[^1)^] Háskólar geta skilgreint nám sem felur í sér starfsþjálfun til námseininga á námsstigum skv. 2. mgr.
- □ Háskólar skulu leita heimildar [ráðherra][^2)^] til að bjóða nám til doktorsprófs. Skal sýnt fram á að viðkomandi háskóli uppfylli viðeigandi kröfur og skilyrði sem tilgreind eru í reglum[^3)^] um doktorsnám í háskólum. [Ráðherra][^2)^] skipar þrjá óháða og sérfróða einstaklinga í nefnd er veitir umsögn um hæfi háskóla til að veita doktorsgráður.
+ □ [Háskólar skulu leita heimildar ráðherra til að bjóða nám til doktorsprófs. Ráðherra er heimilt að fela Menntamálastofnun að veita slíkar heimildir. Skal sýnt fram á að viðkomandi háskóli uppfylli viðeigandi kröfur og skilyrði sem tilgreind eru í reglum[^2)^] um doktorsnám í háskólum. Ráðherra eða Menntamálastofnun, samkvæmt ákvörðun ráðherra, skipar þrjá óháða og sérfróða einstaklinga í nefnd er veitir umsögn um hæfi háskóla til að veita doktorsgráður.][^3)^]
  □ ...[^1)^]
-    _[^1)^]"L. 67/2012, 5. gr.":/altext/stjt/2012.067.html [^2)^]"L. 126/2011, 430. gr.":/altext/stjt/2011.126.html [^3)^]Rgl. 37/2007._
+    _[^1)^]"L. 67/2012, 5. gr.":/altext/stjt/2012.067.html [^2)^]Rgl. 37/2007. [^3)^]"L. 91/2015, 10. gr.":/altext/stjt/2015.091.html#G10_
  ■ *8. gr.* Háskólar skulu reglulega gera grein fyrir því opinberlega hvernig tryggt er að það nám, sem þeir bjóða, uppfylli viðmið um æðri menntun og prófgráður skv. 5. gr.
- □ [Við undirbúning og skipulagningu nýrra námsleiða skal háskóli senda ráðuneytinu upplýsingar um hvernig námið uppfyllir viðmið um æðri menntun og prófgráður skv. 5. gr.][^1)^]
-    _[^1)^]"L. 67/2012, 6. gr.":/altext/stjt/2012.067.html_
+ □ [Við undirbúning og skipulagningu nýrra námsleiða skal háskóli senda ráðuneytinu eða Menntamálastofnun, samkvæmt nánari ákvörðun ráðherra, upplýsingar um hvernig námið uppfyllir viðmið um æðri menntun og prófgráður skv. 5. gr.][^1)^]
+    _[^1)^]"L. 91/2015, 10. gr.":/altext/stjt/2015.091.html#G10_
  ■ *9. gr.* Háskólar, sem starfa á grundvelli laga þessara, skulu gera með sér samkomulag um gagnkvæma viðurkenningu námsþátta [og námsleiða].[^1)^] Þeir skulu hafa með sér samstarf til að nýta sem best tiltæka starfskrafta og gagnakost og stuðla með hagkvæmum hætti að fjölbreyttri háskólamenntun. Háskólum er heimilt að veita prófgráður skv. 7. gr. í samstarfi við aðra háskóla, innlenda sem erlenda. [Með þeim hætti skulu háskólar á Íslandi leitast við að vinna saman til að nýta sem best opinberar fjárveitingar og styrkja stöðu sína á alþjóðlegum vettvangi.][^1)^]
     _[^1)^]"L. 67/2012, 7. gr.":/altext/stjt/2012.067.html_
  ■ *10. gr.* Heimilt er háskólum að meta til eininga nám sem fram fer í [öðrum viðurkenndum háskólum og rannsóknastofnunum].[^1)^] Jafnframt er [háskólum heimilt í undantekningartilvikum að meta til eininga námskeið][^1)^] sem fram fer við aðra skóla og rannsóknastofnanir enda ábyrgist þeir að námið uppfylli sambærilegar gæða- og námskröfur og gerðar eru á grundvelli laga þessara. [Farið skal að alþjóðlegum samningum um viðurkenningu á háskólamenntun og hæfi sem íslensk stjórnvöld eru aðilar að.][^1)^]

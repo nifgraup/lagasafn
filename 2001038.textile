@@ -7,7 +7,7 @@ h2. Lög um vexti og verðtryggingu
 <hr />
 
 
- *Tóku gildi 1. júlí 2001.* _EES-samningurinn:_ tilskipun 2000/35/EB. _Breytt með_ "l. 51/2007":/altext/stjt/2007.051.html (tóku gildi 1. jan. 2008), "l. 159/2008":/altext/stjt/2008.159.html (tóku gildi 1. jan. 2009), "l. 23/2009":/altext/stjt/2009.023.html (tóku gildi 31. mars 2009), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 151/2010":/altext/stjt/2010.151.html (tóku gildi 29. des. 2010), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011) og "l. 38/2014":/altext/stjt/2014.038.html (tóku gildi 27. maí 2014).
+ *Tóku gildi 1. júlí 2001.* _EES-samningurinn:_ tilskipun 2000/35/EB. _Breytt með_ "l. 51/2007":/altext/stjt/2007.051.html (tóku gildi 1. jan. 2008), "l. 159/2008":/altext/stjt/2008.159.html (tóku gildi 1. jan. 2009), "l. 23/2009":/altext/stjt/2009.023.html (tóku gildi 31. mars 2009), "l. 98/2009":/altext/stjt/2009.098.html (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), "l. 151/2010":/altext/stjt/2010.151.html (tóku gildi 29. des. 2010), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 38/2014":/altext/stjt/2014.038.html (tóku gildi 27. maí 2014), "l. 8/2015":/altext/stjt/2015.008.html (tóku gildi 10. febr. 2015; _EES-samningurinn:_ XII. viðauki tilskipun 2011/7/ESB) og "l. 58/2015":/altext/stjt/2015.058.html (tóku gildi 17. júlí 2015).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *fjármála- og efnahagsráðherra* eða *fjármála- og efnahagsráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -30,7 +30,8 @@ h2. Lög um vexti og verðtryggingu
  □ Þrátt fyrir ákvæði 3. mgr. er ætíð heimilt að reikna dráttarvexti frá og með þeim degi er dómsmál er höfðað um kröfu, sbr. þó 9. gr.
  ■ *6. gr.* Dráttarvextir skulu vera samtala gildandi vaxta algengustu skammtímalána Seðlabanka Íslands til lánastofnana (grunnur dráttarvaxta) auk [sjö hundraðshluta álags][^1)^] (vanefndaálag), nema um annað sé samið skv. 2. mgr. þessarar greinar. ...[^1)^] Seðlabankinn skal birta dráttarvexti samkvæmt þessari málsgrein eigi skemur en viku fyrir gildistökudaga dráttarvaxta sem eru [fyrsta dag hvers mánaðar].[^1)^]
  □ Heimilt er að semja um fastan hundraðshluta vanefndaálags ofan á grunn dráttarvaxta skv. 1. mgr., að undanskildum neytendalánum. Einnig er heimilt að semja um fastan hundraðshluta dráttarvaxta, að undanskildum neytendalánum.
-    _[^1)^]"L. 159/2008, 1. gr.":/altext/stjt/2008.159.html_
+ □ [Þrátt fyrir ákvæði 1. mgr. skulu dráttarvextir í verslunarviðskiptum milli fyrirtækja eða milli fyrirtækja og opinberra aðila samkvæmt lögum um greiðsludrátt í verslunarviðskiptum vera samtala gildandi vaxta algengustu skammtímalána Seðlabanka Íslands til lánastofnana (grunnur dráttarvaxta) auk átta hundraðshluta álags (vanefndaálag) nema samið sé um hærri dráttarvexti skv. 2. mgr.][^2)^]
+    _[^1)^]"L. 159/2008, 1. gr.":/altext/stjt/2008.159.html [^2)^]"L. 8/2015, 9. gr.":/altext/stjt/2015.008.html#G9_
  ■ *7. gr.* Ef atvik sem varða kröfuhafa og skuldara verður ekki um kennt valda því að greiðsla fer ekki fram skal ekki reikna dráttarvexti þann tíma sem greiðsludráttur verður af þessum sökum. Sama á við ef greiðsla fer ekki fram vegna þess að skuldari neytir vanefndaúrræða gagnvart kröfuhafa eða heldur af öðrum lögmætum ástæðum eftir greiðslu eða hluta hennar.
 
  *IV. kafli.* *Vextir af skaðabótakröfum.*
@@ -57,8 +58,10 @@ h2. Lög um vexti og verðtryggingu
     _[^1)^]"L. 126/2011, 322. gr.":/altext/stjt/2011.126.html [^2)^]Rgl. 492/2001, sbr. rgl. 278/2010 og rgl. 369/2010._
  ■ *16. gr.* Þegar skuldbindingum með ákvæðum um verðtryggingu er þinglýst skal þess gætt að verðtryggingarinnar sé getið í þinglýsingabókum og skulu þær koma fram á vottorðum þinglýsingarstjóra um efni þinglýsingabóka.
 
- *VII. kafli.* *Viðurlög og málsmeðferð.*
- ■ *17. gr.* Brot á VI. kafla laga þessara varða sektum nema þyngri refsing liggi við broti samkvæmt öðrum lögum.
+ *VII. kafli.* *[Eftirlit, viðurlög og málsmeðferð.][^1)^]*
+    _[^1)^]"L. 58/2015, 6. gr.":/altext/stjt/2015.058.html_
+ ■ *17. gr.* ...[^1)^]
+    _[^1)^]"L. 58/2015, 4. gr.":/altext/stjt/2015.058.html_
  ■ *18. gr.* [Ef samningsákvæði um vexti eða annað endurgjald fyrir lánveitingu eða umlíðun skuldar eða dráttarvexti teljast ógild skal peningakrafan bera vexti skv. 1. málsl. 4. gr., enda eigi önnur ákvæði þessarar greinar ekki við. Hið sama á við ef samningur kveður á um verðtryggingu skuldar samhliða vaxtaákvæðum, og annað tveggja er ógilt, og skulu þá bæði ákvæði samningsins um vexti og verðtryggingu fara eftir því sem kveðið er á um í 4. gr. og því sem greinir nánar í þessari grein.
  □ Sé lánssamningur til lengri tíma en fimm ára skal að loknu uppgjöri skv. 5. mgr. miða við lægstu vexti á nýjum almennum verðtryggðum útlánum hjá lánastofnunum sem Seðlabanki Íslands ákveður og birtir skv. 10. gr. Um verðtryggingu skal þá miða við vísitölu neysluverðs, sbr. 1. mgr. 14. gr., frá uppgjörsdegi. Afmörkun þeirra skuldbindinga sem falla undir þessa málsgrein skal vera í samræmi við skilyrði ákvæðis B-liðar "68. gr. laga um tekjuskatt, nr. 90/2003":2003090.html#G68. Ákvæði þessarar málsgreinar eru frávíkjanleg ef skuldari kýs að lánssamningur hans beri heldur vexti í samræmi við 4. gr. eða ef samið er um betri kjör honum til handa.
  □ Vexti samkvæmt ákvæðum 1. mgr. skal reikna frá og með stofndegi peningakröfu, nema samið verði um annað, sbr. 3. gr.
@@ -72,9 +75,16 @@ h2. Lög um vexti og verðtryggingu
  □ Ákvæði þessarar greinar um greiðslur úr hendi skuldara eiga, eftir því sem við á, við um greiðslur sem inntar hafa verið af hendi af öðrum aðilum fyrir skuldara, sem og ábyrgðarmönnum fjárskuldbindinga, og jafnframt greiðslur sem kröfuhafi hefur fengið vegna fullnustugerða. Sanni ábyrgðarmaður eða veðeigandi rétt sinn skulu greiðslur til þeirra ganga fyrir öðrum greiðslum til skuldara við uppgjör skv. 6. og 7. mgr.
  □ Ef ágreiningur um rétt til greiðslu rís innbyrðis á milli skuldara skv. 7. mgr. eða skuldara og þriðja manns skv. 8. mgr. skal kröfuhafi greiða uppgjörsfjárhæð inn á geymslureikning í samræmi við ákvæði "laga nr. 9/1978":1978009.html með þeim skilmálum að deiluaðilar sanni rétt sinn til greiðslunnar með gildu samkomulagi eða að fullnaðardómur hafi gengið um ágreining þeirra.][^1)^]
     _[^1)^]"L. 151/2010, 1. gr.":/altext/stjt/2010.151.html_
+ ■ *[19. gr.* Fjármálaeftirlitið hefur eftirlit með því að eftirlitsskyldir aðilar skv. 1. mgr. 2. gr. laga um opinbert eftirlit með fjármálastarfsemi fari að ákvæðum laga þessara og reglugerða og reglna settra samkvæmt þeim. Um eftirlitið fer samkvæmt ákvæðum laga um opinbert eftirlit með fjármálastarfsemi.][^1)^]
+    _[^1)^]"L. 58/2015, 5. gr.":/altext/stjt/2015.058.html_
+ ■ *[20. gr.* Það varðar sektum, nema þyngri refsing liggi við broti samkvæmt öðrum lögum, að brjóta gegn 14. gr. um heimild til að verðtryggja sparifé og lánsfé og reglum settum á grundvelli 15. gr.
+ □ Brot gegn lögum þessum og reglum settum á grundvelli þeirra varða sektum hvort sem þau eru framin af ásetningi eða gáleysi.
+ □ Gera má lögaðila sekt fyrir brot á lögum þessum og reglum settum á grundvelli þeirra óháð því hvort sök verði sönnuð á tiltekinn fyrirsvarsmann lögaðilans, starfsmann hans eða annan aðila sem starfar á hans vegum. Hafi fyrirsvarsmaður lögaðilans, starfsmaður hans eða annar á hans vegum með saknæmum hætti brotið gegn lögum þessum eða reglum settum á grundvelli þeirra í starfsemi lögaðilans má gera honum refsingu, auk þess að gera lögaðilanum sekt.][^1)^]
+    _[^1)^]"L. 58/2015, 5. gr.":/altext/stjt/2015.058.html_
 
  *VIII. kafli.* *Gildistaka.*
- ■ *19. gr.* Lög þessi öðlast gildi 1. júlí 2001. "...":http://www.althingi.is/altext/stjt/2001.038.html
+ ■ *[21. gr.][^1)^]* Lög þessi öðlast gildi 1. júlí 2001. "...":http://www.althingi.is/altext/stjt/2001.038.html
+    _[^1)^]"L. 58/2015, 5. gr.":/altext/stjt/2015.058.html_
 
  *Ákvæði til bráðabirgða.*
  ■ *I.* Nú segir í lánssamningi í íslenskum krónum, gerðum fyrir gildistöku laga þessara, að vextir fram að gjalddaga skuli vera breytilegir í samræmi við vegið meðaltal ársávöxtunar á nýjum almennum útlánum hjá viðskiptabönkum og sparisjóðum, meðalútlánsvexti viðskiptabanka og sparisjóða eða meðalútlánsvexti sem Seðlabanki Íslands birtir, eða vísað er með öðrum almennum hætti til vaxta á markaði, og skulu þá vextir af þessum peningakröfum, eftir gildistöku laganna, vera jafnháir vöxtum skv. 1. málsl. 4. gr. að viðbættum 3,5% þegar um óverðtryggða peningakröfu er að ræða og jafnháir vöxtum skv. 2. málsl. 4. gr. að viðbættum 2,5% þegar um verðtryggða peningakröfu er að ræða.

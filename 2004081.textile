@@ -7,7 +7,7 @@ h2. Jarðalög
 <hr />
 
 
- *Tóku gildi 1. júlí 2004.* _Breytt með_ "l. 68/2005":/altext/stjt/2005.068.html (tóku gildi 9. júní 2005), "l. 50/2006":/altext/stjt/2006.050.html (tóku gildi 1. júlí 2006), "l. 158/2006":/altext/stjt/2006.158.html (tóku gildi 1. jan. 2007), "l. 83/2008":/altext/stjt/2008.083.html (tóku gildi 1. jan. 2009 nema 22. gr. sem tók gildi 20. júní 2008), "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 77/2010":/altext/stjt/2010.077.html (tóku gildi 1. júlí 2010), "l. 123/2010":/altext/stjt/2010.123.html (tóku gildi 1. jan. 2011) og "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011).
+ *Tóku gildi 1. júlí 2004.* _Breytt með_ "l. 68/2005":/altext/stjt/2005.068.html (tóku gildi 9. júní 2005), "l. 50/2006":/altext/stjt/2006.050.html (tóku gildi 1. júlí 2006), "l. 158/2006":/altext/stjt/2006.158.html (tóku gildi 1. jan. 2007), "l. 83/2008":/altext/stjt/2008.083.html (tóku gildi 1. jan. 2009 nema 22. gr. sem tók gildi 20. júní 2008), "l. 88/2008":/altext/stjt/2008.088.html (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), "l. 77/2010":/altext/stjt/2010.077.html (tóku gildi 1. júlí 2010), "l. 123/2010":/altext/stjt/2010.123.html (tóku gildi 1. jan. 2011), "l. 126/2011":/altext/stjt/2011.126.html (tóku gildi 30. sept. 2011), "l. 22/2015":/altext/stjt/2015.022.html (tóku gildi 17. mars 2015) og "l. 29/2015":/altext/stjt/2015.029.html (tóku gildi 13. júní 2015).
 
  Ef í lögum þessum er getið um ráðherra eða ráðuneyti án þess að málefnasvið sé tilgreint sérstaklega eða til þess vísað, er átt við *sjávarútvegs- og landbúnaðarráðherra* eða *atvinnuvega- og nýsköpunarráðuneyti* sem fer með lög þessi. Upplýsingar um málefnasvið ráðuneyta skv. forsetaúrskurði er að finna "hér.":2013071.html
 
@@ -54,16 +54,17 @@ h2. Jarðalög
 
  *II. kafli.* *Landnotkun o.fl.*
  ■ *5. gr.* _Land í landbúnaðarnotum._
- □ Land sem við gildistöku þessara laga er nýtt eða nýtanlegt til landbúnaðar, þar með taldir afréttir, almenningar, þjóðlendur, eyðijarðir, landspildur og lóðir, má ekki taka til annarra nota, nema heimild sé til slíks í lögum, sbr. þó 6. og 7. gr.
+ □ [Land sem skipulagt er sem landbúnaðarsvæði eða land sem nýtanlegt er eða nýtt til landbúnaðar, þ.m.t. afréttir, og hvort heldur er þjóðlenda eða eignarland, má ekki taka til annarra nota, nema heimild sé til þess í lögum, sbr. þó 6. gr.][^1)^]
+    _[^1)^]"L. 29/2015, 1. gr.":/altext/stjt/2015.029.html_
  ■ *6. gr.* _Lausn úr landbúnaðarnotum._
- □ [Ráðherra][^1)^] getur veitt leyfi til að land sem er nýtt eða nýtanlegt til landbúnaðar verði leyst úr landbúnaðarnotum. Einnig getur [ráðherra][^1)^] veitt leyfi til að land sem leyst hefur verið úr landbúnaðarnotum verði aftur tekið til þeirra nota ef það er í samræmi við skipulagt land á viðkomandi svæði.
- □ Beiðni skv. 1. mgr. skal vera skrifleg og send [ráðuneytinu][^1)^] ásamt uppdrætti staðfestum af skipulagsyfirvöldum af því landi sem beiðni lýtur að, þinglýsingarvottorði og umsögn sveitarstjórnar.
- □ Leyfi [ráðherra][^1)^] ásamt uppdrætti staðfestum af skipulagsyfirvöldum skal þinglýst og öðlast það þá fyrst gildi.
-    _[^1)^]"L. 126/2011, 389. gr.":/altext/stjt/2011.126.html_
- ■ *7. gr.* _Skipulag._
- □ Þar sem í skipulagi er fyrirhugað að breyta landnotkun svæða sem nýtt hafa verið til landbúnaðar skal leyfi [ráðherra][^1)^] til að leysa landið úr landbúnaðarnotum liggja fyrir áður en viðkomandi skipulagsáætlun hlýtur endanlega afgreiðslu.
- □ Ef við gildistöku laga þessara er í gildi formleg skipulagsáætlun samkvæmt [skipulagslögum],[^2)^] þar sem gert er ráð fyrir annarri landnotkun en landbúnaði, gilda ákvæði 5. gr. ekki um nýtingu landsins.
-    _[^1)^]"L. 126/2011, 389. gr.":/altext/stjt/2011.126.html [^2)^]"L. 123/2010, 57. gr.":/altext/stjt/2010.123.html#G57_
+ □ [Breyting á notkun lands sem lög þessi gilda um fer eftir ákvæðum "skipulagslaga, nr. 123/2010":2010123.html, sbr. þó ákvæði 2. - 4. mgr.
+ □ Óheimilt er að breyta landnotkun á landbúnaðarsvæði sem er 5 hektarar eða stærra, nema leyfi ráðherra liggi fyrir. Við undirbúning á endurskoðun eða breytingu á aðalskipulagi, þegar breyta á landnotkun lands sem skipulagt er sem landbúnaðarsvæði, skal sveitarfélag óska skriflega eftir leyfi ráðherra áður en landnotkun er breytt með breytingu á skipulagi. Ef beiðni um breytingu á landnotkun varðar fleiri en eitt svæði, sem ber að skoða sem eina heild, skal miða við að landsvæðið í heild sé 5 hektarar eða stærra.
+ □ Óheimilt er að breyta landnotkun á landsvæði sem er minna en 5 hektarar og er gott ræktunarland, hentar vel til landbúnaðar eða vegna legu sinnar telst að öðru leyti mikilvægt vegna matvælaframleiðslu, nema leyfi ráðherra liggi fyrir. Sveitarfélag skal óska skriflega eftir leyfi ráðherra áður en landnotkun er breytt með breytingu á skipulagi.
+ □ Við mat sveitarfélaga á því hvort afla skuli leyfis ráðherra skv. 2. og 3. mgr. skal annars vegar taka mið af flokkun landbúnaðarlands í aðalskipulagi og hins vegar stefnu stjórnvalda um flokkun landbúnaðarlands. Liggi flokkun landbúnaðarlands ekki fyrir skal sveitarfélag óska eftir umsögn ráðunautar um viðkomandi land þar sem leggja skal mat á stærð lands, staðsetningu lands, ræktunarskilyrði, ræktun sem þegar er þar stunduð eða er fyrirhuguð og hvort breyting á landnotkun hafi áhrif á aðliggjandi landbúnaðarsvæði. Beiðni sveitarfélaga skal berast ráðherra skriflega, ásamt skipulagstillögu og nauðsynlegum gögnum.
+ □ Ráðherra skal taka afstöðu til beiðni um breytingu á landnotkun innan fjögurra vikna frá því að beiðni sveitarfélags ásamt nauðsynlegum gögnum barst ráðherra sannanlega.][^1)^]
+    _[^1)^]"L. 29/2015, 2. gr.":/altext/stjt/2015.029.html_
+ ■ *7. gr.* ...[^1)^]
+    _[^1)^]"L. 29/2015, 3. gr.":/altext/stjt/2015.029.html_
 
  *III. kafli.* *Aðilaskipti að jörðum, öðru landi o.fl.*
  ■ *8. gr.* _Hlunnindi._
@@ -114,9 +115,8 @@ h2. Jarðalög
  ■ *20. gr.* _Leyfi til stofnunar lögbýlis._
  □ Leyfi [ráðherra][^1)^] til stofnunar lögbýlis skal vera skriflegt og skulu þar koma fram upplýsingar um nöfn, kennitölur og heimilisföng stofnenda lögbýlis, nafn jarðar sem lögbýli er stofnað á eða úr, sveitarfélag og lögsagnarumdæmi, starfsemi sem fyrirhuguð er á lögbýlinu og önnur atriði sem [ráðherra][^1)^] ákveður að þar skuli koma fram.
     _[^1)^]"L. 126/2011, 389. gr.":/altext/stjt/2011.126.html_
- ■ *21. gr.* _Heiti lögbýlis._
- □ Þegar leyfi [ráðherra][^1)^] til stofnunar lögbýlis hefur verið gefið út skal leyfishafi leita eftir samþykki örnefnanefndar fyrir heiti lögbýlisins í samræmi við ákvæði "laga nr. 35/1953":1953035.html, um bæjanöfn o.fl.
-    _[^1)^]"L. 126/2011, 389. gr.":/altext/stjt/2011.126.html_
+ ■ *21. gr.* ...[^1)^]
+    _[^1)^]"L. 22/2015, 11. gr.":/altext/stjt/2015.022.html#G11_
  ■ *22. gr.* _Þinglýsing._
  □ Leyfi til að stofna lögbýli skal þinglýst og öðlast það þá fyrst gildi.
  ■ *23. gr.* _Niðurfelling lögbýlisréttar._
@@ -175,17 +175,26 @@ h2. Jarðalög
  ■ *35. gr.* _Sala til sveitarfélaga._
  □ Heimilt er að selja ríkisjarðir eða hluta þeirra þeim sveitarfélögum sem jarðirnar eru í og einnig stofnunum og fyrirtækjum þeirra.
  ■ *36. gr.* _Sala til ábúenda._
- □ Ábúendur ríkisjarða og jarða í eigu opinberra stofnana og sjóða sem hafa fengið erfða- eða lífstíðarábúð á jörðum sínum eiga rétt á að fá ábúðarjarðir sínar keyptar, nema ákvæði gjafabréfa og skipulagsskráa mæli gegn því, ef þeir fullnægja eftirtöldum skilyrðum:
+ □ [Ábúendur ríkisjarða og jarða í eigu opinberra stofnana og sjóða eiga rétt á að fá ábúðarjarðir sínar keyptar, nema ákvæði gjafabréfa og skipulagsskráa mæli gegn því, ef þeir fullnægja eftirtöldum skilyrðum:
     1. Að ábúandi hafi haft ábúð á jörðinni í a.m.k. sjö ár.
-    2. Að ábúandi leggi fram yfirlýsingu hlutaðeigandi sveitarstjórnar um að hann hafi setið jörðina vel og að sveitarstjórn mæli með því að hann fái jörðina keypta. Í yfirlýsingu sveitarstjórnar skulu koma fram upplýsingar um hvort ábúandi hafi lögheimili og búi á jörðinni, hvaða starfsemi sé á jörðinni, hvert sé ástand mannvirkja, hvernig jörðin hefur verið setin og önnur atriði sem sveitarfélög óska eftir að taka fram. Umsögn sveitarstjórnar skal byggð á framangreindum atriðum.
- □ Ákvæði 1. mgr. gildir ekki um ríkisjarðir sem ekki eru nýttar til landbúnaðarstarfsemi og heldur ekki jarðir sem 39. gr. gildir um.
+    2. Að ábúandi nýti sjálfur land jarðarinnar til ræktunar og beitar og hafi rekið þar búvöruframleiðslu síðastliðin sjö ár sem að umfangi nemi a.m.k. [^1^]/3 af meðalbúi í viðkomandi búgrein og er líkleg til að framfæra ábúanda til sambærilegs lífsviðurværis. Við athugun á skilyrðum kaupréttar er ráðuneytinu heimilt að óska þess að ábúandi leggi fram upplýsingar sem tengjast búrekstri hans, t.d. úr forðagæsluskýrslum og skattframtölum.
+    3. Að ábúandi leggi fram yfirlýsingu hlutaðeigandi sveitarstjórnar um að hann hafi setið jörðina vel og að sveitarstjórn mæli með því að hann fái jörðina keypta. Í yfirlýsingu sveitarstjórnar skulu koma fram upplýsingar um hvort ábúandi eigi þar lögheimili og búi á jörðinni, hvaða starfsemi sé á jörðinni, hvert sé ástand mannvirkja, hvernig jörðin hefur verið setin og önnur atriði sem sveitarfélög óska eftir að taka fram. Umsögn sveitarstjórnar skal byggð á framangreindum atriðum.
+ □ Sé landbúnaði hætt á ábýlisjörð sem fellur undir þessa grein hefur ábúandinn tvö ár til að óska eftir kaupum á jörðinni áður en kaupréttur hans fellur niður.
+ □ Ákvæði 1. mgr. gildir ekki um ríkisjarðir sem eru ekki nýttar til landbúnaðarstarfsemi og ekki heldur jarðir sem 39. gr. gildir um.][^1)^]
+    _[^1)^]"L. 29/2015, 4. gr.":/altext/stjt/2015.029.html, sbr. og brbákv. s.l._
+ ■ *[36. gr. a.* _Sala á uppgræddu landi._
+ □ Hafi Landgræðsla ríkisins (áður Sandgræðsla Íslands) tekið land eignarnámi til uppgræðslu á grundvelli "7. gr. laga nr. 17/1965":1965017.html#G7, um landgræðslu, eða eldri "laga, nr. 18/1941":/altext/stjtnr.html#1941018 eða nr. 45/1923, eða landi verið afsalað til stofnunarinnar í sama tilgangi hefur eigandi þeirrar jarðar sem viðkomandi land tilheyrði áður rétt til að kaupa það án almennrar auglýsingar enda sé landið nægilega vel gróið að mati landgræðslustjóra, sbr. 12. gr. laga um landgræðslu. Kaupréttur er bundinn því skilyrði að landið sé tekið til landbúnaðarnota og notkun landsins verði ekki breytt næstu tíu ár.
+ □ Kaupréttur er einnig bundinn því skilyrði að greind jörð, sem landið fylgdi áður, hafi verið setin í samræmi við 1. og 2. tölul. 1. mgr. 36. gr. og að ábúandi eða eigandi, ef annar er en ábúandi, leggi fram yfirlýsingu skv. 3. tölul. sömu málsgreinar.
+ □ Land skv. 1. mgr. má ekki selja sé það að hluta til eða að öllu leyti náttúruverndarsvæði skv. 8. tölul. 3. gr. laga um náttúruvernd.][^1)^]
+    _[^1)^]"L. 29/2015, 5. gr.":/altext/stjt/2015.029.html_
  ■ *37. gr.* _Söluverð._
- □ Söluverð ríkisjarða sem seldar eru skv. 35. og 36. gr. skal metið af matsaðilum sem [ráðuneytið][^1)^] kveður til og greiðir ráðuneytið af því kostnað. Mat á söluverði skal taka mið af skipulagsforsendum og afskrifuðu nývirði ræktunar, fasteigna og annarra matsþátta. Kaupendum er einnig heimilt að óska eftir að söluverðið verði metið af dómkvöddum matsmönnum og skulu kaupendur þá sjálfir greiða fyrir undirmat en yfirmat greiðir sá sem óskar þess. Mat á söluverði ríkisjarða skal ná til jarðar, hlunninda, mannvirkja, ræktunar og greiðslumarks. Greiðslumark ríkisjarða sem seldar eru ábúendum skv. 36. gr. skal þó ekki metið sérstaklega til verðs. Ef jörðum sem ábúendur hafa keypt er ráðstafað til annarrar starfsemi en landbúnaðar eða ef greiðslumark er selt frá jörðunum innan tíu ára frá sölu skulu kaupendur endurgreiða ríkissjóði andvirði greiðslumarksins á verði sem skal miðað við markaðsverð greiðslumarks á þeim tíma þegar endurgreiðsla fer fram en að teknu tilliti til jafnra, árlegra fyrninga sem skulu vera 10% á ári. Þessari kvöð skal þinglýst á jörðina.
-    _[^1)^]"L. 126/2011, 389. gr.":/altext/stjt/2011.126.html_
+ □ Söluverð ríkisjarða sem seldar eru skv. ...[^1)^] 36. gr. skal metið af matsaðilum sem [ráðuneytið][^2)^] kveður til og greiðir ráðuneytið af því kostnað. [Verðmatið skal taka mið af sambærilegum jörðum á svipuðu landsvæði.][^1)^] Kaupendum er einnig heimilt að óska eftir að söluverðið verði metið af dómkvöddum matsmönnum og skulu kaupendur þá sjálfir greiða fyrir undirmat en yfirmat greiðir sá sem óskar þess. Mat á söluverði ríkisjarða skal ná til jarðar, hlunninda, mannvirkja, ræktunar og greiðslumarks. Greiðslumark ríkisjarða sem seldar eru ábúendum skv. 36. gr. skal þó ekki metið sérstaklega til verðs. Ef jörðum sem ábúendur hafa keypt er ráðstafað til annarrar starfsemi en landbúnaðar eða ef greiðslumark er selt frá jörðunum innan tíu ára frá sölu skulu kaupendur endurgreiða ríkissjóði andvirði greiðslumarksins á verði sem skal miðað við markaðsverð greiðslumarks á þeim tíma þegar endurgreiðsla fer fram en að teknu tilliti til jafnra, árlegra fyrninga sem skulu vera 10% á ári. Þessari kvöð skal þinglýst á jörðina.
+ □ [Söluverð lands skv. 36. gr. a skal byggjast á samkomulagi þar sem m.a. skal höfð hliðsjón af því gjaldi sem kom fyrir landið við afsal eða eignarnám og hverju Landgræðsla ríkisins (Sandgræðsla Íslands) hefur kostað til við uppgræðslu þess. Rísi ágreiningur um söluverð skv. 1. málsl. skal vísa honum til úttektarmanna skv. "39. gr. ábúðarlaga, nr. 80/2004":2004080.html#G39, til endanlegs úrskurðar og skulu þeir við matið leggja viðmið 1. málsl. til grundvallar.][^1)^]
+    _[^1)^]"L. 29/2015, 6. gr.":/altext/stjt/2015.029.html [^2)^]"L. 126/2011, 389. gr.":/altext/stjt/2011.126.html_
  ■ *38. gr.* _Auglýsingaskylda við sölu ríkisjarða._
  □ Ríkisjarðir sem fyrirhugað er að selja, aðrar en þær sem ákvæði 35. og 36. gr. gilda um, skal auglýsa til sölu með opinberri auglýsingu og skal leitað eftir kauptilboðum í þær í samræmi við gildandi löggjöf og stjórnvaldsreglur um sölu á eignum ríkisins á hverjum tíma. Kaupverð skal að jafnaði vera hagkvæmasta tilboð með tilliti til verðs og greiðsluskilmála en alltaf er heimilt að hafna öllum innsendum tilboðum.
- □ Ákvæði 1. mgr. gildir ekki um sölu á ríkisjörðum eða jarðahlutum til aðila sem reka þar starfsemi á sviði landbúnaðar eða aðra atvinnustarfsemi ef hagsmunir sveitarfélags krefjast þess að viðkomandi jarðir eða jarðahlutar verði seldir þeim aðilum.
- □ Ákvæði 1. mgr. gildir ekki um sölu á ríkisjörðum og jarðahlutum til annarra einstaklinga eða lögaðila en kveðið er á um í 35. og 36. gr. hafi þeir haft landið á leigu í a.m.k. 20 ár og á eigin kostnað lagt í verulegar ræktunarframkvæmdir á þeim og þannig aukið verðmæti landsins umtalsvert.
+ □ ...[^1)^]
+    _[^1)^]"L. 29/2015, 7. gr.":/altext/stjt/2015.029.html_
  ■ *39. gr.* _Ríkisjarðir sem ekki skal selja._
  □ Ríkisjarðir sem þörf er á að ráðstafa til opinberra nota skal ekki selja og heldur ekki jarðir sem nauðsynlegt þykir með tilliti til almannahagsmuna eða ákvarðana Alþingis eða stjórnvalda að séu eign íslenska ríkisins eða einstakra stofnana þess.
  □ Við ákvörðun skv. 1. mgr. skal [ráðuneytið][^1)^] leita umsagnar viðkomandi fagstofnana ríkisins eftir því sem við á.
